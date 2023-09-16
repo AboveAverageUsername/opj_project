@@ -1,0 +1,662 @@
+{25}{175}ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+{418}{789}Toho Co. LTD.  JAPAN MCMLVI
+{816}{986}SAMURAI Ill
+{1003}{1257}OBRAÈUN NA|OSTRVU GANRYU
+{1275}{1399}Producent|Kazuo Takimura
+{1409}{1518}Hideji Hojo, adaptacija novele|"Musashi" Eijia Yoshikawe
+{1522}{1644}Scenario|Tokuhei Wakao i Hiroshi lnagaki
+{1674}{1734}Direktor fotografije|Kazuo Yamada
+{1739}{1839}Scenografija|Hiroshi Ueda i Kisaku lto
+{1843}{1938}Svetlo|Tsuruzo Nishikawa
+{1943}{2018}Muzika|lkuma Dan
+{2023}{2094}Zvuk|Masanobu Miyazaki
+{2124}{2193}Uloge
+{2198}{2335}Musashi Miyamoto - Toshiro Mifune|Kojiro Sasaki - Koji Tsuruta
+{2352}{2506}Otsu - Kaoru Yachigusa|Akemi - Mariko Okada|Omitsu - Michiko Saga
+{2539}{2696}Court Official - Takashi Shimura
+{3618}{3800}Režija|Hiroshi lnagaki
+{3948}{4056}Mladi Kojiro Sasaki je rešen|da pobedi u nadmetanju...
+{4060}{4174}...sa Musashi Miyamotom, njegovim|rivalom u ljubavi i maèevalaštvu...
+{4178}{4306}...i postane najbolji borac u Japanu.
+{4597}{4669}Moj maèu, praher li si...
+{4706}{4813}Tvoj vlasnik, takav maèevalac,|je još uvek nepriznat.
+{4818}{4931}Uprkos njegovoj veštini...
+{5012}{5126}...san još nije ostvaren!
+{5228}{5269}Slepe budale!
+{5773}{5837}Jadna lasta.
+{5895}{5975}Ne može svako to da uradi.
+{6001}{6117}"Lastin okret" zamah.|Tako æu ubiti Musashija.
+{6147}{6216}Zašto se moraš boriti s njim?
+{6255}{6294}Moj davni san...
+{6338}{6504}On nema ništa protiv tebe.|Zašto ga moraš ubiti?
+{6509}{6544}Reci mi!
+{6702}{6764}Ti si ðavo!
+{6818}{6919}Zašto se uznemiravaš njim?
+{6923}{7012}Molim te.|Oprosti mu.
+{7016}{7173}Više ga neæu pomenuti.|Molim te -Zavaravaš se!
+{7194}{7280}Ne jurim ga zbog tebe.
+{7307}{7466}Dobar je. Jedini mi je oponent|u ovoj zemlji, danas.
+{7520}{7680}San mi je da se borim protiv njega.|Verovatno je i njegov.
+{7797}{7884}Akemi, stani!|-Neæu.
+{7906}{8022}plašiš me.|Užasavaš me.
+{8026}{8075}Tražiš Musashija?
+{8121}{8281}Idi, onda.|Ako ga vidiš...
+{8285}{8441}...reci mu da ne rizikuje|život pre naše borbe
+{8948}{9006}Mu-sa-shi!
+{9355}{9449}Drevni grad Nara
+{9748}{9838}Turnir Borilaèkih Veština|Sveštenika Hozon Hrama
+{10441}{10494}Ko je sledeæi?
+{10523}{10568}Hajde!
+{10765}{10896}Ti?|-Ne, dalje.
+{11057}{11172}Ako niko ne istupi,|ja odoh!
+{11177}{11319}Proglasiæu se za|današnjeg pobednika!
+{11324}{11372}Primedbe?
+{11414}{11469}Govorite!
+{11509}{11601}Napadnite grupno.
+{11644}{11684}Niko?
+{11875}{11972}Bez protivnika?|Dakle...
+{12166}{12199}Idemo.
+{12265}{12422}Èekaj!|-Stani, dete!
+{12512}{12666}Dopada mi se tvoj duh.|Napao si me smelo.
+{12670}{12744}Izazvao si.
+{12764}{12852}Borba sa tobom?|-Ne možeš?
+{12940}{13073}Zašto si onda to rekao?
+{13100}{13217}On je samo dete.|Oprosti mu.
+{13224}{13318}Ko si ti?|-Njegov pratilac.
+{13329}{13458}Ti si ga ohrabrio?|-Ne, moja je ideja.
+{13463}{13550}Onda æeš se briti sa mnom.
+{13554}{13619}Možete napasti zajedno,|ako želite.
+{13689}{13772}Molim te.|-Neæu mu oprostiti.
+{13941}{14064}Isprièavam se za njega.|-Ne!
+{14069}{14139}Javno sam uvreðen.
+{14144}{14262}Neæu to dozvoliti.
+{15418}{15468}Budalo!
+{15502}{15567}Budala sa nagradom!
+{15597}{15724}Agone, stani!|-Ne!
+{15777}{15815}Stani!
+{15856}{15969}Nisi mu dorastao.
+{15974}{16115}On je bez premca.|Nije izgubio 60 meèeva.
+{16119}{16244}Stani!|-Musashi?
+{16432}{16496}Ovo nije borba.
+{16510}{16678}Pobednik turnira je sveštenik Agon!
+{16898}{17033}Setio sam se starog|tebe u popu Agonu.
+{17061}{17148}Divim se tvojoj perfekciji.
+{17152}{17258}Sama snaga ne èini|uspešnog samuraja.
+{17272}{17457}Mora diti jak. Istovremeno,|mora biti pravedan.
+{17497}{17600}Hoæu da sam sposoban da|se borim bez sažaljenja.
+{17612}{17726}Moje prošle bitke|su bile pune toga.
+{17753}{17872}Lutanje ima svoj smisao.
+{17878}{17978}Tvoja patnja æe te izvajati.
+{17983}{18059}Dobro se oseæam veèeras.
+{18129}{18211}Jesi li se ikada zaljubio?
+{18253}{18380}Znam osobu koja|žudi za tobom.
+{18384}{18454}Hoæeš da je upoznaš?
+{18533}{18626}Dakle, nosiš nekoga u srcu.
+{18646}{18794}Ne brini.|Mislio sam na muškarca.
+{18799}{18926}Muškarac, žudi za...?|-Da, za muškarcem.
+{18931}{19113}Osim toga, nije te|ni jednom video, pazi
+{19118}{19240}Ko je on?|-Lord Yagyu.
+{19244}{19333}Šta? Uèitelj|Lorda Shoguna?
+{19338}{19457}Zašto ne odeš u Edo i vidiš Yagya?
+{19870}{20030}Donosiš pismo od Lorda|Karasumarua? Shvatam.
+{20125}{20242}Dakle, ime ti je Otsu.
+{20311}{20415}Interesuje te|Musashi Miyamoto?
+{20442}{20594}Da, Vaša Svetosti.|Tražim ga.
+{20599}{20652}Prekasno.
+{20691}{20848}Bio je ovde do jutros.|-Bio je?
+{20852}{20965}Ali, otišao je za Edo.
+{21147}{21253}Stani, ne prati ga.
+{21260}{21426}Moram ga videti.|-Shvatam, stalo tije do njega.
+{21929}{22102}Grad Edo je postao|najnaseljeniji u Japanu.
+{22154}{22252}Bio je politièko i vojno|sedište Shoguna.
+{22257}{22337}Njegovi kapetani su tu imali vile...
+{22341}{22427}...da bi ga služili i regrutovali vojsku.
+{22432}{22514}Mnogi ambiciozni samurai|su tražili posao...
+{22519}{22633}...dolaskomu ovaj grad,|sa velikim nadama.
+{23095}{23204}Ja sam Okaya.|-Momenat.
+{23257}{23344}Èemu pokriveno koplje?
+{23366}{23471}Ne brini, neæeš me povrediti.
+{23494}{23543}Skini to.
+{23673}{23789}
+{23966}{24126}Sada kad je otkriveno,|koristi tvoj maè.
+{24130}{24247}Ne. Ovo je dovoljno.|-Neæu se ovako boriti.
+{24252}{24385}U redu je.|-Koristi svoj maè.
+{24419}{24496}Ja sam samo nezaposlen samurai.
+{24501}{24657}Upotreba maèa bi|uvredila njegovu Visost.
+{24664}{24855}Pun samopouzdanja, ser.|-Okaya, neka bude po njegovom.
+{26369}{26425}Preterao je.
+{26455}{26537}Posramljen sam.
+{26619}{26701}Da li je audicija dobro prošla?
+{26710}{26844}Pa...|plašim se da nije.
+{26849}{26975}Zašto? Sa tvojim sposobnostima?|-Istina je.
+{26994}{27170}Moj oponent nije bio jak.|Trebao sam biti blaži.
+{27193}{27283}Pobedio si?|-Jesam.
+{27312}{27445}Doduše, preživeæe.|Kao bogalj.
+{27514}{27620}Niko neæe zaposliti onoga ko|ubogalji njegovog vazala.
+{27693}{27857}Preterao sam. -Sviða mi se.|Uvek si skroz ozbiljan.
+{27925}{28078}Mislim da nisam pogrešio.|Ali, ljudi se ne slažu.
+{28276}{28319}Zašto to radiš?
+{28531}{28646}I dalje me voliš, iako sam|pocepao tvoj poklon?
+{28665}{28730}Isto sam danas uradio.
+{28830}{28890}Ostaæu nezaposlen.
+{29045}{29253}Dopada mi se. Sviða mi se|tvoj jednostavan karakter.
+{29318}{29365}omitsu.
+{29500}{29560}Beži sa mnom.
+{29578}{29678}Volim te.|-Molim te1
+{29683}{29766}Zar ne želiš slobodu?
+{29787}{29916}Zar me ne voliš?|Ako me voliš, beži sa mnom.
+{29929}{30000}Napuštam Edo.
+{30574}{30645}Kuda ideš?
+{30827}{30986}Ta mladež danas!|Nestrpljivost!
+{30990}{31057}U zabludi!|-Molim te.
+{31090}{31238}Ne tnaš koliko ga je|zabrinuo današnji meè.
+{31243}{31361}Rekao ti je to?|-Ne, oèe.
+{31394}{31501}Samo...|oseæam to.
+{31680}{31810}Bolno, Okaya?|-Jeste.
+{31846}{31936}Imao sam sreæe...
+{31940}{32005}...da nisam...
+{32010}{32053}...maè.
+{32078}{32297}Mnogo mi je žao, veruj mi.|-Nisam ti bio dostojan protivnik.
+{32301}{32435}Može mi bit žao,|ali moja je krivica.
+{32496}{32585}Dobio si posao?
+{32614}{32699}Èuvaj se dobro.
+{33167}{33245}Mislio sam da je arogantan.
+{33265}{33421}Ali, dobar je.|Nisam to znao.
+{33560}{33689}Kojiro podetio Okaya?|-Okaya mi reèe tako, ser.
+{33693}{33866}Kakve susugestije? -Ako je|zaista mislio da uteši Okayu...
+{33870}{33967}...mora da ima liènost.|Ja sam za to da ga zaposlimo.
+{33971}{34049}Ko je bolji, tvoj|Musashi ili on?
+{34054}{34245}Èuo sam da je Musashi nenadmašiv|maèevalac. -Moram videti Musashija.
+{34310}{34448}Pokušaj da mi ga pronaðeš.|-A Kojiro?
+{34486}{34535}Razmisliæu.
+{34990}{35156}Hej, mali! Tvoj gazda veæ|danima delje figurice.
+{35161}{35289}Prekinuo maèevanje? On je maèevalac?|-Nije tvoja stvar!
+{35568}{35627}Gazda, ovo nazivaš hotelom?
+{36316}{36477}Uèitelju. Kada æeš se videti|sa Shogunovim uèiteljem?
+{36498}{36658}Neæu. -Zaista? Gde je pismo|koje ti je dao onaj monah?
+{36670}{36779}Bacio sam ga.|-Nisi trebao!
+{36795}{36910}Lord Yagyu te je možda|preporuèio Shogunu.
+{36928}{37027}Gadišmi se.|-Zašto?
+{37036}{37159}Ako ti uspeš|u životu, i ja æu.
+{37186}{37356}Jotaro, to je razlog|što me pratiš?
+{37486}{37567}Ali, zašto ostati ovde, onda?
+{37603}{37690}Èekaš nju?|-Koga?
+{37694}{37778}Otsu.|-Budalo!
+{37783}{37904}Znam da želišda je vidiš.|Siguran sam.
+{37937}{38086}Naravno. Vidi.|To je njeno lice.
+{38952}{39021}Molim te.|Milost.
+{39076}{39140}Zašto?|-Ne.
+{39185}{39227}Nemoj.
+{39283}{39349}Ne možeš.
+{40282}{40423}Da, želim da je vidim.|Ali ona æe odbiti mene da vidi.
+{40457}{40494}Zašto?
+{40545}{40625}Sramotno sam se|poneo prema njoj.
+{41030}{41201}Èetiri prema jedan.|-A on dobija.
+{42000}{42126}Kakva veština!|gde je on?
+{42131}{42245}ostavio je poruku.
+{42339}{42493}"Èetvorica su studenti|Obana Škole Strategije.
+{42497}{42657}Odgovoran za ovo je|Kojiro Sasaki iz lsaraga."
+{42795}{42855}Zahvaljujem na...
+{42926}{42986}..dobrom delu.
+{43029}{43220}Inaèe, Myamoto,|tela koja si doneo...
+{43225}{43342}...nemaju veze sa mojom školom.
+{43347}{43520}Ali, èuo sam da su potegli|kada te je ogovarao.
+{43524}{43698}Molim te. Niko od mojih|studenata nije tako slab.
+{43703}{43798}Kažeš da sam umešan, onda?
+{43806}{44019}Miyamoto, ja uèim Shogune.|Moja familija je èasna.
+{44039}{44208}Mojih 1200 studenata|su dokazani ljudi.
+{44277}{44458}Shvatam. Oprosti mojoj grubosti,|što sam doneo leševe.
+{44740}{44785}Dozvoli da poðem.
+{44822}{44979}Professor Obana reèe|da nisu njegovi ljudi.
+{44984}{45097}Ne vreðaj se.|Molimo te, predaj ih nama.
+{45101}{45223}Neæu. Mrtvima se to neæe svideti.
+{45249}{45411}Sreæom, snam nekoliko sutri.|Sahraniæu ih.
+{45430}{45492}Danas sam nauèio lekciju.
+{45918}{46052}"Ovde leže èetiri| nepoznata samuraja."
+{47927}{47968}Dakle, to si ti.
+{48011}{48079}Mislio sam da je jedan od njih.
+{48173}{48277}Hvala na pomoæi lane.
+{48324}{48472}Borio si se sjajno.|Video sam to.
+{48491}{48611}Danas sam saznao za tvoje|sposobnosti, po prvi put.
+{48744}{48916}Ona èetvorica. po jedan zamah.|-Pokušao si?
+{49073}{49172}Dete.|Idi, prošetaj malo.
+{49203}{49267}Budi smiren, ma šta video.
+{49564}{49698}Uvek sam hteo da te sretnem.
+{49795}{49866}Stani.|-Plašiš se?
+{49870}{49953}Ne. Odloži ovo.
+{50005}{50130}Neko drugo mesto.|Ako se borim ovde...
+{50135}{50229}...mogu da kažu da sam|se borio za Obanu.
+{50268}{50342}Što nije istina.
+{50354}{50500}Da sredimo to kako valja,|i slobodno se borimo.
+{50620}{50759}U pravu si.|Sutra uveèe...
+{50763}{50896}Biæu kod Istoène Kapije.|Može? -Vrlo dobro.
+{52453}{52610}Izbegavala si me.|Plašiš me se -Ne.
+{52645}{52757}Kakogod, neæu te izvrdati.
+{52847}{52927}Misliš da se šalim.
+{52970}{53016}Pomislio si.
+{53089}{53222}Baš si draga.|Pomislio sam.
+{53227}{53324}Ali, predomislio sam se.|-Zašto?
+{53329}{53381}Saznaæeš sutra uveèe.
+{53401}{53562}Uèiniæu, ili umreti!|Ionako me neæeš videti.
+{53861}{53983}Ako pobedim,|potražiæu veæu sreæu.
+{54030}{54180}Ako izgubim...|biæumrtav.
+{54222}{54464}U oba sluèaja, seæaæeš me se|kao tvog ljubavnika.
+{54681}{54735}Njegovo Velièanstvo.
+{55283}{55436}Šta je bilo?|-Pa, bilo mu je drago.
+{55441}{55536}Hoæe da unajmi Kojira|kao svog uèitelja.
+{55592}{55721}Kojiro je napravio veliku stvar.|Gde je on?
+{55726}{55781}Dovešæu ga.
+{55928}{56034}Vratio si se?|-Donosim dobre vesti!
+{56362}{56487}Moj gospodar je èuo za tebe|i Obana studente.
+{56492}{56682}Molim te. Bili su slabiæi.|Nisu mi dali na važnosti.
+{56686}{56845}Kakogod, njiho gospodar|je uèitelj Lorda Shoguna.
+{56855}{57000}Osveta æe biti tražena.|-Boriæu se.
+{57005}{57153}Saslušaj me. Pun si|mladalaèkog gneva.
+{57159}{57340}Gospodar je rekao "Takav|animozitet mora biti zaustavljen."
+{57344}{57481}Iznenada je odluèio da|te unajmi kao plaæenika.
+{57525}{57640}Dakle? Ako postaneš|uèitelj Lorda Hosokawe...
+{57645}{57765}...neæe se usuditi da te napadnu.|-Odbijam.
+{57791}{57926}Ne volim traženje zaštite.|-Ne budi smešan.
+{57955}{58146}Ako te izazovu, bori se|kao uèitelj Lorda Hosokawe.
+{58151}{58265}Ne lièi to na tebe.|Još nešto.
+{58269}{58372}Glavni Najamnik Sado je|predložio Musashija.
+{58427}{58549}Musashi?|-Traže ga bez buke.
+{58566}{58677}Moramo odluèiti pre|nego ga naðu.
+{58682}{58805}Preuzimanje inicijative|nekad dobro doðe.
+{58810}{58949}Slušaj. Sutra imam|duel sa Musashijem.
+{58953}{59083}Šta? Sa njim?|-Tvojim brigama je kraj.
+{59248}{59318}Njegov san je veliki.
+{60073}{60114}Kakva buka!
+{60218}{60280}Hej, tiše malo!
+{60386}{60423}Hvala.
+{60749}{60901}Utišali su se.|Ubedljiv si -Naravno!
+{61181}{61222}Izvini me.
+{61476}{61590}Samuraju!|Prekini s jelom.
+{61619}{61798}Priznaj da se plašiš. Ne glumi|da si smirena srca.
+{61891}{61919}Stani!
+{61973}{62074}Ko si ti?|-Ne znaš me?
+{62092}{62264}Oni koji me neznaju,|mora da su gluvi.
+{62304}{62422}Prièaj glasnije, jer|i ja sam slabog sluha.
+{62431}{62502}Ko?|-Uæuti!
+{62541}{62679}Kumagoro, trgovac konjima,|gadan sam tip.
+{62684}{62823}Kad kažem gadan, to i mislim.|-Trgovac konjima, a?
+{62828}{62981}Ja trgujem sa samurajima.|Žive konje, ako te interesuje.
+{62986}{63119}Pa šta?|-Poslao si ovog malog...
+{63123}{63248}...da me utiša, zar ne?
+{63252}{63435}Glasan sam. A ti nisi|vlasnik ove krème, zar ne?
+{63483}{63568}Pa šta?|-Izvini se.
+{63579}{63696}Napiši izvinjenje|adresirano na sve nas.
+{63701}{63837}Ili æu te izvuæi u|dvorište i kazniti.
+{63871}{63989}Zabavno.|Veoma interesantno.
+{63993}{64127}Jašta! Èuo si me!|Odgovaraj sada!
+{64132}{64236}Odgovaraj odmah, ili...!
+{64397}{64494}Šta æe biti?
+{65620}{65719}Mnogo.|Operi ove motke.
+{66100}{66142}On je opasan!
+{66671}{66775}Trening ili osveta?
+{66780}{66920}Njegov sam uèenik sada.|Musashi Miyamoto! Nije èudo!
+{66972}{67063}Sišao si s uma?|-Neravno ne!
+{67170}{67275}Trgovèe konjima.|Reèe li, Musashi?
+{67398}{67456}Živi li ovde?
+{67615}{67702}Sada te potpuno razumem.
+{67749}{67835}Neæu ti naturati moje ideje.
+{67852}{68017}Dakako, da li bi bio dobar|da posetiš mog Gospodara?
+{68073}{68226}Ali, imam zakazan duel veèeras.|-Duel?
+{68234}{68379}Biæe to nezaboravan meè.|-Ko je tvoj èovek?
+{68388}{68456}Kojiro Sasaki.|-Sasaki?
+{68519}{68565}Ozbiljan si?
+{68594}{68833}Èujem da njega možda|zaposli moj Gospodar.
+{68837}{68893}Šta?|Je li kojiro...
+{68906}{69049}Miyamoto,|ako pobediš...
+{69059}{69198}...molim da prihvatiš moju ponudu.
+{69460}{69517}Moraš li se boriti?
+{70791}{70880}Hej, mali!|Gde je Musashi?
+{71255}{71373}"Odluèio sam da poðem na put.
+{71382}{71531}Dozvoli da odgodim zakazan|meè na godinu dana.
+{71548}{71693}Kada se ponovo sretnemo,|biæu sasvim spreman...
+{71697}{71839}...da se nadmeæem s tobom.|Pozdrav."
+{72596}{72720}Zašto plaèeš?|-Ne dopada mi se to.
+{72733}{72832}Taj Kojiro kao|Hosokawin uèitelj!
+{72876}{72971}Sanjao sam o svetskom uspehu nekada.
+{72987}{73115}Mislio sam da je prirodno skuæiti se.
+{73130}{73215}Ali sada, želim još sebe da treniram.
+{74222}{74397}Jotaro, gladan sam.|Hajde da jedemo.
+{74430}{74570}Kuma.|Stariji sam od tevbe, zar ne?
+{74588}{74697}Zovi me Uèitelju Jotaro.
+{74742}{74885}Nego... Uèitelju Jotaro.|-Šta je?
+{74901}{75003}Èovek treba da je blag|prema mlaðim uèenicima.
+{75008}{75150}Hajde da jedemo.|Hoæemo li?
+{76134}{76231}Pusti uzde.|Ili gaðamo.
+{76392}{76457}Predaj maèeve.
+{76828}{76868}Odstupi.
+{77841}{78007}Kako ste došli do ovde?|-Sreli smo razbojnike.
+{78011}{78139}Ništa se nije desilo?|-Osvojili smo konja.
+{78230}{78395}Èesto se pojavljuju?|-I više od toga. Uništavaju nas.
+{78400}{78537}Kradu nam useve,|kradu nam žene.
+{78542}{78624}U njihovoj smo milosti.
+{78629}{78739}Mnogi su napustili selo|zbog sigurnosti.
+{78743}{78883}Zamisli. Osvojiše konja!|Nije li to nešto?
+{78976}{79093}Imate li sekire da|poseèete drveæe?
+{79659}{79767}Uèitelju.|Zašto seæi?
+{79774}{79870}Za pravljenje kolibe.|-Ali, zašto?
+{79899}{80029}Živeæemo ovde.|I uzgajati.
+{80034}{80266}Šta je sa vežbanjem?|-Nstaviæemo dog oremo.
+{80271}{80314}Okrepite se!
+{81415}{81556}Požurite malo, žene!|Biæe ljuti.
+{81560}{81718}Brže! Izgledaju kao bogataš!|Obogatiæemo se.
+{81743}{81869}Bogati - ðavola!|Gazdarica æe se obogatiti.
+{81874}{81989}Mi æemo samo smršati.|-Pohlepna svodnice!
+{82022}{82086}Brzo!
+{82141}{82276}Slobodna si, Hanagiri?|-Pusti da udahnem.
+{82281}{82456}Fali nam jedna devojka|za pet mušterija.. Hanagiri!
+{82582}{82730}Gazdarice.|Sve devojke nose zvona?
+{82735}{82905}Ne, ona je jedina.|Zvoni kao maka.
+{82926}{83068}Hanagiri, kažeš?|Dovedi je, odmah.
+{83187}{83305}Imate brzo uvo.|-Podseæa na nekoga?
+{83310}{83415}Neka je po tvome!|Držaæemo se piæa.
+{83917}{83969}Dakle, ti si.
+{84316}{84457}Smeješ mi se.|Zar ne?
+{84491}{84663}Nisam toliko bezoseæajna.|-Znam. I gore od toga.
+{84670}{84795}Nisam te ni dotakao.|-Tvoja je taština...
+{84816}{84939}Da ga nisam volela,|ti bi...
+{84964}{85109}Verovatno. Doði i|sipaj nam piæe.
+{85173}{85273}Njoj je stalo do Musashija.
+{85337}{85479}Neuzvraæena jubav!|Vidi je sada!
+{85506}{85539}Stani!
+{85669}{85796}Možda sam ja prljava,|ali sam èista srca.
+{85856}{85983}Je li tako?|Reæi æu ti gde je on sada.
+{86101}{86214}Ore na poljima Hoten u Shimosi.
+{86250}{86327}Išla bi?|-Ne zbijaj šalu.
+{86331}{86445}Ako ona ode, ja sam|na velikom gubitku. -Gazda...
+{86539}{86580}Dovoljno?
+{87432}{87494}Samo farmer...
+{87804}{87882}A žena?|-Šta?
+{88299}{88354}Kakav ulov!
+{88426}{88530}Stoj! Prvi sam je video, zar ne?
+{88922}{89058}Devojka.|-Opet banditi!
+{90016}{90064}Otsu!
+{90082}{90153}Jotaro!
+{90230}{90314}Još plena.
+{90477}{90616}Uèitelju!|-Šta, ješæemo sada?
+{90632}{90760}Velika vest! Otsu je došla!|-Otsu?
+{90764}{90923}Lord Yagyu od Eda joj je rekao, kaže.|Kako je on saznao za nas?
+{90938}{91037}Donesi nešto da odenem.
+{91052}{91178}Ona se miva sada.
+{91183}{91228}Hoæeš li požuriti?
+{92868}{92927}Nedostajao si mi.
+{92958}{93097}Mislio sam da si ljuta na mene.|-Ali, zašto?
+{93293}{93353}Moja je krivica.
+{93430}{93533}Bilo je iznenada.|tako...
+{93568}{93624}Opraštaš mi?
+{93682}{93801}Neæu te ponovo napustiti!
+{93963}{94034}To je koliba koju smo sagradili.
+{94067}{94142}Trojca živimo u njoj.
+{94178}{94307}I obraæujemo one komade zemlje.
+{94342}{94517}Beše gola. ali poklekli usevi|nam zahvaljuju na radu.
+{94575}{94714}Nekada sam mrzeo|farmerske poslove.
+{94744}{94834}I uvek sam sanjario.
+{94883}{95013}Hteo da postanem poznat i uspešan.
+{95045}{95115}Uludo i neorganizovano.
+{95153}{95334}sada ponovo obraðujem.|Nije li to èudno?
+{95359}{95482}Poèinjem da uèim vrednost života.
+{95556}{95621}Zemlja me je tome nauèila.
+{95962}{96015}Jotaro.
+{96100}{96251}Skuvaj nešto za Otsu.|Zamoliæu starog Gena da je skuæi.
+{96363}{96460}Veoma si sretna što|ga ponovo vidiš?
+{96468}{96695}Još uvek je ljut na mene.|-Šta se desilo?
+{97030}{97122}Èuj, Jotaro.|-Uèitelju Jotaro
+{97127}{97265}Da, gospodine.|Uopšte ga ne shvatam.
+{97270}{97400}Ni ja. Ponovo delje.
+{100105}{100233}Rekao mije da joj je|nešto loše uèinio.
+{100238}{100454}Ne može biti istina! Da jeste,|zašto bi ona došla ovamo? -Da.
+{100560}{100598}Ko to ide?
+{103005}{103157}Ne bih da napustim ovo selo.|Ostaæu ovde...
+{103161}{103258}...èak da zbog toga i poginem.
+{103262}{103356}Molim vas, nauèite|nas da se borimo.
+{103361}{103460}Moramo oterati bandite odavde!
+{103465}{103542}Molimo vas, Uèitelju!
+{103615}{103710}Nema svrhe uèiti vas|da se borite.
+{103751}{103861}Morate nauèiti da bežite.
+{103883}{104002}Od njih, gospodine?|-I da se poslednji smejete.
+{104077}{104241}Idete tamo sami, gospodine?|-Da. Do ovde sam došao sam.
+{104246}{104313}Dalje je opasno.
+{104317}{104467}Put do sledeæeg sela|je krcat banditima.
+{104472}{104572}Znam za njih od kad sam bio beba.
+{104594}{104695}Moj otac je bio jedan.
+{104754}{104873}Moj ruèak je gotov?|-Jeste.
+{104884}{105004}Bolje se preruši u muško.
+{105008}{105085}Zaustaviæe svaku devojku.
+{105156}{105317}Muškarci su naèinili igraèku od mene.|Sada mi mišta ne smeta.
+{105365}{105516}Ako ga mogu videti,|umreæu zadovoljna.
+{105701}{105873}Samo malo. Ljudi dolaze ovde|redovno da kupe ulje i so.
+{105877}{106039}Saèekaj do tada i poði sa njima.|-Dobra ideja.
+{106122}{106183}To su možda oni.
+{106333}{106380}Dajte nam piæa!
+{106659}{106767}Loše je odkad su samurai došli.
+{106772}{106925}Èujem da ih uèe maèevanju.|-Ko su oni?
+{106985}{107050}Moramo ih uništiti, svejedno.
+{107104}{107222}Ovo je premalo.|Donesi veæe èinije.
+{107338}{107494}Gazda, to je tvoja æerka?
+{107499}{107616}Hej, devojèice!|Hodi ovamo.
+{107955}{108046}Pa... ti si Akemi!
+{108118}{108249}Toji!|-Da, ja sam.
+{108254}{108358}Znaš je?|-Ona je Okina æerka.
+{108473}{108557}Šta se desilo sa mojom majkom?
+{108561}{108671}Gde je ona?|-Ubio sam je.
+{108785}{108905}Bio si tamo kad je ubijena!
+{108910}{109052}Predao si se da spaseš|svoju kožu! -Uæuti!
+{109057}{109178}Osvatio sam smrt brata.|-Osvetio?
+{109183}{109299}Tvoja majka ga je ubila.|Ja sam Kohei.
+{109303}{109465}Ali, vas dvojca ste mi ubili oca!|-Pridružiæeš mu se.
+{110151}{110211}To je to selo.
+{110270}{110440}Reci im da su razbojnici uhapšeni.
+{110445}{110485}Razumeš?
+{110535}{110639}I zapali Masushijevu|kolibu sutra uveèe.
+{110644}{110759}Tada æemo napasti.|Može?
+{110792}{110935}Ne mogu. Nikako1|-Ne budi budala!
+{110979}{111118}Musashi je njegov neprijatelj.|Moj, takoðe.
+{111139}{111260}Tebe sam poštedeo.|Moraš to uraditi.
+{111289}{111487}Ako neæeš...|Moraæu te ubiti.
+{112217}{112283}Nemoj.|Još ti nije dobro.
+{112301}{112439}Ne mogu ovde sedeti besposlen.|-Stani!
+{112579}{112738}Reci mi.|Reci šta da radim.
+{112764}{112890}Moram li iæi?|-Pa, ne.
+{112907}{113056}Reci mi onda.|Zašto me izbegavaš?
+{113085}{113180}Ne sviðam ti se?|Ne voliš me?
+{113222}{113331}Da li sam izbrisana|iz tvog srca?
+{113362}{113401}Molim te!
+{113440}{113651}Bezdušan si! Kamenog srca!|Mrzim takvog mušklarca! -Ali...
+{113699}{113741}Ne mogui da živim!
+{113897}{114009}Volela bih da smo mrtvi!|-Ne glupiraj se.
+{114056}{114191}Ja jesam glupa!|Vidi šta glupaèa radi!
+{114590}{114635}Šta to radiš?
+{115085}{115175}Dakle. Ona je ovde.
+{115775}{115882}Sve ovo je zbog nje.|Ta ženska!
+{115900}{116094}Žao mi je. -Stari Gen|može primiti još jednu osobu.
+{116145}{116286}Otsu se to neæe dopasti.|Ni Akemi, takoðe.
+{116307}{116419}Mislim da æu pitati ujnu Oseki.
+{116423}{116508}Ja æu ti to uèiniti.|-I ja æu.
+{117524}{117579}Napokon smo sami.
+{117721}{117802}Zašto ti se ne dopada?
+{117841}{117915}Promenila si se, Akemi.
+{117922}{118044}Ali, dopada mi se tvoj glas.|Drago mi je.
+{118056}{118200}Dragi! volela sam te|od kad smo živeli u brdima.
+{118207}{118322}Zaista sam brinula za tebe.|-Ne misliš tako.
+{118326}{118523}Mislim. Pokušala sam ti reæi|kada si poslednji ut bio zarobljen.
+{118555}{118641}Nisam te razumeo.
+{118650}{118771}Dragi...|pobegni sa mnom.
+{118776}{118847}Zar neæeš?|-Prekini.
+{118957}{119083}Oko, tvoja majka,|me je to jednom zamolila.
+{119124}{119198}Njena krv je u tvojim venama.
+{119248}{119396}Ne.  Drugaèija sam.|Uopšte nisam kao ona.
+{119471}{119600}Nisam volela dok|tebe nisam srela.
+{119659}{119788}Nikada nisam volela|nikoga sem tebe.
+{119793}{119849}Zato sam došla ovde.
+{120434}{120487}Žao mi je.
+{120617}{120692}Nije tvoja krivica.
+{120788}{120967}Imaš Otsu. Nema potrebe|da budem nerazumna.
+{121211}{121328}Otiæi æu ujutru.
+{121407}{121557}Budi sretan s njom.|Sve najbolje.
+{122101}{122236}Dragi.|Teško je!
+{122341}{122445}Ali, ja odustajem!|Obeæavam.
+{122450}{122572}Zagrli me jako pre nego odem.
+{122628}{122789}Uguši me do smrti!|U zagrljaju!
+{122809}{122951}Kao poslednju uslugu!
+{123823}{123965}Ljudi!|Èula sam na putu ovamo...
+{123969}{124085}...da su svi banditi uhapšeni.|-Zaista?
+{124291}{124533}Ceo grad prièa.|-Ako jesu, mi smo sigurni.
+{124782}{124920}Akemi je to rekla? -Tako|im i treba. -Slobodni smo.
+{125112}{125217}Akemi, sigurna si za bandite?
+{125333}{125433}Akemi!|istina je?
+{125499}{125570}Ne bi mi verovao.
+{125673}{125796}Ostaæu ovde neko vreme.|Dopada mi se ovde.
+{125832}{126017}Uèitelju, da li si èuo?|Vrlo dobre vesti, a?
+{126089}{126429}Èuo si? -Da, jesam.|-Prekinimo s poslom da proslavimo!
+{128423}{128578}Ona æe dti signal vatrom.|Popalite sve kuæe!
+{128613}{128677}Pobiæeš seljane.
+{128713}{128849}Ne dirajte Masushija.|Ja æu se pobrinuti za njega.
+{129207}{129327}Hodi sa mnom.|Prièaæemo nasamo.
+{129864}{129906}Gde je Otsu?
+{129938}{130041}U mojoj kuæi.|-Sviraæe frulu.
+{130079}{130117}Dovešæu je.
+{130289}{130482}Otsu. Tio znaš|kako se devojka oseæa.
+{130502}{130631}Ja ga volim.|-Akemi.
+{130698}{130781}Ti si grozna!
+{130827}{130939}Zašto staješ izmeðu nas dvoje?
+{131266}{131333}Hajde.
+{131374}{131483}Ako ga želiš...|bori se!
+{131523}{131671}Užasno!|-Hajde.
+{132547}{132599}Pomoæ! Bilo ko!
+{132845}{132933}Požar! Požar!
+{133933}{134007}Razbojnici!
+{134351}{134493}Smiri se! Tiše! Odvedi žene|i decu kod starog Gena.
+{135569}{135717}Musashi! Izaði!|Bori se sa mnom!
+{135912}{136057}Musashi, ovde sam da|osvetim bratovljevu smrt!
+{136967}{137018}Osveži se, Kuma!
+{137072}{137226}Jotaro... ti si zaista...|stariji.
+{137618}{137652}Akemi!
+{137712}{137750}Dobar posao!
+{137967}{138009}Šta to radiš?
+{138885}{139018}Akemi!|Osveži se!
+{139104}{139247}Otsu.|Umirem.
+{139315}{139470}Bila sam tako zla.
+{139476}{139666}Spasla si mi život!|Ne umiri! Akemi!
+{140018}{140072}Dragi!
+{140131}{140189}Konaèno...
+{140233}{140331}...držiš me...
+{140343}{140473}...u naruèju.|-Ustani, Akemi!
+{140529}{140627}Gotovo je sa mnom.
+{140697}{140885}Nemogu te...|videti.
+{141184}{141361}budite sreæni...|vas dvoje.
+{143022}{143151}Musashi!|Gde je Uèitelj Musashi?
+{143745}{143926}"Zvanièno sam postavljen za|uèitelja Lorda Hosokawe...
+{143931}{144026}...i odlazim za Kokuru,|njegov grad - zamak.
+{144035}{144259}Nestrpljiv sam da imam meè|u Kokuri, sledeæeg aprila."
+{145553}{145705}Nerazumno je od uèitelja|da te ovako ostavi.
+{145782}{145912}Na kraju, on bi se|sukobio sa mnom.
+{146393}{146601}Kokura Town,|sedište Lorda Hosokawe
+{146720}{146923}"Najamnik našeg Lorda, Kojiro Sasaki|po nareæenju æe se boriti...
+{146927}{147065}...sa Musashi Miyamotom iz|Mimasaku Provincije."
+{147091}{147180}Musashi.|Za pet dana, a?
+{147262}{147385}Borite se fer i pravedno,|kao pravi samurai.
+{147443}{147644}On je protivnik bez premca, ser.|Neæu ukaljati vaše èasno ime.
+{147653}{147777}Za èetiri dana.
+{147822}{147957}Zauzet je. Ja sam|njegov drug od malena.
+{147961}{148022}Blizak prijatelj.
+{148026}{148116}Bio sam s njim u školi maèevanja.
+{148120}{148223}Setiæe se mog imena bez greške.
+{148554}{148653}Ignorisali su me dok|sam bio besposlen.
+{148683}{148841}Ali, danas i stranci žele da me vide.
+{148910}{149107}Takav je život.|-Ima tu mesta radosti.
+{149116}{149253}Tvoje junašvo æe|biti priznato, definitivno.
+{149315}{149447}Posle meèa,|još jedan veliki dogaðaj.
+{149530}{149612}Moja æerka je nestrpljiva.
+{149906}{150025}Molim te, Otsu!|Dozvoli da naðem Uèitelja.
+{150030}{150160}Molim te. Zašto sam|prevalila ovoliki put?
+{150201}{150356}U ovom meèu može|ga snaæi najgore.
+{150391}{150527}Ako bude tako, ja æu|sakupiti njegove ostatke.
+{150582}{150744}Moram ga videti1|Moram razgovarati s njim!
+{152148}{152215}Od Musashija, ser?
+{152287}{152429}"Doæi æu svojim brodom, na vreme.
+{152434}{152508}Nadam se da je|to prihvatljivo."
+{152574}{152738}Shvatam. Nije došao|ovde iz poštovanja.
+{152755}{152851}Otiæi æe direktno na ostrvo.
+{152928}{152997}Ali, gde je on?
+{153144}{153211}Ustani, Otsu.
+{153405}{153549}Šta se desilo?|-Bolesna je.
+{154452}{154493}Omitsu
+{154576}{154621}Izgledaš zamišljeno.
+{154658}{154794}Misliš da æu izgubiti?|-O, ne.
+{154798}{154939}Možda ne oèekuješ to,|ali se plašiš.
+{155043}{155227}Pobediæu. Ambicija mi je|da ga pobedim.
+{155374}{155475}Pobediæu ga svojom|sposobnošæu.
+{155558}{155713}Molitve onih koji mi|žele pobedu i talismani...
+{155717}{155781}...su mi beskorisni.
+{155821}{155933}Zato, ne moli se za mene, draga.
+{156106}{156226}Saoeæajnost smeta mom|mentalnom spokojstvu.
+{156256}{156328}Hoæu da se borim sam.
+{156949}{157010}Vrati se u zamak.
+{157315}{157373}Sada se oseæam lakše.
+{158224}{158333}Hej, Sasuke, je li spremno?|-Naravno.
+{158337}{158506}Èast je za èamdžiju da|vesla za Uèitelja Masushija.
+{158511}{158591}Èamas je proèišæen.
+{158863}{158980}Hvala vam za poklon|koji sada nosim.
+{159003}{159143}Oseæam se osveženo.|-Sreæno gospodine.
+{159198}{159399}Samo momenat. Želim videti|nekoga pre nego odem. -Mene?
+{159476}{159531}ne muèi se da ustaješ.
+{159785}{159832}Otsu!
+{159917}{160018}Ne mogu ga videti ovakva.
+{160228}{160270}Uèitelju!
+{160767}{160892}Ne ulazi ovamo!|Dolazim!
+{161939}{162069}Otsu.|-Napokon, sastajemo se ponovo.
+{162161}{162318}Izgledaš slabo. Mnogo bolesna?|-Sada sam izleèena.
+{162349}{162471}Moja bolest je tako|æudljiva, znaš.
+{162609}{162715}Hajde da prošetamo,|hoæeš li, Otsu?
+{162751}{162936}Ovo je prvi pu da me pitaš.
+{163008}{163101}Hajdemo.|Naravno.
+{163897}{164027}Do danas sam išao svojim putem...
+{164066}{164139}...i naveo te da mnogo patiš.
+{164185}{164360}Oprosti mi. Ali, nisam toliko|bezdušan koliko misliš.
+{164402}{164499}Znam.|-Znaš?
+{164504}{164616}zato sam te volela.
+{164749}{164787}Draga!
+{164946}{165016}Kako je sretan ovaj dan!
+{165038}{165133}Sada se mogu boriti mirne savesti.
+{165211}{165269}Zašto plaèeš?
+{165314}{165367}Mrzim to.
+{165392}{165556}Volela bih da nisi samurai!
+{165847}{166033}Dragi, ostavi se maèa!|Ne bori se!
+{166083}{166248}Neka te zovu kukavicom! Žudim|za sreæom, smo nas dvoje!
+{166253}{166364}Sada je to nemoguæe, otsu.
+{166425}{166613}Molim te!|Neæu te pustiti! Ne!
+{166627}{166701}Ne budi nerazumna.
+{166747}{166812}Žena sam.
+{166840}{166979}Želela bih da si obièan èovek.
+{166988}{167121}Otsu, ne demorališi me,|molim te.
+{167142}{167263}Žena samuraja ispraæa|svog èoveka sa osmehom.
+{167321}{167473}Posebno kada je to možda zauvek.
+{171382}{171530}Je li to ostrvo?|-Ne, nije to, ser.
+{171535}{171648}Naše je iza ovog.|Manje je.
+{171691}{171784}Je li ovde voðena pomorska|bitka u stara vremena?
+{171937}{171999}Èemu to,. ser?
+{172050}{172099}Za dvoboj.
+{172165}{172277}Boriti se drvenim?|-Sviða mi se velièina.
+{172323}{172518}Slušaj.|Ako izgubim i padnem...
+{172523}{172611}...odnesi moje mrtvo telo...
+{172656}{172760}... Otsu.|-Dragi Bože!
+{172765}{172879}Ne bogohuli!|-Uzmi ovo za uspomenu.
+{173213}{173288}Musashijev brod na vidiku!
+{173503}{173612}Musashi dolazi!|-Musashi je stigao!
+{173876}{173951}Ne budi nervozan.
+{173984}{174089}Videæeš mistiène moæimog maèa.
+{174152}{174199}Gledaj me.
+{176780}{176812}Musashi!
+{184433}{184567}G. Miyamoto.|To je bilo izvrsno.
+{184633}{184812}On je bio najbolji maèevalac|koga æu ikada sresti.
+{186199}{186307}Tako mi je drago.|Tako mi je drago!
+{186349}{186516}Molio sam se da te|ne vraæam nazad mrtvog.
+{186547}{186692}Tako mi je drago zbog svega.|Veoma sam sreæan!
+{187394}{187618}adaptacija eng. titla:|...::§ Wild Bunch ©®MMIV §::...
+{187625}{187914}...::§ kraj §::...
+{188014}{188506}Dream Factory|>>> www.multicat.da.ru <<<
+{188531}{190031}ÐŸÐ¾Ð´Ñ€Ð¶Ð¸Ñ‚Ðµ Ð½Ð°Ñ Ð¸ Ð¿Ð¾ÑÑ‚Ð°Ð½Ð¸Ñ‚Ðµ VIP Ñ‡Ð»Ð°Ð½ Ð´Ð° Ð±Ð¸ÑÑ‚Ðµ ÑƒÐºÐ»Ð¾Ð½Ð¸Ð»Ð¸ ÑÐ²Ðµ Ð¾Ð³Ð»Ð°ÑÐµ ÑÐ° www.OpenSubtitles.org

@@ -1,0 +1,318 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Baar Sophia,32,&H00FFFFFF,&H00FFFFFF,&H00020203,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,40,40,35,1
+Style: PV,Baar Sophia,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,79,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.84,0:00:03.42,Default,,0,0,0,,Obrada i Prevod: SRBCHYROLL
+Dialogue: 0,0:01:30.59,0:01:34.46,Default,,0,0,0,,{\i1}ANBU Učiha{\i0}
+Dialogue: 0,0:01:39.42,0:01:40.42,Default,,0,0,0,,Prokletstvo!
+Dialogue: 0,0:01:52.50,0:01:55.88,Default,,0,0,0,,Kao i obično, tvoj napad munjom \Nje brilijantan kao i uvek, Učitelju.
+Dialogue: 0,0:01:56.96,0:01:58.05,Default,,0,0,0,,Brilijantan?
+Dialogue: 0,0:01:59.25,0:02:01.30,Default,,0,0,0,,Ne postoji stvar poput \Nbrilijantnosti u atentatima...
+Dialogue: 0,0:02:03.30,0:02:04.50,Default,,0,0,0,,Ubistvo je ubistvo, to je sve.
+Dialogue: 0,0:02:08.67,0:02:11.13,Default,,0,0,0,,Usput, šta se desilo zameni?
+Dialogue: 0,0:02:12.17,0:02:13.50,Default,,0,0,0,,Naš tim je ostao bez člana.
+Dialogue: 0,0:02:14.25,0:02:15.55,Default,,0,0,0,,Nema žurbe.
+Dialogue: 0,0:02:16.50,0:02:17.75,Default,,0,0,0,,Nismo u sred rata ili \Nbilo čega slično tome.
+Dialogue: 0,0:02:21.05,0:02:22.42,Default,,0,0,0,,Pre ili kasnije, neko će se pojaviti.
+Dialogue: 0,0:02:29.17,0:02:30.46,Default,,0,0,0,,Hej, Kakaši.
+Dialogue: 0,0:02:30.92,0:02:32.75,Default,,0,0,0,,Šta ima? Izgledaš umoran.
+Dialogue: 0,0:02:33.63,0:02:34.63,Default,,0,0,0,,Da li si upravo došao sa misije?
+Dialogue: 0,0:02:34.92,0:02:36.21,Default,,0,0,0,,Ti si takav idiot, Gaj.
+Dialogue: 0,0:02:36.55,0:02:39.17,Default,,0,0,0,,Članovi ANBU-a ne mogu diskutovati \No detaljima njihovog posla!
+Dialogue: 0,0:02:39.92,0:02:41.09,Default,,0,0,0,,Tako to ide.
+Dialogue: 0,0:02:42.25,0:02:44.67,Default,,0,0,0,,Izaćemo malo na slatke knedle.
+Dialogue: 0,0:02:45.30,0:02:48.05,Default,,0,0,0,,- Imaš li želju da nam se pridružiš?\N- Izvini, ne volim baš slatkiše...
+Dialogue: 0,0:02:50.55,0:02:53.84,Default,,0,0,0,,Postao je tako asocijalan \Nu poslednje vreme.
+Dialogue: 0,0:02:55.75,0:02:57.88,Default,,0,0,0,,Možda zbog svih tih tajnosti unutar ANBU...
+Dialogue: 0,0:02:58.55,0:03:00.71,Default,,0,0,0,,Ne! Nema šanse!
+Dialogue: 0,0:03:01.05,0:03:03.05,Default,,0,0,0,,Kakaši je moj doživotni rival.
+Dialogue: 0,0:03:03.30,0:03:05.30,Default,,0,0,0,,On ima srce ispunjeno \Nzapaljenom strasti.
+Dialogue: 0,0:03:05.67,0:03:08.59,Default,,0,0,0,,Dobro, pošto je doguralo do ovde, \Nmoram da uradim nešto!
+Dialogue: 0,0:03:10.17,0:03:11.50,Default,,0,0,0,,Ti?
+Dialogue: 0,0:03:12.42,0:03:13.59,Default,,0,0,0,,Molim Vas da me pustite u ANBU!
+Dialogue: 0,0:03:14.09,0:03:16.25,Default,,0,0,0,,To je najbolja stvar koja se može \Nuraditi u Kakašijevu korist!
+Dialogue: 0,0:03:17.09,0:03:18.42,Default,,0,0,0,,Pa, Gaj.
+Dialogue: 0,0:03:18.84,0:03:22.50,Default,,0,0,0,,Razumem tvoju brigu za Kakašijem.
+Dialogue: 0,0:03:23.42,0:03:25.50,Default,,0,0,0,,Ali ono "prava osoba za pravi posao"
+Dialogue: 0,0:03:25.55,0:03:26.84,Default,,0,0,0,,se odnosi na ovu situaciju...
+Dialogue: 0,0:03:27.09,0:03:30.17,Default,,0,0,0,,Tvoje veštine nibi bile prikladne u ANBU.
+Dialogue: 0,0:03:30.46,0:03:32.59,Default,,0,0,0,,Ne radi se ovde o tome šta je \Ndobro za mene, Treći Lordu!
+Dialogue: 0,0:03:33.21,0:03:35.13,Default,,0,0,0,,Kao Kakašijev partner, Ja...
+Dialogue: 0,0:03:35.17,0:03:38.71,Default,,0,0,0,,Tišina! Nisi dovoljno prikladan za ANBU.
+Dialogue: 0,0:03:45.21,0:03:48.80,Default,,0,0,0,,Nisam...prikladan...
+Dialogue: 0,0:03:54.42,0:03:56.55,Default,,0,0,0,,Lorde Danzo...
+Dialogue: 0,0:03:56.55,0:03:57.55,Default,,0,0,0,,Šta je bilo?
+Dialogue: 0,0:03:57.59,0:04:00.59,Default,,0,0,0,,Molim Vas da me prihvatite kao \Njednog od vaših ANBU-a!
+Dialogue: 0,0:04:01.50,0:04:03.38,Default,,0,0,0,,Nedostaje ti to.
+Dialogue: 0,0:04:04.55,0:04:05.42,Default,,0,0,0,,Nedostaje šta?
+Dialogue: 0,0:04:06.46,0:04:07.67,Default,,0,0,0,,Tama.
+Dialogue: 0,0:04:13.84,0:04:14.84,Default,,0,0,0,,Tama?
+Dialogue: 0,0:04:27.00,0:04:31.09,Default,,0,0,0,,Novi član će se \Npriključiti tvom timu.
+Dialogue: 0,0:04:31.21,0:04:32.50,Default,,0,0,0,,To li je to taj o kome sto pričali?
+Dialogue: 0,0:04:33.05,0:04:35.71,Default,,0,0,0,,Da, izuzetno je sposoban.
+Dialogue: 0,0:04:36.59,0:04:38.50,Default,,0,0,0,,Ali je mlad.
+Dialogue: 0,0:04:39.00,0:04:42.55,Default,,0,0,0,,Danzo je preporučio da \Nstekne više iskustva.
+Dialogue: 0,0:04:46.63,0:04:48.46,Default,,0,0,0,,Evo ti oprema.
+Dialogue: 0,0:04:50.42,0:04:51.42,Default,,0,0,0,,Hvala ti mnogo.
+Dialogue: 0,0:04:56.59,0:04:58.92,Default,,0,0,0,,Danas sam unapređen u ANBU-a.
+Dialogue: 0,0:04:59.13,0:05:00.30,Default,,0,0,0,,Moje ime je Itači Učiha.
+Dialogue: 0,0:05:01.50,0:05:02.46,Default,,0,0,0,,Cenim vaša upustva.
+Dialogue: 0,0:05:04.09,0:05:05.59,Default,,0,0,0,,Razumem. Dakle ti si taj.
+Dialogue: 0,0:05:06.13,0:05:08.00,Default,,0,0,0,,Koristi ormarić koji se nalazi \Npozadi skroz na kraju.
+Dialogue: 0,0:05:08.42,0:05:09.42,Default,,0,0,0,,Da, gospodine.
+Dialogue: 0,0:05:12.63,0:05:13.67,Default,,0,0,0,,Jeli to on?
+Dialogue: 0,0:05:13.80,0:05:15.17,Default,,0,0,0,,Kažu da ima 11 godina.
+Dialogue: 0,0:05:16.13,0:05:18.42,Default,,0,0,0,,Zar ga to ne čini najmlađim \Npripadnikom ANBU-a ikada?
+Dialogue: 0,0:05:20.46,0:05:23.25,Default,,0,0,0,,Tim Ro će se sakupiti na \NTrećem Područiju za Trening
+Dialogue: 0,0:05:23.30,0:05:24.38,Default,,0,0,0,,za 5 minuta.
+Dialogue: 0,0:05:25.00,0:05:26.00,Default,,0,0,0,,Da, gospodine.
+Dialogue: 0,0:05:55.63,0:05:56.63,Default,,0,0,0,,Šta to radite?
+Dialogue: 0,0:05:58.71,0:05:59.88,Default,,0,0,0,,Obljašnjenje molim!
+Dialogue: 0,0:06:00.50,0:06:03.67,Default,,0,0,0,,Želeli smo samo da se uverimo da poseduje \Nsposobnosti da bude jedan od nas.
+Dialogue: 0,0:06:03.84,0:06:05.42,Default,,0,0,0,,Pošto je još uvek previše mlad.
+Dialogue: 0,0:06:05.84,0:06:07.92,Default,,0,0,0,,Da li imate nekih problema u \Nvezi odluke vašeg nadređenog?
+Dialogue: 0,0:06:08.84,0:06:10.67,Default,,0,0,0,,Ne, ne radi se o tome...
+Dialogue: 0,0:06:11.38,0:06:15.38,Default,,0,0,0,,Zar niste već osetili da \Non nije običan dečak?
+Dialogue: 0,0:06:17.88,0:06:19.46,Default,,0,0,0,,Ja sam Kakači, kapetan Tima Ro.
+Dialogue: 0,0:06:19.96,0:06:21.21,Default,,0,0,0,,Ti si nov,
+Dialogue: 0,0:06:21.25,0:06:23.59,Default,,0,0,0,,ali želim da te naučim brzo nekim \NANBU pravilima i formacijama.
+Dialogue: 0,0:06:24.46,0:06:25.46,Default,,0,0,0,,Da, gospodine.
+Dialogue: 0,0:06:46.46,0:06:47.50,Default,,0,0,0,,Dobar je.
+Dialogue: 0,0:06:48.63,0:06:50.46,Default,,0,0,0,,Talentovan je, \Nali pravi izuzetak
+Dialogue: 0,0:06:50.67,0:06:54.17,Default,,0,0,0,,za nekoga prilično tako mladog za ANBU.
+Dialogue: 0,0:06:54.46,0:06:56.63,Default,,0,0,0,,Lord Danzo ga je predložio.
+Dialogue: 0,0:06:56.96,0:07:00.63,Default,,0,0,0,,Bez šale?\NOn se ne uklapa u kalup ionako.
+Dialogue: 0,0:07:00.92,0:07:01.92,Default,,0,0,0,,Šta hoćeš da kažeš?
+Dialogue: 0,0:07:02.59,0:07:04.96,Default,,0,0,0,,Lord Danzo ima čitav svoj \Nasortiman kriterijuma
+Dialogue: 0,0:07:05.00,0:07:06.63,Default,,0,0,0,,za ANBU i Osnivačke agente.
+Dialogue: 0,0:07:07.21,0:07:08.21,Default,,0,0,0,,I?
+Dialogue: 0,0:07:08.88,0:07:10.59,Default,,0,0,0,,Prosto ne mogu da ga vidim...
+Dialogue: 0,0:07:21.30,0:07:22.88,Default,,0,0,0,,Započeo sam svoje dužnosti danas.
+Dialogue: 0,0:07:23.63,0:07:26.30,Default,,0,0,0,,Jeli tako? To je moj dečak.
+Dialogue: 0,0:07:26.71,0:07:29.59,Default,,0,0,0,,Mnogo sam ponosan \Nšto si se priključio ANBU.
+Dialogue: 0,0:07:31.63,0:07:34.25,Default,,0,0,0,,Ali nikada ne smeš da \Nzaboraviš jednu stvar.
+Dialogue: 0,0:07:34.67,0:07:37.09,Default,,0,0,0,,Pre nego što si postao \NANBU Sela Lista,
+Dialogue: 0,0:07:37.13,0:07:39.63,Default,,0,0,0,,ti si prvi i najistaknutiji, \NItači od Učiha Klana.
+Dialogue: 0,0:07:39.80,0:07:40.80,Default,,0,0,0,,Da, gospodine.
+Dialogue: 0,0:07:40.96,0:07:42.50,Default,,0,0,0,,Učiha Klan je bio pružao
+Dialogue: 0,0:07:42.55,0:07:44.46,Default,,0,0,0,,bezbednost Selu Sakrivenom u Listu.
+Dialogue: 0,0:07:45.05,0:07:46.59,Default,,0,0,0,,Ali zbog toga, naš klan je bio prepušten
+Dialogue: 0,0:07:46.63,0:07:48.17,Default,,0,0,0,,životu izvan seoskih granica.
+Dialogue: 0,0:07:49.59,0:07:52.84,Default,,0,0,0,,Bitno je da je naš klan ima \Njednu sopstvenu tamo.
+Dialogue: 0,0:07:54.25,0:07:55.59,Default,,0,0,0,,Računama na tebe, Itači.
+Dialogue: 0,0:07:57.46,0:08:00.88,Default,,0,0,0,,Fugaku Učiha se izdvajao kao jedan \Nod najlukavijih kapetana za bezbednost
+Dialogue: 0,0:08:00.92,0:08:02.63,Default,,0,0,0,,tokom generacija.
+Dialogue: 0,0:08:02.84,0:08:05.96,Default,,0,0,0,,Nisam iznenađen što je on tvoj otac.
+Dialogue: 0,0:08:08.34,0:08:09.63,Default,,0,0,0,,Ovo nije zamerka.
+Dialogue: 0,0:08:09.75,0:08:13.92,Default,,0,0,0,,Selo Sakrivenog Lista je \Nnaložilo Klanu Učiha
+Dialogue: 0,0:08:13.96,0:08:18.05,Default,,0,0,0,,spolje seoske granice,\Nali im odobrilo samouprave,
+Dialogue: 0,0:08:18.09,0:08:20.63,Default,,0,0,0,,gde mi ne možemo intervenisati \Npo tim pitanjima.
+Dialogue: 0,0:08:20.84,0:08:24.71,Default,,0,0,0,,Stoga, moramo usresrediti \Nnaše oči i uši tamo.
+Dialogue: 0,0:08:26.59,0:08:28.42,Default,,0,0,0,,Računam na tebe, Itači.
+Dialogue: 0,0:08:32.59,0:08:33.75,Default,,0,0,0,,Jesi se navikao poslu?
+Dialogue: 0,0:08:34.46,0:08:35.50,Default,,0,0,0,,Ne još.
+Dialogue: 0,0:08:35.50,0:08:36.55,Default,,0,0,0,,To ne liči na tebe.
+Dialogue: 0,0:08:37.25,0:08:38.71,Default,,0,0,0,,Ja još nisam ni izašao na misiju.
+Dialogue: 0,0:08:39.59,0:08:41.88,Default,,0,0,0,,Zaštita Lorda Hokagea \Nje misija sama po sebi.
+Dialogue: 0,0:08:42.88,0:08:45.59,Default,,0,0,0,,Zar ANBU nije ubistvena i \Nspecijalna taktička jedinica?
+Dialogue: 0,0:08:46.59,0:08:48.50,Default,,0,0,0,,Pa, nismo sada u ratu.
+Dialogue: 0,0:08:55.21,0:08:56.59,Default,,0,0,0,,- Kakaši...\N- Gospodine?
+Dialogue: 0,0:08:58.38,0:09:01.80,Default,,0,0,0,,Kao Hokage, svaki razmeštaj \Nkoji naredim je i oficijalan.
+Dialogue: 0,0:09:01.96,0:09:05.13,Default,,0,0,0,,Međutim, ne mogu ignorisati \NDanzove poglede
+Dialogue: 0,0:09:05.17,0:09:07.46,Default,,0,0,0,,da postoji loša strana te misije.
+Dialogue: 0,0:09:07.71,0:09:11.67,Default,,0,0,0,,Dakle, poseban zvaničan \Ntim će biti poslat.
+Dialogue: 0,0:09:12.63,0:09:15.30,Default,,0,0,0,,Onaj koji Hakoge nije naložio?
+Dialogue: 0,0:09:16.67,0:09:19.00,Default,,0,0,0,,Radićeš pod Danzovom komandom.
+Dialogue: 0,0:09:21.59,0:09:23.59,Default,,0,0,0,,Ali s druge strane, ovo je \Ndiplomatska misija.
+Dialogue: 0,0:09:23.92,0:09:26.92,Default,,0,0,0,,Mi ćemo razmenjivati informacije \Nsa Hanja Crnim Odredom.
+Dialogue: 0,0:09:26.96,0:09:29.21,Default,,0,0,0,,sela Zemlje Šuma na granici.
+Dialogue: 0,0:09:29.67,0:09:34.59,Default,,0,0,0,,Međutim...\NVerujem da je ovo zamka neprijatelja.
+Dialogue: 0,0:09:35.09,0:09:37.25,Default,,0,0,0,,Treći Hokage se slaže \Nsa mnom u ovome.
+Dialogue: 0,0:09:38.30,0:09:42.34,Default,,0,0,0,,ANBU će čuvati tim \Nna toj oficijalnoj misiji.
+Dialogue: 0,0:09:42.59,0:09:47.55,Default,,0,0,0,,Kada se neprijatelji \Nnasrne na tim, ubijte ih.
+Dialogue: 0,0:09:47.84,0:09:49.50,Default,,0,0,0,,Nikoga ne ostavite živog.
+Dialogue: 0,0:09:50.55,0:09:52.00,Default,,0,0,0,,Totalno istrebljenje?
+Dialogue: 0,0:09:52.50,0:09:54.55,Default,,0,0,0,,Moramo im pokazati da Selo Lista
+Dialogue: 0,0:09:54.59,0:09:55.71,Default,,0,0,0,,ne toleriše izdaju.
+Dialogue: 0,0:09:56.80,0:09:58.88,Default,,0,0,0,,Voleo bih da budem u timu \Nod po dvoje sa Itačiem.
+Dialogue: 0,0:09:59.67,0:10:00.67,Default,,0,0,0,,U redu.
+Dialogue: 0,0:10:01.00,0:10:02.00,Default,,0,0,0,,Odlazim...
+Dialogue: 0,0:10:02.42,0:10:03.42,Default,,0,0,0,,Kakaši...
+Dialogue: 0,0:10:03.88,0:10:05.88,Default,,0,0,0,,Prepoznajem tvoju vrednost kao ANBU...
+Dialogue: 0,0:10:06.09,0:10:08.59,Default,,0,0,0,,Čak sam i u iskušenju da te \Npovučem u moju fondaciju.
+Dialogue: 0,0:10:09.17,0:10:10.25,Default,,0,0,0,,Naravno, vi želite...
+Dialogue: 0,0:10:10.55,0:10:14.21,Default,,0,0,0,,Ozbiljan sam.\NTi imaš prave kvalitete.
+Dialogue: 0,0:10:14.50,0:10:16.55,Default,,0,0,0,,Kvalitete pod nazivom tama.
+Dialogue: 0,0:10:35.13,0:10:36.67,Default,,0,0,0,,Sprovešćete tajnu razmenu
+Dialogue: 0,0:10:36.71,0:10:38.46,Default,,0,0,0,,sa Hanja Crnim Odredom Sela Šuma.
+Dialogue: 0,0:10:38.88,0:10:41.46,Default,,0,0,0,,Selo Sakrivenog Lista će\Npredati ovaj svitak.
+Dialogue: 0,0:10:42.42,0:10:45.34,Default,,0,0,0,,A vi ćete uzeti svitak od njih.
+Dialogue: 0,0:10:47.46,0:10:49.67,Default,,0,0,0,,Da li proveravamo sadržaj?
+Dialogue: 0,0:10:50.13,0:10:53.71,Default,,0,0,0,,Ovo je test uzajamnog poverenja.
+Dialogue: 0,0:10:53.88,0:10:56.80,Default,,0,0,0,,Ako nam predaju lažan svitak,
+Dialogue: 0,0:10:56.84,0:10:59.71,Default,,0,0,0,,to bi dokazalo\Nda Selo Šuma nema nikakvih interesovanja
+Dialogue: 0,0:10:59.75,0:11:02.17,Default,,0,0,0,,u savezništvu\Nsa Selom Lista.
+Dialogue: 0,0:11:02.84,0:11:06.50,Default,,0,0,0,,Dakle ako se ne dogodi ništa, sve što \Ntreba da uradimo je da vratimo svitak?
+Dialogue: 0,0:11:07.05,0:11:11.67,Default,,0,0,0,,Trenutno, nemamo neprijateljskih \Nodnosa sa selom Šume,
+Dialogue: 0,0:11:11.71,0:11:15.59,Default,,0,0,0,,ali ne možemo biti sigurni.\NBudite veoma pažljivi.
+Dialogue: 0,0:11:15.88,0:11:17.50,Default,,0,0,0,,Prepustite to nama!
+Dialogue: 0,0:11:32.42,0:11:35.17,Default,,0,0,0,,Hej, Itači.\NDakle ovo je tvoja prva ANBU misija.
+Dialogue: 0,0:11:35.63,0:11:36.42,Default,,0,0,0,,Tako je.
+Dialogue: 0,0:11:36.42,0:11:39.17,Default,,0,0,0,,Čuo sam da ste samo ti \Ni Kakaši u timu od po dvoje.
+Dialogue: 0,0:11:39.63,0:11:40.92,Default,,0,0,0,,Čuvaj svoja leđa.
+Dialogue: 0,0:11:41.55,0:11:42.55,Default,,0,0,0,,Zašto?
+Dialogue: 0,0:11:42.75,0:11:44.71,Default,,0,0,0,,Ako je za dobrobit misije,
+Dialogue: 0,0:11:44.75,0:11:46.55,Default,,0,0,0,,Kapetan neće oprezati ni od \Nčega da ubije sopstvene partnere.
+Dialogue: 0,0:11:46.55,0:11:49.25,Default,,0,0,0,,On je šinobi\Nnajvišeg stepena.
+Dialogue: 0,0:11:59.30,0:12:00.34,Default,,0,0,0,,Dobro, svi!
+Dialogue: 0,0:12:00.38,0:12:04.46,Default,,0,0,0,,Pokrenite malo svoju mladalačku \Nstrast... idemo!
+Dialogue: 0,0:12:05.13,0:12:07.67,Default,,0,0,0,,Sačekajte, Kapetane!
+Dialogue: 0,0:12:08.42,0:12:12.25,Default,,0,0,0,,Odavno su prošli moji mladalački dani...
+Dialogue: 0,0:12:17.13,0:12:20.71,Default,,0,0,0,,Dakle nisu rekli šta je prava \Npriroda ove misije?
+Dialogue: 0,0:12:21.30,0:12:25.55,Default,,0,0,0,,Ne. Jedini oni koji to znaju \Nsu najuzvišeniji ljudi Sela Lista
+Dialogue: 0,0:12:25.59,0:12:27.46,Default,,0,0,0,,i nas dvoje.
+Dialogue: 0,0:12:39.38,0:12:43.30,Default,,0,0,0,,Ti si božiji dar na današnjoj misiji, \NKosuke.
+Dialogue: 0,0:12:43.46,0:12:45.55,Default,,0,0,0,,Pravo mi je zadovoljstvo.
+Dialogue: 0,0:12:45.80,0:12:50.46,Default,,0,0,0,,Jedite i napunite energiju i čakru.
+Dialogue: 0,0:12:50.55,0:12:54.50,Default,,0,0,0,,Ali Kapetane, da li je u redu da se \Npali vatra ovako na otvorenom?
+Dialogue: 0,0:12:54.55,0:12:55.88,Default,,0,0,0,,Ispada kao da se najavljujemo ovde.
+Dialogue: 0,0:12:55.92,0:12:58.75,Default,,0,0,0,,Šta ako neprijatelji napadnu?
+Dialogue: 0,0:13:01.42,0:13:03.88,Default,,0,0,0,,Ako žele da nas napadnu, tako će i biti.
+Dialogue: 0,0:13:04.28,0:13:06.32,Default,,0,0,0,,Imam osećaj da će se ova misija razjasniti
+Dialogue: 0,0:13:06.32,0:13:08.61,Default,,0,0,0,,bez obzira na to da li \Nsu nam prijatelji ili ne.
+Dialogue: 0,0:13:13.90,0:13:14.90,Default,,0,0,0,,To je sjajno.
+Dialogue: 0,0:13:15.49,0:13:18.40,Default,,0,0,0,,Rečene su mu bile samo \Npovršne stvari ove misije,
+Dialogue: 0,0:13:18.45,0:13:20.74,Default,,0,0,0,,ali je on shvatio pravu njenu svrhu.
+Dialogue: 0,0:13:21.82,0:13:23.53,Default,,0,0,0,,Trebali bi i mi da \Njedemo takođe.
+Dialogue: 0,0:13:23.78,0:13:24.78,Default,,0,0,0,,Da, gospodine.
+Dialogue: 0,0:13:29.49,0:13:31.65,Default,,0,0,0,,Na neki način, ovo savršeno\Nsimbolizuje ANBU.
+Dialogue: 0,0:13:32.11,0:13:33.11,Default,,0,0,0,,Šta to?
+Dialogue: 0,0:13:33.70,0:13:36.86,Default,,0,0,0,,Oni sede na suncu i uživaju \Nzajedno pokraj toplog lonca.
+Dialogue: 0,0:13:37.45,0:13:39.49,Default,,0,0,0,,Dok mi sedimo u senkama\Ni jedemo hranu u pilulama.
+Dialogue: 0,0:13:39.86,0:13:43.86,Default,,0,0,0,,Nemam ništa protiv. \NShvatio sam da je ovo deo misije.
+Dialogue: 0,0:13:44.74,0:13:45.74,Default,,0,0,0,,Vidim.
+Dialogue: 0,0:14:02.70,0:14:05.15,Default,,0,0,0,,Ti si sa Hanja Crnim Odredom \NSela Šume, jesam u pravu?
+Dialogue: 0,0:14:05.40,0:14:08.20,Default,,0,0,0,,Jesmo.\NSada mi predajte svitak!
+Dialogue: 0,0:14:08.58,0:14:10.42,Default,,0,0,0,,- Dobro onda, u isto vreme...\N- Ti prvi.
+Dialogue: 0,0:14:11.50,0:14:12.50,Default,,0,0,0,,U redu onda.
+Dialogue: 0,0:14:19.46,0:14:20.88,Default,,0,0,0,,Nema greške.
+Dialogue: 0,0:14:21.71,0:14:23.21,Default,,0,0,0,,Sada tvoj svitak?
+Dialogue: 0,0:14:23.29,0:14:24.33,Default,,0,0,0,,Evo ga.
+Dialogue: 0,0:14:26.08,0:14:27.08,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:14:33.25,0:14:35.29,Default,,0,0,0,,Trebali smo da zamenimo svitak, ne vatru!
+Dialogue: 0,0:14:38.50,0:14:42.21,Default,,0,0,0,,Selo Lista se nije držalo našeg \Nsporazuma i napalo nas.
+Dialogue: 0,0:14:42.42,0:14:44.25,Default,,0,0,0,,Tražićemo odmazdu.
+Dialogue: 0,0:14:44.83,0:14:46.29,Default,,0,0,0,,Kakvo smelo lažljivo lice.
+Dialogue: 0,0:14:46.75,0:14:49.29,Default,,0,0,0,,Vi ste oni koji ste \Nprekršili sporazum!
+Dialogue: 0,0:14:53.13,0:14:54.13,Default,,0,0,0,,Kapetane?!
+Dialogue: 0,0:14:54.96,0:14:57.21,Default,,0,0,0,,Oni su planirali da nas izdaju \Nod samog početka!
+Dialogue: 0,0:14:57.54,0:14:59.21,Default,,0,0,0,,Preuzećemo odavde.
+Dialogue: 0,0:14:59.29,0:15:01.38,Default,,0,0,0,,- Vi momci, gubite se odavde.\N- Vi momci?!
+Dialogue: 0,0:15:01.42,0:15:02.42,Default,,0,0,0,,- ANBU?!\N- Pojačanje!
+Dialogue: 0,0:15:03.25,0:15:04.25,Default,,0,0,0,,- Zemljani Stil!\N- Zemljani Stil!
+Dialogue: 0,0:15:04.29,0:15:05.67,Default,,0,0,0,,- Stenovito rušenje!\N- Stenovito rušenje!
+Dialogue: 0,0:15:07.33,0:15:08.33,Default,,0,0,0,,Beži!
+Dialogue: 0,0:15:11.25,0:15:13.17,Default,,0,0,0,,Zemljani Stil... Blatnjavi Zid!
+Dialogue: 0,0:15:25.88,0:15:27.42,Default,,0,0,0,,Bežite odavde vas dvoje!
+Dialogue: 0,0:15:27.50,0:15:28.50,Default,,0,0,0,,Da, gospodine!
+Dialogue: 0,0:15:31.67,0:15:33.92,Default,,0,0,0,,Priča se da si ubio \Njednog svog partnera
+Dialogue: 0,0:15:33.96,0:15:35.25,Default,,0,0,0,,zarad dobrobiti misije.
+Dialogue: 0,0:15:35.96,0:15:38.25,Default,,0,0,0,,Nikada ne bih dozvolio da \Nmoji prijatelji budu ubijeni.
+Dialogue: 0,0:15:39.46,0:15:42.38,Default,,0,0,0,,Zbog toga mi je i bio \Npoveren ovaj Šaringan.
+Dialogue: 0,0:15:43.67,0:15:44.67,Default,,0,0,0,,Beži i ti isto odavde.
+Dialogue: 0,0:15:44.79,0:15:46.96,Default,,0,0,0,,Kao da bih okrenuo leđa misiji!
+Dialogue: 0,0:15:47.83,0:15:48.83,Default,,0,0,0,,Nastavi!
+Dialogue: 0,0:15:49.38,0:15:50.38,Default,,0,0,0,,- Zemljani Stil!\N- Zemljani Stil!
+Dialogue: 0,0:15:50.42,0:15:51.58,Default,,0,0,0,,- Stenovito rušenje!\N- Stenovito rušenje!
+Dialogue: 0,0:15:55.46,0:15:58.17,Default,,0,0,0,,Osam unutrašnjih kapija:\NPeta Kapijo Zatvaranja!
+Dialogue: 0,0:15:58.26,0:15:59.26,Default,,0,0,0,,Otvori se!
+Dialogue: 0,0:16:03.31,0:16:04.85,Default,,0,0,0,,Uspeo je sve to da uradio \Nkoristeći se samo tajdžicuom?!
+Dialogue: 0,0:16:04.89,0:16:06.39,Default,,0,0,0,,Sačuvaj divljenje za kasnije!
+Dialogue: 0,0:16:24.26,0:16:25.35,Default,,0,0,0,,Povlačenje! Povlačenje!
+Dialogue: 0,0:16:51.06,0:16:52.97,Default,,0,0,0,,Tvoja misija je izvršena.
+Dialogue: 0,0:16:53.56,0:16:54.56,Default,,0,0,0,,Vrati ovo Selu.
+Dialogue: 0,0:16:58.51,0:17:00.01,Default,,0,0,0,,Hej, šta to radiš?!
+Dialogue: 0,0:17:01.68,0:17:03.60,Default,,0,0,0,,Ovo je misija koja nam je dodeljena.
+Dialogue: 0,0:17:05.31,0:17:07.51,Default,,0,0,0,,Bez obzira. Prestani, Kakaši!
+Dialogue: 0,0:17:08.72,0:17:09.72,Default,,0,0,0,,Hej!
+Dialogue: 0,0:17:09.76,0:17:10.76,Default,,0,0,0,,Kakav idiot poziva nekoga po imenu
+Dialogue: 0,0:17:10.81,0:17:11.97,Default,,0,0,0,,dok je taj isti na ANBU zadatku?!
+Dialogue: 0,0:17:12.64,0:17:13.72,Default,,0,0,0,,Ti!
+Dialogue: 0,0:17:17.60,0:17:19.31,Default,,0,0,0,,Ne brini, Kapetane.
+Dialogue: 0,0:17:19.97,0:17:21.35,Default,,0,0,0,,Nijedan neprijatelj nije preostao.
+Dialogue: 0,0:17:32.22,0:17:34.14,Default,,0,0,0,,Vratiću se nazad da \Nobavestim Lorda Danzo-a.
+Dialogue: 0,0:17:34.60,0:17:36.10,Default,,0,0,0,,Tvoj deo misije je završen.
+Dialogue: 0,0:17:37.18,0:17:38.18,Default,,0,0,0,,Kapetane...
+Dialogue: 0,0:17:38.81,0:17:42.31,Default,,0,0,0,,Taj Šaringan nije bio \Nprvenstveno tvoj, zar ne?
+Dialogue: 0,0:17:43.26,0:17:44.26,Default,,0,0,0,,Ne...
+Dialogue: 0,0:17:44.47,0:17:47.35,Default,,0,0,0,,Zar ti nije neprijatno zbog \Nposedovanjem takve moći
+Dialogue: 0,0:17:47.39,0:17:48.68,Default,,0,0,0,,koja nije tvoja?
+Dialogue: 0,0:17:49.85,0:17:51.81,Default,,0,0,0,,Ti nisi Učiha.
+Dialogue: 0,0:17:52.72,0:17:54.97,Default,,0,0,0,,Ali poseduješ Šaringan,
+Dialogue: 0,0:17:55.01,0:17:57.35,Default,,0,0,0,,tako da rukuješ istom moći kao i Učihe.
+Dialogue: 0,0:17:58.31,0:18:00.56,Default,,0,0,0,,Na čijoj si ti strani?
+Dialogue: 0,0:18:01.51,0:18:03.35,Default,,0,0,0,,Nikada nisam razmišljao \No tome na taj način.
+Dialogue: 0,0:18:03.85,0:18:07.31,Default,,0,0,0,,Prijatelj je bio poverio \Novaj Šaringan meni...
+Dialogue: 0,0:18:08.10,0:18:11.81,Default,,0,0,0,,koji mi je dao obećanje da nikada \Nneće zaboraviti ono što je važno.
+Dialogue: 0,0:18:12.56,0:18:13.60,Default,,0,0,0,,Prijatelj?
+Dialogue: 0,0:18:15.26,0:18:17.26,Default,,0,0,0,,Da nikada ne pustim prijatelja \Nda bude ubijen.
+Dialogue: 0,0:18:26.22,0:18:28.97,Default,,0,0,0,,Vidim, dobro urađeno.
+Dialogue: 0,0:18:29.35,0:18:30.35,Default,,0,0,0,,Treći Hokage...
+Dialogue: 0,0:18:31.43,0:18:34.76,Default,,0,0,0,,Sada razumem zašto ste rekli \Nda mi ANBU neće odgovarati.
+Dialogue: 0,0:18:35.31,0:18:36.43,Default,,0,0,0,,Vidim...
+Dialogue: 0,0:18:36.85,0:18:42.18,Default,,0,0,0,,Ali ja takođe mislim da ni \NKakaši nije prikladan za ANBU odred.
+Dialogue: 0,0:18:43.18,0:18:44.39,Default,,0,0,0,,Da li je tako?
+Dialogue: 0,0:18:46.89,0:18:48.18,Default,,0,0,0,,Kako je bio početnik?
+Dialogue: 0,0:18:48.93,0:18:53.22,Default,,0,0,0,,Bio je odličan. \NBiće bolji ANBU od mene.
+Dialogue: 0,0:18:54.22,0:18:57.56,Default,,0,0,0,,Ne, ti si izuzetan ANBU,\NUčitelju...
+Dialogue: 0,0:18:58.60,0:19:01.72,Default,,0,0,0,,Postoji neka tama povezana \Nsa ANBU misijama.
+Dialogue: 0,0:19:02.39,0:19:04.35,Default,,0,0,0,,Zašto to sada sve odjednom govorite?
+Dialogue: 0,0:19:05.18,0:19:07.93,Default,,0,0,0,,Odjednom? U pravu si.
+Dialogue: 0,0:19:08.56,0:19:12.31,Default,,0,0,0,,Obmana i ubijanje je sve deo misije...
+Dialogue: 0,0:19:21.72,0:19:22.72,Default,,0,0,0,,Veliki brate!
+Dialogue: 0,0:19:23.18,0:19:24.51,Default,,0,0,0,,Hajdemo zajedno kući, Sasuke!
+Dialogue: 0,0:19:25.39,0:19:27.31,Default,,0,0,0,,Važi! Pa, završio si svoju misiju?
+Dialogue: 0,0:19:30.68,0:19:31.68,Default,,0,0,0,,Veliki Brate! Pogodi?!
+Dialogue: 0,0:19:32.14,0:19:35.60,Default,,0,0,0,,Danas me je moj učitelj \Npohvalio na Akademiji.
+Dialogue: 0,0:19:46.47,0:19:48.10,Default,,0,0,0,,Hej, Kakaši...
+Dialogue: 0,0:19:48.76,0:19:51.35,Default,,0,0,0,,Izvini zbog onoga što \Nse desilo tokom te misije.
+Dialogue: 0,0:19:52.35,0:19:54.14,Default,,0,0,0,,Ne... I ja se izvinjavam takođe.
+Dialogue: 0,0:20:01.26,0:20:03.18,Default,,0,0,0,,Neko od vas možda nije ni svestan,
+Dialogue: 0,0:20:04.18,0:20:06.60,Default,,0,0,0,,ali moj sin Itači se priključio ANBU.
+Dialogue: 0,0:20:07.51,0:20:10.10,Default,,0,0,0,,Biti u neposrednoj blizini \NHokagea i vrhovnih ljudi
+Dialogue: 0,0:20:10.14,0:20:12.35,Default,,0,0,0,,znači pristup više informacija.
+Dialogue: 0,0:20:13.14,0:20:17.01,Default,,0,0,0,,A to je upravo blagoslov Učiha Klanu.
+Dialogue: 0,0:20:18.01,0:20:20.81,Default,,0,0,0,,Itači, da li imaš bilo \Nšta da nas obavestiš?
+Dialogue: 0,0:20:21.39,0:20:22.39,Default,,0,0,0,,Pa...
+Dialogue: 0,0:20:25.68,0:20:28.35,Default,,0,0,0,,Još uvek sam nov, tako da nema \Npuno toga da se kaže.
+Dialogue: 0,0:20:29.10,0:20:30.76,Default,,0,0,0,,Međutim, mislim \Nda ne postoji solidarnost
+Dialogue: 0,0:20:30.81,0:20:33.22,Default,,0,0,0,,u višim rangovima Sela Lista.
+Dialogue: 0,0:20:34.22,0:20:38.01,Default,,0,0,0,,Moje je uverenje kako \Nće se Učiha Klan nositi sa tim
+Dialogue: 0,0:20:38.06,0:20:41.18,Default,,0,0,0,,i odrediti budućnost \NSela Sakrivenog u Listu.
+Dialogue: 0,0:20:42.31,0:20:45.01,Default,,0,0,0,,Tačno. Po svim pravilima,
+Dialogue: 0,0:20:45.06,0:20:47.85,Default,,0,0,0,,Učiha Klan mora biti uključen \Nu budućnost Sela Lista.
+Dialogue: 0,0:20:47.89,0:20:51.22,Default,,0,0,0,,- To je tačno!\N- Tačno!
+Dialogue: 0,0:20:51.26,0:20:54.85,Default,,0,0,0,,- Da!\N- Da, to je tačno!
+Dialogue: 0,0:21:00.01,0:21:01.01,Default,,0,0,0,,To je...
+Dialogue: 0,0:22:38.76,0:22:40.01,PV,,0,0,0,,Pošto si bio u ANBU,
+Dialogue: 0,0:22:40.47,0:22:42.22,PV,,0,0,0,,ova misija ne može biti izbegnuta.
+Dialogue: 0,0:22:42.68,0:22:44.09,PV,,0,0,0,,Kakva je ovo vrsta misije?
+Dialogue: 0,0:22:45.05,0:22:47.59,PV,,0,0,0,,Pre 6 godina, tokom\Nicidenta sa Devetorepom Lisicom,
+Dialogue: 0,0:22:48.09,0:22:51.72,PV,,0,0,0,,Vrhovni Rangovi su sumanjli\Nda je sve to Učiha uradila.
+Dialogue: 0,0:22:52.93,0:22:54.80,PV,,0,0,0,,Od tada, nastao je 24h nadzor
+Dialogue: 0,0:22:54.84,0:22:55.97,PV,,0,0,0,,u Učiha okrugu.
+Dialogue: 0,0:22:57.43,0:23:01.01,PV,,0,0,0,,Sledeći put u Naruto Shippuudenu:\NDržavni Udar
+Dialogue: 0,0:23:02.05,0:23:03.47,PV,,0,0,0,,Misija je misija.
+Dialogue: 0,0:23:03.51,0:23:05.01,Default,,0,0,0,,DRŽAVNI UDAR
+Dialogue: 0,0:23:05.05,0:23:10.05,Default,,0,0,0,,Uključi se ponovo!

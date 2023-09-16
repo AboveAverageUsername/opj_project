@@ -1,0 +1,735 @@
+{300}{}Vani sa 16- ili  mrtva na sceni,|ipak skupa zauvjek.
+{750}{}Lezi!
+{1225}{}Lezi!
+{1325}{}Mislila sam da æeš umrijeti?
+{1425}{}Mijenjam se.|Pun mijesec nema ništa s tim.
+{1622}{}Isto kao infekcija...|Djeluje iznutra prema vani.
+{1697}{}Kao virus.
+{1875}{}Nešto je stvarno ,stvarno loše sa mnom.
+{2122}{}Nemogu biti takva.
+{2172}{}To je od fratra kapuljaèa.
+{2225}{}Neznam jel se to puši ,pjeva il šta...?
+{2272}{}...ipak moram probati.
+{2900}{}Ginger!|Molim ja sam....
+{3750}{}Na tragu sam ti.
+{3972}{}Hoæeš doæi kasno veèeras...
+{4022}{}...ostaješ dok svi|pohlepni èitaoci ne odu?
+{4100}{}Prvilaèim te,iako se bojiš odbiti.
+{4172}{}I tako zadržavaš,...
+{4247}{}...kao da èekaš|na onaj pravi trenutak.
+{4372}{}Ne sikiraj se cijeli se život baviš s tim.
+{4522}{}Šalim se.
+{4675}{}Rajfešlus imaš odkopèan.
+{4825}{}U redu.
+{4922}{}Savršeno.
+{4997}{}Da.
+{5050}{}Da, i sam želim nekada puštati krv.
+{5225}{}Dobro.
+{5250}{}Brigitte Fitzgerald.
+{5322}{}Na žalost imaš prenatrpan raèun.
+{5425}{}I tehnièni, ako duguješ|više od 6$, ja samo...
+{5575}{}U redu, vidimio se kasnije.
+{7222}{}Brzo se pozdravljaš, zar ne?
+{7297}{}Znaš, to sranje nije lijek.|To samo usporava transformacijo.
+{7400}{}Ne zaustavlja je, B.
+{7450}{}Ništa je neæe ustaviti.
+{7522}{}Šta radiš?
+{7572}{}Danas si se veæ fiksala.
+{7625}{}To je otrov, B.|Ne moreš non stop pucati.
+{7947}{}Sjeæaš li se igre.koju smo igrali kad smo bili mali?
+{8025}{}Onu, kad smo...
+{8072}{}...zadržavali dah,|dok nismo pali u nesvijest?
+{8150}{}Ti si se uvjek prepala|i pozvala mamu...
+{8225}{}...i ja sam imala probleme.
+{8297}{}Ta igra je bila stvarno bez veze.
+{8747}{}Osjeæaš li?
+{8825}{}Nisi sama.
+{8925}{}Opet te je našao.
+{9350}{}Zdravo, to je velik prekršaj|knjižniènih pravila,...
+{9400}{}...ipak sam ti donio knjige.
+{9550}{}Jesi li  uredu?|Šta si uzela?
+{9622}{}U redu.|Dodj,dodji.
+{9700}{}Dodji.|Dodji u kamion.
+{9750}{}Pazi na glavu.|obezbjedicuti pomoæ, uredu?
+{9897}{}U redu. U redu.
+{9950}{}Biæe sve uredu sa tobom?|Obezbjediæu ti pomoæ.
+{10022}{}Ne!
+{11100}{}Hej, spavaèica.
+{11150}{}Vreme je.
+{12500}{}Zdravo.
+{12522}{}Ja sam Alice Seversen.
+{12622}{}Vodim program tu uIHappier Times Care Center.
+{12725}{}Hoæeš sjesti?
+{12822}{}Tvoja kartica iz biblioteke je bila jedina identifikacija.
+{12897}{}...kaže, da je tvoje ime Brigitte.|Jeli to istina?
+{12975}{}Jeste li ga našli
+{13025}{}Našli koga?
+{13075}{}Knjižnièara... Jeremyja.
+{13222}{}Došlo je kroz prozor.|Napalo ga je.
+{13322}{}Ne, pretrpila si|smrtno anafilaktièko reakcijo.
+{13422}{}Slušaj,|videla sam momka kako umire.
+{13475}{}Njegova krv je bila na mom licu.
+{13525}{}Imala si krv na licu,|ali to je bilo od urezlina na tvojim rukama.
+{13647}{}Vidjela sam.
+{13725}{}Koad sam uporabljala drogu,...
+{13775}{}...bila sam sigurna,|da mi je gluhi Norvežan,...
+{13875}{}...kioji je živio u stanu  preko,|probao odrezati noge.
+{13950}{}Udji.
+{14050}{}- Zdravo.|- Brigitte, to je Luke.
+{14100}{}Trebaæe uzorak krvi.
+{14172}{}Predvidjam ,da se ne bojiš igli.
+{14347}{}Zaradi ponovnih urezlina, moraju  biti ustanove,|kao što je naša, kreativne.
+{14422}{}Djevojke na drogi ne prolaze dobroIu privatno financiranim krugovima
+{14525}{}Tako smo prije tri godine postali|dupla nabavna ustanova.
+{14597}{}Gostimo kroniène paciente|iz bolnièkog sistema.
+{14672}{}Barbara je bila jako|opeèena u požaru.
+{14750}{}To je njena unuka.
+{14800}{}Tu æe biti,|dokl jiojne najdemo roditelje.
+{14947}{}Bolnica je bila igradjena| 1920godine,...
+{15000}{}...za karantenu|pacienata s tuberkulozom,...
+{15075}{}...iako je naša jedinica,|jedina još u funkciji.
+{15147}{}Ostala krila su se|zatvorila pre par godina,...
+{15225}{}...i strogo su zabranjena.|Mala nakaza.
+{15275}{}Znaèi, poèinješ u zatvorenom odjelku,|koji èuvamo do tvog oporavka.
+{15347}{}I zatim idemo od tu naprjed|na osnovu tvoga napredovanja.
+{15422}{}"Znala je,da su bili njeni|zatvorenici sposobni strahota?
+{15500}{}- Brigitte, Ghost. Ghost, Brigitte.|- "Ponoæi su muèili...
+{15572}{}...svoje zatvorenike u svinjskoj masti?...
+{15622}{}...Ona je!|Pobjegla je!"
+{15825}{}Oprostite, dame.
+{16547}{}To je tvoj izbor...
+{16597}{}...ideš sa nama|ili da te odvuèemo.
+{16647}{}Krv joj teèe.
+{16800}{}Ja sam Tyler.|To je Marcus.
+{16922}{}To je tvoj red,|da nam kažeš  svoje ime.
+{17100}{}Tvoja odjeæa je na èišæenju.
+{17650}{}Opet pišem,...
+{17722}{}...što se osjeæa, kao dolazak kuæi,|jer...
+{17850}{}...je , to , što radim.
+{17900}{}I osjæam se osvježeno i prestrašeno...
+{17972}{}...jer...|... se moram suoèiti...
+{18097}{}...s istinom,|kad pišem.
+{18175}{}Kao dokaz,|da je moja kemièna ovisnost:
+{18247}{}A, posledica stvari,|koje su mi se desile u djetinjstvu;
+{18350}{}i B, da moram djeliti te stvari...
+{18422}{}...sa svima vama tu;
+{18497}{}i C, sada nema zadržavanja.
+{18575}{}Dr. Brookner,|ako ne ušuti,...
+{18622}{}...obeæavam, da æu je prisiliti,|da æe opet piti svoju mokraèu.
+{18700}{}Ništa tako neæe raditi, Winnie.
+{18772}{}Brigitte, imaš sobu pouno Ijudi,|koje puno zanima Brigitte.
+{18875}{}I sluèajno, soba puna Ijudi,|koji misle, da stvarno šepaš pri samoubistvu.
+{18975}{}Kaji je tvoj najbolji scenarij, a?
+{19075}{}Idi tamo.
+{19375}{}Moj najbolji scenarij, Eleanor,...
+{19450}{}...su kose svuda,|ipak moje oèi,...
+{19500}{}...produžetak moje kième,|dok mi koža ne pukne,...
+{19575}{}...sise i rastuæa toleranca,|možda i moja naklonjenost do...
+{19647}{}...mirisa i ukusa...|ne samo moga...
+{19747}{}...i zatim muèna smrt.
+{19922}{}Znaš, Brigitte,...
+{19972}{}...nekim djevojkama se èini grupa korisna.
+{20047}{}- Ne možem biti tu.|- Vruæinu imaš.
+{20125}{}Ipak ne sekiraj se,|to je èesto.
+{20200}{}Hoæeš da prièamo otomeIšta si si ubrizgala,?
+{20272}{}Sama ne prepoznam,|što je veoma impresivno...
+{20350}{}...nema dosta stvari,|s kojim ne bi bila upoznata.
+{20425}{}Mora biti super igrati ulogu.
+{20600}{}A može?
+{20672}{}Onda, reci mi...
+{20750}{}...zašto si mjerila kako dugo trebaju tvoje urezline, da zarastu?
+{21097}{}Pogledaj, Alice.
+{21147}{}Kad bi bila luda,|tako ko što misliš, da sam,...
+{21225}{}bila bi ti zahvalna,|da bi mi neko, ko što si ti pomagala.
+{21325}{}I Brigitte...
+{21375}{}...kad bi bila ja luda|tako ko što ti hoæeš,...
+{21472}{}...bi te pustila.|Bila sam že tamo, gdje si sada ti.
+{21572}{}Nemaš pojma, gdje sam.
+{21650}{}Ako me budeš držala,|ljudi æe poèeti umirati.
+{21925}{}Toliko da znaš,|prjetnje su velike ne-ne pri Alice.
+{22172}{}Ako me budeš držala,|ljudi æe poèeti umirati.
+{22500}{}Zašto uznemiravati, B.?
+{22547}{}Znaš, stvarno se brzo popravljaš.
+{22597}{}Samo je pitanje vremena,|kad æeš se poèeti mjenjati izvana.
+{22800}{}Znaš, mjenjaš se.
+{22847}{}On zna, da se mjenjaš.
+{22897}{}I naæi æe te.
+{23347}{}Hej!|Jesu li veæ došli Brigitteini uzorci krvi?
+{23425}{}Da.
+{23425}{}I jedina stvar u njenom sistemu,|je stvar, koju smo našli na njoj.
+{23525}{}To je travnati ekstrakt,|imenovan fratrova kapuljaèa.
+{23625}{}Potpuno legalno, potpuno dostupno.
+{23697}{}Prodaja se u tehnièkim trgovinama...
+{23772}{}...za aranžiranje suhih ruža.
+{23825}{}Oh, Isuse.|Nikad još nisam èula za to.
+{23900}{}To je zato, jer fratrova kapuljaèa nije stimulant.
+{23975}{}Ne?IPa šta je onda?
+{24000}{}Otrov... nazvan aconitum napeus,...
+{24097}{}...ili vuèija smrt.
+{24175}{}Ipak to... to ni je lako.
+{24222}{}To bi poslalo popreènoga|odrasloga u aseptièan šok.
+{24300}{}Znaèi da je odvisna od otrova.
+{24375}{}Hej, šta sam ti rekao|glede prisluškivanja, a?
+{24450}{}Ma hajde, bježi.
+{24497}{}MomciAlice.
+{24797}{}Hej, B-B.
+{25875}{}Vuèja smrt.
+{26375}{}Šta radiš tu?
+{26400}{}Interesantno, kave stvari najdeš|tu ponoæi.
+{26722}{}Hoæeš mi dati to?
+{26797}{}Ipak,æu ja napraviti.
+{26925}{}I mogu izabrati gdje.
+{27000}{}- Zašto?|- Kladim se, da si bila jedna od tih djevojaka,...
+{27050}{}...koje su mamu uvjek pitale "Zašto?"
+{27097}{}"Mama, vani je hladno, zašto?"
+{27197}{}"Mama, vani je mrak, zašto?"
+{27322}{}Trebam to.
+{27400}{}Zašto
+{27472}{}- Daj to ovamo.|- U redu.
+{27525}{}Ipak mora biti negdje,|gdje niko drugi neæe znati.
+{27625}{}Skini hlaèe.
+{27697}{}Jebi se.
+{27847}{}To je bilo previše.
+{27947}{}Laku noæ, Brigitte.
+{28722}{}Zašto imajo svi,|koji su ubiti, tetovaže?
+{28797}{}"Zašto se je|tako jako želio rješiti?"
+{28847}{}Jer je veæ bilo vreme za spavanje.|Idemo.
+{28925}{}Zaèepi uši|pred njegovim lažima, Rocky.
+{29050}{}"Kasno naveèe,|u skrivenim prostorijama...
+{29125}{}...je iznio svoju|vladavinu moralnoga terora. "
+{29225}{}A zar se ne kaže fatalnoga terora?
+{29250}{}Ne.
+{29297}{}Oh, dobar momak.
+{29372}{}Dodji ovamo.
+{29897}{}Jel izmišljaš još više spolnih zloupotreba djece?
+{29975}{}Štapovi i kamenje.
+{30397}{}Ping!
+{30472}{}Oh!
+{30650}{}Ovo postaje dosadno
+{30725}{}To je stara igra,...
+{30772}{}...bacanje sitnišaIna lokalnoga idiota ili patuljka.
+{30947}{}Ne vidim televizije.
+{31175}{}Kažem, da ne vidim televizije!
+{31300}{}Hoæeš, da te ja bacim|u njenu glavu?
+{31550}{}Pokvareno, ipak još uvjek u škripcu.
+{31575}{}To je pohvalno, bezobzira na to,|šta bi joj uradila.
+{31650}{}Za ubuduæe preporuèujem|razbijanje Beth-Annine glave...
+{31722}{}...s èinelama ili|s spravom za provale.
+{31775}{}- Još uvjek postoji drugi put...|- nestani.
+{31847}{}Kad zatvoriš oèi,|vidiš li pakao?
+{31975}{}što brže lijeèiš,|bliže dolazi, B.
+{32072}{}Jel  tako, što brže dolaziš,|brže se ljeèiš.
+{32500}{}Taj je dobar.
+{32550}{}"U mraku tame je bila|boginja noæi,...
+{32647}{}...koja je hodala po brjegu|s ovèarskom  palicom...
+{32700}{}...i krdom lovaèki divlji pasa.
+{32747}{}Lovaèki psi"...
+{32775}{}...bili su iz pakla...
+{32822}{}..."radili su joj pokvarene stvari |a ona nije ni prsta pomaknula. "
+{32947}{}"Njen prst... konaèno je bio|oplemenit s djeèijim zubima. "
+{34125}{}Tu imaš.
+{34500}{}Na ruèku sam.
+{34697}{}Nije ti se dopalo, kad je Tyler|došao u sobu,zar ne?
+{34750}{}Drugim je.
+{34875}{}Sve mi kaže.|Imamo sporazum.
+{35200}{}- Mjenjaš li se kad je pun mjesec?|- Previše gledaš horor.
+{35300}{}Ne smem gledati horor,...
+{35372}{}...ili tehnièki, èitati stripove.
+{35425}{}Ili lakomno jesti hrano...|Previše sam osjetljiva.
+{35497}{}- Zašto me to ne iznenadjuje?|- Ne ne lakomnost...
+{35575}{}...to jelprobava.
+{35822}{}Tvoje uho.
+{35972}{}Idi vani!
+{36022}{}Znam gdje   Tyler skriva svoju robu.
+{36075}{}Kažem ti,idi van.
+{36350}{}Ginger?
+{36397}{}Stvarno moramo poprièati.
+{36472}{}Zadnjih nekoliko dana|sam se osjeæala nekako zapušteno,...
+{36600}{}...kad sam te gledala s tvojim|novim prijateljima.
+{36750}{}Evo poèinje.
+{36800}{}Tako je.
+{36872}{}Utorak, imaš dve moguænosti, a ne?
+{36947}{}Ili se predaš ili prodaš.
+{37025}{}Umre , ili ne.
+{37075}{}Neæu umrti.
+{39622}{}Izvoli.
+{40522}{}Mogu li gledati?
+{40597}{}Otidji molim te .
+{40897}{}Hej!
+{40950}{}Ako se još jednom dotakneš mojih stvari,...
+{40997}{}...reæiæu Alice,|gdje skrivaš svoje stripove.
+{41625}{}mirišiš li me?
+{41750}{}Trebam to.
+{41800}{}Da, to si veæ prije reko.
+{41875}{}Zašto si to moro uraditi?
+{42047}{}Napravio sam grešku.
+{42097}{}Molim te, daj mi to.
+{42175}{}Ne.
+{42197}{}Moraju biti posledice|za naša djela,...
+{42275}{}...ili nema nikakvog reda.
+{42325}{}I mora biti red|u prostoru...
+{42375}{}...ili stvari postaju|veoma, veoma izmješane.
+{42497}{}Kažem... trebam to.
+{42572}{}Saèuvaj za grupu.
+{42925}{}Dobrodošla na rehabilitaciji, djevojèice.
+{43300}{}Poèinješ shvatati, ili ne?
+{43375}{}Kako je sve poèelo|s htjenjem?
+{43447}{}O èem si razmišIjala,|kad je bio s tobom u štali?
+{43522}{}i unatoè tome sam...|bila sam...šokirana.
+{43672}{}Htjela sam fratorovu kapuljaèu
+{43750}{}- I ja ...|- Ija...
+{43825}{}Šta si htjela,|kad se stisko uz tebe?
+{43897}{}Poèinješ svatati zar ne?
+{43972}{}Kako se zapoène sve naivno.|Danas hoæeš seksati snjim,...
+{44050}{}...a sutra hoæeš|napraviti rupu u njemu.
+{44122}{}Razmisli o tim spretnostima,...
+{44172}{}...koji napune zamišljeni ruksak,...
+{44250}{}...da je spreman za putt,|uvjek kad i ti.
+{44325}{}Zatvorite oèi.
+{44375}{}Brišem sve što si|bilo kad bila,...
+{44447}{}..sva imena,|s kojim su te zvali.
+{44525}{}Imena, s kojim|si samu sebe zvala...
+{44572}{}...to je prošlost.
+{44625}{}Ustvari nije ni prošlost,...
+{44722}{}jer to što doživljavaš,|je svjet...
+{44822}{}..kao prvi put.
+{44875}{}Pomisli na strukturo pod tebom,...
+{44950}{}...drvo i metal,|koji te podupiru.
+{45025}{}I, kad bude tvoja ruka na...
+{45075}{}...tvojem klitorisu...
+{45122}{}...poèeæemo sa nježnim...
+{45197}{}...kružnim pokretima u suprotnom smeru od sata.
+{45450}{}Eksperimentirajte...
+{45497}{}...s ritmom.
+{45547}{}Najdite svoga.
+{45622}{}Predstavljajte si prsa stranca,...
+{45697}{}...kad njegov pogled prodire kroz tebe.
+{45772}{}Sada zagrabiš to,|šta je u njemu.
+{45872}{}Njegovo srce.
+{45925}{}Meso.|Jaki mišiæi.
+{45997}{}A vrišti, kad|trgaš njegovo nežno meso?
+{46122}{}Oh, da.
+{46175}{}I njegova krv...
+{46222}{}...otopli tvoje grlo.
+{46275}{}Èudovita forma, B.
+{46447}{}Brigitte?|Jel sve u redu, Brigitte?
+{49425}{}10 minuta do zakljuèavanja.
+{49522}{}Hoæu , da me dodješ pogledati.
+{49597}{}Tu sam.
+{49722}{}Usvojoj sobi.
+{49800}{}To bi bilo|suprotno od pravila.
+{49922}{}Molim?
+{50050}{} Smijiš se?
+{50097}{}Šta?
+{50147}{}Možeš li se smijati?
+{50325}{}Vidiš...
+{50325}{}...nasmej se svetu...
+{50375}{}...i svjet æeIse tebi nasmijati.
+{50497}{}Morala bi iæi|nazad u svoju sobu.
+{50672}{}Hoæeš doæi?
+{50750}{}Razmisli æu.
+{51072}{}Rocky!|Pogledaj šta imam?
+{51247}{}Rocky!
+{51375}{}Rocky?
+{51447}{}Rocky?
+{51497}{}De pusti za njega..
+{51572}{}Iako Rocky uvjek dodje.
+{52347}{}Ne izgledaš sreæna.
+{52397}{}Hoæeš li me opet pokušati nasmijati?
+{52500}{}Jesi kad razmišljo|o promjeni struke?
+{52572}{}Znaš šta?
+{52625}{}Ja sam zadovoljan|sa igranjem male,...
+{52675}{}...ali veoma važne uloge|u ovoj ustanovi.
+{52722}{}Mislim, da zato,|jer sam osoba za ljude.
+{52922}{}Išta su upšte te stvari?
+{52972}{}Jeli bitno?
+{53022}{}Ustavi i nije.
+{53325}{}Šta je s tim?
+{53400}{}Imam dobar osjeæaj za miris.
+{53472}{}Èudno.
+{53647}{}Tu ispod je vena...
+{53697}{}...koja ja veoma samostalna.
+{53800}{}Znaèi briješ se?
+{53850}{}No, mislim, da je to krasno.
+{54300}{}Tu imaš.
+{55000}{}Rocky!
+{55500}{}Rocky?
+{55800}{}Rocky!
+{56425}{}Opet æu te provjerit|za pola sata.
+{56822}{}Šta?
+{57197}{}"Rocky trèi.|Rocky se igra. "
+{57247}{}"Rocky-u nedostaju|dobri stari dani. "
+{57325}{}Zašto si to uradila?
+{57375}{}Ništa ti nije uradijo.
+{57425}{}Nisam ja to uradila.
+{57550}{}Rekla sam im,|neka ostave samog vani,...
+{57622}{}...da bi bio ranljiv|za opasnosti noæi,...
+{57750}{}...od kojih si ti najgora.
+{57797}{}Šta bi ja mogla napravit?|Ne mogu izaæi iz svoje sobe.
+{57850}{}Ne znam.
+{57900}{}Ti... Ti se premakinješ|kroz zid ili nešto slièno.
+{57947}{}Ghost, misliš, da bi bila tu,|kad bi mogla prolazit kroz zidove?
+{58100}{}Važno je gdje si ga našla?|Vani?
+{58197}{}Odzada zida krematorija...
+{58250}{}...u napuštenom dijelu.
+{58272}{}- Našlo me ja.|- Šta te je našlo?
+{58347}{}Moram odavde.
+{58425}{}Mogu li te odvesti vani?
+{58500}{}Šta si sad rekla?
+{58522}{}Znam put van...
+{58575}{}...kroz ventilaciju.
+{58597}{}Samo me moraš uzeti sa sobom.
+{58747}{}Sad æu pokucati.
+{62172}{}Ghost?|Ghost?
+{63875}{}Tu.
+{63972}{}Moram ostaviti vrata|otkljuèana,u redu?
+{64022}{}Samo donesi to nazad.
+{64347}{}Brigitte?
+{64397}{}Šta...|Šta radiš tu?
+{64475}{}Šta radiš tu?
+{64625}{}Hoèeš snif?
+{64650}{}Moram naæi put odavde.
+{64975}{}Brigitte?!
+{65150}{}Brigitte?
+{65272}{}Brigitte?
+{65550}{}Brigitte?
+{65697}{}Brigitte?
+{65925}{}Ne trudi se.
+{65950}{}Alice je vjerovatno zapeèatila|svaki prozor posebno.
+{66175}{}Dali vidiš stvari,|kad si zadrogirana?
+{66300}{}Upravo sam vidila veoma èudne stvari.
+{66397}{}Ko životinja je,|ali deformirano.
+{66500}{}Beth-Ann?
+{67400}{}Brigitte!|Rekla si, da æeš me saèekati.
+{67450}{}-Vrati se nazad u bolnicu.|- Zašto?
+{67500}{}Šta... Šta se dešava?
+{67625}{}Ima Beth-Ann.|Kako æe mo otiæi odavde?
+{67775}{}- Po ovom putu.|- Ne možemo po tom putu.
+{67850}{}Ovamo.
+{68200}{}Jesi li sigurna,|da je to pravi put?
+{68272}{}Ovdje
+{69022}{}Ghost?
+{69150}{}Ghost?|Ghost?
+{69272}{}Ghost?|Ghost?
+{69375}{}Ghost, šta radiš
+{69550}{}Moramo platiti prevoz.
+{69625}{}Idemo.
+{69772}{}Puno sreæe na tvojem žalostnom putovanju|na drugu stranu, Beth-Ann.
+{69847}{}Oprosti, da smo bili tako bezobrazni.
+{70500}{}Brže!
+{70825}{}To je krematorij.
+{70850}{}Od zada bi morao|postojati put za napred.
+{70922}{}Tamo unutra!
+{71175}{}Idi! Idi!
+{72875}{}Doði, idemo!
+{73372}{}Poði u auto.
+{73522}{}- Misliš, da je mrtav?|- Samo idi!
+{74072}{}O bože krvaviš!
+{74122}{}- Šta ako izkrvaviš?|- To je naša naj manja briga.
+{74272}{}jel to onaj|što te je ugrizo?
+{74300}{}Nisem bila ja ugriznuta,|veæ moja sestra.
+{74350}{}I ne, nije bio isti.
+{74400}{}No... no,|od kud je došo?
+{74447}{}Iz nekonaène tame?
+{74497}{}Mislim, da ne, Ghost.
+{74572}{}Ne volim predgraða.
+{74647}{}- Ako te nije ugrizo, onda...|... sam se sama zarazila s njenom krvi.
+{74750}{}Mislila, sam, da æu je ustaviti,Iako budem ko ona.
+{74800}{}Uvjek sam htjela da imam sestru.
+{74847}{}Gdje je ona sad?
+{74925}{}Nema više.|Ustavila sam je.
+{74975}{}Ubila si svoju sestru?
+{75022}{}U tome, šta sam ubila,|nije ostalo puno Ginger.
+{75125}{}Onda... Onda, šta si upotrebila,|srebrnu kuglu?
+{75200}{}Nož.
+{75222}{}To nisu super-heroji, Ghost.
+{76875}{}Jel sve u redu s tabom?
+{76925}{}Tvoja kupaonica ne radi.
+{76975}{}- Da. Ti...
+{77147}{}Možeš upotrebiti|kupaonicu za osoblje.
+{77250}{}Doði.
+{78597}{}Imam èips.
+{78672}{}Alice kaže, da èips ne spada|u nijednu od èetiri grupe hrane.
+{78772}{}Jedna od mnogih njenih laži.|Još uvjek jedeš èip, ne?
+{78847}{}Prebrzo se dešava.|Trebam još fratrove kukuljice.
+{79025}{}Gdje je igla?
+{79100}{}Oh, sranje.
+{81125}{}Stvarno trebam injekcijo.
+{81300}{}Zar nije tvoja baba imala|Šeæer...
+{81350}{}...ili alergiju na lešnike,|ujed pèele il nešto drugo?
+{81422}{}Zašto to jednostavno ne popiješ?
+{81500}{}Probala sam veæ.|Ne djeluje.
+{81550}{}Daj si ga unos.|Tako rade sve djevojke.
+{81822}{}nikad nisam ni kod koga prespavala.
+{81925}{}jednom sam skoro,...
+{81947}{}...ipak zatim je Barbara|rekla mami Caroline Kish,...
+{82025}{}...da æe morati platiti|9 dolara na sat,...
+{82075}{}...jer je to bilo,|kao èuvanje djece.
+{82125}{}Jel to ona?|Tvoja bakica?
+{82172}{}Aha. To je Barbara.
+{82247}{}Bila je lokalna prvakinja|u balinanju na ledu èetiri godine zaredom.
+{82500}{}Svoju babicu zoveš Barbara?
+{82572}{}- Ona me je zvala Ghost.|- Zašto tako?
+{82747}{}Barbara je imala knjigu|"Promjene u ponašanju"...
+{82825}{}...kad sam ja bila stara 7 godina.
+{82875}{}Bila je o podsavjesnom javljanju.
+{82925}{}Zvala me je Ghost, jer je mrzila|nenadanun buku, koju sam èesto stvarala.
+{83225}{}Ponekad je razljutila|samo hodanje uokolo.
+{83647}{}Tu je stavljala|lsijalice za Božiæ.
+{83700}{}Ja sam bila u dnevnoj sobi...
+{83750}{}...i ona se derala,|da ih ja ukljuèim, da je mogla vidjeti,...
+{83822}{}...koje su pokvarene.
+{83875}{}Zapalile su njenu sintetiku.
+{83950}{}Kad sam došla,|derala se,...
+{84022}{}...poskušavajuæ ustaviti i odviti.
+{84097}{}Iako se je|više i više zapetljavala muðu sijalice.
+{84197}{}To je stvarno ružno.
+{84350}{}Zajebavam te.
+{84397}{}Zaspala je s svojom|cigaretom za laku noæ.
+{84450}{}Uvjek sam joj govorila,|da ne puši u krevetu.
+{84550}{}Smješno.
+{84597}{}Poslje nesreæe,|sam ja brinula za nju.
+{84672}{}- Ljudji misle, da je to slabo.|- Jesi li zbog toga u bolnici?
+{84750}{}Ne, ja sam u bolnici zato,|jer Alice dobiva više novca, ako me drže tamo.
+{84850}{}Jel to istina?
+{84872}{}Da, jednostavno si izmisli|drugu stvar o meni, da me fiksira,...
+{84947}{}...kao "Mržnju |do konvencialnog morala".
+{85025}{}Ili "PDB"...|to je Pažnja Deficitna Bolest.
+{85100}{}Ustvari to je greška...|Pažnja Dificitna Greš...
+{85147}{}Bilo šta"Nesposobnost komuniciranja|s ostalim stanarima."
+{85247}{}Vidjela si ih.|Ko bi htio govorit sa njima?
+{85347}{}Barbara je imala suhe oèi.
+{85450}{}Ne razumem, kako bi to|došlo u tvoju krv.
+{85522}{}Nije tako dobro, kao injeciranje,...
+{85572}{}...veæ membrana|za tvojim oèima je nežna,...
+{85650}{}...kao dno tvoga jezika.|Problem sa ustima...
+{85697}{}- ... slina, koja uništava otrov...|- Voliš li nauku, ha?
+{85822}{}I ja isto.
+{85947}{}Bolesno...|Ne možem gledati.
+{86197}{}Naæe te, zar ne?
+{86297}{}Dokaz, da te noæas|nije ubilo...
+{86397}{}...nešto znaèi.
+{86450}{}Možda je, kao ti...
+{86500}{}...i nije u njegovoj prirodi ubijati|i sakrito hoæe...
+{86575}{}Ghost...
+{86625}{}...hoæe se pariti sa mnom.
+{86800}{}Ne poskušavaj previše,|da bi si to predosjeæala.
+{87000}{}Sestra i ja smo si djelile sobu.
+{87097}{}Svaku noæ si prespavala.
+{87150}{}Nešto slièno.
+{87222}{}Jeli ti nedostaje?
+{87475}{}uvjek.
+{88822}{}Ghost?!
+{89225}{}Ghost?!
+{90097}{}Ghost?!
+{90300}{}Tu sam.
+{90597}{}Koja je to stvar, tamo ispred?
+{90675}{}Polly.
+{90700}{}Polly Ester.|Ona eksplodira.
+{90747}{}Kad je postavim na dvorište,|biæe prièvršæena za poteznu špagu.
+{90847}{}Vidjeæemo,|kako æe mu se dopasti.
+{91122}{}To trebam biti ja?
+{91200}{}Izgledam opasno.
+{91325}{}Šta radiš |s tim stvarima?
+{91397}{}Stripovi su veoma nekonkretni
+{91450}{}Njihovi proizvoðaèi jih šalju|van u svjet...
+{91497}{}...nepripremljene na demone|i neprijatelje, s kojim æe se suoèiti.
+{91575}{}Ja imam njihovu slabost...|ojaèavam ih.
+{91647}{}Ko je to?
+{91700}{}Izgorjela Barbara.
+{91772}{}Oduzela sam joj živèane niti,|tako da ne osjeæa bolove.
+{92022}{}I, šta æeš dati meni?
+{92075}{}Šta hoæeš?
+{92272}{}Vremena.
+{92350}{}To je teško.
+{92475}{}Moraš me ostaviti.
+{92547}{}Moraš uzeti auto|i moraš otiæi odavde.
+{92647}{}Ti nisi ostavila sestre.
+{92725}{}To je bilo drukèije.
+{92772}{}- Ona se nije više kontrolirala.|- A ti si?
+{92850}{}Pogledaj se.
+{92950}{}Neæu te ostaviti.
+{93350}{}"Njena izolacija je bila slaba,|s poveæanom željom da ždere muškarce...
+{93500}{}...ali se upirala,...
+{93547}{}...jer je znala, da bi to donjelouništenje i smrt. "
+{95300}{}Samo ja sam.
+{95425}{}Prestrašila si me.
+{95525}{}Polly.
+{95675}{}Uništi li smo ðavola.
+{95747}{}Ostani unutra.|Moguæe je još živ.
+{96275}{}Polly je dobila jelena.
+{96650}{}"Kleknula je, da bi|pojela pernatu nevinost...
+{96872}{}I preko naselja...
+{96897}{}...je otišlo šumsko biæe. "
+{97450}{}Trebami više fratrove kapuljaèe.|Pozvati moramo Tylerja.
+{97600}{}Krv imaš na licu.
+{97825}{}- Halo?|- Brigitte tu.
+{97897}{}Šta?|Gdje za vraga si?
+{97997}{}Daæu ti bolnièko auto,|ako mi doneseš moje stvari.
+{98075}{}Dobro... dobro, samo saèekaj.|Da ugasim televiziju.
+{98200}{}Brigitte, jesi li još tu?
+{98325}{}Nešto tako.
+{98500}{}Prošao je 1 sat.|Zar nebi trebala biti tu?
+{98700}{}Saèekaj tu.
+{99172}{}Halo?!
+{101150}{}- To nije smješno.|- A nije potpuno ne smješno.
+{101250}{}On je tu.
+{101322}{}Da, on je tu, dame.
+{101447}{}Hej, moj auto je tamo iza.
+{102425}{}To je znaèi dom,|šta Ghost?
+{102575}{}Ima nekakakav šarm|Mansonove porodice.
+{102700}{}Znaš da je pazila bakicu|poslije požara?
+{102772}{}Svu opeèenu?
+{102825}{}Kako dugo je trajalo,|dok nije došla Policija?
+{102872}{}43 dana.
+{102925}{}Jesi li donio iglu?
+{102997}{}Da.
+{103075}{}Suspendiran sam brez plaæe,|jer ste sve tri pobjegle.
+{103200}{}Da, al ništa zato.
+{103422}{}Gdje je ustvari  Beth-Ann?
+{103475}{}Odla je u grad,|da bi vidjela svoga deèka.
+{103522}{}Tako ga je željela,|da nije izdržala brez njega niti minute.
+{103600}{}Veoma je simpatièan.|- Da, vjerujem, da je.
+{103700}{}Morala bi odmarati.
+{103772}{}Daj, ne ja.
+{103825}{}Daj  ovamo u redu?
+{103897}{}Opusti se.
+{104272}{}Vjerovatno bi morali|sadaj otiæi,zar ne?
+{104575}{}Imaš reakciju|ili nešto tako.
+{104625}{}Tvoje telo ga odbija.
+{104700}{}U redu... to nije dobro.
+{104750}{}To nije dobro...|To se ne bi smjelo desit...
+{104772}{}Moram...|Moram te voziti u bolnicu.
+{104822}{}Vozime bilo gdj|i sve æu reæi Alice.
+{104897}{}Bjež od mene.
+{104975}{}Brigitte?
+{105000}{}To nije dobro.|To se ne bi smjelo desiti.
+{105125}{}- Oh Bože.|- Brigitte, šta se dešava?
+{105225}{}Kakvo je to sranje?
+{105250}{}Bri...
+{105322}{}- Brigitte?!|- U redu, u redu.
+{105375}{}- Brigitte?!|- U redu.
+{105422}{}Dobro.|Doði ovamo.
+{106150}{}Slušaj, Brigitte je stvarno nbolesna.
+{106222}{}Nikad još nisam vidio|nešto slièno.
+{106275}{}Ona je stvarno...
+{106347}{}Da...
+{106400}{}Mismo u bakinoj kuæi.
+{106500}{}Neznam, šta da uradim, dobro?
+{107072}{}Hej.
+{107597}{}Idi van!|- Šta?
+{107700}{}Biti moram sama.
+{108647}{}Jasno joj je,|da se mora vratiti u bolnicu.
+{108747}{}Jel jasno,|da govoriš u treæoj osobi.
+{108825}{}To je malo èudno.|I nesjeæam se neèeg drugog.
+{108950}{}Šta,ako kažeml,|da si mi nedostajala?
+{109047}{}"Njegove rjeèi su bile prazne,|tako ko njegova glava. "
+{109272}{}Jesam li te ozledio,|kad sam te gurno?
+{109350}{}Nisam htjeo.
+{109397}{}Oprosti.
+{109797}{}Hej, spavalica?
+{109850}{}Vreme je.
+{110397}{}Ghost?
+{110822}{}Šta se desilo?
+{110900}{}Ne bi ga smjeli|dovesti ovamo.
+{111547}{}Šta se desilo|s tvojim licem?
+{111625}{}Ghost se je desila.
+{111672}{}- Misliš, da treba šivanje?|- Zašto bi to uradila?
+{111750}{}Jesili bila gore?
+{111797}{}Da.
+{111797}{}Mislim da nezna šta je istina|i šta je crtani.
+{111900}{}To je dobrodošlo.
+{111947}{}Šta?
+{112000}{}Slastiš se tim?
+{112072}{}Na šta ciljaš?
+{112275}{}Zajebavam te.
+{112322}{}De mi pomozi oko generatora?|Treba malo goriva.
+{112947}{}Bez posledica za naša djela,|postaju stvari veoma zbunjene.
+{113175}{}Dobro.
+{113325}{}Sranje!
+{113497}{}Bog, ne!
+{113647}{}Bog, ne!
+{114022}{}A ne dopadati se|zvuk prirode?
+{114075}{}To æe se sad završiti.
+{114300}{}Ne možemo se boriti|protiv toga, što je u nama, B.
+{114350}{}Nisam kao ti, Ginger.
+{114450}{}-Jaèa sam.|- Stvarno?
+{114522}{}To nije tako, kao|prvih 15g. tvoga života.
+{114622}{}To je tako, kao|zadnjih 15 minuta tvoga.
+{114825}{}Gdje je Tyler?
+{114897}{}Ne brini za njega.
+{114975}{}- Šta radiš?|- Ubiæu ga.
+{115047}{}Donesi mi sve oštre stvari,|kioje najdeš.
+{115475}{}Jeli te strah?
+{116475}{}Šta je to?
+{116547}{}Plin.|Ostani iza.
+{116625}{}Kako dugo æe goritil?
+{116672}{}Kod Barbari je trajalo 27 minuta.
+{116847}{}Poði gore.
+{117547}{}Poði nazad u mrak!
+{117675}{}Ghost?!
+{117900}{}Pucala si name.|Šta za vraga?
+{118072}{}Htjela sam ubiti èudovište.
+{118125}{}Ma jesi.
+{118197}{}Daj guzicu ovamo|i daj mi pušku.
+{118247}{}Od kud ti to?
+{118275}{}Barbara je lovila vjeverice.
+{118400}{}Tyler me je zvao.|Gdje je?
+{118472}{}U šumi.
+{118525}{}Gdje su ostale cure?|Gdje je Brigitte?
+{118572}{}Tyler je reko,|da opet "dozira".
+{118650}{}Beth-Ann je u podrumu bolnice,...
+{118700}{}...Brigitte je tu.|Sve je u redu sa njom.
+{118747}{}Brigitte, izaði!
+{118825}{}Napredovala si, Ghost.
+{118875}{}To nije napredovanje.
+{118950}{}Ovo što vidim je mala curica,|koja ne razlikuje realnost...
+{119050}{}...i maštu u njenoj glavi.
+{119200}{}...preuzima odgovornost za...
+{119372}{}Zašto smrdi po plinu tu?
+{119400}{}- Da èudovište izgori.|- Oh, Ghost!
+{119472}{}Gdje si rekla, da je Beth-Ann?
+{119550}{}Šta?
+{119597}{}- Ona bi te pojela, znaš?|- Prokleto sranje.
+{119700}{}- Brigitte?|- Šta je bilo s bakicom?
+{119772}{}Zaspala je s cigaretom.
+{119825}{}Bakica ni pušila.
+{119872}{}Zapalila si Barbaru.
+{119925}{}Jesi li lagala o Tylerju?
+{119975}{}"Gurao je i vukao|i smijao se je, dok je plakala. "
+{120075}{}- Šta si uradila?|- "Izkoristio je njeno srce. "
+{120225}{}Ni je on to uradio, zar ne?
+{120450}{}Htjeo te je voditi| od mene!
+{120497}{}Stani na stranu!
+{120825}{}Ne brini, Alice.|Bio sam veæ tamo, gdje si sada ti.
+{120897}{}Ah da?|Otiæiæemo odavde.
+{121075}{}Ja ne bi išla van,|kad bi bila ti.
+{121172}{}Gore! Brzo! Brzo! Požuri!
+{121450}{}Šta je to vani?
+{121500}{}Èudovište.
+{121850}{}Jel u kuæi?
+{122297}{}Brigitte?
+{122975}{}Brigitte?!
+{123072}{}Brigitte?!
+{123150}{}Brigitte?!
+{123347}{}Ghost!
+{123400}{}U pom...
+{123500}{}Ghost, doði brzo.
+{123800}{}Neee!
+{125075}{}Brigitte?!
+{125200}{}Brigitte?!
+{125222}{}Ne.
+{125300}{}Ne.
+{126272}{}Oh moj Bože, nešto|je još uvjek živo tamo ispod.
+{126325}{}Brigitte?!
+{126397}{}Idi gore.
+{126550}{}Znala sam,|da æeš nas naæi , Alice.
+{127272}{}Ubij me.
+{129150}{}"Raste isto jako|pod pohodnimi deskami,
+{129250}{}njen zvesti prijatelj|s smrtnom željom za ljudskim mesom,
+{129375}{}Èekajuæ osloboðenja mraka,|bjesa iz pakla
+{129425}{}na neprijatelje njene Ijubavi...
+{129472}{}...koih ima mnogo.
+{129572}{}I tako je poèela Ghostina|vladavina moralnoga terora. "
+{129972}{}Žalec, Januar 2005
+{130075}{}Prevod: Alen-Cera

@@ -1,0 +1,5105 @@
+1
+00:00:00,028 --> 00:00:04,024
+Tako sam se i ja oseÊao
+kad sam Ëuo te nove izraze.
+
+2
+00:00:04,165 --> 00:00:08,195
+Pa sam otiöao na Njujoröku berzu
+da dobijem neke odgovore.
+
+3
+00:00:08,336 --> 00:00:10,065
+Gospodine, moûete li mi objasniti
+öta su to derivativi?
+
+4
+00:00:10,205 --> 00:00:12,335
+Moûe li neko da mi objasni öta su
+derivativi ili kreditne konverzije?
+
+5
+00:00:12,373 --> 00:00:13,601
+Moûe li neko da mi objasni
+öta je to?
+
+6
+00:00:13,741 --> 00:00:15,871
+Gospodine, moûete li mi reÊi
+öta je kreditna konverzija?
+
+7
+00:00:15,910 --> 00:00:17,334
+Moûete li mi objasniti derivative?
+
+8
+00:00:17,479 --> 00:00:18,946
+Moûete li mi reÊi öta su derivativi?
+
+9
+00:00:18,980 --> 00:00:21,044
+- Niko neÊe da razgovara sa mnom.
+- Ja sam samo obiËan radnik.
+
+10
+00:00:21,082 --> 00:00:22,943
+Vidim, vidim, da.
+
+11
+00:00:22,984 --> 00:00:25,509
+- Traûim savet.
+- Da, fino.
+
+12
+00:00:25,553 --> 00:00:28,681
+- Imate li vi, momci, neki savet za mene?
+- Nemoj viöe da snimaö filmove.
+
+13
+00:00:28,723 --> 00:00:30,714
+Derivativi?
+Kreditne konverzije?
+
+14
+00:00:32,260 --> 00:00:36,560
+Naöao sam jednog momka sa Vol Strita
+koji nije bio filmski kritiËar.
+
+15
+00:00:36,698 --> 00:00:39,965
+Markus Hopt je inûenjer iz Ajvi Lige
+
+16
+00:00:40,101 --> 00:00:42,629
+koji je bio potpredsednik
+BraÊe Leman
+
+17
+00:00:42,771 --> 00:00:45,262
+i proveo 15 godina na Vol Stritu,
+
+18
+00:00:45,306 --> 00:00:48,232
+stvarajuÊi ono öto oni zovu
+sloûeni finansijski instrumenti.
+
+19
+00:00:48,376 --> 00:00:49,866
+äta je derivativ?
+
+20
+00:00:49,911 --> 00:00:53,843
+Derivativ je sekundarni ulog
+na osnovni produkt.
+
+21
+00:00:53,882 --> 00:00:55,907
+Moûeö da imaö imovinu i ponude
+za tu imovinu.
+
+22
+00:00:55,950 --> 00:00:59,181
+I te ponude za tu imovinu
+daju ti moguÊnost
+
+23
+00:00:59,220 --> 00:01:01,586
+ali ne i obavezu da kupiö ili prodaö.
+
+24
+00:01:01,623 --> 00:01:04,649
+Kako da ti objasnim?
+Dozvoljeno ti je da odluËiö
+
+25
+00:01:04,692 --> 00:01:07,183
+hoÊeö li ili neÊeö da prihvatiö
+tu ponudu.
+
+26
+00:01:07,228 --> 00:01:09,788
+Da ti objasnim na drugi naËin.
+Cena derivativa
+
+27
+00:01:09,831 --> 00:01:11,822
+se bazira na ceni neËeg drugog.
+
+28
+00:01:11,866 --> 00:01:13,800
+To je neka vrsta jednaËine
+drugog stepena.
+
+29
+00:01:13,835 --> 00:01:16,565
+Ako misliö, recimo...
+
+30
+00:01:16,604 --> 00:01:20,040
+hm, moûda bi trebalo da se
+vratim unazad.
+
+31
+00:01:20,074 --> 00:01:22,635
+Da poËnem ponovo.
+Da se vratimo ovde.
+
+32
+00:01:23,311 --> 00:01:25,805
+Bio sam izgubljen.
+
+33
+00:01:25,947 --> 00:01:28,543
+Moûda ima nekoga
+na Harvardskom Univerzitetu
+
+34
+00:01:28,683 --> 00:01:30,310
+ko bi to mogao da mi objasni.
+
+35
+00:01:30,351 --> 00:01:32,785
+Da, ku... ku...
+
+36
+00:01:32,821 --> 00:01:35,756
+ku... ku... ku...
+kupac...
+
+37
+00:01:35,790 --> 00:01:38,953
+prodavac je uzeo zajam i moûda
+neÊe uspeti da ga otplati.
+
+38
+00:01:38,993 --> 00:01:42,190
+Tako da oni prodaju...
+
+39
+00:01:42,230 --> 00:01:44,994
+nekom... nekom drugom...
+
+40
+00:01:45,033 --> 00:01:48,002
+Oprostite, samo da se vratim.
+
+41
+00:01:48,036 --> 00:01:51,633
+Izvinjavam se.
+Ovo je priliËno egzotiËno.
+
+42
+00:01:51,773 --> 00:01:53,798
+Derivativi nisu niöta drugo
+
+43
+00:01:53,942 --> 00:01:56,072
+do komplikovane öeme
+klaenja.
+
+44
+00:01:56,210 --> 00:01:58,945
+Evo kako matematiËka jednaËina
+jednog od njih izgleda.
+
+45
+00:01:59,080 --> 00:02:00,811
+Je l' moûete da je shvatite?
+
+46
+00:02:00,949 --> 00:02:03,440
+U redu je. Nije ni predvieno
+da moûete.
+
+47
+00:02:03,484 --> 00:02:05,648
+Namerno su napravljene
+da zbunjuju
+
+48
+00:02:05,787 --> 00:02:07,846
+tako da mogu da se
+izvuku sa ubistvom.
+
+49
+00:02:07,989 --> 00:02:11,622
+Recimo da si pravnik poslat od strane
+drûave i pokuöavaö da proceniö
+
+50
+00:02:11,759 --> 00:02:14,150
+da li te stvari kröe poreski
+zakon ili ne.
+
+51
+00:02:14,295 --> 00:02:16,195
+Ako moûeö da shvatiö
+öta oni rade,
+
+52
+00:02:16,331 --> 00:02:18,563
+onda je vrlo verovatno da Êe ti ta
+firma sa Vol Strita ponuditi posao.
+
+53
+00:02:18,700 --> 00:02:22,027
+Mogu li da odem na Vol Strit
+i pitam ih
+
+54
+00:02:22,170 --> 00:02:24,263
+da naprave derivativ bilo za öta?
+
+55
+00:02:24,405 --> 00:02:25,604
+Da.
+
+56
+00:02:25,740 --> 00:02:28,834
+Veruj mi, ako neöto postoji,
+postoji derivativ za to.
+
+57
+00:02:28,977 --> 00:02:31,368
+ZnaËi, to je Vol Strit postao...
+
+58
+00:02:31,512 --> 00:02:33,880
+suludi kasino.
+
+59
+00:02:33,915 --> 00:02:36,406
+Dozvolili smo im da se
+klade na bilo öta,
+
+60
+00:02:36,451 --> 00:02:39,687
+ukljuËujuÊi i naöe porodiËne kuÊe.
+
+61
+00:02:45,793 --> 00:02:48,762
+...najmoÊniji centralni bankar
+20-og veka.
+
+62
+00:02:48,796 --> 00:02:51,060
+Grinspen je postao ekonomska ikona.
+
+63
+00:02:51,099 --> 00:02:54,330
+Alen Grinspen kaûe da je
+ekonomija izvanredna.
+
+64
+00:02:54,369 --> 00:02:56,769
+Grinspen je podivljao.
+To je kao ''Devojke su podivljale''.
+
+65
+00:02:56,804 --> 00:02:59,671
+äta Mik Dûeger i Alen Grinspen
+imaju zajedniËko?
+
+66
+00:02:59,807 --> 00:03:05,106
+Alen Grinspen, koji je u tom momentu
+sigurno vaûio za najpametnijeg Ëoveka
+
+67
+00:03:05,246 --> 00:03:07,009
+koji je hodao po zemlji,
+
+68
+00:03:07,148 --> 00:03:10,176
+poËinje da koristi frazu:
+''Doite do svojih kuÊnih akcija'',
+
+69
+00:03:10,218 --> 00:03:13,051
+...kako Amerikanci mogu da dou
+do akcija svog doma,
+
+70
+00:03:13,187 --> 00:03:18,191
+öto je samo Alen Grinspenov izraz za
+''zajmite se na raËun svoje kuÊe''.
+
+71
+00:03:18,326 --> 00:03:20,521
+I ako ne moûete da vratite,
+izgubiÊete kuÊu.
+
+72
+00:03:20,661 --> 00:03:24,625
+PoËelo je nagovaranjem uglavnom
+starijih Amerikanaca,
+
+73
+00:03:24,766 --> 00:03:26,290
+ljudi koji su veÊ imali
+svoje kuÊe,
+
+74
+00:03:26,434 --> 00:03:29,101
+da refinansiraju svoje kuÊe
+
+75
+00:03:29,237 --> 00:03:31,000
+da bi ih iz njih izbacili.
+
+76
+00:03:31,139 --> 00:03:34,873
+Da, izbaciti stare ljude
+iz njihovih kuÊa.
+
+77
+00:03:35,009 --> 00:03:40,838
+Prevara da se ljudi isteraju iz kuÊa
+u njihovom posedu bila je majstorska.
+
+78
+00:03:40,982 --> 00:03:43,507
+Evo kako je to funkcionisalo:
+
+79
+00:03:43,651 --> 00:03:47,114
+prvo, kaûu kuÊevlasnicima
+da imaju banku.
+
+80
+00:03:47,255 --> 00:03:50,224
+I da je ta banka njihova kuÊa.
+
+81
+00:03:50,358 --> 00:03:53,889
+Tako, ako vaöa kuÊa vredi $250.000,
+
+82
+00:03:54,028 --> 00:03:56,988
+to vas Ëini Ëetvrtinom milionera.
+
+83
+00:03:57,131 --> 00:03:59,497
+Vi sedite na zlatnom rudniku.
+
+84
+00:03:59,634 --> 00:04:02,335
+Posedujete svoju liËnu banku.
+
+85
+00:04:02,470 --> 00:04:04,668
+Vaöu banku.
+
+86
+00:04:04,806 --> 00:04:08,073
+I moûete da iskoristite svoju banku
+da doete do joö viöe novca.
+
+87
+00:04:08,209 --> 00:04:09,676
+Samo refinansirajte!
+
+88
+00:04:09,711 --> 00:04:11,406
+Svi to rade.
+
+89
+00:04:11,446 --> 00:04:14,645
+Naravno, skrivene na stotinama strana
+sitno kucanog teksta
+
+90
+00:04:14,782 --> 00:04:17,046
+su lukave klauzule koji dozvoljavaju
+banci da podigne vaöe kamatne stope
+
+91
+00:04:17,085 --> 00:04:18,746
+na procenat o kome vi
+niöta niste znali,
+
+92
+00:04:18,786 --> 00:04:20,811
+moûda toliko visok da neÊete
+moÊi da otplatite svoj zajam.
+
+93
+00:04:20,955 --> 00:04:22,684
+Ali to je u redu.
+
+94
+00:04:22,823 --> 00:04:26,881
+Ako ne moûete da platite,
+mi Êemo vam samo uzeti kuÊu.
+
+95
+00:04:28,596 --> 00:04:30,928
+Naravno, pre nego öto vam
+oduzmu kuÊu
+
+96
+00:04:31,065 --> 00:04:33,934
+moraju da promene norme i propise.
+
+97
+00:04:34,068 --> 00:04:36,701
+Kakva je ovo fotografija ovde?
+
+98
+00:04:36,838 --> 00:04:39,766
+To je bio godiönji izveötaj  FDIC (Savezne
+Korporacije za Osiguranje Depozita).
+
+99
+00:04:40,007 --> 00:04:43,901
+Dûon Gileran, öef Sluûbe za
+kontrolu ötednje
+
+100
+00:04:44,045 --> 00:04:45,669
+koja bi trebalo da reguliöe
+ötednju i zajmove,
+
+101
+00:04:45,813 --> 00:04:47,911
+to je Ëova sa motornom testerom.
+
+102
+00:04:48,049 --> 00:04:51,215
+A ostala Ëetiri iskeûena idiota
+na slici
+
+103
+00:04:51,351 --> 00:04:54,879
+su tri vodeÊa bankarska lobista
+
+104
+00:04:55,022 --> 00:04:59,081
+i zamenik direktora Savezne Korporacije
+za Osiguranje Depozita.
+
+105
+00:04:59,226 --> 00:05:02,785
+I ovde poziraju nad
+hrpom propisa.
+
+106
+00:05:02,930 --> 00:05:07,826
+I to treba da pokaûe njihovu nameru
+da uniöte kontrolu.
+
+107
+00:05:07,969 --> 00:05:10,237
+I uspeli su.
+
+108
+00:05:10,371 --> 00:05:14,300
+I sada znamo öta se deöava
+kad uniötite finansijsku kontrolu.
+
+109
+00:05:14,442 --> 00:05:16,708
+Napravite finansijsku katastrofu.
+
+110
+00:05:16,844 --> 00:05:19,372
+Porodica koja se umnoûava
+i ima mnogo dugova;
+
+111
+00:05:19,514 --> 00:05:21,675
+Mladi par koji nema novac
+za uËeöÊe;
+
+112
+00:05:21,816 --> 00:05:24,742
+Biznismen Ëiji je prihod bilo
+teöko dokumentovati;
+
+113
+00:05:24,886 --> 00:05:29,255
+Svakom od njih je odbijen zahtev
+za zajam od tri razliËita zajmodavca.
+
+114
+00:05:29,390 --> 00:05:32,655
+Ja radim kod Kantrivajda i sve
+te zahteve sam im odobrila.
+
+115
+00:05:32,793 --> 00:05:37,291
+Ne dajte da vas zavara
+ljubazno vladanje i plava kosa.
+
+116
+00:05:37,432 --> 00:05:41,532
+To je isto dranje kao öto to radi
+mafija u vaöem komöiluku.
+
+117
+00:05:41,702 --> 00:05:45,162
+Znam kako ti je.
+Imaö dosta dugova.
+
+118
+00:05:45,306 --> 00:05:47,367
+Nemaö pare za uËeöÊe.
+
+119
+00:05:47,508 --> 00:05:49,874
+Ne moûeö da naeö sve dokumente.
+
+120
+00:05:49,911 --> 00:05:53,008
+Nema veze. PonudiÊu ti zajam
+koji neÊeö moÊi da odbijeö.
+
+121
+00:05:53,147 --> 00:05:55,612
+Zove se neprvoklasni (za one sa
+slabom kreditnom sposobnoöÊu).
+
+122
+00:05:55,749 --> 00:05:57,247
+Sad ne plaÊaö kamate.
+
+123
+00:05:57,385 --> 00:05:59,683
+Zato platiö malo viöe kasnije.
+
+124
+00:05:59,820 --> 00:06:03,178
+Za to "kasnije" ne brini.
+Mi Êemo se pobrinuti za tebe.
+
+125
+00:06:03,324 --> 00:06:06,287
+I, kao i mafija, Kantrivajd,...
+
+126
+00:06:06,427 --> 00:06:09,956
+Sitibanka, Vels Fargo,
+»ejs...
+
+127
+00:06:10,098 --> 00:06:11,595
+Hajde!
+
+128
+00:06:11,733 --> 00:06:17,135
+...jednoga dana Êe svratiti
+da naplate i uzmu vam kuÊu.
+
+129
+00:06:19,607 --> 00:06:23,136
+PlaÊao sam $1.700 meseËno
+i uspevao sam.
+
+130
+00:06:23,277 --> 00:06:25,905
+Onda je poraslo na $2.000.
+Pa na $2.300.
+
+131
+00:06:26,047 --> 00:06:30,016
+Pa na 2.700.
+Viöe ne mogu.
+
+132
+00:06:33,821 --> 00:06:37,848
+Ovo su Hekerovi
+iz Peorije, llinois.
+
+133
+00:06:37,992 --> 00:06:43,192
+Rendi je radnik na ûeleznici,
+a Dona radi u staraËkim domovima.
+
+134
+00:06:43,331 --> 00:06:47,199
+Njihovu farmu, koja je bila u njihovoj
+porodici viöe od Ëetiri decenije,
+
+135
+00:06:47,335 --> 00:06:50,502
+oduzela je Sitibanka.
+
+136
+00:06:50,638 --> 00:06:53,336
+Rendi je imao nesreÊu na poslu
+pre viöe godina
+
+137
+00:06:53,474 --> 00:06:55,237
+i sad prima invalidninu.
+
+138
+00:06:57,845 --> 00:07:02,509
+Oni apsolutno jednostavno
+sve jebeno kradu,
+
+139
+00:07:02,650 --> 00:07:08,353
+moju celu ûivotnu uöteevinu i sve,
+potezom pera, uz advokata i sudiju.
+
+140
+00:07:08,489 --> 00:07:11,822
+Hekerovi su mi pokazali obaveötenje
+o oduzimanju od Sitibanke.
+
+141
+00:07:11,959 --> 00:07:16,158
+Ono öto mi je zapalo za oko je grad
+iz koga je njihova hipoteka stigla.
+
+142
+00:07:16,297 --> 00:07:19,826
+Ispalo je da je kompanija
+u posedu velikih banaka,
+
+143
+00:07:19,967 --> 00:07:22,902
+koju su izabrali da upravlja sa
+preko 60 miliona hipoteka,
+
+144
+00:07:23,037 --> 00:07:26,136
+doöla, od svih gradova, baö iz jednog
+od najbeznadeûnijih gradova
+
+145
+00:07:26,274 --> 00:07:27,935
+u Sjedinjenim Drûavama.
+
+146
+00:07:28,075 --> 00:07:30,443
+Ova kompanija unajmljuje
+ljude iz Flinta
+
+147
+00:07:30,578 --> 00:07:36,079
+da öalju skoro 60% od svih
+obaveötenja o oduzimanju u zemlji.
+
+148
+00:07:36,217 --> 00:07:39,348
+U neËemu öto liËi na grubu öalu,
+
+149
+00:07:39,487 --> 00:07:41,955
+moj rodni grad se naöao
+u sluûbi
+
+150
+00:07:42,089 --> 00:07:46,585
+pomaganja da se i ostatak
+Amerike pretvori u Flint.
+
+151
+00:07:50,831 --> 00:07:53,823
+UobiËajeno je da kad banka izbacuje
+porodicu kao öto su Hekerovi
+
+152
+00:07:53,968 --> 00:07:58,530
+iz njihovog doma, ona angaûuje
+profesionalce da dou i sve poËiste.
+
+153
+00:07:59,774 --> 00:08:02,038
+U ovom sluËaju, banka je sraËunala,
+
+154
+00:08:02,076 --> 00:08:05,707
+zaöto bi platila skupo kad ima
+oËajnu porodicu
+
+155
+00:08:05,846 --> 00:08:07,871
+koja Êe raditi za male pare?
+
+156
+00:08:08,015 --> 00:08:12,179
+Kao poslednje poniûenje, Hekerovi
+su prihvatili posao kod banke
+
+157
+00:08:12,320 --> 00:08:14,485
+koja im je oduzela dom.
+
+158
+00:08:16,157 --> 00:08:18,887
+''Imanje mora biti predato poËiöÊeno,
+
+159
+00:08:19,026 --> 00:08:22,161
+a svo smeÊe, ostaci
+i liËna imovina uklonjeni.
+
+160
+00:08:23,698 --> 00:08:29,295
+Po predaji kljuËeva predstavnik banke
+Êe vam predati Ëek na $1.000.''
+
+161
+00:08:34,942 --> 00:08:41,415
+Znate, 1.000 dolara da iznesem
+stvari iz sopstvene kuÊe,
+
+162
+00:08:41,649 --> 00:08:44,609
+stvarno ûelim da im zahvalim.
+To je stvarno neöto.
+
+163
+00:08:44,752 --> 00:08:47,416
+Moja ûena je radila nedelju
+dana da oËisti kuÊu
+
+164
+00:08:47,555 --> 00:08:49,682
+da osigura da Êe izgledati
+pristojno za nekoga drugog.
+
+165
+00:08:49,724 --> 00:08:52,352
+Drago mi je öto su to uradili.
+Moram da im zahvalim.
+
+166
+00:08:52,393 --> 00:08:54,361
+To je bilo straöno lepo od njih.
+
+167
+00:08:54,395 --> 00:08:57,125
+Da, stvarno ûelim da im
+kaûem hvala.
+
+168
+00:08:59,000 --> 00:09:05,074
+–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+
+169
+00:09:06,140 --> 00:09:08,734
+Evo ga joö jedan.
+
+170
+00:09:11,078 --> 00:09:13,808
+O, ovo je kljuË od naöe
+spavaÊe sobe.
+
+171
+00:09:13,848 --> 00:09:15,907
+Pokuöavam da se setim...
+
+172
+00:09:15,950 --> 00:09:18,248
+öta je za öta.
+Imao sam bravu tamo
+
+173
+00:09:18,286 --> 00:09:20,186
+da deca ne mogu da priu,
+jer imam oruûje.
+
+174
+00:09:20,721 --> 00:09:22,553
+Ovo je tvoj novac, Rendi.
+
+175
+00:09:22,990 --> 00:09:26,750
+Ono Ëemu sada svedoËite
+je pljaËka.
+
+176
+00:09:28,295 --> 00:09:34,396
+PoËinjem da shvatam ljude koji polude
+i poËnu da pucaju na druge.
+
+177
+00:09:34,535 --> 00:09:39,529
+Ne kaûem da bih ja uradio tako neöto,
+ali shvatam kako dovode ljude
+
+178
+00:09:39,674 --> 00:09:41,869
+u takvu situaciju
+
+179
+00:09:41,909 --> 00:09:45,367
+da ljudi odu tamo s bombama,
+dignu ih u vazduh
+
+180
+00:09:45,413 --> 00:09:47,347
+i pucaju na njih.
+
+181
+00:09:47,481 --> 00:09:51,180
+Bilo öta da im se desi, zasluûili su,
+to je sve öto mogu reÊi.
+
+182
+00:09:51,319 --> 00:09:53,514
+Nadam se da Êe se neöto desiti...
+
+183
+00:09:53,554 --> 00:09:56,751
+ma, eto.
+
+184
+00:09:56,791 --> 00:09:59,055
+Ne mogu niöta viöe da kaûem.
+
+185
+00:10:03,764 --> 00:10:05,891
+Neöto je poginulo na putu tamo.
+
+186
+00:10:05,933 --> 00:10:07,662
+Ovo je Bob Fajnberg.
+
+187
+00:10:07,702 --> 00:10:11,468
+On je rukovao zajmovima za veoma
+vaûne liËnosti kod Kantrivajda,
+
+188
+00:10:11,505 --> 00:10:15,341
+najveÊe hipotekarne kompanije
+u drûavi.
+
+189
+00:10:15,476 --> 00:10:17,310
+Iako je Kantrivajd uglavnom
+specijalizovana
+
+190
+00:10:17,445 --> 00:10:20,846
+za zajmove sa sramotno visokim kamatama
+za ljude skromnih primanja,
+
+191
+00:10:20,881 --> 00:10:26,983
+Bobov posao je bio da se pobrine za neke
+od najviöih politiËkih voa u drûavi.
+
+192
+00:10:27,021 --> 00:10:29,615
+Jednoga dana jedan od viöih
+öefova pozvao me je u kancelariju.
+
+193
+00:10:29,657 --> 00:10:31,386
+Rekao je: ''éelim da pozoveö
+ovog tipa''.
+
+194
+00:10:31,425 --> 00:10:33,393
+Rekao sam "U redu".
+
+195
+00:10:33,427 --> 00:10:36,262
+Joö je rekao:
+''To je Anelov prijatelj''.
+
+196
+00:10:36,397 --> 00:10:38,865
+Anelo Mozilo je direktor
+Kantrivajda.
+
+197
+00:10:39,299 --> 00:10:43,063
+''Daj mu ovu stopu.
+Ostavi naplate.
+
+198
+00:10:43,104 --> 00:10:47,131
+ZakljuËi to. I nemoj da zajebeö.''
+
+199
+00:10:47,174 --> 00:10:49,938
+I ja kaûem, kao:
+''O! U redu je.''
+
+200
+00:10:51,712 --> 00:10:56,042
+Tako da je to bilo specijalno odeljenje
+koje se bavilo Anelovim prijateljima.
+
+201
+00:10:57,318 --> 00:11:00,311
+Davani su popusti.
+Odustajalo se od honorara.
+
+202
+00:11:00,454 --> 00:11:03,480
+A povremeno je i dokumentacija
+bila izbegavana.
+
+203
+00:11:03,524 --> 00:11:07,620
+Na dosijeima bismo bukvalno
+pisali FOA (Anelovi prijatelji).
+
+204
+00:11:07,661 --> 00:11:10,391
+To su bili zaista vaûni ljudi.
+
+205
+00:11:10,431 --> 00:11:13,027
+Imao sam RiËarda Holbruka...
+ambasadora Holbruka,
+
+206
+00:11:13,167 --> 00:11:15,162
+Donu äalejlu,
+
+207
+00:11:15,403 --> 00:11:18,466
+ljude sa Kapitol Hila, ljude koji
+ureuju hipotekarno trûiöte,
+
+208
+00:11:18,606 --> 00:11:20,770
+ljude koji ureuju Vol Strit,
+
+209
+00:11:20,908 --> 00:11:24,139
+i Dûima Dûonsona, Ëelnika Fani Me (Savezne
+Nacionalne Hipotekarne Asocijacije),
+
+210
+00:11:24,178 --> 00:11:28,245
+Alfonsa Dûeksona, sekretara HUD-a
+(Ministarstva za stanovanje
+i urbani razvoj)...
+
+211
+00:11:28,649 --> 00:11:31,641
+Senatora Konrada iz Komiteta
+za finansije.
+
+212
+00:11:31,685 --> 00:11:34,711
+Jednom mi je bio ukljuËen TV.
+Bio sam u kuhinji
+
+213
+00:11:34,755 --> 00:11:36,950
+i Ëuo sam glas koji propoveda
+
+214
+00:11:37,091 --> 00:11:39,824
+o grabeûljivim zajmodavcima
+i kako treba tome da uËinimo kraj.
+
+215
+00:11:39,960 --> 00:11:43,792
+Finansijski kontrolori naöe drûave
+trebalo bi da budu policajci u borbi
+
+216
+00:11:43,931 --> 00:11:47,996
+za zaötitu radnih ljudi Amerike
+od neËasnih finansijskih radnji.
+
+217
+00:11:48,135 --> 00:11:50,831
+Senator Dod...
+Kristofer Dod... je govorio.
+
+218
+00:11:50,971 --> 00:11:54,534
+Ja sam samo buljio u televizor
+i bio sam uznemiren.
+
+219
+00:11:54,575 --> 00:11:57,100
+Neki od ovih zajmova se
+legitimno koriste,
+
+220
+00:11:57,144 --> 00:11:59,169
+kad se daju iskusnim zajmoprimcima
+
+221
+00:11:59,213 --> 00:12:01,340
+sa visokim prihodima.
+
+222
+00:12:01,382 --> 00:12:04,078
+Uradio sam brojne zajmove za njega
+
+223
+00:12:04,218 --> 00:12:08,448
+u kojima je dobio popuste i sve ono
+öto se dobija kad ste Anelov prijatelj
+
+224
+00:12:08,689 --> 00:12:10,213
+i sve fine stvari.
+
+225
+00:12:10,257 --> 00:12:12,225
+Komitet za stanovanje i
+bankarstvo Senata
+
+226
+00:12:12,359 --> 00:12:14,887
+bi trebalo da bude pas Ëuvar
+hipotekarne industrije.
+
+227
+00:12:15,029 --> 00:12:18,194
+Senator Dod je predsednik
+tog komiteta
+
+228
+00:12:18,232 --> 00:12:20,860
+i radio je u njemu viöe od 28 godina.
+
+229
+00:12:20,901 --> 00:12:25,866
+Kao Anelov prijatelj dobio je
+preko milion dolara vredne
+
+230
+00:12:25,906 --> 00:12:28,500
+zajmove sa popustima od Kantrivajda.
+
+231
+00:12:29,242 --> 00:12:34,476
+Neko iz susedne sobe prodaje
+otrovno sranje od zajma nekome.
+
+232
+00:12:34,615 --> 00:12:38,449
+Od mene je traûeno da dam
+najpovoljniji zajam ovom VlP-u.
+
+233
+00:12:38,586 --> 00:12:42,380
+Jeste li ikada oseÊali da bi ono öto radite
+moglo da bude podmiÊivanje?
+
+234
+00:12:42,523 --> 00:12:45,492
+Nisam se oseÊao kao da nekoga
+podmiÊujem, ne.
+
+235
+00:12:45,626 --> 00:12:48,884
+Samo sam radio svoj posao.
+Ja sam bio momak zaduûen za VlP-ove.
+
+236
+00:12:49,029 --> 00:12:50,758
+Svi su u kompaniji znali ko sam.
+
+237
+00:12:50,898 --> 00:12:52,359
+Znate, svi.
+
+238
+00:12:52,500 --> 00:12:55,060
+Tako da su to bile skoro
+laskave okolnosti.
+
+239
+00:12:55,102 --> 00:12:58,594
+Ali ne, ne oseÊam da sam Ëinio
+bilo öta loöe.
+
+240
+00:12:58,739 --> 00:13:02,199
+I da to nisam radio ja,
+neko drugi bi to radio.
+
+241
+00:13:03,577 --> 00:13:06,002
+Zato su nam potrebni ljudi
+kao Bil Blek,
+
+242
+00:13:06,146 --> 00:13:08,307
+jedan od bankarskih kontrolora
+koji su otkrili
+
+243
+00:13:08,449 --> 00:13:10,579
+skandal u ätednjama i Zajmovima
+80-ih.
+
+244
+00:13:10,718 --> 00:13:12,745
+Neöto nedozvoljeno se dogodilo
+
+245
+00:13:12,786 --> 00:13:14,984
+i kladim se da kontrolori znaju.
+
+246
+00:13:15,122 --> 00:13:17,957
+Jedna od centralnih liËnosti
+tog skandala, »arls Kiting,
+
+247
+00:13:18,092 --> 00:13:20,790
+imao je ideju öta uËiniti sa
+Bilom Blekom
+
+248
+00:13:20,928 --> 00:13:23,419
+i poslao je beleöku
+sa ovim uputstvima.
+
+249
+00:13:24,598 --> 00:13:30,096
+Pitao sam ga ko nas ötiti danas.
+Gde je FBl u svemu tome?
+
+250
+00:13:30,337 --> 00:13:35,498
+FBl je poËeo javno da upozorava
+u septembru 2004.
+
+251
+00:13:35,643 --> 00:13:38,874
+da postoji epidemija
+prevara sa hipotekama
+
+252
+00:13:39,013 --> 00:13:42,809
+izvröenih od strane banaka.
+Epidemija je bio njihov izraz.
+
+253
+00:13:42,950 --> 00:13:45,546
+Ali kad se dogodio 11. septembar,
+
+254
+00:13:45,586 --> 00:13:48,817
+Buöova administracija je prebacila
+
+255
+00:13:48,856 --> 00:13:52,917
+najmanje 500 specijalista za
+finasijski kriminal FBI
+
+256
+00:13:52,960 --> 00:13:55,758
+van rada na zloËinima iz sfere
+finansija,
+
+257
+00:13:55,796 --> 00:14:00,233
+iako smo ulazili, tokom trajanja
+cele Buöove administracije
+
+258
+00:14:00,267 --> 00:14:02,827
+u najveÊi talas zloËina
+iz finansijske sfere
+
+259
+00:14:02,870 --> 00:14:06,397
+u istoriji nacije, u stvari
+u svetskoj istoriji.
+
+260
+00:14:06,440 --> 00:14:11,668
+FBl kaûe da je 80% gubitaka
+u hipotekarnim prevarama
+
+261
+00:14:11,712 --> 00:14:14,545
+izvedeno od strane
+zajmodavËevog osoblja.
+
+262
+00:14:14,582 --> 00:14:15,879
+äto znaËi?
+
+263
+00:14:15,916 --> 00:14:18,350
+ZnaËi ne od strane onog koji je
+pozajmio
+
+264
+00:14:18,385 --> 00:14:21,513
+i koji je doöao s ulice
+da na prevaru izvuËe zajam.
+
+265
+00:14:21,555 --> 00:14:25,423
+Ovo su prevare predvoene od strane
+onih koji upravljaju organizacijom.
+
+266
+00:14:25,459 --> 00:14:28,121
+- Razumem.
+- Uglavnom je to direktor, drugim reËima.
+
+267
+00:14:28,162 --> 00:14:31,188
+I zar direktori misle da Êe
+se izvuÊi s tim?
+
+268
+00:14:31,731 --> 00:14:33,992
+VeÊ su se izvukli.
+
+269
+00:14:35,102 --> 00:14:37,095
+Da, oËigledno jesu.
+
+270
+00:14:37,237 --> 00:14:40,001
+I sa predsedniËkim izborima
+iza Êoöka...
+
+271
+00:14:40,140 --> 00:14:43,305
+- Definiöite öta je to bogatstvo.
+- 5 miliona.
+
+272
+00:14:43,344 --> 00:14:47,144
+...elite su se zabrinule da bi njihova
+zloËinaËka terevenka mogla biti okonËana.
+
+273
+00:14:47,181 --> 00:14:50,244
+Posle namlaÊivanja na prevaru triliona
+od ameriËkog naroda
+
+274
+00:14:50,384 --> 00:14:54,216
+ponovnim preuzimanjem njihovih domova,
+ËineÊi im bankrote kad se razbole
+
+275
+00:14:54,355 --> 00:14:59,856
+i ubeujuÊi ih da ulaûu svoje prihode
+i penzije u kazino poznat kao berza,
+
+276
+00:14:59,994 --> 00:15:03,395
+bogati su odluËili da izvedu
+joö jednu poslednju pljaËku;
+
+277
+00:15:03,430 --> 00:15:06,797
+i, kako se njihovoj 30-godiönjoj ûurci
+pribliûava kraj,
+
+278
+00:15:06,834 --> 00:15:10,326
+uzmu joö koliko god mogu srebrnine.
+
+279
+00:15:10,371 --> 00:15:13,204
+Ali prvo im je bilo potrebno
+neöto da odvuËe paûnju.
+
+280
+00:15:13,240 --> 00:15:16,505
+I, kao öto su nauËili posle
+11. septembra,
+
+281
+00:15:16,543 --> 00:15:19,307
+niöta u "Domu hrabrih"
+ne vröi posao bolje
+
+282
+00:15:19,346 --> 00:15:22,338
+od malo dobrog, starog straha.
+
+283
+00:15:22,383 --> 00:15:26,117
+A ko bi mogao bolje da odigra
+joö jednu zastraöujuÊu rolu
+
+284
+00:15:26,253 --> 00:15:29,188
+od Malog Pileta
+(PreuveliËavatelja) liËno?
+
+285
+00:15:29,323 --> 00:15:32,615
+GlasaËi za Oskara,
+vama na procenu.
+
+286
+00:15:32,760 --> 00:15:34,421
+Dobro veËe.
+
+287
+00:15:34,461 --> 00:15:36,986
+Ovo je nesvakidaönji period
+za ameriËku ekonomiju.
+
+288
+00:15:37,131 --> 00:15:39,559
+Vladini glavni ekonomski struËnjaci
+
+289
+00:15:39,700 --> 00:15:41,964
+upozoravaju da bi bez brzog
+delovanja Kongresa
+
+290
+00:15:42,102 --> 00:15:44,994
+Amerika mogla upasti
+u finansijsku paniku
+
+291
+00:15:45,139 --> 00:15:48,133
+i muËan scenario bi se odigrao.
+
+292
+00:15:48,275 --> 00:15:51,576
+Joö banaka bi moglo propasti,
+ukljuËujuÊi i neke u vaöem kraju.
+
+293
+00:15:51,712 --> 00:15:54,103
+Berza bi mogla da padne joö niûe,
+
+294
+00:15:54,148 --> 00:15:56,514
+öto bi moglo smanjiti vrednost
+vaöeg penzionog doprinosa.
+
+295
+00:15:56,650 --> 00:15:59,112
+Cena vaöe kuÊe bi mogla potonuti.
+
+296
+00:15:59,253 --> 00:16:01,644
+Broj izbaËenih iz kuÊa bi
+dramatiËno porastao.
+
+297
+00:16:01,789 --> 00:16:04,019
+A ako vodite neki biznis ili farmu,
+
+298
+00:16:04,058 --> 00:16:06,686
+bilo bi vam teûe i skuplje
+da dobijete kredit.
+
+299
+00:16:06,727 --> 00:16:09,289
+Mnoga preduzeÊa bi morala
+da zatvore vrata
+
+300
+00:16:09,430 --> 00:16:11,990
+a milioni Amerikanaca
+bi ostali bez posla.
+
+301
+00:16:12,032 --> 00:16:14,830
+»ak i ako ste ranije uredno
+otplaÊivali kredite
+
+302
+00:16:14,868 --> 00:16:17,769
+bilo bi vam teûe da dobijete
+neophodne zajmove
+
+303
+00:16:17,805 --> 00:16:20,103
+da kupite kola ili poöaljete
+decu na koledû.
+
+304
+00:16:20,140 --> 00:16:25,373
+A na kraju bi i cela drûava mogla da
+zapadne u dugu i bolnu recesiju.
+
+305
+00:16:25,412 --> 00:16:29,442
+Sugraani, ne smemo dozvoliti
+da se to dogodi.
+
+306
+00:16:29,583 --> 00:16:33,178
+U stvarnosti nije bilo potrebe
+za ovakvim govorom,
+
+307
+00:16:33,320 --> 00:16:37,524
+jer su glavni mediji
+veÊ progutali priËu.
+
+308
+00:16:38,992 --> 00:16:42,786
+Katastrofa. AmeriËki finansijski sistem
+je uzdrman do temelja.
+
+309
+00:16:42,930 --> 00:16:45,262
+Dûinovske banke se ruöe,
+berze tonu.
+
+310
+00:16:45,299 --> 00:16:48,666
+- NoÊna mora na Wol Stritu. - AlG
+osiguravajuÊe druötvo se bori za ûivot.
+
+311
+00:16:48,702 --> 00:16:50,636
+- Krv na podu.
+- Armagedon.
+
+312
+00:16:50,771 --> 00:16:53,799
+Test petog stepena za naöe poreze.
+
+313
+00:16:54,941 --> 00:16:57,199
+äta se, jebo te, desilo?
+
+314
+00:16:57,344 --> 00:16:59,676
+Jesi li ikada video kako se
+ruöi brana?
+
+315
+00:16:59,713 --> 00:17:03,114
+- Ne. - PoËinje sa malom pukotinom,
+malim curenjem.
+
+316
+00:17:03,150 --> 00:17:04,640
+<i>Sa ogromnom veÊinom,</i>
+
+317
+00:17:04,685 --> 00:17:06,619
+<i>Kongres je udario po restrikcijama.</i>
+
+318
+00:17:06,653 --> 00:17:08,587
+<i>Veliko bankarstvo ponovo ubrzava.</i>
+
+319
+00:17:08,722 --> 00:17:14,322
+PoËinje da podlokava i razara svu
+unutraönju snagu brane.
+
+320
+00:17:14,561 --> 00:17:18,354
+<i>Iz brljotine stambene izgradnje
+otrov je curio sve dublje i dublje
+u bankarski sistem.</i>
+
+321
+00:17:18,399 --> 00:17:20,792
+I ubrzo brana poËinje da radi
+protiv sebe same.
+
+322
+00:17:20,834 --> 00:17:24,235
+Teûina brane i teûina vode
+se udruûuju protiv nje.
+
+323
+00:17:24,371 --> 00:17:27,529
+<i>lnvestitori su rasprodavali akcije
+kojima je pretio pad...</i>
+
+324
+00:17:27,574 --> 00:17:31,373
+<i>Akcije Fani Me i Fredi Meka
+su od jutros u slobodnom padu...</i>
+
+325
+00:17:31,512 --> 00:17:34,379
+Onda poËinje jaËe da curi...
+
+326
+00:17:34,414 --> 00:17:37,750
+<i>Posrtanje Vol Strita uölo je
+u sedmi dan.</i>
+
+327
+00:17:37,885 --> 00:17:43,115
+I onda odjednom imaö pukotine
+od 15-20 metara. Brana eksplodira...
+
+328
+00:17:43,157 --> 00:17:44,886
+<i>BraÊa Leman - bankrot.</i>
+
+329
+00:17:44,925 --> 00:17:47,122
+<i>Meril LinË - prodat na brzinu.
+Sad AlG.</i>
+
+330
+00:17:47,260 --> 00:17:48,694
+...jednostavno se lomi...
+
+331
+00:17:48,729 --> 00:17:53,159
+<i>Godinu dana dugo kliûenje berze oborilo
+je i neke od najjaËih kompanija.</i>
+
+332
+00:17:53,200 --> 00:17:54,997
+Voda poËinje da lije...
+
+333
+00:17:55,135 --> 00:17:57,629
+<i>Ovog jutra,
+Vaöingtonski Uzajamni je propao,</i>
+
+334
+00:17:57,771 --> 00:18:00,139
+<i>najveÊi pad u istoriji
+ameriËkog bankarstva.</i>
+
+335
+00:18:00,274 --> 00:18:01,971
+<i>Akcije su pale sa litice.</i>
+
+336
+00:18:02,109 --> 00:18:05,001
+<i>NajveÊi pojedinaËni gubitak
+poena u istoriji.</i>
+
+337
+00:18:07,681 --> 00:18:11,139
+I uniötava ostatak brane.
+
+338
+00:18:11,285 --> 00:18:16,011
+Izgleda kao da je za celo ruöenje
+potrebno samo dva minuta.
+
+339
+00:18:16,656 --> 00:18:21,627
+Ali naravno, ona mala pukotina
+koja je postojala godinama
+
+340
+00:18:21,862 --> 00:18:24,422
+je ta koja ju je uniötila.
+
+341
+00:18:24,564 --> 00:18:31,164
+Imamo taj iz korena nezdrav sistem
+sazidan na temeljima od peska
+
+342
+00:18:31,305 --> 00:18:33,332
+umesto od kamena.
+
+343
+00:18:33,473 --> 00:18:36,105
+I istrulio je do srûi.
+
+344
+00:18:37,344 --> 00:18:40,677
+Izgleda kao da se kapitalizam
+uruöava u samog sebe.
+
+345
+00:18:40,714 --> 00:18:42,543
+Ko se ovde obogatio?
+
+346
+00:18:42,682 --> 00:18:49,248
+Mnogo ljudi se obogatilo za to vreme,
+najviöe Ëinovnici i direktori
+
+347
+00:18:49,489 --> 00:18:52,083
+velikih banaka, ötedionica i
+davalaca zajmova
+
+348
+00:18:52,125 --> 00:18:54,616
+naroËito oni koji daju zajmove
+ljudima koji nisu bogati.
+
+349
+00:18:54,761 --> 00:18:58,097
+Ti ljudi su se neverovatno obogatili.
+
+350
+00:18:58,231 --> 00:19:01,230
+I Ëlanovi Kongresa su se obogatili,
+
+351
+00:19:01,368 --> 00:19:03,265
+naroËito onda kada su
+napustili Kongres.
+
+352
+00:19:03,403 --> 00:19:06,331
+Mnogo njih je otiölo da radi
+za finansijske institucije.
+
+353
+00:19:06,473 --> 00:19:09,067
+Naravno, kao Rubin i Samers.
+
+354
+00:19:09,709 --> 00:19:15,706
+Robert Rubin, nekada rukovodilac
+kod Sitigrupe i Goldman Saksa
+
+355
+00:19:15,849 --> 00:19:17,646
+öampion u promeni zakona
+
+356
+00:19:17,684 --> 00:19:20,118
+koja je dozvolila komercijalnim bankama
+da uu u nova podruËja
+
+357
+00:19:20,153 --> 00:19:24,519
+kao öto su investiciono bankarstvo
+i egzotiËne ponude u sferi osiguranja.
+
+358
+00:19:25,726 --> 00:19:29,558
+To je ozakonilo da se Sitikorp
+ujedini sa Trevelers Grupom,
+
+359
+00:19:29,696 --> 00:19:34,998
+i u poslu vrednom 70 milijardi dolara
+stvori najveÊu banku na svetu.
+
+360
+00:19:35,135 --> 00:19:39,735
+Posle napuötanja Klintonove administracije,
+Rubin je radio za Sitigrupu,
+
+361
+00:19:39,873 --> 00:19:44,335
+zaradivöi viöe od $115 miliona.
+
+362
+00:19:44,478 --> 00:19:46,469
+Gde je Samers zaradio svoje pare?
+
+363
+00:19:46,613 --> 00:19:53,209
+Samers je zaradio novac kao
+konsultant i od drûanja govora
+
+364
+00:19:53,353 --> 00:19:58,750
+za, u nekim sluËajevima,
+preko $100.000 po pojavljivanju.
+
+365
+00:19:58,892 --> 00:20:02,455
+Samers je takoe zaradio $5,2 miliona
+na svom sporednom poslu,
+
+366
+00:20:02,596 --> 00:20:05,827
+poslu savetnika u privatnom fondu.
+
+367
+00:20:05,866 --> 00:20:07,458
+Gde je radio Gajtner?
+
+368
+00:20:07,601 --> 00:20:12,534
+Gajtner je bio neuspeöan u praktiËno
+svemu öto je radio u ûivotu.
+
+369
+00:20:12,673 --> 00:20:17,169
+VeÊina institucija koje su
+uniötile ekonomiju
+
+370
+00:20:17,311 --> 00:20:20,612
+bile su pod njegovim direktnim
+rukovodstvom.
+
+371
+00:20:20,747 --> 00:20:23,045
+Kako je dobio posao ministra finansija?
+
+372
+00:20:23,083 --> 00:20:26,075
+Tako öto je katastrofalno radio
+svoj posao
+
+373
+00:20:26,119 --> 00:20:29,179
+predsednika Banke federalnih
+rezervi Njujorka.
+
+374
+00:20:29,322 --> 00:20:30,851
+To nema smisla.
+
+375
+00:20:30,991 --> 00:20:32,618
+Naprotiv, i te kako ima smisla.
+
+376
+00:20:32,759 --> 00:20:34,786
+To nije niöta novo u Vaöingtonu.
+
+377
+00:20:34,928 --> 00:20:37,296
+Ljudi koji vam daju pogreöan odgovor,
+
+378
+00:20:37,431 --> 00:20:40,664
+ali odgovor koji vi ûelite,
+su neprocenjivi.
+
+379
+00:20:40,801 --> 00:20:45,739
+I Ëesto bivaju unapreeni
+baö zato öto su spremni da kaûu
+
+380
+00:20:45,873 --> 00:20:48,741
+i urade apsurdne stvari.
+
+381
+00:20:49,575 --> 00:20:52,409
+To su ljudi koji su nam obeÊali
+
+382
+00:20:52,546 --> 00:20:56,305
+da Êe nas finansijska deregulacija
+sve uËiniti bogatim.
+
+383
+00:20:56,450 --> 00:21:00,120
+I to su ljudi koji su se
+liËno obogatili.
+
+384
+00:21:03,056 --> 00:21:07,052
+Nije bilo iznenaujuÊe to öto su bogati
+ûeleli da postanu bogatiji.
+
+385
+00:21:07,194 --> 00:21:11,260
+Ali sad su smislili nov i bestidan
+naËin da to urade.
+
+386
+00:21:11,498 --> 00:21:14,800
+Samo se parkira kamion iza
+Ministarstva finansija
+
+387
+00:21:14,935 --> 00:21:18,427
+i uzme 700 milijardi dolara
+novca od naöeg poreza,
+
+388
+00:21:18,472 --> 00:21:20,463
+i niko niöta ne pita.
+
+389
+00:21:20,607 --> 00:21:24,173
+Ovde mi je Majkl Mur. Znaö ko je
+Majkl Mur, zar ne?
+
+390
+00:21:24,311 --> 00:21:27,078
+Filmski reûiser.
+Sad me snima.
+
+391
+00:21:27,214 --> 00:21:28,772
+- Moja ûena je na vezi.
+- O, zdravo.
+
+392
+00:21:28,815 --> 00:21:30,578
+Kako ste?
+Baron Hil iz lndijane.
+
+393
+00:21:30,617 --> 00:21:32,084
+Kako ste, gospodine?
+Dobra drûava.
+
+394
+00:21:32,119 --> 00:21:33,750
+- Mi smo iz MiËigena, znate?
+- Da.
+
+395
+00:21:33,887 --> 00:21:35,679
+Kako se taj finansijski kolaps
+dogodio?
+
+396
+00:21:35,722 --> 00:21:39,854
+Doöao sam kuÊi u petak, i sve je bilo
+u redu öto se tiËe ekonomije.
+
+397
+00:21:39,993 --> 00:21:44,394
+Pozvao sam kancelariju kad mi je avion
+sleteo u Indijani,
+
+398
+00:21:44,532 --> 00:21:46,863
+i odjednom Ëujem da nam je ta kriza
+pala u naruËje
+
+399
+00:21:46,900 --> 00:21:48,959
+i da moram da glasam kad se
+vratim u ponedeljak
+
+400
+00:21:49,002 --> 00:21:52,460
+za kauciju od stotina milijardi koju treba
+platiti za finansijsku industriju.
+
+401
+00:21:52,606 --> 00:21:56,442
+ReËeno nam je da Êe, ako
+ne reagujemo odmah,
+
+402
+00:21:56,576 --> 00:22:01,277
+ekonomija bez sumnje propasti.
+
+403
+00:22:01,314 --> 00:22:06,650
+Osetila sam da je najava ove krize
+u septembru,
+
+404
+00:22:06,787 --> 00:22:10,286
+samo par nedelja pre izbora,
+bila veoma sumnjiva.
+
+405
+00:22:10,323 --> 00:22:13,349
+Tada je Kongres najnervozniji.
+
+406
+00:22:13,493 --> 00:22:18,130
+I pomislila sam: ''»ekaj malo, öta se
+ovde deöava? Ovo nije normalno.''
+
+407
+00:22:18,265 --> 00:22:21,759
+Predvodnici Kongresa
+i Buöova administracija
+
+408
+00:22:21,802 --> 00:22:24,134
+brzo su odrûali seriju
+privatnih sastanaka
+
+409
+00:22:24,271 --> 00:22:29,339
+sa titanima Vol Strita da procene koliko
+je novca potrebno da nadoknadi
+
+410
+00:22:29,476 --> 00:22:33,037
+sva pogreöna ulaganja investitora.
+
+411
+00:22:33,080 --> 00:22:37,141
+Sporazum je sklopljen sa ministrom
+finansija Henrijem Polsonom,
+
+412
+00:22:37,184 --> 00:22:39,675
+bivöim direktorom Goldman Saksa,
+
+413
+00:22:39,719 --> 00:22:43,587
+Ëije je liËno bogatstvo procenjeno
+na 700 miliona dolara
+
+414
+00:22:43,623 --> 00:22:47,457
+kad je napustio Goldman i preöao
+u ministarstvo finansija.
+
+415
+00:22:47,494 --> 00:22:51,294
+Mislim da smo videli najbolje
+öto Amerika ima
+
+416
+00:22:51,331 --> 00:22:54,732
+u kancelariji predsednika Kongresa
+veËeras.
+
+417
+00:22:55,768 --> 00:22:57,760
+Najbolje öto Amerika ima?
+
+418
+00:22:57,804 --> 00:23:01,706
+Ili je mislio najbolje öto
+ima Goldman Saks?
+
+419
+00:23:01,741 --> 00:23:03,504
+Ministarstvo finansija
+
+420
+00:23:03,543 --> 00:23:05,875
+je praktiËno produûena ruka
+Vol Strita.
+
+421
+00:23:05,912 --> 00:23:08,972
+Svi rukovodeÊi ljudi su bili
+iz Goldman Saksa.
+
+422
+00:23:09,015 --> 00:23:12,143
+Mi to u modernoj eri zovemo
+Goldmanova vlada.
+
+423
+00:23:12,185 --> 00:23:14,346
+To je zato öto je bilo mnogo
+
+424
+00:23:14,488 --> 00:23:18,153
+bivöih Goldmanovih direktora
+u Buöovom Ministarstvu finansija,
+
+425
+00:23:18,191 --> 00:23:20,455
+kao öto ih je bilo kod Klintona.
+
+426
+00:23:20,594 --> 00:23:25,628
+Radili su kao moÊni lobisti iznutra
+da se ukine finansijska kontrola
+
+427
+00:23:25,765 --> 00:23:28,233
+dok smo mi davali novac
+za njihove plate.
+
+428
+00:23:28,368 --> 00:23:32,404
+Ministar finansija Polson
+nije bio sluËajno kod Goldmana.
+
+429
+00:23:32,539 --> 00:23:36,031
+On je bio taj koji je uvukao Goldman
+
+430
+00:23:36,076 --> 00:23:39,773
+da kupuje te egzotiËne
+stambene derivative.
+
+431
+00:23:39,813 --> 00:23:43,271
+Tako je uvukao Goldman
+u velike nevolje.
+
+432
+00:23:43,316 --> 00:23:45,477
+Suludi stambeni derivativi
+
+433
+00:23:45,519 --> 00:23:48,511
+sad su uniötili veÊinu
+Goldmanove konkurencije.
+
+434
+00:23:48,555 --> 00:23:52,180
+I sa Goldmanovim momcima koji sad
+vuku konce unutar Vlade,
+
+435
+00:23:52,324 --> 00:23:56,624
+obezbediÊe da Êe Goldman
+zavröiti kao kralj Vol Strita
+
+436
+00:23:56,763 --> 00:23:58,196
+kad se praöina slegne.
+
+437
+00:23:58,231 --> 00:24:00,760
+Poslednji moguÊi ljudi koji bi trebalo
+da daju savete
+
+438
+00:24:00,800 --> 00:24:02,798
+Ministarstvu finansija su Goldmanovci.
+
+439
+00:24:02,936 --> 00:24:07,501
+Prirodno, Paulson, bivöi direktor
+Goldmana, ih puöta da to rade.
+
+440
+00:24:07,641 --> 00:24:10,337
+I kakav savet oni na kraju daju?
+
+441
+00:24:10,377 --> 00:24:13,210
+Pa, da iskoriste poreske obveznike
+
+442
+00:24:13,346 --> 00:24:18,482
+da izvuku Goldman i ostale povlaöÊene
+finansijske organizacije.
+
+443
+00:24:18,618 --> 00:24:23,520
+Eto, Ministar Polson je podneo
+jednostavan predlog Kongresu.
+
+444
+00:24:23,557 --> 00:24:25,652
+Evo ga: tri stranice.
+
+445
+00:24:25,792 --> 00:24:28,556
+To je oko jednu milijardu
+dolara po reËi.
+
+446
+00:24:28,695 --> 00:24:30,586
+I stvarno je jednostavan.
+
+447
+00:24:30,730 --> 00:24:33,658
+Ministar Polson ima
+kljuË drûavne blagajne.
+
+448
+00:24:33,800 --> 00:24:36,965
+HoÊe da poËne pozamljivanjem
+700 milijardi dolara
+
+449
+00:24:37,103 --> 00:24:38,593
+u ime ameriËkog naroda,
+
+450
+00:24:38,638 --> 00:24:41,869
+moûda i viöe kasnije.
+I to zaobilazeÊi sve zakone.
+
+451
+00:24:42,008 --> 00:24:44,038
+Sve zakone!
+
+452
+00:24:44,177 --> 00:24:47,613
+»ak i sudsku kontrolu.
+Sasvim jednostavan predlog.
+
+453
+00:24:47,747 --> 00:24:51,208
+Mi smo u situaciji prave krize
+
+454
+00:24:51,351 --> 00:24:55,552
+iz koje moûe da se izlegne neöto
+gore od Velike depresije.
+
+455
+00:24:55,689 --> 00:24:59,184
+Videla sam strah.
+Jedan Ëovek je poËeo da plaËe.
+
+456
+00:24:59,326 --> 00:25:02,659
+Ljudi nam kaûu da Êe nastati
+velika propast.
+
+457
+00:25:02,696 --> 00:25:04,561
+A ja se spremam za izbore
+kroz dva meseca.
+
+458
+00:25:04,498 --> 00:25:06,361
+Osam nedelja do izbora,
+
+459
+00:25:06,499 --> 00:25:09,027
+Ne ûelim da pogreöim.
+äta je ispravno uËiniti?
+
+460
+00:25:09,169 --> 00:25:11,230
+Neka su nam nebesa u pomoÊi.
+
+461
+00:25:11,371 --> 00:25:15,970
+Ako ovo ne sprovedemo, bojim se
+da Êe najgore tek doÊi.
+
+462
+00:25:16,109 --> 00:25:18,273
+Nekim Ëlanovima je Ëak reËeno
+
+463
+00:25:18,411 --> 00:25:22,006
+da Êe biti vanrednog stanja u Americi
+ako glasamo protiv.
+
+464
+00:25:22,148 --> 00:25:26,176
+Nabijali su nam to u grlo.
+Hteli su da odmah o tome glasamo
+
+465
+00:25:26,319 --> 00:25:28,881
+bez ikakve ozbiljne analize.
+
+466
+00:25:29,022 --> 00:25:30,981
+- Bez prave rasprave?
+- Bez prave rasprave.
+
+467
+00:25:31,124 --> 00:25:33,183
+I ja nisam hteo...
+
+468
+00:25:33,326 --> 00:25:36,054
+Saterali su me u Êoöak da glasam
+
+469
+00:25:36,196 --> 00:25:38,458
+za rezoluciju o lraku zasnovanu
+na nekim laûima
+
+470
+00:25:38,599 --> 00:25:40,999
+koje su mi ispriËali i nisam hteo
+da ponovo prolazim kroz tako neöto.
+
+471
+00:25:41,034 --> 00:25:44,333
+NeÊu da Ëekam na dogaaje
+dok se opasnost pribliûava.
+
+472
+00:25:44,371 --> 00:25:47,863
+NeÊu da stojim sa strane dok se
+opasnost primiËe sve bliûe i bliûe.
+
+473
+00:25:47,907 --> 00:25:51,140
+Upotrebi strah i dobiÊeö
+ono öto hoÊeö.
+
+474
+00:25:52,779 --> 00:25:55,373
+I napravili su u tom izlogu...
+
+475
+00:25:55,415 --> 00:25:58,145
+dva meseca pre izbora...
+taj ekspres lonac.
+
+476
+00:25:58,184 --> 00:26:03,548
+Narod razume da PredstavniËki dom
+treba da izglasa ovaj pravni akt.
+
+477
+00:26:03,590 --> 00:26:06,225
+G. predsedniËe, moja poruka
+ameriËkom narodu je:
+
+478
+00:26:06,259 --> 00:26:09,551
+Ne dozvolite da Kongres stavi peËat
+na ovu pogodbu sa Vol Strita.
+
+479
+00:26:09,696 --> 00:26:14,532
+Ovi kriminalci imaju toliku politiËku moÊ
+da mogu da spreËe normalan pravni proces
+
+480
+00:26:14,668 --> 00:26:17,068
+najviöeg zakonodavnog tela
+ove zemlje.
+
+481
+00:26:17,203 --> 00:26:22,100
+Svi komiteti koji bi trebalo da analiziraju
+svaku reË predloga su raspuöteni.
+
+482
+00:26:22,242 --> 00:26:24,972
+A to znaËi da je i ameriËki narod
+raspuöten.
+
+483
+00:26:24,911 --> 00:26:29,307
+Po Ustavu, mi smo se zakleli
+da Êemo braniti ovu republiku
+
+484
+00:26:29,449 --> 00:26:32,680
+od svih neprijatelja,
+stranih i domaÊih.
+
+485
+00:26:32,719 --> 00:26:35,517
+Kaûu da Êe to biti kao
+milenijumska greöka.
+
+486
+00:26:35,555 --> 00:26:38,046
+To je ona ista politika straha
+koju sluöamo
+
+487
+00:26:38,091 --> 00:26:40,582
+od debelih finansijskih nasilnika
+sa Vol Strita.
+
+488
+00:26:40,627 --> 00:26:43,187
+Zaöto ne traûimo od Vol Strita
+da sam poËisti svoju brljotinu?
+
+489
+00:26:43,229 --> 00:26:46,587
+Zaöto ne pomaûemo ameriËkim porodicama
+suoËenim sa bankrotom?
+
+490
+00:26:46,733 --> 00:26:49,827
+Zaöto ne smanjujemo dugove obiËnom svetu
+umesto onima sa Vol Strita?
+
+491
+00:26:49,869 --> 00:26:53,933
+Je li ovo Kongres Sjedinjenih Drûava
+ili odbor direktora Goldman Saksa?
+
+492
+00:26:54,073 --> 00:26:59,543
+NoÊ pre glasanja ameriËki narod
+je u nezapamÊenom broju
+
+493
+00:26:59,679 --> 00:27:05,445
+preplavio Kapitol Hil milionima poruka
+zahrtevajuÊi da Kongres kaûe ne.
+
+494
+00:27:08,922 --> 00:27:13,988
+Paket pomoÊi je danas odbijen,
+glasanjem u PredstavniËkom domu.
+
+495
+00:27:14,127 --> 00:27:18,524
+Berza se strmoglavila do taËke
+najveÊeg pojedinaËnog gubitka
+
+496
+00:27:18,565 --> 00:27:20,863
+u jednom danu, mereno po Dau Dûonsu.
+
+497
+00:27:20,900 --> 00:27:22,392
+Pitanje je ovo:
+
+498
+00:27:22,535 --> 00:27:24,901
+da li je neuspeh paketa otkupa
+dovoljan razlog
+
+499
+00:27:25,038 --> 00:27:28,135
+da ne glasamo za one koji su zalegli
+za njega kroz pet nedelja?
+
+500
+00:27:28,174 --> 00:27:29,939
+12 glasova ga je ubilo.
+
+501
+00:27:30,076 --> 00:27:32,271
+Kao i glasovi mnogih Amerikanaca
+
+502
+00:27:32,412 --> 00:27:35,645
+koji su pozvali svoje predstavnike
+i rekli: ne.
+
+503
+00:27:35,682 --> 00:27:38,048
+Tada je Kongres glasao ne.
+
+504
+00:27:38,084 --> 00:27:40,052
+VeËeras je Kongres otiöao iz grada.
+
+505
+00:27:40,086 --> 00:27:42,853
+To je bio prekor kakav su Kongres
+i Vol Strit
+
+506
+00:27:42,989 --> 00:27:45,787
+retko, ako ikada, iskusili.
+
+507
+00:27:45,825 --> 00:27:48,819
+To je ono na öta je memorandum
+Sitibanke upozoravao:
+
+508
+00:27:48,962 --> 00:27:52,891
+Ako se seljaci ikada odluËe
+da iskoriste svoja demokratska prava,
+
+509
+00:27:53,032 --> 00:27:55,924
+pljaËki bogatih Êe doÊi kraj.
+
+510
+00:27:56,069 --> 00:27:59,999
+Tako su Polson i kompanija poûurili
+opet na Kapitol Hil.
+
+511
+00:28:00,140 --> 00:28:03,439
+I brûe nego öto biste rekli
+''RaËun, molim'',
+
+512
+00:28:03,476 --> 00:28:07,542
+sklopili su iza kulisa sporazum
+uz pomoÊ Demokrata.
+
+513
+00:28:08,682 --> 00:28:10,472
+Ovaj problem potiskuje izbore.
+
+514
+00:28:10,517 --> 00:28:12,417
+Moramo da postupimo ispravno.
+Moramo da radimo brzo.
+
+515
+00:28:12,452 --> 00:28:13,785
+Slaûem se sa ministrom.
+
+516
+00:28:13,920 --> 00:28:16,354
+NeÊe to stvarno da koöta svih tih
+stotina milijardi dolara.
+
+517
+00:28:16,389 --> 00:28:18,357
+DobiÊemo natrag veÊinu toga,
+moûda i sve.
+
+518
+00:28:18,791 --> 00:28:24,955
+Demokrate su postale inkasant
+koji je dostavio raËun
+
+519
+00:28:25,098 --> 00:28:27,430
+za republikanskog predsednika.
+
+520
+00:28:27,467 --> 00:28:31,159
+Predsednik i moguÊi buduÊi predsednici
+su obavljali telefonske razgovore
+
+521
+00:28:31,304 --> 00:28:34,132
+a Ëlanovi... znam bar dva Ëlana
+
+522
+00:28:34,174 --> 00:28:36,574
+koji su zainteresovani za Senat SAD,
+
+523
+00:28:36,609 --> 00:28:38,303
+i obeÊanja su data.
+
+524
+00:28:39,212 --> 00:28:43,439
+Tokom par dana, Kongres je
+napravio zaprepaöÊujuÊi zaokret
+
+525
+00:28:43,483 --> 00:28:47,444
+i dao bankama viöe od 700 milijardi
+koje su traûile,
+
+526
+00:28:47,587 --> 00:28:49,452
+a narod nek' ide do avola.
+
+527
+00:28:49,689 --> 00:28:55,558
+Na ovom glasanju Za je 263,
+Protiv je 171. Akt je usvojen.
+
+528
+00:28:55,795 --> 00:29:00,129
+To je paûljivo isplanirano
+da se desi kad se desilo,
+
+529
+00:29:00,966 --> 00:29:04,193
+i da ukljuËi igraËe koje je ukljuËilo.
+
+530
+00:29:04,237 --> 00:29:08,230
+Porukom je paûljivo uruËena.
+
+531
+00:29:08,274 --> 00:29:10,299
+Imali su Kongres baö tamo
+gde su ûeleli.
+
+532
+00:29:10,643 --> 00:29:13,771
+Ne mislite da je to bio sluËajan
+splet okolnosti?
+
+533
+00:29:14,413 --> 00:29:15,344
+Ne.
+
+534
+00:29:15,381 --> 00:29:18,942
+Bilo je to skoro kao obaveötajna
+operacija
+
+535
+00:29:19,185 --> 00:29:22,352
+koja je morala biti koordinisana
+na najviöem nivou.
+
+536
+00:29:22,788 --> 00:29:29,290
+Ceo ovaj fijasko vam pokazuje
+da postoje neke snage...
+
+537
+00:29:30,529 --> 00:29:32,323
+Koje nisu demokratske.
+
+538
+00:29:32,365 --> 00:29:34,230
+...tako je. Koje imaju kontrolu.
+
+539
+00:29:35,267 --> 00:29:37,031
+I te kako.
+
+540
+00:29:37,070 --> 00:29:40,130
+Uradili su majstorski posao.
+Vrlo veöto izveden.
+
+541
+00:29:42,642 --> 00:29:47,311
+Mislite li da je preoötro nazvati ono
+öto se dogodilo drûavnim udarom?
+
+542
+00:29:47,547 --> 00:29:49,105
+Finansijskim drûavnim udarom?
+
+543
+00:29:49,148 --> 00:29:52,276
+Ne, zato öto mislim da se
+upravo to desilo.
+
+544
+00:29:53,518 --> 00:29:56,583
+- Finansijski drûavni udar?
+- Da.
+
+545
+00:29:57,357 --> 00:29:59,349
+Mogla bih s tim da se sloûim.
+
+546
+00:30:00,293 --> 00:30:04,262
+Mogla bih s tim da se sloûim zato öto
+narod ovde nema stvarnu vlast.
+
+547
+00:30:04,397 --> 00:30:07,088
+Vol Strit ima vlast.
+
+548
+00:30:08,368 --> 00:30:10,593
+Gde je naö novac?
+
+549
+00:30:11,837 --> 00:30:13,137
+Ne znam.
+
+550
+00:30:13,272 --> 00:30:17,069
+Sitigrupa je potroöila 50 miliona dolara
+na luksuzni korporacijski mlaznjak.
+
+551
+00:30:17,510 --> 00:30:19,670
+Ne znate?
+Ali vi ste osoba...
+
+552
+00:30:19,812 --> 00:30:22,804
+zaduûena za...
+zaduûili su vas da saznate.
+
+553
+00:30:22,949 --> 00:30:26,850
+Goldman Saks je izdvojio
+6,8 milijardi za bonuse.
+
+554
+00:30:26,986 --> 00:30:30,319
+Ali Ministarstvo finansija je sledilo
+pravilo "Ne pitaj - ne govori".
+
+555
+00:30:30,356 --> 00:30:34,855
+Nisu pitali banke öta Êe
+da urade s novcem.
+
+556
+00:30:34,894 --> 00:30:38,389
+A poöto ih nisu pitali,
+banke nisu duûne da kaûu.
+
+557
+00:30:38,531 --> 00:30:40,828
+Sastanci pored bazena AlG-a
+u odmaraliötu Dolina...
+
+558
+00:30:40,929 --> 00:30:42,329
+...nemaju nikakvog smisla.
+
+559
+00:30:42,468 --> 00:30:48,039
+Dojavljeno nam je da je 73-oje ljudi
+dobilo najmanje po $1 milion.
+
+560
+00:30:48,274 --> 00:30:52,404
+Zaöto Ministarstvo finansija
+nije zatraûilo od banaka da im kaûu
+
+561
+00:30:52,545 --> 00:30:54,137
+öta rade s naöim novcem?
+
+562
+00:30:54,480 --> 00:30:57,777
+To Êete morati da pitate
+ministra Polsona.
+
+563
+00:30:57,917 --> 00:31:00,650
+Jer ja sam to pitanje postavila
+
+564
+00:31:00,787 --> 00:31:04,018
+u svojstvu predsednika Kongresne
+kontrolne komisije
+
+565
+00:31:04,057 --> 00:31:07,150
+i do sada nisam dobila odgovor.
+Moûda Êete vi dobiti bolji.
+
+566
+00:31:08,428 --> 00:31:10,396
+Dobar dan. Kancelarija Henka Polsona.
+
+567
+00:31:10,530 --> 00:31:13,627
+Da, ovde Majkl Mur. éeleo bih
+da razgovaram sa g. Polsonom.
+
+568
+00:31:13,766 --> 00:31:15,825
+- Oprostite. Kako ste rekli da se zovete?
+- Majkl Mur.
+
+569
+00:31:15,868 --> 00:31:17,426
+- Majkl Mur?
+- Jes'.
+
+570
+00:31:17,470 --> 00:31:20,667
+- Halo? Halo?
+
+571
+00:31:20,707 --> 00:31:23,405
+Ovo je ludnica öta rade
+s naöim parama.
+
+572
+00:31:23,543 --> 00:31:26,207
+Kad bih mogao da ih nateram
+da vrate novac...
+
+573
+00:31:26,346 --> 00:31:28,581
+UËinili biste mi uslugu.
+
+574
+00:31:45,965 --> 00:31:48,399
+Doöli smo da uzmemo novac i
+vratimo ga ameriËkom narodu.
+
+575
+00:31:48,434 --> 00:31:50,265
+Razumem gospodine,
+ali ne moûete unutra.
+
+576
+00:31:50,303 --> 00:31:51,736
+- Moûete li da uzmete kesu?
+- Ne.
+
+577
+00:31:51,871 --> 00:31:53,329
+- Da je odnesete tamo?
+- Apsolutno ne.
+
+578
+00:31:53,473 --> 00:31:55,207
+Da je napunite.
+lmam joö kesa.
+
+579
+00:31:55,341 --> 00:31:57,138
+10 milijardi ovde verovatno
+ne moûe da stane.
+
+580
+00:31:57,176 --> 00:31:58,336
+Ne moûete da mi pomognete
+da uzmem novac?
+
+581
+00:31:58,378 --> 00:31:59,538
+Ne mogu da vam pomognem
+da uzmete novac.
+
+582
+00:31:59,579 --> 00:32:01,774
+äta bi se desilo kad bih ja sad
+jurnuo po njega?
+
+583
+00:32:03,916 --> 00:32:06,476
+Tako da sam otiöao u drugu banku.
+
+584
+00:32:07,487 --> 00:32:08,745
+HoÊemo naöe pare nazad!
+
+585
+00:32:08,788 --> 00:32:10,346
+Otiöao sam u sve banke.
+
+586
+00:32:10,390 --> 00:32:12,654
+- Jeste li videli ovog tipa?
+- Da.
+
+587
+00:32:12,692 --> 00:32:15,024
+OK, ovde smo da bismo izvröili
+graansko hapöenje, u stvari.
+
+588
+00:32:15,061 --> 00:32:17,461
+Samo ga bacite kroz prozor!
+
+589
+00:32:18,097 --> 00:32:20,357
+I gdegod sam otiöao...
+
+590
+00:32:21,601 --> 00:32:23,098
+doûiveo sam istu reakciju.
+
+591
+00:32:23,136 --> 00:32:25,297
+Ovde smo da bismo izvröili
+graansko hapöenje
+
+592
+00:32:25,338 --> 00:32:27,999
+celog odbora direktora
+i rukovodilaca ovde.
+
+593
+00:32:28,041 --> 00:32:30,106
+Zaöto ne porazgovarate sa mojim
+nadzornikom, eno ga tamo.
+
+594
+00:32:30,242 --> 00:32:31,273
+Gde je?
+
+595
+00:32:31,310 --> 00:32:33,207
+- U beloj koöulji? S plavom maönom?
+- Jest'. To je taj.
+
+596
+00:32:33,246 --> 00:32:34,511
+äto mu je opala kosa?
+
+597
+00:32:34,547 --> 00:32:38,108
+Koriste pare da kupe
+druge kompanije.
+
+598
+00:32:38,151 --> 00:32:40,813
+To je naö novac.
+
+599
+00:32:40,853 --> 00:32:42,878
+O, evo ga policajac.
+
+600
+00:32:42,922 --> 00:32:45,049
+Hteo sam da izvröim graansko
+hapöenje direktora.
+
+601
+00:32:45,091 --> 00:32:47,286
+G. Blenkfajna.
+
+602
+00:32:47,326 --> 00:32:50,090
+Ali vi ste ovde, pa moûda moûete
+da mi pomognete.
+
+603
+00:32:50,129 --> 00:32:53,587
+- Da uradimo to napolju.
+- $170 milijardi novca poreskih obveznika.
+
+604
+00:32:53,633 --> 00:32:56,864
+- Nije vam dozvoljeno da uete
+u zgradu, gospodine.
+- Ali ja sam ovde da izvröim hapöenje.
+
+605
+00:32:56,903 --> 00:32:59,303
+- Tu sam da izvröim hapöenje.
+- Izvröite ga napolju, gospodine.
+
+606
+00:32:59,338 --> 00:33:00,771
+Ne mogu napolju,
+oni su gore na spratu.
+
+607
+00:33:00,807 --> 00:33:02,707
+Ja Êu da izvröim hapöenje, gospodine.
+
+608
+00:33:02,742 --> 00:33:04,403
+Vi moûete nekog da uhapsite?
+
+609
+00:33:04,444 --> 00:33:06,241
+Ako vi moûete nekoga da uhapsite,
+i ja mogu nekoga da uhapsim.
+
+610
+00:33:06,279 --> 00:33:07,678
+Gospodine, napustite zgradu.
+
+611
+00:33:07,714 --> 00:33:09,079
+Koga joö ûelite da napusti zgradu?
+
+612
+00:33:09,115 --> 00:33:10,912
+Vaö kamerman i vaöa ekipa.
+Izaite napolje, gospodine.
+
+613
+00:33:11,150 --> 00:33:14,217
+Ne govore engleski.
+Donde (gde)...
+
+614
+00:33:15,455 --> 00:33:18,117
+Ti frajeri su prekröili toliko mnogo
+zakona, znate?
+
+615
+00:33:18,257 --> 00:33:22,052
+To je novac.
+To je kraa, to je prevara.
+
+616
+00:33:31,270 --> 00:33:35,403
+OdneÊu ga nazad u Drûavnu
+blagajnu ovim ovde kolima.
+
+617
+00:33:35,541 --> 00:33:38,169
+Bezbedno je.
+Moûete mi verovati.
+
+618
+00:33:41,614 --> 00:33:44,913
+Postoje male naznake
+
+619
+00:33:45,751 --> 00:33:49,388
+da bi se nezamislivo
+
+620
+00:33:50,422 --> 00:33:54,052
+moglo desiti, a to je...
+
+621
+00:33:56,496 --> 00:33:59,590
+da bi se svi ljudi
+
+622
+00:33:59,632 --> 00:34:02,260
+u Sjedinjenim Drûavama
+mogli zaista
+
+623
+00:34:02,301 --> 00:34:05,702
+naljutiti
+
+624
+00:34:05,738 --> 00:34:07,638
+na bogate.
+
+625
+00:34:07,673 --> 00:34:11,165
+Sram vas bilo!
+Sram vas bilo!
+
+626
+00:34:11,210 --> 00:34:13,371
+Ljudi koji su se obogatili
+u ovoj zemlji
+
+627
+00:34:13,412 --> 00:34:17,508
+poslednjih decenija
+nisu Ëak radili
+
+628
+00:34:17,550 --> 00:34:21,384
+ni stvari koje se svima sviaju.
+
+629
+00:34:21,420 --> 00:34:24,521
+Igrali su igre
+
+630
+00:34:24,657 --> 00:34:27,557
+koje su, na kraju, svakoga oötetile.
+
+631
+00:34:31,063 --> 00:34:35,557
+Neka vrsta bolesti je
+uöla u ekonomiju.
+
+632
+00:34:37,170 --> 00:34:40,833
+Nesvakidaönje je bilo da se Amerikanci
+okrenu protiv bogatih
+
+633
+00:34:40,873 --> 00:34:44,104
+zbog öargarepe koja je uvek bila
+drûana ispred nas
+
+634
+00:34:44,143 --> 00:34:47,340
+da i mi moûemo postati oni
+jednoga dana.
+
+635
+00:34:47,380 --> 00:34:50,144
+Ljudi su poËeli da ne veruju u to.
+
+636
+00:34:50,183 --> 00:34:52,879
+I to je uplaöilo bogate.
+
+637
+00:34:52,919 --> 00:34:57,015
+Jer su iz daljine Ëuli
+kako se neöto pribliûava
+
+638
+00:34:57,056 --> 00:34:59,718
+i to nije bio joö jedan suvi martini.
+
+639
+00:34:59,759 --> 00:35:02,523
+To je bio prokleti narod.
+
+640
+00:35:04,430 --> 00:35:08,894
+Spremni smo da povedemo ovu zemlju
+potpuno novim smerom!
+
+641
+00:35:09,035 --> 00:35:11,629
+To je ono öto se dogaa
+u Americi sada!
+
+642
+00:35:11,671 --> 00:35:15,334
+Promena je ono öto se dogaa
+u Americi!
+
+643
+00:35:15,374 --> 00:35:17,035
+Jebem ti sranje!
+
+644
+00:35:17,076 --> 00:35:20,068
+Ovo nije ono öto je
+Vol Strit ûeleo.
+
+645
+00:35:20,112 --> 00:35:22,603
+äta ako pobedi?
+
+646
+00:35:22,648 --> 00:35:25,481
+äta bi se dogodilo s njihovim
+naËinom ûivota?
+
+647
+00:35:27,320 --> 00:35:29,754
+Zato su uradili ono öto uvek rade.
+
+648
+00:35:29,789 --> 00:35:31,950
+Bacili su mu novca koliko su mogli.
+
+649
+00:35:33,659 --> 00:35:37,095
+Goldman Saks je postao njegov
+privatni donator broj jedan
+
+650
+00:35:37,129 --> 00:35:39,962
+sa blizu milion dolara u prilozima.
+
+651
+00:35:41,801 --> 00:35:45,296
+Ali ipak nisu bili sigurni
+öta Êe da uradi.
+
+652
+00:35:45,438 --> 00:35:50,843
+äta je stvarno oseÊao za njih
+i njihov naËin ûivota?
+
+653
+00:35:50,843 --> 00:35:54,745
+Moj stav je da ako je ekonomija
+dobra za ljude na dnu,
+
+654
+00:35:54,780 --> 00:35:55,940
+biÊe dobra za sve.
+
+655
+00:35:56,141 --> 00:35:58,841
+Mislim da ako raspodelimo bogatstvo
+okolo, to je dobro za sve.
+
+656
+00:35:59,051 --> 00:36:01,144
+Senator Obama se kandiduje
+da podeli bogatstvo.
+
+657
+00:36:01,287 --> 00:36:06,150
+ObiËan radnik Dûo mu je rekao
+da taj plan liËi na socijalizam.
+
+658
+00:36:09,862 --> 00:36:11,386
+Volim Ameriku.
+
+659
+00:36:11,430 --> 00:36:15,230
+éelim da obezbedim da ostane demokratija,
+a ne socijalistiËko druötvo.
+
+660
+00:36:18,571 --> 00:36:21,872
+Stvarno mislim da Êe uvesti socijalizam
+ako dobije samo poloviËnu priliku.
+
+661
+00:36:22,008 --> 00:36:24,738
+Uopöte ne verujem Obami.
+
+662
+00:36:26,345 --> 00:36:28,313
+Napustio sam Evropu pre Ëetiri decenije
+
+663
+00:36:28,447 --> 00:36:30,611
+jer je socijalizam tamo uniötio sve
+povoljne prilike.
+
+664
+00:36:30,650 --> 00:36:34,347
+''Neko Êe morati da se odrekne
+parËeta svoje pite
+
+665
+00:36:34,387 --> 00:36:36,617
+da bi neko drugi imao viöe.''
+
+666
+00:36:36,656 --> 00:36:37,987
+Ja hoÊu svu svoju pitu!
+
+667
+00:36:39,458 --> 00:36:42,359
+Barak Obama je socijalista,
+to je jednostavno tako.
+
+668
+00:36:46,198 --> 00:36:49,031
+Kampanja zastraöivanja nije
+davala rezultate.
+
+669
+00:36:49,068 --> 00:36:52,597
+U stvari, öto su viöe zvali Obamu
+socijalistom,
+
+670
+00:36:52,738 --> 00:36:55,798
+viöe je napredovao na biraliötima.
+
+671
+00:36:55,841 --> 00:36:58,537
+I upotrebljavanje te reËi toliko
+
+672
+00:36:58,577 --> 00:37:02,843
+uËinilo je nove generacije radoznalim
+da saznaju öta je to.
+
+673
+00:37:02,882 --> 00:37:05,410
+Na primer, malo njih je znalo
+
+674
+00:37:05,551 --> 00:37:08,247
+da postoji socijalista u Senatu
+Sjedinjenih Drûava.
+
+675
+00:37:08,287 --> 00:37:11,518
+Naravno, on je iz vesele (gej)
+drûave Vermont.
+
+676
+00:37:12,959 --> 00:37:14,654
+Kaûete da ste socijalista.
+Recite mi öta to znaËi.
+
+677
+00:37:14,694 --> 00:37:16,659
+Ja sam demokratski socijalista
+
+678
+00:37:16,695 --> 00:37:19,025
+öto znaËi da je funkcija vlade
+da predstavlja
+
+679
+00:37:19,165 --> 00:37:20,798
+ljude sa osrednjim primanjima
+i radne ljude
+
+680
+00:37:20,933 --> 00:37:23,199
+a ne samo bogate i moÊne.
+
+681
+00:37:23,235 --> 00:37:25,100
+Jedna od stvari koje smo uradili,
+
+682
+00:37:25,237 --> 00:37:27,935
+je da smo postali veoma religiozni
+u boûavanju pohlepe.
+
+683
+00:37:28,074 --> 00:37:31,835
+Stavljamo na naslovne strane magazina
+ljude koji su zaradili milijarde dolara.
+
+684
+00:37:31,978 --> 00:37:34,606
+Ignoriöemo policajce, vatrogasce,
+uËitelje, medicinske sestre
+
+685
+00:37:34,747 --> 00:37:37,744
+koji svakodnevno Ëine mnogo
+za poboljöanje ûivota ljudi.
+
+686
+00:37:37,883 --> 00:37:39,782
+Moramo da promenimo
+svoj sistem vrednosti.
+
+687
+00:37:39,818 --> 00:37:42,082
+Hm, ovo ne zvuËi loöe.
+
+688
+00:37:42,121 --> 00:37:46,182
+Mislim, zvuËi kao neöto öto bi
+moûda trebalo da probamo.
+
+689
+00:37:46,225 --> 00:37:47,920
+Tokom nekoliko meseci,
+
+690
+00:37:47,960 --> 00:37:50,019
+Rasmusenovo biraliöte je saopötilo
+
+691
+00:37:50,062 --> 00:37:52,656
+da je samo 37% mladih odraslih
+
+692
+00:37:52,698 --> 00:37:55,496
+naklonjeno kapitalizmu u odnosu
+na socijalizam.
+
+693
+00:37:55,534 --> 00:37:58,867
+Nadam se da Êe ekonomija...
+
+694
+00:38:01,173 --> 00:38:03,974
+U 11:00 izabran je Barak Obama
+
+695
+00:38:04,110 --> 00:38:06,738
+za predsednika Sjedinjenih
+AmeriËkih Drûava.
+
+696
+00:38:40,446 --> 00:38:45,010
+Da je samo dve godine ranije
+neko predskazao ovakav trenutak,
+
+697
+00:38:45,151 --> 00:38:47,711
+bio bi smatran ludim.
+
+698
+00:38:48,988 --> 00:38:51,681
+Ali eto koliko se stvari brzo menjaju.
+
+699
+00:38:53,759 --> 00:38:59,924
+U samo jednom trenutku
+bilo je to zbogom staroj Americi.
+
+700
+00:39:02,935 --> 00:39:06,464
+Zemlja je bila oduöevljena
+njegovom pobedom.
+
+701
+00:39:06,605 --> 00:39:09,338
+I odjednom su ljudi postali nadahnuti
+
+702
+00:39:09,475 --> 00:39:12,344
+da rade stvari koje nikada
+ranije ne bi radili.
+
+703
+00:39:13,245 --> 00:39:17,812
+Kao öerif u Detroitu koji je odluËio
+da je vreme da prekröi zakon
+
+704
+00:39:17,850 --> 00:39:19,943
+da bi pomogao ljudima.
+
+705
+00:39:19,985 --> 00:39:22,010
+Zar vam se ne Ëini Ëudnim
+
+706
+00:39:22,154 --> 00:39:25,319
+to öto su traûili pomoÊ drûave?
+Mislio sam da to ne rade.
+
+707
+00:39:25,457 --> 00:39:28,451
+1-0-1 radio.
+
+708
+00:39:28,494 --> 00:39:31,955
+Mislio sam da slobodno trûiöte
+znaËi da ili tonete ili plivate.
+
+709
+00:39:32,098 --> 00:39:35,399
+Video sam kako tonu
+i plaËu kao bebe
+
+710
+00:39:35,534 --> 00:39:38,094
+da im svi drugi pomognu.
+
+711
+00:39:39,271 --> 00:39:43,401
+Danas obustavljam sva izbacivanja
+zbog neisplaÊenih hipotekarnih zajmova
+
+712
+00:39:43,442 --> 00:39:45,103
+u okrugu Vejn.
+
+713
+00:39:45,144 --> 00:39:48,773
+Ne mogu mirne savest da dozvolim
+da joö porodica
+
+714
+00:39:48,814 --> 00:39:51,339
+izgubi svoje domove zbog prinudnih
+prodaja radi neisplaÊenih hipoteka.
+
+715
+00:39:51,483 --> 00:39:54,147
+äta mora da su pomislile banke
+
+716
+00:39:54,286 --> 00:39:58,918
+videvöi da se zakon podeöen da ötiti
+njihove interese potkopava?
+
+717
+00:39:59,058 --> 00:40:02,050
+Mislite li da je slobodno trûiöte
+izneverilo Detroit?
+
+718
+00:40:02,094 --> 00:40:05,325
+Znate, ja mislim da je slobodno trûiöte
+izneverilo celu zemlju.
+
+719
+00:40:05,464 --> 00:40:07,533
+Znate, ovo je ludo.
+
+720
+00:40:07,633 --> 00:40:11,867
+Susedstva koja su potpuno uniötena
+jer je suviöe mnogo domova oduzeto.
+
+721
+00:40:12,004 --> 00:40:15,064
+I onda se pitate
+je li ovo stvarno Amerika
+
+722
+00:40:15,107 --> 00:40:17,066
+ili zemlja TreÊeg sveta?
+
+723
+00:40:17,209 --> 00:40:18,699
+äta mi taËno ovde radimo?
+
+724
+00:40:18,744 --> 00:40:22,774
+Sve dok se stvari toliko ne pogoröaju da
+ljudi ne mogu niöta drugo do da protestuju,
+
+725
+00:40:22,915 --> 00:40:24,883
+a onda ih nazovu revolucionarima.
+
+726
+00:40:25,017 --> 00:40:30,082
+A revolucije nekada poËinju
+na neoËekivanim mestima.
+
+727
+00:40:30,222 --> 00:40:31,987
+Probudite se.
+
+728
+00:40:32,124 --> 00:40:33,785
+éiveÊi u kamionskoj prikolici
+
+729
+00:40:33,826 --> 00:40:38,024
+nakon öto im je banka oduzela kuÊu
+koju su posedovali 22 godine,
+
+730
+00:40:38,063 --> 00:40:41,464
+porodica Trodi iz Majamija,
+uz pomoÊ svojih suseda,
+
+731
+00:40:41,500 --> 00:40:43,934
+uzela je stvari u svoje ruke.
+
+732
+00:40:43,969 --> 00:40:46,961
+U interesu ove porodice
+i ove zajednice,
+
+733
+00:40:47,106 --> 00:40:50,442
+oslobaamo ovaj dom za ovu porodicu.
+
+734
+00:40:50,476 --> 00:40:52,376
+Seci taj znak! Skidaj ga!
+
+735
+00:40:52,411 --> 00:40:54,675
+Daa!
+
+736
+00:40:54,713 --> 00:40:57,443
+Kad kaûem zajednica,
+kaûem moÊ!
+
+737
+00:40:57,483 --> 00:40:58,680
+- Zajednica!
+- MoÊ!
+
+738
+00:40:58,817 --> 00:40:59,875
+- Zajednica!
+- MoÊ!
+
+739
+00:41:00,019 --> 00:41:01,216
+- Zajednica!
+- MoÊ!
+
+740
+00:41:01,353 --> 00:41:02,777
+- Zajednica!
+- MoÊ!
+
+741
+00:41:02,821 --> 00:41:04,618
+- Zajednica!
+- MoÊ!
+
+742
+00:41:04,657 --> 00:41:09,123
+Nije proölo mnogo pre nego öto se
+tip iz banke koji ih je izbacio vratio
+
+743
+00:41:09,295 --> 00:41:11,024
+Vidite ovo?
+
+744
+00:41:11,063 --> 00:41:12,724
+éelim da priete i snimite ovo.
+
+745
+00:41:12,765 --> 00:41:15,165
+Na tuem ste posedu.
+
+746
+00:41:15,201 --> 00:41:17,726
+Izvröili smo izbacivanje ovde, a ljudi
+su se vratili u posed.
+
+747
+00:41:17,770 --> 00:41:20,432
+Da.
+Treba mi pomoÊ policije.
+
+748
+00:41:20,572 --> 00:41:24,374
+Kada su ove kuÊe prazne,
+vrednost svih drugih kuÊa pada.
+
+749
+00:41:24,510 --> 00:41:27,604
+Tako da ako moûete da ostavite
+ove ljude u kuÊi
+
+750
+00:41:27,646 --> 00:41:29,876
+to Êe pomoÊi ne samo njima...
+
+751
+00:41:29,915 --> 00:41:34,909
+Vidite, situacija je takva...
+ako im banka dozvoli da se vrate,
+
+752
+00:41:35,054 --> 00:41:38,446
+onda propuöta priliku da je
+proda nekom drugom.
+
+753
+00:41:38,490 --> 00:41:41,118
+Banke prodaju toliko mnogo
+kuÊa sada.
+
+754
+00:41:41,160 --> 00:41:44,552
+Pa, ako banka dozvoli svakome da se
+vrati u kuÊu za dûabe...
+
+755
+00:41:44,697 --> 00:41:46,631
+Onda Êe ljudi imati gde da ûive.
+
+756
+00:41:46,665 --> 00:41:49,295
+NeobiËno je videti ljude koji uzvraÊaju
+
+757
+00:41:49,435 --> 00:41:52,361
+tako da se devetoro policijskih kola
+odazvalo na poziv.
+
+758
+00:41:52,504 --> 00:41:54,495
+S obzirom na kraj u kome se
+to deöavalo,
+
+759
+00:41:54,640 --> 00:41:56,770
+brzina reakcije je bila impresivna.
+
+760
+00:41:56,809 --> 00:41:58,709
+- Vi niste nadleûni.
+- Ja ne kaûem da sam nadleûan.
+
+761
+00:41:58,744 --> 00:42:01,235
+Kaûem da ona ne ûeli da bude izolovana.
+Ne morate da odgovarate na pitanja.
+
+762
+00:42:01,280 --> 00:42:03,475
+Ne morate niöta da im kaûete, u redu?
+
+763
+00:42:03,515 --> 00:42:05,415
+Ali Trodijevi su drûali svoje uporiöte.
+
+764
+00:42:05,451 --> 00:42:08,045
+Nemamo gde da odemo.
+
+765
+00:42:08,087 --> 00:42:10,988
+- Ovo je bio rezervni plan.
+- Moramo da ûivimo u kamionu.
+
+766
+00:42:11,023 --> 00:42:13,992
+Ovo je bio naö plan B.
+Nemamo plan C.
+
+767
+00:42:14,026 --> 00:42:16,494
+To je naöa baka i to nije pravedno.
+
+768
+00:42:16,528 --> 00:42:19,019
+éivela je u kuÊi 22 godine
+i sad hoÊete da je izbacite?
+
+769
+00:42:19,164 --> 00:42:23,155
+Kako se oseÊate kad izbacujete ljude
+iz njihovih kuÊa svaki prokleti dan!?
+
+770
+00:42:23,269 --> 00:42:25,669
+Treba da budete kod kuÊe
+umesto öto radite ovako neöto.
+
+771
+00:42:25,704 --> 00:42:29,037
+Gde je novac koji je savezna vlada
+government dala bankama?
+
+772
+00:42:29,074 --> 00:42:33,033
+Mi treba vama da kaûemo da ometate
+posed jer je ovo naöa kuÊa!
+
+773
+00:42:39,385 --> 00:42:42,684
+<i> "»vrsto ukopani kao drvo,
+Ëvrsto ukopani kao drvo"</i>
+
+774
+00:42:42,721 --> 00:42:45,212
+<i>"Ovde smo"</i>
+
+775
+00:42:45,257 --> 00:42:48,226
+<i>"Snaûno uspravljeni..."</i>
+
+776
+00:42:48,260 --> 00:42:50,820
+Idemo.
+
+777
+00:42:50,863 --> 00:42:52,888
+- Bili smo dobri. Bili smo dobri.
+- U redu.
+
+778
+00:42:52,931 --> 00:42:56,230
+Policija i Ëovek iz banke
+su poslati natrag.
+
+779
+00:42:56,268 --> 00:42:58,463
+Nema snage kao öto je
+snaga naroda.
+
+780
+00:42:58,504 --> 00:43:00,768
+A snaga naroda se ne zaustavlja.
+Kaûe öta?
+
+781
+00:43:00,806 --> 00:43:03,434
+Nema snage kao öto je
+snaga naroda.
+
+782
+00:43:03,475 --> 00:43:06,035
+A snaga naroda se ne zaustavlja.
+Kaûe öta?
+
+783
+00:43:06,078 --> 00:43:08,740
+Ne napuötajte svoje domove.
+
+784
+00:43:08,781 --> 00:43:10,146
+Znate zaöto?
+
+785
+00:43:10,182 --> 00:43:12,446
+Kad te kompanije kaûu da imaju
+vaöu hipoteku,
+
+786
+00:43:12,484 --> 00:43:15,419
+dok nemate advokata koji moûe
+da stavi prst
+
+787
+00:43:15,454 --> 00:43:17,945
+na tu hipoteku, nemate tu hipoteku!
+
+788
+00:43:17,990 --> 00:43:21,849
+I otkriÊete da oni ne mogu da nau
+dokument tamo na Vol Stritu.
+
+789
+00:43:21,994 --> 00:43:25,987
+Pa kaûem ameriËkom narodu: nemojte
+biti uljezi u svom sopstvenom domu.
+
+790
+00:43:26,031 --> 00:43:28,556
+Ne izlazite, u Ohaju i MiËigenu,
+
+791
+00:43:28,600 --> 00:43:30,761
+u lndijani i llinoisu
+i svim drugim krajevima
+
+792
+00:43:30,803 --> 00:43:32,896
+gde se sa ljudima postupa
+kao sa stokom!
+
+793
+00:43:32,938 --> 00:43:36,001
+A ovaj Kongres je opstruiran.
+
+794
+00:43:36,141 --> 00:43:37,438
+Vau.
+
+795
+00:43:37,576 --> 00:43:42,948
+Ne deöava se svaki dan da vidite da Ëlan
+Kongresa ohrabruje otvorenu pobunu.
+
+796
+00:43:43,048 --> 00:43:45,178
+Opet tamo u »ikagu,
+
+797
+00:43:45,317 --> 00:43:48,982
+radnici RepubliËkih Prozora i Vrata
+imali su sjajnu ideju.
+
+798
+00:43:50,622 --> 00:43:52,954
+Shvatili su da, kad razmisle,
+
+799
+00:43:52,991 --> 00:43:56,188
+nije bilo u redu da budu otpuöteni
+bez upozorenja,
+
+800
+00:43:56,228 --> 00:43:59,322
+da im se uskrati godiönji odmor i
+nadoknada za razdvajanje
+
+801
+00:43:59,365 --> 00:44:02,391
+i da im se skreöe zdravstveno
+osiguranje.
+
+802
+00:44:04,503 --> 00:44:07,199
+Pa su smislili plan:
+
+803
+00:44:07,239 --> 00:44:10,074
+da kaûu Banci Amerike
+i vlasnicima kompanije
+
+804
+00:44:10,209 --> 00:44:12,700
+da je svanuo novi dan u Americi.
+
+805
+00:44:12,845 --> 00:44:17,912
+NeÊe napustiti zgradu
+dok im ne plate öta su im duûni.
+
+806
+00:44:18,050 --> 00:44:22,009
+Da, bio je to dobri, stari
+sedeÊi ötrajk.
+
+807
+00:44:24,790 --> 00:44:30,391
+Shvatamo da su moûda donete
+neke loöe poslovne odluke.
+
+808
+00:44:30,429 --> 00:44:33,660
+Ali, znaö öta? Mi ne donosimo
+poslovne odluke.
+
+809
+00:44:33,699 --> 00:44:35,963
+Mi pravimo prozore i vrata.
+
+810
+00:44:36,001 --> 00:44:37,935
+Zaöto bismo mi bili kaûnjeni?
+
+811
+00:44:50,482 --> 00:44:52,814
+Sindikalni organizatori i radnici
+
+812
+00:44:52,951 --> 00:44:56,548
+pripremili su se za napad policije
+koji se sa sigurnoöÊu oËekivao.
+
+813
+00:44:56,588 --> 00:44:59,216
+RizikovaÊu.
+
+814
+00:44:59,258 --> 00:45:01,158
+Spremni ste na to da budete uhapöeni?
+
+815
+00:45:01,193 --> 00:45:03,423
+Spreman sam da budem uhapöen
+ako je neophodno.
+
+816
+00:45:03,462 --> 00:45:07,321
+Ovde smo od juËe
+i ne idemo nikuda.
+
+817
+00:45:07,466 --> 00:45:09,297
+OdluËni smo u tome.
+
+818
+00:45:09,334 --> 00:45:11,666
+Nije proölo mnogo dok se nisu
+pojavili mediji.
+
+819
+00:45:11,703 --> 00:45:14,604
+I stvarajuÊi u zemlji raspoloûenje prema
+oslobaanju korporacija od obaveza,
+
+820
+00:45:14,640 --> 00:45:18,599
+Ëak su i televizije - oslonci potroöili
+svoje simpatije za banke.
+
+821
+00:45:18,644 --> 00:45:22,375
+U »ikagu, grupa fabriËkih radnika
+posmatrala su kao svi mi
+
+822
+00:45:22,414 --> 00:45:25,042
+kako su poreski obveznici oslobodili
+obaveza finansijsku industriju.
+
+823
+00:45:25,083 --> 00:45:28,348
+Sada ovi otpuöteni radnici
+traûe da Banka Amerike
+
+824
+00:45:28,387 --> 00:45:31,083
+potroöi neöto od dobijenog
+novca na njih.
+
+825
+00:45:31,123 --> 00:45:33,216
+Piöe ''PljaËkaöi Banke Amerike''.
+
+826
+00:45:33,258 --> 00:45:36,421
+Vidite, ako Êemo mi, poreski
+obveznici obezbediti
+
+827
+00:45:36,462 --> 00:45:39,454
+novËanu pomoÊ za kompanije
+kao öto je Banka Amerike,
+
+828
+00:45:39,498 --> 00:45:42,365
+onda je najmanje öto oni mogu
+da uËine da iskoriste ta sredstva
+
+829
+00:45:42,401 --> 00:45:44,892
+da pomognu ameriËkim radnicima
+i kompanijama.
+
+830
+00:45:44,937 --> 00:45:48,065
+$25 milijardi Banci Amerike.
+
+831
+00:45:48,106 --> 00:45:50,472
+Kako ljudi spavaju noÊu kad se
+tako ponaöaju?
+
+832
+00:45:50,609 --> 00:45:52,101
+Ne shvatam.
+
+833
+00:45:52,244 --> 00:45:56,641
+Kakva je svrha davati im pomoÊ
+kad nema poslova?
+
+834
+00:45:56,782 --> 00:45:59,307
+ätrajk se nastavljao, dan za danom.
+
+835
+00:45:59,351 --> 00:46:02,115
+Poicija joö nije doöla.
+
+836
+00:46:02,154 --> 00:46:04,952
+Ali sin »ikaökog metalca jeste.
+
+837
+00:46:04,990 --> 00:46:09,154
+Ujedno je i biskup u »ikagu.
+
+838
+00:46:09,194 --> 00:46:11,085
+Dame i gospodo,
+
+839
+00:46:11,230 --> 00:46:13,425
+Ja sam biskup Dûejms Vilkovski.
+
+840
+00:46:13,565 --> 00:46:18,627
+Znam da prolazite kroz
+veliko iskuöenje.
+
+841
+00:46:18,870 --> 00:46:25,867
+Vi uËite naöu mladeû da je ispravno
+
+842
+00:46:26,011 --> 00:46:29,572
+osporiti ono öto je nepravedno.
+
+843
+00:46:30,616 --> 00:46:34,612
+Odrastao sam na krajnjem
+jugoistoku »ikaga
+
+844
+00:46:34,853 --> 00:46:39,755
+i video sam öta se desilo
+kad su nestale ËeliËane.
+
+845
+00:46:39,892 --> 00:46:44,359
+I video sam kakav je to uticaj
+imalo na porodice.
+
+846
+00:46:44,596 --> 00:46:48,591
+Ali ovoga puta,
+mi smo sa vama.
+
+847
+00:46:48,634 --> 00:46:51,569
+I neÊemo vas napustiti.
+
+848
+00:46:51,703 --> 00:46:55,166
+U ime Oca i Sina i Svetog Duha.
+Amen.
+
+849
+00:46:55,307 --> 00:46:57,275
+Telo Hristovo.
+
+850
+00:46:59,578 --> 00:47:01,205
+Telo Hristovo.
+
+851
+00:47:03,749 --> 00:47:05,273
+Telo Hristovo.
+
+852
+00:47:07,619 --> 00:47:10,417
+äto se tiËe situacije
+
+853
+00:47:10,455 --> 00:47:13,856
+ovde u »ikagu sa radnicima
+
+854
+00:47:13,892 --> 00:47:19,260
+koji traûe svoja osiguranja
+i plate koje su zaradili,
+
+855
+00:47:19,396 --> 00:47:21,492
+mislim da su apsolutno u pravu.
+
+856
+00:47:24,102 --> 00:47:29,167
+Ono öto im se dogaa je odraz onoga
+öto se dogaa celoj ekonomiji.
+
+857
+00:47:29,408 --> 00:47:32,036
+Rekao je: ''Ono öto im se dogaa je odraz
+onoga öto se dogaa celoj ekonomiji....''
+
+858
+00:47:32,077 --> 00:47:34,011
+Rekao je: "Ono öto se dogaa
+tim radnicima
+
+859
+00:47:34,046 --> 00:47:36,640
+je odraz onoga öto se dogaa
+celoj ekonomiji".
+
+860
+00:47:36,682 --> 00:47:39,449
+Gledala sam Obaminu konferenciju
+za ötampu jutros.
+
+861
+00:47:39,585 --> 00:47:41,883
+Tek öto sam ustala iz kreveta
+i shvatila sam
+
+862
+00:47:42,020 --> 00:47:44,550
+da je najbolje öto mogu da uradim
+to da nahranim ljude.
+
+863
+00:47:44,690 --> 00:47:46,180
+Pa sam donela neöto hrane.
+
+864
+00:47:46,324 --> 00:47:48,422
+- Doneo sam neöto sendviËa.
+- O, fino.
+
+865
+00:47:48,560 --> 00:47:52,360
+U stvari, mnogo stanovnika »ikaga
+se pojavilo da podrûi radnike.
+
+866
+00:47:52,397 --> 00:47:53,955
+Radnici su postali nacionalni simbol
+
+867
+00:47:54,099 --> 00:47:56,024
+za hiljade zaposlenih koji su
+otpuöteni po celoj zemlji.
+
+868
+00:47:56,068 --> 00:47:58,298
+SedeÊi ötrajk je privukao
+paûnju politiËara
+
+869
+00:47:58,337 --> 00:48:01,966
+koji veruju da predstavlja neravnoteûu
+izmeu Vol Strita
+
+870
+00:48:02,007 --> 00:48:05,807
+koji je dobio Vladinu pomoÊ
+i Glavne ulice koja je dobila motku.
+
+871
+00:48:05,844 --> 00:48:07,835
+PoËelo je da se postavlja pitanje:
+
+872
+00:48:07,879 --> 00:48:10,347
+Da li je ovo poËetak radniËke pobune
+protiv Vol Strita?
+
+873
+00:48:12,951 --> 00:48:15,078
+Narod se ujedinio.
+
+874
+00:48:15,120 --> 00:48:17,179
+Nikada neÊemo biti poraûeni.
+
+875
+00:48:17,222 --> 00:48:21,056
+Izvucite radnike, a ne banke.
+Izvucite radnike, a ne banke.
+
+876
+00:48:21,093 --> 00:48:25,427
+Podröka u novcu i hrani
+je stizala kamionima.
+
+877
+00:48:25,464 --> 00:48:28,731
+To je stvarno viöe od onog
+öto smo u poËetku zamiöljali.
+
+878
+00:48:28,867 --> 00:48:31,565
+Tako da sada malo i sanjarimo.
+
+879
+00:48:31,703 --> 00:48:34,595
+»ak smo i razgovarali...
+eto, öta ako bismo pokuöali
+
+880
+00:48:34,740 --> 00:48:36,469
+da upravljamo fabrikom kao
+kooperacijom?
+
+881
+00:48:36,608 --> 00:48:38,533
+Nemamo pare, nismo kapitalisti!
+
+882
+00:48:39,377 --> 00:48:44,343
+Vodimo takve razgovore i radnici
+razmiöljaju o tome i to je teöko
+
+883
+00:48:44,483 --> 00:48:46,747
+jer, znate, ako su vam
+govorili celog ûivota
+
+884
+00:48:46,885 --> 00:48:49,984
+da su stvari onakve kakve
+drugi kaûu da jesu,
+
+885
+00:48:50,122 --> 00:48:55,251
+moÊi da zamislite da moûete neöto
+da promenite je priliËno velika stvar.
+
+886
+00:48:57,462 --> 00:49:00,124
+Mi smo na svim vestima.
+Svi nas gledaju
+
+887
+00:49:00,165 --> 00:49:03,498
+jer ih vi toliko inspiriöete.
+
+888
+00:49:06,171 --> 00:49:08,002
+Posle öest dana sedeÊeg ötrajka
+
+889
+00:49:08,140 --> 00:49:11,271
+Banka Amerike je odluËila
+da öta je dosta, dosta je.
+
+890
+00:49:11,309 --> 00:49:13,504
+Bolje da isplati ove radnike sada
+
+891
+00:49:13,645 --> 00:49:16,812
+i nada se da Êe njihova mala
+revolucija proÊi.
+
+892
+00:49:16,948 --> 00:49:20,679
+I tako su banka i kompanija ispunile
+sve zahteve radnika.
+
+893
+00:49:20,819 --> 00:49:23,620
+Da, jesmo!
+Da, jesmo!
+
+894
+00:49:23,855 --> 00:49:31,027
+ProseËan paket za svakog radnika
+Êe biti blizu $6.000.
+
+895
+00:49:31,263 --> 00:49:34,494
+Ali ovde se radi o neËemu
+veÊem od novca.
+
+896
+00:49:34,733 --> 00:49:37,991
+Radi se o tome öta se moûe postiÊi
+
+897
+00:49:38,136 --> 00:49:42,029
+kad se radnici organizuju
+da zaötite pravdu.
+
+898
+00:49:42,074 --> 00:49:44,133
+Samo borba...
+borba, borba, borba, borba, borba
+
+899
+00:49:44,176 --> 00:49:46,542
+samo da bi se dobila najosnovnija stvar
+
+900
+00:49:46,678 --> 00:49:52,080
+koja bi trebalo da se podrazumeva
+i koja je zakonski njihova.
+
+901
+00:49:52,217 --> 00:49:56,421
+Toliko se teöko borimo samo
+za najosnovnije stvari u ûivotu.
+
+902
+00:49:58,523 --> 00:50:01,651
+To je borba koju smo vrlo dobro
+poznavali u Flintu u MiËigenu.
+
+903
+00:50:01,793 --> 00:50:04,960
+Jer ovde su moj ujak
+i njegove kolege
+
+904
+00:50:05,097 --> 00:50:07,827
+prvi put pobedili interese
+korporacije
+
+905
+00:50:07,866 --> 00:50:09,527
+koja je upravljala njihovim ûivotima.
+
+906
+00:50:11,770 --> 00:50:15,171
+Bilo je to dan pre Nove godine 1936.
+
+907
+00:50:15,207 --> 00:50:18,843
+Stotine muökaraca i ûena preuzelo je
+fabrike Dûeneral Motorsa u Flintu
+
+908
+00:50:18,977 --> 00:50:21,009
+i drûalo ih 44 dana.
+
+909
+00:50:22,881 --> 00:50:26,248
+Bili su prvo udruûenje koje je pobedilo
+jednu industrijsku korporaciju.
+
+910
+00:50:26,384 --> 00:50:30,988
+I njihova borba je na kraju rezultirala
+stvaranjem srednje klase.
+
+911
+00:50:31,123 --> 00:50:34,251
+Ali tih dana sedeÊeg ötrajka u Flintu,
+
+912
+00:50:34,392 --> 00:50:38,526
+policija i kompanijske siledûije
+nisu samo stajali sa strane.
+
+913
+00:50:38,663 --> 00:50:42,258
+Posle krvave bitke jedne veËeri,
+guverner MiËigena,
+
+914
+00:50:42,300 --> 00:50:45,463
+uz podröku predsednika
+Sjedinjenih Drûava
+
+915
+00:50:45,504 --> 00:50:49,304
+Frenklina Ruzvelta,
+poslao je Nacionalnu Gardu.
+
+916
+00:50:49,341 --> 00:50:53,368
+Ali puöke vojnika nisu bile
+uperene u radnike.
+
+917
+00:50:53,411 --> 00:50:57,081
+Bile su uperene u policiju
+i plaÊenike,
+
+918
+00:50:57,115 --> 00:51:00,642
+upozoravajuÊi ih da ostave
+radnike na miru.
+
+919
+00:51:01,787 --> 00:51:04,620
+Jer je g. Ruzvelt verovao
+da ljudi unutra
+
+920
+00:51:04,756 --> 00:51:08,820
+imaju pravo na ispravljanje
+nepravdi.
+
+921
+00:51:10,162 --> 00:51:13,393
+Sedam godina kasnije, predsednik
+Ruzvelt je bio suviöe bolestan
+
+922
+00:51:13,531 --> 00:51:17,265
+da ode na Kapitol odrûi svoj godiönji
+govor o stanju nacije.
+
+923
+00:51:17,302 --> 00:51:19,133
+Dame i gospodo,
+
+924
+00:51:19,271 --> 00:51:21,938
+predsednik Sjedinjenih Drûava.
+
+925
+00:51:22,073 --> 00:51:26,501
+Moj obiËaj je bio da odrûavam
+ove govore uûivo...
+
+926
+00:51:26,645 --> 00:51:29,671
+Pa ga je odrûao iz Bele KuÊe
+preko radija.
+
+927
+00:51:29,714 --> 00:51:32,674
+Kad je zavröio, pozvao je
+kamere ûurnala
+
+928
+00:51:32,818 --> 00:51:35,878
+da uu u njegovu sobu jer je
+hteo da ameriËki narod
+
+929
+00:51:36,021 --> 00:51:39,450
+vidi jedan poseban deo
+njegovog govora.
+
+930
+00:51:39,591 --> 00:51:43,220
+Predsednik Sjedinjenih Drûava
+uËinio je radikalan korak
+
+931
+00:51:43,261 --> 00:51:45,957
+dajuÊi drugi Predlog zakona o pravima
+
+932
+00:51:45,997 --> 00:51:47,396
+za Ustav.
+
+933
+00:51:47,632 --> 00:51:54,199
+U naöe vreme izvesne ekonomske istine
+se prihvataju kao oËigledne.
+
+934
+00:51:54,339 --> 00:51:56,899
+Drugi Predlog zakona o pravima
+
+935
+00:51:56,942 --> 00:52:00,708
+na kome se nova osnova sigurnosti
+i napretka
+
+936
+00:52:00,745 --> 00:52:03,009
+moûe zasnovati za sve,
+
+937
+00:52:03,048 --> 00:52:06,745
+bez obzira na poloûaj, rasu ili veroispovest.
+
+938
+00:52:06,785 --> 00:52:09,483
+Meu ovim pravima su:
+
+939
+00:52:09,621 --> 00:52:13,480
+Pravo na koristan i rentabilan posao,
+
+940
+00:52:13,625 --> 00:52:16,983
+Pravo da se zaradi dovoljno da se obezbedi
+potrebna koliËina hrane
+
+941
+00:52:17,128 --> 00:52:18,686
+odeÊa i rekreacija;
+
+942
+00:52:18,830 --> 00:52:23,633
+Pravo svakog farmera da uzgaja
+i prodaje svoje proizvode
+
+943
+00:52:23,768 --> 00:52:29,304
+a dohodak od toga da njemu i njegovoj
+porodici obezbedi pristojan ûivot;
+
+944
+00:52:29,341 --> 00:52:33,277
+Pravo svakog poslovnog Ëoveka,
+velikog ili malog
+
+945
+00:52:33,311 --> 00:52:36,678
+da posluje u atmosferi slobode,
+
+946
+00:52:36,715 --> 00:52:41,212
+osloboen nelojalne konkurencije
+i dominacije monopola
+
+947
+00:52:41,352 --> 00:52:43,580
+u zemlji i inostranstvu;
+
+948
+00:52:43,622 --> 00:52:47,080
+Pravo svake porodice na pristojan dom;
+
+949
+00:52:47,125 --> 00:52:50,754
+Pravo na odgovarajuÊu zdravstvenu zaötitu
+
+950
+00:52:50,795 --> 00:52:54,697
+i moguÊnost da postigne i uûiva
+u dobrom zdravlju;
+
+951
+00:52:54,733 --> 00:52:58,066
+Pravo na odgovarajuÊu zaötitu
+
+952
+00:52:58,103 --> 00:53:01,504
+od ekonomskih strahova
+koje donosi starost,
+
+953
+00:53:01,539 --> 00:53:04,030
+bolest, nesreÊe
+
+954
+00:53:04,075 --> 00:53:05,906
+i nezaposlenost;
+
+955
+00:53:05,944 --> 00:53:09,004
+Pravo na dobro obrazovanje.
+
+956
+00:53:09,047 --> 00:53:13,450
+ZajedniËki sadrûilac ovih prava
+je sigurnost.
+
+957
+00:53:13,485 --> 00:53:16,511
+A posle pobede u ovom ratu
+
+958
+00:53:16,554 --> 00:53:19,921
+moramo biti spremni da
+idemo napred
+
+959
+00:53:19,958 --> 00:53:23,052
+i ostvarivanjem ovih prava
+
+960
+00:53:23,094 --> 00:53:26,860
+dostiûemo nove ciljeve ljudske sreÊe
+i blagostanja.
+
+961
+00:53:26,898 --> 00:53:31,392
+Jer dok nema sigurnosti ovde kod kuÊe
+
+962
+00:53:31,436 --> 00:53:36,271
+ne moûe biti ni trajnog mira u svetu.
+
+963
+00:53:45,717 --> 00:53:49,016
+Ruzvelt je umro za neöto viöe
+od godine dana od tada.
+
+964
+00:53:51,823 --> 00:53:55,156
+Nije doËekao da vidi kraj rata.
+
+965
+00:53:55,193 --> 00:53:59,027
+Niti je bio prihvaÊen njegov novi
+Predlog zakona o pravima.
+
+966
+00:54:06,504 --> 00:54:09,496
+Da je poûiveo i uspeo,
+
+967
+00:54:09,541 --> 00:54:11,873
+svaki Amerikanac, bez obzira na rasu,
+
+968
+00:54:11,910 --> 00:54:15,438
+imao bi pravo na pristojan posao...
+
+969
+00:54:17,983 --> 00:54:20,275
+podnoöljivu nadnicu...
+
+970
+00:54:22,153 --> 00:54:24,452
+potpunu zdravstvenu zaötitu...
+
+971
+00:54:25,590 --> 00:54:27,819
+dobro obrazovanje...
+
+972
+00:54:29,761 --> 00:54:32,622
+kuÊu kakvu moûe sebi da priuöti...
+
+973
+00:54:34,065 --> 00:54:36,329
+plaÊen godiönji odmor...
+
+974
+00:54:40,138 --> 00:54:42,766
+i dovoljnu penziju.
+
+975
+00:54:45,610 --> 00:54:48,604
+Niöta od ovoga se nije desilo.
+
+976
+00:54:50,281 --> 00:54:54,615
+Nijednom Amerikancu niöta od ovoga
+nije zajamËeno.
+
+977
+00:54:58,323 --> 00:55:03,488
+Ali ljudi u Evropi i Japanu
+dobili su sva ova prava.
+
+978
+00:55:03,628 --> 00:55:06,290
+Kako se to dogodilo?
+
+979
+00:55:06,331 --> 00:55:10,964
+Posle rata, ljudi iz Ruzveltove
+administracije
+
+980
+00:55:11,102 --> 00:55:14,071
+otiöli su preko okeana da pomognu
+obnovu Evrope.
+
+981
+00:55:14,205 --> 00:55:17,998
+Tokom tog vremena pisani su novi ustavi
+
+982
+00:55:18,143 --> 00:55:22,503
+za poraûene narode NemaËke,
+Italije i Japana.
+
+983
+00:55:22,647 --> 00:55:25,343
+ltalijanski Ustav
+
+984
+00:55:25,483 --> 00:55:28,352
+garantovao je svim ûenama jednaka prava.
+
+985
+00:55:28,386 --> 00:55:31,184
+A to je bilo 1947.
+
+986
+00:55:31,322 --> 00:55:35,286
+NemaËki Ustav kaûe da drûava ima pravo
+
+987
+00:55:35,427 --> 00:55:38,763
+da oduzme imovinu
+i sredstva za proizvodnju
+
+988
+00:55:38,897 --> 00:55:40,797
+zarad opöteg dobra.
+
+989
+00:55:40,932 --> 00:55:43,892
+A evo öta smo napisali za Japance:
+
+990
+00:55:44,035 --> 00:55:47,336
+Svi radnici imaju pravo
+na sindikalno organizovanje.
+
+991
+00:55:47,372 --> 00:55:51,206
+ZajamËene su akademske slobode.
+
+992
+00:55:51,342 --> 00:55:54,109
+Tokom sledeÊih 65 godina
+
+993
+00:55:54,245 --> 00:55:58,147
+nismo postali zemlja kakva je
+Ruzvelt ûeleo da budemo.
+
+994
+00:55:59,317 --> 00:56:02,980
+Umesto toga, postali smo ovo...
+
+995
+00:56:10,562 --> 00:56:13,258
+SeÊam se öta sam mislio za vreme
+potopa Katrina:
+
+996
+00:56:13,298 --> 00:56:17,097
+''Zaöto su uvek siromaöni ti
+koji pate?"
+
+997
+00:56:17,135 --> 00:56:19,469
+Zaöto nikada nije Berni Mejdof (broker)
+gore na krovu
+
+998
+00:56:19,604 --> 00:56:21,299
+i viËe u pomoÊ?
+
+999
+00:56:21,339 --> 00:56:23,102
+Ili glaveöina Sitibanke
+
+1000
+00:56:23,241 --> 00:56:26,533
+ili momci privatnog fonda
+kod Goldman Saksa?
+
+1001
+00:56:26,678 --> 00:56:29,672
+Ili direktor AmeriËke Internacionalne
+Grupe?''
+
+1002
+00:56:29,814 --> 00:56:32,044
+Nikada nisu oni, zar ne?
+
+1003
+00:56:32,183 --> 00:56:35,714
+Uvek su oni koji nikada nisu
+dobili parËe pite
+
+1004
+00:56:35,854 --> 00:56:38,052
+jer su ti ljudi uzeli sve.
+
+1005
+00:56:38,189 --> 00:56:40,319
+I ostavili ih bez iËega.
+
+1006
+00:56:40,458 --> 00:56:42,621
+Ostavili ih da umru.
+
+1007
+00:56:44,762 --> 00:56:47,560
+Odbijam da ûivim u zemlji
+kao öto je ova.
+
+1008
+00:56:47,599 --> 00:56:49,892
+I ne idem nikud.
+
+1009
+00:57:03,615 --> 00:57:06,948
+éivimo u najbogatijoj zemlji na svetu.
+
+1010
+00:57:06,985 --> 00:57:10,580
+Svi smo mi zasluûili pristojan posao,
+
+1011
+00:57:10,622 --> 00:57:14,388
+zdravstvenu zaötitu,
+dobro obrazovanje,
+
+1012
+00:57:14,425 --> 00:57:17,656
+kuÊu koju bismo zvali svojom.
+
+1013
+00:57:17,695 --> 00:57:20,520
+Svi mi zasluûujemo Ruzveltov san.
+
+1014
+00:57:21,866 --> 00:57:24,430
+I zloËin je öto to nemamo.
+
+1015
+00:57:25,403 --> 00:57:27,030
+I nikada i neÊemo imati
+
+1016
+00:57:27,171 --> 00:57:30,529
+dogod imamo sistem koji
+Ëini bogatim manjinu
+
+1017
+00:57:30,675 --> 00:57:33,375
+na raËun veÊine.
+
+1018
+00:57:34,646 --> 00:57:37,206
+Kapitalizam je zlo.
+
+1019
+00:57:37,348 --> 00:57:40,107
+Ne moûete podeöavati zlo.
+
+1020
+00:57:41,419 --> 00:57:45,219
+Morate ga odstraniti i zameniti neËim
+
+1021
+00:57:45,256 --> 00:57:48,282
+öto je dobro za sve ljude.
+
+1022
+00:57:48,326 --> 00:57:52,985
+A to neöto se zove demokratija.
+
+1023
+00:58:05,243 --> 00:58:07,768
+ZloËini su poËinjeni u ovoj zgradi!
+
+1024
+00:58:07,912 --> 00:58:10,576
+Ovde sam da izvröim graansko hapöenje!
+
+1025
+00:58:10,715 --> 00:58:14,107
+Molim vas, siite dole
+i udaljite se od zgrade!
+
+1026
+00:58:14,652 --> 00:58:16,347
+Ne plaöite se!
+
+1027
+00:58:16,487 --> 00:58:19,322
+Federalni zatvor je fino mesto!
+
+1028
+00:58:23,394 --> 00:58:26,363
+Znate, ne mogu viöe ovo da radim
+
+1029
+00:58:26,497 --> 00:58:29,389
+ako vi koji ovo gledate u salama
+
+1030
+00:58:29,534 --> 00:58:31,493
+ne ûelite da mi se pridruûite.
+
+1031
+00:58:31,636 --> 00:58:33,561
+Nadam se da hoÊete.
+
+1032
+00:58:33,805 --> 00:58:36,835
+I molim vas, poûurite.
+
+1033
+00:58:38,142 --> 00:58:42,078
+<i>Ustajte, vi radnici iz dremeûa</i>
+
+1034
+00:58:42,113 --> 00:58:45,514
+<i> Ustajte, zatoËenici onog "daj",
+tako je</i>
+
+1035
+00:58:45,550 --> 00:58:49,680
+<i>jer razum u pobuni
+sada trese</i>
+
+1036
+00:58:49,721 --> 00:58:52,622
+<i> Lance mrûnje, pohlepe
+i straha</i>
+
+1037
+00:58:52,657 --> 00:58:57,117
+<i>U stranu sve vaöe
+praznoverje</i>
+
+1038
+00:58:57,161 --> 00:59:01,154
+<i>Ropske mase, ustajte, ustajte</i>
+
+1039
+00:59:01,199 --> 00:59:04,965
+<i>PromeniÊemo odsad
+stari obiËaj</i>
+
+1040
+00:59:05,003 --> 00:59:08,495
+<i>I otresti praöinu
+da dobijemo nagradu</i>
+
+1041
+00:59:08,539 --> 00:59:12,373
+<i>Pa, drugovi, hajde, skupimo se,</i>
+
+1042
+00:59:12,410 --> 00:59:16,210
+<i>I suoËimo se sa poslednjom bitkom</i>
+
+1043
+00:59:16,247 --> 00:59:19,705
+<i>lnternacionala</i>
+
+1044
+00:59:19,751 --> 00:59:23,881
+<i>Ujedinjuje celo iskrpljeno
+ËoveËanstvo</i>
+
+1045
+00:59:23,921 --> 00:59:26,151
+<i>Pa, drugovi, hajde,</i>
+
+1046
+00:59:26,190 --> 00:59:27,919
+<i>Da se okupimo</i>
+
+1047
+00:59:27,959 --> 00:59:31,690
+<i>I suoËimo se sa poslednjom bitkom</i>
+
+1048
+00:59:31,729 --> 00:59:35,130
+<i>lnternacionala</i>
+
+1049
+00:59:35,166 --> 00:59:39,432
+<i>Ujedinjuje celo iskrpljeno
+ËoveËanstvo</i>
+
+1050
+00:59:39,470 --> 00:59:43,429
+<i>Nema viöe zavaranih nazadnjaötvom</i>
+
+1051
+00:59:43,474 --> 00:59:46,875
+<i>Protiv tirana samo vodiÊemo rat</i>
+
+1052
+00:59:46,911 --> 00:59:51,143
+<i>I vojnici Êe stupiti u ötrajk</i>
+
+1053
+00:59:51,182 --> 00:59:54,208
+<i>SkröiÊe poredak i neÊe se boriti</i>
+
+1054
+00:59:54,252 --> 00:59:58,416
+<i>I ako ti ljudoûderi nastave
+da pokuöavaju</i>
+
+1055
+00:59:58,456 --> 01:00:02,051
+<i>Da nas ûrtvuju sebi na ponos</i>
+
+1056
+01:00:02,093 --> 01:00:06,189
+<i>Svako za ognjiötem mora izvröiti
+svoju duûnost</i>
+
+1057
+01:00:06,230 --> 01:00:09,791
+<i>I udaraÊemo dok je gvoûe vruÊe</i>
+
+1058
+01:00:09,834 --> 01:00:13,861
+<i>Pa drugovi, hajde, da se okupimo</i>
+
+1059
+01:00:13,905 --> 01:00:17,705
+<i>I suoËimo se sa poslednjom bitkom</i>
+
+1060
+01:00:17,742 --> 01:00:20,905
+<i>Internacionala</i>
+
+1061
+01:00:20,945 --> 01:00:25,279
+<i>Ujedinjuje celo divno
+ËoveËanstvo</i>
+
+1062
+01:00:25,316 --> 01:00:29,116
+<i>Pa drugovi, hajde, da se okupimo</i>
+
+1063
+01:00:29,153 --> 01:00:33,180
+<i>I suoËimo se sa poslednjom bitkom</i>
+
+1064
+01:00:33,224 --> 01:00:36,352
+<i>Internacionala</i>
+
+1065
+01:00:36,394 --> 01:00:42,196
+<i>Ujedinjuje celo iskrpljeno
+ËoveËanstvo</i>
+
+1066
+01:00:57,949 --> 01:01:00,918
+<i>Isus Hrist je bio Ëovek</i>
+
+1067
+01:01:00,952 --> 01:01:03,512
+<i>Koji je putovao po zemlji</i>
+
+1068
+01:01:03,554 --> 01:01:08,753
+<i>Drvodelja iskren i hrabar</i>
+
+1069
+01:01:08,793 --> 01:01:11,421
+<i>I rekao je bogatima</i>
+
+1070
+01:01:11,462 --> 01:01:13,987
+<i>Dajte vaöa bogatstva siromaönima</i>
+
+1071
+01:01:14,031 --> 01:01:19,128
+<i>I oni su gurnuli Isusa Hrista
+u grob</i>
+
+1072
+01:01:19,170 --> 01:01:21,934
+<i>Iöao je bolesnima</i>
+
+1073
+01:01:21,973 --> 01:01:24,771
+<i>Iöao je siromaönima</i>
+
+1074
+01:01:24,809 --> 01:01:27,403
+<i>I iöao gladnima</i>
+
+1075
+01:01:27,445 --> 01:01:30,005
+<i>I hromima</i>
+
+1076
+01:01:30,047 --> 01:01:32,447
+<i>I rekao je da Êe krotki</i>
+
+1077
+01:01:32,483 --> 01:01:35,350
+<i>Naslediti celu zemlju</i>
+
+1078
+01:01:35,386 --> 01:01:40,414
+<i>I oni su gurnuli Isusa Hrista
+u grob</i>
+
+1079
+01:01:41,592 --> 01:01:43,423
+<i>Jednoga dana Isus je zastao</i>
+
+1080
+01:01:43,461 --> 01:01:46,259
+<i>Pred bogataöevim vratima</i>
+
+1081
+01:01:46,297 --> 01:01:51,257
+<i>"äta moram da uradim
+da bih bio spasen?"</i>
+
+1082
+01:01:52,270 --> 01:01:54,431
+<i>Uzmi sve öto imaö</i>
+
+1083
+01:01:54,472 --> 01:01:56,906
+<i>I daj siromaönima</i>
+
+1084
+01:01:56,941 --> 01:02:02,106
+<i>I oni su gurnuli Isusa Hrista
+u grob</i>
+
+1085
+01:02:02,146 --> 01:02:04,637
+<i>Kada se ljubav siromaönih</i>
+
+1086
+01:02:04,682 --> 01:02:07,378
+<i>Jednoga dana pretvori u mrûnju</i>
+
+1087
+01:02:07,418 --> 01:02:10,046
+<i>Kada strpljenje radnika</i>
+
+1088
+01:02:10,087 --> 01:02:12,555
+<i>Popusti</i>
+
+1089
+01:02:12,590 --> 01:02:15,616
+<i>BiÊe bolje za bogate</i>
+
+1090
+01:02:15,660 --> 01:02:18,185
+<i>Da se nisu ni rodili</i>
+
+1091
+01:02:18,229 --> 01:02:23,064
+<i>I oni su gurnuli Isusa Hrista
+u grob</i>
+
+1092
+01:02:28,973 --> 01:02:31,601
+<i>Kada je Isus doöao u grad</i>
+
+1093
+01:02:31,642 --> 01:02:34,202
+<i>Svi radni ljudi</i>
+
+1094
+01:02:34,245 --> 01:02:39,478
+<i>Poverovali su u ono öto je rekao</i>
+
+1095
+01:02:39,517 --> 01:02:42,543
+<i>Ali bankari i propovednici</i>
+
+1096
+01:02:42,587 --> 01:02:44,817
+<i>Prikovali su ga za krst</i>
+
+1097
+01:02:44,856 --> 01:02:49,850
+<i>I gurnuli su Isusa Hrista
+u grob</i>
+
+1098
+01:02:49,894 --> 01:02:52,658
+<i>Ljudima je zastao dah</i>
+
+1099
+01:02:52,697 --> 01:02:55,564
+<i>Kad su Ëuli za njegovu smrt</i>
+
+1100
+01:02:55,600 --> 01:03:00,833
+<i>I svi su se pitali zaöto</i>
+
+1101
+01:03:00,872 --> 01:03:04,035
+<i>Bio je to gazda i vojnici</i>
+
+1102
+01:03:04,075 --> 01:03:06,202
+<i>Pravnike su unajmili</i>
+
+1103
+01:03:06,244 --> 01:03:11,511
+<i>Prikovali su Isusa Hrista u vazduhu</i>
+
+1104
+01:03:11,549 --> 01:03:14,382
+<i>PoloûiÊemo Isusa Hrista</i>
+
+1105
+01:03:14,418 --> 01:03:17,046
+<i>U grob, Boûe, Boûe,</i>
+
+1106
+01:03:17,088 --> 01:03:21,184
+<i>PoloûiÊemo Isusa Hrista u grob</i>
+
+1107
+01:03:22,193 --> 01:03:24,687
+<i>Kad bi Isus danas propovedao</i>
+
+1108
+01:03:24,829 --> 01:03:27,493
+<i>Kao öto je propovedao u Galileji</i>
+
+1109
+01:03:27,632 --> 01:03:32,667
+<i>Gurnuli bi Isusa Hrista
+u grob</i>
+
+1110
+01:03:33,868 --> 01:03:37,068
+$$=Preveo: Svetofil=$$
+
+1111
+01:03:38,305 --> 01:04:38,867
+–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org

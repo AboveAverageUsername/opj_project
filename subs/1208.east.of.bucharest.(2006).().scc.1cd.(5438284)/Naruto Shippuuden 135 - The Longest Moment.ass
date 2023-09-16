@@ -1,0 +1,262 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.47,0:00:16.73,Default,,0000,0000,0000,,Moj glupi mali brate...
+Dialogue: 0,0:00:39.40,0:00:40.73,Default,,0000,0000,0000,,Wow, Brate!
+Dialogue: 0,0:00:41.70,0:00:44.37,Default,,0000,0000,0000,,Pogodio si svaku metu, èak i onu\Nna slepoj taèki iza kamena!
+Dialogue: 0,0:00:44.83,0:00:46.33,Default,,0000,0000,0000,,U redu, moj red!
+Dialogue: 0,0:00:46.67,0:00:47.30,Default,,0000,0000,0000,,Sasuke.
+Dialogue: 0,0:00:47.87,0:00:48.80,Default,,0000,0000,0000,,Vreme je da idemo.
+Dialogue: 0,0:00:51.00,0:00:54.20,Default,,0000,0000,0000,,Rekao si da æeš me nauèiti\Nnovu Šuriken veštinu.
+Dialogue: 0,0:00:54.67,0:00:58.50,Default,,0000,0000,0000,,Imam važnu misiju sutra\Nza koju moram da se pripremim.
+Dialogue: 0,0:00:58.70,0:01:00.20,Default,,0000,0000,0000,,Ti si lažov...
+Dialogue: 0,0:01:10.00,0:01:11.37,Default,,0000,0000,0000,,Žao mi je, Sasuke.
+Dialogue: 0,0:01:11.60,0:01:12.73,Default,,0000,0000,0000,,- Možda drugi put.\N- Ow!
+Dialogue: 0,0:01:16.33,0:01:17.67,Default,,0000,0000,0000,,Veliki Brate, vidi ovo!
+Dialogue: 0,0:01:19.23,0:01:19.97,Default,,0000,0000,0000,,Hej!
+Dialogue: 0,0:01:20.40,0:01:21.43,Default,,0000,0000,0000,,Ne budi neoprezan...
+Dialogue: 0,0:01:22.43,0:01:28.43,Default,,0000,0000,0000,,Ovo izdanje nije za prodaju ili iznajmljivanje!\NOVO JE BESPLATAN FANSUB!\Nhttp://www.anime-overdose.com
+Dialogue: 0,0:02:55.90,0:02:59.47,Default,,0000,0000,0000,,{\i1}NAJDUŽI TRENUTAK \N\N{\i0}
+Dialogue: 0,0:03:04.97,0:03:07.67,Default,,0000,0000,0000,,Kako to da onaj koji je uvrnio èlanak\Nje onaj koji se sad smeje?
+Dialogue: 0,0:03:08.57,0:03:11.67,Default,,0000,0000,0000,,Da li je bilo namerno\Nda bi te ja nosio?
+Dialogue: 0,0:03:11.93,0:03:16.57,Default,,0000,0000,0000,,Ne. Ja sam samo sreæan jer sutra \Nkreæem na akademiju i ja.
+Dialogue: 0,0:03:17.13,0:03:19.83,Default,,0000,0000,0000,,Možda sad,\Næu moæi da te dostignem malo.
+Dialogue: 0,0:03:28.47,0:03:31.23,Default,,0000,0000,0000,,Itachi... Da li si se odluèio?
+Dialogue: 0,0:03:32.97,0:03:36.60,Default,,0000,0000,0000,,Ako nisi, onda æemo mi \Npreduzeti mere--
+Dialogue: 0,0:03:36.63,0:03:38.10,Default,,0000,0000,0000,,Ne, molim vas saèekajte.
+Dialogue: 0,0:03:39.10,0:03:42.20,Default,,0000,0000,0000,,Biæe prekasno jednnom \Nkada se stvari pokrenu...\N
+Dialogue: 0,0:03:42.73,0:03:44.37,Default,,0000,0000,0000,,Situacija je teška!
+Dialogue: 0,0:03:44.77,0:03:45.53,Default,,0000,0000,0000,,Shvatam to...
+Dialogue: 0,0:03:46.87,0:03:49.10,Default,,0000,0000,0000,,Ja æu rešiti ovo mojim rukama.
+Dialogue: 0,0:03:50.83,0:03:51.87,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:03:52.20,0:03:54.17,Default,,0000,0000,0000,,Da li znaš\Nkoji je dan sutra?!
+Dialogue: 0,0:03:55.17,0:03:57.30,Default,,0000,0000,0000,,Ti ne razumeš svoju poziciju!\N
+Dialogue: 0,0:03:58.67,0:04:00.83,Default,,0000,0000,0000,,Ja sutra kreæem na misiju.
+Dialogue: 0,0:04:01.37,0:04:02.47,Default,,0000,0000,0000,,Kakvu to misiju?
+Dialogue: 0,0:04:03.53,0:04:06.33,Default,,0000,0000,0000,,Ne mogu vam reæi...\NTo je strogo poverljiva misija.
+Dialogue: 0,0:04:09.03,0:04:12.40,Default,,0000,0000,0000,,Itachi... Ti isto služiš\Nkao glavna veza Uchiha klana
+Dialogue: 0,0:04:12.43,0:04:14.73,Default,,0000,0000,0000,,do glavnih mesta \Ngde se odluèuje u selu.
+Dialogue: 0,0:04:15.73,0:04:17.57,Default,,0000,0000,0000,,Ti imaš to, zar ne?
+Dialogue: 0,0:04:19.10,0:04:19.70,Default,,0000,0000,0000,,Da...
+Dialogue: 0,0:04:20.53,0:04:22.53,Default,,0000,0000,0000,,Imaj to uvek na umu.
+Dialogue: 0,0:04:23.13,0:04:25.57,Default,,0000,0000,0000,,I doði na sutrašnje okupljanje!
+Dialogue: 0,0:04:31.93,0:04:34.27,Default,,0000,0000,0000,,Otac samo brine o tebi,\Nveliki Brate...
+Dialogue: 0,0:04:37.03,0:04:38.37,Default,,0000,0000,0000,,Ti me verovatno mrziš, huh?
+Dialogue: 0,0:04:44.83,0:04:45.77,Default,,0000,0000,0000,,U redu je...
+Dialogue: 0,0:04:46.70,0:04:50.87,Default,,0000,0000,0000,,Èinjenica je da nindža \Nide kroz život omržen.
+Dialogue: 0,0:04:52.13,0:04:53.50,Default,,0000,0000,0000,,Ja tako ne oseæam...
+Dialogue: 0,0:04:55.67,0:04:57.83,Default,,0000,0000,0000,,Biti najbolji nije sve\Nšto je važno...
+Dialogue: 0,0:04:58.77,0:05:01.70,Default,,0000,0000,0000,,Ako imaš moæ, postaješ \Nnepogodan a i arogantan.
+Dialogue: 0,0:05:02.43,0:05:05.03,Default,,0000,0000,0000,,Èak i ako si hvaljen i \Ntražen u poèetku.
+Dialogue: 0,0:05:06.20,0:05:09.40,Default,,0000,0000,0000,,Ali, mi imamo samo nas dvoje,\N braæa smo.
+Dialogue: 0,0:05:10.20,0:05:12.33,Default,,0000,0000,0000,,Ja æu uvek biti tu za tebe,
+Dialogue: 0,0:05:12.37,0:05:15.13,Default,,0000,0000,0000,,èak iako samo kao prepreka\Nkoju moraš prevaziæi.
+Dialogue: 0,0:05:15.73,0:05:17.67,Default,,0000,0000,0000,,Èak i ako me mržiš...
+Dialogue: 0,0:05:19.10,0:05:20.50,Default,,0000,0000,0000,,Za to i velika braæa služe.
+Dialogue: 0,0:05:21.47,0:05:22.53,Default,,0000,0000,0000,,Da li je Itachi ovde?!
+Dialogue: 0,0:05:23.27,0:05:25.03,Default,,0000,0000,0000,,Moramo da razgovaramo. \NIzaði napolje!
+Dialogue: 0,0:05:29.03,0:05:31.23,Default,,0000,0000,0000,,Šta vas dovodi sve ovde?
+Dialogue: 0,0:05:31.57,0:05:34.80,Default,,0000,0000,0000,,Dvoje ljudi se nije pojavilo\Nna juæerašnjem okupljanju.
+Dialogue: 0,0:05:35.10,0:05:36.87,Default,,0000,0000,0000,,Zašto ti nisi došao?
+Dialogue: 0,0:05:39.77,0:05:41.77,Default,,0000,0000,0000,,Mi razumemo da pridruživanje\N Anbu Tajnim Jedinicama znaèi
+Dialogue: 0,0:05:41.80,0:05:43.60,Default,,0000,0000,0000,,biti teran da radiš sve vrste\Ntrivijalnih zadataka.
+Dialogue: 0,0:05:44.20,0:05:47.23,Default,,0000,0000,0000,,Tvoj otac je govorio o tome\Ni pokušava da te brani.
+Dialogue: 0,0:05:47.97,0:05:51.03,Default,,0000,0000,0000,,Ali mi nemamo nameru\Nda tebe posebno tretiramo.
+Dialogue: 0,0:05:52.60,0:05:55.20,Default,,0000,0000,0000,,Razumem.\NBiæu oprezniji od sada.
+Dialogue: 0,0:05:55.70,0:05:57.13,Default,,0000,0000,0000,,Sada, moram da vas \Nzamolim da odete.
+Dialogue: 0,0:05:58.13,0:05:59.20,Default,,0000,0000,0000,,U redu.
+Dialogue: 0,0:05:59.73,0:06:03.43,Default,,0000,0000,0000,,Ali pre toga, hoæemo da te pitamo\Nmalo više o neèemu.
+Dialogue: 0,0:06:04.43,0:06:06.63,Default,,0000,0000,0000,,Radi se o Shisui Uchiha
+Dialogue: 0,0:06:06.67,0:06:08.73,Default,,0000,0000,0000,,koji je umro posle skoka u\Nreku Nakano prošle noæi.
+Dialogue: 0,0:06:10.73,0:06:15.20,Default,,0000,0000,0000,,Koliko znam, ugledao si se na njega\Nkao starijeg brata, zar nisi?
+Dialogue: 0,0:06:17.23,0:06:18.20,Default,,0000,0000,0000,,Vidim...
+Dialogue: 0,0:06:19.37,0:06:21.50,Default,,0000,0000,0000,,Nisam ga viðao u zadnje vreme...
+Dialogue: 0,0:06:22.00,0:06:22.70,Default,,0000,0000,0000,,To je šteta.
+Dialogue: 0,0:06:27.63,0:06:32.67,Default,,0000,0000,0000,,A mi, Policijske Snage, smo odluèili\Nda pokrenemo temeljnu istragu.
+Dialogue: 0,0:06:33.30,0:06:34.17,Default,,0000,0000,0000,,Istragu?!
+Dialogue: 0,0:06:36.30,0:06:38.20,Default,,0000,0000,0000,,Ovo je volja koju je Shisui ostavio.
+Dialogue: 0,0:06:38.70,0:06:43.13,Default,,0000,0000,0000,,Analiza rukopisa pokazuje\Nda je bez sumnje njegov.
+Dialogue: 0,0:06:43.87,0:06:46.90,Default,,0000,0000,0000,,Ako nema znakova da je nešto \Nsumnjivo, zašto istraga uopšte?
+Dialogue: 0,0:06:47.80,0:06:52.13,Default,,0000,0000,0000,,Neko ko koristi Sharingan bio bi\Nsposoban da uradi prfektnu kopiju.
+Dialogue: 0,0:06:52.53,0:06:57.00,Default,,0000,0000,0000,,Ja imam raznolike dužnosti. Kako izgleda,\NUèihe nemaju buduænosti.\NKao ni ja... Ne mogu više da pratim "Put."\N\N\N\N\N\N\N\NThe most talented of all our clan,\Nfeared as Shisui the Teleporter...
+Dialogue: 0,0:06:57.23,0:07:01.07,Default,,0000,0000,0000,,Bio je èovek koji je preuzimao \Nsvaku misiju za dobro klana.\N
+Dialogue: 0,0:07:02.30,0:07:05.00,Default,,0000,0000,0000,,Teško je poverovati da \Nneko takav bi ubio sebe,\N
+Dialogue: 0,0:07:05.03,0:07:06.33,Default,,0000,0000,0000,,napuštajuæi sve iza sebe.
+Dialogue: 0,0:07:09.10,0:07:11.00,Default,,0000,0000,0000,,Nemoj suditi o ljudima \Npo njihovom izgledu,
+Dialogue: 0,0:07:11.03,0:07:13.07,Default,,0000,0000,0000,,ili po tvojim liènim ubeðenjima.
+Dialogue: 0,0:07:14.10,0:07:16.37,Default,,0000,0000,0000,,U svakom sluèaju, njegovu \Nvolju ostavljamo tebi.
+Dialogue: 0,0:07:16.53,0:07:17.77,Default,,0000,0000,0000,,Odnesi je do Anbua
+Dialogue: 0,0:07:17.80,0:07:20.03,Default,,0000,0000,0000,,i zatraži njihovu saradnju\Nu istrazi!
+Dialogue: 0,0:07:21.13,0:07:22.03,Default,,0000,0000,0000,,Razumem...
+Dialogue: 0,0:07:23.80,0:07:25.73,Default,,0000,0000,0000,,Nadajmo se nekom tragu uskoro.
+Dialogue: 0,0:07:27.00,0:07:29.17,Default,,0000,0000,0000,,Zašto jednostavno ne kažete?\N
+Dialogue: 0,0:07:33.57,0:07:35.83,Default,,0000,0000,0000,,Vi svi sumnjate u mene, zar ne?
+Dialogue: 0,0:07:36.33,0:07:38.83,Default,,0000,0000,0000,,Da, to je taèno.\NTi mali jadnièe!
+Dialogue: 0,0:07:45.73,0:07:47.47,Default,,0000,0000,0000,,Kao što sam rekao ranije,
+Dialogue: 0,0:07:47.73,0:07:50.97,Default,,0000,0000,0000,,izgled i predrasude\Nneæe ti reæi ništa.
+Dialogue: 0,0:07:53.30,0:07:57.00,Default,,0000,0000,0000,,Mislite da sam veoma strpljiv\Ni podcenjujete me...
+Dialogue: 0,0:07:57.83,0:07:59.37,Default,,0000,0000,0000,,Klan...Klan...
+Dialogue: 0,0:08:00.20,0:08:01.80,Default,,0000,0000,0000,,Nastavljate pominjati to ime,
+Dialogue: 0,0:08:01.87,0:08:05.90,Default,,0000,0000,0000,,misleæi samo o njegovoj velièini\Na podcenjujuæi moju velièinu.
+Dialogue: 0,0:08:05.93,0:08:07.83,Default,,0000,0000,0000,,Zato si ti ovde sad, i puziš.
+Dialogue: 0,0:08:08.47,0:08:12.03,Default,,0000,0000,0000,,Shisui te je nazirao \Nu zadnje vreme.
+Dialogue: 0,0:08:13.07,0:08:15.27,Default,,0000,0000,0000,,Prošlo je šest meseci\Nod kada si ušao u Anbu,
+Dialogue: 0,0:08:15.30,0:08:18.17,Default,,0000,0000,0000,,ali tvoje zadnje reèi i dela se\N ne mogu tolerisati više.
+Dialogue: 0,0:08:18.63,0:08:21.03,Default,,0000,0000,0000,,O èemu ti ustvari razmišljaš?
+Dialogue: 0,0:08:21.37,0:08:26.63,Default,,0000,0000,0000,,Privrženost organizacijama,\Nklanovima, jednom imenu...
+Dialogue: 0,0:08:27.27,0:08:31.67,Default,,0000,0000,0000,,Takva povezanost postavlja granice\Nna jednu osobu i treba ih ukloniti.
+Dialogue: 0,0:08:31.70,0:08:34.73,Default,,0000,0000,0000,,Da te je strah i da mrziš stvari\Nkoje ne možeš videti ili razumeti još
+Dialogue: 0,0:08:34.77,0:08:35.83,Default,,0000,0000,0000,,totalno je smešno!
+Dialogue: 0,0:08:35.87,0:08:36.73,Default,,0000,0000,0000,,Stop! Itachi!
+Dialogue: 0,0:08:37.63,0:08:40.97,Default,,0000,0000,0000,,Sada je dosta...\NŠta se dešava s tobom?
+Dialogue: 0,0:08:42.00,0:08:44.40,Default,,0000,0000,0000,,Itachi...\NNisi sasvim svoj u zadnje vreme.
+Dialogue: 0,0:08:45.07,0:08:46.47,Default,,0000,0000,0000,,Ja sam perfektno razuman.
+Dialogue: 0,0:08:46.93,0:08:49.77,Default,,0000,0000,0000,,Ja odraðujem moje dužnosti.\NTo je sve što radim.
+Dialogue: 0,0:08:50.67,0:08:52.63,Default,,0000,0000,0000,,Onda, zašto nisi došao sinoæ?
+Dialogue: 0,0:08:54.10,0:08:55.97,Default,,0000,0000,0000,,Morao sam uzdiæi sebe višlje...
+Dialogue: 0,0:08:57.67,0:08:58.83,Default,,0000,0000,0000,,Oèemu ti govoriš?
+Dialogue: 0,0:09:03.00,0:09:06.97,Default,,0000,0000,0000,,Moja liènos je sputana od \Nstrane glupog klana
+Dialogue: 0,0:09:07.50,0:09:10.57,Default,,0000,0000,0000,,Umiljavati se ovom klanu...\Ni nevažnim stvarima...
+Dialogue: 0,0:09:10.60,0:09:12.97,Default,,0000,0000,0000,,izgubiš pojam šta je \Nstvarno važno.
+Dialogue: 0,0:09:14.00,0:09:17.57,Default,,0000,0000,0000,,Stvarna promena neæe doæi kada\Nsi vezan odredbama i ogranièenjima...
+Dialogue: 0,0:09:17.60,0:09:21.07,Default,,0000,0000,0000,,kada si zadovoljan sa\Npretpostavkama i nagaðanjima.
+Dialogue: 0,0:09:21.23,0:09:22.40,Default,,0000,0000,0000,,Kakva arogancija!
+Dialogue: 0,0:09:23.10,0:09:23.87,Default,,0000,0000,0000,,Dosta.
+Dialogue: 0,0:09:24.40,0:09:27.07,Default,,0000,0000,0000,,Reci još jednu reè\Ni baciæu te u zatvor!
+Dialogue: 0,0:09:28.43,0:09:29.93,Default,,0000,0000,0000,,Pa, šta æeš da uradiš?!
+Dialogue: 0,0:09:30.83,0:09:34.63,Default,,0000,0000,0000,,Dosta mi je svega! Kapetane, \Ndajte nam nareðenje da ga uhapsimo!
+Dialogue: 0,0:09:36.33,0:09:38.20,Default,,0000,0000,0000,,Veliki Brate! Molim te prestani!
+Dialogue: 0,0:09:50.40,0:09:52.60,Default,,0000,0000,0000,,Ja nisam ubio Shisuija...
+Dialogue: 0,0:09:53.07,0:09:55.63,Default,,0000,0000,0000,,Ali æu se izviniti za moje reèi\Nkoje sam izgovorio...
+Dialogue: 0,0:09:56.30,0:09:57.27,Default,,0000,0000,0000,,Stvarno mi je žao.
+Dialogue: 0,0:09:58.73,0:10:01.70,Default,,0000,0000,0000,,Radio si previše teško na tvojim\N Anbu misijama,
+Dialogue: 0,0:10:01.73,0:10:03.37,Default,,0000,0000,0000,,i mislim da si malo umoran.
+Dialogue: 0,0:10:03.50,0:10:04.37,Default,,0000,0000,0000,,Ali Kapetane!
+Dialogue: 0,0:10:05.10,0:10:07.27,Default,,0000,0000,0000,,Anbu Specijalne jedinice su pod\Ndirektnim nareðenjima Hokagea.
+Dialogue: 0,0:10:07.77,0:10:11.57,Default,,0000,0000,0000,,Bez naloga za hapšenje,\Nnemožemo ga zadržati.
+Dialogue: 0,0:10:12.67,0:10:16.73,Default,,0000,0000,0000,,Preuzeæu punu odgovornost \Nnad Itachijem i držati ga na oku.
+Dialogue: 0,0:10:19.10,0:10:19.87,Default,,0000,0000,0000,,Imate moju reè.
+Dialogue: 0,0:10:22.57,0:10:23.47,Default,,0000,0000,0000,,U redu, gospodine.
+Dialogue: 0,0:10:24.87,0:10:26.20,Default,,0000,0000,0000,,Idemo unutra, Itachi.
+Dialogue: 0,0:10:48.63,0:10:49.43,Default,,0000,0000,0000,,Itachi...
+Dialogue: 0,0:10:50.70,0:10:52.23,Default,,0000,0000,0000,,Ostaviæu tvoje jelo ovde.
+Dialogue: 0,0:10:55.50,0:11:00.63,Default,,0000,0000,0000,,Znam da si zauzet s poslom,\Nali pridruži nam se na jelu ponekad.
+Dialogue: 0,0:11:04.73,0:11:05.57,Default,,0000,0000,0000,,Hvala ti...
+Dialogue: 0,0:11:06.67,0:11:07.33,Default,,0000,0000,0000,,Majko.
+Dialogue: 0,0:11:37.20,0:11:39.07,Default,,0000,0000,0000,,{\i1}Zadržao sam se jer sam \Nvežbao bacanje šurikena{\i0}
+Dialogue: 0,0:11:39.10,0:11:40.77,Default,,0000,0000,0000,,{\i1}i sad sam totalno zakasnio.{\i0}
+Dialogue: 0,0:11:46.80,0:11:49.40,Default,,0000,0000,0000,,{\i1}Imao sam oseæaj\Nda je neko bio tamo...{\i0}
+Dialogue: 0,0:11:52.20,0:11:53.13,Default,,0000,0000,0000,,Šta je ovo?!
+Dialogue: 0,0:11:55.60,0:11:57.27,Default,,0000,0000,0000,,Oèe! Majko!
+Dialogue: 0,0:12:10.40,0:12:13.23,Default,,0000,0000,0000,,Veliki Brate!\NTata i mama su...!
+Dialogue: 0,0:12:13.80,0:12:15.63,Default,,0000,0000,0000,,Zašto? Šta se dogodilo?!
+Dialogue: 0,0:12:15.83,0:12:17.83,Default,,0000,0000,0000,,Ko bi uradio ovakvu stvar?!
+Dialogue: 0,0:12:20.10,0:12:22.03,Default,,0000,0000,0000,,Glupi mali brat...
+Dialogue: 0,0:12:22.70,0:12:24.10,Default,,0000,0000,0000,,Mangekyo Sharingan!
+Dialogue: 0,0:12:37.47,0:12:39.03,Default,,0000,0000,0000,,{\i1}On je vredan toga biti moj sin.{\i0}
+Dialogue: 0,0:12:39.67,0:12:41.67,Default,,0000,0000,0000,,{\i1}Tvoj otac samo prièa o tebi.{\i0}
+Dialogue: 0,0:12:48.30,0:12:51.80,Default,,0000,0000,0000,,Prestani, Veliki Brate!\NZašto mi pokazuješ ove stvari?!
+Dialogue: 0,0:13:06.43,0:13:07.30,Default,,0000,0000,0000,,Zašto...?
+Dialogue: 0,0:13:10.23,0:13:12.43,Default,,0000,0000,0000,,Zašto si uradio ovo?
+Dialogue: 0,0:13:13.60,0:13:15.90,Default,,0000,0000,0000,,Da izmerim moje sposobnosti...
+Dialogue: 0,0:13:17.17,0:13:20.70,Default,,0000,0000,0000,,Izmeriš svoje sposobnosti?\NTo je sve?
+Dialogue: 0,0:13:21.50,0:13:25.50,Default,,0000,0000,0000,,Samo zbog toga...\Nti...ubio si sve njih?
+Dialogue: 0,0:13:26.43,0:13:28.27,Default,,0000,0000,0000,,To je od velike važnosti.
+Dialogue: 0,0:13:56.47,0:13:59.60,Default,,0000,0000,0000,,To je laž!\NOvo nisi ti, Veliki Brate...
+Dialogue: 0,0:13:59.70,0:14:00.40,Default,,0000,0000,0000,,Ne može biti...!
+Dialogue: 0,0:14:00.53,0:14:03.80,Default,,0000,0000,0000,,Ponašao sam se kao stariji brat\Nkojeg si ti želeo...
+Dialogue: 0,0:14:04.40,0:14:06.67,Default,,0000,0000,0000,,da bi izmerio tvoju liènost.
+Dialogue: 0,0:14:08.13,0:14:11.87,Default,,0000,0000,0000,,Ti æeš postati rival za mene\Nna kojem æu izmeriti sebe...
+Dialogue: 0,0:14:12.43,0:14:14.57,Default,,0000,0000,0000,,Ti imaš taj skriveni potencijal.
+Dialogue: 0,0:14:15.37,0:14:18.00,Default,,0000,0000,0000,,Bio si ljubomoran zbog mene\Ni prezirao si me.
+Dialogue: 0,0:14:18.57,0:14:21.13,Default,,0000,0000,0000,,Gajio si nade da æeš me prevaziæi.
+Dialogue: 0,0:14:22.40,0:14:25.73,Default,,0000,0000,0000,,Zbog toga æu ti dozvoliti da živiš.\NZa moju korist...
+Dialogue: 0,0:14:26.67,0:14:30.97,Default,,0000,0000,0000,,Kao ja, ti æeš probuditi moæi\N Mangekyo Sharingana.
+Dialogue: 0,0:14:31.50,0:14:33.73,Default,,0000,0000,0000,,Ipak, pod jednim uslovom...
+Dialogue: 0,0:14:37.83,0:14:41.70,Default,,0000,0000,0000,,Moraæeš ubiti...svog najbližeg prijatelja!
+Dialogue: 0,0:14:43.60,0:14:45.50,Default,,0000,0000,0000,,Kao što sam ja...
+Dialogue: 0,0:14:48.23,0:14:50.23,Default,,0000,0000,0000,,Onda...ti...
+Dialogue: 0,0:14:51.27,0:14:52.97,Default,,0000,0000,0000,,Ti si ubio Shisuia?
+Dialogue: 0,0:14:54.00,0:14:56.67,Default,,0000,0000,0000,,Kao rezultat, sada posedujem "oko."
+Dialogue: 0,0:14:57.90,0:14:59.87,Default,,0000,0000,0000,,U glavnoj odaji Nakano Hrama
+Dialogue: 0,0:15:00.53,0:15:03.50,Default,,0000,0000,0000,,ispod sedmog tatamija od \Nunutrašnje desne strane
+Dialogue: 0,0:15:03.53,0:15:05.83,Default,,0000,0000,0000,,nalazi se skrivena soba \Nza okupljanje našeg klana.
+Dialogue: 0,0:15:06.83,0:15:12.20,Default,,0000,0000,0000,,Tamo æeš naæi zapise o \NOènim Veštinama Uèiha Klana
+Dialogue: 0,0:15:12.60,0:15:14.93,Default,,0000,0000,0000,,i njhovoj pravoj svrhi.
+Dialogue: 0,0:15:16.60,0:15:18.53,Default,,0000,0000,0000,,Ako probudiš Mangekyo Sharingan,
+Dialogue: 0,0:15:18.57,0:15:22.90,Default,,0000,0000,0000,,postojaæe troje, ukljuèujuæi mene,\Nkoji poseduju tu moæ.
+Dialogue: 0,0:15:23.67,0:15:24.63,Default,,0000,0000,0000,,Onda...
+Dialogue: 0,0:15:25.97,0:15:27.93,Default,,0000,0000,0000,,Postojaæe smisao\Nšto sam te pustio da živiš.
+Dialogue: 0,0:15:31.70,0:15:34.47,Default,,0000,0000,0000,,Ne bi imalo vrednosti ubiti te sada...
+Dialogue: 0,0:15:36.17,0:15:38.07,Default,,0000,0000,0000,,moj glupi mali brate.
+Dialogue: 0,0:15:39.60,0:15:43.53,Default,,0000,0000,0000,,Ako želiš da me ubiješ,\Npreziri me, mrzi me,
+Dialogue: 0,0:15:43.80,0:15:47.07,Default,,0000,0000,0000,,i preživi...na ivici.
+Dialogue: 0,0:15:47.93,0:15:49.50,Default,,0000,0000,0000,,Trèi...Nastavi trèati...
+Dialogue: 0,0:15:50.00,0:15:51.83,Default,,0000,0000,0000,,i oèajnièki èuvaj život.
+Dialogue: 0,0:15:52.70,0:15:56.93,Default,,0000,0000,0000,,Onda jedan dan, doði ispred mene\Nsa istim oèima koje ja posedujem.
+Dialogue: 0,0:16:17.27,0:16:21.07,Default,,0000,0000,0000,,Taj Sharingan...\NKoliko stvarno ti možeš da vidiš?
+Dialogue: 0,0:16:22.10,0:16:23.83,Default,,0000,0000,0000,,Koliko ja mogu da vidim sa ovima?
+Dialogue: 0,0:16:25.00,0:16:29.20,Default,,0000,0000,0000,,Ono što vidim sada, Itachi...
+Dialogue: 0,0:16:29.67,0:16:31.43,Default,,0000,0000,0000,,je tvoja smrt.
+Dialogue: 0,0:16:37.63,0:16:39.23,Default,,0000,0000,0000,,Moja smrt, huh?
+Dialogue: 0,0:16:45.27,0:16:46.10,Default,,0000,0000,0000,,Pa onda...
+Dialogue: 0,0:16:49.77,0:16:51.03,Default,,0000,0000,0000,,uèini da se dogodi.
+Dialogue: 0,0:17:19.40,0:17:20.33,Default,,0000,0000,0000,,Chidori!
+Dialogue: 0,0:17:28.80,0:17:29.83,Default,,0000,0000,0000,,{\i1}Chidori Struja!{\i0}
+Dialogue: 0,0:17:46.10,0:17:48.63,Default,,0000,0000,0000,,Postao si...snažan.
+Dialogue: 0,0:17:49.33,0:17:53.57,Default,,0000,0000,0000,,Itachi... Imam jednu zadnju stvar da pitam...
+Dialogue: 0,0:18:27.40,0:18:29.60,Default,,0000,0000,0000,,{\i1}Postao si...snažan{\i0}
+Dialogue: 0,0:18:30.00,0:18:32.73,Default,,0000,0000,0000,,Ista reèenica kao ranije...\Ni ova ptica...
+Dialogue: 0,0:18:33.53,0:18:35.63,Default,,0000,0000,0000,,Još jedna izmišljotina\Ntvog specijalnog genjutsua?
+Dialogue: 0,0:18:36.27,0:18:37.70,Default,,0000,0000,0000,,Šta želiš da znaš?
+Dialogue: 0,0:18:38.93,0:18:41.37,Default,,0000,0000,0000,,Nije gotovo, ali æu te saslušati.
+Dialogue: 0,0:18:42.10,0:18:43.50,Default,,0000,0000,0000,,Reæiæu ti još jednom...
+Dialogue: 0,0:19:07.10,0:19:07.93,Default,,0000,0000,0000,,Genjutsu...
+Dialogue: 0,0:19:08.50,0:19:10.93,Default,,0000,0000,0000,,Imam jednu zadnju stvar da pitam...
+Dialogue: 0,0:19:11.17,0:19:13.23,Default,,0000,0000,0000,,To je ono što sam ja rekao, ti kopile!
+Dialogue: 0,0:19:14.43,0:19:15.87,Default,,0000,0000,0000,,Odgovori na moje pitanje.
+Dialogue: 0,0:19:16.33,0:19:18.70,Default,,0000,0000,0000,,Taj bol u tvojim grudima\Nneæe stati dok ne odgovoriš.
+Dialogue: 0,0:19:19.73,0:19:21.80,Default,,0000,0000,0000,,Znaèi namerno si promašio \Nvitalnu taèku...
+Dialogue: 0,0:19:22.50,0:19:24.23,Default,,0000,0000,0000,,Rekao si mi onda...
+Dialogue: 0,0:19:25.63,0:19:28.80,Default,,0000,0000,0000,,{\i1}Ako probudiš\NMangekyo Sharingan,{\i0}
+Dialogue: 0,0:19:28.83,0:19:32.23,Default,,0000,0000,0000,,{\i1}da æe postojati troje, ukljuèujuæi mene,\Nko poseduje takvu moæ.{\i0}
+Dialogue: 0,0:19:32.47,0:19:33.33,Default,,0000,0000,0000,,{\i1}Onda...{\i0}
+Dialogue: 0,0:19:34.73,0:19:36.77,Default,,0000,0000,0000,,{\i1}da æe imati smisla\Nda ti dopustim da živiš.{\i0}
+Dialogue: 0,0:19:37.50,0:19:40.90,Default,,0000,0000,0000,,Treæa osoba...\NTaj drugi sa Sharinganom...
+Dialogue: 0,0:19:41.83,0:19:43.27,Default,,0000,0000,0000,,Ko iz Uèiha Klana je to?
+Dialogue: 0,0:19:45.10,0:19:48.60,Default,,0000,0000,0000,,Zašto...si radoznao o takvoj stvari?
+Dialogue: 0,0:19:49.43,0:19:53.40,Default,,0000,0000,0000,,Ubiæu i njega pošto ubijem tebe.\NEto zašto.
+Dialogue: 0,0:19:55.17,0:19:56.10,Default,,0000,0000,0000,,Ubiti?
+Dialogue: 0,0:19:56.47,0:19:59.00,Default,,0000,0000,0000,,Kada si poubijao sve iz klana,
+Dialogue: 0,0:19:59.03,0:20:01.97,Default,,0000,0000,0000,,pomenuo si postojanje\Njoš jedne osobe.
+Dialogue: 0,0:20:02.90,0:20:08.47,Default,,0000,0000,0000,,Što znaèi taj Uchiha pripadnik \Nkog nisi ubio je tvoj pomoænik.
+Dialogue: 0,0:20:09.30,0:20:12.93,Default,,0000,0000,0000,,Èak i ti nebi mogao ubiti\Ncele policijske snage sam.
+Dialogue: 0,0:20:15.20,0:20:16.73,Default,,0000,0000,0000,,Znaèi otkrio si to...
+Dialogue: 0,0:20:17.40,0:20:18.27,Default,,0000,0000,0000,,Ko je on?!
+Dialogue: 0,0:20:26.00,0:20:28.63,Default,,0000,0000,0000,,To je Madara Uchiha...
+Dialogue: 0,0:20:31.27,0:20:36.07,Default,,0000,0000,0000,,{\i1}Sa tim oèima i èakrom\Nzlobnijom nego što je moja...{\i0}
+Dialogue: 0,0:20:36.97,0:20:40.73,Default,,0000,0000,0000,,{\i1}To je isto kao...Madara Uchiha,\Nod veoma davno...{\i0}
+Dialogue: 0,0:20:44.97,0:20:48.27,Default,,0000,0000,0000,,{\i1}Uopšte ne znam...tu osobu.{\i0}
+Dialogue: 0,0:20:49.53,0:20:51.80,Default,,0000,0000,0000,,Madara...Uchiha?!
+Dialogue: 0,0:20:54.67,0:20:57.10,Default,,0000,0000,0000,,Jedan od osnivaèa\Nsela Skrivenog pod Lišæem...
+Dialogue: 0,0:20:58.27,0:21:01.67,Default,,0000,0000,0000,,Èovek koji je prvi posedovao\NMangekyo Sharingan.
+Dialogue: 0,0:22:37.10,0:22:38.50,Default,,0000,0000,0000,,Madara Uchiha...\N\N
+Dialogue: 0,0:22:39.00,0:22:43.83,Default,,0000,0000,0000,,Jedini èovek koji je otkrio drugu tajnu\NMangekyo Sharingana.\N\N
+Dialogue: 0,0:22:44.20,0:22:46.73,Default,,0000,0000,0000,,Ako je taj Madara,\Nosnivaè sela Skrivenog pod Lišæem,\N  \N
+Dialogue: 0,0:22:46.77,0:22:48.27,Default,,0000,0000,0000,,trebao bi biti mrtav veoma dugo.\N\N
+Dialogue: 0,0:22:48.77,0:22:50.63,Default,,0000,0000,0000,,Ko bi poverovao u takvu prièu?\N\N
+Dialogue: 0,0:22:50.73,0:22:52.70,Default,,0000,0000,0000,,Madara je živ...\N\N
+Dialogue: 0,0:22:53.30,0:22:56.20,Default,,0000,0000,0000,,Na tebi je da li æeš \Npoverovati u to ili ne.\N\N\N
+Dialogue: 0,0:22:56.83,0:23:01.43,Default,,0000,0000,0000,,Sledeæa epizoda:\N"Svetlost & Tama\NMangekyo Sharingana"\N\N
+Dialogue: 0,0:23:01.77,0:23:04.43,Default,,0000,0000,0000,,Dopusti da ti isprièam malo \No prošlosti...\N\N
+Dialogue: 0,0:23:05.80,0:23:09.37,Default,,0000,0000,0000,,Prevod i obrada:\NANUBISBUCA

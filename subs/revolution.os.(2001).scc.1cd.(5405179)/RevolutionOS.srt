@@ -1,0 +1,6710 @@
+1
+00:00:04,000 --> 00:00:05,500
+Bio sam na Agendi 2000
+
+2
+00:00:06,100 --> 00:00:08,900
+i jedan od ljudi koji su bili tamo bio
+je Craig Mundie,
+
+3
+00:00:08,900 --> 00:00:12,000
+koji je na nekom visokom
+položaju u Microsoftu,
+
+4
+00:00:12,500 --> 00:00:16,000
+valjda podpredsednik za klijentske
+proizvode ili tako nešto.
+
+5
+00:00:17,000 --> 00:00:22,700
+Naleteo sam na njega u liftu.
+
+6
+00:00:22,800 --> 00:00:26,800
+I gledam ja njegovu znaèku pa kažem,
+"Oh, vidim da radite za Microsoft."
+
+7
+00:00:27,300 --> 00:00:30,800
+A on me pogleda i kaže,
+"Oh da, a šta vi radite?"
+
+8
+00:00:30,900 --> 00:00:33,800
+Zvuèalo je nekako podcenjivaèki.
+
+9
+00:00:33,900 --> 00:00:37,000
+Ono znate, gospodin u smokingu
+
+10
+00:00:37,500 --> 00:00:39,000
+gleda u zapuštenog hakera.
+
+11
+00:00:39,600 --> 00:00:42,200
+Zagledam se ja tako
+na kratko u njega pa mu kažem,
+
+12
+00:00:42,200 --> 00:00:44,100
+"Ja sam tvoj najgori košmar!"
+
+13
+00:00:44,300 --> 00:00:47,900
+Wonderview Productions
+Predstavlja
+
+14
+00:00:47,900 --> 00:00:51,900
+Film
+J.T.S. Moore-a
+
+15
+00:00:53,300 --> 00:00:58,200
+REVOLUCIONARNI OS
+
+16
+00:00:59,900 --> 00:01:02,100
+U kratkoj, ali burnoj istoriji,
+
+17
+00:01:02,100 --> 00:01:04,100
+kompjuterskom industrijom dominirao je
+
+18
+00:01:04,100 --> 00:01:06,000
+operativni sistem Windows.
+
+19
+00:01:06,000 --> 00:01:08,000
+To bi uskoro moglo da se promeni,
+
+20
+00:01:08,000 --> 00:01:10,900
+jer se Windows suoèava
+sa jakom konkurencijom Linuxa.
+
+21
+00:01:12,300 --> 00:01:14,000
+Silikonska Dolina je dugo bila mesto
+
+22
+00:01:14,000 --> 00:01:16,000
+za razvoj novih tehnologija,
+
+23
+00:01:16,300 --> 00:01:19,800
+otvaranja novih kompanija
+i sticanja velikog bogatstva.
+
+24
+00:01:19,900 --> 00:01:22,300
+Danas je Dolina mesto revolucije
+
+25
+00:01:22,500 --> 00:01:25,200
+koja se bori protiv politièke
+nepravde idejom za:
+
+26
+00:01:25,700 --> 00:01:27,000
+SOPSTVENU SLOBODU.
+
+27
+00:01:27,700 --> 00:01:29,300
+Danju i noæu, savez
+
+28
+00:01:29,500 --> 00:01:31,500
+hakera i programera piše delove
+
+29
+00:01:31,600 --> 00:01:34,300
+kompjuterskog koda, po celom
+svetu, kako bi napravili alat
+
+30
+00:01:34,700 --> 00:01:36,500
+za oslobaðanje kompjuterskih korisnika
+
+31
+00:01:36,800 --> 00:01:39,100
+koristeæi pritom slobodne informacije
+i tehnologije za razmenu podataka,
+
+32
+00:01:39,100 --> 00:01:40,500
+kako bi dostigli svoj cilj.
+
+33
+00:01:40,500 --> 00:01:43,100
+Ova revolucija je poèela 80-tih
+godina prošlog veka sa
+
+34
+00:01:43,100 --> 00:01:45,800
+Pokretom za slobodan softver
+i GNU projektom,
+
+35
+00:01:45,800 --> 00:01:47,500
+a danas se vezuje za
+
+36
+00:01:47,800 --> 00:01:51,100
+Linux i Open Source pokret.
+
+37
+00:01:51,500 --> 00:01:54,100
+Šta je to Linux?
+
+38
+00:01:54,100 --> 00:01:56,500
+Imamo jedan sektor koji
+danas shvatamo ozbiljno.
+
+39
+00:01:56,500 --> 00:01:58,600
+To je sektor povezan sa Linuxom.
+
+40
+00:01:58,600 --> 00:02:00,700
+Mislim da je ovo
+prava prilika da objasnim.
+
+41
+00:02:01,000 --> 00:02:02,700
+"Šta je to Linux?"
+
+42
+00:02:02,900 --> 00:02:03,900
+Odgovoriæu vam na to pitanje.
+
+43
+00:02:04,000 --> 00:02:05,000
+Mnogi od vas to verovatno veæ znaju.
+
+44
+00:02:05,000 --> 00:02:06,500
+Linux koristi 12 miliona korisnika.
+
+45
+00:02:06,800 --> 00:02:10,100
+To je kompjuterski operativni sistem
+koji su razvile stotine
+
+46
+00:02:10,100 --> 00:02:12,000
+programera saraðujuæi preko Interneta.
+
+47
+00:02:12,000 --> 00:02:13,900
+Linux je izazov za Microsoft Windows NT.
+
+48
+00:02:14,000 --> 00:02:15,500
+Vrlo je popularan zbog svoje brzine,
+
+49
+00:02:16,500 --> 00:02:17,800
+i to je ono što je
+najèudnije oko svega ovoga.
+
+50
+00:02:19,500 --> 00:02:21,700
+Da bih objasnio šta je Linux,
+prvo moram
+
+51
+00:02:21,700 --> 00:02:23,700
+da objasnim šta je to operativni sistem.
+
+52
+00:02:23,700 --> 00:02:26,200
+Operativni sistem realno
+
+53
+00:02:26,200 --> 00:02:28,900
+ne može da se vidi.
+
+54
+00:02:28,900 --> 00:02:30,600
+Jer...
+
+55
+00:02:30,600 --> 00:02:32,800
+niko od vas u stvari
+ne koristi operativni sistem,
+
+56
+00:02:33,200 --> 00:02:36,000
+ljudi koriste... programe...
+na svojim raèunarima.
+
+57
+00:02:36,000 --> 00:02:38,000
+A jedini cilj operativnog sistema
+u "životu"
+
+58
+00:02:38,400 --> 00:02:42,000
+je da pomaže tim
+programima pri izvršavanju.
+
+59
+00:02:42,300 --> 00:02:45,600
+On nikada ne radi ništa samovoljno.
+
+60
+00:02:45,800 --> 00:02:48,200
+Samo èeka da programi
+
+61
+00:02:48,200 --> 00:02:50,500
+zatraže odreðene resurse ili
+
+62
+00:02:50,800 --> 00:02:54,100
+odreðene datoteke na disku
+
+63
+00:02:54,300 --> 00:02:56,000
+ili daje moguænost programima da se
+
+64
+00:02:56,000 --> 00:02:57,800
+povezuju sa spoljašnim svetom.
+
+65
+00:02:58,000 --> 00:03:00,600
+Tu uskaèe operativni sistem,
+
+66
+00:03:00,600 --> 00:03:04,200
+pokušavajuæi ljudima da olakša
+pisanje programa.
+
+67
+00:03:04,200 --> 00:03:07,500
+I, šta je to Open Source?
+
+68
+00:03:07,500 --> 00:03:10,500
+Open Source je naèin
+na koji ljudi saraðuju
+
+69
+00:03:10,800 --> 00:03:16,200
+na softveru bez razmišljanja o
+problemima oko intelektualne svojine,
+
+70
+00:03:16,200 --> 00:03:20,700
+da ne moraju da pregovaraju o ugovoru,
+svaki put kada kupuju deo softvera,
+
+71
+00:03:21,000 --> 00:03:23,300
+sa armijom advokata umešanih u sve to.
+
+72
+00:03:23,300 --> 00:03:26,500
+U globalu, mi samo želimo
+softver koji radi,
+
+73
+00:03:26,900 --> 00:03:28,300
+i ljude
+
+74
+00:03:28,300 --> 00:03:31,400
+koji æe samovoljno raditi
+razne dodatke za njega, itd.
+
+75
+00:03:32,300 --> 00:03:34,500
+Na neki naèin mi žrtvujemo
+
+76
+00:03:34,500 --> 00:03:36,400
+prava intelektualne svojine,
+
+77
+00:03:36,500 --> 00:03:39,000
+i dozvoljavamo èitavom svetu
+da koristi taj softver.
+
+78
+00:03:41,000 --> 00:03:42,300
+Za razvoj Linux-a
+
+79
+00:03:42,400 --> 00:03:45,700
+Zaslužan je i Richard Stallman i
+Fondacija za slobodan softver (FSF).
+
+80
+00:03:46,000 --> 00:03:48,700
+Ljud misle da je Richard Stallman...
+
+81
+00:03:49,800 --> 00:03:52,500
+veliki filozof, zar ne.
+
+82
+00:03:52,500 --> 00:03:54,300
+Ja mislim da je on inženjer
+
+83
+00:03:55,500 --> 00:03:58,900
+Richard Stallman je osnivaè i otac
+ideje o slobodnom softveru.
+
+84
+00:03:59,300 --> 00:04:02,500
+Kroz svoja nastojanja da napravi
+GNU operativni sistem,
+
+85
+00:04:02,600 --> 00:04:06,400
+napravio je legalnu, filozofsku
+i tehnièku fondaciju
+
+86
+00:04:06,400 --> 00:04:08,300
+koja se bori za slobodan softver.
+
+87
+00:04:08,300 --> 00:04:09,900
+Bez njegovih doprinosa,
+
+88
+00:04:09,900 --> 00:04:12,400
+teško da bi se Linux i Open Source
+
+89
+00:04:12,400 --> 00:04:14,500
+razvili do današnjih razmera.
+
+90
+00:04:15,200 --> 00:04:19,200
+Pridružio sam se MIT Laboratoriji
+za veštaèku inteligenciju 1971.,
+
+91
+00:04:19,500 --> 00:04:23,500
+Pridružio sam se...
+uspešnoj hakerskoj zajednici,
+
+92
+00:04:24,200 --> 00:04:25,500
+ljudima koji vole programiranje,
+
+93
+00:04:25,500 --> 00:04:28,800
+vole da istražuju šta sve može
+da se uradi pomoæu raèunara.
+
+94
+00:04:29,000 --> 00:04:32,200
+Oni su sami napravili
+èitav operativni sistem,
+
+95
+00:04:32,200 --> 00:04:34,700
+kompletno napisan u toj laboratoriji.
+
+96
+00:04:34,800 --> 00:04:37,300
+Tako sam postao deo njih, i
+
+97
+00:04:37,500 --> 00:04:40,900
+nastavio da radim na tom operativnom
+sistemu, dodajuæi nove moguænosti.
+
+98
+00:04:40,900 --> 00:04:44,900
+To je bio moj posao i obožavao sam ga,
+svi smo ga obožavali. Zato ga i radimo.
+
+99
+00:04:45,500 --> 00:04:48,600
+Naš operativni sistem smo nazvali
+
+100
+00:04:48,600 --> 00:04:51,100
+"the Incompatible Time Sharing System"
+("Nekompatibilni sistem deljenja vremena")
+
+101
+00:04:51,700 --> 00:04:53,100
+što je primer
+
+102
+00:04:53,100 --> 00:04:54,100
+razigranog duha
+
+103
+00:04:54,500 --> 00:04:56,400
+koji je odlika svakog hakera.
+
+104
+00:04:56,600 --> 00:04:59,700
+Hakeri su ljudi koji vole
+da rešavaju probleme.
+
+105
+00:05:00,500 --> 00:05:03,000
+Prvo je krenulo pogrešnim tokom
+
+106
+00:05:03,000 --> 00:05:06,500
+kada je spoljašni svet poèeo
+da nas gnjavi sa lozinkama.
+
+107
+00:05:06,600 --> 00:05:09,800
+Mi nismo imali lozinke
+na našim raèunarima.
+
+108
+00:05:10,000 --> 00:05:12,000
+Razlog tome bio je taj da su hakeri,
+
+109
+00:05:12,000 --> 00:05:14,300
+koji su izmisli taj OS,
+
+110
+00:05:14,300 --> 00:05:20,200
+smatrali da je lozinka naèin da
+administrator kontroliše sve korisnike.
+
+111
+00:05:20,300 --> 00:05:22,700
+Oni nisu želeli da naprave alat,
+
+112
+00:05:23,000 --> 00:05:26,400
+kojim bi administrator
+mogao da ih kontroliše,
+
+113
+00:05:26,700 --> 00:05:28,800
+pa ga nisu ni napravili.
+Izostavili su ga.
+
+114
+00:05:29,800 --> 00:05:33,000
+Naša filozofija je bila
+da ko god sedi za raèunarom
+
+115
+00:05:33,100 --> 00:05:35,500
+može da radi šta god želi.
+
+116
+00:05:36,000 --> 00:05:41,000
+Neko ko je radio juèe, ne može da
+kontroliše šta æeš ti da radiš danas.
+
+117
+00:05:41,000 --> 00:05:44,800
+Kada su stavili lozinku
+na jedan MIT raèunar
+
+118
+00:05:46,000 --> 00:05:48,000
+meni i grupi hakera se to nije svidelo.
+
+119
+00:05:48,000 --> 00:05:52,000
+Odluèio sam da pokušam
+da "razbijem" lozinku.
+
+120
+00:05:52,800 --> 00:05:54,900
+I našao sam naèin da je dekodiram,
+
+121
+00:05:54,900 --> 00:05:58,300
+gledajuæi u bazu podataka
+sa raznim lozinkama
+
+122
+00:05:58,300 --> 00:06:01,800
+video sam šta ljudi najèešæe
+upisuju pri prijavljivanju.
+
+123
+00:06:02,300 --> 00:06:04,700
+Poslao sam pismo sa porukom
+
+124
+00:06:05,000 --> 00:06:08,100
+"Zdravo! Vidim da ste izabrali
+lozinku mumble (mumlanje),
+
+125
+00:06:08,300 --> 00:06:10,500
+ili tako nešto. Šta mislite
+da uradite ono što sam ja uradio,
+
+126
+00:06:11,000 --> 00:06:13,000
+samo pritisnite Enter umesto lozinke.
+
+127
+00:06:13,000 --> 00:06:16,000
+Kraæe je i mnogo se lakše unosi".
+
+128
+00:06:16,500 --> 00:06:20,000
+Naravno, s tom porukom sam hteo
+
+129
+00:06:20,000 --> 00:06:23,500
+implicitno da im kažem da im je
+zaštita u stvari bila smešna.
+
+130
+00:06:23,800 --> 00:06:27,800
+Pokazao sam im kako sam otkrio lozinku.
+
+131
+00:06:28,300 --> 00:06:32,000
+Na kraju mi se pridružilo pet korisnika,
+od svih koji su koristili taj raèunar
+
+132
+00:06:32,100 --> 00:06:35,500
+i koristili su samo
+Enter kao svoju lozinku.
+
+133
+00:06:35,500 --> 00:06:38,600
+Kada je nastala ideja za nešto
+što danas nazivamo Open Source svet?
+
+134
+00:06:38,700 --> 00:06:40,700
+Kako je to sve poèelo?
+Ko je to zapoèeo?
+
+135
+00:06:40,800 --> 00:06:44,800
+Poèelo je samim poèetkom
+modernog raèunarstva. U to vreme
+
+136
+00:06:45,000 --> 00:06:47,900
+softver se razmenjivao
+samo izmeðu ljudi.
+
+137
+00:06:48,000 --> 00:06:52,900
+Mislim da je to trajalo do
+kasnih 70-tih ili ranih 80-tih.
+
+138
+00:06:53,500 --> 00:06:57,000
+Tada su ljudi poèeli
+da ogranièavaju svoj softver
+
+139
+00:06:57,000 --> 00:07:00,200
+govoreæi "Ne, ne možeš više nikad
+da vidiš izvorni kod mog softvera.
+
+140
+00:07:00,500 --> 00:07:03,800
+Ne možeš da menjaš moj softver,
+èak iako je neophodno
+
+141
+00:07:03,900 --> 00:07:06,800
+da ga nadogradiš i prilagodiš
+svojoj sopstvenoj aplikaciji"
+
+142
+00:07:07,500 --> 00:07:11,500
+Za takvo stanje je u stvari
+kriv Microsoft.
+
+143
+00:07:11,700 --> 00:07:15,700
+Oni su pravi zaèetnici takovog
+modela vlasnièkog softvera.
+
+144
+00:07:16,100 --> 00:07:18,300
+Sredinom 1970-tih, grupa hakera
+
+145
+00:07:18,400 --> 00:07:23,000
+ljubitelja raèunara u Silikonskoj dolini
+osnivaju "Raèunarski klub Homebrew".
+
+146
+00:07:23,500 --> 00:07:27,000
+31. januara 1976.
+u klub je stiglo pismo,
+
+147
+00:07:27,000 --> 00:07:29,700
+od Billa Gatesa, koji je
+nešto ranije osnovao Microsoft.
+
+148
+00:07:30,000 --> 00:07:31,500
+Bilo je to otvoreno pismo
+èitavoj raèunarskoj zajednici
+
+149
+00:07:32,000 --> 00:07:38,100
+gde je on, argumentujuæi taèku po taèku,
+razradio novi koncept vlasnièkog softvera.
+
+150
+00:07:38,300 --> 00:07:42,700
+Do tada, praksa korisnika raèunara
+bila je da slobodno razmenjuju softver
+
+151
+00:07:43,000 --> 00:07:45,500
+bez obraæanja pažnje
+na vlasništvo softvera.
+
+152
+00:07:46,000 --> 00:07:48,600
+U pismu poznatijem kao Otvoreno
+pismo hobistima, Gates piše:
+
+153
+00:07:49,000 --> 00:07:51,300
+"Za mene je najkritiènija
+stvar na hobi-tržištu
+
+154
+00:07:51,400 --> 00:07:54,400
+nedostatak dobrih kurseva o
+softveru, knjiga i samog softvera.
+
+155
+00:07:54,500 --> 00:07:57,600
+Bez dobrog softvera i vlasnika
+koji se razume u programiranje,
+
+156
+00:07:57,800 --> 00:07:59,800
+hobi raèunarstvo je beznaèajno.
+
+157
+00:07:59,800 --> 00:08:02,500
+Hoæe li kvalitetan softver biti
+napisan za hobi tržište?"
+
+158
+00:08:02,900 --> 00:08:05,400
+Gates dalje piše: "Povratne
+informacije koje smo dobili
+
+159
+00:08:05,400 --> 00:08:08,800
+od stotine ljudi koji kažu da
+koriste BASIC su pozitivne.
+
+160
+00:08:08,800 --> 00:08:11,000
+Ipak, dve stvari iznenaðuju.
+
+161
+00:08:11,000 --> 00:08:14,000
+Prvo, veæina tih "korisnika" nikada
+nije kupila BASIC, i
+
+162
+00:08:14,000 --> 00:08:17,000
+drugo, kada bi ukupnu svotu novca
+koji smo zaradili od Altair BASIC-a,
+
+163
+00:08:17,000 --> 00:08:21,000
+rasporedili, ispalo bi da smo
+radili za manje od 2 dolara po satu.
+
+164
+00:08:21,000 --> 00:08:22,200
+Zašto je to tako?
+
+165
+00:08:22,200 --> 00:08:24,700
+Kao predstavnici hobista
+morate da shvatite
+
+166
+00:08:24,700 --> 00:08:26,800
+da veæina hobista krade
+softver koji koristi.
+
+167
+00:08:26,800 --> 00:08:29,700
+Hardver mora da se plati,
+a softver je ono što se deli.
+
+168
+00:08:29,700 --> 00:08:32,000
+Koga interesuje da li su ljudi koji su
+napisali softver uopšte plaæeni za to?
+
+169
+00:08:32,000 --> 00:08:33,400
+Da li je to pošteno?
+
+170
+00:08:33,400 --> 00:08:35,500
+Jednu stvar ipak ne radite
+kraðom softvera,
+
+171
+00:08:35,500 --> 00:08:38,000
+ne javljate se MITS-u ukoliko
+imate neki problem sa softverom.
+
+172
+00:08:38,000 --> 00:08:40,100
+MITS ne zaraðuje prodajuæi softver.
+
+173
+00:08:40,100 --> 00:08:43,100
+Jedina stvar koju radite je to
+da speèavate pisanje dobrog softvera.
+
+174
+00:08:43,500 --> 00:08:45,800
+Ko može sebi da dozvoli
+da profesionalno radi za džabe?
+
+175
+00:08:46,100 --> 00:08:48,800
+Ko od vas hobista može da potroši
+tri godine na programiranje,
+
+176
+00:08:48,800 --> 00:08:52,400
+pronalaženje grešaka, dokumentovanje svog
+proizvoda i da ga besplatno distribuira?
+
+177
+00:08:52,400 --> 00:08:53,300
+Èinjenica je,
+
+178
+00:08:53,300 --> 00:08:56,900
+da niko pre nas nije uložio
+mnogo novca u hobi-softver.
+
+179
+00:08:56,900 --> 00:08:59,500
+Šta je sa onima koji
+preprodaju Altair BASIC?
+
+180
+00:08:59,500 --> 00:09:01,800
+Zar oni ne zaraðuju na hobi softveru?
+
+181
+00:09:01,800 --> 00:09:05,300
+Zaraðuju, ali oni koju budu prijavljeni,
+mogu na kraju sve da izgube.
+
+182
+00:09:05,300 --> 00:09:07,400
+Oni su doveli hobiste na loš glas,
+
+183
+00:09:07,400 --> 00:09:10,800
+i treba da budu izbaèeni iz
+klubova u kojima se pojave.
+
+184
+00:09:10,800 --> 00:09:13,700
+Poštovaæu pisma od svih vas
+koji plaæate svoj softver,
+
+185
+00:09:13,700 --> 00:09:15,500
+ili imate neke predloge
+ili komentare."
+
+186
+00:09:15,500 --> 00:09:19,500
+Potpisano sa Bill Gates,
+generalni direktor, Micro-Soft.
+
+187
+00:09:19,900 --> 00:09:23,600
+Krajem 70-tih i poèetkom 80-tih,
+Richard Stallman je
+
+188
+00:09:23,600 --> 00:09:26,900
+radio istraživanja na veštaèkoj
+inteligenciji i kodirao
+
+189
+00:09:26,900 --> 00:09:29,500
+u MIT laboratoriji
+za veštaèku inteligenciju.
+
+190
+00:09:29,500 --> 00:09:31,800
+Richard je imao nekoliko
+neprijatnih iskustava
+
+191
+00:09:31,800 --> 00:09:33,800
+tokom tog perioda,
+koja su mu zgadila
+
+192
+00:09:33,800 --> 00:09:35,900
+celu ideju oko
+komercijalnog softvera.
+
+193
+00:09:35,900 --> 00:09:37,500
+Na primer?
+
+194
+00:09:37,500 --> 00:09:41,500
+Neka kompanija je imala problema sa svojim
+softverom, nije mogla da nastavi sa radom.
+
+195
+00:09:42,200 --> 00:09:46,200
+On je tražio da mu daju programski kod
+kako bi mogao da ga popravi, ali nisu dali
+
+196
+00:09:46,900 --> 00:09:49,000
+iako bi od toga imali korist,
+jer bi nastavili sa radom.
+
+197
+00:09:49,000 --> 00:09:51,900
+To me je bacilo u moralnu dilemu.
+
+198
+00:09:52,000 --> 00:09:57,600
+U ranim 80-tim, da bi ste radili
+na nekom modernom raèunaru,
+
+199
+00:09:58,100 --> 00:10:00,900
+Morali ste da kupite legalan
+operativni sistem.
+
+200
+00:10:01,000 --> 00:10:03,900
+Ljudi koji su ga razvili nisu
+hteli da ga dele drugima.
+
+201
+00:10:04,000 --> 00:10:06,000
+Umesto toga, hteli su
+da kontrolišu korisnike,
+
+202
+00:10:06,100 --> 00:10:07,900
+da dominiraju nad njima,
+postavljaju zabrane.
+
+203
+00:10:08,400 --> 00:10:10,500
+Govorili su, ako želiš
+da dobiješ sistem,
+
+204
+00:10:10,600 --> 00:10:14,000
+moraš da obeæaš da ga
+neæeš davati nikom drugom.
+
+205
+00:10:14,100 --> 00:10:17,900
+Meni je to u stvari bilo kao
+da sam obeæao da æu biti loš èovek,
+
+206
+00:10:17,900 --> 00:10:19,600
+da æu da izdam ostatak sveta,
+
+207
+00:10:19,700 --> 00:10:23,600
+da izbacim sebe iz društva i
+iz kooperativne zajednice.
+
+208
+00:10:24,800 --> 00:10:28,800
+Veæ sam iskusio šta se dogaða
+kad su drugi to radili nama,
+
+209
+00:10:28,800 --> 00:10:30,300
+kada su odbili da dele sa nama,
+
+210
+00:10:30,400 --> 00:10:33,000
+zato što su potpisali ugovor.
+
+211
+00:10:33,100 --> 00:10:34,900
+To je povredilo sve u laboratoriji,
+
+212
+00:10:35,000 --> 00:10:37,700
+spreèilo nas je da
+radimo korisne stvari.
+
+213
+00:10:37,800 --> 00:10:40,100
+Zato ja to nisam hteo da uradim.
+
+214
+00:10:40,200 --> 00:10:44,200
+Mislio sam "To je pogrešno!
+Neæu tako da živim"
+
+215
+00:10:44,400 --> 00:10:48,400
+Zbog takvih iskustava je on
+razvio potpunu odbojnost
+
+216
+00:10:48,500 --> 00:10:51,100
+prema ideji o pravu na
+intelektualnu svojinu i softver.
+
+217
+00:10:51,200 --> 00:10:54,800
+To je glavni razlog zbog koga je
+osnovao Fondaciju za slobodan softver.
+
+218
+00:10:54,900 --> 00:10:59,400
+Pokušao sam da naðen još neku
+alternativu i shvatio:
+
+219
+00:10:59,500 --> 00:11:01,000
+Ja sam razvojni programer
+operativnog sistema.
+
+220
+00:11:01,100 --> 00:11:04,800
+Kada bih mogao da razvijem
+još jedan operativni sistem.
+
+221
+00:11:05,000 --> 00:11:08,600
+I tada bih, kao autor, podsticao
+sve da ga dele sa drugima.
+
+222
+00:11:08,700 --> 00:11:12,400
+Govorio bih svima "Doði i uzmi ga,
+koristi ga, organizuj novu zajednicu"
+
+223
+00:11:13,400 --> 00:11:17,700
+Ne samo da bih ja mogao
+da koristim raèunar
+
+224
+00:11:17,800 --> 00:11:21,000
+bez potrebe da izdam druge ljude,
+nego bih ga dao i drugima.
+
+225
+00:11:21,100 --> 00:11:24,000
+Svi bi smo našli izlaz
+iz te moralne dileme.
+
+226
+00:11:25,500 --> 00:11:28,800
+Tada je ta ideja postala
+moj životni cilj.
+
+227
+00:11:29,200 --> 00:11:33,200
+Pokrenuo sam projekat u januaru 1984.
+
+228
+00:11:33,300 --> 00:11:36,000
+To je bilo nakon što sam
+dao otkaz na MIT-u
+
+229
+00:11:36,100 --> 00:11:39,900
+kako bih mogao da zapoènem
+razvoj GNU operativnog sistema.
+
+230
+00:11:40,900 --> 00:11:44,200
+Sada æu da objasnim zašto je ime GNU hak.
+
+231
+00:11:44,400 --> 00:11:47,200
+To je u stvari rekurzivni akronim.
+
+232
+00:11:47,600 --> 00:11:50,600
+To u stvari znaèi "GNU Nije Unix".
+
+233
+00:11:50,700 --> 00:11:53,800
+Vidite da slovo "G" u "GNU"
+u stvari predstavlja to "GNU".
+
+234
+00:11:53,800 --> 00:11:55,900
+A šta to ime zapravo znaèi?
+
+235
+00:11:55,900 --> 00:12:00,400
+Razvijao sam sistem koji je bio
+slièan Unix operativnom sistemu,
+
+236
+00:12:00,400 --> 00:12:02,800
+ali to nije bio Unix operativni sistem.
+
+237
+00:12:02,800 --> 00:12:04,300
+Bio je to drugaèiji sistem.
+
+238
+00:12:04,300 --> 00:12:06,700
+Morali smo da ga kompletno
+napišemo od poèetka,
+
+239
+00:12:06,700 --> 00:12:08,600
+jer je Unix bio vlasnièki i zaštiæen.
+
+240
+00:12:08,700 --> 00:12:10,500
+Bilo nam je zabranjeno da delimo Unix.
+
+241
+00:12:10,600 --> 00:12:14,200
+Nismo mogli da ga koristimo.
+Bio je beskorisan za zajednicu.
+
+242
+00:12:14,300 --> 00:12:17,800
+Zato smo morali da napišemo
+zamenu za njega.
+
+243
+00:12:19,400 --> 00:12:20,600
+Tokom 80-tih,
+
+244
+00:12:20,700 --> 00:12:23,200
+dok je Richard Stallman
+radio na GNU projektu,
+
+245
+00:12:23,400 --> 00:12:26,800
+informatièari sa Univerziteta
+Berkeley iz Kalifornije
+
+246
+00:12:26,900 --> 00:12:29,200
+razvijali su svoj vlastiti
+slobodni operativni sistem.
+
+247
+00:12:29,500 --> 00:12:32,000
+Poznatiji kao Berkeley Unix, ili BSD,
+
+248
+00:12:32,100 --> 00:12:36,000
+bio je zasnovan na Unix kernel-u
+koji je bio pod licencom AT&T.
+
+249
+00:12:36,100 --> 00:12:40,800
+Ipak, zbog vlasnièkih problema sa AT&T
+i zbog rasparèanosti izvornog koda,
+
+250
+00:12:41,000 --> 00:12:44,600
+hakeri i ostali korisnici
+sporo su ga prihvatali.
+
+251
+00:12:44,800 --> 00:12:48,800
+Unix se sastoji od velikog
+broja odvojenih programa
+
+252
+00:12:49,200 --> 00:12:50,900
+koji meðusobno komuniciraju.
+
+253
+00:12:51,000 --> 00:12:53,900
+Samo smo trebali da zamenimo
+te programe jedan po jedan.
+
+254
+00:12:54,000 --> 00:12:57,700
+Tako sam ja poèeo da pišem
+zamenu za jedan program,
+
+255
+00:12:57,800 --> 00:12:59,600
+pa još jedan, i još jedan,
+
+256
+00:12:59,700 --> 00:13:01,400
+i onda su ljudi poèeli
+da mi se pridružuju,
+
+257
+00:13:01,500 --> 00:13:05,100
+jer sam objavio oglas u kojem sam
+pozivao ljude da mi se prikljuèe
+
+258
+00:13:05,200 --> 00:13:06,800
+da mi pomognu u pisanju tih programa.
+
+259
+00:13:07,100 --> 00:13:14,500
+I tako negde 1991., praktièno smo
+zamenili sve te programe.
+
+260
+00:13:15,000 --> 00:13:16,300
+Recite nam neke od programa koje ste...
+
+261
+00:13:16,400 --> 00:13:19,500
+Pa... trebali su nam...
+da bi imali kompletan sistem,
+
+262
+00:13:19,600 --> 00:13:23,200
+potrebno je imati kernel,
+a to je program koji
+
+263
+00:13:23,300 --> 00:13:26,100
+rasporeðuje resurse
+svim drugim programima,
+
+264
+00:13:26,300 --> 00:13:29,600
+potreban je kompajler,
+koji prevodi programski kod
+
+265
+00:13:29,700 --> 00:13:35,000
+iz èitljivog izvornog koda koji
+razumeju programeri, u brojeve,
+
+266
+00:13:35,100 --> 00:13:39,400
+misteriozne brojeve koje
+raèunar praktièno ume da izvršava.
+
+267
+00:13:39,500 --> 00:13:42,000
+Potrebni su i drugi programi koji
+dolaze uz kompajler i pomažu mu u poslu.
+
+268
+00:13:42,000 --> 00:13:43,100
+Potreban je i debugger.
+
+269
+00:13:43,200 --> 00:13:44,800
+Potreban je ureðivaè teksta,
+
+270
+00:13:44,900 --> 00:13:46,000
+pa neki program za
+formatiranje teksta.
+
+271
+00:13:46,100 --> 00:13:47,900
+Potrebni su programi za poštu...
+
+272
+00:13:48,000 --> 00:13:49,300
+potrebno je mnogo stvari.
+
+273
+00:13:49,400 --> 00:13:53,000
+Postoje stotine programa u
+operatvnom sistemu nalik Unixu.
+
+274
+00:13:53,400 --> 00:13:55,000
+Video sam Stallmanov oglas.
+
+275
+00:13:55,100 --> 00:13:58,400
+U stvari, sreo sam ga u februaru 1987.
+
+276
+00:13:58,500 --> 00:14:03,000
+Došao je da održi petodnevni
+kurs o Emacsu u našoj kompaniji.
+
+277
+00:14:03,100 --> 00:14:05,700
+Preko dana je objašnjavao
+
+278
+00:14:05,800 --> 00:14:07,900
+novi naèin razmišljanja o Emacsu,
+
+279
+00:14:08,000 --> 00:14:11,000
+naèine na koje možemo da ga proširimo,
+unapredimo i koristimo Emacsov izvorni kod
+
+280
+00:14:11,600 --> 00:14:12,900
+na jednostavniji ili teži naèin.
+
+281
+00:14:13,000 --> 00:14:16,200
+Ali uveèe, užurbano je radio
+na svom kompajleru,
+
+282
+00:14:16,300 --> 00:14:18,600
+koji tada još uvek nije
+bio predstavljen javnosti,
+
+283
+00:14:18,700 --> 00:14:22,300
+pa je Richard pazio
+
+284
+00:14:22,400 --> 00:14:24,800
+kome pokazuje izvorni kod.
+
+285
+00:14:24,900 --> 00:14:28,300
+Ali ja sam bio nestrpljiv,
+i kada ga je u junu objavio,
+
+286
+00:14:28,400 --> 00:14:30,000
+odmah sam ga preuzeo.
+
+287
+00:14:30,200 --> 00:14:31,600
+Igrao sam se s njim.
+
+288
+00:14:31,700 --> 00:14:33,900
+Promenio sam neke sitnice.
+
+289
+00:14:34,100 --> 00:14:35,700
+I kada sam mu nazad poslao izvorni kod,
+
+290
+00:14:35,800 --> 00:14:37,000
+bio je veoma iznenaðen,
+
+291
+00:14:37,100 --> 00:14:41,800
+kako sam u tako kratkom vremenu
+shvatio njegovu tehnologiju.
+
+292
+00:14:42,800 --> 00:14:46,800
+Šta god bi radili na Stanford-u
+ili na univerzitetu,
+
+293
+00:14:46,900 --> 00:14:48,700
+radili bi smo, obièno uvek
+
+294
+00:14:48,800 --> 00:14:52,700
+na raèunarima Digital Equipment
+ili Sun, uglavnom Sun.
+
+295
+00:14:52,900 --> 00:14:54,400
+Kad god bi smo dobili Sun raèunar,
+
+296
+00:14:54,600 --> 00:14:59,000
+prva stvar koju bi uradili je
+da smo provodili doslovno dane
+
+297
+00:14:59,100 --> 00:15:03,100
+preuzimajuæi GNU slobodan softver
+sa Interneta,
+
+298
+00:15:03,200 --> 00:15:05,600
+sklapali bi ga i instalirali
+na Sun raèunare.
+
+299
+00:15:05,800 --> 00:15:09,300
+Krucijalna stvar kod GNU-a
+je to što je on slobodan.
+
+300
+00:15:09,700 --> 00:15:13,200
+Naziv "Slobodan (free) softver" se
+ne odnosi na cenu nego na slobodu.
+
+301
+00:15:13,400 --> 00:15:15,700
+Misli se na slobodu govora,
+ne na besplatno pivo.
+
+302
+00:15:16,700 --> 00:15:19,000
+Sloboda o kojoj govorim
+
+303
+00:15:19,000 --> 00:15:22,000
+je sloboda da pravite izmene
+ako želite,
+
+304
+00:15:22,100 --> 00:15:24,800
+ili da zamolite nekoga
+da to uradi za vas
+
+305
+00:15:24,900 --> 00:15:27,000
+ako koristite softver u poslu,
+
+306
+00:15:27,100 --> 00:15:30,800
+da delite kopije sa drugima,
+
+307
+00:15:30,900 --> 00:15:34,000
+poboljšavate ga i objavljujete
+
+308
+00:15:34,100 --> 00:15:37,000
+tako da i drugi imaju koristi
+od tih poboljšanja.
+
+309
+00:15:37,100 --> 00:15:40,900
+To su slobode koje razlikuju
+Slobodan softver od neslobodnog.
+
+310
+00:15:41,200 --> 00:15:45,000
+To su slobode koje omoguæavaju
+ljudima da osnivaju zajednice.
+
+311
+00:15:45,100 --> 00:15:46,600
+Ako nemate sve te slobode,
+
+312
+00:15:46,600 --> 00:15:49,400
+podeljeni ste i neko
+drugi upravlja vama.
+
+313
+00:15:50,400 --> 00:15:53,500
+Moje prvo iskustvo
+u vezi slobodnog softvera
+
+314
+00:15:53,500 --> 00:15:57,500
+dogodilo se krajem 1989.,
+poèetkom 1990.
+
+315
+00:15:57,700 --> 00:16:00,700
+Radio sam kao apsolvent na
+Stanford Univerzitetu
+
+316
+00:16:00,900 --> 00:16:03,100
+na alatima za raèunarski podržan dizajn.
+
+317
+00:16:03,200 --> 00:16:05,300
+Jedan od alata koji mi je trebao
+
+318
+00:16:05,400 --> 00:16:07,000
+bio je takozvani parser generator.
+
+319
+00:16:07,300 --> 00:16:09,300
+A Fondacija za slobodan softver
+
+320
+00:16:09,400 --> 00:16:12,800
+predvoðena Richardom Stallmanom
+napravila je odlièan alat nazvan "bison".
+
+321
+00:16:13,000 --> 00:16:16,900
+Trebao mi je alat koji bi radio sa C++-om.
+Bison je radio sa C-om.
+
+322
+00:16:17,400 --> 00:16:20,600
+Izmenio sam bison i napravio nešto
+što sam nazvao "bison++".
+
+323
+00:16:20,700 --> 00:16:23,200
+Odlièan je oseæaj kada možeš
+
+324
+00:16:23,300 --> 00:16:26,400
+da uzmeš deo dostupnog softvera
+
+325
+00:16:26,500 --> 00:16:31,000
+i napraviš ono što ti treba,
+menjajuæi ga za kratko vreme.
+
+326
+00:16:31,200 --> 00:16:33,600
+Vratio sam ga nazad na Internet
+
+327
+00:16:33,700 --> 00:16:35,400
+i iznenadio se koliko ga je ljudi
+
+328
+00:16:35,500 --> 00:16:37,400
+preuzeo i poèeo da koristiti.
+
+329
+00:16:37,500 --> 00:16:41,500
+Seæam se kada sam išao
+na razgovore za posao.
+
+330
+00:16:41,800 --> 00:16:44,600
+Ponekad sam tražio nešto da radim,
+
+331
+00:16:44,800 --> 00:16:46,600
+pa sam išao na razgovore za posao.
+
+332
+00:16:46,700 --> 00:16:48,100
+I razgovaram ja tako sa jednim èovekom,
+
+333
+00:16:48,200 --> 00:16:51,000
+i pitam ga koji alat koriste,
+
+334
+00:16:51,100 --> 00:16:53,500
+a on kaže: "Koristimo bison++!"
+
+335
+00:16:53,600 --> 00:16:55,900
+a ja kažem, "Hej, ja sam autor bisona++!"
+
+336
+00:16:56,100 --> 00:17:00,600
+Slobodan softver generalno
+ima autorska prava.
+
+337
+00:17:00,700 --> 00:17:03,300
+Ima vlasnika.
+
+338
+00:17:03,400 --> 00:17:04,500
+Ima i licencu.
+
+339
+00:17:04,600 --> 00:17:06,400
+Nije u javnom vlasništvu (public domain).
+
+340
+00:17:06,500 --> 00:17:09,100
+Kada bi bio u javnom vlasništvu,
+
+341
+00:17:09,200 --> 00:17:12,400
+neko drugi bi mogao da napravi
+male izmene na njemu
+
+342
+00:17:12,500 --> 00:17:15,400
+i da ga stavi u
+vlasnièki softver,
+
+343
+00:17:15,500 --> 00:17:18,300
+što znaèi da bi korisnici
+koristili naš softver,
+
+344
+00:17:18,400 --> 00:17:21,300
+ali nebi imali slobodu
+da saraðuju i da ga menjaju.
+
+345
+00:17:22,000 --> 00:17:25,700
+Kao prevencija tome, mi
+koristimo tehniku nazvanu "Copyleft".
+
+346
+00:17:26,000 --> 00:17:29,200
+Ideja Copylefta je
+suprotnost Copyrightu.
+
+347
+00:17:30,000 --> 00:17:31,700
+Ono što mi u stvari radimo je da kažemo,
+
+348
+00:17:31,800 --> 00:17:33,700
+ovaj softver je zaštiæen
+
+349
+00:17:33,800 --> 00:17:38,100
+a mi, autori dozvoljavamo vam
+da delite kopije,
+
+350
+00:17:38,200 --> 00:17:39,700
+dozvoljavamo vam da ga menjate,
+
+351
+00:17:39,800 --> 00:17:41,400
+dozvoljavamo vam da ga nadograðujete.
+
+352
+00:17:41,500 --> 00:17:43,200
+Ali kada ga delite dalje,
+
+353
+00:17:43,300 --> 00:17:47,000
+mora da bude pod istim ovim uslovima,
+ni manje ni više.
+
+354
+00:17:47,100 --> 00:17:49,300
+Dakle, ko god ga dobije od vas
+
+355
+00:17:49,400 --> 00:17:54,700
+takoðe dobija i slobodu da saraðuje
+sa drugima, ako to želi.
+
+356
+00:17:54,800 --> 00:17:58,300
+I tada, na taj naèin,
+svuda gde ide softver,
+
+357
+00:17:58,400 --> 00:18:00,000
+ide i sloboda.
+
+358
+00:18:00,100 --> 00:18:02,400
+I to postaje neotuðivo pravo svakoga
+
+359
+00:18:03,500 --> 00:18:06,100
+da saraðuje sa drugima
+i osnuje zajednicu.
+
+360
+00:18:06,300 --> 00:18:09,600
+Šta je onda u stvari ta licenca?...
+
+361
+00:18:09,700 --> 00:18:11,700
+Pa, Copyleft je osnovna ideja,
+
+362
+00:18:11,800 --> 00:18:14,800
+ako želite da koristite program,
+morate da imate primerak licence.
+
+363
+00:18:14,900 --> 00:18:18,600
+Primerak licence koji koristimo
+za veæinu GNU softverskih paketa
+
+364
+00:18:18,700 --> 00:18:21,600
+je GNU Opšta Javna Licenca (GPL),
+
+365
+00:18:21,700 --> 00:18:25,700
+svojevrsni pravni dokument
+kojim su rešene sve pravne pojedinosti.
+
+366
+00:18:26,000 --> 00:18:28,700
+Dosta ljudi koristi istu tu licencu,
+na primer,
+
+367
+00:18:28,800 --> 00:18:32,200
+Linus Torvalds je koristi za Linux.
+
+368
+00:18:33,200 --> 00:18:36,700
+Licenca koju ja koristim je
+GNU Opšta Javna Licenca.
+
+369
+00:18:36,800 --> 00:18:38,700
+Istu onu koju je napisao
+Richard Stallman.
+
+370
+00:18:38,800 --> 00:18:42,700
+I mislim da je ona
+stvarno dosta doprinela.
+
+371
+00:18:42,800 --> 00:18:46,800
+Ona je jedna od nekoliko
+softverskih licenci koje su napisane
+
+372
+00:18:47,100 --> 00:18:50,500
+sa stanovišta zajednice
+
+373
+00:18:50,600 --> 00:18:54,400
+a ne sa stanovišta zaštite kompanije
+
+374
+00:18:54,500 --> 00:19:00,000
+kao što je bio sluèaj
+sa MIT-om i BSD licencom
+
+375
+00:19:00,200 --> 00:19:03,900
+koja je zastupala državne ciljeve.
+
+376
+00:19:04,000 --> 00:19:07,000
+Zato je OJL jedinstvena.
+
+377
+00:19:07,100 --> 00:19:10,500
+To nije samo licenca.
+To je èitava filozofija koja,
+
+378
+00:19:10,600 --> 00:19:13,600
+po mom mišljenju,
+motiviše ideju otvorenog koda.
+
+379
+00:19:13,700 --> 00:19:18,000
+Ne krijem da sam mnogo toga uradio
+zahvaljujuæi Stallmanu.
+
+380
+00:19:22,400 --> 00:19:26,400
+Krucijalni korak u razvoju GNU/Linuxa
+i pokreta za slobodan softver
+
+381
+00:19:26,500 --> 00:19:30,100
+je osnivanje poslovanja
+zasnovanog na softveru i filozofiji.
+
+382
+00:19:30,300 --> 00:19:32,800
+Zaèetnici te poslovne faze
+
+383
+00:19:32,900 --> 00:19:36,000
+bili su Electronics Research Lab
+na Stanford Univerzitetu.
+
+384
+00:19:36,300 --> 00:19:39,600
+Poznatija kao ERL, laboratorija
+je bila prvo mesto za posao
+
+385
+00:19:39,700 --> 00:19:42,000
+inspirisan GNU-om i Linuxom.
+
+386
+00:19:42,100 --> 00:19:44,100
+Upravo na ovom mestu je bio ERL.
+
+387
+00:19:44,600 --> 00:19:47,700
+Ulaz je bio tamo, pored
+
+388
+00:19:47,800 --> 00:19:50,100
+zgrade McCullough za elektrotehniku.
+
+389
+00:19:50,200 --> 00:19:54,000
+Kad bi ušli, došli bi ovde,
+išli bi hodnikom, baš ovde ispod.
+
+390
+00:19:55,000 --> 00:19:58,100
+Moja kancelarija je bila baš tu negde,
+
+391
+00:19:58,200 --> 00:20:01,500
+a sa desne strane hodnika
+bila je kancelarija Michaela Tiemanna.
+
+392
+00:20:02,200 --> 00:20:06,200
+Michael Tiemann osnovao je
+kompaniju Cygnus Software
+
+393
+00:20:06,200 --> 00:20:11,100
+koja se bavila podrškom oko
+GNU slobodnog softvera
+
+394
+00:20:11,100 --> 00:20:13,500
+i išlo mu je veoma dobro.
+
+395
+00:20:13,500 --> 00:20:17,500
+Proveo sam mnogo vremena razmišljajuæi,
+
+396
+00:20:17,500 --> 00:20:19,500
+na koji naèin da zaraðujemo novac
+
+397
+00:20:19,500 --> 00:20:21,500
+i u originalnom GNU manifestu
+
+398
+00:20:21,500 --> 00:20:24,500
+koji je zapravo zadnje poglavlje
+GNU Emacs priruènika,
+
+399
+00:20:24,500 --> 00:20:26,500
+Stallman je predložio dosta
+
+400
+00:20:26,500 --> 00:20:28,300
+naèina za zaraðivanje novca.
+
+401
+00:20:28,300 --> 00:20:30,300
+Od samog osnivanja
+Pokreta za slobodan softver
+
+402
+00:20:30,300 --> 00:20:31,500
+imao sam ideju kako
+
+403
+00:20:31,500 --> 00:20:33,500
+ukljuèiti biznis u sve to.
+
+404
+00:20:33,500 --> 00:20:36,200
+Jedna od prednosti
+slobodnog softvera je da postoji
+
+405
+00:20:36,200 --> 00:20:39,500
+slobodno tržište za
+bilo kakve servise i podršku.
+
+406
+00:20:39,500 --> 00:20:41,500
+Dakle, ako koristite
+softver za posao
+
+407
+00:20:41,500 --> 00:20:43,500
+i želite dobru podršku,
+
+408
+00:20:43,500 --> 00:20:46,500
+možete da birate od koga æete je dobiti,
+
+409
+00:20:46,500 --> 00:20:48,500
+imate moguænost da birate kompaniju
+
+410
+00:20:48,500 --> 00:20:51,500
+koja se bavi pružanjem podrške.
+
+411
+00:20:51,500 --> 00:20:53,500
+A oni su primorani
+da vam pruže dobru podršku
+
+412
+00:20:53,500 --> 00:20:56,500
+ili æete se u protivnom
+obratiti nekom drugom.
+
+413
+00:20:56,500 --> 00:20:58,500
+Kod vlasnièkog softvera,
+
+414
+00:20:58,800 --> 00:21:01,500
+podrška je monopol.
+Postoji samo jedna kompanija
+
+415
+00:21:01,500 --> 00:21:04,100
+koja ima izvorni kod softvera
+
+416
+00:21:04,100 --> 00:21:06,000
+i samo oni mogu da vam pruže podršku
+
+417
+00:21:06,600 --> 00:21:09,800
+tako da ste prepušteni
+na milost i nemilost monopolu.
+
+418
+00:21:09,800 --> 00:21:12,100
+Takav je sluèaj sa Microsoftom.
+
+419
+00:21:12,100 --> 00:21:15,400
+I nije èudno da im je podrška tako loša.
+
+420
+00:21:15,400 --> 00:21:17,000
+Korist od slobodnog softvera je
+
+421
+00:21:17,000 --> 00:21:19,700
+ogromna, ali cena davanja podrške
+
+422
+00:21:20,300 --> 00:21:22,300
+èini menadžere nervoznim.
+
+423
+00:21:22,300 --> 00:21:26,000
+Glavna ideja koju sam imao je
+da napravimo model
+
+424
+00:21:26,000 --> 00:21:30,000
+kojim bi pružali podršku
+dva do èetiri puta brže
+
+425
+00:21:30,000 --> 00:21:33,500
+sa moguænošæu da
+
+426
+00:21:33,500 --> 00:21:35,600
+i inženjer kompanije
+može da je pruža.
+
+427
+00:21:35,600 --> 00:21:38,600
+I to smo mogli da uèinimo
+za polovinnu do èetvrtine cene.
+
+428
+00:21:38,600 --> 00:21:40,800
+To bi bio test da li bi
+
+429
+00:21:40,800 --> 00:21:42,400
+ljudi stvarno kupovali.
+
+430
+00:21:42,400 --> 00:21:44,900
+I krajem te godine,
+
+431
+00:21:44,900 --> 00:21:46,800
+imali smo sve razraðeno oko toga
+
+432
+00:21:46,800 --> 00:21:48,400
+kome je trebao tehnièki tim,
+
+433
+00:21:48,400 --> 00:21:50,300
+koji su uslovi prodaje,
+
+434
+00:21:50,300 --> 00:21:52,100
+koja je osnovna cena, i
+
+435
+00:21:52,100 --> 00:21:56,100
+osnovali smo trgovaèko preduzeæe
+u novembru 1989.
+
+436
+00:21:56,700 --> 00:21:59,300
+Jedna od najtežih stvari prilikom
+osnivanja naše kompanije
+
+437
+00:21:59,300 --> 00:22:00,900
+bila je pronalaženje adekvatnog imena.
+
+438
+00:22:00,900 --> 00:22:03,500
+Objasnio sam to jednom mom prijatelju
+
+439
+00:22:03,500 --> 00:22:04,900
+"imamo nekih problema"
+
+440
+00:22:04,900 --> 00:22:07,400
+On mi je odgovorio e-porukom
+
+441
+00:22:07,400 --> 00:22:11,300
+koja je sadržala gomilu reèi
+koje su sadržale reè "GNU" u sebi.
+
+442
+00:22:11,300 --> 00:22:16,100
+"Cygnus" je bila jedna od njih
+i bila je najprihvatljivija.
+
+443
+00:22:16,600 --> 00:22:19,100
+Mogu reæi da je Cygnus bila
+
+444
+00:22:19,400 --> 00:22:23,100
+prva kompanija koja se
+specijalizovala za Slobodan softver.
+
+445
+00:22:23,300 --> 00:22:26,600
+Cygnus je davao
+podršku za slobodan softver,
+
+446
+00:22:26,600 --> 00:22:30,600
+popunjavajuæi vrlo bitnu prazninu
+jer smo imali odlièan softver,
+
+447
+00:22:30,600 --> 00:22:34,600
+koji ste mogli da dobijete besplatno, ali
+niste mogli da dobijete podršku,
+
+448
+00:22:34,800 --> 00:22:36,700
+oni su zaraðivali naplaæujuæi podršku.
+
+449
+00:22:36,700 --> 00:22:40,400
+GNU projekat je zapoèeo
+izradom korisnih alata,
+
+450
+00:22:40,400 --> 00:22:45,300
+osnovnih razvojnih alata kao što su
+C kompajler, debugger, ureðivaè teksta,
+
+451
+00:22:45,600 --> 00:22:49,000
+i ostali potrebni delovi.
+
+452
+00:22:49,000 --> 00:22:53,500
+A namera im je bila razvoj kernela
+koji bi upravljao svim tim alatima
+
+453
+00:22:53,700 --> 00:22:56,100
+i bio centar operativnog sistema.
+
+454
+00:22:56,100 --> 00:22:59,900
+Negde 1990. oni su uspešno
+razvili taj alat,
+
+455
+00:22:59,900 --> 00:23:03,900
+i bio je u širokoj primeni
+u mnogim varijantama Unixa.
+
+456
+00:23:04,000 --> 00:23:06,600
+Ali slobodan kernel još nije postojao.
+
+457
+00:23:06,600 --> 00:23:10,600
+Kernel je bio jedna od poslednjih
+stvari koju smo zapoèeli
+
+458
+00:23:10,900 --> 00:23:12,900
+a zapoèeli smo ga ne tako davno.
+
+459
+00:23:13,900 --> 00:23:16,900
+I onda se pojavio Linus Torvalds.
+
+460
+00:23:16,900 --> 00:23:20,200
+"Lin-us" ili "Line-us"? Šta je ispravno,
+kako volite da vas ljudi zovu?
+
+461
+00:23:20,500 --> 00:23:23,100
+Kada govorim švedski onda je "Lee-nus";
+
+462
+00:23:23,100 --> 00:23:25,500
+kada govorim finski onda je "Leen-ous";
+
+463
+00:23:25,500 --> 00:23:27,300
+a kada govorim engleski onda je "Line-us".
+
+464
+00:23:27,300 --> 00:23:30,100
+U stvari, uopšte nije važno
+kako ljudi izgovaraju moje ime.
+
+465
+00:23:30,100 --> 00:23:32,900
+Ali "Linux" je uvek "Linux".
+
+466
+00:23:32,900 --> 00:23:37,300
+On je razvio kernel,
+i njegov je proradio pre našeg,
+
+467
+00:23:37,900 --> 00:23:40,400
+i radio je vrlo dobro.
+
+468
+00:23:40,400 --> 00:23:42,300
+Njegov kernel je nazvan "Linux".
+
+469
+00:23:42,800 --> 00:23:46,000
+Glavni cilj je u stvari bio moj lièni cilj
+
+470
+00:23:46,000 --> 00:23:49,600
+da na svom raèunaru
+imam slièno okruženje
+
+471
+00:23:50,000 --> 00:23:53,800
+koje sam naveliko koristio
+na univerzitetskom raèunaru.
+
+472
+00:23:54,400 --> 00:23:59,800
+Nisam mogao da naðem ništa
+što bi moglo da zadovolji moje potrebe.
+
+473
+00:24:00,200 --> 00:24:03,900
+Bavio sam se raèunarima èitav svoj život.
+
+474
+00:24:03,900 --> 00:24:07,000
+Tada sam odluèio da napravim svoj kernel.
+
+475
+00:24:07,500 --> 00:24:11,500
+Inspiraciju sam dobio od SunOS-a
+
+476
+00:24:12,100 --> 00:24:16,400
+koji sam tada koristio na univerzitetu.
+
+477
+00:24:16,400 --> 00:24:17,500
+Na kom univerzitetu?
+
+478
+00:24:17,500 --> 00:24:19,200
+Helsinškom univerzitetu u Finskoj.
+
+479
+00:24:20,100 --> 00:24:24,600
+Period od 1991 do od prilike 1993 bio je
+
+480
+00:24:24,900 --> 00:24:27,200
+pravi poèetak razvoja Linuxa.
+
+481
+00:24:27,200 --> 00:24:30,900
+Bilo je to kada je
+još uvek imao probni kvalitet;
+
+482
+00:24:30,900 --> 00:24:33,300
+bio relativno nestabilan.
+
+483
+00:24:33,300 --> 00:24:36,100
+I pored toga, bio je stabilniji
+
+484
+00:24:36,100 --> 00:24:40,100
+od mnogih koje danas nazivamo
+"produktivnim" operativnim sistemima.
+
+485
+00:24:40,100 --> 00:24:44,100
+Linus je koristio tradicionalni
+"probaj i saznaj" metod pisanja programa
+
+486
+00:24:45,000 --> 00:24:47,000
+koji završava posao,
+
+487
+00:24:47,200 --> 00:24:49,300
+i uspeo je da proradi.
+
+488
+00:24:49,300 --> 00:24:53,000
+Brzo, pa èak i brže nego što sam
+mislio da je to moguæe.
+
+489
+00:24:53,000 --> 00:24:56,000
+Termin za to je "monolitan",
+
+490
+00:24:56,000 --> 00:25:03,900
+što u stvari znaèi da je OS
+jedan nedeljivi entitet.
+
+491
+00:25:05,600 --> 00:25:07,900
+Dok je u mikrokernelu,
+
+492
+00:25:07,900 --> 00:25:10,400
+kernel operativnog sistema
+
+493
+00:25:12,100 --> 00:25:15,200
+je u stvari skup servisa
+
+494
+00:25:15,200 --> 00:25:18,000
+koji rade razlièite stvari
+po usklaðenom protokolu
+
+495
+00:25:18,000 --> 00:25:20,200
+i na taj naèin komuniciraju meðusobno.
+
+496
+00:25:20,700 --> 00:25:26,300
+Zašto se GNU projekat mnogo produžio,
+
+497
+00:25:26,300 --> 00:25:29,600
+zašto je na kraju došao
+u delovima a ne u celini?
+
+498
+00:25:29,600 --> 00:25:35,300
+GNU Hurd smo zapoèeli ne mnogo pre
+nego što je Linus zapoèeo svoj Linux.
+
+499
+00:25:36,200 --> 00:25:40,200
+I odluèili smo da napravimo
+veoma napredan dizajn
+
+500
+00:25:40,800 --> 00:25:42,800
+u smislu dobijenih moguænosti
+
+501
+00:25:42,800 --> 00:25:45,400
+ali je ispalo da je bilo
+veoma teško da se debaguje.
+
+502
+00:25:46,100 --> 00:25:51,800
+Odluèili smo da podelimo kernel
+koji je sve do tada bio jedan program,
+
+503
+00:25:51,800 --> 00:25:54,100
+da ga podelimo na manje programe
+
+504
+00:25:54,100 --> 00:25:58,100
+koji bi asinhrono komunicirali,
+pomoæu poruka.
+
+505
+00:26:00,100 --> 00:26:04,000
+Problem je bio u tome
+što takav naèin programiranja
+
+506
+00:26:04,000 --> 00:26:06,300
+stvara puno grešaka,
+
+507
+00:26:06,300 --> 00:26:09,200
+koje je vrlo teško otkriti
+jer zavise od toga...
+
+508
+00:26:09,200 --> 00:26:16,600
+da li je ovaj program poslao ovu poruku
+pre ili pošto je onaj program poslao onu poruku...
+
+509
+00:26:16,800 --> 00:26:21,800
+Rezultat je bio:
+trebale su nam godine da sve to proradi.
+
+510
+00:26:22,800 --> 00:26:26,200
+Kakva je veza Linuxa sa GNU projektom?
+
+511
+00:26:27,200 --> 00:26:33,600
+Veza sa GNUom se zasniva na više nivoa.
+
+512
+00:26:34,100 --> 00:26:38,100
+Jedan je filozofski stav koji kaže
+
+513
+00:26:38,700 --> 00:26:41,200
+"uèiniti svoj izvorni kod slobodnim
+je dobra ideja".
+
+514
+00:26:41,800 --> 00:26:45,800
+Kada je Linus razvijao kernel
+nije ga razvijao za GNU projekat.
+
+515
+00:26:45,800 --> 00:26:47,300
+Radio je to nezavisno.
+
+516
+00:26:47,300 --> 00:26:50,700
+I objavio ga je nezavisno
+i mi nismo uopšte znali za to.
+
+517
+00:26:50,700 --> 00:26:53,000
+Ali neki ljudi koji su znali za to
+
+518
+00:26:53,000 --> 00:26:55,500
+odluèili su da vide
+šta sve mogu da pronaðu
+
+519
+00:26:55,500 --> 00:26:58,800
+kako bi spojili sa kernelom
+i napravili èitav sistem.
+
+520
+00:26:58,800 --> 00:27:02,800
+I tako su "njuškali" okolo.
+
+521
+00:27:03,000 --> 00:27:04,000
+i sve što im je trebalo
+veæ je bilo dostupno.
+
+522
+00:27:04,300 --> 00:27:06,100
+Pomislili su: "Imamo sreæe!".
+
+523
+00:27:06,100 --> 00:27:08,400
+A stvar nije bila tako jednostavna.
+
+524
+00:27:08,400 --> 00:27:12,400
+Oni su pronašli sve delove GNU sistema
+kojima je nedostajao samo kernel,
+
+525
+00:27:13,200 --> 00:27:15,100
+i kada su to sve spojili,
+
+526
+00:27:15,100 --> 00:27:19,100
+u stvari su Linuxom
+popunili rupu u GNU sistemu.
+
+527
+00:27:19,700 --> 00:27:20,900
+Ali oni to nisu znali.
+
+528
+00:27:21,300 --> 00:27:25,300
+Bilo je tu mnogo programa
+
+529
+00:27:26,000 --> 00:27:29,100
+razvijenih od strane
+Fondacije za slobodan softver,
+
+530
+00:27:29,100 --> 00:27:31,300
+i od drugih kojima se svideo Linux.
+
+531
+00:27:31,300 --> 00:27:35,300
+I tu je bila simbioza izmeðu
+Linuxa i programa.
+
+532
+00:27:35,400 --> 00:27:39,200
+Ti programi se na Linuxu
+izvršavaju istovremeno
+
+533
+00:27:39,200 --> 00:27:41,600
+i koriste prednost Linuxa kao platformu,
+
+534
+00:27:41,600 --> 00:27:45,200
+dok Linux koristi prednosti programa
+
+535
+00:27:45,200 --> 00:27:47,200
+samim tim što može da ih koristi.
+
+536
+00:27:47,200 --> 00:27:48,800
+O kojim programima je reè?
+
+537
+00:27:50,600 --> 00:27:53,600
+Glavni program je GNU C kompajler.
+
+538
+00:27:54,200 --> 00:27:57,800
+Bez C kompajlera nebi bilo moguæe
+
+539
+00:27:57,800 --> 00:28:04,000
+uèiniti Linux ili veæinu
+otvorenog napretka moguæim.
+
+540
+00:28:05,000 --> 00:28:07,200
+Linux koristi OJL,
+
+541
+00:28:07,200 --> 00:28:11,900
+i ja se slažem sa celom tom
+filozofijom koja stoji iza OJL.
+
+542
+00:28:13,000 --> 00:28:17,700
+OJL nije nešto naroèito prijatan dokument
+
+543
+00:28:17,700 --> 00:28:22,300
+ali je to tako zato što nijedan pravni akt
+ne može da bude posebno prijatan.
+
+544
+00:28:28,300 --> 00:28:32,300
+Koristio sam Linux
+
+545
+00:28:32,500 --> 00:28:35,800
+od negde kraja 92. ili poèetka 93.
+nekih godinu dana.
+
+546
+00:28:35,800 --> 00:28:40,400
+Pre nego što sam shvatio da
+u stvari imam sve što mi je potrebno
+
+547
+00:28:40,700 --> 00:28:42,800
+da potpuno zamenim Sun radnu stanicu.
+
+548
+00:28:42,800 --> 00:28:46,800
+Tražio sam naèin kako da imam
+Unix radnu stanicu kod kuæe
+
+549
+00:28:46,900 --> 00:28:50,900
+u vreme kada smo radili na Sun Spark
+stanicama na Stanfordu.
+
+550
+00:28:52,400 --> 00:28:54,900
+Te mašine su koštale oko 7.000 dolara.
+
+551
+00:28:54,900 --> 00:28:57,400
+Oèajnièki sam želeo da imam
+Unix mašinu kod kuæe!
+
+552
+00:28:57,400 --> 00:29:00,100
+Kao apsolventi smo mislili
+
+553
+00:29:00,100 --> 00:29:01,400
+"Eh, kad bih mogao da radim kod kuæe,
+
+554
+00:29:01,400 --> 00:29:03,300
+bio bih mnogo produktivniji,
+
+555
+00:29:03,300 --> 00:29:06,400
+pre bih diplomirao zato što bih
+pre napisao diplomski rad"
+
+556
+00:29:07,000 --> 00:29:10,500
+Da li je to taèno? Ocenite sami.
+
+557
+00:29:10,500 --> 00:29:14,300
+Znate mnogo ljudi koji troši svoje vreme
+
+558
+00:29:14,300 --> 00:29:15,800
+kako bi bili što produktivniji
+
+559
+00:29:15,800 --> 00:29:19,000
+mogu da završe svoj rad za jedan dan.
+
+560
+00:29:19,000 --> 00:29:20,700
+Ponekad je potrebno više vremena.
+
+561
+00:29:20,700 --> 00:29:23,000
+I tako sam odluèio da
+želim Unix raèunar kod kuæe.
+
+562
+00:29:23,000 --> 00:29:27,000
+Saznao sam da mogu da koristim
+PC u kombinaciji sa Linuxom.
+
+563
+00:29:27,200 --> 00:29:31,000
+Za oko 2.000 dolara,
+sastavio sam sistem
+
+564
+00:29:31,000 --> 00:29:33,900
+koji je bio 1,5 do 2 puta brži
+
+565
+00:29:33,900 --> 00:29:36,600
+od Sun Sparc stanica
+koje su koštale 7.000 dolara.
+
+566
+00:29:36,600 --> 00:29:38,300
+To je jednostavno bilo zapanjujuæe.
+
+567
+00:29:38,300 --> 00:29:41,300
+Imao sam skoro duplo brži raèunar,
+
+568
+00:29:41,300 --> 00:29:44,000
+za treæinu ili èetvrtinu cene.
+
+569
+00:29:44,000 --> 00:29:45,300
+Sinula mi je odlièna ideja.
+
+570
+00:29:45,300 --> 00:29:47,500
+Znao sam da ovde postoji
+mnogo moguænosti.
+
+571
+00:29:47,500 --> 00:29:51,500
+Bila je to prilika da se stvarno uradi
+nešto bolje nego što je Sun uradio,
+
+572
+00:29:51,600 --> 00:29:54,200
+a sve uz pomoæ
+otvorenog koda i Linuxa.
+
+573
+00:29:54,600 --> 00:29:57,800
+Linux je bio originalni radni naziv.
+
+574
+00:29:57,800 --> 00:30:01,300
+"Linus" je zbog mog imena,
+
+575
+00:30:01,300 --> 00:30:02,500
+a "X" je jednostavno
+morao da bude dodat.
+
+576
+00:30:02,500 --> 00:30:04,600
+To je zbog Unixa.
+To mora da bude tako.
+
+577
+00:30:05,900 --> 00:30:08,500
+I... šta se to u stvari dogodilo...
+
+578
+00:30:08,500 --> 00:30:12,300
+Mislio sam da je previše egoistièno
+
+579
+00:30:12,300 --> 00:30:14,600
+da ga za javnost nazovem po sebi.
+
+580
+00:30:14,600 --> 00:30:16,900
+Ali to je bilo
+pre nego što sam postao egoista.
+
+581
+00:30:16,900 --> 00:30:21,200
+Pomislili su da su stavili mnogo
+komponenti oko Linux-a
+
+582
+00:30:21,900 --> 00:30:24,900
+pa su ga zato nazvali
+"Linux Sistem"
+
+583
+00:30:25,500 --> 00:30:27,600
+i nekako se taj termin odomaæio.
+
+584
+00:30:27,600 --> 00:30:29,100
+A rezultati su ti
+
+585
+00:30:29,100 --> 00:30:33,100
+da sada 10 miliona ljudi koristi
+
+586
+00:30:33,100 --> 00:30:34,600
+tu varijantu GNU sistema...
+
+587
+00:30:34,600 --> 00:30:36,900
+GNU/Linux operativni sistem.
+
+588
+00:30:37,300 --> 00:30:39,000
+A veæina njih to uopšte i nezna.
+
+589
+00:30:39,300 --> 00:30:43,300
+Neki propagiraju da se naziva GNU/Linux.
+
+590
+00:30:43,700 --> 00:30:46,800
+Šta vi mislite o tome?
+Odobravate li to ili ne...
+
+591
+00:30:46,800 --> 00:30:52,100
+Opravdano je ako napravite
+GNU distribuciju Linuxa.
+
+592
+00:30:52,500 --> 00:30:59,600
+Recimo nešto kao Red Hat Linux,
+ili SuSE Linux, ili Debian Linux.
+
+593
+00:31:00,500 --> 00:31:03,500
+Zato što ako napravite svoju
+distribuciju Linuxa
+
+594
+00:31:03,500 --> 00:31:05,300
+morate nekako da je nazovete.
+
+595
+00:31:05,400 --> 00:31:09,400
+Ali Linux uopšteno nazivati "GNU Linux"
+mislim da je neumesno.
+
+596
+00:31:11,300 --> 00:31:13,100
+Uèestvovao sam na Fall '93.
+
+597
+00:31:13,600 --> 00:31:19,600
+Zato što sam poslao kopiju prvog CD-ROM-a
+komercijalne Linux distribucije,
+
+598
+00:31:19,600 --> 00:31:23,000
+koja se zvala Yggdrasi,
+proizvoðaèa Adama Richtera.
+
+599
+00:31:23,400 --> 00:31:25,100
+A dobio sam kopiju...
+
+600
+00:31:25,100 --> 00:31:29,000
+jer samostalno pišem slobodan softver
+dugo vremena, još od ranih 80-tih.
+
+601
+00:31:29,000 --> 00:31:31,600
+Bio sam u stvari jedan
+od prvih GNU prilagaèa.
+
+602
+00:31:32,400 --> 00:31:34,300
+I bio sam zaèuðen,
+
+603
+00:31:34,300 --> 00:31:35,800
+bio sam potpuno zaèuðen.
+
+604
+00:31:35,800 --> 00:31:39,800
+Zato što sam bio softverski
+inženjer skoro 15 godina.
+
+605
+00:31:40,500 --> 00:31:42,700
+Radio sam u skladu sa svim
+pravilima za koje sam znao
+
+606
+00:31:42,700 --> 00:31:46,400
+kao npr. kontrolisanje složenosti,
+održavanje male projektne grupe,
+
+607
+00:31:46,400 --> 00:31:49,200
+pažljivo sam upravljao ciljevima.
+
+608
+00:31:49,200 --> 00:31:51,500
+Linux je trebao da propadne,
+ali nije.
+
+609
+00:31:51,500 --> 00:31:53,600
+Umesto topa, bio je nešto prelepo,
+
+610
+00:31:53,600 --> 00:31:56,900
+i pokušavao sam da shvatim
+kako su to uspeli.
+
+611
+00:31:59,000 --> 00:32:02,400
+Linuxu je za širenje po svetu
+raèunarskih programera
+
+612
+00:32:02,400 --> 00:32:06,400
+bila potrebna aplikacija koja bi ga
+uèinila neophodnom tehnologijom
+
+613
+00:32:07,100 --> 00:32:08,400
+No i to je rešeno
+
+614
+00:32:08,400 --> 00:32:12,200
+sa razvojem programa koji
+omoguæava složene web prezentacije
+
+615
+00:32:12,700 --> 00:32:15,100
+Taj program je Apache web server.
+
+616
+00:32:15,800 --> 00:32:19,100
+"Najjaèa" aplikacija Linuxa
+nesumljivo je bio Apache web server.
+
+617
+00:32:19,700 --> 00:32:21,600
+Ako prouèite istoriju Linuxa,
+
+618
+00:32:21,600 --> 00:32:26,100
+razvojna kriva Linuxa i
+razvojna kriva Interneta
+
+619
+00:32:26,100 --> 00:32:27,600
+slede jedna drugu.
+
+620
+00:32:27,600 --> 00:32:32,600
+Apache web server projekat
+zapoèet je 1993.
+
+621
+00:32:32,600 --> 00:32:36,200
+Tada su bili i poèetci
+ISP popularizacije
+
+622
+00:32:36,200 --> 00:32:40,000
+kada je Internet prvo postao
+globalna potreba
+
+623
+00:32:40,000 --> 00:32:42,400
+i kada se pojavila ideja
+o Internet poslovanju
+
+624
+00:32:42,400 --> 00:32:44,800
+a i masovna komunikacija
+je postala moguæa.
+
+625
+00:32:45,400 --> 00:32:48,600
+Mislim da je to bila prva aplikacija
+koja je ljude navela na razmišljanje
+
+626
+00:32:48,600 --> 00:32:50,500
+"Ako instaliram Linux
+
+627
+00:32:50,500 --> 00:32:53,500
+imaæu koristi od njega."
+
+628
+00:32:54,000 --> 00:32:57,300
+Bilo je stvarno zanimljivih
+aplikacija na Linuxu.
+
+629
+00:32:57,300 --> 00:32:59,200
+Dve ili tri godine pre toga,
+
+630
+00:32:59,200 --> 00:33:01,100
+kada je sve poèelo,
+
+631
+00:33:01,100 --> 00:33:03,800
+nije bilo prave aplikacije,
+
+632
+00:33:03,800 --> 00:33:05,100
+u poslovnom smislu,
+
+633
+00:33:05,100 --> 00:33:08,000
+za one koji koriste Linux umesto NT-a,
+
+634
+00:33:08,000 --> 00:33:11,300
+sve dok se nije pojavo Apache i
+dodatci koji su ubaèani u Apache
+
+635
+00:33:11,300 --> 00:33:12,800
+unapredili Apache.
+
+636
+00:33:12,800 --> 00:33:15,800
+I ako želite dobro da poslujete,
+izgradite serversku "farmu".
+
+637
+00:33:16,300 --> 00:33:18,100
+Mnogo je isplativije.
+
+638
+00:33:18,100 --> 00:33:18,700
+Isplativije je
+
+639
+00:33:18,700 --> 00:33:23,600
+zasnovati je na Linuxu i Apacheu
+nego na IIS-u i NT-u
+
+640
+00:33:23,600 --> 00:33:26,000
+pa èak i ako treba
+da potrošite više novca
+
+641
+00:33:26,000 --> 00:33:27,600
+na obuku zaposlenih kako da se služi time
+
+642
+00:33:27,600 --> 00:33:29,300
+ili da naðete školovane ljude.
+
+643
+00:33:29,300 --> 00:33:30,400
+No, stvarno dobra stvar je u tome
+
+644
+00:33:30,400 --> 00:33:32,100
+što to znanje nije mnogo skupo
+
+645
+00:33:32,100 --> 00:33:33,800
+jer postoji mnogo studenata
+
+646
+00:33:33,800 --> 00:33:37,200
+koji dugo koriste Linux
+i vrlo dobro baratuju njim.
+
+647
+00:33:37,200 --> 00:33:40,400
+Ako pogledate trendovske krive web servera
+
+648
+00:33:40,400 --> 00:33:44,100
+Apache je najzastupljeniji na tržištu,
+
+649
+00:33:44,100 --> 00:33:46,600
+i sa oko 66%
+
+650
+00:33:46,600 --> 00:33:49,800
+ruši sve pred sobom.
+
+651
+00:33:49,800 --> 00:33:54,200
+A to je posledica njegove pouzdanosti,
+fleksibilnosti i proširivosti.
+
+652
+00:33:54,200 --> 00:33:57,500
+On radi sve ono što je
+webmasterima potrebno.
+
+653
+00:33:57,700 --> 00:34:00,500
+Kombinacija Apachea i Linuxa
+
+654
+00:34:00,500 --> 00:34:02,800
+pronašla je svoj put do prodavnica.
+
+655
+00:34:03,700 --> 00:34:08,300
+U osnovi, Apache je postao aplikacija koja
+motiviše dobavljaèe Internet usluga
+
+656
+00:34:08,300 --> 00:34:12,300
+i kompanije koje se bave e-poslovanjem
+da izaberu Linux umesto Microsoft Widowsa.
+
+657
+00:34:13,500 --> 00:34:16,600
+Verovatno se najbolje "vrti" na
+Linuxu i na FreeBSDu,
+
+658
+00:34:16,600 --> 00:34:20,200
+a razlog tome su zajednice
+tih operativnih sistema,
+
+659
+00:34:20,200 --> 00:34:24,600
+koje uèestvuju u razvoju Apachea.
+
+660
+00:34:24,600 --> 00:34:28,600
+Ove operativne sisteme
+dobavljaèi Internet usluga
+
+661
+00:34:28,600 --> 00:34:30,400
+sve èešæe prihvataju,
+
+662
+00:34:31,000 --> 00:34:33,900
+a opredeljuju se i za Apache
+
+663
+00:34:33,900 --> 00:34:35,300
+jer im dozvoljava da rade
+
+664
+00:34:35,300 --> 00:34:38,600
+mnoge stvari koje im komercijalni
+web serveri ne dozvoljavaju,
+
+665
+00:34:38,600 --> 00:34:42,600
+kao što je moguænost hostovanja
+više web strana na jednoj mašini,
+
+666
+00:34:42,700 --> 00:34:45,300
+što je, ako ste ISP
+i imate 40.000 korisnika
+
+667
+00:34:45,300 --> 00:34:46,500
+i svi žele svoju liènu web stranu,
+
+668
+00:34:46,500 --> 00:34:48,100
+veoma bitno za vas.
+
+669
+00:34:49,400 --> 00:34:51,700
+Jedan od kljuènih faktora
+širenja Linuxa
+
+670
+00:34:51,700 --> 00:34:54,500
+bio je nastanak kompanija koje
+su se specijalizovale za distribuciju
+
+671
+00:34:54,500 --> 00:34:56,600
+i podršku za sam Operativni sistem.
+
+672
+00:34:56,800 --> 00:35:00,200
+Najpoznatija od tih kompanija
+je Red Hat Sofrware.
+
+673
+00:35:00,200 --> 00:35:03,600
+Red Hat je zapoèeo Marc Ewing
+
+674
+00:35:03,600 --> 00:35:05,200
+dok je radio u IBM-u.
+
+675
+00:35:05,200 --> 00:35:07,200
+Želeo je bolju distribuciju Linuxa,
+
+676
+00:35:07,200 --> 00:35:08,600
+pa je poèeo da radi na tome.
+
+677
+00:35:08,600 --> 00:35:12,600
+Shvatio je da je više vremena proveo na
+održavanju njegove Linux distribucije
+
+678
+00:35:12,800 --> 00:35:15,800
+nego što je radio na svom novom projektu.
+
+679
+00:35:15,800 --> 00:35:19,500
+Tako je zapoèeo razvoj svoje distribucije.
+
+680
+00:35:19,500 --> 00:35:21,100
+Sreo se sa Bob Youngom,
+
+681
+00:35:21,100 --> 00:35:24,000
+koji je tada vodio kompaniju
+ACC Bookstore
+
+682
+00:35:24,000 --> 00:35:27,400
+koja se bavila Internet prodajom
+PC-a sa Unix-om.
+
+683
+00:35:27,400 --> 00:35:29,300
+Bob je želeo i nešto što bi bio
+
+684
+00:35:29,300 --> 00:35:31,400
+njegov lièni proizvod,
+
+685
+00:35:31,400 --> 00:35:33,800
+a ne samo da preprodaje tuðe proizvode.
+
+686
+00:35:33,800 --> 00:35:36,900
+Bio je istinski dobar trgovac.
+
+687
+00:35:36,900 --> 00:35:38,300
+Mark je znao da mu je potrebna
+pomoæ u marketinškom nastupu
+
+688
+00:35:38,300 --> 00:35:41,300
+jer je on bio dobar s tehnièke strane,
+i tako su poèeli da saraðuju.
+
+689
+00:35:41,300 --> 00:35:45,600
+Poèeo sam da radim sa
+Rad Hat-om u maju 1995.
+
+690
+00:35:45,600 --> 00:35:50,600
+zajedno sa Ericom Troanom, ja i on
+smo doveli još dva èoveka.
+
+691
+00:35:51,500 --> 00:35:55,500
+Dolazili smo na posao u stan
+u kome je živeo Mark Ewing.
+
+692
+00:35:56,800 --> 00:36:00,700
+Radili smo na razvoju
+jednog dela Red Hat-a.
+
+693
+00:36:00,700 --> 00:36:04,600
+U tom stanu smo bili
+do novembra 1995. kada...
+
+694
+00:36:04,800 --> 00:36:07,400
+je neka cev u WC-u pukla
+
+695
+00:36:07,400 --> 00:36:08,800
+i polavila stan komšinice
+koja je živela ispod nas
+
+696
+00:36:08,800 --> 00:36:11,900
+i ona se malo uplašila...
+
+697
+00:36:11,900 --> 00:36:14,100
+i komšije su saznale da u
+stanu u stvari imamo firmu
+
+698
+00:36:14,100 --> 00:36:16,200
+a ne da živimo u stanu.
+
+699
+00:36:16,200 --> 00:36:17,600
+Odluèili su da nas izbace napolje.
+
+700
+00:36:17,600 --> 00:36:19,800
+Trebalo nam je nedelju dana da naðemo
+
+701
+00:36:19,800 --> 00:36:22,100
+našu prvu kancelariju, što smo i uradili
+
+702
+00:36:22,100 --> 00:36:24,100
+pa smo se preselili na brzinu.
+
+703
+00:36:26,000 --> 00:36:32,074
+ÐŸÐ¾Ð´Ñ€Ð¶Ð¸Ñ‚Ðµ Ð½Ð°Ñ Ð¸ Ð¿Ð¾ÑÑ‚Ð°Ð½Ð¸Ñ‚Ðµ VIP Ñ‡Ð»Ð°Ð½ Ð´Ð° Ð±Ð¸ÑÑ‚Ðµ ÑƒÐºÐ»Ð¾Ð½Ð¸Ð»Ð¸ ÑÐ²Ðµ Ð¾Ð³Ð»Ð°ÑÐµ ÑÐ° www.OpenSubtitles.org
+
+704
+00:36:34,600 --> 00:36:39,600
+Ponovo smo poèeli 1995.
+traženjem vodeæih firmi,
+
+705
+00:36:39,600 --> 00:36:42,500
+govorili smo da se radi nešto novo.
+
+706
+00:36:42,500 --> 00:36:44,600
+Da postoji velika poslovna moguænost
+
+707
+00:36:44,600 --> 00:36:48,600
+za izradu novog Sun-a otvorenog koda.
+
+708
+00:36:48,800 --> 00:36:52,000
+Ljudi od kojih smo tražili da pomoæ
+gledali su na to i govorili
+
+709
+00:36:52,000 --> 00:36:54,500
+"Hej, vi prodajete sistem
+
+710
+00:36:54,500 --> 00:36:56,600
+a softver je besplatan. To je strašno.
+
+711
+00:36:56,600 --> 00:36:59,100
+Nismo sigurni da u to želimo da
+uložimo svoj novac.
+
+712
+00:36:59,100 --> 00:37:02,500
+Znate, èuli smo za druge kompanije
+
+713
+00:37:02,500 --> 00:37:05,400
+kojima se to nije isplatilo. Bojimo se."
+
+714
+00:37:07,600 --> 00:37:10,700
+Došao sam u Ameriku tek pre 3 godine,
+
+715
+00:37:10,700 --> 00:37:13,000
+zato što sam dosta vremena,
+
+716
+00:37:14,300 --> 00:37:17,300
+6 do 7 godina, bio na
+Helsinškom Univerzitetu.
+
+717
+00:37:17,300 --> 00:37:21,600
+Odluèio sam da je vreme da vidim
+pravi svet, ne samo studentski život.
+
+718
+00:37:21,600 --> 00:37:26,600
+Na ovom podruèju uraðeno je
+dosta interesantnih stvari.
+
+719
+00:37:28,100 --> 00:37:29,900
+Tako sam odluèio...
+
+720
+00:37:29,900 --> 00:37:33,900
+da se preselim na drugu starnu sveta,
+
+721
+00:37:34,400 --> 00:37:35,600
+i pokušam da uspem.
+
+722
+00:37:35,600 --> 00:37:37,600
+I ispalo je prilièno dobro.
+
+723
+00:37:37,600 --> 00:37:40,500
+Je l' mislite da ostanete ovde
+ili je to samo privremeno?
+
+724
+00:37:41,000 --> 00:37:43,600
+U poèetku smo mislili
+da je samo privremeno,
+
+725
+00:37:43,600 --> 00:37:47,600
+ali izgleda da se s vremenom
+to promenilo u stalno.
+
+726
+00:37:47,900 --> 00:37:51,400
+Naša najmlaða kæerka je
+i amerièki i finski državljanin,
+
+727
+00:37:51,400 --> 00:37:52,900
+jer je roðena ovde
+
+728
+00:37:53,500 --> 00:37:57,500
+a starija govori i švedski i engleski,
+tako da...
+
+729
+00:38:21,700 --> 00:38:25,700
+Sledeæi veliki dogaðaj,
+u koji sam i ja umešan bio je
+
+730
+00:38:25,800 --> 00:38:28,600
+kada sam napisao brošuru
+"Katedrala i Sajmište".
+
+731
+00:38:28,600 --> 00:38:32,300
+koja je bila moje mišljenje,
+moja antropološka analiza
+
+732
+00:38:32,300 --> 00:38:34,600
+svega onoga što je pomoglo da
+svet otvorenog koda funkcioniše.
+
+733
+00:38:34,600 --> 00:38:39,900
+Tada ga još nismo tako zvali. I dalje smo
+koristili termin "Slobodan softver".
+
+734
+00:38:39,900 --> 00:38:42,600
+Dakle to je bilo moje tumaèenje onoga što je
+pomoglo da svet Slobodnog softvera funkcioniše
+
+735
+00:38:42,600 --> 00:38:46,900
+i kako smo bili u moguænosti da
+proizvodimo kvalitetan softver
+
+736
+00:38:47,400 --> 00:38:51,400
+konstantno kršeæi sva pravila
+softverskog inženjeringa.
+
+737
+00:38:52,300 --> 00:38:55,000
+U toj brošuri, izneo sam razliku
+
+738
+00:38:55,000 --> 00:38:57,200
+izmeðu dva razlièina naèina razvoja
+
+739
+00:38:57,200 --> 00:38:58,900
+dva suprotstavljena naèina razvoja.
+
+740
+00:38:58,900 --> 00:39:04,500
+Jednog, koji je konvencionalno
+zatvoren na;in razvoja,
+
+741
+00:39:04,500 --> 00:39:07,000
+koji ja nazivam stil "Katedrale".
+
+742
+00:39:07,000 --> 00:39:10,300
+U njemu postoji uska specifikacija ciljeva.
+
+743
+00:39:10,300 --> 00:39:15,600
+Mala projektna grupa je
+strogo hijerarhijski organizovana.
+
+744
+00:39:16,800 --> 00:39:19,300
+Tu su duži razmaci izmeðu
+izdavanja proizvoda.
+
+745
+00:39:20,100 --> 00:39:23,000
+Sa druge strane, postoji nešto
+što se dogaða u Linux svetu
+
+746
+00:39:23,000 --> 00:39:28,600
+gde vlada decentralizacija u stilu
+“jedan na jedan“, poput sajmišta,
+
+747
+00:39:29,000 --> 00:39:30,600
+sa kratkim razmacima izmeðu
+izdavanja proizvoda
+
+748
+00:39:30,600 --> 00:39:35,600
+i konstantnim traženjem povratne informacije
+od ljudi koji su formalno van projekta.
+
+749
+00:39:35,600 --> 00:39:39,600
+Vrlo intenzivna povratna veza.
+
+750
+00:39:39,900 --> 00:39:42,600
+Iznenaðujuæe je to da
+što se duže posmatra,
+
+751
+00:39:42,600 --> 00:39:46,600
+daljinska razmena je u prednosti
+
+752
+00:39:47,400 --> 00:39:49,500
+nad konvencionalnim
+zatvorenim naèinom razvoja.
+
+753
+00:39:49,500 --> 00:39:53,500
+Ta prednost otvorenog naèina razvoja
+
+754
+00:39:53,500 --> 00:39:57,500
+u stvari je pobedila,
+i dala dobre rezultate.
+
+755
+00:40:01,000 --> 00:40:02,900
+Razlog zbog koga je Netscape toliko važan
+
+756
+00:40:02,900 --> 00:40:07,800
+je taj što je on bio prva veæa kompanija
+koja je doprinela otvorenom kodu.
+
+757
+00:40:07,800 --> 00:40:09,600
+Imali smo kompaniju Cygnus koja je
+pružala usluge podrške,
+
+758
+00:40:09,600 --> 00:40:12,200
+ali u stvari nisu imali puno posla.
+
+759
+00:40:12,200 --> 00:40:16,000
+Netscape je u otvorenom kodu video
+naèin za borbu sa Microsoftom,
+
+760
+00:40:16,000 --> 00:40:19,800
+kome bi ugrozili Internet Explorer,
+
+761
+00:40:19,800 --> 00:40:23,800
+no nisu želeli da iko drugi koristi izvorni kod,
+nisu dozvolili da kompanije saraðuju.
+
+762
+00:40:24,800 --> 00:40:26,500
+Radeæi u marketingu, razmišljao sam,
+
+763
+00:40:26,500 --> 00:40:28,900
+zašto ljudi kupuju naš softver
+
+764
+00:40:28,900 --> 00:40:32,900
+i šta ih navodi da odaberu naš
+softver umesto konkurentskog.
+
+765
+00:40:34,300 --> 00:40:35,600
+Ipak, nastao je problem,
+
+766
+00:40:35,600 --> 00:40:39,200
+jer smo vremenom uvideli
+
+767
+00:40:39,200 --> 00:40:42,600
+da se naš softver
+
+768
+00:40:42,600 --> 00:40:46,400
+takmièi sa softverom drugih proizvoðaèa,
+posebno onim kompanije Microsoft.
+
+769
+00:40:46,400 --> 00:40:50,200
+I kako je vreme prolazilo,
+cena našeg softvera je padala
+
+770
+00:40:50,200 --> 00:40:52,300
+zato što su drugi davali svoj softver
+
+771
+00:40:52,300 --> 00:40:55,300
+a nisu ga naplaæivali
+ili su ga naplatili po maloj ceni.
+
+772
+00:40:55,300 --> 00:40:57,500
+Pravi problem bio je u tome,
+da su se oni u stvari bojali
+
+773
+00:40:57,500 --> 00:41:01,000
+da Microsoft ne napravi monopol
+na tržištu pretraživaèa
+
+774
+00:41:01,000 --> 00:41:04,800
+koji bi im koristio da
+
+775
+00:41:04,800 --> 00:41:06,400
+u stvari pokvari
+
+776
+00:41:06,400 --> 00:41:10,400
+HTTP i HTML standarde
+od kojih zavisi web.
+
+777
+00:41:10,400 --> 00:41:14,400
+A kada bi te standarde zabranili
+
+778
+00:41:14,400 --> 00:41:18,400
+u stvari bi sklonili Netscape sa tržišta,
+
+779
+00:41:18,800 --> 00:41:21,100
+što je u stvari bio naèin
+zaraðivanja velike love.
+
+780
+00:41:21,100 --> 00:41:24,000
+Brinuo sam se, da æe s vremenom,
+
+781
+00:41:25,500 --> 00:41:27,800
+Netscapeovo poslovanje biti ugroženo,
+
+782
+00:41:27,800 --> 00:41:31,600
+jer nismo imali dovoljno ljudi da uradimo
+ono što smo kao kompanija trebali da uradimo
+
+783
+00:41:31,600 --> 00:41:35,500
+da se naš softver održi na tržištu.
+
+784
+00:41:36,000 --> 00:41:39,800
+Netscape je predstavljen javnosti
+poèetkom 1998.
+
+785
+00:41:39,800 --> 00:41:43,800
+Tada uopšte nisam znao
+
+786
+00:41:44,800 --> 00:41:47,100
+da je nastao kao direktan rezultat
+
+787
+00:41:47,100 --> 00:41:49,900
+toga što su pravi ljudi proèitali moju
+brošuru "Katedrala i sajmište".
+
+788
+00:41:50,400 --> 00:41:54,100
+"Katedrala i sajmište",
+brošura koju je napisao Eric Raymond,
+
+789
+00:41:54,100 --> 00:41:59,700
+imala je važan uticaj na Netscapeovu
+odluku da objavi izvorni kod.
+
+790
+00:42:00,400 --> 00:42:02,600
+To me je veoma iznenadilo.
+
+791
+00:42:02,600 --> 00:42:04,800
+Nisam uopšte razmišljao
+da bih mogao da promenim svet,
+
+792
+00:42:04,800 --> 00:42:07,000
+èak ni sluèajno.
+
+793
+00:42:07,700 --> 00:42:11,700
+No po mišljenju mnogih,
+nije samo on uticao na tu odluku.
+
+794
+00:42:12,000 --> 00:42:14,200
+Neke stvari bile su
+
+795
+00:42:14,200 --> 00:42:15,900
+planiranje i uèinjene još pre...
+
+796
+00:42:15,900 --> 00:42:18,100
+Kao što sam rekao,
+
+797
+00:42:18,100 --> 00:42:22,100
+Netscape je razmatrao objavljivanje
+izvornog koda i pre nego što je
+
+798
+00:42:22,800 --> 00:42:24,700
+iko èuo za Ericovu brošuru.
+
+799
+00:42:25,100 --> 00:42:27,100
+Na Linux kongresu poèetkom 1997. sam
+
+800
+00:42:27,100 --> 00:42:30,100
+prvi put javno predstavio brošuru.
+
+801
+00:42:30,400 --> 00:42:34,400
+Jedan od ljudi koji je bio na predstavljanju bio je
+Tim O'Reilly iz kompanije O'Reilly and Associates.
+
+802
+00:42:34,900 --> 00:42:37,800
+Mislio je da je knjiga vrlo zanimljiva
+
+803
+00:42:37,800 --> 00:42:41,800
+pa me je pitao da mu je dam na
+PERL konferenciji koja je održana
+
+804
+00:42:41,800 --> 00:42:44,400
+pred kraj 1997. godine
+
+805
+00:42:45,100 --> 00:42:47,000
+Šta se stvarno dogodilo saznao sam kasnije,
+
+806
+00:42:47,000 --> 00:42:49,500
+iako nisam imao pojma
+da je tako nešto u toku,
+
+807
+00:42:49,900 --> 00:42:56,000
+neki ljudi iz Netscapea su èuli
+za brošuru PERL konferenciji
+
+808
+00:42:56,000 --> 00:43:00,000
+i primenili ideje pomenute u njoj
+u svom daljem poslovanju.
+
+809
+00:43:00,100 --> 00:43:04,100
+Svrha moje brošure bila je
+dobar izbor poslovanja,
+
+810
+00:43:04,200 --> 00:43:08,200
+da sa poslovne strane Netscape razmotri
+zašto treba da objavi izvorni kod.
+
+811
+00:43:08,400 --> 00:43:12,000
+Ova brošura se zvala "Netscapeov
+Izvorni kod kao Netscapeov proizvod".
+
+812
+00:43:12,700 --> 00:43:16,700
+Malo je èudno to što je
+naslov sugersao,
+
+813
+00:43:17,300 --> 00:43:18,500
+po mom mišljenju je bilo neophodno
+
+814
+00:43:18,600 --> 00:43:22,400
+shvatiti da izvorni kod nije samo nešto
+što se koristi za stvaranje proizvoda
+
+815
+00:43:22,400 --> 00:43:24,600
+veæ nešto što je proizvod
+sa svim pripadajuæim pravima.
+
+816
+00:43:25,000 --> 00:43:27,700
+Ono što kupci mogu da koriste,
+mogu da koriste i drugi ljudi.
+
+817
+00:43:28,200 --> 00:43:31,000
+Tada sam razmislio kako treba
+da izgleda poslovni model
+
+818
+00:43:31,000 --> 00:43:33,900
+ako objavimo izvorni kod naših proizvoda.
+
+819
+00:43:33,900 --> 00:43:35,600
+Kako æemo da ih licenciramo?
+
+820
+00:43:35,600 --> 00:43:39,600
+Kako æemo da prodajemo proizvode
+u tom okruženju?
+
+821
+00:43:40,900 --> 00:43:44,100
+Tada sam obratio pažnju na
+konkurenciju, posebno na Microsoft.
+
+822
+00:43:44,100 --> 00:43:46,700
+Šta su sve spremni da uèine ako bi
+mi objavili izvorni kod?
+
+823
+00:43:46,700 --> 00:43:49,300
+Postoji li neki naèin da iskoriste
+naš izvorni kod protiv nas?
+
+824
+00:43:49,300 --> 00:43:53,300
+Koristio sam Ericovu brošuru kao primer
+kako funkcioniše raspodeljeni razvoj,
+
+825
+00:43:54,100 --> 00:43:57,900
+kako softver može da se razvija
+a da to ne rade samo zaposleni,
+
+826
+00:43:57,900 --> 00:44:00,700
+nego da se saraðuje sa
+programerima preko Interneta.
+
+827
+00:44:01,800 --> 00:44:05,400
+Zato sam stavio referencu
+Ericove brošure u moju.
+
+828
+00:44:05,700 --> 00:44:07,200
+Kada je moja brošura poèela da kruži
+
+829
+00:44:07,200 --> 00:44:09,600
+ljudi koji su je èitali
+
+830
+00:44:09,600 --> 00:44:12,600
+našli bi referencu Ericove knjige
+i dobro je prouèili.
+
+831
+00:44:12,600 --> 00:44:15,200
+Ko je sve uèestvovao u
+takvoj odluci Netscapea?
+
+832
+00:44:16,200 --> 00:44:19,600
+Odgovoran za tu odluku
+bio je Jim Barksdale.
+
+833
+00:44:20,400 --> 00:44:22,500
+I to je kasnije ispalo veoma važno.
+
+834
+00:44:22,500 --> 00:44:25,300
+Naša velika pobeda, veliki pogodak
+
+835
+00:44:25,300 --> 00:44:28,900
+koji je oèi velikih investitora
+usmerio ka nama,
+
+836
+00:44:28,900 --> 00:44:32,900
+ne zbog mnogo dobronamernih programera,
+
+837
+00:44:33,000 --> 00:44:36,100
+veæ zbog jednog stratega sa vrha
+
+838
+00:44:36,100 --> 00:44:38,400
+koji je uvideo potencijalnu snagu ove metode i
+
+839
+00:44:38,400 --> 00:44:41,300
+u stvari preneo tu viziju na
+one koji su bili ispod njega.
+
+840
+00:44:42,400 --> 00:44:45,600
+Kada sam završio brošuru, prvi
+primerak sam Marku Andressenu,
+
+841
+00:44:45,600 --> 00:44:49,600
+koji je suosnivaè Netscapea,
+i u to vreme je bio
+
+842
+00:44:49,600 --> 00:44:51,400
+u glavnom menadžerskom timu Netscapea.
+
+843
+00:44:51,400 --> 00:44:55,400
+Mark je tada dao primerke nekolicini
+ljudi iz menadžmenta Netscapea,
+
+844
+00:44:55,500 --> 00:44:57,600
+ukljuèujuæi i Jima Barksdalea.
+
+845
+00:44:57,600 --> 00:45:00,700
+Nisam siguran kada su Jim
+i ostali glavni menadžeri
+
+846
+00:45:00,700 --> 00:45:02,800
+doneli konaènu odluku.
+
+847
+00:45:03,500 --> 00:45:05,800
+Mislim da je bilo poèetkom januara.
+
+848
+00:45:05,900 --> 00:45:10,400
+Netscape je odluèio da
+izvorni kod objavi 22. januara,
+
+849
+00:45:10,900 --> 00:45:14,400
+u isto vreme kada je odluèeno da
+izdaju besplatnu verziju Communicatora.
+
+850
+00:45:14,800 --> 00:45:17,500
+Kada je Netscape odluèio
+da objavi izvorni kod,
+
+851
+00:45:17,500 --> 00:45:19,900
+slièni ljudi su se probudili,
+primetili i rekli
+
+852
+00:45:19,900 --> 00:45:23,400
+"Možda stvarno ima nešto u toj ideji
+da se objavi izvorni kod
+
+853
+00:45:23,400 --> 00:45:26,900
+i da se razvija sa ljudima van kompanije."
+
+854
+00:45:27,900 --> 00:45:32,700
+Tako je Netscapeova odluka skrenula pažnju
+javnosti na ideju o Slobodnom softveru,
+
+855
+00:45:32,700 --> 00:45:35,000
+koji je postao poznat kao Open Source,
+
+856
+00:45:35,000 --> 00:45:37,500
+i bitno skrenula pažnju na
+Linux operativni sistem,
+
+857
+00:45:37,500 --> 00:45:41,500
+koji je u tom trenutku bio najistaknutiji
+primer softvera otvorenog koda.
+
+858
+00:45:47,000 --> 00:45:50,300
+Ovo je naša prva kancelarija,
+Mountain View, California.
+
+859
+00:45:50,300 --> 00:45:52,700
+Ovde smo prešli poèetkom 1995.
+
+860
+00:45:52,700 --> 00:45:54,600
+Površine je 4000 kvadratnih stopa.
+
+861
+00:45:54,600 --> 00:46:01,200
+Bilo nam je neverovatno da imamo
+kompaniju u svojoj kancelariji.
+
+862
+00:46:01,200 --> 00:46:04,200
+Evo zašto je ovo mesto tako važno.
+
+863
+00:46:04,200 --> 00:46:07,800
+Ovo je mesto na kome je
+smišljen termin "Open Source".
+
+864
+00:46:07,800 --> 00:46:12,500
+Ako doðete u šefovu kancelariju
+i kažete "Slobodan softver",
+
+865
+00:46:12,800 --> 00:46:16,600
+reakcija na koju æete naiæi ako imate sreæe
+bila bi otprilike ovakva:
+
+866
+00:46:16,600 --> 00:46:23,100
+"Hmm, hmm, Slobodan softver, mora da
+je jeftin, lošeg kvaliteta, nekoristan."
+
+867
+00:46:23,100 --> 00:46:27,100
+Ako nemate sreæe i ako je šef èuo za
+
+868
+00:46:28,500 --> 00:46:32,500
+Fondaciju za slobodan softver
+i napade na njih,
+
+869
+00:46:32,900 --> 00:46:35,500
+bez obzira kakvi su
+vaši stavovi u vezi toga,
+
+870
+00:46:35,500 --> 00:46:39,500
+reæi æe vam: "To je gubitnièko tržište,
+rukovodstvo ne vidi ništa u tome."
+
+871
+00:46:40,000 --> 00:46:42,400
+Tako je Eric Raymond
+znao da postoji problem.
+
+872
+00:46:42,400 --> 00:46:44,600
+Zvali smo to Slobodan softver
+
+873
+00:46:44,600 --> 00:46:48,600
+ali su mnogi termin "slobodan" (free)
+pogrešno protumaèili kao "besplatan",
+
+874
+00:46:49,000 --> 00:46:51,700
+mislili su da ne mogu da ga
+prodavaju i tako zaraðuju od njega,
+
+875
+00:46:51,700 --> 00:46:53,600
+što je upravo pogrešan koncept.
+
+876
+00:46:53,600 --> 00:46:59,200
+Želeli smo da se zadršimo na ideji da je
+softver otvoren i izvorni kod dostupan.
+
+877
+00:46:59,200 --> 00:47:01,500
+Veoma važne èinjenice.
+
+878
+00:47:01,500 --> 00:47:05,200
+Imali smo sastanak u kancelariji VA
+na Mountain Viewu, Eric,
+
+879
+00:47:05,200 --> 00:47:11,700
+ja, Christine Peterson sa
+Foresight Instituta i još neki ljudi.
+
+880
+00:47:11,700 --> 00:47:14,600
+Christine Peterson je bila prisutna
+preko telefonske veze...
+
+881
+00:47:16,500 --> 00:47:20,100
+Isto kao i Jon "Mad dog" Hall.
+
+882
+00:47:20,900 --> 00:47:24,800
+Prisustvovao je i Todd Anderson,
+koji je kasnije neko vreme radio za SuSE.
+
+883
+00:47:24,800 --> 00:47:27,800
+Takoð ei Sam Ockman
+koji danas vodi Penguin Computing.
+
+884
+00:47:27,800 --> 00:47:31,200
+U to vreme on je bio zaposlen u VA.
+
+885
+00:47:31,200 --> 00:47:34,100
+Smislili smo tako koncept
+Otvorenog koda,
+
+886
+00:47:34,100 --> 00:47:37,400
+pozvali smo Linusa
+i pitali ga da li se slaže sa time.
+
+887
+00:47:37,400 --> 00:47:40,600
+Bio je zainteresovan, svideo mu se.
+
+888
+00:47:40,600 --> 00:47:43,100
+U stvari smo izmislili nešto što je
+zamenilo "Slobodan softver".
+
+889
+00:47:43,100 --> 00:47:44,700
+To je bio poèetak Otvorenog koda.
+
+890
+00:47:44,700 --> 00:47:46,800
+Kako ste izabrali naziv "Open Source"?
+
+891
+00:47:47,600 --> 00:47:51,600
+Znate, mislim da je Christine Peterson
+bila ta koja je u stvari smislila taj naziv.
+
+892
+00:47:52,000 --> 00:47:58,800
+Poštovali smo ideju da je izvorni kod
+objavljen i da je otvoren.
+
+893
+00:47:58,800 --> 00:48:00,200
+Bilo je mnogo predloga.
+
+894
+00:48:02,300 --> 00:48:06,300
+Pošto su prethodna tri sagovornika
+govorila o pokretu Izvornog koda,
+
+895
+00:48:07,300 --> 00:48:10,800
+smatram da treba pomenuti i
+Pokretu za slobodan softver.
+
+896
+00:48:10,800 --> 00:48:14,300
+Pokret za izvorni kod je fokusiran
+na praktiène prednosti
+
+897
+00:48:14,300 --> 00:48:17,000
+koje se dobijaju organizovanjem
+udruženja korisnika
+
+898
+00:48:17,000 --> 00:48:21,000
+koji mogu da saraðuju na razmeni
+i poboljšanju softvera.
+
+899
+00:48:21,100 --> 00:48:24,900
+Potpuno se slažem sa time.
+
+900
+00:48:24,900 --> 00:48:29,400
+Razlog zbog koga imam drugaèiji stav
+i što sam u Pokretu za Slobodan softver
+
+901
+00:48:29,400 --> 00:48:31,500
+pre nego u Open Source pokretu,
+
+902
+00:48:31,500 --> 00:48:34,500
+je taj što verujem da postoji nešto
+mnogo važnije od samog uèešæa.
+
+903
+00:48:34,500 --> 00:48:39,500
+Ta sloboda koja nam omoguæava saradnju
+sa drugima, da imamo udruženja...
+
+904
+00:48:39,500 --> 00:48:41,700
+je bitno za kvalitet našeg života.
+
+905
+00:48:41,700 --> 00:48:45,700
+Važno je da imamo zdravo okruženje
+u kome možemo da živimo.
+
+906
+00:48:45,800 --> 00:48:51,800
+A to je po mom mišljenju mnogo važnije
+nego imati moæan i pouzdan softver.
+
+907
+00:48:52,300 --> 00:48:56,300
+Ali mislim da se neki ljudi u
+Pokretu za slobodan softver...
+
+908
+00:48:57,100 --> 00:49:00,500
+boje komercijalizacije.
+
+909
+00:49:02,500 --> 00:49:06,500
+A znate da je disident osuðen na neuspeh.
+
+910
+00:49:06,800 --> 00:49:10,400
+Ja mislim da je
+komercijalizacija veoma bitna.
+
+911
+00:49:10,400 --> 00:49:13,200
+Želimo da softver bude poštovan,
+
+912
+00:49:13,200 --> 00:49:18,400
+i radim sa Richardom Stallmanom
+koji je zaèetnik Slobodnog softvera,
+
+913
+00:49:19,900 --> 00:49:22,900
+zdravog razuma, i stvarno ne oseæam
+
+914
+00:49:22,900 --> 00:49:26,400
+da meðu nama ima filozofskih razmirica,
+
+915
+00:49:26,400 --> 00:49:29,500
+mene kao autor Open Sorce definicije
+
+916
+00:49:29,500 --> 00:49:34,800
+i njega kao pokretaèa organizovanog
+pokreta Slobodnog softvera,
+
+917
+00:49:36,300 --> 00:49:39,300
+osim jednog. Richard misli da svaki
+softver treba da bude slobodan,
+
+918
+00:49:39,300 --> 00:49:44,000
+a ja mislim da treba da postoje
+i slobodan i ne-slobodan softver.
+
+919
+00:49:44,000 --> 00:49:45,700
+To je jedina razlika u našim mišljenjima.
+
+920
+00:49:46,500 --> 00:49:49,300
+Još pre toga smo zakljuèili da je potrebna
+
+921
+00:49:49,300 --> 00:49:54,300
+definicija, neka vrsta nacrta licence
+za definisanje termina "Open Source".
+
+922
+00:49:54,300 --> 00:49:58,100
+Tako je nastao dokument koji smo nazvali
+"Open Source definicija".
+
+923
+00:49:58,100 --> 00:50:03,300
+To su izvodi iz Debian Free Software priruènika
+koji je originalno napisao Bruce Parens.
+
+924
+00:50:03,800 --> 00:50:07,100
+Ja sam napisao originalni koncept toga,
+
+925
+00:50:07,100 --> 00:50:10,600
+diskutujuæi mesec dana sa
+Debian programerima.
+
+926
+00:50:10,600 --> 00:50:13,300
+Debian je Linux distribucija
+
+927
+00:50:13,300 --> 00:50:16,500
+a taj koncept služi kao
+smernica za njihov projekat.
+
+928
+00:50:16,500 --> 00:50:19,400
+Eric i ja smo odluèili da preimenujemo
+
+929
+00:50:20,200 --> 00:50:22,300
+ono što smo napisali za Debian
+
+930
+00:50:22,300 --> 00:50:23,600
+u Open Source definiciju
+
+931
+00:50:23,600 --> 00:50:25,900
+i mogu da kažem da je Open Sorce softver
+
+932
+00:50:26,300 --> 00:50:28,800
+koji sa sobom nosi devet pravila
+
+933
+00:50:28,800 --> 00:50:31,100
+sadržanih u u Open Sorce definiciji.
+
+934
+00:50:32,100 --> 00:50:34,900
+Prvo pravilo je slobodna distribucija.
+
+935
+00:50:34,900 --> 00:50:37,300
+Slobodno ovde ne znaèi besplatno
+
+936
+00:50:37,300 --> 00:50:39,500
+veæ oznaèava liberalnost.
+
+937
+00:50:40,300 --> 00:50:43,100
+Slobodno možete da raspodeljujete
+
+938
+00:50:43,100 --> 00:50:44,600
+svoj softver nekome drugom
+
+939
+00:50:44,600 --> 00:50:46,800
+i nepostojanje cene je sporedni efekat.
+
+940
+00:50:46,800 --> 00:50:50,100
+Možete to da naplatite ili ne.
+
+941
+00:50:50,100 --> 00:50:52,300
+Drugo pravilo je da se distribuira
+i izvorni kod
+
+942
+00:50:52,600 --> 00:50:56,000
+tako da svako ko želi može da ga promeni.
+
+943
+00:50:56,000 --> 00:50:58,700
+Ako je program za PC
+
+944
+00:50:59,100 --> 00:51:02,100
+može da se preradi za Mac.
+
+945
+00:51:02,100 --> 00:51:04,500
+Treæe pravilo je moguænost postojanja
+Izvedenog projekta, što znaèi
+
+946
+00:51:04,500 --> 00:51:07,200
+da ako neko unapredi vaš program
+
+947
+00:51:07,200 --> 00:51:12,500
+onda on može da distribuira
+rezultat unapreðenja.
+
+948
+00:51:12,500 --> 00:51:16,000
+Èetvrto pravilo je Integritet
+
+949
+00:51:16,000 --> 00:51:17,300
+autorovog izvornog koda.
+
+950
+00:51:17,500 --> 00:51:22,400
+To zanèi da autor može da
+održava svoj izvorni kod
+
+951
+00:51:22,400 --> 00:51:24,200
+a ako ga vi menjate
+
+952
+00:51:24,600 --> 00:51:26,900
+onda morate taj program
+da nazovete drugaèije,
+
+953
+00:51:26,900 --> 00:51:29,600
+ili jasno oznaèiti vaše izmene
+
+954
+00:51:29,600 --> 00:51:33,000
+tako da se one ne odnose na originalnog autora.
+
+955
+00:51:33,000 --> 00:51:36,800
+Sledeæe pravilo je da nema
+diskriminacije pojedinaca ili grupa.
+
+956
+00:51:36,900 --> 00:51:38,700
+Primer koji èesto koristim za opis ovoga je:
+
+957
+00:51:39,400 --> 00:51:41,900
+ne smete da zabranite ni klinici za abortus
+
+958
+00:51:41,900 --> 00:51:45,100
+ni aktivistima protiv abortusa da koriste softver.
+
+959
+00:51:45,100 --> 00:51:48,700
+Nema diskriminacije ni na jednom podruèju
+
+960
+00:51:49,100 --> 00:51:51,900
+što znaèi da softver može da se koristiti
+
+961
+00:51:52,100 --> 00:51:55,400
+kako u komercijalne,
+tako i u edukativne svrhe.
+
+962
+00:51:55,400 --> 00:51:58,900
+Licenca mora da bude prenosiva.
+
+963
+00:51:59,000 --> 00:52:00,000
+Drugim reèima
+
+964
+00:52:00,200 --> 00:52:03,400
+moram da imam moguænost da
+licencu dam nekome drugom,
+
+965
+00:52:03,400 --> 00:52:06,800
+tako da licenca i dalje važi
+
+966
+00:52:06,800 --> 00:52:09,500
+i ako taj neko da softver treæoj osobi.
+
+967
+00:52:09,500 --> 00:52:13,300
+Licenca ne sme da ogranièava proizvod.
+
+968
+00:52:13,300 --> 00:52:14,500
+Drugim reèima
+
+969
+00:52:14,500 --> 00:52:19,700
+ako distribuiram svoj softver na Red Hat sistemu
+
+970
+00:52:19,700 --> 00:52:21,300
+licenca ne može da zabrani
+
+971
+00:52:21,300 --> 00:52:25,000
+da taj isti proizvod distribuiram
+na SuSE ili Debian sistem.
+
+972
+00:52:25,000 --> 00:52:28,500
+Licenca ne sme da se meša u drugi softver
+
+973
+00:52:28,500 --> 00:52:34,900
+tako da ako distribuiram moj program na CD
+sa nekim drugim programom
+
+974
+00:52:34,900 --> 00:52:38,100
+licenca ne može da zahteva da taj
+drugi program mora da bude slobodan
+
+975
+00:52:38,100 --> 00:52:41,000
+inaèe moj program ne može
+da se distribuira zajedno sa njim.
+
+976
+00:52:41,000 --> 00:52:43,700
+Uz ta pravila
+
+977
+00:52:43,700 --> 00:52:44,900
+u Open Source definiciji
+
+978
+00:52:44,900 --> 00:52:47,700
+nalazi se i popis licenci koje smo prihvatili.
+
+979
+00:52:47,700 --> 00:52:51,600
+To su one koje smo zapoèeli
+kada je Opšta javna licenca
+
+980
+00:52:51,600 --> 00:52:54,700
+bila primer za mnogo toga,
+
+981
+00:52:54,700 --> 00:52:58,200
+što je sluèaj i sa Open Source definicijom
+u BSD licenci
+
+982
+00:52:58,200 --> 00:53:02,200
+zato što je softver za BSD sistem
+bio preteèa Linuxa.
+
+983
+00:53:08,000 --> 00:53:11,800
+Sledeæe što se dogodilo
+
+984
+00:53:11,800 --> 00:53:14,000
+bilo je da su prodavci baza
+podataka izgubili korak,
+
+985
+00:53:14,000 --> 00:53:16,000
+što se dogodilo oko tri meseca pre
+
+986
+00:53:16,000 --> 00:53:17,100
+nego što sam oèekivao,
+
+987
+00:53:17,100 --> 00:53:19,500
+negde krajem jula i poèetkom avgusta
+
+988
+00:53:19,500 --> 00:53:23,500
+jer aplikacije Oraclea, Sybasea i ostalih
+kljuènih proizvoðaæi baza podataka nisu
+
+989
+00:53:23,800 --> 00:53:26,600
+bile kompatibilne.
+
+990
+00:53:26,600 --> 00:53:27,900
+Zašto je to tako važno?
+
+991
+00:53:27,900 --> 00:53:30,000
+Zato što smo taèno znali
+
+992
+00:53:30,000 --> 00:53:32,300
+kako æe da se razvija prièa o Open Sourceu
+
+993
+00:53:32,300 --> 00:53:35,000
+posebno kako æe da se razvija Linux,
+
+994
+00:53:35,000 --> 00:53:38,000
+a nismo dobili nikakva obeæanja
+od nezavisnih proizvoðaèa softvera
+
+995
+00:53:38,000 --> 00:53:41,500
+da æe te aplikacije da prilagode
+našim platformama.
+
+996
+00:53:41,500 --> 00:53:44,100
+Bio sam vrlo zabrinut,
+
+997
+00:53:44,100 --> 00:53:46,500
+smatrao sam da smo u ranjivom periodu
+
+998
+00:53:46,500 --> 00:53:49,900
+od kad smo najavili kampanju izvornog koda
+
+999
+00:53:49,900 --> 00:53:51,700
+i kada su proizvoðaèi baza podataka
+izgubili korak.
+
+1000
+00:53:51,700 --> 00:53:54,300
+To je bio trenutak kada je
+kulminiralo neprijateljsko delovanje
+
+1001
+00:53:54,300 --> 00:53:58,000
+Microsofta i drugih softverskih
+kompanija zatvorenog koda,
+
+1002
+00:53:58,000 --> 00:53:59,300
+trenutak kada...
+
+1003
+00:53:59,300 --> 00:54:01,800
+je ozbiljan marketinški korak
+mogao da nas sahrani.
+
+1004
+00:54:01,800 --> 00:54:05,800
+Ali jednom kada su proizvoðaèi
+baza podataka krenuli
+
+1005
+00:54:05,800 --> 00:54:08,300
+to je otvorilo put za druge ISV-je
+
+1006
+00:54:08,300 --> 00:54:10,200
+i pokrenulo efekat snežne lavine.
+
+1007
+00:54:10,200 --> 00:54:12,300
+Otprilike svakih 6 meseci
+
+1008
+00:54:12,300 --> 00:54:13,900
+odlazio bih kod investitora
+
+1009
+00:54:13,900 --> 00:54:15,600
+predstavljao im nove brojeve
+
+1010
+00:54:15,600 --> 00:54:17,700
+koji pokazuju da sve više ljudi koristi Linux
+
+1011
+00:54:17,700 --> 00:54:19,500
+i da se prikljuèuju novi ljudi,
+novi korisnici,
+
+1012
+00:54:19,500 --> 00:54:21,100
+pokazao bih našu listu korisnika,
+
+1013
+00:54:21,100 --> 00:54:24,400
+a naša lista korisnika je
+postajala sve impresivnija.
+
+1014
+00:54:24,400 --> 00:54:27,000
+Poèeli su da se pojavljuju
+kompanije kao što je Cisco,
+
+1015
+00:54:27,000 --> 00:54:29,500
+dot-com kompanije
+
+1016
+00:54:29,500 --> 00:54:31,900
+su se pojavljivale na našoj listi korisnika
+
+1017
+00:54:31,900 --> 00:54:34,500
+a potencijalni investitori su
+
+1018
+00:54:34,500 --> 00:54:36,500
+nastavili samo da gledaju
+
+1019
+00:54:36,500 --> 00:54:38,300
+i da govore
+"Ne možemo da se upuštamo u to"
+
+1020
+00:54:38,300 --> 00:54:41,500
+Napokon, na naslovnoj strani Fortune-a
+je osvanuo Linus
+
+1021
+00:54:41,500 --> 00:54:43,800
+Nešto se dogaðalo sa Open Sourceom
+
+1022
+00:54:43,800 --> 00:54:47,800
+Od tada investitori više nisu mogli
+da ga ignorišu,
+
+1023
+00:54:48,200 --> 00:54:51,100
+pozlilo im je od slušanja o Linuxu na sve strane
+
+1024
+00:54:51,100 --> 00:54:53,000
+I ja sam im dojadio
+
+1025
+00:54:53,000 --> 00:54:56,400
+pokazujuæi im ga skoro svake nedelje.
+
+1026
+00:54:56,400 --> 00:54:59,000
+I tada su odluèili da je vreme za investiciju,
+
+1027
+00:54:59,000 --> 00:55:00,800
+jer se nešto dešava.
+
+1028
+00:55:00,800 --> 00:55:04,300
+Najavio sam Open Source svetu na Internetu
+
+1029
+00:55:04,300 --> 00:55:07,700
+Zapoèeo sam dosta... administrativnog posla
+
+1030
+00:55:07,700 --> 00:55:11,200
+oko pokretanja Open Source inicijative
+
+1031
+00:55:11,200 --> 00:55:13,000
+i èini mi se da sam, posle 6 meseci,
+
+1032
+00:55:13,000 --> 00:55:15,500
+sve vreme èitao reèi "Open Source"
+
+1033
+00:55:15,500 --> 00:55:18,100
+po novinama
+
+1034
+00:55:18,100 --> 00:55:20,400
+i bio sam potpuno zapanjen.
+
+1035
+00:55:20,400 --> 00:55:21,600
+Godinu dana kasnije
+
+1036
+00:55:21,600 --> 00:55:25,600
+Microsoft je govorio o izdavanju
+nekog izvornog koda
+
+1037
+00:55:26,700 --> 00:55:28,900
+i neko od novinara je pitao Steve Ballmera
+
+1038
+00:55:28,900 --> 00:55:31,500
+da li æe taj kod biti Open Source
+
+1039
+00:55:31,500 --> 00:55:33,000
+a Steve Ballmer je rekao,
+
+1040
+00:55:33,000 --> 00:55:37,000
+"Open Source je mnogo više
+od samog izdavanja izvornog koda"
+
+1041
+00:55:37,300 --> 00:55:39,900
+Shvatio sam da je on proèitao
+i shvatio moj dokument
+
+1042
+00:55:39,900 --> 00:55:42,700
+i da sada govori novinarima o njemu.
+
+1043
+00:55:43,100 --> 00:55:46,100
+E sad, ako ste samo tip na netu
+
+1044
+00:55:46,100 --> 00:55:48,400
+kojem to uopšte nije posao
+
+1045
+00:55:48,400 --> 00:55:50,200
+i napišete èlanak
+
+1046
+00:55:50,200 --> 00:55:52,500
+koji se proširi svetom
+
+1047
+00:55:52,500 --> 00:55:53,500
+i godinu dana kasnije
+
+1048
+00:55:53,500 --> 00:55:56,600
+podpredsednik Microsofta prièa o tome
+
+1049
+00:55:56,600 --> 00:55:59,900
+mislili bi da ste na opijatima, zar ne ?
+
+1050
+00:55:59,900 --> 00:56:01,600
+Ali to se stvarno dogodilo!
+
+1051
+00:56:07,500 --> 00:56:11,500
+Lokalne grupe korisnika (LUG)
+su više od pukog
+
+1052
+00:56:13,400 --> 00:56:15,500
+povezivanja društva u mreže,
+
+1053
+00:56:16,700 --> 00:56:22,300
+upoznajuæi ljude sa problemima
+
+1054
+00:56:23,900 --> 00:56:28,100
+i delujuæi kao neka vrsta udružene podrške
+
+1055
+00:56:28,200 --> 00:56:33,400
+za ljude koji, na primer, nisu u moguænosti
+
+1056
+00:56:33,400 --> 00:56:36,600
+da plaæaju komercijalnu podršku.
+
+1057
+00:56:36,800 --> 00:56:39,200
+Ono što koju rade na tom planu
+
+1058
+00:56:39,200 --> 00:56:41,200
+na primjer, je što rade sledeæe.
+
+1059
+00:56:41,400 --> 00:56:43,200
+Mislim da jednom meseèno
+
+1060
+00:56:43,200 --> 00:56:46,900
+imaju install okupljanja, što znaèi da
+
+1061
+00:56:47,100 --> 00:56:51,400
+ljudi koji imaju problema sa instalacijom
+Linuxa na svoje mašine
+
+1062
+00:56:51,600 --> 00:56:53,100
+ili imaju neke probleme, mislim
+
+1063
+00:56:53,100 --> 00:56:54,500
+možda su instalirali Linux
+
+1064
+00:56:54,500 --> 00:56:57,100
+ali žele da postave mrežu na specifièan naèin,
+
+1065
+00:56:57,100 --> 00:56:59,200
+mogu da donesu svoje raèunare
+
+1066
+00:56:59,200 --> 00:57:00,300
+na to okupljanje korisnika.
+
+1067
+00:57:00,300 --> 00:57:03,900
+Tamo ima mnogo ljudi koji su
+spremni da pomognu,
+
+1068
+00:57:03,900 --> 00:57:07,900
+koji su se ranije možda veæ sreli
+sa takvim problemom.
+
+1069
+00:57:16,900 --> 00:57:18,600
+Znate, ne ide sve glatko.
+
+1070
+00:57:18,600 --> 00:57:21,800
+Prvo sam pokušao sam. Imao sam problema.
+
+1071
+00:57:21,800 --> 00:57:24,200
+I tako sam došao na ovaj Install Fest gde
+
+1072
+00:57:24,200 --> 00:57:25,900
+okupljaju svi gurui.
+
+1073
+00:57:25,900 --> 00:57:29,800
+Nadam se da æu imati više sreæe kod instalacije.
+
+1074
+00:57:29,800 --> 00:57:32,600
+Umesto slanja e-pošte, ili
+
+1075
+00:57:32,600 --> 00:57:34,500
+pisanja po diskusionim grupama na Internetu
+
+1076
+00:57:34,500 --> 00:57:37,000
+i ponekad èekanja i po nekoliko dana na odgovore,
+
+1077
+00:57:37,000 --> 00:57:40,000
+lakše je doæi ovde i pronaæi druge ljude
+
+1078
+00:57:40,000 --> 00:57:41,200
+koji bi mogli da znaju nešto o vašem problemu
+
+1079
+00:57:41,200 --> 00:57:43,100
+i koji mogu da vam pomognu.
+
+1080
+00:57:43,100 --> 00:57:44,200
+I u roku od nekoliko sati
+
+1081
+00:57:44,200 --> 00:57:46,400
+imate instaliranu mašinu.
+
+1082
+00:57:46,400 --> 00:57:50,400
+Prvo sam hteo da ga instaliram
+na moj laptop
+
+1083
+00:57:50,600 --> 00:57:52,300
+pa sam pretraživao po netu
+
+1084
+00:57:52,300 --> 00:57:56,300
+i pronašao sam gde mogu da pitam za pomoæ.
+
+1085
+00:57:56,900 --> 00:57:58,600
+I sada sam ovde
+
+1086
+00:57:58,600 --> 00:58:02,300
+jer pokušavam da stavim Linux
+na ovu malu mašinu.
+
+1087
+00:58:02,300 --> 00:58:04,600
+To je Toshiba Libreto.
+
+1088
+00:58:04,600 --> 00:58:07,200
+To nije baš najlakše da se uradi
+
+1089
+00:58:07,200 --> 00:58:09,800
+jer je ovo èudna stvarèica, dakle...
+
+1090
+00:58:09,800 --> 00:58:11,800
+Ima li ovde stolica?
+
+1091
+00:58:23,700 --> 00:58:25,500
+Mislim da su zbog pravosuða
+
+1092
+00:58:25,500 --> 00:58:27,500
+ljudi postali svesni èinjenice da
+
+1093
+00:58:27,500 --> 00:58:30,500
+u najmanju ruku treba da potraže
+alternativu Microsoftu.
+
+1094
+00:58:30,500 --> 00:58:34,500
+I možda Microsoft ipak nije amerièki san.
+
+1095
+00:58:34,600 --> 00:58:36,500
+Takvu vrstu promenjene percepcije
+
+1096
+00:58:37,800 --> 00:58:39,600
+možete vrlo lako da uoèite,
+
+1097
+00:58:39,600 --> 00:58:43,600
+ljudi uzimaju Microsoft zdravo za gotovo
+
+1098
+00:58:44,100 --> 00:58:46,500
+i možda još uvek kupuju Microsoft
+ali su barem
+
+1099
+00:58:46,500 --> 00:58:49,400
+više svesni problema.
+
+1100
+00:58:49,400 --> 00:58:52,100
+Microsoft zapravo koristi Linux kao odbranu.
+
+1101
+00:58:52,100 --> 00:58:53,500
+Iskoristili su Linux kao osnovu potvrde
+
+1102
+00:58:53,500 --> 00:58:54,500
+da ne drže monopol
+
+1103
+00:58:54,500 --> 00:58:57,600
+jer bi Linux ustvari
+
+1104
+00:58:57,600 --> 00:58:59,500
+mogao da ih skine sa trona u svakom trenutku.
+
+1105
+00:58:59,500 --> 00:59:02,300
+To je bio vrlo ingeniozan argument,
+potpuno zavaravajuæi
+
+1106
+00:59:02,300 --> 00:59:04,100
+zato jer nije
+
+1107
+00:59:04,100 --> 00:59:06,300
+odgovarao na optužbu
+
+1108
+00:59:06,300 --> 00:59:07,900
+da su pre bili ukljuèeni u
+
+1109
+00:59:07,900 --> 00:59:10,600
+manipulaciju i šta ja znam šta sve još.
+
+1110
+00:59:10,600 --> 00:59:12,200
+Bilo je to lukavo od njih.
+
+1111
+00:59:12,200 --> 00:59:14,700
+Ali sudija to nije prihvatio.
+
+1112
+00:59:17,000 --> 00:59:19,600
+Mi u Linux zajednici se više brinemo oko toga
+
+1113
+00:59:19,600 --> 00:59:22,000
+da Microsoft postane problem,
+
+1114
+00:59:22,000 --> 00:59:27,200
+u decembru '98. se pojavio èlanak
+na Slashdotu
+
+1115
+00:59:27,200 --> 00:59:33,000
+gde je neki lik Matt istakao da...
+
+1116
+00:59:33,000 --> 00:59:36,000
+je gospodin u Australiji uspeo da dobije
+povraæaj novca
+
+1117
+00:59:36,000 --> 00:59:40,000
+za nekorišæenu kopiju Windowsa
+koju je dobio sa raèunarom.
+
+1118
+00:59:40,000 --> 00:59:44,500
+I on je proglasio 19. januar,
+da li je bio januar?
+
+1119
+00:59:44,500 --> 00:59:46,900
+Ne, bio je februar. Izvinite,
+19. februar...
+
+1120
+00:59:46,900 --> 00:59:49,000
+proglasio je 19. februar za
+Windows Refund Day.
+
+1121
+00:59:49,000 --> 00:59:51,300
+I sve je ohrabrio da odu
+kod proizvoðaèa raèunara,
+
+1122
+00:59:51,300 --> 00:59:54,300
+i vrate svoje nekorišæene kopije Windowsa...
+
+1123
+00:59:54,300 --> 00:59:57,500
+kao što je bilo navedeno u licenci.
+
+1124
+00:59:57,500 --> 01:00:00,600
+Važno je prisetiti se da
+u samoj licenci piše da
+
+1125
+01:00:00,600 --> 01:00:05,500
+možete dobiti povraæaj novca
+ako ne koristite softver
+
+1126
+01:00:05,500 --> 01:00:08,500
+i da je proizvoðaè po zakonu
+u obavezi da to uèini...
+
+1127
+01:00:08,500 --> 01:00:10,500
+ili je obavezan po ugovoru.
+
+1128
+01:00:10,500 --> 01:00:13,500
+Saznali smo da ako pozovete te proizvoðaèe,
+oni uglavnom kažu...
+
+1129
+01:00:13,500 --> 01:00:15,700
+"Mali, prestani da nas uznemiravaš!"
+i spuste vam slušalicu.
+
+1130
+01:00:15,700 --> 01:00:18,700
+Mi nismo ustvari hteli da otkrijemo
+svoju lokaciju,
+
+1131
+01:00:18,700 --> 01:00:21,900
+ili gde æemo da se sastanemo, sve do...
+
+1132
+01:00:21,900 --> 01:00:22,900
+do zadnjeg trenutka.
+
+1133
+01:00:22,900 --> 01:00:26,300
+Uradili smo to, da se ljudi sastanu
+na mestima koje smo mogli da kontrolišemo,
+
+1134
+01:00:26,300 --> 01:00:28,000
+u razlièitim gradovima.
+
+1135
+01:00:28,000 --> 01:00:31,500
+Ja sam bio šerif San Josea,
+i mislim da si ti, Nick, bio...
+
+1136
+01:00:31,500 --> 01:00:33,900
+Ja sam bio..., Rick Moen i ja
+smo bili u San Franciscu.
+
+1137
+01:00:33,900 --> 01:00:34,400
+Tako je.
+
+1138
+01:00:34,500 --> 01:00:38,500
+Tamo smo imali karte i delili smo ih
+svakome ko je dolazio.
+
+1139
+01:00:38,500 --> 01:00:42,500
+Pa, ustvari smo se sastali kod lokala Denny's.
+To je malo van granica Foster Citya.
+
+1140
+01:00:42,500 --> 01:00:44,100
+Foster City gradskih granica,
+
+1141
+01:00:44,100 --> 01:00:47,500
+što je znaèilo i van ovlašæenja
+policije Foster Citya,
+
+1142
+01:00:47,500 --> 01:00:51,100
+a to je znaèilo da bi svaki incident
+koji bi se dogodio na mestu okupljanja
+
+1143
+01:00:51,100 --> 01:00:53,400
+spadao pod ovlašæenje San Matea.
+
+1144
+01:00:53,400 --> 01:00:57,000
+I ako bi nam rekli da se raziðemo, mi bi im rekli:
+"Pa dobro onda, idemo u Foster City. Ajd zdravo!"
+
+1145
+01:00:57,000 --> 01:01:00,500
+To je Dukes of Hazzard metoda
+izbegavanja pandura, pa...
+
+1146
+01:01:02,000 --> 01:01:05,500
+Ustvari, marširali smo s druge strane ove zgrade.
+
+1147
+01:01:05,500 --> 01:01:09,500
+Marširali smo uokolo i do parkirališta
+koje se nalazi tamo gore,
+
+1148
+01:01:09,500 --> 01:01:12,400
+i tamo je Microsoft organizovao prijem za nas
+
+1149
+01:01:12,400 --> 01:01:14,500
+sa piæima i velikim znakom na kojem je pisalo...
+
+1150
+01:01:14,500 --> 01:01:16,900
+"Microsoft želi dobrodošlicu
+Open Source zajednici."
+
+1151
+01:01:16,900 --> 01:01:20,900
+Kamere lokalnih vesti su snimile
+Erica Raymonda sa predstavnikom Microsofta.
+
+1152
+01:01:22,000 --> 01:01:24,900
+Microsoftova je prièa bila uglavnom ta da...
+
+1153
+01:01:25,000 --> 01:01:29,500
+...to nije sporno pitanje za Microsoft
+nego za OEM.
+
+1154
+01:01:29,500 --> 01:01:32,800
+I zato bi svi morali da se vrate do naših
+proizvoðaèa i ponovo pokušaju
+
+1155
+01:01:32,800 --> 01:01:34,900
+da dobiju povraæaj novca od njih.
+
+1156
+01:01:34,900 --> 01:01:36,600
+Odgovorili smo im govoreæi, znate,
+
+1157
+01:01:36,600 --> 01:01:40,600
+da smo veæ pokušali i da to nije moguæe,
+sada Microsoft treba nešto da preduzme.
+
+1158
+01:01:40,900 --> 01:01:43,500
+A oni su samo ponavljali jednu
+te istu reèenicu, ponovo i ponovo...
+
+1159
+01:01:43,500 --> 01:01:46,500
+"Morate da idete do OEM proizvoðaèa
+i tražite povraæaj novca od njih."
+
+1160
+01:01:47,000 --> 01:01:52,500
+Imali smo oko 150 ljudi, od kojih je
+verovatno polovina imala transparente i sl.
+
+1161
+01:01:53,000 --> 01:01:56,500
+Zapravo, završili smo upravo ovde
+u ovom dvorištu.
+
+1162
+01:01:57,000 --> 01:02:00,500
+Prvo smo se okupili napolju,
+
+1163
+01:02:00,500 --> 01:02:05,500
+razlièiti ljudi su slali grupe, ljudi iz
+FreeBSDa su poslali nekoliko momaka.
+
+1164
+01:02:05,500 --> 01:02:09,500
+Eric Raymond i Chris su pokušali da odu gore.
+
+1165
+01:02:09,800 --> 01:02:12,100
+Odblokirali su nam lift.
+
+1166
+01:02:12,100 --> 01:02:13,300
+Gde su bile kancelarije?
+
+1167
+01:02:13,300 --> 01:02:15,500
+Kancelarije su bile na devetom spratu.
+
+1168
+01:02:17,500 --> 01:02:19,600
+Dobili smo veliku medijsku pažnju.
+
+1169
+01:02:19,800 --> 01:02:21,000
+I smatramo da je zbog toga
+
+1170
+01:02:21,000 --> 01:02:25,000
+Toshiba omoguæila kupovinu laptopa
+bez operativnog sistema na njemu.
+
+1171
+01:02:25,700 --> 01:02:27,500
+Dakle, to je mala pobeda, ali...
+
+1172
+01:02:27,600 --> 01:02:31,600
+Èak i sada, kompanije poput IBM-a i...
+
+1173
+01:02:31,700 --> 01:02:34,000
+i mnogi drugi proizvoðaèi raèunara
+vam dozvoljavaju
+
+1174
+01:02:34,000 --> 01:02:36,600
+da kupite raèunare koji nemaju
+instaliran Windows.
+
+1175
+01:02:45,500 --> 01:02:48,300
+Kada sam kao klinac išao u školu
+
+1176
+01:02:48,300 --> 01:02:50,600
+uèitelji su pokušavali da nas nauèe da delimo.
+
+1177
+01:02:50,600 --> 01:02:52,600
+Govorili su da ako ponesete 505 sa crtom,
+
+1178
+01:02:52,600 --> 01:02:55,700
+i ne možete da ih pojedete sami,
+morate da ih podelite sa ostalom decom.
+
+1179
+01:02:55,700 --> 01:03:01,300
+Ali sada administracija govori da bi uèitelji
+trebali uèiti decu da kažu "da" licenciranju.
+
+1180
+01:03:01,300 --> 01:03:04,300
+Ako doneseš neki softver u školu,
+"Oh! Ne, nemoj da ga deliš...
+
+1181
+01:03:04,300 --> 01:03:08,300
+deljenje znaèi da si pirat,
+deljenje znaèi da æeš da završiš u zatvoru."
+
+1182
+01:03:08,500 --> 01:03:12,500
+To nije naèin na koji društvo treba
+da funkcioniše. Potrebna je dobra volja,
+
+1183
+01:03:13,500 --> 01:03:17,500
+spremnost da se pomogne drugim ljudima
+barem onda kada to nije preteško,
+
+1184
+01:03:17,800 --> 01:03:20,000
+zato jer je to osnova društva,
+
+1185
+01:03:20,000 --> 01:03:22,500
+to je osnovni izvor,
+
+1186
+01:03:22,500 --> 01:03:26,400
+zbog koga imamo društvo umesto džungle.
+
+1187
+01:03:26,400 --> 01:03:27,600
+Šta sa time što ljudi govore da ako
+
+1188
+01:03:27,600 --> 01:03:30,700
+imate raširenu pirateriju i
+eliminišete motiv profita i...
+
+1189
+01:03:30,700 --> 01:03:32,500
+...i kreativan rad, softver neæe...
+
+1190
+01:03:32,500 --> 01:03:35,500
+Kao prvo,
+
+1191
+01:03:35,500 --> 01:03:39,500
+ljudi ostvaruju profit razvijajuæi
+slobodan softver,
+
+1192
+01:03:39,500 --> 01:03:44,300
+ali sloboda za stvaranje zajednice je važnija.
+
+1193
+01:03:44,500 --> 01:03:48,300
+Ljudi obièno misle,
+što se tièe Slobodnog Softvera...
+
+1194
+01:03:48,300 --> 01:03:51,500
+Pa, buduæi da se od vas oèekuje da delite
+i da to radite zbog dobre volje,
+
+1195
+01:03:51,500 --> 01:03:53,900
+ne lièi li to na komunizam?
+Šta vi mislite ?
+
+1196
+01:03:53,900 --> 01:03:57,700
+Potpuna besmislica,
+vrlo me ljuti kad ljudi to rade!
+
+1197
+01:03:57,700 --> 01:04:02,500
+1989, komunizam bi ustvari bio kompliment.
+
+1198
+01:04:02,700 --> 01:04:05,100
+Reè koju su ljudi tada upotrebljavali
+je bila "lud".
+
+1199
+01:04:05,100 --> 01:04:07,000
+Ja želim da upotrebljavaju kapitalizam.
+
+1200
+01:04:07,000 --> 01:04:10,500
+Komunizam je ideologija
+koja ljude prisiljava da dele.
+
+1201
+01:04:10,600 --> 01:04:14,200
+Ako ne delite, strpaju vas u zatvor ili ubiju.
+
+1202
+01:04:14,400 --> 01:04:20,500
+1990. nas je posetio direktor instituta
+na moskovskom univerzitetu.
+
+1203
+01:04:20,600 --> 01:04:24,500
+Ja sam ga, ustvari, video u Helsinkiju
+pre 2 nedelje.
+
+1204
+01:04:25,700 --> 01:04:27,500
+ali, uglavnom, on je došao,
+
+1205
+01:04:27,700 --> 01:04:31,500
+a i Richard Stallman mu je predložio
+da poseti Cygnus,
+
+1206
+01:04:31,500 --> 01:04:35,500
+jer je želeo da shvati kako model
+Slobodnog Softvera
+
+1207
+01:04:35,500 --> 01:04:40,600
+može da se upotrebi za stimulisanje
+preduzetnièkih inovacija u Rusiji.
+
+1208
+01:04:40,800 --> 01:04:44,800
+Bili smo nekako tajnoviti
+oko našeg poslovnog plana,
+
+1209
+01:04:45,000 --> 01:04:47,700
+zato jer nismo bili baš sigurni
+da æe da funkcioniše.
+
+1210
+01:04:47,700 --> 01:04:50,500
+Nismo želeli da ispadnemo glupi ako propadne.
+
+1211
+01:04:50,500 --> 01:04:52,800
+Ali ja sam bio vrlo, vrlo otvoren sa njim.
+
+1212
+01:04:52,800 --> 01:04:56,700
+Èim sam mu više prièao,
+tim je više ovako klimao glavom,
+
+1213
+01:04:56,900 --> 01:05:00,500
+i napokon sam ga pitao "Šta nije u redu?"
+
+1214
+01:05:00,500 --> 01:05:05,500
+A on je odgovorio "Ovo previše zvuèi
+kao komunizam da bi uspelo u Rusiji."
+
+1215
+01:05:07,500 --> 01:05:11,500
+Ideš na Gulag i završiš u masovnoj
+grobnici sa metkom u potiljku.
+
+1216
+01:05:11,500 --> 01:05:15,500
+Open Source nije komunizam
+zato jer ne prisiljava ljude.
+
+1217
+01:05:17,500 --> 01:05:20,500
+Carl Marks nije izmislio pomaganje komšijama.
+
+1218
+01:05:22,300 --> 01:05:26,300
+Nije komunistièki imati zajednièko vlasništvo,
+
+1219
+01:05:26,400 --> 01:05:33,100
+zajednièka vlasništva su postojala mnogo
+pre komunizma kao filozofija vlade.
+
+1220
+01:05:33,900 --> 01:05:36,000
+Postoje mnoga zajednièka dobra
+u našem životu.
+
+1221
+01:05:36,000 --> 01:05:38,100
+Na primer, vozimo se autoputevima,
+
+1222
+01:05:38,100 --> 01:05:41,500
+to je nešto što se održava zbog opšteg dobra.
+
+1223
+01:05:41,500 --> 01:05:45,500
+Etiketiranje našeg poslovnog modela
+
+1224
+01:05:46,100 --> 01:05:48,200
+ustvari znaèi da je promašena suština.
+
+1225
+01:05:48,200 --> 01:05:49,300
+Bilo da je komunistièka, ili kapitalistièka,
+
+1226
+01:05:49,300 --> 01:05:52,900
+etiketa nije važna. Pravo pitanje je
+
+1227
+01:05:52,900 --> 01:05:56,500
+koliku vrednost možete da postignete,
+koliko je posao promenljiv,
+
+1228
+01:05:56,500 --> 01:05:59,800
+kakve probleme, kakve inovacije
+možete da podržite?
+
+1229
+01:05:59,800 --> 01:06:03,500
+I onda, kako god to želite da etiketirate,
+to ostaje na vama.
+
+1230
+01:06:04,900 --> 01:06:08,100
+Revolucija postaje ono primarno.
+
+1231
+01:06:32,100 --> 01:06:33,600
+Mnogi ljudi to opisuju kao
+
+1232
+01:06:33,600 --> 01:06:36,500
+"Linuxova oproštajna žurka"
+
+1233
+01:06:36,500 --> 01:06:40,500
+Linus Torvalds se samo nasmejao na to,
+rekao je, "Šta, zar je Linux gej?"
+
+1234
+01:06:42,500 --> 01:06:45,500
+Ali su neki govorili
+“Da, kao na prvu loptu.“
+
+1235
+01:06:46,100 --> 01:06:47,200
+To je bilo kad su se...
+
+1236
+01:06:47,200 --> 01:06:51,200
+bogovi Linuxa i hakeri sastali.
+
+1237
+01:07:01,300 --> 01:07:04,300
+10. avgusta 1999. u 15 sati,
+
+1238
+01:07:04,300 --> 01:07:07,900
+Linus Torvalds je objavio
+ciljnu adresu u LinuxWorld.
+
+1239
+01:07:07,900 --> 01:07:12,400
+Gomila od 6000 ljudi je poèela
+da se okuplja od 12 u podne.
+
+1240
+01:07:32,000 --> 01:07:34,500
+Dame i gospodo, Larry Augustin...
+
+1241
+01:07:34,500 --> 01:07:40,300
+Èlan konferencije LinuxWorlda i
+predsednik i CEO Linux Systemsa
+
+1242
+01:07:48,500 --> 01:07:51,500
+Oni moraju da aplaudiraju, plaæam ih za to.
+
+1243
+01:07:51,500 --> 01:07:55,800
+Hvala svima što ste došli,
+izgleda da za sada sve ide po planu.
+
+1244
+01:07:55,800 --> 01:08:02,100
+Samo trenutak, pokušaæu da izbegnem svetla.
+
+1245
+01:08:02,300 --> 01:08:05,500
+Mislim da još uvek ima mnogo ljudi,
+iako je ovo drugo izlaganje,
+
+1246
+01:08:05,500 --> 01:08:09,000
+mislim da još uvek ima mnogo ljudi,
+koji baš ne shvataju...
+
+1247
+01:08:09,000 --> 01:08:11,500
+...šta je to tako uzbudljivo oko Linuxa.
+
+1248
+01:08:11,500 --> 01:08:13,500
+Do nas je veliko izlaganje,
+
+1249
+01:08:13,500 --> 01:08:16,200
+sa velikim izložbama i svime,
+
+1250
+01:08:16,200 --> 01:08:21,100
+ali ovi ljudi tu najviše doprinose,
+a ne te kompanije.
+
+1251
+01:08:21,100 --> 01:08:24,000
+Sledeæu osobu znam da svi znate,
+
+1252
+01:08:24,000 --> 01:08:26,900
+zato ne treba ništa da kažem kao uvod.
+
+1253
+01:08:26,900 --> 01:08:30,500
+Dame i gospodo, predstavljam vam
+Linusa Torvaldsa!
+
+1254
+01:08:30,500 --> 01:08:33,500
+Linus
+
+1255
+01:08:38,500 --> 01:08:39,500
+Hvala.
+
+1256
+01:08:42,500 --> 01:08:44,500
+Smirite se.
+
+1257
+01:08:50,000 --> 01:08:52,000
+Smiiiirite see!!!
+
+1258
+01:08:52,000 --> 01:08:53,500
+Recite "uuuuu".
+
+1259
+01:08:53,500 --> 01:08:54,500
+Da.
+
+1260
+01:08:54,700 --> 01:08:58,100
+Ne želim da održim jedan od mojih
+uobièajenih govora
+
+1261
+01:08:58,100 --> 01:08:59,600
+jer mislim da su dosadni.
+
+1262
+01:08:59,600 --> 01:09:03,600
+Verovatno i veæina vas smatra da su dosadni
+jer ste ih èuli veæ 10ak puta.
+
+1263
+01:09:04,500 --> 01:09:07,200
+Nakon tehnièkih novosti, pokušaæemo...
+
+1264
+01:09:07,200 --> 01:09:11,700
+...da odgovaramo na pitanja 5000 ljudi,
+
+1265
+01:09:11,800 --> 01:09:14,500
+ili koliko vas veæ ima.
+
+1266
+01:09:15,500 --> 01:09:17,700
+Što možda neæe da uspe,
+
+1267
+01:09:17,700 --> 01:09:21,400
+zato jer je neko od tih 5000 ljudi
+jako glasan.
+
+1268
+01:09:21,400 --> 01:09:22,500
+Ali jedno æu da uradim,
+
+1269
+01:09:22,500 --> 01:09:26,500
+ono što uvek radim u svojim govorima
+je zahvala.
+
+1270
+01:09:26,900 --> 01:09:30,000
+Želim da potvrdim èinjenicu da...
+
+1271
+01:09:30,000 --> 01:09:32,500
+...oèito nisam bio sam u izradi Linuxa.
+
+1272
+01:09:32,500 --> 01:09:34,500
+RHAT IPO: 11. avgusta 1999.
+
+1273
+01:09:34,500 --> 01:09:38,200
+Red Hat Software je postala prva
+Linux kompanija koja izlazi u javnost.
+
+1274
+01:09:38,200 --> 01:09:40,200
+Red Hat porastao za 228%
+
+1275
+01:09:40,200 --> 01:09:43,300
+to je IPO koji su svi èekali.
+
+1276
+01:09:43,300 --> 01:09:45,800
+Oni, svakako, spadaju u Linux
+operativni softver.
+
+1277
+01:09:52,500 --> 01:09:56,500
+R-H-A-T, znam.
+
+1278
+01:09:57,500 --> 01:09:58,500
+Sve što sam danas dobio,
+
+1279
+01:09:58,500 --> 01:10:01,900
+su komentari o tome kolika
+je cena deonica.
+
+1280
+01:10:01,900 --> 01:10:05,400
+Bila je na 41, na 42, na 47,
+
+1281
+01:10:05,400 --> 01:10:08,300
+na 53, na 51...
+
+1282
+01:10:08,300 --> 01:10:12,100
+Svaki raèunar, koliko vidim ovde
+
+1283
+01:10:12,100 --> 01:10:16,100
+je usmeren na e-trade raèune ili
+brokerske raèune, oni znaju cenu Red Hata.
+
+1284
+01:10:16,900 --> 01:10:19,400
+Ne mogu da verujem!
+
+1285
+01:10:19,400 --> 01:10:21,200
+Upravo sam èuo 53.
+
+1286
+01:10:21,200 --> 01:10:22,200
+O èoveèe.
+
+1287
+01:10:22,200 --> 01:10:24,200
+Èekaj, nisam kupio.
+
+1288
+01:10:24,200 --> 01:10:25,600
+Nisi kupio?
+
+1289
+01:10:25,600 --> 01:10:27,800
+Ne, ne, nisam kupio.
+
+1290
+01:10:27,800 --> 01:10:29,500
+Trebao sam da kupim, ali
+
+1291
+01:10:29,500 --> 01:10:31,100
+Ne, ne, to je odlièno...
+
+1292
+01:10:31,100 --> 01:10:32,600
+ako je... ako je...
+
+1293
+01:10:32,600 --> 01:10:33,900
+Vi ne znate?
+
+1294
+01:10:33,900 --> 01:10:35,000
+Pa, znate...
+
+1295
+01:10:35,000 --> 01:10:37,300
+To što je Red Hat uspešan znaèi da
+
+1296
+01:10:37,300 --> 01:10:40,800
+legitimira Linux, tako da nam je
+lakše da izaðemo na tržište.
+
+1297
+01:10:57,500 --> 01:11:00,500
+Rob Malda (CmdrTaco) ...
+...na Red Hat IPOu
+
+1298
+01:11:00,500 --> 01:11:02,500
+Nekako je sve bilo pomalo podeljeno.
+
+1299
+01:11:02,500 --> 01:11:03,500
+Postoji dosta ljudi
+
+1300
+01:11:03,500 --> 01:11:04,500
+koji su poprilièno "hardcore",
+
+1301
+01:11:04,500 --> 01:11:05,800
+i oni su na neki naèin uvreðeni
+
+1302
+01:11:05,800 --> 01:11:08,900
+znate, jer puno rade, a ustvari
+ne dobijaju...
+
+1303
+01:11:08,900 --> 01:11:11,400
+...možda njihov deo kolaèa.
+
+1304
+01:11:11,400 --> 01:11:12,600
+Nekima to smeta.
+
+1305
+01:11:12,600 --> 01:11:13,700
+I znate ono
+
+1306
+01:11:13,700 --> 01:11:15,900
+što vidite na mnogim dopisnim društvima
+ili proèitate na Slashdotu...
+
+1307
+01:11:15,900 --> 01:11:21,700
+"Ovaj tip je stvarno ljut jer
+nije dobio šansu da...
+
+1308
+01:11:22,800 --> 01:11:24,200
+dobije deonice Red Hata...
+
+1309
+01:11:24,200 --> 01:11:29,200
+...nije dobio šansu da dobije posao
+u nekoj firmi.
+
+1310
+01:11:29,700 --> 01:11:33,200
+Ali šokantana istina je ta da,
+
+1311
+01:11:33,200 --> 01:11:36,300
+veæinu tih "hardcore" tipova nije
+toliko briga.
+
+1312
+01:11:36,300 --> 01:11:38,100
+Oni su drugaèiji.
+
+1313
+01:11:38,100 --> 01:11:40,500
+Oni pišu taj kod zato jer im je potreban.
+
+1314
+01:11:40,800 --> 01:11:42,900
+Pozivamo Richarda Stallmana
+
+1315
+01:11:42,900 --> 01:11:46,300
+koji je osnivaè fondacije za Slobodni softver
+
+1316
+01:11:46,300 --> 01:11:48,200
+i Tim Neya, koji je generalni direktor.
+
+1317
+01:11:48,200 --> 01:11:51,500
+Tako. heheheheheheheheh
+
+1318
+01:11:51,500 --> 01:11:53,700
+Ah, tu je.
+
+1319
+01:11:54,500 --> 01:11:59,300
+Riharde, video sam da si snimao
+na Linuxovoj konferenciji u Parizu
+
+1320
+01:11:59,300 --> 01:12:00,700
+ali nisam imao audio snimke.
+
+1321
+01:12:00,700 --> 01:12:02,900
+Bi li dodao audio na njihov...
+
+1322
+01:12:02,900 --> 01:12:04,900
+video strim sledeæi put?
+
+1323
+01:12:04,900 --> 01:12:07,100
+Uh... ja nemam kontrolu nad time.
+
+1324
+01:12:07,100 --> 01:12:11,100
+Na žalost, to može da se uradi samo sa
+ne-slobodnim softverom.
+
+1325
+01:12:14,600 --> 01:12:17,900
+Uruèiæu ti nagradu, i prije
+nego što kažeš
+
+1326
+01:12:17,900 --> 01:12:22,800
+Tim i ti æete da pridržite ovaj simbol donacije
+
+1327
+01:12:23,000 --> 01:12:25,300
+Fondaciji za Slobodan softver.
+
+1328
+01:12:25,300 --> 01:12:29,300
+Pa, dogodile su se vrlo ironiène stvari,
+
+1329
+01:12:29,700 --> 01:12:32,500
+ali ništa ne može da se meri sa ovim.
+
+1330
+01:12:32,500 --> 01:12:36,100
+Davanje Linus Torvalds nagrade
+Fondaciji za Slobodan softver
+
+1331
+01:12:36,100 --> 01:12:40,100
+je kao davanje Han Solo nagrade
+pobunjenicima. (smijeh)
+
+1332
+01:12:44,700 --> 01:12:50,500
+Vidite, neki od vas ne shvataju
+koliko daleko ide ta analogija.
+
+1333
+01:12:52,300 --> 01:12:55,800
+Ali ustvari, dozvolite mi da vam
+kažem kako smo dospeli ovde.
+
+1334
+01:12:55,800 --> 01:12:57,300
+Vidite, dogodilo se to da,
+
+1335
+01:12:57,300 --> 01:12:59,900
+ako ste želeli da koristite raèunar
+pre 15 godina,
+
+1336
+01:12:59,900 --> 01:13:03,900
+to ste jedino mogli pomoæu
+vlasnièkog softvera,
+
+1337
+01:13:04,800 --> 01:13:07,500
+softvera koji deli i pokorava korisnike.
+
+1338
+01:13:07,500 --> 01:13:09,400
+A veæina ljudi...
+
+1339
+01:13:09,400 --> 01:13:10,700
+mnogim ljudima se to nije sviðalo,
+
+1340
+01:13:10,700 --> 01:13:12,200
+ali nisu imali alternativu.
+
+1341
+01:13:12,200 --> 01:13:16,000
+Ali neki od nas su odluèili
+da naprave alternativu.
+
+1342
+01:13:16,000 --> 01:13:20,000
+I rekli smo da æemo da razvijemo
+slobodan operativni sistem,
+
+1343
+01:13:20,100 --> 01:13:21,900
+slobodan softverski operativni sistem
+
+1344
+01:13:21,900 --> 01:13:27,600
+koji æe korisnicima da da slobodu
+dok koriste raèunare.
+
+1345
+01:13:28,200 --> 01:13:30,800
+Puno ljudi je reklo,
+"Pa, to je dobra ideja,
+
+1346
+01:13:30,800 --> 01:13:33,100
+ali je preteško, nikad neæete da uspete,
+
+1347
+01:13:33,100 --> 01:13:37,000
+i zato ne želim da uèestvujem,
+ne verujem da æete da uspete."
+
+1348
+01:13:37,000 --> 01:13:39,800
+Ali, na svu sreæu, nisu svi tako govorili.
+
+1349
+01:13:39,800 --> 01:13:43,700
+Znali smo da æemo vremenom
+da završimo kernel.
+
+1350
+01:13:43,700 --> 01:13:45,000
+Ali kako to veæ ide,
+
+1351
+01:13:45,000 --> 01:13:48,100
+neko drugi je uradio bolji
+kernel pre nas.
+
+1352
+01:13:48,100 --> 01:13:51,700
+Ranije smo imali opštu strategiju
+
+1353
+01:13:51,700 --> 01:13:55,300
+privlaèenja pažnje na važnost slobode
+
+1354
+01:13:55,300 --> 01:13:59,300
+koju imaju ili nemaju kada
+koriste raèunar.
+
+1355
+01:14:00,000 --> 01:14:02,100
+Šta možemo da uradimo u vezi toga?
+Koliko se meni èini,
+
+1356
+01:14:02,100 --> 01:14:08,100
+jedini moguæ naèin da ta strategija
+ponovo proradi
+
+1357
+01:14:08,500 --> 01:14:14,300
+je da, proširimo glas da je operativni
+sitem koji koristite ustvari GNU sistem.
+
+1358
+01:14:14,400 --> 01:14:16,600
+Donekle modifikovan, naravno.
+
+1359
+01:14:17,700 --> 01:14:19,600
+I kad ljudi to budu znali,
+
+1360
+01:14:19,600 --> 01:14:23,100
+videæe razloge zbog kojih
+smo razvili ovaj sistem.
+
+1361
+01:14:23,100 --> 01:14:25,000
+Razmisliæe o tim problemima.
+
+1362
+01:14:25,000 --> 01:14:27,800
+I neki od njih æe shvatiti da se slažu.
+
+1363
+01:14:27,800 --> 01:14:31,100
+Zato i tražim ljude da kažu ostalima
+da je ovo GNU sistem.
+
+1364
+01:14:31,100 --> 01:14:35,100
+To je kombinacija GNUa i Linuxa,
+zato možemo da ga zovemo GNU/Linux.
+
+1365
+01:14:41,100 --> 01:14:44,400
+Dakle, Larry, kada si pre 8, 9 godina
+bio na Stanfordu tokom studija
+
+1366
+01:14:44,400 --> 01:14:46,100
+jesi li ikad pomislio da æeš
+da se naðeš u ovoj poziciji?
+
+1367
+01:14:46,100 --> 01:14:47,000
+Ne.
+
+1368
+01:14:47,000 --> 01:14:48,400
+Šalu na stranu.
+
+1369
+01:14:48,400 --> 01:14:50,300
+Ne, nisam imao pojma, stvarno.
+
+1370
+01:14:50,300 --> 01:14:53,100
+Šta si mislio, šta æeš da budeš
+kada završiš doktoriraš?
+
+1371
+01:14:53,100 --> 01:14:54,500
+To je dobro pitanje,
+
+1372
+01:14:54,500 --> 01:14:56,800
+stvarno nisam imao neku ideju, mislim...
+
+1373
+01:14:56,800 --> 01:15:00,100
+...evo nas ovde, na ovom velikom spratu.
+
+1374
+01:15:00,100 --> 01:15:03,100
+Ima ljudi koji luduju zbog Linuxa.
+
+1375
+01:15:03,100 --> 01:15:06,500
+Sinoæ se 6200 ljudi zbilo u prostoriju
+
+1376
+01:15:06,500 --> 01:15:09,800
+da vide Linusa.
+
+1377
+01:15:09,800 --> 01:15:11,400
+Evo nas ovde sa,
+
+1378
+01:15:11,400 --> 01:15:14,100
+svim tim velikim prodavcima.
+
+1379
+01:15:14,100 --> 01:15:17,200
+Jednostavno... nemate pojma
+da æe tako nešto da se desi.
+
+1380
+01:15:17,200 --> 01:15:20,000
+Mislim, to je samo taj mali operativni
+sistem kojim smo zadovoljni,
+
+1381
+01:15:20,000 --> 01:15:22,000
+za koji je malo ljudi marilo, znate.
+
+1382
+01:15:22,000 --> 01:15:24,000
+Mislio sam da æu da pokrenem
+mali savetodavni biznis.
+
+1383
+01:15:24,000 --> 01:15:25,400
+I odjednom sam ovde,
+
+1384
+01:15:25,400 --> 01:15:27,900
+sa ovom velikom predstavom.
+
+1385
+01:15:27,900 --> 01:15:28,900
+To je jednostavno neverovatno.
+
+1386
+01:15:28,900 --> 01:15:32,100
+Mislim, pre godinu dana, mogli ste
+da kažete da æe ovo da bude spektakl.
+
+1387
+01:15:32,100 --> 01:15:33,900
+I svi prisutni govore,
+
+1388
+01:15:33,900 --> 01:15:36,300
+"Znate da je prošle godine
+bilo spektakularno,
+
+1389
+01:15:36,300 --> 01:15:39,300
+hoæe li tako da bude i ove godine?"
+
+1390
+01:15:39,400 --> 01:15:40,600
+Onda ih podsetite,
+
+1391
+01:15:40,600 --> 01:15:42,800
+"Prošla godina je bila pre samo 6 meseci."
+
+1392
+01:15:42,900 --> 01:15:44,800
+A oni kažu "Oh, vreme je za Linux".
+
+1393
+01:16:11,500 --> 01:16:13,700
+Prema IPOu
+
+1394
+01:16:13,700 --> 01:16:19,700
+stigli smo u San Diego u sredu uveèe.
+
+1395
+01:16:20,000 --> 01:16:24,000
+U èetvrtak ujutro smo se sastali smo se
+sa investitorima u Sad Diegu.
+
+1396
+01:16:24,400 --> 01:16:25,800
+Odleteli smo u San Francisco,
+
+1397
+01:16:25,800 --> 01:16:29,700
+proveli sredu popodne upoznajuæi se sa
+investitorskim firmama u San Franciscu.
+
+1398
+01:16:29,700 --> 01:16:30,600
+VA Linux je izabran, njegove deonice
+æe poèeti da se prodaju 9. decembra 1999.
+
+1399
+01:16:30,600 --> 01:16:34,000
+a, na IPOu u èetvrtak ujutro
+
+1400
+01:16:34,000 --> 01:16:36,500
+æe naše deonice biti javno prodavane.
+
+1401
+01:16:36,500 --> 01:16:40,300
+Dobro je što smo završili sa San Franciscom
+
+1402
+01:16:40,300 --> 01:16:44,200
+jer smo sledeæeg jutra mogli da odemo dalje
+
+1403
+01:16:44,200 --> 01:16:46,100
+da bi prisustvovali javnoj aukciji.
+
+1404
+01:16:46,100 --> 01:16:50,100
+A pošto je San Francisco dosta
+blizu kompaniji i našim porodicama,
+
+1405
+01:16:50,100 --> 01:16:54,100
+mogli smo da ih pozovemo da nam
+se pridruže u prvoj prodaji.
+
+1406
+01:16:54,100 --> 01:16:57,200
+I tako sam pozvao svoju suprugu a,
+pozvali smo i Linusa i Tove,
+
+1407
+01:16:57,200 --> 01:17:00,700
+i mnoge druge prijatelje i kolege koji su
+radili u kompaniji da nam se pridruže.
+
+1408
+01:17:00,700 --> 01:17:02,200
+Kad god pozovemo Linusa i Tove,
+
+1409
+01:17:02,200 --> 01:17:05,300
+oni imaju dvoje male dece,
+
+1410
+01:17:05,300 --> 01:17:07,300
+a ja imam kæer Andreu.
+
+1411
+01:17:07,300 --> 01:17:08,800
+Mi uvek povedemo i decu sa sobom
+
+1412
+01:17:08,800 --> 01:17:10,800
+pa smo otišli do trgovaèkog sprata
+
+1413
+01:17:10,800 --> 01:17:13,200
+sa svim tim prodavcima i još
+s tom trogodišnjom decom
+
+1414
+01:17:13,200 --> 01:17:15,500
+koja trèe naokolo jureæi jedno drugo
+
+1415
+01:17:15,500 --> 01:17:16,500
+po spratu.
+
+1416
+01:17:16,500 --> 01:17:21,700
+Linus i ja smo ušli i popeli
+se do trgovaèkog sprata
+
+1417
+01:17:21,800 --> 01:17:23,100
+i svi su bili vrlo uzbuðeni.
+
+1418
+01:17:23,100 --> 01:17:26,300
+I stalno smo ih zapitkivali
+"Kako ide? Je li sve u redu?"
+
+1419
+01:17:26,300 --> 01:17:29,100
+a oni bi odgovorili,
+"Oh, znate, vrlo smo uzbuðeni,
+
+1420
+01:17:29,100 --> 01:17:30,300
+mislimo da sve ide kako treba.
+
+1421
+01:17:30,300 --> 01:17:33,900
+Neæemo, neæemo da kažemo,
+neæemo da ureknemo."
+
+1422
+01:17:33,900 --> 01:17:37,900
+Ušli smo unutra i tu je bio veliki
+TV na kojem se prikazivao CNBC.
+
+1423
+01:17:38,500 --> 01:17:42,500
+Na naše iznenaðenje tema dana je bio Linux.
+
+1424
+01:17:42,600 --> 01:17:45,000
+Sad imamo IPO koji æe da krene danas.
+
+1425
+01:17:45,000 --> 01:17:47,200
+Kad kažem da krene, onda æe i da krene.
+
+1426
+01:17:47,200 --> 01:17:49,200
+Procene koje èujem su zaprepašæujuæe.
+
+1427
+01:17:49,200 --> 01:17:52,700
+Ali prati VA Linux Systems.
+Krenuæe danas u 12:40.
+
+1428
+01:17:52,700 --> 01:17:54,400
+Simbol je L-N-U-X.
+
+1429
+01:17:54,400 --> 01:17:58,000
+Dobavljaè velikog niza kompjuterskih
+servera i radnih stanica,
+
+1430
+01:17:58,000 --> 01:18:00,200
+posebno dizajniranih za Linux
+operativni sistem.
+
+1431
+01:18:00,200 --> 01:18:06,300
+Originalni raspon ovog IPOa je bio
+od 11 do 13 dolara, od 21 do 23 i od 28 do 30.
+
+1432
+01:18:06,500 --> 01:18:09,800
+Procenjeno na 30, a predviðanja koja sam
+naèuo ne želim da ponavljam
+
+1433
+01:18:09,800 --> 01:18:11,100
+jer još nisu potvrðena.
+
+1434
+01:18:11,100 --> 01:18:16,000
+Ali ako su istinita, poludeæeš kad
+deonice poènu da rastu u 12:40.
+
+1435
+01:18:16,000 --> 01:18:18,400
+Okrenuo sam se ka Linusu i rekao
+"Jesi li ikad pomislio,
+
+1436
+01:18:18,400 --> 01:18:23,600
+da æeš ušetati ovde jednog dana, a
+Linux æe biti glavna tema na CNBC?".
+
+1437
+01:18:24,200 --> 01:18:26,900
+a Linus reèe na svoj šaljiv naèin
+"O, apsolutno!".
+
+1438
+01:18:27,300 --> 01:18:30,800
+Tako smo ušli unutra i oni su nam pokazali
+kako pristižu narudžbine za kupovinu i prodaju.
+
+1439
+01:18:30,800 --> 01:18:32,800
+i to je neverovatno.
+
+1440
+01:18:32,800 --> 01:18:36,400
+Gledali smo u brojeve kao što je
+320 dolara, 340 dolara po deonici.
+
+1441
+01:18:37,000 --> 01:18:38,900
+A ja sam u totalnom šoku.
+
+1442
+01:18:38,900 --> 01:18:44,200
+A znaš da je to 10 puta veæa cena
+od ponuðene. Bilo je neverovatno.
+
+1443
+01:18:44,500 --> 01:18:48,500
+I seæam se da me je Linus kao
+tapšao po leðima govoreæi,
+
+1444
+01:18:48,500 --> 01:18:52,500
+“Opusti se..." i bilo je
+vrlo uzbudljivo to videti.
+
+1445
+01:18:52,500 --> 01:18:55,400
+Bili smo, to je bilo zaèuðujuæe,
+bili smo zaprepašæeni.
+
+1446
+01:18:55,800 --> 01:18:58,800
+Bili smo sreæni što smo mogli
+da se vratimo u kancelarije,
+
+1447
+01:18:58,800 --> 01:19:02,600
+pošto smo bili u San Franciscu mogli
+smo da se vratimo u VAove kancelarije
+
+1448
+01:19:02,600 --> 01:19:05,100
+da, da bismo videli sve u kancelariji za IPO.
+
+1449
+01:19:05,100 --> 01:19:10,000
+Kad smo se vratili, imali smo uh,
+svi su bili veoma uzbuðeni.
+
+1450
+01:19:10,600 --> 01:19:13,300
+IPO je neverovatno dobro prošao.
+
+1451
+01:19:13,300 --> 01:19:16,900
+Napravili smo žurku.
+
+1452
+01:19:16,900 --> 01:19:18,600
+Interesantno, dok smo slavili
+
+1453
+01:19:18,600 --> 01:19:21,100
+bilo je dosta ljudi koji su još uvek
+pokušavali da rade.
+
+1454
+01:19:21,100 --> 01:19:24,900
+Seæam se upozorenja "Tiše malo!",
+"Telefoniramo!", "Mi radimo!",
+
+1455
+01:19:24,900 --> 01:19:28,600
+dok smo, dok smo išli u kancelarije.
+
+1456
+01:19:28,600 --> 01:19:32,400
+Napravio sam sajamsku prezentaciju
+
+1457
+01:19:32,400 --> 01:19:34,200
+za zaposlene u kancelariji,
+
+1458
+01:19:34,200 --> 01:19:37,300
+tako da dobiju ideju o tome
+šta smo govorili investitorima,
+
+1459
+01:19:37,300 --> 01:19:40,900
+i da razumiju toèno što smo napravili za njih.
+
+1460
+01:19:40,900 --> 01:19:49,600
+Ali opet je vest dana VA Linux, koji je
+porastao 766% od 235 dolara do 265.
+
+1461
+01:19:49,800 --> 01:19:52,200
+Sue, najbolja osoba za rad na IPOu ikad.
+
+1462
+01:19:52,200 --> 01:19:57,700
+Evo, Sycamore Networks je procenjen na
+38 dolara, i porastao je na 270 dolara.
+
+1463
+01:19:58,000 --> 01:20:00,300
+E to nije ništa. I usput...
+
+1464
+01:20:00,300 --> 01:20:04,300
+Šta misliš o potencijalnom bogatstvu
+od bilion dolara koje se stvara
+
+1465
+01:20:04,500 --> 01:20:08,500
+od tvoje ideje, a ne možeš
+da ga podigneš odmah?
+
+1466
+01:20:09,100 --> 01:20:12,500
+Pa, da nisam napravio Linux
+pristupaènim, mislim
+
+1467
+01:20:12,500 --> 01:20:15,800
+ne bih, ionako, dobio ništa
+novca ni na taj naèin.
+
+1468
+01:20:15,800 --> 01:20:18,700
+Mislim, to je situacija u
+kojoj ne možeš da izgubiš.
+
+1469
+01:20:18,700 --> 01:20:25,500
+Uh, sama èinjenica da postoji mnogo
+komercijalnih kompanija
+
+1470
+01:20:25,600 --> 01:20:31,500
+znaèi da ima mnogo Linux ljudi koji su
+navikli da rade na Linuxu, onako sa strane.
+
+1471
+01:20:32,000 --> 01:20:34,700
+A sada su i plaæeni jer rade to što vole da rade.
+
+1472
+01:20:34,700 --> 01:20:39,300
+A to mi pomaže u tom smislu da sam
+ionako i hteo da rade na Linuxu.
+
+1473
+01:21:00,900 --> 01:21:06,200
+Ceo GNU projekat je ustvari jedan veliki hak.
+
+1474
+01:21:06,700 --> 01:21:10,700
+To je jedan veliki èin subverzivne,
+razigrane osvešæenosti,
+
+1475
+01:21:10,700 --> 01:21:16,800
+da bi se društvo promenilo na bolje, jer sam
+zainteresovan jedino da ga promenim na bolje,
+
+1476
+01:21:16,900 --> 01:21:21,100
+ali na pametan naèin.
+
+1477
+01:21:21,300 --> 01:21:25,300
+Zdravo, mi smo GNU/Stallmans, a ovo je
+"Pesma o Slobodnom softveru"
+
+1478
+01:21:26,300 --> 01:21:29,900
+Pridružite nam se i delite softver;
+
+1479
+01:21:29,900 --> 01:21:36,700
+Biæete slobodni, hakeri, biæete slobodni.
+
+1480
+01:21:37,600 --> 01:21:38,400
+Biæete slobodni, hakeri, biæete slobodni.
+
+1481
+01:21:46,100 --> 01:21:49,200
+Mnogi možda imaju gomile novca,
+
+1482
+01:21:49,200 --> 01:21:56,600
+To je istina hakeri, to je istina.
+
+1483
+01:21:58,400 --> 01:22:01,800
+Ali ne mogu da pomognu svojim komšijama;
+
+1484
+01:22:01,800 --> 01:22:09,800
+To nije dobro, hakeri, to nije dobro.
+
+1485
+01:22:14,000 --> 01:22:17,000
+Kad budemo imali dosta slobodnog softvera
+
+1486
+01:22:17,000 --> 01:22:24,300
+Na raspolaganju, hakeri, na raspolaganju,
+
+1487
+01:22:26,400 --> 01:22:29,600
+Odbaciæemo te prljave licence
+
+1488
+01:23:12,400 --> 01:23:15,700
+Pridružite nam se i delite softver;
+
+1489
+01:23:15,700 --> 01:23:22,900
+Biæete slobodni, hakeri, biæete slobodni.
+
+1490
+01:23:24,800 --> 01:23:27,800
+Pridružite nam se i delite softver;
+
+1491
+01:23:27,800 --> 01:23:34,400
+Biæete slobodni, hakeri, biæete slobodni.
+
+1492
+01:23:36,600 --> 01:23:39,400
+O, biæete slobodni
+
+1493
+01:23:39,400 --> 01:23:41,100
+Ja æu vam pokazati.
+
+1494
+01:23:41,100 --> 01:23:44,000
+Da æete biti slobodni.
+
+1495
+01:23:44,000 --> 01:23:45,900
+Ja æu vam pokazati.
+
+1496
+01:23:45,900 --> 01:23:49,900
+Da æete biti slobodni.
+
+1497
+01:23:53,000 --> 01:23:57,000
+Da æete biti slobodni.
+
+1498
+01:24:00,000 --> 01:24:05,000
+Adaptacija srpskog prevoda
+Aleksandar Uroševiæ - urke@users.sf.net
+(korišæeni hrvatski i engleski prevodi)
+
+1499
+01:24:06,000 --> 01:24:11,000
+Udruženje korisnika GNU/Linuxa Kragujevac
+http://uklk.urosevic.net
+
+1500
+01:24:14,000 --> 01:24:18,000
+Preuzeto sa www.titlovi.com
+
+1501
+01:24:19,305 --> 01:25:19,925
+-== [ www.OpenSubtitles.org ] ==-

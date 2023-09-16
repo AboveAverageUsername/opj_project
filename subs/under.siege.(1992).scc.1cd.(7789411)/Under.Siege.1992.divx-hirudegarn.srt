@@ -1,0 +1,5106 @@
+1
+00:00:06,000 --> 00:00:12,074
+ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+
+2
+00:00:57,420 --> 00:01:01,080
+POD OPSADOM
+
+3
+00:01:09,919 --> 00:01:12,199
+30 minuta do Perl Harbura.
+
+4
+00:01:16,918 --> 00:01:18,238
+Hej, Kejs!
+
+5
+00:01:18,479 --> 00:01:19,398
+Šta se dešava?
+
+6
+00:01:19,598 --> 00:01:21,558
+Gde ti je bela uniforma?
+Stiže predsednik.
+
+7
+00:01:21,758 --> 00:01:23,158
+Neæu mu nedostajati.
+
+8
+00:01:23,398 --> 00:01:26,998
+A šta je ovo? U Mornarici si,
+moraš dobro da izgledaš. Tako.
+
+9
+00:01:27,197 --> 00:01:29,398
+Æelavi, šta ima?
+- Gde ti je belo?
+
+10
+00:01:29,637 --> 00:01:33,917
+Jadnik nema belu uniformu.
+- Imam! Zaboravio sam "štikle".
+
+11
+00:01:49,396 --> 00:01:52,036
+Recite da ne brine.
+Sve je sreðeno.
+
+12
+00:01:52,836 --> 00:01:54,556
+O, moj Bože...
+
+13
+00:01:55,996 --> 00:01:58,595
+Ne, sve je u redu.
+Srediæemo to.
+
+14
+00:02:00,555 --> 00:02:03,115
+Biæe to zoološki vrt.
+
+15
+00:02:03,755 --> 00:02:04,595
+Kuvar Rajbek.
+
+16
+00:02:04,955 --> 00:02:05,955
+Neka uðe.
+
+17
+00:02:11,715 --> 00:02:13,314
+Kuvaru, obucite uniformu.
+
+18
+00:02:13,595 --> 00:02:16,474
+Znate šta ja mislim o ceremonijama.
+Mislio sam da ovaj put...
+
+19
+00:02:16,674 --> 00:02:18,834
+Da ja imam tolika odlikovanja,
+spavao bih sa njima.
+
+20
+00:02:19,314 --> 00:02:20,154
+Da, gospodine.
+
+21
+00:02:20,354 --> 00:02:22,993
+Navucite belu uniformu,
+predstaviæu vas predsedniku.
+
+22
+00:02:23,234 --> 00:02:26,513
+Cenim to, ali moram...
+- Mislim da to nije mudro.
+
+23
+00:02:26,713 --> 00:02:29,873
+Zapovednik Kril i ja
+se bar jednom slažemo.
+
+24
+00:02:30,313 --> 00:02:33,473
+Usput, treba da se spremi
+200 litara ribljeg paprikaša...
+
+25
+00:02:33,673 --> 00:02:34,553
+...do sutra.
+
+26
+00:02:34,793 --> 00:02:35,672
+Moj roðendan?
+
+27
+00:02:35,913 --> 00:02:37,753
+Mogu ja sa èizburgerima.
+
+28
+00:02:37,992 --> 00:02:40,654
+Nije to za mene, nego za posadu.
+Oni to jako vole.
+
+29
+00:02:40,754 --> 00:02:42,772
+To æemo onda spremiti.
+
+30
+00:02:42,872 --> 00:02:46,112
+Dobro, ali se pojavite
+tek posle ceremonije.
+
+31
+00:02:46,912 --> 00:02:48,712
+E, jesi bedni mornar.
+
+32
+00:02:49,152 --> 00:02:51,551
+To jesam.
+Hvala, gospodine.
+
+33
+00:02:57,551 --> 00:02:58,711
+Gospodine...
+
+34
+00:02:59,071 --> 00:03:01,471
+Zašto tolerišete tog klovna?
+
+35
+00:03:01,911 --> 00:03:03,311
+Znam da ga smatrate dobrim kuvarom.
+
+36
+00:03:03,550 --> 00:03:07,910
+On je više od toga. Nemate vi pojma.
+Pustite ga na miru.
+
+37
+00:03:08,430 --> 00:03:09,630
+Da, gospodine.
+
+38
+00:03:15,710 --> 00:03:17,150
+<i>Na današnji dan pre 50 godina...
+
+39
+00:03:17,349 --> 00:03:20,469
+<i>...japanski iznenadni napad
+uništio je Pacifièku flotu...</i>
+
+40
+00:03:20,709 --> 00:03:21,989
+<i>...ovde u Perl Harburu.</i>
+
+41
+00:03:22,229 --> 00:03:25,989
+<i>Danas, u èast poginulima,
+vraæa se bojni brod USS Misuri.</i>
+
+42
+00:03:27,068 --> 00:03:29,548
+<i>Izgraðen da osveti
+Perl Harbur, to je i uèinio.</i>
+
+43
+00:03:29,789 --> 00:03:32,148
+<i>Par dana nakon što smo bacili
+atomsku bombu na Hirošimu...</i>
+
+44
+00:03:32,349 --> 00:03:34,988
+<i>...Japanci su se predali
+na palubi Misurija...</i>
+
+45
+00:03:35,228 --> 00:03:36,508
+<i>...i tako je završio Drugi svetski rat.</i>
+
+46
+00:03:38,708 --> 00:03:41,188
+<i>Brod je ispalio prve
+hice u Zalivskom ratu.</i>
+
+47
+00:03:41,627 --> 00:03:44,948
+<i>Moæni topovi od 400 mm
+uništili su iraèke bunkere.</i>
+
+48
+00:03:45,187 --> 00:03:48,587
+<i>Njegovi "tomahavk" projektili
+pali su duboko u srce Bagdada.</i>
+
+49
+00:03:49,147 --> 00:03:52,587
+<i>Najbrži i najmoæniji bojni
+brod koji je plovio morima...</i>
+
+50
+00:03:55,267 --> 00:03:56,186
+Gde ti je tetovaža?
+
+51
+00:03:56,587 --> 00:03:58,947
+Tamo gde je bolje da je ne vidiš.
+
+52
+00:03:59,627 --> 00:04:02,746
+<i>A sad æe brod DB-63
+biti stavljen van službe.</i>
+
+53
+00:04:02,946 --> 00:04:05,786
+<i>Predsednik Buš upravo
+odaje poslednju poèast brodu...</i>
+
+54
+00:04:06,026 --> 00:04:07,386
+<i>...i njegovoj sjajnoj prošlosti.</i>
+
+55
+00:04:07,585 --> 00:04:11,385
+Znate li vic kad su
+Mujo i Haso pošli u lov?
+
+56
+00:04:13,665 --> 00:04:15,625
+"Haso, bolan, a gde su puške?"
+
+57
+00:04:16,185 --> 00:04:17,345
+Baš su takvi!
+
+58
+00:04:17,585 --> 00:04:18,945
+I na kraju...
+
+59
+00:04:19,225 --> 00:04:20,465
+...ovo jedinstvo cilja...
+
+60
+00:04:20,705 --> 00:04:24,185
+<i>Ove ceremonije se ne priseæaju
+samo rata. One slave mir.</i>
+
+61
+00:04:24,425 --> 00:04:28,065
+<i>Predsednik je naredio da se uklone
+nuklearni "tomahavk" projektili...</i>
+
+62
+00:04:28,304 --> 00:04:29,704
+<i>...sa svih površinskih plovila.</i>
+
+63
+00:04:29,945 --> 00:04:33,744
+<i>Sutra æe bojni brod isploviti za San
+Francisko, na svoje poslednje putovanje.</i>
+
+64
+00:04:34,024 --> 00:04:38,703
+<i>Njegovo strašno naoružanje biæe
+uklonjeno, i više nikad neæe zapucati.</i>
+
+65
+00:04:39,143 --> 00:04:43,023
+<i>Raspušteni Misuri æe zauzeti
+mesto u mornarièkoj istoriji.</i>
+
+66
+00:04:43,264 --> 00:04:47,463
+Naša æe biti neizbežna pobeda,
+tako nam Bog pomogao.
+
+67
+00:04:50,863 --> 00:04:53,302
+Koliko je novca potrošeno
+na ovu foto-seansu...
+
+68
+00:04:55,903 --> 00:04:57,143
+Spremni smo da isplovimo, gospodine!
+
+69
+00:04:58,262 --> 00:05:00,382
+U redu, gospodine Smart.
+Otpuštajte užad.
+
+70
+00:05:01,142 --> 00:05:02,181
+Razumem!
+
+71
+00:05:02,582 --> 00:05:03,862
+Popuštaj vezove!
+
+72
+00:05:32,459 --> 00:05:34,819
+Kapetane, imate èist izlaz iz luke.
+
+73
+00:05:35,059 --> 00:05:36,179
+Vrlo dobro.
+
+74
+00:05:38,179 --> 00:05:40,699
+Brodom ne zapoveda Kril.
+
+75
+00:05:40,979 --> 00:05:43,779
+Spuštanje helikoptera
+mora da odobri stari.
+
+76
+00:05:44,018 --> 00:05:48,338
+Kako da odobri sopstvenu
+iznenadnu roðendansku žurku?
+
+77
+00:05:48,579 --> 00:05:50,618
+Veæ smo spremili svu opremu.
+
+78
+00:05:50,818 --> 00:05:52,738
+Šta ima na tom helikopteru?
+
+79
+00:05:52,978 --> 00:05:54,578
+Ova slatkica.
+
+80
+00:05:56,098 --> 00:05:58,778
+Ona je u...
+- Da, u torti.
+
+81
+00:05:59,017 --> 00:06:02,538
+Mis jula '89-e, Džordan Tejt.
+
+82
+00:06:02,777 --> 00:06:04,057
+Biæemo spremni za nju.
+
+83
+00:06:04,297 --> 00:06:06,577
+Dobro.
+Zadrži to.
+
+84
+00:06:07,977 --> 00:06:11,937
+Poruènièe Balard, nemamo
+vremena sad da prièamo o tome.
+
+85
+00:06:13,536 --> 00:06:16,016
+Nema vremena za obezbeðenje
+nuklearnog naoružanja?
+
+86
+00:06:16,216 --> 00:06:18,216
+Možda nisam potpuno jasan.
+
+87
+00:06:18,456 --> 00:06:21,856
+Sve straže koje nisu krajnje bitne
+tokom zabave biæe slobodne...
+
+88
+00:06:22,096 --> 00:06:23,935
+...ukljuèujuæi patrolu marinaca.
+
+89
+00:06:24,415 --> 00:06:26,375
+Veæ smo sveli posadu na najmanju meru.
+
+90
+00:06:26,616 --> 00:06:27,735
+Ovo je direktno nareðenje!
+
+91
+00:06:27,976 --> 00:06:32,055
+U dnevniku æe stajati da ovo smatram
+nepouzdanim i postupam pod protestom.
+
+92
+00:06:32,295 --> 00:06:33,335
+Dobro.
+
+93
+00:06:37,814 --> 00:06:39,215
+Hej, Æelavi!
+
+94
+00:06:39,895 --> 00:06:41,694
+Stigao Æelavi!
+
+95
+00:06:41,935 --> 00:06:43,135
+Da vidim kako se kreæeš!
+
+96
+00:06:43,374 --> 00:06:45,334
+Pusti muziku!
+Pusti muziku!
+
+97
+00:06:46,974 --> 00:06:50,294
+Hajde da vidim kako se kreæeš!
+
+98
+00:06:50,533 --> 00:06:52,054
+Hajde, Æelavi!
+
+99
+00:06:52,293 --> 00:06:54,534
+Hajde, Æelavi, hajde!
+Hajde, Æelavi, hajde!
+
+100
+00:07:11,932 --> 00:07:13,652
+Baš slatko.
+
+101
+00:07:14,852 --> 00:07:15,891
+Podoficiru Rajbek?
+
+102
+00:07:16,132 --> 00:07:17,012
+Potporuènièe Tejlor...
+
+103
+00:07:17,612 --> 00:07:18,532
+"Gospodine".
+
+104
+00:07:18,892 --> 00:07:21,892
+Ne treba ti to.
+U kuhinji smo svi na "ti".
+
+105
+00:07:22,131 --> 00:07:24,691
+Pripazi, Rajbek, ostaje nam
+još nedelju dana zajedno.
+
+106
+00:07:24,932 --> 00:07:27,451
+Onda neæu videti tvoj
+prolazak kroz pubertet.
+
+107
+00:07:30,651 --> 00:07:31,451
+Šta hoæeš?
+
+108
+00:07:31,770 --> 00:07:34,810
+Nareðenja zapovednika
+za kapetanov roðendan.
+
+109
+00:07:35,051 --> 00:07:37,531
+Veèera stiže sa Havaja.
+
+110
+00:07:37,770 --> 00:07:40,010
+Kuhinju æete napustiti do 17:00.
+
+111
+00:07:40,250 --> 00:07:44,530
+Svi æete se okupiti u trpezariji
+pre sletanja helikoptera.
+
+112
+00:07:44,770 --> 00:07:45,770
+Ne može.
+
+113
+00:07:46,169 --> 00:07:47,009
+Molim?
+
+114
+00:07:47,250 --> 00:07:51,009
+Jedino ja kuvam za kapetana.
+Ako ti se ne sviða, pitaj ga.
+
+115
+00:07:51,249 --> 00:07:53,209
+Izgleda da ne shvataš.
+
+116
+00:07:53,449 --> 00:07:56,929
+Ovo je zabava iznenaðenja.
+
+117
+00:07:57,168 --> 00:08:00,768
+Kapetanu za to niko neæe reæi.
+
+118
+00:08:01,009 --> 00:08:02,008
+Znaš li šta?
+
+119
+00:08:03,488 --> 00:08:05,489
+Ni kapetan ni ja ne volimo iznenaðenja.
+
+120
+00:08:05,728 --> 00:08:09,167
+Onda æemo videti
+šta æe se dogoditi. Zar ne?
+
+121
+00:08:18,168 --> 00:08:22,007
+"Onda æemo videti
+šta æe se dogoditi. Zar ne?"
+
+122
+00:08:22,247 --> 00:08:24,406
+Kril æe te odrati živog.
+
+123
+00:08:24,647 --> 00:08:27,847
+Zašto odjednom poèinjem
+tako strašno da drhtim...
+
+124
+00:08:28,086 --> 00:08:29,966
+...i zašto me obuzima veliki strah...
+
+125
+00:08:30,207 --> 00:08:34,766
+...od svih jezivih stvari
+koje æe mi uèiniti gospodin Kril?
+
+126
+00:08:39,726 --> 00:08:40,805
+Zapovednik Kril, kapetane.
+
+127
+00:08:41,806 --> 00:08:42,645
+Neka uðe.
+
+128
+00:08:51,765 --> 00:08:53,404
+Želeli ste da me vidite, kapetane?
+
+129
+00:08:54,285 --> 00:08:55,324
+Zapovednièe Kril,
+
+130
+00:08:55,525 --> 00:08:59,124
+kako to mislite da spustite
+helikopter bez mog odobrenja?
+
+131
+00:08:59,365 --> 00:09:03,324
+Pogrešio sam misleæi...
+- To nije greška. Greška je pokušati.
+
+132
+00:09:03,524 --> 00:09:06,044
+Vaši postupci su gruba neposlušnost.
+
+133
+00:09:06,324 --> 00:09:08,803
+Želim objašnjenje, smesta.
+
+134
+00:09:09,044 --> 00:09:13,443
+Admiral Bejts je želeo da zahvali
+vama i posadi jer je sve prošlo glatko.
+
+135
+00:09:13,683 --> 00:09:16,043
+Ima iznenaðenje za vaš roðendan.
+
+136
+00:09:16,283 --> 00:09:18,043
+Stiže sa Havaja.
+
+137
+00:09:19,243 --> 00:09:23,483
+Bejts, shvatam.
+Ako admiral želi zabavu, imaæemo je.
+
+138
+00:09:24,203 --> 00:09:27,602
+Ali neka bude jednostavno.
+Osoblje bez dužnosti može doæi...
+
+139
+00:09:27,802 --> 00:09:29,242
+...ali sve straže po pravilniku.
+
+140
+00:09:29,482 --> 00:09:30,921
+Da, gospodine.
+
+141
+00:09:31,482 --> 00:09:32,562
+Kapetane...
+
+142
+00:09:32,761 --> 00:09:35,201
+Pošto admiral želi
+da to bude iznenaðenje...
+
+143
+00:09:35,401 --> 00:09:37,241
+...molim da ostanete u kabini
+dok ne doðemo po vas.
+
+144
+00:09:38,042 --> 00:09:39,521
+Udubiæu se u neki roman.
+
+145
+00:09:40,401 --> 00:09:41,802
+Vrlo dobro, gospodine.
+
+146
+00:09:57,360 --> 00:10:00,159
+Kako riblji paprikaš?
+Èuvaj!
+
+147
+00:10:13,079 --> 00:10:14,359
+Ako se ne varam...
+
+148
+00:10:14,558 --> 00:10:18,398
+...svima je nareðeno
+da se jave u trpezariju...
+
+149
+00:10:18,599 --> 00:10:20,278
+...radi proslave.
+
+150
+00:10:21,918 --> 00:10:22,998
+Ti ostani gde si.
+
+151
+00:10:25,998 --> 00:10:28,198
+Svi ostali idite!
+Odmah!
+
+152
+00:10:28,677 --> 00:10:30,397
+Vidimo se na proslavi.
+
+153
+00:10:33,637 --> 00:10:34,757
+Znaš, Rajbek...
+
+154
+00:10:34,957 --> 00:10:36,637
+...ovo stvarno izgleda izvrsno.
+
+155
+00:10:40,157 --> 00:10:42,357
+Miriše kao masni omlet.
+
+156
+00:10:43,196 --> 00:10:44,757
+Istrpeo sam puno tvog sranja...
+
+157
+00:10:44,996 --> 00:10:47,356
+...samo zato jer kapetan
+voli tvoju kuhinju.
+
+158
+00:10:47,596 --> 00:10:50,356
+Ali ovaj put ga neæe biti
+da ti spasi guzicu!
+
+159
+00:10:50,556 --> 00:10:51,356
+Stvarno?
+
+160
+00:10:56,995 --> 00:10:58,235
+Malo zaèina.
+
+161
+00:11:01,676 --> 00:11:03,075
+Sviða ti se?
+
+162
+00:11:03,995 --> 00:11:06,115
+Udaraš oficira!
+
+163
+00:11:06,355 --> 00:11:07,755
+Nije to udaranje oficira!
+
+164
+00:11:08,395 --> 00:11:10,075
+Ovo je udaranje oficira!
+
+165
+00:11:16,634 --> 00:11:20,274
+U redu. Dobro!
+- Vežite ga, pa u pritvor!
+
+166
+00:11:20,474 --> 00:11:21,273
+U pritvor!
+
+167
+00:11:21,753 --> 00:11:23,914
+Niko neæe u pritvor
+dok stari ne potpiše!
+
+168
+00:11:24,153 --> 00:11:25,234
+Dobra primedba.
+
+169
+00:11:25,593 --> 00:11:27,553
+Stavite ga u hladnjaèu za meso.
+
+170
+00:11:27,793 --> 00:11:28,913
+Odmah!
+
+171
+00:11:29,153 --> 00:11:30,113
+Smesta!
+
+172
+00:11:30,353 --> 00:11:31,273
+Idemo.
+
+173
+00:11:31,913 --> 00:11:35,832
+Sad znam zašto si kuvar.
+Udaraš kao peder.
+
+174
+00:11:37,032 --> 00:11:38,033
+Èelik!
+
+175
+00:11:42,032 --> 00:11:42,832
+Vojnièe Neš?
+
+176
+00:11:43,032 --> 00:11:45,512
+Na brod ste došli na Havajima?
+- Da, gospodine.
+
+177
+00:11:45,712 --> 00:11:47,592
+Onda ne znate za Rajbeka.
+
+178
+00:11:50,431 --> 00:11:52,831
+On je izuzetni psihopata.
+
+179
+00:11:53,351 --> 00:11:54,352
+Mrzi oficire.
+
+180
+00:11:54,591 --> 00:11:56,111
+Mrzi Ameriku.
+
+181
+00:11:56,351 --> 00:12:00,031
+Danas je kapetanov roðendan.
+Neæu da to upropasti.
+
+182
+00:12:00,510 --> 00:12:02,910
+Niko ne sme da prièa sa njim,
+niti da ga pusti napolje.
+
+183
+00:12:03,150 --> 00:12:06,310
+Ako pokuša da pobegne,
+ubijte ga taèno ovde!
+
+184
+00:12:07,631 --> 00:12:08,911
+Raèunam na vas.
+
+185
+00:12:09,710 --> 00:12:10,830
+Da, gospodine.
+
+186
+00:12:11,910 --> 00:12:13,110
+Idemo!
+
+187
+00:12:25,069 --> 00:12:27,069
+Još jedan hladni dan u paklu.
+
+188
+00:12:31,468 --> 00:12:35,549
+Mornarici je lep kompliment
+što dopušta da zabavljamo posadu.
+
+189
+00:12:35,748 --> 00:12:37,308
+Kako je to ljudski!
+
+190
+00:12:37,548 --> 00:12:39,748
+Obožavam to.
+A vi?
+
+191
+00:12:39,988 --> 00:12:42,267
+Nadam se da neæu povratiti.
+
+192
+00:12:43,308 --> 00:12:44,388
+Sve æe biti u redu.
+
+193
+00:13:00,426 --> 00:13:02,266
+Obožavam ovo!
+
+194
+00:13:22,384 --> 00:13:24,784
+Dobrodošli na bojni brod Misuri.
+
+195
+00:13:35,344 --> 00:13:36,744
+Fantastièno!
+
+196
+00:13:38,823 --> 00:13:42,223
+Jako smo uzbuðeni.
+Jedva èekamo provod.
+
+197
+00:13:45,463 --> 00:13:47,463
+Bože, obožavam ovaj posao!
+
+198
+00:13:48,423 --> 00:13:50,262
+Moja buduæa žena, Semi Li.
+
+199
+00:13:51,103 --> 00:13:52,582
+Sletela je.
+
+200
+00:13:53,262 --> 00:13:55,542
+Zeèica je sletela.
+Vidimo se!
+
+201
+00:13:56,542 --> 00:13:57,942
+Vojnièe!
+
+202
+00:13:58,622 --> 00:14:01,822
+Zar nije èudno što me
+je Kril stavio ovamo?
+
+203
+00:14:02,062 --> 00:14:03,302
+Ne slušam vas!
+
+204
+00:14:03,822 --> 00:14:04,902
+Dobrodošli.
+
+205
+00:14:05,102 --> 00:14:06,822
+Momci, napravite mesta!
+
+206
+00:14:07,502 --> 00:14:10,821
+Ne dajte da vam smetaju.
+Predugo su na moru. Je li vam dobro?
+
+207
+00:14:11,061 --> 00:14:13,221
+Još uvek se oseæam slabo.
+
+208
+00:14:13,901 --> 00:14:16,820
+Idemo u oficirsku trpezariju
+da se presvuèete. U redu?
+
+209
+00:14:18,301 --> 00:14:20,221
+Pusti damu da proðe!
+
+210
+00:14:25,860 --> 00:14:29,940
+Oprezno sa tortom.
+Proverite da li su pokrivene žice.
+
+211
+00:14:30,340 --> 00:14:31,859
+Tako to ide.
+
+212
+00:14:32,260 --> 00:14:34,860
+Izgubili ste se?
+- Ne! Gde nas želite, tamo?
+
+213
+00:14:35,059 --> 00:14:36,739
+Je li bend spreman?
+- Jeste!
+
+214
+00:14:36,939 --> 00:14:38,659
+Na ovu stranu!
+
+215
+00:14:38,859 --> 00:14:40,739
+Desno, smesta.
+
+216
+00:14:43,939 --> 00:14:46,939
+Oboriæete kapetana s nogu.
+Prelepi ste.
+
+217
+00:14:47,178 --> 00:14:49,379
+Za morsku bolest.
+Uzmite dve.
+
+218
+00:14:49,578 --> 00:14:51,298
+Hvala. To æe me spasiti.
+Šta vam je sa licem?
+
+219
+00:14:51,498 --> 00:14:54,098
+Posekao sam se brijuæi se.
+Torta æe ubrzo biti spremna.
+
+220
+00:14:54,337 --> 00:14:58,617
+Imamo kabinu za vas.
+Biæete bezbedni od ljudstva.
+
+221
+00:14:58,858 --> 00:15:01,177
+Idem ja da navuèem svoju haljinu.
+Vidimo se.
+
+222
+00:15:05,417 --> 00:15:08,017
+Ne brini, možeš ti to
+i zatvorenih oèiju.
+
+223
+00:15:15,776 --> 00:15:17,096
+Vojnièe!
+
+224
+00:15:17,296 --> 00:15:18,896
+Pusti me odavde!
+
+225
+00:15:19,256 --> 00:15:23,296
+Ako budeš slušao Krila,
+ideš u zatvor. Muæni glavom!
+
+226
+00:15:25,136 --> 00:15:26,856
+Izvadi mi pite iz peænice!
+
+227
+00:15:35,055 --> 00:15:36,975
+Mora da sam luda.
+
+228
+00:15:43,534 --> 00:15:45,214
+Vrlo bolesna...
+
+229
+00:15:48,974 --> 00:15:51,853
+Poželeli bismo vam toplu dobrodošlicu...
+
+230
+00:15:53,293 --> 00:15:56,293
+...u veliki, sjajni salon Misurija!
+
+231
+00:15:58,293 --> 00:16:01,893
+Ovde, usred velikog
+i divnog Tihog okeana.
+
+232
+00:16:03,133 --> 00:16:05,132
+Ja sam Zli Bili.
+
+233
+00:16:06,253 --> 00:16:09,412
+A ovo su èuveni "Zatvorski begunci"!
+
+234
+00:16:11,292 --> 00:16:14,612
+Nareðeno mi je da ne govorim
+sa vama, razumete? Nareðeno mi je.
+
+235
+00:16:14,811 --> 00:16:16,772
+Možete da odgovarate...
+
+236
+00:16:17,012 --> 00:16:19,291
+...što me ovako držite ovde.
+
+237
+00:16:19,891 --> 00:16:21,771
+Razmislite o tome!
+
+238
+00:16:21,972 --> 00:16:22,891
+Vojnièe!
+
+239
+00:16:23,731 --> 00:16:26,131
+Nije rekao da ne smete
+da prièate sa kapetanom.
+
+240
+00:16:26,371 --> 00:16:28,770
+Pitajte njega da li želi
+da budem ovde.
+
+241
+00:16:31,170 --> 00:16:33,130
+Kretenu mali prvorazredni...
+
+242
+00:16:38,290 --> 00:16:40,890
+Poruènièe, ovo je apsolutno predivno!
+
+243
+00:16:57,049 --> 00:16:59,048
+Stari se dobro drži.
+
+244
+00:16:59,289 --> 00:17:01,528
+Želite predjelo?
+
+245
+00:17:05,968 --> 00:17:07,368
+Šta to imamo ovde?
+
+246
+00:17:08,928 --> 00:17:12,208
+Eto klope.
+Gde je Mis jula?
+
+247
+00:17:12,487 --> 00:17:13,727
+I evo je!
+
+248
+00:17:13,928 --> 00:17:16,287
+Mis jula 1989. godine!
+
+249
+00:17:17,287 --> 00:17:18,968
+Èekajte malo, ne!
+
+250
+00:17:19,207 --> 00:17:21,007
+Nije to Mis jula!
+
+251
+00:17:21,247 --> 00:17:22,767
+Bože, pogledaj ga!
+
+252
+00:17:23,767 --> 00:17:25,887
+Zapovednik Kril!
+
+253
+00:17:33,206 --> 00:17:34,606
+Dobrodošli u revoluciju!
+
+254
+00:17:38,365 --> 00:17:41,926
+Ovo æe uæi u mornarièku istoriju. Nije
+ni èudo što je hteo da svi doðu ovamo.
+
+255
+00:17:47,205 --> 00:17:49,884
+Možda Kril i nije takav seronja.
+
+256
+00:17:50,925 --> 00:17:55,205
+Bolje da poðeš po starog.
+On te upravo sad èeka.
+
+257
+00:17:56,844 --> 00:17:57,924
+U redu.
+
+258
+00:17:58,684 --> 00:18:00,084
+Mis jula!
+
+259
+00:18:05,924 --> 00:18:08,604
+Sad idemo da iznenadimo kapetana!
+
+260
+00:18:09,724 --> 00:18:12,483
+Prijatna zabava!
+- Hajmo, draga.
+
+261
+00:18:17,283 --> 00:18:18,402
+Gde je kuvar?
+
+262
+00:18:18,643 --> 00:18:21,362
+Zakljuèan u hladnjak do posle zabave.
+
+263
+00:18:21,683 --> 00:18:24,203
+Unutra je temperatura minus 4!
+
+264
+00:18:24,442 --> 00:18:27,362
+Biæe mu dobro.
+Ima stražu.
+
+265
+00:18:28,722 --> 00:18:30,762
+Kril je manijak!
+Idi reci kapetanu...
+
+266
+00:18:31,002 --> 00:18:32,321
+...da mi je pljunuo u supu!
+
+267
+00:18:32,802 --> 00:18:34,321
+Rajbek, ovde imaš požar!
+
+268
+00:18:35,601 --> 00:18:37,082
+Izvadi mi pite iz peænice!
+
+269
+00:19:14,118 --> 00:19:16,118
+Prija da se hoda u hulahopkama!
+
+270
+00:19:19,118 --> 00:19:22,718
+Sve je u redu. Došao sam da
+otpratim kapetana na zabavu.
+
+271
+00:19:22,918 --> 00:19:24,038
+Razumem.
+
+272
+00:19:25,318 --> 00:19:26,157
+Zapovednik Kril, kapetane.
+
+273
+00:19:26,398 --> 00:19:27,878
+Neka uðe.
+
+274
+00:19:34,317 --> 00:19:36,517
+Veèeras izlazite sa mnom, kapetane.
+
+275
+00:19:48,756 --> 00:19:49,676
+Èekajte!
+
+276
+00:19:50,395 --> 00:19:51,595
+Èekajte malo!
+
+277
+00:19:54,276 --> 00:19:56,276
+Ko je najviši oficir ovde?
+
+278
+00:19:56,475 --> 00:19:59,035
+Ko je najviši oficir u prostoriji?
+
+279
+00:20:00,115 --> 00:20:01,595
+Gospodine, ustanite!
+
+280
+00:20:02,195 --> 00:20:03,875
+Ustanite da vas vidimo!
+
+281
+00:20:05,875 --> 00:20:08,594
+Razmakni talase!
+Mièi se èoveku s puta!
+
+282
+00:20:08,835 --> 00:20:10,514
+Osvetlite èoveka!
+
+283
+00:20:10,755 --> 00:20:15,194
+Vi ste najviši oficir u prostoriji?
+
+284
+00:20:15,714 --> 00:20:18,194
+Da. Oficir zadužen za operacije.
+Treæi po rangu.
+
+285
+00:20:18,434 --> 00:20:21,433
+Pravo mi je zadovoljstvo,
+zapovednièe Grin.
+
+286
+00:20:25,553 --> 00:20:26,753
+Dole!
+
+287
+00:20:30,633 --> 00:20:31,673
+Šta se kog ðavola dogaða?
+
+288
+00:20:31,913 --> 00:20:33,673
+Zabava tek poèinje!
+
+289
+00:20:35,473 --> 00:20:36,472
+Kapetane!
+
+290
+00:20:37,952 --> 00:20:38,912
+Dobar pogodak!
+
+291
+00:20:39,152 --> 00:20:40,792
+Lezi!
+Ruke gore!
+
+292
+00:20:41,032 --> 00:20:42,032
+Glavu dole!
+
+293
+00:20:42,272 --> 00:20:45,072
+Šta gledaš?!
+Na pod!
+
+294
+00:20:45,272 --> 00:20:46,472
+Glavu dole, mladiæu!
+
+295
+00:20:46,711 --> 00:20:48,551
+Hoæeš li sad da budeš dobar?
+
+296
+00:20:49,072 --> 00:20:50,551
+Ovo je nekakva šala?
+
+297
+00:20:50,752 --> 00:20:52,072
+Nije šala!
+
+298
+00:20:54,231 --> 00:20:55,871
+Èujem pucnjavu!
+Šta se dogaða?
+
+299
+00:21:01,950 --> 00:21:02,871
+Gotovo!
+
+300
+00:21:08,230 --> 00:21:10,390
+Èetiri minuta pre roka.
+Baš sam dobar!
+
+301
+00:21:16,830 --> 00:21:19,989
+Majko gusko!
+Prepelice u gnezdu!
+
+302
+00:21:24,509 --> 00:21:25,589
+Obièna muzika!
+
+303
+00:21:25,829 --> 00:21:29,589
+Imaš govna umesto mozga.
+To je pucnjava. Zovi most!
+
+304
+00:21:29,989 --> 00:21:33,068
+Ne znam kome to govorite,
+niko vas ne sluša.
+
+305
+00:21:33,508 --> 00:21:35,709
+Ne tražim da slušaš mene.
+
+306
+00:21:35,908 --> 00:21:38,268
+Zovi kapetana!
+Slušaj njega.
+
+307
+00:21:46,987 --> 00:21:48,227
+Zavari!
+
+308
+00:22:07,225 --> 00:22:09,266
+Gledaj onog ispred sebe!
+
+309
+00:22:09,466 --> 00:22:12,546
+Doðavola, kažem vam poslednji put!
+
+310
+00:22:22,705 --> 00:22:24,705
+Neka vam ovo bude pouka, gospodo.
+
+311
+00:22:24,904 --> 00:22:27,785
+Budete li se opirali,
+ubiæemo i vas i èoveka do vas.
+
+312
+00:22:27,984 --> 00:22:31,064
+A sad, brišite odavde u redu i miru!
+
+313
+00:22:33,664 --> 00:22:34,664
+Smesta!
+
+314
+00:23:07,861 --> 00:23:09,461
+Narednièe, ruke u vis!
+
+315
+00:23:31,700 --> 00:23:33,700
+Gde je?
+
+316
+00:23:35,139 --> 00:23:37,139
+Evo ga!
+
+317
+00:23:37,459 --> 00:23:40,059
+Slušaj sranje koje sam morao da trpim!
+
+318
+00:23:42,418 --> 00:23:46,499
+<i>Poslednjih par nedelja zapovednik Kril
+se sve lošije odnosi prema posadi.</i>
+
+319
+00:23:46,738 --> 00:23:49,898
+<i>Možda radi besa zbog moje poslednje
+provere njegovih sposobnosti.</i>
+
+320
+00:23:50,139 --> 00:23:55,017
+<i>Preporuèujem psihološku
+procenu pre novog zadatka!</i>
+
+321
+00:23:59,297 --> 00:24:01,977
+Izgledam li ti kao da mi
+treba psihološka procena?
+
+322
+00:24:03,017 --> 00:24:04,497
+Nimalo.
+
+323
+00:24:07,017 --> 00:24:08,457
+Moram da se presvuèem.
+
+324
+00:24:17,496 --> 00:24:18,816
+Ruke iza glave!
+
+325
+00:24:22,016 --> 00:24:23,455
+Uza zid.
+
+326
+00:24:27,375 --> 00:24:29,015
+Zapovednik na mostu!
+
+327
+00:24:29,895 --> 00:24:31,335
+Slušajte!
+
+328
+00:24:31,575 --> 00:24:34,374
+Svi, ruke na glave
+i van na drugu stranu!
+
+329
+00:24:36,254 --> 00:24:41,174
+Vaše odredište je prednji deo!
+Saraðujte i ništa vam neæe biti.
+
+330
+00:24:45,734 --> 00:24:47,294
+Smena straže, gospodo!
+
+331
+00:24:50,213 --> 00:24:52,934
+Dosad ste dobro obavljali
+dužnost. Sad ste slobodni!
+
+332
+00:24:55,573 --> 00:24:57,693
+Sklanjaj ruke sa instrumenata!
+
+333
+00:25:05,613 --> 00:25:08,053
+Stvaraæeš mi probleme?
+Baš si drzak! Napolje!
+
+334
+00:25:11,852 --> 00:25:13,092
+Moj Bože...
+
+335
+00:25:13,332 --> 00:25:14,172
+Gomila mlakonja.
+
+336
+00:25:21,211 --> 00:25:23,211
+Disketa, gospodine Pit.
+
+337
+00:25:24,971 --> 00:25:26,491
+Èuvajte je životom.
+
+338
+00:25:26,931 --> 00:25:28,211
+Svakako.
+
+339
+00:25:28,890 --> 00:25:31,290
+Molim, prikažite nacrt broda.
+
+340
+00:25:34,370 --> 00:25:37,610
+Zaobišli smo im sve sisteme.
+- Nadziremo šifrovanje, borbeni centar,
+
+341
+00:25:37,851 --> 00:25:41,410
+motore, kotlarnice, most i palube.
+
+342
+00:25:41,649 --> 00:25:44,089
+Zavarili smo sve prolaze.
+
+343
+00:25:44,330 --> 00:25:47,049
+Možda još lutaju pojedini mornari...
+
+344
+00:25:47,289 --> 00:25:50,169
+...ili su uhvaæeni u nebitnim
+podruèjima i ne mogu nikuda.
+
+345
+00:25:50,409 --> 00:25:52,450
+Ostatak posade je u prednjem delu.
+
+346
+00:25:52,889 --> 00:25:53,769
+Odlièno.
+
+347
+00:25:53,969 --> 00:25:56,929
+Molim, ponovo aktivirajte
+oružni sistem, gospodine Pit.
+
+348
+00:25:57,209 --> 00:25:58,128
+Gospodine Daumer...
+
+349
+00:25:58,568 --> 00:26:03,048
+Možete da razmestite
+varioce i isklešete prolaz.
+
+350
+00:26:04,128 --> 00:26:07,808
+Zapovednièe Kril,
+unapreðeni ste u kapetana.
+
+351
+00:26:08,008 --> 00:26:11,407
+Èestitam.
+Brod je vaš.
+
+352
+00:26:11,847 --> 00:26:13,247
+Brod je moj.
+
+353
+00:26:14,487 --> 00:26:16,847
+Hvala, Bili.
+
+354
+00:26:17,087 --> 00:26:20,007
+Možemo li ovde da
+dobijemo nešto za jelo?!
+
+355
+00:26:21,407 --> 00:26:22,766
+Donesi hranu!
+
+356
+00:26:27,886 --> 00:26:29,486
+Zapovednik Kril me upozorio
+da ste prepredeni.
+
+357
+00:26:30,766 --> 00:26:34,486
+Nisam prepreden, samo se smrzavam.
+Nešto se dogaða ovde.
+
+358
+00:26:34,726 --> 00:26:36,846
+Zovi most, niko neæe vikati na tebe.
+
+359
+00:26:37,046 --> 00:26:39,366
+Samo obavljaš svoj posao.
+Smesta proveri.
+
+360
+00:26:39,606 --> 00:26:42,046
+U redu.
+U redu, proveriæu.
+
+361
+00:26:42,445 --> 00:26:43,645
+To je sve.
+
+362
+00:26:43,886 --> 00:26:45,485
+Uradi to.
+I budi oprezan.
+
+363
+00:26:49,525 --> 00:26:51,085
+Retka stvar.
+
+364
+00:26:52,685 --> 00:26:54,645
+Zaista prava stvar...
+
+365
+00:26:54,844 --> 00:26:58,484
+Zove neki vojnik Neš.
+Kaže da èuva stražu u kuhinji.
+
+366
+00:26:58,724 --> 00:27:00,724
+Pit, prikaži!
+
+367
+00:27:01,523 --> 00:27:04,486
+Neobezbeðeno podruèje.
+Imaju pristup èitavom brodu!
+
+368
+00:27:04,586 --> 00:27:06,328
+Rajbek.
+
+369
+00:27:06,628 --> 00:27:08,183
+Rajbek?
+
+370
+00:27:08,283 --> 00:27:11,443
+Rajbek. Kuvar.
+Davež od kuvara.
+
+371
+00:27:11,643 --> 00:27:12,964
+Daj mi to.
+
+372
+00:27:14,123 --> 00:27:16,143
+Vojnièe Neš.
+- Da, gospodine?
+
+373
+00:27:16,165 --> 00:27:18,883
+<i>Drago mi je što se javljate.
+Sa kapetanom sam.</i>
+
+374
+00:27:19,483 --> 00:27:22,122
+Držite Rajbeka na oku,
+i ne otvarajte vrata.
+
+375
+00:27:22,362 --> 00:27:24,983
+Reci mu da mu šalješ smenu.
+- Šta?
+
+376
+00:27:25,242 --> 00:27:29,242
+Reci mu da šalješ
+nekoga da ga smeni.
+
+377
+00:27:31,161 --> 00:27:34,722
+Ostanite na svom mestu.
+Šaljem vam smenu.
+
+378
+00:27:34,961 --> 00:27:38,841
+Je li sve u redu, gospodine?
+Èuli smo nešto nalik pucnjevima.
+
+379
+00:27:40,041 --> 00:27:42,041
+Pucnjevi?
+A, to!
+
+380
+00:27:42,321 --> 00:27:44,741
+Samo zabava.
+To su bile petarde.
+
+381
+00:27:44,881 --> 00:27:46,081
+Deo kapetanove proslave.
+
+382
+00:27:46,320 --> 00:27:48,681
+Vi samo budite na svom mestu
+dok ne stigne smena.
+
+383
+00:27:48,920 --> 00:27:51,320
+Razumem, gospodine.
+<i>- Gotovo.</i>
+
+384
+00:27:55,399 --> 00:27:57,040
+Ima li još nešto
+što nam nisi rekao?
+
+385
+00:27:57,279 --> 00:28:00,439
+Novih gubitaka pamæenja,
+ili propusta možda?
+
+386
+00:28:00,680 --> 00:28:03,720
+Nema gubitaka pamæenja
+niti propusta možda!
+
+387
+00:28:03,959 --> 00:28:07,519
+Dvojica ljudi, jedan je pod kljuèem.
+Ja æu to srediti.
+
+388
+00:28:08,879 --> 00:28:12,998
+Ne, mi æemo. Sredi kuhinju.
+Pošalji Kejtsa i Zigsa.
+
+389
+00:28:13,199 --> 00:28:14,599
+Taj marinac je naoružan, Bile.
+
+390
+00:28:15,038 --> 00:28:17,119
+Pošaljimo još nekoga.
+Idem ja.
+
+391
+00:28:17,358 --> 00:28:19,638
+Bez brige.
+Ovi momci su profesionalci.
+
+392
+00:28:19,878 --> 00:28:22,278
+Srediæe 20 marinaca...
+
+393
+00:28:22,518 --> 00:28:24,557
+...i 100 kuvara.
+
+394
+00:28:30,077 --> 00:28:32,557
+Grešite, Rajbek!
+Grešite!
+
+395
+00:28:32,878 --> 00:28:35,996
+Bile su to petarde. - Ti imaš
+govna umesto mozga, vojnièe!
+
+396
+00:28:36,237 --> 00:28:40,637
+Znam da su ti isprali mozak, ali
+ponekad moraš posumnjati u autoritet!
+
+397
+00:28:40,876 --> 00:28:42,517
+Veruj mi, momèe.
+
+398
+00:28:42,756 --> 00:28:45,676
+Ono je bila pucnjava.
+Oslobodi me da to sredim.
+
+399
+00:28:46,276 --> 00:28:50,436
+Za par minuta æe me smeniti,
+zato æutite i sedite mirno.
+
+400
+00:28:50,676 --> 00:28:53,836
+Nešto se dogaða.
+Muæni glavom ovaj put, momèe.
+
+401
+00:28:54,076 --> 00:28:55,836
+Uèini ono što moraš.
+Pusti me napolje.
+
+402
+00:28:56,275 --> 00:28:58,635
+Inaèe æu te ubiti sam kad izaðem!
+
+403
+00:29:03,755 --> 00:29:05,114
+Zapovednièe Kril?
+
+404
+00:29:07,674 --> 00:29:08,954
+To ste vi?
+
+405
+00:29:12,634 --> 00:29:15,994
+Ruke iza glave!
+Okreni se!
+
+406
+00:29:16,553 --> 00:29:17,994
+Na kolena!
+
+407
+00:29:18,274 --> 00:29:19,633
+Prekrsti èlanke!
+
+408
+00:29:25,393 --> 00:29:26,794
+Gde je kuvar?
+
+409
+00:29:27,033 --> 00:29:28,433
+U hladnjaku.
+
+410
+00:29:29,033 --> 00:29:30,273
+Kojem?
+
+411
+00:29:59,951 --> 00:30:01,711
+Kuèkin sin!
+
+412
+00:32:16,720 --> 00:32:18,360
+Nailazi jedan F-18.
+
+413
+00:32:21,760 --> 00:32:24,360
+Daumer, šalju F-18
+u potrazi za helikopterom.
+
+414
+00:32:25,680 --> 00:32:29,680
+Prešao 505 km,
+brzina 690, visina 2400 m.
+
+415
+00:32:33,159 --> 00:32:35,559
+207, još 98 km.
+
+416
+00:32:57,157 --> 00:32:59,757
+Prešao 690, visina 1.500, spuštam se.
+
+417
+00:33:00,877 --> 00:33:02,637
+Sad se spuštamo.
+
+418
+00:33:38,954 --> 00:33:41,314
+Na palubi je izgleda jedan helikopter.
+
+419
+00:33:46,073 --> 00:33:47,474
+Idem da pogledam izbliza.
+
+420
+00:33:52,714 --> 00:33:54,913
+31 Misuriju, prijem.
+
+421
+00:33:56,233 --> 00:33:57,513
+Zbogom!
+
+422
+00:33:59,593 --> 00:34:01,513
+Pratite li me?
+
+423
+00:34:01,832 --> 00:34:02,713
+Ne.
+
+424
+00:34:04,153 --> 00:34:06,433
+Naciljao me je!
+Opasnost!
+
+425
+00:34:17,832 --> 00:34:19,792
+Dobrodošli u revoluciju.
+
+426
+00:34:25,271 --> 00:34:26,831
+Bolje da zoveš kabinet.
+
+427
+00:34:49,349 --> 00:34:51,109
+Gadno si nadrljao.
+
+428
+00:34:51,309 --> 00:34:53,829
+Ovaj put nema tajni.
+
+429
+00:34:54,548 --> 00:34:57,229
+Tvrdi da je radio za CIA-u, za tebe.
+
+430
+00:34:57,469 --> 00:34:58,709
+Kako se zove?
+
+431
+00:34:58,948 --> 00:35:00,509
+Vilijam Straniks.
+
+432
+00:35:01,188 --> 00:35:03,188
+Isuse Hriste!
+
+433
+00:35:04,708 --> 00:35:05,628
+Nije dobro.
+
+434
+00:35:06,627 --> 00:35:07,908
+Nije dobro...
+
+435
+00:35:17,387 --> 00:35:18,547
+Gospodine Brejker...
+
+436
+00:35:19,587 --> 00:35:22,107
+Veèeras morate da budete
+potpuno iskreni sa nama.
+
+437
+00:35:22,307 --> 00:35:24,707
+Trebaju nam odgovori, i to odmah.
+
+438
+00:35:26,866 --> 00:35:28,431
+Slušajte, gospodo.
+
+439
+00:35:28,531 --> 00:35:31,606
+Približi li se neki brod ili
+avion u krugu od 160 kilometara,
+
+440
+00:35:31,706 --> 00:35:35,666
+pobiæemo posadu i uzvratiti
+služeæi se brodskim arsenalom.
+
+441
+00:35:36,866 --> 00:35:39,545
+Bile, ovde Tom.
+Šta se dogaða?
+
+442
+00:35:40,906 --> 00:35:43,225
+Znaš ti šta se dogaða.
+Držim 32 "tomahavka" pod prstom,
+
+443
+00:35:43,466 --> 00:35:45,945
+a ti jedino možeš da uzbuniš medije.
+
+444
+00:35:46,585 --> 00:35:48,065
+Nemaš šifre za lansiranje.
+
+445
+00:35:48,305 --> 00:35:49,425
+Daj da pogodim nasumice.
+
+446
+00:35:52,904 --> 00:35:55,904
+5-6-6-0-4-9-9-7-8-0?
+
+447
+00:35:58,544 --> 00:36:00,064
+Ovo je ludilo...
+
+448
+00:36:00,304 --> 00:36:02,423
+Pripazi sa tom reèju, Tome.
+
+449
+00:36:03,184 --> 00:36:07,463
+Gospodine Straniks, ovde admiral
+Bejts. Zašto to radite, doðavola?
+
+450
+00:36:07,704 --> 00:36:08,623
+Zdravo, admirale!
+
+451
+00:36:08,864 --> 00:36:12,863
+Pre šest meseci, vaš momak Tom Brejker
+obustavio je "Operaciju Kleopatra".
+
+452
+00:36:13,063 --> 00:36:17,983
+Posle toga, dva mladiæa iz Lenglija
+pokušala su da obustave mene.
+
+453
+00:36:18,822 --> 00:36:22,143
+Primio si njihove kažiprste
+poštom, zar ne Tome?
+
+454
+00:36:25,903 --> 00:36:26,822
+Jesam.
+
+455
+00:36:27,062 --> 00:36:29,982
+Oèekivao si da æemo da
+èekamo tvoj novi pokušaj?
+
+456
+00:36:30,941 --> 00:36:32,781
+Bile, znam da su stvari pomalo...
+
+457
+00:36:34,061 --> 00:36:36,621
+...trenutno haotiène.
+- Haotiène?!
+
+458
+00:36:36,861 --> 00:36:38,461
+Probudi se, Tome!
+
+459
+00:36:39,621 --> 00:36:43,901
+Obojica znamo da haos
+i ludilo proždiru svet.
+
+460
+00:36:44,140 --> 00:36:47,380
+Ultraljubièasti zraci su tek poèetak.
+Kora obradive zemlje je tanka!
+
+461
+00:36:48,340 --> 00:36:49,260
+Obradiva zemlja?!
+
+462
+00:36:49,501 --> 00:36:54,100
+Polne bolesti, seèa šuma,
+iscrpljena genetska baza...
+
+463
+00:36:54,380 --> 00:36:55,700
+Sve to vodi u zaborav, druže!
+
+464
+00:36:55,940 --> 00:36:58,620
+Pašæe vlade, vladaæe anarhija!
+
+465
+00:36:58,860 --> 00:37:00,699
+Novi divni svet!
+
+466
+00:37:01,899 --> 00:37:03,659
+Bile, šta to nameravaš?
+
+467
+00:37:03,899 --> 00:37:08,539
+Shvataš li ti da je to, šta god bilo,
+neizbežno? Možemo li se složiti?
+
+468
+00:37:09,339 --> 00:37:10,699
+Ne baš.
+
+469
+00:37:10,939 --> 00:37:12,138
+Vidiš, takav si ti.
+
+470
+00:37:12,379 --> 00:37:16,739
+Sa mnom se ne možeš prepirati,
+pregovarati, niti pokušati nekakav trik.
+
+471
+00:37:16,978 --> 00:37:19,538
+Moraš iznova da razmotriš
+èitavu svoju filozofiju.
+
+472
+00:37:19,779 --> 00:37:23,658
+U redu, izvini.
+Sve što god odluèiš je neizbežno.
+
+473
+00:37:23,898 --> 00:37:24,858
+Pogledaj moj život.
+
+474
+00:37:25,098 --> 00:37:29,177
+Onaj koji ste vi pokušali oduzeti.
+Anapolis, Vijetnam, ratni koledž, itd.
+
+475
+00:37:29,418 --> 00:37:32,537
+Promakle su mi 60-te,
+a da sam bio prisutan...
+
+476
+00:37:32,777 --> 00:37:35,777
+...da neèim pridonesem,
+sve bi bilo u redu!
+
+477
+00:37:36,017 --> 00:37:39,896
+Ako je sve ovo zbog 60-tih,
+onda zaboravi, druškane.
+
+478
+00:37:40,137 --> 00:37:41,617
+Pokret je mrtav.
+
+479
+00:37:41,856 --> 00:37:43,357
+Da, naravno.
+Odatle mu i ime.
+
+480
+00:37:43,496 --> 00:37:45,976
+Pokret.
+Krene i ubrzo stane.
+
+481
+00:37:46,216 --> 00:37:50,296
+Revolucija je svoje ime dobila
+zato što ti se uvek vraæa u lice!
+
+482
+00:37:50,735 --> 00:37:53,496
+Pokušao si da me ubiješ, kuèkin sine!
+
+483
+00:37:53,775 --> 00:37:56,016
+Zato, dobrodošao u revoluciju.
+
+484
+00:37:56,455 --> 00:37:58,895
+Biæe još.
+Èujemo se.
+
+485
+00:38:02,895 --> 00:38:04,175
+Odlepio je.
+
+486
+00:38:05,655 --> 00:38:06,895
+Skroz je odlepio.
+
+487
+00:38:08,015 --> 00:38:10,894
+Želim popis svega
+što je na tom brodu, smesta.
+
+488
+00:38:14,614 --> 00:38:16,974
+Generale, evo šta znamo.
+
+489
+00:38:17,614 --> 00:38:21,893
+Pretnja je verodostojna i prava.
+Ponavljam, pretnja je prava.
+
+490
+00:38:23,693 --> 00:38:25,734
+Sranje!
+Kuèkin sine!
+
+491
+00:38:25,933 --> 00:38:27,173
+Poverovali su ti?
+
+492
+00:38:27,413 --> 00:38:30,533
+Veruju da sam lud,
+paranoièan, tako nešto.
+
+493
+00:38:30,772 --> 00:38:32,413
+Naciljao sam "harpun".
+
+494
+00:38:32,652 --> 00:38:33,653
+Ispali kad budeš spreman.
+
+495
+00:38:42,132 --> 00:38:44,452
+Tišina, ljudi!
+Tišina.
+
+496
+00:38:46,012 --> 00:38:47,332
+Projektil krenuo.
+
+497
+00:38:53,331 --> 00:38:54,571
+Projektil krenuo.
+
+498
+00:38:55,164 --> 00:38:56,815
+O, èoveèe...
+
+499
+00:38:57,793 --> 00:38:59,762
+O, èoveèe.
+O, èoveèe.
+
+500
+00:39:08,450 --> 00:39:10,010
+Bum.
+Mrtvi ste.
+
+501
+00:39:12,970 --> 00:39:16,289
+Uništio nam je satelitski relej.
+- Šta to ne želi da vidimo?
+
+502
+00:39:16,490 --> 00:39:17,770
+Želi da nas oslepi.
+
+503
+00:39:17,969 --> 00:39:21,249
+Nema logike. Zna da možemo
+da ga pratimo iz Perla!
+
+504
+00:39:21,489 --> 00:39:22,849
+Možemo poslati AVAKS.
+
+505
+00:39:23,289 --> 00:39:25,248
+Ili E2C sa "Nimica".
+
+506
+00:39:25,489 --> 00:39:26,829
+Uradite to onda.
+
+507
+00:39:27,529 --> 00:39:29,209
+Probudite predsednika.
+
+508
+00:39:32,929 --> 00:39:34,048
+Ovamo sa njom!
+
+509
+00:39:35,568 --> 00:39:37,287
+Dajte.
+Ovamo.
+
+510
+00:39:38,567 --> 00:39:41,727
+Brzo je secite.
+Vreme je novac u ovom poslu.
+
+511
+00:39:43,808 --> 00:39:45,128
+Posada je valjda sposobna.
+
+512
+00:39:45,367 --> 00:39:47,528
+Diži dupe gore!
+
+513
+00:39:48,727 --> 00:39:49,927
+Pazite glave, momci.
+
+514
+00:39:56,126 --> 00:39:58,126
+Dobro da sam ti poslao nacrte.
+
+515
+00:39:59,886 --> 00:40:03,166
+Èetiri dela tamo, sedam ovamo.
+
+516
+00:40:03,406 --> 00:40:05,765
+Biæe iseèena i postavljena
+u roku od sat vremena.
+
+517
+00:40:11,086 --> 00:40:13,605
+Vreme je novac u ovom poslu!
+
+518
+00:40:16,725 --> 00:40:18,645
+Vreme je novac.
+
+519
+00:40:19,565 --> 00:40:21,405
+Ovo æe ih ogoliti do kosti.
+
+520
+00:40:21,684 --> 00:40:23,205
+Do kosti.
+
+521
+00:40:26,724 --> 00:40:28,164
+Kakva je to buka?
+
+522
+00:40:28,444 --> 00:40:30,124
+Moja voljena posada.
+
+523
+00:40:34,403 --> 00:40:38,324
+Samo nastavite.
+Neko mora da èuje.
+
+524
+00:41:48,438 --> 00:41:49,638
+Iskljuèite muziku!
+
+525
+00:41:59,837 --> 00:42:01,837
+Šta se dogaða?
+
+526
+00:42:03,637 --> 00:42:05,277
+Šta je bilo sa njima?
+
+527
+00:42:09,916 --> 00:42:11,637
+Ko ste vi i šta radite ovde?
+
+528
+00:42:12,117 --> 00:42:14,116
+Zovem se Džordan Tejt.
+
+529
+00:42:14,396 --> 00:42:15,956
+Ja sam Mis jula '89-e.
+
+530
+00:42:17,196 --> 00:42:19,756
+Unajmili su me da iskoèim iz torte,
+
+531
+00:42:19,996 --> 00:42:23,195
+ali na putu mi je bilo loše...
+
+532
+00:42:23,395 --> 00:42:25,795
+...i jedan tip mi je dao ove pilule.
+
+533
+00:42:26,036 --> 00:42:29,155
+Valjda sam zaspala.
+- Ma, kakvo je to sranje?!
+
+534
+00:42:29,675 --> 00:42:31,915
+Ja sam glumica!
+
+535
+00:42:32,155 --> 00:42:34,754
+Snimila sam epizodu "Lovca"
+i video "Vlažno i divlje".
+
+536
+00:42:34,995 --> 00:42:38,235
+Agent mi je rekao da æu
+samo da iskoèim iz torte.
+
+537
+00:42:38,434 --> 00:42:39,754
+Koliko je ljudi bilo u helikopteru?
+
+538
+00:42:40,635 --> 00:42:41,714
+Ne znam.
+
+539
+00:42:41,954 --> 00:42:45,194
+Bio je pun.
+Unutra je bio bend, konobari...
+
+540
+00:42:45,394 --> 00:42:46,273
+Gde je posada?
+
+541
+00:42:47,194 --> 00:42:49,754
+Ne znam, ništa nisam videla.
+
+542
+00:42:50,433 --> 00:42:53,354
+Ništa niste videli, èuli,
+i nièega se ne seæate?
+
+543
+00:42:53,994 --> 00:42:56,273
+U životu sam izvela mnoštvo gluposti,
+
+544
+00:42:56,513 --> 00:42:59,073
+ali verujte, ništa ne znam!
+
+545
+00:43:01,313 --> 00:43:02,873
+U redu, verujem vam.
+
+546
+00:43:05,752 --> 00:43:09,992
+A ko ste vi?
+Vi ste neki specijalac, tako nešto?
+
+547
+00:43:10,552 --> 00:43:11,832
+Ja sam obièan kuvar.
+
+548
+00:43:13,032 --> 00:43:14,071
+Kuvar?
+
+549
+00:43:14,312 --> 00:43:16,551
+Obièni mali kuvarèiæ.
+
+550
+00:43:17,311 --> 00:43:19,432
+Moj Bože, umreæemo.
+
+551
+00:43:20,032 --> 00:43:23,311
+Na brodu je 40.000
+20-mm granata CVIZ.
+
+552
+00:43:23,712 --> 00:43:25,671
+Preko 1.000 400-mm granata.
+
+553
+00:43:25,911 --> 00:43:30,470
+Verujemo da je na brodu oko
+15 krstareæih "harpuna" i...
+
+554
+00:43:30,671 --> 00:43:32,031
+...32 "tomahavka".
+
+555
+00:43:32,270 --> 00:43:34,230
+Kakvih "tomahavka"?
+
+556
+00:43:34,670 --> 00:43:36,150
+Sve je u redu...
+
+557
+00:43:36,790 --> 00:43:38,190
+8 ih je posebnih.
+
+558
+00:43:38,390 --> 00:43:41,510
+Sa atomskom bojevom glavom.
+Svaka po 220 kilotona.
+
+559
+00:43:41,909 --> 00:43:45,324
+Gospodine Brejker, objasnite mi
+kako taj ludak može da drži
+
+560
+00:43:45,329 --> 00:43:47,709
+jedno od vodeæih mesta
+u našim obaveštajnim agencijama.
+
+561
+00:43:47,749 --> 00:43:49,469
+Odgovorite na to!
+
+562
+00:43:49,909 --> 00:43:54,429
+Visoki tajni operativci kao što je
+Straniks su pod velikim pritiskom.
+
+563
+00:43:55,149 --> 00:43:58,109
+To su kreativni mislioci
+koji sami po sebi...
+
+564
+00:43:58,348 --> 00:44:01,189
+Tom obuèava sve ludake u CIA-i.
+
+565
+00:44:01,628 --> 00:44:03,069
+Nas zanima samo...
+
+566
+00:44:03,308 --> 00:44:06,228
+...kako se domogao našeg bojnog broda.
+
+567
+00:44:07,427 --> 00:44:09,348
+To mu je specijalnost.
+
+568
+00:44:11,308 --> 00:44:14,102
+Prošle godine, Severna Koreja
+je opremala jednu podmornicu
+
+569
+00:44:14,107 --> 00:44:16,687
+protivbrodskim projektilima.
+Poslali smo Straniksa.
+
+570
+00:44:16,827 --> 00:44:20,187
+Finansirali ste privatnu
+vojsku tog prokletog manijaka?
+
+571
+00:44:20,427 --> 00:44:22,707
+Nije vam sinulo da bi to
+moglo izrasti u problem?!
+
+572
+00:44:23,387 --> 00:44:26,226
+Shvativši da smo izgubili nadzor...
+
+573
+00:44:27,307 --> 00:44:31,266
+...pokušali smo da ga ubijemo.
+Promašili smo.
+
+574
+00:44:31,906 --> 00:44:33,066
+Izvinite.
+
+575
+00:44:33,266 --> 00:44:35,546
+Ta severnokorejska podmornica...
+
+576
+00:44:36,425 --> 00:44:38,146
+Kako znate da je potopio?
+
+577
+00:44:40,145 --> 00:44:42,346
+U to nema sumnje.
+
+578
+00:44:42,585 --> 00:44:43,705
+Nema sumnje...
+
+579
+00:44:51,584 --> 00:44:54,784
+Ptica Trkaèica zove Tvitija.
+Javi se.
+
+580
+00:44:55,504 --> 00:44:57,784
+Tviti zove Pticu Trkaèicu.
+Blizu smo.
+
+581
+00:44:58,224 --> 00:45:00,504
+Kako ide?
+- Podmornica izronila.
+
+582
+00:45:00,744 --> 00:45:03,944
+Meni sve ide kao rokenrol.
+- Ima li traga Peri Kojotu?
+
+583
+00:45:04,084 --> 00:45:06,743
+Ne. Naðimo se kod "ptièjeg kaveza"
+po dogovoru. Ptica Trkaèica završava.
+
+584
+00:45:07,303 --> 00:45:09,047
+Ti si Ptica Trkaèica?
+- Da.
+
+585
+00:45:09,144 --> 00:45:10,843
+Nikad me nisu uhvatili.
+
+586
+00:45:12,593 --> 00:45:15,182
+Bile, imamo problem.
+Nestali su Kejts i Zigs.
+
+587
+00:45:15,822 --> 00:45:18,342
+Zovem ih pet minuta.
+Nema odgovora.
+
+588
+00:45:18,583 --> 00:45:20,662
+Poslednja lokacija?
+- Kuhinja.
+
+589
+00:45:20,902 --> 00:45:23,902
+Rekao sam da treba više ljudi.
+Rekao sam!
+
+590
+00:45:24,142 --> 00:45:26,382
+Ne ostavljajte me samu, molim vas...
+
+591
+00:45:26,622 --> 00:45:30,901
+Verujte mi, ovo je za vas
+najbezbednije mesto. Razumete?
+
+592
+00:45:32,781 --> 00:45:34,261
+Pustite me napolje!
+
+593
+00:45:39,541 --> 00:45:41,021
+Pustite me!
+
+594
+00:45:41,741 --> 00:45:44,501
+Shvatate li šta æe biti
+ako vas neko èuje?
+
+595
+00:45:44,741 --> 00:45:46,300
+Doæi æe i pokušati
+da nas ubiju oboje.
+
+596
+00:45:47,701 --> 00:45:49,100
+Sad se stišajte.
+
+597
+00:45:55,020 --> 00:45:56,540
+Mrzim da budem sama.
+
+598
+00:45:56,860 --> 00:45:58,600
+A da budete mrtvi?
+
+599
+00:46:06,059 --> 00:46:07,219
+Èisto!
+
+600
+00:46:17,978 --> 00:46:19,378
+Navucite ovo.
+
+601
+00:46:29,417 --> 00:46:32,257
+Ako idete sa mnom,
+morate biti nevidljivi.
+
+602
+00:46:32,497 --> 00:46:35,577
+Ako proðete pored prozora i ugledate
+neprijatelja, morate postati prozor.
+
+603
+00:46:35,817 --> 00:46:39,817
+Daæu vam jurišnu pušku MP5.
+Na njoj je prekidaè za paljbu.
+
+604
+00:46:40,257 --> 00:46:43,256
+Jedan je automatski,
+jedan poluautomatski.
+
+605
+00:46:43,497 --> 00:46:46,896
+Opis poluautomatske paljbe glasi:
+pritiskom na okidaè,
+
+606
+00:46:47,136 --> 00:46:48,736
+ispalite jedan metak.
+
+607
+00:46:48,976 --> 00:46:52,175
+Takvu želim da vam dam.
+Da ispaljujete metak po metak.
+
+608
+00:46:54,936 --> 00:46:56,055
+Pali svetla!
+
+609
+00:46:56,295 --> 00:46:59,315
+Proveri razvodnu ploèu.
+To se veæ dogaðalo. Ništa posebno.
+
+610
+00:47:02,775 --> 00:47:05,335
+Ovo je izveo profesionalac.
+
+611
+00:47:06,854 --> 00:47:10,534
+Ko je on i šta radi na mom brodu?
+- Tvom brodu?
+
+612
+00:47:10,775 --> 00:47:13,814
+Da nije mene, ne bi ti
+ni kroèio na ovaj brod.
+
+613
+00:47:14,054 --> 00:47:16,134
+On je kuvar.
+Vrlo jednostavno.
+
+614
+00:47:16,333 --> 00:47:17,814
+Nije ovo izveo kuvar.
+
+615
+00:47:18,093 --> 00:47:19,254
+Došao je na brod sa kapetanom.
+
+616
+00:47:19,453 --> 00:47:23,293
+Znam ga od glave do pete.
+Dobro barata kuhinjskim nožem.
+
+617
+00:47:24,173 --> 00:47:25,294
+Ovo nije kuhinjski nož!
+
+618
+00:47:28,173 --> 00:47:29,053
+Imao je sreæe.
+
+619
+00:47:30,252 --> 00:47:32,973
+Po mom struènom mišljenju,
+on je vojni otpadnik...
+
+620
+00:47:33,212 --> 00:47:35,292
+...koji zapoveda kuhinjom!
+
+621
+00:47:36,852 --> 00:47:37,692
+Lezi!
+
+622
+00:47:51,811 --> 00:47:53,411
+Šta je to bilo?
+- Bomba, seronjo.
+
+623
+00:47:53,651 --> 00:47:56,011
+Mikrotalasna mu je bila upaljaè.
+
+624
+00:47:56,250 --> 00:47:58,770
+Osiguraj prostor odavde
+do borbenog centra.
+
+625
+00:47:58,971 --> 00:48:02,010
+Ugledaš li šta, smesta
+zovi pojaèanje. Jasno?
+
+626
+00:48:02,211 --> 00:48:04,051
+Gasite te vatre!
+
+627
+00:48:06,930 --> 00:48:10,650
+Rado bih video brodski dosije
+tog "obiènog" kuvara.
+
+628
+00:48:11,930 --> 00:48:13,690
+Gasite te proklete vatre!
+
+629
+00:48:16,529 --> 00:48:20,209
+"Foka" jedinica 5 kreæe sa "Nimica"
+helikopterom, a CH-53 Eho...
+
+630
+00:48:20,489 --> 00:48:22,529
+...u pratnji borbenog "Apaèa".
+
+631
+00:48:22,769 --> 00:48:26,289
+U podruèju cilja, "Apaè"
+æe uništiti brodski radar,
+
+632
+00:48:26,528 --> 00:48:28,689
+i njegove sisteme za elektronski rat.
+
+633
+00:48:29,008 --> 00:48:31,528
+"Foka" jedinica æe se potom
+spustiti i osvojiti brod.
+
+634
+00:48:31,768 --> 00:48:34,088
+Izgledi za uspeh?
+
+635
+00:48:34,288 --> 00:48:37,048
+Ako taj ludak delimièno nadzire brod...
+
+636
+00:48:37,288 --> 00:48:38,568
+...izgledi su dobri.
+
+637
+00:48:39,887 --> 00:48:42,008
+Sa druge strane,
+ako je spreman za nas...
+
+638
+00:48:42,247 --> 00:48:44,487
+...ako je spreman
+da onemoguæi spuštanje...
+
+639
+00:48:45,168 --> 00:48:46,607
+...izgledi nisu dobri.
+
+640
+00:48:46,927 --> 00:48:51,366
+Ali upamtite, "Foka" jedinica 5
+najbolja je što postoji.
+
+641
+00:48:51,567 --> 00:48:55,527
+To nam je jedina nada da æemo spasiti
+posadu i brod vratiti netaknut.
+
+642
+00:48:55,766 --> 00:48:59,046
+I da vam nešto bude jasno:
+
+643
+00:48:59,846 --> 00:49:01,926
+Ako "Foka" jedinica podbaci...
+
+644
+00:49:02,166 --> 00:49:06,045
+...neæemo imati izbora nego
+da organizujemo vazdušni napad...
+
+645
+00:49:06,926 --> 00:49:09,045
+...i uništimo Misuri.
+
+646
+00:49:10,925 --> 00:49:12,645
+Vi znate šta to znaèi.
+
+647
+00:49:13,645 --> 00:49:15,285
+Vratiæemo vam ga.
+
+648
+00:49:15,685 --> 00:49:18,004
+Uradite to onda.
+Uradite to onda...
+
+649
+00:49:18,765 --> 00:49:21,365
+22, 12.
+Savršeno.
+
+650
+00:49:21,925 --> 00:49:25,125
+Od palube do spremišta
+projektila je 12 metara.
+
+651
+00:49:25,364 --> 00:49:28,844
+Treba pola sata za
+postavljanje kraka dizalice.
+
+652
+00:49:29,724 --> 00:49:33,404
+Rajbekov dosije bio je
+u liènom kapetanovom ormariæu.
+
+653
+00:49:34,923 --> 00:49:36,803
+Rajbek je bivši pripadnik "Foke".
+
+654
+00:49:37,043 --> 00:49:38,683
+Prokleti kuvar je "Foka"?!
+
+655
+00:49:38,923 --> 00:49:41,803
+Æuti i slušaj!
+Struènjak u borilaèkim veštinama...
+
+656
+00:49:42,043 --> 00:49:44,263
+...eksplozivima, oružju i taktici.
+
+657
+00:49:44,403 --> 00:49:48,303
+Srebrna zvezda, Mornarièki krst,
+Purpurno srce sa grozdom.
+
+658
+00:49:48,402 --> 00:49:52,802
+Propusnica oduzeta nakon Paname.
+Znaèi, mogao je da bude podoficir...
+
+659
+00:49:53,322 --> 00:49:56,162
+...ili kuvar.
+Kako sam malo znao...
+
+660
+00:49:56,402 --> 00:49:58,001
+Izgubili smo još dvojicu kod motora.
+
+661
+00:49:58,962 --> 00:50:01,761
+Trebao si da proveriš dosijee
+svih èlanova posade na brodu.
+
+662
+00:50:02,002 --> 00:50:05,162
+Znam, ali nisam imao pristup
+liènim kapetanovim dosijeima!
+
+663
+00:50:05,401 --> 00:50:08,361
+Sam æu srediti tog drkadžiju!
+- Smiri se!
+
+664
+00:50:08,601 --> 00:50:09,601
+Zar ti se umire?
+
+665
+00:50:09,641 --> 00:50:10,601
+Jesi li idiot?!
+
+666
+00:50:10,841 --> 00:50:12,801
+Ti mene nazivaš idiotom?!
+- Da!
+
+667
+00:50:13,041 --> 00:50:16,561
+Smirite se! Dajte mi tri patrole.
+Treba da ga zadržimo ispod palube.
+
+668
+00:50:16,800 --> 00:50:19,520
+Pokret!
+- Drži se rasporeda.
+
+669
+00:50:20,360 --> 00:50:21,680
+Na most!
+
+670
+00:50:23,999 --> 00:50:26,840
+Ja sam žensko!
+Zašto ja moram sve da nosim?
+
+671
+00:50:27,079 --> 00:50:30,639
+Ja sam za ženski pokret. Ti nisi?
+- Kad mi koristi.
+
+672
+00:50:31,080 --> 00:50:33,399
+Svom osoblju, slušajte!
+- Kreæi.
+
+673
+00:50:33,640 --> 00:50:35,599
+Pazite na eksplozivne klopke.
+
+674
+00:50:35,839 --> 00:50:39,158
+Ne idite za neprijateljem
+u neobezbeðeno podruèje.
+
+675
+00:50:39,758 --> 00:50:44,158
+Javljajte se lièno Daumeru u
+razmacima od 5 minuta i prebacite...
+
+676
+00:50:44,399 --> 00:50:46,359
+...na drugu frekvenciju...
+
+677
+00:50:46,598 --> 00:50:47,678
+...sad.
+
+678
+00:50:51,237 --> 00:50:52,998
+Prokleta "Foka"...
+
+679
+00:50:54,038 --> 00:50:55,758
+Ja æu da nosim sve...
+
+680
+00:50:56,277 --> 00:50:58,717
+...a ti ubij svakoga na koga naletimo.
+
+681
+00:50:59,757 --> 00:51:01,597
+Držim se svog pravila
+u pogledu ubijanja.
+
+682
+00:51:03,237 --> 00:51:05,437
+Zapravo, imam dva pravila.
+
+683
+00:51:05,677 --> 00:51:08,517
+Pod jedan, ne izlazim sa muzièarima.
+A pod dva, ne ubijam ljude!
+
+684
+00:51:08,996 --> 00:51:11,276
+Oduševljen sam da crkneš.
+
+685
+00:51:11,516 --> 00:51:14,316
+Ali ostaje još puno moguænosti.
+Penji se na merdevine.
+
+686
+00:51:14,516 --> 00:51:15,796
+Idemo.
+- Bože!
+
+687
+00:51:17,756 --> 00:51:20,395
+Mislim da imaš pogrešnog partnera.
+
+688
+00:51:23,915 --> 00:51:25,395
+Saèekaj ovde.
+
+689
+00:51:29,835 --> 00:51:31,194
+Sedni tamo.
+
+690
+00:51:32,515 --> 00:51:34,274
+Odmah se vraæam.
+
+691
+00:52:58,708 --> 00:52:59,748
+Šta je to?
+
+692
+00:53:02,348 --> 00:53:03,548
+Šta je to?
+
+693
+00:53:04,268 --> 00:53:06,068
+"Foka" magnafon.
+
+694
+00:53:06,307 --> 00:53:10,188
+MX 20-20.
+Tajna veza sa satelitom.
+
+695
+00:53:11,147 --> 00:53:12,507
+Kao mobilni telefon?
+
+696
+00:53:14,028 --> 00:53:15,987
+Da, tako nešto.
+
+697
+00:53:22,987 --> 00:53:24,586
+Izvinite, admirale, ovo je važno.
+
+698
+00:53:28,746 --> 00:53:30,186
+Poznajete li Kejsija Rajbeka?
+
+699
+00:53:30,786 --> 00:53:32,026
+Kuvara Rajbeka?
+Da, gospodine.
+
+700
+00:53:32,266 --> 00:53:35,066
+Vrhunski èovek jedinice "Foka".
+Da bar njega imamo ovde...
+
+701
+00:53:35,306 --> 00:53:38,266
+Zove nas sa broda putem "Foka"
+magnafona. On je na Misuriju.
+
+702
+00:53:38,786 --> 00:53:39,745
+Šta?!
+
+703
+00:53:40,905 --> 00:53:43,106
+Slušajte ovo.
+Svi.
+
+704
+00:53:44,305 --> 00:53:45,345
+Da, razumem.
+
+705
+00:53:46,145 --> 00:53:48,625
+Možete li proceniti
+velièinu njihove snage?
+
+706
+00:53:48,825 --> 00:53:50,704
+Rekao bih oko 30, gospodine.
+
+707
+00:53:51,064 --> 00:53:52,904
+Spojiæu vas sa kapetanom Garzom.
+
+708
+00:53:53,104 --> 00:53:54,504
+Prièekajte.
+
+709
+00:53:54,744 --> 00:53:56,224
+Kako znamo da ne radi za njih?
+
+710
+00:53:57,264 --> 00:54:00,664
+Ja garantujem za kuvara Rajbeka!
+On je dobar momak. - Èekajte!
+
+711
+00:54:01,344 --> 00:54:04,264
+Neæemo rizikovati.
+Ni reèi o našem planu!
+
+712
+00:54:05,783 --> 00:54:08,423
+Rajbek, ovde kapetan Garza.
+- Drago mi je što ste tamo.
+
+713
+00:54:08,663 --> 00:54:12,063
+Želimo da nas obavestite
+o onome što ste videli.
+
+714
+00:54:12,303 --> 00:54:15,063
+Ovaj èovek je možda lud,
+ali je profesionalac.
+
+715
+00:54:15,302 --> 00:54:19,182
+Napravili su šine
+za istovar "tomahavka".
+
+716
+00:54:19,622 --> 00:54:21,863
+Verovali ili ne,
+sa njima je i zapovednik.
+
+717
+00:54:23,782 --> 00:54:25,742
+Upleten je i zapovednik Kril?
+
+718
+00:54:25,982 --> 00:54:27,022
+Admirale...
+
+719
+00:54:27,822 --> 00:54:29,821
+To znaèi da je brod u njihovim rukama.
+
+720
+00:54:30,302 --> 00:54:31,422
+Sveti Bože...
+
+721
+00:54:32,501 --> 00:54:36,061
+Rajbek, govori admiral Bejts.
+
+722
+00:54:36,701 --> 00:54:40,981
+Želim da delovanje uskladite
+sa nama. Razumete? Samo polako,
+
+723
+00:54:41,420 --> 00:54:44,021
+i saèekajte udarni tim.
+Razumete?
+
+724
+00:54:44,261 --> 00:54:46,541
+Da. Bolje da se iskljuèim
+pre nego što otkriju signal.
+
+725
+00:54:46,780 --> 00:54:49,181
+Javite se ponovo za pola sata.
+- Primljeno.
+
+726
+00:54:49,500 --> 00:54:50,941
+Ti nisi kuvar.
+
+727
+00:54:52,780 --> 00:54:54,059
+Da, ali...
+
+728
+00:54:56,619 --> 00:54:58,100
+...usput i kuvam.
+
+729
+00:54:58,339 --> 00:54:59,739
+Uzmi svoje stvari.
+
+730
+00:55:00,259 --> 00:55:03,139
+Imao je izuzetnu karijeru do Paname,
+
+731
+00:55:03,379 --> 00:55:06,219
+kad je veæina njegove jedinice
+"Foka" poginula zbog loše informacije.
+
+732
+00:55:07,179 --> 00:55:09,499
+Rajbek je ratnik.
+Najbolji koji postoji.
+
+733
+00:55:09,739 --> 00:55:13,018
+Po povratku iz Paname
+udario je zapovednika.
+
+734
+00:55:13,259 --> 00:55:16,618
+Adams ga je uzeo kao kuvara
+da navrši 20 godina službe.
+
+735
+00:55:16,858 --> 00:55:18,618
+Èekajte malo...
+
+736
+00:55:18,898 --> 00:55:22,577
+Šta ako je taj Cvajbek,
+ili kako se veæ zove, u pravu...
+
+737
+00:55:22,818 --> 00:55:26,658
+...i projektile istovare
+pre dolaska jedinice "Foka"?
+
+738
+00:55:26,897 --> 00:55:29,698
+Gospodin Straniks ne može
+nikako da nas mimoiðe.
+
+739
+00:55:31,177 --> 00:55:33,617
+Imamo AVAKS osmatranje
+i SOSUS u Honoluluu
+
+740
+00:55:33,817 --> 00:55:36,576
+koji prati svaki brod
+i podmornicu na moru.
+
+741
+00:55:37,816 --> 00:55:39,536
+Napuste li Misuri, naši su.
+
+742
+00:55:39,736 --> 00:55:43,536
+Kako znamo da Honolulu
+nije njegova sledeæa meta?
+
+743
+00:55:44,217 --> 00:55:45,656
+Recite mi to!
+
+744
+00:55:58,615 --> 00:56:00,215
+Pogledaj ovo...
+
+745
+00:56:01,815 --> 00:56:05,375
+Èemu služe ova svetla?
+- Obuèen sam za to.
+
+746
+00:56:09,734 --> 00:56:12,274
+Možeš li da upravljaš
+tim helikopterom? - Da.
+
+747
+00:56:12,314 --> 00:56:14,873
+Znaèi da možemo odavde!
+- Ne.
+
+748
+00:56:15,054 --> 00:56:16,854
+Evo ti MP5K.
+
+749
+00:56:17,534 --> 00:56:20,093
+Kad crvena taèka bude na meti,
+pogaðaš to što vidiš.
+
+750
+00:56:20,293 --> 00:56:21,893
+Rekla sam ti da ne volim oružje.
+
+751
+00:56:22,093 --> 00:56:23,813
+Znam.
+Ni ja.
+
+752
+00:56:24,854 --> 00:56:26,573
+Sad se vrati ispod onoga.
+
+753
+00:56:54,691 --> 00:56:58,091
+Ovo æe se prodavati kao pogaèe!
+
+754
+00:56:58,330 --> 00:56:59,851
+Svakako.
+
+755
+00:57:00,931 --> 00:57:03,370
+Šta æeš kad u banci budeš
+imao 200 miliona dolara?
+
+756
+00:57:03,610 --> 00:57:04,811
+Kupiæu predsedništvo.
+
+757
+00:57:32,328 --> 00:57:33,968
+Neko se pomera dole!
+
+758
+00:57:37,888 --> 00:57:39,248
+Na palubi za sletanje!
+
+759
+00:58:23,164 --> 00:58:24,685
+Izlazite odatle!
+
+760
+00:58:38,403 --> 00:58:40,443
+Gde me vodite?
+
+761
+00:58:45,883 --> 00:58:47,043
+Pustite me!
+
+762
+00:58:48,163 --> 00:58:49,802
+Skidajte ruke s mene!
+
+763
+00:58:50,202 --> 00:58:51,323
+Sad!
+
+764
+00:59:01,042 --> 00:59:02,282
+Kreæi!
+
+765
+00:59:12,760 --> 00:59:14,040
+Idemo!
+
+766
+00:59:16,360 --> 00:59:18,200
+Stanite, dalje od vrata!
+
+767
+00:59:25,120 --> 00:59:28,599
+Osigurajte bateriju projektila br. 3!
+- Èuvajte taj otvor!
+
+768
+00:59:28,999 --> 00:59:30,319
+Taj tip je pravi davež!
+
+769
+00:59:30,519 --> 00:59:32,399
+Moramo nešto da preduzmemo!
+
+770
+00:59:32,639 --> 00:59:34,119
+Znam ja šta æemo.
+
+771
+00:59:36,039 --> 00:59:37,079
+Stvarno.
+
+772
+00:59:40,119 --> 00:59:42,358
+Ovo ludilo je tako logièno.
+
+773
+00:59:42,998 --> 00:59:46,798
+U dvorani u kojoj su zatvoreni
+postoji protivpožarni sistem.
+
+774
+00:59:47,318 --> 00:59:48,558
+Gospodine Pit?
+
+775
+00:59:50,358 --> 00:59:51,518
+Prednji deo.
+
+776
+00:59:52,758 --> 00:59:54,997
+Pritisneš dugme i nastane poplava.
+
+777
+00:59:55,797 --> 00:59:57,918
+Uskoro æe se svi podaviti.
+
+778
+00:59:58,117 --> 01:00:00,237
+Rajbek æe se ubiti
+u pokušaju da ih spasi.
+
+779
+01:00:09,917 --> 01:00:11,396
+Ti si manijak.
+
+780
+01:00:11,636 --> 01:00:13,316
+Podaviti sopstvenu posadu...
+
+781
+01:00:14,236 --> 01:00:16,076
+Ionako me nikad nisu voleli.
+
+782
+01:00:17,196 --> 01:00:19,756
+Verujem da æe te sad obožavati!
+
+783
+01:00:25,836 --> 01:00:28,315
+Vidiš ovo?
+Ovo se seèe na sve strane.
+
+784
+01:00:28,876 --> 01:00:29,795
+Šta je to?
+
+785
+01:00:30,035 --> 01:00:34,035
+Služi im kao šine za prebacivanje
+projektila na brod ili podmornicu...
+
+786
+01:00:34,275 --> 01:00:36,075
+...sa kojom æe se susresti.
+
+787
+01:00:38,354 --> 01:00:39,474
+Šta je to?
+
+788
+01:00:40,714 --> 01:00:42,474
+Morzeov kod.
+
+789
+01:00:44,354 --> 01:00:45,514
+Šta kažu?
+
+790
+01:00:47,673 --> 01:00:49,994
+"Izbavite me odavde, jebote!"
+
+791
+01:00:57,033 --> 01:00:57,833
+Šta je to?
+
+792
+01:00:58,073 --> 01:00:59,272
+Skloni se od otvora!
+
+793
+01:01:28,390 --> 01:01:31,471
+Džonsone, èuvaj vrata.
+Ubij svakog ko naiðe.
+
+794
+01:01:31,590 --> 01:01:33,450
+Hej, Kejs, jesi li dobro?
+
+795
+01:01:33,590 --> 01:01:36,571
+Da. A ti?
+- Jesam.
+
+796
+01:01:37,110 --> 01:01:38,670
+Samo vas je toliko?
+
+797
+01:01:38,910 --> 01:01:41,029
+Šestoricu su nas zarobili.
+Šta se kog ðavola dogaða?
+
+798
+01:01:41,270 --> 01:01:43,589
+Imamo problem, eto šta.
+Ko je ovo?
+
+799
+01:01:44,390 --> 01:01:46,990
+Kalavej, tobdžija 2. klase, '44 i '46.
+
+800
+01:01:47,229 --> 01:01:51,469
+Ovo je Džordan, žrtva situacije
+koju æu vam ukratko opisati.
+
+801
+01:01:51,829 --> 01:01:54,029
+Drago mi je što vas vidim.
+I tebe, Kejs.
+
+802
+01:01:54,709 --> 01:01:56,549
+Grejndžeru, uzmi ovo.
+
+803
+01:01:57,029 --> 01:01:59,629
+Flikeru, uzmi alat.
+Èeka nas posao.
+
+804
+01:02:00,869 --> 01:02:03,188
+Živnite, gospodo,
+uleæemo u pljusak govana.
+
+805
+01:02:11,827 --> 01:02:13,827
+Elektrièni udar.
+
+806
+01:02:20,306 --> 01:02:21,586
+Taj je poslednji.
+
+807
+01:02:21,827 --> 01:02:24,947
+To æe im u roku od pola sata
+onesposobiti oružne sisteme.
+
+808
+01:02:25,506 --> 01:02:28,506
+Gospodine Rajbek,
+molim za vašu pažnju.
+
+809
+01:02:28,986 --> 01:02:31,146
+Govori kapetan Kril.
+
+810
+01:02:35,906 --> 01:02:38,025
+Molim da pogledate na monitore
+
+811
+01:02:38,226 --> 01:02:40,425
+tamo gde se nalazite.
+
+812
+01:02:42,265 --> 01:02:43,585
+Gledate li?
+
+813
+01:02:43,785 --> 01:02:46,185
+Spremio sam za vas posebnu emisiju.
+
+814
+01:02:49,225 --> 01:02:50,144
+Poèinje....
+
+815
+01:02:54,384 --> 01:02:57,024
+Želim da znaš da se ne radi o uvredi.
+
+816
+01:02:58,784 --> 01:03:00,983
+Nemam ništa protiv tebe...
+
+817
+01:03:01,344 --> 01:03:03,224
+...ni ostatka posade.
+
+818
+01:03:03,423 --> 01:03:04,703
+Dao si sve od sebe.
+
+819
+01:03:11,503 --> 01:03:13,943
+Ode disciplina!
+
+820
+01:03:17,183 --> 01:03:18,783
+Grejndžeru, gasi to.
+
+821
+01:03:19,742 --> 01:03:20,823
+Moramo da ih spasimo.
+
+822
+01:03:21,022 --> 01:03:22,342
+Spremiæe nam klopku.
+
+823
+01:03:22,782 --> 01:03:25,982
+Ali oni oèekuju mene, a ne sve nas.
+
+824
+01:03:26,422 --> 01:03:27,822
+Šta "sve nas"?!
+Ja perem veš!
+
+825
+01:03:28,261 --> 01:03:31,141
+Peglao sam u Zalivskom ratu!
+Nisam ja usrani junak!
+
+826
+01:03:31,341 --> 01:03:33,141
+U Mornarici si, seæaš se?
+
+827
+01:03:33,382 --> 01:03:35,381
+"Nije to posao, nego avantura."
+
+828
+01:03:35,741 --> 01:03:38,101
+Doðavola sa tim, èoveèe!
+Ja sam na stipendiji!
+
+829
+01:03:38,341 --> 01:03:40,981
+Ja sam sa tobom, Kejs.
+- Uradimo to!
+
+830
+01:03:41,661 --> 01:03:43,980
+U redu.
+Ostaæu i paziti na Mis jula.
+
+831
+01:03:44,181 --> 01:03:47,180
+Pogasi mi svetla u hodniku.
+- Ja idem!
+
+832
+01:03:47,461 --> 01:03:49,940
+Mogu, ali ubrzo se pale
+svetla za uzbunu.
+
+833
+01:03:50,380 --> 01:03:53,340
+Doðavola sve.
+Kako ovo radi?
+
+834
+01:04:11,579 --> 01:04:12,538
+Idi!
+
+835
+01:04:30,937 --> 01:04:32,177
+Dole!
+
+836
+01:04:35,577 --> 01:04:37,137
+Zatvaraj!
+
+837
+01:04:39,297 --> 01:04:40,776
+Zatvori vodu!
+
+838
+01:04:43,016 --> 01:04:45,096
+Izvuæi æe nas!
+
+839
+01:04:49,856 --> 01:04:52,856
+Vuci ga odande!
+Vuci ga!
+
+840
+01:04:59,095 --> 01:05:00,055
+Hajde, druškane!
+
+841
+01:05:01,135 --> 01:05:01,935
+Diši!
+
+842
+01:05:02,455 --> 01:05:04,015
+Slušajte ga!
+
+843
+01:05:04,255 --> 01:05:05,694
+Drži se, èoveèe!
+
+844
+01:05:09,574 --> 01:05:12,574
+Slušajte, oslobodio je
+nekolicinu, i mislim...
+
+845
+01:05:12,814 --> 01:05:16,814
+...da su pošli u prednji deo,
+ali smo ih zaustavili.
+
+846
+01:05:17,054 --> 01:05:19,093
+Pobijte ih ako mislite
+da ih neæete zadržati.
+
+847
+01:05:19,334 --> 01:05:20,734
+Izgleda da ti je plan upalio.
+U klopci su.
+
+848
+01:05:20,973 --> 01:05:22,454
+Dobro.
+- Bacaj sidro!
+
+849
+01:05:35,173 --> 01:05:37,332
+To æe se ovde dogoditi.
+
+850
+01:05:45,292 --> 01:05:47,892
+Ko je to, doðavola?
+- A ko je to, doðavola?
+
+851
+01:05:48,171 --> 01:05:52,131
+Ovde admiral Bejts.
+Tražim Rajbeka. Je li blizu?
+
+852
+01:05:52,371 --> 01:05:55,011
+Baš je usred pucnjave.
+Ostavite poruku.
+
+853
+01:05:55,651 --> 01:05:56,891
+Šta se dogaða tamo, doðavola?!
+
+854
+01:05:57,810 --> 01:05:58,930
+Saèekajte...
+
+855
+01:05:59,291 --> 01:06:00,091
+Evo...
+
+856
+01:06:02,290 --> 01:06:03,570
+Recite, gospodine?
+
+857
+01:06:04,010 --> 01:06:06,730
+Rajbek, ovde admiral Bejts.
+
+858
+01:06:06,970 --> 01:06:10,330
+Vidim da ste se potpuno oglušili
+na moja nareðenja. Taèno?
+
+859
+01:06:10,569 --> 01:06:13,290
+Žao mi je. Ako preživim,
+stavite me pred vojni sud!
+
+860
+01:06:13,529 --> 01:06:14,450
+Shvatam.
+
+861
+01:06:15,050 --> 01:06:17,010
+Želim da me veoma pažljivo slušate.
+
+862
+01:06:17,289 --> 01:06:19,729
+Stiže "Foka" jedinica 5.
+Razumete li?
+
+863
+01:06:22,289 --> 01:06:24,809
+Imamo vazdušnu podršku
+sa "Nimica", razumete?
+
+864
+01:06:27,889 --> 01:06:31,088
+Pošto se radi o vašoj
+guzici, ovlašæujem vas
+
+865
+01:06:31,328 --> 01:06:32,808
+da preduzmete sve potrebne mere
+
+866
+01:06:33,048 --> 01:06:35,088
+i pomognete spuštanje "Foka".
+
+867
+01:06:35,328 --> 01:06:37,888
+Jer ako ne mogu da vas obuzdam...
+
+868
+01:06:38,848 --> 01:06:41,007
+...onda bolje da vas podržim.
+Taèno?
+
+869
+01:06:41,248 --> 01:06:42,167
+Potvrdno, gospodine!
+
+870
+01:06:44,487 --> 01:06:47,367
+Želim vam sreæu, mornaru.
+Gotovo.
+
+871
+01:06:48,367 --> 01:06:50,647
+Imaju puno nevolja na tom brodu.
+
+872
+01:06:56,247 --> 01:06:57,166
+Idem!
+
+873
+01:07:12,245 --> 01:07:13,765
+Sranje!
+Ja ne ostajem ovde!
+
+874
+01:07:14,005 --> 01:07:16,125
+Gde æeš?!
+Vrati se!
+
+875
+01:07:26,564 --> 01:07:27,444
+Šta to radiš?!
+
+876
+01:07:27,684 --> 01:07:29,644
+Najsigurnije je biti iza tebe!
+
+877
+01:07:30,644 --> 01:07:32,763
+Drži se zida, beži sa sredine!
+
+878
+01:07:33,044 --> 01:07:35,363
+Mis jula, vraæajte se ovamo!
+
+879
+01:09:07,862 --> 01:09:11,703
+Taktièki voðo, ovde Kobra pratnja.
+Vidimo vas.
+
+880
+01:09:11,902 --> 01:09:14,343
+Trebali bi da nas ugledate
+sa vaše leve strane.
+
+881
+01:09:21,742 --> 01:09:25,541
+Fransoa, stavi novac u banku
+u Cirihu, inaèe nema ništa.
+
+882
+01:09:27,662 --> 01:09:29,941
+Zovi Èikago, neka prodaju
+deonice "Mekgregor Erkrafta".
+
+883
+01:09:30,182 --> 01:09:32,622
+Biæe sranja kad saznaju za ovo.
+
+884
+01:09:33,821 --> 01:09:36,022
+Dva helikoptera su nam
+se prikrala ispod radara.
+
+885
+01:09:36,261 --> 01:09:37,222
+Jurišni odred.
+
+886
+01:09:38,422 --> 01:09:40,741
+Naravno da smo gadni,
+gadna je i vrednost.
+
+887
+01:09:44,702 --> 01:09:49,161
+Slušaj, prijatelju, budeš li još
+davio, zovem Muhameda! Razumeš?!
+
+888
+01:09:49,261 --> 01:09:51,221
+Jurišni odred u dometu i na nišanu.
+
+889
+01:09:51,581 --> 01:09:52,501
+Pobij ih!
+
+890
+01:09:52,741 --> 01:09:55,781
+Ne, Fransoa, ne tebe.
+Slušaj, daæu ti svog raèunovoðu
+
+891
+01:09:55,980 --> 01:09:58,301
+da ti kaže broj raèuna.
+Ti prièaj sa tim žabarom.
+
+892
+01:10:03,221 --> 01:10:04,461
+Nešto nije u redu.
+
+893
+01:10:04,700 --> 01:10:08,460
+Imamo gadan problem.
+Prebaci na pomoæno!
+
+894
+01:10:08,781 --> 01:10:09,740
+Ništa!
+
+895
+01:10:13,940 --> 01:10:16,500
+Sranje, izgubio sam falangu.
+Sve je crklo. Laka smo meta.
+
+896
+01:10:16,740 --> 01:10:18,620
+Daj vezu sa podmornicom!
+
+897
+01:10:24,579 --> 01:10:25,660
+Izronila je.
+
+898
+01:10:26,060 --> 01:10:28,140
+Kojote, ovde Ptica Trkaèica.
+Javi se.
+
+899
+01:10:51,059 --> 01:10:52,779
+Stižu dobri momci.
+
+900
+01:10:58,939 --> 01:11:00,219
+Jedan minut!
+
+901
+01:11:00,458 --> 01:11:01,459
+Jedan minut!
+
+902
+01:11:02,259 --> 01:11:06,018
+Mesto za sletanje je ošteæeno!
+Idemo na pramac!
+
+903
+01:11:12,898 --> 01:11:14,938
+Šta je to bilo?
+Pogodili su nam pratnju!
+
+904
+01:11:36,057 --> 01:11:38,258
+Potvrðeno je, gospodine.
+Sve smo ih izgubili.
+
+905
+01:11:39,897 --> 01:11:41,897
+Više nemamo izbora...
+
+906
+01:11:44,937 --> 01:11:47,576
+...osim opšteg vazdušnog
+napada sa "Nimica".
+
+907
+01:11:49,217 --> 01:11:50,537
+Gospodine Trenton...
+
+908
+01:11:51,497 --> 01:11:52,576
+...hoæete li, molim vas?
+
+909
+01:11:54,777 --> 01:11:57,736
+Treba nam više radnika napolju
+da privežemo podmornicu.
+
+910
+01:11:58,176 --> 01:11:59,217
+Poèni sa prebacivanjem.
+
+911
+01:11:59,456 --> 01:12:00,656
+Dizalica nije gotova!
+
+912
+01:12:00,896 --> 01:12:03,136
+Imamo novi problem u potpalublju!
+
+913
+01:12:03,816 --> 01:12:08,216
+Uzmi èetvoricu varioca
+da pomognu sa podmornicom.
+
+914
+01:12:22,616 --> 01:12:24,604
+Gospode!
+
+915
+01:12:27,158 --> 01:12:29,127
+Daumer, Daumer, Daumer...
+
+916
+01:12:29,227 --> 01:12:31,745
+Zašto nisi unajmio tu osobu?
+
+917
+01:12:31,845 --> 01:12:35,495
+Ne znam kolika mu je cena,
+ali isplatilo bi se.
+
+918
+01:13:19,334 --> 01:13:20,773
+Diži!
+
+919
+01:13:21,654 --> 01:13:23,973
+Sad polako spuštaj!
+
+920
+01:14:55,971 --> 01:14:57,891
+Neko je u moru!
+
+921
+01:14:59,490 --> 01:15:00,610
+Odmah iza tebe!
+
+922
+01:15:01,010 --> 01:15:02,770
+Video sam nekoga u moru!
+
+923
+01:15:12,289 --> 01:15:13,330
+Sjebi ga!
+
+924
+01:15:15,250 --> 01:15:17,130
+Sjebi kuèkinog sina!
+
+925
+01:15:31,889 --> 01:15:33,609
+Proveri ima li bomba!
+
+926
+01:15:49,128 --> 01:15:51,088
+Je li ga neko video?
+
+927
+01:16:12,768 --> 01:16:14,983
+Neverovatan si, Rajbek.
+
+928
+01:16:16,008 --> 01:16:18,508
+Šteta što ne kuvaš za nas.
+
+929
+01:16:32,567 --> 01:16:34,247
+Još malo...
+
+930
+01:16:35,167 --> 01:16:37,527
+...pa æeš izlaziti sa muzièarima.
+
+931
+01:16:51,566 --> 01:16:52,846
+Gde je Daumer?
+
+932
+01:16:53,206 --> 01:16:54,686
+Verovatno mrtav!
+
+933
+01:16:55,526 --> 01:16:57,206
+Krmeno kormilo zaglavilo.
+
+934
+01:16:57,486 --> 01:16:58,606
+Ne možemo da zaronimo!
+
+935
+01:17:01,486 --> 01:17:04,326
+Ja æu se pobrinuti za to.
+Proradiæe usput.
+
+936
+01:17:04,565 --> 01:17:06,806
+Ako popraviš to,
+uèiniæu te admiralom.
+
+937
+01:17:07,045 --> 01:17:09,005
+Smatraj to uèinjenim.
+Gde æeš ti?
+
+938
+01:17:09,525 --> 01:17:10,925
+Srediæu da Honolulu svetli u mraku.
+
+939
+01:17:11,726 --> 01:17:13,006
+Izuzetno!
+
+940
+01:17:13,245 --> 01:17:16,126
+Naðimo se 25 kilometara
+odavde, pravo na jug.
+
+941
+01:17:16,846 --> 01:17:19,205
+Skupite svoje ljude
+ovde taèno za minut.
+
+942
+01:17:19,445 --> 01:17:21,883
+Treba mi acetilenski i
+elektrièni aparat za varenje...
+
+943
+01:17:21,983 --> 01:17:24,165
+...i metalna poluga.
+Smesta!
+
+944
+01:17:26,525 --> 01:17:27,965
+Šta kaže?
+- Da se ne može popraviti.
+
+945
+01:17:28,525 --> 01:17:30,604
+Ja æu popraviti!
+Idemo, smesta!
+
+946
+01:17:32,045 --> 01:17:33,825
+Zašto ne govoriš engleski?!
+
+947
+01:17:38,764 --> 01:17:40,405
+Drži se, Kejsi.
+
+948
+01:18:00,443 --> 01:18:01,724
+Prièaj mi.
+
+949
+01:18:03,004 --> 01:18:04,524
+Nema se šta reæi.
+
+950
+01:18:05,644 --> 01:18:07,283
+Šta god da su uèinili...
+
+951
+01:18:07,883 --> 01:18:09,803
+...pametniji su od mene.
+
+952
+01:18:10,523 --> 01:18:12,004
+Sve je crklo.
+
+953
+01:18:12,684 --> 01:18:13,683
+Beznadežno je.
+
+954
+01:18:13,924 --> 01:18:16,444
+Ništa nije beznadežno.
+Imaj oseæaja.
+
+955
+01:18:20,764 --> 01:18:22,683
+Daj mi malo vremena,
+i otkriæu šta je u pitanju.
+
+956
+01:18:23,284 --> 01:18:25,963
+Sviða mi se tvoj stav.
+Odlièno.
+
+957
+01:18:30,043 --> 01:18:31,283
+Èisto!
+
+958
+01:18:36,322 --> 01:18:38,003
+Šta kog ðavola...
+
+959
+01:18:41,402 --> 01:18:44,602
+Reæi æu ti obiènim jezikom.
+Sve je jako jednostavno.
+
+960
+01:18:45,122 --> 01:18:47,082
+Zabij šipku na mesto.
+
+961
+01:18:47,322 --> 01:18:50,122
+Zavari je na krilo kormila.
+Bez njega ne možemo da preživimo.
+
+962
+01:18:50,362 --> 01:18:52,362
+Nateraj ga da shvati!
+Odmah!
+
+963
+01:19:02,762 --> 01:19:04,162
+Gde je Džonson?
+
+964
+01:19:05,001 --> 01:19:06,002
+Mrtav je.
+
+965
+01:19:06,241 --> 01:19:07,882
+Ne smeju se izvuæi iz ovog sranja!
+
+966
+01:19:08,281 --> 01:19:09,841
+Šta je sa topovima od 127 mm?
+
+967
+01:19:10,081 --> 01:19:14,441
+Na Havajima smo ostavili pancirne
+granate. Imamo zrna za osvetljavanje.
+
+968
+01:19:14,682 --> 01:19:16,321
+Ništa što æe probiti.
+
+969
+01:19:22,521 --> 01:19:24,201
+Tobdžijo...
+
+970
+01:19:24,681 --> 01:19:25,681
+Vidiš li ih?
+
+971
+01:19:27,521 --> 01:19:29,641
+Još uvek imamo granate za njih.
+
+972
+01:19:42,520 --> 01:19:43,920
+Uspeo sam!
+
+973
+01:19:44,240 --> 01:19:47,680
+Puni se.
+Za par minuta moæi æemo da pucamo.
+
+974
+01:19:47,920 --> 01:19:49,000
+Sjajno.
+
+975
+01:19:56,320 --> 01:19:57,560
+Idemo!
+
+976
+01:20:00,920 --> 01:20:03,560
+Brže sa ta tri poslednja punjenja!
+
+977
+01:20:06,160 --> 01:20:07,119
+S puta!
+
+978
+01:20:07,679 --> 01:20:10,399
+Još jedno!
+- Pazite na moj znak rukom!
+
+979
+01:20:10,959 --> 01:20:12,400
+Èuvajte se!
+
+980
+01:20:17,359 --> 01:20:18,999
+Polako, momci...
+
+981
+01:20:29,119 --> 01:20:31,158
+Koji su kurs i brzina podmornice?
+
+982
+01:20:31,718 --> 01:20:33,838
+Kurs 172.
+Brzina 6 èvorova.
+
+983
+01:20:34,318 --> 01:20:37,038
+Grejndžeru, Takmenu, odmah na topove!
+
+984
+01:20:37,239 --> 01:20:40,478
+Šta hoæeš da radim?
+- Vidiš te crne prekidaèe?
+
+985
+01:20:40,718 --> 01:20:44,558
+Kad ti kažem, ukljuèi jedan po jedan.
+- Zar neæe da eksplodiraju i nuklearke?
+
+986
+01:20:44,758 --> 01:20:46,598
+Ne radi to tako, neæe.
+
+987
+01:20:46,798 --> 01:20:48,038
+Potonuæe sa podmornicom.
+
+988
+01:20:48,238 --> 01:20:49,278
+Spusti kolevku!
+
+989
+01:20:49,838 --> 01:20:51,278
+Spuštena!
+
+990
+01:20:51,518 --> 01:20:52,718
+Ubaci granatu!
+
+991
+01:20:52,958 --> 01:20:53,798
+Lagano.
+
+992
+01:20:55,158 --> 01:20:56,918
+Barut nabij lagano.
+
+993
+01:20:57,157 --> 01:20:58,158
+Lagano!
+
+994
+01:20:59,278 --> 01:21:00,477
+Spremne 127 za osvetljavanje.
+
+995
+01:21:00,798 --> 01:21:01,958
+Ispali!
+
+996
+01:21:03,997 --> 01:21:05,078
+U redu.
+
+997
+01:21:05,317 --> 01:21:08,477
+Ti osiguraj ovu kabinu.
+Nazad na posao, seronjo!
+
+998
+01:21:11,277 --> 01:21:12,957
+Pucaju na nas!
+
+999
+01:21:13,517 --> 01:21:14,797
+Samo su oèajni.
+
+1000
+01:21:15,197 --> 01:21:19,317
+To su 127 mm granate za osvetljavanje.
+Nemaju granate kojim bi nam naudili.
+
+1001
+01:21:19,557 --> 01:21:21,316
+204 stepena, Kalavej!
+
+1002
+01:21:26,436 --> 01:21:27,636
+Digni cev.
+
+1003
+01:21:27,997 --> 01:21:29,877
+208 stepeni.
+
+1004
+01:21:38,676 --> 01:21:39,796
+Pali!
+
+1005
+01:21:50,316 --> 01:21:52,716
+Napadaju nas!
+Nemamo vremena!
+
+1006
+01:21:52,916 --> 01:21:54,995
+Veæ pune drugu!
+
+1007
+01:21:55,236 --> 01:21:56,476
+Grejndžeru, Takmenu, punite!
+
+1008
+01:22:00,395 --> 01:22:01,596
+Spuštam kolevku!
+
+1009
+01:22:01,955 --> 01:22:03,075
+Juri ovamo!
+
+1010
+01:22:06,315 --> 01:22:07,595
+Prokletstvo!
+
+1011
+01:22:07,835 --> 01:22:08,795
+Zatvori zatvaraè!
+
+1012
+01:22:10,075 --> 01:22:12,755
+Hajde, spuštaj krilo!
+
+1013
+01:22:14,915 --> 01:22:18,155
+Vuci! Upalilo je!
+Upalilo je! Idemo!
+
+1014
+01:22:18,394 --> 01:22:19,714
+241 stepen!
+
+1015
+01:22:20,075 --> 01:22:21,435
+241 stepen.
+
+1016
+01:22:22,075 --> 01:22:23,354
+Zaroni!
+
+1017
+01:22:27,994 --> 01:22:29,154
+Upalilo je!
+
+1018
+01:22:29,395 --> 01:22:30,994
+204 stepena!
+
+1019
+01:22:31,235 --> 01:22:32,274
+204 stepena.
+
+1020
+01:22:32,674 --> 01:22:33,874
+Imam je.
+
+1021
+01:22:36,955 --> 01:22:38,914
+Rajbek je daleko!
+
+1022
+01:22:40,594 --> 01:22:41,634
+Da pogledam...
+
+1023
+01:22:44,994 --> 01:22:46,034
+Pali!
+
+1024
+01:23:01,793 --> 01:23:02,793
+Direktan pogodak!
+
+1025
+01:23:02,994 --> 01:23:03,793
+Pogodili smo!
+
+1026
+01:23:09,193 --> 01:23:11,513
+Straniks, šta se kog ðavola dogaða?!
+
+1027
+01:23:17,913 --> 01:23:19,954
+Gica Prasiæ.
+
+1028
+01:23:20,054 --> 01:23:22,352
+Onaj mali drkadžija sa brkovima...
+
+1029
+01:23:27,912 --> 01:23:29,352
+Ceo moj život...
+
+1030
+01:23:29,832 --> 01:23:31,992
+...crtani filmovi u subotu ujutru.
+
+1031
+01:23:32,232 --> 01:23:33,512
+Najbolji.
+
+1032
+01:23:35,112 --> 01:23:36,072
+Sranje...
+
+1033
+01:23:39,032 --> 01:23:40,352
+Na primer...
+
+1034
+01:23:40,592 --> 01:23:44,752
+Seæate li se one dvojice škampa
+kako jašu na morskim konjima...
+
+1035
+01:23:45,072 --> 01:23:46,912
+...imaju male pištolje...
+
+1036
+01:23:47,151 --> 01:23:49,192
+...pucaju preko ramena?
+
+1037
+01:23:49,631 --> 01:23:51,752
+Spašavaju jastoga od...
+
+1038
+01:23:52,751 --> 01:23:54,151
+...švedskog kuvara.
+
+1039
+01:23:54,472 --> 01:23:56,431
+Najsmešnija stvar
+koju sam u životu video!
+
+1040
+01:23:56,671 --> 01:23:58,471
+Sjajan posao, usput.
+- Straniks!
+
+1041
+01:23:58,712 --> 01:24:00,311
+Sjajan posao!
+
+1042
+01:24:00,592 --> 01:24:01,872
+Joj, joj, joj...
+
+1043
+01:24:02,151 --> 01:24:04,831
+Kako pakao snaži duh!
+
+1044
+01:24:06,151 --> 01:24:08,191
+"Tomahavki"!
+- Stoje spremni!
+
+1045
+01:24:08,431 --> 01:24:09,311
+Gde?
+
+1046
+01:24:09,551 --> 01:24:12,231
+Kontrola paljbe.
+- Naravno! Kontrola paljbe!
+
+1047
+01:24:12,671 --> 01:24:15,030
+Èips i umak na palubi!
+
+1048
+01:24:15,351 --> 01:24:18,310
+Nemojte zakasniti!
+Èeka èamac! Svi mornari!
+
+1049
+01:24:22,311 --> 01:24:23,990
+Brišite odavde!
+
+1050
+01:24:25,510 --> 01:24:26,671
+Idemo!
+
+1051
+01:24:28,870 --> 01:24:29,831
+Èetiri minuta!
+
+1052
+01:24:31,031 --> 01:24:33,110
+Èekamo te kod èamca.
+
+1053
+01:24:33,310 --> 01:24:34,910
+Èetiri mala minuta...
+
+1054
+01:24:37,270 --> 01:24:38,390
+Pogodak.
+
+1055
+01:24:41,510 --> 01:24:42,790
+Uspeli smo!
+
+1056
+01:24:43,029 --> 01:24:45,030
+Ovo prasence pošlo na pijacu...
+
+1057
+01:24:46,470 --> 01:24:48,469
+Ovo prasence je ostalo kuæi...
+
+1058
+01:24:49,189 --> 01:24:50,670
+A ovo prasence...
+
+1059
+01:24:51,069 --> 01:24:53,350
+Joj, mama...
+
+1060
+01:24:56,749 --> 01:24:58,789
+Kud god poðe, kuæi doðe!
+
+1061
+01:25:21,909 --> 01:25:23,268
+Sreæan put.
+
+1062
+01:25:24,909 --> 01:25:27,548
+Ramirez, u kapetanskom èamcu
+je MX 20-20...
+
+1063
+01:25:27,788 --> 01:25:30,668
+..."Foka" magnafon.
+Donesi ga ovamo i povedi nju.
+
+1064
+01:25:31,028 --> 01:25:32,388
+Mobilni telefon!
+
+1065
+01:25:42,668 --> 01:25:43,628
+Admirale?
+
+1066
+01:25:43,867 --> 01:25:47,148
+"Nimic" otkrio dva "tomahavka"
+lansirana sa Misurija!
+
+1067
+01:25:47,387 --> 01:25:48,827
+Gde idu?
+- Honolulu.
+
+1068
+01:25:49,068 --> 01:25:50,227
+O, Bože!
+
+1069
+01:25:50,627 --> 01:25:53,707
+Koliko traje let?
+- 24 minuta, gospodine.
+
+1070
+01:25:54,467 --> 01:25:58,627
+Možemo li da ih uništimo u vazduhu?!
+- Šifre za uništenje su na Misuriju.
+
+1071
+01:25:58,867 --> 01:26:01,387
+Šaljite lovce Mornarice
+i Vazduhoplovstva iz Perla!
+
+1072
+01:26:01,627 --> 01:26:05,747
+Kakve su posledice pada
+projektila na Honolulu?
+
+1073
+01:26:06,387 --> 01:26:10,426
+Oko milion ljudi dostiæi æe
+temperaturu od 5.500 stepeni...
+
+1074
+01:26:10,667 --> 01:26:12,639
+...za manje od sekunde.
+
+1075
+01:26:16,746 --> 01:26:18,146
+Gospodine sekretaru...
+
+1076
+01:26:18,666 --> 01:26:21,626
+Bude li problema, okriviæemo kuvara.
+
+1077
+01:26:22,386 --> 01:26:23,706
+Svakako.
+
+1078
+01:26:28,586 --> 01:26:30,066
+Èarli-2, kreni na sever.
+
+1079
+01:26:30,906 --> 01:26:32,665
+Razumeo, idem na sever.
+
+1080
+01:27:57,583 --> 01:27:59,023
+Ja æu uzeti oružje.
+
+1081
+01:27:59,903 --> 01:28:01,103
+Polako...
+
+1082
+01:28:01,903 --> 01:28:02,943
+Smesta.
+
+1083
+01:28:12,463 --> 01:28:13,982
+Izgledaš mi poznato.
+
+1084
+01:28:14,343 --> 01:28:15,902
+Znam te, zar ne?
+
+1085
+01:28:16,143 --> 01:28:17,742
+Mislim da znaš.
+
+1086
+01:28:20,502 --> 01:28:21,502
+Davno je to bilo.
+
+1087
+01:28:22,142 --> 01:28:23,342
+Da, baš tako.
+
+1088
+01:28:23,582 --> 01:28:24,622
+Okreni se.
+
+1089
+01:28:25,822 --> 01:28:27,742
+Jedan mali obilazak.
+Kreni napred.
+
+1090
+01:28:31,582 --> 01:28:32,822
+Ovde imamo...
+
+1091
+01:28:33,061 --> 01:28:34,502
+...naše "tomahavke"...
+
+1092
+01:28:35,021 --> 01:28:38,221
+...jure u susret sunèanoj
+"Aloha državi". Okreni se.
+
+1093
+01:28:39,102 --> 01:28:40,262
+Kao što vidiš...
+
+1094
+01:28:41,462 --> 01:28:42,902
+...povratka nema.
+
+1095
+01:28:43,382 --> 01:28:44,781
+Ja imam kljuè.
+
+1096
+01:28:45,101 --> 01:28:47,381
+Brava je pokvarena.
+Kreni napred.
+
+1097
+01:28:47,621 --> 01:28:49,102
+Sedni tamo.
+
+1098
+01:28:50,061 --> 01:28:52,781
+Posmatraæeš kraj sveta
+na televiziji, stari moj.
+
+1099
+01:28:53,981 --> 01:28:55,340
+Digni noge.
+
+1100
+01:28:55,581 --> 01:28:56,701
+Opusti se.
+
+1101
+01:28:59,820 --> 01:29:01,181
+Da znaš da si dobar.
+
+1102
+01:29:02,061 --> 01:29:03,661
+Stvarno si dobar.
+
+1103
+01:29:04,060 --> 01:29:05,900
+Šteta je ubiti te.
+
+1104
+01:29:07,180 --> 01:29:09,180
+Pogledaj moje najbolje delo.
+
+1105
+01:29:09,421 --> 01:29:11,381
+Uèini mi uslugu.
+Reci mi nešto...
+
+1106
+01:29:12,060 --> 01:29:15,460
+Stvarno misliš da æeš dignuvši
+u vazduh gomilu nedužnih ljudi...
+
+1107
+01:29:15,900 --> 01:29:17,420
+...bilo šta da promeniš?
+
+1108
+01:29:17,660 --> 01:29:19,180
+Zašto si tako odlepio?
+
+1109
+01:29:19,380 --> 01:29:22,460
+Dojadilo mi je u poslednji trenutak
+da smišljam oèajna rešenja
+
+1110
+01:29:22,700 --> 01:29:25,779
+za nemoguæe probleme koje su
+skovali drugi jebeni ljudi.
+
+1111
+01:29:26,020 --> 01:29:29,820
+Sve te tvoje besmislene i bedne
+lakrdije ništa neæe promeniti.
+
+1112
+01:29:30,059 --> 01:29:31,459
+Ti i ja...
+
+1113
+01:29:32,059 --> 01:29:34,900
+Lutke smo u istoj bolesnoj drami.
+
+1114
+01:29:35,460 --> 01:29:36,939
+Služili smo istom gospodaru...
+
+1115
+01:29:38,219 --> 01:29:42,499
+...a on je nezahvalni ludak.
+Mi tu ne možemo ništa.
+
+1116
+01:29:42,859 --> 01:29:44,220
+Ti i ja smo isti.
+
+1117
+01:29:44,419 --> 01:29:47,179
+Ne, ne.
+Postoji razlika, stari moj.
+
+1118
+01:29:48,339 --> 01:29:50,499
+Ti veruješ.
+Ja ne.
+
+1119
+01:30:43,022 --> 01:30:45,185
+Zadrži veru, Straniks.
+
+1120
+01:30:54,240 --> 01:30:56,163
+Imam ga pred nosom.
+25 kilometara.
+
+1121
+01:31:00,409 --> 01:31:02,973
+7 kilometara.
+Oružni sistem spreman.
+
+1122
+01:31:03,454 --> 01:31:04,696
+Razumeo.
+
+1123
+01:31:10,666 --> 01:31:12,767
+Izvinite, admirale.
+- Da?
+
+1124
+01:31:13,911 --> 01:31:15,953
+Presreli su jedan projektil.
+
+1125
+01:31:16,154 --> 01:31:17,276
+A drugi?
+
+1126
+01:31:17,516 --> 01:31:19,543
+Provukao se.
+
+1127
+01:31:35,945 --> 01:31:37,147
+Šefe...
+
+1128
+01:31:37,428 --> 01:31:41,594
+Imamo vremena za samo jedan
+pokušaj, pa æemo polako.
+
+1129
+01:31:42,516 --> 01:31:44,038
+Rajbek, ubacite disketu.
+
+1130
+01:31:44,278 --> 01:31:45,881
+Upišite 47.
+
+1131
+01:31:46,081 --> 01:31:47,764
+Sad ste na KU.
+
+1132
+01:31:50,809 --> 01:31:53,172
+Šifra je 6-4...
+
+1133
+01:31:53,693 --> 01:31:55,256
+...3-5...
+
+1134
+01:31:55,616 --> 01:31:57,339
+...0-0.
+
+1135
+01:31:57,579 --> 01:32:00,865
+6-4-3-5-0-0.
+Jesam li taèno ponovio?
+
+1136
+01:32:01,105 --> 01:32:02,147
+Potvrðujem da jeste.
+
+1137
+01:32:10,480 --> 01:32:12,523
+SPREMNO
+
+1138
+01:32:12,803 --> 01:32:14,525
+Spremite se, gospodine.
+
+1139
+01:32:31,513 --> 01:32:32,874
+DEAKTIVIRANO
+
+1140
+01:32:35,159 --> 01:32:37,522
+Gotovo!
+"Nimic" više nema oèitavanje!
+
+1141
+01:32:39,325 --> 01:32:40,647
+Dobri ste, Rajbek!
+
+1142
+01:32:45,094 --> 01:32:48,559
+Gospodine, opozovite bombardere!
+Opozovite bombardere!
+
+1143
+01:32:48,740 --> 01:32:51,945
+Opozivamo avione!
+Opozivamo ih!
+
+1144
+01:32:52,185 --> 01:32:54,870
+Hvala, Rajbek!
+Sjajan posao!
+
+1145
+01:32:55,150 --> 01:32:56,928
+Hoæemo li na plivanje?
+
+1146
+01:32:57,028 --> 01:32:59,877
+Imam tu gumeni èamac, suve obroke...
+
+1147
+01:33:00,038 --> 01:33:01,760
+...male koktel-kišobrane.
+
+1148
+01:33:02,001 --> 01:33:03,243
+Ja æu sa tobom.
+
+1149
+01:33:06,328 --> 01:33:08,852
+Sve je u redu!
+Sve je u redu!
+
+1150
+01:33:10,534 --> 01:33:12,738
+Dobri ste, svi vi momci.
+
+1151
+01:33:12,978 --> 01:33:13,900
+Sjajno!
+
+1152
+01:33:14,581 --> 01:33:15,823
+Sjajan posao!
+
+1153
+01:33:20,270 --> 01:33:22,994
+Držite se!
+Brzo æemo vas izvuæi!
+
+1154
+01:33:39,780 --> 01:33:41,543
+Šta sam propustio?
+
+1155
+01:33:50,317 --> 01:33:53,963
+Trebaæe ti tri ili èetiri šava.
+Siði u ambulantu.
+
+1156
+01:33:54,163 --> 01:33:56,166
+Znaš, bojim se igala.
+
+1157
+01:33:57,889 --> 01:34:02,055
+Šta je za doruèak, Kejs?
+- Sendviè-podmornica!
+
+1158
+01:34:03,017 --> 01:34:04,880
+Kejs, da vidim kako se kreæeš.
+
+1159
+01:34:04,980 --> 01:34:06,702
+Evo kako se kreæem.
+
+1160
+01:34:36,261 --> 01:34:38,653
+Sveèani pozdrav!
+
+1161
+01:34:54,000 --> 01:34:59,000
+K R A J
+
+1162
+01:35:54,000 --> 01:35:59,000
+obradio: Hirudegarn
+
+1163
+01:38:05,040 --> 01:38:07,760
+BROD "MISURI" BB-63 STAVLJEN
+JE VAN SLUŽBE 31. MARTA 1992.
+
+1164
+01:38:07,800 --> 01:38:10,590
+I ÈEKA SLEDEÆI ZADATAK NA
+MORNARIÈKOM DOKU BREMERTON.
+
+1165
+01:38:11,305 --> 01:39:11,860
+Who are the real-world Illuminati ?
+Find out @ saveanilluminati.com

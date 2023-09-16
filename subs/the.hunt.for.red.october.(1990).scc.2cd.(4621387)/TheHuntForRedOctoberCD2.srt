@@ -1,0 +1,4336 @@
+1
+00:00:04,240 --> 00:00:05,640
+Brzi propeler!
+
+2
+00:00:05,680 --> 00:00:07,160
+Torpedo u vodi!
+
+3
+00:00:07,280 --> 00:00:08,720
+Spremni.
+
+4
+00:00:09,960 --> 00:00:11,400
+Torpedo aktivan.
+
+5
+00:00:13,760 --> 00:00:15,800
+Torpedo naöao cilj.
+
+6
+00:00:15,840 --> 00:00:17,520
+Lansirajte protivmere.
+
+7
+00:00:17,600 --> 00:00:19,160
+Lansiranje protivmera.
+Razumem.
+
+8
+00:00:25,320 --> 00:00:26,560
+U prolazu smo.
+
+9
+00:00:26,720 --> 00:00:29,400
+Koliko do zaokreta kod Masiva?
+
+10
+00:00:29,520 --> 00:00:30,520
+2 minuta, 9 sekundi.
+
+11
+00:00:30,560 --> 00:00:33,560
+Nemamo prostora za manevrisanje
+u ovom kanjonu.
+
+12
+00:00:33,600 --> 00:00:35,000
+UÊuti.
+
+13
+00:00:39,720 --> 00:00:42,040
+Torpedo je stigao do protivmera.
+
+14
+00:00:42,160 --> 00:00:43,560
+Torpedo je izgubio kontakt.
+
+15
+00:00:43,600 --> 00:00:45,560
+Masiv pred nama.
+
+16
+00:00:48,200 --> 00:00:50,400
+Torpedo ponovno naöao cilj.
+
+17
+00:00:50,400 --> 00:00:54,120
+Torpedo pronaöao cilj
+i navodi se.
+
+18
+00:00:54,160 --> 00:00:55,560
+Stanje.
+
+19
+00:00:55,560 --> 00:00:58,840
+Okret kod Masiva 40 stepeni
+udesno za 30 sekundi.
+
+20
+00:00:58,880 --> 00:01:00,840
+Vreme do udara torpeda?
+
+21
+00:01:00,920 --> 00:01:02,880
+Udar torpeda za 35 sekundi.
+
+22
+00:01:03,040 --> 00:01:04,640
+PoveÊaj boËni nagib.
+
+23
+00:01:04,680 --> 00:01:05,600
+Punom snagom boËno.
+
+24
+00:01:05,640 --> 00:01:06,760
+Punom snagom boËno.
+
+25
+00:01:06,800 --> 00:01:07,960
+Punom snagom boËno,
+razumeo.
+
+26
+00:01:08,000 --> 00:01:10,280
+Udar torpeda za 40 sekundi.
+
+27
+00:01:11,520 --> 00:01:13,360
+35 sekundi.
+
+28
+00:01:20,600 --> 00:01:22,040
+30 sekundi.
+
+29
+00:01:22,960 --> 00:01:24,840
+Okret kod masiva za...
+
+30
+00:01:24,880 --> 00:01:26,720
+Sedam...
+
+31
+00:01:26,760 --> 00:01:28,160
+äest...
+
+32
+00:01:28,200 --> 00:01:29,600
+Pet...
+
+33
+00:01:29,640 --> 00:01:30,560
+»etiri...
+
+34
+00:01:30,640 --> 00:01:32,040
+Tri...
+
+35
+00:01:32,080 --> 00:01:33,080
+Dva...
+
+36
+00:01:33,200 --> 00:01:34,040
+Jedan...
+
+37
+00:01:34,080 --> 00:01:35,000
+Markiraj.
+
+38
+00:01:35,080 --> 00:01:36,600
+Udar torpeda za 25 sekundi.
+
+39
+00:01:36,720 --> 00:01:37,720
+Zaokret kapetane.
+
+40
+00:01:37,800 --> 00:01:38,760
+Joö ne.
+
+41
+00:01:41,760 --> 00:01:43,800
+Markirano plus 8 sekundi...
+
+42
+00:01:43,840 --> 00:01:44,800
+plus 9...
+
+43
+00:01:44,960 --> 00:01:46,120
+plus 10 sekundi...
+
+44
+00:01:46,120 --> 00:01:48,240
+plus 11... plus 12...
+
+45
+00:01:48,240 --> 00:01:49,640
+plus 13 sekundi...
+
+46
+00:01:49,680 --> 00:01:50,560
+plus 14...
+
+47
+00:01:50,640 --> 00:01:52,000
+plus 15 sekundi.
+
+48
+00:01:52,040 --> 00:01:55,920
+Kapetane, van pozicije smo
+za duûinu broda.
+
+49
+00:01:55,960 --> 00:01:58,320
+Udar torpeda za 15 sekundi.
+
+50
+00:01:58,360 --> 00:02:00,440
+Dajte znak za udar.
+
+51
+00:02:00,480 --> 00:02:01,560
+Znak za udar.
+
+52
+00:02:01,600 --> 00:02:03,240
+Izvan prolaza smo!
+
+53
+00:02:03,320 --> 00:02:04,720
+Smenjeni ste.
+
+54
+00:02:04,840 --> 00:02:06,080
+Borodin?
+
+55
+00:02:11,640 --> 00:02:12,840
+Pun okret udesno!
+
+56
+00:02:12,920 --> 00:02:13,880
+Desni motor unazad!
+
+57
+00:02:13,960 --> 00:02:14,880
+Pun okret udesno.
+
+58
+00:02:14,920 --> 00:02:16,080
+Desni motor unazad.
+
+59
+00:02:16,080 --> 00:02:17,720
+Desni motor unazad!
+
+60
+00:02:20,680 --> 00:02:23,160
+Udar torpeda za 12 sekundi...
+
+61
+00:02:23,320 --> 00:02:26,160
+Deset... Devet... Osam...
+
+62
+00:02:26,160 --> 00:02:30,120
+Sedam... äest... Pet...
+
+63
+00:02:32,000 --> 00:02:38,074
+–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+
+64
+00:02:58,800 --> 00:03:01,280
+Kapetane, zaista pucaju na nas!
+
+65
+00:03:01,360 --> 00:03:02,240
+Saberi se!
+
+66
+00:03:02,320 --> 00:03:04,800
+Polako, momak.
+
+67
+00:03:04,800 --> 00:03:07,840
+Da su stvarno pucali na nas,
+
+68
+00:03:07,840 --> 00:03:09,720
+bili bi mrtvi do sada.
+
+69
+00:03:09,760 --> 00:03:11,640
+Daj mi vezu.
+
+70
+00:03:27,840 --> 00:03:30,800
+Otkrio sam öta se desilo gusenicama.
+
+71
+00:03:30,840 --> 00:03:34,080
+Deo bafera je bio pokidan.
+
+72
+00:03:34,160 --> 00:03:36,960
+Bilo je samo pitanje vremena
+
+73
+00:03:37,080 --> 00:03:39,200
+kada Êe ga preoptereÊenje
+iskljuËiti.
+
+74
+00:03:39,240 --> 00:03:40,840
+äta to govoriö?
+
+75
+00:03:40,880 --> 00:03:43,680
+Ko god da je ovo uradio znao je
+kako da osakati gusenice
+
+76
+00:03:43,800 --> 00:03:45,720
+da se öto teûe otkrije.
+
+77
+00:03:45,760 --> 00:03:48,640
+Kapetane, imamo sabotera na brodu.
+
+78
+00:03:52,400 --> 00:03:55,200
+Nije neko od oficira.
+
+79
+00:03:55,360 --> 00:03:58,160
+Imali su dosta vremena pre isplovljavanja.
+
+80
+00:03:58,200 --> 00:04:00,040
+Mora da je neko od posade.
+
+81
+00:04:00,120 --> 00:04:01,480
+Idi u Putinovu kabinu.
+
+82
+00:04:01,520 --> 00:04:04,320
+Proveri njegove podatke
+o posadi.
+
+83
+00:04:04,400 --> 00:04:08,280
+Moûda Êemo morati
+da ih izbacimo ranije.
+
+84
+00:04:10,160 --> 00:04:13,120
+Rus, ni ne sere
+
+85
+00:04:13,160 --> 00:04:14,560
+nez nekog plana.
+
+86
+00:04:16,440 --> 00:04:17,920
+Samo trenutak.
+
+87
+00:04:19,280 --> 00:04:22,560
+Mi ne moramo da se reöavamo posade.
+
+88
+00:04:22,720 --> 00:04:25,080
+On mora to da obavi.
+
+89
+00:04:25,120 --> 00:04:29,320
+Mi treba da provalimo
+öta Êe on da uradi.
+
+90
+00:04:29,360 --> 00:04:32,120
+Kako Êe da ih istera sa podmornice?
+
+91
+00:04:33,280 --> 00:04:37,040
+MoraÊe sami da poûele da odu.
+
+92
+00:04:37,040 --> 00:04:39,400
+Kako da nateraö posadu
+
+93
+00:04:39,520 --> 00:04:42,880
+da poûeli da ode sa podmornice?
+
+94
+00:04:42,920 --> 00:04:44,800
+Kako da ih nateraö
+da poûele da odu
+
+95
+00:04:44,840 --> 00:04:46,320
+sa nuklearne podmornice...
+
+96
+00:04:46,400 --> 00:04:48,960
+Znam kako Êe da se reöi posade.
+
+97
+00:04:49,000 --> 00:04:50,400
+Ne sad, Dûek.
+
+98
+00:04:50,400 --> 00:04:53,240
+Jenki 1 ovde baza,
+ponovi svoje stanje.
+
+99
+00:04:53,280 --> 00:04:54,680
+Hitan sluËaj.
+
+100
+00:04:54,720 --> 00:04:56,600
+Hitan sluËaj.
+
+101
+00:04:56,680 --> 00:04:58,120
+Jenki 1,
+traûim vektore.
+
+102
+00:04:58,120 --> 00:05:00,920
+Vektor 2-7-0, velika brzina.
+
+103
+00:05:00,960 --> 00:05:03,320
+Jenki 1
+gubi pritisak u hidraulici.
+
+104
+00:05:03,400 --> 00:05:05,040
+Ponovi, Jenki 1.
+
+105
+00:05:05,160 --> 00:05:07,520
+Ruski strateöki avion se suviöe
+pribliûio naöoj grupi.
+
+106
+00:05:07,680 --> 00:05:11,000
+Jedan F-14 ga je pritisnuo
+i sudarili su se.
+
+107
+00:05:11,080 --> 00:05:12,480
+Gubi teËnost iz hidraulici.
+
+108
+00:05:12,600 --> 00:05:15,680
+Pokuöavaju da ga vrate.
+
+109
+00:05:15,720 --> 00:05:17,120
+Jutarnja guûva.
+
+110
+00:05:18,920 --> 00:05:23,880
+Ruske podmornice su sad stacionirane
+ispred svake luke na istoËnoj obali.
+
+111
+00:05:23,920 --> 00:05:25,760
+Mi smo ovde.
+
+112
+00:05:25,800 --> 00:05:28,640
+Nju Dûerzi ide uz obalu,
+
+113
+00:05:28,680 --> 00:05:32,040
+dok Rusi pored 100-injak strateökih aviona,
+
+114
+00:05:32,080 --> 00:05:35,360
+imaju red podmornica i nekoliko
+grupa brodova.
+
+115
+00:05:35,400 --> 00:05:36,760
+To je velika vatrena moÊ.
+
+116
+00:05:36,800 --> 00:05:38,640
+Za spasilaËku ekipu, da.
+
+117
+00:05:38,680 --> 00:05:40,040
+Neöto drugo je Ëudno.
+
+118
+00:05:40,120 --> 00:05:43,080
+Koriste sonare
+kao da neöto traûe,
+
+119
+00:05:43,080 --> 00:05:44,480
+ali niko ne sluöa.
+
+120
+00:05:44,520 --> 00:05:45,920
+Kako to mislite?
+
+121
+00:05:45,960 --> 00:05:49,440
+Pri njihovoj brzini mogu
+da nalete ne radio moje Êerke
+
+122
+00:05:49,600 --> 00:05:51,040
+i da ga ne Ëuju.
+
+123
+00:05:51,960 --> 00:05:53,840
+Oni ne traûe Ramiusa.
+
+124
+00:05:53,840 --> 00:05:55,240
+Gone ga.
+
+125
+00:05:55,280 --> 00:05:56,840
+Kuda?
+
+126
+00:06:00,400 --> 00:06:02,720
+Kao psi prema lovcima.
+
+127
+00:06:02,760 --> 00:06:05,600
+Vaö kapetan Êe stiÊi do Amerike.
+
+128
+00:06:05,640 --> 00:06:08,960
+UmreÊe nadomak nje.
+
+129
+00:06:09,040 --> 00:06:12,800
+Njegov pratilac je traûio
+dozvolu da puca.
+
+130
+00:06:12,840 --> 00:06:16,080
+Ako neko zasere, biÊemo
+u najveÊoj pomorskoj bitci
+
+131
+00:06:16,160 --> 00:06:18,480
+joö od Dûatlanda.
+Isuse!
+
+132
+00:06:19,600 --> 00:06:21,920
+Voda je prehladna da bi iskoËio.
+
+133
+00:06:22,000 --> 00:06:24,520
+PokuöaÊe da ga vrate na brod.
+
+134
+00:06:24,520 --> 00:06:27,280
+Gospodine, koja je ova usamljena
+podmornica?
+
+135
+00:06:27,320 --> 00:06:28,520
+Bart Menkuzova podmornica.
+
+136
+00:06:28,520 --> 00:06:31,840
+Ide prema kraju Crvenog puta 1.
+
+137
+00:06:32,000 --> 00:06:33,320
+Na mahove je detektovao
+
+138
+00:06:33,400 --> 00:06:36,680
+pomeranje magme.
+On je imao...
+
+139
+00:06:36,680 --> 00:06:37,640
+Pomeranje magme?
+
+140
+00:06:37,640 --> 00:06:39,720
+Da li je to kao
+seizmiËka anomalija?
+
+141
+00:06:39,760 --> 00:06:41,600
+Pretpostavljam. Zaöto?
+
+142
+00:06:41,640 --> 00:06:45,320
+Postoji li naËin da me prebacite
+na Dalas?
+
+143
+00:06:45,360 --> 00:06:46,600
+Zaöto?
+
+144
+00:06:46,720 --> 00:06:49,080
+Mislim da je Menkuzo pronaöao
+Crveni oktobar.
+
+145
+00:06:49,120 --> 00:06:50,960
+Nije naöao niöta, Dûek.
+
+146
+00:06:51,000 --> 00:06:52,360
+On samo Ëeka.
+
+147
+00:06:52,440 --> 00:06:54,240
+Gospodine, taj bezöumni pogon
+
+148
+00:06:54,320 --> 00:06:56,720
+moûe se lako pomeöati za...
+
+149
+00:06:56,840 --> 00:07:00,320
+Jedini naËin da vas prebacim
+tako daleko na sever
+
+150
+00:07:00,320 --> 00:07:04,560
+je helikopterom, kojeg moramo
+da pretvorimo u leteÊu cisternu sa gorivom.
+
+151
+00:07:04,600 --> 00:07:06,920
+Admirale, Jenki 1
+sleÊe.
+
+152
+00:07:06,960 --> 00:07:08,800
+Ekipa za spaöavanje je na mestu.
+
+153
+00:07:08,960 --> 00:07:10,720
+Podigni levo krilo.
+
+154
+00:07:10,880 --> 00:07:12,240
+Ideö suviöe levo.
+
+155
+00:07:12,280 --> 00:07:13,680
+Gas, gas!
+
+156
+00:07:13,680 --> 00:07:15,360
+Ispravi ga! Ispravi ga!
+
+157
+00:07:15,400 --> 00:07:17,440
+IskaËi, iskaËi!
+
+158
+00:07:27,120 --> 00:07:28,040
+Vatra, vatra!
+
+159
+00:07:28,160 --> 00:07:30,600
+Vatra na pisti!
+
+160
+00:07:30,680 --> 00:07:33,480
+Ovo Êe da izmakne kontroli,
+
+161
+00:07:33,600 --> 00:07:36,520
+i biÊemo sreÊni ako preûivimo.
+
+162
+00:07:38,240 --> 00:07:40,000
+Vatra na pisti.
+
+163
+00:07:40,120 --> 00:07:42,080
+Svo raspoloûivo ljudstvo neka
+pomogne.
+
+164
+00:07:47,840 --> 00:07:50,640
+Imate dosta goriva da doletimo
+do tamo,
+
+165
+00:07:50,680 --> 00:07:52,560
+ali Dalas moûde neÊe biti tamo.
+
+166
+00:07:52,640 --> 00:07:54,240
+Pokuöavamo da uspostavimo kontakt s
+njima.
+
+167
+00:07:54,400 --> 00:07:55,920
+Ako su duboko, biÊe teöko.
+
+168
+00:07:56,080 --> 00:07:58,440
+Budete li morali da iskoËite...
+
+169
+00:08:05,040 --> 00:08:06,920
+Budete li morali da iskoËite,
+
+170
+00:08:07,040 --> 00:08:09,520
+nemojte da mislite ni na öta drugo
+osim na opremu za spaöavanje.
+
+171
+00:08:09,640 --> 00:08:10,880
+Na ovoj temperaturi vode,
+
+172
+00:08:10,960 --> 00:08:12,680
+imate oko Ëetiri minuta.
+
+173
+00:08:12,720 --> 00:08:14,560
+PokuöaÊu da upamtim to.
+
+174
+00:08:17,720 --> 00:08:20,960
+SledeÊi put Dûek,
+napiöi samo izveötaj.
+
+175
+00:08:44,840 --> 00:08:47,680
+Oficiru za upravljanje,
+dubina 200 metara.
+
+176
+00:08:47,800 --> 00:08:50,120
+Dubina 200 metara.
+
+177
+00:08:50,160 --> 00:08:52,960
+Sonar, most, prethodni
+ispod termiËkog sloja.
+
+178
+00:08:53,040 --> 00:08:54,400
+Kapetan se odmara?
+
+179
+00:08:54,480 --> 00:08:55,360
+Da.
+
+180
+00:08:55,520 --> 00:08:58,320
+PomoÊni
+na 2270 kg.
+
+181
+00:08:58,360 --> 00:08:59,720
+äta je s njim?
+
+182
+00:08:59,760 --> 00:09:01,160
+Nije hteo da ode.
+
+183
+00:09:01,240 --> 00:09:02,560
+Most. Sonar, priËekaj.
+
+184
+00:09:02,560 --> 00:09:06,320
+Nema kontakta na 2-9-5.
+
+185
+00:09:10,520 --> 00:09:11,920
+Znaö...
+
+186
+00:09:11,920 --> 00:09:14,560
+Video sam sirenu jednom.
+
+187
+00:09:14,640 --> 00:09:18,440
+Video sam i kako ajkula jede
+hobotnicu,
+
+188
+00:09:18,480 --> 00:09:21,760
+ali nikada nisam video rusku
+fantomsku podmornicu.
+
+189
+00:09:57,840 --> 00:10:00,160
+Izlazimo iz kanjona kapetane.
+
+190
+00:10:00,200 --> 00:10:02,560
+Naredio sam rutinsko
+ËiöÊenje pregrada.
+
+191
+00:10:02,640 --> 00:10:06,240
+Prvi zaokret je za nekoliko minuta.
+
+192
+00:10:07,200 --> 00:10:08,640
+GuseniËni pogon radi i
+
+193
+00:10:08,720 --> 00:10:11,680
+izgleda da normalno radi.
+
+194
+00:10:13,360 --> 00:10:16,360
+Posada zna za sabotera.
+
+195
+00:10:16,440 --> 00:10:18,240
+Boje se.
+
+196
+00:10:19,640 --> 00:10:22,680
+To moûe da nam bude od koristi
+kada doe vreme.
+
+197
+00:10:25,680 --> 00:10:29,920
+Znate, moûemo da doemo do obala
+Labradora za 16 sati.
+
+198
+00:10:30,040 --> 00:10:34,320
+Polovina bi ih se smrzla pre
+spaöavanja.
+
+199
+00:10:34,360 --> 00:10:37,160
+Ne,  MasaËusets ili
+Mejn...
+
+200
+00:10:37,240 --> 00:10:39,040
+za 48 sati.
+
+201
+00:10:39,040 --> 00:10:41,000
+Dva dana.
+
+202
+00:10:47,680 --> 00:10:51,280
+Da li mislite da Êe mi dopustiti da
+ûivim u Montani?
+
+203
+00:10:58,520 --> 00:11:03,440
+Mislim da Êe ti dopustiti
+da ûiviö gde god ûeliö.
+
+204
+00:11:04,520 --> 00:11:05,800
+OdliËno.
+
+205
+00:11:05,960 --> 00:11:08,760
+Onda Êu da ûivim u Montani,
+
+206
+00:11:08,800 --> 00:11:11,600
+oûeniÊu se debeljuökastom
+Amerikankom
+
+207
+00:11:11,760 --> 00:11:13,200
+uzgajaÊu zeËeve,
+
+208
+00:11:13,240 --> 00:11:16,400
+a ona Êe da mi ih kuva,
+
+209
+00:11:16,480 --> 00:11:19,440
+imaÊu mali pikap...
+
+210
+00:11:20,680 --> 00:11:21,880
+ili...
+
+211
+00:11:23,040 --> 00:11:26,920
+moûda Ëak i rekreacijsko vozilo
+
+212
+00:11:27,040 --> 00:11:31,000
+i voziÊu se iz drûave u drûavu.
+
+213
+00:11:31,800 --> 00:11:34,160
+Da li dopuötaju to?
+
+214
+00:11:34,280 --> 00:11:35,120
+Da.
+
+215
+00:11:35,200 --> 00:11:36,440
+Bez isprava?
+
+216
+00:11:36,480 --> 00:11:38,000
+Bez isprava.
+
+217
+00:11:38,040 --> 00:11:39,680
+Iz drûave u drûavu.
+
+218
+00:11:39,680 --> 00:11:41,760
+U redu.
+PoËni sa zaokretom.
+
+219
+00:11:45,360 --> 00:11:46,920
+Onda Êu...
+
+220
+00:11:46,960 --> 00:11:50,920
+na zimu da ûivim u Arizoni.
+
+221
+00:11:52,080 --> 00:11:55,200
+Ustvari, mislim da Êe mi trebati
+dve ûene.
+
+222
+00:11:55,320 --> 00:11:57,320
+Oh, najmanje.
+
+223
+00:12:06,080 --> 00:12:09,000
+MoguÊa promena kursa cilja.
+
+224
+00:12:09,080 --> 00:12:10,440
+Sonar, most. Razumeo.
+
+225
+00:12:10,560 --> 00:12:13,440
+MoguÊ pomeraj mete
+zbog promene kursa.
+
+226
+00:12:16,400 --> 00:12:17,880
+Most! Sonar! Ludi lvan!
+
+227
+00:12:17,920 --> 00:12:19,360
+Zaustavite sve! Tiho!
+
+228
+00:12:19,440 --> 00:12:20,840
+Sve zaustavljeno.
+
+229
+00:12:20,840 --> 00:12:22,360
+Motori ugaöeni.
+
+230
+00:12:27,680 --> 00:12:29,440
+äta se dogaa, Dûonzi?
+
+231
+00:12:29,520 --> 00:12:31,680
+Ruski kapetani se ponekad brzo okrenu
+
+232
+00:12:31,840 --> 00:12:34,600
+da vide da li ima nekog iza njih.
+
+233
+00:12:34,680 --> 00:12:36,560
+To zovemo Ludi Ivan.
+
+234
+00:12:36,560 --> 00:12:39,400
+Jedina stvar koju moûeö
+da uradiö je da budeö mrtav,
+
+235
+00:12:39,400 --> 00:12:42,880
+da iskljuËiö sve,
+i da budeö kao rupa u vodi.
+
+236
+00:12:42,880 --> 00:12:44,480
+U Ëemu je fora?
+
+237
+00:12:44,520 --> 00:12:46,520
+Fora je u tome da ovako veliki
+brod
+
+238
+00:12:46,640 --> 00:12:48,520
+ne moûe odmah da se zaustavi.
+
+239
+00:12:48,520 --> 00:12:49,920
+Ako smo preblizu,
+
+240
+00:12:49,960 --> 00:12:52,440
+udariÊemo ga otpozadi.
+
+241
+00:12:55,560 --> 00:12:59,240
+A vi?
+»emu se vi nadate?
+
+242
+00:13:09,120 --> 00:13:10,520
+Ja...
+
+243
+00:13:10,600 --> 00:13:13,000
+Nemam takvih ûelja kao vi.
+
+244
+00:13:14,280 --> 00:13:17,520
+Da vidimo da li nas Ëuje.
+
+245
+00:13:22,120 --> 00:13:24,920
+Pa mora biti neöto.
+
+246
+00:13:32,040 --> 00:13:33,560
+äta je to?
+
+247
+00:13:37,480 --> 00:13:41,320
+Nedostaje mi...
+tiöina ribolova
+
+248
+00:13:41,400 --> 00:13:44,480
+kao kada sam bio deËak.
+
+249
+00:13:47,080 --> 00:13:50,320
+40 godina sam na moru.
+
+250
+00:13:51,240 --> 00:13:53,600
+Rat na moru.
+
+251
+00:13:55,240 --> 00:13:58,040
+Rat bez bitaka.
+
+252
+00:13:59,520 --> 00:14:01,080
+Bez spomenika.
+
+253
+00:14:03,040 --> 00:14:04,720
+Samo ûrtve.
+
+254
+00:14:08,480 --> 00:14:11,440
+NaËinio sam je udovicom dana
+kada sam se oûenio s njom.
+
+255
+00:14:14,720 --> 00:14:19,000
+Znaö, ûena mi je umrla
+dok sam bio na moru.
+
+256
+00:14:36,880 --> 00:14:39,160
+Postavi straûu u maöinsku sobu.
+
+257
+00:14:39,240 --> 00:14:41,600
+Ako je doöao do gusenica,
+
+258
+00:14:41,600 --> 00:14:44,680
+moûe da doe i do neËeg
+vaûnijeg.
+
+259
+00:14:46,880 --> 00:14:48,840
+Gde je, Dûonzi?
+
+260
+00:14:48,920 --> 00:14:50,040
+Most, Sonar.
+
+261
+00:14:50,080 --> 00:14:53,080
+Cilj nam dolazi sa desne strane.
+
+262
+00:14:53,160 --> 00:14:56,360
+Mislim da se vraÊa na poËetni kurs.
+
+263
+00:14:56,440 --> 00:14:59,680
+Potvrda. VraÊa se na kurs 2-1-0.
+
+264
+00:14:59,760 --> 00:15:02,240
+Napravio je krug oko nas.
+
+265
+00:15:02,400 --> 00:15:04,680
+DaÊemo mu joö 30 sekundi,
+
+266
+00:15:04,760 --> 00:15:07,360
+onda palimo motore.
+
+267
+00:15:08,280 --> 00:15:09,280
+Kapetane?
+
+268
+00:15:10,400 --> 00:15:13,280
+Ovo smo dobili preko
+E.L.F.
+
+269
+00:15:14,160 --> 00:15:15,080
+Hvala.
+
+270
+00:15:15,120 --> 00:15:16,320
+Razumeo, gospodine.
+
+271
+00:15:23,480 --> 00:15:24,960
+äta kaûe?
+
+272
+00:15:27,320 --> 00:15:30,560
+NeÊeö verovati.
+
+273
+00:15:42,240 --> 00:15:44,120
+Kapetane, pribliûavamo se taËki
+s koje nema povratka.
+
+274
+00:15:44,160 --> 00:15:45,960
+Dalas izgleda nije dobio poruku.
+
+275
+00:15:46,000 --> 00:15:48,320
+Moramo da se vratimo na nosaË.
+
+276
+00:15:48,320 --> 00:15:50,000
+Dajte im joö koji minut.
+
+277
+00:15:50,160 --> 00:15:52,320
+Ne. PokazivaË goriva pokazuje da
+imamo goriva joö za povratak.
+
+278
+00:15:52,320 --> 00:15:54,680
+PokazivaË goriva?
+Imate rezervu, zar ne?
+
+279
+00:15:54,720 --> 00:15:56,480
+Imam za 10 minuta,
+
+280
+00:15:56,520 --> 00:15:59,240
+ali to mogu da koristim
+samo u sluËaju rata.
+
+281
+00:15:59,320 --> 00:16:01,440
+Ako me ne dobacite do podmornice,
+
+282
+00:16:01,480 --> 00:16:02,640
+moûda Êete i imati ratno stanje.
+
+283
+00:16:02,720 --> 00:16:04,800
+Imate goriva za joö 10 minuta.
+
+284
+00:16:04,920 --> 00:16:07,200
+OstaÊemo joö 10 minuta.
+
+285
+00:16:11,520 --> 00:16:13,040
+Hej! Spremaj se!
+
+286
+00:16:13,160 --> 00:16:15,160
+Hej, vidim podmornicu na 3 sata.
+
+287
+00:16:15,240 --> 00:16:16,640
+Oko 3 kilometra.
+
+288
+00:16:18,560 --> 00:16:20,360
+OK, Toni, kaËi ga.
+
+289
+00:16:20,400 --> 00:16:23,440
+SpuötaÊu vas odmah na podmornicu.
+
+290
+00:16:23,480 --> 00:16:24,840
+Daj mi 8 minuta.
+
+291
+00:16:24,880 --> 00:16:28,160
+Nadajmo se da ovo leti na
+isparenja.
+
+292
+00:16:28,320 --> 00:16:30,240
+U redu.
+Izrnonite.
+
+293
+00:16:30,240 --> 00:16:31,640
+Ko god da je ovaj tip,
+
+294
+00:16:31,680 --> 00:16:34,000
+Ëeka ga paklena voûnja.
+
+295
+00:16:34,000 --> 00:16:37,520
+OK, kapetane,
+samo napred i sednite.
+
+296
+00:16:37,640 --> 00:16:39,440
+Jesi li radio ovo pre?
+
+297
+00:16:39,600 --> 00:16:41,720
+Jednom, po mirnom vremenu
+na Havajima.
+
+298
+00:16:41,760 --> 00:16:44,400
+Pilot Êe ga teöko odrûavati mirnog..
+
+299
+00:16:44,520 --> 00:16:45,880
+Nemoj da rizikujeö i da se uzemljiö.
+
+300
+00:16:45,920 --> 00:16:47,800
+Drûi ötap ispred sebe.
+
+301
+00:16:47,840 --> 00:16:49,040
+U ovakvom vazduhu
+
+302
+00:16:49,160 --> 00:16:51,160
+rotori stvaraju dovoljno
+elektriciteta
+
+303
+00:16:51,200 --> 00:16:52,480
+da osvetle ceo »ikago.
+
+304
+00:16:52,480 --> 00:16:53,880
+Zbog ovoga sam doöao u
+mornaricu.
+
+305
+00:16:53,920 --> 00:16:55,640
+Ronilac je u komori i spreman
+
+306
+00:16:55,720 --> 00:16:57,880
+ako ovaj momak odluËi da se okupa.
+
+307
+00:16:57,920 --> 00:17:00,200
+Nekom mora da gori bulja, kad
+
+308
+00:17:00,200 --> 00:17:02,080
+izvodi ovakvu vratolomiju.
+
+309
+00:17:19,680 --> 00:17:21,760
+U redu. Spremni, spremni!
+
+310
+00:17:21,760 --> 00:17:24,120
+Podigni kuku!
+
+311
+00:17:24,200 --> 00:17:27,120
+Kapetane, ako budem morao da
+vas vratim gore,
+
+312
+00:17:27,200 --> 00:17:29,120
+zatreöÊu ûicu.
+
+313
+00:17:29,240 --> 00:17:32,120
+PodiÊiÊu palac, ovako.
+
+314
+00:17:32,240 --> 00:17:34,160
+Zapamtite, prekristite ruke.
+
+315
+00:17:34,200 --> 00:17:37,200
+Razumeo? U redu. Idemo.
+Putnik je izaöao.
+
+316
+00:17:43,840 --> 00:17:46,560
+Putnik je na pola puta,
+malo napred.
+
+317
+00:17:46,560 --> 00:17:47,720
+Malo napred.
+
+318
+00:17:51,680 --> 00:17:54,800
+U redu, Tomi.
+Uhvati njegov kabal kukom.
+
+319
+00:17:54,960 --> 00:17:56,720
+ZakaËi ga. Sad, pazi.
+
+320
+00:17:56,880 --> 00:17:59,000
+Ne diraj ga.
+OK, evo ga dolazi.
+
+321
+00:18:03,880 --> 00:18:05,400
+O, ne!
+
+322
+00:18:05,520 --> 00:18:08,000
+Sve bi bilo laköe da nema tog
+glupog vetra.
+
+323
+00:18:08,120 --> 00:18:09,960
+Gde je?
+Ne vidim ga.
+
+324
+00:18:12,000 --> 00:18:13,240
+Nediraj ga!
+
+325
+00:18:14,560 --> 00:18:16,600
+Dûek! Dûek! Dûek!
+
+326
+00:18:18,400 --> 00:18:20,320
+Ovo nikada neÊe uspeti.
+
+327
+00:18:20,480 --> 00:18:21,920
+U redu, vrati ga nazad.
+
+328
+00:18:29,880 --> 00:18:31,760
+Toni, öta se deöava pozadi...
+
+329
+00:18:36,000 --> 00:18:38,800
+äta se dogodilo? Dalas,
+da li imate spremnog ronioca?
+
+330
+00:18:38,920 --> 00:18:40,280
+Hitno!
+»ovek u moru!
+
+331
+00:18:40,400 --> 00:18:43,320
+S leve strane!
+Poöaljite ronioca!
+
+332
+00:18:43,440 --> 00:18:45,880
+U redu, Dalas.
+Mi smo proölost.
+
+333
+00:18:54,440 --> 00:18:56,120
+Dovedite doktora ovamo!
+
+334
+00:18:56,160 --> 00:18:58,520
+BiÊu kod komore.
+
+335
+00:19:01,280 --> 00:19:04,760
+Spustite ga dole.
+Napravite mesta!
+
+336
+00:19:07,560 --> 00:19:09,920
+Pazite na glavu.
+Pazite na glavu.
+
+337
+00:19:20,240 --> 00:19:22,000
+Kako ste, kapetane?
+
+338
+00:19:22,120 --> 00:19:24,080
+Zadovoljstvo mi je da budem na brodu.
+
+339
+00:19:27,040 --> 00:19:29,440
+Moram da razgovaram s predsednikom.
+
+340
+00:19:30,560 --> 00:19:34,240
+Naravno.
+Mogu li da pitam o Ëemu?
+
+341
+00:19:35,440 --> 00:19:37,840
+Izgleda da prvi izveötaji
+
+342
+00:19:37,920 --> 00:19:40,800
+da je jedna od naöim
+podmornica nestala
+
+343
+00:19:40,840 --> 00:19:42,240
+nisu bili sasvim taËni.
+
+344
+00:19:44,120 --> 00:19:45,960
+Podmornica o kojoj je reË
+
+345
+00:19:46,000 --> 00:19:49,280
+je pod komandom
+kapetana Marka Ramiusa.
+
+346
+00:19:49,320 --> 00:19:51,400
+Izgleda, da je doûiveo
+
+347
+00:19:51,560 --> 00:19:54,720
+nekakav nervni slom.
+
+348
+00:19:56,080 --> 00:19:58,160
+Pre nego öto je isplovio,
+
+349
+00:19:58,200 --> 00:20:01,440
+poslao je pismo
+admiralu Jurij Padorinu
+
+350
+00:20:01,520 --> 00:20:04,800
+u kojem najavljuje svoje namere...
+
+351
+00:20:06,800 --> 00:20:10,080
+da lansira svoje rakete na SAD.
+
+352
+00:20:10,080 --> 00:20:13,720
+Zaöto mi to niste rekli na naöem
+poslednjem sastanku?
+
+353
+00:20:13,800 --> 00:20:15,800
+U mojoj poziciji,
+ponekad se kompromitujem
+
+354
+00:20:15,840 --> 00:20:18,880
+Ëinjenicom da mi Moskva
+ne govori uvek sve.
+
+355
+00:20:19,000 --> 00:20:22,280
+Dakle, jedan od vaöih
+kapetana je poludeo?
+
+356
+00:20:22,280 --> 00:20:24,440
+äta ûelite od nas?
+
+357
+00:20:24,520 --> 00:20:25,920
+Ponudili ste svoju pomoÊ.
+
+358
+00:20:26,000 --> 00:20:27,400
+To je bilo za misiju spaöavanja.
+
+359
+00:20:27,440 --> 00:20:29,280
+Sada hoÊete da vam pomognemo
+
+360
+00:20:29,320 --> 00:20:31,200
+da je naete i uniötite.
+
+361
+00:20:31,240 --> 00:20:32,600
+Nareeno mi je upravo
+
+362
+00:20:32,640 --> 00:20:35,840
+da to zatraûim od
+vaöeg predsednika.
+
+363
+00:20:36,760 --> 00:20:38,960
+Da ga naemo?
+VeÊ smo ga bili naöli.
+
+364
+00:20:39,120 --> 00:20:41,240
+Morali smo da prekinemo s praÊenjem
+da bi smo pokupili vas.
+
+365
+00:20:41,280 --> 00:20:42,720
+Kapetane, izvinite me.
+Kafu?
+
+366
+00:20:42,760 --> 00:20:43,680
+Hvala vam.
+
+367
+00:20:43,720 --> 00:20:44,640
+Cigaretu?
+
+368
+00:20:44,720 --> 00:20:45,560
+Ne puöim.
+
+369
+00:20:45,640 --> 00:20:47,440
+Pretpostavimo da ga naemo,
+
+370
+00:20:47,560 --> 00:20:50,840
+öta taËno ja treba da radim?
+
+371
+00:20:50,880 --> 00:20:51,880
+Kapetane, radio.
+
+372
+00:20:52,000 --> 00:20:53,240
+Primili smo brzojavnu poruku
+
+373
+00:20:53,280 --> 00:20:55,280
+preko V.L.F.-a.
+
+374
+00:20:55,280 --> 00:20:57,240
+Dobro. Donesi je.
+
+375
+00:20:58,560 --> 00:21:00,280
+Dakle, gospodine Rajan?
+
+376
+00:21:02,920 --> 00:21:05,320
+äefe, ostavi nas nasamo.
+
+377
+00:21:05,360 --> 00:21:07,880
+Leonarde, izai.
+
+378
+00:21:13,080 --> 00:21:16,360
+Podmornica koju pratite
+je Crveni oktobar.
+
+379
+00:21:16,400 --> 00:21:19,000
+Njom komanduje Ëovek pod imenom Ramius.
+
+380
+00:21:19,120 --> 00:21:20,320
+Postoji velika öansa
+
+381
+00:21:20,360 --> 00:21:23,040
+da on i veliki deo Ëlanova posade
+
+382
+00:21:23,120 --> 00:21:24,600
+ûele da prebegnu.
+
+383
+00:21:26,880 --> 00:21:28,120
+Prebegnu?
+
+384
+00:21:29,800 --> 00:21:31,000
+Izvinite me.
+
+385
+00:21:46,560 --> 00:21:49,400
+Rekli ste da se podmornica zove
+Crveni oktobar?
+
+386
+00:21:49,440 --> 00:21:50,360
+Tako je.
+
+387
+00:21:50,440 --> 00:21:51,440
+Kapetan Ramius?
+
+388
+00:21:51,480 --> 00:21:52,640
+TaËno.
+
+389
+00:21:53,600 --> 00:21:55,000
+Izgleda da su se okolnosti
+
+390
+00:21:55,040 --> 00:21:57,120
+promenile, gospodine Rajan.
+
+391
+00:22:03,400 --> 00:22:05,600
+Dajte ovom Ëoveku suvu odeÊu.
+
+392
+00:22:05,640 --> 00:22:07,400
+BiÊu na mostu.
+
+393
+00:22:07,400 --> 00:22:08,920
+Razumem gospodine..
+
+394
+00:22:09,000 --> 00:22:10,520
+<i><b>Nacionalni komanda obaveötava</b></i>
+
+395
+00:22:10,560 --> 00:22:13,080
+<i><b>da je sovjetska podmornica
+klase Tajfun, Crveni oktobar,</b></i>
+
+396
+00:22:13,160 --> 00:22:14,560
+<i><b>potencijalni odmetnik</b></i>
+
+397
+00:22:14,640 --> 00:22:16,440
+<i><b>i iskazuje nameru za
+lansiranje projektila.</b></i>
+
+398
+00:22:16,520 --> 00:22:19,360
+<i><b>Imate dozvolu da upotrebite
+bilo koje mere</b></i>
+
+399
+00:22:19,360 --> 00:22:20,760
+<i><b>da spreËite pomenutu podmornicu</b></i>
+
+400
+00:22:20,800 --> 00:22:21,720
+<i><b>da prie obalama</b></i>
+
+401
+00:22:21,760 --> 00:22:23,800
+<i><b>Sjedinjenih Drûava.</b></i>
+
+402
+00:22:37,440 --> 00:22:40,760
+Levo 10 stepeni,
+mirno na kursu 2-6-5.
+
+403
+00:22:40,880 --> 00:22:44,680
+Levo 10 stepeni,
+kurs 2-6-5.
+
+404
+00:22:44,760 --> 00:22:46,520
+Brzina 14 Ëvorova.
+
+405
+00:22:46,560 --> 00:22:49,280
+Voa smene,
+prelazimo na crveno.
+
+406
+00:22:51,680 --> 00:22:52,920
+ätoper i navigator
+
+407
+00:22:52,960 --> 00:22:55,480
+javite se na most.
+
+408
+00:22:58,480 --> 00:22:59,800
+äta se dogaa?
+
+409
+00:22:59,840 --> 00:23:02,200
+Svi na borbenim pozicijama.
+
+410
+00:23:02,240 --> 00:23:03,120
+Vrlo dobro.
+
+411
+00:23:03,200 --> 00:23:05,600
+Kapetane, moram da razgovaram s vama.
+
+412
+00:23:05,680 --> 00:23:06,400
+Ne sad.
+
+413
+00:23:06,400 --> 00:23:08,280
+Dubina 365 metara,
+
+414
+00:23:08,320 --> 00:23:10,160
+20 stepeni prema dole.
+
+415
+00:23:10,160 --> 00:23:13,720
+Oficiru za upravljanje, dubina
+365 metara, 20 stepeni prema dole.
+
+416
+00:23:13,800 --> 00:23:16,080
+Pun zaron na krmenim krilcima.
+
+417
+00:23:16,240 --> 00:23:18,080
+Pun zaron na krmenim krilcima,
+razumeo.
+
+418
+00:23:18,120 --> 00:23:20,080
+20 stepeni nadole.
+
+419
+00:23:23,240 --> 00:23:26,200
+Dubina 140 m,
+idemo na 365.
+
+420
+00:23:28,160 --> 00:23:29,200
+150.
+
+421
+00:23:31,440 --> 00:23:32,840
+180.
+
+422
+00:23:34,760 --> 00:23:36,000
+210.
+
+423
+00:23:40,600 --> 00:23:42,760
+Da li ste dobro priËvrstili sve?
+
+424
+00:23:42,920 --> 00:23:43,840
+Da, kapetane.
+
+425
+00:23:43,880 --> 00:23:44,800
+Vrlo dobro.
+
+426
+00:23:44,880 --> 00:23:47,000
+Dubina,
+365 metara.
+
+427
+00:23:51,120 --> 00:23:53,760
+Sonar, most.
+Naöao si ga, Dûonzi?
+
+428
+00:23:53,840 --> 00:23:56,000
+Slabi signal, gospodine.
+SaËekajte.
+
+429
+00:23:56,040 --> 00:23:59,640
+Da, gospodine. Tajfun 7 na
+kursu 2-5-0.
+
+430
+00:23:59,760 --> 00:24:01,560
+TaËno gde treba da bude.
+
+431
+00:24:01,640 --> 00:24:04,000
+Ima li znakova da nas je Ëuo?
+
+432
+00:24:04,000 --> 00:24:05,440
+Ne. Radi kao i pre.
+
+433
+00:24:05,480 --> 00:24:07,320
+Idi levo na 2-6-5.
+
+434
+00:24:07,360 --> 00:24:10,200
+Dovedi nas tiho iza njega,
+Tomi.
+
+435
+00:24:10,280 --> 00:24:11,240
+Razumeo kapetane.
+
+436
+00:24:11,320 --> 00:24:13,880
+Oficiru za upravljanje,
+dubina 150 metara.
+
+437
+00:24:22,720 --> 00:24:24,400
+Kapetane, molim vas da me
+sasluöate.
+
+438
+00:24:24,560 --> 00:24:25,920
+Dva minuta, samo toliko.
+
+439
+00:24:27,240 --> 00:24:29,760
+CrtaË, vreme do presretanja.
+
+440
+00:24:29,800 --> 00:24:31,600
+»etiri minuta kapetane.
+
+441
+00:24:31,640 --> 00:24:33,640
+U redu, gospodine Rajan.
+
+442
+00:24:33,720 --> 00:24:34,920
+Dva minuta.
+
+443
+00:24:41,280 --> 00:24:45,400
+Sve ima smisla.
+Pogledajte situaciju...
+
+444
+00:24:45,440 --> 00:24:47,920
+Ramius namerava da prebegne.
+Rusi znaju to,
+
+445
+00:24:48,000 --> 00:24:49,440
+zato su i pokuöavali
+da ga potope,
+
+446
+00:24:49,480 --> 00:24:51,840
+ali nisu uspeli.
+
+447
+00:24:51,960 --> 00:24:53,760
+Moûemo da pucamo.
+
+448
+00:24:53,840 --> 00:24:56,120
+Rusi niöta neÊe zaustaviti
+
+449
+00:24:56,200 --> 00:24:58,080
+da spreËe Ramiusa da prebegne.
+
+450
+00:24:58,080 --> 00:25:00,160
+Izmislili su priËu da je lud
+
+451
+00:25:00,200 --> 00:25:02,520
+kako bi im mi pomogli da ga uniötimo
+
+452
+00:25:02,560 --> 00:25:04,400
+pre nego öto stupi u kontakt s nama.
+
+453
+00:25:06,480 --> 00:25:08,400
+Kontrolo oruûja,
+ûelim punu sigurnost.
+
+454
+00:25:08,480 --> 00:25:11,000
+NeÊu da nam se "riba" vrati.
+
+455
+00:25:11,160 --> 00:25:12,160
+Puna sigurnost.
+
+456
+00:25:12,200 --> 00:25:14,280
+Kapetane, poznajem tog Ëoveka.
+
+457
+00:25:15,320 --> 00:25:17,760
+Je li radio Lude Ivane?
+
+458
+00:25:17,840 --> 00:25:19,200
+Kakve to ima veze?
+
+459
+00:25:19,360 --> 00:25:21,760
+- SledeÊi Êe biti udesno.
+- Jer je proöli bio ulevo?
+
+460
+00:25:21,840 --> 00:25:24,440
+Jer ide udesno
+u drugoj polovini sata.
+
+461
+00:25:29,320 --> 00:25:31,640
+Potopite cevi jedan i dva.
+Pripremite oruûje.
+
+462
+00:25:31,680 --> 00:25:35,280
+Naite naËin da ga kontaktiramo
+bez kröenja nareenja.
+
+463
+00:25:35,320 --> 00:25:36,720
+éeli da prebegne!
+
+464
+00:25:36,760 --> 00:25:38,680
+Gospodine Tompson,
+pozovite öefa Votsona
+
+465
+00:25:38,720 --> 00:25:40,480
+da doe na most
+sa liËnim naoruûanjem.
+
+466
+00:25:44,680 --> 00:25:47,240
+Most, sonar.
+Signal slabi.
+
+467
+00:25:47,280 --> 00:25:49,320
+MoguÊa promena kursa cilja.
+
+468
+00:25:49,360 --> 00:25:52,200
+MoguÊ pomeraj mete
+zbog promene kursa.
+
+469
+00:25:54,000 --> 00:25:55,280
+Most, sonar. Ludi lvan!
+
+470
+00:25:59,240 --> 00:26:00,360
+Kapetane.
+
+471
+00:26:01,520 --> 00:26:03,760
+Kapetane, okreÊe se.
+
+472
+00:26:06,240 --> 00:26:08,200
+Na koju stranu se okreÊe?
+
+473
+00:26:08,320 --> 00:26:09,760
+Nadesno gospodine.
+
+474
+00:26:10,920 --> 00:26:13,200
+Dajte Ëoveku öansu.
+
+475
+00:26:14,640 --> 00:26:16,480
+Unazad punom snagom.
+
+476
+00:26:16,520 --> 00:26:17,920
+Kapetane, ponovite.
+
+477
+00:26:17,920 --> 00:26:19,840
+Rekao sam punom snagom unazad!
+
+478
+00:26:19,880 --> 00:26:21,280
+Punom snagom unazad, razumeo.
+
+479
+00:26:21,400 --> 00:26:22,360
+Motori punom snagom unazad.
+
+480
+00:26:27,080 --> 00:26:29,080
+Pravimo balon.
+Moûe da nas Ëuje!
+
+481
+00:26:29,160 --> 00:26:31,360
+Zaustavite sve.
+
+482
+00:26:31,520 --> 00:26:32,680
+Sve zaustavljeno.
+
+483
+00:26:32,760 --> 00:26:35,680
+U redu.
+OtkopËali smo ölic.
+
+484
+00:26:35,720 --> 00:26:38,080
+Gospodine Tompson,
+otvorite spoljna vrata.
+
+485
+00:26:38,080 --> 00:26:39,480
+Procedura za paljbu.
+
+486
+00:26:39,520 --> 00:26:42,320
+Sad, ako se gad i malo pomakne,
+
+487
+00:26:42,400 --> 00:26:45,080
+poslaÊu ga pravo na Mars.
+
+488
+00:26:45,120 --> 00:26:47,080
+Zaustavite sve.
+
+489
+00:26:47,200 --> 00:26:48,560
+äta se dogaa?
+
+490
+00:26:48,600 --> 00:26:50,120
+Moûete li da identifikujeö kontakt?
+
+491
+00:26:50,240 --> 00:26:52,560
+AmeriËka pomodrnica klase Los
+Aneles
+
+492
+00:26:52,600 --> 00:26:54,000
+kurs 0-1-5...
+
+493
+00:26:54,040 --> 00:26:55,400
+Kapetane, oötri metalni zvukovi.
+
+494
+00:26:55,480 --> 00:26:59,360
+Pokuöava da otvori torpedne cevi.
+
+495
+00:26:59,400 --> 00:27:02,840
+Otvorena vrata na cevima jedan i dva.
+
+496
+00:27:02,880 --> 00:27:04,280
+Spremni smo da pucamo.
+
+497
+00:27:04,280 --> 00:27:07,080
+Vrlo dobro. Moja nareenja
+su vrlo odreena, gospodine Rajan.
+
+498
+00:27:07,120 --> 00:27:09,000
+Otvorio je spoljna vrata.
+
+499
+00:27:09,160 --> 00:27:10,160
+Sprema se da puca.
+
+500
+00:27:10,160 --> 00:27:13,640
+Potopite cevi tri i Ëetiri
+i uradite proraËun.
+
+501
+00:27:13,640 --> 00:27:17,120
+Razumeo, potopite cevi 3 i 4.
+Uradite proraËun.
+
+502
+00:27:17,160 --> 00:27:19,600
+Da otvorim vrata torpednih cevi?
+
+503
+00:27:21,280 --> 00:27:24,640
+Kapetane, da otvorim spoljna vrata?
+
+504
+00:27:24,640 --> 00:27:25,920
+Ne.
+
+505
+00:27:27,560 --> 00:27:30,040
+Ubacite proraËun za paljbu
+u kompjuter.
+
+506
+00:27:30,120 --> 00:27:33,320
+Ne otvarajte vrata.
+
+507
+00:27:40,360 --> 00:27:42,120
+Razumeo kapetane.
+
+508
+00:27:43,240 --> 00:27:45,240
+Unesite proraËun u kompjuter.
+
+509
+00:27:46,440 --> 00:27:48,560
+Most, sonar.
+Cilj je potopio svoje cevi.
+
+510
+00:27:48,680 --> 00:27:51,080
+Da li je otvorio vrata za lansiranje?
+
+511
+00:27:51,120 --> 00:27:53,440
+Ne, kapetane.
+Samo Ëeka.
+
+512
+00:27:53,480 --> 00:27:54,600
+Trenutak.
+
+513
+00:27:54,640 --> 00:27:57,640
+Izranja.
+Meta se diûe.
+
+514
+00:27:57,680 --> 00:27:59,520
+äta to znaËi?
+
+515
+00:28:00,520 --> 00:28:02,720
+To znaËi da je veoma
+smirena muöterija,
+
+516
+00:28:02,840 --> 00:28:03,800
+taj vaö Rus.
+
+517
+00:28:03,880 --> 00:28:06,760
+Zna da smo tu i
+da smo spremni za paljbu.
+
+518
+00:28:06,800 --> 00:28:08,200
+Ne ûeli da nas izaziva.
+
+519
+00:28:08,240 --> 00:28:10,080
+IzroniÊe na dubinu periskopa
+
+520
+00:28:10,120 --> 00:28:12,480
+da vidi öta ima na povröini.
+
+521
+00:28:12,520 --> 00:28:15,360
+Njegov kurs je 2-0-7, zapadno.
+
+522
+00:28:15,440 --> 00:28:16,840
+Priite uz njega.
+
+523
+00:28:16,880 --> 00:28:18,280
+Razumeo kapetane.
+
+524
+00:28:18,320 --> 00:28:20,520
+Sonar, most.
+Javi sve kontakte.
+
+525
+00:28:20,600 --> 00:28:22,040
+Most, sonar.
+
+526
+00:28:22,080 --> 00:28:26,480
+Jedino öto primam je Tajfun 7,
+kurs 1-9-5.
+
+527
+00:28:26,480 --> 00:28:29,280
+Vrlo dobro. Kontrolo paljbe,
+udaljenost do cilja?
+
+528
+00:28:29,320 --> 00:28:30,920
+Udaljenost 270 metara.
+
+529
+00:28:32,320 --> 00:28:34,160
+Dubina 20 metara.
+
+530
+00:28:34,200 --> 00:28:37,000
+Oficiru za upravljanje,
+dubina 20 metara.
+
+531
+00:28:37,000 --> 00:28:40,320
+HoÊe da ide gore
+i da proviri.
+
+532
+00:28:40,360 --> 00:28:42,040
+PratiÊemo ga.
+
+533
+00:28:56,920 --> 00:28:58,320
+Ide na 45.
+
+534
+00:28:58,360 --> 00:29:00,200
+Ide na 45.
+
+535
+00:29:00,240 --> 00:29:01,600
+Status oruûja?
+
+536
+00:29:01,600 --> 00:29:03,240
+Oruûje spremno.
+
+537
+00:29:03,280 --> 00:29:04,960
+Cevi 3 i 4 potopljene.
+
+538
+00:29:05,120 --> 00:29:06,280
+Spoljna vrata zatvorena.
+
+539
+00:29:06,280 --> 00:29:08,120
+25 metara.
+
+540
+00:29:08,160 --> 00:29:09,560
+Dubina 25 metara.
+
+541
+00:29:09,560 --> 00:29:11,920
+OznaËi poloûaj.
+
+542
+00:29:18,000 --> 00:29:21,520
+éeleli ste da priËate s njime,
+gospodine Rajan.
+
+543
+00:29:21,600 --> 00:29:23,160
+Tu je.
+
+544
+00:29:24,120 --> 00:29:26,000
+äta ûelite da kaûete?
+
+545
+00:29:26,080 --> 00:29:28,360
+Da li Êe samo on da gleda?
+
+546
+00:29:28,480 --> 00:29:29,320
+Verovatno.
+
+547
+00:29:29,440 --> 00:29:31,400
+MoraÊemo da rizikujemo.
+
+548
+00:29:33,080 --> 00:29:36,440
+"ReËeno nam je da nameravate
+da ispalite rakete". Stop.
+
+549
+00:29:36,480 --> 00:29:37,840
+"Ne prilazite obali SAD
+
+550
+00:29:37,880 --> 00:29:41,640
+ili Êete biti napadnuti".
+Stop.
+
+551
+00:29:41,720 --> 00:29:45,120
+"Ako imate druge namere...
+
+552
+00:29:45,160 --> 00:29:46,560
+hoÊete li da razgovarate?"
+
+553
+00:29:46,560 --> 00:29:47,480
+Stop.
+
+554
+00:29:47,520 --> 00:29:50,320
+MoÊe li da potvrdi
+sa jednim pingom?
+
+555
+00:29:50,360 --> 00:29:52,680
+Da, moûe.
+
+556
+00:29:52,840 --> 00:29:54,760
+Pitanje je, hoÊe li?
+
+557
+00:30:02,080 --> 00:30:05,000
+Potvrdite udaljenost od mete.
+
+558
+00:30:05,040 --> 00:30:07,760
+Samo jedan ping.
+
+559
+00:30:08,800 --> 00:30:10,240
+Razumeo kapetane.
+
+560
+00:30:16,600 --> 00:30:17,960
+Nek' sam proklet.
+
+561
+00:30:18,040 --> 00:30:20,000
+äta sad?
+
+562
+00:30:21,680 --> 00:30:23,080
+U redu.
+
+563
+00:30:23,160 --> 00:30:25,880
+"Ako je prebeg...
+
+564
+00:30:28,920 --> 00:30:32,640
+Usmerite se..."
+
+565
+00:30:32,680 --> 00:30:33,680
+Kartu.
+
+566
+00:30:34,760 --> 00:30:36,040
+Treba mi karta.
+
+567
+00:30:36,200 --> 00:30:38,320
+Ne. Ne.
+
+568
+00:30:38,440 --> 00:30:40,400
+U redu, gde smo mi?
+
+569
+00:30:40,480 --> 00:30:44,040
+Negde duboko.
+Negde duboko.
+
+570
+00:30:44,160 --> 00:30:46,040
+U redu.
+
+571
+00:30:46,080 --> 00:30:47,080
+U redu!
+
+572
+00:30:47,200 --> 00:30:48,960
+Poöaljite mu ovo!
+
+573
+00:30:52,120 --> 00:30:54,320
+Jeste li poludeli?
+
+574
+00:30:54,440 --> 00:30:56,920
+Samo poöaljite.
+
+575
+00:30:59,560 --> 00:31:00,840
+Recite mi jedno.
+
+576
+00:31:01,000 --> 00:31:04,760
+Kako ste znali da Êe
+da ide udesno?
+
+577
+00:31:04,760 --> 00:31:06,640
+Nisam.
+
+578
+00:31:06,760 --> 00:31:10,600
+äanse su bile pola-pola.
+Trebala mi je prilika. Izvinite.
+
+579
+00:31:10,600 --> 00:31:12,680
+U redu, gospodine Rajan.
+
+580
+00:31:12,720 --> 00:31:14,360
+Morze mi je veoma zarao,
+
+581
+00:31:14,400 --> 00:31:16,240
+moûda mu öaljem dimenzije
+
+582
+00:31:16,280 --> 00:31:18,560
+Plejbojove zeËice meseca.
+
+583
+00:31:37,440 --> 00:31:40,080
+Ponovno proveri udaljenost od mete.
+
+584
+00:31:41,600 --> 00:31:43,160
+Samo jedan ping.
+
+585
+00:31:43,200 --> 00:31:44,560
+Kapetane, ja... ja sam upravo...
+
+586
+00:31:44,560 --> 00:31:46,920
+Daj mi ping, Vasilij.
+
+587
+00:31:46,960 --> 00:31:50,000
+Samo jedan ping, molim te.
+
+588
+00:31:52,720 --> 00:31:53,880
+Razumeo kapetane.
+
+589
+00:31:57,440 --> 00:31:59,840
+O Ëemu se ovde radi?
+
+590
+00:32:00,000 --> 00:32:03,320
+Rusi ûele da je potopimo.
+
+591
+00:32:04,680 --> 00:32:06,640
+Moûda Êemo morati to da uradimo.
+
+592
+00:32:14,080 --> 00:32:17,080
+Moramo da obiemo naöiroko Amerikanca.
+
+593
+00:32:19,520 --> 00:32:21,280
+Okrenimo se na jug.
+
+594
+00:32:31,120 --> 00:32:32,160
+Gospodine Kamarov.
+
+595
+00:32:34,440 --> 00:32:37,240
+Ucrtajte nov kurs na jug.
+
+596
+00:32:37,280 --> 00:32:39,120
+Da gospodine.
+
+597
+00:32:39,200 --> 00:32:41,120
+Novi kurs 1-8-0.
+
+598
+00:33:12,840 --> 00:33:14,240
+Reaktor!
+
+599
+00:33:14,240 --> 00:33:16,240
+IskljuËite reaktor!
+
+600
+00:33:18,640 --> 00:33:19,960
+Zatvorite ventilaciju!
+
+601
+00:33:20,080 --> 00:33:21,920
+Kontrole za ventilaciju ne rade!
+
+602
+00:33:21,960 --> 00:33:22,880
+Svi nspolje.
+
+603
+00:33:22,920 --> 00:33:24,960
+Napustite prostoriju!
+
+604
+00:33:26,160 --> 00:33:27,560
+Napolje!
+
+605
+00:33:36,800 --> 00:33:38,400
+Ventilacijski sistem,
+zatvori odmah.
+
+606
+00:33:38,480 --> 00:33:40,000
+Ne reaguje.
+
+607
+00:33:40,040 --> 00:33:41,400
+Kontrole ne reaguju!
+
+608
+00:33:41,440 --> 00:33:43,400
+Premosti.
+Zatvori ih ruËno!
+
+609
+00:33:43,480 --> 00:33:45,360
+Hajde! Zatvori ih.
+
+610
+00:33:46,320 --> 00:33:47,760
+Melekin, ponovi.
+
+611
+00:33:54,760 --> 00:33:57,560
+Doölo je do curenja u
+primernoj cevi za hladjenje,
+
+612
+00:33:57,600 --> 00:33:59,000
+reaktor je iskljuËen,
+
+613
+00:33:59,040 --> 00:34:01,520
+ali je ventilacioni sistem u kvaru.
+
+614
+00:34:01,600 --> 00:34:03,400
+Rashladna teËnost je visoko
+kontaminirana.
+
+615
+00:34:03,440 --> 00:34:05,320
+Znao sam da je nastala öteta
+
+616
+00:34:05,400 --> 00:34:07,200
+kada se guseniËni pogon
+pokvario.
+
+617
+00:34:07,280 --> 00:34:09,600
+Alarmi za radijaciju su se
+aktivirali u svim odjeljenjima.
+
+618
+00:34:09,720 --> 00:34:11,040
+Maöinsko odeljenje je visoko kontaminirano,
+
+619
+00:34:11,120 --> 00:34:12,400
+a radijacija se öiri.
+
+620
+00:34:12,520 --> 00:34:13,840
+Izronimo na periskopsku dubinu.
+
+621
+00:34:13,920 --> 00:34:15,160
+ProvetriÊemo spoljnim vazduhom.
+
+622
+00:34:15,200 --> 00:34:16,560
+U redu kapetane.
+Dubina periskopa!
+
+623
+00:34:16,640 --> 00:34:18,000
+Pripremite se za provetravanje!
+
+624
+00:34:18,120 --> 00:34:19,400
+Provetravanjem neÊemo niöta dobiti.
+
+625
+00:34:19,520 --> 00:34:21,280
+Moramo da se iskrcamo.
+
+626
+00:34:21,440 --> 00:34:22,800
+Kakvo je stanje baterija?
+
+627
+00:34:22,840 --> 00:34:25,160
+»etiri Ëasa.
+äest ako ötedimo.
+
+628
+00:34:25,200 --> 00:34:26,600
+UkljuËi akumulatore.
+
+629
+00:34:26,600 --> 00:34:29,200
+Imamo prvi stepen radijacije.
+
+630
+00:34:29,360 --> 00:34:31,720
+Svaka povröina ovog broda je
+kontaminirana.
+
+631
+00:34:31,720 --> 00:34:34,560
+Moramo sve ljude da iskrcamo.
+
+632
+00:34:34,560 --> 00:34:36,440
+Gospodine, sabotirani smo!
+
+633
+00:34:36,480 --> 00:34:38,840
+Ko je pominjao sabotaûu?
+
+634
+00:34:38,960 --> 00:34:40,240
+Kapetane!
+
+635
+00:34:40,400 --> 00:34:43,280
+Gospodine, bojim se
+da je doktor u pravu.
+
+636
+00:34:48,640 --> 00:34:50,000
+U redu.
+
+637
+00:34:50,080 --> 00:34:52,880
+Izronite. PrebaciÊemo posadu na
+palubu.
+
+638
+00:34:53,000 --> 00:34:53,840
+Razumeo kapetane.
+
+639
+00:34:53,960 --> 00:34:55,280
+Izronite!
+
+640
+00:34:55,400 --> 00:34:58,200
+Uputite osoblje prema
+izlazima za nuûdu.
+
+641
+00:34:58,240 --> 00:34:59,640
+Spremite Ëamce.
+
+642
+00:34:59,680 --> 00:35:01,560
+Postavite ih na palubu.
+
+643
+00:35:01,680 --> 00:35:05,440
+U njima Êemo se skloniti do dolaska
+flote.
+
+644
+00:35:45,800 --> 00:35:48,200
+Paûljivo brojte, doktore.
+
+645
+00:35:48,280 --> 00:35:50,960
+Svi moraju da izau napolje.
+
+646
+00:35:51,120 --> 00:35:52,360
+Da, gospodine.
+
+647
+00:35:52,520 --> 00:35:55,640
+Oruûar je javio da su Ëamci spremni
+i da je evakuacija u toku.
+
+648
+00:35:55,760 --> 00:35:56,720
+Vrlo dobro.
+
+649
+00:36:03,280 --> 00:36:05,160
+MenjaÊemo se na mostu.
+
+650
+00:36:05,200 --> 00:36:08,960
+Ni jedan oficir ne sme da ostane
+dole duûe od 20 minuta.
+
+651
+00:36:09,040 --> 00:36:10,400
+ZadovoljavajuÊe doktore?
+
+652
+00:36:10,520 --> 00:36:11,480
+U potpunosti kapetane.
+
+653
+00:36:11,560 --> 00:36:12,720
+Povröinski kontakt!
+
+654
+00:36:12,840 --> 00:36:14,280
+2-7-0.
+
+655
+00:36:14,320 --> 00:36:17,000
+10 km i pribliûava se brzo.
+
+656
+00:36:17,080 --> 00:36:18,240
+Ratni brod.
+
+657
+00:36:18,280 --> 00:36:19,200
+äta? Ovde?
+
+658
+00:36:19,280 --> 00:36:20,640
+Moûeö li da ga identifikujeö?
+
+659
+00:36:20,680 --> 00:36:22,080
+Fregata,
+
+660
+00:36:22,200 --> 00:36:23,680
+ameriËka verovatno,
+
+661
+00:36:23,840 --> 00:36:25,600
+klase Peri.
+Signaliziraju.
+
+662
+00:36:26,480 --> 00:36:29,960
+<i><b>Crveni oktobar.
+Crveni oktobar.</b></i>
+
+663
+00:36:30,000 --> 00:36:31,800
+<i><b>Ostanite gde ste.</b></i>
+
+664
+00:36:31,840 --> 00:36:33,520
+<i><b>Ne pokuöavajte da zaronite,</b></i>
+
+665
+00:36:33,680 --> 00:36:35,680
+<i><b>ili Êemo da pucamo na vas.</b></i>
+
+666
+00:36:37,840 --> 00:36:41,120
+Kapetane, mislim da hoÊe
+da se ukracaju.
+
+667
+00:36:46,600 --> 00:36:48,920
+Vi idite sa posadom.
+
+668
+00:36:48,960 --> 00:36:51,760
+Oficiri i ja Êemo da zaronimo
+
+669
+00:36:51,840 --> 00:36:53,280
+i da potopimo podmornicu.
+
+670
+00:36:54,800 --> 00:36:57,720
+DobiÊete orden Lenjina za ovo.
+
+671
+00:37:06,960 --> 00:37:08,840
+OdmaknuÊemo se od broda.
+
+672
+00:37:08,880 --> 00:37:11,880
+Kapetan Êe da potopi podmornicu.
+
+673
+00:37:17,040 --> 00:37:18,400
+Zaranja gospodine.
+
+674
+00:37:18,440 --> 00:37:20,120
+Pucaj mu preko pramca.
+
+675
+00:37:20,160 --> 00:37:21,560
+Skreni desno na 1-8-0.
+
+676
+00:37:50,840 --> 00:37:53,120
+Jastreb 1,
+ovde Bravo komanda.
+
+677
+00:38:10,920 --> 00:38:12,120
+Spremna je.
+
+678
+00:38:14,200 --> 00:38:16,520
+Jastreb 1,
+izbaci na moj znak.
+
+679
+00:38:16,560 --> 00:38:19,600
+Bacaj sad... sad... sad.
+
+680
+00:38:27,360 --> 00:38:29,600
+Udaljenost do cilja...
+820 metara.
+
+681
+00:38:31,080 --> 00:38:32,240
+730 metara.
+
+682
+00:38:34,840 --> 00:38:36,160
+640 metara.
+
+683
+00:38:37,800 --> 00:38:39,680
+550 metara.
+
+684
+00:38:44,280 --> 00:38:45,520
+460 metara.
+
+685
+00:38:48,120 --> 00:38:49,760
+365 metara.
+
+686
+00:38:51,680 --> 00:38:53,320
+270 metara.
+
+687
+00:38:56,040 --> 00:38:57,680
+Torpedo detonirao.
+
+688
+00:38:59,080 --> 00:39:01,280
+Sad, shvatite, kapetane,
+
+689
+00:39:01,360 --> 00:39:03,640
+taj se torpedo nije samouniötio.
+
+690
+00:39:03,760 --> 00:39:06,120
+»uli ste ga kako je udario u trup.
+
+691
+00:39:06,160 --> 00:39:09,200
+A ja... nikada nisam bio ovde.
+
+692
+00:39:09,240 --> 00:39:11,600
+Javite Dalasu.
+Mogu da krenu.
+
+693
+00:39:11,760 --> 00:39:14,120
+Javi Dalasu.
+Neka DSRV krene.
+
+694
+00:39:14,240 --> 00:39:16,120
+Dalas, ovdje Rubin Dûejms.
+
+695
+00:39:22,280 --> 00:39:23,960
+Dva miliona stvari
+moûe da poe po zlu
+
+696
+00:39:24,000 --> 00:39:26,720
+u ovoj vratolomiji.
+
+697
+00:39:26,760 --> 00:39:29,080
+Centralna obaveötajna (intelligance) agencija.
+
+698
+00:39:29,120 --> 00:39:31,520
+E, to su kontradiktorni pojmovi.
+
+699
+00:39:33,160 --> 00:39:34,920
+Kakva je kafa Rajane?
+
+700
+00:39:36,080 --> 00:39:37,960
+Dalas, ovde Mistik.
+
+701
+00:39:38,000 --> 00:39:39,400
+Traûimo dozvolu da krenemo.
+
+702
+00:39:39,440 --> 00:39:41,960
+Mistik, Dalas.
+Imate dozvolu.
+
+703
+00:39:42,920 --> 00:39:44,320
+Poklopac zatvoren.
+
+704
+00:39:44,320 --> 00:39:46,640
+Uslovi normalni.
+Sve provere zavröene.
+
+705
+00:39:46,720 --> 00:39:48,080
+Spremni smo za pokret.
+
+706
+00:39:48,200 --> 00:39:49,080
+Razumeo.
+
+707
+00:39:49,240 --> 00:39:50,120
+Poplavi spoj.
+
+708
+00:39:50,160 --> 00:39:51,360
+Poplaviti spoj, razumeo.
+
+709
+00:39:51,480 --> 00:39:53,240
+Spoj poplavljen i
+pritisak izjednaËen.
+
+710
+00:39:53,280 --> 00:39:55,640
+Spoj odvojen.
+Spremni za pokret.
+
+711
+00:39:55,760 --> 00:39:57,680
+U redu. Krenimo.
+
+712
+00:39:59,360 --> 00:40:01,200
+Krenuli smo.
+
+713
+00:40:01,280 --> 00:40:03,040
+SkreÊem ulevo.
+
+714
+00:40:22,960 --> 00:40:25,280
+545 metara i pribliûavamo se.
+
+715
+00:40:25,320 --> 00:40:27,920
+Skreni desno na kurs 0-7-5.
+
+716
+00:40:28,080 --> 00:40:28,880
+365.
+
+717
+00:40:32,760 --> 00:40:34,640
+180 metara.
+
+718
+00:40:36,960 --> 00:40:38,640
+90 metara.
+
+719
+00:40:45,640 --> 00:40:47,160
+UkljuËi svetla.
+
+720
+00:40:59,920 --> 00:41:03,200
+Isuse, velika je.
+
+721
+00:41:18,000 --> 00:41:20,080
+U redu, na poziciji smo.
+
+722
+00:41:20,160 --> 00:41:22,720
+Otvorite poklopac.
+
+723
+00:41:22,840 --> 00:41:24,280
+Trenutak.
+
+724
+00:41:24,320 --> 00:41:25,360
+Dûonzi.
+
+725
+00:41:27,360 --> 00:41:28,720
+Gospodine Rajan.
+
+726
+00:41:31,840 --> 00:41:33,560
+On ûeli da prebegne.
+
+727
+00:41:34,480 --> 00:41:36,800
+I ne moûe da se predomisli?
+
+728
+00:41:36,840 --> 00:41:39,240
+NeÊe se predomisliti.
+
+729
+00:41:39,280 --> 00:41:42,360
+HoÊete da se kladite
+ûivotom na to?
+
+730
+00:42:00,840 --> 00:42:03,280
+Uh, gospodine,
+moûete da mi dodate ËekiÊ?
+
+731
+00:42:03,400 --> 00:42:04,400
+Da.
+
+732
+00:42:26,000 --> 00:42:27,240
+Amerikanci.
+
+733
+00:44:06,640 --> 00:44:47,960
+Pozeleneo je...
+
+734
+00:44:30,680 --> 00:44:32,120
+äta je tako smeöno?
+
+735
+00:44:33,680 --> 00:44:36,040
+Pa, izgleda da kapetan misli
+
+736
+00:44:36,040 --> 00:44:38,120
+da ste nekakav kauboj.
+
+737
+00:44:38,680 --> 00:44:39,960
+Govorite Ruski.
+
+738
+00:44:41,560 --> 00:44:43,440
+Pomalo.
+
+739
+00:44:44,960 --> 00:44:48,120
+Mudro je prouËavati
+dela svog neprijatelja.
+
+740
+00:44:48,720 --> 00:44:50,440
+Zar ne mislite tako?
+
+741
+00:44:51,720 --> 00:44:52,880
+Jeste.
+
+742
+00:44:55,040 --> 00:44:56,440
+Sumnjam da se seÊate,
+
+743
+00:44:56,480 --> 00:44:59,840
+ali smo se sreli jednom u
+konzulatu u Lenjingradu.
+
+744
+00:44:59,920 --> 00:45:02,040
+Bili ste zajedno sa ûenom.
+
+745
+00:45:02,040 --> 00:45:03,520
+Moje sauËeöÊe.
+
+746
+00:45:06,000 --> 00:45:10,720
+Ko vam je dao za pravo
+da pucate na moj brod?
+
+747
+00:45:10,760 --> 00:45:13,520
+Vaöa poruka nije pominjala torpedo.
+
+748
+00:45:13,520 --> 00:45:14,680
+Rajane.
+
+749
+00:45:16,080 --> 00:45:19,200
+Bilo je to neophodno da bismo
+odrûali iluziju kod vaöe posade.
+
+750
+00:45:19,360 --> 00:45:21,600
+Moju posadu spaöavate, da?
+
+751
+00:45:21,720 --> 00:45:23,360
+Upravo ovog trena.
+
+752
+00:45:27,160 --> 00:45:29,080
+Vi ste poslali poruku.
+
+753
+00:45:29,200 --> 00:45:30,640
+To je taËno gospodine.
+
+754
+00:45:32,320 --> 00:45:36,880
+Kako ste znali da je
+naöa nesreÊa sa reaktorom laûna?
+
+755
+00:45:38,240 --> 00:45:41,600
+Pa, to je bila pretpostavka,
+ali je bilo logiËno.
+
+756
+00:45:47,680 --> 00:45:48,920
+U redu.
+
+757
+00:45:52,600 --> 00:45:55,000
+Predstavljam vam
+
+758
+00:45:55,160 --> 00:45:58,000
+balistiËku podmornicu
+Crveni oktobar.
+
+759
+00:46:02,040 --> 00:46:05,560
+Moji oficiri i ja traûimo azil...
+
+760
+00:46:06,640 --> 00:46:09,080
+u Sjedinjene AmeriËke Drûave.
+
+761
+00:46:10,880 --> 00:46:12,880
+Drago mi je gospodine.
+
+762
+00:46:13,000 --> 00:46:15,000
+Bart Menkuzo, USS Dalas.
+
+763
+00:46:17,920 --> 00:46:20,760
+Torpedo.
+Amerikanci opet pucaju na nas.
+
+764
+00:46:20,800 --> 00:46:22,720
+Piötanje je previsoko.
+
+765
+00:46:22,800 --> 00:46:24,760
+Torpedo je rusko.
+
+766
+00:46:24,880 --> 00:46:27,160
+Kako misliö joö jedan torpedo?
+Odakle je doavola doöao?
+
+767
+00:46:27,240 --> 00:46:29,360
+Most, sonar.
+Novi kontakt. Sijera 4-1.
+
+768
+00:46:29,440 --> 00:46:31,240
+Sovjetska podmornica klase Alfa.
+
+769
+00:46:34,720 --> 00:46:36,480
+Zaöto nije detonirao?
+
+770
+00:46:36,600 --> 00:46:38,480
+Oruûje se ukljuËilo
+daleko od mete.
+
+771
+00:46:38,520 --> 00:46:40,520
+Proöao je pored Crvenog oktobra
+pre aktiviranja.
+
+772
+00:46:40,560 --> 00:46:44,080
+Pogreöno odstojanje. Pucajte ponovo sa
+taËnim podacima, napunite obe cevi.
+
+773
+00:46:44,360 --> 00:46:47,320
+UkljuËite pogon. I skinite onu
+prokletu stvar s mog broda.
+
+774
+00:46:47,440 --> 00:46:48,560
+Odmah.
+
+775
+00:46:49,880 --> 00:46:52,400
+Mislim da je neko ispalio
+torpedo na nas.
+
+776
+00:46:52,520 --> 00:46:54,680
+Ne seri, Bakvit.
+Beûi odavde.
+
+777
+00:46:54,720 --> 00:46:55,720
+Kuda da...
+
+778
+00:47:02,720 --> 00:47:04,680
+Kapetan se bori protiv njih.
+
+779
+00:47:05,280 --> 00:47:08,560
+Kapetan se bori protiv Amerikanaca.
+
+780
+00:47:09,440 --> 00:47:12,000
+Borodin, kontrola paljbe.
+
+781
+00:47:13,000 --> 00:47:14,080
+Uh, Rajan.
+
+782
+00:47:14,120 --> 00:47:15,040
+Sedni ovde.
+
+783
+00:47:15,120 --> 00:47:18,080
+Ja nisam mornariËki oficir.
+Ja sam iz CIA-e.
+
+784
+00:47:18,160 --> 00:47:19,040
+CIA?
+
+785
+00:47:19,080 --> 00:47:20,480
+Nisam agent.
+
+786
+00:47:20,560 --> 00:47:22,880
+Samo piöem knjige za CIA-u.
+
+787
+00:47:23,000 --> 00:47:24,400
+Svejedno. Sedi tu.
+
+788
+00:47:24,440 --> 00:47:26,400
+I radi taËno öta ti kaûem.
+
+789
+00:47:26,520 --> 00:47:27,680
+DSRV je otiöao.
+
+790
+00:47:27,680 --> 00:47:29,880
+Ruska podmornica klase Alfa
+7300 m desno od nas.
+
+791
+00:47:30,000 --> 00:47:31,640
+Mislim da je to Konovalov.
+
+792
+00:47:31,720 --> 00:47:33,120
+PoveÊaj nagib.
+
+793
+00:47:33,200 --> 00:47:35,160
+PoveÊaj nagib.
+
+794
+00:47:35,200 --> 00:47:36,120
+Kako?
+
+795
+00:47:37,240 --> 00:47:39,840
+Ovaj toËkiÊ. Okreni ga nadesno.
+
+796
+00:47:41,160 --> 00:47:43,200
+Punom snagom udesno.
+
+797
+00:47:43,360 --> 00:47:44,760
+Ponovo puca gospodine.
+
+798
+00:47:44,760 --> 00:47:46,160
+Na borbene poloûaje.
+
+799
+00:47:46,200 --> 00:47:47,120
+Borbeni poloûaji.
+
+800
+00:47:53,200 --> 00:47:55,080
+Torpedo u vodi.
+
+801
+00:47:55,080 --> 00:47:56,240
+Kurs 3-1-5.
+
+802
+00:47:56,280 --> 00:47:57,600
+Udaljenost 6370 m.
+
+803
+00:47:57,640 --> 00:47:59,840
+Skreni udesno na 3-1-5.
+
+804
+00:48:00,000 --> 00:48:01,880
+To je pravo na torpedo.
+
+805
+00:48:01,960 --> 00:48:03,840
+Kurs i dalje 3-1-5.
+
+806
+00:48:03,960 --> 00:48:05,880
+Udaljenost...
+5460 metara.
+
+807
+00:48:05,960 --> 00:48:07,480
+Kurs 3-1-5.
+
+808
+00:48:07,520 --> 00:48:10,080
+UpravljaË nadesno,
+dok ne ispiöe 3-1-5.
+
+809
+00:48:10,160 --> 00:48:13,320
+Ne to je pogreöno.
+Rajane, ne okreÊi prokleti upravljaË.
+
+810
+00:48:14,600 --> 00:48:16,480
+3-1-5.
+
+811
+00:48:26,680 --> 00:48:29,000
+Idete pravo u taj torpedo.
+
+812
+00:48:30,200 --> 00:48:31,600
+Da.
+
+813
+00:48:31,600 --> 00:48:32,760
+äta radi?
+
+814
+00:48:32,800 --> 00:48:34,640
+Okrenuo se prema torpedu.
+
+815
+00:48:34,680 --> 00:48:36,280
+äta?
+
+816
+00:48:36,360 --> 00:48:39,200
+Crveni oktobar se okrenuo taËno
+prema torpedu, gospodine.
+
+817
+00:48:39,320 --> 00:48:40,560
+Majko Boûija.
+
+818
+00:48:40,680 --> 00:48:42,920
+Torpedo i dalje na 3-1-5.
+
+819
+00:48:43,040 --> 00:48:44,360
+Udaljenost... 4550 metara.
+
+820
+00:48:44,480 --> 00:48:45,840
+Melekin, ubrzajte joö viöe.
+
+821
+00:48:46,120 --> 00:48:48,680
+Ne moûe.
+VeÊ smo na 110%.
+
+822
+00:48:48,760 --> 00:48:49,960
+Onda mi daj 115%.
+
+823
+00:48:50,080 --> 00:48:52,680
+Udaljenost 2730 metara.
+
+824
+00:48:52,760 --> 00:48:54,680
+I strahovito brzo se smanjuje.
+
+825
+00:49:01,000 --> 00:49:03,400
+äta pokuöava da uradi,
+da se ubije?
+
+826
+00:49:03,440 --> 00:49:06,240
+Imamo proraËune da pucamo na rusku Alfu.
+
+827
+00:49:06,320 --> 00:49:07,680
+Moûemo li da uzvratimo?
+
+828
+00:49:07,720 --> 00:49:09,120
+Nisu pucali na nas.
+
+829
+00:49:09,280 --> 00:49:11,600
+Ne mogu da napadnem sovjetsku
+podmornicu bez dozvole.
+
+830
+00:49:14,120 --> 00:49:16,120
+Torpedo i dalje na 3-1-5.
+
+831
+00:49:16,280 --> 00:49:18,720
+Udaljenost... 810 metara.
+
+832
+00:49:19,920 --> 00:49:23,200
+Udar torpeda za...
+20 sekundi.
+
+833
+00:49:24,880 --> 00:49:26,000
+Kakve knjige?
+
+834
+00:49:27,560 --> 00:49:28,760
+Molim?
+
+835
+00:49:28,840 --> 00:49:30,360
+Kakve knjige ste pisali?
+
+836
+00:49:32,040 --> 00:49:36,080
+<i><b>Pisao sam biografiju o admiralu Holziju
+Borbeni mornar,</b></i>
+
+837
+00:49:36,200 --> 00:49:37,760
+o pomorskoj borbenoj taktici.
+
+838
+00:49:37,840 --> 00:49:39,280
+Znam tu knjigu.
+
+839
+00:49:39,400 --> 00:49:40,240
+Udar torpeda...
+
+840
+00:49:40,400 --> 00:49:42,680
+Vaöi zakljuËci
+su svi pogreöni Rajane.
+
+841
+00:49:42,760 --> 00:49:43,720
+Deset sekundi.
+
+842
+00:49:43,720 --> 00:49:45,840
+Holzi je postupio glupavo.
+
+843
+00:49:45,880 --> 00:49:47,120
+Devet...
+
+844
+00:49:47,240 --> 00:49:48,200
+Osam...
+
+845
+00:49:48,360 --> 00:49:49,840
+Sedam...
+
+846
+00:49:50,000 --> 00:49:50,960
+äest...
+
+847
+00:49:51,000 --> 00:49:51,920
+Pet...
+
+848
+00:49:52,040 --> 00:49:53,560
+»etiri...
+
+849
+00:49:53,560 --> 00:49:54,720
+Tri...
+
+850
+00:49:54,800 --> 00:49:55,680
+Dva...
+
+851
+00:49:55,720 --> 00:49:57,360
+Udar torpeda...
+
+852
+00:49:58,480 --> 00:49:59,880
+sad.
+
+853
+00:50:08,520 --> 00:50:10,720
+Nek' sam proklet.
+
+854
+00:50:12,120 --> 00:50:13,560
+äta se dogodilo?
+
+855
+00:50:13,680 --> 00:50:16,040
+Borbena taktika, gospodine Rajan.
+
+856
+00:50:16,080 --> 00:50:17,920
+Okretanjem prema torpedu,
+
+857
+00:50:18,040 --> 00:50:19,840
+kapetan je smanjio udaljenost
+
+858
+00:50:20,000 --> 00:50:22,320
+pre nego öto se torpedo aktivirao.
+
+859
+00:50:22,360 --> 00:50:24,040
+I to je sve?
+
+860
+00:50:24,200 --> 00:50:25,200
+Ne baö.
+
+861
+00:50:25,360 --> 00:50:26,760
+Upravo sada, kapetan Tupolov
+
+862
+00:50:26,800 --> 00:50:30,080
+uklanja sigurnosne zaötite s oruûja.
+
+863
+00:50:30,080 --> 00:50:32,920
+NeÊe napraviti istu greöku dva puta.
+
+864
+00:50:32,960 --> 00:50:35,680
+Vasilij, imaö li proraËune?
+
+865
+00:50:35,680 --> 00:50:38,080
+Imam kapetane.
+Malo su grubi, ali...
+
+866
+00:50:44,200 --> 00:50:45,280
+Pucnjava?
+
+867
+00:50:45,320 --> 00:50:47,360
+Tako je zvuËalo gospodine.
+
+868
+00:50:47,400 --> 00:50:48,920
+NeÊe promeniti miöljenje?
+
+869
+00:50:49,000 --> 00:50:50,400
+To je neko od posade.
+
+870
+00:50:50,440 --> 00:50:53,240
+Ko god bio,
+rekao bih da se premiölja.
+
+871
+00:51:10,120 --> 00:51:13,160
+Volio bih da sam video Montanu.
+
+872
+00:51:25,680 --> 00:51:28,600
+Kapetane, otiöao je u prostor
+s raketama.
+
+873
+00:51:28,640 --> 00:51:30,560
+Alarm u levom silosu...
+
+874
+00:51:30,680 --> 00:51:32,080
+broj 20.
+
+875
+00:51:32,120 --> 00:51:33,560
+Ne moûe da lansira raketu.
+
+876
+00:51:33,640 --> 00:51:36,800
+Ne, ali moûe da je raznese.
+
+877
+00:51:38,280 --> 00:51:39,680
+Kapetane, preuzmite most.
+
+878
+00:51:39,800 --> 00:51:41,480
+Kontrole za paljbu su uniötene.
+
+879
+00:51:41,480 --> 00:51:43,800
+Onda idite iza njega i ostanite tamo.
+
+880
+00:51:43,840 --> 00:51:44,760
+Kapetane, saËekajte.
+
+881
+00:51:48,280 --> 00:51:50,400
+Moûda vam zatreba ovo.
+
+882
+00:51:53,680 --> 00:51:54,840
+Hvala vam.
+
+883
+00:51:57,640 --> 00:52:00,440
+Nemoj samo stajati tu Rajane.
+Idi s njim!
+
+884
+00:52:00,480 --> 00:52:01,840
+Ti, govoriö li Engleski?
+
+885
+00:52:01,920 --> 00:52:02,840
+Da, gospodine.
+
+886
+00:52:02,920 --> 00:52:04,640
+Dovuci svoju bulju ovamo.
+
+887
+00:52:04,680 --> 00:52:07,200
+Kapetane,
+torpedo se raspao od udara.
+
+888
+00:52:07,240 --> 00:52:09,400
+Podesi osiguraËe udaljenosti na nulu.
+
+889
+00:52:09,440 --> 00:52:11,200
+Ne mogu brûe.
+
+890
+00:52:11,240 --> 00:52:12,640
+Moramo ga stiÊi pre
+
+891
+00:52:12,640 --> 00:52:14,560
+nego öto stigne do upaljaËa.
+
+892
+00:52:22,440 --> 00:52:25,760
+äta Êe se desiti ako stigne do njih?
+
+893
+00:52:25,760 --> 00:52:27,840
+Moûe da uniöti brod.
+
+894
+00:52:35,600 --> 00:52:39,320
+Ova vrata su jedini izlaz odavde?
+
+895
+00:52:39,360 --> 00:52:40,480
+Da.
+
+896
+00:52:40,560 --> 00:52:42,840
+Ne dozvolite vas da proe.
+
+897
+00:52:43,960 --> 00:52:45,600
+Hej, Rajan.
+
+898
+00:52:45,640 --> 00:52:48,920
+Budi paûljiv u öta pucaö.
+
+899
+00:52:48,960 --> 00:52:50,320
+VeÊina stvari ovde
+
+900
+00:52:50,400 --> 00:52:52,880
+ne podnosi najbolje metke.
+
+901
+00:52:55,680 --> 00:52:56,880
+U redu.
+
+902
+00:53:14,680 --> 00:53:17,720
+Ja trebam da pazim na
+öta pucam?
+
+903
+00:53:25,440 --> 00:53:27,280
+OsiguraËi udaljenosti na nuli.
+
+904
+00:53:27,320 --> 00:53:30,160
+Sonar, daj mi poloûaj
+Crvenog oktobra.
+
+905
+00:53:30,240 --> 00:53:31,600
+Iza nas je.
+
+906
+00:53:31,720 --> 00:53:33,000
+Punom snagom udesno!
+
+907
+00:53:33,080 --> 00:53:35,080
+OtreöÊu ga se.
+
+908
+00:53:41,120 --> 00:53:42,080
+Ide u dubinu.
+
+909
+00:53:42,120 --> 00:53:43,560
+30 stepeni prema dole!
+
+910
+00:53:43,720 --> 00:53:46,280
+Sve protivmere su bile tamo, taËno?
+
+911
+00:53:46,360 --> 00:53:47,240
+Vrlo dobro.
+
+912
+00:54:11,680 --> 00:54:13,560
+Admirale,
+Alfa je prebrza.
+
+913
+00:54:13,640 --> 00:54:15,600
+Samo je pitanje vremena.
+
+914
+00:54:15,680 --> 00:54:18,200
+<i><b>Rajane, neke stvari ovde</b></i>
+
+915
+00:54:18,320 --> 00:54:20,080
+<i><b>ne podnose najbolje metke.</b></i>
+
+916
+00:54:20,240 --> 00:54:20,960
+Da.
+
+917
+00:54:21,120 --> 00:54:22,320
+Kao i ja.
+
+918
+00:54:22,360 --> 00:54:24,920
+Ni ja ne podnosim metke.
+
+919
+00:54:42,560 --> 00:54:43,640
+Gde je sada?
+
+920
+00:54:43,680 --> 00:54:44,600
+Blizu, gospodine.
+
+921
+00:54:48,120 --> 00:54:50,080
+900 metara, ispred nas.
+
+922
+00:54:50,200 --> 00:54:51,160
+Imam ga.
+
+923
+00:54:51,200 --> 00:54:52,640
+OznaËi i pucaj.
+
+924
+00:54:52,680 --> 00:54:54,080
+Preblizu smo!
+
+925
+00:54:54,160 --> 00:54:55,960
+Bez pogovora.
+Lansiraj.
+
+926
+00:54:56,040 --> 00:54:58,680
+Torpeda su aktivirana u cevima!
+Ne moûete...
+
+927
+00:54:58,840 --> 00:55:00,000
+Pucaj odmah!
+
+928
+00:55:01,280 --> 00:55:04,720
+Joö jedno torpedo. Aktivirao se
+odmah po ispaljenju.
+
+929
+00:55:04,800 --> 00:55:08,000
+Punom snagom ulevo.
+Laköe na pramËanim krilcima.
+
+930
+00:55:08,080 --> 00:55:09,440
+Mislim da nas ima.
+
+931
+00:55:18,800 --> 00:55:20,840
+Bravo, Dalas!
+
+932
+00:55:25,800 --> 00:55:27,320
+Torpedo nas prati.
+
+933
+00:55:27,400 --> 00:55:29,280
+Udaljenost 450 metara
+i pribliûava se.
+
+934
+00:55:29,320 --> 00:55:31,200
+Uspeli ste, gospodine Tompson!
+
+935
+00:55:31,240 --> 00:55:32,600
+Nadam se da Êe ovo uspeti.
+
+936
+00:55:32,640 --> 00:55:35,000
+äefe, vodi nas na povröinu.
+
+937
+00:55:35,040 --> 00:55:38,520
+Protivmere na moj znak.
+Pet, Ëetiri...
+
+938
+00:55:41,240 --> 00:55:43,080
+Jedan. Izbaci protivmere.
+
+939
+00:55:43,120 --> 00:55:44,280
+Hitno izranjanje!
+
+940
+00:55:44,320 --> 00:55:46,160
+Pun izron na krmenim krilcima.
+
+941
+00:55:51,560 --> 00:55:52,760
+180 metara.
+
+942
+00:55:52,800 --> 00:55:54,440
+165 metara...
+
+943
+00:55:54,600 --> 00:55:56,480
+150 metara.
+
+944
+00:55:56,520 --> 00:55:57,400
+135...
+
+945
+00:55:57,440 --> 00:55:59,720
+Hajde veliki D.
+Leti.
+
+946
+00:56:11,840 --> 00:56:14,800
+...Kapetan ih je oterao!!!
+
+947
+00:56:18,040 --> 00:56:19,400
+Torpedo je joö aktivan.
+
+948
+00:56:19,480 --> 00:56:21,520
+Traûi novi cilj.
+
+949
+00:56:45,640 --> 00:56:47,640
+Prokleti kuvar!
+
+950
+00:57:15,160 --> 00:57:17,520
+Koliko je daleko Alfa, Dûonzi?
+
+951
+00:57:17,680 --> 00:57:19,120
+900 m, na levo.
+
+952
+00:57:19,120 --> 00:57:21,080
+Okreni na drugu stranu.
+
+953
+00:57:26,120 --> 00:57:28,480
+OkreÊemo se pravo prema njoj.
+
+954
+00:57:28,520 --> 00:57:30,240
+Torpedo je joö za naöim repom.
+
+955
+00:57:34,000 --> 00:57:36,440
+Teûi deo, kad igraö "kukavice", je
+
+956
+00:57:36,480 --> 00:57:38,560
+da znaö kad da skreneö.
+
+957
+00:57:43,840 --> 00:57:45,240
+Pribliûava se, 365 metara.
+
+958
+00:57:45,320 --> 00:57:46,480
+320...
+
+959
+00:57:46,520 --> 00:57:47,520
+275...
+
+960
+00:57:47,680 --> 00:57:49,280
+Kapetane!
+
+961
+00:57:49,320 --> 00:57:52,120
+Punom snagom desno,
+30 stepeni nadole.
+
+962
+00:57:52,160 --> 00:57:53,440
+Razumeo gospodine.
+
+963
+00:57:53,520 --> 00:57:55,400
+Ovo Êe biti blizu.
+
+964
+00:57:59,520 --> 00:58:00,880
+Torpedo ispred nas!
+
+965
+00:58:01,000 --> 00:58:03,160
+Arogantni gade.
+Ubio si nas.
+
+966
+00:58:30,080 --> 00:58:32,440
+Potvrdili smo poslednji
+poloûaj Crvenog oktobra
+
+967
+00:58:32,600 --> 00:58:34,520
+ali...
+
+968
+00:58:34,640 --> 00:58:36,640
+zbog dubine vode
+
+969
+00:58:36,640 --> 00:58:38,520
+i Ëinjenice da se olupina raspala
+
+970
+00:58:38,560 --> 00:58:40,480
+duû Ëitavog podruËja
+
+971
+00:58:40,600 --> 00:58:43,400
+proÊi Êe joö neko vreme
+dok neöto ne izvadi.
+
+972
+00:58:43,400 --> 00:58:46,200
+Vaöi ljudi ispituju posadu i
+
+973
+00:58:46,240 --> 00:58:48,640
+pripremaju za njihov povratak.
+
+974
+00:58:48,760 --> 00:58:51,560
+Ovo je bila straöna tragedija,
+gospodine ambasadore.
+
+975
+00:58:51,600 --> 00:58:53,480
+I mogu joö da kaûem,
+
+976
+00:58:53,480 --> 00:58:56,320
+da ste doöli ranije,
+
+977
+00:58:56,360 --> 00:58:58,240
+ovo je moglo da se izbegne.
+
+978
+00:58:58,360 --> 00:59:01,200
+Cenim vaöu iskrenost.
+
+979
+00:59:01,200 --> 00:59:03,560
+I ja vaöu, Andrej.
+
+980
+00:59:07,040 --> 00:59:08,360
+Moûda u buduÊnosti
+
+981
+00:59:08,440 --> 00:59:11,320
+Êemo imati tehnologiju
+kojom Êemo bolje ispitati
+
+982
+00:59:11,400 --> 00:59:12,680
+olupinu.
+
+983
+00:59:12,680 --> 00:59:14,560
+Moûda.
+
+984
+00:59:20,280 --> 00:59:22,320
+Ima joö neöto...
+
+985
+00:59:22,400 --> 00:59:24,400
+neugodno mi je...
+
+986
+00:59:24,480 --> 00:59:26,560
+Izvolite.
+
+987
+00:59:27,560 --> 00:59:29,960
+Jedna od naöim podmornica...
+Alfa...
+
+988
+00:59:30,000 --> 00:59:34,040
+zadnji put se javila iz zone
+Velikih obala.
+
+989
+00:59:34,120 --> 00:59:37,520
+Nismo je odavno Ëuli.
+
+990
+00:59:40,080 --> 00:59:41,480
+Andrej.
+
+991
+00:59:42,400 --> 00:59:44,760
+Izgubili ste joö jednu podmornicu?
+
+992
+00:59:51,760 --> 00:59:55,160
+<i>Reka Penobskot
+severno od Sirsporta, u Mejnu</i>
+
+993
+00:59:58,560 --> 01:00:02,760
+»itav ovaj put da bi sakrili
+podmornicu u reci.
+
+994
+01:00:02,800 --> 01:00:05,880
+Udaljeni smo 160 km od najbliûe
+mornariËke baze,
+
+995
+01:00:05,960 --> 01:00:08,920
+poslednje mesto koje Êe
+sateliti pretraûivati.
+
+996
+01:00:10,960 --> 01:00:12,920
+Odrastao sam ovde.
+
+997
+01:00:14,760 --> 01:00:17,200
+Moj deda me je uËio da pecam
+
+998
+01:00:17,280 --> 01:00:19,640
+na onom ostrvu tamo.
+
+999
+01:00:22,920 --> 01:00:24,320
+Jedno pitanje
+
+1000
+01:00:24,320 --> 01:00:26,440
+me joö niste pitali.
+
+1001
+01:00:28,080 --> 01:00:30,000
+Zaöto?
+
+1002
+01:00:31,560 --> 01:00:34,840
+Pa, mislio sam da Êete mi reÊi
+kad budete spremni.
+
+1003
+01:00:36,520 --> 01:00:38,880
+Postoje oni koji veruju da
+
+1004
+01:00:38,960 --> 01:00:41,760
+mi prvi moramo udariti na SAD,
+
+1005
+01:00:41,840 --> 01:00:44,440
+srediti sve jednim udarcem.
+
+1006
+01:00:44,480 --> 01:00:47,360
+Crveni oktobar je napravljen
+u tu svrhu.
+
+1007
+01:00:47,400 --> 01:00:49,800
+Kada se praöina slegne oko ovoga,
+
+1008
+01:00:49,840 --> 01:00:52,640
+biÊe guûve u Moskvi.
+
+1009
+01:00:52,720 --> 01:00:53,800
+Moûda.
+
+1010
+01:00:53,840 --> 01:00:56,640
+Moûda neöto dobro ispadne.
+
+1011
+01:00:56,680 --> 01:00:59,040
+Malo revolucije, sad ili onda,
+
+1012
+01:00:59,160 --> 01:01:02,040
+je zdravo, zar ne?
+
+1013
+01:01:07,920 --> 01:01:10,240
+Da li joö volite da pecate Rajane?
+
+1014
+01:01:12,920 --> 01:01:15,680
+Postoji jedna reka,
+sliËna ovoj,
+
+1015
+01:01:15,800 --> 01:01:16,720
+blizu Vilnijusa,
+
+1016
+01:01:16,760 --> 01:01:19,640
+gde me je moj deda uËio
+da pecam.
+
+1017
+01:01:22,520 --> 01:01:27,080
+<i><b>A more Êe svakom Ëoveku
+doneti nadu</b></i>
+
+1018
+01:01:27,120 --> 01:01:32,120
+<i><b>kao öto spavanje donosi snove.</b></i>
+
+1019
+01:01:36,680 --> 01:01:38,560
+Kristofer Kolumbo.
+
+1020
+01:01:43,000 --> 01:01:45,400
+Dobro doöli u Novi Svet,
+gospodine.
+
+1021
+01:01:54,720 --> 01:01:56,320
+Sve u redu gospodine?
+
+1022
+01:02:23,360 --> 01:02:31,360
+(c)2001 prevod adaptirao Bane
+mailto: banel@EUnet.yu
+
+1023
+01:02:32,305 --> 01:03:32,797
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/75wa2
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

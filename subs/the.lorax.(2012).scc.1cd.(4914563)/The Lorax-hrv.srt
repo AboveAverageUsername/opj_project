@@ -1,0 +1,3454 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:00:47,025 --> 00:00:49,331
+Bok! Hvala vam öto ste doöli.
+
+3
+00:00:51,348 --> 00:00:52,596
+Ja sam Lorax.
+
+4
+00:00:53,078 --> 00:00:54,903
+Predstavljam drveÊa.
+
+5
+00:00:55,000 --> 00:00:57,593
+I, ûelio bih reÊi par rijeËi.
+
+6
+00:00:57,882 --> 00:01:00,283
+O priËi koju Êe te vidjeti.
+
+7
+00:01:00,476 --> 00:01:02,878
+Zaista se dogodila,
+govori o meni.
+
+8
+00:01:03,455 --> 00:01:05,953
+Ali, ima viöe u priËi
+nego na stranici.
+
+9
+00:01:06,528 --> 00:01:10,179
+Molim vas, obratite pozornost
+dok ja postavljam pozornicu.
+
+10
+00:01:10,948 --> 00:01:15,847
+<i>PriËa zapoËinje u Thneedvilleu, grad
+za kojeg kaûu da je plastiËan i laûan,</i>
+
+11
+00:01:16,040 --> 00:01:17,769
+<i>i da im se takav ûivot svia.</i>
+
+12
+00:01:17,962 --> 00:01:21,516
+<i>Grad bez prirode, bez
+i jednog ûivuÊeg drveta.</i>
+
+13
+00:01:21,900 --> 00:01:23,438
+<i>Pa, öto im se dogodilo?</i>
+
+14
+00:01:23,535 --> 00:01:26,416
+<i>Zaustavite glazbu!
+Pa da vidimo...</i>
+
+15
+00:01:37,750 --> 00:01:41,550
+LORAX: ZAäTITNIK äUME
+
+16
+00:01:58,881 --> 00:02:05,028
+<i>U Thneedvilleu, doöla je nova zora.</i>
+
+17
+00:02:05,317 --> 00:02:09,255
+<i>S novim autima i kuÊama i biljkama.</i>
+
+18
+00:02:09,256 --> 00:02:12,234
+<i>Ovdje, u gradu "mi trebamo".</i>
+
+19
+00:02:12,331 --> 00:02:18,765
+<i>U Thneedvilleu, mi gradimo svoja drveÊa.</i>
+
+20
+00:02:19,439 --> 00:02:27,123
+<i>Svaki od njih napravljen je u
+tvornicima i koristi 96 baterija.</i>
+
+21
+00:02:27,220 --> 00:02:33,848
+<i>U Thneedvilleu, zrak je Ëist.</i>
+
+22
+00:02:34,040 --> 00:02:38,170
+<i>Kupili smo zrak.
+-Dolazi iz ovog stroja.</i>
+
+23
+00:02:38,171 --> 00:02:41,052
+<i>Ovo je grad zadovoljstva,
+zagarantirano.</i>
+
+24
+00:02:41,149 --> 00:02:52,387
+<i>U Thneedvilleu ne ûelimo znati gdje
+idu oblaci, praöina i kemikalije.</i>
+
+25
+00:02:52,484 --> 00:02:55,558
+<i>Samo plivaj i pali svjetlo.</i>
+
+26
+00:02:56,134 --> 00:02:59,784
+<i>U Thneedvilleu zabava traje
+cijelu godinu.</i>
+
+27
+00:02:59,785 --> 00:03:03,340
+<i>Mi surfamo i snowbordamo
+u gradu.</i>
+
+28
+00:03:03,341 --> 00:03:09,776
+<i>Zahvaljujemo Bogu za sve öto imamo,
+zajedno, i za novo parkiraliöte.</i>
+
+29
+00:03:10,800 --> 00:03:12,564
+<i>Parkiraliöte!</i>
+
+30
+00:03:12,640 --> 00:03:16,645
+<i>Parkiraliöte!</i>
+
+31
+00:03:19,958 --> 00:03:26,489
+<i>Pogledajte djeco, tamo je O`Hare!</i>
+
+32
+00:03:26,874 --> 00:03:30,908
+<i>»ovjeka koji je pronaöao
+naËin za prodaju zraka.</i>
+
+33
+00:03:31,100 --> 00:03:32,829
+<i>I, koji je postao multimilijunaö.</i>
+
+34
+00:03:33,023 --> 00:03:36,864
+<i>Hura! Hura!</i>
+
+35
+00:03:37,442 --> 00:03:41,572
+<i>U Thneedvilleu, ûelimo ûivjeti ovako.</i>
+
+36
+00:03:41,607 --> 00:03:44,455
+<i>Kao da si u raju!</i>
+
+37
+00:03:44,456 --> 00:03:45,416
+<i>Savröeno je.</i>
+
+38
+00:03:46,377 --> 00:03:48,585
+<i>I tako Êe i ostati!</i>
+
+39
+00:03:48,586 --> 00:03:50,892
+<i>Ovdje u gradu koji
+voli ûivot ûivljenja!</i>
+
+40
+00:03:50,893 --> 00:03:54,159
+<i>Predodreeni za grad,
+grad u kojem se sa svime slaûemo...</i>
+
+41
+00:03:54,160 --> 00:03:57,618
+<i>Sve öto trebamo imamo u</i>
+
+42
+00:03:57,715 --> 00:04:00,980
+<i>Thneedvilleu!</i>
+
+43
+00:04:39,114 --> 00:04:40,073
+To!
+
+44
+00:04:54,866 --> 00:04:56,306
+Bok, Ted.
+
+45
+00:04:57,267 --> 00:04:58,228
+Bok, Audrey.
+
+46
+00:04:59,478 --> 00:05:02,071
+Je li tvoja lopta opet
+pala u moje dvoriöte?
+
+47
+00:05:02,072 --> 00:05:05,434
+äto? Ne.
+Ovog puta, moj avion.
+
+48
+00:05:06,491 --> 00:05:10,045
+HoÊeö vidjeti neöto kul?
+Ui.
+
+49
+00:05:26,086 --> 00:05:27,526
+Jesi li ih ti nacrtala?
+
+50
+00:05:28,104 --> 00:05:31,273
+Svia ti se? -äto?
+Zezaö me?
+
+51
+00:05:31,950 --> 00:05:34,750
+Ovo je nevjerojatno! äto je to?
+
+52
+00:05:35,500 --> 00:05:40,111
+To su drveÊa, prava. Jednom su rasla posvuda.
+
+53
+00:05:41,456 --> 00:05:47,219
+Kaûu, da dodir njihovih liöÊa
+je bio meköi i od svile.
+
+54
+00:05:47,220 --> 00:05:49,428
+I mirisalo je kao mlijeko.
+
+55
+00:05:50,775 --> 00:05:53,368
+äto to znaËi?
+-Ja znam, ha?
+
+56
+00:05:57,211 --> 00:06:02,782
+Ono öto najviöe ûelim na cijelom svijetu
+jest da vidm ûivuÊe drvo,
+
+57
+00:06:03,070 --> 00:06:10,370
+koje raste u mom dvoriötu. -Kad bi,
+recimo, neki tip nekako nabavio jedan...
+
+58
+00:06:10,371 --> 00:06:12,196
+Pa, najvjerojatnije bih se
+udala za njega odmah.
+
+59
+00:06:12,677 --> 00:06:15,175
+Sigurno zvuËi ludo.
+Je li tako ludo?
+
+60
+00:06:15,176 --> 00:06:18,634
+Ne, ne zvuËi.
+Ne zvuËi ludo uopÊe.
+
+61
+00:06:26,223 --> 00:06:30,255
+Tede, duöo, ne igraj se s hranom.
+Ni ti, mama.
+
+62
+00:06:34,771 --> 00:06:42,167
+Mama, da li moûda znaö ima li negdje
+mjesto gdje mogu nabaviti pravo drvo?
+
+63
+00:06:42,168 --> 00:06:44,857
+Tede, imamo drveÊa.
+Najnoviji model.
+
+64
+00:06:44,858 --> 00:06:51,582
+Da, ali mislio sam na pravo drvo,
+öto raste iz zemlje.
+
+65
+00:06:51,870 --> 00:06:58,113
+Stvarno? éeliö komad prljave
+öume isturen iz zemlje?
+
+66
+00:06:58,114 --> 00:07:00,804
+Ne znam ni öto radi,
+ni Ëemu je svrha.
+
+67
+00:07:00,805 --> 00:07:03,686
+Pogledaj öto imamo ovdje.
+To je yucca-matic.
+
+68
+00:07:03,687 --> 00:07:05,608
+DrveÊa sa svojim vlastitim
+daljinskim upravljaËem.
+
+69
+00:07:05,609 --> 00:07:09,931
+Ljeto, jesen, zima i disko!
+
+70
+00:07:14,447 --> 00:07:16,655
+Mama? -Hajde, Tede, upusti se
+u glazbu. Pleöi s drvetom.
+
+71
+00:07:16,656 --> 00:07:18,673
+Oh, mama, boli me.
+Prestani s tim.
+
+72
+00:07:20,499 --> 00:07:25,014
+Recimo, treba mi drvo. Gdje bi
+ga mogao nabaviti? äto trebam uËiniti?
+
+73
+00:07:25,015 --> 00:07:27,895
+Znaö öto, trebaö pronaÊi
+Once-lera.
+
+74
+00:07:28,954 --> 00:07:34,908
+Koga? -Mama, nije vrijeme za
+jednu od tvojih Ëarobnih legendi.
+
+75
+00:07:35,293 --> 00:07:41,153
+Da, zaboravila sam. Stara sam i ne mogu
+se ni sjetiti jesam li stavila protezu.
+
+76
+00:07:41,154 --> 00:07:44,899
+Budi pribrana, nisam na to mislila.
+-Ne, stvarno, zaboravila sam protezu.
+
+77
+00:07:45,188 --> 00:07:47,685
+Budi dobra i donesi mi ih.
+
+78
+00:07:48,455 --> 00:07:49,607
+Naravno mama.
+
+79
+00:07:55,948 --> 00:08:00,173
+U redu, sluöaj. Once-lar je onaj
+koji zna öto se dogodilo drveÊima.
+
+80
+00:08:00,174 --> 00:08:03,632
+Ako ûeliö drvo, trebaö njega
+pronaÊi. -Once-ler?
+
+81
+00:08:05,073 --> 00:08:08,627
+Bako, govorimo li sada
+o istinitoj priËi?
+
+82
+00:08:08,820 --> 00:08:12,278
+On je stvaran! -Pa,
+gdje ga mogu pronaÊi?
+
+83
+00:08:15,066 --> 00:08:19,675
+<i>Daleko izvan grada gdje trava nikada
+ne raste, gdje vjetar</i>
+
+84
+00:08:19,676 --> 00:08:22,558
+<i>miriöe Ëudno, i kiselo
+kada puöe.</i>
+
+85
+00:08:25,536 --> 00:08:28,993
+<i>I, nijedna ptica ne pjeva,
+osim jedne stare vrane.</i>
+
+86
+00:08:31,876 --> 00:08:35,718
+äto Êu tamo!?
+-Tamo ûivi Once-lar.
+
+87
+00:08:35,719 --> 00:08:38,216
+»ekaj, izvan grada?
+
+88
+00:08:39,081 --> 00:08:48,109
+Ljudi kaûu, ako mu doneseö 15 centa,
+nokat i kuÊicu velikog puûa,
+
+89
+00:08:49,455 --> 00:08:51,953
+reÊi Êe ti sve.
+
+90
+00:09:46,412 --> 00:09:47,374
+IZVAN GRADA
+
+91
+00:09:52,464 --> 00:09:58,611
+Gos. O`Hare, ono öto imamo za vas
+Êe podiÊi zrak na veÊi nivo.
+
+92
+00:09:58,612 --> 00:10:05,143
+Znam öto mislite. Pod 1: Postao sam bogat
+prodavajuÊi svjeû mirasan zrak.
+
+93
+00:10:05,144 --> 00:10:08,314
+Pod 2: Najvaûnije, kako
+Êu doÊi do joö novca?
+
+94
+00:10:08,987 --> 00:10:13,117
+ReÊi Êemo vam!
+-Pogledajte ovu reklamu.
+
+95
+00:10:16,288 --> 00:10:18,593
+<i>Dolazi joö jedna
+dosadna subota.</i>
+
+96
+00:10:18,786 --> 00:10:20,804
+<i>Prijatelju, ne mislim tako!</i>
+
+97
+00:10:38,093 --> 00:10:40,878
+<i>O`Harov Ëisti zrak.
+Svjeûina te obuzima.</i>
+
+98
+00:10:40,879 --> 00:10:42,127
+<i>Molimo vas,
+diöite odgovorno.</i>
+
+99
+00:10:43,569 --> 00:10:45,202
+O moj Boûe!
+-Zavoljet Êe. -Da.
+
+100
+00:10:45,587 --> 00:10:50,389
+Sigurno se öalite. Mislite li stvarno
+da su ljudi glupi da bi to kupovali?
+
+101
+00:10:50,774 --> 00:10:54,040
+Naöa istraûivanja pokazuju, ako
+neöto stavite u plastiËnu bocu,
+
+102
+00:10:54,041 --> 00:10:56,154
+ljudi Êe to kupovati!
+-ToËno! I...
+
+103
+00:10:56,155 --> 00:10:59,997
+Ako izgradite novu tvornicu da
+napravite plastiËne boce,
+
+104
+00:10:59,998 --> 00:11:04,800
+kvaliteta zraka Êe se pogoröati. -A to
+Êe ljude natjerati da kupuju naö zrak.
+
+105
+00:11:04,801 --> 00:11:07,683
+I odvest Êe nas, gdje?
+Prema gore!
+
+106
+00:11:07,972 --> 00:11:15,368
+Drugim rijeËima, viöe dima na
+nebu, viöe Êe ljudi kupovati.
+
+107
+00:11:18,250 --> 00:11:21,035
+Zato je genij!
+»ak se i rimuje.
+
+108
+00:11:21,420 --> 00:11:23,629
+Odakle ti rime?
+
+109
+00:11:26,032 --> 00:11:28,529
+äto vas dva idiota ûelite?
+Usred sam sastanka!
+
+110
+00:11:29,778 --> 00:11:30,739
+OPREZ!
+
+111
+00:11:31,316 --> 00:11:35,735
+äto!? Zaöto napuöta grad?
+Nitko ne napuöta grad!
+
+112
+00:11:36,313 --> 00:11:37,561
+Vidite öto smjera.
+
+113
+00:12:47,180 --> 00:12:48,150
+Oh, ËovjeËe.
+
+114
+00:13:47,680 --> 00:13:49,125
+U redu.
+
+115
+00:14:14,503 --> 00:14:15,464
+ONCE-LER
+
+116
+00:14:39,285 --> 00:14:40,246
+Tko si ti!?
+
+117
+00:14:40,630 --> 00:14:42,648
+Tko si ti i öto radiö ovdje!?
+
+118
+00:14:42,841 --> 00:14:43,801
+Zovem se Ted!
+
+119
+00:14:46,972 --> 00:14:50,333
+Jesi li ti Once-ler?
+-Jesi li Ëitao znakove?
+
+120
+00:14:50,623 --> 00:14:52,255
+Nitko nije trebao doÊi ovdje!
+
+121
+00:14:52,832 --> 00:14:54,177
+Odlazi i pusti me na miru!
+
+122
+00:14:55,139 --> 00:14:57,827
+Pazi da te Ëizma ne udari
+kad odlaziö! -»izma?
+
+123
+00:14:58,360 --> 00:14:59,361
+Alo!
+
+124
+00:15:00,902 --> 00:15:05,705
+Pusluöaj me! Ljudi kaûu da ako ti donesem
+ove stvari da Êeö priËati o drveÊima.
+
+125
+00:15:09,520 --> 00:15:10,681
+DrveÊa?
+
+126
+00:15:11,500 --> 00:15:15,310
+Da, prava drveÊa. Koji rastu iz zemlje.
+
+127
+00:15:16,320 --> 00:15:17,401
+Alo?
+
+128
+00:15:18,192 --> 00:15:22,034
+Oprosti. Samo... Mislim da nema
+nikog koga je briga za drveÊa.
+
+129
+00:15:22,035 --> 00:15:25,589
+Taj sam, onaj kojeg je
+briga. Ovdje sam.
+
+130
+00:15:28,760 --> 00:15:31,737
+éeliö znati o drveÊima?
+éeliö znati öto im se dogodilo?
+
+131
+00:15:32,891 --> 00:15:36,252
+Pa, viöe ih nema.
+Zbog mene.
+
+132
+00:15:37,022 --> 00:15:37,982
+äto?
+
+133
+00:15:43,169 --> 00:15:44,898
+Zbog mene ih nema!
+
+134
+00:15:46,600 --> 00:15:50,082
+I mog izuma, Thneeda.
+
+135
+00:15:51,047 --> 00:15:55,178
+Bio je nevjerojatan produkt,
+koji je radio posao od 1000 ljudi.
+
+136
+00:15:56,331 --> 00:15:59,693
+U redu. ZvuËi suludo,
+ali je kul.
+
+137
+00:15:59,694 --> 00:16:01,327
+Dakako da je kul.
+
+138
+00:16:02,864 --> 00:16:05,169
+Davno je sve zapoËelo.
+
+139
+00:16:06,131 --> 00:16:09,685
+Molim te, nemoj tako davno.
+-éeliö li drvo? -Da.
+
+140
+00:16:10,838 --> 00:16:13,720
+E, onda je sve zapoËelo
+davno, davno.
+
+141
+00:16:16,795 --> 00:16:19,292
+<i>Bio sam mladiÊ koji napuöta dom.</i>
+
+142
+00:16:19,389 --> 00:16:23,038
+Pa, mama, idem ja, promijeniti
+svijet sa svojim Thneedom.
+
+143
+00:16:24,960 --> 00:16:31,875
+Stvarno Êu to napraviti. -Da, ali
+se sjeti, ako si nekako pri porazu
+
+144
+00:16:31,876 --> 00:16:36,582
+umjesto uspjeha, uopÊe me
+ne bi iznenadilo!
+
+145
+00:16:38,409 --> 00:16:40,426
+Lijepi kotaËi.
+Raspali!
+
+146
+00:16:43,308 --> 00:16:47,150
+Da, raspali. Vidjet Êe te,
+dokazat Êu vam da nemate pravo.
+
+147
+00:16:47,823 --> 00:16:49,072
+Idemo, Melvine.
+
+148
+00:16:49,553 --> 00:16:54,643
+<i>Tada sam bio na dnu, sa sobom
+samo vagonom i potpunim</i>
+
+149
+00:16:54,644 --> 00:16:58,006
+<i>iracionalnim optimizmom.</i>
+
+150
+00:17:02,810 --> 00:17:07,708
+<i>Traûio sam po svijetu, opsjednut
+da pronaem savröen materijal za Thneed.</i>
+
+151
+00:17:09,919 --> 00:17:12,031
+<i>Ali nisam imao uspjeha.</i>
+
+152
+00:17:12,896 --> 00:17:17,506
+<i>Sve do jednog dana,
+kada sam pronaöao raj.</i>
+
+153
+00:17:18,756 --> 00:17:21,637
+Uskoro Êemo stiÊi, siguran sam kao...
+
+154
+00:17:31,243 --> 00:17:37,582
+Ovo je najljepöe mjesto
+koje sam ikad vidio.
+
+155
+00:17:39,312 --> 00:17:40,273
+Bok!
+
+156
+00:18:16,675 --> 00:18:18,116
+To je to!
+
+157
+00:18:20,711 --> 00:18:23,112
+<i>Ovo je mjesto!</i>
+
+158
+00:18:24,169 --> 00:18:34,061
+<i>Ova drveÊa su baö ono öto sam ûelio.
+Odrezat Êu jedno i napraviti svoj Thneed.</i>
+
+159
+00:18:34,736 --> 00:18:36,368
+<i>Ali, prvo...</i>
+
+160
+00:18:40,307 --> 00:18:41,459
+Sada vi!
+
+161
+00:18:43,958 --> 00:18:44,918
+OdliËno!
+
+162
+00:18:56,253 --> 00:18:58,557
+<i>Sada naöe prijateljstvo
+moûe zapoËeti,</i>
+
+163
+00:18:58,558 --> 00:19:04,417
+<i>ruku pod ruku, krilo pod krilo, nema
+niËeg öto ja i ti ne moûemo uraditi.</i>
+
+164
+00:19:04,418 --> 00:19:06,916
+<i>Sada, ostvarujem svoje snove.</i>
+
+165
+00:19:27,472 --> 00:19:29,680
+DeËki, öto je?
+
+166
+00:19:30,257 --> 00:19:31,699
+Sa vaöom podrökom, naravno.
+
+167
+00:19:34,196 --> 00:19:35,156
+äto!?
+
+168
+00:20:14,057 --> 00:20:16,554
+<i>»ekaj. »ekaj sekund.</i>
+
+169
+00:20:17,036 --> 00:20:17,996
+Molim?
+
+170
+00:20:19,342 --> 00:20:23,471
+Super je. Hraniti junk foodom
+ûivotinje u öumi. OdliËno je.
+
+171
+00:20:23,953 --> 00:20:27,026
+Ali, ima li glazbena koreografija
+pomoÊu koje mogu nabaviti drvo?
+
+172
+00:20:27,411 --> 00:20:31,637
+Volio sam i ovu. -Oh, da, kao i
+koreografiju o djeËaku koji
+
+173
+00:20:31,638 --> 00:20:35,288
+je smetao u prepriËavanju priËe
+i viöe se niöta o njemu nije Ëulo.
+
+174
+00:20:37,018 --> 00:20:37,979
+Nastavi.
+
+175
+00:20:39,131 --> 00:20:40,476
+U redu, idemo.
+
+176
+00:20:41,150 --> 00:20:43,935
+Napravit Êu Thneed koji Êe
+promijeniti svijet.
+
+177
+00:21:15,824 --> 00:21:16,976
+Pogledajte, deËki.
+
+178
+00:21:18,514 --> 00:21:19,475
+Gdje su svi?
+
+179
+00:21:25,911 --> 00:21:30,809
+Nisam znao da, ruöenjem tog
+drveta upravo sam prizvao
+
+180
+00:21:30,810 --> 00:21:33,692
+mistiËno stvorenje koje je staro
+kao samo vrijeme.
+
+181
+00:21:34,653 --> 00:21:37,726
+Legendarnog, malo dosadnog,
+
+182
+00:21:38,400 --> 00:21:39,841
+Ëuvara öume...
+
+183
+00:21:41,090 --> 00:21:42,531
+Loraxa.
+
+184
+00:22:28,058 --> 00:22:30,075
+äto... äto ste...
+
+185
+00:23:35,292 --> 00:23:36,253
+Bok!
+
+186
+00:23:37,790 --> 00:23:39,135
+Jesi li ti sruöio ovo drvo?
+
+187
+00:23:40,289 --> 00:23:41,249
+Ne.
+
+188
+00:23:42,499 --> 00:23:43,459
+Tko je onda?
+
+189
+00:23:44,517 --> 00:23:45,478
+äto je ono!?
+
+190
+00:23:47,111 --> 00:23:48,455
+Mislim da je on.
+
+191
+00:23:51,242 --> 00:23:53,931
+Uzmi sjekiru i odlazi.
+
+192
+00:23:55,085 --> 00:23:56,430
+I... Tko si ti?
+
+193
+00:23:57,199 --> 00:24:00,272
+Ja sam Lorax, Ëuvar öume!
+
+194
+00:24:00,850 --> 00:24:02,098
+Predstavljam drveÊa!
+
+195
+00:24:04,693 --> 00:24:08,534
+Govoriö mi da nisi vidio moj
+Ëarobni dolazak iz onog panja!?
+
+196
+00:24:08,632 --> 00:24:12,473
+Sa svim munjama i gromovima!
+Nisi vidio niöta od tog? -Ne!
+
+197
+00:24:12,474 --> 00:24:14,876
+Ali, zvuËi nevjerojatno!
+Mogu li vidjeti neöto takvo?
+
+198
+00:24:14,877 --> 00:24:18,718
+Pa, da, mogao bih ti pokazati.
+Ali to ne radi tako!
+
+199
+00:24:19,007 --> 00:24:21,504
+U redu, je li se zaista dogodilo?
+
+200
+00:24:22,370 --> 00:24:30,438
+Znam öto ûeliö. Imam ovo za najslaeg
+lika kojeg sam ikad vidio.
+
+201
+00:24:33,321 --> 00:24:35,818
+Kako se usuujeö!?
+Daj mi to!
+
+202
+00:24:38,796 --> 00:24:42,062
+Pojest Êu ovo, ali
+sam jako povrijeen!
+
+203
+00:24:47,826 --> 00:24:51,283
+äto... Prestani s tim!
+
+204
+00:24:53,013 --> 00:24:56,470
+Koji je tvoj problem?
+-Vrijeme ti je za polazak!
+
+205
+00:25:04,540 --> 00:25:06,653
+Stani! Prestani!
+
+206
+00:25:07,614 --> 00:25:12,512
+éeliö ËekiÊarit jedno od
+prirodnih nevinih stvorenja?
+
+207
+00:25:13,762 --> 00:25:16,836
+äto? Ne. Ne bih ga
+nikad udario.
+
+208
+00:25:16,932 --> 00:25:21,159
+Ali, tebe i tvoje brkove rado
+bih zatrpao u zemlju.
+
+209
+00:25:21,160 --> 00:25:25,386
+Pogledajte, napadaË i
+njegovi nasilni naËini!
+
+210
+00:25:25,867 --> 00:25:29,228
+Sram te bilo, za sram!
+
+211
+00:25:30,286 --> 00:25:33,840
+Znate öta, to je to. Sluöaj me sada
+mesna ötruco!
+
+212
+00:25:33,841 --> 00:25:35,762
+Sruöit Êu onoliko drveÊa
+koliko mi treba.
+
+213
+00:25:35,763 --> 00:25:38,452
+U redu, evo novosti...
+Ne idem nikamo!
+
+214
+00:25:40,086 --> 00:25:41,335
+Kraj priËe!
+
+215
+00:25:42,776 --> 00:25:44,216
+Onda mi ne ostavljaö izbora.
+
+216
+00:25:47,100 --> 00:25:50,749
+Ako ne odeö kada sunce
+zae u ovoj dolini,
+
+217
+00:25:50,846 --> 00:25:54,745
+sve sile prirode Êe biti puötene
+
+218
+00:25:54,780 --> 00:25:58,644
+i prokleti te do kraja ûivota!
+
+219
+00:25:58,800 --> 00:26:02,486
+Upozoren si.
+
+220
+00:26:08,711 --> 00:26:12,745
+Hvala. -Ma, niöta.
+-Upozoren si!
+
+221
+00:26:13,515 --> 00:26:18,221
+Ali, nisam ga posluöao. I, neÊeö
+vjerovati öto se dogodilo?
+
+222
+00:26:18,222 --> 00:26:21,680
+äto!? -Ako ûeliö Ëuti joö toga
+doi opet sutra.
+
+223
+00:26:22,065 --> 00:26:23,698
+»ekaj, Ëekaj! Sutra!?
+
+224
+00:26:26,676 --> 00:26:28,117
+Ti to ozboljno?
+
+225
+00:26:29,079 --> 00:26:33,401
+éiviö usred niËeg! Smrdi,
+nemoj me tjerati da se vraÊam!
+
+226
+00:26:33,402 --> 00:26:35,610
+Pretpostavljam da ne ûeliö
+Ëuti ostatak priËe.
+
+227
+00:26:41,375 --> 00:26:45,793
+Ne, ne! Stvarno ûelim!
+éelim Ëuti priËu, samo...
+
+228
+00:26:46,371 --> 00:26:50,308
+Nemaö ono öto treba. Zbogom!
+-»ekaj, imam ono öto treba!
+
+229
+00:26:54,631 --> 00:26:57,609
+U redu je, vratit Êu se!
+Nije mi problem!
+
+230
+00:26:58,080 --> 00:27:01,766
+Pogledaj me, odlazim!
+Odlazim sada.
+
+231
+00:27:02,040 --> 00:27:03,326
+Vidimo se sutra.
+
+232
+00:27:05,840 --> 00:27:08,923
+Moûda. Samo moûda.
+
+233
+00:27:10,673 --> 00:27:13,938
+Sretan ti roendan!
+
+234
+00:27:18,550 --> 00:27:21,431
+äto si zaûeljela, Audrey?
+-Htjela bih vam reÊi, ali,
+
+235
+00:27:21,432 --> 00:27:24,698
+naûalost, prema Svemirskim zakonima
+ûelja, ne mogu vam reÊi.
+
+236
+00:27:26,620 --> 00:27:28,541
+Znam öto si zaûeljela.
+
+237
+00:27:40,260 --> 00:27:41,412
+Je li moûda...
+
+238
+00:27:43,334 --> 00:27:44,294
+Ovo?
+
+239
+00:27:52,939 --> 00:27:57,838
+Tede, uspio si.
+-Ne, totalno sam uspio.
+
+240
+00:27:58,030 --> 00:28:00,720
+Sretan roendan, Audrey.
+
+241
+00:28:01,969 --> 00:28:04,274
+Poljubi ga, poljubi ga,
+poljubi ga!
+
+242
+00:28:16,282 --> 00:28:23,006
+Tede? Opet to ljubiö, duöo.
+-äto? Samo...
+
+243
+00:28:23,007 --> 00:28:26,175
+Volim ove pahuljice.
+Jesu li? Da!
+
+244
+00:28:26,210 --> 00:28:27,445
+U redu.
+
+245
+00:28:27,600 --> 00:28:30,126
+Pa, onda Êu se potruditi da kupim
+ekstra viöe za tebe sljedeÊi puta.
+
+246
+00:28:30,691 --> 00:28:33,478
+U redu, kul, moram iÊi,
+neöto uraditi.
+
+247
+00:28:33,479 --> 00:28:35,687
+Pa, vidimo se.
+
+248
+00:28:37,417 --> 00:28:41,259
+Nigdje ne ideö. Nedjelja je,
+znaö öto to znaËi.
+
+249
+00:28:41,260 --> 00:28:44,525
+Vrijeme za obitelj i svi
+igramo druötvene igre.
+
+250
+00:28:44,526 --> 00:28:45,583
+Ali...
+
+251
+00:28:51,923 --> 00:28:54,420
+Mama, baö na svakom potezu?
+-Odmakni se.
+
+252
+00:28:57,687 --> 00:29:00,952
+Ne. -U redu! Vrijeme
+za obitelj je zavröilo.
+
+253
+00:29:00,953 --> 00:29:04,507
+Sada je vrijeme za...
+Bit Êu u svojoj sobi.
+
+254
+00:29:05,757 --> 00:29:07,389
+U redu, duöo. Zabavi se!
+
+255
+00:29:10,656 --> 00:29:13,153
+Poput prekidaËa si.
+Idi!
+
+256
+00:29:14,018 --> 00:29:16,036
+Idi, vidjeti ga.
+-Oh, da!
+
+257
+00:29:18,246 --> 00:29:20,071
+Zakon si! Hvala, bako!
+
+258
+00:29:40,434 --> 00:29:42,066
+Bok! Ted, zar ne?
+
+259
+00:29:44,181 --> 00:29:48,407
+Gos. O`Hare? -»ujem da
+su te poËela zanimati drveÊa.
+
+260
+00:29:49,080 --> 00:29:49,848
+O Ëemu je tu rijeË?
+
+261
+00:29:53,114 --> 00:29:54,075
+Gdje ste to Ëuli?
+
+262
+00:29:55,708 --> 00:29:58,782
+Tede, nema puno toga öto ja
+ne znam u Thneedvilleu.
+
+263
+00:29:59,359 --> 00:30:02,913
+Evo o Ëemu je rijeË. Stvaram si
+ûivot prodavajuÊi svjeûi zrak.
+
+264
+00:30:03,107 --> 00:30:05,220
+DrveÊa? Oni to rade besplatno.
+
+265
+00:30:06,181 --> 00:30:11,464
+Kad Ëujem ljude da priËaju o njima,
+smatram to prijetnjom svom poslu.
+
+266
+00:30:12,617 --> 00:30:16,363
+Ne znam ni o Ëemu priËate.
+-Sluöaj me, deËko!
+
+267
+00:30:16,652 --> 00:30:19,726
+Ne mijeöaj se u stvari
+koje ne razumijeö!
+
+268
+00:30:20,111 --> 00:30:22,127
+Ili Êu ti biti najgora
+noÊna mora!
+
+269
+00:30:22,128 --> 00:30:25,011
+Ja sam Frankensteinova glava
+na tijelu pauka!
+
+270
+00:30:28,373 --> 00:30:30,582
+U redu, mama me oËekuje.
+Idem ja.
+
+271
+00:30:31,160 --> 00:30:34,809
+Naravno, sada se vrati
+obiteljskim igrama, sinko.
+
+272
+00:30:35,386 --> 00:30:37,884
+Baka je zavröila potez.
+
+273
+00:30:38,653 --> 00:30:39,902
+Kako ste znali?
+
+274
+00:30:40,671 --> 00:30:42,976
+Molim te, imam oËi posvuda.
+
+275
+00:30:48,355 --> 00:30:53,926
+Imaö ovdje predivan grad, Tede! Puno
+zabavnih stvari koji te zaokupe.
+
+276
+00:30:54,311 --> 00:31:00,555
+Ne mogu se niËeg sjetit zaöto bi
+mogao napustiti grad, opet!
+
+277
+00:31:01,131 --> 00:31:02,092
+Ikad!
+
+278
+00:31:07,240 --> 00:31:11,290
+U redu! Dobar razgovor.
+Stvarno dobar.
+
+279
+00:31:35,998 --> 00:31:36,959
+O, ne.
+
+280
+00:31:41,954 --> 00:31:45,220
+»ovjeËe, trebao bi promijeniti
+to zvono na vratima.
+
+281
+00:31:46,469 --> 00:31:49,255
+Falio sam ti. -äto?
+-Pa, vratio si se.
+
+282
+00:31:49,256 --> 00:31:51,369
+Jasno je, falio sam ti.
+Malo.
+
+283
+00:31:51,850 --> 00:31:56,269
+Je li tako!? -Ne, nisam. Ovdje
+sam kako bih Ëuo kraj priËe.
+
+284
+00:31:56,270 --> 00:31:59,151
+Zaöte te uopÊe zanimaju drveÊa?
+Zaöto nisi poput ostale djece?
+
+285
+00:31:59,344 --> 00:32:03,666
+Breakdance, noseÊi zvona
+i igrajuÊi Donkey Konga.
+
+286
+00:32:05,300 --> 00:32:06,453
+Da.
+
+287
+00:32:06,742 --> 00:32:12,312
+Pa, ne znam. Ja samo ûelim
+biti kul i imati jedno.
+
+288
+00:32:13,561 --> 00:32:17,115
+U pitanju je cura, zar ne?
+-äto? Ne!
+
+289
+00:32:17,116 --> 00:32:21,535
+Stvarno? Kad lik uËini neöto glupo,
+razlog je zato öto je faca.
+
+290
+00:32:21,536 --> 00:32:26,818
+Ali, kad tu istu glupost uËini dva
+puta, ûeli zadiviti neku curu.
+
+291
+00:32:27,012 --> 00:32:29,892
+Nije samo neka
+cura! éena je!
+
+292
+00:32:30,278 --> 00:32:33,160
+U srednjoj ökoli.
+I, voli drveÊa.
+
+293
+00:32:33,737 --> 00:32:34,889
+I ûelim joj jedno nabaviti.
+
+294
+00:32:36,138 --> 00:32:39,788
+Kako je lijepo nekog vidjeti
+zaokupljenog stvarima poput stvarnosti.
+
+295
+00:32:40,750 --> 00:32:41,710
+Hvala.
+
+296
+00:32:41,711 --> 00:32:42,959
+U redu, gdje smo stali?
+
+297
+00:33:04,091 --> 00:33:06,013
+E, pa to je Thneed!
+
+298
+00:33:06,397 --> 00:33:09,087
+Nema niöta nemuûevnog u
+pletenju. Ne, gospodine.
+
+299
+00:33:30,315 --> 00:33:32,140
+Gledaj!
+
+300
+00:33:33,773 --> 00:33:35,886
+Tko vas je uËio kako krasti krevet?
+
+301
+00:34:01,052 --> 00:34:02,204
+U redu, lijepo i polagano.
+
+302
+00:34:09,697 --> 00:34:12,770
+Dobro obavljeno. Ne bi
+to mogao bez vas.
+
+303
+00:34:15,268 --> 00:34:16,613
+Ma, öaliö se?
+
+304
+00:34:17,286 --> 00:34:18,247
+Moûe li plivati?
+
+305
+00:34:19,113 --> 00:34:22,762
+Naravno da ne moûe.
+Drûi se, dolazim po tebe!
+
+306
+00:34:27,855 --> 00:34:30,159
+Hej, ribice, zaustavite krevet!
+
+307
+00:34:40,725 --> 00:34:41,685
+SkaËite! SkaËite!
+
+308
+00:34:42,744 --> 00:34:44,088
+Popnite se gore!
+
+309
+00:34:45,050 --> 00:34:46,009
+Hajde! Hajde!
+
+310
+00:34:46,010 --> 00:34:46,972
+Joö malo!
+
+311
+00:34:50,142 --> 00:34:51,102
+äto sad?
+
+312
+00:34:59,268 --> 00:35:02,341
+U redu, Pipsqueak, daj mi ruku!
+Seûi za Loraxom.
+
+313
+00:35:05,416 --> 00:35:06,376
+Kamo Êeö?
+
+314
+00:35:09,520 --> 00:35:10,726
+Bar-ba-looti.
+
+315
+00:35:19,632 --> 00:35:20,783
+Oh, to je loöe!
+
+316
+00:35:24,819 --> 00:35:26,548
+Probudi se!
+
+317
+00:35:35,385 --> 00:35:37,114
+äto se dogaa?
+Gdje sam?
+
+318
+00:35:38,267 --> 00:35:40,957
+Imate problema!
+I dolazi brzo!
+
+319
+00:36:08,812 --> 00:36:09,773
+Oh, ne.
+
+320
+00:36:12,654 --> 00:36:13,998
+UËini neöto!
+
+321
+00:36:15,153 --> 00:36:16,401
+PomoÊ stiûe!
+
+322
+00:36:22,741 --> 00:36:23,702
+Joö malo!
+
+323
+00:36:44,929 --> 00:36:45,890
+Ne!
+
+324
+00:36:49,348 --> 00:36:50,694
+Probudi se!
+
+325
+00:36:58,667 --> 00:36:59,626
+»isto!
+
+326
+00:37:03,950 --> 00:37:07,312
+Iöao sam prema svjetlu, a
+vi ste me vratili i evo me!
+
+327
+00:37:07,504 --> 00:37:11,538
+Spasio si me! -Da, jesam.
+Nije velika stvar.
+
+328
+00:37:11,732 --> 00:37:15,573
+Velika je stvar! Skoro sam
+pao niz onaj vodopad!
+
+329
+00:37:18,263 --> 00:37:20,184
+Kako je moj krevet
+dospio u rijeku?
+
+330
+00:37:21,146 --> 00:37:22,299
+äta se tiËe toga...
+
+331
+00:37:23,644 --> 00:37:25,180
+Zapravo...
+
+332
+00:37:25,277 --> 00:37:26,814
+Ja sam ga odnio u vodu.
+
+333
+00:37:28,352 --> 00:37:32,098
+Nisam mislio niöta loöe. éelio
+sam te smiriti kad odploviö.
+
+334
+00:37:32,868 --> 00:37:35,269
+Gledaj, svima ovdje
+potrebna su drveÊa!
+
+335
+00:37:35,557 --> 00:37:37,095
+A ti ih ruöiö!
+
+336
+00:37:38,247 --> 00:37:40,841
+Pa, tako imamo veliki problem!
+
+337
+00:37:47,181 --> 00:37:52,464
+Gledajte, kunem se da viöe
+nikada neÊu sruöiti i jedno drvo!
+
+338
+00:37:53,713 --> 00:37:54,961
+ObeÊajem.
+
+339
+00:37:55,539 --> 00:37:58,805
+Hvala ti. Ali Êu drûati
+oko na tebi.
+
+340
+00:37:59,094 --> 00:38:02,936
+Dobro. Sutra mi je veliki dan.
+Idem se malo naspavati.
+
+341
+00:38:05,818 --> 00:38:07,643
+»im pronaem svoj krevet.
+
+342
+00:38:28,440 --> 00:38:30,522
+U redu, öto ti...
+
+343
+00:38:32,713 --> 00:38:34,635
+Pitanje. äto oni rade ovdje?
+
+344
+00:38:36,748 --> 00:38:39,245
+I, öto ti radiö ovdje!?
+
+345
+00:38:40,303 --> 00:38:45,298
+Nakon onog juËer, pronaöli smo jednu
+tvoju Ëarapu i htjeli smo ti je vratiti.
+
+346
+00:38:45,299 --> 00:38:47,796
+Ali, kad smo doöli ovdje,
+spavao si.
+
+347
+00:38:49,238 --> 00:38:53,944
+Upravo tako. Spavanje je naËin koji
+pokazuje drugima da otiu.
+
+348
+00:38:53,945 --> 00:38:59,804
+Znam, ali, izgledao si tako slatko. I,
+bilo je hladno vani, samo smo zaspali.
+
+349
+00:39:00,093 --> 00:39:02,398
+Bez uvrede.
+-Bez uvrede!
+
+350
+00:39:05,280 --> 00:39:08,738
+Tu sam stavljao svoja usta.
+Bio sam stavljao.
+
+351
+00:39:12,101 --> 00:39:14,021
+Jesi li upravo... U moju zdjelu!
+
+352
+00:39:17,672 --> 00:39:20,650
+Zaöto imaö ovo?
+Ti i nemaö bradu.
+
+353
+00:39:22,859 --> 00:39:26,413
+To je to! -äto? Mislio
+sam da smo imali dogovor.
+
+354
+00:39:26,414 --> 00:39:30,256
+Da, jesmo. I, rekao sam da
+viöe neÊu ruöiti drveÊa.
+
+355
+00:39:30,257 --> 00:39:32,178
+A ja sam rekao da Êu
+imati oko na tebi.
+
+356
+00:39:32,179 --> 00:39:34,100
+Umirem od gladi.
+äto ima za doruËak?
+
+357
+00:39:36,983 --> 00:39:38,615
+DoruËak je gotov.
+
+358
+00:39:40,345 --> 00:39:42,843
+Znaö öto? Imam posla.
+
+359
+00:39:43,228 --> 00:39:47,166
+Moram u grad i prodati
+svoj Thneed.
+
+360
+00:39:48,512 --> 00:39:51,969
+Sruöio si jedno od mojih drveÊa
+da bi napravio to smeÊe!?
+
+361
+00:39:51,970 --> 00:39:54,083
+Pogledaj to...
+-SmeÊe?
+
+362
+00:39:54,468 --> 00:39:57,637
+Ne! Oh, ne!
+Nisi shvatio!
+
+363
+00:39:57,831 --> 00:40:02,537
+Ovo je revolucionarni produkt.
+Promijenit Êe svijet kakvog znamo!
+
+364
+00:40:02,640 --> 00:40:03,971
+Ima milijun naËina za koriötenje.
+
+365
+00:40:04,720 --> 00:40:07,610
+Pogledaj ovo.
+KupaÊi kostim!
+
+366
+00:40:07,800 --> 00:40:10,167
+Oh, pogledaj pod! A ja sam
+pozvao goste!
+
+367
+00:40:11,280 --> 00:40:13,296
+Thneed Êe to rijeöiti!
+
+368
+00:40:14,929 --> 00:40:18,003
+»ekaj, ima joö! ZahvaljujuÊi svom
+metro microviberu Thneed
+
+369
+00:40:18,004 --> 00:40:21,463
+je superabsorbirajuÊi!
+Takoer, moûe biti i ovo.
+
+370
+00:40:23,384 --> 00:40:26,553
+Naravno, trebaö prvo stisnuti.
+-Hajde, idi, osramoti se!
+
+371
+00:40:27,611 --> 00:40:30,396
+Nitko to neÊe kupiti.
+-Dobro öto znam.
+
+372
+00:40:30,974 --> 00:40:36,485
+Naûalost, nisi trûiöte koje ciljam, Ëudaku!
+-Nosiö gitaru?
+
+373
+00:40:36,600 --> 00:40:38,364
+Oh, da.
+Imam malo zvonce.
+
+374
+00:40:38,440 --> 00:40:40,966
+Idem raznijeti neke misli,
+prodati koji Thneed!
+
+375
+00:40:44,614 --> 00:40:50,473
+<i>Svakome treba Thneed,
+stvar koju svi ljudi...</i>
+
+376
+00:40:54,028 --> 00:40:56,333
+Naûalost, nisam niöta
+prodao prvi dan.
+
+377
+00:40:56,334 --> 00:41:01,040
+<i>Thneed je dobar,
+Thneed je divan.</i>
+
+378
+00:41:04,884 --> 00:41:05,844
+Drugi dan.
+
+379
+00:41:15,450 --> 00:41:16,410
+<i>Sve dok napokon...</i>
+
+380
+00:41:16,411 --> 00:41:20,061
+To je to! Znate öto,
+gotov sam s ovim!
+
+381
+00:41:22,942 --> 00:41:24,863
+Obitelj mi je imala
+pravo. Odustajem!
+
+382
+00:41:33,125 --> 00:41:37,159
+Kul öeöir. -O, Boûe,
+ûelim jedan.
+
+383
+00:41:37,160 --> 00:41:39,369
+Ta me stvar tjera da
+te volim joö viöe.
+
+384
+00:41:49,070 --> 00:41:50,512
+Gdje ti je Thneed?
+Jesi li ga prodao?
+
+385
+00:41:50,609 --> 00:41:53,586
+Bok, da... Ne, ne.
+Nisam ga prodao.
+
+386
+00:41:53,683 --> 00:41:55,891
+Ispostavlja se da je
+bio gubitak vremena.
+
+387
+00:41:56,278 --> 00:41:59,446
+Bar pokuöaj!
+äto joö moûeö uËiniti?
+
+388
+00:41:59,639 --> 00:42:01,464
+Hajde, sjedni, podjelit Êemo ti.
+
+389
+00:42:02,138 --> 00:42:06,940
+äto igramo? -Ja igram poker. On igra
+Gold fish, mislim da je gladan.
+
+390
+00:42:21,156 --> 00:42:23,462
+Tko je za palaËinke?
+
+391
+00:42:28,649 --> 00:42:31,146
+U redu, predaj ih.
+-Da, vidiö.
+
+392
+00:42:31,480 --> 00:42:33,084
+äto se dogaa?
+
+393
+00:42:41,616 --> 00:42:44,113
+Oh, ne! To je puno ljudi.
+
+394
+00:42:51,510 --> 00:42:57,561
+<i>Svakome treba Thneed,
+stvar koju svi ljudi trebaju.</i>
+
+395
+00:42:58,330 --> 00:43:01,116
+<i>Thneed je dobar,
+Thneed je divan.</i>
+
+396
+00:43:01,500 --> 00:43:06,880
+<i>Idemo ga napraviti
+dok nije prekasno.</i>
+
+397
+00:43:07,746 --> 00:43:10,050
+<i>Baö je trendy öeöir.</i>
+
+398
+00:43:10,051 --> 00:43:13,797
+<i>äpaga je za akrobata.</i>
+
+399
+00:43:13,894 --> 00:43:17,544
+<i>I mreûa za hvatanje leptira.</i>
+
+400
+00:43:17,929 --> 00:43:23,307
+<i>Moûeö ga koristiti kao ruËnik!</i>
+
+401
+00:43:24,077 --> 00:43:30,032
+<i>Svakome treba Thneed,
+stvar koju svi ljudi trebaju.</i>
+
+402
+00:43:30,897 --> 00:43:33,394
+<i>Svakome treba Thneed.</i>
+
+403
+00:43:34,452 --> 00:43:36,373
+Mi smo to napravili, duöo!
+
+404
+00:43:38,775 --> 00:43:42,905
+Bok, mama, ja sam. Rekao
+sam ti da Êu biti uspjeöan.
+
+405
+00:43:43,098 --> 00:43:47,324
+Povedi cijelu obitelj, odmah!
+Postat Êemo bogati!
+
+406
+00:43:48,573 --> 00:43:52,416
+äto je? Trebat Êe mi öto viöe
+pomoÊi! Ne moraö se brinuti.
+
+407
+00:43:53,858 --> 00:43:58,180
+Je li ti rekao kako Êeö
+nabaviti drvo? -Nije!
+
+408
+00:43:58,468 --> 00:44:01,350
+Ali, mislim da Êe uskoro
+doÊi do tog dijela!
+
+409
+00:44:02,503 --> 00:44:06,441
+Stigli smo! -äto!?
+Bit Êu samo minut.
+
+410
+00:44:08,680 --> 00:44:10,762
+Ej, Audrey!
+
+411
+00:44:11,480 --> 00:44:13,323
+Ej, Ted! äto ima?
+
+412
+00:44:13,600 --> 00:44:16,570
+Znaö me, samo krstarim.
+Bacanje van vibre.
+
+413
+00:44:16,640 --> 00:44:18,483
+Samo ja i moje misli.
+
+414
+00:44:19,680 --> 00:44:21,967
+Oh, je li to djevojka o
+kojoj stalno govoriö?
+
+415
+00:44:22,040 --> 00:44:23,451
+Bako! Prestani pogoröavati stvar.
+
+416
+00:44:23,520 --> 00:44:26,091
+Ona je Ëak ljepöa nego...
+-U redu, moram iÊi! Bok.
+
+417
+00:44:28,480 --> 00:44:31,131
+U redu, bako, hajde da
+te dovezemo kuÊi!
+
+418
+00:45:05,704 --> 00:45:06,952
+Tako mi je ûao!
+
+419
+00:45:08,874 --> 00:45:10,315
+To nije bilo niöta.
+
+420
+00:45:33,463 --> 00:45:35,480
+Vratio sam se!
+-äto to imaö?
+
+421
+00:45:36,280 --> 00:45:37,327
+To!
+
+422
+00:45:44,414 --> 00:45:45,374
+Hvala ti, Tede.
+
+423
+00:45:49,121 --> 00:45:55,172
+<i>Zamisli si ovo. Sunce sja,
+plavo nebo. Savröen dan.</i>
+
+424
+00:45:59,520 --> 00:46:02,285
+<i>To je sve nizbrdo odavde.</i>
+
+425
+00:46:33,400 --> 00:46:36,857
+Koje smeÊe. -Tetko Griseldo!
+
+426
+00:46:38,971 --> 00:46:42,045
+Chad, pogledaj ovo!
+TrËi!
+
+427
+00:46:42,718 --> 00:46:45,119
+Ne! To, zapravo
+nije lopta.
+
+428
+00:46:47,329 --> 00:46:49,250
+Imam ga! Imam ga!
+Imam...
+
+429
+00:46:51,748 --> 00:46:52,709
+Imam ga!
+
+430
+00:46:53,287 --> 00:46:55,495
+Zabio se u drvo!
+
+431
+00:46:58,377 --> 00:47:01,451
+Oncei, jesi li to ti?
+-Mama.
+
+432
+00:47:01,548 --> 00:47:06,063
+Evo ga, evo mog odjednom
+uspjeönog sina.
+
+433
+00:47:07,984 --> 00:47:10,866
+Znali smo da Êeö uspjeti.
+Je li tako?
+
+434
+00:47:11,828 --> 00:47:13,364
+Volim ovoga lika!
+
+435
+00:47:14,036 --> 00:47:17,111
+Zar se ne sjeÊate, rekli ste
+da nikad neÊu uspjeti?
+
+436
+00:47:17,146 --> 00:47:19,993
+Ma, uöuti. Tako smo
+te htjeli motivirati.
+
+437
+00:47:20,090 --> 00:47:24,893
+Sretan sam öto smo to rijeöili, jer
+me tako motivirate stvarno dosta dugo!
+
+438
+00:47:25,566 --> 00:47:29,024
+U svakom sluËaju, ovdje ste,
+raditi za mene i to je kul.
+
+439
+00:47:29,025 --> 00:47:30,658
+Pa, idemo na posao!
+
+440
+00:47:31,234 --> 00:47:35,461
+Brett, Chad, hoÊete li
+prestati bacati tog medvjeda!?
+
+441
+00:48:03,892 --> 00:48:06,004
+Timeout! PojaËanje,
+stojte, ne miËite se.
+
+442
+00:48:06,390 --> 00:48:08,887
+Nitko se ovdje neÊe preseliti!
+Morate iÊi, zbogom!
+
+443
+00:48:09,273 --> 00:48:12,249
+Tko je pozvao velikog
+krznenog kikirikija?
+
+444
+00:48:12,250 --> 00:48:14,844
+Mene tako zoveö?
+Ogrebat Êu ti nos!
+
+445
+00:48:17,342 --> 00:48:18,494
+Ne bi valjda udario ûenu?
+
+446
+00:48:19,168 --> 00:48:20,609
+Uh, to je ûena?
+
+447
+00:48:21,666 --> 00:48:25,412
+Oboje budite dobri,
+da ne odemo u krivom smjeru.
+
+448
+00:48:26,181 --> 00:48:28,583
+Ovo je moj prijatelj...
+-Poznanik!
+
+449
+00:48:29,544 --> 00:48:32,233
+Poznanik! Jako dobar
+poznanik, Lorax.
+
+450
+00:48:32,523 --> 00:48:35,692
+On predstavlja drveÊa.
+-Tako je. I brinem se
+
+451
+00:48:35,727 --> 00:48:37,710
+o njima.
+Odlazite!
+
+452
+00:48:39,152 --> 00:48:41,265
+HoÊeö li...
+Biti dobar!
+
+453
+00:48:41,841 --> 00:48:44,435
+To mi je obitelj. I, bit Êe mi
+potrebna njihova pomoÊ,
+
+454
+00:48:44,436 --> 00:48:46,920
+ako ûelim da mi tvrtka
+bude veÊa. U redu?
+
+455
+00:48:47,126 --> 00:48:48,086
+VeÊa?
+
+456
+00:48:48,472 --> 00:48:52,603
+Da! Ovo viöe nije nekakva
+operacija, imam planove!
+
+457
+00:48:52,891 --> 00:48:56,925
+Velike planove! Viziju,
+o svijetu prepunom Thneedsa.
+
+458
+00:48:57,310 --> 00:48:58,558
+Bit Êe golemo!
+
+459
+00:49:00,481 --> 00:49:02,017
+Kojim naËinom drvo pada?
+
+460
+00:49:02,498 --> 00:49:03,555
+Dolje?
+
+461
+00:49:04,421 --> 00:49:06,437
+Drvo pada na onaj
+naËin kad odlazi.
+
+462
+00:49:07,207 --> 00:49:09,031
+Budi paûljiv kojim putem odlaziö.
+
+463
+00:49:19,406 --> 00:49:22,287
+Pogledajte ovo. ZadivljujuÊe je.
+
+464
+00:49:23,057 --> 00:49:24,593
+Tako sam ponosan na sebe.
+
+465
+00:49:25,652 --> 00:49:26,611
+Oncei?
+
+466
+00:49:26,901 --> 00:49:28,821
+Imamo mali problem.
+
+467
+00:49:29,399 --> 00:49:30,359
+Problem?
+
+468
+00:49:31,608 --> 00:49:38,044
+Ne radimo Thneedse dovoljno
+brzo. -éetva predugo traje!
+
+469
+00:49:45,825 --> 00:49:47,458
+äto joö moûemo uËiniti?
+
+470
+00:49:47,939 --> 00:49:51,204
+Pa, odjednom mi je sinulo.
+
+471
+00:49:51,878 --> 00:49:54,759
+Moûemo zapoËeti ruöiti drveÊa.
+
+472
+00:49:55,720 --> 00:49:59,563
+äto? -E, sada dobro razmiöljaö!
+To bi ubrzalo stvari!
+
+473
+00:49:59,564 --> 00:50:02,349
+Ali... -Nema ali, Oncei!
+Sada upravljaö poslom.
+
+474
+00:50:02,830 --> 00:50:05,712
+Moraö uËiniti ono öto je
+najbolje za tvrtku, i tvoju mamu!
+
+475
+00:50:08,402 --> 00:50:11,571
+Pretpostavljam da neÊe boljeti
+ako sruöimo par drveÊa.
+
+476
+00:50:13,301 --> 00:50:16,375
+»iniö me tako ponosnom!
+Doi ovamo!
+
+477
+00:50:17,336 --> 00:50:18,488
+Volim ovog lika!
+
+478
+00:50:28,671 --> 00:50:30,015
+Ne! Ne! Ne!
+
+479
+00:50:30,016 --> 00:50:31,552
+Prestanite! Molim vas!
+
+480
+00:50:32,226 --> 00:50:33,474
+Imam te, glupo drvo!
+
+481
+00:50:39,623 --> 00:50:41,640
+äto bi bilo, ako ti odeö?
+
+482
+00:50:42,601 --> 00:50:45,099
+Oprostite, gospodine, moram
+razgovarati s vaöim öefom!
+
+483
+00:50:46,637 --> 00:50:51,726
+Oprosti, ali gos. Once-ler ne prima
+nikoga ovog trenutka!
+
+484
+00:50:51,727 --> 00:50:54,609
+Vidjet Êemo! Makni svoje
+ruke sa mene!
+
+485
+00:50:54,610 --> 00:50:58,068
+Daj mi razlog, kratki!
+-Prekröio si obeÊanje!
+
+486
+00:50:58,261 --> 00:51:01,046
+Moûeö bolje od ovog!
+Moraö stati!
+
+487
+00:51:01,143 --> 00:51:05,850
+Ovo je loöe! -éelim ti
+lijep ostatak dana!
+
+488
+00:51:08,540 --> 00:51:11,901
+Loö? Nisam loö.
+Dobar sam lik u ovome.
+
+489
+00:51:11,902 --> 00:51:14,303
+Samo ne razumije.
+Misliö li ti da sam loö?
+
+490
+00:51:15,265 --> 00:51:19,107
+Hvala. Napokon se neöto
+dobro meni dogodilo,
+
+491
+00:51:19,588 --> 00:51:22,758
+a, on samo doe i
+ûeli mi sve upropastiti!
+
+492
+00:51:22,759 --> 00:51:23,911
+Koji mu je problem?
+
+493
+00:51:24,680 --> 00:51:25,641
+Vidiö?
+
+494
+00:51:29,195 --> 00:51:30,637
+Loö! Moö mislit.
+
+495
+00:51:42,067 --> 00:51:46,870
+<i>Kako loö mogu biti,
+samo radim öto je prirodno.</i>
+
+496
+00:51:46,871 --> 00:51:51,289
+<i>Kako loö mogu biti,
+samo slijedim svoju sudbinu.</i>
+
+497
+00:51:51,290 --> 00:51:56,092
+<i>Kako loö mogu biti,
+samo radim öto je prirodno.</i>
+
+498
+00:51:56,093 --> 00:52:00,415
+<i>Kako loö mogu biti,
+kako uopÊe mogu biti loö?</i>
+
+499
+00:52:00,450 --> 00:52:01,606
+<i>Upravitelj sam prirode.</i>
+
+500
+00:52:01,680 --> 00:52:02,886
+<i>Upravitelj prirode.</i>
+
+501
+00:52:03,298 --> 00:52:06,948
+<i>äto skoro svako stvorenje zna,
+zvan opstanak najjaËih.</i>
+
+502
+00:52:06,949 --> 00:52:09,926
+<i>Opstanak najjaËih.
+-Provjerava kako ide.</i>
+
+503
+00:52:10,312 --> 00:52:12,616
+<i>éivotinja koja pobjeuje
+dobila je oûiljak u borbi,</i>
+
+504
+00:52:12,811 --> 00:52:14,923
+<i>gmiûe, bori se i udara.</i>
+
+505
+00:52:15,212 --> 00:52:17,709
+<i>éivotinja nije dobro,
+ûivotinja neÊe</i>
+
+506
+00:52:17,902 --> 00:52:21,168
+<i>nekog drugog.
+Hra-hra-hra-hra hrana.</i>
+
+507
+00:52:21,169 --> 00:52:23,858
+<i>Mljac, mljac, mljac.</i>
+
+508
+00:52:23,859 --> 00:52:24,628
+<i>Samo kaûem...</i>
+
+509
+00:52:24,629 --> 00:52:28,951
+<i>Kako loö mogu biti,
+samo radim öto je prirodno.</i>
+
+510
+00:52:28,952 --> 00:52:33,754
+<i>Kako loö mogu biti,
+samo slijedim svoju sudbinu.</i>
+
+511
+00:52:33,755 --> 00:52:38,365
+<i>Kako loö mogu biti,
+samo radim öto je prirodno.</i>
+
+512
+00:52:38,366 --> 00:52:42,976
+<i>Kako loö mogu biti,
+kako uopÊe mogu biti loö?</i>
+
+513
+00:52:43,011 --> 00:52:44,171
+<i>Upravitelj je posla.</i>
+
+514
+00:52:44,240 --> 00:52:45,241
+<i>Upravitelj posla.</i>
+
+515
+00:52:45,763 --> 00:52:49,221
+<i>Kojeg svakog zna kako zvuËi.
+Kaûe ljudi s novcem.</i>
+
+516
+00:52:49,222 --> 00:52:52,104
+<i>Ljudi s novcem.
+-PokreÊu svijet.</i>
+
+517
+00:52:52,489 --> 00:52:54,986
+<i>U svojoj sam tvrtci,
+pekara u tvornici,</i>
+
+518
+00:52:54,987 --> 00:52:59,886
+<i>veÊi znak. Svi drugi
+neka se brinu o svom,</i>
+
+519
+00:53:00,270 --> 00:53:03,824
+<i>ja Êu se brinuti o...
+Svom, svom, svom, svom.</i>
+
+520
+00:53:04,498 --> 00:53:06,995
+<i>Tresite tijelo.
+Pustite mi da vam kaûem:</i>
+
+521
+00:53:06,996 --> 00:53:08,053
+<i>Puno dima!</i>
+
+522
+00:53:09,110 --> 00:53:11,415
+<i>I, izbacite smeÊe.
+-Izbacite smeÊe.</i>
+
+523
+00:53:11,416 --> 00:53:14,393
+<i>Sa vaöim primjedbama
+nas nikad neÊete zaustaviti.</i>
+
+524
+00:53:14,586 --> 00:53:16,123
+<i>Zaustaviti!</i>
+
+525
+00:53:16,124 --> 00:53:18,430
+<i>Ma dajte, kako
+loö uopÊe mogu biti?</i>
+
+526
+00:53:18,431 --> 00:53:23,040
+<i>Kako loö mogu biti,
+samo gradim ekonomiju.</i>
+
+527
+00:53:23,041 --> 00:53:27,749
+<i>Kako loö mogu biti,
+samo gledajte kako plaÊam ovome malom.</i>
+
+528
+00:53:27,750 --> 00:53:32,551
+<i>Kako loö mogu biti,
+dio mog profita ide u dobrotvorne svrhe.</i>
+
+529
+00:53:32,552 --> 00:53:36,778
+<i>Kako loö mogu biti,
+kako uopÊe mogu biti loö?</i>
+
+530
+00:53:36,779 --> 00:53:37,740
+<i>Da vidimo.</i>
+
+531
+00:53:39,566 --> 00:53:41,582
+<i>Ljudi kupuju.</i>
+
+532
+00:53:44,176 --> 00:53:46,482
+<i>I, novac nije za kupiti.</i>
+
+533
+00:53:48,884 --> 00:53:51,188
+<i>I PR ljudi laûu.</i>
+
+534
+00:53:53,591 --> 00:53:55,897
+<i>I odvjetnici ne poriËu.</i>
+
+535
+00:53:58,299 --> 00:54:00,700
+<i>Koga briga ako par
+drveÊa umre.</i>
+
+536
+00:54:02,910 --> 00:54:05,311
+<i>Takoer je veliko ivanje.</i>
+
+537
+00:54:05,312 --> 00:54:06,464
+<i>Kako loö...</i>
+
+538
+00:54:07,714 --> 00:54:12,421
+<i>Kako loöe uopÊe ovo moûe biti?</i>
+
+539
+00:54:51,800 --> 00:54:52,857
+Kako stvari stoje?
+
+540
+00:54:53,626 --> 00:54:54,587
+äto ti radiö ovdje?
+
+541
+00:54:55,741 --> 00:54:58,910
+Jesi sretan? Jesi popunio
+tu duboku rupu u sebi?
+
+542
+00:54:59,392 --> 00:55:00,929
+Ili, joö i dalje trebaö?
+
+543
+00:55:01,409 --> 00:55:04,098
+Ako imaö problem s
+ovim öto radim,
+
+544
+00:55:04,292 --> 00:55:08,902
+zaöto nisi iskoristio svoje
+moÊi da me zaustaviö?
+
+545
+00:55:10,537 --> 00:55:14,859
+Rekao sam ti, ne radi to tako.
+-Da, zaboravio sam.
+
+546
+00:55:14,860 --> 00:55:18,797
+Dosadan si. éelim da
+odeö, odmah!
+
+547
+00:55:19,758 --> 00:55:23,697
+Zaöto? Je li ti neprijatno, öto te
+podsjeÊam na obeÊanje koje si dao?
+
+548
+00:55:24,081 --> 00:55:29,076
+Onog Ëovjeka koji si nekoÊ bio.
+-Znaö öto, zaËepi te brkove.
+
+549
+00:55:29,077 --> 00:55:31,958
+Podsvjest mi je Ëista, nisam uËinio
+niöta ilegalno,
+
+550
+00:55:31,959 --> 00:55:37,723
+imam pravo i namjeravam samo poveÊavati
+dok sva drva ne pretvorim u Thneede.
+
+551
+00:55:38,972 --> 00:55:41,469
+I niöta me neÊe zaustaviti!
+
+552
+00:55:57,413 --> 00:55:58,375
+To je to.
+
+553
+00:55:59,335 --> 00:56:00,776
+Sruöio si i posljednjeg.
+
+554
+00:56:02,218 --> 00:56:03,659
+To Êe te zaustaviti.
+
+555
+00:56:24,117 --> 00:56:26,231
+<i>Netko je sigurno napravio
+sveûanj od te stvari.</i>
+
+556
+00:56:26,615 --> 00:56:29,401
+Pitam se, koji je sljedeÊi
+izum vrijedan milijun dolara.
+
+557
+00:56:35,741 --> 00:56:36,702
+Da.
+
+558
+00:56:37,279 --> 00:56:38,239
+Pitam se.
+
+559
+00:56:48,998 --> 00:56:51,687
+Sine, iznevjerio si me!
+
+560
+00:56:52,552 --> 00:56:55,242
+Brette, ti si mamino
+najdraûe dijete!
+
+561
+00:57:13,972 --> 00:57:17,430
+Ne ûelim nevolje.
+-NeÊeö ih ni dobiti.
+
+562
+00:57:17,911 --> 00:57:18,871
+Ne od njih.
+
+563
+00:57:20,697 --> 00:57:24,924
+ZahvaljujuÊi tebi i tvom ruöenju,
+oni ne mogu viöe ûivjeti ovdje.
+
+564
+00:57:33,088 --> 00:57:38,370
+Odlaze, u nadi da Êe pronaÊi
+negdje bolje mjesto za ûivjeti.
+
+565
+00:57:42,214 --> 00:57:43,174
+Melvine?
+
+566
+00:57:44,904 --> 00:57:46,057
+Melvine?
+
+567
+00:57:47,920 --> 00:57:49,206
+Ej, Pipsqueak...
+
+568
+00:57:53,240 --> 00:57:54,401
+Ej...
+
+569
+00:58:48,969 --> 00:58:50,891
+OSIM AKO
+
+570
+00:59:02,994 --> 00:59:04,530
+ZnaËi, sve ovo i jest
+tvoja krivnja.
+
+571
+00:59:05,588 --> 00:59:06,933
+Sve si uniötio.
+
+572
+00:59:08,085 --> 00:59:11,832
+Jesam. I svakog dana odkad
+je Lorax otiöao,
+
+573
+00:59:12,121 --> 00:59:14,427
+sjedim ovdje i ûalim za
+sve öto sam uËinio.
+
+574
+00:59:15,099 --> 00:59:16,540
+GledajuÊi u tu rijeË.
+
+575
+00:59:17,405 --> 00:59:18,557
+Osim ako...
+
+576
+00:59:19,616 --> 00:59:22,112
+I pitam se, öto je znaËila.
+
+577
+00:59:23,075 --> 00:59:27,876
+Ali, mislim si, moûda si ti
+razlog öto je Lorax ostavio tu rijeË.
+
+578
+00:59:28,454 --> 00:59:29,414
+Ja?
+
+579
+00:59:29,992 --> 00:59:31,240
+Zaöto bi to za mene ostavio?
+
+580
+00:59:31,818 --> 00:59:35,083
+Osim ako netko kao ti ne doe,
+koji se brine za öto-öta,
+
+581
+00:59:35,118 --> 00:59:36,908
+niöta neÊe biti bolje.
+
+582
+00:59:38,158 --> 00:59:39,695
+I nikad neÊe.
+
+583
+00:59:57,560 --> 00:59:59,002
+Posljednje sjeme drveta.
+
+584
+01:00:00,444 --> 01:00:02,364
+Moraö ga posaditi, Tede.
+
+585
+01:00:02,941 --> 01:00:06,015
+Da, ali... Nitko viöe
+ne mari za drveÊa!
+
+586
+01:00:06,112 --> 01:00:09,377
+Onda ih natjeraj da mare!
+Posadi sjeme u centar grada
+
+587
+01:00:09,378 --> 01:00:13,028
+gdje ga svatko moûe vidjeti!
+Promjeni stvari kakve jesu!
+
+588
+01:00:13,606 --> 01:00:17,640
+Znam da je malo, nije u tome
+öto je to sada,
+
+589
+01:00:18,313 --> 01:00:20,042
+bitno je öto Êe postati.
+
+590
+01:00:20,619 --> 01:00:24,461
+Nije to samo sjeme,
+nisi ni ti samo djeËak.
+
+591
+01:00:32,914 --> 01:00:34,162
+NeÊu te iznevjeriti!
+
+592
+01:00:35,892 --> 01:00:36,853
+Znam.
+
+593
+01:01:18,760 --> 01:01:19,761
+Ej, Audrey!
+
+594
+01:01:20,200 --> 01:01:21,326
+Audrey!
+
+595
+01:01:22,189 --> 01:01:25,167
+Tede? äto to radiö?
+-Naemo se kod moje kuÊe!
+
+596
+01:01:25,840 --> 01:01:27,857
+»ekaj. Ali... -Kod moje kuÊe, u redu?
+
+597
+01:01:29,971 --> 01:01:32,468
+Ne smije ga nitko vidjeti.
+Trebat Êemo...
+
+598
+01:01:32,853 --> 01:01:34,293
+Vode! I...
+
+599
+01:01:34,583 --> 01:01:35,640
+Sa Ëim kopati?
+
+600
+01:01:36,409 --> 01:01:37,657
+äto imamo?
+-Tede!?
+
+601
+01:01:38,235 --> 01:01:39,964
+Mama, zauzet sam!
+
+602
+01:01:40,638 --> 01:01:43,518
+Imamo gosta. Silazi dolje,
+ne öalim se!
+
+603
+01:01:49,954 --> 01:01:52,452
+Tede, ûelim te upoznati
+s gos. O`Hareom.
+
+604
+01:01:52,453 --> 01:01:54,758
+NajmoÊnijim Ëovjekom u gradu.
+
+605
+01:01:56,103 --> 01:01:58,889
+Evo ga!
+Bok, Tede!
+
+606
+01:02:00,811 --> 01:02:03,596
+Bok!? -Nije li pametan,
+gos. O`Hare?
+
+607
+01:02:04,077 --> 01:02:05,902
+Zna sva imena i sve ostalo.
+
+608
+01:02:07,728 --> 01:02:10,705
+Znate öto bih sada jako
+volio, go. Wiggins?
+
+609
+01:02:11,187 --> 01:02:13,012
+Slasan kolaË!
+
+610
+01:02:14,646 --> 01:02:17,719
+OdliËno. Ted i ja Êemo
+ostati ovdje i porazgovarati.
+
+611
+01:02:17,720 --> 01:02:20,217
+Naravno. Zaöto ga
+ne biste posvojili?
+
+612
+01:02:21,178 --> 01:02:24,828
+Samo se öalim. To je
+bila öala. Samo sam se öalila.
+
+613
+01:02:25,406 --> 01:02:26,462
+Napravit Êu vam kolaË.
+
+614
+01:02:28,384 --> 01:02:31,841
+Znam da ga imaö, Tede.
+Stavimo ga u ovu besmislicu.
+
+615
+01:02:33,764 --> 01:02:38,182
+Predaj mi ga! -Oprostite,
+ali ne znam o Ëemu priËate.
+
+616
+01:02:38,471 --> 01:02:42,889
+Stvarno? U redu onda. Vjerojatno ti
+ne bi smetalo ako ti provjerimo sobu.
+
+617
+01:02:42,890 --> 01:02:45,964
+Ne, ne, ne! -Morty, McCurt,
+pronaite sjeme!
+
+618
+01:02:45,999 --> 01:02:49,038
+Ne smijete iÊi gore!
+Ovo je smijeöno! Stanite!
+
+619
+01:02:51,824 --> 01:02:53,265
+Ne, ne moûete uÊi u sobu!
+
+620
+01:02:54,707 --> 01:02:55,668
+Pronaite ga!
+
+621
+01:03:01,430 --> 01:03:02,680
+Pronaite ga!
+
+622
+01:03:03,737 --> 01:03:06,139
+äto se ovdje dogaa?
+-Vas to nije briga!
+
+623
+01:03:06,715 --> 01:03:12,094
+Siite dolje! -Oprosti, ti dolje. Nije
+me briga tko si ti ludi babyman.
+
+624
+01:03:12,095 --> 01:03:14,591
+Izlazi iz moje kuÊe, odmah!
+To je vlasniötvo!
+
+625
+01:03:15,554 --> 01:03:17,187
+U redu, oprostite.
+
+626
+01:03:18,148 --> 01:03:22,950
+Sigurno smo imali mali nesporazum.
+OtiÊi Êemo sada. Moje isprike, Tede.
+
+627
+01:03:26,121 --> 01:03:27,274
+Budite sigurni.
+
+628
+01:03:29,963 --> 01:03:33,229
+HoÊeö li mi reÊi öto se dogaa?
+-Sjeme! Gdje je?
+
+629
+01:03:33,230 --> 01:03:34,191
+Sjeme?
+
+630
+01:03:35,728 --> 01:03:36,689
+Gdje je baka?
+
+631
+01:03:39,572 --> 01:03:40,821
+éivo je.
+
+632
+01:03:43,222 --> 01:03:45,431
+SjeÊam te se.
+
+633
+01:03:47,065 --> 01:03:48,314
+Tede, öto...
+
+634
+01:03:56,382 --> 01:03:57,440
+Audrey?
+
+635
+01:03:59,745 --> 01:04:01,282
+HoÊeö li... U redu!
+
+636
+01:04:03,588 --> 01:04:06,661
+O Ëemu je rijeË?
+-RijeË je o ovome.
+
+637
+01:04:07,431 --> 01:04:11,465
+»ekaj... Je li to?
+-Da, posljednje sjeme dreveta.
+
+638
+01:04:11,466 --> 01:04:14,924
+PomoÊi Êeö mi ga posaditi toËno u centar
+grada gdje ga svatko moûe vidjeti.
+
+639
+01:04:15,501 --> 01:04:17,326
+Mogla bih te baö sad poljubiti!
+
+640
+01:04:20,784 --> 01:04:23,570
+Ali, nemamo vremena za to!
+-Ne bih rekao, imamo malo vremena.
+
+641
+01:04:25,492 --> 01:04:28,085
+Ali, znate öto, idemo!
+Zaboravimo na to!
+
+642
+01:05:01,798 --> 01:05:02,759
+Evo ga!
+
+643
+01:05:06,601 --> 01:05:07,562
+Izdrûi!
+
+644
+01:05:25,333 --> 01:05:26,388
+Bok!
+
+645
+01:05:39,260 --> 01:05:40,797
+Tede, pogledaj na nebu!
+
+646
+01:05:53,956 --> 01:05:56,165
+NeÊeö se izvuÊi, deËko!
+
+647
+01:06:07,403 --> 01:06:09,805
+Skloni se, idiote!
+-äto?
+
+648
+01:06:11,800 --> 01:06:13,564
+Nagazi ga, Tede!
+
+649
+01:06:23,637 --> 01:06:25,749
+Budalo!
+
+650
+01:06:26,711 --> 01:06:27,864
+Tede, gledaj!
+
+651
+01:06:32,379 --> 01:06:34,587
+Nitko ne pobjeuje...
+
+652
+01:06:36,510 --> 01:06:37,855
+K vragu!
+
+653
+01:06:46,115 --> 01:06:48,997
+Ovo nije dobro!
+Kako je?
+
+654
+01:06:59,659 --> 01:07:00,523
+Luzer!
+
+655
+01:07:01,772 --> 01:07:02,830
+Stvarno?
+
+656
+01:07:04,175 --> 01:07:05,712
+Ne! Sjeme!
+
+657
+01:07:08,690 --> 01:07:10,036
+Dohvati to sjeme!
+
+658
+01:07:16,471 --> 01:07:18,200
+Drûite se! Idemo!
+
+659
+01:07:20,986 --> 01:07:22,043
+Bako?
+
+660
+01:07:30,016 --> 01:07:32,513
+Ozbiljno? Kako ti je baka kul!
+
+661
+01:07:39,718 --> 01:07:40,678
+Ne!
+
+662
+01:07:44,041 --> 01:07:45,097
+Hajde!
+
+663
+01:07:47,499 --> 01:07:48,460
+Eno ga!
+
+664
+01:07:58,065 --> 01:08:00,275
+Pazi na cestu, velikoglavi!
+
+665
+01:08:09,017 --> 01:08:10,074
+Ma daj!
+
+666
+01:08:22,465 --> 01:08:24,866
+Skini ovo!
+
+667
+01:08:26,979 --> 01:08:31,110
+Navali, Tedy!
+Nemaö hrabrosti!
+
+668
+01:08:31,783 --> 01:08:32,743
+Tede?
+
+669
+01:08:40,139 --> 01:08:41,293
+Bako!
+
+670
+01:08:51,859 --> 01:08:53,779
+Pa to je, gos. O`Hare.
+
+671
+01:08:55,125 --> 01:08:56,566
+Eto ti na, kratki!
+
+672
+01:09:13,856 --> 01:09:18,658
+Trebamo ga staviti u zemlju.
+-Ali, gdje? Nema nigdje zemlje.
+
+673
+01:09:21,924 --> 01:09:23,365
+Ne, bako?
+
+674
+01:09:40,751 --> 01:09:43,056
+Vidiö, Tede. Lako je.
+
+675
+01:09:44,210 --> 01:09:48,723
+Razbili su O`Hareovu glavu!
+äto si vi umiöljate?
+
+676
+01:09:49,685 --> 01:09:53,142
+Traûim mjesto gdje bih
+posadio drvo! Pravo drvo!
+
+677
+01:09:53,143 --> 01:09:56,697
+äto Êe nam drvo?
+-ToËno tako!
+
+678
+01:09:59,196 --> 01:10:00,445
+»ovjeËe.
+
+679
+01:10:01,406 --> 01:10:07,745
+Ljudi, zadnje öto ûelite ovdje
+je drvo. Prljava su!
+
+680
+01:10:08,225 --> 01:10:13,509
+IzlijevajuÊi ljepljivi,
+gadni sok. Posvuda!
+
+681
+01:10:14,950 --> 01:10:18,408
+Donose otrovne plodove i
+pËele koje bodu.
+
+682
+01:10:20,715 --> 01:10:21,867
+Mislite na djecu.
+
+683
+01:10:25,421 --> 01:10:29,551
+Imaju i listove, znate to.
+A oni samo padaju.
+
+684
+01:10:29,552 --> 01:10:31,569
+Padaju gdje god ûele!
+
+685
+01:10:32,531 --> 01:10:36,757
+Ma daj, znamo zaöto si protiv
+drveÊa! Proizvode Ëist zrak.
+
+686
+01:10:37,142 --> 01:10:38,199
+Besplatno!
+
+687
+01:10:40,120 --> 01:10:47,324
+Povrijeen sam! Laûeö!
+-Nije laû! Zove se fotosinteza!
+
+688
+01:10:47,997 --> 01:10:51,359
+Izmislila je to! Ljudi,
+to je izmiöljena rijeË!
+
+689
+01:10:52,608 --> 01:10:58,371
+Thneedville je savröen, onakav
+kakav jest! Ne trebaju nam drveÊa!
+
+690
+01:10:58,853 --> 01:11:02,407
+Taj deËko ima sjeme,
+moramo ga zaustaviti!
+
+691
+01:11:02,408 --> 01:11:05,096
+Tko je uz mene!?
+-Ima pravo!
+
+692
+01:11:06,441 --> 01:11:07,402
+Stani s tim!
+
+693
+01:11:08,365 --> 01:11:10,477
+Posljednje öansa, deËko.
+Predaj mi ga.
+
+694
+01:11:11,246 --> 01:11:13,936
+Gdje ideö?
+-Hajde, idemo.
+
+695
+01:11:14,129 --> 01:11:15,762
+Ulazite!
+
+696
+01:11:19,316 --> 01:11:21,237
+Zaustavite taj bager!
+
+697
+01:11:22,967 --> 01:11:25,752
+IspriËavam se!
+Bjeûite!
+
+698
+01:11:29,596 --> 01:11:34,109
+Tede? Udarit Êeö u zid!
+-Da, znam!
+
+699
+01:11:58,027 --> 01:11:59,275
+Jeste li vidjeli!?
+
+700
+01:12:00,044 --> 01:12:02,157
+Tko ovaj mali milsi da je, ha?
+
+701
+01:12:03,791 --> 01:12:05,520
+Ja sam Ted Wiggins!
+
+702
+01:12:06,289 --> 01:12:08,114
+Predstavljam drveÊa!
+
+703
+01:12:09,076 --> 01:12:13,110
+»injenica je, stvari nisu
+savröene u Thneedvilleu!
+
+704
+01:12:13,783 --> 01:12:17,433
+Bit Êe joö i gore, osim ako
+neöto ne uËinimo protiv toga,
+
+705
+01:12:18,106 --> 01:12:20,123
+osim ako promijenimo
+naö naËin ûivljenja!
+
+706
+01:12:20,508 --> 01:12:23,005
+Moûemo zapoËeti tako
+da posadimo ovo!
+
+707
+01:12:33,188 --> 01:12:35,300
+Sve je u redu!
+
+708
+01:12:35,397 --> 01:12:36,359
+Zar ne?
+
+709
+01:12:37,031 --> 01:12:40,873
+ReÊi Êemo ovom deËku
+öto mislimo o tom sjemenu!
+
+710
+01:12:43,276 --> 01:12:44,907
+Za Thneedville! Hajde!
+
+711
+01:12:48,559 --> 01:12:52,688
+Ti, popni se i vrati
+ljude na moju stranu.
+
+712
+01:12:52,689 --> 01:12:54,514
+Ili Êeö biti otpuöten!
+
+713
+01:12:55,379 --> 01:12:57,398
+Hajde, reci ljudima öto misliö!
+
+714
+01:13:01,817 --> 01:13:05,274
+<i>Znate öto sam, Ëovjek u odijelu.</i>
+
+715
+01:13:06,140 --> 01:13:09,597
+<i>Samo sam O`Hareov tip za dostavu.</i>
+
+716
+01:13:10,463 --> 01:13:13,824
+<i>Ali, drveÊima vrijedi dati öansu.</i>
+
+717
+01:13:14,592 --> 01:13:17,763
+<i>Pa kaûem, neka raste.</i>
+
+718
+01:13:21,030 --> 01:13:23,623
+<i>Zovem se Dan.
+-Ja sam Rose.</i>
+
+719
+01:13:23,624 --> 01:13:26,025
+<i>Naö sin, Wesley, svijetli.</i>
+
+720
+01:13:26,314 --> 01:13:29,099
+<i>A to nije dobro kao
+öto je trebalo biti.</i>
+
+721
+01:13:29,100 --> 01:13:31,021
+<i>Pustimo da raste.</i>
+
+722
+01:13:31,022 --> 01:13:35,729
+<i>Neka rastu. Ne moûete
+ûeti ako ne sijete.</i>
+
+723
+01:13:36,305 --> 01:13:41,012
+<i>Sadimo sjeme u zemlju,
+pa da vidimo vrijedili li.</i>
+
+724
+01:13:41,013 --> 01:13:45,144
+<i>Slavimo öto se svijet ponovo raa.
+Kaûemo, neka raste.</i>
+
+725
+01:13:45,145 --> 01:13:47,834
+<i>Zovem se Marie i imam tri godine.</i>
+
+726
+01:13:47,835 --> 01:13:50,812
+<i>Rado bih voljela vidjeti drvo.</i>
+
+727
+01:13:53,310 --> 01:13:55,135
+<i>Kaûem, neka raste.</i>
+
+728
+01:13:55,136 --> 01:13:57,921
+<i>Ja sam baka Norma,
+stara sam i imam sjedu kosu.</i>
+
+729
+01:13:58,691 --> 01:14:01,668
+<i>SjeÊam se kad je drveÊa bilo posvuda.</i>
+
+730
+01:14:01,669 --> 01:14:04,070
+<i>Nitko nije morao plaÊati za zrak.</i>
+
+731
+01:14:04,071 --> 01:14:06,088
+<i>Pa kaûem, neka raste.</i>
+
+732
+01:14:06,089 --> 01:14:10,891
+<i>Neka raste, neka raste kao
+öto je nekada davno.</i>
+
+733
+01:14:11,757 --> 01:14:15,791
+<i>Samo je jedno sjeme,
+ali samo to zapravo trebamo.</i>
+
+734
+01:14:15,792 --> 01:14:20,594
+<i>Vrijeme je za promijenu,
+neka raste.</i>
+
+735
+01:14:20,595 --> 01:14:23,765
+<i>Zovem se O`Hare i
+jedan sam od vas.</i>
+
+736
+01:14:24,342 --> 01:14:27,801
+<i>Takoer, ûivim ovdje u Thneedvilleu.</i>
+
+737
+01:14:29,722 --> 01:14:32,026
+<i>To öto govorite mogla bi biti istina.</i>
+
+738
+01:14:32,316 --> 01:14:35,389
+<i>Moûda je vrijeme za novi poËetak.</i>
+
+739
+01:14:35,774 --> 01:14:40,576
+<i>I moûda vas uspijem predomisliti.</i>
+
+740
+01:14:42,595 --> 01:14:44,001
+Kaûem, nek se osuöi.
+
+741
+01:14:44,036 --> 01:14:46,917
+<i>Nek se osuöi, nek osuöi.
+Neka...</i>
+
+742
+01:14:47,687 --> 01:14:49,609
+Hajde! Tko je uz mene!?
+
+743
+01:14:50,377 --> 01:14:51,339
+Nitko!
+
+744
+01:14:52,300 --> 01:14:54,220
+<i>Pogreöno si pjevao.</i>
+
+745
+01:14:54,221 --> 01:14:56,046
+<i>Neka raste, neka raste.</i>
+
+746
+01:14:56,047 --> 01:14:58,833
+<i>Pustimo neka ljubav u tebi raste.</i>
+
+747
+01:14:59,314 --> 01:15:03,733
+<i>Sadimo sjeme u zemlju,
+pa da vidimo vrijedili li.</i>
+
+748
+01:15:03,734 --> 01:15:10,264
+<i>Slavimo öto se svijet ponovo raa.
+Kaûemo, neka raste.</i>
+
+749
+01:15:11,033 --> 01:15:13,339
+<i>Neka raste, neka raste.</i>
+
+750
+01:15:13,340 --> 01:15:15,644
+<i>Onda Êe te ûeti öto ste posijali.</i>
+
+751
+01:15:16,414 --> 01:15:20,640
+<i>Samo je jedno sjeme,
+ali samo to zapravo trebamo.</i>
+
+752
+01:15:20,833 --> 01:15:23,234
+<i>Vrijeme je da pokaûete öto trebamo.</i>
+
+753
+01:15:23,235 --> 01:15:25,828
+<i>I neka u Thneedvilleu rastu
+cjeÊe i drveÊe.</i>
+
+754
+01:15:26,021 --> 01:15:30,632
+<i>Neka ovo bude naöa
+pjesma Thneedvillea.</i>
+
+755
+01:15:31,497 --> 01:15:32,650
+Hvala ti, Tede.
+
+756
+01:15:34,475 --> 01:15:39,374
+<i>Kaûemo, neka raste.</i>
+
+757
+01:15:39,375 --> 01:15:44,754
+<i>Kaûemo, neka raste.</i>
+
+758
+01:15:45,835 --> 01:15:49,555
+<i>Kaûemo, neka raste.</i>
+
+759
+01:15:51,670 --> 01:16:01,659
+<i>Kaûemo, neka raste.</i>
+
+760
+01:17:00,537 --> 01:17:02,170
+Uradio si dobar posao, Beanpole.
+
+761
+01:17:03,131 --> 01:17:04,476
+Dobar posao.
+
+762
+01:17:18,019 --> 01:17:20,421
+Usput, lijepi brkovi.
+
+763
+01:17:21,530 --> 01:18:24,030
+Prijevod: RobotBoy0
+Prilagodba: bez Obrada: zvone1a
+
+764
+01:18:25,305 --> 01:19:25,463
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/3nrjy
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

@@ -1,0 +1,873 @@
+00:03:24:Echo 3 zove Echo 7. |Han, prijatelju, èuješ li me?
+00:03:28:Odlièno, mali. Šta ima?
+00:03:30:Pa, završio sam obilazak. |Nisam našao nikakve znake života.
+00:03:33:Na ovoj kocki leda nema dovoljno|života da stane na svemirsku krstaricu.|Senzori su na mjestu. Idem nazad.
+00:03:38:Dobro. Vidimo se brzo.|Ovdje u blizini je pao meteor.
+00:03:41:Hoæu da ga pogledam. |Neæe dugo trajati.
+00:03:45:Mirna, mirna curo.|Šta je bilo? Nešto si naljušila?
+00:04:28:Chewie!
+00:04:30:Chewie!
+00:04:33:Chewie!
+00:04:36:U redu, ne nerviraj se.|Odmah se vraæam da ti pomognem.
+00:05:00:Solo?
+00:05:01:Nema traga životu, Generale.|The senzori su na mjestu.
+00:05:04:Znaæete ako išta naiðe.
+00:05:05:Da li se Komandant Skywalker vratio?
+00:05:07:Ne. Provjerava|meteorit koji je pao blizu njega.
+00:05:10:Sa tolikom aktivnošæu meteora ovdje,|biæe teško primjetiti bilo kakav brod.
+00:05:13:Generale, moram da idem.|Više nemogu ostati.
+00:05:16:Žao mi je što to èujem.
+00:05:17:Glava mi je ucijenjena.
+00:05:18:Ako ne isplatim Jabbu Huta,|mrtav sam èovjek.
+00:05:20:Nije lako živjeti sa smrtnom presudom nad glavom.
+00:05:24:Ti si dobar borac, Solo.|Mrzim što te gubim.
+00:05:26:Hvala vam, Generale.
+00:05:35:Dakle, Vaša Visosti, pretpostavljam da je to to.
+00:05:38:Tako je.
+00:05:42:Pa sad, nemojte mi se mrštiti. |Zbogom, Princezo.
+00:05:47:Han!
+00:05:50:Da, Vaša Visosti?
+00:05:52:Mislila sam da si odluèio da ostaneš.
+00:05:53:Lovac na ucjene na Ord Mantellu|me je ponukao da promjenim mišljenje.
+00:05:56:Han, trebaš nam!
+00:05:58:Nama? |-Da.
+00:06:01:Oh, misliš tebi trebam?
+00:06:02:Ja te trebam? Nemam pojma o èemu prièaš.
+00:06:05:Pretpostavljam da nemaš.
+00:06:07:I šta taèno ja treba da znam?
+00:06:09:Ma daj! Želiš da ostanem |zbog tvojih osjeæaja prema meni.
+00:06:12:Da. Ti si nam od velike pomoæi. |Ti si roðeni voða...
+00:06:15:Ne! To nije to. Ma daj.
+00:06:21:Ti izmišljaš stvari.
+00:06:22:Stvarno? A zašto onda ti pratiš mene?
+00:06:24:Bojiš se da æu otiæi a da ti |ne dam poljubac za oproštaj?
+00:06:26:Prije bih poljubila Wookiee-a.
+00:06:27:Mogu ti to srediti.|Trebao bi ti dobar poljubac!
+00:06:32:Ni ne pokušavaj mene da kriviš.|Nisam tražio od tebe da ukljuèiš termalni grijaè.
+00:06:35:Samo sam primjetio da je|hladno u princezinim odajama.
+00:06:38:Pa i treba da je hladno.|Kako bi inaèe osušili njenu odjeæu?
+00:06:41:Stvarno neznam.
+00:06:43:Oh, ugasi se.
+00:06:44:Zašto si ovo sad rastavio?
+00:06:46:Pokušavam da nas izbavim odavde|a ti išèupaš oboje.
+00:06:47:Oprostite, sir.
+00:06:48:Odmah ih sastavi.
+00:06:49:Mogu li molim vas, razgovarati| sa vama?
+00:06:51:Šta želiš?
+00:06:52:Pa, Princeza Leia, sir. Pokušavala je da|vas dobije na komunikator.
+00:06:54:Ugasio sam ga, ne želim da prièam sa njom.|Princeza Leia se brine za gospodara Lukea.
+00:06:58:Još se nije vratio.|Ona nezna gdje je on.
+00:07:00:Ja neznam gdje je on.| Niko nezna gdje je on.
+00:07:02:Kako to misliš, "niko ne zna"?|- Pa, uh, vidite...
+00:07:04:Oficiru palube. Oficiru palube!
+00:07:06:Oprostite, sir. Mogu li va-...
+00:07:07:Da, sir?
+00:07:09:Znaš li gdje je Komandant Skywalker?
+00:07:10:Nisam ga vidio.
+00:07:11:Moguæe je da je ušao na|južni ulaz.
+00:07:12:Moguæe je? Zašto to ne provjeriš?|Postaje sve mraènije.
+00:07:16:Da, sir.
+00:07:17:Oprostite, sir. Mogu li vas pitati|šta se dešava?
+00:07:19:Zašto ne?
+00:07:21:Nevjerovatan èovjek. Hajde, Artoo,|naðimo Princezu Leiu.
+00:07:24:Izmeðu nas, mislim da je |gospodar Luke u opasnosti.
+00:07:36:Sir, komandant Skywalker nije ušao|na južni ulaz.
+00:07:39:Možda je zaboravio da se prijavi.
+00:07:40:Sumnjam. Da li su speederi spremni?
+00:07:41:Još ne. Imamo problema|da ih priviknemo da hladnoæu.
+00:07:43:Onda moramo iæi na Tauntaunsima.
+00:07:44:Sir, temperatura prebrzo opada.
+00:07:46:Tako je. I moj prijatelj je napolju.
+00:07:47:Ja æu pokriti sektor 12.|Neka com-control stavi ekran Alpha.
+00:07:53:Vaš Tauntaun æe se smrznuti|prije prve oznake.
+00:07:55:Onda se vidimo u paklu!
+00:10:09:Moraš doæi sad, Artoo.
+00:10:11:Nemamo više šta uraditi.|A i moji se spojevi smrzavaju.
+00:10:16:Ne govori to! Naravno|da æemo vidjeti gospodara Lukea opet.
+00:10:20:On æe biti dobro, vidjeæeš.|Glupi mali kratki spoj.
+00:11:21:Sir, sve patrole su tu.
+00:11:26:Još nema kontakta sa|Skywalkerom i Solom.
+00:11:29:Gospoðice Leia, Artoo kaže|da nije bio mogao nista primjetiti,
+00:11:32:Premda on priznaje da mu je domet|premalen da bi izgubili svu nadu.
+00:11:36:Vaša Visosti, više ništa nemožemo|uraditi veèeras.
+00:11:38:Moramo zatvoriti vrata.
+00:11:42:Zatvorite vrata.|- U redu, sir.
+00:11:46:Artoo kaže da su šanse za opstanak|775... naprema 1.
+00:12:00:Ustvari, Artoo je poznat po tome da griješi|...s vremena na vrijeme.
+00:12:09:Ne brini za|gospodara Lukea. Siguran sam da æe biti ok.
+00:12:16:On je jako pametan, znaš...|za èovjeka.
+00:12:34:Luke...Luke.
+00:12:46:Ben?
+00:12:48:Otiæi æeš u Dagobah sistem.
+00:12:50:Dagobah sistem?
+00:12:52:Tamo èeš uèiti od Yode, |Jedi Uèitelja koji je mene uèio.
+00:13:00:Ben...Ben.
+00:13:07:Luke! Luke! Ne radi to, Luke.|Hajde, daj mi znak.
+00:13:43:Nema puno vremena.
+00:13:44:Ben...Ben...
+00:13:52:Drži se, momak.
+00:13:54:Dagobah sistem...
+00:13:56:Dagobah...
+00:13:58:Ovo æe smrditi, momak...
+00:13:59:Yoda...
+00:14:02:...ali æe te ugrijati...|dok ne napravim sklonište.
+00:14:11:A mislio sam da spolja smrde!
+00:14:57:Echo Baza...Imam nešto!|Ne puno, ali bi mogao biti oblik života.
+00:15:08:Ovdje Rouge 2. Ovo je Rouge 2. |Kapetane Solo, èujete li?
+00:15:21:Komandante Skywalker, èujete li?|Ovdje Rouge 2.
+00:15:27:Dobro jutro. Lijepo od vas što ste svratili.
+00:15:30:Echo Base...ovdje Rouge 2.|Našao sam ih. Ponavljam, našao sam ih.
+00:16:04:Gospodaru Luke,|sir, drago mi je da ste ponovo|u funkciji. Artoo-u je takoðe drago.
+00:16:11:Kako se osjeæaš, momak?|Fino izgledaš.
+00:16:15:Ustvari, izgledaš kao da bi|mogao išèupati uši Gundarku.
+00:16:17:Zahvaljujuæi tebi.
+00:16:20:To su dvije usluge koje |mi duguješ, juniore.
+00:16:22:Dakle Vaše Velièanstvo, izgleda|da ste me uspjeli zadržati.
+00:16:26:Nisam imala ništa s tim. General Rieekan|misli da je opasno napustiti sistem|bez energetskog štita.
+00:16:32:Dobra fora. Ipak mislim da nemožeš podnijeti|da pustiš ovakog ljepotana iz vida.
+00:16:38:Nemam pojma odakle ti|te vizije, glupko.
+00:16:44:Samo se ti smij, kudro.|Nisi nas vidio nasamo u južnom prolazu.
+00:16:50:Potpuno mi se emocionalno predala.
+00:16:51:Ti snobovski,...glupi,|...šlampavi... èobane!
+00:17:00:Ko je šlampav?
+00:17:05:Mora da sam je pogodio u žicu|èim se ovako nakostriješila?
+00:17:11:Šta, misliš da znaš sve|o ženama?
+00:17:26:Glavnokomandujuæe osoblje, |javite se u komandni centar.
+00:17:28:Polako.
+00:17:30:Izvinite nas, molim.
+00:17:35:Princezo...imamo posjetioca.
+00:17:38:Pokupili smo nešto izvan|baze u zoni 12, kreæe se ka istoku.
+00:17:40:Od metala je.
+00:17:42:Onda nije jedno od onih|zvijeri što su napali Lukea.
+00:17:43:Da nije naš speeder.
+00:17:44:Ne. èekajte -- nešto |slabo se èuje.
+00:17:52:Sir, poznajem 6 miliona formi|komunikacije.
+00:17:55:Ovaj signal ne koristi Alijansa.|Mogao bi biti Imperijin kod.
+00:18:04:Nije prijateljski, èiji god da je.|Chewie, hajde da vidimo šta je.
+00:18:44:Bojim se da ga nije puno ostalo.
+00:18:45:Šta je bilo?
+00:18:46:Neka vrsta Droida. Nisam ga|pogodio toliko. Imao je samouništenje.
+00:18:49:Imperijin droid.
+00:18:52:Kladim se da Imperija zna gdje smo.
+00:18:54:Bolje da poènemo sa evakuacijom.
+00:19:39:Admirale.
+00:19:41:Da, Kapetane.
+00:19:43:Mislim da imamo nešto, sir.
+00:19:45:Fragment od droida u Hoth sistemu,| ali je najbolji trag koji imamo.
+00:19:49:Imamo hiljade droida|koji pretražuju galaksiju.
+00:19:52:Želim dokaz, ne tragove!
+00:19:53:Snimci pokazuju znakove života.
+00:19:55:To može biti bilo šta.|Kada bi pratili svaki trag...
+00:19:57:Ali, sir, Hoth sistem bi trebao|biti bez ljudskih oblika.
+00:20:00:Našli ste nešto?
+00:20:01:Da, Gospodaru.
+00:20:05:To je to. Pobunjenici su tu.
+00:20:08:Gospodaru, postoji mnogo naseobina.
+00:20:12:Mogli bi biti krijumèari, mogli...
+00:20:13:To je taj sistem.|I siguran sam da je Skywalker s njima.
+00:20:17:Odredite kurs za Hoth sistem.|Generale Veers, pripremite ljude.
+00:20:30:Grupe 7 i 10 æe ostati|da voze speedere.
+00:20:32:Èim se transport završi, |daæemo znak za lansiranje.
+00:20:36:U redu, sir.
+00:20:40:Ok, to je to. Probaj...Gasi! |Ugasi! Ugasi! Gasi!
+00:20:50:Sir, potrajaæe dok se evakuiraju|T-47-ce. Zaboravite na tešku opremu.
+00:20:53:Imamo dovoljno vremena|da lasniramo manje module za transport.
+00:20:57:Èuvajte se, sir. |- Hvala.
+00:21:02:Chewie, Èuvaj se, ok?
+00:21:12:Hej, momak. Mora da ima razlog za to.|Pogledaj na drugom kraju.
+00:21:16:Èekaj momenat. Jesi li u redu?
+00:21:19:Da.
+00:21:27:Èuvaj se.
+00:21:29:I, ti.
+00:21:37:Generale, flota Star Destroyersa|izlazi iz hiperspacea u sektor 4.
+00:21:41:Premosti svu energiju u štitove.
+00:21:44:Moramo ih zadržati dok transport|ne izaðe. Pripremite se za kopneni napad.
+00:22:02:Šta je, Generale?
+00:22:04:Gospodaru, flota je izašla|iz brzine svjetlosti.
+00:22:05:Com-Scan je otkrio polje energije koje štiti|prostor oko šeste planete Hoth sistema.
+00:22:10:Polje je dovoljno jako da odbije |bombardovanje bilo koje vrste.
+00:22:12:Pobunjenici znaju za nas.
+00:22:15:Admiral Ozzel je izažao iz brzine svjetlosti|preblizu sistemu.
+00:22:18:Mislio je da je mudrije iznenaditi...
+00:22:20:On je smotan koliko je glup. |Generale, spremite trupe za napad na površinu.
+00:22:26:Da, gospodaru.
+00:22:34:Gospodaru Vader, flota je izasla iz|brzine svjetlosti i spremamo se...
+00:22:40:Zadnji put si me iznevjerio,|Admirale. Kapetane Piett.
+00:22:45:Da, Gospodaru.
+00:22:46:Spremi se da iskrcaš trupe iza|energetskog polja i
+00:22:49:postavi flotu tako da ništa|ne napusti taj sistem.
+00:22:52:Sada si ti glavni, Admirale Piett.
+00:22:55:Hvala vam, Gospodaru Vader.
+00:22:58:Neka se svi nosaèi grupišu|na južnom ulazu.
+00:23:01:Veliki transportni brodovi æe otiæi|èim budu utovareni.
+00:23:04:Samo dva lovca u pratnji broda.|Energetski štit æe biti otvoren jako kratko,
+00:23:09:tako da morate ostati blizu transporta.
+00:23:12:Dva lovca protiv Star Destroyera?
+00:23:14:Ionski top æe ispaliti par hitaca da|odvrati neprijateljske brodove sa vašeg kursa.
+00:23:19:Kada izaðete iz polja,|nastavite do taèke sastanka. Jasno?
+00:23:24:U redu. Ok.|- Sretno.
+00:23:28:Ok. Svi na položaje.|Idemo!
+00:23:46:Njihov primarni cilj æe biti|energija. Pripremite se da otvorite štit.
+00:23:56:Sir, Pobunjenièki brodovi|ulaze u naš sektor.
+00:23:58:Dobro. Naš prvi ulov danas.
+00:24:02:Spremni, ion kontrola....Pali!
+00:24:21:Prvi transport je prošao.
+00:24:33:Da li ste dobro, sir?
+00:24:35:Kao nov, Dack. Ti?
+00:24:36:Sad se osjeæam kao da bih|sam mogao poraziti Imperiju.
+00:24:39:Znam na šta misliš.
+00:24:59:Echo Stanica 3-T-8.
+00:25:01:Vidimo Imperijine walkere!
+00:25:03:Imperijini walkeri na sjevernom horizontu.
+00:25:26:Echo stanica zove 5-7. Na putu smo.
+00:25:33:U redu momci, držite se sad.
+00:25:36:Luke, nemam vektora prilaza. Nisam podešen.
+00:25:37:Mirno, Dack. Napadaèki uzorak Delta. Idemo!
+00:25:44:U redu, dolazim.
+00:25:50:Hobbie, jesi li još sa mnom?
+00:26:13:Taj oklop je prejak za  blastere.
+00:26:18:Rouge Grupo, koristite harpune i sajle.|Idite na noge.
+00:26:21:To nam je jedina šansa da ih zaustavimo.
+00:26:24:U redu, budi spreman, Dack.
+00:26:26:Luke, imamo kvar u kontroli pucanja.|Moraæemo koristiti pomoæni.
+00:26:30:Samo se drži. Drži se, Dack.|Spremi se da ispališ tu sajlu.
+00:26:40:Dack? Dack!
+00:27:04:Da, Gospodaru Vader.|Došli smo do glavnog geeratora.
+00:27:07:Štit æe biti spušten svaki èas.|Možete poèeti sa slijetanjem.
+00:27:15:Rouge 3.
+00:27:16:Slušam, Rouge Voðo.
+00:27:18:Wedge, izgubio sam topnika.|Ti moraš ovo pogoditi.
+00:27:21:Ja æu te pokrivati. Podesi harpun.|Prati me na slijedeæem prilazu.
+00:27:26:Prilazim, Rouge Voðo.
+00:27:30:Mirno, Rouge 2.
+00:27:33:Aktiviraj harpun.
+00:27:37:Dobar pogodak, Jansone.
+00:27:43:Još jedan prolaz.
+00:27:45:Prilazim. Još jedan. Još jedan.
+00:27:51:Sajla spremna! Otpusti je!
+00:27:53:Oslobodi sajlu.
+00:27:55:Sajla osloboðena.
+00:28:04:Hajde!
+00:28:12:To ih je sredilo!
+00:28:14:Vidim, Wedge. Dobar posao.
+00:28:16:Mislim da nemožemo zaštititi|dva transporta u isto vrijeme.
+00:28:18:Riskantno je, nemamo izbora.|Nemožemo više idržati.
+00:28:23:Lansiraj patrole.|- Evakuiraj ostatak zemljanog osoblja.
+00:28:28:Ne, ne! Ne! Ovo ide ovdje,|ovaj ide tamo. Kontaš?
+00:28:34:Artoo, dobro èuvaj gospodara Lukea. 
+00:28:38:I èuvaj se.
+00:29:09:Sve trupe æe sprijeèiti zemljani napad.
+00:29:11:Spremite se da gaðate glavni generator.
+00:29:17:Rouge 2, jesi li u redu?
+00:29:18:Da. S tobom sam, Rouge Voðo.
+00:29:20:Podesiæu harpun. Pokrivaæu te.
+00:29:24:Prilazim.
+00:29:25:Pazite na unakrsnu vatru, momci.
+00:29:28:Postavi poziciju 3. Mirno.
+00:29:31:Držite se blizu i nisko.
+00:29:39:Hobbie, pogoðen sam!
+00:30:23:Jesi li dobro?
+00:30:25:Zašto ste još ovdje?
+00:30:27:Èuo sam da je komandni centar pogoðen.
+00:30:28:Imaš odobrenje da odeš.
+00:30:30:Ne brini otiæi æu.|Prvo æu te otpratiti do broda.
+00:30:33:Vaša Visosti, moramo uzeti ovaj zadnji transport.|To nam je zadnja nada.
+00:30:36:Pošalji sve trupe u sektor 12 prema|južnom frontu da zaštitiš lovce.
+00:30:41:Imperijine trupe su ušli u bazu.
+00:30:44:Hajde...to je to.
+00:30:46:Daj signal za evakuaciju.|I idi u trasporter! Èekajte mene!
+00:31:52:Jesu li ono generatori?
+00:32:04:Nišani! Laser maksimalne snage.
+00:32:31:Transport, ovdje Solo.Uzletite, nemogu |doæi do vas, ja æu odvesti princezu u Falconu.
+00:32:38:Gdj... Gdje æeš?|Vrati se!
+00:32:59:Èe... Èekajte mene!|Stanite! Tipièno. Hajde!
+00:33:07:Požuri, zlatko, ili æeš|ostati ovdje zauvijek!
+00:33:10:Stanite! Stanite!
+00:33:29:Kako je ovo?
+00:33:31:Da li bi pomoglo ako bi| izašao i pogurao? Moglo bi.
+00:33:36:Kapetane Solo, Kapetane Solo...sir,|mogu li predložiti...
+00:33:40:Može èekati.
+00:33:45:S ovom konzervom nikad neæemo|proæi tu blokadu.
+00:33:46:Ova beba krije još iznenaðenja,|srce.
+00:33:58:Hajde! Hajde! Prebaci se. |Nadajmo se da neæemo izgoriti.
+00:34:04:Vidiš? Jednom kad budeš|u krivu nadam se da æu biti tu.
+00:34:10:Nagazi!
+00:34:28:Artoo! Spemi se za polijetanje.
+00:34:35:Sretno, Luke. Vidimo se na taèki sastanka.
+00:34:40:Ne brini, Artoo. Polazimo.
+00:34:54:Sve je u redu, Artoo.|Samo stavljam novi kurs.
+00:35:01:Neæemo se sastati sa ostalima.
+00:35:04:Idemo u Dagobah system.
+00:35:07:Da, Artoo?
+00:35:11:Sve je u redu. Upravljaæu|ruèno jedno vrijeme.
+00:35:30:Vidio sam ih! Vidio sam ih! |Koje?
+00:35:33:Star Destroyeri, njih dva, |idu na nas.
+00:35:35:Sir, sir! Mogu li predložiti... |Ušutkaj ga ili ga ugasi!|provjeri štit za odvraæanje!
+00:35:43:Oh, sjajno.|Mislim da ih ipak možemo izbjeæi.
+00:35:49:Preduzmi akciju izbjegavanja!
+00:36:03:Pripremite se za brzinu svjetlosti.|- Ali, sir!
+00:36:06:Sve su bliže!|- O da? Vidi ovo.
+00:36:13:Koje?
+00:36:16:Mislim da smo u nevolji.
+00:36:17:Ako mogu reæi, sir, primjetio sam da je|hyperdrive motivator ošteæen.|Nemoguæe je iæi brzinom svjetlosti!
+00:36:22:U nevolji smo!
+00:36:28:Horizontalni boosteri...!
+00:36:31:Alluvialni damperi...!
+00:36:35:To nije to. Donesi mi|hydrospanere!
+00:36:42:Kako æemo se izvuæi iz ovoga.
+00:36:46:Aj! Chewie!
+00:36:52:To nije od lasera!|Nešto nas je udarilo.
+00:36:54:Han, dolazi ovamo!
+00:36:57:Hajde, Chewie!
+00:37:01:O, ne! Chewie, podesi 2-7-1.
+00:37:06:Šta radiš?|Ne ideš valjda u|polje asteroida?
+00:37:10:Bili bi ludi da nas prate,|zar ne?
+00:37:15:Ne moraš ovo raditi,|da bi me impresionirao.
+00:37:17:Sir, moguænost|navigacije u polju asteroida je 3720:1!
+00:37:21:Nikad mi ne govori izglede!
+00:37:50:Rekla si da bi voljela gledati kad|pravim grešku, dušo, ovo bi moglo biti to.
+00:37:52:Povlaèim to. Biæemo razneseni|ako ovdje ostanemo.
+00:37:57:Neæu debatovati o tome.
+00:37:59:Razneseni?
+00:38:00:Probaæu da letim bliže velikim.
+00:38:01:Bliže?|- Bliže?!
+00:38:29:Oh, to je samoubistvo!
+00:38:31:Tamo. To izgleda dobro.
+00:38:34:Šta izgleda dobro? |- Da. To æe biti taman.
+00:38:37:Oprostite, gospo,|gdje idemo?
+00:38:50:Nadam se da znaš šta radiš.|- Da, i ja.
+00:39:01:Da, to je to. Dagobah.
+00:39:06:Ne, neæu se predomisliti.
+00:39:09:Ne oèitavam ni gradove ni tehnologijju.|Ali mnogo znakova života.
+00:39:15:Nešto je živo dole...
+00:39:18:Da, siguran sam da je sigurno za droide.
+00:39:28:Znam, znam! Sva optika je mrtva.
+00:39:30:Ne vidim ništa! Drži se slijeæem...
+00:40:27:Ne, Artoo, ostani tu.|Pogledaæu okolo.
+00:40:34:Artoo?
+00:40:36:Artoo! Gdje si?
+00:40:52:Artoo! Budi pažljiviji.
+00:40:57:Artoo -- tamo!
+00:41:26:Artoo!
+00:41:56:Oh, ne! Jesi li u redu?|Sretan si.
+00:42:05:Jesi li šta slomio?
+00:42:09:Ako kažeš da je dolazak ovdje|bio loša ideja,slažem se.
+00:42:15:Oh, Artoo, šta radim ovdje?|Kao da je dio sna, neznam. Možda ludim.
+00:42:58:Da, Admirale?
+00:42:59:Naši brodovi su spazili|Millennium Falcona, Gospodaru.
+00:43:01:Ali...Ušao je u polje asteroida|i mi nemožemo rizikovati...
+00:43:04:Asteroidi me ne brinu, Admirale.|Želim taj brod a ne izlike.
+00:43:10:Da, Gospodaru.
+00:43:16:Ugasiæu sve |osim osnovnih sistema napajanja.
+00:43:19:Sir, skoro se bojim da pitam,ali |da li to znaèi da æete i mene iskljuèiti?
+00:43:23:Ne, moraš prièati sa Falconom,|saznaj šta fali hyperdriveu.
+00:43:35:Sir, moguæe je da ovaj asteroid|nije skroz stabilan.
+00:43:38:Nije skroz stabilan?|drago mi je da te imamo da nam to kažeš.
+00:43:42:Chewie, odvedi profesora iza|i ukljuèi ga u hyperdrive.
+00:43:46:Nekad ne razumijem|ponašanje ljudi.
+00:43:49:Samo pokušavam da radim svoj posao...
+00:43:55:Pusti me.
+00:43:58:Pusti me, molim te.|- Ne uzbuðuj se.
+00:44:01:Kapetane, to što me držite|nije dovoljno da se uzbudim.
+00:44:05:Izvini, srce.|Nemam vremena nizašta drugo.
+00:44:43:Spremni za malo energije? |Ok. Da vidimo. Stavi to tu. Tako.
+00:44:56:Sve što trebam da uradim|je da naðem Yodu ... ako on postoji.
+00:45:16:Ipak, ovo mjesto mi je|poznato. Kao da je...neznam...
+00:45:25:Kao šta?
+00:45:27:Kao da nas neko gleda!
+00:45:30:Skloni oružje! Ne mislim vam zlo.
+00:45:33:Pitam se, zašto ste ovdje?
+00:45:37:Tražim nekoga.
+00:45:39:Tražiš? Rekao bih da,|si našao nekog?
+00:45:44:Da.
+00:45:47:Pomoæi ti mogu. Da.
+00:45:50:Ipak ne.|Ja tražim velikog ratnika.
+00:45:54:Velikog ratnika.|Ratovi ne prave velikane.
+00:46:10:Spusti to. Hej! To mi je veèera.
+00:46:16:Kako si tako narastao,|hraneæi se ovakvom hranom?
+00:46:19:Slušaj prijatelju,|nismo mislili sletiti u baru,|i kad bi mogli izvuæi brod mi bi otišli.
+00:46:23:Ali nemožete izvuæi brod?
+00:46:26:Hej, mogao si ovo slomiti.|Ne radi to.
+00:46:43:Praviš nered.|Hej, Daj mi to!
+00:46:51:Moje! Ili ti neæu pomoæi.
+00:46:54:Ne želim tvoju pomoæ.|Želim svoju lampu. Treba mi da odem odavde.
+00:46:57:Ne sviða ti se moj dom.
+00:47:04:Artoo, pusti mu.
+00:47:09:Artoo!
+00:47:14:Hoæeš li se sad skloniti, mali?|Imamo posla.
+00:47:17:Ne! Ne, ne! Ostati i pomoæi, æu ja.|Našao prijatelja, a?
+00:47:22:Ne tražim prijatelja,|tražim Jedi Uèitelja.
+00:47:26:Jedi Uèitelj. Yoda.|Tražiš Yodu.
+00:47:31:Znaš ga?
+00:47:33:Odvest æu te do njega. Da, da.|Ali sad jedi. Doði. Dobra hrana.
+00:47:52:Doði, doði.
+00:47:57:Artoo, ostani ovdje i pazi na kamp.
+00:48:12:Gdje je Artoo kad ga trebam?
+00:48:15:Sir, vaš brod ima jedinstven dijalekt.|Mislim da kaže da se ima problem sa |polarizatorom enegrije.
+00:48:24:Bojim se da æete ga morati zamjeniti.
+00:48:26:Pa, naravno da æu ga morati zamjeniti.
+00:48:30:Evo! I Chewie,
+00:48:33:mislim da je bolje da zamjenim|spoj negativne struje.
+00:48:57:Hej, Vaša Visosti, samo pokušavam da pomognem.
+00:49:00:Hoæeš li molim te prestati me tako zvati?
+00:49:03:Naravno, Leia.
+00:49:06:Ti sve otežaš ponekad.|Znam, stvarno. Mogla bi biti finija.
+00:49:11:Hajde, priznaj.|Nekad misliš da sam u redu.
+00:49:16:Možda ponekad...Kad se ne|ponašaš kao zlobnik.
+00:49:21:Zlobnik? Zlobnik?|Sviða mi se kako to zvuèi.
+00:49:29:Prestani. |- S èim?
+00:49:31:Prestani! Ruke su mi prljave.
+00:49:34:I moje su.|Èega se bojiš?
+00:49:36:Bojim?
+00:49:38:Drhtiš.|- Ne drhtim.
+00:49:42:Voliš me zato što sam zloban.
+00:49:45:Nema dovoljno zlobnika|u tvom životu.
+00:49:47:Ja samo volim fine muškarce.
+00:49:49:Ja sam fin muškarac.
+00:49:51:Ne, nisi. Ti si...
+00:49:55:Sir, sir! Izolirao sam|spoj na obrnutoj energiji.
+00:50:00:Hvala. Hvala puno.
+00:50:03:Oh nema na èemu, sir.
+00:50:11:I to je Gospodaru Vader, bio zadnji put|da smo ih vidjeli. Mislim|da su uništeni s obzirom na našu štetu.
+00:50:16:Ne, Kapetane, živi su.Neka svaki brod|pretražuje polje asteroida dok ih ne naðete.
+00:50:28:Gospodaru Vader.
+00:50:30:Da, Admirale, šta je?
+00:50:32:Imperator je naredio da ga kontaktirate.
+00:50:34:Izaðite iz polja asteroida|da bi imali èistu transmisiju.
+00:50:38:Da, Gospodaru.
+00:50:56:Koja je zapovijed, Gospodaru?
+00:51:00:Velika je smetnja u Sili.
+00:51:03:Osjetio sam je.
+00:51:05:Imamo novog neprijatelja|Lukea Skywalkera.
+00:51:09:Da, Gospodaru.
+00:51:11:On bi nas mogao uništiti.
+00:51:14:On je samo djeèak.|Obi-Wan mu više nemože pomoæi.
+00:51:18:Sila je jaka s njim.|Sin Skywalkera nesmije postati Jedi.
+00:51:26:Ako bi ga preobratili,|postao bi moæan saveznik.
+00:51:31:Da. Da. Bio bi od velike pomoæi.|Može li se to uraditi?
+00:51:39:Ili æe nam se pridružiti|ili æe umrijeti, Gospodaru.
+00:51:59:Vidi, siguran sam da je izvrsno. |Ne razumijem zašto nemogu vidjeti Yodu sada.
+00:52:02:Strpljenja! Za Jedia je vrijeme|da se jede. Jedi, jedi.
+00:52:13:Vruæe. Dobra hrana? Dobra?
+00:52:23:Koliko daleko je Yoda?|Da li æe nam puno trebati da doðemo?
+00:52:26:Ne daleko. Yoda ne daleko.|Strpljenja. Uskoro æeš biti s njim.
+00:52:33:Rootleaf, kuham.|Zašto želiš postati Jedi?
+00:52:41:Najviše radi mog oca, ja mislim.
+00:52:44:Ah, tvoj otac. On je bio moæan Jedi.
+00:52:50:Kako znaš mog oca? Neznaš ni ko sam ja.|Šta ja radim ovdje, samo trošim vrijeme.
+00:52:58:Ne mogu ga uèiti. Momak nema strpljenja.
+00:53:03:Nauèiæe strpljenje.
+00:53:05:Puno je bijesa u njemu,|kao kod njegovog oca.
+00:53:14:Kad si mene uèio,|zar sam ja bio drugaèiji?
+00:53:19:On nije spreman.
+00:53:22:Yoda! Spreman sam. Ben!|Mogu biti Jedi. Ben, reci mu.
+00:53:31:Spreman si? Šta znaš o tom? 800 godina|uèim Jedie. Moja je odluka koga æu uèiti!
+00:53:44:Jedi mora imati najjaèu odluku,|i najveæu ozbiljnost.
+00:53:52:Ovoga gledam dugo vremena.|Nikad mu misli nisu s njim.
+00:54:07:Šta je radio. Avantura. Uzbuðenja.|Jedi ne žudi za tim. Ti si bezobziran!
+00:54:19:I ja sam bio, ako se sjeæaš.
+00:54:22:Prestar je. Da, Prestar da poène s treningom.
+00:54:28:Ali ja sam toliko nauèio.
+00:54:37:Da li æe završiti ono što poène?
+00:54:39:Neæu te iznevjeriti. Ne bojim se.
+00:54:45:Bojaæeš se. I te kako.
+00:55:33:Sir, ako mogu ponuditi mišljenje...
+00:55:35:Ne interesuje me|tvoje mišljenje, Threepio.
+00:55:37:Nešto je tamo.
+00:55:39:Gdje?|- Napolju, u peæini.
+00:55:42:Evo ga. Slušaj! Slušaj!
+00:55:44:Izlazim tamo.|- Jesi li lud?!
+00:55:46:Taman sam sastavio ovu kantu.|Ne želim da je sada nešto razvali.
+00:55:49:Onda idem s tobom.
+00:55:52:Mislim da je bolje da ostanem i|èuvam brod.
+00:56:10:Ovo tlo je èudno.|Ne èini se da je kameno.
+00:56:20:Strašno je vlažno ovdje.
+00:56:22:Neznam. Imam loš predosjeæaj.
+00:56:26:Da.
+00:56:29:Pazi!
+00:56:33:Da, to sam i mislio. Mynock. Chewie, provjeri|ostatak broda da se još koji nije zakaèio.
+00:56:39:Oni žvaæu kablove.
+00:56:42:Mynocksi?
+00:56:43:Uðite unutra. sastrugaæemo ih|ako ih još ima.
+00:56:53:Odlazi! Odlazi! Zvjerko.|Iš! Iš!
+00:57:02:Samo momenat...
+00:57:26:Chewie, gubimo se odavde!
+00:57:27:Imperija je još gore.|Mislim da nije mudro...
+00:57:29:Nema vremena|za raspravu u komitetu.
+00:57:32:Ja nisam komitet!
+00:57:40:Nemožeš iæi brzinom svjetlosti|u polju asteroida...
+00:57:42:Sjedi, srce. Polijeæemo!
+00:57:49:Vidi! |- Vidim, vidim.
+00:57:50:Gotovi smo!|- Peæina propada.
+00:57:53:Ovo nije peæina.|- Šta?
+00:58:27:Trèi! Da. Jedieva snaga teèe iz Sile.Ali pazi|se tamne strane. Bijes...strah...agresivnost.
+00:58:36:Oni su tamna strana Sile.|Lako teku i brzo ti se pridruže u borbi.
+00:58:42:Jednom kreni|tamnim putem i vjeèno æe dominirati tvojom|sudbinom, kao kod Obi-Wan-ovog nasljednika.
+00:58:51:Vader. Da li je tamna strana jaèa?
+00:58:54:Ne...ne...ne. Brža, lakša, zavodljivija.
+00:59:00:Kako da razlikujem dobro od lošeg?
+00:59:02:Znati æeš. Kada si miran.|Pasivan.
+00:59:10:Jedi koristi Silu za znanje|i odbranu,nikad za napad.
+00:59:16:Ali reci mi zašto nemogu...|Ne, ne nema više to je sve za danas.
+00:59:22:Oèisti misli od pitanja.
+00:59:46:Nešto nije u redu ovdje.
+00:59:52:Osjeæam hladnoæu, smrt.
+00:59:55:To mjesto...je|puno mraène strane Sile.
+01:00:00:To je baza zla. Tu moraš uæi.
+01:00:06:Šta je unutra?
+01:00:10:Samo ono što sam uneseš unutra.
+01:00:16:Tvoje oružje...neæeš ga trebati.
+01:02:53:Lovci na ucjene. Ne treba nam taj ološ.
+01:02:55:Da, sir.
+01:02:57:Ti Pobunjenici nam neæe pobjeæi.
+01:03:04:Sir, imamo prioritetni signal od|Star Destroyera Avengera.
+01:03:07:U redu.
+01:03:09:...nagrada je za svakog|ko naðe Millennium Falcona.
+01:03:14:Možete koristiti sve metode,|ali želim ih žive. Bez dezintegracija.
+01:03:22:Kako želite.|Gospodaru Vader! Gospodaru, imamo ih.
+01:03:32:Hvala Bogu da izlazimo|iz polja asteroida.
+01:03:40:Bježimo odavde.|Spremni za brzinu svjetlosti? 1...2...3!
+01:03:52:Nije fer!
+01:03:56:Sva kola za prenos rade.|Nije moja greška!
+01:03:59:Nema brzine svjetlosti?|Nije moja greška.
+01:04:06:Sir, upravo smo izgubili glavni zadnji štit.|Još jedan pogodak i gotovi smo.
+01:04:10:Okreni ga.
+01:04:12:Rekao sam okreni ga!|Staviæu svu energiju naprijed.
+01:04:15:Napašæeš ih?!|Sir, izgledi za preživljavanje napada|na Imperijski Star Destroyer...
+01:04:19:Zaveži!
+01:04:27:Spremaju se za napad.|Digni štitove!
+01:04:38:Prati ih. Mogu se vratiti još jednom.|Kapetane Needa, više ih ne vidimo.
+01:04:43:Nisu mogli nestati.|Nijedan tako mali brod nema nevidljivost.
+01:04:47:Nema im traga, sir.
+01:04:48:Kapetane, Gospodar Vader|traži izvještaj o potjeri.
+01:04:53:Spremi šatl. Preuzeæu odgovornost i|izvinuti se Gospodaru Vaderu.|Nastavite pretraživati podruèje.
+01:05:01:Da, Kapetane Needa.
+01:05:07:Koristi Silu. Da...
+01:05:15:Sada...Kamen. Osjeti ga.
+01:05:34:Koncentriši se!
+01:05:50:O, ne. Nikad ga neæemo izvaditi.
+01:05:53:Tako si siguran.|Uvijek misliš da se nemože uraditi.
+01:06:03:Zar me ne slušaš?
+01:06:05:Gospodaru, pomjerati kamenje je jedno.|Ovo je drugaèije
+01:06:09:Isto je!|Samo je drugaèije u tvojoj glavi.
+01:06:13:Moraš zaboraviti što si nauèio dosad.
+01:06:17:U redu, probaæu.
+01:06:19:Ne! Ne probati. Uraditi.| Ili ne. Nema probati.
+01:07:12:Ne mogu. Prevelik je.
+01:07:15:Velièina nije bitna. Vidi mene. |Sudiš o meni prema velièini?
+01:07:23:Ne bi trebao. Moj saveznik je Sila.|I to je moæan saveznik.|Život je stvara i uz njega raste.
+01:07:37:Nas okružuje energija i veže nas.|Mi nismo jednostavni po prirodi.|Moraš osjetiti Silu oko tebe.
+01:07:50:Ovdje, izmeðu tebe...|mene...drveta...kamena...svuda!|Da, èak izmeðu zemlje i broda!
+01:08:08:Ti želiš nemoguæe.
+01:09:53:Ja ne...Ne mogu da vjerujem.
+01:09:58:Zato nisi ni uspio.
+01:10:18:Izvinjenje prihvaæeno,|Kapetane Needa.
+01:10:29:Gospodaru Vader, naši brodovi su|završili skeniranje i nisu ništa našli.
+01:10:33:Da je |Millennium Falcon otišao u brzinu svjetlosti,|bili bi na drugom kraju galaksije dosad.
+01:10:36:Javite svim komandama. izraèunajte svaku|destinaciju tokom njihove zadnje putanje.
+01:10:42:Da, Gospodaru. Naæi æemo ih.
+01:10:44:Nemojte me ponovo iznevjeriti, Admirale.
+01:10:51:Uzbuna svim komandama. Raširite flotu.
+01:11:08:Kapetane Solo, ovaj put ste otišli predaleko.
+01:11:11:Ne, neæu šutjeti, Chewbacca.|Zašto me niko ne sluša?
+01:11:15:Flota se razdvaja.
+01:11:17:Idi nazad i stani pored ruènog|prekidaèa za kandžu za slijetanje.
+01:11:22:Ne vidim kako ovo može pomoæi. U |ovakvim prilikama predaja je sasvim prihvatljiva.
+01:11:28:Imperija može biti velikodušna...
+01:11:29:Hvala.
+01:11:30:Šta si mislio|kao slijedeæi potez? Imperija obièno izbaci|otpad prije nego uðu u brzinu svijetlosti.
+01:11:37:Samo otplovimo sa smeæem. Šta onda?
+01:11:40:Onda samo naðemo sigurnu luku|negdje ovdje. Ideje?
+01:11:45:Ne. Gdje smo mi?|Anoat sistem..
+01:11:47:Anoat sistem. Nema toga puno.
+01:11:50:Ne. Èekaj. Ovo je interesantno. Lando.
+01:11:54:Lando sistem?
+01:11:56:Lando nije sistem, to je èovjek.|Lando Calrissian.
+01:12:00:Kartaroš, kockar, zlobnik.|Svidjeæe ti se.
+01:12:03:Hvala.
+01:12:05:Bespin. Daleko je,|ali mislim da možemo uspjeti.
+01:12:08:Rudarska kolonija?
+01:12:10:Da, Tibanna rudnik gasa.|Lando je nekoga prevario za njega.
+01:12:14:Lando i ja se znamo odavno.
+01:12:18:Može li mu se vjerovati?
+01:12:19:Ne. ali ne voli Imperiju,|to ti mogu reæi.
+01:12:25:Idemo, Chewie. Spreman. Otkaèi!
+01:12:34:Imaš svojih momenata.|Ne puno, ali ih imaš.
+01:13:12:Koncentriši se...|Osjeti Silu kako teèe. Da. Dobro. Mirno.
+01:13:32:Kroz Silu, vidjeæeš stvari.|Druga mjesta. Buduænost...Prošlost.|Prijatelje kojih nema.
+01:13:42:Han! Leia!
+01:13:48:Kontrola, kontrola. Moraš nauèiti kontrolu.
+01:13:57:Vidio sam... grad u oblacima.
+01:14:00:Tamo imaš prijatelje.
+01:14:05:Bili su u mukama.
+01:14:07:To je buduænost koju vidiš.
+01:14:09:Buduænost? Hoæe li oni umrijeti?
+01:14:23:Teško je to vidjeti.|Buduænost se stalno mijenja.
+01:14:30:Moram iæi kod njih.
+01:14:34:Moraš odluèiti kako|da im najbolje pomogneš.
+01:14:37:Ako odeš sad, možeš im pomoæi.
+01:14:41:Ali æeš uništiti sve za šta|su se borili i patili.
+01:14:57:Ne, nemam dozvolu za slijetanje.|Treba mi Lando Calrissian.
+01:15:04:Stani! Da ti objasnim.
+01:15:06:Ostaæete na|vašem sadašnjem kursu.
+01:15:08:Malo su nervozni, zar ne?
+01:15:09:Mislila sam da znaš ovu osobu.
+01:15:14:To je bilo davno.|Siguran sam da je zaboravio.
+01:15:25:Imate dozvolu da sletite|na Platformu 3-2-7.
+01:15:28:Hvala.
+01:15:30:Nema razloga za brigu.|Lando i ja znamo se odavno.
+01:15:33:Ko se brine?
+01:16:20:Niko nas nije doèekao.
+01:16:24:Ne sviða mi se ovo.
+01:16:26:Šta bi ti htjela?|Ipak su nam dopustili da sletimo.
+01:16:29:Vidi, ne brini.|Sve æe biti u redu, vjeruj mi.
+01:16:38:Vidiš? Moj prijatelj.|Budi na oprezu, ok?
+01:16:50:Ti ljigavi, prevrtljivi,|prevarante!
+01:16:55:Imaš hrabrosti|da doðeš ovdje, nakon svega.
+01:17:09:Kako si, stari gusaru?|Drago mi je da te vidim! Mislio sam da te|neæu vidjeti nikad? Gdje si bio?
+01:17:14:Doima se prijateljski.|Da...veoma prijateljski.
+01:17:18:Šta radiš ovdje?
+01:17:20:Popravke. Mislio sam da mi možeš pomoæi.
+01:17:22:Šta si mi uradio od broda?
+01:17:23:Tvog broda? Hej, sjeæaš se,|pravedno sam ga osvojio.
+01:17:27:Kako si, Chubacca.|Još si s ovim gubitnikom?
+01:17:36:Zdravo. šta to imamo ovdje? Dobrodošli.|Ja sam Lando Calrissian. Ko ste vi?
+01:17:44:Leia.
+01:17:46:Dobrodošli, Leia.
+01:17:50:U redu, u redu, stari zavodnièe.
+01:17:53:Zdravo, sir. Ja sam See-Threepio,|ljudsko-kiborgski odnosi.|Moji usluge su vama na...
+01:17:59:Dobro!
+01:18:00:Šta je Falconu?|- Hyperdrive.
+01:18:02:Reæi æu ljudima da ga poprave.|Dobro.
+01:18:04:Znaš, taj brod mi je spasio život dosta puta.|Najbrže smeæe u galaksiji.
+01:18:10:Kako rudnik? Da li se isplati?
+01:18:12:Ne onoliko koliko bi ja htio.|Mi smo mala stanica ne toliko uspješna stanica.|Imamo mnogo probema.
+01:18:21:Šta je smiješno?
+01:18:23:Ti. Slušaj se-|zvuèiš kao biznismen, odgovorni voða.
+01:18:27:Ko bi to mislio, ha?
+01:18:29:Znaš, vraæaš mi neke uspomene.
+01:18:32:Da.
+01:18:33:Da, sada sam odgovoran.|to je cijena uspjeha.
+01:18:41:Fino je vidjeti nekoga poznatog.| E chu ta!
+01:18:44:Kako nepristojno!
+01:18:50:Zdravo? Interesantno.
+01:18:54:Ko ste vi?
+01:18:56:Jako mi je žao.|Nisam mislio da smetam.|Molim vas ne ustajte!
+01:19:17:Luke! Moraš završiti obuku.
+01:19:21:Nemogu odvratiti viziju.|Moram pomoæi prijateljima.
+01:19:23:Nesmiješ otiæi!
+01:19:26:Ali Han i Leia æe|umrijeti ako ostanem.
+01:19:27:Ti to neznaš.
+01:19:31:Ni Yoda nemože|znati njihovu sudbinu.
+01:19:34:Ali ja im mogu pomoæi! Osjeæam Silu!
+01:19:37:Ali je nemožeš kontrolisati.|Ovo je opasno vrijeme u kojem æeš biti|na iskušenju od tamne strane Sile.
+01:19:44:Da, da. Slušaj Obi-Wana. Peæina.|Sjeti se peæine!
+01:19:52:Ali toliko sam odtad nauèio. Gospodaru Yoda,|imate moju rijeè da æu završiti zapoèeto.
+01:19:59:Vladar želi tebe i tvoje moguænosti.|Zato æe tvoji prijatelji patiti.
+01:20:05:Baš zato moram otiæi.
+01:20:07:Luke, ne želim da te Imperator otme|kao što je oteo Vadera.
+01:20:13:Neæe.
+01:20:15:Moraju biti sprijeèeni.|Samo pravi Jedi sa silom uz sebe æe|poraziti Vadera i Imperatora.
+01:20:25:Ako sad završiš trening, i odabereš|lakši put, kao Vader, postaæeš agent zla.
+01:20:34:Strpljenja.
+01:20:36:Da žrtvujem Hana i Leiu?
+01:20:38:Ako poštuješ njihovu borbu...da!
+01:20:41:Ako se suprotstaviš Vaderu,|Moraš to sam uraditi. Ja se nemogu miješati.
+01:20:48:Razumijem. Artoo, upali konvertere.
+01:21:00:Luke, ne predaji se mržnji|to vodi u tamnu stranu.
+01:21:07:Jak je Vader.|Ovo što si nauèio te može spasiti.
+01:21:12:U redu. I obeæavam da æu se vratiti.
+01:21:23:Rekao sam ti.|Bezobziran je. To je najgore.
+01:21:29:Taj momak je naša zadnja nada.
+01:21:31:Ne. Ima još jedan.
+01:22:05:Brod je skoro gotov.|dvije ili tri stvari i super smo.
+01:22:08:Što prije to bolje. Nešto nije u redu.|Niko nezna ništa o Threepiu.
+01:22:12:Predugo ga nema da bi bio izgubljen.
+01:22:15:Opusti se. Prièaæu sa Landom i vidjeti|šta mogu saznati.
+01:22:19:Ne vjerujem Landu.
+01:22:22:Ni ja mu ne vjerujem.|Ali on mi je prijatelj.
+01:22:25:Uostalom, idemo uskoro.
+01:22:30:Ti jedva èekaš da odeš,|zar ne?
+01:23:05:Šta je bilo?
+01:23:07:Gdje? Našao si ga na otpadu?
+01:23:12:Kakav nered.|Chewie, možeš li ga popraviti?
+01:23:17:Lando ima ljude koji ga mogu popraviti.
+01:23:19:Ne, hvala.
+01:23:22:Žao mi je. Da li prekidam nešto?
+01:23:24:Ne.
+01:23:29:Prekrasno izgledaš.|Sasvim pripadaš ovdje meðu oblacima.
+01:23:34:Hvala.
+01:23:36:Hoæeš li mi se|pridužiti uz osvježenje?
+01:23:38:Svi su pozvani, naravno.
+01:23:42:Imate problema sa vašim droidom?
+01:23:43:Ne. Nema problema. Zašto?
+01:23:54:Vidiš, mi smo mala operacija,|i ne potpadamo pod jurisdikciju Imperije.
+01:24:00:Onda ste dio rudarskog udruženja ?
+01:24:01:Ne. Premali smo da nas primjete,|što je dobro jer naše mušterije|ne vole da budu primjeæene.
+01:24:11:Zar se ne bojiš da æe Imperija|saznati za vas i zatvoriti vas?
+01:24:15:Ta opasnost nas stalno visi|nad glavom. Ali razvili smo sigurnost.
+01:24:21:Upravo smo postigli dogovor koji|æe Imperiju zauvijek držati dalje od nas.
+01:24:34:Bila bi nam èast|da nam se pridružite.
+01:24:43:Nisam imao izbora.|Stigli su prije vas. Žao mi je.
+01:24:51:I meni je žao.
+01:25:07:Ne, Threepio je s njima.
+01:25:09:Drži se. Skoro smo tu.
+01:26:07:Skidaj ovo!
+01:26:09:Nisam mislio da smetam.|Ne, ne...Molim vas ne ustajte. Ne!
+01:26:17:Stormtrooperi? Ovdje? U opasnosti smo.|Moram reæi ostalima. O, ne! Pogoðen sam!
+01:26:50:Gospodaru Vader.
+01:26:52:Možeš odvesti Kapetana Sola Jabbi Hutu|nakon što ja uhvatim Skywalkera.
+01:26:57:On mi ne vrijedi mrtav.
+01:26:59:Neæe biti trajno ošteæen.
+01:27:04:Gospodaru Vader, šta æemo sa Leiom i Wookieem?
+01:27:07:Nikad nesmiju napustiti ovaj grad.
+01:27:10:To nije bio uslov dogovora,|kao ni predaja Hana ovom lovcu na ucjene!
+01:27:13:Možda misliš da se prema|tebi nije fer postupalo.
+01:27:19:Ne.
+01:27:21:Dobro. Bilo bi loše ako bi|morao ostaviti garnizon ovdje.
+01:27:26:Ovaj dogovor postaje sve gori.
+01:27:30:O, da, to je veoma dobro. Sviða mi se.|Nešto nije u redu jer sad ne vidim.
+01:27:40:Stani. Stani! šta si uradio?
+01:27:44:Naopako sam ti vreæo krzna.|Samo si ti dovoljno glup...
+01:28:04:Osjeæam se užasno.
+01:28:21:Zašto ovo rade?
+01:28:25:Ništa me nisu pitali.
+01:28:32:Lando.
+01:28:37:Bježi odavde, Lando!
+01:28:38:Zaveži i slušaj! Vader je pristao|da preda Leiu i Chewia meni. Tebi?
+01:28:42:Moraæe ostati ovdje,|ali bar æe biti sigurni.
+01:28:44:A Han?|- Vader ga daje lovcu na ucjene.
+01:28:46:Vader nas želi mrtve. On vas|uopšte ne želi. On želi Skywalkera.
+01:28:51:Luka?|Gospodar Vader je stavio zamku za njega.
+01:28:53:A mi smo mamac.|On je na putu ovdje.
+01:28:56:Savršeno. Dobro si nam smjestio,|Prijatelju!
+01:29:03:Stani! Uradio sam sve što mogu.|Žao mi je ali imam ih svojih problema.
+01:29:10:Da, ti si pravi heroj.
+01:29:24:Baš znaš s ljudima.
+01:29:40:Ovo postrojenje je grubo, ali|æe biti dovoljno da smrzne|Skywalkera za put Impreatoru.
+01:29:47:Gospodaru Vader, brod dolazi. X-wing klasa.
+01:29:50:Dobro. Pratite Skywalkera|i pustite ga da sleti.
+01:29:54:Gospodaru Vader, ovo |koristimo samo za karbonsko smrzavanje.|Ako ga stavite unutra može umrijeti.
+01:29:59:Ne želim Imperatorovu nagradu ošteæenu.|Testiraæemo ga na Kapetanu Solou.
+01:30:28:Da si mi spojio noge ,|Ne bih bio u ovoj užasnoj poziciji.
+01:30:32:Sjeæaš se, Chewbacca, odgovaraš|za mene, ne radi ništa glupo.
+01:30:50:Šta se dešava...druže?
+01:30:53:Stavljaju te u karbonsko zamrzavanje.
+01:30:55:Šta ako ne preživi?|Puno mi vrijedi.
+01:30:59:Imperija æe kompenzirati njegovu smrt.|Stavite ga unutra!
+01:31:05:O, ne! Ne, ne, ne! Stani, Chewbacca, stani...!
+01:31:07:Stani, Chewie, stani! Èuješ li? Stani!
+01:31:10:Da, stani, molim te! Nisam spreman da umrem.
+01:31:14:Chewie! Chewie, to mi ne pomaže!
+01:31:17:Štedi snagu. Biæe prilike.
+01:31:20:Princeza -- pazi na nju.|Èuješ li?
+01:31:42:Volim te!
+01:31:43:Znam.
+01:32:12:Šta...se dešava? Okreni se,|Chewbacca, ne vidim.
+01:33:13:Oh...zarobili su ga u karbonitu.|trebao bi biti zaštiæen ako preživi.
+01:33:19:Pa, Calrissian, hoæe li preživjeti?|- Da, živ je. Savršena hibernacija.
+01:33:27:Tvoj je.|podesite sobu za Skywalkera.
+01:33:34:Skywalker je sletio, Gospodaru.
+01:33:36:Dobro. Pobrini se da nas naðe.
+01:33:44:Calrissian, odvedi princezu i|Wookieea na moj brod.
+01:33:47:Rekao si da æe ostati u|gradu pod mojom jurisdikcijom.
+01:33:50:Mjenjam dogovor.|Moli se da ga još više ne promijenim.
+01:35:28:Luke! Luke, ne -- to je zamka!|To je zamka!
+01:36:17:Sila je s tobom, mladi Skywalkeru.|Ali još nisi Jedi.
+01:37:23:Odlièno. èuvaj ih u tornju|i budi tih.
+01:37:36:Šta to radiš?|Idemo odavde.
+01:37:38:Odmah sam znao da je to greška.
+01:37:40:Misliš da æemo ti|vjerovati nakon svega?
+01:37:44:Nisam imao izbora...|Šta radiš? Vjeruj mu, vjeruj mu!
+01:37:47:Mi razumijemo, zar ne, Chewie?|Nije imao izbora.
+01:37:50:Samo hoæu da pomognem...
+01:37:52:Ne trebamo tvoju pomoæ.
+01:37:59:Šta?
+01:38:01:Zvuèi kao Han.
+01:38:03:Han se još može spasiti...Mislim,|na Istoènoj Platformi...
+01:38:10:Chewie.
+01:38:13:Žao mi je zbog ovog.|Uostalom, on je Wookiee.
+01:38:18:Stavite Kapetana Sola u teretni dio.
+01:38:35:Artoo! Artoo! Gdje si bio?
+01:38:38:Okreni se, ti...! požuri!|Pokušavamo da spasimo Hana od lovca na ucjene.
+01:38:46:Bar si u jednom komadu!|Vidi šta se meni desilo!
+01:39:17:Nauèio si mnogo, mladiæu.
+01:39:19:Vidjeæeš da sam pun iznenaðenja.
+01:39:32:Tvoja sudbina je kod mene, Skywalker.|Obi-Wan zna da je ovo istina.
+01:39:38:Ne!
+01:39:46:Prelako je.|Možda nisi jak kao što je Imperator mislio.
+01:39:58:Impresivno...jako impresivno.
+01:40:10:Obi-Wan te je dobro nauèio.|Savladao si strah...|sad oslobodi bijes.
+01:40:20:Samo tvoja mržnja me može uništiti.
+01:42:28:Promjenili su sigurnosnu šifru!
+01:42:30:Artoo, reci kompjuteru|da zaobiðe sigurnosni sistem.
+01:42:38:Pažnja! Govori Lando Calrissian.|Imperija je zauzela grad. Neka svi napuste grad.
+01:42:52:Ovuda.
+01:42:54:Ne krivite mene. Ja sam prevodilac.|Neznam popraviti kompjuterski terminal.
+01:43:19:O èemu prièaš?|Ne interesuje nas hyperdrive na|Millennium Falconu. Popravljen je!
+01:43:27:Samo otvori vrata, glupa izboèino.
+01:43:38:Nisam sumnjao u tebe ni na sekund.|Krasno!
+01:44:02:To je bolilo! Sagni se,|glupko!
+01:44:12:Leia! Hajde!
+01:44:21:Mislio sam da æe mi ona zvijer doæi glave.|Naravno da sam, izgledao bolje.
+01:45:18:Poražen si. ne opiri se.|Nemoj dopustiti da te uništim kao Obi-Wana.
+01:45:39:Nema bijega. Nemoj me tjerati da te uništim.
+01:45:47:Ne shvataš koliko si važan.|Tek otkrivaš svoje moæi.
+01:45:53:Pridruži mi se i završi trening.|Zajedno možemo okonèati sve|ovo i dovesti galaksiju u red.
+01:46:05:Nikad ti se neæu pridružiti!
+01:46:07:Kad bi samo znao moæ tamne strane.
+01:46:11:Obi-Wan ti nije rekao|šta ti se desilo ocu.
+01:46:15:Rekao mi je dovoljno!|Rekao mi je da si ga ubio.
+01:46:21:Ne. Ja sam tvoj otac.
+01:46:29:Ne. Ne. To nije istina!|To je nemoguæe!
+01:46:37:Potraži osjeæaje.|Znaš da je istina.
+01:46:42:Ne! Ne!
+01:46:48:Luke. Možeš uništiti Imperatora.|On je ovo previdio.
+01:46:53:To je tvoja sudbina. Pridruži mi|se da vladamo galaksijom kao otac i sin.
+01:47:12:Poði sa mnom. To je jedini put.
+01:48:32:Leia...
+01:48:51:Èuj me! Leia!
+01:48:55:Luke...Moramo se vratiti.
+01:49:00:Šta?|- Znam gdje je Luke.
+01:49:02:A oni fighteri?
+01:49:04:Chewie, samo to uradi.
+01:49:06:A Vader?|U redu, u redu, u redu.
+01:49:30:Vidi, neko je tamo.
+01:49:34:To je Luke. Chewie, uspori.|Uspori i doði ispod njega.
+01:49:37:Lando, otvori gornji poklopac.
+01:49:54:Ok. Polako, Chewie.
+01:50:18:Lando?|- Ok, idemo.
+01:50:36:Leia.
+01:50:39:U redu, Chewie. Idemo.
+01:51:14:Vratiæu se.
+01:51:21:Star Destroyer.
+01:51:27:U redu, Chewie.|spremi se za brzinu svjetlosti.
+01:51:30:Ako su tvoji ljudi napravili hyperdrive. |Sad ili nikad, koordinate su tu.
+01:51:34:Nagazi!
+01:51:46:Rekli su mi da su popravili.|Nije moja greška, vjerovao sam im!
+01:51:58:Za momenat æe biti na dometu|traktorske zrake, Gospodaru.
+01:52:00:Da li su tvoji ljudi deaktivirali|hyperdrive na Millennium Falconu?
+01:52:05:Da, Gospodaru.|- Dobro. Pripremite doèek i|stavite oružje na omamljivanje.
+01:52:10:Da, Gospodaru. Narednièe!|- Da, sir.
+01:52:14:Glasna zvijer. Zašto jednostavno|ne uðemo u brzinu svjetlosti?
+01:52:18:Ne možemo?|Kako znaš da hyperdrive ne radi?
+01:52:25:Glavni gradski kompjuter ti je rekao?|Artoo-Detoo, znaš ti i bolje nego|da vjeruješ nekom kompjuteru.
+01:52:44:Luke.
+01:52:46:Oèe.
+01:52:49:Sine, poði sa mnom.
+01:52:53:Ben, zašto mi nisi rekao?
+01:53:03:Chewie!
+01:53:15:To je Vader.
+01:53:22:Luke...to je tvoja sudbina.
+01:53:30:Ben, zašto mi nisi rekao?
+01:53:41:Uzbuna svim komandama.|Spremite traktorsku zraku.
+01:53:48:Artoo, odmah se vrati!|Nisi još završio! Neznaš popraviti hyperdrive.|Chewbacca æe to uraditi.
+01:53:54:Stojim ovdje u komadima,|a ti misliš da si velikan!
+01:54:02:Oh, uspio si!
+01:54:58:Luke, spremni smo za polijetanje.
+01:55:00:Sretno, Lando.|Kada naðem Jabbu Huta i onog lovca na ucjene,|kontaktiraæu vas.
+01:55:06:Srešæemo se na taèki sastanka na Tatooini.
+01:55:09:Princezo, naæi æemo Hana. Obeæavam.
+01:55:12:Chewie, èekam tvoj signal.
+01:55:15:Èuvajte se vas dvoje. Neka Sila bude s vama.
+00:00:00:

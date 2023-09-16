@@ -1,0 +1,1251 @@
+//Font select and font size
+$FontName       = Arial
+$FontSize       = 33
+
+//Character attributes (global)
+$Bold           = true
+$UnderLined     = FALSE
+$Italic         = FALSE
+
+//Position Control
+$HorzAlign      = Center
+$VertAlign      = Bottom
+$XOffset        = 0
+$YOffset        = -12
+
+//Contrast Control
+$TextContrast           = 15
+$Outline1Contrast       = 8
+$Outline2Contrast       = 15
+$BackgroundContrast     = 0
+
+//Effects Control
+$ForceDisplay   = FALSE
+$FadeIn         = 0
+$FadeOut        = 0
+
+//Other Controls
+$TapeOffset          = FALSE
+//$SetFilePathToken  = <<:>>
+
+//Colors
+$ColorIndex1    = 0
+$ColorIndex2    = 1
+$ColorIndex3    = 8
+$ColorIndex4    = 3
+
+//Subtitles
+00:01:59:14,00:02:02:19,BESMRTAN|(a.k.a. 22 METKA)
+00:02:07:18,00:02:09:21,Skoèi! Skoèi!
+00:02:13:25,00:02:14:22,Visoko!
+00:02:15:13,00:02:16:12,Tako, bravo!
+00:02:17:03,00:02:18:01,Pametan pas!
+00:04:28:24,00:04:30:19,Tata, mogu li iæi malo razgledati?
+00:04:30:20,00:04:31:12,O, molim te!
+00:04:31:12,00:04:33:14,Ok, ja æu parkirati.
+00:04:34:04,00:04:35:02,Samo nemoj trèati!
+00:04:35:04,00:04:35:17,Ok!
+00:07:25:03,00:07:29:10,Èudnim se stvarima bavim, što ih je|više, moraš iæi do kraja.
+00:07:29:11,00:07:31:21,I ne ostavljaju ti nikakvog izlaza.
+00:07:31:21,00:07:34:06,To je kao prokletstvo. Doživotno.
+00:07:34:07,00:07:37:01,A krv se nije osušila.
+00:07:37:16,00:07:39:06,Prolivena krv se ne suši.
+00:07:39:13,00:07:41:08,Èuješ li? Nikada!
+00:07:42:01,00:07:44:08,Ti si moj život kojeg živim|u strahu.
+00:07:44:08,00:07:46:16,Opustiš se na trenutak|- I nema te.
+00:07:49:18,00:07:51:06,Zatvor - To je kraj igre.
+00:07:52:13,00:07:54:13,Ali obièno zbog gluposti.
+00:07:55:01,00:07:57:08,A onda za mesec dana izaðeš,|sve je zaboravljeno...
+00:07:57:09,00:07:58:23,I živiš kao|kao normalna osoba.
+00:08:03:11,00:08:05:03,Eli, spremi se.
+00:08:12:16,00:08:15:11,I veruj mi, dragi,|bolje ti je da se ne vraæaš.
+00:08:20:04,00:08:21:21,Dobar si ti momak, Èarls.
+00:09:08:24,00:09:11:21,Goldman, Eli. Ustreljen na zadatku.
+00:09:19:02,00:09:20:22,Ranjen u pucnjavi. Disanje je otežano.
+00:09:20:22,00:09:22:17,Kardiovaskularna funkcija ugrožena.
+00:09:24:24,00:09:27:02,Ritam srca usporava.|Gubimo ga!
+00:09:38:09,00:09:39:07,Kad ste ga našli?
+00:09:39:08,00:09:40:04,Pre deset minuta.
+00:09:40:19,00:09:41:09,Puls, krvni pritisak?
+00:09:41:14,00:09:43:12,Puls 70, pritisak 90 sa 60.
+00:09:43:14,00:09:44:04,Koliko je sati?
+00:09:44:07,00:09:45:04,Daj mu adrenalin.
+00:09:58:07,00:09:59:17,Dovraga s vašim guzicama!
+00:09:59:19,00:10:03:19,A on odgovori: "Samo ništa ne|stavljaj unutra ako nisi siguran "
+00:10:04:04,00:10:06:04,A gradonaèelnik razmisli pa reèe...
+00:10:09:22,00:10:12:24,Da, zaista ste potpuno zbunjeni|s ovim guzicama.
+00:10:13:22,00:10:17:09,Uopšte ništa ne razumem,|zašto se svaðamo!
+00:10:18:12,00:10:19:07,Jel' ti to pušiš?
+00:10:24:20,00:10:25:22,Pušiš u mojoj kuæi?
+00:10:30:15,00:10:30:25,Halo!
+00:10:31:22,00:10:32:12,Halo!
+00:10:34:20,00:10:35:07,Halo!
+00:10:38:10,00:10:38:22,Šta?
+00:10:39:25,00:10:40:22,To je loše.
+00:10:41:15,00:10:42:15,Nazvaæu te kasnije.
+00:10:46:12,00:10:48:17,Da. Mrtav je?
+00:10:51:25,00:10:53:02,Dobar razgovor.
+00:10:53:22,00:10:56:12,Gospodine Martineri,|morate prvo pokucati!
+00:10:56:17,00:10:59:22,Ovo je vrlo važna stvar,|inaèe Vam ne bih dosaðivao.
+00:10:59:23,00:11:02:05,O obraèunu poreza.
+00:11:03:07,00:11:04:15,Rekoh, moraš pokucati!
+00:11:06:20,00:11:07:15,K- K- K- Kapiraš?
+00:11:08:22,00:11:11:17,Osim tog sranja što ga imaš u ruci,|još si i gluv.
+00:11:11:18,00:11:14:05,Izaði, pokucaj i uði!
+00:11:22:05,00:11:23:00,"Knock"
+00:11:23:08,00:11:24:10,Puštate me unutra?
+00:11:37:10,00:11:39:03,Pincetu! Skalpel!
+00:11:41:23,00:11:44:11,Èarly Matei, 57 godina,
+00:11:44:11,00:11:47:00,koji se smatra jednim|od kumova u ovom gradu...
+00:11:47:01,00:11:49:08,Danas je bio na Intenzivnoj u|bolnici Timon.
+00:11:49:10,00:11:51:10,Stanje je teško, ali stabilno.
+00:11:51:13,00:11:52:10,Daj mi Goldmanovu.
+00:11:53:23,00:11:55:13,Mnogostruke povrede, ali je preživeo.
+00:11:56:00,00:12:01:20,Tri godine se Èarly Matei borio za|prevlast sa drugim šefovima.
+00:12:01:21,00:12:04:12,Uglavnom sa Tonijem i Aurelem Zakijom|Rampaul.
+00:12:04:13,00:12:08:10,Pripisuju mu se razni zloèini,|ali uglavnom nedokazani.
+00:12:08:11,00:12:12:10,Kruže glasine da je Èarls Matei|bio penzionisan...
+00:12:12:10,00:12:15:15,I da je posvetio život porodici,|ženi Hristel i dvoje dece.
+00:12:15:16,00:12:18:05,Ne, ne, gospodine.|Radimo profesionalno.
+00:12:18:13,00:12:20:20,U staroj su luci pronaðena|dva ukradena vozila.
+00:12:22:11,00:12:24:06,Jesu li veæ poznati napadaèi?
+00:12:28:16,00:12:30:16,Primili smo anonimni poziv i|novinari su navalili.
+00:12:30:16,00:12:34:13,Ne, gospodine, poziv je bio anoniman.
+00:12:35:21,00:12:36:18,Ne, gospodine...
+00:12:38:11,00:12:40:21,Mislite da volim da radim u|ovakvim uslovima?
+00:12:44:21,00:12:47:21,Naravno, gospodine, uèiniæu|sve što je potrebno.
+00:12:48:08,00:12:49:01,Javiæu se.
+00:12:56:13,00:12:58:06,Dragi moj, èuo si šta sam ti rekao?
+00:13:00:06,00:13:01:10,Imam vrlo malo vremena.
+00:13:01:11,00:13:04:08,Da, èuo sam, Aurelio,|rekao si mi da nikad ne...
+00:13:04:09,00:13:06:18,Ne, ne, Bertrand, šta sam ti|taèno rekao?
+00:13:06:21,00:13:08:18,Ponovi reè po reè.|Reèi imaju znaèenje.
+00:13:08:21,00:13:11:23,Rekao si mi, Bertrand,|da ti trebam verovati.
+00:13:11:24,00:13:12:23,Mi smo prijatelji.
+00:13:13:01,00:13:13:21,Mi smo prijatelji!
+00:13:14:06,00:13:14:23,Mi smo prijatelji.
+00:13:15:11,00:13:16:06,Da, moji prijatelji!
+00:13:16:07,00:13:17:06,Da, taèno!
+00:13:17:16,00:13:19:14,Treba mi ti verovati,|jer smo prijatelji!
+00:13:20:06,00:13:23:11,Pa ipak, verujem da si ti|crna ovca u porodici!
+00:13:23:12,00:13:24:19,To je to! Odlièno, Bertrand!
+00:13:25:04,00:13:28:04,A šta sam ja onda rekao?|Hajde, priseti se.
+00:13:28:14,00:13:29:02,Onda?
+00:13:29:03,00:13:29:16,Da.
+00:13:30:11,00:13:32:01,Rekao si da ako uzmem pa makar|i samo jedan gram...
+00:13:32:02,00:13:33:11,Pa èak i manje od toga...
+00:13:34:16,00:13:36:03,Stvar principa!
+00:13:36:04,00:13:38:18,Vidiš, ja se isto toga seæam.|Prièekaj, oprosti.
+00:13:38:19,00:13:40:17,Molim te, Aurelio, ja ne grešim!|Nisam uzeo!
+00:13:40:17,00:13:42:16,Oèito imam rupu u jakni!|Nemoj me ubiti!
+00:13:46:16,00:13:47:24,Da, sad èujem bolje.
+00:13:48:14,00:13:48:24,Da.
+00:13:57:01,00:13:59:11,Ej, momci, kažu da je Matei|pronaðen u staroj luci.
+00:13:59:16,00:14:00:13,Upucali su ga.
+00:14:00:13,00:14:01:08,Je li mrtav?
+00:14:01:09,00:14:02:21,Nije jasno. Ne zna se taèno.
+00:14:10:06,00:14:11:01,Makaze!
+00:14:12:21,00:14:13:11,Pincetu!
+00:14:22:04,00:14:23:19,Emitujemo najnovije vesti.
+00:14:23:24,00:14:28:09,Èuli smo da je Mark Aldmano zvani|Ein, poznati voða kriminalaca..
+00:14:28:10,00:14:30:17,Ubistvo u baru na trgu Lenzh.
+00:14:31:02,00:14:35:24,Prema policiji, ubice su delovale|prema nepisanom kodeksu mafije.
+00:14:45:17,00:14:46:22,Dobar dan, g. Fernandez.
+00:14:48:24,00:14:50:20,Gospodine Fernandez, g. Fernandez!
+00:14:50:21,00:14:52:17,Doviðenja, gospodine Fernandez.
+00:15:08:09,00:15:09:04,Jesi li ti lud?
+00:15:09:17,00:15:12:02,Ubiti Fernandeza - To je|isto kao ubiti papu.
+00:15:12:03,00:15:14:12,Pa moraæemo ubiti papu!
+00:15:19:24,00:15:21:04,Zaklinjemo se na prijateljstvo|do smrti!
+00:15:23:20,00:15:25:02,Zaklinjemo se na prijateljstvo|do smrti!
+00:15:33:10,00:15:34:12,Zaklinjemo se na prijateljstvo|do smrti!
+00:16:03:10,00:16:05:10,Tata! Tata!
+00:16:25:03,00:16:26:09,Jeste li videli onog Mateija?
+00:16:26:10,00:16:29:10,Da, pre deset godina, kad|sam tek došla u policiju.
+00:16:29:15,00:16:31:10,Obraèunao se s drugom ženom.
+00:16:31:20,00:16:32:13,A šta je s prvom?
+00:16:33:13,00:16:36:18,Prvu je upoznao davno, s njom ima kæer,|a onda...
+00:16:37:05,00:16:39:03,otišla je s njegovim advokatom|Beaudinardom.
+00:16:39:18,00:16:41:04,Od koga je saznao?
+00:16:41:05,00:16:43:13,Od jedne prostitutke,|Hristele Kolarov.
+00:16:43:23,00:16:45:08,Radila je za Pistachija.
+00:16:45:20,00:16:48:08,Matei se u nju zaljubio do ušiju,|išèupao ju je iz govana...
+00:16:48:23,00:16:51:15,Otkupio od makroa, izleèio,|i ona mu je rodila sina.
+00:17:12:10,00:17:13:08,Marie Goldman.
+00:17:18:10,00:17:20:15,Sad više ne šetaju toliko|po gradu kao pre.
+00:17:20:16,00:17:22:08,Uvek novi ljudi u Marseju!
+00:17:22:18,00:17:25:16,Stalno vrbuju imigrante.
+00:17:26:11,00:17:28:15,Znaš li kako je Luj XIV|zauzeo Marsej?
+00:17:28:16,00:17:31:01,Naredio je da se sagrade topovska utvrðenja|Sent- Džin i San Nikolas
+00:17:31:01,00:17:33:11,i okrenuo topove prema gradu.
+00:17:34:13,00:17:35:23,Kakve to veze ima s nama?
+00:17:36:06,00:17:38:21,Znaš li koji je bio moto Luja XIV?
+00:17:39:13,00:17:41:01,Pa, ne, gospodine.
+00:17:41:11,00:17:44:13,Luj XIV obièavao je reæi:|Strpljivi æe pobediti.
+00:17:45:16,00:17:46:13,I ja se slažem s njim.
+00:17:46:18,00:17:50:01,Treba strpljivosti da se pomete|sva neèistoæa u ovom gradu.
+00:17:50:03,00:17:52:16,Oni se hoæe poubijati meðusobno?|Pa nek se poubijaju.
+00:17:52:17,00:17:54:13,Biæe lakše za nas.|To je moje mišljenje.
+00:17:55:01,00:17:56:15,Mislila sam da smo angažovani|u istrazi.
+00:17:56:16,00:18:01:03,Ne, Goldman, naš je zadatak da štitimo|pristojne ljude. Neulepšana istina.
+00:18:01:06,00:18:04:01,Ako neki bandit umre,|zadatak se time završava.
+00:18:04:16,00:18:05:11,Matei je mrtav?
+00:18:05:21,00:18:06:21,Ne, probudio se iz kome.
+00:18:06:23,00:18:09:23,Ispitaj ga seæa li se,|bio je napadnut - Dobro?
+00:18:09:24,00:18:11:10,Ako ne - Opet dobro.
+00:18:11:11,00:18:14:06,Bilo kako bilo, zaèudiæe me|ako bilo šta kaže.
+00:18:14:07,00:18:14:21,Goldman!
+00:18:15:21,00:18:17:06,Ne pravite od ovoga privatni rat.
+00:18:18:23,00:18:23:08,Da, Vaš je muž bio izuzetno dobar policajac,|ali ponekad je previše rizikovao.
+00:18:23:21,00:18:26:01,Posmrtno ordenje - To je glupost.
+00:18:26:16,00:18:28:21,Njegov ubica je ostao nekažnjen,|to je loše!
+00:18:37:04,00:18:38:11,Seæate li se ijednog napadaèa?
+00:18:40:11,00:18:41:19,Možda poznajete nekog?
+00:18:43:11,00:18:46:19,Gospodine Matei, ako želite da ih|pronaðemo, pomozite nam.
+00:18:47:04,00:18:49:10,Vi znate šta æe oni preduzeti.
+00:18:49:11,00:18:52:09,Od nas æete dobiti èuvara, ali nije|verovatno da æe ih to zaustaviti.
+00:18:52:21,00:18:53:21,Dogovorimo se.
+00:19:00:14,00:19:01:04,Ne.
+00:19:05:16,00:19:07:19,Ne, ne, ne! Doviðenja, gospodine.
+00:19:08:01,00:19:10:06,Ubuduæe me unapred upozorite|da æete ga posetiti.
+00:19:10:07,00:19:11:01,To je moj posao.
+00:19:11:09,00:19:12:04,Neæu Vam dosaðivati.
+00:19:13:01,00:19:15:14,Recite svom klentu da nam pomogne.|U njegovom najboljem interesu
+00:19:16:21,00:19:17:09,Gospode!
+00:19:19:24,00:19:20:24,Vidi koga sam doveo.
+00:19:28:07,00:19:28:19,Mama...
+00:19:31:04,00:19:33:04,A kad umreš, to je zauvek?
+00:19:33:19,00:19:34:24,Da, sine, to je zauvek.
+00:19:35:24,00:19:37:22,Znaèi, tata æe zauvek ostati u zemlji?
+00:19:41:17,00:19:42:12,Ne, šta to govoriš.
+00:19:53:04,00:19:53:22,Tvoj tata...
+00:19:54:22,00:19:56:14,Tvoj tata je na nebu.
+00:19:57:14,00:19:59:17,Ponosan je na tebe i|gleda kako rasteš.
+00:20:01:12,00:20:02:14,Sreæan je zbog tebe.
+00:20:02:15,00:20:03:11,On me vidi?
+00:20:03:12,00:20:04:07,Da, vidi te.
+00:20:04:09,00:20:05:12,I ispod kauèa?
+00:20:05:22,00:20:07:19,Da, ispod kauèa takoðe.
+00:20:07:20,00:20:09:17,Zašto nikad ne nazove?
+00:20:11:12,00:20:15:22,Zato što tamo nema telefona,|ali ipak vidi i veseli se.
+00:20:17:09,00:20:18:22,Vidi te i èuje te.
+00:20:20:04,00:20:21:12,Spavaj, maèkice.
+00:20:23:10,00:20:24:02,Volim te.
+00:20:33:07,00:20:33:20,Halo.
+00:20:36:07,00:20:36:22,Halo!
+00:20:58:25,00:21:00:22,Dok se Èarly ne oporavi,|ne može biti transportovan.
+00:21:01:05,00:21:03:22,A šta možeš ti, on samo leži|i glupo èeka da se ovo svrši.
+00:21:04:10,00:21:05:10,Ne znaju šta da urade.
+00:21:05:25,00:21:07:06,Pa, nismo uradili ništa.
+00:21:07:07,00:21:08:17,Nemoguæe je ostaviti ga ovde!
+00:21:09:15,00:21:10:10,Šta mi nudimo?
+00:21:10:22,00:21:12:12,Da spali Marsej?|Podigne vojsku?
+00:21:12:17,00:21:14:02,Samo su trojica. To je sitnica.
+00:21:20:22,00:21:22:12,Èovek ga ne može ostaviti.
+00:21:26:08,00:21:27:23,Prijatelju, slušaj kolege.
+00:22:20:20,00:22:23:06,Šta su uradili?|Šta su mu to uèinili?
+00:22:44:06,00:22:44:22,Oporavlja se.
+00:22:44:23,00:22:46:13,Ali besramno je licemeran.
+00:23:08:01,00:23:08:13,U redu.
+00:23:49:09,00:23:52:11,Ovde Zarazno. Sad su kompletni.|Bolje da budemo sigurni.
+00:24:03:06,00:24:05:01,Idem zapaliti jednu.|Neæu vam smetati.
+00:24:09:09,00:24:10:11,Kako da se brinemo za tebe?
+00:24:11:24,00:24:14:06,Pa, znaj da uvek zakljuèavam.
+00:24:14:09,00:24:15:19,I ne dam Hristele da se brine.
+00:24:20:09,00:24:23:16,Doneo sam ti cveæe...
+00:24:24:22,00:24:25:14,Hajde!
+00:24:25:19,00:24:26:12,Otvorite vrata!
+00:24:27:14,00:24:29:02,Pokaži mu cveæe, tako!
+00:24:31:04,00:24:31:19,Pogledaj!
+00:24:34:09,00:24:35:19,Kako tužno lepo.
+00:24:35:24,00:24:36:12,Da.
+00:24:36:22,00:24:37:22,Dobro je sad, zatvori vrata!
+00:24:39:09,00:24:41:04,Ne brini, najvažnije je da si preživeo.
+00:24:42:02,00:24:42:18,To je važno.
+00:24:42:19,00:24:44:22,I izgledaš prilièno dobro!|Ozbiljno!
+00:24:44:24,00:24:46:24,Napunili su te sa èak 22 metka!
+00:24:47:14,00:24:49:13,Veæ nakon dve nedelje æeš moæi|da hodaš.
+00:24:49:14,00:24:53:02,Pogledaj mene. Pogledaj, ah!|Da, baš se tresem!
+00:24:53:17,00:24:55:14,Bio sam strašno uplašen!|Pogledaj mi lice!
+00:24:56:09,00:24:57:07,Èak i naoèare nosim.
+00:24:59:24,00:25:01:17,Vidi šta sam ti kupio kod Notrdam.
+00:25:02:24,00:25:06:04,Ovo je sveti Pankracije,|muèenik i zaštitnik.
+00:25:06:07,00:25:07:24,Takoðe i moæan iscelitelj.
+00:25:12:02,00:25:15:01,Kažu da ako se oseæaš loše,|on æe te prigrliti.
+00:25:15:02,00:25:16:12,MIKROFONI, KAMERE, MURIJA U|AMBULANTNIM KOLIMA, PARKING.
+00:25:22:09,00:25:24:14,Ti si moj brat, Èarls. Naæi æu te|gadove, obeæavam!
+00:25:30:22,00:25:31:17,Hvala ti.
+00:25:41:02,00:25:42:02,Ovo je za tebe, èokolada.
+00:25:49:07,00:25:51:22,Shvati me, ne mogu mu dati anesteziju.
+00:25:51:23,00:25:52:16,Zašto?
+00:25:52:17,00:25:54:12,Neosetljivi su mu živci na rukama.
+00:25:54:13,00:25:56:05,Neæe mu dozvoliti da zaspi.
+00:25:56:20,00:25:59:20,Da bi ostao u životu,|morao bi da može osetiti bol.
+00:25:59:25,00:26:00:22,I to nije sve.
+00:26:01:17,00:26:02:12,Vidi rentgen.
+00:26:04:10,00:26:05:12,Progutao je pištolj?
+00:26:05:22,00:26:07:16,Ne mogu ga pomerati,
+00:26:07:16,00:26:09:10,pa smo postavili rentgen|direktno iznad njegovog kreveta.
+00:26:09:25,00:26:11:07,Pištolj ispod dušeka.
+00:26:24:10,00:26:28:20,Spavaj, predivno dete,|bajuški...
+00:26:28:23,00:26:33:13,Tihi mesec nek ti obasja kolevku..
+00:27:03:18,00:27:05:15,Ostavio te je, ali još ga uvek voliš.
+00:27:07:13,00:27:10:03,Šta da uèinim kad si tako veliko srce.
+00:27:10:10,00:27:13:18,A ova stvar raste, zvali su ga ludim,|a sada besmrtnim.
+00:27:14:08,00:27:15:13,To je veliki korak.
+00:27:17:10,00:27:18:23,A ja ne bih hteo biti|besmrtan bez tebe!
+00:27:24:05,00:27:25:08,Propustio je poljupce.
+00:27:30:08,00:27:31:18,Ali, odmori se konaèno!
+00:27:33:21,00:27:35:13,Hajde, biæe bolje.
+00:27:56:08,00:27:57:16,Eve, ali molim te tišina, tišina.
+00:27:59:03,00:27:59:18,Eva!
+00:28:06:16,00:28:07:11,Pa, zašto si takva?
+00:28:08:11,00:28:10:03,Tvoja se majka mora odmarati.
+00:28:11:18,00:28:12:18,Zvao sam te.
+00:28:14:11,00:28:15:21,Eva, tebi govorim!
+00:28:20:21,00:28:22:01,Daj, ne plaèi, milo!
+00:28:22:21,00:28:23:13,Ne plaèi.
+00:28:37:16,00:28:40:06,Moja majka umire,|a otac mi je biljka!
+00:28:40:11,00:28:42:01,Kako ne bih plakala, Martine?
+00:28:43:06,00:28:44:21,Obeæao mi je da æe prestati.
+00:28:45:14,00:28:46:16,Zakleo mi se!
+00:28:47:19,00:28:48:24,I mojoj majci.
+00:28:51:21,00:28:54:09,Znao je da je bolesna,|ali ju je prevario.
+00:28:55:01,00:28:57:21,A ja varam?!|On je izdajica i lažov!
+00:28:57:24,00:29:00:21,Ne, ne! Veruj mi, prestao je|s tim, ja znam.
+00:29:00:24,00:29:02:14,Zašto voli da ubija?
+00:29:02:21,00:29:03:14,Ne znam.
+00:29:15:04,00:29:17:01,Ne oseæam ni toplotu ni bol.
+00:29:17:06,00:29:19:06,Ne oseæam kosu na dodir.
+00:29:19:14,00:29:20:04,Dozvolite da...
+00:29:20:11,00:29:20:21,Èarls!
+00:29:21:16,00:29:22:16,Recite mi istinu.
+00:29:24:06,00:29:25:23,Ošteæen Vam je radijalni živac.
+00:29:25:24,00:29:29:06,Uèinili smo sve moguæe, ali|nažalost, izgubiæete prste.
+00:29:31:14,00:29:34:19,Možemo Vam ruku osposobiti za hvatanje|palcem i još jednim prstom...
+00:29:34:22,00:29:37:02,Ali morate nauèiti da se služite|levom rukom.
+00:29:37:19,00:29:38:22,Sad æemo to skloniti.
+00:29:45:22,00:29:48:24,Bog je èuo moje molitve.|Spasio te je.
+00:29:49:09,00:29:51:09,Zato što želi da se promeniš, Èarls.
+00:29:51:22,00:29:52:17,Promenio sam se.
+00:29:53:07,00:29:56:03,Strah me veæ i od pomisli na to,
+00:29:56:03,00:29:57:14,da æe jednog dana neko doæi|i reæi mi novost:
+00:29:57:14,00:29:58:24,Vaš sin, gospoðo Matei...
+00:30:02:02,00:30:02:19,Vaš sin...
+00:30:10:24,00:30:13:02,Obeæaj mi da æu ja umreti prva.
+00:30:14:22,00:30:15:17,Ali rado.
+00:30:24:02,00:30:25:12,Provalili smo onog anonimca!
+00:30:26:02,00:30:28:04,Zvao nas je s mobilnog nedaleko odavde.
+00:30:28:07,00:30:28:21,Odakle?
+00:30:28:22,00:30:30:05,S jednog popularnog mesta.
+00:30:41:05,00:30:42:12,Drago mi je što Vas vidim.
+00:30:43:05,00:30:44:10,Muèi li Vas savest?
+00:30:44:15,00:30:45:20,Šta ste mi želeli reæi?
+00:30:45:22,00:30:46:21,Zatvorili ste nevinog èoveka.
+00:30:46:22,00:30:49:12,Znaèi, ona se sluèajno sama izbola?|Ubila se?
+00:30:50:05,00:30:51:20,Znate zašto me zovu Pistachio?
+00:30:52:02,00:30:53:12,Zbog velièine mozga?
+00:30:55:05,00:30:58:07,Kao pistacija - Stablo.
+00:30:58:25,00:31:00:24,Postoje muška i ženska stabla.
+00:31:00:24,00:31:02:22,Želiš li voæe, posadi oboje.
+00:31:02:25,00:31:05:15,Muško stablo ne može polenom|oploditi više ženskih.
+00:31:06:15,00:31:08:22,Samo jedno, razumete?|Ne toleriše se rivalstvo!
+00:31:09:12,00:31:10:22,Samo jedan gazda.
+00:31:12:05,00:31:13:20,To je vrlo posebna biljka.
+00:31:17:05,00:31:19:12,Reci, ti si taj koji me stalno|tako znalaèki živcira telefonom?
+00:31:19:13,00:31:23:04,Kako zanimljivo. Iz zatvora se|ne može telefonirati.
+00:31:23:05,00:31:25:22,Tvoj mobilni je identifikovan|i moli se Bogu da ga ne naðu.
+00:31:26:10,00:31:27:02,Blefiraš.
+00:31:28:15,00:31:29:18,Ljuta si jer sam dobrog zdravlja.
+00:31:30:23,00:31:31:20,Mrziš li me?
+00:31:31:23,00:31:33:08,Ni Mateiju se ne sviðaš?
+00:31:33:08,00:31:34:13,Hoæeš da priznam?
+00:31:35:05,00:31:38:03,Upozoravam te, to ti neæe upaliti.|Imam alibi za mesec dana.
+00:31:38:03,00:31:40:05,Razumem da ti lièno nisi bio prisutan.
+00:31:40:08,00:31:42:10,Ja bih to obavio puno bolje.|Izrešetao bih ga.
+00:31:42:11,00:31:43:03,Pa ko onda?
+00:31:43:04,00:31:43:20,Otkud ja znam?
+00:31:43:23,00:31:45:15,Rekao sam, nisam prostitutku.
+00:31:46:00,00:31:48:15,Šteta da ne želiš saraðivati.|Mogla bih ti srediti bolje uslove.
+00:31:51:10,00:31:54:10,Ovako, tvoji prijatelji iz æele|biæe sreæni da te imaju na oku.
+00:31:54:13,00:31:55:13,Zaèepi!
+00:31:56:15,00:31:58:18,Kako ne mogu pronaæi drugog|kandidata za ulogu ubice,
+00:31:58:18,00:32:00:20,ti si osumnjièeni broj jedan. Ok?
+00:32:01:23,00:32:05:13,Juèe, jedan Španac u klubu Vest|prilièno je bio uznemiren.
+00:32:42:01,00:32:42:21,Pažnja, on odlazi.
+00:32:53:08,00:32:54:01,Love nas.
+00:33:10:03,00:33:10:23,Primetili smo.
+00:33:10:24,00:33:11:23,Ne staje.
+00:33:41:01,00:33:42:19,Jardin, pomozi mi.
+00:33:48:16,00:33:49:06,Mièi se!
+00:33:51:19,00:33:53:01,Doðavola! Oðebi, kažem!
+00:33:53:02,00:33:54:09,To je opasno za zdravlje.
+00:34:02:11,00:34:03:06,Sranje!
+00:34:43:12,00:34:47:07,Ovde je u betonskim cipelama, izdao|bi i oca i majku i ne može lagati.
+00:34:50:22,00:34:52:07,Ne, ne,
+00:34:52:14,00:34:53:17,ne, molim Vas!
+00:34:54:04,00:34:54:22,Molim Vas!
+00:34:55:09,00:34:59:02,Molim, preklinjem Vas!|Nisam pogješio, nisam ništa uradio!
+00:34:59:04,00:35:04:02,Èasna reè! Kažem, nisam razmišljao!|Verujte mi! Verujte!
+00:35:05:19,00:35:06:09,Ne!
+00:35:07:07,00:35:11:09,Smiri se, smiri se!|Mirno. Hu!
+00:35:11:24,00:35:13:14,Ovako je bolje. Kako se zoveš?
+00:35:13:17,00:35:14:14,Frederikk!
+00:35:14:14,00:35:16:21,Slušaj, Frederikk, samo istinu|da èujem.
+00:35:16:21,00:35:19:02,Biæe u redu. Uneredio si se? Ne boj se.
+00:35:19:04,00:35:20:24,Dajem ti svoju reè.|Dogovoreno?
+00:35:22:04,00:35:23:24,Tako. Dobro.
+00:35:24:14,00:35:25:12,Ti si pametan deèko.
+00:35:35:17,00:35:37:17,A sad mi reci sve po redu.
+00:35:38:17,00:35:41:25,Radio sam u jednom njegovom baru.
+00:35:42:10,00:35:44:06,Jedne veèeri su mi rekli da kum|zvani Zakia
+00:35:44:07,00:35:51:10,traži porter mobilni jer se boji da æe|dobiti rak od slušalice!
+00:35:55:02,00:35:56:25,Razumem.|Šta je bilo 1. Februara?
+00:35:57:17,00:35:58:17,Bio sam u Le Becou.
+00:35:59:22,00:36:01:07,Video sam kako se pripremaju.
+00:36:03:10,00:36:04:25,Ali ja nisam mogao s njima, kunem se.
+00:36:06:02,00:36:07:20,Upravo sam se bio vratio iz|bolnice, zbog hemoroida.
+00:36:08:22,00:36:09:25,S upaljenim dupetom, horor.
+00:36:10:02,00:36:10:20,Proverila sam.
+00:36:11:15,00:36:12:15,Jesi li video Zacka?
+00:36:13:05,00:36:15:10,Otišao je sat vremena pre|nego ostali.
+00:36:15:25,00:36:18:17,Imali su neki sluèaj u gradu, ne znam.
+00:36:19:02,00:36:20:12,Za volanom je bio Fataroze.
+00:36:21:15,00:36:24:17,Oružje je trebalo biti u drugom autu.|Trebao je voziti Naboo.
+00:36:26:12,00:36:30:20,S njim je bio Paolini, pucaè,|specijalist u tim stvarima.
+00:36:32:20,00:36:34:19,Lando je bio odgovoran za vozila.
+00:36:34:20,00:36:37:23,Za šefa, naravno, mercedes,|a za pratnju zaporožac.
+00:36:38:10,00:36:39:23,Bilo mu je tako zabavno da|sedi u tom autu!
+00:36:39:23,00:36:42:20,A njegove cipele, k' o u prosjaka!
+00:36:45:13,00:36:48:13,Tu je bio i taj bejbi Marmeluz,|on je trebao dati signal.
+00:36:49:08,00:36:50:15,Dakle, bilo je sedam ubica.
+00:36:52:18,00:36:54:03,Zašto hteli da me ubiju?
+00:36:54:08,00:36:55:03,Zbog droge.
+00:36:55:15,00:36:56:05,Šta?
+00:36:58:10,00:36:59:13,Kakve droge?
+00:37:00:00,00:37:02:13,Gospodine Matei, neæete se ljutiti?|Zato što je ne volite.
+00:37:03:10,00:37:04:10,U Marseju svi to znaju.
+00:37:05:05,00:37:07:02,Ukljuèili ste Zakiju u svoje poslove,
+00:37:07:02,00:37:08:23,jer nije bio umešan u droge. Je li to istina?
+00:37:09:03,00:37:09:18,Da, zašto?
+00:37:09:20,00:37:13:08,A on je shvatio da droge obeæavaju.|I udružio se s Pistachiom.
+00:37:13:23,00:37:15:00,A Vi ste bili prepreka.
+00:37:15:08,00:37:15:20,Ja?
+00:37:16:15,00:37:17:08,On Vas se bojao!
+00:37:17:13,00:37:19:17,Uvek Vas se bojao.|I to ne samo on!
+00:37:19:18,00:37:22:20,Mnogi Vas se boje, gospodine Matei,|ja, na primer, isto tako!
+00:37:22:23,00:37:24:15,Ne brini, Frederikk, ne brini.
+00:37:24:18,00:37:25:18,Ne, nek se boji.
+00:37:26:05,00:37:28:20,Zakia je preuzeo inicijativu.
+00:37:29:03,00:37:30:03,Neæete da me ubijete?
+00:37:30:10,00:37:31:18,Neæete?
+00:37:35:13,00:37:38:08,Molim Vas! Nemojte!
+00:37:47:16,00:37:48:06,Šta da radimo s njim?
+00:37:49:11,00:37:50:01,Nije važno.
+00:37:50:18,00:37:51:16,Pusti ga.
+00:37:51:21,00:37:52:08,Šta?
+00:37:53:08,00:37:55:23,Ako ga ne uklonimo, izdaæe nas.|Kao Zakia.
+00:37:56:13,00:37:57:13,Znam o èemu govorim.
+00:37:58:03,00:37:58:21,Treba ga smaknuti.
+00:38:00:13,00:38:01:01,Ne.
+00:38:02:06,00:38:03:08,Obeæao sam mu.
+00:38:09:16,00:38:11:13,A, ne tako, svi mi razumemo.|To je nemoguæe.
+00:38:12:23,00:38:14:21,Èekaj, ti Èarly Matei!
+00:38:15:06,00:38:16:06,Ovo je pitanje èasti!
+00:38:16:23,00:38:19:01,Šta je smisao èasti kad si mrtav?
+00:38:19:06,00:38:20:16,40 godina sam ubijao ljude.
+00:38:21:21,00:38:23:08,Na Vašem mestu ja bih se osvetila.
+00:38:23:18,00:38:25:17,Ne, onda æe biti rata u gradu.
+00:38:25:18,00:38:27:16,Èarls, rat je davno poèeo!
+00:38:28:06,00:38:29:16,Misliš da bi Zakia tako postupio?
+00:38:30:01,00:38:31:18,Znaš ga bolje nego bilo|ko na kugli zemaljskoj!
+00:38:32:18,00:38:34:01,Prijatelji do smrti.
+00:38:34:24,00:38:37:11,Zvao me bratom. Kum sam|njegovim sinovima.
+00:38:37:24,00:38:39:09,Ja sam za život.
+00:38:47:04,00:38:48:16,Oslobodi ga i odvezi me kuæi.
+00:39:44:22,00:39:47:12,U Arsenalu mora biti više Engleza,|a u Interu više Italijana.
+00:39:47:12,00:39:48:07,A Materazzi?
+00:39:48:19,00:39:49:12,Materazzi...
+00:39:51:24,00:39:53:12,Ok, samo jedan! Jedan je dovoljan!
+00:39:54:09,00:39:55:19,Ne, majko, ne dopunjavaj.
+00:39:55:22,00:39:57:09,Pogledaj kako si mršav!
+00:39:57:14,00:39:58:02,Dobro...
+00:39:58:12,00:39:59:19,Lagane stvari za dobru probavu!
+00:40:00:12,00:40:03:02,Tata, tata, dobila sam peticu|iz diktata!
+00:40:03:12,00:40:06:09,Umnichka moja! Ti si moja kæer!|Ti si mi najbolja!
+00:40:06:12,00:40:06:23,Jesi li prepisala?
+00:40:06:24,00:40:08:04,Nije prepisala! Ona je najpismenija!
+00:40:08:05,00:40:09:09,Ne slušaj ga! Zavidan je!
+00:40:09:10,00:40:10:02,Ne.
+00:40:10:12,00:40:11:07,Ponosim se tobom!
+00:40:12:02,00:40:13:24,Da, ti nikad nisi bio nauèio za peticu!
+00:40:14:04,00:40:16:02,Zbog tebe su nas stalno|zvali iz škole.
+00:40:16:19,00:40:18:12,Karim popušta u disciplini.
+00:40:19:12,00:40:20:22,Jardin uglavnom spava na satu.
+00:40:24:04,00:40:25:24,Da, naravno, a uveèe nema ništa|u rukama.
+00:40:28:09,00:40:29:24,To je istina! Taèno tako!
+00:40:30:02,00:40:31:12,I tako doðosmo do moje majke.
+00:40:31:13,00:40:32:22,Da, apsolutno si u pravu!
+00:40:32:23,00:40:34:07,Tako mnogo prièamo...
+00:40:34:12,00:40:36:07,Moja majka je uvek o tome govorila.
+00:40:36:10,00:40:37:14,Ove cure su naši mozgovi.
+00:40:37:15,00:40:40:10,I tako su se cure razvijale na|dva potpuno razlièita nivoa!
+00:40:40:12,00:40:42:10,Svi ste vi moja deca! Šta æu?!
+00:41:46:15,00:41:50:03,Dobro, Frenk, to je dovoljno!|Hej, Frenk! Frenk!
+00:41:50:18,00:41:52:18,Tišina, smiri se!|Slušaj me.
+00:41:53:05,00:41:54:05,Zamaglile su ti se naoèale.
+00:41:55:23,00:41:56:18,Što boli, ha?
+00:41:57:10,00:41:59:18,Tariq, pogledaj koga imamo.
+00:42:02:08,00:42:02:23,To je on, a?
+00:42:04:00,00:42:04:20,Jesi li siguran?
+00:42:04:21,00:42:05:05,Da.
+00:42:05:18,00:42:06:18,Hoæeš li mu šta reæi?
+00:42:07:08,00:42:07:23,Ne, hvala.
+00:42:08:08,00:42:10:05,Ne srami se, zadnju rijeè!
+00:42:10:06,00:42:11:10,Udri ga, hajde!
+00:42:13:08,00:42:15:08,O, što imaš opasan udarac!
+00:42:18:10,00:42:19:03,Da probaš još?
+00:42:19:18,00:42:20:20,Ne, u redu je!
+00:42:23:08,00:42:25:18,Hu! Jedan vojnik manje.
+00:42:28:23,00:42:31:03,Sebastijan!|Ti se ne zabavljaš?
+00:42:31:04,00:42:32:05,Da, naravno!
+00:42:32:05,00:42:34:10,Pa zašto gledaš na sat?|Vreme æe isteæi?
+00:42:34:13,00:42:35:17,Oprosti mi, oprosti!
+00:42:35:18,00:42:38:03,Hajde da zurim na sat!|Razumeš?
+00:42:38:21,00:42:40:03,Uvek gledaš u njega!
+00:42:40:18,00:42:41:21,Zar ne prikazuju svi satovi isto vreme?
+00:42:41:23,00:42:42:18,Daj ga ovamo!
+00:42:42:19,00:42:43:10,Pascal!
+00:42:43:11,00:42:44:06,Šta sam rekao?
+00:42:51:23,00:42:54:11,Sat, i to dobar!|Dobar za Švajcarsku!
+00:43:00:21,00:43:02:11,Èekaj! Pogledaj ga sad.
+00:43:03:08,00:43:04:03,Dobar sat?
+00:43:05:03,00:43:05:16,Da.
+00:43:06:21,00:43:09:12,Šef me pitao o tvojim važnim|novostima.
+00:43:09:13,00:43:12:21,Ako on želi osvetu, ona æe|te jako puno koštati.
+00:43:13:01,00:43:13:23,Makni ovog gornjeg!
+00:43:16:13,00:43:19:18,Frenk! Pozovi svoje pse|da grickaju kosti.
+00:43:39:14,00:43:40:14,Zdravo, gospodine Matei.
+00:43:45:04,00:43:46:11,Dobar dan, gospoðo Matei.
+00:43:46:14,00:43:47:01,Dobar dan.
+00:43:47:14,00:43:48:09,Potpišite ovde.
+00:43:48:10,00:43:48:24,Hvala Vam.
+00:43:51:04,00:43:51:24,I Vama.
+00:43:52:19,00:43:53:11,Sve najbolje.
+00:43:53:14,00:43:53:24,Hvala.
+00:44:01:21,00:44:03:24,Èarls! Èarly!
+00:45:37:10,00:45:39:02,Za one koji više neæe dosaðivati!
+00:46:27:17,00:46:31:10,Sreæan ti roðendan!
+00:46:41:10,00:46:43:08,Okej, u Marselju je i dalje opasno.
+00:46:43:23,00:46:46:13,Treba otiæi u drugi grad.|Bez obzira koliko æe nas koštati.
+00:46:47:05,00:46:47:23,Razumem.
+00:46:52:08,00:46:55:00,Sreæan roðendan, C, sreæan roðendan!
+00:46:56:20,00:46:57:18,Sranje!
+00:46:58:15,00:46:59:05,Daj, otvori!
+00:47:04:15,00:47:07:03,Hvala, hvala
+00:47:08:15,00:47:09:13,Hvala
+00:47:10:18,00:47:11:08,Hvala
+00:47:12:03,00:47:13:08,Hvala! Hvala!
+00:47:15:03,00:47:15:18,Stani!
+00:47:17:18,00:47:19:08,Huljo! Pušiš li u mojoj kuæi?
+00:47:21:13,00:47:24:23,Pušeš nikotin u moju decu, kopile?
+00:47:26:23,00:47:28:20,Jesi li upoznat s konceptom|"pasivnog pušenja"?
+00:47:30:15,00:47:31:15,Èini se da jesi!
+00:47:31:18,00:47:33:03,Tiho, Pascal?
+00:47:33:04,00:47:33:21,Šta!
+00:47:33:22,00:47:34:13,Šta?
+00:47:35:03,00:47:38:16,Tako mi se zahvaljuješ što sam|te izvukao od g- G- G- Gospodina Smeæa?
+00:47:39:08,00:47:40:17,Volim vas, ruljo!
+00:47:40:18,00:47:42:01,Prekini, Zack! Puši!
+00:47:42:18,00:47:44:01,Sad æu ja to!
+00:47:54:13,00:47:55:23,Usrao si se u gaæe, a?
+00:47:56:18,00:47:58:16,Hej, Anzho! Šalio sam se, èoveèe!
+00:48:08:03,00:48:10:06,Zabavljate se?|A sad sam ja na redu!
+00:48:10:13,00:48:11:23,Oružje u zdelu.
+00:48:16:01,00:48:16:21,I samo smireno.
+00:48:17:16,00:48:19:08,Frenk! Pištolj u zdelu.
+00:48:23:23,00:48:24:23,I ostali, takoðer.
+00:48:27:11,00:48:31:08,Sad ti, Malik, fino.|Smiri se. Sad ti, Anush.
+00:48:34:06,00:48:34:23,Tako.
+00:48:39:04,00:48:39:24,U akvarij!.
+00:48:53:11,00:48:54:16,Sad nas ostavi.
+00:48:57:16,00:48:59:04,Bastian, pogledaj me.
+00:49:01:11,00:49:02:09,Poznaješ me?
+00:49:04:09,00:49:05:04,Kako se zovem?
+00:49:05:11,00:49:06:11,Èarly Matei.
+00:49:06:24,00:49:08:19,Da, ja sam Èarly Matei i ubit æu te.
+00:49:09:06,00:49:11:11,Ubit æu te napolje,|to je pitanje èasti.
+00:49:12:06,00:49:13:24,Želim da znaš ko æe te ubiti.
+00:49:14:04,00:49:15:19,Tako da znaš zašto umireš.
+00:49:16:01,00:49:17:19,Ti znaš zašto æeš umreti, Bastiane?
+00:49:18:16,00:49:19:06,Da.
+00:49:19:24,00:49:23:21,Kad ti je lice skriveno pod kapuljaèom,|to je onda ubistvo bez potpisa.
+00:49:24:09,00:49:25:06,Ništa lièno.
+00:49:25:21,00:49:26:19,Znaš li razliku?
+00:49:29:21,00:49:30:24,Razumete li svi?
+00:49:32:01,00:49:33:09,Zato što æu sve istrebiti.
+00:49:34:16,00:49:35:21,Sve po redu.
+00:49:36:14,00:49:37:14,Ali ne odmah.
+00:49:38:04,00:49:40:14,Hoæu da imate vremene da|možete razmisliti o svojim delima.
+00:49:41:02,00:49:43:07,Šta god mislili dan i noæ.
+00:49:43:22,00:49:45:24,Vremena da tražite oprost|od vaših žena i dece.
+00:49:46:14,00:49:48:09,Da im kažete zašto æete umreti.
+00:49:49:02,00:49:51:09,I kad prestanete išèekivati smrt...
+00:49:52:14,00:49:57:24,sutra, za šest meseci ili za godinu,|ja æu vas ubiti.
+00:49:58:17,00:50:01:07,Dokle god ja živim,|vi neæete biti sigurni.
+00:50:03:09,00:50:07:02,Recite Zachu da sam živ|i da æu se osvetiti.
+00:50:07:24,00:50:08:17,Bastiane!
+00:50:09:02,00:50:10:24,Èarls! Molim te!
+00:50:13:02,00:50:14:19,Samo pogledaj još jednom|koliko je sati.
+00:50:17:17,00:50:19:02,Sreæan roðendan, Bastiane!
+00:50:36:14,00:50:38:24,Pusti me! Pusti me!
+00:50:40:17,00:50:42:12,Ne diraj me! Ostavi me na miru!
+00:50:44:15,00:50:45:25,Beži od mene!
+00:50:46:10,00:50:47:02,Poslušaj me!
+00:50:47:05,00:50:50:12,Ne želim te slušati!|Šta æemo u Avignonu?
+00:50:51:07,00:50:52:21,Tvoj otac kaže da je tamo sigurnije!
+00:50:52:22,00:50:56:10,Da, naravno! Moj otac kaže!|Neæu raditi ono što on kaže!
+00:50:56:20,00:50:57:22,Vraæam se u Marselj!
+00:50:58:25,00:50:59:22,Ma, prestani!
+00:51:00:05,00:51:03:20,Ti si najpametnija? Misliš da me razumeš|bolje od bilo koga, je li tako?
+00:51:03:25,00:51:04:19,To nije fer!
+00:51:04:20,00:51:06:20,Moja majka umire i ja želim biti uz nju!
+00:51:08:12,00:51:10:12,Onda, ti æeš mi reæi šta da radim?|Svezaæeš me za stolicu?
+00:51:11:02,00:51:14:05,To nije ništa u poreðenju s onim što|bi ti oni uradili da te uhvate.
+00:51:14:22,00:51:16:12,Kao što su uradili i tvom ocu.
+00:51:20:22,00:51:23:20,Dete moje! I drugima je jako teško.
+00:51:24:15,00:51:26:05,Dosta, nemoj!
+00:51:27:02,00:51:29:17,Dosta! Hajde, doði ovamo.
+00:51:31:05,00:51:32:02,Sve je u redu.
+00:51:45:15,00:51:46:18,Naš dragi sin.
+00:51:47:03,00:51:50:00,Oprosti mi, sine, išao sam|ubrati cvijeæe od Trumanyaca.
+00:51:50:13,00:51:52:23,On ima prekrasne ruže,|ali takva je budala.
+00:51:53:23,00:51:57:05,I još jednom, sve je to bilo zbog tebe.
+00:51:57:06,00:51:58:15,Tako si ju obožavao.
+00:51:59:05,00:52:00:15,Sjeæaš li se tih dana, je li?
+00:52:01:03,00:52:02:00,Je li on odgovoran i za tebe?
+00:52:06:13,00:52:08:05,Jer ja nemam odgovora.
+00:52:08:13,00:52:10:08,Izgubio sam glavu posle|smrti moga sina.
+00:52:10:15,00:52:12:18,Tako nisam ni ja više pri|sebi posle Karimove smrti.
+00:52:13:13,00:52:16:23,Žao mi je da se to desilo, ali to|nije bila moja ideja. Ja sam samo gledao.
+00:52:20:03,00:52:21:03,Ja sam nenaoružan.
+00:52:21:08,00:52:24:02,Po pravilu ne ubijam nenaoružane|ljude,
+00:52:24:02,00:52:26:20,ali ponekad pravila treba promeniti.
+00:52:46:13,00:52:49:13,Govorite tiho, molim vas!|Gospodina Zakiju muèi migrena!
+00:52:49:23,00:52:51:18,Može postati ozbiljno. Doðite.
+00:52:54:06,00:52:55:16,Kontraindicirana je svetlost.
+00:52:55:18,00:52:58:21,Od jarke svetlosti dobije|divlje glavobolje.
+00:52:59:06,00:53:00:18,Posebno, ako je buèno.
+00:53:04:06,00:53:05:03,Ne, samo Vi.
+00:53:10:13,00:53:11:06,Doðite!
+00:53:12:18,00:53:13:08,Doðite.
+00:53:17:06,00:53:17:23,Le Becou.
+00:53:28:23,00:53:33:01,Goldman, Goldman, negde sam èuo to ime.
+00:53:33:03,00:53:34:16,Ne mogu se toèno setiti.
+00:53:35:01,00:53:36:15,Policajac s istim prezimenom,
+00:53:36:16,00:53:39:08,moj muž. Ubili su ga ljudi koje|nije ni pipnuo.
+00:53:39:11,00:53:42:14,Vodio je jednu istragu, ali|su mu trebali dokazi.
+00:53:45:19,00:53:46:09,Naravno.
+00:53:46:24,00:53:48:14,Zanima me Èarly Matei.
+00:53:49:04,00:53:51:16,Jasno mi je da mislite|da je on ubio Papalardoa?
+00:53:52:14,00:53:56:01,Radili ste s Mateijem i otišli.
+00:53:56:14,00:53:58:11,Posle pucnjave je postao paranoièan.
+00:53:58:16,00:54:00:11,Samo je tražio razloge da me naljuti.
+00:54:01:04,00:54:02:16,Vidite dokle je došlo!
+00:54:03:19,00:54:06:11,Narod ga voli, ne znam zašto.|A on je bolestan.
+00:54:08:04,00:54:11:09,Sjeæam se da je jednom odleteo u Alžir.
+00:54:11:19,00:54:13:09,Tražio je tipa koji mu je dugovao
+00:54:13:24,00:54:16:01,Našao sam dužnika na selu|i doveo mu ga.
+00:54:16:16,00:54:19:19,Prisilio ga je da gladuje tednima,|a onda ga je živog zapalio.
+00:54:20:14,00:54:21:16,On je lud, verujte mi!
+00:54:21:19,00:54:23:04,Niste to javili policiji.
+00:54:23:05,00:54:24:13,A šta bi to promenilo?
+00:54:24:14,00:54:27:04,Vi znate da je ubio Papalardoa,|a šta radite?
+00:54:27:11,00:54:28:09,Besposleno sedite.
+00:54:29:19,00:54:32:11,Ne brinite, gospodine Zakia,|dobiti æete napad migrene.
+00:54:32:12,00:54:33:19,Ne brinem se. Smiren sam.
+00:54:34:14,00:54:37:16,Ali ako nastavite besposleno sediti|to n... n... neæe dobro završiti!
+00:54:37:19,00:54:38:22,Vi to meni pretite?
+00:54:41:12,00:54:43:12,Gospodine Zakia, mi savršeno|dobro znamo ko je ko.
+00:54:44:09,00:54:47:18,Ja sam u policiji i hvatam kriminalce
+00:54:47:19,00:54:49:19,ali se bojim da ne uplašim|krupniju ribu.
+00:54:51:02,00:54:53:22,I zato ne mogu nikoga|privesti na ispitivanje.
+00:54:53:22,00:54:56:17,Neæu plaæati za istragu.|To nije normalno!
+00:54:59:09,00:55:00:07,Sviðam li se ja Vama?
+00:55:00:24,00:55:03:04,Na poslu ne pokazujem emocije.
+00:55:07:14,00:55:11:04,Vidite, ja ne tražim|od Vas nemoguæe.
+00:55:11:19,00:55:14:19,Znam da mlada udovica s malim|detetom nema ugodan život.
+00:55:15:02,00:55:16:09,Kako znate za dete?
+00:55:17:04,00:55:18:07,Zakljuèio sam.
+00:55:18:24,00:55:21:06,Ako Vam nekako mogu pomoæi...
+00:55:21:07,00:55:25:07,Otrcano je, ali ponekad materijalna|pomoæ olakšava situaciju.
+00:55:26:19,00:55:29:07,A kad Vam savetujem da više|pažnje poklonite Mateiju,
+00:55:29:07,00:55:31:19,ne verujem da je delovalo moleæivo.
+00:55:32:14,00:55:35:17,Nazvao bih to dobrim prijateljskim savetom.
+00:55:38:17,00:55:40:20,Sama sam u stanju zaraditi svoj hleb.
+00:55:43:20,00:55:45:20,Želite me nagovoriti da|zapoènem s istragom?
+00:55:46:07,00:55:47:02,Razmislit æu o tome.
+00:55:48:02,00:55:48:22,Ili možda neæu!
+00:55:50:07,00:55:51:10,Do viðenja, gospodine Zakia.
+00:57:29:15,00:57:30:10,Tišina!
+00:57:31:13,00:57:32:00,Da.
+00:57:33:03,00:57:33:18,Nemoj ovo uprskati.
+00:57:35:00,00:57:35:18,Ljudi su uz mene!
+00:57:47:06,00:57:47:23,Jesi li gladna?
+00:57:59:08,00:58:01:06,Volim meso s maslinovim uljem.
+00:58:03:01,00:58:04:13,Hvala ti na društvu.
+00:58:08:18,00:58:09:06,Svidelo ti se?
+00:58:12:03,00:58:14:23,Nemam sad vremena, ali kad sve|bude gotovo, kupiæu ga.
+00:58:15:18,00:58:16:11,Taj Corsair!
+00:58:18:01,00:58:19:08,Zovem ga Corsair.
+00:58:19:23,00:58:21:01,Romantièno, jel' da?
+00:58:22:06,00:58:24:08,I moj sin, Anatole, voli more.
+00:58:25:13,00:58:27:08,Znaš, ovde je nekako tiho.
+00:58:28:16,00:58:30:17,Razumem da se svakog trenutka|sve može promeniti,
+00:58:30:17,00:58:32:18,ali sve dok gledaš ove talase...
+00:58:34:08,00:58:35:21,život se èini idealnim.
+00:58:45:19,00:58:47:09,Imao sam psa alkoholièara.
+00:58:48:09,00:58:52:01,Jednom sam mu dao srk da proba;|uskoro je poèeo takve trikove.
+00:58:52:11,00:58:53:09,Samo da dobije još.
+00:58:53:24,00:58:55:16,Alkohol ga je èinio agresivnim.
+00:58:56:09,00:58:57:21,Dakle ne, neæu ti dati.
+00:58:58:21,00:58:59:16,Razumeš?
+00:59:26:19,00:59:27:06,Èarly!
+00:59:29:09,00:59:29:19,Èarly!
+00:59:40:19,00:59:41:09,Èarly!
+01:00:13:04,01:00:14:02,Nešto nije u redu?
+01:00:15:19,01:00:16:17,Uplašio si me.
+01:00:18:12,01:00:19:09,Zašto si došao?
+01:00:19:14,01:00:20:09,Da te vidim.
+01:00:20:19,01:00:22:04,Zack je naravno podivljao.
+01:00:22:12,01:00:25:09,Sve su prevrnuli u tvojoj kuæi|da naðu tvoju majku.
+01:00:26:09,01:00:28:07,Tražimo svuda, a ti mi ih dovodiš.
+01:00:28:09,01:00:31:14,Brinem se za Klatide.|Ne mogu besposleno sediti!
+01:00:32:04,01:00:33:14,Treba joj medicinska njega, pa ja...
+01:00:33:24,01:00:34:22,Veæ su ovde.
+01:00:39:17,01:00:41:02,Trèi na pristanište, brzo!
+01:00:42:22,01:00:43:20,Neæemo se probiti.
+01:00:49:22,01:00:51:05,Idi, ne oklevaj! Trèi!
+01:01:42:20,01:01:43:10,Dobar dan!
+01:02:22:03,01:02:23:00,Nemoj promašiti!
+01:02:34:05,01:02:34:23,Gas do daske!
+01:02:37:18,01:02:38:13,Brže!
+01:03:33:16,01:03:35:08,Doðavola! Sranje!
+01:03:40:06,01:03:42:01,Gospodine, èujete li nas? Šta se desilo?
+01:04:02:09,01:04:08:06,Martine, idi potraži Èarlyja, molim te,|i izvesti me o njemu, Ok?
+01:04:12:11,01:04:13:21,Inaèe je sve propalo.
+01:04:22:14,01:04:24:19,Pozdravi Klatide.
+01:04:29:24,01:04:32:06,Nisu Vam dosadili bolnica i zatvor,|gospodine Matei?
+01:04:32:16,01:04:34:04,Niti jedno, niti drugo, Vi ste razlog.
+01:04:36:21,01:04:38:01,Hteo sam Vas videti.
+01:04:38:16,01:04:41:14,Želite li priznati ubistvo Anjija|Papalardoa i Bastiana Paolinija?
+01:04:42:14,01:04:43:01,Ubistvo?
+01:04:43:06,01:04:44:13,Oni su se sami ubili.
+01:04:44:14,01:04:47:04,Jedan metak u srce, a drugi za svaki|sluèaj u glavu. Je li to Vaš potpis?
+01:04:48:22,01:04:49:22,Moje su ruke vezane.
+01:04:50:19,01:04:52:24,A potpis...|Ne verujte sve što èujete.
+01:04:53:02,01:04:56:04,Štaviše, znam da ste sakrili|svoju porodicu.
+01:04:56:24,01:04:59:19,A ona dvojica koje ste ubili, vidim|da ste nastavili s osveæivanjem.
+01:05:02:14,01:05:03:22,Za svoju porodicu, za decu.
+01:05:04:07,01:05:05:12,Ponekad èak i za neprijatelje.
+01:05:05:22,01:05:07:09,Možda Vi nemate neprijatelja?
+01:05:07:10,01:05:08:09,Manje nego Vi.
+01:05:09:07,01:05:10:17,Možda imamo zajednièkog neprijatelja?
+01:05:12:14,01:05:14:01,Ja sam žrtva ugleda.
+01:05:14:02,01:05:15:17,Dobili ste što ste zaslužili.
+01:05:16:02,01:05:18:22,O ne, stvarnost je mnogo prozaiènija.
+01:05:18:23,01:05:20:09,Ja sam obièni penzioner.
+01:05:20:10,01:05:21:07,U penziji!
+01:05:21:12,01:05:22:03,Vi radite?
+01:05:22:04,01:05:23:07,Radio sam puno.
+01:05:23:22,01:05:28:07,Umetnièki direktor, uzgajivaè|pasa... Poreze sam plaæao.
+01:05:28:22,01:05:31:24,A šta su sebi utuvili u glavu|Anji Papalardo i Bastian Paolini?
+01:05:33:02,01:05:34:02,Obratili su se Gospodinu.
+01:05:34:04,01:05:36:14,Da, trenutno Gospod mnoge ohrabruje.
+01:05:37:02,01:05:38:17,A oni su dirnuli u Vaš život.
+01:05:39:04,01:05:41:04,Zašto još nikog niste uhapsili?
+01:05:41:14,01:05:42:22,Nemam dokaze.
+01:05:43:12,01:05:45:22,Božji sud nad tuðim životima.
+01:05:45:24,01:05:47:05,Jeste li vernik?
+01:05:48:05,01:05:48:20,To mora da je isto.
+01:05:51:22,01:05:54:20,Meðu napadaèima imate jednog,|koji ne želi Vašu smrt.
+01:05:55:20,01:05:57:22,Promašio je celi šaržer.
+01:05:57:23,01:05:58:19,Ludo.
+01:05:58:20,01:05:59:15,Nije.
+01:06:00:02,01:06:02:15,Njegovi su meci svi jedan do drugoga,|ali imamo tragove specifiène metil-žive.
+01:06:02:20,01:06:04:10,Taj precizno ubija.
+01:06:05:02,01:06:06:25,Dakle, od te petorice, samo je|jedan na Vašoj strani.
+01:06:07:01,01:06:07:20,Bilo ih je pet?
+01:06:08:07,01:06:10:21,Osam. Petorica su pucala,|jedan vodio, a dvojica vozila.
+01:06:10:22,01:06:14:15,Obeæavam da æu biti pažljiviji|kad me sledeæi put budu ubili.
+01:06:21:22,01:06:22:17,Kako znate!
+01:06:29:02,01:06:30:17,Trebala sam uzeti zeèetinu sa senfom!
+01:06:30:20,01:06:32:02,Nije na jelovniku, mama.
+01:06:32:05,01:06:32:22,Istina?
+01:06:32:25,01:06:34:05,Bilo kako bilo, ruèak se završio.
+01:06:35:12,01:06:36:07,Jako mi je žao.
+01:06:37:10,01:06:39:14,Ipak, ja hoæu zeca sa senfom!
+01:06:39:15,01:06:41:10,Dobro, mama, gde da sad naðem zeca?
+01:06:46:05,01:06:46:22,Ne, to si ti!
+01:06:51:03,01:06:55:13,Ne svaðaj se sa mnom! I dalje|hoæu zeca sa senfom!
+01:08:03:01,01:08:03:23,Tako mi je drago!
+01:08:14:08,01:08:15:08,Dobro veèe, Frenk!
+01:08:29:13,01:08:30:13,Doði, doði!
+01:08:30:23,01:08:34:03,Želeo bih te upoznati! Pjere Dyubuar!|Èuo si za njega.
+01:08:34:04,01:08:36:01,Èlan posebnog Odbora unutrašnjih poslova.
+01:08:36:02,01:08:37:21,Ovo je senator Èarls Battery.
+01:08:38:21,01:08:41:23,Potpredsednik regionalnog veæa.|Vrlo važna liènost!
+01:08:43:11,01:08:44:21,Moj prijatelj Aurelio Rampaul!
+01:08:48:01,01:08:50:01,Pogodio si me u nogu! Ti si bolestan!
+01:08:51:01,01:08:52:24,Hoæu s tobom malo porazgovarati, èoveèe.
+01:08:53:09,01:08:54:06,Prokleto sranje!
+01:08:54:19,01:08:57:16,Bravo, Frenk, reæi æu tvojim|prijateljima da si se herojski poneo!
+01:09:04:24,01:09:06:16,Prokletstvo! Gde se onaj mota?
+01:09:07:04,01:09:07:21,Zovi ga!
+01:09:08:06,01:09:09:11,Znam da gubiš krv!
+01:09:09:14,01:09:11:06,Nemaš više od pet litara, ne boj se.
+01:09:15:19,01:09:16:19,Slušaj me pažljivo.
+01:09:17:16,01:09:20:08,Na parkingu su s tobom bili Bastian,
+01:09:20:08,01:09:22:24,Papalardo, Fantaroza,|Malik, Marvelus mlaði i Zach.
+01:09:23:11,01:09:24:11,A ko je bio osmi?
+01:09:26:06,01:09:26:16,Ne odgovara.
+01:09:27:19,01:09:28:06,Je li zapeo negde?
+01:09:28:09,01:09:28:21,Ne.
+01:09:29:06,01:09:30:06,Idi sad!
+01:09:30:09,01:09:30:24,U redu.
+01:09:32:06,01:09:34:09,Imao je kapuljaèu na glavi.
+01:09:34:16,01:09:35:24,Kunem se, ne znam ko je on.
+01:09:35:25,01:09:37:09,Zašto bih lagao?
+01:09:38:01,01:09:40:19,Video si ga na poslu,|izgledao ti je nepoznato...
+01:09:40:20,01:09:43:14,i nisi èak ni pitao ko je on?
+01:09:44:04,01:09:46:19,Pitao sam, ali Fantaroza ga je poslao.
+01:09:47:14,01:09:48:17,Èasna rijeè! Kunem se!
+01:09:49:12,01:09:51:04,Ne, ne! Èekaj! Stani!
+01:09:51:19,01:09:53:09,Treba ti Zacha? Daæu ti ga!
+01:09:53:22,01:09:55:02,Neæu umreti zbog tog psa!
+01:10:03:09,01:10:04:14,Molim za minutu vaše pažnje!
+01:10:05:09,01:10:10:14,Gospodine senatore, gospodine predsednièe!|Aurelio! Prijatelji moji!
+01:10:11:12,01:10:13:02,Drago mi je da ste veèeras sa mnom!
+01:10:13:09,01:10:15:02,Tako sam dugo sanjao o ovom danu.
+01:10:15:14,01:10:21:09,Dakle, vi mislite da je Toni Zakia|toèan do u detalje, perfekcionist...
+01:10:21:24,01:10:25:14,možda èak i manijak, koji u|svemu traži perfektan red?
+01:10:25:15,01:10:26:12,Istina, Malik?
+01:10:28:24,01:10:29:17,Taj nitkov!
+01:10:31:07,01:10:32:07,Pa, znao sam to!
+01:10:32:22,01:10:33:24,I slažem se!
+01:10:34:24,01:10:35:14,Ali ne potpuno.
+01:10:36:19,01:10:38:02,Zapravo, ni muhu ne bih zgazio.
+01:10:38:22,01:10:40:19,A ako da, onda nenamerno.
+01:10:42:04,01:10:43:14,Verujte, bez zle namere.
+01:10:43:22,01:10:46:02,Za mene je ovaj svet svetinja.
+01:10:47:10,01:10:50:02,Na primer, moja porodica!
+01:10:50:17,01:10:51:12,I moji prijatelji!
+01:10:52:05,01:10:52:20,To je svetinja.
+01:10:53:07,01:10:55:08,Prijateljstvo, to nije samo reè.
+01:10:55:08,01:10:57:10,Prijateljstvo...|To je poverenje i poštovanje.
+01:10:58:17,01:11:01:20,To je obaveza i odanost.
+01:11:02:05,01:11:04:25,Šta god se desilo,|neæu izdati svoje prijatelje.
+01:11:20:05,01:11:22:02,Znam sve što ti treba, ime i lozinku.
+01:11:26:10,01:11:26:20,Odlièno!
+01:11:30:07,01:11:30:22,Mogu li?
+01:11:30:23,01:11:31:12,Samo brzo!
+01:11:43:05,01:11:46:19,To su sve informacije o transferu,|vremenima, dobavljaèima, kuririma...
+01:11:46:20,01:11:50:08,datumi isporuke, dvostruko knjigovodstvo,|transakcije. U prednosti si!
+01:11:50:23,01:11:53:15,Aurelio ne zna ništa o ovome.
+01:11:54:00,01:11:55:10,Možeš da ga muzeš kao kravu.
+01:12:01:05,01:12:03:15,S ovim informacijama Zach|æe se moliti za tebe.
+01:12:03:23,01:12:04:18,Neæe te dodirnuti.
+01:12:53:21,01:12:54:23,Mora da ga je Mark ubio.
+01:12:57:13,01:12:58:01,Doði!
+01:12:58:03,01:12:58:16,A Malik?
+01:12:58:18,01:12:59:23,Ovo je svadbena noæ!
+01:13:02:16,01:13:03:16,Preklinjem te, Èarls!
+01:13:04:01,01:13:04:23,Zaklinjem te, Èarls!
+01:13:06:08,01:13:07:16,Moja kæerka ima èetiri godine!
+01:13:07:23,01:13:09:01,A nema majku!
+01:13:09:18,01:13:10:13,Ima samo mene!
+01:13:11:01,01:13:12:21,Šta æe biti s mojom devojèicom?
+01:13:12:22,01:13:14:03,Ti imaš kæer? Gde je ona?
+01:13:14:21,01:13:15:16,Kod moje majke.
+01:13:16:21,01:13:18:03,Moram ju pokupiti sutra uveèe.
+01:13:18:18,01:13:20:16,Preklinjem te, Èarls, preklinjem te!
+01:13:21:11,01:13:22:06,Nemoj me ubiti!
+01:13:23:03,01:13:25:11,Pogledaj, pogledaj, ovo je njena|igraèka!
+01:13:36:23,01:13:38:16,Ne, ne, ne!
+01:13:39:06,01:13:39:21,Ne
+01:13:41:23,01:13:43:06,Ona se igra s ovim?
+01:13:46:16,01:13:47:18,Ovako ne izgledaju igraèke.
+01:13:49:14,01:13:50:16,Oprosti mi, Èarls!
+01:13:50:19,01:13:53:11,Preklinjem te! Zaklinjem te, Èarls!
+01:13:54:19,01:13:57:01,Opraštam ti ono što si uèinio meni.
+01:13:59:06,01:14:01:09,Ali Karimovu smrt ti neæu oprostiti.
+01:14:02:09,01:14:02:21,Ne!
+01:14:07:11,01:14:08:10,Kako si mogao promašiti?
+01:14:08:11,01:14:11:11,Budalo! Kako si mogao|promašiti, ti idiote!
+01:14:11:14,01:14:12:19,Kako si ga mogao pustiti da ode?
+01:14:12:24,01:14:14:21,Kako si ga mogao promašiti!
+01:14:43:04,01:14:43:24,Naði ga!
+01:14:44:11,01:14:45:19,Naði mi to kopile!
+01:14:47:06,01:14:49:04,Istrebi mu celu porodica,|sve do jednog!
+01:14:53:02,01:14:54:07,Ili æu ja ubiti tebe!
+01:15:01:19,01:15:02:07,Èekaj!
+01:15:02:09,01:15:04:07,Zar æeš telefonirati za vreme vožnje?
+01:15:04:14,01:15:07:02,Znaš da je strogo zabranjeno|razgovarati za volanom?
+01:15:07:03,01:15:08:12,Vrati ga, to je Zak! Daj ga ovamo!
+01:15:09:09,01:15:11:04,Oh, neæeš s njim razgovarati|naše prve braène noæi!
+01:15:11:19,01:15:12:16,Yasmin!
+01:15:12:17,01:15:13:24,Èekaj malo, on ne shvata?
+01:15:14:22,01:15:16:08,Je li danas bilo njegovo venèanje?
+01:15:16:09,01:15:18:17,Nek se kum zabavlja sa svojim pederima!
+01:15:18:19,01:15:20:04,Ne govori to, molim te!|Ako te èuje?
+01:15:22:17,01:15:24:02,Neæe nas èuti, u redu?
+01:15:25:04,01:15:26:09,Dobro, smiri paranoju.
+01:15:26:17,01:15:27:24,Hajde, prati promet!
+01:15:33:17,01:15:34:22,Šta, do ðavola, ovaj radi tamo?
+01:15:39:07,01:15:39:17,Hej!
+01:15:40:12,01:15:41:14,Dragi, ne brini.
+01:15:44:04,01:15:45:14,Hej, odjebi, ej!
+01:15:48:09,01:15:50:02,Odlazi! Ej!
+01:15:51:10,01:15:52:20,Blokirao si mi ulaz, èoveèe!
+01:16:05:22,01:16:06:12,Dakle?
+01:16:07:20,01:16:09:07,Našao sam vrlo èiste otiske.
+01:16:10:20,01:16:12:22,Vrlo dobre otiske prsta!
+01:16:13:22,01:16:15:10,Jesi li otkrio èiji su?
+01:16:15:17,01:16:16:07,Zapravo, da.
+01:16:16:22,01:16:17:17,Èarlyja Mateija.
+01:16:38:25,01:16:40:25,Ti si lud, Zach te traži svuda.
+01:16:41:01,01:16:42:25,Pusti sad njega, ja sam tu.
+01:16:43:10,01:16:44:02,Šta se desilo?
+01:16:45:15,01:16:47:12,Pobegao je bez moga znanja.
+01:16:53:13,01:16:54:03,Šta je to?
+01:16:56:10,01:16:57:08,Rekvijem za Zakiju.
+01:16:57:15,01:16:59:00,Vrlo pouèna stvarèica.
+01:16:59:03,01:17:01:15,Proveri, kopiraj i predaj Aureliju.
+01:17:02:23,01:17:03:18,Iz ruke u ruku.
+01:17:07:00,01:17:10:23,Kakve glupe kriminalce imamo!|Èak i idioti paze na to.
+01:17:11:05,01:17:16:05,Direktore, profesionalci toga nivoa|nikad ne bi ostavili otiske pokraj leša!
+01:17:16:06,01:17:17:02,To je zamka!
+01:17:17:03,01:17:17:22,Koja besmislica.
+01:17:17:23,01:17:20:08,U blizini je kanal. Mogao je|baciti pištolj u vodu!
+01:17:20:09,01:17:21:15,Da ti ja kažem, on je idiot!
+01:17:22:00,01:17:23:09,Sudija je izdao nalog za njegovo hapšenje!
+01:17:23:10,01:17:27:05,Potraži njegov skriveni novac,|i biæe iza rešetaka narednih 20 godina.
+01:17:27:06,01:17:28:05,A ti æeš biti nagraðena.
+01:17:28:15,01:17:29:08,Na posao!
+01:17:58:16,01:17:59:01,Da.
+01:18:00:06,01:18:01:23,Ne, ne, ne. Ostavi to.
+01:18:03:06,01:18:04:11,Šta je bilo, maèkice?
+01:18:07:08,01:18:09:16,Ne, još sam na poslu,|ali ubrzo æu doæi kuæi.
+01:18:10:03,01:18:12:01,Doæi æu i poljubiæu te, obeæavam.
+01:18:13:21,01:18:15:01,Šta si sanjao?
+01:18:15:16,01:18:18:13,Ne boj se anðele, niko te neæe ukrasti.
+01:18:19:03,01:18:20:11,A Dolores æe ti isprièati prièu.
+01:18:22:11,01:18:25:11,Vrati se u krevet. Kasno je,|a sutra moraš u školu.
+01:18:29:11,01:18:31:01,Sranje!
+01:18:32:06,01:18:33:03,Grlim te, sine moj!
+01:18:46:03,01:18:46:13,Halo.
+01:18:46:16,01:18:51:08,I Matei ima dete. Osam mu je godina.|Otidi sutra u školski direktorat...
+01:18:51:21,01:18:54:06,i potraži dete po imenu Anatole Matei.
+01:18:54:07,01:18:55:18,Ili Anatole Kolarov.
+01:18:55:19,01:18:57:14,Èekaj, Meri, ne pratim te.
+01:18:57:24,01:19:01:21,Anatole K- O- L- A- R- O- V.|Devojaèko prezime deèakove majke.
+01:19:01:22,01:19:03:01,Traži dok ne naðeš.
+01:19:03:11,01:19:05:09,Mateija možemo uhvatiti samo ako|naðemo njegovog sina.
+01:19:05:11,01:19:06:19,Porodica je za njega iznad svega.
+01:19:20:01,01:19:20:21,Video sam te!
+01:19:20:22,01:19:21:19,Baš!
+01:19:31:21,01:19:33:01,Kažu da imaš curu?
+01:19:33:16,01:19:34:09,Sandra.
+01:19:35:04,01:19:35:19,Zgodna je?
+01:19:37:19,01:19:39:14,Smem li pitati kad si ti roðena?
+01:19:40:04,01:19:41:04,Pitaj mamu.
+01:19:42:11,01:19:42:24,Razumem.
+01:19:45:06,01:19:46:09,A imaš li veæ zaruènika?
+01:19:46:10,01:19:47:14,Ne, ne.
+01:19:49:11,01:19:50:22,A zavodiš dete?
+01:19:51:09,01:19:53:09,Deca su nešto drugo.
+01:20:06:17,01:20:07:17,Na zadnje sedište, znaš.
+01:20:21:22,01:20:22:17,Glupan!
+01:20:22:24,01:20:23:12,Glupan!
+01:20:23:17,01:20:24:14,Šta ti je, Anatole?
+01:20:24:24,01:20:26:03,Samo sam ponovio!
+01:20:26:04,01:20:27:07,Da, ali znam to veæ!
+01:20:27:09,01:20:28:19,Ti znaš da psuješ?
+01:20:28:20,01:20:29:14,Da,
+01:20:29:17,01:20:30:24,neke reèi, ali ne sve!
+01:20:31:02,01:20:32:19,I ja, takoðe, jednom æu proklinjati, Ok?
+01:20:43:22,01:20:44:24,Tako mi svega!
+01:20:52:14,01:20:53:10,Dole!
+01:20:55:22,01:20:57:17,Nemojte! Molim vas!
+01:21:06:12,01:21:07:07,Za njima!
+01:21:32:05,01:21:33:02,Našli smo Eve.
+01:21:34:07,01:21:35:05,A Anatolea?
+01:21:36:10,01:21:36:25,Doðite.
+01:21:45:25,01:21:48:20,Razgovaraj sa mnom. Ne boj se.|Sve je gotovo.
+01:21:48:21,01:21:49:12,Sve je u redu.
+01:21:50:07,01:21:51:07,Sve æe biti u najboljem redu.
+01:21:51:22,01:21:53:10,Upravo su pronašli...
+01:22:02:03,01:22:03:05,Šta su ti uradili?
+01:22:04:20,01:22:06:03,Eva, šta su ti uradili?
+01:22:10:13,01:22:11:18,Reci mi, draga!
+01:22:14:10,01:22:15:10,A gde je Anatole?
+01:22:19:18,01:22:25:13,Oni... Rekli su da æe ga ubiti.
+01:22:26:15,01:22:27:23,Ako se tata ne preda.
+01:22:49:00,01:22:50:05,Nudim Vam izbor.
+01:22:50:05,01:22:53:08,Odmah æete me uhapsiti.|Šef æe Vas nagraditi.
+01:22:53:10,01:22:57:03,Dobiæete viši èin.|Ali onda æe Zakia ubiti moga sina.
+01:22:57:16,01:23:00:11,Bolje znate od mene da je|njemu svejedno koga æe ubiti.
+01:23:00:21,01:23:02:01,Pandura ili dete.
+01:23:02:03,01:23:04:23,Ubio je Vašeg supruga,|sad æe ubiti moga sina.
+01:23:08:21,01:23:10:08,Ali ja imam poslovnu ponudu.
+01:23:11:16,01:23:13:23,Izjaviæete novinarima da sam uhapšen.
+01:23:14:11,01:23:17:11,Zakia æe poverovati i opustiti se.
+01:23:17:21,01:23:21:01,Moj sin nije u Le Becou, Zak|nije glup da ga drži kod kuæe.
+01:23:21:02,01:23:22:21,Ali ne izdaje nareðenja telefonom.
+01:23:23:01,01:23:26:23,Kad shvati da me se više ne mora|bojati, moraæe ubiti moga sina.
+01:23:27:11,01:23:29:01,Poslaæe nekog od svojih ljudi.
+01:23:30:01,01:23:33:16,Neæu moæi da pronaðe svog sina ako|Zakia ne poveruje da sam u zatvoru.
+01:23:33:21,01:23:35:13,I mislite da æu ja to uraditi?
+01:23:35:14,01:23:37:06,Spasiæu svoga sina i preživeæu.
+01:23:37:23,01:23:39:18,Ne verujem Vašim bajkama.
+01:23:40:23,01:23:45:11,Ja odgovorno radim svojh posao i ako|slušam kriminalce to je jako loše.
+01:23:45:18,01:23:48:16,I sami znate kako je to|izgubiti dragu osobu.
+01:23:49:16,01:23:53:21,Moj sin nije nikome uèinio ništa nažao.
+01:23:54:04,01:23:55:01,Ako on umre...
+01:24:02:01,01:24:03:04,Preklinjem Vas.
+01:24:08:11,01:24:12:09,"Novi obrat u dugom krvavom ratu|za prevlast u Marselju.
+01:24:12:16,01:24:18:01,Prema krim- Istražiteljima Èarly Matei|je uhapšen i pod nadzorom je.
+01:24:18:02,01:24:21:13,Èovek zvani Besmrtni nije pružao otpor.
+01:24:21:14,01:24:24:24,Pravni poredak æe dugo pamtiti ovaj dan.
+01:24:25:14,01:24:27:19,A sada, ostale vesti dana.
+01:24:27:21,01:24:29:16,Šef Bele kuæe je danas"...
+01:24:38:04,01:24:39:04,Reši se tela.
+01:24:40:01,01:24:40:14,Ok?
+01:24:41:06,01:24:41:24,Van s njim.
+01:24:42:19,01:24:43:24,Ali, šta je on kriv?
+01:24:44:24,01:24:47:11,Èarly je ubio Malika,|a on mi je bio gotovo kao sin!
+01:24:48:19,01:24:49:24,Osvetiæu ga.
+01:24:50:14,01:24:52:24,A onda ta bol koja èoveku|razdire dušu, danju i noæu.
+01:24:53:16,01:24:55:12,Da ostavimo nešto za uspomenu|kao prošli put?
+01:24:55:14,01:24:57:19,Može uvo ili prst, kako želite.
+01:24:58:02,01:24:59:09,I neka potpiše njegova kurva.
+01:25:01:17,01:25:02:22,Jeste li našli Aurelija?
+01:25:03:09,01:25:04:02,Veèeras.
+01:25:05:04,01:25:07:19,Trenutak, šefe, razmisli kako to uraditi.
+01:25:07:22,01:25:09:19,Naði ga i pucaj!
+01:25:13:02,01:25:15:17,Zato æu te postaviti za menadžera|Station hotela.
+01:25:16:07,01:25:18:02,Klijentela je tamo.
+01:25:18:04,01:25:18:22,Napred.
+01:25:28:09,01:25:28:23,Gde je Goldmanica?
+01:25:28:24,01:25:29:22,U æeliji za ispitivanje.
+01:25:30:22,01:25:31:24,Ne razumem šta se to dogaða!
+01:25:51:07,01:25:51:22,Otvori!
+01:25:56:07,01:25:57:07,Kakva je ovo maskerada?
+01:25:57:15,01:25:58:12,Ne razumem.
+01:25:58:13,01:25:59:10,Gde je Matei?
+01:26:00:02,01:26:00:25,Još ga nismo pronašli.
+01:26:01:17,01:26:02:20,Ali imamo novih podataka.
+01:27:20:20,01:27:22:00,Paziš li na njega?
+01:27:50:08,01:27:51:13,Matei je u zatvoru.
+01:27:52:08,01:27:53:10,Šta da radimo sad?
+01:27:53:18,01:27:55:20,Zakolji ga i odseci komad mesa.
+01:27:56:20,01:27:57:21,Šta ti je, pa to je dete!
+01:27:57:23,01:27:59:11,Je li tvoje? Kolebaš se?
+01:28:01:03,01:28:02:23,Hajde, potraži lopate i vreæe za smeæe.
+01:28:20:23,01:28:21:23,Našao sam samo jednu lopatu.
+01:28:22:11,01:28:24:13,Odnesi ga u auto, neæu|ga ovde klati.
+01:28:28:08,01:28:29:06,Nisam li ti rekao nešto?!
+01:28:29:18,01:28:30:21,Pokreni se, a onda gas!
+01:28:51:18,01:28:52:16,Vreme je da krenemo, mali!
+01:28:53:13,01:28:55:11,Hajde! Vreme je za smetlište!
+01:28:57:04,01:28:59:06,Ne, ne!
+01:29:00:01,01:29:02:06,Zaèepi!|Zaveži, rekao sam!
+01:29:02:16,01:29:03:16,Zaèepi, nakazo!
+01:29:41:19,01:29:46:01,Ne, ne, molim Vas!|Nemojte!
+01:29:48:24,01:29:50:09,Ne, molim Vas!
+01:30:08:14,01:30:10:04,Ubiæu i tebe i tvog Rusa!
+01:30:47:17,01:30:49:22,To sam ja. Tvoj tata.
+01:30:51:02,01:30:51:17,Tata!
+01:30:52:14,01:30:53:02,Tata!
+01:30:53:04,01:30:53:24,Sve je gotovo.
+01:30:54:14,01:30:55:04,Ne boj se.
+01:30:55:20,01:30:57:07,Sve je završeno. Smiri se.
+01:31:03:10,01:31:04:02,Sve je dobro.
+01:31:16:25,01:31:17:17,Sve je dobro.
+01:31:18:10,01:31:20:12,Sve gotovo.|Sve æe biti u redu.
+01:31:33:15,01:31:34:05,Èarly?
+01:31:36:07,01:31:36:25,Moram iæi.
+01:31:39:22,01:31:41:22,Ti se više ne moraš skrivati.
+01:31:42:25,01:31:43:25,Nema razloga za to.
+01:31:46:20,01:31:48:15,Ponovo miran, normalan život.
+01:31:52:10,01:31:53:12,Želim biti s tobom.
+01:32:34:23,01:32:36:17,Aurelio Rampaul se uspeo izvuæi,
+01:32:36:17,01:32:38:10,ali imamo petoricu mrtvih|i jednog teško ranjenog.
+01:32:39:00,01:32:39:19,Oružje?
+01:32:39:20,01:32:41:08,Ne, pre našeg dolaska sve je bilo uklonjeno.
+01:32:41:09,01:32:42:05,Ništa, znaèi?.
+01:32:42:05,01:32:43:00,Gotovo ništa.
+01:32:43:18,01:32:45:00,Ovo smo našli u Aurelevom džepu.
+01:33:10:01,01:33:10:16,Sonija!
+01:33:13:08,01:33:14:03,Sonija!
+01:33:15:08,01:33:16:01,Deco!
+01:33:50:21,01:33:54:01,On mi je mnogo pomogao.|Nije samo iscelitelj.
+01:33:55:01,01:33:57:24,On upozorava vernike|na nadolazeæu smrt.
+01:33:58:21,01:34:01:14,Kome on pokuca na krevet,|tome ostaju tri dana života.
+01:34:02:21,01:34:04:13,A tebi nije došao?
+01:34:04:14,01:34:06:04,Šta si uèinio mojoj porodici?
+01:34:07:11,01:34:09:14,Ja nikad nisam dirao tvoju porodicu.
+01:34:11:11,01:34:12:19,Želeo bih razumeti...
+01:34:12:21,01:34:13:11,Razumeti?
+01:34:13:24,01:34:15:04,Šta želiš razumeti?
+01:34:21:06,01:34:22:06,Zašto si takav?
+01:34:24:24,01:34:25:16,Biznis.
+01:34:26:06,01:34:27:16,Ne govorim o biznisu.
+01:34:27:24,01:34:29:24,Zakleli smo se da æemo biti|prijatelji do smrti. Seæaš se?
+01:34:31:19,01:34:32:21,Nikad to nisam rekao.
+01:34:33:11,01:34:34:24,Zakleli smo se da æemo biti|prijatelji do smrti!
+01:34:35:09,01:34:37:14,Odrasli smo zajedno,|ali godine ljude razdvoje!
+01:34:37:15,01:34:39:01,Vremenom si postao zbunjen!
+01:34:39:19,01:34:41:06,Starèe! Slabiæu!
+01:34:41:24,01:34:42:21,Svi samo kritikuju!
+01:34:43:09,01:34:45:04,A ja nastavljam borbu.
+01:34:45:09,01:34:47:08,Postoje granice koje ja ne bih prešao.
+01:34:47:09,01:34:50:06,Glupost. Ti i tvoj moral.|Jako originalno.
+01:34:50:09,01:34:51:19,Moralnost nije preterivanje.
+01:34:52:04,01:34:53:03,Nije sve zadovoljstvo.
+01:34:53:04,01:34:54:11,Misliš da si drugaèiji, Èarls?
+01:34:54:24,01:34:55:19,Misliš da si bolji?
+01:34:56:14,01:34:57:16,Ali mi smo isti.
+01:34:57:24,01:35:00:19,Nisi bolji od mene.
+01:35:01:04,01:35:04:12,Neobiène manire imaš.|I nemaš kodeks èasti!
+01:35:04:19,01:35:07:07,Mi smo isti! Ruke su nam krvave!|Ne možeš oprati tu krv!
+01:35:07:14,01:35:10:02,I uvek æeš biti s druge strane zakona.
+01:35:10:09,01:35:11:17,Dakle, ne uèi me o životu!
+01:35:11:19,01:35:15:07,Ubij me jer sam izgubio, a ne u|ime tvoje moralnosti, propalico!
+01:35:16:12,01:35:17:22,Želim da ovo mirno okonèam.
+01:35:17:23,01:35:18:22,I ja.
+01:35:19:12,01:35:22:17,Ali tako što bih te ubio|zbog tvoje selektivne moralnosti!
+01:35:24:04,01:35:25:14,Ucena - da. Droga - ne!
+01:35:25:22,01:35:27:07,Ne èlanove porodice.
+01:35:28:02,01:35:29:04,Ubij, ali ne policajca!
+01:35:29:17,01:35:31:12,A to je sve sranje.
+01:35:32:07,01:35:33:24,Zlo je u nama i dolazi po svoje.
+01:35:35:14,01:35:36:17,Ne slažeš se sa mnom?
+01:35:37:14,01:35:39:14,Hoæeš da me ubiješ jer ne|možeš podneti istinu?
+01:35:43:17,01:35:45:09,Ne, nego zato što si me izneverio.
+01:35:48:09,01:35:48:24,Hajde.
+01:35:49:22,01:35:50:17,Šta èekaš?
+01:35:58:24,01:36:01:02,Ne razmišljaj predugo jer|æeš promeniti mišljenje.
+01:36:34:07,01:36:36:25,Ostarili smo na razlièite naèine,|ja brže reagujem!
+01:36:37:20,01:36:39:10,I pobožnost ponekad ubija!
+01:36:41:20,01:36:44:02,Tri dana do smrti?|Ja sam umirao, a sad živim!
+01:36:44:03,01:36:46:07,A tebi æe biti žao što veæ nisi mrtav.
+01:36:48:02,01:36:49:02,Ne èujem preklinjanje.
+01:36:51:17,01:36:54:02,Moli me, Èarls, preklinji me!
+01:36:55:07,01:36:55:22,Zac!
+01:36:56:22,01:36:57:20,Šta, Èarls?
+01:37:00:12,01:37:02:00,Ti, poslednje svetsko kopile!
+01:37:09:03,01:37:10:23,Rekoh, preklinji me!
+01:37:11:20,01:37:12:13,Molim te!
+01:37:19:20,01:37:21:18,Policija! Ne mrdaj!
+01:37:21:20,01:37:23:21,Natrag! Baci oružje!
+01:37:23:22,01:37:25:23,Oružje na pod! Ne mrdaj!
+01:37:34:08,01:37:35:20,Toni Zakia, uhapšeni ste.
+01:37:36:03,01:37:37:13,Bit æete pritvoreni.
+01:37:37:15,01:37:40:15,Optuženi ste za prevare|i razne nezakonite radnje.
+01:37:40:18,01:37:42:23,Njega držite! Hteo me ubiti!
+01:37:43:10,01:37:44:05,Majko!
+01:37:45:18,01:37:52:13,Sluèaj Toni Zakia odjeknuo je u|Marselju i u celoj Francuskoj.
+01:37:55:00,01:37:59:10,Naš grad konaèno ulazi u novu eru|Vašom zaslugom, kapetane.
+01:37:59:20,01:38:01:18,Zahvaljujem se na Vašoj|izvanrednoj službi.
+01:38:02:18,01:38:06:11,Ministar unutarnjih poslova doæi æe|lièno kod nas da nam èestita.
+01:38:06:16,01:38:10:23,Pa, mislim da æete u ovim okolnostima|zaboraviti neslaganja meðu nama...
+01:38:11:01,01:38:13:13,i istaæi moje zasluge u borbi|protiv kriminala.
+01:38:14:06,01:38:16:06,Nisam sigurna da Vas razumem, gospodine.
+01:38:16:06,01:38:17:18,Onda æu se izraziti preciznije.
+01:38:18:11,01:38:23:06,Unutarnja kontrola je otkrila da ste nakon|muževljeve smrti postali zavisni od alkohola.
+01:38:23:16,01:38:26:13,Zavisni ste od kockanja|i poseæujete bordele.
+01:38:27:16,01:38:32:08,Osim toga, aktivno ste uèestvovali|u bekstvu Èarlyja Mateija.
+01:38:33:03,01:38:36:16,I nekažnjeno ste koristili službenu sirenu.
+01:38:37:06,01:38:42:12,Ako nas ministar iznenada poseti,|biæete kraljica dana...
+01:38:42:13,01:38:45:15,Ako se ne budete pred njim|hvalisali,
+01:38:45:15,01:38:48:16,da je hapšenje Mateija Vaša|zasluga, ovo ostaje meðu nama.
+01:38:51:21,01:38:55:16,Ako su Vas veæ unapredili, boriæu se|protiv kriminalaca za Vas.
+01:38:55:17,01:38:56:16,Uèiniæete mi uslugu.
+01:39:02:24,01:39:04:14,Još nešto, gospodine direktore.
+01:39:04:14,01:39:05:06,Da?
+01:39:10:19,01:39:11:21,Ovo ostaje samo meðu nama.
+01:39:15:09,01:39:18:04,Policajci stalno istražuju stvari|koje nisam poèinio.
+01:39:18:05,01:39:19:24,A moje podvige ne istražuju.
+01:39:20:21,01:39:23:19,Kažete da smo svi idioti, ali|ni vi policajci niste bolji.
+01:39:25:24,01:39:27:11,Dakle, niste bili u Marselju?
+01:39:27:24,01:39:28:16,Ne.
+01:39:30:19,01:39:33:06,I niste umešani u Malikovo ubistvo?
+01:39:33:07,01:39:33:24,Ne.
+01:39:36:11,01:39:38:01,I ne znate ko je to mogao biti?
+01:39:38:21,01:39:39:09,Ne.
+01:39:44:24,01:39:46:06,Je li vam poznat ovaj pištolj?
+01:39:48:21,01:39:50:24,Ne, ne prepoznajem ga.
+01:39:51:16,01:39:53:06,A odakle Vaši otisci na njemu?
+01:39:56:24,01:39:57:19,Ne znam.
+01:40:00:12,01:40:02:14,Možda sam ga dodirnuo u duæanu.
+01:40:03:14,01:40:04:07,U duæanu?
+01:40:05:19,01:40:07:08,Imate dozvolu za njega?
+01:40:07:09,01:40:10:24,Ne. Morao sam imati dozvolu?
+01:40:12:14,01:40:14:12,A gde ste pronašli oružje?
+01:40:14:19,01:40:15:24,U kuæi gospodina Zakije.
+01:40:19:17,01:40:22:12,Toni Zakia kaže da ste provalili|u njegovu kuæu da ga ubijete.
+01:40:23:09,01:40:26:22,Ja provalio? Pustio me unutra.|Mi smo stari prijatelji.
+01:40:33:17,01:40:35:14,Proèitajte ovo svedoèenje i potpišite.
+01:40:37:09,01:40:41:12,Optuženi ste za ilegalno posedovanje|oružja, kao i za upad na privatnu svojinu.
+01:40:42:02,01:40:44:02,Ali za Vašeg advokata to je deèja igra.
+01:41:05:07,01:41:06:02,Slobodan sam?
+01:41:08:05,01:41:12:10,Istraga je potvrdila svedoèenje|Yasmin Body. Ubica je bio dešnjak.
+01:41:25:07,01:41:28:22,Ali Zakia, on æe biti optužen|za mnogobrojne prestupe.
+01:41:30:02,01:41:33:02,I dobiæe maksimalnu zakonsku kaznu.
+01:41:35:05,01:41:37:17,Izvršila sam svoju dužnost,|to mi je posao.
+01:41:39:07,01:41:40:17,Ali lièno...
+01:41:43:22,01:41:45:17,Žalim da sam upala prerano.
+01:41:46:25,01:41:51:17,Ne žalite koliko ja, ali to mi|nije jedina slaba taèka.
+01:41:52:07,01:41:53:07,To je porodica.
+01:41:58:07,01:42:00:02,Nadam se da se neæemo nikad videti.
+01:42:09:18,01:42:13:00,Zakia Vam je rekao ko je|bio osmi napadaè?
+01:42:15:20,01:42:16:10,Ne.
+01:42:52:23,01:42:54:05,Doneo sam ono što si tražio.
+01:42:59:10,01:43:01:00,Hristele i deca te èekaju kod kuæe.
+01:43:01:10,01:43:02:18,Došli su Karimovi roditelji.
+01:43:03:06,01:43:05:06,Voleo bih razgovarati s tobom nasamo.
+01:43:05:13,01:43:06:06,Nema frke.
+01:43:08:08,01:43:09:03,Gde?
+01:43:10:03,01:43:11:11,Garaža, reæi æu ti.
+01:43:33:21,01:43:35:13,Èudnim se poslovima bavim.
+01:43:38:06,01:43:40:06,Ako odluèiš da prestaneš s tim,
+01:43:40:06,01:43:42:06,budi siguran da æe pre ili kasnije|neko pokucati na tvoja vrata
+01:43:42:07,01:43:44:23,da osveti svog oca, sina, strica.
+01:43:48:11,01:43:49:21,Proklet si da živiš s tim.
+01:43:52:03,01:43:53:03,I da patiš.
+01:43:55:11,01:43:57:11,A krv se nikad ne osuši.
+01:44:15:16,01:44:16:24,Ovde su to uradili?
+01:44:21:09,01:44:22:01,Oni?
+01:44:27:06,01:44:28:01,Èarly.
+01:44:30:01,01:44:33:06,Zack me prebio kao budalu.
+01:44:33:16,01:44:36:09,Odbio sam, ali mi je gurnuo pištolj u ruke.
+01:44:36:24,01:44:39:14,Nisam mogao ni pretpostaviti|da je naredio da se smakne tebe.
+01:44:40:06,01:44:41:21,A kad sam shvatio, bilo je prekasno.
+01:45:03:14,01:45:04:14,Ali ja nisam pucao na tebe!
+01:45:05:17,01:45:07:02,Pravio sam se da pucam u tebe.
+01:45:07:12,01:45:08:07,Znam.
+01:45:09:19,01:45:14:07,Preklinjem te! Misli na Klatide.|Ona je bolesna!
+01:45:14:14,01:45:18:09,Bez mene ne bi preživela!|Hoæe li se neko drugi pobrinuti za nju?
+01:45:18:10,01:45:22:02,Umrla bi u bolnici! Želiš li to?
+01:45:23:02,01:45:27:19,A tvoja kæer? Za mene je kao moja kæi.|Oprosti što to kažem.
+01:45:29:17,01:45:32:19,Ali ona mi jeste kao kæerka!|Ne mogu!
+01:45:33:09,01:45:35:07,Oni ti neæe oprostiti.
+01:46:15:17,01:46:16:25,Sad smo kvit.
+01:46:47:17,01:46:50:22,Preživeo sam na bojnom polju|i još sam u službi.
+01:46:52:15,01:46:54:15,Gledaæu svoju decu kako rastu.
+01:46:54:25,01:46:56:12,Ostaæu sa svojom porodicom.
+01:46:57:10,01:46:58:17,Koliko god budem mogao.
+01:46:59:15,01:47:02:17,Spokojno starim i ni od kog|se ne skrivam.
+01:47:04:20,01:47:07:07,I živeæu bez straha da me progone.
+01:47:09:18,01:47:21:23,Originalni titl: a. Žižak|Adaptacija na srpski: xyz

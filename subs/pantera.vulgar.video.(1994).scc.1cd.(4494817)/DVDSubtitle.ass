@@ -1,0 +1,392 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.59,0:00:12.05,Default,,0000,0000,0000,,Jebem ti!
+Dialogue: 0,0:00:12.47,0:00:17.35,Default,,0000,0000,0000,,Dobrodosli u Panterin kucni video, drugi deo.
+Dialogue: 0,0:00:29.02,0:00:32.15,Default,,0000,0000,0000,,"Walk" - Pantera
+Dialogue: 0,0:00:42.08,0:00:43.87,Default,,0000,0000,0000,,Obratite paznju picke!
+Dialogue: 0,0:01:03.06,0:01:04.06,Default,,0000,0000,0000,,Dobrodosli nazad u
+Dialogue: 0,0:01:02.18,0:01:04.94,Default,,0000,0000,0000,,panterin
+Dialogue: 0,0:01:04.98,0:01:05.44,Default,,0000,0000,0000,,kucni video
+Dialogue: 0,0:01:05.77,0:01:06.02,Default,,0000,0000,0000,,drugi deo!
+Dialogue: 0,0:01:06.31,0:01:07.31,Default,,0000,0000,0000,,Video broj dva!
+Dialogue: 0,0:01:07.86,0:01:08.36,Default,,0000,0000,0000,,Dva!
+Dialogue: 0,0:01:08.98,0:01:09.82,Default,,0000,0000,0000,,Pazite.
+Dialogue: 0,0:01:15.82,0:01:16.99,Default,,0000,0000,0000,,Kucni video ponovo napada!
+Dialogue: 0,0:01:17.24,0:01:18.07,Default,,0000,0000,0000,,Pusite vutru!
+Dialogue: 0,0:01:26.08,0:01:30.09,Default,,0000,0000,0000,,Ovde su hladna dvanaestica i boca Jegera...\NVerovatno ima i ovde jos par.
+Dialogue: 0,0:01:30.09,0:01:30.79,Default,,0000,0000,0000,,Pet!
+Dialogue: 0,0:01:31.30,0:01:33.55,Default,,0000,0000,0000,,Ko hoce tekile? Poslali su me da\Ndonesem ovo za Panteru.
+Dialogue: 0,0:01:34.01,0:01:34.63,Default,,0000,0000,0000,,Cetiri!
+Dialogue: 0,0:01:35.05,0:01:38.34,Default,,0000,0000,0000,,Ne, nema vecere za mene...\NDoktor je rekao samo tecnost.
+Dialogue: 0,0:01:38.72,0:01:39.34,Default,,0000,0000,0000,,Tri!
+Dialogue: 0,0:01:41.72,0:01:42.22,Default,,0000,0000,0000,,Dva!
+Dialogue: 0,0:01:42.60,0:01:44.47,Default,,0000,0000,0000,,Vulgar Display jebenog lizanja.
+Dialogue: 0,0:01:44.81,0:01:46.89,Default,,0000,0000,0000,,JEDAN!
+Dialogue: 0,0:01:49.73,0:01:52.73,Default,,0000,0000,0000,,"Rise" - Pantera
+Dialogue: 0,0:02:10.42,0:02:12.50,Default,,0000,0000,0000,,Trebao bi da radis Teksasko stilingovanje.
+Dialogue: 0,0:02:27.85,0:02:30.73,Default,,0000,0000,0000,,Volim da budem pijan ali... Mrzim mamurluk.
+Dialogue: 0,0:02:36.44,0:02:43.24,Default,,0000,0000,0000,,"A New Level" - Pantera
+Dialogue: 0,0:03:04.43,0:03:09.85,Default,,0000,0000,0000,,Nas zadatak ovih dana, i u proslosti...\NI od prvog dana je uvek bio
+Dialogue: 0,0:03:13.40,0:03:15.90,Default,,0000,0000,0000,,ekstreman, znas... Ne bend nego...
+Dialogue: 0,0:03:16.48,0:03:24.45,Default,,0000,0000,0000,,Ekstremna, jaka stvar... Koja udara,\Nljudi mogu da se pokrecu uz nasu muziku
+Dialogue: 0,0:03:24.99,0:03:26.91,Default,,0000,0000,0000,,i mislim da smo to uspeli.
+Dialogue: 0,0:03:28.37,0:03:32.54,Default,,0000,0000,0000,,"Walk" - Pantera
+Dialogue: 0,0:08:44.23,0:08:52.19,Default,,0000,0000,0000,,Cao, ja sam Dimebag...\NUzivam u djakuziju ovde u Kanadi.
+Dialogue: 0,0:08:52.53,0:08:53.70,Default,,0000,0000,0000,,Ovo sam ja u Danskoj.
+Dialogue: 0,0:08:53.99,0:08:55.41,Default,,0000,0000,0000,,Ovo sam ja u Berlinu.
+Dialogue: 0,0:08:55.70,0:08:56.66,Default,,0000,0000,0000,,Ovo sam ja u Londonu.
+Dialogue: 0,0:08:57.03,0:08:58.16,Default,,0000,0000,0000,,Ovo sam ja zaglavljen u Evropi.
+Dialogue: 0,0:08:58.58,0:09:05.75,Default,,0000,0000,0000,,Ovo sam ja u Ohaju sa svojim ortakom,\Nsnimam se u slucaju ako me napadne policija.
+Dialogue: 0,0:09:05.79,0:09:08.00,Default,,0000,0000,0000,,Hej covece!
+Dialogue: 0,0:09:08.79,0:09:09.96,Default,,0000,0000,0000,,Ovo sam ja u Barseloni.
+Dialogue: 0,0:09:10.46,0:09:13.88,Default,,0000,0000,0000,,Ovo sam ja u Santa Monika restoranu.
+Dialogue: 0,0:09:14.76,0:09:16.43,Default,,0000,0000,0000,,Ovo sam ja u Njujorku.
+Dialogue: 0,0:09:17.05,0:09:20.72,Default,,0000,0000,0000,,Ovo je vas Dimebag, upravo su me opeljesili u Atlantik sitiju.
+Dialogue: 0,0:09:21.52,0:09:26.14,Default,,0000,0000,0000,,Ovo sam ja u Serdzisino... Sergio Valente, Italija.
+Dialogue: 0,0:09:26.56,0:09:29.57,Default,,0000,0000,0000,,Ovo sam ja u Atlanti.\NPokusavam da ga ne osetim prejako.
+Dialogue: 0,0:09:30.02,0:09:32.32,Default,,0000,0000,0000,,Washington DC, ispred bele kuce.
+Dialogue: 0,0:09:33.28,0:09:33.86,Default,,0000,0000,0000,,Moskva!
+Dialogue: 0,0:09:34.40,0:09:37.41,Default,,0000,0000,0000,,Ovo sam ja na pijaci negde u Evropi... \NIzgubljen kao i obicno.
+Dialogue: 0,0:09:37.45,0:09:38.66,Default,,0000,0000,0000,,Jedva cekam da se vratim na put.
+Dialogue: 0,0:09:40.49,0:09:44.16,Default,,0000,0000,0000,,"Regular People (Conceit)" - Pantera
+Dialogue: 0,0:09:45.04,0:09:45.58,Default,,0000,0000,0000,,Pogledaj ove zice...
+Dialogue: 0,0:10:02.56,0:10:06.31,Default,,0000,0000,0000,,U jebote, uhvati je Rex! Uhvati je! To!
+Dialogue: 0,0:10:07.35,0:10:10.90,Default,,0000,0000,0000,,"Mouth For War" - Pantera
+Dialogue: 0,0:10:20.03,0:10:20.70,Default,,0000,0000,0000,,Sigurna!
+Dialogue: 0,0:10:21.33,0:10:24.50,Default,,0000,0000,0000,,Samo sam hteo da kazem... Onaj Tempora bend? Da!
+Dialogue: 0,0:10:24.83,0:10:28.12,Default,,0000,0000,0000,,Vi momci ste moj omiljeni bend,\Noduvek sam voleo Temporu.
+Dialogue: 0,0:10:37.38,0:10:40.97,Default,,0000,0000,0000,,"Regular People(Conceit)" - Pantera
+Dialogue: 0,0:10:43.93,0:10:46.23,Default,,0000,0000,0000,,Dolazim sa poklonima... Pomirisi ovo.
+Dialogue: 0,0:10:46.27,0:10:48.56,Default,,0000,0000,0000,,Opako brate, buksna!
+Dialogue: 0,0:10:51.06,0:10:52.36,Default,,0000,0000,0000,,Kul brate, hvala!
+Dialogue: 0,0:10:52.48,0:10:56.28,Default,,0000,0000,0000,,Pogledaj tu buksnu, jebem ti!
+Dialogue: 0,0:11:03.91,0:11:05.20,Default,,0000,0000,0000,,Jebote, bas sam povukao!
+Dialogue: 0,0:11:15.50,0:11:18.22,Default,,0000,0000,0000,,"Regular People(Conceit)" - Pantera
+Dialogue: 0,0:11:31.10,0:11:33.98,Default,,0000,0000,0000,,"Purple Haze" - Jimi Hendrix
+Dialogue: 0,0:11:50.08,0:11:51.21,Default,,0000,0000,0000,,Pusite travu!
+Dialogue: 0,0:11:57.46,0:11:59.63,Default,,0000,0000,0000,,Umirem od gladi...
+Dialogue: 0,0:11:59.97,0:12:02.18,Default,,0000,0000,0000,,-Sta imas?\N-Taco Bell.
+Dialogue: 0,0:12:03.01,0:12:06.76,Default,,0000,0000,0000,,Donecemo jebeni rostilj ovde u Brazilu, moze?
+Dialogue: 0,0:12:48.39,0:12:53.10,Default,,0000,0000,0000,,Ribe ne mogu da mi se skinu sa kurca...\NJednostavno me vole.
+Dialogue: 0,0:12:53.48,0:12:55.52,Default,,0000,0000,0000,,O moj penis je polomljen!
+Dialogue: 0,0:13:05.41,0:13:07.70,Default,,0000,0000,0000,,Zivo je!
+Dialogue: 0,0:13:16.67,0:13:18.46,Default,,0000,0000,0000,,Vodim ljubav...
+Dialogue: 0,0:13:22.55,0:13:26.13,Default,,0000,0000,0000,,I ona se spotakla o moj penis....
+Dialogue: 0,0:13:26.51,0:13:28.80,Default,,0000,0000,0000,,Ribe me bas gotive... Da se primetiti.
+Dialogue: 0,0:13:31.22,0:13:33.48,Default,,0000,0000,0000,,Ajmo svi! Sklekovi!
+Dialogue: 0,0:13:35.56,0:13:38.65,Default,,0000,0000,0000,,Ne radis nista dok se ne osecas kao "zackleys"
+Dialogue: 0,0:13:40.90,0:13:48.12,Default,,0000,0000,0000,,A "zackleys" je kad ti bulja i telo\Nsmrde bas kao psece govno.
+Dialogue: 0,0:13:48.24,0:13:49.03,Default,,0000,0000,0000,,Boze...
+Dialogue: 0,0:13:50.83,0:13:52.24,Default,,0000,0000,0000,,A daj Rexe!
+Dialogue: 0,0:14:01.92,0:14:11.76,Default,,0000,0000,0000,,Oces da polomim nesto? Polomicemo nesto...
+Dialogue: 0,0:14:15.48,0:14:17.90,Default,,0000,0000,0000,,To je bilo prenisko!
+Dialogue: 0,0:14:43.88,0:14:45.01,Default,,0000,0000,0000,,Ko je tamo?
+Dialogue: 0,0:14:45.76,0:14:47.63,Default,,0000,0000,0000,,Ponekad sam sebe uplasim.
+Dialogue: 0,0:14:49.30,0:14:50.59,Default,,0000,0000,0000,,May Pop!!!
+Dialogue: 0,0:14:50.76,0:14:55.89,Default,,0000,0000,0000,,May Pop gume, po bilo kojoj brzini,\Nbrzo krecu, brzo se zaustavljaju
+Dialogue: 0,0:14:56.23,0:15:00.31,Default,,0000,0000,0000,,ali nemojte ih iseci, jer mogu da puknu.\N(May Pop- mogu da puknu)
+Dialogue: 0,0:15:01.36,0:15:10.45,Default,,0000,0000,0000,,DINANIT!!!
+Dialogue: 0,0:15:29.76,0:15:31.05,Default,,0000,0000,0000,,Sranje!
+Dialogue: 0,0:15:40.60,0:15:46.65,Default,,0000,0000,0000,,Living after midnight, walking to the dawn\N(Judas priest pesma)
+Dialogue: 0,0:16:41.37,0:16:43.50,Default,,0000,0000,0000,,Ne samo sto spava
+Dialogue: 0,0:16:44.37,0:16:47.67,Default,,0000,0000,0000,,on je napola mrtav...
+Dialogue: 0,0:16:49.25,0:16:56.26,Default,,0000,0000,0000,,Gledao sam video momci... Sedeo sam\Ni pitao sam se sta cete sledece uraditi...
+Dialogue: 0,0:17:06.31,0:17:07.40,Default,,0000,0000,0000,,Rusija je bila do jaja brate!
+Dialogue: 0,0:17:07.65,0:17:09.65,Default,,0000,0000,0000,,Cao... Upraznjavajte seks...
+Dialogue: 0,0:17:10.28,0:17:11.74,Default,,0000,0000,0000,,Jesi li umoran? Nee...
+Dialogue: 0,0:17:11.94,0:17:14.70,Default,,0000,0000,0000,,Nisam uopste spavao pre polaska...\NTako da je ovo dva dana
+Dialogue: 0,0:17:15.28,0:17:15.91,Default,,0000,0000,0000,,I nisam se drogirao.
+Dialogue: 0,0:17:16.16,0:17:19.58,Default,,0000,0000,0000,,Ne znam kakva je prica sa restoranom u hotelu,\Nvi pogledajte...
+Dialogue: 0,0:17:19.95,0:17:23.25,Default,,0000,0000,0000,,Ako nema nista od toga, druga dva\Nmesta na koja mozete da odete
+Dialogue: 0,0:17:23.46,0:17:25.50,Default,,0000,0000,0000,,Su Pizza Hut i Mek Donalds.
+Dialogue: 0,0:17:25.92,0:17:29.29,Default,,0000,0000,0000,,Inace ne jedem ovakva sranja...\NAli otkad smo u Rusiji...
+Dialogue: 0,0:17:29.63,0:17:33.63,Default,,0000,0000,0000,,I lose smo snabdeveni...
+Dialogue: 0,0:17:34.30,0:17:38.39,Default,,0000,0000,0000,,Ove grickalice su prilicno zgodne.
+Dialogue: 0,0:17:39.30,0:17:41.64,Default,,0000,0000,0000,,Au jebote, tecnost za ispiranje usta
+Dialogue: 0,0:17:42.56,0:17:44.23,Default,,0000,0000,0000,,Fino je zatvoreno... Moras da ga volis.
+Dialogue: 0,0:17:44.85,0:17:47.19,Default,,0000,0000,0000,,Ovo je Panterin obilazak Moskve
+Dialogue: 0,0:17:47.94,0:17:49.90,Default,,0000,0000,0000,,I sa nase leve strane imamo
+Dialogue: 0,0:17:50.65,0:17:53.74,Default,,0000,0000,0000,,Sve likove koji se okupljaju za\Ngodisnji Saxon koncert.
+Dialogue: 0,0:18:07.88,0:18:09.54,Default,,0000,0000,0000,,Vredan je para...
+Dialogue: 0,0:18:09.84,0:18:12.05,Default,,0000,0000,0000,,Koliko? 5 dolara?
+Dialogue: 0,0:18:13.63,0:18:15.42,Default,,0000,0000,0000,,Izvali ovo! Rexov broj...
+Dialogue: 0,0:18:16.43,0:18:18.68,Default,,0000,0000,0000,,-Koliko?\N-10 dolara.
+Dialogue: 0,0:18:18.68,0:18:21.97,Default,,0000,0000,0000,,10 dolara, to je stara ruska kapa.
+Dialogue: 0,0:18:22.31,0:18:23.60,Default,,0000,0000,0000,,Daj mi pare!
+Dialogue: 0,0:18:24.98,0:18:26.19,Default,,0000,0000,0000,,Nek neko nastima ovo.
+Dialogue: 0,0:18:38.66,0:18:39.53,Default,,0000,0000,0000,,Neverovatno.
+Dialogue: 0,0:18:39.74,0:18:40.37,Default,,0000,0000,0000,,Ludilo.
+Dialogue: 0,0:18:40.78,0:18:42.66,Default,,0000,0000,0000,,Vidi ovo... Sad sam slatki celavac.
+Dialogue: 0,0:18:43.87,0:18:46.08,Default,,0000,0000,0000,,Vi otvarate pred milion ljudi.
+Dialogue: 0,0:18:46.87,0:18:49.50,Default,,0000,0000,0000,,Uskoro... Jedva cekam.
+Dialogue: 0,0:18:50.17,0:18:54.92,Default,,0000,0000,0000,,Posto smo mi poznat\Nrock and roll bend ovde u Rusiji...
+Dialogue: 0,0:18:56.38,0:19:00.84,Default,,0000,0000,0000,,Mislim, ne zelimo da se mnogo muce oko nas ali...
+Dialogue: 0,0:19:02.18,0:19:04.52,Default,,0000,0000,0000,,Ali ozbiljno...
+Dialogue: 0,0:19:05.02,0:19:06.85,Default,,0000,0000,0000,,Nismo mi materijalisticni
+Dialogue: 0,0:19:07.23,0:19:10.23,Default,,0000,0000,0000,,ali pobogu nisu morali da urade ovo..
+Dialogue: 0,0:19:10.40,0:19:11.44,Default,,0000,0000,0000,,Udjite...
+Dialogue: 0,0:19:13.15,0:19:15.40,Default,,0000,0000,0000,,Pazite sad, nemojte da\Nuprapastite ovaj lep pod
+Dialogue: 0,0:19:15.78,0:19:16.86,Default,,0000,0000,0000,,ovo je nov novcijat tepih.
+Dialogue: 0,0:19:17.28,0:19:20.20,Default,,0000,0000,0000,,Bas su ljubazni, dali su nam flasu vode\Ni pola flase rakije.
+Dialogue: 0,0:19:20.74,0:19:21.41,Default,,0000,0000,0000,,Tacno... I...
+Dialogue: 0,0:19:22.49,0:19:25.37,Default,,0000,0000,0000,,To je nasa odeca, ovo je nas stub
+Dialogue: 0,0:19:25.87,0:19:27.33,Default,,0000,0000,0000,,ovo nam je svetlo!
+Dialogue: 0,0:19:28.04,0:19:30.96,Default,,0000,0000,0000,,Odaljite se malo, ove palice su skupe!
+Dialogue: 0,0:19:31.38,0:19:32.88,Default,,0000,0000,0000,,Nemojte tako blizu...
+Dialogue: 0,0:19:40.05,0:19:45.22,Default,,0000,0000,0000,,"Domination" - Pantera Moskva '91
+Dialogue: 0,0:24:48.94,0:24:51.70,Default,,0000,0000,0000,,Ni oni ne znaju koliko ljudi je bilo
+Dialogue: 0,0:24:52.65,0:24:56.03,Default,,0000,0000,0000,,videli smo slike, i bilo ih je\Ndokle god mozes da vidis...
+Dialogue: 0,0:24:56.45,0:24:58.83,Default,,0000,0000,0000,,Strasno, deca su bila luda!
+Dialogue: 0,0:25:02.79,0:25:05.13,Default,,0000,0000,0000,,Oni zele da budu vise pod uticajem zapada
+Dialogue: 0,0:25:05.54,0:25:06.42,Default,,0000,0000,0000,,i dosta njih prica engleski.
+Dialogue: 0,0:25:06.79,0:25:11.26,Default,,0000,0000,0000,,Ovo je veliki poklon za ceo ruski narod
+Dialogue: 0,0:25:12.51,0:25:15.30,Default,,0000,0000,0000,,i za sve fanove.
+Dialogue: 0,0:25:15.68,0:25:19.10,Default,,0000,0000,0000,,Bilo je 15000 policajaca\Nsa pendrecima
+Dialogue: 0,0:25:20.10,0:25:23.31,Default,,0000,0000,0000,,i ko god prestupi liniju, prebiju ga.\NSto je stvarno glupo
+Dialogue: 0,0:25:23.77,0:25:25.69,Default,,0000,0000,0000,,ali ne mozes nista da uradis povodom toga.
+Dialogue: 0,0:25:26.02,0:25:28.40,Default,,0000,0000,0000,,Video sam ih jednom, i smorio sam se.
+Dialogue: 0,0:25:28.94,0:25:31.11,Default,,0000,0000,0000,,Da smo u Americi, zaustavili bi svirku i\Npotukli bismo se
+Dialogue: 0,0:25:31.49,0:25:33.74,Default,,0000,0000,0000,,zapoceli bi neku tucu sa njima
+Dialogue: 0,0:25:34.24,0:25:38.20,Default,,0000,0000,0000,,i rekao bih... Verujem da vas je manje\Npicke na steroidima
+Dialogue: 0,0:25:44.21,0:25:46.83,Default,,0000,0000,0000,,Ovo je bolje od bilo kog sna!
+Dialogue: 0,0:25:49.00,0:25:52.80,Default,,0000,0000,0000,,Neverovatno je svirati pred svima vama!
+Dialogue: 0,0:25:55.51,0:25:56.47,Default,,0000,0000,0000,,OKEJ?!
+Dialogue: 0,0:26:02.47,0:26:03.73,Default,,0000,0000,0000,,Ovo je pesma o jedinstvu
+Dialogue: 0,0:26:04.43,0:26:10.15,Default,,0000,0000,0000,,Zove se Primal Concrete Sledge
+Dialogue: 0,0:29:16.67,0:29:18.00,Default,,0000,0000,0000,,Hvala!
+Dialogue: 0,0:29:20.09,0:29:21.17,Default,,0000,0000,0000,,Veceras se dobro zabavljamo!
+Dialogue: 0,0:29:36.61,0:29:43.49,Default,,0000,0000,0000,,Pantera! Pantera! Pantera!
+Dialogue: 0,0:29:56.08,0:29:58.59,Default,,0000,0000,0000,,Fucking Hostile!
+Dialogue: 0,0:30:02.80,0:30:03.80,Default,,0000,0000,0000,,Tako je bre!
+Dialogue: 0,0:30:10.14,0:30:12.77,Default,,0000,0000,0000,,Vratite to pojacalo nazad!
+Dialogue: 0,0:30:13.35,0:30:15.44,Default,,0000,0000,0000,,Prva tri reda su sjebana.
+Dialogue: 0,0:30:17.94,0:30:19.77,Default,,0000,0000,0000,,Videli ste to... Cekajte da vidite ovo.
+Dialogue: 0,0:30:46.55,0:30:49.72,Default,,0000,0000,0000,,Brate, mozemo da uradimo neku\Nreklamu za frizerski salon!
+Dialogue: 0,0:30:51.05,0:30:55.98,Default,,0000,0000,0000,,"Fucking Hostile - Biomechanical mix"
+Dialogue: 0,0:30:56.73,0:30:57.90,Default,,0000,0000,0000,,Savij glavu.
+Dialogue: 0,0:30:58.94,0:30:59.65,Default,,0000,0000,0000,,Ovo je dupe.
+Dialogue: 0,0:31:09.28,0:31:11.37,Default,,0000,0000,0000,,Vidite ovo...
+Dialogue: 0,0:31:13.33,0:31:14.62,Default,,0000,0000,0000,,Sranje izgleda...
+Dialogue: 0,0:31:18.46,0:31:19.63,Default,,0000,0000,0000,,Izvinite imam pink bradu.
+Dialogue: 0,0:31:37.39,0:31:39.98,Default,,0000,0000,0000,,Vidite ovo, tetoviracu ovo na ruku.
+Dialogue: 0,0:32:12.14,0:32:15.06,Default,,0000,0000,0000,,Svi smo uzbudjeni, vratili smo se\Novde na posebno vece
+Dialogue: 0,0:32:15.85,0:32:17.68,Default,,0000,0000,0000,,hteli ste najbolje, i dobili ste to od nas!
+Dialogue: 0,0:32:18.02,0:32:20.94,Default,,0000,0000,0000,,"Cold Gin" - Kiss
+Dialogue: 0,0:36:42.57,0:36:44.20,Default,,0000,0000,0000,,Ace Frehley, gitara!
+Dialogue: 0,0:36:50.50,0:36:52.29,Default,,0000,0000,0000,,Da vas cujemo za Panteru!
+Dialogue: 0,0:36:56.00,0:36:58.63,Default,,0000,0000,0000,,Jebite se, da cujemo za Skid Row!
+Dialogue: 0,0:37:05.97,0:37:08.39,Default,,0000,0000,0000,,Hvala vam i laku noc!
+Dialogue: 0,0:37:19.15,0:37:20.65,Default,,0000,0000,0000,,Jesi spreman za ovo?
+Dialogue: 0,0:37:21.45,0:37:22.36,Default,,0000,0000,0000,,Ovo sam ja pre dvanaest godina.
+Dialogue: 0,0:37:24.41,0:37:26.07,Default,,0000,0000,0000,,-Ne seri!\N-Pre 13-14 godina
+Dialogue: 0,0:37:26.87,0:37:31.58,Default,,0000,0000,0000,,-Kako se zoves?\N-Darrell.
+Dialogue: 0,0:37:32.29,0:37:34.17,Default,,0000,0000,0000,,Ovo je Fuhley
+Dialogue: 0,0:37:57.40,0:37:59.32,Default,,0000,0000,0000,,Boze, daj mi rec.
+Dialogue: 0,0:38:00.23,0:38:03.90,Default,,0000,0000,0000,,Dok snima kamera daj nam tvoju rec.
+Dialogue: 0,0:38:10.95,0:38:12.58,Default,,0000,0000,0000,,-Daj mi tvoju ruku!\N-Ne mogu.
+Dialogue: 0,0:38:12.91,0:38:16.00,Default,,0000,0000,0000,,-Znas zasto?\N-Znam, zato sto te On ne pusta.
+Dialogue: 0,0:38:16.67,0:38:17.46,Default,,0000,0000,0000,,Ti si satanin sluga.
+Dialogue: 0,0:38:17.96,0:38:19.25,Default,,0000,0000,0000,,Satana me drzi za muda!
+Dialogue: 0,0:38:20.13,0:38:23.80,Default,,0000,0000,0000,,Ustvari drzi me za levo mudo!
+Dialogue: 0,0:38:24.59,0:38:26.09,Default,,0000,0000,0000,,Aleluja, Isusovo ime!
+Dialogue: 0,0:38:26.47,0:38:27.43,Default,,0000,0000,0000,,Govorim ti sada
+Dialogue: 0,0:38:27.76,0:38:31.85,Default,,0000,0000,0000,,(mrmlja neku molitvu)
+Dialogue: 0,0:38:32.85,0:38:35.73,Default,,0000,0000,0000,,Necu ovo tolerisati!
+Dialogue: 0,0:38:37.86,0:38:40.82,Default,,0000,0000,0000,,Probudili ste sve u hotelu!
+Dialogue: 0,0:38:41.98,0:38:46.03,Default,,0000,0000,0000,,Ponesi svoje prokletstvo negde drugde!
+Dialogue: 0,0:38:46.61,0:38:52.79,Default,,0000,0000,0000,,Ti i tvoja kamera cete goreti u paklu!
+Dialogue: 0,0:38:58.04,0:38:59.33,Default,,0000,0000,0000,,Ajde sad mars odavde bre.
+Dialogue: 0,0:39:04.88,0:39:08.09,Default,,0000,0000,0000,,Bili ste u prisustvu zla.
+Dialogue: 0,0:39:09.55,0:39:10.60,Default,,0000,0000,0000,,Jebem ti mater!
+Dialogue: 0,0:39:11.68,0:39:15.81,Default,,0000,0000,0000,,"This Love" - Pantera
+Dialogue: 0,0:44:00.97,0:44:02.10,Default,,0000,0000,0000,,Popila je metak u glavu.
+Dialogue: 0,0:44:03.72,0:44:04.81,Default,,0000,0000,0000,,Upucao je sa metkom u glavu.
+Dialogue: 0,0:44:06.93,0:44:09.69,Default,,0000,0000,0000,,"And smile its black toothgrin"\N(Megadeth)
+Dialogue: 0,0:44:11.02,0:44:13.15,Default,,0000,0000,0000,,"By Demons Be Driven" - Pantera
+Dialogue: 0,0:44:17.61,0:44:18.82,Default,,0000,0000,0000,,Black toothgrin!
+Dialogue: 0,0:44:20.95,0:44:21.87,Default,,0000,0000,0000,,Black toothgrin
+Dialogue: 0,0:44:26.04,0:44:27.33,Default,,0000,0000,0000,,Jesam li sjebao zub?
+Dialogue: 0,0:44:32.42,0:44:33.71,Default,,0000,0000,0000,,Pokazacu ti kako da napravis black toothgrin
+Dialogue: 0,0:44:37.63,0:44:39.42,Default,,0000,0000,0000,,Uzmes koka kolu
+Dialogue: 0,0:44:40.18,0:44:41.76,Default,,0000,0000,0000,,Sipas malo viskija ovako
+Dialogue: 0,0:44:42.14,0:44:44.30,Default,,0000,0000,0000,,I pomesas malo da promeni boju.
+Dialogue: 0,0:44:50.85,0:44:54.15,Default,,0000,0000,0000,,Ovo je Dimebag, blejim u bekstejdzu\Nsa pomocnikom na dan.
+Dialogue: 0,0:44:54.98,0:44:56.11,Default,,0000,0000,0000,,Sabij je brate, nije ti to slatkis.
+Dialogue: 0,0:44:59.86,0:45:00.57,Default,,0000,0000,0000,,To je prava stvar!
+Dialogue: 0,0:45:12.62,0:45:16.09,Default,,0000,0000,0000,,"Cowboys From Hell" - Pantera
+Dialogue: 0,0:45:52.96,0:45:54.58,Default,,0000,0000,0000,,Jahao sam mehanickog bika!
+Dialogue: 0,0:46:01.05,0:46:04.09,Default,,0000,0000,0000,,Bio sam nisko, i bio sam pijan\Ni velika mikseta je pala na mene.
+Dialogue: 0,0:46:09.47,0:46:11.64,Default,,0000,0000,0000,,Brate ako ne napravimo neke prirucnike
+Dialogue: 0,0:46:12.02,0:46:14.31,Default,,0000,0000,0000,,"Sta ne treba raditi ako\Nsi tehnicar za gitare"
+Dialogue: 0,0:46:14.81,0:46:17.06,Default,,0000,0000,0000,,I stavimo ga u kucni video\Nonda smo otpusteni.
+Dialogue: 0,0:46:18.11,0:46:20.57,Default,,0000,0000,0000,,Ni Frankenstajn nema ovo po sebi.
+Dialogue: 0,0:46:21.19,0:46:23.24,Default,,0000,0000,0000,,Brate, mrzim ovaj posao, sranje je!
+Dialogue: 0,0:46:45.97,0:46:46.80,Default,,0000,0000,0000,,Ajde bre bezi, to boli!
+Dialogue: 0,0:46:55.77,0:46:58.65,Default,,0000,0000,0000,,Samo mi je vutra na pameti, kupio sam ovoliku\Nkesicu vutre.
+Dialogue: 0,0:47:01.28,0:47:02.69,Default,,0000,0000,0000,,-Vreme je za zurku!\N-Da!
+Dialogue: 0,0:47:03.57,0:47:06.36,Default,,0000,0000,0000,,Ovaj je pun gnoja.
+Dialogue: 0,0:47:07.28,0:47:09.95,Default,,0000,0000,0000,,Bas je lose da pijes i skijas,
+Dialogue: 0,0:47:10.41,0:47:11.37,Default,,0000,0000,0000,,ali pusenje vutre je ok.
+Dialogue: 0,0:47:27.59,0:47:31.05,Default,,0000,0000,0000,,Znas covece, bas mrzim ovaj posao, sranje je.
+Dialogue: 0,0:47:31.56,0:47:34.39,Default,,0000,0000,0000,,Covek koji je popravio 500 000 bubnjeva-\NThe Katt!
+Dialogue: 0,0:47:37.27,0:47:39.65,Default,,0000,0000,0000,,Jesi nas ili nisi? Ne, odustaje!
+Dialogue: 0,0:47:41.27,0:47:43.07,Default,,0000,0000,0000,,Govno od himalajske bele macke.
+Dialogue: 0,0:47:45.94,0:47:48.36,Default,,0000,0000,0000,,E tvoj bend je stvarno sranje.
+Dialogue: 0,0:47:49.36,0:47:50.41,Default,,0000,0000,0000,,Jebi se
+Dialogue: 0,0:47:54.58,0:47:55.33,Default,,0000,0000,0000,,Jebi se bre!
+Dialogue: 0,0:47:58.08,0:47:59.58,Default,,0000,0000,0000,,Otkinuo sam picki ruku!
+Dialogue: 0,0:48:00.79,0:48:03.71,Default,,0000,0000,0000,,Sve je u redu! Moja mala je tu...
+Dialogue: 0,0:48:15.06,0:48:16.77,Default,,0000,0000,0000,,Jel to grom?
+Dialogue: 0,0:48:17.39,0:48:18.69,Default,,0000,0000,0000,,Moj sponzor je Marshall
+Dialogue: 0,0:48:19.19,0:48:19.73,Default,,0000,0000,0000,,Marshall..
+Dialogue: 0,0:48:20.27,0:48:21.19,Default,,0000,0000,0000,,Marshall....
+Dialogue: 0,0:48:21.61,0:48:24.15,Default,,0000,0000,0000,,Znate... Marshall.
+Dialogue: 0,0:48:27.19,0:48:28.74,Default,,0000,0000,0000,,Stara dobra...
+Dialogue: 0,0:48:29.49,0:48:32.74,Default,,0000,0000,0000,,Daj pomozi mi sa ovim sranjem,\Nuhvati odozdo...
+Dialogue: 0,0:48:55.85,0:48:59.39,Default,,0000,0000,0000,,Hej! Ko je krvario na moju jebenu kutiju?!
+Dialogue: 0,0:49:16.70,0:49:18.75,Default,,0000,0000,0000,,Ja imam Filovu ruku!
+Dialogue: 0,0:49:21.00,0:49:22.71,Default,,0000,0000,0000,,Ajde da je vratimo!
+Dialogue: 0,0:49:26.67,0:49:28.05,Default,,0000,0000,0000,,Vrati je!
+Dialogue: 0,0:49:35.93,0:49:37.22,Default,,0000,0000,0000,,O Boze, Filova ruka!
+Dialogue: 0,0:49:52.78,0:49:55.16,Default,,0000,0000,0000,,O Boze, to je Fil!
+Dialogue: 0,0:49:57.62,0:49:58.62,Default,,0000,0000,0000,,Pobogu gospodjo!
+Dialogue: 0,0:50:00.54,0:50:03.79,Default,,0000,0000,0000,,Hej! Pa to je moja ruka!
+Dialogue: 0,0:50:10.13,0:50:12.30,Default,,0000,0000,0000,,Boze, drago mi je sto sam je nasao.
+Dialogue: 0,0:50:13.68,0:50:14.47,Default,,0000,0000,0000,,Ej, kako ste svi?
+Dialogue: 0,0:50:15.26,0:50:20.22,Default,,0000,0000,0000,,Dobro sam... Lepo sto vas vidim...
+Dialogue: 0,0:50:26.65,0:50:31.07,Default,,0000,0000,0000,,Kada se menja stejdz, pobrinite se\Nda su sve zice u dobrom stanju.
+Dialogue: 0,0:50:32.36,0:50:36.32,Default,,0000,0000,0000,,Pobrinite se da se ne sjebe nesto\Nkada Pantera izadje.
+Dialogue: 0,0:50:50.30,0:50:51.59,Default,,0000,0000,0000,,Ovo je vilenjacko govno.
+Dialogue: 0,0:50:52.30,0:50:55.47,Default,,0000,0000,0000,,"By Demons Be Driven" - Pantera
+Dialogue: 0,0:51:11.65,0:51:12.32,Default,,0000,0000,0000,,Moj posao je sranje!
+Dialogue: 0,0:51:12.90,0:51:15.65,Default,,0000,0000,0000,,Za coveka sa 500 000 Vati, Sonny!
+Dialogue: 0,0:51:18.12,0:51:19.70,Default,,0000,0000,0000,,Ovo je gazelino govno.
+Dialogue: 0,0:51:28.67,0:51:30.46,Default,,0000,0000,0000,,You make a pain check.
+Dialogue: 0,0:51:31.13,0:51:32.80,Default,,0000,0000,0000,,Ja tucem svoju decu.
+Dialogue: 0,0:51:46.73,0:51:47.64,Default,,0000,0000,0000,,Stvarno mrzim ovaj posao.
+Dialogue: 0,0:51:48.94,0:51:50.11,Default,,0000,0000,0000,,Sranje je.
+Dialogue: 0,0:51:50.56,0:51:52.61,Default,,0000,0000,0000,,Ding-dong! 17.95$ molim.
+Dialogue: 0,0:51:59.74,0:52:00.91,Default,,0000,0000,0000,,Govno od jeza.
+Dialogue: 0,0:52:13.21,0:52:14.67,Default,,0000,0000,0000,,Covek-ajkula!
+Dialogue: 0,0:52:24.06,0:52:25.14,Default,,0000,0000,0000,,Spreman sam za jos!
+Dialogue: 0,0:52:33.23,0:52:35.90,Default,,0000,0000,0000,,Za glavnog coveka, sa kamerom u ruci!
+Dialogue: 0,0:52:47.04,0:52:50.00,Default,,0000,0000,0000,,Ovo je totalno ovcije govno.
+Dialogue: 0,0:52:50.21,0:52:52.84,Default,,0000,0000,0000,,Vi mamu vam jebem, idemo, ok?
+Dialogue: 0,0:53:29.87,0:53:32.79,Default,,0000,0000,0000,,Boze, kako to uradis?
+Dialogue: 0,0:53:35.29,0:53:37.25,Default,,0000,0000,0000,,O moj boze, jeste li videli ovo?
+Dialogue: 0,0:53:37.55,0:53:38.84,Default,,0000,0000,0000,,Ovo je za Big Vala!
+Dialogue: 0,0:53:41.18,0:53:43.68,Default,,0000,0000,0000,,Ovo ide na nas video!
+Dialogue: 0,0:53:46.81,0:53:48.18,Default,,0000,0000,0000,,Petlovo govno.
+Dialogue: 0,0:53:48.52,0:53:51.73,Default,,0000,0000,0000,,-Sta ima Little Val?\N-Nisam video svog velikog brata godinama!
+Dialogue: 0,0:53:53.27,0:53:56.40,Default,,0000,0000,0000,,Big Val! Kako si burazeru?
+Dialogue: 0,0:54:02.49,0:54:06.28,Default,,0000,0000,0000,,Klinci ce poludeti, ali ne zelimo\Nnikoga da povredimo
+Dialogue: 0,0:54:10.79,0:54:14.92,Default,,0000,0000,0000,,Ako su zedni, dajte im vode
+Dialogue: 0,0:54:15.33,0:54:18.46,Default,,0000,0000,0000,,Ali ne zelim da vidim nekoga\Nu modricama, ok?
+Dialogue: 0,0:54:18.96,0:54:20.71,Default,,0000,0000,0000,,Ajde da uradimo lep, cist sou.. ok?
+Dialogue: 0,0:54:26.35,0:54:27.10,Default,,0000,0000,0000,,Ajkula.
+Dialogue: 0,0:54:27.64,0:54:29.89,Default,,0000,0000,0000,,Cekic ajkula.
+Dialogue: 0,0:54:33.06,0:54:35.35,Default,,0000,0000,0000,,Svinjska bljuvotina.
+Dialogue: 0,0:54:37.48,0:54:39.27,Default,,0000,0000,0000,,Dame!
+Dialogue: 0,0:54:41.24,0:54:42.15,Default,,0000,0000,0000,,Volim vas.
+Dialogue: 0,0:54:45.82,0:54:48.45,Default,,0000,0000,0000,,Boze, kakav sam ljubavnik.
+Dialogue: 0,0:54:54.62,0:54:56.71,Default,,0000,0000,0000,,Brate, ne vidim dobro.
+Dialogue: 0,0:55:08.18,0:55:10.22,Default,,0000,0000,0000,,Skloni tu kameru od moje face.
+Dialogue: 0,0:55:10.64,0:55:12.93,Default,,0000,0000,0000,,Skloni tu kameru od moje face.
+Dialogue: 0,0:55:16.94,0:55:17.65,Default,,0000,0000,0000,,Jebi se bre!
+Dialogue: 0,0:55:18.56,0:55:21.19,Default,,0000,0000,0000,,Prestani!
+Dialogue: 0,0:55:21.48,0:55:23.61,Default,,0000,0000,0000,,Iskljuci jebenu kameru dupeliscu.
+Dialogue: 0,0:55:24.15,0:55:25.36,Default,,0000,0000,0000,,Jel moze da oseti nesto?
+Dialogue: 0,0:55:26.61,0:55:28.03,Default,,0000,0000,0000,,Oseti ovo.
+Dialogue: 0,0:55:28.45,0:55:30.99,Default,,0000,0000,0000,,Znam da je ovaj svet pun kompromisa.
+Dialogue: 0,0:55:33.83,0:55:34.79,Default,,0000,0000,0000,,Jebes tog retarda!
+Dialogue: 0,0:55:41.88,0:55:43.26,Default,,0000,0000,0000,,Bio sam opusten celog zivota.
+Dialogue: 0,0:55:43.76,0:55:45.13,Default,,0000,0000,0000,,Svejedno me boli kurac.
+Dialogue: 0,0:55:45.92,0:55:48.39,Default,,0000,0000,0000,,Iskljuci to ili cu je polomiti,majke mi.
+Dialogue: 0,0:55:49.34,0:55:50.39,Default,,0000,0000,0000,,Znas sta ce ovo postati?
+Dialogue: 0,0:55:51.51,0:55:52.97,Default,,0000,0000,0000,,Dabrovo govno.
+Dialogue: 0,0:56:03.73,0:56:06.90,Default,,0000,0000,0000,,Alo, pokusavam da se dogovorim za posao.
+Dialogue: 0,0:56:09.53,0:56:13.87,Default,,0000,0000,0000,,Seme, pokusavam da dobijem neka uputstva ovde,\Nok, snimio si me...
+Dialogue: 0,0:56:14.87,0:56:17.04,Default,,0000,0000,0000,,Iskljuci to, pokusavam da radim.
+Dialogue: 0,0:56:18.79,0:56:21.08,Default,,0000,0000,0000,,Karte na pregled.
+Dialogue: 0,0:56:25.63,0:56:27.01,Default,,0000,0000,0000,,Dime, hocu tvoj autogram covece!
+Dialogue: 0,0:56:30.47,0:56:32.55,Default,,0000,0000,0000,,Nemoj da povredis ruku, samo polako.
+Dialogue: 0,0:56:32.47,0:56:34.97,Default,,0000,0000,0000,,Ispravi se.
+Dialogue: 0,0:56:39.14,0:56:41.19,Default,,0000,0000,0000,,Dobro je, dobro je...
+Dialogue: 0,0:56:45.40,0:56:46.90,Default,,0000,0000,0000,,Samo se opusti...
+Dialogue: 0,0:56:51.82,0:56:53.53,Default,,0000,0000,0000,,Sinoc sam jebao u bulju.
+Dialogue: 0,0:56:55.12,0:56:56.45,Default,,0000,0000,0000,,(RHCP-Give It Away)
+Dialogue: 0,0:56:57.00,0:56:58.33,Default,,0000,0000,0000,,Iskljuci.
+Dialogue: 0,0:57:26.57,0:57:28.86,Default,,0000,0000,0000,,Mogu da popusim jajarsku cigaretu.
+Dialogue: 0,0:57:31.20,0:57:32.99,Default,,0000,0000,0000,,Ovo je sranje!
+Dialogue: 0,0:57:35.37,0:57:36.08,Default,,0000,0000,0000,,Probajte ove.
+Dialogue: 0,0:57:36.83,0:57:38.41,Default,,0000,0000,0000,,Ili mogu da popusim pravu cigaretu.
+Dialogue: 0,0:57:39.33,0:57:41.04,Default,,0000,0000,0000,,SMRT
+Dialogue: 0,0:57:41.58,0:57:42.92,Default,,0000,0000,0000,,Izbor je na vama.
+Dialogue: 0,0:57:43.42,0:57:44.33,Default,,0000,0000,0000,,Ja sam svoju izabrao.
+Dialogue: 0,0:57:52.30,0:57:53.39,Default,,0000,0000,0000,,Vi izaberite svoju.
+Dialogue: 0,0:57:54.34,0:57:55.76,Default,,0000,0000,0000,,Smrtne pljuge!
+Dialogue: 0,0:58:04.77,0:58:05.73,Default,,0000,0000,0000,,Picko.
+Dialogue: 0,0:58:07.02,0:58:08.03,Default,,0000,0000,0000,,Sta koji kurac?
+Dialogue: 0,0:58:18.24,0:58:19.95,Default,,0000,0000,0000,,Mnogo smesno...
+Dialogue: 0,0:58:24.92,0:58:27.09,Default,,0000,0000,0000,,Poslednja pakla...
+Dialogue: 0,0:58:33.59,0:58:37.22,Default,,0000,0000,0000,,"Mouth For War" - Pantera
+Dialogue: 0,1:02:28.99,1:02:30.87,Default,,0000,0000,0000,,Cestitam na zlatnoj ploci!
+Dialogue: 0,1:02:31.58,1:02:33.17,Default,,0000,0000,0000,,Ovo je posebna prilika za sve...
+Dialogue: 0,1:02:34.63,1:02:35.96,Default,,0000,0000,0000,,"Cowboys From Hell"
+Dialogue: 0,1:02:38.25,1:02:41.55,Default,,0000,0000,0000,,Ovo je komemorat povodom prodaje\Npola miliona ploca.
+Dialogue: 0,1:02:42.01,1:02:43.72,Default,,0000,0000,0000,,Spremite se da prodate jos puno!
+Dialogue: 0,1:02:45.26,1:02:45.89,Default,,0000,0000,0000,,Idemo na milion!
+Dialogue: 0,1:02:54.65,1:02:57.15,Default,,0000,0000,0000,,"Walk" sa fanovima
+Dialogue: 0,1:03:09.66,1:03:13.46,Default,,0000,0000,0000,,"Primal Concrete Sledge"
+Dialogue: 0,1:03:17.04,1:03:20.30,Default,,0000,0000,0000,,"Rise"
+Dialogue: 0,1:04:13.85,1:04:17.23,Default,,0000,0000,0000,,"Metal Gods" - Judas Priest
+Dialogue: 0,1:04:36.66,1:04:39.21,Default,,0000,0000,0000,,Reci im da mislim da su svi\Nposteni i dobri ljudi
+Dialogue: 0,1:04:39.58,1:04:42.42,Default,,0000,0000,0000,,I da bih voleo da ih povedem\Nu Ameriku
+Dialogue: 0,1:04:42.67,1:04:44.30,Default,,0000,0000,0000,,I da im dam da puse marihuanu.
+Dialogue: 0,1:04:57.68,1:04:58.73,Default,,0000,0000,0000,,Ovaj lik je lud.
+Dialogue: 0,1:04:59.85,1:05:00.77,Default,,0000,0000,0000,,Nadravlje!
+Dialogue: 0,1:05:12.41,1:05:15.29,Default,,0000,0000,0000,,Snimi ove ludake!
+Dialogue: 0,1:05:21.04,1:05:22.17,Default,,0000,0000,0000,,Snimi ove ljude covece!
+Dialogue: 0,1:05:30.72,1:05:32.22,Default,,0000,0000,0000,,Svi ljudi su otovreni,znas...
+Dialogue: 0,1:05:33.60,1:05:36.31,Default,,0000,0000,0000,,Ako hoce autogram, dobrodosli su.
+Dialogue: 0,1:05:36.85,1:05:37.68,Default,,0000,0000,0000,,Podelicu moje pivo sa vama,znas?
+Dialogue: 0,1:05:38.81,1:05:41.19,Default,,0000,0000,0000,,Bas je bleja, svi su kul.
+Dialogue: 0,1:05:47.15,1:05:48.57,Default,,0000,0000,0000,,Hej ,hej, daj covece!
+Dialogue: 0,1:05:59.54,1:06:02.25,Default,,0000,0000,0000,,Niko se ne povredi na nasoj svirci,\Nsvi se plase obezbedjenja.
+Dialogue: 0,1:06:03.63,1:06:04.79,Default,,0000,0000,0000,,Hej ti iz obezbedjenja!
+Dialogue: 0,1:06:05.04,1:06:08.71,Default,,0000,0000,0000,,Bolje bi ti bilo da vratis klinca\Ntamo gde zeli da bude\N
+Dialogue: 0,1:06:09.13,1:06:10.72,Default,,0000,0000,0000,,ili zaustavljamo svirku.
+Dialogue: 0,1:06:18.81,1:06:20.73,Default,,0000,0000,0000,,"This Love" - Pantera
+Dialogue: 0,1:06:37.83,1:06:41.33,Default,,0000,0000,0000,,"Live In A Hole" - Pantera
+Dialogue: 0,1:07:15.70,1:07:17.99,Default,,0000,0000,0000,,Jedino za sta je ova stvar dobra\Nje za razbijanje.
+Dialogue: 0,1:07:18.74,1:07:19.70,Default,,0000,0000,0000,,Ovako
+Dialogue: 0,1:07:23.16,1:07:24.25,Default,,0000,0000,0000,,Ide unutra.
+Dialogue: 0,1:07:45.39,1:07:46.98,Default,,0000,0000,0000,,Otisao komsiluk u kurac!
+Dialogue: 0,1:08:10.42,1:08:14.05,Default,,0000,0000,0000,,Stalak za kafu
+Dialogue: 0,1:08:17.84,1:08:19.05,Default,,0000,0000,0000,,Fil ce obrijati Tomovu glavu.
+Dialogue: 0,1:08:20.22,1:08:21.35,Default,,0000,0000,0000,,Brate, ne znam bas...
+Dialogue: 0,1:08:23.31,1:08:26.89,Default,,0000,0000,0000,,Sta je najgore sto moze da se dogodi?\NBices celav. Bices kul.
+Dialogue: 0,1:08:28.65,1:08:31.77,Default,,0000,0000,0000,,Budi panker bre!
+Dialogue: 0,1:08:43.79,1:08:45.12,Default,,0000,0000,0000,,Kako si opasan
+Dialogue: 0,1:08:48.08,1:08:49.63,Default,,0000,0000,0000,,Izgledas opako.
+Dialogue: 0,1:09:16.11,1:09:23.83,Default,,0000,0000,0000,,Novi Panterin album nece biti vesela \Nploca koju svi vole da slusaju.
+Dialogue: 0,1:09:24.16,1:09:29.75,Default,,0000,0000,0000,,Bice ostra, bice teska za slusanje,
+Dialogue: 0,1:09:30.25,1:09:35.17,Default,,0000,0000,0000,,Bice agresivna, i uznemirice vas svojom zestinom.
+Dialogue: 0,1:09:39.47,1:09:40.93,Default,,0000,0000,0000,,Necemo napraviti dobar album!
+Dialogue: 0,1:09:41.43,1:09:46.72,Default,,0000,0000,0000,,Napravicemo nesto zbog cega cete pomisliti:\NSta nije u redu sa njima?
+Dialogue: 0,1:09:49.48,1:09:50.89,Default,,0000,0000,0000,,Hvala vam puno!
+Dialogue: 0,1:09:52.06,1:09:53.27,Default,,0000,0000,0000,,Mi smo Pantera!
+Dialogue: 0,1:11:15.15,1:11:19.53,Default,,0000,0000,0000,,Pijte pivo, pusite vutru,
+Dialogue: 0,1:11:20.78,1:11:25.99,Default,,0000,0000,0000,,I lizite mnogo picaka.\NVidimo se!
+Dialogue: 0,1:11:36.50,1:11:37.33,Default,,0000,0000,0000,,Iskljuci to bre!

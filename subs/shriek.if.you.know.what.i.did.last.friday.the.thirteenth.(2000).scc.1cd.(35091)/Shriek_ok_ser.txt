@@ -1,0 +1,819 @@
+{70}{131}Dobro doöli u "Telefonske Fimove".
+{190}{322}Ako znate ime filma,|koji ûelite da vidite, pritisnite 1.
+{325}{424}Ako ûelite da izaberete neöto|sa spiska Blokbastera, pritisnite 2.
+{435}{505}Ako ûelite neöto za vaöeg gej prijatelja, pritisnite 3.
+{505}{578}Za velike studijske hitove, pritisnite 4.
+{595}{665}Pravilno politiËki usmerene filmove, 5.
+{705}{776}Tata?|- Zdravo, Sindi.
+{780}{870}Nije Sindi.|Izabrali ste pogreöan broj.
+{880}{931}Koji broj sam okrenuo?
+{955}{980}Ko je?
+{980}{1015}Ubica.
+{1055}{1098}Moj ili tvoj poziv?
+{1110}{1197}Nema znaËaja! Poöta mi je|aktivirana. Voliö li filmove?
+{1205}{1275}Naravno, danas sam uzela jedan.
+{1280}{1322}Kakve filmove voliö?
+{1335}{1434}UobiËajene, osamnaest tipova,|riba i dva pastuva, velika i crna...
+{1435}{1550}Da, da, shvatam. Kako god.|Da li voliö filmove strave?
+{1555}{1590}Misliö na neöto od Spajka Lija?
+{1591}{1655}Pusti Spajka na miru,|on je dobar u tome öto radi.
+{1656}{1743}Da igramo jednu igru.|Da li voliö igre? ? ?|- Milsim, da da...
+{1745}{1815}Dobro. Voz kreÊe iz »ikaga|brzinom od 80 km na Ëas...
+{1816}{1838}äta? Matiö? Meni ne treba to da znam!
+{1840}{2014}Ne znam, ja sam bogata i lepa|i ne treba da mislim na svoju buduÊnost.|Osim toga ûelim da se udam.
+{2015}{2124}Umukni, lutkice! ! ! Misliö li|da je lako govoriti sa tobom?
+{2150}{2201}Jesi li u mom bazenu?
+{2226}{2376}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{2550}{2573}Alo?
+{2575}{2670}Razgovor na vaö raËun od:|- Ubice...|- Prihvatate li?
+{2672}{2727}Da moûe!|- Dobro, povezujem vas.
+{2740}{2794}Hvala, o Ëemu smo priËali?
+{2795}{2910}»uj me, kretenu...|- Ne, ti sluöaj! Ako mi ne odgovoriö|na sledeÊe pitanje, umreÊeö.
+{2925}{2974}Koje igrao u Duhovima 2?
+{2995}{3033}Hju Grant!
+{3060}{3110}éalim, ali nisi pogodila, lutko!
+{3110}{3170}Htela sam da kaûem Imi Grant!
+{3185}{3260}Sad viöe nema veze.|Nisi odgovorila na odluËujuÊe pitanje.
+{3260}{3321}Hej, da ti nisi Merlin Melons!
+{4060}{4130}Alo? Da, momenat.
+{4135}{4175}Stejsi te traûi.
+{4180}{4219}Zdravo!
+{4220}{4261}Izvini me na trenutak...
+{4280}{4318}Niöta. äta se deöava kod tebe?
+{4330}{4425}O boûe! äta je rekla?
+{4470}{4510}Kakva kuËka!
+{4570}{4622}Treba za zavröim,|javiÊu ti se kasnije.
+{5030}{5080}POZNATA GADURA UBIJENA!
+{5230}{5265}Doavola!
+{5320}{5373}Topim se!
+{5400}{5650}Prevod by Kvisko |spremio i obradio acidstorm@GameBox.net
+{5700}{5830}VRIäTI-AKO ZNAä äTA SAM|RADIO PROäLOG PETKA 13-OG.
+{6210}{6260}SVEDO»ANSTVA O ZAVRäENOJ|NASTAVI ENGLESKOG
+{6310}{6350}Hej!  Desi!
+{6730}{6790}SCENA SA KRIMINALNOM RADNJOM|NE PODME∆ITE DOKAZE!
+{6840}{6990}Dobar dan, uËenici.|Probe navijaËica su danas posle|ökole u fiskulturnoj sali.
+{6995}{7095}Treba da imate 18 godina|i da imate ûelju da budete polugole.
+{7120}{7200}VISKI         VOTKA         DéIN
+{7340}{7410}KANTRI KLUB
+{7565}{7651}KLUB DISKUSIJA|- Nisam to uradio!|- Jesi, uradio si!
+{7930}{8055}Dobro, Dosone, kada|to potpiöeö si zvaniËno primljen|u naöu ökolu.
+{8090}{8140}Poslednja ûelja i|testament uËenika.
+{8280}{8330}NOV U»ENIK
+{8355}{8405}Oho, brucoö!
+{8420}{8515}Slab, zar tako treba da se|upoznate s novim uËenikom?
+{8525}{8630}Izivinite gospoo Pikok.|Aha, trznuo je, brucoö!
+{8755}{8805}Zdravo, ja sam Doson.
+{8805}{8847}Tako je veÊ bolje.
+{8905}{8983}U ovoj ökoli postoje pravila,|"Ne" - znaËi ne!
+{9030}{9083}Nikada niöta neÊu kresnuti...
+{9130}{9199}éelim da ti predstavim Princa ökole...
+{9310}{9416}Pardon, naËelnika ökole sada poznatog|pod imenom Direktor.
+{9585}{9625}éeliö li...
+{9630}{9674}Zdravo, novi uËeniËe!
+{9730}{9801}Treba neko da ti pokaûe|gde je svlaËionica.
+{9855}{9892}Boneru!
+{9900}{9950}Polaskan sam, gospodine.
+{9990}{10040}Samo bez uËeöÊa|te gospoice.
+{10055}{10150}Pokaûi mu stvari okolo.|I, za Boga miloga, operi ruke!
+{10175}{10228}Meri! Ti si sledeÊa.
+{10320}{10385}Zdravo, ja sam Boner.|Drago mi je da se upoznamo.
+{10470}{10570}Ti pokuöaj da nosiö to na glavi|sve vreme, veötice. Poljubi me u dupe.
+{10576}{10605}...i javi mi se.
+{10610}{10649}Kakva glupaËa ta äenon Doerti.
+{10660}{10760}Zdravo, novi, ja sam Barbara.|Da li ti se svia doËek?
+{10780}{10830}Hvala, mnogo je lepo.
+{10835}{10882}Bolesni doËek.
+{10900}{10980}Zdravo, svima.|- Zdravo Martina.|- Zdravo gospoo Pikok.
+{11020}{11065}Zdravo, novi!
+{11085}{11124}Uha...
+{11735}{11810}Jedan momenat, zar to nije...?
+{11858}{11888}Jeste li Ëuli vesti?
+{11889}{11970}Otkazali su takmiËenja?|- Nisam trudna?|- IgraÊemo bingo?
+{12035}{12115}Ne, radio se o Kreöi!|- KuËka.|- Kurva.
+{12120}{12140}Imaö li njen telefon?
+{12141}{12170}»iji?
+{12173}{12300}Kreöi od pozadi - je bila ubijena,|iseËena, opeËena i pojedena.
+{12345}{12412}Boûe, nikada nikoga neÊu kresnuti.
+{12420}{12495}Svuda govore za to,|i na Tv-u i u novinama.
+{12495}{12552}Divno, sada svi znaju.
+{12595}{12619}UBICA 32
+{12620}{12695}Da li znaju ko je to uradio?|- Nekakav tip sa maskom duha.
+{12700}{12772}Uopöte nije straöno.|- Izvadio joj je oËi.
+{12920}{13085}Paûnja, uËenici. Susret|izmeu "Krvopija" i "Grobara" se|odlaûe za sledei petak.
+{13095}{13164}Za vreme ûurke Êe se|deliti osveûavajuÊi napici.
+{13220}{13270}Bar se ovde oseÊam sigurno.
+{13270}{13331}Zdravo, »aki.|- HoÊeö da igramo?
+{13332}{13400}äkola nije mesto za igru!|- Tu smo sigurni.
+{13401}{13435}ANTRAKS
+{13700}{13750}To je neöto, o Ëemu|moûemo samo da Ëitamo.
+{13760}{13823}Knjige su super.|- O, Boûe, bistar je.
+{13835}{13905}Pa öta? Deca ginu svaki|dan, ovo je ipak srednja ökola
+{13950}{14017}Ne, Dosone, ona je bila bela.|- I öta...
+{14030}{14081}I popularna...kao ja.
+{14205}{14285}Kad bi to bila Barbara Volters.|Da, dobro parËe.
+{14330}{14414}Zdravo, ja sam iz EMP TV Novosti.|äta mislite o...?
+{14465}{14515}»ekaj, zar to nije Doson?
+{14515}{14587}Snimaj to...|Mrdaj se, debela svinjo.
+{14640}{14706}Zdravo, specijalno za vas iz|Bulimija Fols srednje ökole.
+{14715}{14790}Okruûeni smo grupom nevinih uËenika...
+{14790}{14925}meu njima je Doson Diri, Ëovek|koje je bio razlog da napiöem bestseler|"Doson - ubica"
+{14940}{15007}Ta knjiga niöta ne vredi.|- Vredi za Opru!
+{15040}{15160}To öto sam sipao supu nekome|u dupe ne znaËi da sam ubica.|Ostavi me na miru!
+{15165}{15240}Zar nije istina da ti je cela|porodica bila ubijena pod|nerazjaönjenim okolnostima?
+{15240}{15345}Dok si ti bio na "kampovanju" si.|Snimaj!
+{15615}{15665}Nokaut, brate, nije loöe!
+{15665}{15740}Ovo ne znaju ni u odboru za boks..
+{15750}{15855}Dame se ne udaraju|osim ako niste izgubili nerve!
+{15870}{15942}Ona nije dama.|- A ti öta radiö ovde, Dui?
+{15945}{15975}Ti nisi pravi policajac.
+{15976}{16100}Zar ne treba da paziö na Dûuliju,|ili moje nesreÊno maËence,|ili narednika Sirsa i Kartla.
+{16102}{16150}Koliko puta treba da objaönjavam...
+{16150}{16230}Obezbeenje radnje je toliko|vaûno, koliko i prava policija.
+{16250}{16345}Kraa pantalona|je ozbiljan prestup.
+{16346}{16396}Majka mi je rekla|da si i pored toga gubitnik..
+{16396}{16446}Tebi je kazala, da imaö debelo dupe.
+{16446}{16496}Tata je otiöao, jer si mu se smuËio.|- Ne, ti si mu se smuËila.
+{16496}{16550}On Ëak nije bio|ni tvoj pravi otac.
+{16553}{16623}Da. Ëitao sam tvoj dnevnik,...|"Oh, moj nastavnik fiziËkog me zlostavlja..."
+{16625}{16670}Kretenu.|- Lezbejko.|- äta?
+{16745}{16820}Izvinite, ne ûelim da prekidam|porodiËnu svau, ali...
+{16820}{16940}Da li na tom sluËaju radi sluûbenik...|- PrvoosumnjiËeni  Dojl.
+{16945}{17050}Ja sam odgovoran za sluËaj,|jer je kostim ubice ukraden|iz moje radnje.
+{17052}{17205}osim toga...seksi bikini i|veliko laûno kuËeÊe govno.|Ustvari, kuËeÊe.
+{17207}{17257}Koga boli uvo za govno?
+{17257}{17295}Mene!
+{17307}{17413}VeËeras je umrlo divno dete.|- Ajde dosta. Sigurno je to|neki fazon iz ökole.
+{17432}{17504}Hajde da krenemo.|- »ekajte, imam ideju.
+{17505}{17580}Da se opkladimo da Êemo izgubiti|nevinost pre mature.
+{17610}{17669}Ja sam za.|- Mi, ne!
+{17705}{17754}Onda ni ja nemam izbora.
+{17855}{17916}Kreteni, mogla bih|da ih ubijem.
+{17930}{17985}Da ali neÊeö to da uradiö,|zar ne? äalim se.
+{18000}{18025}Ozbiljno, neÊeö ih ubiti,|zar ne?
+{18075}{18130}ZnaËi ti si jedna od|programskih novinara?
+{18135}{18208}TaËnije na kablovskoj televiziji,|ali je jednako vaûno.
+{18210}{18310}To je Ëak vaûnije, zato öto|kablovska pokazuje dupeta,|sise i takve perverzije...
+{18310}{18373}»ini mi se da krijeö neöto...
+{18385}{18435}Priznajem, tako je.
+{18615}{18700}Cipele su kul!|- Hvala, tvoje su takoe lepe.
+{18745}{18875}Hvala! Vidimo se!|- Nadam se.
+{18880}{18926}éalim!|- Nema problema.
+{18950}{18993}Hajde, kretenËino!
+{19075}{19165}PosmatraÊu je. Ima klasu.
+{19280}{19330}KOMBI SE LJULJA.|NE SMETAJTE!
+{19805}{19970}Paûnja, uËenici. Popunjavanje orkestra|Êe se odrûati sledeÊi Ëetvrtak.
+{19975}{20035}MANIKIR|Ribe Ëamuge su spreda, kurve otpozadi.
+{20185}{20220}SOLARIJUM
+{20415}{20491}PROMOTIVNA CENA DVE ZA JEDNU|UVE∆ANJE GRUDI
+{20540}{20600}Ja nisam to uradio!|- Niko nije rekao da si to ti uradio.
+{20605}{20690}Ne moûeö ni da slaûeö,|a kamoli da ubijeö.
+{20692}{20825}E pa, mogu da ubijem.|Mogu da vas ubijem sve.
+{20925}{20970}Ali neÊu to uraditi!
+{20973}{21040}Zato vam i kaûem, da nisam|ja to uradio. Nego, Slab!
+{21078}{21122}On ima profil ubice!
+{21133}{21202}Pogledajte te zavrnute uöi...
+{21208}{21250}Kakav je zakljuÊak?
+{21300}{21335}Mmm....odraz....
+{21448}{21530}Vau, joö uvek su na svom mestu.
+{21793}{21845}Izgleda mi poznat.
+{21848}{21967}To je Spejsi, Dosone! Kreöe se|sa uËiteljicom francuskog.|- Zaista?
+{21968}{22050}Ona je iz Francuske.|- Iz Pariza u Francuskoj.
+{22053}{22098}Madam Letamur.
+{22103}{22171}Kaûe da je seks strava.|- SreÊnik!
+{22223}{22370}Vidimo se, Spejsi, javi se kasnije.|Pozdravi oca!
+{22478}{22529}Hej, Martina?|- Ne, Bonere!
+{22538}{22563}Hej, Dosone?
+{22564}{22610}Moûeö li da me izmasiraö...
+{22643}{22688}Imam strahovite bolove.
+{22743}{22789}Treba da uem na Ëas.
+{22993}{23048}Dobro. Molim razred za tiöinu!
+{23068}{23114}Baö tako...
+{23118}{23209}Danas sam zamena kod vas|i zovem se gospoa Tingler.
+{23218}{23338}Danas Êemo uËiti o|progonu jevrejskog naroda.
+{23468}{23541}Ko Êe mi reÊi, kakav glagol|da stavim u ovu reËenicu?
+{23548}{23730}Sabrina? Moöe? Dalija?|-Ui? U-aa?
+{23845}{23912}JA...NE....äTA SAM RADIO|PROäLOG LETA!
+{24033}{24085}ZNAM äTA SAM RADIO|PROäLOG LETA!
+{24125}{24196}Ko Êe mi reÊi da li |je Frankenötajn bio obrezan.
+{24245}{24345}PROäLO LETO|Martina, ne zaboravi da daö baki laksativ.
+{24420}{24476}KASNIJE ISTE VE»ERI.
+{24770}{24836}Slabe, mislim da treba da prestaneö.|- Zaöto?
+{24845}{24902}Zato öto neÊeö moÊi da pijeö pivo, posle toga.
+{25020}{25095}Oh, zamalo. Da se neöto desilo,|otac bi me ubio.
+{25125}{25160}Daj mi pivo!
+{25165}{25240}Nova ökolska godina Êe|biti bolja nego ikada.
+{25240}{25290}Ja sam nova kraljica kobaje.
+{25290}{25375}A mene Êe primiti u Harvard, draga.
+{25390}{25480}U mojoj kuÊi ûivi studenjkinja iz inostranstva...|Ona je iz ävedske.
+{25490}{25543}Ja sam dobio kombi!
+{25555}{25600}Slabe, pazi!
+{25765}{25805}Mislima da sam udario u neöto.
+{25930}{25976}Mislim da Êu povratiti.
+{26005}{26048}Da, imam temperaturu.
+{26085}{26180}Slabe, ceo si krvav.
+{26185}{26305}Nema problema, reöiÊu tekilom.|To je stari izviaËki trik.
+{26335}{26360}Slabe, pomozi mi.
+{26370}{26445}Nije ti dovoljno trofeja?|- Treba da ga pomerimo odavde.
+{26445}{26484}Kako ti kaûeö, maËe.
+{26635}{26695}HoÊemo li da Ëuvamo tajnu?
+{26740}{26790}NE IZBACUJTE OTPATKE OVDE!
+{27060}{27106}Martina!
+{27210}{27269}Da, to se nikada nije dogodilo.
+{27520}{27593}Ko Êe mi reÊi kako se|menja reË "izdiöem"?
+{27805}{27839}Dui?
+{27865}{27954}Interesantno ime.|- Hvala, tako se zove moj otac.|On je pekar.
+{27990}{28070}Hegeta, to je takoe lepo ime.
+{28105}{28183}Moji prijatelji me zovu Heg.|- To je zaista divno.
+{28220}{28273}Doavola, opet se izduvala!
+{28365}{28416}Ustvari, one su od silikona.
+{28425}{28493}Zaöto uvek stiûem dotle...Dui.
+{28660}{28775}Dui, prosto sam radoznala...|kako si dobio taj posao?
+{28785}{28880}Bio sam debeo za balet i nisam|mogao da sakrijem jaja u pantalone...
+{28881}{28930}tako da sam kazao sam sebi|"zaöto da ne".
+{29010}{29130}Hegeta...Imaö li deËka?
+{29150}{29190}U principu ne joö.
+{29195}{29267}Da li si probala mejlom, ja sam|probao nekoliko puta.
+{29290}{29375}Ako se niöta ne desi,|javi mi se, u redu?
+{29380}{29428}Da, sigurno.|- Hvala.
+{29580}{29676}Dobro, Tifani i Amber na mesta!|Hajde, veûbajte, devojke.
+{29955}{30005}Sada mi treba dobrovoljac.
+{30005}{30075}Boneru, liËiö na ûrtvu, skaËi!
+{30105}{30178}Gospodine Haselhof,|ja ne umem da plivam.|- Divno.
+{30480}{30532}éelim da ûivim! Oh,|tako ûelim da ûivim!
+{30580}{30622}Sad, molim!
+{30830}{30880}Ne preteruj s jezikom, Amber!
+{30950}{31025}To je klasiËan primer disanja usta na usta.
+{31025}{31075}Neki od vas mogu to veûbati|kod kuÊe ili na poslu.
+{31075}{31180}Ako neko ûeli da to radi|van veûbi,|moûemo se dogovoriti...
+{31205}{31223}Boner!
+{31225}{31310}Boner je tu, gospodine.|- Trenutno ne...tu je bouner (erektivan penis)
+{31945}{32031}Sa katedre ubice|ZNAM äTA STE RADILI|PROäLOG SEMESTRA!
+{32085}{32160}PROäLI SEMESTAR|To treba da stigne do guvernera öto brûe.
+{32160}{32256}To je moja poslednja prilika, brate.|Ako ne uspe...sprûiÊe me.
+{32265}{32340}Ne sekiraj se, Dûimi.|Moûeö da raËunaö na mene.
+{32375}{32450}Vreme istiËe, Bouneru!|- Ja sam Boner!
+{32430}{32493}Ne za dugo. Osueni|na smrt, Bouner, ide!
+{32550}{32720}DVE NEDELJE KASNIJE
+{32830}{32933}Nadam se da nemate niöta protiv,|slatkiöi, öto se vraÊamo malo ranije.
+{32955}{33051}Ja i Mili, uËenica iz ävedske|Êemo trenirati Kama Sutru.
+{33075}{33146}Boneru, ne ûelim|da te delim nisakim.
+{33165}{33230}äta ona ima, öto mi nemamo?
+{33240}{33288}Sestru bliznakinju!
+{33340}{33389}Slabe, pazi!
+{33430}{33485}HoÊemo li Ëuvati tajnu?
+{33805}{33850}SprûiÊe me...
+{33930}{33989}Da, to se nije dogodilo.
+{34140}{34208}Stvarno nikada neÊu niöta kresnuti....
+{34655}{34755}ZNAM äTA STE RADILI PROäLE|»ANUKE (ötagod znaËilo to)|Bar i gril - UBICA.
+{34755}{34804}Z...n....znam.
+{34905}{34955}öt...öt...znam öta...
+{34955}{35015}sm...smo....znam öta smo radili...
+{35050}{35120}PROäLE »ANUKE
+{35150}{35206}Slab, mislim da treba|da prestaneö veÊ jednom.
+{35230}{35275}Zaista, draga?
+{35285}{35385}Tvoja nervoza je potpuno|nepotrebna. OdliËno mi ide.
+{35385}{35460}O Ëemu beöe onaj Ëlanak|u Tajmsu proölog puta...
+{35460}{35535}pisali su, da obuka|fitnesa izaziva agresiju.
+{35535}{35582}Slabe, pazi!
+{35635}{35690}HoÊemo  li Ëuvati tajnu?
+{35710}{35751}ZABRANJENO PUäENJE!
+{35810}{35857}RANIJE ISTOG DANA.
+{35860}{35963}Slabe, traûim upaljaË tvog ujaka,|mog nema,jesi li ga negde video?
+{36015}{36049}Ne!
+{36225}{36295}Da, to se nije dogodilo.
+{36475}{36525}»a...Ëanu...Ëanuka...
+{36650}{36695}»ur...Ëanuka...
+{36825}{36895}äkolska Ëasna sestra i|agent pogrebnog zavoda.
+{37020}{37100}Barabara, bojim se da...
+{37105}{37178}Sestro, imajte u vidu...|- Da, Barbara.
+{37180}{37227}Imaö...hlamidije
+{37230}{37281}gonoreju...i sifilis
+{37285}{37310}i morske rakove.
+{37335}{37397}Uh, milila sam da Êete reÊi...herpes.
+{37410}{37450}O da, i herpes.
+{37460}{37519}Ti odvratni, prljavi WC-i...
+{37560}{37660}Mlada gospoice...|Postoji li neko poseban da ti|pomogne u ovakvcoj situaciji?
+{37660}{37728}Mislite profesora ili oca?
+{37760}{37817}Mislila sam...decka.
+{37835}{37879}HoÊete li mi preporuËiti nekoga?
+{37985}{38086}Barbara, primi savet od ûene,|koje ima iskustva u tome.
+{38120}{38250}ObjasniÊu ti, öta u lekarskoj profesiji|znaËi|"Ëuvati glavu".
+{38330}{38381}Tucanje...
+{38435}{38485}Pravljenje tuc-tuc-a...
+{38485}{38526}gadosti...
+{38650}{38703}Govorim o seksu, mila.
+{38715}{38818}Seks moûe biti lepo, neûno|provoenje vremena muskarca i ûene...
+{38865}{38982}koji se zaista vole i ûele zajedno|da podele veËnost, i daju|jedno drugom neûnost i dobrotu...
+{39065}{39129}ili moûe da bude gadan, razuzdan i...
+{39140}{39240}na autobuskim stanicama, toaletima|koji izvode dvoje nepoznatih, uzbuenih...
+{39240}{39345}neprestano nezasiti, u celom Detroitu|niko osim mene nije radio to...
+{39415}{39490}Mislim da si me sada razumela i da|moûemo da pogledamo tvoj snimak.
+{39490}{39582}Snimak bez skidanja?|- O da, mnogo smo odmakli u tim stvarima.
+{39590}{39658}Ne mogu da razaznam|öta je ta bela mrlja?
+{39790}{39865}»arape bi imale dobar efekat.
+{39865}{39915}Kada sam bila tvojih godina,|imala sam iskustvo koje|nikada neÊu zaboraviti.
+{39915}{39985}ZNAM äTA SI RADILA PROäLOG CIKLUSA
+{39990}{40063}Bile smo nas tri, u jednom krevetu...
+{40115}{40177}TA»NO PRE PROäLOG BARBARINOG CIKLUSA
+{40190}{40282}Barbara draga,|Ëekam da doe tetka, da li ideö?
+{40290}{40334}Svröavam!
+{40490}{40564}VEROVATNO TOKOM NO∆I PRE|PROäLOG BARBARINOG CIKLUSA
+{40615}{40686}Barbara, ja nikada neÊu|biti toliko lepa kao ti.
+{40690}{40715}Ili nikada neÊeö pojesti toliko kobasica.
+{40715}{40790}Moûe li jedan autogram.|- Oûeni se za mene!|- Ne, za mene, za mene!
+{40790}{40870}Mir, toliko je stvari predamnom.
+{40890}{40965}Danas kraljica kobaje,|sutra kraljica sveta.
+{40965}{41030}Karmen Elektra, drûi se, dolazim.
+{41040}{41065}Slab, pazi!
+{41100}{41145}HoÊemo li Ëuvati tajnu?
+{41265}{41320}UPUTSTVO ZA|EKSPLOATACIJU DUäEKA
+{41350}{41409}Da, to se nije dogodilo.
+{41575}{41648}I tako sam shvatila, da nisam lezbejka.
+{41650}{41725}Barbara, treba da uzmeö ovaj|komplet za siguran seks.
+{41725}{41794}Nikada ne znaö|kada ti moûe zatrebati.
+{41800}{41889}Treba da idem!|- Ali zapamti, kada se vratiö|moûda ga viöe neÊe biti!
+{42120}{42168}Zdravo, Dui!|- Zdravo mala!|- Pile?
+{42180}{42225}Malo, ali takav mi je posao.
+{42265}{42305}Imaö li novih osumnjiËenih?
+{42306}{42350}Proveravamo svakog u gradu.
+{42351}{42425}Neöto novo razvijeno?|- Da moji snimci sa odmora. 
+{42480}{42530}Ko je to, tvoja baba?|- Ona sa bombom? Da.
+{42530}{42580}Je li to Bakoma?|- Ne, Spring Brik.
+{42580}{42650}To sam ja.|- Oh, bez gaÊa.
+{42665}{42728}Jede mi se hot dog.|- Super veliki?
+{42735}{42788}O da.|- Ja Ëastim!
+{42905}{42955}»udno se oseÊam, Dosone.
+{42955}{43005}Nije trebalo da jedeö|pikantni Takos.
+{43005}{43055}Ne, mislim zbog ubistva Skru.
+{43055}{43093}A to....
+{43115}{43165}FLAäE          PISMA OD UBICE         KUTIJE
+{43166}{43254}Gde je tvoje razumevanje, Dosone?|To je mogao da bude i neko od nas.
+{43255}{43305}Ali nije tako, tako da koga je briga?
+{43305}{43355}A öta Êe biti kad napadne sledeÊi put,|a to moûe da uradi?
+{43355}{43414}Imate li rezervaciju?|- Doson.
+{43430}{43500}Sa kanala 5?|- Kartun Netvork.|- Da, ovuda, molim.
+{43505}{43574}Ne brini se za to.|- Zaöto?
+{43580}{43635}Zato öto...si samnom.
+{43680}{43755}Zar nije tvoja porodica|bila iseËena kao salata?
+{43755}{43800}To je bilo mnogo davno.
+{43830}{43930}äta je to posebno u tebi,|kad ûeli da te ubije?
+{43930}{43970}Zato öto...imam to.
+{43975}{44000}Iz katedrale ubice
+{44005}{44059}Zaöto mislis da je to "on"?
+{44100}{44200}Zato öto...su serijske ubice|i zubari uvek muökarci.
+{44255}{44356}Mislim da je Vijagra sranje,uzimao sam je|svaki dan i nisam kresao.
+{44380}{44427}Moûda nisi uzimao dovoljno?
+{44480}{44523}Ti si isto dobio?
+{44515}{44565}A to, öta je, po tvom miöljenju?
+{44560}{44599}Ja isto imam.
+{44600}{44655}Uputstvo za upotrebu duöeka?
+{44660}{44685}Oh, greöka u Ëuvanju.
+{44745}{44815}äta je sad ovo?|- I ja sam dobio isto.
+{44820}{44915}äta piöe na tvome, Slab?|- »an...»anu...
+{44920}{44956}Daj mi to!
+{44970}{45032}To je, svi smo mete.
+{45035}{45095}O Boûe, znala sam da Êe moja|lepota biti moje prokletstvo.
+{45095}{45170}ZnaËi svismo  u opasnosti.
+{45170}{45209}Ne svi.
+{45360}{45439}VAéNA INFORMACIJA ZA DOBITAK|OTVORI ODMAH
+{45440}{45504}Divno, jesi li|sada zadovoljan?
+{45535}{45590}Sada veÊ moûeö da budeö ûrtva.
+{45680}{45729}JELENOV POSLEDNJI DAN
+{45730}{45878}Nevaljali...jako nevaljali...|nevaljali jelen
+{45880}{45925}Jelo je mnogo slano.
+{45930}{45986}Jeleni ne govore!
+{46500}{46560}äta je to?!|- Slabe!
+{46680}{46751}Ne! Upravo sam jeo!
+{46780}{46849}Da, to se nije dogodilo.
+{46895}{46940}äta si dobio?
+{46945}{47048}To biseru znaËi da Êe Doson|biti prvi koga Êe iseÊi.|Baö uspokojavajuÊe.
+{47050}{47102}Jaka stvar...pisma.
+{47105}{47225}Sigurno se neko deriöte öali.|Osim to...je NoÊ Veötica.
+{47245}{47288}I petak 13-i.
+{47320}{47370}Jednog istog dana? NemoguÊe.
+{47370}{47420}Slab hoÊe da nas upöaöi.
+{47450}{47559}Izgleda kao da ga je pisalo|neko deriöte iz ökole.|- Moûda je japanac.
+{47560}{47610}Ali, one ne zneju istoriju|o serijskom ubici.
+{47610}{47659}»ekaj malo, a Godzila?
+{47660}{47739}Ona nije iz tehniËki iz Japana, roena je|u meunarodnim vodama.
+{47740}{47797}Jasno mi je...äta da radimo onda?
+{47797}{47880}Mi...niöta, kreteni, a|nadamo se i niko od vas.
+{47885}{47938}Moûemo da proverimo kako ko piöe.
+{47940}{48016}Onda Slab otpada.|- Super, nisam ubica!
+{48035}{48135}Momenat, to öto ne moûe|da Ëita ne znaËi da nije ubica.
+{48140}{48169}Jeli? A porodica Klinton?
+{48170}{48260}äta?|- Glupost, i ti si glupak.
+{48261}{48300}Zaöto da se meusobno ubijamo?
+{48301}{48435}A öta ako je Slab kopirao to|i poslao ga sam sebi?
+{48461}{48547}A öta ako je Barbara svima|rekla da imam mala jaja?
+{48580}{48637}To nije istina!|- TaËno tako!
+{48640}{48760}A öta ako Bonerov otac i moja majka|idu da se zajedno "nalivaju"?
+{48790}{48830}äta radi moj otac?
+{48831}{48931}Znate li öta je zaista Ëudno?|To öto ubica na neki naËin|uvek zna gde smo.
+{48985}{49016}Da!
+{49030}{49080}Znate li, öta treba da radimo?|Treba da pobegnemo odavde.
+{49080}{49155}Na neko sigurno mesto.|- U srediöte niËega.
+{49155}{49205}U crnu planinu, gde veËno pada kiöa.
+{49205}{49305}Gde nema nikakvog posmatranja i|policijske pratnje gde god da je u pustinji.
+{49305}{49380}Znam takvo mesto gde je apsolutno|pusto i odasvud trËe deca. 
+{49380}{49437}Govoriö za kamp orkestra?
+{49455}{49540}»ekajte, to je glupo.|Da odemo kuÊi nekog od nas.
+{49545}{49642}Baö tako, moji roditelji su otiöli.|Niko nam neÊe smetati.
+{49670}{49747}Ne, idemo kod mene.|Moji roditelji su zatvoreni u podrumu.
+{49748}{49809}NeÊe nam smetati.
+{49840}{49880}Ne idemo kod nas.
+{49881}{50000}Roditelji su mi razvedeni i ovog viklenda|Êu poslednji put biti sa ocem.|Hteo je da me vidi pre nego öto umrem.
+{50045}{50075}Shvatate li öta hoÊu da kaûem?
+{50076}{50157}Da idemo kod mene, moji roditelji nisu ûivi.|- Super!
+{50185}{50235}Dobro, ostaÊemo danas tamo|i biÊemo na sigurnom mestu.
+{50235}{50288}Dobro onda. Neka bude tako.
+{50289}{50389}NaÊi Êemo se ispred Slabove kuÊe,|ali do tada se pazite.
+{50564}{50655}Navedeni uËenici neka se jave u kancelariju direktora:
+{50656}{50795}Dûek Trbosek, Majkl Izgubljeni i Helmut Korangol.
+{50796}{50871}Tako da, Dûimi, rezultati|od testa su srednji,
+{50872}{50940}ali ubijanje ti je na dobrom nivou.
+{50941}{51020}»estitam ti, snaÊi Êeö se odliËno na seminaru.
+{51780}{51855}äta kaûeö za Majkla Donata,|ima lepo dupe, zar ne?
+{51855}{51965}Znam, nema potrebe da mi to govoriö.|Viam ga svaki dan, zar mu ne|predajem tri predmeta.
+{52055}{52105}Da li uopöte pregledaö seminarske radove uËenika?
+{52105}{52155}Ne baö.|- A ti tvoje?
+{52155}{52215}Nikada ne radim to. A ko ga radi?
+{52216}{52311}Znaö li gde se moûe naÊi|neregistrovano oruûje?|- Imaö li 50$?
+{52316}{52399}Moûeö li da ih sakupiö do petka?!|- VideÊu öta mogu da uradim.
+{53700}{53850}"Kada imaö loö dah,|koji probada viöe od noûa,|pomoÊiÊe ti "Mentals"
+{53865}{53965}Kasirka u toaletu Êe ti pomoÊi pre|nego öto te dokrajËi loö zadah.
+{54015}{54175}Smrt Êe se najbolje osetiti|s osveûivaËem - MENTALS.
+{54225}{54310}MENTALS - za sveû dah!
+{54385}{54520}Paûnja, uËenici: Danaönji|roditeljski sastanak Êe se odrûati u restoranu|u Grin Dejlu.
+{54535}{54590}Molim da napomenete svojim roditeljima.
+{54595}{54725}A ko je stavio sveûe meso za ruËak,|molimo da ga izvadi.
+{54765}{54820}»oveËe, ova kola su sranje.
+{54850}{54894}Kakva olupina.
+{54930}{54980}Momci, öta to govorite?
+{55010}{55063}Zar ne vidite isto öto i ja?
+{55065}{55112}Ta furija je automatik!
+{55160}{55210}sa svom ekstra opremom.
+{55230}{55269}i ima duöu!
+{55295}{55358}Zato öto je danas petak sa "Briljantinom"!
+{55940}{56016}Kakav kreten....|Idem da mu zapiöam ormariÊ.
+{56065}{56136}Razume se, glupo je,|zato öto niko ne razmiölja kao ja.
+{56160}{56196}Zaostali moroni.
+{56925}{56960}Gospodin Andreti?
+{56961}{56997}UBICA
+{58120}{58160}SMANJI BRZINU! DECA NA PUTU!
+{58460}{58513}Vaöa dokumenta!
+{58735}{58820}Paûnja, rezultati juËeraönjih testova trudnoÊe.
+{58830}{59000}Suzan Savinski - negativna, Melisa|Blejk - pozitivna, Dûonatan Vorner|- negativan.
+{59125}{59200}Znaö li, da veÊina|serijskih ubica ima|dodatnii hromozom?
+{59201}{59271}Zaista?|- Poveri mi se, iz Viskonsina sam.
+{59320}{59405}Imaö strava oruûje.|Hvala, kupila mi ga je mama.
+{59420}{59460}Sada ötedim za metke..
+{59461}{59550}9 mm. Kratka cev.|Mnogo se razmeö u oruûje.
+{59555}{59643}Treba, jer kada si popularan,|to je divan hobi.
+{59675}{59733}Divno, znam kako je.
+{59755}{59808}Voliö da gledaö, jeli?
+{59950}{59987}Ko ne voli?
+{60285}{60336}KLUB PRIJATELJA NEMA»KE.
+{60375}{60510}Paûnja, uËenici: let 916 iz Taska Êe biti na izlazu 14E.
+{60515}{60563}KLUB LJUBITELJA KOSE.
+{60565}{60660}Izlaz je samo za putnike.|Vojnici se ne puötaju.
+{60750}{60795}TESTOVI O»INSTVA
+{62135}{62210}Na poslednjem obilasku ostali su:|Martina i Ubica!
+{62211}{62302}Ubica ubrzava i izlazi napred.
+{62350}{62450}Martina se joö ne predaje i vodi.
+{63215}{63265}Kakvo dramatiËno finale!
+{63770}{63895}Paûnja, uËenici: Danas u 15:05 Êe se|odrûati veûba za sluËaj poûara.
+{63900}{63974}Molim vas da svi donesete|svoje upaljaËe i svoj benzin.
+{64015}{64125}ZA TO VREME BONER PRAVI|NEZAVISNO PROU»AVANJE
+{64680}{64805}Vreme je za öou,|ili vreme je za tuö-öou!
+{64955}{65009}Da, doi kod tate.
+{65085}{65215}Slabe, Dosone, Martina?
+{65830}{65870}»ekaj malo!|O Ëemu se radi?
+{66335}{66380}»ASOVI SEKSUALNOG VASPITANJA
+{66383}{66539}Dobro, dosta je. Sklanjajte se odatle|i potraûite o ovome na Internetu.
+{66540}{66595}Stavi uzicu, Tarzane!.
+{66690}{66759}Zdravo, pederËiÊi!|Dobro doöli na Ëas seksa.
+{66760}{66810}Ako ste se prijavili za te Ëasove...
+{66811}{66898}i baptisti ste, prosto ste promaöili sobu.
+{67020}{67080}Dobro, oni koji veruju napuötaju.
+{67110}{67187}Dobro, poËinjemo od samog|poËetka seksa. U redu?
+{67190}{67259}Predstavljam vam moje dve pomoÊnice...
+{67260}{67334}Piter - dugi i Virdûinija|- osetljive usne
+{67365}{67432}Hej, maËe, miriöeö na pivo.
+{67433}{67534}Oh Pitere, uvek se rastopim pred nepoznatim.
+{67535}{67594}Onda ga primi do kraja!
+{67635}{67686}Hajde, hajde!
+{67850}{67870}Da?
+{67875}{67939}g. Bjukenen, mogu li da izaem?
+{67960}{68065}Zar nisi mogla da saËekaö do mature?|Dobro, idi.
+{68170}{68230}Da preemo na gledanje filma.
+{68245}{68327}Treba mi dobrovoljac,|koji Êe naliti gorivo u aparat.
+{68365}{68418}Neko...po ûelji?
+{68545}{68564}Da...!
+{68565}{68605}Ja Êu to da uradim!
+{68606}{68705}Dobro, tamo Êeöp moÊi da udariö jednu.|Deluj, ubico.
+{68706}{68785}S njom sigurno neÊeö imati problema.
+{68815}{68910}Hm....dokle bih stigao...
+{69650}{69795}Film sadrûi situacije za odrasle,|jezik za odrasle, kao i golotinju.
+{69820}{69915}Mnogo golotinje. Pauze i|zaustavljanja mogu da oötete film.
+{69925}{69984}PreporuËuje se odustvo rodutelja.
+{70035}{70175}Nolmar predstavlja|"Motli Skru"
+{70180}{70234}Istorija Pamele i Tomija
+{70500}{70600}Pogledajte te jeftine tapete.|Ko je tvoj dekorater? Musolini?
+{71385}{71447}Imaö li neöto protiv da veûbaö na drugom mestu?
+{72170}{72230}Makaze reûu hartiju - gubiö.
+{72243}{72290}U sluËaju makaza- razbij staklo!
+{72415}{72474}U sluËaju flaöe - razbij staklo!
+{73460}{73522}I zato ne nosim veö.
+{73575}{73630}To je bilo neverovatno, draga.
+{73650}{73725}Sa tobom se oseÊam viöe psiholog,|nego ubica.
+{73760}{73847}Ali sledeÊi put Êu te vezati jaËe, tako laköe stiûem do vrhunca.
+{73900}{73959}Da vidim öta rade deca.
+{73995}{74120}UËiteljska soba -  |zapadno krilo +
+{74205}{74260}To je prava stvar.
+{74261}{74360}BROJA» DO BESPLATNOG SNIMKA GRUDI:
+{74368}{74444}BESPLATNI SNIMAK GRUDI!!!!!
+{74461}{74542}Izvini, draga, jesi li ljubomorna?
+{74555}{74645}Znam öta nam treba...|Margarite!
+{74670}{74735}Mnogo lepo se priËa sa tobom, maËe.
+{74855}{74916}Ako siem, izlupaÊu vam zadnjice!
+{74955}{75030}Imaju toliko Ëasova, da ih je|uËitelj fiskulture oslobodio.
+{75030}{75090}Doi, da ti pokaûem jedan trik.
+{75155}{75210}Hej, öta sam vam rekao!
+{75260}{75340}Da poËnemo, ËoveËe.|- Nisam te video kada si uöao.
+{75360}{75455}äta je ovo?|- Moja pomagala za prvu pomoÊ...
+{75510}{75581}Tako da smo veûbali...|äta do avola...
+{75610}{75677}Ne terajte me da silazim dole!
+{75825}{75887}Kret...Dobro, preterali ste!
+{76055}{76135}Dobra kupovina, ËoveËe.|- Hvala, kupio sam ga od Dûul.
+{76136}{76186}Joö rita kao kobila.
+{76205}{76335}Boûe, videli smo ga!|- Svi su ga videli,|Doson upravo daje izjavu za policiju.
+{76390}{76505}Da, ali rad sa Kevinom Vinijem je|bilo za mene lepo iskustvo.
+{76530}{76565}Jeli gotovo?
+{76670}{76740}Ti si prekrasan tip.|Hajde, gubi se!
+{76815}{76865}Ja...Êu to poneti kuÊi...
+{77040}{77095}Dobro doöli ponovo u Bulimija Fols Haj
+{77115}{77181}Odavde prenosimo|"ProleÊnu klanicu" u EMP TV-u
+{77190}{77295}Tu Ëemo uûivo gledati najbolja ubistva u zemlji i novi spot Bekstrit Bojsa.
+{77315}{77396}Dui?|- Zdravo, maËe.|- PozorniËe Prvooptuûeni...
+{77415}{77504}Da li je istina da su svi uËenici dobili pisma od ubice?
+{77540}{77616}To öta znaËi, da su u opasnosti?
+{77617}{77735}Ne ûelim da ikoga plaöim, ali ovde svako moûe da dobije sekiru u glavu.
+{77760}{77829}Jesmo li uûivo?|- Snimaj njih!
+{77980}{78061}HoÊete li posavetovati uËenike kakve mere opreza da preduzmu?
+{78065}{78154}Posavetovao bi ih da ne nose veö...|- Ne dotiËi me!!!
+{78165}{78290}Moûete takoe da se sakrijete tamo gde se deca sakupljaju. Hej, gde beöe to!
+{78435}{78500}IIZOLOVANO MESTO
+{78510}{78570}"MRTAV KONJ"      "O»Iä∆ENO"|"JEFTINA GOVNA"
+{78571}{78620}Jeli neko video moju maËku?
+{78985}{79039}Hej, pazi na ventilator!
+{79190}{79310}Tako da sam rascepao njegovu odeÊu i bacio je s pitanjem "ûeliö li da saznaö istinu"?
+{79410}{79476}Sa takvom istinom se teöko miri.
+{79580}{79635}Da onda idemo gore?
+{80070}{80124}Zdravo, Dui!- Zdravo,maËe!
+{80135}{80174}Jesi li spreman za veËeras?
+{80175}{80230}Imao sam problem sa jednim osipom.
+{80231}{80280}Jesi li probao otrovni bröljan?|- Da, popio sam celo pakovanje.
+{80280}{80378}To nije dobro.|-Da sigurno je za spoljaönju upotrebu.
+{80405}{80465}Onda, zaöto to nisi uradio?
+{80480}{80537}Trebalo je prvo da ga povratim.
+{80555}{80630}Misliö li da Êe se pojaviti ubica?|- Zar nije NoÊe Veötica?
+{80680}{80748}KRIMINOLOGIJA U PITANJIMA I ODGOVORIMA.
+{81045}{81170}Prilog za udruûenje nesreÊnih ribara postradalih...|- Izvini, ali sam ih potroöio za pivo.
+{81255}{81328}Dobro, öta ûelite da gledate.|- Mogu li Teletabisi?
+{81330}{81444}Ne, nemamo crne kese.|- Imamo usijane glave, Goli piötolj,|Ima li pilota...
+{81445}{81535}Ako se gleda paûjivo, moûe da se vidi penis Leslija Nilsena.
+{81620}{81695}To nije pristojno, i zato Êu doneti joö piva.
+{81695}{81724}Da li si poludela?
+{81725}{81800}Ne moûeö tako da govoriö, zar nismo u nezavidnoj situaciji!
+{81800}{81866}O Ëemu govoriö?|- To nije pristojno!
+{81875}{82035}PreobuËeni ubica, ubija uËenike ökole glupog imena koji dobro izgledaju...
+{82115}{82199}Dobro, da li je iko gledao "Vrisak"?|- Da bio je dobar.
+{82200}{82319}I, za Boga miloga, EMP TV? To je|najloöiji kanal za koji sam Ëula.
+{82320}{82395}Sve je to jako prosto.|Svi smo dobili pisma.
+{82395}{82486}"....znam öta ste radili proölog leta"?|- U mojem piöe neöto drugo!
+{82520}{82600}»a...»a...»anu...|- Daj to ovamo!
+{82610}{82730}Boûe, nikada se nisam toliko plaöila|otkada sam gledala ûenski koöarkaöki tim.
+{82755}{82802}U svakom sluËaju, mene nije strah!
+{82880}{82960}Oh! »ip äot, maËkice, tu si!
+{83010}{83078}Sada mi stvarno treba joö piva!
+{83085}{83129}Ljudi, stvarno, pogledajte oko sebe!
+{83130}{83238}Mislim...Dosone?|- To je moje prezime!
+{83255}{83311}Hoce li nas propitivati u vezi ovoga?
+{83460}{83535}Pice 24 Ëasa! Ako ne budemo|tu za 24 Ëasa, neÊemo ni doÊi!
+{83535}{83585}Ko je poruËio veliku?|- Ja sam, platiÊu ja!
+{83585}{83702}Ne, ne, Hegeta, dozvoli meni.|- Ne ja Êu platiti.|- Ne ja Êu platiti.
+{83704}{83774}Hegeta, dozvoli meni.|- Sam si to traûio. Greöiö!
+{83870}{83950}Ustajemo na tri?|- U redu.|- U redu.
+{84050}{84164}Sluöajte, ima nekoliko pravila|koja se moraju poötovati|ako ûelite da preûivite.
+{84165}{84224}Broj 1: Preterujte u svemu.
+{84240}{84320}Broj 88 : ätogod je smeöno, je logiËno.
+{84380}{84446}Ne brini, znam kako da zadovoljim ûenu.
+{84460}{84524}Seksualni vicevi su uvek smeöni.
+{84530}{84648}Joö malo i zavröiÊu, zavröavam maËe. O, da, da...!
+{84650}{84725}Da....gotovo je, o da!!!
+{84760}{84820}I nek idu i propratni zvuËni efekti.
+{84821}{84905}Evo ga, mali Boner...
+{84940}{84990}I bezgraniËan apsurd.
+{85730}{85799}Zapamtite...niöta nije sveto.
+{85805}{85855}Doavola!......opet propalo!
+{85995}{86036}Divno!
+{86060}{86140}Zaboravila si....ukaûi na oËigledno.|/Mrtav Êovek/
+{86165}{86245}I na kraju, beskonaËno bolni stereotipi....
+{86270}{86309}To je smeöno!
+{86395}{86496}Vidiö? To je Orion.|A to je njegov penis.
+{86520}{86568}Ne, to je veliki vodozemac.
+{86570}{86635}Zaista?|Ja ga zovem Torov ËekiÊ.
+{86670}{86710}Ja ne vidim niöta!
+{86745}{86837}Najvaûnije je to, da parodija dolazi iz istine,|Da se primetiti.
+{86838}{86900}ZnaËi ako vam je neöto poznato,|gore glavu.
+{87470}{87519}Baö smeöno, Boneru.
+{87825}{87878}Ostani gde jesi, smradu!
+{90675}{90721}Nestanite, laûne sise!
+{91130}{91190}Posao obezbeenja je sigurno jako interesantan.
+{91192}{91280}O da.|- Sigurno je jako komplikovano da budes tih i smiren.
+{91280}{91349}Nije svako za taj posao.
+{91355}{91418}éelite li da vidite kako sviram bubnjeve?
+{92770}{92843}U SLU»AJU UJEDA P»ELE,|POZVATI POGREBNIKA.
+{93270}{93324}Do avola!|Pa i nije tako loöe...
+{93360}{93436}Paûnja, stiûe...|- "Ne zovite me äirli!"
+{93470}{93628}Sluöajte! Naöli su naËelnika,|koga su nekada zvali Direktorom|vezanog i zadavljenog.
+{93650}{93754}Dajte da poûurimo tamo pre|nego öto ga pogrebnici|zapale kao öibicu!
+{93825}{93919}A nikada nisam imao|priliku da ga uponam....|- To je sigurno za mene.
+{94095}{94230}Dakle, ostali smo sami ovde...|- Da, tako je...
+{94245}{94298}Imam neöto za tebe, Dosone.
+{94330}{94425}Jeli tako?|éelim te, Dosone.
+{94450}{94540}éeliö da obuËem to?|- Ne, to je za mene!
+{94565}{94690}A ovo je za tebe.|KOMPLET ZA SIGURAN SEKS.
+{94740}{94850}Momenat....mislio sam da si lezbejka...
+{94865}{94930}Lezbejka! Zaöto?
+{94945}{95060}Kako zaöto? Igraö koöarku,|gledaö Ali Mekbil...
+{95085}{95130}gledaö ûenski NBA?
+{95140}{95219}Ne, Dosone, nisam lezbejka...|Barbara je lezbejka.
+{95280}{95375}Barbara?|- Malo si razoËaran, zar ne?
+{95405}{95485}Ti si veötica, zar ne?|- A to? Da, da.
+{95650}{95714}Ni ne znaö koliko si nas uplaöila.
+{95740}{95791}äta se dogodilo, deËko?
+{95800}{95870}Izvini, mislio sam,|öta se dogodilo, devojËice?
+{95900}{96000}Slab ima probleme sa steroidima...u kadi?
+{96030}{96079}Otac ti je bio ûigolo?
+{96085}{96136}Svi kuËuÊi su prostitutke?
+{96150}{96210}Samo Kiti Ket je dobra hrana?...|Ne slaûem se s tobom.
+{96211}{96284}Mislim da.....Jebi se i ti!!!!
+{96285}{96320}Hajde, doi!
+{96360}{96410}OËisti me
+{96435}{96465}Slab?!|- O Boûe!
+{96466}{96535}STEROIDI ZA LJUDE SA|MALIM TESTISIMA
+{96570}{96624}Izgleda sam se prepumpao!
+{97250}{97400}Ovo je uûasno.|- Znam...ko Êe da Ëisti sve ovo?
+{97550}{97626}Dosone, ne!|Nema smisla da se ubija maËka.
+{97875}{98000}Dosone, ûelim da...Dosone?
+{98070}{98149}Traûio sam dokaze!|- HoÊeö li mi pomoÊi...
+{98360}{98410}M-m-m, ûao mi je!
+{98540}{98582}Kasniö!
+{98680}{98748}#Pesma grupe:Gronaps (odrasli), Priti in Pink#
+{98780}{98859}#Ne tamo, idioti,vrata su dole#
+{98880}{98970}#45% serijskih ubica su levaci#
+{99005}{99100}#SrednjestatistiËki Amerikanac|veûba 30 minuta nedeljno.#
+{99105}{99205}#najpopularnija forma sporta|je beûanje uz stepenice#
+{99215}{99265}#U nekim aboridûinskim plemenima,|muökarci nose suknje#
+{99265}{99305}#kao znak moÊi#
+{99320}{99394}#Scenograf je mislio da Êe|sa dimom da bude straönije#
+{99445}{99520}#Naûalost glunimca koja igra Martinu je dobila akergiju"
+{99520}{99540}#... i za malo nije umrla#
+{99705}{99802}#VeÊina brakova se raspada,|jer imaju probleme u krevetu#
+{99885}{99962}#Ovo nije prava krv...Ovo takoe.#
+{100095}{100160}#Glumac koji tumaËi|Dososna se uplaöio visine#
+{100195}{100290}#Reûiser ga je napio i|naterao da snimi ovu scenu#
+{100357}{100425}#Za snimanje tog kadra,|ubica je pocepao 13 kostima#
+{100555}{100617}#Ovaj glumac ima problema|sa mokraÊnom beöikom#
+{100720}{100778}#Ovo treba da bude veseo solo motiv#
+{100805}{100842}#Zar ne#
+{101190}{101221}#Beûite!#
+{101560}{101640}#Ujed pËele izaziva 3000|smrtnih sluËajeva godiönje#
+{101660}{101716}#Za formiranje travnatih|povröina - 15 poena#
+{101880}{101925}#Najviöe nesreÊnih sluËajeva|deöava se kod kuÊe#
+{101940}{102007}#Pesma sastava: Gronaps, Priti in Pink#
+{102020}{102080}#Gde je policija?#
+{102215}{102287}Hajde, Ëajni deËko,|da ga vidimo!
+{102515}{102552}Uspeli smo!
+{102830}{102883}Pusti mene, ja Êu to da sredim.
+{102935}{103050}Ti si nevaljali ubica,|iskopaÊu ti oËi, a onda...
+{103690}{103748}Martina, pokaûi mu, tvoj je!
+{104065}{104119}Jesi li sigurna da nisi lezbejka?
+{104120}{104197}Dobro, moûda jedanput u kampu.|- Super
+{104230}{104290}Da vidimo ko je ovaj kreten.
+{104575}{104642}Ko je to?|- Abraham Linkoln!
+{104820}{104904}Hajde, skini ih!|- Ali one su vlasniötvo firme!
+{105135}{105169}Lepe su!
+{105415}{105465}Jeste li Ëuli ovo?|- Izvinite.
+{105465}{105506}Ne, ne to.
+{105590}{105634}Da se pokrenemo.
+{105890}{105965}Hej, beli...ti i pica deËko|treba da siete.
+{105975}{106013}Gubite se!
+{106085}{106122}Ulazimo.
+{106445}{106495}Hej, mislim da je ovo poslednja.
+{106600}{106677}Ti?|- Koga si oËekivao,|predsednikovu majku?
+{106690}{106784}Razume se...pravilo 101:Ne|moûe da se govori za odvratnost....
+{106785}{106890}bez straûnog, öturog|i poremeÊenog zavröetka.
+{106900}{106978}Ali zaöto, Dui?|- Ja nisam Dui, kreteni!
+{106995}{107064}»ak nisu pravi.|- Ona Ëak nema ni takve.
+{107070}{107160}Ali ako nisi Dui, to|znaËi da si ti onda...
+{107175}{107275}Da, zli brat blizanac|roak Duija Hardija!
+{107290}{107345}Vau, dobar zaokret!
+{107380}{107424}Kakav je tvoj motiv?
+{107425}{107494}U novom veku niko se|ne brine za motive, to su sitnice.
+{107495}{107586}Misliö li da incidente?|- Trebalo je da prvo tebe ubijem.
+{107645}{107715}Sigurno ovo koristiö|za menjanje glasa?
+{107730}{107830}O da, mala!|- Nisam mislila na to.
+{107955}{108026}Zdravo, Martina.|Koji je tvoj omiljeni film?
+{108055}{108105}Ja sam tvoj otac, Luk.
+{108115}{108183}Ne mrdaj!|- Ne pucaj, predajem se.
+{108225}{108277}Hardi?!|- Zdravo, Dui.
+{108300}{108352}Dui, öta se ovde deöava?
+{108360}{108444}Isti su. Da,|jedan je dobar, drugi je loö.
+{108475}{108518}Kao braÊa.
+{108530}{108626}Osim toga, Hardi voli mini golf,|ruski balet i oötre predmete.
+{108630}{108700}Dui voli rok en rol, a za hot dogom je lud. 
+{108705}{108748}Ja isto ludim.
+{108750}{108880}Ali oni su roaci, smeju se,|hodaju i ponekad Ëak govore|na isti naËin.
+{108885}{108995}UÊutite svi!|Koliko puta treba to da sluöam!
+{109000}{109035}Imajte malo obzira!
+{109036}{109113}Hardi! Ti si sramota za naöu porodicu!
+{109146}{109215}Zato öto nosim bakinu haljinu?|- Ne.
+{109321}{109428}A zato...»ujte, ja...|stvarno mi je zao!
+{109431}{109490}Mogu li da uradim neöto,|da ti se revanöiram, Dui?
+{109491}{109587}Prvo treba da vratiö kostim u radnju.
+{109606}{109688}Ne znam odakle sam ga uzeo.|- PozvoniÊemo na par mesta.
+{109691}{109754}I ne zaboravi za veliko govno.
+{109786}{109841}Nisam uzeo nikakvo govno.
+{110201}{110257}Dobro, moûeö da me zagrliö.
+{110421}{110462}Dobar hitac!
+{110591}{110713}Oh....vidite,|to je bio nesreÊan sluËaj.
+{110716}{110766}Da nekada se to deöava.
+{110791}{110851}Treba da kupim novi karmin.
+{110891}{110955}Probaj moj...|- Idealan je.
+{110966}{111016}Izgleda da sam naöla ono öto sam|traûila...Vidimo se, Dui!
+{111016}{111089}»ekaj, a veËera u klubu pobednika?
+{111106}{111162}Ili mala zakuska kod Vendi?
+{111163}{111213}Idemo tvojim motorom?
+{111261}{111310}A öta Êe biti sa "nama"?
+{111476}{111549}Pica momci dobiju sve pice.
+{111611}{111670}Ne brini se, Dui,|sve je pod kontrolom.
+{111671}{111742}Da...bivöi brate mrtvaca.
+{111760}{111905}Tako je,....da krenemo, deco.
+{111956}{112031}U redu, momci, spakujte ga u kesu|i poËistite malo ovuda.
+{112031}{112081}Oni idu samnom. Ulazite unutra!
+{112081}{112140}KRAJ...zaista?
+{112365}{112465}ZnaËi, Dui, blizanac-roak?|- Da, sliËnost je bila zapanjujuÊa.
+{112470}{112509}Znam, ljudi kaûu da|liËimo na idiote.
+{112540}{112579}O! Hrana!
+{112715}{112759}Martina! Dosone!
+{112790}{112920}Boneru, ti si ûiv!|- Bog neka blagoslovi Vijagru|koja mi je spasila ûivot.
+{112930}{113040}Popio sam celu boËicu,kada sam dobio infarkt|ona je joö pumpala krv...
+{113090}{113139}Ja Êu se pobrinuti za to.
+{113445}{113550}Prava je sreÊa da smo preûiveli.|Sada moûemo da budemo zajedno zauvek.
+{113555}{113622}Najmanje do momenta dok|ne budemo snimali nastavak.
+{113630}{113690}KRAJ...iako...
+{113710}{113750}Jesi li gej?
+{114065}{114115}NeÊeö moju kafu, bitango!
+{114290}{114396}Ovo je finale: Ubio sam roaka,|srce mi je slomljeno,|i sestra mi je mrtva.
+{114445}{114495}Volim ovaj posao!
+{114520}{114586}Sada smo sigurni, hvala Bogu.
+{114595}{114705}Da li otiöla u öetnju|mraËnom straönom öumom?
+{114720}{114754}Naravno!
+{115020}{115125}Dosone, ljudi, uradio sam to,|viöe nisam nevin!
+{115315}{115400}Zdravo, Sindi!|- äta?...izvini, gubiö se.
+{115415}{115520}Rekao sam: Zdravo, Sindi!|- Alo, alo...
+{115580}{115633}Ko je bio?|- Ne znam.
+{115635}{115705}Ako mu je vaûno, zvaÊe ponovo.
+{115740}{115839}Glupi mobilni telefoni...|IseÊiÊu te klince na komade!
+{115915}{115990}Treba da se pobrinem za svoj renome...|ali prvo treba da se ispiöam.
+{116105}{116160}KRAJ...Dok neko ne plati.
+{120450}{120515}äTA SE DO –AVOLA DOGODILO SA NJIMA
+{120570}{120675}Doson i Martina su bili zajedno do|kraja ökole.Kasnije se ona|prikljuËila lezbejkama.
+{120675}{120738}Doson pregovara za snimanje produûetka.
+{120780}{120875}Sloboc doktor kaûe da Êe ostati mrtav joö dugo.
+{120920}{121065}Barbara je joö uvek mrtva|ali s vremena na vreme navraÊa|neko i ima seks s njom.
+{121070}{121170}Uverite se i sami:|www.barbcam.com.
+{121220}{121295}Sestra je na kraju snimila edukativni soft porniÊ
+{121295}{121380}s naslovom: "dobro povaljivanje,|loöe povaljivanje, zaista|dobro povaljivanje.
+{121395}{121491}Gospodin Bjukenen se oûenio|veötaËkom En kod bazena|Roja i Zigfrida.
+{121495}{121590}U maju oËekuju prvo dete.
+{121650}{121720}Boner je na kraju imao seks sa pravom ûenom...
+{121720}{121784}ili mu se bar tako Ëinilo.
+{121785}{121845}Dr Viktorija Dûonson, poznata kao|Viktor Dûonson i Boner|su se venËali.
+{121845}{121940}Otvorili su liniju za proizvodnju|"Boner-Festa" i Ëlanovi su kluba|svingera Santa Monike.
+{121945}{122049}Gospodin Haselhof je sada drugi|po veliËini prodavac svega i svaËega|u Kaliforniji.
+{122195}{122270}Posle kratke ali strasne veze sa pica|momkom, Hegeta je poËela da|piöe novu knjigu...
+{122270}{122345}za ubistva u Bulimija Fols Haj:|"I dalje tvrdim da je to bio Doson"
+{122345}{122410}ali nije uöla u katalog Oprine literature.
+{122520}{122595}Dui je napustio posao i|preöao u Los Aneles...
+{122595}{122666}tamo vodi öou:"Dui, o, Dui"
+{122720}{122795}Ubica je promenio ime,|kupio kuÊu i smirio se.
+{122795}{122895}Vlasnik je radnje za prodaju krofni|i aktivan uËesnik demonstracija.
+{122945}{123059}Ekipa filma je ostala bez posla,|ali su spremni da rade za hranu.
+{123145}{123190}Meutim...
+{123220}{123294}Bulimija Fols Haj sada ima|novog, poboljöanog ubicu.
+{123365}{123470}VratiÊe se....|KRAJ
+{123495}{124995}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

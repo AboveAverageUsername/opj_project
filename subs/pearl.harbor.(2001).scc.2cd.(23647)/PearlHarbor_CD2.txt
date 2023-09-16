@@ -1,0 +1,759 @@
+{83}{130}Svi u bolnicu!
+{155}{305}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{434}{479}Zaöto mornarica|uvek zuji oko nas?
+{521}{558}Umukni, Rede!
+{669}{714}Japanci su ovde!
+{786}{866}Idemo! Idemo!|-Svi napolje!
+{1674}{1721}Pozovi bolniËare na most!|-Razumem.
+{1910}{1978}TreÊa paluba je potopljena.
+{2454}{2546}Diûite se, kukavice!|Izaite i borite se!
+{2868}{2932}Imam vas, kapetane.|-Zatraûi vazduönu pomoÊ!
+{2951}{2994}Pokreni kontrolu ötete.
+{2997}{3067}Nai mog zamenika!|Reci mu da preuzme komandu.
+{3069}{3161}I pobrini se da niöandûije...|-Svi su na svojim mestima.
+{3163}{3224}Dobro ste nas uveûbali.
+{3227}{3274}Dobro ste nas uveûbali.
+{3296}{3339}Kapetane?
+{4290}{4386}Daj municiju za onu pedeseticu!
+{4678}{4737}Daj, ËoveËe!|Moramo napuniti ovu stvar!
+{5120}{5161}Idemo! Idemo!
+{5220}{5267}Hajde!
+{6070}{6127}Danny, dovedi me do|prokletog aviona!
+{6130}{6177}Doi!
+{6420}{6486}Donesite municiju gore!|Moramo naoruûati topove!
+{6488}{6558}Gospodine! Kapetan kaûe da|vi preuzimate komandu!
+{6602}{6667}Treba nam joö municije!|Odmah!
+{6754}{6809}BolniËar!
+{7547}{7635}Hajde, kuËkin sine!
+{7867}{7914}Trebam lekara!|Pomozite mi!
+{8021}{8062}Idemo u sobu sa zalihama!
+{8094}{8133}Uzmite sve!
+{8304}{8345}Avioni!
+{8432}{8460}Oslobodite ih!
+{8490}{8549}Maknite ih od prozora!
+{9237}{9276}Prekini paljbu!
+{9353}{9388}Sagni se, Danny!
+{9624}{9659}Earl!|-Ovde Walker!
+{9661}{9729}Treba da napunimo avione|municijom i gorivom!
+{9732}{9767}äta se dogaa napolju?
+{9770}{9840}Danny, kakva je to buka?|Veûbate gaanje?
+{9842}{9937}Mislim da smo upravo|uöli u II. svetski rat!
+{10327}{10366}Billy!|-Beûi!
+{10422}{10446}∆orak je.
+{10449}{10494}∆orak je!
+{10789}{10832}Danny, jesi li dobro?
+{10834}{10908}Idemo!|Gooz, doi!
+{11547}{11580}Tonemo!
+{11776}{11854}Ostanite zajedno!|Zatvorite grotla!
+{12190}{12241}Ne znam da plivam!
+{12555}{12608}Idemo!
+{12656}{12738}Odlazimo!|Ulazi u auto!
+{12774}{12835}Maknite se s puta!
+{12887}{12916}Gde to idemo?
+{12919}{12983}Imamo malu mehaniËarsku|pistu 10 minuta odavde.
+{12986}{13017}Joö je nisu napali.
+{13154}{13195}Za leima su nam!
+{14677}{14701}U klopci smo!
+{14766}{14819}Pokuöaj da otvoriö vrata!
+{15638}{15757}PovlaËi me za sobom!
+{16066}{16107}Zaöto kuËkini sinovi joö|uvek pucaju na nas?
+{16303}{16356}Ne ûelim umreti!|Ne ûelim umreti!
+{17092}{17137}To je to.
+{17743}{17778}Koliko loöe?
+{17780}{17827}Joö uvek traje.
+{17934}{17996}»itava usidrena flota.
+{18040}{18101}Boûe moj, Boûe moj.
+{18651}{18719}Barbara, napuni sve injekcije|koje naeö morfinom!
+{18795}{18836}Napunite kuhinju!
+{18839}{18886}Sluöate li me?|Napunite kuhinju!
+{19076}{19123}Ovamo!
+{19302}{19380}Imamo gadnu ranu na vratu!|-Hirurgija!
+{19383}{19428}Moramo ga odvesti|na hirurgiju!
+{19431}{19480}Ovamo!
+{19504}{19625}Daj mi hemostat!|Odmah!
+{19698}{19722}Poûuri!
+{20079}{20116}Doktore!
+{20351}{20404}HoÊu li umreti?
+{20406}{20443}BolniËarko!
+{20573}{20645}Ne ostavljajte me!|-Doktore, ovamo!
+{20726}{20785}Moji prsti mu|zatvaraju arteriju.
+{20787}{20824}Doktore, öta vam treba?
+{20863}{20916}Doktore, pogledajte me.|äta vam je potrebno?
+{20919}{20970}Hemostat.
+{21036}{21095}Dobro, pogledaj me.
+{21098}{21164}BiÊe ti dobro.
+{21231}{21315}Bombardovali smo luku|i glavna uzletiöta.
+{21318}{21373}Sad moramo pogoditi|manja uzletiöta.
+{21379}{21469}Treba mi joö municije!|Treba mi joö municije, dame!
+{21471}{21520}Treba mi joö municije!
+{21523}{21601}Earle, jesmo li spremni za pokret?|-Uglavnom, ali...
+{21603}{21646}U zaklon! U zaklon!
+{21749}{21808}Earl, ulazi unutra!
+{21881}{21949}NaredniËe! Kada se vrate,|saËmarica neÊe biti dovoljna!
+{21951}{22010}Ima li kakvog oruûja|koje nas moûe pokrivati?
+{22012}{22096}Da, u onom ormariÊu|za municiju!
+{22215}{22293}Rekao si da su avioni skoro|spremni, ali... Ali öta?
+{22296}{22356}Ovaj je pogoen, ovaj je pokvaren,|a ovaj je govno. Ostala su mi 4 komada.
+{22359}{22416}Jedan je spreman, za 2 treba municije,|a za jedan gorivo.
+{22418}{22469}Na poloûaje! U bunker!
+{22615}{22740}Anthony, Red, odavde Êete|opsluûivati pedeseticu.
+{22743}{22815}Gooz, idi do sledeÊeg|bunkera i pokrivaj nas.
+{22839}{22863}Avioni.
+{22922}{22975}Da pucamo?
+{22978}{23052}Ostanite dole!|Ne pucajte! Budite mirni!
+{23055}{23116}Boûe! Boûe! Boûe!
+{23205}{23242}Ne znaju da smo tu.
+{23244}{23299}Ostanite dole.|-Zaöto?
+{23301}{23389}Ne znaju da smo tu.|Ostanite dole i ne pucajte.
+{23507}{23533}Boûe...
+{23735}{23830}Ne vidim bombe.|Mislim da se vraÊaju kuÊi.
+{23833}{23897}Ne, vratiÊe se.|Joö uvek imamo avione na zemlji.
+{23900}{23949}Piloti, sluöajte.
+{23951}{24043}PoËnite da koristite svu brzinu na pisti|i ne poleÊite pre samog kraja.
+{24046}{24112}U vazduhu ostanite|nisko meu zgradama.
+{24114}{24198}Ako vidite nekog Zeroa na repu,|reöite ga se.
+{24201}{24283}Nemojte se slediti.|PokuöaÊemo ih razdvojiti.
+{24285}{24346}Tako Êemo moÊi da ih sruöimo|jednoga po jednog.
+{24349}{24402}P-40 nije brûi od Zeroa,|pa nemojte ni pokuöavati.
+{24405}{24454}MoraÊemo jednostavno|leteti bolje od njih.
+{24457}{24531}Bombarderi!|RazvaliÊe ovaj hangar!
+{24534}{24577}Zgrabite pedesetice! Idemo!
+{24793}{24817}Zeroi!
+{25127}{25158}U zaklon!
+{26049}{26121}Hajde!|Hajde, stari!
+{26124}{26171}Ostavi ga!|Mrtav je!
+{26376}{26450}Praöe nam zadnjicu!|Dokopajte se aviona! Idemo!
+{27068}{27144}Pobij ih!|-Ulazi. Stavi ovo na glavu.
+{27437}{27497}Rede, makni se odavde!|Dobro sam!
+{27563}{27616}Daj, daj! Idemo.
+{27619}{27689}Joe, skloni mi se s puta!|-Krenuo sam!
+{27862}{27890}Pomozi mi!
+{27976}{28040}Joe, 3 Zeroa su iza tebe!|3 Zeroa su ti na repu!
+{28277}{28310}Skreni! Skreni!
+{28362}{28386}Sranje.
+{28701}{28752}äta radite? Krenite!
+{28754}{28803}Danny, pokreni to i poleti.
+{28806}{28849}Nisam dobar bez pratioca.
+{28852}{28891}Trebaö mi.|-Shvatio sam!
+{28933}{28980}UËinimo to!
+{29414}{29482}Gusto je, Rafe! Gusto je!
+{29831}{29878}Rafe, nisam siguran|imamo li dovoljno piste!
+{29881}{29928}PoveÊaj vazduönu brzinu pre|nego öto napustiö zemlju!
+{29930}{29981}Nemoj se slediti.
+{30084}{30145}Ne znam hoÊu li uspeti|da preletim ovo!
+{30409}{30444}Uspeli smo! U vazduhu sam!
+{30495}{30538}Imamo Zeroe iza nas, Rafe!
+{30584}{30615}Koliko ih vidiö?
+{30725}{30755}Petorica su nam iza!
+{30907}{30954}Spusti se na palubu, Danny!
+{31159}{31221}Moramo ih razdvojiti!
+{31224}{31300}Ti kreni levo, ja Êu desno!
+{31394}{31460}Earle, postavi oruûje|u onaj prokleti toranj!
+{31486}{31543}U redu!|U kamion! Sledite me!
+{31684}{31721}Danny, trojica su mi iza!
+{32273}{32339}Stani!|Idemo, pokret! Idemo, Rede!
+{32379}{32414}Daj mi pedeseticu!
+{32616}{32665}Joö uvek su 2|iza mene, Rafe!
+{32994}{33051}KuËkin sin!
+{33250}{33320}Earl, Ëujeö li me?|Dovuci oruûje u taj toranj!
+{33323}{33407}Na toranj, da. Penjemo se deset spratova.|To je visoki kuËkin sin.
+{33626}{33677}Rafe, svuda su!|Ne mogu da ih se reöim!
+{33873}{33934}Danny, trojica su mi|joö uvek na repu!
+{33962}{34040}Nastavi da ih izbegavaö.|Ne daj im da te naciljaju!
+{34042}{34130}Ne mogu da ih se reöim, Rafe!|-Prokletstvo.
+{34194}{34239}Danny, zaigrajmo|kukavice s ovim puöaËima.
+{34242}{34279}Uz tebe sam.
+{34324}{34348}Isuse!
+{34461}{34562}Idem pravo na tebe!|-Nemoj da skreÊeö dok ti ne kaûem.
+{34564}{34588}Ne joö! Ne joö!
+{34616}{34655}Daj! Daj!
+{34683}{34711}Skreni levo sad!
+{34818}{34853}Jesmo ih!
+{34892}{34951}Postavite se tamo!
+{34990}{35027}Napunite ga!
+{35029}{35084}Mi smo na vrhu tornja.
+{35111}{35173}Jedan mi je na repu,|doveöÊu ga do vas!
+{35176}{35266}Dolazi! Dolazi!|Pogodite tog japanskog puöaËa!
+{35346}{35397}PriËekajte s paljbom.|Evo ga.
+{35431}{35484}Bolje budite|spremni kada proem!
+{35542}{35585}Zadrûi paljbu!
+{35615}{35645}Paljba!
+{35829}{35874}Dobro pucanje, momci!
+{35877}{35916}Dobar pogodak, Earl!
+{35918}{35980}Idemo do bojnih brodova!|-Uz tebe sam.
+{36190}{36233}Obavimo posao.
+{36283}{36307}Idem za njim.
+{36583}{36624}Rafe, pogodio sam ga!
+{36666}{36713}P-40!
+{36769}{36845}Diûu se u oblake. NeÊemo im|dopustiti da se vrate kuÊi!
+{37025}{37072}Kako ti se svia kada|ti neko uzvraÊa vatru?!
+{37326}{37359}Sad sam ti na guzici.
+{37481}{37520}Danny, pogodio sam jednog!
+{37562}{37584}Hajde.
+{37885}{37911}Hajde!
+{38122}{38153}Ostani tako!
+{38467}{38514}Imam te, kuËkin sine!
+{38748}{38814}Pukovnik Fuchida javlja: Velika pobeda.|Mnogi brodovi uniöteni.
+{38929}{38986}Od 350 aviona|izgubili smo samo 29.
+{38989}{39038}Spremni smo da lansiramo|treÊi talas, admirale.
+{39072}{39144}Viöe nemamo|element iznenaenja.
+{39175}{39228}PovuÊi Êemo treÊi talas.
+{39231}{39255}Admirale!
+{39654}{39703}Ko vas je nauËio kako|se leti, poruËniËe?
+{39758}{39782}On.
+{39941}{40029}Moram amputirati!
+{40085}{40169}Sandra, ponestaje nam morfina.|Moraö ih oznaËiti.
+{40172}{40254}OznaËi ih na neki naËin tako|da znamo ko je dobio morfin.
+{40257}{40325}PriËaj mi o svom brodu.|Sa kog si broda?
+{40327}{40374}OznaËavam.|Ev, imaö marker?
+{40435}{40459}Ne.
+{40487}{40561}Upotrebi moj ruû.|Stavi M za morfin.
+{40563}{40627}Evelyn, trebaju nam zavoji!
+{40656}{40711}Gde su kleöta?
+{40842}{40866}Niöta nije ostalo.
+{40954}{41007}Upotrebite ovo.|-Evelyn, doi Ëas.
+{41010}{41067}Ima ih previöe.|Moraö ih sortirati.
+{41070}{41134}äaljeö unutra samo one koji|mogu biti spaöeni. Shvataö?
+{41136}{41187}Ne mogu.|-Molim te, uËini to!
+{41189}{41240}Treba mi to od tebe!
+{41900}{42011}Ne puötajte unutra nikoga bez oznake.|-Ne idite dalje!
+{42014}{42049}Ostanite napolju!|Ostavite ih napolju!
+{42167}{42227}»ekaj tu.|-Ne diraj me, JapanËe!
+{42230}{42277}Sklanjaj ruke s mene!
+{42280}{42350}KritiËan je.|-Sklanjaj ga od mene!
+{42353}{42386}Odeljenje za kritiËne ozlede!
+{42440}{42495}Kakve su mi rane?
+{42497}{42567}BiÊe ti dobro, duöo.|-Ne ûelim umreti.
+{42570}{42623}NeÊeö umreti.|Drûim te za ruku.
+{42666}{42719}Daj mu dovoljno morfina.|NeÊe se izvuÊi.
+{42721}{42793}Poreajte kritiËne pred odeljenjem!|Dajte mu morfin i odnesite ga tamo!
+{42796}{42864}Odnesite ûrtve s opekotinama do drveÊa.|-Upravo sam je naöao.
+{42896}{42976}Mislim da ne diöe.|-Ne, mrtva je. Odnesi je...
+{43073}{43101}Boûe!
+{43156}{43211}Jesi li sigurna, Ev?|Proveri je joö jedanput.
+{43214}{43276}Mrtva je. Odnesi je onamo!
+{43279}{43343}Ali moraö biti sigurna.
+{43345}{43392}Vrati se na posao, Sandra.
+{43425}{43476}Ne znam öta da radim.
+{45723}{45783}Admirale?|Iz Washingtona.
+{45839}{45888}Napad od strane Japana|smatra se neizbeûnim.
+{46008}{46053}Kasne samo jedan sat.
+{46852}{46891}»estitam.
+{46918}{47041}Bojim se da smo samo|probudili uspavanog diva.
+{47443}{47535}Kako moûemo pomoÊi?|-Treba nam krv. Doite.
+{47609}{47660}Upamti, sine.|SaËuvaj veru...
+{47671}{47770}Isus reËe: Danas Êeö|biti sa mnom u Raju.
+{47773}{47851}I zato se nemoj bojati, sine.
+{47854}{47913}Zaista si blagosloven.
+{47916}{47965}Umireö u stanju milosti.
+{47988}{48074}Upamti, bol je privremena,|ali slava je veËna.
+{48076}{48125}SaËuvaj veru.
+{48127}{48213}Uskoro Êeö|biti s Bogom i svim svetima.
+{48215}{48324}Razreöavam te greha u ime|Oca i Sina i Duha svetoga.
+{48608}{48657}Idi s Bogom, sine moj.
+{48812}{48859}Imamo ljude zarobljene|po Ëitavoj luci.
+{48862}{48907}Treba nam pomoÊ od|svih koji su pokretni.
+{49026}{49065}Izvucite nas odavde!
+{49105}{49179}Neko je unutra!|Dovedite nekoga ovamo!
+{49490}{49535}Vuci!
+{49602}{49674}Izvucite nas!|-Prostorija se puni vodom!
+{49677}{49716}Donesite crevo za vazduh!
+{49777}{49824}Pomozite nam!|-Crevo za vazduh!
+{49827}{49853}äta moûemo uËiniti?
+{49961}{49998}Ne mogu brûe seÊi!
+{50941}{50984}JuËe...
+{50987}{51079}7. decembra 1941...
+{51116}{51186}dan koji Êe se|pamtiti kao neËastan...
+{51188}{51336}SAD su iznenada|i namerno napadnute...
+{51338}{51445}od mornariËkih i vazduönih|snaga japanskog carstva.
+{51503}{51579}OËito je da je|planiranje napada...
+{51581}{51642}zapoËelo pre puno nedelja.
+{51645}{51849}U meuvremenu je japanska|vlada namerno zavaravala SAD...
+{51851}{52018}laûnim izjavama i izraûavanjem|nade za nastavak mira.
+{52021}{52140}JuËeraönji napad|na havajski arhipelag...
+{52142}{52259}prouzrokovao je veliku ötetu|ameriËkim vojnim snagama.
+{52262}{52315}Sa ûaljenjem vam moram reÊi...
+{52317}{52438}da je preko 3000|ûivota izgubljeno.
+{52441}{52503}Bez obzira koliko|dugo Êe nam trebati...
+{52506}{52592}da prebrodimo ovu|smiöljenu invaziju...
+{52594}{52668}ameriËki narod u svom|pravednom gnevu...
+{52696}{52784}istrajaÊe do|konaËne pobede.
+{52874}{53014}Zbog ovog niËim izazvanog,|podmuklog napada Japana...
+{53017}{53110}traûim da kongres|proglasi ratno stanje.
+{53430}{53483}Je li istina?
+{53485}{53559}Jesu li ljudi joö uvek|ûivi zarobljeni u Arizoni?
+{53608}{53657}»ujemo ih kako|udaraju po trupu.
+{53659}{53739}»inimo sve öto moûemo da doemo|do njih, ali su 12 metara ispod vode.
+{53903}{53956}UËili su nas da|smo nepobedivi...
+{53991}{54055}a sad je naöe najbolje|brodove uniötio...
+{54057}{54116}neprijatelj koga smo|smatrali inferiornijim.
+{54154}{54211}Na ivici smo, gospodo.
+{54213}{54303}Upravo zato moramo|odmah uzvratiti udarac.
+{54305}{54371}Pripremamo udar na Marshallov|i Gilbertov arhipelag...
+{54374}{54464}Ja govorim o napadu na srce Japana na|isti naËin na koji su i oni nas napali.
+{54507}{54597}G. predsedniËe, Pearl Harbor|nas je uhvatio nespremne...
+{54599}{54642}jer nismo|sagledali Ëinjenice.
+{54644}{54714}Sad nije vreme da|ih opet ignoriöemo.
+{54717}{54797}Vojska ima bombardere za velike daljine,|ali ih nema odakle lansirati.
+{54800}{54924}Midway je predaleko,|a Rusija neÊe dopustiti napad.
+{54956}{54980}Admirale?
+{54983}{55063}MornariËki vazduhoplovi su mali|i imaju mali radijus leta.
+{55065}{55131}Moramo ih dovesti unutar|nekoliko stotina kilometara...
+{55133}{55205}a tako stavljamo nosaËe na rizik.|Ako izgubimo nosaËe...
+{55208}{55259}neÊemo imati|zaötitu od invazije.
+{55262}{55373}Smatra li iko da je|pobeda moguÊa bez opasnosti?
+{55375}{55447}U ratu smo.|Naravno da postoji rizik.
+{55450}{55501}Ali razmislite o riziku.
+{55504}{55642}Da nas Japanci sad napadnu,|napredovali bi do Chicaga.
+{55703}{55736}Gospodo...
+{55794}{55874}VeÊina vas me nije poznavala|dok sam mogao hodati.
+{55914}{55996}Bio sam jak i ponosan.|I arogantan.
+{56020}{56086}Sad se svakoga sata|ûivota pitam...
+{56089}{56150}zaöto me Bog prikovao|za ovu stolicu.
+{56179}{56321}Ali kada vidim poraz u oËima|sugraana, u vaöim oËima...
+{56324}{56433}pomislim da me moûda|sruöio za ovakva vremena...
+{56435}{56494}kad se svi moramo|podsetiti ko smo zapravo...
+{56497}{56565}da se neÊemo predati|ili popustiti.
+{56568}{56656}G. predsedniËe, uz duûno poötovanje,|ono öto traûite ne moûe se izvesti.
+{57045}{57129}G. predsedniËe...|-Makni se, George.
+{57431}{57486}Nemojte mi govoriti...
+{57488}{57535}da se ne moûe.
+{57664}{57756}Japan nastavlja vojna|osvajanja po Pacifiku.
+{57793}{57857}Ali kuÊi se milioni|radnika udruûuju...
+{57859}{57956}i oûivljavaju fabrike kako|bi osvetili Pearl Harbor.
+{58066}{58158}Mislim da smo smislili|kako da bombardujemo Japance.
+{58161}{58235}Gospodine, riskantno je,|ali smelo.
+{58263}{58291}Ko ste vi?
+{58293}{58330}Ja, gospodine?
+{58333}{58380}Kapetan Low.
+{58408}{58461}On je podmorniËar.|Njegova je zamisao.
+{58464}{58524}Volim komandante|podmornica.
+{58527}{58617}Nemaju vremena za sranja,|a nemam ni ja.
+{58619}{58662}PriËajte, gospodo.
+{59055}{59102}A gde je Bog u svemu ovome?
+{59149}{59235}Naöi neprijatelji veruju da|ih ötiti boûanstveni vetar.
+{59268}{59354}Ali mi pred nama vidimo|naöe pale prijatelje...
+{59885}{59918}Zdravo, kapetane.
+{60476}{60550}PoruËnici Rafe McCawley, Daniel Walker?|-Majore.
+{60576}{60633}Obojica idete na kopno.|Letite za 2 sata.
+{60636}{60706}Zbog Ëega, gospodine?|-Pitajte puk. Doolittlea.
+{60798}{60827}Da, gospodine.
+{61211}{61260}Spremaö se.
+{61314}{61342}Naredbe.
+{61370}{61411}Kakve naredbe?
+{61445}{61496}Najtajnije.
+{61499}{61565}Opasne.
+{61598}{61633}Ne mogu naÊi Dannyja.
+{61636}{61724}Zato si tu?|Traûiö Dannyja?
+{61759}{61841}Verovatno se pozdravlja sa svojom|eskadrilom. Dodeljeni smo Doolittleu.
+{62055}{62104}Nisam traûila Dannyja.
+{62220}{62296}Nisam mogla da te pustim a|da ti ne objasnim neöto.
+{62433}{62488}Ne moraö mi niöta objaönjavati.
+{62491}{62565}Moram. Ponaöaö se kao|da te nisam volela.
+{62598}{62672}Evelyn, ljubav prema|tebi odrûala me ûivim.
+{62945}{62998}Trebalo je da umrem tamo.
+{63001}{63077}U onoj vodi sam se|dogovorio s Bogom.
+{63127}{63172}Rekao sam mu da mi je ûao.
+{63175}{63235}Da znam da sam budala|öto sam te ostavio...
+{63238}{63289}i öto sam otiöao|tamo da postanem junak.
+{63318}{63367}I obeÊao sam da viöe|nikad niöta neÊu traûiti...
+{63417}{63466}ako te joö samo jednom vidim.
+{63556}{63595}I znaö öta?
+{63628}{63663}Vredelo je.
+{63719}{63791}Odrûala si me ûivim, Evelyn.|Dovela si me kuÊi.
+{63827}{63878}I zato Êu odrûati|moj deo dogovora.
+{63880}{63964}OtiÊi Êu i neÊu|ti niöta traûiti.
+{63998}{64041}Ali zanima me samo zaöto.
+{64044}{64118}Samo mi to reci.|Zaöto?
+{64160}{64209}Rafe, trudna sam.
+{64430}{64463}Boûe.
+{64551}{64623}Nisam ni znala do|dana kad si se pojavio.
+{64671}{64720}I onda se sve ovo dogodilo.
+{64758}{64832}Nisam rekla Dannyju.
+{64835}{64882}Ne ûelim da zna.
+{64885}{64984}Sad mora misliti samo na|zadatak i preûivljavanje.
+{65075}{65229}Sve öto sam htela je da|imamo dom i zajedno ostarimo...
+{65231}{65295}ali ûivot me nikad|nije pitao öta hoÊu.
+{65297}{65361}DaÊu Dannyju Ëitavo srce.
+{65427}{65524}Ali ne verujem da Êu ikad gledati|zalazak sunca ne misleÊi na tebe.
+{65617}{65666}VoleÊu te Ëitav ûivot.
+{66569}{66616}Vidimo se u avionu.
+{67038}{67102}Znaö, jedino öto me plaöi...
+{67141}{67198}jeste da Êeö voleti|njega viöe nego mene.
+{67268}{67297}Volim te, Danny.
+{67373}{67441}I ËekaÊu te|dok se ne vratiö.
+{67876}{67906}Sledite me.
+{67994}{68029}PukovniËe.
+{68129}{68205}»estitamo na unapreenju.|-»uo sam öta ste uËinili.
+{68208}{68298}Moûemo objasniti, gospodine.|-Objasniti öta?
+{68301}{68342}äta god ste Ëuli.
+{68344}{68408}Mislite na havajske koöulje|u kojima ste leteli?
+{68543}{68619}Ili 7 aviona koje ste sruöili?
+{68675}{68726}Obojici se dodeljuje|orden Srebrne zvezde.
+{68756}{68797}I unapreeni ste u Ëin kapetana.
+{68844}{68891}Je li to dobra vest,|gospodine ili...
+{68894}{68976}Jedini ste piloti u vojsci|s borbenim iskustvom.
+{69003}{69083}Trebate mi za misiju|koju moram osmisliti.
+{69119}{69203}Znate li öta je najveÊa tajnost?|-Da, gospodine.
+{69205}{69264}Misija za koju|dobijete medalju...
+{69267}{69314}ali je poöalju vaöoj porodici.
+{69317}{69430}UveûbavaÊete se za neöto|öto nikad nije uËinjeno.
+{69433}{69511}I iÊi Êete bez|znanja kuda idete.
+{69513}{69573}RadiÊete na toj|osnovi ili nikako.
+{69603}{69633}Ja Êu iÊi, gospodine.
+{69659}{69700}I ja.
+{69744}{69832}Usput, McCawley,|Englezi su poslali tvoje stvari.
+{69834}{69916}Hvala.|-Mogu vam reÊi joö samo jedno.
+{69918}{69988}Ostavite svoje proklete|havajske koöulje kod kuÊe.
+{70059}{70160}Dragi Rafe, Ëudno je|biti ovako daleko od tebe.
+{70163}{70250}Ali ovo treba da znaö.|Svako veËe...
+{70476}{70529}Traûio sam te.
+{70560}{70690}Danny, ovo nije vreme|da se neke stvari preÊute.
+{70718}{70765}Moramo se suoËiti|sa Ëinjenicama.
+{70768}{70869}»injenica je da obojica|volimo istu ûenu.
+{71027}{71099}Ona je prva djevojka prema|kojoj gajim takve oseÊaje.
+{71181}{71253}Nisam mogao niöta|protiv toga, kao ni ti.
+{71343}{71396}Ali ovo je drugaËije, Danny.
+{71398}{71447}Evelyn je veÊ jednom izgubila|Ëoveka koga je volela.
+{71450}{71489}NeÊu da joj se to opet dogodi.
+{71491}{71565}Ljudi poput nas nemaju izbora.|Ovo je rat.
+{71568}{71609}Ona to zna.
+{71611}{71699}Danny, nemoj ovo uËiniti.|Nemoj iÊi na ovu misiju.
+{71733}{71774}Nemaö öta dokazati.
+{71815}{71862}ätitiö me otkad smo bili deca.
+{71901}{71990}To ti je potrebno s|vremena na vreme.
+{72167}{72258}3. marta 1942.g.
+{72458}{72548}Misija za koju traûim|dobrovoljce je opasna.
+{72577}{72634}Pogledajte Ëoveka do vas.
+{72637}{72742}Moûete se kladiti da|Êete u iduÊih 6 nedelja...
+{72745}{72825}vi ili on biti mrtvi.
+{72883}{72939}Svi dovoljno hrabri|da to prihvate...
+{72983}{73013}neka istupe.
+{73224}{73316}I vaöa baka bi mogla uzleteti|s B-25 na 1600 m piste.
+{73319}{73409}Ja Êu vas uveûbati da|to uËinite u 142.3 metra.
+{73437}{73570}Jer ste na 142.6 metara mrtvi.
+{73573}{73657}A jednom kada uzletite,|leteÊete kao lovci.
+{73660}{73726}9 metara od zemlje.
+{73728}{73802}Ovo je por.Jack Richards|iz mornariËkog vazduhoplovstva.
+{73805}{73859}On Êe nam pomoÊi da|olaköamo ove debeljuce.
+{73884}{73968}Baci tu kantu za smeÊe.|Reöi se niöana za bombe.
+{73971}{74035}PukovniËe, on je lud.|-Sluöaj ga.
+{74037}{74106}Dama je debela.|Mi hoÊemo mröavu damu.
+{74232}{74254}Maksimalna snaga.
+{74341}{74370}Diûi se, diûi se!
+{74391}{74425}Prokletstvo!|-Kako, do vraga...
+{74428}{74460}Prokletstvo!
+{74649}{74691}Stalno prolaze tu liniju.
+{74694}{74743}Moûda je misija loöa zamisao.|-Ne, preteöki su.
+{74746}{74791}Moramo postati|drastiËni s avionima.
+{74794}{74831}Oklopljena oplata mora otiÊi.
+{74834}{74900}Siguran sam.|Skini je kao suknju, sine.
+{74902}{74956}Otpusti koËnice.
+{74989}{75023}Hajde, hajde!
+{75087}{75162}Postavi svakog Ëoveka na liniju!
+{75226}{75275}Pokaûimo deËacima|kako se to radi.
+{75325}{75370}Hajde! Maksimalna snaga!
+{75491}{75572}Ako on to moûe...
+{75734}{75806}2. aprila 1942.g.|NosaË aviona Hornet
+{75960}{76049}Gospodo, sad vam mogu reÊi|da idemo na Tokio.
+{76091}{76156}I bombardovaÊemo ga.
+{76272}{76379}To je specijalan zahtev|predsednika Roosevelta.
+{76381}{76453}Mornarica Êe nas dovesti na|640 km od japanske obale...
+{76456}{76528}i tamo Êemo poleteti s nosaËa.|-Da li je to ikad pre napravljeno?
+{76530}{76590}Izvröeno poletanje|bombarderima sa nosaËa aviona?
+{76593}{76667}Ne.|-Dobro.
+{76670}{76729}Ima li joö pitanja?
+{76732}{76816}Zar je moguÊe sleteti s B-25|na pistu nosaËa aviona?
+{76818}{76867}To je nebitno.
+{76870}{76940}»im uzletimo|nosaË se vraÊa na Havaje.
+{76943}{76996}Ali gde Êemo sleteti?
+{76998}{77066}Upamtite ovu frazu:
+{77106}{77176}Woh-shoh ee-gah|May-Goh-Ran.
+{77178}{77235}To znaËi, Ja sam Amerikanac.
+{77274}{77313}Na kineskom.
+{77343}{77444}NeÊe biti lako.|Metar je kraÊa od naöe piste...
+{77446}{77493}Momci.|-Gospodine.
+{77597}{77702}Ministar mornarice dao mi je ovo.|-äta je to?
+{77704}{77788}Medalje prijateljstva koje su nam Japanci|darovali kad su se pretvarali da hoÊe mir.
+{77791}{77885}I öta hoÊe da uËinite s njima?|-VezaÊemo ih za bombe i vratiti ih.
+{77989}{78064}äta se dogaa?|-Gospodine, imamo samo 16 aviona.
+{78066}{78095}Pa?
+{78098}{78164}Kad su nas Japanci napali,|imali su ih preko 300.
+{78166}{78230}äta moûemo postiÊi?
+{78232}{78275}Nije da se bojimo.
+{78278}{78358}Ali moûemo poginuti|pa ûelimo znati zaöto.
+{78435}{78512}U Pearlu su nas udarili maljem.
+{78558}{78635}Ovaj napad,|Ëak ako se i probijemo...
+{78637}{78700}biÊe samo ubod igle.
+{78703}{78750}Ali iÊi Êe im ravno kroz srce.
+{78785}{78860}Pobeda pripada onima koji|najviöe veruju u nju.
+{78862}{78906}I najduûe.
+{78955}{79060}Mi Êemo verovati. I nateraÊemo|Ameriku da poveruje.
+{79062}{79112}PukovniËe! Trebate mi.
+{79181}{79240}Oprostite, majore Jackson.|-Da.
+{79243}{79268}SeÊate li me se?
+{79303}{79400}Svakako. Oprostite.|Mislio sam da vam zahvalim.
+{79402}{79443}Moûda moûete.
+{79446}{79530}Kada pristignu vesti o|momcima iz Doolittleove grupe...
+{79533}{79657}ûelim da budem u komandnom centru.|-Oprostite, ne znam o Ëemu govorite.
+{79704}{79753}Kako znate za ovu misiju, poruËnice?
+{79781}{79830}Nazovimo to|nenamernim otkrivanjem.
+{79832}{79887}Neki pilot s kojim|izlazite se izlajao.
+{79929}{79968}Zapravo se radi o 2 pilota.
+{79989}{80045}Znam da odlaze|u veliku opasnost.
+{80048}{80130}Samo hoÊu biti tamo kad dou|vesti o njihovoj sudbini.
+{80241}{80291}VeÊina oficira bi vas|bacila u vojni zatvor.
+{80294}{80337}VeÊina bolniËarki bi|se posvetila drugima...
+{80339}{80393}a ne bi prstima|zatvarale vaöu arteriju.
+{80531}{80578}Ne mogu vam niöta obeÊati.
+{80733}{80862}Red, misliö da su nas odabrali|jer smo mladi i glupi?
+{80908}{80955}Daj, Gooze.|Mi smo oötrica maËa.
+{81066}{81141}OVO JE ZA BETTY
+{81366}{81479}U Ëast naöem putovanju u Japan|kupio sam nam pobedniËke cigare!
+{81481}{81549}Da, pobedniËke cigare.
+{81551}{81602}Stavi je u dûep pored srca.
+{81604}{81713}Znaö, Jack, moûda izgubimo|ovu bitku, ali dobiÊemo rat.
+{81716}{81785}Znaö kako znam?|-Ne.
+{81822}{81844}Zbog njih.
+{81876}{81929}Jer su retki.
+{81931}{82003}A u ovakvim vremenima ih vidiö...
+{82043}{82071}kako istupaju.
+{82116}{82197}Ne postoji niöta jaËe|od srca dobrovoljca.
+{82330}{82416}Ministarstvo obrane ne|ûeli da ja vodim ovaj napad.
+{82419}{82491}Kaûu da sam previöe dragocen.
+{82494}{82593}Ne ûele da letim s|ljudima koje sam odabrao...
+{82595}{82677}na koje sam vikao, psovao,|gurao ih do granica...
+{82748}{82795}I koje poötujem.
+{82851}{82916}éele da vas ispratim s palube.
+{82919}{82968}Ja ne gledam tako na to.
+{83010}{83057}Zato idem s vama.
+{83134}{83254}PoleteÊemo sutra popodne,|izbaciti teret i uputiti se prema Kini.
+{83257}{83362}Cilj su nam vojne|mete i fabrike oruûja.
+{83364}{83389}PukovniËe!
+{83391}{83503}Dali ste nam smer, ali Kina|je prepuna japanskih vojnika.
+{83506}{83553}äta Êemo ako navigacioni|ureaji budu iskljuËeni?
+{83556}{83630}Spustite se kako god moûete i|nastojte izbeÊi zarobljavanje.
+{83633}{83705}äta ako nam je avion oöteÊen|i moramo iskoËiti nad Japanom?
+{83707}{83812}U toj situaciji vam ne|mogu reÊi öta da radite.
+{83814}{83859}äta biste vi uËinili, pukovniËe?
+{83934}{83987}Nisam stvoren za zarobljenika.
+{84026}{84106}Naredio bih posadi da iskoËi...
+{84109}{84180}naöao najslau|moguÊu vojnu metu...
+{84183}{84250}uleteo pravo u sredinu...
+{84253}{84320}i pokokao te ubradi|koliko god uspem.
+{84396}{84442}Ali to sam ja.
+{84506}{84553}45 mi je godina, star sam.
+{84556}{84638}Vi imate ûivote pred sobom.
+{84640}{84687}Odluka je na vama.
+{84863}{84914}PoleteÊe za nekoliko sati.
+{84917}{84992}18. aprila 1942. g.|-OstaÊete ovde.
+{85071}{85156}Ostanite tu. Nemojte priËati s njima,|neÊe ni one sa vama.
+{85158}{85221}Pretvarajte se da piöete|informacije koje vam dajemo.
+{85269}{85362}Ovdje Sirotica Annie,|radio Tokio.
+{85365}{85425}Za sve momke u|juûnom Pacifiku.
+{85428}{85525}»uvajte se. Neprijatelj Êe vas dohvatiti.|-Moûda ima pravo.
+{85621}{85684}Japanci emituju!
+{85729}{85803}Kapetane, radar javlja da|su japanski brodovi na 365 m!
+{85805}{85856}Koliko metara?|-365 i pribliûavaju se.
+{85859}{85931}Richardse,Japanci na 365 m.|Idemo!
+{85934}{86000}Admiral Halsey nareuje|krstaricama da otvore vatru!
+{86002}{86069}Moramo ih potopiti pre|nego öto odaju naö poloûaj.
+{86071}{86102}Oglasite opötu uzbunu!
+{86189}{86220}Boûe moj!
+{86248}{86285}Ovo ne moûe biti dobro.
+{86288}{86341}Svi na svoje|borbene poloûaje.
+{86438}{86508}Japanci su udaljeni 1600 m.|Dojavili su naö poloûaj!
+{86510}{86582}Trebalo je da poletimo sa udaljenosti|od 640 km. Koliko smo sada daleko?
+{86585}{86621}998 km.
+{86650}{86699}äta mislite da uËinite?
+{86796}{86836}Ne znam.
+{86838}{86892}Ne znam imaju|li dovoljno goriva do Kine.
+{86915}{86966}Sada. PoleteÊemo sada.
+{87003}{87056}Vojni piloti u avione.
+{87058}{87105}Piloti u avione.
+{87169}{87221}Gaaju neöto.
+{87551}{87602}Predaleko smo.
+{87605}{87697}Treba im viöe goriva,|a onda su preteöki.
+{87700}{87770}Skini sve nepotrebno s aviona.|Odmah!
+{87812}{87863}PoËinjem proveru pred let!|Idemo!
+{87865}{87973}Joö 10 kanistera|goriva za svaki avion!
+{88091}{88130}Momci, penjite se!
+{88133}{88178}Reöite se kofera!
+{88180}{88221}Koji ti je omiljeni mitraljez?|-äta?
+{88223}{88291}Ako imaö nameru da poletiö,|daÊeö mi jedan od tih mitraljeza!
+{88292}{88330}Joö uvek je preteûak!
+{88363}{88435}Ti! Idi u kutiju po metle.
+{88437}{88484}Odreûi ih, oboji u crno.
+{88487}{88536}StaviÊeö dröku metle|na mesto tog mitraljeza.
+{88539}{88603}äta radite mom avionu?|-S avionom Êe sve biti u redu.
+{88605}{88673}Reci posadi da se ispiöaju|pre poletanja.
+{88750}{88821}Imamo dröke za metle|umesto straûnjih mitraljeza.
+{88823}{88880}Moûda Êemo ih zaplaöiti.
+{88883}{88957}»uvaj se gore.|-HoÊu.
+{88960}{89032}Budi paûljiv, Ëujeö?
+{89034}{89098}HoÊu.|Vidimo se, Rafe.
+{89101}{89138}Rafe! Mi smo oötrica maËa!
+{89287}{89363}UkljuËen broj 1.|-UkljuËen broj 2.
+{89519}{89558}Jesi li spreman za ovo?
+{89607}{89675}Kompresori nisko i zakoËeni.|-Kompresori nisko i zakoËeni.
+{89678}{89750}Idemo uz vetar.|-PoveÊaj brzinu!
+{90035}{90103}Nervozan si?|-Ne...Jesam.
+{90106}{90147}Kad si otkrio veru?
+{90150}{90208}Kad ste mi dodelili ovu misiju.
+{90211}{90264}UËini mi uslugu.|-Koju, pukovniËe?
+{90267}{90325}Moli se za obojicu.|-Mora biti kako treba!
+{90328}{90361}Idemo!
+{90571}{90621}Maksimalna snaga!
+{90750}{90806}Hajde!
+{91060}{91089}Tako treba!
+{91134}{91192}Isuse, to je bilo kratko.
+{91291}{91338}Puna snaga, puna snaga! Idemo!
+{91704}{91753}Idemo, idemo!
+{92041}{92066}Uspeli smo!
+{92504}{92609}Berlin, Rim i Tokio opisuju nas...
+{92611}{92681}kao naciju slabiÊa i playboja...
+{92684}{92832}koja unajmljuje Britance, Ruse|ili Kineze za svoje borbe.
+{92835}{92903}Neka to sad ponove.
+{92905}{92989}Neka to kaûu gen. MacArthuru|i njegovim ljudima.
+{92991}{93173}Neka to kaûu vojnicima koji se|danas bore u vodama Pacifika.
+{93176}{93275}Neka to kaûu momcima|u leteÊim tvravama.
+{93278}{93346}Neka to kaûu marincima.
+{93382}{93417}Japan je ispred nas, momci.
+{93419}{93488}Pribliûite formaciju.|Naoruûajte topove!
+{93525}{93609}U neprijateljskom dvoriötu smo.
+{93611}{93664}éivnite malo.|Vidim obalu.
+{93834}{93873}Otvorite oËi, momci!
+{93990}{94083}Naoruûajte topove pozadi!|-Napet sam i zakoËen!
+{94086}{94119}Spremite se, puöaËi.
+{94314}{94351}Pribliûavamo se metama.
+{94354}{94420}Otvorite vrata za bombe.
+{94423}{94476}Ripley, imaö metu u niöanu?
+{94514}{94557}37 stepeni.|Meta u niöanu.
+{94777}{94830}U redu, momci,|zatresimo im gaÊe!
+{94833}{94858}Bacite teret.
+{94861}{94929}Bacaj bombe!|-Prva izbaËena!
+{94931}{95024}Bacaj bombe!|-Druga izbaËena!
+{95240}{95279}TreÊa izbaËena!|»etvrta izbaËena!
+{95390}{95458}Iznenadili smo ih.|-Izbacili smo se!
+{95461}{95558}Bombe baËene.|-Samo fabrike.
+{95689}{95732}Pogodili smo!
+{95734}{95783}Pogodili smo mete,|dobar posao.
+{96217}{96260}Svuda flakovi!
+{96314}{96392}äta je, Gooze?|-HoÊu da se razdvojite!
+{96394}{96473}OËisti to.|Pokuöaj to da oËistiö.
+{96780}{96866}Moramo da pokuöamo da se|izvuËemo iz ovog sranja, Gooze!
+{96917}{96998}Imamo poûar!
+{97055}{97127}Gasim ga!
+{97129}{97191}Diûi se pod oblake,|Danny! Odmah!
+{97534}{97564}Prokletstvo!
+{97596}{97630}Rede, proveri.|-Da.
+{97771}{97839}Papre nas!|-Samo se nadaj da ne pogode propeler.
+{97967}{98026}Pogoen sam!|-RazvaliÊe ovaj avion.
+{98069}{98116}Moramo poveÊati visinu.|240 metara.
+{98221}{98312}Mislim da je Theo mrtav!|Theo, probudi se!
+{98355}{98421}Penji se u oblake, Danny!
+{98423}{98475}IzvuÊi Êemo se iz ovoga, Gooz.|Hajdemo!
+{98788}{98818}Hvala, George.
+{98942}{98975}äta je, generale?
+{98977}{99090}Puk. Doolitle morao je|pomeriti izvröenje za 12 h.
+{99092}{99129}NeÊe biti signala navoenja.
+{99132}{99196}Avion koji ih je nosio|sruöio se na putu za Kinu.
+{99198}{99278}A naöi bombarderi moûda|ionako imaju premalo goriva.
+{99280}{99398}ZnaËi, naöi momci lete|naslepo s praznim tankovima.
+{99459}{99518}Neka im Bog pomogne.
+{99694}{99748}Joö uvek nema signala.
+{99771}{99867}Samo okean. Bez kopna.|Ne navodi nas niöta.
+{99917}{99974}Koliko kanistera goriva nam je ostalo?
+{99977}{100041}Ovi su prazni!
+{100042}{100130}To je sve öto imaö?|-To je sve, Rede!
+{100133}{100230}Rafe, radije se pomoli za kopno!
+{100326}{100359}Prekini radio tiöinu.
+{100402}{100469}éao mi je, gospodo.
+{100471}{100515}Svi ste hrabre duöe.
+{100517}{100594}Meu najhrabrijima s kojima|sam imao Ëast leteti.
+{100619}{100691}Ali prepuöteni smo sami sebi.
+{100781}{100853}Ovo je stvarno bila|samoubilaËka misija.
+{101213}{101273}Motor broj 1 osciluje.|IzgubiÊemo ga svakog trenutka.
+{101337}{101399}Punim ga. Kako je sad?
+{101502}{101566}Vidim obalu.|Vidim obalu!
+{101592}{101631}Razumeo, Rafe.
+{101634}{101673}UspeÊemo.|-Da.
+{101676}{101721}Danny, sledi me.
+{101723}{101787}UspeÊemo. Vidim obalu.
+{101790}{101854}Sledimo te, Rafe.|Moramo naÊi mesto za sletanje.
+{101856}{101895}PoveÊavam snagu dvojci.
+{101898}{101951}Momci, biÊe grubo sletanje.|Drûite se.
+{101953}{102025}Vidim polja pirinËa.|Tu Êemo sleteti.
+{102088}{102131}Prvi motor je mrtav.
+{102134}{102188}Svakog trenutka moûemo|izgubiti i dvojku.
+{102275}{102346}Moûemo sleteti.|Polako.
+{102348}{102402}Smanji brzinu, dojedriÊemo.
+{102460}{102540}Japanci! Svuda su|japanske patrole!
+{102542}{102604}Danny, sleti negde drugde!
+{102607}{102663}Veûite se, momci!
+{102666}{102742}Motori su mrtvi.|-Izlazi iz nosa!
+{102773}{102853}Drûite se, momci!|Padamo!
+{102881}{102912}Pazi na drveÊe!
+{103487}{103528}Jesu li svi dobro?
+{103563}{103637}Ja sam dobro!
+{103639}{103697}Gdje je Ripley?
+{103700}{103756}Mrtav je.
+{103759}{103802}Pazite na Japance.
+{104017}{104075}Japanske patrole!|U zaklon!
+{104494}{104542}Ko ima rezervne okvire?|-Ja ih imam!
+{104544}{104619}Moramo doÊi do onih|brda i pronaÊi Kineze.
+{104731}{104774}Prikovali su nas!
+{105037}{105113}Danny!|-Rafe! Ne!
+{105269}{105323}Boûe! Danny!
+{105438}{105512}Gooz!|-Jesi li dobro, ËoveËe?
+{105548}{105584}Sranje. Anthony.
+{105628}{105702}Gooz, Ëujeö li me?|-Da.
+{105764}{105836}Polako.|-Doûiveo sam i bolja sletanja.
+{105838}{105910}Spasio si nas.|-Neöto mi je u vratu.
+{105913}{105962}PokuöaÊu da izvuËem to.|-Gdje je Gooz?
+{105964}{106034}Dobro je. Tamo je.
+{107914}{107936}Granata!
+{108388}{108437}Drûi se.
+{108439}{108540}Izdrûi joö malo.|Dobro si.
+{108542}{108600}NeÊu se izvuÊi, Rafe.
+{108698}{108769}HoÊeö.|HoÊeö. Pogledaj me.
+{108811}{108881}Rafe, hladno mi je.
+{108908}{108955}Dobro si.
+{109125}{109193}Rafe? HoÊeö li mi uËiniti uslugu?|-Koju?
+{109196}{109289}Neka neto drugi napiöe moje|ime na nadgrobnom kamenu.
+{109292}{109358}NeÊeö umreti.|Pogledaj me!
+{109360}{109419}NeÊeö umreti, Ëujeö li?
+{109461}{109519}Ne smeö umreti.
+{109521}{109586}Znaö zaöto?|Jer Êeö postati otac.
+{109617}{109693}PostaÊeö tata.|Nisam smeo da ti kaûem.
+{109746}{109793}BiÊeö otac.
+{109850}{109887}Molim te.
+{109989}{110026}Ne, ti Êeö.
+{110448}{110532}Molim te! Molim te!
+{110967}{111044}Ne pucajte.|To su Kinezi.
+{112986}{113048}Kada se akcija zavröi i mi|pogledamo unazad...
+{113069}{113136}razumemo i viöe i manje.
+{113138}{113194}Ali jedno je sigurno:
+{113196}{113294}pre Doolittleovog napada,|Amerika je znala samo za poraz.
+{113296}{113381}Nakon njega rodila|se i nada u pobedu.
+{113384}{113489}Japan je prvi put shvatio da bi mogao|izgubiti i poËeo se povlaËiti.
+{113491}{113582}Amerika je shvatila da Êe pobediti|i krenula je napred.
+{113585}{113698}Bio je to rat koji je|promenio Ameriku i svet.
+{113700}{113796}Dorie Miller bio je prvi crni Amerikanac|kojem je dodeljen mornariËki krst.
+{113798}{113902}Ali nije bio poslednji.|Pridruûio se bratstvu junaka.
+{114073}{114140}To je za sve NapadaËe.
+{114354}{114447}II. svetski rat za nas|je poËeo s Pearl Harborom.
+{114450}{114567}1177 ljudi joö uvek|leûi u bojnom brodu Arizoni.
+{114600}{114641}Amerika je propatila.
+{114642}{114709}Ali Amerika je i ojaËala.
+{114711}{114760}To nije bilo neizbeûno.
+{114763}{114831}Vremena su nam|stavila duöe na iskuöenje.
+{114833}{114915}I kroz iskuöenje|smo pobedili.
+{115403}{115483}Danny, da li bi li voleo da letiö?
+{115525}{115572}Doi ovamo.
+{116310}{116458}Obrada by Afrocuban
+{116458}{116542}Reûija:
+{116563}{116644}Scenario:
+{117442}{117527}Muzika:
+{117546}{117623}Uloge:
+{117648}{119148}-== [ www.OpenSubtitles.org ] ==-

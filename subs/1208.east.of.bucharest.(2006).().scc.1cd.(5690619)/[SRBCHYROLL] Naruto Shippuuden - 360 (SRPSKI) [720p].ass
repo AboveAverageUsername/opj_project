@@ -1,0 +1,322 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: PV,Baar Sophia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Baar Sophia,32,&H00FFFFFF,&H00FFFFFF,&H00020203,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,40,40,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.78,0:00:03.58,PV,,0,0,0,,Obrada i Prevod: SRBCHYROLL
+Dialogue: 0,0:01:30.42,0:01:34.67,Default,,0,0,0,,{\i1}Vođa Džonina{\i0}
+Dialogue: 0,0:01:38.79,0:01:40.54,Default,,0,0,0,,Hej Kakaši!
+Dialogue: 0,0:01:41.04,0:01:43.08,Default,,0,0,0,,Pridruži nam se na slatkim knedlama!
+Dialogue: 0,0:01:49.17,0:01:51.17,Default,,0,0,0,,{\i1}Ja? Vođa Džonina{\i1}\N{\i1}zadužen za genine?{\i1\i0\i0\i0\i0}
+Dialogue: 0,0:01:55.92,0:01:56.92,Default,,0,0,0,,{\i1}Učitelju Minato…{\i1\i0\i0\i0\i0}
+Dialogue: 0,0:01:58.00,0:01:59.29,Default,,0,0,0,,Kasniš, Obito!
+Dialogue: 0,0:02:00.21,0:02:03.08,Default,,0,0,0,,Konačno si došao…\NTi mora da si Obito.
+Dialogue: 0,0:02:03.08,0:02:04.21,Default,,0,0,0,,Čekali smo te.
+Dialogue: 0,0:02:05.71,0:02:06.63,Default,,0,0,0,,Jedva…
+Dialogue: 0,0:02:06.67,0:02:08.04,Default,,0,0,0,,Poprilično kasniš.
+Dialogue: 0,0:02:08.54,0:02:12.33,Default,,0,0,0,,Već smo se pretstavili.\NTi si jedini preostao!
+Dialogue: 0,0:02:14.17,0:02:16.04,Default,,0,0,0,,Ja sam onaj koji će postati Hokage!
+Dialogue: 0,0:02:16.33,0:02:17.92,Default,,0,0,0,,Moje ime je Obito Učiha!
+Dialogue: 0,0:02:17.96,0:02:20.38,Default,,0,0,0,,Za moje veliko kameno \Nlice kada budem Hokage,
+Dialogue: 0,0:02:20.42,0:02:25.17,Default,,0,0,0,,uverite se da moj zaštitni znak \Ni naočare budu lepo isklesani!
+Dialogue: 0,0:02:26.17,0:02:29.21,Default,,0,0,0,,I to tako da mogu blještati \Npreko svih susednih zemalja!
+Dialogue: 0,0:02:31.17,0:02:34.08,Default,,0,0,0,,Uteraću strah u kosti neprijateljima sa mojim \Nneustrašivim Šaringan pogledom...
+Dialogue: 0,0:02:34.13,0:02:37.08,Default,,0,0,0,,i niko se neće usuditi \Nda napadne naše selo!
+Dialogue: 0,0:02:37.13,0:02:39.08,Default,,0,0,0,,Davaj sve te instrukcije tek onog\Ntrenutka kada postaneš Hokage
+Dialogue: 0,0:02:39.13,0:02:41.25,Default,,0,0,0,,i aktiviraš svoj Šaringan.
+Dialogue: 0,0:02:41.71,0:02:44.25,Default,,0,0,0,,Osim toga, kako bi ti mogli urezati \Nšaringan uopšte kada nosiš naočare?
+Dialogue: 0,0:02:44.46,0:02:47.00,Default,,0,0,0,,Mogu da ga uklešu preko mojih naočara!
+Dialogue: 0,0:02:47.50,0:02:50.17,Default,,0,0,0,,Onda bi izgledalo kao da \Nti oči ispadaju napolje.
+Dialogue: 0,0:02:53.04,0:02:58.00,Default,,0,0,0,,Mada kako god… Srećan sam da čujem da \Nneko u ovom timu deli iste snove kao i ja.
+Dialogue: 0,0:02:58.13,0:03:00.42,Default,,0,0,0,,Ja sam Minato.\NOd danas, ja ću biti tvoj trener.
+Dialogue: 0,0:03:00.46,0:03:01.29,Default,,0,0,0,,Drago mi je da sam te upoznao.
+Dialogue: 0,0:03:01.33,0:03:02.08,Default,,0,0,0,,Tako je!
+Dialogue: 0,0:03:04.46,0:03:07.17,Default,,0,0,0,,U redu, hajde da se bacimo \Nna naš prvi zajednički trening.
+Dialogue: 0,0:03:07.92,0:03:09.00,Default,,0,0,0,,J-Jasno!
+Dialogue: 0,0:03:09.54,0:03:12.83,Default,,0,0,0,,Na današnjem treningu, \Nželim da vidim vaš timski rad.
+Dialogue: 0,0:03:15.67,0:03:17.00,Default,,0,0,0,,Timski rad?
+Dialogue: 0,0:03:17.58,0:03:21.04,Default,,0,0,0,,Oduzmite mi ova dva zvončića, \Ni vežba će se završiti.
+Dialogue: 0,0:03:21.92,0:03:22.83,Default,,0,0,0,,Prosto, zar ne?
+Dialogue: 0,0:03:23.38,0:03:25.33,Default,,0,0,0,,Dva zvončića znače…
+Dialogue: 0,0:03:26.58,0:03:27.71,Default,,0,0,0,,Tačno tako.
+Dialogue: 0,0:03:28.71,0:03:30.17,Default,,0,0,0,,Huh? Šta bi to trebalo da znači?
+Dialogue: 0,0:03:35.13,0:03:37.92,Default,,0,0,0,,Neko od nas će biti izbačen iz tima.
+Dialogue: 0,0:03:38.21,0:03:39.00,Default,,0,0,0,,Šta?!
+Dialogue: 0,0:03:39.88,0:03:41.00,Default,,0,0,0,,Dobro zapažanje.
+Dialogue: 0,0:03:41.63,0:03:43.33,Default,,0,0,0,,U redu… Počnimo.
+Dialogue: 0,0:03:46.04,0:03:49.08,Default,,0,0,0,,Ja sam vaš nadređeni, Hatake…
+Dialogue: 0,0:03:49.13,0:03:50.71,Default,,0,0,0,,Kakaši Sensei, je li tako?
+Dialogue: 0,0:03:51.00,0:03:53.25,Default,,0,0,0,,Preskočimo te ne bitne stvari...
+Dialogue: 0,0:03:53.67,0:03:55.08,Default,,0,0,0,,I prosto počnimo već jednom!
+Dialogue: 0,0:03:56.13,0:03:58.25,Default,,0,0,0,,Šta ćeš uraditi…
+Dialogue: 0,0:03:58.29,0:04:00.75,Default,,0,0,0,,imaš 66% šansi da ne uspeš.
+Dialogue: 0,0:04:00.79,0:04:04.96,Default,,0,0,0,,{\i1}Tokom te vežbe,{\i0}\N{\i1}Nisam uopšte ni razmišljao o timskom radu.{\i0}
+Dialogue: 0,0:04:06.96,0:04:10.71,Default,,0,0,0,,{\i1}A Minato Sensei{\i0}\N{\i1}to čak nije ni primetio.{\i0}
+Dialogue: 0,0:04:12.21,0:04:13.46,Default,,0,0,0,,Svi ste prošli!
+Dialogue: 0,0:04:18.63,0:04:21.04,Default,,0,0,0,,Hajde da ojačamo naš timski rad još više!
+Dialogue: 0,0:04:21.17,0:04:22.00,Default,,0,0,0,,– Tako je!\N– Da!
+Dialogue: 0,0:04:29.08,0:04:33.96,Default,,0,0,0,,Drugim rečima, neko od vas će definitivno \Nbiti poslat nazad na Akademiju.
+Dialogue: 0,0:04:35.38,0:04:38.00,Default,,0,0,0,,{\i1}Nije ni čudo što Minato Sensei{\i0}\N{\i1}nije uopšte ni primetio.{\i0}
+Dialogue: 0,0:04:38.46,0:04:42.88,Default,,0,0,0,,{\i1}Pretvarao sam se da sam radim sa timom{\i0}\N{\i1}i samo koristio njih dvoje{\i0}
+Dialogue: 0,0:04:49.67,0:04:52.08,Default,,0,0,0,,{\i1}Znam da nam ostavlja vremena za pauzu…{\i0}
+Dialogue: 0,0:04:52.75,0:04:55.17,Default,,0,0,0,,{\i1}Ali Minato Sensei je isuviše vešt.{\i0}
+Dialogue: 0,0:04:55.58,0:04:57.50,Default,,0,0,0,,{\i1}Nema šanse da ću uspeti sam.{\i0}
+Dialogue: 0,0:04:57.54,0:04:58.33,Default,,0,0,0,,Blizu!
+Dialogue: 0,0:04:59.33,0:05:00.13,Default,,0,0,0,,Vhoa…
+Dialogue: 0,0:05:01.21,0:05:04.17,Default,,0,0,0,,Nikada ih nećete uzeti \Nako tako nastavite.
+Dialogue: 0,0:05:05.21,0:05:06.21,Default,,0,0,0,,{\i1}Znao sam.{\i0}
+Dialogue: 0,0:05:07.04,0:05:10.29,Default,,0,0,0,,{\i1}Minato Sensei pravi{\i0}\N{\i1}naknadu za naše nivoe veštine!{\i0}
+Dialogue: 0,0:05:11.75,0:05:14.08,Default,,0,0,0,,{\i1}U odnosu na to kako se bori{\i0}\N{\i1}protiv Obita and Rin…{\i0}
+Dialogue: 0,0:05:17.50,0:05:21.63,Default,,0,0,0,,{\i1}Sa mnom,{\i0}\N{\i1}ne popušta uopšte.{\i0}
+Dialogue: 0,0:05:23.88,0:05:27.04,Default,,0,0,0,,{\i1}U ovakvom stanju,{\i0}\N{\i1}definitivno neću uzeti zvonce.{\i0}
+Dialogue: 0,0:05:28.21,0:05:30.08,Default,,0,0,0,,{\i1}U cilju da izvršim ovu misiju…{\i0}
+Dialogue: 0,0:05:31.08,0:05:32.58,Default,,0,0,0,,Obito! Rin!
+Dialogue: 0,0:05:35.33,0:05:37.71,Default,,0,0,0,,Prva formacija koju smo \Nnaučili na akademiji!
+Dialogue: 0,0:05:37.88,0:05:38.50,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:38.71,0:05:43.83,Default,,0,0,0,,Sumnjam da bi tako jednostavna formacija \Nuopšte i radila protiv Minata Sensei-a.
+Dialogue: 0,0:05:44.13,0:05:45.13,Default,,0,0,0,,Samo tako uradite!
+Dialogue: 0,0:05:47.04,0:05:48.88,Default,,0,0,0,,Mislim da vredi pokušati.
+Dialogue: 0,0:05:49.17,0:05:51.42,Default,,0,0,0,,Bolje nego ne činiti ništa.
+Dialogue: 0,0:05:52.08,0:05:54.42,Default,,0,0,0,,U redu, ja sam za!
+Dialogue: 0,0:05:59.29,0:06:00.17,Default,,0,0,0,,Idemo!
+Dialogue: 0,0:06:00.38,0:06:01.42,Default,,0,0,0,,– Jeah!\N– Tako je!
+Dialogue: 0,0:06:05.38,0:06:07.92,Default,,0,0,0,,{\i1}Vidim samo jedan način{\i0}\N{\i1}sa Minato Sensei-em.{\i0}
+Dialogue: 0,0:06:09.04,0:06:12.71,Default,,0,0,0,,{\i1}Ako iskoristim ovo dvoje da bih ga uhvatio,{\i0}\N{\i1}imaćemo šansi!{\i0}
+Dialogue: 0,0:06:18.83,0:06:20.54,Default,,0,0,0,,Dobro, počnimo
+Dialogue: 0,0:06:30.04,0:06:32.00,Default,,0,0,0,,{\i1}To nije bio timski rad.{\i0}
+Dialogue: 0,0:06:32.25,0:06:34.96,Default,,0,0,0,,{\i1}Još tada, da je Minato Sensei{\i0}\N{\i1}samo video{\i0}
+Dialogue: 0,0:06:35.00,0:06:38.13,Default,,0,0,0,,{\i1}da je nešto falilo{\i0}\N{\i1}našem timskom radu…{\i0}
+Dialogue: 0,0:06:46.00,0:06:48.17,Default,,0,0,0,,Hvala što si mi dopustio \Nda prvi uzmem zvonce!
+Dialogue: 0,0:06:48.21,0:06:50.75,Default,,0,0,0,,Izgleda da ćeš biti ostavljen!
+Dialogue: 0,0:06:51.08,0:06:52.33,Default,,0,0,0,,{\i1}Ne…{\i0}
+Dialogue: 0,0:06:52.71,0:06:57.33,Default,,0,0,0,,{\i1}To nije bila…Minatova greška!{\i0}
+Dialogue: 0,0:07:01.17,0:07:05.58,Default,,0,0,0,,{\i1}Samo pokušavam da se protivim tome,{\i0}\N{\i1}i da bežim od istine…{\i0}
+Dialogue: 0,0:07:06.96,0:07:08.04,Default,,0,0,0,,{\i1}To je razlog…{\i0}
+Dialogue: 0,0:07:10.13,0:07:12.04,Default,,0,0,0,,{\i1}sa njima…{\i0}
+Dialogue: 0,0:07:13.83,0:07:16.17,Default,,0,0,0,,{\i1}Moram da se uverim da je{\i0}\N{\i1}njihov timski rad solidan.{\i0}
+Dialogue: 0,0:07:19.08,0:07:20.50,Default,,0,0,0,,Tako si nespretan...
+Dialogue: 0,0:07:21.17,0:07:23.13,Default,,0,0,0,,Sramoto jedna.
+Dialogue: 0,0:07:23.58,0:07:26.33,Default,,0,0,0,,Huh?! Govori u svoje ime!
+Dialogue: 0,0:07:26.88,0:07:30.00,Default,,0,0,0,,Prokletstvo… Od sve te sreće…
+Dialogue: 0,0:07:30.00,0:07:33.08,Default,,0,0,0,,Da nesrećno budem ubačen \Nu tim zajedno sa tipovima poput vas.
+Dialogue: 0,0:07:33.08,0:07:34.17,Default,,0,0,0,,Reci to još jednom!
+Dialogue: 0,0:07:36.13,0:07:37.33,Default,,0,0,0,,Ovo je tako smešno.
+Dialogue: 0,0:07:37.67,0:07:39.92,Default,,0,0,0,,Tako ste smešni.
+Dialogue: 0,0:07:42.21,0:07:45.13,Default,,0,0,0,,Mada, imao sam jednu sjajnu ideju.
+Dialogue: 0,0:07:45.38,0:07:49.42,Default,,0,0,0,,Kakva slučajnost. I ja sam.
+Dialogue: 0,0:07:50.42,0:07:51.46,Default,,0,0,0,,I ja isto!
+Dialogue: 0,0:07:51.63,0:07:54.88,Default,,0,0,0,,Ne želimo Senseiu da \Npriuštimo da se smara...
+Dialogue: 0,0:07:54.92,0:07:58.17,Default,,0,0,0,,Slažem se! Tako da…
+Dialogue: 0,0:07:58.21,0:07:59.42,Default,,0,0,0,,– ću ja…\N– odlučiti…
+Dialogue: 0,0:08:00.00,0:08:01.83,Default,,0,0,0,,- …ko ispada!\N- …ko ispada!
+Dialogue: 0,0:08:03.25,0:08:04.33,Default,,0,0,0,,Vi momci.
+Dialogue: 0,0:08:21.21,0:08:22.00,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:22.00,0:08:24.00,Default,,0,0,0,,Svi ste pali!
+Dialogue: 0,0:08:28.71,0:08:31.04,Default,,0,0,0,,Vraćate se nazad na akademiju.
+Dialogue: 0,0:08:34.92,0:08:37.54,Default,,0,0,0,,{\i1}Taj ledeni pogled…{\i0}
+Dialogue: 0,0:08:40.46,0:08:45.58,Default,,0,0,0,,{\i1}To je sama tama…{\i0}\N{\i1}Njegova tama se još nije povukla..{\i0}
+Dialogue: 0,0:08:47.71,0:08:52.67,Default,,0,0,0,,{\i1}Potrebno je još vremena…{\i0}
+Dialogue: 0,0:09:12.58,0:09:15.29,Default,,0,0,0,,Rin… Obito…
+Dialogue: 0,0:09:16.21,0:09:17.13,Default,,0,0,0,,Znam.
+Dialogue: 0,0:09:17.88,0:09:22.17,Default,,0,0,0,,Nemam nameru da ljude učinim \Nšinobi-ima ako ne rade kao tim...
+Dialogue: 0,0:09:25.33,0:09:28.17,Default,,0,0,0,,Bez obzira na to šta ko kaže....
+Dialogue: 0,0:09:34.17,0:09:35.17,Default,,0,0,0,,Dobro onda…
+Dialogue: 0,0:09:35.21,0:09:38.08,Default,,0,0,0,,Pitam se kako će ova godina ispasti…?
+Dialogue: 0,0:09:49.67,0:09:53.08,Default,,0,0,0,,Nastavite ovako i završićete \Nnazad na akademiji!
+Dialogue: 0,0:09:54.88,0:09:56.92,Default,,0,0,0,,Ja sam izvor mladosti u punoj snazi!
+Dialogue: 0,0:09:58.00,0:09:59.33,Default,,0,0,0,,Nije ni čudo što je džonin.
+Dialogue: 0,0:09:59.38,0:10:02.25,Default,,0,0,0,,Izbegava moj tajdžucu sa takvom lakoćom.
+Dialogue: 0,0:10:02.29,0:10:06.46,Default,,0,0,0,,Mislila sam da ćemo po završetku \Nakademije postati genini.
+Dialogue: 0,0:10:06.67,0:10:09.58,Default,,0,0,0,,Neuspeh sada ne dolazi u obzir!
+Dialogue: 0,0:10:12.54,0:10:15.08,Default,,0,0,0,,Žestoki... Uragan Lišća!
+Dialogue: 0,0:10:22.96,0:10:24.13,Default,,0,0,0,,Već se predajete?
+Dialogue: 0,0:10:24.17,0:10:25.25,Default,,0,0,0,,Ja se ne predajem!
+Dialogue: 0,0:10:26.04,0:10:29.46,Default,,0,0,0,,Moj san je da jednog dana postanem \Nsjajan jedinstveni tajdžucu šinobi ratnik!
+Dialogue: 0,0:10:29.79,0:10:33.08,Default,,0,0,0,,Ne mogu... napustiti san!
+Dialogue: 0,0:10:34.29,0:10:35.58,Default,,0,0,0,,To je smešno...
+Dialogue: 0,0:10:36.33,0:10:37.54,Default,,0,0,0,,Ali…
+Dialogue: 0,0:10:37.58,0:10:40.71,Default,,0,0,0,,Ni ja neću tek tako baciti peškir!
+Dialogue: 0,0:10:40.75,0:10:41.50,Default,,0,0,0,,Tako je!
+Dialogue: 0,0:10:42.71,0:10:45.46,Default,,0,0,0,,Tako blizu da postanem kunoići \Nkojem sam se toliko divila!
+Dialogue: 0,0:10:46.54,0:10:48.96,Default,,0,0,0,,Nema govora o tome \Nda ću sve napustiti!
+Dialogue: 0,0:10:51.42,0:10:53.04,Default,,0,0,0,,Tako treba da pričate, društvo!
+Dialogue: 0,0:10:53.75,0:10:56.17,Default,,0,0,0,,Tako mladi trebaju da misle!
+Dialogue: 0,0:10:57.13,0:11:00.50,Default,,0,0,0,,Čak pošto ste istrošili i \Nposlednji atom svoje snage...
+Dialogue: 0,0:11:00.54,0:11:02.29,Default,,0,0,0,,probajte to da prebrodite i gurajte dalje!
+Dialogue: 0,0:11:03.75,0:11:07.29,Default,,0,0,0,,Udarite me svom svojom snagom!
+Dialogue: 0,0:11:14.38,0:11:16.67,Default,,0,0,0,,– Evo nas!\N– Evo nas!
+Dialogue: 0,0:11:22.00,0:11:24.42,Default,,0,0,0,,Vas troje…
+Dialogue: 0,0:11:25.08,0:11:27.83,Default,,0,0,0,,…svi ste položili!
+Dialogue: 0,0:11:28.21,0:11:29.67,Default,,0,0,0,,Tooo! Uspeo sam!
+Dialogue: 0,0:11:30.04,0:11:32.54,Default,,0,0,0,,Uspeo sam!
+Dialogue: 0,0:11:34.50,0:11:37.08,Default,,0,0,0,,N-Ne mogu da dišem…!
+Dialogue: 0,0:11:44.08,0:11:46.58,Default,,0,0,0,,Tako sam srećan što smo svi uspeli!
+Dialogue: 0,0:11:47.13,0:11:50.00,Default,,0,0,0,,Nisam imao nameru da podbacim \Nkada sam već dogurao ovako daleko.
+Dialogue: 0,0:11:50.83,0:11:51.71,Default,,0,0,0,,Ali...
+Dialogue: 0,0:11:52.13,0:11:55.17,Default,,0,0,0,,Hvala bogu da nismo dobili \Nučitelja o kojem su svi pričali.
+Dialogue: 0,0:11:56.38,0:12:01.08,Default,,0,0,0,,Misliš li na tog Džonina koji je poslao to troje \Nnazad na akademiju upravo pre nas?
+Dialogue: 0,0:12:01.88,0:12:02.50,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:12:03.00,0:12:05.17,Default,,0,0,0,,Sreća ne igra nikakvu ulogu \Nkada je reč o pravoj snazi.
+Dialogue: 0,0:12:06.13,0:12:08.79,Default,,0,0,0,,Ti momci prosto nisu bili dovoljno dobri.
+Dialogue: 0,0:12:09.25,0:12:11.13,Default,,0,0,0,,To nije ono šta sam bila čula.
+Dialogue: 0,0:12:11.58,0:12:16.54,Default,,0,0,0,,Bilo je nešto što je čak bilo i važnije \Nod snage šinobia ili tome slično...
+Dialogue: 0,0:12:17.08,0:12:18.50,Default,,0,0,0,,O čemu je reč?
+Dialogue: 0,0:12:19.08,0:12:22.92,Default,,0,0,0,,Da li je neka vrsta tehnike poput \Nsuper-smrtonosnog-jedinstvenog-udarca?
+Dialogue: 0,0:12:23.13,0:12:27.83,Default,,0,0,0,,Šta on misli ko je on kada donosi \Nsvoje sopstvene kriterijume?
+Dialogue: 0,0:12:31.13,0:12:32.08,Default,,0,0,0,,{\i1}Kakaši…{\i0}
+Dialogue: 0,0:12:35.46,0:12:37.71,Default,,0,0,0,,Da li si siguran u vezi ovoga,\Nveliki brate?
+Dialogue: 0,0:12:38.00,0:12:40.67,Default,,0,0,0,,Možda ne bi trebalo \Nda jedemo Bentov ručak...
+Dialogue: 0,0:12:41.46,0:12:45.63,Default,,0,0,0,,Vidite, da li sam ikada bio grešio?
+Dialogue: 0,0:12:56.00,0:12:58.79,Default,,0,0,0,,Ali Kakaši Sensei nije ovde.
+Dialogue: 0,0:12:59.33,0:13:00.46,Default,,0,0,0,,Prestanite da mumlate!
+Dialogue: 0,0:13:00.96,0:13:04.42,Default,,0,0,0,,Vas dvojica, prosto me saslušajte \Ni postupajte po pravilima!
+Dialogue: 0,0:13:08.25,0:13:10.54,Default,,0,0,0,,{\i1}Naravno, u svetu Nindži,{\i0}
+Dialogue: 0,0:13:10.58,0:13:14.75,Default,,0,0,0,,{\i1}onaj ko prekrši pravila i propise{\i0}\N{\i1}se zasigurno smatra šljamom…{\i0}
+Dialogue: 0,0:13:31.71,0:13:37.75,Default,,0,0,0,,{\i1}Ali oni koji napuste svoje prijatelje…{\i0}\N{\i1}su čak i gori od šljama!{\i0}
+Dialogue: 0,0:13:39.17,0:13:41.38,Default,,0,0,0,,{\i1}Obito… Ja…{\i0}
+Dialogue: 0,0:13:45.13,0:13:46.21,Default,,0,0,0,,Kakaši Sensei…!
+Dialogue: 0,0:13:47.38,0:13:51.75,Default,,0,0,0,,Nisam uspeo, ali moja \Nbraća su pratila upustva!
+Dialogue: 0,0:13:52.58,0:13:54.17,Default,,0,0,0,,Vas troje…
+Dialogue: 0,0:13:55.71,0:13:57.88,Default,,0,0,0,,Svako od vas je poslušao moja naređenja.
+Dialogue: 0,0:13:59.21,0:14:00.17,Default,,0,0,0,,Držali ste se pravila.
+Dialogue: 0,0:14:01.00,0:14:05.58,Default,,0,0,0,,Ali niste pratili ono što je \Nnajvažnije za šinobia...
+Dialogue: 0,0:14:06.63,0:14:07.75,Default,,0,0,0,,Šta je to?!
+Dialogue: 0,0:14:07.79,0:14:09.04,Default,,0,0,0,,Ti sedo-kosi…!
+Dialogue: 0,0:14:12.13,0:14:15.21,Default,,0,0,0,,Svi se vraćate nazad na akademiju \Nda bi ste saznali odgovor.
+Dialogue: 0,0:14:22.70,0:14:24.91,Default,,0,0,0,,Došli u takvak položaja \Nda odu na Čunin ispite?
+Dialogue: 0,0:14:25.28,0:14:28.33,Default,,0,0,0,,To je neobično za tebe, Gaj.
+Dialogue: 0,0:14:29.33,0:14:30.24,Default,,0,0,0,,Da…
+Dialogue: 0,0:14:33.53,0:14:35.49,Default,,0,0,0,,Huh? Čunin Ispiti?
+Dialogue: 0,0:14:36.28,0:14:37.24,Default,,0,0,0,,Da.
+Dialogue: 0,0:14:37.41,0:14:40.28,Default,,0,0,0,,Način na koji sistem funkcioniše \Nje da ako završite svih 8 misija...
+Dialogue: 0,0:14:40.33,0:14:42.83,Default,,0,0,0,,kvalifikujete se da učestvujete \Nna Čunin Ispitima.
+Dialogue: 0,0:14:43.33,0:14:47.70,Default,,0,0,0,,U poslednje vreme, još nije bilo novajlila \Nkoji su prisustvovali Čunin Ispitima...
+Dialogue: 0,0:14:48.53,0:14:50.28,Default,,0,0,0,,Žalite li da idete na njih?
+Dialogue: 0,0:14:50.87,0:14:51.70,Default,,0,0,0,,Uh…!
+Dialogue: 0,0:14:53.37,0:14:55.58,Default,,0,0,0,,Huh? Šta nije u redu, Lii?
+Dialogue: 0,0:14:56.24,0:15:02.16,Default,,0,0,0,,Pa… želeo bih da testiram \Nsebe da vidim koliko sam zaista jak...
+Dialogue: 0,0:15:03.28,0:15:04.70,Default,,0,0,0,,Imam tu želju…
+Dialogue: 0,0:15:05.41,0:15:06.37,Default,,0,0,0,,Ali…
+Dialogue: 0,0:15:06.58,0:15:07.91,Default,,0,0,0,,Ali šta?
+Dialogue: 0,0:15:08.49,0:15:11.74,Default,,0,0,0,,Ne zaslužujem još da odem \Nna testova sa ovakvim nivo-om snage.
+Dialogue: 0,0:15:11.78,0:15:13.99,Default,,0,0,0,,Poznajem svoje sposobnosti najbolje!
+Dialogue: 0,0:15:15.79,0:15:17.08,Default,,0,0,0,,Šta je sa tobom, Nedži?
+Dialogue: 0,0:15:19.04,0:15:20.29,Default,,0,0,0,,I ja ne želim da idem...
+Dialogue: 0,0:15:20.92,0:15:21.88,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:21.92,0:15:24.83,Default,,0,0,0,,Nedži, ti bi postao Čunin \Nza vrlo kratko vreme!
+Dialogue: 0,0:15:25.67,0:15:28.21,Default,,0,0,0,,To je upravo razlog zašto ne treba žuriti.
+Dialogue: 0,0:15:28.50,0:15:30.92,Default,,0,0,0,,Dakle tako. A ti, Tenten?
+Dialogue: 0,0:15:31.29,0:15:32.92,Default,,0,0,0,,Onda ni ja neću takođe!
+Dialogue: 0,0:15:33.08,0:15:37.42,Default,,0,0,0,,Hajde da treniramo naporno i odemo \Nna sledeće testiranje zajedno!
+Dialogue: 0,0:15:37.92,0:15:38.79,Default,,0,0,0,,Vi društvo!
+Dialogue: 0,0:15:39.13,0:15:40.67,Default,,0,0,0,,Vi društvo…
+Dialogue: 0,0:15:43.79,0:15:48.46,Default,,0,0,0,,Imati učenike poput vas \Nme čini tako srećnim!
+Dialogue: 0,0:15:50.88,0:15:53.38,Default,,0,0,0,,Knedle! Još jednu turu knedli molim!
+Dialogue: 0,0:15:53.88,0:15:54.96,Default,,0,0,0,,Odmah stižu!
+Dialogue: 0,0:15:55.38,0:15:58.79,Default,,0,0,0,,Ne kapiram…\NAli ovo isuviše liči na tebe.
+Dialogue: 0,0:15:59.29,0:16:04.42,Default,,0,0,0,,Usput,  kako je biti nadležan za nove \Nučenike koji su tek došli sa akademije?
+Dialogue: 0,0:16:04.67,0:16:07.50,Default,,0,0,0,,Tako je. Ovo ti je prvi put.
+Dialogue: 0,0:16:09.13,0:16:10.13,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:16:10.25,0:16:11.46,Default,,0,0,0,,Hej, Kakaši!
+Dialogue: 0,0:16:11.83,0:16:15.21,Default,,0,0,0,,Dođi i pridruži nam se \Nna slatkim knedlama!
+Dialogue: 0,0:16:21.17,0:16:22.63,Default,,0,0,0,,Šta je sa njim?
+Dialogue: 0,0:16:23.46,0:16:26.67,Default,,0,0,0,,Njegove oči su tako hladne kao i uvek…\Nkao da nikada nije napustio ANBU.
+Dialogue: 0,0:16:27.46,0:16:30.17,Default,,0,0,0,,Oborio je sve do jednog ponovo.
+Dialogue: 0,0:16:30.79,0:16:32.63,Default,,0,0,0,,To nije tako strašno.
+Dialogue: 0,0:16:33.17,0:16:38.71,Default,,0,0,0,,Ne, ali tama u Kakašijevom \Nsrcu je problem.
+Dialogue: 0,0:16:39.58,0:16:41.17,Default,,0,0,0,,On je i dalje nosi oko sebe…
+Dialogue: 0,0:16:43.00,0:16:46.21,Default,,0,0,0,,Oni su bili moji drugovi iz razreda.\NI ja sam bila tugovala, ali...
+Dialogue: 0,0:16:47.13,0:16:49.13,Default,,0,0,0,,Morate preći preko toga...
+Dialogue: 0,0:16:50.08,0:16:51.00,Default,,0,0,0,,Znam…
+Dialogue: 0,0:16:53.13,0:16:58.08,Default,,0,0,0,,Znao sam da bi depresivna atmosfera ANBU-a \Nmogla da ga učini više natmurenijim.
+Dialogue: 0,0:16:59.08,0:17:00.04,Default,,0,0,0,,Lorde Treći!
+Dialogue: 0,0:17:00.08,0:17:02.54,Default,,0,0,0,,ANBU nije za nekoga poput Kakašia!
+Dialogue: 0,0:17:03.17,0:17:06.08,Default,,0,0,0,,Znam da nije moja stvar\Nda to kažem, Lorde Treći!
+Dialogue: 0,0:17:07.13,0:17:08.04,Default,,0,0,0,,Ali…
+Dialogue: 0,0:17:08.08,0:17:12.21,Default,,0,0,0,,Izgubili smo isuviše naših prijatelja…!
+Dialogue: 0,0:17:13.33,0:17:17.42,Default,,0,0,0,,Gledajući Kakašia…\NKao da je u nekoj žurbi da umre...
+Dialogue: 0,0:17:18.17,0:17:22.96,Default,,0,0,0,,To je razlog…zašto smo došli sa ovakvom idejom\Nkako bi smo ga postavili na mesto zaduženog za genine.
+Dialogue: 0,0:17:23.58,0:17:27.46,Default,,0,0,0,,Ako ima nešto što će mu dozvoliti da razmisli,\Ngotovo smo sigurni da će se promeniti…
+Dialogue: 0,0:17:28.13,0:17:31.50,Default,,0,0,0,,Hmm… Dakle tako mislite?
+Dialogue: 0,0:17:32.33,0:17:33.13,Default,,0,0,0,,Pa onda…?!
+Dialogue: 0,0:17:35.75,0:17:38.29,Default,,0,0,0,,Možda nismo trebali da se umešamo...
+Dialogue: 0,0:17:39.42,0:17:42.71,Default,,0,0,0,,Svako od nas je mislio da \Nradije umesto da bude ANBU,
+Dialogue: 0,0:17:42.75,0:17:48.75,Default,,0,0,0,,biti u nadležnosti mladim budućim šinobi-ima \Nbi moglo biti više obećavajuće za njega, ali...
+Dialogue: 0,0:17:49.88,0:17:50.50,Default,,0,0,0,,Lorde Treći!
+Dialogue: 0,0:17:50.71,0:17:51.54,Default,,0,0,0,,Lorde Treći?
+Dialogue: 0,0:17:52.92,0:17:53.92,Default,,0,0,0,,Lorde Treći?!
+Dialogue: 0,0:17:55.21,0:17:58.13,Default,,0,0,0,,Na mesto voljno, završi svoj čaj.
+Dialogue: 0,0:17:58.79,0:18:01.17,Default,,0,0,0,,U stvari, i ja ću jednu šolju čaja.
+Dialogue: 0,0:18:07.92,0:18:09.17,Default,,0,0,0,,Vidim…
+Dialogue: 0,0:18:11.75,0:18:13.17,Default,,0,0,0,,Šta je tako smešno?
+Dialogue: 0,0:18:13.21,0:18:16.17,Default,,0,0,0,,Oduvek si nas tretirao \Nkao da smo deca…
+Dialogue: 0,0:18:16.21,0:18:16.92,Default,,0,0,0,,Asuma!
+Dialogue: 0,0:18:17.08,0:18:20.21,Default,,0,0,0,,Oh… Oprostite mi što sam se nasmejao.
+Dialogue: 0,0:18:20.29,0:18:24.21,Default,,0,0,0,,Moram da priznam da sam \Nvas tretirao kao decu.
+Dialogue: 0,0:18:33.54,0:18:34.58,Default,,0,0,0,,{\i1}Minato Sensei…{\i0}
+Dialogue: 0,0:18:35.25,0:18:37.75,Default,,0,0,0,,{\i1}Da li je moj put pogrešan…?{\i0}
+Dialogue: 0,0:18:41.08,0:18:43.21,Default,,0,0,0,,– Kakaši Sensei!\N– Kakaši Sensei!
+Dialogue: 0,0:18:43.42,0:18:44.33,Default,,0,0,0,,D-Da?
+Dialogue: 0,0:18:44.71,0:18:46.46,Default,,0,0,0,,– Dobro jutro, gospodine!\N– Dobro jutro, gospodine!
+Dialogue: 0,0:18:50.21,0:18:51.25,Default,,0,0,0,,Kakaši Sensei!
+Dialogue: 0,0:18:51.58,0:18:55.63,Default,,0,0,0,,Sada smo zaduženi za \Ndisciplinu na akademiji!
+Dialogue: 0,0:18:56.13,0:18:58.83,Default,,0,0,0,,Shvatili smo da sve prvo počinje \Nsa pravilnim pozdravljanjem!
+Dialogue: 0,0:18:59.38,0:19:02.17,Default,,0,0,0,,Taj pozdrav je bio samo početak!
+Dialogue: 0,0:19:02.54,0:19:04.58,Default,,0,0,0,,Nastavite!
+Dialogue: 0,0:19:04.92,0:19:06.33,Default,,0,0,0,,– Jasno!\N– Jasno!
+Dialogue: 0,0:19:06.38,0:19:07.58,Default,,0,0,0,,Molim vas, izvinite nas!
+Dialogue: 0,0:19:08.00,0:19:09.13,Default,,0,0,0,,– Izvinite nas!\N– Izvinite nas!
+Dialogue: 0,0:19:09.71,0:19:11.29,Default,,0,0,0,,– Izvinite nas!\N– Izvinite nas!
+Dialogue: 0,0:19:13.08,0:19:17.13,Default,,0,0,0,,{\i1}Koga je briga za pretstavljanje?{\i0}\N{\i1}Počnimo.{\i0}
+Dialogue: 0,0:19:18.00,0:19:19.58,Default,,0,0,0,,Ovi momci, huh…
+Dialogue: 0,0:19:21.08,0:19:22.04,Default,,0,0,0,,To je Kakaši Sensei!
+Dialogue: 0,0:19:24.58,0:19:25.50,Default,,0,0,0,,To ste vi!
+Dialogue: 0,0:19:30.21,0:19:31.54,Default,,0,0,0,,– Hvala vam puno!\N– Hvala vam puno!
+Dialogue: 0,0:19:32.04,0:19:33.58,Default,,0,0,0,,Š-Šta?!
+Dialogue: 0,0:19:34.17,0:19:38.42,Default,,0,0,0,,Hvala vam što ste nas \Noborili na toj vežbi...
+Dialogue: 0,0:19:38.75,0:19:40.75,Default,,0,0,0,,bili smo u mogućnosti da se promenimo!
+Dialogue: 0,0:19:41.38,0:19:42.08,Default,,0,0,0,,Huh?
+Dialogue: 0,0:19:42.54,0:19:45.00,Default,,0,0,0,,Oduvek smo zavisili od \Nnašeg velikog brata...
+Dialogue: 0,0:19:45.04,0:19:47.67,Default,,0,0,0,,i nikada bili u mogućnosti \Nda stanemo na svoje noge...
+Dialogue: 0,0:19:48.17,0:19:52.50,Default,,0,0,0,,Zapravo, tada smo hteli da \Npodelimo naš ručak sa njim!
+Dialogue: 0,0:19:53.00,0:19:56.50,Default,,0,0,0,,Međutim, nakon te vežbe, shvatili smo da \Nbi smo trebali da porazgovaramo
+Dialogue: 0,0:19:56.54,0:19:59.13,Default,,0,0,0,,i rekli vam kako se zaista \Nosećamo. Zar nije tako?
+Dialogue: 0,0:19:59.17,0:19:59.79,Default,,0,0,0,,Dap…
+Dialogue: 0,0:20:00.17,0:20:05.54,Default,,0,0,0,,Mislio sam da sam im bio samo pomagao, \Nali sam im ustvari bio samo odmagao.
+Dialogue: 0,0:20:06.21,0:20:08.04,Default,,0,0,0,,I ja sam takođe naučio lekciju.
+Dialogue: 0,0:20:09.46,0:20:10.50,Default,,0,0,0,,– I zbog toga…!\N– I zbog toga…!
+Dialogue: 0,0:20:11.21,0:20:13.33,Default,,0,0,0,,– Mi smo ti tako zahvalni, Kakaši Sensei!\N– Mi smo ti tako zahvalni, Kakaši Sensei!
+Dialogue: 0,0:20:16.88,0:20:19.54,Default,,0,0,0,,Zahvalni…meni…?
+Dialogue: 0,0:20:20.13,0:20:23.13,Default,,0,0,0,,Učitelj trenira svoje đake…
+Dialogue: 0,0:20:23.17,0:20:25.71,Default,,0,0,0,,a i u isto vreme, uči od njih.
+Dialogue: 0,0:20:26.04,0:20:29.13,Default,,0,0,0,,Samo uzajamno poštovanje i napredak...
+Dialogue: 0,0:20:29.17,0:20:33.29,Default,,0,0,0,,može potstaći na pravi \Nodnos nastavnika i učenika.
+Dialogue: 0,0:20:34.08,0:20:39.58,Default,,0,0,0,,Moje je da se nadam da će te i vi \Nnegovati takav odnos sa svojim učenicima.
+Dialogue: 0,0:20:40.50,0:20:43.88,Default,,0,0,0,,Naravno, želim to isto i za Kakašia.
+Dialogue: 0,0:20:44.88,0:20:45.88,Default,,0,0,0,,Lorde Treći!
+Dialogue: 0,0:20:46.21,0:20:47.58,Default,,0,0,0,,Jesu li to…
+Dialogue: 0,0:20:48.50,0:20:51.83,Default,,0,0,0,,Oh…još uvek je velika tajna.
+Dialogue: 0,0:20:52.08,0:20:54.67,Default,,0,0,0,,Ali ovo je lista đaka koji su \Nuspešno završili akademiju
+Dialogue: 0,0:20:54.71,0:20:57.17,Default,,0,0,0,,i koji će biti pod Kakašievom torturom.
+Dialogue: 0,0:20:57.25,0:21:00.83,Default,,0,0,0,,NINDŽA DATUM\NSiguran sam da je ovo grupa\Nizrazito individualne dece.
+Dialogue: 0,0:21:05.41,0:21:09.41,PV,,0,0,0,,>> SRBCHYROLL <<\Nhttps://www.facebook.com/Srbchyroll
+Dialogue: 0,0:22:38.91,0:22:43.16,Default,,0,0,0,,Siguran sam da će ova nova grupa genina\Nodržati tvoje interesovanje.
+Dialogue: 0,0:22:43.66,0:22:44.45,Default,,0,0,0,,Gde smo mi to?
+Dialogue: 0,0:22:44.87,0:22:46.49,Default,,0,0,0,,Ovo je Narutova kuća.
+Dialogue: 0,0:22:47.33,0:22:48.95,Default,,0,0,0,,Siroče Četvrtog Hokagea…
+Dialogue: 0,0:22:49.24,0:22:51.37,Default,,0,0,0,,Da li si ti naš učitelj?
+Dialogue: 0,0:22:51.62,0:22:55.66,Default,,0,0,0,,Ja sam Naruto Uzumaki,\Nja ću postati Hokage!
+Dialogue: 0,0:22:57.12,0:23:00.58,Default,,0,0,0,,Sledeći put u Naruto Shippuudenu:\N"Tim Sedan"
+Dialogue: 0,0:23:01.41,0:23:02.95,Default,,0,0,0,,To dete je genin?
+Dialogue: 0,0:23:02.99,0:23:05.16,Default,,0,0,0,,TIM SEDAM
+Dialogue: 0,0:23:05.20,0:23:09.45,Default,,0,0,0,,Uključi se ponovo!

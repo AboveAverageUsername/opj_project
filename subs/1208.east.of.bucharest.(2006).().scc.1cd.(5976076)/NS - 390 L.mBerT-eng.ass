@@ -1,0 +1,311 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.80,0:00:17.94,Default,,0000,0000,0000,,Isse no se de fumikomu gōrain
+Dialogue: 0,0:00:18.10,0:00:23.95,Default,,0000,0000,0000,,bokura wa nanimo nanimo mada shiranu
+Dialogue: 0,0:00:24.31,0:00:28.45,Default,,0000,0000,0000,,Issen koete furikaeruto mō nai
+Dialogue: 0,0:00:28.57,0:00:34.71,Default,,0000,0000,0000,,bokura wa nanimo nanimo mada shiranu
+Dialogue: 0,0:00:35.11,0:00:39.25,Default,,0000,0000,0000,,Udatte udatte udatteku
+Dialogue: 0,0:00:39.37,0:00:45.09,Default,,0000,0000,0000,,Kirameku ase ga koboreru no sa
+Dialogue: 0,0:00:45.33,0:00:50.93,Default,,0000,0000,0000,,Oboetenai koto mo takusan attadarou
+Dialogue: 0,0:00:51.17,0:00:55.64,Default,,0000,0000,0000,,Daremo kare mo shiruetto
+Dialogue: 0,0:00:55.88,0:01:01.48,Default,,0000,0000,0000,,Daiji ni shitai mono motte otona ni naru nda
+Dialogue: 0,0:01:01.64,0:01:08.66,Default,,0000,0000,0000,,Don'na toki mo hanasazu ni Mamori tsudzukeyou
+Dialogue: 0,0:01:08.81,0:01:11.99,Default,,0000,0000,0000,,soshitara itsu no hi ni ka
+Dialogue: 0,0:01:12.15,0:01:16.83,Default,,0000,0000,0000,,Nanimo kamo o waraeru-sa
+Dialogue: 0,0:01:17.07,0:01:21.21,Default,,0000,0000,0000,,Hirari to hirari to matteru
+Dialogue: 0,0:01:21.37,0:01:27.55,Default,,0000,0000,0000,,Konoha ga tonde yuku
+Dialogue: 0,0:00:13.80,0:00:17.94,Default,,0000,0000,0000,,Svi zajedno sad, napravimo pauzu ka cilju
+Dialogue: 0,0:00:18.10,0:00:23.95,Default,,0000,0000,0000,,Ne znamo ništa, još uvek ne znamo ništa
+Dialogue: 0,0:00:24.31,0:00:28.45,Default,,0000,0000,0000,,Prešli smo tačku gde nema povratka, ali ipak gledamo unazad
+Dialogue: 0,0:00:28.57,0:00:34.71,Default,,0000,0000,0000,,Ne znamo ništa, još uvek ne znamo ništa
+Dialogue: 0,0:00:35.11,0:00:39.25,Default,,0000,0000,0000,,Zagrevamo se, zagrevamo se, svi se sad zagrevamo
+Dialogue: 0,0:00:39.37,0:00:45.09,Default,,0000,0000,0000,,Prekriveni blistavim znojem
+Dialogue: 0,0:00:45.33,0:00:50.93,Default,,0000,0000,0000,,Sigurno postoje mnoge stvari kojih se i ne sećamo
+Dialogue: 0,0:00:51.17,0:00:55.64,Default,,0000,0000,0000,,Svi, pa čak i on, postaju prazne siluete
+Dialogue: 0,0:00:55.88,0:01:01.48,Default,,0000,0000,0000,,Kako odrastam sve više stvari želim da zaštitim
+Dialogue: 0,0:01:01.64,0:01:08.66,Default,,0000,0000,0000,,Stvari koje ću nastaviti da branim i nikada neću odustati od njih
+Dialogue: 0,0:01:08.81,0:01:11.99,Default,,0000,0000,0000,,I tako, jednog dana
+Dialogue: 0,0:01:12.15,0:01:16.83,Default,,0000,0000,0000,,Moći ćemo da gledamo unazad i da se smejemo svemu
+Dialogue: 0,0:01:17.07,0:01:21.21,Default,,0000,0000,0000,,Lagano, okretno plešu
+Dialogue: 0,0:01:21.37,0:01:27.55,Default,,0000,0000,0000,,Lišće koje leti u daljinu
+Dialogue: 0,0:00:05.20,0:00:10.00,Default,,0000,0000,0000,,www.animesrbija.com
+Dialogue: 0,0:00:05.20,0:00:10.00,Default,,0000,0000,0000,,Obrada i Prevod:\N
+Dialogue: 0,0:01:30.34,0:01:35.35,Default,,0000,0000,0000,,HANABINA ODLUKA
+Dialogue: 0,0:01:42.53,0:01:45.99,Default,,0000,0000,0000,,{\i1}Rođena sam sa snagom koja\Nje prevazišla stariju sestru.{\i0}
+Dialogue: 0,0:01:49.08,0:01:50.62,Default,,0000,0000,0000,,{\i1}Ovo je moja sudbina!{\i0}
+Dialogue: 0,0:01:52.78,0:01:53.87,Default,,0000,0000,0000,,{\i1}Zbog toga…{\i0}
+Dialogue: 0,0:01:53.95,0:01:55.78,Default,,0000,0000,0000,,{\i1}Moram da postanem snažnija…!{\i0}
+Dialogue: 0,0:02:01.45,0:02:03.44,Default,,0000,0000,0000,,{\i1}Više,iše, više!{\i0}
+Dialogue: 0,0:02:03.44,0:02:03.70,Default,,0000,0000,0000,,{\i1}Više, više, {\i0}
+Dialogue: 0,0:02:03.69,0:02:04.72,Default,,0000,0000,0000,,{\i1}Više, više, više, {\i0}
+Dialogue: 0,0:02:04.72,0:02:05.25,Default,,0000,0000,0000,,{\i1}Više, više, više, više!{\i0}
+Dialogue: 0,0:02:13.12,0:02:15.12,Default,,0000,0000,0000,,Pogledaj svoje povrede…
+Dialogue: 0,0:02:16.16,0:02:18.66,Default,,0000,0000,0000,,Zar ne preteruješ malo?
+Dialogue: 0,0:02:19.03,0:02:20.33,Default,,0000,0000,0000,,Nimalo.
+Dialogue: 0,0:02:21.16,0:02:23.66,Default,,0000,0000,0000,,Moram da zaštitim Hjuga Klan.
+Dialogue: 0,0:02:28.12,0:02:29.12,Default,,0000,0000,0000,,Tako je!
+Dialogue: 0,0:02:29.20,0:02:32.78,Default,,0000,0000,0000,,G-đici Hinati ide baš dobro kao genin.
+Dialogue: 0,0:02:33.16,0:02:36.66,Default,,0000,0000,0000,,Čula sam da će učestvovati\N na Čunin ispitu.
+Dialogue: 0,0:02:37.08,0:02:38.33,Default,,0000,0000,0000,,Čunin ispit?
+Dialogue: 0,0:02:38.78,0:02:41.28,Default,,0000,0000,0000,,Da. Test koji se mora položiti
+Dialogue: 0,0:02:41.37,0:02:43.91,Default,,0000,0000,0000,,kako bi genin prešao na viši\N nivo i postao čunin.
+Dialogue: 0,0:02:45.03,0:02:48.16,Default,,0000,0000,0000,,Rigorozan je i ponekad \Nse fatalno završi.
+Dialogue: 0,0:02:49.37,0:02:52.53,Default,,0000,0000,0000,,Nema svrhe tu učestvovati.
+Dialogue: 0,0:02:55.91,0:02:57.03,Default,,0000,0000,0000,,Gospo Hanabi…
+Dialogue: 0,0:03:08.08,0:03:09.70,Default,,0000,0000,0000,,Gospo Hanabi! Užasne vesti!
+Dialogue: 0,0:03:14.91,0:03:17.31,Default,,0000,0000,0000,,BOLNICA SELA LIŠĆA
+Dialogue: 0,0:03:20.53,0:03:22.70,Default,,0000,0000,0000,,Čula sam da je starija sestra,\N Hinata, povređena!
+Dialogue: 0,0:03:23.74,0:03:26.12,Default,,0000,0000,0000,,Ukazali su joj pomoć. Osvestila se.
+Dialogue: 0,0:03:26.33,0:03:27.70,Default,,0000,0000,0000,,Nema potrebe da brineš.
+Dialogue: 0,0:03:33.70,0:03:37.78,Default,,0000,0000,0000,,Trebalo je da očekuje ovo kada\N se suočila sa Nedžijem.
+Dialogue: 0,0:03:38.83,0:03:40.53,Default,,0000,0000,0000,,Zašto se nisi povukla?
+Dialogue: 0,0:03:41.62,0:03:44.41,Default,,0000,0000,0000,,Nisam mogla to da uradim.
+Dialogue: 0,0:03:46.08,0:03:49.74,Default,,0000,0000,0000,,Dobro znam ko sam ja.
+Dialogue: 0,0:03:50.41,0:03:52.99,Default,,0000,0000,0000,,Ja sam jedan veliki, \Nneodlučni neuspeh…
+Dialogue: 0,0:03:53.70,0:03:57.03,Default,,0000,0000,0000,,Ali ne želim da odustanem,\N želim da postanem snažna…
+Dialogue: 0,0:03:58.16,0:04:00.41,Default,,0000,0000,0000,,Osećam da mogu da se promenim.
+Dialogue: 0,0:04:00.74,0:04:02.99,Default,,0000,0000,0000,,Gledajući Naruta, počela\N sam da osećam ovo.
+Dialogue: 0,0:04:03.41,0:04:04.53,Default,,0000,0000,0000,,{\i1}Naruto…{\i0}
+Dialogue: 0,0:04:04.95,0:04:08.37,Default,,0000,0000,0000,,{\i1}Šta radiš ovde?\NTi si kletva sviju nas!{\i0}
+Dialogue: 0,0:04:08.87,0:04:10.66,Default,,0000,0000,0000,,{\i1}Šta? Samo sam…{\i0}
+Dialogue: 0,0:04:10.99,0:04:13.99,Default,,0000,0000,0000,,{\i1}Samo sam gledao te maske!{\i0}
+Dialogue: 0,0:04:18.99,0:04:20.16,Default,,0000,0000,0000,,{\i1}Džicu klona!{\i0}
+Dialogue: 0,0:04:24.41,0:04:27.33,Default,,0000,0000,0000,,Nikada ne odustajem od svojih reči.
+Dialogue: 0,0:04:27.62,0:04:30.45,Default,,0000,0000,0000,,Zato što je to moj Nindža Put.
+Dialogue: 0,0:04:40.03,0:04:44.45,Default,,0000,0000,0000,,Niko nije nasledio Hjuga \Nkrv intenzivnije od njega...
+Dialogue: 0,0:04:45.95,0:04:47.83,Default,,0000,0000,0000,,Gledaj pažljivo, Hanabi.
+Dialogue: 0,0:04:48.03,0:04:49.83,Default,,0000,0000,0000,,Da, oče.
+Dialogue: 0,0:04:54.33,0:04:58.08,Default,,0000,0000,0000,,{\i1}Šta to ima ovaj Naruto da\Nstarija sestra toliko veruje u njega?{\i0}
+Dialogue: 0,0:05:01.99,0:05:05.45,Default,,0000,0000,0000,,{\i1}Ali gledaj kako napada\Nstarijeg brata, Nedžija.{\i0}
+Dialogue: 0,0:05:06.12,0:05:08.16,Default,,0000,0000,0000,,{\i1}Stariji brat, Nedži,\Nje Hjuga genije…{\i0}
+Dialogue: 0,0:05:09.41,0:05:11.91,Default,,0000,0000,0000,,{\i1}Nema šanse da jedan \Nnikogović može da ga pobedi.{\i0}
+Dialogue: 0,0:05:12.78,0:05:14.16,Default,,0000,0000,0000,,Pobediću, bez obzira na sve!
+Dialogue: 0,0:05:19.91,0:05:23.37,Default,,0000,0000,0000,,Nežna pesnica:\NOsam trigrama 64 udarca…
+Dialogue: 0,0:05:24.49,0:05:25.74,Default,,0000,0000,0000,,Osam trigrama…
+Dialogue: 0,0:05:26.16,0:05:27.62,Default,,0000,0000,0000,,Dva udarca!
+Dialogue: 0,0:05:29.70,0:05:30.78,Default,,0000,0000,0000,,Četiri udarca!
+Dialogue: 0,0:05:31.66,0:05:34.03,Default,,0000,0000,0000,,{\i1}– Ljudi su rođeni kao teret{\i0}
+Dialogue: 0,0:05:31.66,0:05:34.03,Default,,0000,0000,0000,,– Osam udaraca!
+Dialogue: 0,0:05:34.12,0:05:35.58,Default,,0000,0000,0000,,{\i1}neraskidivo sa sudbinom{\i0}
+Dialogue: 0,0:05:35.66,0:05:37.66,Default,,0000,0000,0000,,{\i1}– protiv koje ne mogu ići.{\i0}
+Dialogue: 0,0:05:35.66,0:05:37.66,Default,,0000,0000,0000,,– Šesnaest udaraca!
+Dialogue: 0,0:05:38.53,0:05:41.66,Default,,0000,0000,0000,,{\i1}– Ne možeš da razumeš{\i0}
+Dialogue: 0,0:05:38.53,0:05:41.66,Default,,0000,0000,0000,,– Trideset dva udarca!
+Dialogue: 0,0:05:41.74,0:05:43.78,Default,,0000,0000,0000,,{\i1}sudbinu tereta,{\i0}
+Dialogue: 0,0:05:44.03,0:05:45.99,Default,,0000,0000,0000,,{\i1}znak koji ne možeš da\Nizbrišeš iz svog života!{\i0}
+Dialogue: 0,0:05:46.20,0:05:47.87,Default,,0000,0000,0000,,Šezdeset četiri udarca…
+Dialogue: 0,0:05:52.08,0:05:53.91,Default,,0000,0000,0000,,Preplavljen je.
+Dialogue: 0,0:05:54.66,0:05:56.78,Default,,0000,0000,0000,,Sve njegove tačke čakre su zatvorene
+Dialogue: 0,0:05:56.87,0:05:58.95,Default,,0000,0000,0000,,i čakra ne može da teče.
+Dialogue: 0,0:05:59.78,0:06:00.78,Default,,0000,0000,0000,,{\i1}Znala sam…{\i0}
+Dialogue: 0,0:06:01.78,0:06:05.78,Default,,0000,0000,0000,,Suđeno ti je da izgubiš od mene.
+Dialogue: 0,0:06:06.03,0:06:09.08,Default,,0000,0000,0000,,Nećemo znati dok ne probam!
+Dialogue: 0,0:06:16.12,0:06:16.95,Default,,0000,0000,0000,,Gubitniče!
+Dialogue: 0,0:06:22.28,0:06:24.70,Default,,0000,0000,0000,,Neću bežati…
+Dialogue: 0,0:06:25.16,0:06:28.78,Default,,0000,0000,0000,,Stajaću iza svojih reči.
+Dialogue: 0,0:06:29.41,0:06:32.91,Default,,0000,0000,0000,,Neću izgubiti od nekoga\N ko brblja o sudbini,
+Dialogue: 0,0:06:32.99,0:06:36.78,Default,,0000,0000,0000,,i nastavlja da beži!
+Dialogue: 0,0:06:49.45,0:06:52.91,Default,,0000,0000,0000,,Ne znam kakva je ta Hjugina\N sudbina mržnje!
+Dialogue: 0,0:06:52.99,0:06:56.24,Default,,0000,0000,0000,,Ali ako ćeš reći da je uzaludno,\Nne moraš ništa da radiš!
+Dialogue: 0,0:06:56.53,0:06:58.33,Default,,0000,0000,0000,,Kada postanem Hokage…
+Dialogue: 0,0:06:58.41,0:07:00.74,Default,,0000,0000,0000,,Promeniću Hjuge!
+Dialogue: 0,0:07:19.58,0:07:22.16,Default,,0000,0000,0000,,Pobednik je Naruto Uzumaki.
+Dialogue: 0,0:07:22.83,0:07:25.62,Default,,0000,0000,0000,,To dete je pobedilo Hjugu!
+Dialogue: 0,0:07:25.70,0:07:26.70,Default,,0000,0000,0000,,Stvarno?
+Dialogue: 0,0:07:35.74,0:07:39.45,Default,,0000,0000,0000,,{\i1}Suđeno ti je da izgubiš od mene.{\i0}
+Dialogue: 0,0:07:39.95,0:07:43.03,Default,,0000,0000,0000,,{\i1}Nećemo znati dok ne probamo!{\i0}
+Dialogue: 0,0:07:45.20,0:07:48.41,Default,,0000,0000,0000,,{\i1}Ne… To je sigurno bila samo slučajnost!{\i0}
+Dialogue: 0,0:07:59.12,0:08:02.62,Default,,0000,0000,0000,,{\i1}Mislila sam da stariji brat\NNedži, mrzi glavnu porodicu?{\i0}
+Dialogue: 0,0:08:05.20,0:08:09.03,Default,,0000,0000,0000,,Iskreno, nisam mislila da ćeš \Ndoći i pomagati mi s treningom.
+Dialogue: 0,0:08:10.16,0:08:11.87,Default,,0000,0000,0000,,Verovatno si u pravu.
+Dialogue: 0,0:08:12.08,0:08:14.70,Default,,0000,0000,0000,,Ali nečemu me je naučio.
+Dialogue: 0,0:08:15.08,0:08:17.66,Default,,0000,0000,0000,,Sudbina može biti promenjena.
+Dialogue: 0,0:08:17.95,0:08:19.16,Default,,0000,0000,0000,,Stariji brate Nedži!
+Dialogue: 0,0:08:19.74,0:08:21.33,Default,,0000,0000,0000,,U redu, nastavimo.
+Dialogue: 0,0:08:21.58,0:08:22.37,Default,,0000,0000,0000,,Da!
+Dialogue: 0,0:08:30.78,0:08:32.87,Default,,0000,0000,0000,,{\i1}Ali nečemu me je naučio.{\i0}
+Dialogue: 0,0:08:33.16,0:08:35.78,Default,,0000,0000,0000,,{\i1}Sudbina može biti promenjena.{\i0}
+Dialogue: 0,0:08:37.08,0:08:38.95,Default,,0000,0000,0000,,Sudbina može biti promenjena?
+Dialogue: 0,0:08:40.16,0:08:42.49,Default,,0000,0000,0000,,{\i1}Zato, svi mi…{\i0}
+Dialogue: 0,0:08:43.08,0:08:44.87,Default,,0000,0000,0000,,{\i1}Imaj to u vidu, Hanabi.{\i0}
+Dialogue: 0,0:08:45.37,0:08:50.49,Default,,0000,0000,0000,,{\i1}Svi smo rođeni sa sopstvenom sudbinom.{\i0}
+Dialogue: 0,0:08:51.12,0:08:54.45,Default,,0000,0000,0000,,{\i1}Za vreme našeg života,\Nta sudbina se nikad ne promeni.{\i0}
+Dialogue: 0,0:09:02.62,0:09:04.08,Default,,0000,0000,0000,,{\i1}Ja sam ono što jesam.{\i0}
+Dialogue: 0,0:09:04.66,0:09:06.99,Default,,0000,0000,0000,,{\i1}Samo treba da nastavim\N da idem ka vrhu…{\i0}
+Dialogue: 0,0:09:16.16,0:09:18.16,Default,,0000,0000,0000,,Još jednom, molim vas.
+Dialogue: 0,0:09:19.74,0:09:22.58,Default,,0000,0000,0000,,Ova rotacija je nindžicu \Nkoji se prenosi usmeno,
+Dialogue: 0,0:09:22.66,0:09:24.12,Default,,0000,0000,0000,,i poznat je samo Hjugama.
+Dialogue: 0,0:09:24.66,0:09:27.16,Default,,0000,0000,0000,,Nije nešto čime možeš ovladati lako.
+Dialogue: 0,0:09:28.12,0:09:31.99,Default,,0000,0000,0000,,Ne, brzo ću da naučim.
+Dialogue: 0,0:09:35.08,0:09:37.62,Default,,0000,0000,0000,,{\i1}Ne smem sada da zastanem…{\i0}
+Dialogue: 0,0:09:37.99,0:09:40.62,Default,,0000,0000,0000,,{\i1}Moram da postanem mnogo, \Nmnogo snažnija.{\i0}
+Dialogue: 0,0:09:44.95,0:09:47.99,Default,,0000,0000,0000,,{\i1}Ipak nisam mogla da \Novladam tehnikom.{\i0}
+Dialogue: 0,0:09:51.03,0:09:52.45,Default,,0000,0000,0000,,Kažem ti, istina je!
+Dialogue: 0,0:09:52.78,0:09:54.70,Default,,0000,0000,0000,,Naruto je neverovatan!
+Dialogue: 0,0:09:54.99,0:09:57.12,Default,,0000,0000,0000,,Premlatio je Kakuzua,\Nonog tipa sa više srca…
+Dialogue: 0,0:09:57.20,0:10:00.03,Default,,0000,0000,0000,,Sa novom "idi i sredi ga" tehnikom!
+Dialogue: 0,0:10:00.16,0:10:03.62,Default,,0000,0000,0000,,"Idi i sredi ga"?\NZar ne postoji neki bolji opis?
+Dialogue: 0,0:10:06.08,0:10:08.62,Default,,0000,0000,0000,,Pa, bio je ogroman i\N samo je projurio…
+Dialogue: 0,0:10:08.70,0:10:11.12,Default,,0000,0000,0000,,Nazvao ga je:\N Stil Vetra, Rasen Šuriken!
+Dialogue: 0,0:10:11.91,0:10:16.16,Default,,0000,0000,0000,,On je uspeo da izmeni Prirodu\N vetra sa promenom obrazca?
+Dialogue: 0,0:10:16.66,0:10:18.16,Default,,0000,0000,0000,,Da, mislim da je to!
+Dialogue: 0,0:10:20.03,0:10:23.03,Default,,0000,0000,0000,,Sjajno! Naruto postaje sve bolji i bolji.
+Dialogue: 0,0:10:23.58,0:10:25.16,Default,,0000,0000,0000,,I ja ću dati sve od sebe.
+Dialogue: 0,0:10:25.62,0:10:28.49,Default,,0000,0000,0000,,To bi mogao biti nagoveštaj za novi džicu…
+Dialogue: 0,0:10:30.20,0:10:32.66,Default,,0000,0000,0000,,Pričaš o vremenu,
+Dialogue: 0,0:10:32.74,0:10:34.49,Default,,0000,0000,0000,,kada je Naruto pobedio Akacki?
+Dialogue: 0,0:10:34.74,0:10:36.66,Default,,0000,0000,0000,,Pre tri godine uopšte\N nije bio impresivan,
+Dialogue: 0,0:10:36.74,0:10:38.08,Default,,0000,0000,0000,,ali postaje sve snažniji i snažniji.
+Dialogue: 0,0:10:38.33,0:10:42.03,Default,,0000,0000,0000,,Da, sada svi u njegovoj generacij \Nteže da postanu kao on
+Dialogue: 0,0:10:42.12,0:10:44.41,Default,,0000,0000,0000,,i konstantno napreduju.
+Dialogue: 0,0:10:59.53,0:11:00.74,Default,,0000,0000,0000,,Rotacija!
+Dialogue: 0,0:11:06.24,0:11:09.12,Default,,0000,0000,0000,,{\i1}Ne opet!\NZašto ne mogu da uradim kako treba?!{\i0}
+Dialogue: 0,0:11:13.12,0:11:14.99,Default,,0000,0000,0000,,Napravimo pauzu.
+Dialogue: 0,0:11:15.24,0:11:17.08,Default,,0000,0000,0000,,Molim te dozvoli mi da nastavim.
+Dialogue: 0,0:11:17.28,0:11:18.28,Default,,0000,0000,0000,,Sledeći put ću sigruno uspeti!
+Dialogue: 0,0:11:19.03,0:11:22.33,Default,,0000,0000,0000,,Ne možeš savladati ovo tako \Nšto ćeš da projuriš kroz sve.
+Dialogue: 0,0:11:23.08,0:11:25.45,Default,,0000,0000,0000,,Ponekad je najbolje da\N damo sebi vremena.
+Dialogue: 0,0:11:32.49,0:11:37.95,Default,,0000,0000,0000,,Neobično je videti Hanabi\N u ovakvom stanju.
+Dialogue: 0,0:11:38.33,0:11:39.08,Default,,0000,0000,0000,,Da…
+Dialogue: 0,0:11:39.78,0:11:42.49,Default,,0000,0000,0000,,Tehnički ne bi trebalo \Nda ima poteškoća…
+Dialogue: 0,0:11:44.28,0:11:47.83,Default,,0000,0000,0000,,Možda je nešto drugo u pitanju.
+Dialogue: 0,0:11:59.37,0:12:00.95,Default,,0000,0000,0000,,{\i1}Moram da nastavim!{\i0}
+Dialogue: 0,0:12:01.53,0:12:03.62,Default,,0000,0000,0000,,{\i1}Nemam izbora\Nosim da nastavim!{\i0}
+Dialogue: 0,0:12:08.95,0:12:10.03,Default,,0000,0000,0000,,Zašto?
+Dialogue: 0,0:12:40.12,0:12:42.41,Default,,0000,0000,0000,,U dobroj si formi.
+Dialogue: 0,0:12:43.45,0:12:46.49,Default,,0000,0000,0000,,Da... Ne smem biti iza Naruta!
+Dialogue: 0,0:13:00.53,0:13:02.37,Default,,0000,0000,0000,,{\i1}Zašto ja…?{\i0}
+Dialogue: 0,0:13:05.99,0:13:08.53,Default,,0000,0000,0000,,{\i1}Ne bi trebalo biti kao onda…{\i0}
+Dialogue: 0,0:13:19.99,0:13:22.20,Default,,0000,0000,0000,,{\i1}Zašto ona nije odustala?{\i0}
+Dialogue: 0,0:13:22.28,0:13:26.49,Default,,0000,0000,0000,,{\i1}Zvali su je neuspehom i \Notac joj je okrenuo leđa…{\i0}
+Dialogue: 0,0:13:26.99,0:13:29.83,Default,,0000,0000,0000,,{\i1}Ipak izgleda tako srećno.{\i0}
+Dialogue: 0,0:13:30.78,0:13:32.08,Default,,0000,0000,0000,,Lepo!
+Dialogue: 0,0:13:32.24,0:13:34.53,Default,,0000,0000,0000,,Možeš li da ostaneš tako i da napraviš prelazak u obrazcu?
+Dialogue: 0,0:13:35.08,0:13:35.83,Default,,0000,0000,0000,,Da!
+Dialogue: 0,0:13:39.12,0:13:42.58,Default,,0000,0000,0000,,{\i1}Nemoj mi reći da je na rubu\N da ovlada novom tehnikom?!{\i0}
+Dialogue: 0,0:13:52.83,0:13:54.74,Default,,0000,0000,0000,,{\i1}Tako snažna, a opet, tako nežna.{\i0}
+Dialogue: 0,0:13:54.83,0:13:57.03,Default,,0000,0000,0000,,{\i1}Želim da budem kao ona…{\i0}
+Dialogue: 0,0:14:01.33,0:14:02.28,Default,,0000,0000,0000,,{\i1}Starija sestro?{\i0}
+Dialogue: 0,0:14:13.95,0:14:17.66,Default,,0000,0000,0000,,Gospo Hanabi, kako je \Nprošao vaš prvi izlet?
+Dialogue: 0,0:14:18.03,0:14:21.08,Default,,0000,0000,0000,,Izlazak van zidina \Nsela me je unervozio.
+Dialogue: 0,0:14:21.58,0:14:23.24,Default,,0000,0000,0000,,Bili ste veoma dobri.
+Dialogue: 0,0:14:23.70,0:14:27.83,Default,,0000,0000,0000,,Taketori Klan je već dugo \Nbliski saveznik Hjugama.
+Dialogue: 0,0:14:28.45,0:14:31.70,Default,,0000,0000,0000,,Važno je za sve generacije da \Nodržavaju veze, Gospo Hanabi.
+Dialogue: 0,0:14:32.20,0:14:33.12,Default,,0000,0000,0000,,Da.
+Dialogue: 0,0:14:34.20,0:14:35.33,Default,,0000,0000,0000,,Samo trenutak, molim vas…
+Dialogue: 0,0:14:35.95,0:14:38.41,Default,,0000,0000,0000,,Lord Hiaši Hjuga i njegov tim,\N pretpostavljam?
+Dialogue: 0,0:14:38.70,0:14:39.87,Default,,0000,0000,0000,,Šta je bilo?
+Dialogue: 0,0:14:40.16,0:14:42.12,Default,,0000,0000,0000,,Ja sam čuvar granice.
+Dialogue: 0,0:14:42.62,0:14:44.53,Default,,0000,0000,0000,,Upravo smo primili hitnu poruku.
+Dialogue: 0,0:14:44.62,0:14:47.91,Default,,0000,0000,0000,,Akacki napada Selo Lista.
+Dialogue: 0,0:14:48.12,0:14:49.12,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:14:49.16,0:14:51.58,Default,,0000,0000,0000,,Požurite! Moramo odmah da \Nse vratimo u selo!
+Dialogue: 0,0:15:05.78,0:15:06.95,Default,,0000,0000,0000,,{\i1}Ovo je užasno.{\i0}
+Dialogue: 0,0:15:12.24,0:15:15.08,Default,,0000,0000,0000,,{\i1}Selo Srivenu u Lišću je toliko \Nuništeno da ne može da se prepozna!{\i0}
+Dialogue: 0,0:15:16.12,0:15:17.95,Default,,0000,0000,0000,,{\i1}Šta se dogodilo sa stanovnicima?{\i0}
+Dialogue: 0,0:15:18.12,0:15:20.62,Default,,0000,0000,0000,,Lorde Hiaši, hvala nebesima da ste dobro!
+Dialogue: 0,0:15:21.20,0:15:22.24,Default,,0000,0000,0000,,Ovo uništenje…
+Dialogue: 0,0:15:23.08,0:15:25.20,Default,,0000,0000,0000,,Koliko je mrtvih?
+Dialogue: 0,0:15:25.83,0:15:28.87,Default,,0000,0000,0000,,Nekim čudom, niko nije umro.
+Dialogue: 0,0:15:30.03,0:15:32.24,Default,,0000,0000,0000,,To ne može biti! Ne ako\N je sve ovako uništeno…
+Dialogue: 0,0:15:32.58,0:15:33.62,Default,,0000,0000,0000,,Istina je.
+Dialogue: 0,0:15:34.12,0:15:37.12,Default,,0000,0000,0000,,Naruto je zaštitio sve.
+Dialogue: 0,0:15:37.58,0:15:40.41,Default,,0000,0000,0000,,Samo zbog Gospe Hinate.
+Dialogue: 0,0:15:40.78,0:15:41.91,Default,,0000,0000,0000,,Kako to misliš?
+Dialogue: 0,0:15:42.20,0:15:45.33,Default,,0000,0000,0000,,Selo je napao Pein iz Akackija
+Dialogue: 0,0:15:45.41,0:15:47.49,Default,,0000,0000,0000,,i bilo je na ivici kolapsa.
+Dialogue: 0,0:15:48.03,0:15:50.78,Default,,0000,0000,0000,,U tom trenutku, jedini koji je \Nmogao da se bori sa Peinom…
+Dialogue: 0,0:15:50.87,0:15:52.37,Default,,0000,0000,0000,,Bio je Naruto Uzumaki.
+Dialogue: 0,0:15:53.74,0:15:55.66,Default,,0000,0000,0000,,– Ali čak i Naruto…
+Dialogue: 0,0:15:53.74,0:15:55.66,Default,,0000,0000,0000,,– Svet
+Dialogue: 0,0:15:55.74,0:15:57.16,Default,,0000,0000,0000,,...je gurnut do granica.
+Dialogue: 0,0:15:55.74,0:15:57.16,Default,,0000,0000,0000,,– Prokletniče!
+Dialogue: 0,0:15:57.28,0:16:00.08,Default,,0000,0000,0000,,{\i1}Ja ću preuzeti sada…{\i0}
+Dialogue: 0,0:16:06.03,0:16:08.08,Default,,0000,0000,0000,,A onda je uletela…
+Dialogue: 0,0:16:08.16,0:16:09.49,Default,,0000,0000,0000,,Gospa Hinata.
+Dialogue: 0,0:16:19.37,0:16:20.70,Default,,0000,0000,0000,,{\i1}Okrutno…{\i0}
+Dialogue: 0,0:16:21.08,0:16:24.28,Default,,0000,0000,0000,,{\i1}Ograničio je Narutove \Npokrete sa onim šipkama.{\i0}
+Dialogue: 0,0:16:25.03,0:16:26.95,Default,,0000,0000,0000,,{\i1}Neću ti dozvoliti da više\N povređuješ Naruta!{\i0}
+Dialogue: 0,0:16:29.28,0:16:31.95,Default,,0000,0000,0000,,{\i1}Bila sam sebična.{\i0}
+Dialogue: 0,0:16:31.99,0:16:33.62,Default,,0000,0000,0000,,{\i1}Šta to govoriš?!{\i0}
+Dialogue: 0,0:16:34.08,0:16:37.12,Default,,0000,0000,0000,,{\i1}Ne dovodi sebe u opasnost!{\i0}
+Dialogue: 0,0:16:38.53,0:16:41.58,Default,,0000,0000,0000,,{\i1}Ovde sam zato što to želim.{\i0}
+Dialogue: 0,0:16:42.53,0:16:43.66,Default,,0000,0000,0000,,{\i1}Ovog puta…{\i0}
+Dialogue: 0,0:16:43.74,0:16:45.87,Default,,0000,0000,0000,,{\i1}Spasiću te, Naruto.{\i0}
+Dialogue: 0,0:16:49.37,0:16:52.41,Default,,0000,0000,0000,,{\i1}Uvek sam plakala,\Ni odustajala pre nego što bih počela.{\i0}
+Dialogue: 0,0:16:52.74,0:16:55.28,Default,,0000,0000,0000,,{\i1}Mnogo puta sam donosila\N pogrešne odluke…{\i0}
+Dialogue: 0,0:16:56.28,0:17:00.33,Default,,0000,0000,0000,,{\i1}Ali ti si mi pomogao da pronađem put\N i izaberem ispravnu odluku, Naruto.{\i0}
+Dialogue: 0,0:17:01.91,0:17:03.87,Default,,0000,0000,0000,,{\i1}Uvek sam te jurila.{\i0}
+Dialogue: 0,0:17:04.37,0:17:06.53,Default,,0000,0000,0000,,{\i1}Želela sam da te stignem.{\i0}
+Dialogue: 0,0:17:08.03,0:17:11.03,Default,,0000,0000,0000,,{\i1}Želela sam da idem pored tebe.{\i0}
+Dialogue: 0,0:17:11.37,0:17:13.62,Default,,0000,0000,0000,,{\i1}Uvek želim biti uz tebe.{\i0}
+Dialogue: 0,0:17:14.95,0:17:16.91,Default,,0000,0000,0000,,{\i1}Promenio si me, Naruto!{\i0}
+Dialogue: 0,0:17:18.37,0:17:21.08,Default,,0000,0000,0000,,{\i1}Tvoj osmeh me spasao!{\i0}
+Dialogue: 0,0:17:22.99,0:17:26.03,Default,,0000,0000,0000,,{\i1}Zbog toga se ne plašim da umrem…{\i0}
+Dialogue: 0,0:17:26.16,0:17:28.08,Default,,0000,0000,0000,,{\i1}Ako je to potrebno da te zaštitim!{\i0}
+Dialogue: 0,0:17:33.41,0:17:35.03,Default,,0000,0000,0000,,{\i1}A sve zbog toga što…{\i0}
+Dialogue: 0,0:17:35.12,0:17:37.78,Default,,0000,0000,0000,,{\i1}Volim te, Naruto!{\i0}
+Dialogue: 0,0:17:45.08,0:17:48.37,Default,,0000,0000,0000,,Gospa Hinata je zaštitila\N Naruta i borila se do kraja…
+Dialogue: 0,0:17:56.66,0:17:58.95,Default,,0000,0000,0000,,{\i1}Nežni Korak…\N Lavova Dvostruka Pesnica!{\i0}
+Dialogue: 0,0:17:59.95,0:18:04.44,Default,,0000,0000,0000,,Kao rezultat toga, preokrenula je \Nnepovoljnu situaciju u kojoj smo bili.
+Dialogue: 0,0:18:06.08,0:18:07.91,Default,,0000,0000,0000,,Hinata je to uradila?
+Dialogue: 0,0:18:17.28,0:18:20.83,Default,,0000,0000,0000,,{\i1}Starija sestra je upotrebila onu tehniku.{\i0}
+Dialogue: 0,0:18:24.45,0:18:26.66,Default,,0000,0000,0000,,To je bilo iznenađenje…
+Dialogue: 0,0:18:26.95,0:18:30.87,Default,,0000,0000,0000,,Nisam mogao da verujem da \Nje Hinata za to sposobna…
+Dialogue: 0,0:18:38.20,0:18:42.49,Default,,0000,0000,0000,,{\i1}Kladim se da Starija Sestra nikada\Nnije bila neuspeh, nakon svega...{\i0}
+Dialogue: 0,0:18:43.62,0:18:45.16,Default,,0000,0000,0000,,{\i1}Starija Sestro Hinata!{\i0}
+Dialogue: 0,0:18:58.16,0:19:01.37,Default,,0000,0000,0000,,{\i1}Ali ja neću odustati, želim biti snažna.{\i0}
+Dialogue: 0,0:19:01.99,0:19:04.03,Default,,0000,0000,0000,,{\i1}Osećam kao da se mogu promeniti.{\i0}
+Dialogue: 0,0:19:04.91,0:19:07.08,Default,,0000,0000,0000,,{\i1}Gledajući Naruta me čini\Nda se osećam ovako...{\i0}
+Dialogue: 0,0:19:07.78,0:19:10.78,Default,,0000,0000,0000,,{\i1}Nikada ne odustajem od svojih reči!{\i0}
+Dialogue: 0,0:19:10.91,0:19:13.99,Default,,0000,0000,0000,,{\i1}Zato što je to moj Nindža Put.{\i0}
+Dialogue: 0,0:19:15.16,0:19:18.08,Default,,0000,0000,0000,,{\i1}Da...Ne smem izgubiti od Naruta...!{\i0}
+Dialogue: 0,0:19:18.33,0:19:21.95,Default,,0000,0000,0000,,{\i1}Ona jednostavno izabere put\Nkoji će preći svojom voljom.{\i0}
+Dialogue: 0,0:19:23.03,0:19:24.99,Default,,0000,0000,0000,,{\i1}I zato je ona postala ovako snažna...{\i0}
+Dialogue: 0,0:19:26.66,0:19:28.58,Default,,0000,0000,0000,,{\i1}Ona je promenila svoju sudbinu.{\i0}
+Dialogue: 0,0:19:30.83,0:19:33.87,Default,,0000,0000,0000,,{\i1}Starija sestra je uvek ostala svoja.{\i0}
+Dialogue: 0,0:19:33.99,0:19:35.91,Default,,0000,0000,0000,,{\i1}Nežna i snažna.{\i0}
+Dialogue: 0,0:19:36.20,0:19:38.16,Default,,0000,0000,0000,,{\i1}Osoba koju puno volim.{\i0}
+Dialogue: 0,0:19:41.95,0:19:43.99,Default,,0000,0000,0000,,Oče, imam jedan zahtev.
+Dialogue: 0,0:19:45.16,0:19:47.95,Default,,0000,0000,0000,,Znam da ćeš biti zauzet sa obnovom sela.
+Dialogue: 0,0:19:49.08,0:19:50.08,Default,,0000,0000,0000,,Ali kada se stvari malo srede
+Dialogue: 0,0:19:50.16,0:19:52.03,Default,,0000,0000,0000,,da li ćeš me trenirati još jednom.
+Dialogue: 0,0:19:54.45,0:19:56.70,Default,,0000,0000,0000,,Imam osećaj da ćeš ga\Nsavladati sledeći put.
+Dialogue: 0,0:19:57.12,0:19:58.16,Default,,0000,0000,0000,,Da.
+Dialogue: 0,0:19:59.03,0:20:02.16,Default,,0000,0000,0000,,{\i1}Želim da budem kao Starija\NSestra jednog dana.{\i0}
+Dialogue: 0,0:20:03.08,0:20:08.45,Default,,0000,0000,0000,,{\i1}I da izaberem moj sopstveni\Nput, a da mi niko ne kaže.{\i0}
+Dialogue: 0,0:20:15.03,0:20:15.99,Default,,0000,0000,0000,,Slušajte.
+Dialogue: 0,0:20:15.99,0:20:19.12,Default,,0000,0000,0000,,Sada smo na pragu Četvrtog Nindža Rata!
+Dialogue: 0,0:20:19.28,0:20:21.41,Default,,0000,0000,0000,,Iskoristićemo naše čulne veštine.
+Dialogue: 0,0:20:21.49,0:20:23.70,Default,,0000,0000,0000,,i podeliti se da pomognemo\Nsvakom bataljonu.
+Dialogue: 0,0:20:24.08,0:20:27.16,Default,,0000,0000,0000,,Moramo da ih vodimo do pobede u ovom ratu!
+Dialogue: 0,0:20:27.37,0:20:28.70,Default,,0000,0000,0000,,– Da, gospodine!\N– Da, gospodine!
+Dialogue: 0,0:20:29.45,0:20:31.70,Default,,0000,0000,0000,,Hanabi, ostavljam sve tebi.
+Dialogue: 0,0:20:31.95,0:20:33.08,Default,,0000,0000,0000,,Možeš računati na mene.
+Dialogue: 0,0:20:33.16,0:20:36.41,Default,,0000,0000,0000,,Odlučila sam da ću zaštititi Hjuga Klan.
+Dialogue: 0,0:20:36.95,0:20:39.91,Default,,0000,0000,0000,,I ne samo to, molim te budi pažljiva\NStarija Sestro Hinata.
+Dialogue: 0,0:20:40.12,0:20:44.08,Default,,0000,0000,0000,,Hoću. Idem da im pokažem sve\Nšto sam naučila do sada.
+Dialogue: 0,0:20:44.99,0:20:47.41,Default,,0000,0000,0000,,Zaštitiću Naruta!
+Dialogue: 0,0:20:49.12,0:20:51.08,Default,,0000,0000,0000,,Daj sve od sebe, Starija Sestro Hinata.
+Dialogue: 0,0:20:51.78,0:20:52.87,Default,,0000,0000,0000,,Da!
+Dialogue: 0,0:22:36.43,0:22:38.81,Default,,0000,0000,0000,,Sada je na mene red da napadnem!
+Dialogue: 0,0:22:39.23,0:22:41.02,Default,,0000,0000,0000,,Prestani da se praviš snažan! Rat je gotov!
+Dialogue: 0,0:22:41.68,0:22:44.73,Default,,0000,0000,0000,,Zahvalan sam ti, Naruto...
+Dialogue: 0,0:22:45.14,0:22:48.02,Default,,0000,0000,0000,,Izvukao si Repate Zveri iz Obita
+Dialogue: 0,0:22:48.10,0:22:51.43,Default,,0000,0000,0000,,sačuvavši me problema, oslabio si ga.
+Dialogue: 0,0:22:51.93,0:22:54.27,Default,,0000,0000,0000,,Napokon, mogu da se borim stvarno.
+Dialogue: 0,0:22:54.81,0:22:56.75,Default,,0000,0000,0000,,Sledeći put u Naruto Shippuuden
+Dialogue: 0,0:22:59.52,0:23:03.18,Default,,0000,0000,0000,,Nema bitke bez pobesnele\N krvi i lupanja srca!
+Dialogue: 0,0:22:56.83,0:23:04.84,Default,,0000,0000,0000,,USPON MADARA UČIHE
+Dialogue: 0,0:23:04.89,0:23:08.64,Default,,0000,0000,0000,,Gledajte nas ponovo!\Nwww.animesrbija.com

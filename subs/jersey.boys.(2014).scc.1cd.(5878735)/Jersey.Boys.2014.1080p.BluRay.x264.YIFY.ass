@@ -1,0 +1,1344 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Jersey.Boys.2014.1080p.BluRay.x264.YIFY
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,3,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:50.07,0:01:00.07,Default,,0,0,0,,Obrada: {\c&H996600&}Botaničar\NPreveo: {\c&H0099ff&}eemizerp
+Dialogue: 0,0:01:00.48,0:01:04.28,Default,,0,0,0,,BELLEVILLE u Nju Dzersiju 1951
+Dialogue: 0,0:01:12.12,0:01:15.75,Default,,0,0,0,,želite da čujete istinitu priču?\NSlušaj me, Tommi DeVito.
+Dialogue: 0,0:01:15.92,0:01:19.42,Default,,0,0,0,,Bez mene, svi smo bili četvorica\Nnajverovatnije završio sa metkom u glavi.
+Dialogue: 0,0:01:19.59,0:01:22.88,Default,,0,0,0,,Ja čak imam\Nulicu nazvanu po mene.
+Dialogue: 0,0:01:23.05,0:01:26.13,Default,,0,0,0,,Ali potrebno talenat,\Nveštine i vizije.
+Dialogue: 0,0:01:26.30,0:01:28.30,Default,,0,0,0,,I sreće.
+Dialogue: 0,0:01:47.03,0:01:52.37,Default,,0,0,0,,- Gde je moja espreso, Frenki?\N- To je na putu, mr. DeCarlo.
+Dialogue: 0,0:01:53.83,0:01:58.33,Default,,0,0,0,,- Kada ga promovisati?\N- Nije spreman, prevara.
+Dialogue: 0,0:01:58.50,0:02:02.88,Default,,0,0,0,,- Frenki. Bi ti obrijati?\N- Da, naravno.
+Dialogue: 0,0:02:03.05,0:02:06.51,Default,,0,0,0,,Mu brijač konektora.
+Dialogue: 0,0:02:06.67,0:02:09.51,Default,,0,0,0,,- Budi oprezan.\N- Da.
+Dialogue: 0,0:02:09.68,0:02:12.64,Default,,0,0,0,,Mph. On seče\N'nije moja grlo.
+Dialogue: 0,0:02:12.81,0:02:15.52,Default,,0,0,0,,- Pa, Frenki?\N- Ne, MR. DeCarlo.
+Dialogue: 0,0:02:15.68,0:02:18.94,Default,,0,0,0,,Ima Obično mnogo,\Nkako bi ljudi vole.
+Dialogue: 0,0:02:19.94,0:02:22.73,Default,,0,0,0,,Zdravo! Šetnja u njemu.
+Dialogue: 0,0:02:22.90,0:02:26.24,Default,,0,0,0,,- Sranje.\N- Šta?
+Dialogue: 0,0:02:26.40,0:02:30.49,Default,,0,0,0,,- Nije to ništa.\N- Daj mi after shave.
+Dialogue: 0,0:02:32.28,0:02:35.08,Default,,0,0,0,,Žao mi je.\NTo je samo mali suza.
+Dialogue: 0,0:02:35.24,0:02:39.12,Default,,0,0,0,,- Žao mi je, g. DeCarlo.\N- Upozori nas drugi put, Tomi.
+Dialogue: 0,0:02:39.29,0:02:43.42,Default,,0,0,0,,- Žao mi je, nisam mislio...\N- Ne, nikad.
+Dialogue: 0,0:02:43.59,0:02:47.67,Default,,0,0,0,,- Daj mi. Ja ću ga uzeti.\N- Smiri se, Vito.
+Dialogue: 0,0:02:47.84,0:02:50.93,Default,,0,0,0,,Šta malo krvi između prijatelja?
+Dialogue: 0,0:02:51.09,0:02:53.60,Default,,0,0,0,,- Žao mi je, g. DeCarlo.\N- Ne brini o tome.
+Dialogue: 0,0:02:53.76,0:02:58.31,Default,,0,0,0,,Gip DeCarlo.\NAko ste želeli nešto sortirana -
+Dialogue: 0,0:02:58.48,0:03:04.90,Default,,0,0,0,,- pa su ga kontaktirao.\NA imali smo veoma poseban prijateljstvo.
+Dialogue: 0,0:03:05.07,0:03:11.28,Default,,0,0,0,,- Jesi li pokupio odeću od?\N- To je već kod kuće.
+Dialogue: 0,0:03:11.45,0:03:15.33,Default,,0,0,0,,- Run Frenki kući i onda ja.\N- Da.
+Dialogue: 0,0:03:15.49,0:03:18.50,Default,,0,0,0,,- Da li radite svoj vežbe?\N- Da.
+Dialogue: 0,0:03:18.66,0:03:21.33,Default,,0,0,0,,Tvoj glas je dar od Boga.
+Dialogue: 0,0:03:22.33,0:03:24.59,Default,,0,0,0,,Ceo svet će ga čuti.
+Dialogue: 0,0:03:24.75,0:03:29.05,Default,,0,0,0,,- Da. To je samo...\N- Šta?
+Dialogue: 0,0:03:29.22,0:03:32.47,Default,,0,0,0,,Voleo bih da uskoro dogodilo.
+Dialogue: 0,0:03:32.64,0:03:34.80,Default,,0,0,0,,Ste nestrpljivi?
+Dialogue: 0,0:03:34.97,0:03:38.52,Default,,0,0,0,,Ne brini. Stavite sile, onda\Nbi verovatno da se uradi.
+Dialogue: 0,0:03:38.68,0:03:43.73,Default,,0,0,0,,- Ne, Tomi?\N- Vi ćete biti veći od Sinatra.
+Dialogue: 0,0:03:43.90,0:03:46.73,Default,,0,0,0,,Mogao si pobeći\Niz komšiluka na tri načina.
+Dialogue: 0,0:03:46.90,0:03:49.82,Default,,0,0,0,,Možete da se prijavite za vojsku\Ni rizik od umiranja.
+Dialogue: 0,0:03:49.99,0:03:52.49,Default,,0,0,0,,Ili postane delikvent\Na možda i ubili.
+Dialogue: 0,0:03:52.66,0:03:54.66,Default,,0,0,0,,Ili bi mogao da postane slavan.
+Dialogue: 0,0:03:54.82,0:03:58.41,Default,,0,0,0,,Izabrali smo dva od tri.
+Dialogue: 0,0:04:15.55,0:04:19.52,Default,,0,0,0,,Biće sjajno.\NVodite računa o sebi.
+Dialogue: 0,0:04:29.98,0:04:35.87,Default,,0,0,0,,Ne razumem\Nšta vidiš u kriminalcima.
+Dialogue: 0,0:04:36.03,0:04:38.08,Default,,0,0,0,,Jer oni su ti, Frankie.
+Dialogue: 0,0:04:38.24,0:04:42.75,Default,,0,0,0,,Vi rizikuju da budu ubijeni\Nili kavezu.
+Dialogue: 0,0:04:42.91,0:04:46.63,Default,,0,0,0,,Ona je u pravu.\NSlušajte joj i nauče nešto.
+Dialogue: 0,0:04:46.79,0:04:50.25,Default,,0,0,0,,- Moram da idem.\N- Jedite hranu prvo.
+Dialogue: 0,0:04:50.42,0:04:53.97,Default,,0,0,0,,- Hej, MR. i Mrs. Castelluccio.\N- Zdravo, Tome.
+Dialogue: 0,0:04:54.13,0:04:57.05,Default,,0,0,0,,- Jesi li gladan?\N- Hvala.
+Dialogue: 0,0:04:57.22,0:05:00.85,Default,,0,0,0,,- Gde ideš?\N- Mi probu sa bendom.
+Dialogue: 0,0:05:01.02,0:05:04.19,Default,,0,0,0,,Nalazi se na maturskoj večeri.
+Dialogue: 0,0:05:04.35,0:05:07.94,Default,,0,0,0,,- Ne budu uhvaćeni pije.\N- On je pravi anđeo.
+Dialogue: 0,0:05:08.11,0:05:11.40,Default,,0,0,0,,On je takođe zvuči kao jedan.\NKo je on to nasledio posle?
+Dialogue: 0,0:05:11.57,0:05:14.65,Default,,0,0,0,,- Ne ja.\N- Ne?
+Dialogue: 0,0:05:14.82,0:05:17.82,Default,,0,0,0,,- Šta je to?\N- Ja vas pitam.
+Dialogue: 0,0:05:17.99,0:05:22.95,Default,,0,0,0,,- Pobrini se Frenki.\N- Tamo nikada neće dogoditi Frankie nešto.
+Dialogue: 0,0:05:23.12,0:05:27.42,Default,,0,0,0,,Do kasnije. Frenki neće jesti.\NDaj mi Vink.
+Dialogue: 0,0:05:27.58,0:05:30.67,Default,,0,0,0,,Sada odgovaraju jedni druge.
+Dialogue: 0,0:05:30.84,0:05:33.55,Default,,0,0,0,,- Morate biti kod kuće. 23\N- Volim te.
+Dialogue: 0,0:05:33.71,0:05:37.84,Default,,0,0,0,,Ne minut kasnije.\NSada odgovaraju jedni druge.
+Dialogue: 0,0:05:38.01,0:05:42.01,Default,,0,0,0,,- Kl. 23, Frenk.\N- Zbogom.
+Dialogue: 0,0:05:49.90,0:05:52.78,Default,,0,0,0,,Gledaj, Frenki.
+Dialogue: 0,0:05:52.94,0:05:55.15,Default,,0,0,0,,Koje su signal upozorenja?
+Dialogue: 0,0:05:55.32,0:05:57.28,Default,,0,0,0,,"Siluete".
+Dialogue: 0,0:05:57.45,0:05:59.57,Default,,0,0,0,,Dobro. Pridruže.
+Dialogue: 0,0:06:02.70,0:06:07.67,Default,,0,0,0,,Nemoj zeznuti.\NSamo ponašaju normalno.
+Dialogue: 0,0:06:19.26,0:06:21.85,Default,,0,0,0,,Hajde. Push sada, dođavola.
+Dialogue: 0,0:06:23.22,0:06:26.48,Default,,0,0,0,,Ja isto ovo sranje.
+Dialogue: 0,0:06:38.90,0:06:41.74,Default,,0,0,0,,- Zdravo, Frenki.\N- Zdravo, službenik Majk.
+Dialogue: 0,0:06:41.91,0:06:47.75,Default,,0,0,0,,- Zašto stojiš ovde i peva?\N- Akustiku su stvarno dobro ovde.
+Dialogue: 0,0:06:47.91,0:06:54.30,Default,,0,0,0,,- Ne bi trebalo da si kod kuće u. 23?\N- Ja udvaram moju devojku.
+Dialogue: 0,0:06:54.46,0:06:57.84,Default,,0,0,0,,- Da li izlečiti?\N- Ljubav kroz muziku.
+Dialogue: 0,0:07:05.10,0:07:10.60,Default,,0,0,0,,- Shut Up! Mi pokušavamo da spavamo.\N- Njena majka nije toliko lud za mnom.
+Dialogue: 0,0:07:10.77,0:07:15.44,Default,,0,0,0,,- Dobar pokušaj. Plug bolje od vas.\N- Da, Majki.
+Dialogue: 0,0:07:16.44,0:07:19.07,Default,,0,0,0,,Žalim prekida, gospođo.
+Dialogue: 0,0:07:23.32,0:07:25.58,Default,,0,0,0,,Pažljivo.
+Dialogue: 0,0:07:27.16,0:07:31.46,Default,,0,0,0,,I lako.\NKako bi ti to slomiti?
+Dialogue: 0,0:07:31.62,0:07:33.92,Default,,0,0,0,,- Ne možete...\N- Umukni i guraj.
+Dialogue: 0,0:07:34.08,0:07:36.96,Default,,0,0,0,,- Ulazi u auto sa vama.\N- Hajde.
+Dialogue: 0,0:07:39.34,0:07:43.22,Default,,0,0,0,,- Jebi se.\N- Hajde!
+Dialogue: 0,0:07:45.05,0:07:47.72,Default,,0,0,0,,Hajde.\NGas do daske, Frenki.
+Dialogue: 0,0:07:47.89,0:07:50.06,Default,,0,0,0,,Pis.
+Dialogue: 0,0:07:51.23,0:07:53.69,Default,,0,0,0,,- Sranje.\N- Šta to radiš?
+Dialogue: 0,0:07:53.85,0:07:56.65,Default,,0,0,0,,Get it dole! Šta to radiš?
+Dialogue: 0,0:07:56.82,0:07:59.61,Default,,0,0,0,,- Ne mogu!\N- Zaustavi auto!
+Dialogue: 0,0:08:02.15,0:08:05.03,Default,,0,0,0,,- Frenki.\N- Oh, ne!
+Dialogue: 0,0:08:12.16,0:08:15.46,Default,,0,0,0,,Prokletstvo.
+Dialogue: 0,0:08:15.63,0:08:17.34,Default,,0,0,0,,Dođi!
+Dialogue: 0,0:08:20.55,0:08:24.55,Default,,0,0,0,,Jesi li dobro? Hajde!
+Dialogue: 0,0:08:55.54,0:08:59.17,Default,,0,0,0,,Hvala vam puno.
+Dialogue: 0,0:08:59.34,0:09:02.13,Default,,0,0,0,,Smo Varijanta Trio.\NMoje ime je Tomi DeVito.
+Dialogue: 0,0:09:02.30,0:09:06.34,Default,,0,0,0,,- Ovo je moj brat, Niki DeVito.\N- Zdravo.
+Dialogue: 0,0:09:06.51,0:09:09.43,Default,,0,0,0,,Nick Massi na basu.
+Dialogue: 0,0:09:10.60,0:09:13.93,Default,,0,0,0,,I ovde i sada u ovoj fazi -
+Dialogue: 0,0:09:14.10,0:09:16.85,Default,,0,0,0,,- pre nego Beč Bois Choir\NTopo Gigio i nastavlja...
+Dialogue: 0,0:09:19.94,0:09:22.90,Default,,0,0,0,,Želeo bih da vam predstavim\Nza novu pevača:
+Dialogue: 0,0:09:23.07,0:09:27.57,Default,,0,0,0,,Mali frankie Castelluccio.\NDođi ovamo, Frankie.
+Dialogue: 0,0:09:31.24,0:09:33.95,Default,,0,0,0,,Ovde je vaša šansa.\NPevaj, prokletstvo.
+Dialogue: 0,0:09:44.67,0:09:47.47,Default,,0,0,0,,- On je sladak.\N- Da, on je.
+Dialogue: 0,0:10:32.64,0:10:34.64,Default,,0,0,0,,On je zaista talentovan.
+Dialogue: 0,0:10:37.48,0:10:41.36,Default,,0,0,0,,- Reci: "Hvala za večeras."\N- Laku noć.
+Dialogue: 0,0:10:42.61,0:10:48.15,Default,,0,0,0,,Hvala vam što ste došli.\NNadam se da ste uživali u večeri.
+Dialogue: 0,0:10:48.32,0:10:51.78,Default,,0,0,0,,Da li ste videli moj upaljač?\NVidi ko je ovde.
+Dialogue: 0,0:10:51.95,0:10:55.33,Default,,0,0,0,,- Eno ga.\N- Sang Dobro, nije fantastičan ipak.
+Dialogue: 0,0:10:55.49,0:10:59.87,Default,,0,0,0,,- Publika Izgledalo je kao da uživa.\N- Da li iznenada postao ekspert?
+Dialogue: 0,0:11:00.04,0:11:04.67,Default,,0,0,0,,Sam da odluči da li su ga uživali.\NUzmi sada i slušajte me.
+Dialogue: 0,0:11:04.84,0:11:10.09,Default,,0,0,0,,Skretanje udesno.\NZnači rodtoppen u prvom redu?
+Dialogue: 0,0:11:10.26,0:11:15.14,Default,,0,0,0,,- Onaj koji lako navuku.\N- Ne, ona je sedela sa drugim.
+Dialogue: 0,0:11:16.64,0:11:19.35,Default,,0,0,0,,- Pa nudi mali joj vožnju.\N- Šta?
+Dialogue: 0,0:11:19.52,0:11:21.35,Default,,0,0,0,,U mom Plimut.
+Dialogue: 0,0:11:22.31,0:11:25.27,Default,,0,0,0,,- Pozajmi mi auto?\N- Možda.
+Dialogue: 0,0:11:25.44,0:11:29.99,Default,,0,0,0,,Ali pokrenuti sada ništa loše u tome.\NNe mogu da podnesem muke osiguranja.
+Dialogue: 0,0:11:30.15,0:11:35.37,Default,,0,0,0,,Ga vidim. On je totalno izgubljen.\NSedi i slušaj.
+Dialogue: 0,0:11:35.53,0:11:39.58,Default,,0,0,0,,Postoje dve vrste žena.\NTip i Tip B
+Dialogue: 0,0:11:39.75,0:11:45.38,Default,,0,0,0,,skok pravo u krevet sa tobom,\Nali kasnije su neke kučke.
+Dialogue: 0,0:11:45.54,0:11:48.84,Default,,0,0,0,,Zatim, tu je tip B.\NSamo pitaj Nicki.
+Dialogue: 0,0:11:49.01,0:11:54.47,Default,,0,0,0,,Prvo, oni su pozvani na večeru, a potom\Nsu neke kučke.
+Dialogue: 0,0:11:54.64,0:11:58.35,Default,,0,0,0,,- Ja ne idem.\N- Pogledaj ga. On nije.
+Dialogue: 0,0:11:58.52,0:12:01.94,Default,,0,0,0,,To će doći.\NDa li želite da pozajmim auto?
+Dialogue: 0,0:12:02.10,0:12:05.06,Default,,0,0,0,,Vidi ga opet.\NŠta ćeš da uradiš?
+Dialogue: 0,0:12:05.23,0:12:07.40,Default,,0,0,0,,Frenki...
+Dialogue: 0,0:12:07.57,0:12:11.36,Default,,0,0,0,,Šta je bilo?\NDa li želite da se bori?
+Dialogue: 0,0:12:11.53,0:12:16.95,Default,,0,0,0,,Hajde sebe.\NOn udara sa leve kukom.
+Dialogue: 0,0:12:17.12,0:12:20.20,Default,,0,0,0,,Nemoj da me tuku!
+Dialogue: 0,0:12:21.21,0:12:23.50,Default,,0,0,0,,Nemoj da me tuku!
+Dialogue: 0,0:12:23.67,0:12:28.00,Default,,0,0,0,,On je napao mene.\NOn je krvavi tvrd orah.
+Dialogue: 0,0:12:28.17,0:12:31.05,Default,,0,0,0,,- Pusti me!\N- Slušaj me, ok?
+Dialogue: 0,0:12:32.05,0:12:36.01,Default,,0,0,0,,- Hajde, mali brate.\N- Ja nisam tvoj mali brat.
+Dialogue: 0,0:12:36.18,0:12:38.85,Default,,0,0,0,,Frenki! Smiri.
+Dialogue: 0,0:12:39.01,0:12:42.14,Default,,0,0,0,,Uzima sve tako ozbiljno.\NEvo. Uzmi auto.
+Dialogue: 0,0:12:42.31,0:12:45.60,Default,,0,0,0,,Dajem ovo mesto.\NZabavite večeras.
+Dialogue: 0,0:12:46.61,0:12:50.32,Default,,0,0,0,,Sa malim divna devojka.
+Dialogue: 0,0:12:51.32,0:12:55.16,Default,,0,0,0,,- Gde da idemo?\N- Gde želiš da ideš?
+Dialogue: 0,0:12:55.32,0:12:57.87,Default,,0,0,0,,U Meksiko.
+Dialogue: 0,0:12:58.03,0:13:00.54,Default,,0,0,0,,- Frenki.\N- Officer Majk.
+Dialogue: 0,0:13:00.70,0:13:03.71,Default,,0,0,0,,Kriminalistička policija bih\Nrazgovaram sa tobom.
+Dialogue: 0,0:13:09.00,0:13:12.97,Default,,0,0,0,,- To uradio u memoriji?\N- Borila si ispred zlatara.
+Dialogue: 0,0:13:13.13,0:13:17.14,Default,,0,0,0,,Izbo si oficir ploče\Nza Serenada za svoju devojku.
+Dialogue: 0,0:13:18.64,0:13:22.22,Default,,0,0,0,,- Tomi i drugi već vrhom.\N- Gu, oni nemaju!
+Dialogue: 0,0:13:22.39,0:13:27.35,Default,,0,0,0,,Dobro, kopile.\NDo ipak.
+Dialogue: 0,0:13:29.77,0:13:34.45,Default,,0,0,0,,- Koliko imaš godina?\N- 16 godina, časni sude.
+Dialogue: 0,0:13:34.61,0:13:38.49,Default,,0,0,0,,Klinac znao ništa.\NGa prevario sam.
+Dialogue: 0,0:13:40.83,0:13:44.83,Default,,0,0,0,,Skidaj sa upozorenjem,\Nali smatraju ti neke nove prijatelje.
+Dialogue: 0,0:13:45.00,0:13:49.88,Default,,0,0,0,,Ako te vidim ovde opet,\Nonda zatvorena.
+Dialogue: 0,0:13:51.84,0:13:55.22,Default,,0,0,0,,Frankie. Keep on peva.
+Dialogue: 0,0:13:57.93,0:14:02.64,Default,,0,0,0,,- Ti si đavo, Tomi.\N- Šta te spasila.
+Dialogue: 0,0:14:02.81,0:14:06.35,Default,,0,0,0,,Kloni mog sina, Tommi.
+Dialogue: 0,0:14:13.65,0:14:19.74,Default,,0,0,0,,Što se tiče vas. "Posedovanje ukradene\Nimovine, Gaetano DeVito. Provale.".
+Dialogue: 0,0:14:19.91,0:14:24.79,Default,,0,0,0,,"Posedovanje provale ukradene imovine\NFalsifikovanje provale...."
+Dialogue: 0,0:14:24.95,0:14:27.62,Default,,0,0,0,,"Kockanje".\NImaš dosta rezime.
+Dialogue: 0,0:14:27.79,0:14:29.79,Default,,0,0,0,,Hvala, časni sude.
+Dialogue: 0,0:14:31.54,0:14:35.13,Default,,0,0,0,,- Da li je dete pevač?\N- Ostvaren pevač.
+Dialogue: 0,0:14:36.42,0:14:38.05,Default,,0,0,0,,On je sve bolji i bolji iz dana u dan.
+Dialogue: 0,0:14:38.22,0:14:41.51,Default,,0,0,0,,Onda će biti zaista dobar,\Nkad izađeš. Oko pola godine.
+Dialogue: 0,0:14:58.40,0:15:03.53,Default,,0,0,0,,Nastavite da ga nauči.\NPobrini se za njega, inače.
+Dialogue: 0,0:15:04.54,0:15:08.41,Default,,0,0,0,,Nazad na Hum.\NLjudi iz područja ulaze i izlaze.
+Dialogue: 0,0:15:08.58,0:15:10.58,Default,,0,0,0,,Uvek postoji neko koga poznajete.
+Dialogue: 0,0:15:10.75,0:15:13.63,Default,,0,0,0,,Zdravo. Da li ste bili promovisani?
+Dialogue: 0,0:15:13.79,0:15:16.71,Default,,0,0,0,,- Kako si?\N- Dobro. A ti?
+Dialogue: 0,0:15:16.88,0:15:19.88,Default,,0,0,0,,- Izgledaš dobro.\N- Ko je novi momak?
+Dialogue: 0,0:15:23.14,0:15:27.31,Default,,0,0,0,,Niki.\NMislila sam da idemo u bioskop.
+Dialogue: 0,0:15:27.48,0:15:31.15,Default,,0,0,0,,- Smiri se.\N- Hoću da vidim novu horor filma.
+Dialogue: 0,0:15:31.31,0:15:35.61,Default,,0,0,0,,Potrebno je samo trenutak.\NČitali Bibliju vreme. Hajde, Frankie.
+Dialogue: 0,0:15:47.75,0:15:49.62,Default,,0,0,0,,Niki!
+Dialogue: 0,0:15:50.71,0:15:56.21,Default,,0,0,0,,Da li se sećate lirics?\NSamo neka teče.
+Dialogue: 0,0:16:57.40,0:17:00.65,Default,,0,0,0,,Tamo su!\NRekao sam ti da sam video vizije.
+Dialogue: 0,0:17:00.82,0:17:04.91,Default,,0,0,0,,- Hej, Niki i Frenki.\N- Hej, Stenli. Sestra.
+Dialogue: 0,0:17:05.07,0:17:09.08,Default,,0,0,0,,Si obio crkvu?\NSi na uslovnoj.
+Dialogue: 0,0:17:09.24,0:17:11.70,Default,,0,0,0,,- Sa tvojim rukama.\N- Zbogom, Niki.
+Dialogue: 0,0:17:11.87,0:17:14.25,Default,,0,0,0,,Sada vidim, gde držite ruke.
+Dialogue: 0,0:17:14.42,0:17:17.79,Default,,0,0,0,,Ako ga uhapsite,\Nonda morate me uhapsiti.
+Dialogue: 0,0:17:17.96,0:17:21.13,Default,,0,0,0,,- Morate biti kod kuće. 23\N- Čuvajte moje fine odelo.
+Dialogue: 0,0:17:21.30,0:17:25.38,Default,,0,0,0,,Rad na sa niskim tonovima.\NKeep vežbanje!
+Dialogue: 0,0:17:25.55,0:17:30.68,Default,,0,0,0,,- Ro, Stenli.\N- Hajde.
+Dialogue: 0,0:17:32.22,0:17:36.22,Default,,0,0,0,,Mph. Princeza.
+Dialogue: 0,0:17:37.22,0:17:40.43,Default,,0,0,0,,- Hej, Tommooch.\N- Machoch.
+Dialogue: 0,0:17:40.60,0:17:45.27,Default,,0,0,0,,Sam izašao, a Nicki pušenje u.\NRaznovrsnost Trio je sada jedan čovek bend.
+Dialogue: 0,0:17:45.44,0:17:48.73,Default,,0,0,0,,Nema budućnosti za mene\Nkao solo umetnik -
+Dialogue: 0,0:17:48.90,0:17:53.03,Default,,0,0,0,,- pa sam donesem odluku\Ni uzima Frankie u bendu.
+Dialogue: 0,0:17:53.20,0:17:55.57,Default,,0,0,0,,Zdravo, Greg. Kako si?
+Dialogue: 0,0:17:55.74,0:17:57.74,Default,,0,0,0,,VELCOME HOME, Tommi
+Dialogue: 0,0:18:14.38,0:18:18.60,Default,,0,0,0,,- Hajde, idemo.\N- Ro na. Slušam.
+Dialogue: 0,0:18:20.22,0:18:23.10,Default,,0,0,0,,Pogledajte kopile tamo.
+Dialogue: 0,0:18:23.27,0:18:26.06,Default,,0,0,0,,- Gde?\N- Onaj koji peče na mojoj devojci.
+Dialogue: 0,0:18:29.69,0:18:34.45,Default,,0,0,0,,- To nije tvoja devojka.\N- To postaje, čim se srećemo.
+Dialogue: 0,0:18:34.61,0:18:38.62,Default,,0,0,0,,To je Meri Delgado.\NOna kida živite.
+Dialogue: 0,0:18:38.78,0:18:42.08,Default,,0,0,0,,Hajde. Ja sam zaljubljen.
+Dialogue: 0,0:18:54.63,0:18:58.68,Default,,0,0,0,,Hvala.\NNadamo se da ste uživali u večeri.
+Dialogue: 0,0:18:58.84,0:19:02.18,Default,,0,0,0,,Ovo je veoma posebno veče.\NBovl i piju napolje.
+Dialogue: 0,0:19:04.18,0:19:06.39,Default,,0,0,0,,I okliznuo tako.\NSmo reoccurrences PM. 22
+Dialogue: 0,0:19:07.85,0:19:10.15,Default,,0,0,0,,Zar me upoznati?
+Dialogue: 0,0:19:12.86,0:19:15.57,Default,,0,0,0,,Uverite se da budala\Nsa crvenim pad nestaje.
+Dialogue: 0,0:19:18.57,0:19:20.82,Default,,0,0,0,,Dakle, laku noć, moj prijatelju.
+Dialogue: 0,0:19:20.99,0:19:23.08,Default,,0,0,0,,- Ko si ti?\N- Sandman.
+Dialogue: 0,0:19:30.58,0:19:33.71,Default,,0,0,0,,- Meri.\N- Zdravo, Tommooch.
+Dialogue: 0,0:19:33.88,0:19:38.18,Default,,0,0,0,,- Veoma diskretan.\N- Ne si zgrčeno na minu.
+Dialogue: 0,0:19:38.34,0:19:41.85,Default,,0,0,0,,Frenki, to je Mari Delgado.\NMeri, to je Frankie Valli.
+Dialogue: 0,0:19:42.01,0:19:44.93,Default,,0,0,0,,- Zdravo.\N- Zdravo.
+Dialogue: 0,0:19:45.10,0:19:49.90,Default,,0,0,0,,- Ro na. Klinac je jedva punoletan.\N- Šta je sa tobom?
+Dialogue: 0,0:19:51.52,0:19:54.73,Default,,0,0,0,,Dođi ovamo.\NSlušaj me.
+Dialogue: 0,0:19:54.90,0:19:58.15,Default,,0,0,0,,- Ona je tip O Da li ste?\N- Da, da.
+Dialogue: 0,0:19:58.32,0:20:03.08,Default,,0,0,0,,- Za jednu noć.\N- Da, da. To je u redu.
+Dialogue: 0,0:20:03.24,0:20:05.74,Default,,0,0,0,,Zabavite.
+Dialogue: 0,0:20:06.91,0:20:09.96,Default,,0,0,0,,Boja izgleda dobro na tebi.\NUvek bi trebalo da nose.
+Dialogue: 0,0:20:10.12,0:20:12.13,Default,,0,0,0,,Hvala za modnu savet.
+Dialogue: 0,0:20:15.00,0:20:18.63,Default,,0,0,0,,Šta kažeš na to moramo da idemo?
+Dialogue: 0,0:20:29.44,0:20:33.06,Default,,0,0,0,,- Lepo mesto, zar ne?\N- Jo.
+Dialogue: 0,0:20:33.23,0:20:36.82,Default,,0,0,0,,Oni prodaju najmanje\NNe Picca komada.
+Dialogue: 0,0:20:36.98,0:20:39.70,Default,,0,0,0,,- Da li je vaše ime stvarno Valli?\N- Ne
+Dialogue: 0,0:20:39.86,0:20:43.66,Default,,0,0,0,,Castelluccio.\NFrancis Castelluccio.
+Dialogue: 0,0:20:43.82,0:20:47.45,Default,,0,0,0,,- Dug je scensko ime.\N- Zašto sam to promenio u Valli.
+Dialogue: 0,0:20:47.62,0:20:49.71,Default,,0,0,0,,- V-A-L-L-I.\N- Ne
+Dialogue: 0,0:20:49.87,0:20:52.17,Default,,0,0,0,,V-A-L-L-I.
+Dialogue: 0,0:20:52.33,0:20:54.79,Default,,0,0,0,,- Zašto?\N- Jer "I" je glupo.
+Dialogue: 0,0:20:54.96,0:21:00.51,Default,,0,0,0,,- Da li je to samoglasnik ili suglasnik?\N- Nikad nisam mislio o tome.
+Dialogue: 0,0:21:00.67,0:21:03.76,Default,,0,0,0,,I kao italijanski\Ntreba tvoje ime završi samoglasnik.
+Dialogue: 0,0:21:03.93,0:21:06.22,Default,,0,0,0,,Delgado. Castelluccio.
+Dialogue: 0,0:21:07.35,0:21:12.06,Default,,0,0,0,,Pica. Valli sa "I".\N"Ti se ne dopada, onda jebi se."
+Dialogue: 0,0:21:16.61,0:21:20.99,Default,,0,0,0,,Ovo je veoma poseban parfem.\NNe znam.
+Dialogue: 0,0:21:21.15,0:21:23.45,Default,,0,0,0,,- Kako se zove?\N- Sapun.
+Dialogue: 0,0:21:25.82,0:21:28.74,Default,,0,0,0,,- Tomi me je upozorila na tebe.\N- Šta je rekao?
+Dialogue: 0,0:21:28.91,0:21:32.08,Default,,0,0,0,,- To nisam mogao da te podnese.\N- Samo zato što nije mogao.
+Dialogue: 0,0:21:34.71,0:21:37.50,Default,,0,0,0,,- Vaša grupa...\N- Varietones.
+Dialogue: 0,0:21:37.67,0:21:40.96,Default,,0,0,0,,- Je li samo ti i Tomi?\N- I njegov brat, Nik, a zatim Niki.
+Dialogue: 0,0:21:41.13,0:21:44.89,Default,,0,0,0,,- Gde su?\N- Oni su otišli ??na neko vreme.
+Dialogue: 0,0:21:45.05,0:21:49.39,Default,,0,0,0,,- Za šta?\N- Jesu neke stvari.
+Dialogue: 0,0:21:49.56,0:21:53.44,Default,,0,0,0,,Sa vrstom prijatelja\Nbi trebalo da promeni ime u Sinatra.
+Dialogue: 0,0:21:54.44,0:21:58.44,Default,,0,0,0,,- Ja sam veliki kao on.\N- Da, ako stojite na stolicu.
+Dialogue: 0,0:22:01.19,0:22:03.45,Default,,0,0,0,,Zašto kažeš tako nešto?
+Dialogue: 0,0:22:03.61,0:22:07.49,Default,,0,0,0,,Prvo, Sinatra\Nodbijaju da nose sako.
+Dialogue: 0,0:22:07.66,0:22:11.25,Default,,0,0,0,,- Odakle ti to?\N- Tomi ga potiče.
+Dialogue: 0,0:22:11.41,0:22:15.92,Default,,0,0,0,,Da. Tommi je bedan smaforbrider,\Nne vidim mogućnosti.
+Dialogue: 0,0:22:16.92,0:22:20.88,Default,,0,0,0,,- Šta da radim?\N- Dođi ovamo.
+Dialogue: 0,0:22:31.60,0:22:34.35,Default,,0,0,0,,Da li imate nikl?
+Dialogue: 0,0:22:35.35,0:22:39.02,Default,,0,0,0,,- Da.\N- Zovi svoju majku. Kasno je.
+Dialogue: 0,0:22:59.59,0:23:01.55,Default,,0,0,0,,Dobro urađeno.
+Dialogue: 0,0:23:01.71,0:23:04.21,Default,,0,0,0,,Izgledaš prelepo, Mari!
+Dialogue: 0,0:23:04.38,0:23:07.63,Default,,0,0,0,,Brzo i bezbolno.
+Dialogue: 0,0:23:07.80,0:23:10.43,Default,,0,0,0,,Mladenci
+Dialogue: 0,0:23:17.06,0:23:20.65,Default,,0,0,0,,Marija je bila nekoliko godina starija od njega.\NObojica želeli da pobegne iz susedstva.
+Dialogue: 0,0:23:20.81,0:23:24.44,Default,,0,0,0,,Meri video Frankie kao njegov resort\Ni fokusirani samo na to.
+Dialogue: 0,0:23:24.61,0:23:29.49,Default,,0,0,0,,Ljubav?\NNikada nisam razumeo šta je to bilo.
+Dialogue: 0,0:23:29.66,0:23:33.62,Default,,0,0,0,,Brak?\NBrak nije ljubav.
+Dialogue: 0,0:23:33.79,0:23:39.38,Default,,0,0,0,,Vi završiti lice i brijanje, dok\Nje njegova supruga cut nokte.
+Dialogue: 0,0:23:41.84,0:23:43.67,Default,,0,0,0,,Frankie udata -
+Dialogue: 0,0:23:43.84,0:23:46.59,Default,,0,0,0,,- Mi se ponašamo u večernjim\Nsatima, a on je frizer danju.
+Dialogue: 0,0:23:46.76,0:23:50.09,Default,,0,0,0,,Na dan venčanja\Non će dati Mari neki nakit.
+Dialogue: 0,0:23:50.26,0:23:53.10,Default,,0,0,0,,Nalazi se na Jersei-stilu.
+Dialogue: 0,0:23:53.26,0:23:57.64,Default,,0,0,0,,- Zašto nije došao kući sa nama?\N- On je malo nervozan.
+Dialogue: 0,0:23:57.81,0:24:02.44,Default,,0,0,0,,Vaša supruga će voleti nakit.\NPar satovi. Beautiful dijamanti.
+Dialogue: 0,0:24:02.61,0:24:07.49,Default,,0,0,0,,- Ovo je iz kuće u Saddle River.\N- Ćuti.
+Dialogue: 0,0:24:07.65,0:24:09.91,Default,,0,0,0,,Da ne treba da zna.
+Dialogue: 0,0:24:10.07,0:24:13.74,Default,,0,0,0,,- Frenki je dobro. Ne?\N- Da, nema problema.
+Dialogue: 0,0:24:13.91,0:24:15.54,Default,,0,0,0,,Čekaj malo.
+Dialogue: 0,0:24:16.70,0:24:20.00,Default,,0,0,0,,- Ovo nije Bloomfield.\N- Ne, Fairfield.
+Dialogue: 0,0:24:20.17,0:24:23.21,Default,,0,0,0,,Ne Fairfield, seronjo.\NBloomfield.
+Dialogue: 0,0:24:23.38,0:24:26.92,Default,,0,0,0,,- Rekao si Fairfield.\N- Zašto bih rekao tako nešto?
+Dialogue: 0,0:24:27.09,0:24:30.59,Default,,0,0,0,,Možda si dosadan.\NI ne zovi me seronja.
+Dialogue: 0,0:24:30.76,0:24:34.26,Default,,0,0,0,,- Ti si jebeni idiot!\N- U redu je.
+Dialogue: 0,0:24:34.43,0:24:36.77,Default,,0,0,0,,- Shut Up.\N- Sada budi oprezan.
+Dialogue: 0,0:24:36.93,0:24:40.85,Default,,0,0,0,,Mogu oboje Jebiga!\NTi si kreten.
+Dialogue: 0,0:24:41.02,0:24:45.69,Default,,0,0,0,,- Ne zovi me seronja, kretenu!\N- Šta to radiš, seronjo?
+Dialogue: 0,0:24:45.86,0:24:50.28,Default,,0,0,0,,Šta da radim?\NŠta kažeš na ovo?
+Dialogue: 0,0:24:54.74,0:24:59.71,Default,,0,0,0,,- Prokletstvo! Jesi li ti lud?\N- Ko je sad seronja?
+Dialogue: 0,0:25:01.12,0:25:03.88,Default,,0,0,0,,- Doni...\N- Izlazi iz auta!
+Dialogue: 0,0:25:04.04,0:25:07.63,Default,,0,0,0,,Izlazi. Zvaću te sutra.\NImam ovo!
+Dialogue: 0,0:25:07.80,0:25:11.18,Default,,0,0,0,,Running, Frankie. Trči!
+Dialogue: 0,0:25:19.77,0:25:22.94,Default,,0,0,0,,Sam prokleto skoro žao klinca.
+Dialogue: 0,0:25:23.10,0:25:26.69,Default,,0,0,0,,Moramo da ga gura.\NTeško Run.
+Dialogue: 0,0:25:26.86,0:25:32.45,Default,,0,0,0,,Treba nam novac, kretenu.\NSkok napred.
+Dialogue: 0,0:25:36.66,0:25:41.00,Default,,0,0,0,,Jesi li ti gluv? Otvori vrata.\NPitajte tanjir i otvori vrata!
+Dialogue: 0,0:25:41.16,0:25:45.33,Default,,0,0,0,,- To bi moglo biti tvoja žena.\N- Sada otvorite samo vrata.
+Dialogue: 0,0:25:45.50,0:25:47.67,Default,,0,0,0,,Tomi.
+Dialogue: 0,0:25:47.84,0:25:50.59,Default,,0,0,0,,Bilo je nešto strašno.
+Dialogue: 0,0:25:50.76,0:25:53.55,Default,,0,0,0,,Dobro. Smiri.
+Dialogue: 0,0:25:53.72,0:25:55.93,Default,,0,0,0,,Pucao nekoga u vašem automobilu -
+Dialogue: 0,0:25:56.10,0:25:58.76,Default,,0,0,0,,- i sada traži 20.000 dolara\Nda sakrije?
+Dialogue: 0,0:25:58.93,0:26:01.31,Default,,0,0,0,,$ 25,000.
+Dialogue: 0,0:26:01.48,0:26:05.85,Default,,0,0,0,,Porezi. Daj mi poljubac,\Ni ostavite nas na miru.
+Dialogue: 0,0:26:07.11,0:26:10.90,Default,,0,0,0,,Pitanje. Ako je pucao,\Nzašto bi trebalo da plati?
+Dialogue: 0,0:26:11.07,0:26:14.32,Default,,0,0,0,,To je moj auto.\NPostoji mrtav čovek u njemu.
+Dialogue: 0,0:26:14.49,0:26:17.28,Default,,0,0,0,,Policija će pratiti ubistvo\Nnazad na meni.
+Dialogue: 0,0:26:17.45,0:26:20.54,Default,,0,0,0,,- To je prevara, Frenki.\N- Šta?
+Dialogue: 0,0:26:20.70,0:26:24.29,Default,,0,0,0,,Feigns ubistvo\Ni naplatiti $ 25.000.
+Dialogue: 0,0:26:24.46,0:26:27.71,Default,,0,0,0,,Bilo je krvi svuda.
+Dialogue: 0,0:26:28.71,0:26:33.80,Default,,0,0,0,,- Ili je to možda bilo pozorište krvi.\N- Slušaj ovamo.
+Dialogue: 0,0:26:33.97,0:26:38.47,Default,,0,0,0,,Ako ubiješ nekoga\Nmoraju pucati svedoke.
+Dialogue: 0,0:26:38.64,0:26:42.89,Default,,0,0,0,,Kladim $ 100,\Nda vaš automobil je u svom prilazu.
+Dialogue: 0,0:26:43.06,0:26:47.27,Default,,0,0,0,,- Ali Doni je moj prijatelj.\N- Nisam tvoj prijatelj?
+Dialogue: 0,0:26:47.44,0:26:51.36,Default,,0,0,0,,Ja sam tvoj prijatelj.\NDonnie Fuck.
+Dialogue: 0,0:26:51.53,0:26:54.53,Default,,0,0,0,,Idi kući. Imam ovo.
+Dialogue: 0,0:26:55.61,0:26:58.74,Default,,0,0,0,,- Hoćete li pozvati prevara?\N- Jesi li glup?
+Dialogue: 0,0:26:58.91,0:27:03.04,Default,,0,0,0,,Zašto ga pominjemo?\NVi nametne prevara sa tim.
+Dialogue: 0,0:27:03.20,0:27:05.41,Default,,0,0,0,,Imam ga. Idi kući.
+Dialogue: 0,0:27:05.58,0:27:09.71,Default,,0,0,0,,- Vodi računa o svom suprugu.\N- Hvala, Tommi. Dugujem ti.
+Dialogue: 0,0:27:15.17,0:27:18.89,Default,,0,0,0,,Šta da radim s tobom?
+Dialogue: 0,0:27:19.05,0:27:21.47,Default,,0,0,0,,'Re Fools.
+Dialogue: 0,0:27:21.64,0:27:23.64,Default,,0,0,0,,Tačno.
+Dialogue: 0,0:27:23.81,0:27:26.44,Default,,0,0,0,,Uzmi šešir.
+Dialogue: 0,0:27:32.44,0:27:35.78,Default,,0,0,0,,Dozvolite mi da kažem ovo jednom za svagda.
+Dialogue: 0,0:27:35.94,0:27:39.37,Default,,0,0,0,,Pokušajte da shvati.\NFrankie je moj prijatelj.
+Dialogue: 0,0:27:39.53,0:27:43.62,Default,,0,0,0,,U bilo dirljivo, ili razgovor sa njim.\NNe bi trebalo ni sanjati o njemu.
+Dialogue: 0,0:27:43.79,0:27:47.46,Default,,0,0,0,,Ako dođe hoda prema vama,\Ndok prelaziš ulicu...
+Dialogue: 0,0:27:47.62,0:27:50.42,Default,,0,0,0,,ali ako on padne\Ntako da samo treba da ga uzme.
+Dialogue: 0,0:27:53.34,0:27:55.26,Default,,0,0,0,,I ubacio tako sa vama.
+Dialogue: 0,0:27:58.34,0:28:00.80,Default,,0,0,0,,Mi vas gledaju.
+Dialogue: 0,0:28:00.97,0:28:04.14,Default,,0,0,0,,Hvala, Tommi.
+Dialogue: 0,0:28:43.35,0:28:46.52,Default,,0,0,0,,Hvala.
+Dialogue: 0,0:28:49.35,0:28:52.02,Default,,0,0,0,,On je zaista talentovan.
+Dialogue: 0,0:28:53.02,0:28:55.98,Default,,0,0,0,,- Prijatno veče.\N- Hvala.
+Dialogue: 0,0:29:00.74,0:29:04.95,Default,,0,0,0,,Hvala za pesmu, Frenki.\NBio je omiljeni moje majke.
+Dialogue: 0,0:29:05.12,0:29:08.29,Default,,0,0,0,,Bilo mi je zadovoljstvo, MR. DeCarlo.
+Dialogue: 0,0:29:08.45,0:29:10.83,Default,,0,0,0,,- Jesi li se vaš auto nazad?\N- Da.
+Dialogue: 0,0:29:11.00,0:29:14.54,Default,,0,0,0,,- Oni te pustiti na miru?\N- Da.
+Dialogue: 0,0:29:14.71,0:29:16.71,Default,,0,0,0,,Ti si dobar momak, Frankie.
+Dialogue: 0,0:29:19.05,0:29:22.09,Default,,0,0,0,,Ovde imate kreditnu notu.
+Dialogue: 0,0:29:22.26,0:29:27.56,Default,,0,0,0,,Ako ste ikada imali problem,\Nonda povlači samo me zgrabi.
+Dialogue: 0,0:29:29.35,0:29:31.56,Default,,0,0,0,,OK.
+Dialogue: 0,0:29:31.73,0:29:34.69,Default,,0,0,0,,- Ti pevala jako lepo.\N- Hvala.
+Dialogue: 0,0:29:35.73,0:29:38.73,Default,,0,0,0,,Šta misliš?
+Dialogue: 0,0:29:39.74,0:29:41.24,Default,,0,0,0,,Dobro.
+Dialogue: 0,0:29:43.20,0:29:46.83,Default,,0,0,0,,Sam služenje godinama za njega, a on me je\Ntretira kao prljavštine.
+Dialogue: 0,0:29:46.99,0:29:50.16,Default,,0,0,0,,Frenki peva jednu pesmu\Ni dobiju kreditnu notu.
+Dialogue: 0,0:29:50.33,0:29:52.62,Default,,0,0,0,,Je dobro da bude pevač.
+Dialogue: 0,0:29:52.79,0:29:56.92,Default,,0,0,0,,Nick Massi je konačno pušten.
+Dialogue: 0,0:29:57.09,0:29:59.55,Default,,0,0,0,,- Zdravo.\N- Zdravo.
+Dialogue: 0,0:29:59.71,0:30:01.92,Default,,0,0,0,,Pogledaj se.
+Dialogue: 0,0:30:02.09,0:30:05.34,Default,,0,0,0,,- Izgledaš prokleto dobro.\N- Tommooch.
+Dialogue: 0,0:30:05.51,0:30:07.43,Default,,0,0,0,,Frenki.
+Dialogue: 0,0:30:08.43,0:30:11.98,Default,,0,0,0,,Tako smo se okupili,\Ni moram da nas drži na površini -
+Dialogue: 0,0:30:12.14,0:30:14.90,Default,,0,0,0,,- ali ne duže zapošljava trija.
+Dialogue: 0,0:30:15.90,0:30:19.40,Default,,0,0,0,,Sam ponestalo ideja,\Nali znam posledice.
+Dialogue: 0,0:30:19.57,0:30:23.82,Default,,0,0,0,,Tri muzičara nemaju svirku.\NDa bi drop novac -
+Dialogue: 0,0:30:23.99,0:30:28.28,Default,,0,0,0,,- Imam saradnju trajan\Nsa momkom.
+Dialogue: 0,0:30:42.67,0:30:45.38,Default,,0,0,0,,- Ti slušaš, Joei?\N- Radim.
+Dialogue: 0,0:30:45.55,0:30:50.26,Default,,0,0,0,,Nakon pete runde\Npostavite kupe kako je dogovoreno.
+Dialogue: 0,0:30:50.43,0:30:52.98,Default,,0,0,0,,Da, malo nakrivo.
+Dialogue: 0,0:30:53.14,0:30:58.31,Default,,0,0,0,,Vidi, imamo xez bend.\NIgramo u Bergenfield sa detetom.
+Dialogue: 0,0:30:58.48,0:31:01.69,Default,,0,0,0,,On je ludački talentovan,\Npa piše pesme.
+Dialogue: 0,0:31:01.86,0:31:05.45,Default,,0,0,0,,- Ovo je čovek koga tražiš.\N- Za šta?
+Dialogue: 0,0:31:05.61,0:31:10.03,Default,,0,0,0,,U tvom bendu. The Lovers,\NRimljani, ili ono što se sada zove.
+Dialogue: 0,0:31:10.20,0:31:12.95,Default,,0,0,0,,Tomi. Ovo je njegova pesma.
+Dialogue: 0,0:31:19.84,0:31:23.26,Default,,0,0,0,,Kunem se da ću te prebijem,\Nkopile!
+Dialogue: 0,0:31:23.42,0:31:26.13,Default,,0,0,0,,Imaš podelu.\NUskoro spliter kao ti lobanju oglas!
+Dialogue: 0,0:31:26.30,0:31:32.31,Default,,0,0,0,,Sada pokušajte da se fokusirate.\NNakon toga, možete igrati talente.
+Dialogue: 0,0:31:32.47,0:31:34.43,Default,,0,0,0,,Naravno, Tomi.
+Dialogue: 0,0:31:34.60,0:31:37.10,Default,,0,0,0,,Budala sada ne.\NMožete zaraditi dobru zaradu.
+Dialogue: 0,0:31:37.27,0:31:41.32,Default,,0,0,0,,- Šta je čovek?\N- Gaudio. Bob Gaudio.
+Dialogue: 0,0:31:41.48,0:31:45.90,Default,,0,0,0,,- Mogu da ugovorim sastanak.\N- Se koncentrišu samo na šišarki.
+Dialogue: 0,0:31:46.07,0:31:49.66,Default,,0,0,0,,Klinac je dobar.\NĆete mi kasnije zahvaliti.
+Dialogue: 0,0:31:49.82,0:31:53.29,Default,,0,0,0,,I ne zaboravite da sam to\Nja, koji ga je otkrio.
+Dialogue: 0,0:31:53.45,0:31:57.75,Default,,0,0,0,,Da, Joe Pesci. Glumac.\NKo bi to pomislio?
+Dialogue: 0,0:31:57.92,0:32:03.88,Default,,0,0,0,,Igrao sam kul o Gaudio,\N, ali duboko sam bio totalno izgubljen.
+Dialogue: 0,0:32:04.05,0:32:07.01,Default,,0,0,0,,Dete koje peva\Npredstave i piše muziku?
+Dialogue: 0,0:32:07.17,0:32:10.43,Default,,0,0,0,,Ako ga u bendu, pa smo srece.
+Dialogue: 0,0:32:14.31,0:32:17.43,Default,,0,0,0,,Vidi, Bobbi.\N"Tri Lovers" U potrazi za četvrti.
+Dialogue: 0,0:32:17.60,0:32:19.56,Default,,0,0,0,,- Ko?\N- Tri ljubavnici.
+Dialogue: 0,0:32:19.73,0:32:22.52,Default,,0,0,0,,Samo ispalio talente rešen budala.
+Dialogue: 0,0:32:22.69,0:32:24.90,Default,,0,0,0,,To je zabavno.
+Dialogue: 0,0:32:25.07,0:32:30.32,Default,,0,0,0,,- Zašto mi to govoriš?\N- Ja sam vas pohvalio do neba.
+Dialogue: 0,0:32:30.49,0:32:33.78,Default,,0,0,0,,Remember.\NJa sam onaj koji vas je otkrio.
+Dialogue: 0,0:32:33.95,0:32:38.29,Default,,0,0,0,,- Vidi, ja sam sada zauzet.\N- Ne, moramo da idemo.
+Dialogue: 0,0:32:38.46,0:32:41.42,Default,,0,0,0,,- Sada?\N- Da, moramo da idemo.
+Dialogue: 0,0:32:51.90,0:32:58.04,Default,,0,0,0,,- To je muzika za penzionere.\N- Opusti se, i veruj mi.
+Dialogue: 0,0:33:31.36,0:33:35.87,Default,,0,0,0,,Sam ih sve čuo. Jackie Vilson,\NJohnni Mathis i Dinah Vašington.
+Dialogue: 0,0:33:36.03,0:33:39.20,Default,,0,0,0,,Ali nikad nisam čuo glas\Nkao Bajaga.
+Dialogue: 0,0:33:39.37,0:33:45.29,Default,,0,0,0,,Nakon 30 sekundi, znao sam da je\Nsam morao da pišem pesme za njega.
+Dialogue: 0,0:33:57.89,0:34:01.14,Default,,0,0,0,,Dobro.\NHvala vam puno.
+Dialogue: 0,0:34:01.31,0:34:03.31,Default,,0,0,0,,- Šta sam rekao?\N- Da.
+Dialogue: 0,0:34:03.48,0:34:08.81,Default,,0,0,0,,Hej, momci. To je bilo sjajno.\NOvo je Bob Gaudio.
+Dialogue: 0,0:34:08.98,0:34:12.07,Default,,0,0,0,,Tommi DeVito. Gledam bend.\NSte kasno.
+Dialogue: 0,0:34:12.23,0:34:16.57,Default,,0,0,0,,- Znao sam da sam gledao...\N- Joei. Ro dalje.
+Dialogue: 0,0:34:16.74,0:34:19.08,Default,,0,0,0,,Žao mi je.
+Dialogue: 0,0:34:19.24,0:34:22.91,Default,,0,0,0,,- Nik Massi i Frenki. Bob?\N- Gaudio.
+Dialogue: 0,0:34:23.08,0:34:26.87,Default,,0,0,0,,- Odakle si?\N- Bergenfield.
+Dialogue: 0,0:34:27.04,0:34:30.67,Default,,0,0,0,,- A ti si tekstopisac?\N- Da, on je napisao: "Kratke gaćice."
+Dialogue: 0,0:34:30.84,0:34:33.30,Default,,0,0,0,,Izvini, ćutim.
+Dialogue: 0,0:34:35.17,0:34:40.01,Default,,0,0,0,,- Zovi me, pa gledamo na to.\N- Sada je ovde posle svega.
+Dialogue: 0,0:34:40.18,0:34:44.89,Default,,0,0,0,,On ima novu pesmu spreman.\NOn je nezaustavljiv.
+Dialogue: 0,0:34:50.19,0:34:53.15,Default,,0,0,0,,- Dobro, igraju jednu od svojih pesama.\N- Hvala.
+Dialogue: 0,0:37:30.68,0:37:33.98,Default,,0,0,0,,- Daj nam trenutak.\N- Da. Hvala vam.
+Dialogue: 0,0:37:37.90,0:37:42.70,Default,,0,0,0,,- Šta kažeš?\N- On piše pesme i peva dobro.
+Dialogue: 0,0:37:42.86,0:37:44.86,Default,,0,0,0,,Šta kažeš, Tommi?
+Dialogue: 0,0:37:45.03,0:37:49.20,Default,,0,0,0,,- Hvala.\N- Zdravo.
+Dialogue: 0,0:37:49.37,0:37:53.58,Default,,0,0,0,,Pitao sam se...
+Dialogue: 0,0:37:53.75,0:37:56.50,Default,,0,0,0,,Ko je devojka u tvoje pesme?
+Dialogue: 0,0:37:56.67,0:38:02.63,Default,,0,0,0,,- Imaš li devojku?\N- Ne, to može da bude sve devojke.
+Dialogue: 0,0:38:02.80,0:38:05.47,Default,,0,0,0,,T. S. Elliot naziva\Nod "objektivni korelativ".
+Dialogue: 0,0:38:05.63,0:38:10.51,Default,,0,0,0,,- Osećala sam da si pevao za mene.\N- Ti nisi odavde, zar ne?
+Dialogue: 0,0:38:10.68,0:38:13.85,Default,,0,0,0,,Verovatno\Nod egzotičnih mesta kao što su Evropa ću.
+Dialogue: 0,0:38:14.02,0:38:16.48,Default,,0,0,0,,Moramo da razgovaramo.
+Dialogue: 0,0:38:16.65,0:38:21.69,Default,,0,0,0,,- Dame. Kako si?\N- Stvarno dobro.
+Dialogue: 0,0:38:21.86,0:38:24.57,Default,,0,0,0,,Sada zatvorim oči\Ni brojati do tri.
+Dialogue: 0,0:38:24.74,0:38:30.91,Default,,0,0,0,,Kada sam ih otvorim, vi ste otišli.\NJedan, dva, tri.
+Dialogue: 0,0:38:33.37,0:38:35.50,Default,,0,0,0,,I onda su nestali.
+Dialogue: 0,0:38:35.66,0:38:40.04,Default,,0,0,0,,- Da li imate agenta ili tako nešto?\N- Možete da direktno razgovaraju sa mnom.
+Dialogue: 0,0:38:40.21,0:38:42.84,Default,,0,0,0,,- Jesi li siguran?\N- Da.
+Dialogue: 0,0:38:43.01,0:38:46.01,Default,,0,0,0,,Dobijate bend na probu.
+Dialogue: 0,0:38:46.18,0:38:49.80,Default,,0,0,0,,Tri nedelje za $ 25 nedeljno,\Npa ćemo videti kako to ide.
+Dialogue: 0,0:38:50.81,0:38:55.23,Default,,0,0,0,,To nije. Ja ću početi\Nravnopravno sa ostalima.
+Dialogue: 0,0:38:56.23,0:38:59.27,Default,,0,0,0,,I ja stalno\Nprava na pesme pišem.
+Dialogue: 0,0:38:59.44,0:39:04.28,Default,,0,0,0,,Pored toga, možemo da se dogovorimo\No drugih prihoda.
+Dialogue: 0,0:39:06.70,0:39:09.32,Default,,0,0,0,,Izvinite me na trenutak.
+Dialogue: 0,0:39:11.49,0:39:13.79,Default,,0,0,0,,- Zaboravi.\N- Zašto?
+Dialogue: 0,0:39:13.95,0:39:18.75,Default,,0,0,0,,- On će deliti ukupno četiri.\N- Ali on je pametan.
+Dialogue: 0,0:39:18.92,0:39:22.25,Default,,0,0,0,,On je možda Golden Goose?\NPisao je jedan jebeni pesmu.
+Dialogue: 0,0:39:22.42,0:39:26.17,Default,,0,0,0,,- Postoji mnogo njegovog vrste.\N- Gde?
+Dialogue: 0,0:39:26.34,0:39:30.34,Default,,0,0,0,,- Gde su sada?\N- Mogu li da kažem nešto?
+Dialogue: 0,0:39:30.51,0:39:34.06,Default,,0,0,0,,- Ja ga volim.\N- Ubio si ga, ili šta?
+Dialogue: 0,0:39:34.22,0:39:38.81,Default,,0,0,0,,On je suviše mlad da pije i dim\Ni nikada nisu uhapsili kurva.
+Dialogue: 0,0:39:38.98,0:39:42.77,Default,,0,0,0,,- Onda ga ispod krila.\N- Delim sve četiri?
+Dialogue: 0,0:39:42.94,0:39:47.03,Default,,0,0,0,,Ako to radi, ima dovoljno za svakoga,\Na ako ne, nema razlike.
+Dialogue: 0,0:39:48.36,0:39:52.24,Default,,0,0,0,,Ne potreban klavijaturista.\NSpreman.
+Dialogue: 0,0:39:52.41,0:39:54.58,Default,,0,0,0,,Zato sebi naći novu pevač.
+Dialogue: 0,0:39:57.50,0:40:01.71,Default,,0,0,0,,- Šta si rekao?\N- Nađi sebi novu pevač.
+Dialogue: 0,0:40:01.88,0:40:05.30,Default,,0,0,0,,Hoćeš igru skrivanja?
+Dialogue: 0,0:40:05.46,0:40:08.01,Default,,0,0,0,,Šta radiš?
+Dialogue: 0,0:40:08.17,0:40:13.22,Default,,0,0,0,,Sada shvatam.\NDobro. Slušaj.
+Dialogue: 0,0:40:13.39,0:40:18.60,Default,,0,0,0,,Ako ovo završi pogrešno\Nneću biti odgovoran.
+Dialogue: 0,0:40:20.31,0:40:23.56,Default,,0,0,0,,- Da li ste za to?\N- Da, hajde da pokušamo.
+Dialogue: 0,0:40:23.73,0:40:26.94,Default,,0,0,0,,- Nisam završio sa tobom.\N- Šta sam uradio?
+Dialogue: 0,0:40:27.11,0:40:30.57,Default,,0,0,0,,Gaudio. Dođi ovamo.
+Dialogue: 0,0:40:33.12,0:40:35.79,Default,,0,0,0,,Ste u grupi.
+Dialogue: 0,0:40:37.66,0:40:40.75,Default,,0,0,0,,Loveli. Hvala vam.
+Dialogue: 0,0:40:42.67,0:40:44.21,Default,,0,0,0,,Mi se piće.
+Dialogue: 0,0:40:45.21,0:40:49.17,Default,,0,0,0,,Muzička industrija može da bude xungla.\NDođi kod mene, ako ništa drugo.
+Dialogue: 0,0:40:49.34,0:40:52.38,Default,,0,0,0,,- Ok.\N- Kad god.
+Dialogue: 0,0:40:52.55,0:40:55.60,Default,,0,0,0,,Koji broj cipela nosite?
+Dialogue: 0,0:40:55.76,0:40:57.97,Default,,0,0,0,,Veličina 44
+Dialogue: 0,0:40:58.14,0:41:02.02,Default,,0,0,0,,Dođi kući pored mene\Nćemo naći neko novo za vas.
+Dialogue: 0,0:41:03.44,0:41:07.15,Default,,0,0,0,,- Šta veličine zar ne?\N- 44
+Dialogue: 0,0:41:07.32,0:41:10.57,Default,,0,0,0,,pogledajte ovde. Ovde su cipele.
+Dialogue: 0,0:41:12.20,0:41:15.66,Default,,0,0,0,,- Ali postoji samo jedna cipela.\N- Da, levo.
+Dialogue: 0,0:41:15.83,0:41:21.41,Default,,0,0,0,,Kako su oni isporučuju. Nekoliko\Nnedelja kasnije stižu prave cipele.
+Dialogue: 0,0:41:21.58,0:41:28.00,Default,,0,0,0,,- The Right cipele dolaze u nedelju.\N- Imam dovoljno cipele. Hvala vam.
+Dialogue: 0,0:41:28.17,0:41:31.05,Default,,0,0,0,,Bi tvoja majka ima bundu?
+Dialogue: 0,0:41:31.22,0:41:33.63,Default,,0,0,0,,- Ili biser ogrlicu?\N- Prodaje se.
+Dialogue: 0,0:41:33.80,0:41:36.30,Default,,0,0,0,,- Jesi li ga prodali?\N- Da, juče.
+Dialogue: 0,0:41:36.47,0:41:39.60,Default,,0,0,0,,Još jedan klasičan Niki-sale?\NSalute.
+Dialogue: 0,0:41:39.77,0:41:44.44,Default,,0,0,0,,- Dajte joj jaknu ili sako.\N- Bez ukradene robe, Tomi.
+Dialogue: 0,0:41:44.60,0:41:48.44,Default,,0,0,0,,Ukraden? Stvari pao sa kamiona.
+Dialogue: 0,0:41:48.61,0:41:52.03,Default,,0,0,0,,Ga vidim. Njegova Svetost.
+Dialogue: 0,0:41:53.86,0:41:57.99,Default,,0,0,0,,On je prokleto dobar. Hajde tost.
+Dialogue: 0,0:41:58.16,0:42:00.83,Default,,0,0,0,,Živeli u bend.
+Dialogue: 0,0:42:01.83,0:42:04.54,Default,,0,0,0,,Hvala. Mi smo cilj za vrh.
+Dialogue: 0,0:42:04.71,0:42:07.46,Default,,0,0,0,,- Živeli za dobro zdravlje.\N- Salute.
+Dialogue: 0,0:42:07.63,0:42:10.92,Default,,0,0,0,,Pogledaj me, Niki.
+Dialogue: 0,0:42:12.55,0:42:16.05,Default,,0,0,0,,Imam dobre vesti.
+Dialogue: 0,0:42:16.22,0:42:19.39,Default,,0,0,0,,Sam naredio limuzinu.\NIdemo u Atlantik Siti.
+Dialogue: 0,0:42:19.56,0:42:22.73,Default,,0,0,0,,Mi ćemo ostati u hotelu Traimore\Ni igraju nekoliko večeri.
+Dialogue: 0,0:42:22.89,0:42:26.44,Default,,0,0,0,,- Mi stvaramo dosta kontakata.\N- Mi preskočim, Tommi.
+Dialogue: 0,0:42:26.60,0:42:28.36,Default,,0,0,0,,Šta?
+Dialogue: 0,0:42:28.52,0:42:31.40,Default,,0,0,0,,Od kada počinješ da skoči?
+Dialogue: 0,0:42:31.57,0:42:35.78,Default,,0,0,0,,- Zašto Preskakanje?\N- Poslali smo demo napolje.
+Dialogue: 0,0:42:35.95,0:42:39.24,Default,,0,0,0,,Bobi i ja.\NMi ćemo razgovarati sa nekim proizvodima.
+Dialogue: 0,0:42:39.41,0:42:42.95,Default,,0,0,0,,- Bobi i ti?\N- Niko od nas postaju mlađi.
+Dialogue: 0,0:42:43.12,0:42:47.92,Default,,0,0,0,,Neću ostati u Traimore.\NŽelim da budem u stanju da podrži porodicu.
+Dialogue: 0,0:42:48.08,0:42:52.67,Default,,0,0,0,,Izvinite.\NDa li misliš da pokušavam da ga uništi?
+Dialogue: 0,0:42:52.84,0:42:58.64,Default,,0,0,0,,Tako pratiti na demonstracije.\NAli moraš prvo da me pitaš.
+Dialogue: 0,0:42:58.80,0:43:01.76,Default,,0,0,0,,- Naravno, Tomi.\N- Da li sam razgovarao sa vama?
+Dialogue: 0,0:43:01.93,0:43:05.85,Default,,0,0,0,,G biznismen.\NZnaš šta? Ti idi sa njim.
+Dialogue: 0,0:43:06.02,0:43:09.61,Default,,0,0,0,,I onda preuzeti General Motors.
+Dialogue: 0,0:43:11.23,0:43:15.69,Default,,0,0,0,,Dobro, Tomi. Imaju dobar provod.\NIdemo.
+Dialogue: 0,0:43:26.50,0:43:28.71,Default,,0,0,0,,Hvala.
+Dialogue: 0,0:43:57.95,0:44:02.28,Default,,0,0,0,,- Zdravo. Ve Are The Four ljubavnici.\N- Nisam zainteresovan.
+Dialogue: 0,0:44:05.37,0:44:10.17,Default,,0,0,0,,- Zdravo. Ve Are The Four Lovers...\N- Žao mi je.
+Dialogue: 0,0:44:13.88,0:44:17.42,Default,,0,0,0,,- Ve Are The Four Lovers.\N- Jesi li?
+Dialogue: 0,0:44:17.59,0:44:19.59,Default,,0,0,0,,- Da.\N- Mi smo njih dvoje.
+Dialogue: 0,0:44:19.76,0:44:22.43,Default,,0,0,0,,- Oni su neke crne momci.\N- Ne, to smo mi.
+Dialogue: 0,0:44:25.60,0:44:29.31,Default,,0,0,0,,Nije loše.\NVrati kad ste bili crni.
+Dialogue: 0,0:44:30.56,0:44:33.11,Default,,0,0,0,,Izađi, ili ću vas raskomadati!
+Dialogue: 0,0:44:33.27,0:44:37.44,Default,,0,0,0,,Ro na, Toto!\NNiste u Nevark više.
+Dialogue: 0,0:44:37.61,0:44:43.78,Default,,0,0,0,,- Kru.\N- Vau. Frankie Castelluccio.
+Dialogue: 0,0:44:43.95,0:44:47.29,Default,,0,0,0,,- Moje ime je Frankie Valli sada.\N- A zašto ne?
+Dialogue: 0,0:44:47.45,0:44:49.87,Default,,0,0,0,,- Šta radiš ovde?\N- Hit Music.
+Dialogue: 0,0:44:50.04,0:44:52.50,Default,,0,0,0,,Ve Are The Four ljubavnici.\NUzmi demo.
+Dialogue: 0,0:44:53.50,0:44:56.59,Default,,0,0,0,,- Ko je on?\N- Sledeća Otis Blackvell.
+Dialogue: 0,0:44:56.75,0:44:59.34,Default,,0,0,0,,Bob Kru. Susret Bob Gaudio.
+Dialogue: 0,0:44:59.51,0:45:03.30,Default,,0,0,0,,- On je dobar u uočavanju talenat.\N- Zdravo, mladiću.
+Dialogue: 0,0:45:03.47,0:45:07.68,Default,,0,0,0,,Vaš mlad, mlada...
+Dialogue: 0,0:45:07.85,0:45:10.81,Default,,0,0,0,,mladić.
+Dialogue: 0,0:45:10.98,0:45:13.56,Default,,0,0,0,,- Scorpio.\N- Gaudio.
+Dialogue: 0,0:45:13.73,0:45:17.23,Default,,0,0,0,,- Ne, idiote. Tvoj rođendan.\N- Dana 17. novembra.
+Dialogue: 0,0:45:17.40,0:45:20.03,Default,,0,0,0,,Dana 12. novembra.
+Dialogue: 0,0:45:20.19,0:45:23.28,Default,,0,0,0,,To je znak.\NTo je zapisano u zvezdama.
+Dialogue: 0,0:45:23.45,0:45:27.91,Default,,0,0,0,,Pratite me, momci.\NSudbina čeka!
+Dialogue: 0,0:45:28.08,0:45:31.54,Default,,0,0,0,,Mislio sam da je on izgledao\Nmalo lud.
+Dialogue: 0,0:45:31.71,0:45:36.92,Default,,0,0,0,,Bilo je nazad u 1959\NLjudi misle da Liberace je...
+Dialogue: 0,0:45:37.09,0:45:39.17,Default,,0,0,0,,veoma dramatično.
+Dialogue: 0,0:45:39.34,0:45:41.42,Default,,0,0,0,,Hajde unutra!
+Dialogue: 0,0:45:41.59,0:45:45.47,Default,,0,0,0,,Dobrodošli u civilizaciju\Nmale dece.
+Dialogue: 0,0:45:48.89,0:45:51.77,Default,,0,0,0,,- Odakle mu svoje piće iz?\N- Od umetničke škole.
+Dialogue: 0,0:45:51.93,0:45:54.19,Default,,0,0,0,,Zdravo.
+Dialogue: 0,0:45:54.35,0:45:59.19,Default,,0,0,0,,- Da li je ovo, gde magija se dešava?\N- Ne, to je u spavaćoj sobi.
+Dialogue: 0,0:45:59.36,0:46:02.32,Default,,0,0,0,,To nije mnogo, ali\Nčetiri zida i krov.
+Dialogue: 0,0:46:02.49,0:46:05.20,Default,,0,0,0,,Sam zadirkivao. Malo razgovaram sa ljudima.
+Dialogue: 0,0:46:05.36,0:46:08.12,Default,,0,0,0,,- On je uvek tako ozbiljan.\N- Sranje.
+Dialogue: 0,0:46:08.28,0:46:11.08,Default,,0,0,0,,To je čista karnevala.
+Dialogue: 0,0:46:11.25,0:46:13.75,Default,,0,0,0,,Li votka?
+Dialogue: 0,0:46:13.91,0:46:16.38,Default,,0,0,0,,- Trostruko.\N- Viski, molim te.
+Dialogue: 0,0:46:18.34,0:46:20.63,Default,,0,0,0,,- Koliko je to?\N- To je besplatno.
+Dialogue: 0,0:46:24.80,0:46:29.35,Default,,0,0,0,,Fascinantno, zar ne?\NOn je tako... slobodan.
+Dialogue: 0,0:46:31.89,0:46:36.15,Default,,0,0,0,,Oni treba da ga uzme od njega.\NNjegova sloboda.
+Dialogue: 0,0:46:42.11,0:46:45.45,Default,,0,0,0,,Mislim da sam zaboravio svoju guldhat.
+Dialogue: 0,0:46:46.99,0:46:49.45,Default,,0,0,0,,To je elita.
+Dialogue: 0,0:46:49.62,0:46:52.91,Default,,0,0,0,,- Šta to radiš?\N- Ja sam frizer.
+Dialogue: 0,0:46:53.08,0:46:56.92,Default,,0,0,0,,- Da li je ovo tvoj posao?\N- Da, na dan.
+Dialogue: 0,0:46:57.08,0:47:00.13,Default,,0,0,0,,Noću sam se cape\Ni jurenje kriminalaca.
+Dialogue: 0,0:47:00.29,0:47:04.80,Default,,0,0,0,,- Ti si jako smešno.\N- Hvala.
+Dialogue: 0,0:47:07.30,0:47:09.72,Default,,0,0,0,,Dobro je da sam udata.
+Dialogue: 0,0:47:09.89,0:47:14.81,Default,,0,0,0,,- Živim svi zajedno?\N- Sve radimo zajedno.
+Dialogue: 0,0:47:14.98,0:47:21.32,Default,,0,0,0,,- Jaši. Koliko imaš godina?\N- Zajedno ili odvojeno?
+Dialogue: 0,0:47:32.54,0:47:36.87,Default,,0,0,0,,- Šta to radiš?\N- Ćuti. On neće propustiti.
+Dialogue: 0,0:47:38.33,0:47:40.54,Default,,0,0,0,,Kru nam je pokazao čitav novi svet.
+Dialogue: 0,0:47:40.71,0:47:44.38,Default,,0,0,0,,On je potpisao ugovor sa nama,\Ni sve je izgledalo obećavajuće.
+Dialogue: 0,0:47:45.38,0:47:48.22,Default,,0,0,0,,Ali smo imali problem.
+Dialogue: 0,0:47:59.81,0:48:02.02,Default,,0,0,0,,Nismo pročitali sitnim slovima.
+Dialogue: 0,0:48:02.19,0:48:06.15,Default,,0,0,0,,Bili smo choristers priliku\Nsnimanja četiri pesme.
+Dialogue: 0,0:48:06.32,0:48:12.53,Default,,0,0,0,,I Kru sigurni koja.\NSledeće godine smo morali da ga slušaju.
+Dialogue: 0,0:48:51.41,0:48:55.83,Default,,0,0,0,,- Izvini.\N- Jesi li sve nabavio?
+Dialogue: 0,0:48:55.99,0:49:00.08,Default,,0,0,0,,Bili Dikson i Topik.\NTreće snimanje.
+Dialogue: 0,0:49:06.96,0:49:10.55,Default,,0,0,0,,Stop! Ne pratim moju viziju.
+Dialogue: 0,0:49:10.72,0:49:13.76,Default,,0,0,0,,Žao mi je, šta je vaša vizija?
+Dialogue: 0,0:49:13.93,0:49:17.31,Default,,0,0,0,,Mora da sam nežan i srećan, ali su veoma\Ntamna.
+Dialogue: 0,0:49:17.47,0:49:21.27,Default,,0,0,0,,- Ti nas plati, ne zabole.\N- Molim?
+Dialogue: 0,0:49:21.44,0:49:25.36,Default,,0,0,0,,Da li imate problem sluha?\NSte nam ne plaćaju ništa.
+Dialogue: 0,0:49:25.52,0:49:29.32,Default,,0,0,0,,- Imaš problem?\N- Da.
+Dialogue: 0,0:49:29.49,0:49:32.82,Default,,0,0,0,,Uhvatili smo njegovu pažnju.\NEvo ga.
+Dialogue: 0,0:49:32.99,0:49:37.41,Default,,0,0,0,,- Bilo je krajnje vreme.\N- Vasting smo svoje dragoceno vreme?
+Dialogue: 0,0:49:37.58,0:49:39.87,Default,,0,0,0,,- Do...\N- Slušaj jednom.
+Dialogue: 0,0:49:40.04,0:49:43.37,Default,,0,0,0,,Obećao si, imali smo za snimanje muzike.\NKada se to dogodilo?
+Dialogue: 0,0:49:43.54,0:49:46.46,Default,,0,0,0,,- Kada dođete do klasične pesmu.\N- Imaš deset.
+Dialogue: 0,0:49:46.63,0:49:51.05,Default,,0,0,0,,Pronađite ime i svoj zvuk,\Npa gledamo na to.
+Dialogue: 0,0:49:51.22,0:49:53.80,Default,,0,0,0,,To je samo hit,\Nkada ljudi to čuju.
+Dialogue: 0,0:49:53.97,0:49:57.68,Default,,0,0,0,,Da napravim četiri pesme?\N- Tako rukuje novac.
+Dialogue: 0,0:49:57.85,0:50:02.48,Default,,0,0,0,,Ja ne mogu priuštiti da plate.\NKošta $ 3500th
+Dialogue: 0,0:50:02.64,0:50:07.23,Default,,0,0,0,,- On tvrdi da ne može da priušti.\N- Imam određene obaveze.
+Dialogue: 0,0:50:07.40,0:50:12.95,Default,,0,0,0,,- Da, video sam ga dobro.\N- Bolje pazi.
+Dialogue: 0,0:50:14.03,0:50:16.28,Default,,0,0,0,,Bilo je savršeno.
+Dialogue: 0,0:50:16.45,0:50:19.83,Default,,0,0,0,,- Ali nedostaje malo boje.\N- Bilo mi je zadovoljstvo.
+Dialogue: 0,0:50:19.99,0:50:23.75,Default,,0,0,0,,Možda svetlo plava ili Azure.
+Dialogue: 0,0:50:23.91,0:50:26.17,Default,,0,0,0,,Kako sranje.
+Dialogue: 0,0:50:26.33,0:50:30.34,Default,,0,0,0,,Creve je u pravu.\NTvoje pesme su neoriginalan.
+Dialogue: 0,0:50:30.50,0:50:34.22,Default,,0,0,0,,Znam šta to znači.\NČinjenica da su svi zvuče isto.
+Dialogue: 0,0:50:34.38,0:50:37.34,Default,,0,0,0,,Neka Bob pisati pesme,\Nstojite za sporazume.
+Dialogue: 0,0:50:37.51,0:50:40.85,Default,,0,0,0,,Ok, ok.\NRazgovarao sam sa menaxerom.
+Dialogue: 0,0:50:41.02,0:50:43.89,Default,,0,0,0,,Igram dva seta.\NServe genijalno $ 350 po noći.
+Dialogue: 0,0:50:44.06,0:50:46.98,Default,,0,0,0,,Nakon desetak večeri, tako možete priuštiti.\NJa treba da ima samo 5%.
+Dialogue: 0,0:50:47.15,0:50:50.86,Default,,0,0,0,,- Šta?\N- Ili ne. Samo se zabavljam.
+Dialogue: 0,0:50:53.28,0:50:56.95,Default,,0,0,0,,- Šta kažete?\N- Hajde da to uradimo.
+Dialogue: 0,0:50:57.11,0:51:00.12,Default,,0,0,0,,- Ok.\N- Dobro.
+Dialogue: 0,0:51:06.92,0:51:10.80,Default,,0,0,0,,Čekaj malo. Kako se zoveš?
+Dialogue: 0,0:51:10.96,0:51:13.55,Default,,0,0,0,,- Rimljani.\N- Topik.
+Dialogue: 0,0:51:13.71,0:51:16.80,Default,,0,0,0,,- The Four Lovers.\N- Ne, ti.
+Dialogue: 0,0:51:16.97,0:51:20.22,Default,,0,0,0,,Znam te.\NSte radili sve što je moguće.
+Dialogue: 0,0:51:20.39,0:51:25.18,Default,,0,0,0,,- Ti Peku sa igrama.\N- Ja nikad nisam bio ovde ranije.
+Dialogue: 0,0:51:25.35,0:51:31.32,Default,,0,0,0,,Skloni sa vama. Smut.\NIdemo dalje. Hajde.
+Dialogue: 0,0:51:31.48,0:51:34.36,Default,,0,0,0,,- Sećaš poput slona.\N- Imam Jukebok.
+Dialogue: 0,0:51:34.53,0:51:38.86,Default,,0,0,0,,- Dan da igraju na našim pesmama.\N- Nemam mesta za vas.
+Dialogue: 0,0:51:39.03,0:51:41.95,Default,,0,0,0,,Izgleda kao gomila kriminalaca!
+Dialogue: 0,0:51:42.12,0:51:44.54,Default,,0,0,0,,Bilo je prokleto dobro.
+Dialogue: 0,0:51:44.70,0:51:46.79,Default,,0,0,0,,Ti si dupe, Xoi.
+Dialogue: 0,0:51:46.96,0:51:51.42,Default,,0,0,0,,- Moramo da nađemo mesto.\N- Treba nam rekord dogovor.
+Dialogue: 0,0:51:51.59,0:51:54.09,Default,,0,0,0,,Ne treba ni igrati u kuglani.
+Dialogue: 0,0:51:54.26,0:52:00.34,Default,,0,0,0,,- Ja bi trebalo da počne svoj bend.\N- Ti si u ovom opsegu, Nicki.
+Dialogue: 0,0:52:00.51,0:52:04.01,Default,,0,0,0,,Koji bend?\NTopik, Rimljani, The Lovers?
+Dialogue: 0,0:52:04.18,0:52:06.85,Default,,0,0,0,,Šta je sledeće?
+Dialogue: 0,0:52:09.77,0:52:12.36,Default,,0,0,0,,Frenki...
+Dialogue: 0,0:52:13.48,0:52:15.94,Default,,0,0,0,,Šta?
+Dialogue: 0,0:52:17.11,0:52:19.28,Default,,0,0,0,,To je znak, Tomi.
+Dialogue: 0,0:52:22.20,0:52:26.95,Default,,0,0,0,,- Radije bih nešto sa kriminalcima.\N- Ali mi treba $ 3500th
+Dialogue: 0,0:52:27.96,0:52:33.42,Default,,0,0,0,,Ja ću se pobrinuti za to.\NNapišite sada samo klasične pesme.
+Dialogue: 0,0:52:34.42,0:52:36.30,Default,,0,0,0,,Baci ga u leđa.
+Dialogue: 0,0:52:37.30,0:52:41.22,Default,,0,0,0,,Zaključao sam na soba\Ni napisao četiri pesme u dva dana.
+Dialogue: 0,0:52:41.39,0:52:45.48,Default,,0,0,0,,Ne, ne pesme. Hit pesme.
+Dialogue: 0,0:52:46.48,0:52:49.40,Default,,0,0,0,,- Norman.\N- Šta onda?
+Dialogue: 0,0:52:51.15,0:52:55.94,Default,,0,0,0,,- Ti si zakasnio.\N- Morao sam da prvo parkiram kanu.
+Dialogue: 0,0:52:56.11,0:53:00.74,Default,,0,0,0,,Ovde imate $ 5000th\NDaj mi da pogledam.
+Dialogue: 0,0:53:00.91,0:53:04.79,Default,,0,0,0,,Si mi već 11.000 duguješ,\Na sada to 5000
+Dialogue: 0,0:53:04.95,0:53:07.41,Default,,0,0,0,,Duguješ mi $ 16,000.
+Dialogue: 0,0:53:07.58,0:53:10.75,Default,,0,0,0,,Upravo smo potpisali ugovor sa RCA Victor\N.
+Dialogue: 0,0:53:10.92,0:53:14.63,Default,,0,0,0,,Ne zaostaju sa isplatama.
+Dialogue: 0,0:53:14.80,0:53:19.38,Default,,0,0,0,,- Ja ću vam poslati album.\N- Bolje pošaljite $ 3.000 do petka.
+Dialogue: 0,0:53:19.55,0:53:23.56,Default,,0,0,0,,- $ 3000? Zar nije 1000 $?\N- $ 3000th
+Dialogue: 0,0:53:27.27,0:53:30.19,Default,,0,0,0,,- Kao novo ime?\N- Volim ga.
+Dialogue: 0,0:53:30.35,0:53:33.11,Default,,0,0,0,,- Jeste previše Vivaldi.\N- Ko?
+Dialogue: 0,0:53:33.27,0:53:36.90,Default,,0,0,0,,- Da li je neko ukrao naše ime?\N- Ne brini. On je već mrtav.
+Dialogue: 0,0:53:37.07,0:53:41.41,Default,,0,0,0,,- Šta je sa pesmama?\N- Volim pesme.
+Dialogue: 0,0:53:41.57,0:53:45.79,Default,,0,0,0,,- Ali mi i dalje imamo problem.\N- Zašto? Da li je to testo?
+Dialogue: 0,0:53:45.95,0:53:49.29,Default,,0,0,0,,Evo. Ovde imate $ 3500th
+Dialogue: 0,0:53:49.46,0:53:52.17,Default,,0,0,0,,DeVito popraviti stvari.\NVivaldi Fuck.
+Dialogue: 0,0:53:53.79,0:53:55.80,Default,,0,0,0,,Bovl na njemu.
+Dialogue: 0,0:54:04.47,0:54:06.93,Default,,0,0,0,,Da vidim. "Sherri".
+Dialogue: 0,0:54:09.14,0:54:11.81,Default,,0,0,0,,Pis. Zaustavi autobus!
+Dialogue: 0,0:54:11.98,0:54:16.78,Default,,0,0,0,,Ovo je najvažniji dan u svom životu, a onda\Ndolazi prekasno.
+Dialogue: 0,0:54:16.94,0:54:19.15,Default,,0,0,0,,- Nije kao Bobbi.\N- Ne, samo Tomi.
+Dialogue: 0,0:54:19.32,0:54:23.12,Default,,0,0,0,,Ostavi me na miru.\NI otpustite piće, idiote.
+Dialogue: 0,0:54:23.28,0:54:26.33,Default,,0,0,0,,Speak dobro u mojoj kući.
+Dialogue: 0,0:54:26.49,0:54:29.91,Default,,0,0,0,,Francine? Dođi ovamo, dušo.
+Dialogue: 0,0:54:30.08,0:54:34.88,Default,,0,0,0,,- Idi sa majkom.\N- Nije to čuo. Ona je nacrtao.
+Dialogue: 0,0:54:35.04,0:54:38.34,Default,,0,0,0,,- Shut Up.\N- Beautiful crteži, Fransin.
+Dialogue: 0,0:54:38.51,0:54:41.38,Default,,0,0,0,,- Ostavi ga.\N- Seronjo.
+Dialogue: 0,0:54:41.55,0:54:45.55,Default,,0,0,0,,Baš lepo. Tvoj licemer.
+Dialogue: 0,0:54:48.27,0:54:52.14,Default,,0,0,0,,- Zdravo. Ovde je pesma.\N- Ti ne misliš.
+Dialogue: 0,0:54:52.31,0:54:55.94,Default,,0,0,0,,- On samo skicirane dole.\N- Daj mi.
+Dialogue: 0,0:54:57.15,0:55:00.15,Default,,0,0,0,,- Izgleda dobro.\N- On piša na svemu!
+Dialogue: 0,0:55:00.32,0:55:03.07,Default,,0,0,0,,- Ne to lično.\NImam sve na kocki!
+Dialogue: 0,0:55:03.24,0:55:07.03,Default,,0,0,0,,- Beležimo četvoricu smo vežbali.\N- Ja sam taj koji odlučuje!
+Dialogue: 0,0:55:07.20,0:55:10.00,Default,,0,0,0,,Nemamo vremena.\NPustili smo Kru odluči.
+Dialogue: 0,0:55:10.16,0:55:13.50,Default,,0,0,0,,On se slaže sa mnom.\NSte me stavili u lošoj situaciji.
+Dialogue: 0,0:55:13.67,0:55:17.04,Default,,0,0,0,,- Da li ste vi možda drugu pesmu?\N- Ne sada.
+Dialogue: 0,0:55:17.21,0:55:19.21,Default,,0,0,0,,Sam učestvovao.
+Dialogue: 0,0:55:21.01,0:55:24.26,Default,,0,0,0,,- Bob Kru.\N- Zdravo, Kru.
+Dialogue: 0,0:55:24.43,0:55:27.60,Default,,0,0,0,,Žao mi je kašnjenje.\NImamo pesmu za tebe.
+Dialogue: 0,0:55:27.76,0:55:30.64,Default,,0,0,0,,Slušaj, samo slušaj.\NTo je to.
+Dialogue: 0,0:55:30.81,0:55:32.85,Default,,0,0,0,,Jedan, dva, tri, četiri.
+Dialogue: 0,0:55:41.65,0:55:43.78,Default,,0,0,0,,Uradi Rekorder spreman.
+Dialogue: 0,0:55:43.95,0:55:46.78,Default,,0,0,0,,Smo pojačalo Frankie glas.\NĆe pada u etru.
+Dialogue: 0,0:55:46.95,0:55:50.66,Default,,0,0,0,,- Nikad nisam čuo.\N- To nikada nije pokušao pre.
+Dialogue: 0,0:55:50.83,0:55:52.91,Default,,0,0,0,,Sam briljantan.
+Dialogue: 0,0:55:53.08,0:55:56.08,Default,,0,0,0,,- Šta kaže?\N- To je dobro, zar ne?
+Dialogue: 0,0:55:56.25,0:55:58.29,Default,,0,0,0,,Bićemo tamo.
+Dialogue: 0,0:55:58.46,0:56:04.09,Default,,0,0,0,,To je Beri Belson\Nod VCFA Radio!
+Dialogue: 0,0:56:04.26,0:56:09.47,Default,,0,0,0,,Mi sada imamo 17 sati\Nzaključana sebe unutar studio -
+Dialogue: 0,0:56:09.64,0:56:12.64,Default,,0,0,0,,- i još uvek igraju istu pesmu!
+Dialogue: 0,0:56:12.81,0:56:15.35,Default,,0,0,0,,Zar nije samo jedinstven zvuk?
+Dialogue: 0,0:56:15.52,0:56:18.98,Default,,0,0,0,,Ko su oni? Četiri crnca?\NTri momci i devojka?
+Dialogue: 0,0:56:19.15,0:56:22.28,Default,,0,0,0,,Šta još da kažem?\NVolim ovu pesmu!
+Dialogue: 0,0:56:22.44,0:56:25.74,Default,,0,0,0,,String direktno do vrha.
+Dialogue: 0,0:56:25.90,0:56:30.41,Default,,0,0,0,,It All počinje u subotu u programu\NAmerican Bandstand!
+Dialogue: 0,0:56:30.58,0:56:33.41,Default,,0,0,0,,Šta se dođavola.\NSam ga igraju ponovo!
+Dialogue: 0,0:56:33.58,0:56:38.58,Default,,0,0,0,,Neka devojka bude trenutak\Ni slušati Four Seasons!
+Dialogue: 0,0:58:51.55,0:58:56.39,Default,,0,0,0,,- Zdravo. Da li si napisao novu pesmu?\N- Ne, ne još.
+Dialogue: 0,0:58:57.39,0:59:00.18,Default,,0,0,0,,Prošlo je tri nedelje.\NDiskografska kuća je poludela.
+Dialogue: 0,0:59:00.35,0:59:03.81,Default,,0,0,0,,- Šta imaš tu?\N- Kineski. Važno je sa hranom.
+Dialogue: 0,0:59:03.98,0:59:06.82,Default,,0,0,0,,Hajde, Bobbi.\N"Ace in the Hole" sa Kirka Daglasa.
+Dialogue: 0,0:59:06.98,0:59:09.19,Default,,0,0,0,,Jan Sterling. Volim je.
+Dialogue: 0,0:59:10.40,0:59:12.70,Default,,0,0,0,,Treba da gledam TV ili rada?
+Dialogue: 0,0:59:12.86,0:59:15.57,Default,,0,0,0,,- Donesi viljuške.\N- "Želim da se smejem."
+Dialogue: 0,0:59:15.74,0:59:19.95,Default,,0,0,0,,- Želim da se smejem.\N- Nemoj to da radiš.
+Dialogue: 0,0:59:20.12,0:59:23.12,Default,,0,0,0,,"Onda si me zaustaviti." Pogledajte ovde.
+Dialogue: 0,0:59:23.29,0:59:25.63,Default,,0,0,0,,- Onda me zaustaviti.\N- On radi.
+Dialogue: 0,0:59:30.96,0:59:34.68,Default,,0,0,0,,- Sada plače bezbedna.\N- Ne Big devojke ne plaču.
+Dialogue: 0,1:01:23.70,1:01:26.96,Default,,0,0,0,,Hvala.\NVe Are The Four Seasons.
+Dialogue: 0,1:01:27.12,1:01:29.12,Default,,0,0,0,,Hvala.
+Dialogue: 0,1:01:29.29,1:01:31.79,Default,,0,0,0,,Na basu imamo Nick Massi.
+Dialogue: 0,1:01:33.30,1:01:36.05,Default,,0,0,0,,Tastatura ima Bob Gaudio.
+Dialogue: 0,1:01:36.22,1:01:41.43,Default,,0,0,0,,Moje ime je Tomi DeVito.\NOvo je g. Frankie Valli.
+Dialogue: 0,1:01:43.06,1:01:46.39,Default,,0,0,0,,Hvala.\NJa sam sjajna publika.
+Dialogue: 0,1:01:47.39,1:01:50.35,Default,,0,0,0,,- Ne razumem.\N- Šta ne razumeš?
+Dialogue: 0,1:01:50.52,1:01:55.69,Default,,0,0,0,,Naslov znači da hoda kao čovek.\NNasuprot hoda kao žena?
+Dialogue: 0,1:01:55.86,1:01:58.07,Default,,0,0,0,,Pisano je za tinejxera.
+Dialogue: 0,1:01:58.24,1:02:01.87,Default,,0,0,0,,- Oni treba da se ponašaju kao muškarci.\N- Umesto devojaka?
+Dialogue: 0,1:02:02.03,1:02:05.20,Default,,0,0,0,,Ne, umesto dečaka.\NMolim te.
+Dialogue: 0,1:02:05.37,1:02:09.00,Default,,0,0,0,,Zdravo, Miss Sunshine.\NTo je metafora.
+Dialogue: 0,1:02:09.16,1:02:13.21,Default,,0,0,0,,Himna za sve momke,\Nkoji su zlostavljani od strane devojke.
+Dialogue: 0,1:02:13.38,1:02:15.59,Default,,0,0,0,,Ja ne bi trebalo da objasni.
+Dialogue: 0,1:02:15.75,1:02:20.34,Default,,0,0,0,,Drop kao ta sranja i pevaju.\NSpremni da puca, Phil.
+Dialogue: 0,1:02:23.72,1:02:27.64,Default,,0,0,0,,"Valk Like a Man".\NPrvi prijem.
+Dialogue: 0,1:02:48.20,1:02:51.67,Default,,0,0,0,,Srećan Božić. Hajde unutra.
+Dialogue: 0,1:02:56.88,1:02:59.17,Default,,0,0,0,,Pogledajte ih.\NSu spremni.
+Dialogue: 0,1:02:59.34,1:03:02.43,Default,,0,0,0,,- Kako se zoveš?\N- Stiven.
+Dialogue: 0,1:03:08.77,1:03:11.98,Default,,0,0,0,,Ti, Niki.\NIzgleda da ne zna Gaudio?
+Dialogue: 0,1:03:12.14,1:03:15.86,Default,,0,0,0,,- Ko ga je pozvao?\N- To je Gaudios mlađi brat.
+Dialogue: 0,1:03:17.57,1:03:21.40,Default,,0,0,0,,Uzmite, međutim jaknu.\NIzgledaš kao neko ko je na poslu.
+Dialogue: 0,1:03:26.62,1:03:28.29,Default,,0,0,0,,Otpustite leptira.
+Dialogue: 0,1:03:28.45,1:03:32.33,Default,,0,0,0,,Gde je Bobi?\NOn mora da ga vidi.
+Dialogue: 0,1:03:33.37,1:03:35.21,Default,,0,0,0,,Jedna stvar može da se kaže o Tommi.
+Dialogue: 0,1:03:35.38,1:03:38.38,Default,,0,0,0,,Imao svoje izazove, ali\Nznao je kako da se zabavljaju.
+Dialogue: 0,1:03:49.22,1:03:53.52,Default,,0,0,0,,Sam te na igranku.\NSada stranka dođu do vas.
+Dialogue: 0,1:03:54.60,1:03:57.77,Default,,0,0,0,,- Lepo se provedite.\N- Hoću.
+Dialogue: 0,1:04:16.67,1:04:19.21,Default,,0,0,0,,Zdravo, moje ime je Bob.
+Dialogue: 0,1:04:19.38,1:04:22.26,Default,,0,0,0,,Ja sam tvoj Božićni poklon.
+Dialogue: 0,1:04:35.98,1:04:38.36,Default,,0,0,0,,Da! Dobro urađeno.
+Dialogue: 0,1:04:38.52,1:04:40.98,Default,,0,0,0,,- Dobro urađeno.\N- Čestitam.
+Dialogue: 0,1:04:41.15,1:04:43.15,Default,,0,0,0,,Si u pravu.
+Dialogue: 0,1:04:43.32,1:04:47.11,Default,,0,0,0,,To je zabavnije sa nekim drugim.
+Dialogue: 0,1:04:50.24,1:04:51.99,Default,,0,0,0,,- Halo?\N- Frenki.
+Dialogue: 0,1:04:52.16,1:04:56.29,Default,,0,0,0,,Dođi ovamo. Mi smo uvek žurke.\NMožete biti ovde za deset minuta.
+Dialogue: 0,1:04:57.50,1:05:01.25,Default,,0,0,0,,- Imam poklon za tebe.\N- Upravo smo kući iz crkve.
+Dialogue: 0,1:05:01.42,1:05:06.05,Default,,0,0,0,,Si sve dobiti.\NPropuljtalj svu zabavu.
+Dialogue: 0,1:05:06.22,1:05:10.14,Default,,0,0,0,,Imam dosta zabavno ovde.\NNije istina, Toni?
+Dialogue: 0,1:05:10.30,1:05:13.68,Default,,0,0,0,,Dobro. Zbogom.
+Dialogue: 0,1:05:35.83,1:05:40.42,Default,,0,0,0,,Frankie Valli I THE\NFOUR SEASONS
+Dialogue: 0,1:05:48.47,1:05:51.14,Default,,0,0,0,,Rekao sam\Nda je zapisana u zvezdama.
+Dialogue: 0,1:05:51.30,1:05:55.85,Default,,0,0,0,,- Tri Top udara u nizu.\N- Ti si uvek u pravu, Creve.
+Dialogue: 0,1:05:56.02,1:05:58.73,Default,,0,0,0,,- Dovnload Tommi i Niki.\N- Hajde.
+Dialogue: 0,1:05:58.89,1:06:01.48,Default,,0,0,0,,On ima dobre uši,\Nali je slep kao slepi miš.
+Dialogue: 0,1:06:01.65,1:06:04.82,Default,,0,0,0,,- Tri Top Hits!\N- Tačno.
+Dialogue: 0,1:06:04.98,1:06:08.99,Default,,0,0,0,,Ko je najbolji tim?\NDaj mi pet.
+Dialogue: 0,1:06:09.15,1:06:12.49,Default,,0,0,0,,- Bi možda trebalo da uloži malo novca.\N- U kom umetnosti?
+Dialogue: 0,1:06:12.66,1:06:15.99,Default,,0,0,0,,- Ne, u nama.\N- Šta misliš?
+Dialogue: 0,1:06:16.16,1:06:19.96,Default,,0,0,0,,- Imaš glas, imam pesme.\N- I?
+Dialogue: 0,1:06:20.12,1:06:23.13,Default,,0,0,0,,Ti i ja ući u partnerstvo.
+Dialogue: 0,1:06:23.29,1:06:27.80,Default,,0,0,0,,Delimo prihod od mojih pesama\Ni vašim solo snimaka.
+Dialogue: 0,1:06:27.97,1:06:33.55,Default,,0,0,0,,- Zašto bih solo snimiti?\N- Sve može da se desi.
+Dialogue: 0,1:06:33.72,1:06:37.68,Default,,0,0,0,,Šta je Tomija i Nik?\NNicki me ohrabrio da peva.
+Dialogue: 0,1:06:37.75,1:06:42.52,Default,,0,0,0,,- Mi smo ovde došli zahvaljujući njemu.\N- To ne ide dalje od njihovog učešća.
+Dialogue: 0,1:06:42.52,1:06:45.77,Default,,0,0,0,,- Onda im kažemo.\N- Naravno.
+Dialogue: 0,1:06:46.94,1:06:49.28,Default,,0,0,0,,Da li možda priuštiti jedan na saksofon?
+Dialogue: 0,1:06:50.99,1:06:53.91,Default,,0,0,0,,Smo mogli da priušte\Nu punom cvijet delu.
+Dialogue: 0,1:06:55.62,1:07:00.41,Default,,0,0,0,,- Ja sam na.\N- Dobro.
+Dialogue: 0,1:07:00.58,1:07:02.62,Default,,0,0,0,,Sam napravio ugovor.
+Dialogue: 0,1:07:02.79,1:07:06.13,Default,,0,0,0,,- Hoćemo potpisati nešto?\N- Da.
+Dialogue: 0,1:07:06.30,1:07:09.38,Default,,0,0,0,,Treba mi to radimo?\NPa hajde da to uradimo.
+Dialogue: 0,1:07:09.55,1:07:12.47,Default,,0,0,0,,Imate li ugovor? Evo.
+Dialogue: 0,1:07:12.63,1:07:14.64,Default,,0,0,0,,Xersi ugovor.
+Dialogue: 0,1:08:01.31,1:08:03.44,Default,,0,0,0,,Volim njeno pravo.
+Dialogue: 0,1:08:03.60,1:08:06.94,Default,,0,0,0,,Ne, nije tako.\NMi smo jednaki udeo.
+Dialogue: 0,1:08:16.16,1:08:18.87,Default,,0,0,0,,Da li ste obrnuta $ 10,000\Nna poresku račun?
+Dialogue: 0,1:08:19.03,1:08:21.95,Default,,0,0,0,,Baci ga sada, Niki.
+Dialogue: 0,1:08:22.96,1:08:26.54,Default,,0,0,0,,Ona dodaje se.\NIzgubio si $ 3,500 na trkačkoj stazi.
+Dialogue: 0,1:08:26.71,1:08:30.80,Default,,0,0,0,,Si odjednom postao knjigovođa?\NPravimo o planu.
+Dialogue: 0,1:08:30.96,1:08:33.34,Default,,0,0,0,,Frankie radi sa mnom.\NTrčiš sa genijem.
+Dialogue: 0,1:08:33.51,1:08:36.68,Default,,0,0,0,,- Pretpostavljam da je do Frenki?\N- Ne mešaj se, Niki.
+Dialogue: 0,1:08:36.84,1:08:41.18,Default,,0,0,0,,Pretpostavljam je takođe do Bobbi?\NDvojica su uvek zajedno.
+Dialogue: 0,1:08:41.35,1:08:46.23,Default,,0,0,0,,Oni su... kineski blizanci.
+Dialogue: 0,1:08:48.19,1:08:51.65,Default,,0,0,0,,Molim vas budite tihi, dušo.
+Dialogue: 0,1:08:54.99,1:08:57.82,Default,,0,0,0,,VELCOME u Ilinois
+Dialogue: 0,1:08:57.99,1:09:00.66,Default,,0,0,0,,Sve oženjeni muškarci imaju dečka, draga.
+Dialogue: 0,1:09:00.83,1:09:03.75,Default,,0,0,0,,Zašto ste tako svi u braku?
+Dialogue: 0,1:09:03.91,1:09:07.54,Default,,0,0,0,,Jer porodica je sve.
+Dialogue: 0,1:09:07.71,1:09:09.71,Default,,0,0,0,,Ovo nema smisla.
+Dialogue: 0,1:09:09.88,1:09:12.96,Default,,0,0,0,,Dobro. Tako dolazimo.
+Dialogue: 0,1:09:13.13,1:09:16.01,Default,,0,0,0,,- Zvaću te, Bobi.\N- Da.
+Dialogue: 0,1:09:17.01,1:09:19.30,Default,,0,0,0,,- Imate sve svoje stvari?\N- Da.
+Dialogue: 0,1:09:19.47,1:09:21.81,Default,,0,0,0,,- Čuvajte se.\N- Zbogom.
+Dialogue: 0,1:09:28.78,1:09:31.99,Default,,0,0,0,,Pojaviš nekoliko dana i igra kuću.
+Dialogue: 0,1:09:32.15,1:09:35.37,Default,,0,0,0,,Ja bar ne iskrivljeni.\NDeca znaju da si...
+Dialogue: 0,1:09:35.53,1:09:37.74,Default,,0,0,0,,Hoćemo zameniti mesta?
+Dialogue: 0,1:09:37.91,1:09:41.00,Default,,0,0,0,,- Tu je kuhinja!\N- Onda idi na turneju!
+Dialogue: 0,1:09:41.16,1:09:43.42,Default,,0,0,0,,Neću pokvariti ništa za tebe.
+Dialogue: 0,1:09:43.58,1:09:47.84,Default,,0,0,0,,- Ja robuje daleko za porodicu.\N- Sranje!
+Dialogue: 0,1:09:48.00,1:09:52.68,Default,,0,0,0,,Bend je tvoja porodica.\NZnam šta se dešava.
+Dialogue: 0,1:09:52.84,1:09:55.43,Default,,0,0,0,,Daj jedan od vaših\N"specijalnih prijatelja".
+Dialogue: 0,1:09:55.59,1:09:58.68,Default,,0,0,0,,Baš me briga.\NĆete uvek biti ko ste.
+Dialogue: 0,1:09:58.85,1:10:02.94,Default,,0,0,0,,Glup spaghettignasker,\Nkoji nikada nije dobio obrazovanje.
+Dialogue: 0,1:10:04.10,1:10:07.15,Default,,0,0,0,,Gospodin Valli sa slovom "I".
+Dialogue: 0,1:10:07.32,1:10:09.98,Default,,0,0,0,,Iskreno.
+Dialogue: 0,1:10:10.15,1:10:12.24,Default,,0,0,0,,Podigni.
+Dialogue: 0,1:10:12.40,1:10:14.74,Default,,0,0,0,,Podigni.
+Dialogue: 0,1:10:36.30,1:10:38.80,Default,,0,0,0,,Je majka jako bolesna?
+Dialogue: 0,1:10:38.97,1:10:41.81,Default,,0,0,0,,Kako to misliš?
+Dialogue: 0,1:10:41.97,1:10:45.65,Default,,0,0,0,,Ona pije mnogo lekova\Ni zaspati na kauču.
+Dialogue: 0,1:10:45.81,1:10:48.81,Default,,0,0,0,,Medicina?
+Dialogue: 0,1:10:49.98,1:10:53.36,Default,,0,0,0,,Fransin...
+Dialogue: 0,1:10:53.53,1:10:57.62,Default,,0,0,0,,Medicina li ponekad\Ntvoja mama jako umoran.
+Dialogue: 0,1:10:58.99,1:11:01.99,Default,,0,0,0,,Da li me voliš, tata?
+Dialogue: 0,1:11:02.16,1:11:04.33,Default,,0,0,0,,Naravno da znam.
+Dialogue: 0,1:11:04.50,1:11:06.83,Default,,0,0,0,,Ali, da li ti se sviđam?
+Dialogue: 0,1:11:07.00,1:11:09.54,Default,,0,0,0,,Da li ti se sviđa?
+Dialogue: 0,1:11:11.13,1:11:13.88,Default,,0,0,0,,Jesi li lud?\NNaravno da te volim.
+Dialogue: 0,1:11:14.05,1:11:17.09,Default,,0,0,0,,Više od zvezda, Meseca i Sunca\N-
+Dialogue: 0,1:11:17.26,1:11:20.47,Default,,0,0,0,,- i sve ostalo u svetu.
+Dialogue: 0,1:11:21.64,1:11:24.98,Default,,0,0,0,,- Idite na spavanje.\N- Pevaj mi.
+Dialogue: 0,1:11:49.88,1:11:51.92,Default,,0,0,0,,Evo.
+Dialogue: 0,1:11:52.09,1:11:54.09,Default,,0,0,0,,Izvoli.
+Dialogue: 0,1:11:54.26,1:11:58.13,Default,,0,0,0,,Vam je udobno? Fino.
+Dialogue: 0,1:12:17.24,1:12:21.03,Default,,0,0,0,,Budi.\NDođi ovamo.
+Dialogue: 0,1:12:27.08,1:12:29.33,Default,,0,0,0,,Hvala, Francine.
+Dialogue: 0,1:13:17.05,1:13:20.13,Default,,0,0,0,,To je lutka, koja je miš.\NJa ne kapiram ni.
+Dialogue: 0,1:13:20.30,1:13:25.35,Default,,0,0,0,,Zaboravite da peva na kameru.\NStanite mirno i ne gledaj dole.
+Dialogue: 0,1:13:25.51,1:13:29.18,Default,,0,0,0,,I osmeh. Ed Sullivan Shov,\Nnije sahrana.
+Dialogue: 0,1:13:29.35,1:13:31.69,Default,,0,0,0,,- Postoji minut.\N- Frankie!
+Dialogue: 0,1:13:31.85,1:13:35.69,Default,,0,0,0,,'Ponovo Amazing\Ni samo postaje sve bolje i bolje.
+Dialogue: 0,1:13:35.86,1:13:38.03,Default,,0,0,0,,- Hvala.\N- Je li Tomi ovde?
+Dialogue: 0,1:13:38.19,1:13:41.49,Default,,0,0,0,,- Ko pita?\N- Norman Vakman. Njegov prijatelj.
+Dialogue: 0,1:13:41.65,1:13:44.74,Default,,0,0,0,,- Šta je sve ovo?\N- Novac.
+Dialogue: 0,1:13:46.83,1:13:50.16,Default,,0,0,0,,- Vidi, MR....?\N- Vakman, Norman Vakman.
+Dialogue: 0,1:13:50.33,1:13:55.67,Default,,0,0,0,,- Da razgovaramo sa advokatom.\N- Ne Sam postigao sada neki uspeh.
+Dialogue: 0,1:13:55.84,1:13:59.01,Default,,0,0,0,,Albume i nastupa.
+Dialogue: 0,1:13:59.17,1:14:02.26,Default,,0,0,0,,- Veoma smo ponosni.\N- Možete sada.
+Dialogue: 0,1:14:02.43,1:14:05.18,Default,,0,0,0,,Tomi me je pitao\Nu nezgodnu situaciju.
+Dialogue: 0,1:14:05.34,1:14:08.72,Default,,0,0,0,,Sam zadržao narod moj\Nali on duguje previše novca.
+Dialogue: 0,1:14:08.89,1:14:11.27,Default,,0,0,0,,Oni žele svoj novac sada.
+Dialogue: 0,1:14:11.43,1:14:14.60,Default,,0,0,0,,Pre toga neko od vas nešto\Npa sve pušenja u sudoperu.
+Dialogue: 0,1:14:14.77,1:14:18.32,Default,,0,0,0,,- Ovo je sranje.\N- Koliko dugujete Tomi?
+Dialogue: 0,1:14:18.48,1:14:21.36,Default,,0,0,0,,- 150 jezika.\N- Šta?
+Dialogue: 0,1:14:21.53,1:14:23.86,Default,,0,0,0,,- $ 150.000.\N- Cross.
+Dialogue: 0,1:14:25.36,1:14:27.87,Default,,0,0,0,,Zdravo. Zar niste znali da sam ja došao?
+Dialogue: 0,1:14:29.16,1:14:31.16,Default,,0,0,0,,Zdravo, Normie.
+Dialogue: 0,1:14:31.33,1:14:33.46,Default,,0,0,0,,- Šta onda?\N- Hej, Tomi.
+Dialogue: 0,1:14:33.62,1:14:36.63,Default,,0,0,0,,- Sad će.\N- Nismo pet minuta?
+Dialogue: 0,1:14:37.63,1:14:40.42,Default,,0,0,0,,Idemo sada.
+Dialogue: 0,1:14:47.05,1:14:50.22,Default,,0,0,0,,Za sve mlade zemlje,\Ndolazi četiri godišnja doba.
+Dialogue: 0,1:14:50.39,1:14:52.85,Default,,0,0,0,,Dajte im topao aplauz.
+Dialogue: 0,1:15:38.02,1:15:40.02,Default,,0,0,0,,Bob tvrdi da je sve prošlo u redu -
+Dialogue: 0,1:15:40.19,1:15:45.15,Default,,0,0,0,,- dok ne pogodio santu\Nsa Tomi i 150.000 dolara.
+Dialogue: 0,1:15:45.32,1:15:49.16,Default,,0,0,0,,Kako je Bob.\NUvek fokusiran na budućnost -
+Dialogue: 0,1:15:49.32,1:15:52.49,Default,,0,0,0,,- i da ne shvataju šta se desilo\Npravo ispred njega.
+Dialogue: 0,1:15:52.66,1:15:56.58,Default,,0,0,0,,Ali problemi nisu počne\NEd Sullivan Shov.
+Dialogue: 0,1:15:56.75,1:15:59.25,Default,,0,0,0,,Počeli su mnogo pre.
+Dialogue: 0,1:16:03.17,1:16:06.51,Default,,0,0,0,,DVE GODINE RANIJE
+Dialogue: 0,1:16:58.02,1:17:01.27,Default,,0,0,0,,Hvala.\NVidimo se sledeće godine.
+Dialogue: 0,1:17:01.44,1:17:03.15,Default,,0,0,0,,Veliki.
+Dialogue: 0,1:17:04.27,1:17:06.28,Default,,0,0,0,,- Bravo, momci!\N- Hvala.
+Dialogue: 0,1:17:06.44,1:17:09.78,Default,,0,0,0,,Dobrodošli u Klivlend.\NOvim ste uhapšeni.
+Dialogue: 0,1:17:10.78,1:17:12.62,Default,,0,0,0,,- Šta?\N- Zašto?
+Dialogue: 0,1:17:12.78,1:17:15.66,Default,,0,0,0,,- U toku hotelski račun.\N- Šta?
+Dialogue: 0,1:17:15.83,1:17:18.58,Default,,0,0,0,,- Igre si ovde prošle godine?\N- Da.
+Dialogue: 0,1:17:18.75,1:17:20.46,Default,,0,0,0,,Ostao u Hollidai Inn?
+Dialogue: 0,1:17:21.75,1:17:25.29,Default,,0,0,0,,- Ne sećam se.\N- Trčao sam se na račun.
+Dialogue: 0,1:17:25.46,1:17:30.22,Default,,0,0,0,,- Dugujem Hollidai Inn za $ 120 istih.\N- Ja ću se pobrinuti za.
+Dialogue: 0,1:17:30.38,1:17:35.35,Default,,0,0,0,,- Uzmi ga sudiji.\N- Možemo dvojica ne reši ovo?
+Dialogue: 0,1:17:36.35,1:17:38.39,Default,,0,0,0,,Da li me podmićivanje?
+Dialogue: 0,1:17:41.85,1:17:44.40,Default,,0,0,0,,Pa, prijatelju moj.
+Dialogue: 0,1:17:44.56,1:17:46.73,Default,,0,0,0,,Svi ljudi tražite kraljicu.\NGde je ona?
+Dialogue: 0,1:17:50.07,1:17:52.20,Default,,0,0,0,,O, zajedno sa još jednim čovekom.
+Dialogue: 0,1:17:52.36,1:17:55.87,Default,,0,0,0,,Ali mi smo svi pobednici.\NDuguješ mi $ 40 sada.
+Dialogue: 0,1:17:56.03,1:17:58.91,Default,,0,0,0,,Da li se sećate tada vratio,\Nnisu mogli da nas uhapse?
+Dialogue: 0,1:17:59.08,1:18:03.17,Default,,0,0,0,,- Da li su tri godine.\N- Opusti se, pametna.
+Dialogue: 0,1:18:03.33,1:18:06.17,Default,,0,0,0,,To nije kraj sveta.\NSmo se za nekoliko dana.
+Dialogue: 0,1:18:06.34,1:18:09.63,Default,,0,0,0,,Ona može doći kao šok,\Nali nemam kriminalni dosije.
+Dialogue: 0,1:18:09.80,1:18:13.26,Default,,0,0,0,,Li ti?\NNikada nije kasno da počnete.
+Dialogue: 0,1:18:13.43,1:18:16.39,Default,,0,0,0,,Vidi, možda neće biti\Njedno klasična pesma od ovoga.
+Dialogue: 0,1:18:16.55,1:18:18.06,Default,,0,0,0,,Ne, Frankie?
+Dialogue: 0,1:18:20.85,1:18:22.35,Default,,0,0,0,,Hajde, Frankie.
+Dialogue: 0,1:18:26.02,1:18:27.57,Default,,0,0,0,,Umukni, Tommi.
+Dialogue: 0,1:18:27.73,1:18:33.65,Default,,0,0,0,,- Pitajte svog prijatelja da se smiri.\N- Ne, ja delim ćeliju sa...
+Dialogue: 0,1:18:36.57,1:18:38.49,Default,,0,0,0,,osoba.
+Dialogue: 0,1:18:43.66,1:18:45.21,Default,,0,0,0,,Zdravo.
+Dialogue: 0,1:18:47.38,1:18:49.88,Default,,0,0,0,,- Ovamo.\N- Zdravo.
+Dialogue: 0,1:18:50.05,1:18:53.22,Default,,0,0,0,,Hvala.\NImam veoma dobar zatvor.
+Dialogue: 0,1:18:53.38,1:18:57.05,Default,,0,0,0,,Bob nikada nije oprostio Tommi.\NJesam.
+Dialogue: 0,1:18:57.22,1:19:01.47,Default,,0,0,0,,Bend je najvažnije.\NSmo posle svega, zar ne?
+Dialogue: 0,1:19:01.64,1:19:04.60,Default,,0,0,0,,Izvoli, dušo.
+Dialogue: 0,1:19:04.77,1:19:09.36,Default,,0,0,0,,- Hvala.\N- Mi volimo Ohajo.
+Dialogue: 0,1:19:13.19,1:19:18.03,Default,,0,0,0,,Mi ne mogu koristiti račun.\NMoramo da sačuvate neke za prijavim.
+Dialogue: 0,1:19:18.20,1:19:20.74,Default,,0,0,0,,To je novembar.\NPostoji devet meseci do aprila.
+Dialogue: 0,1:19:20.91,1:19:24.08,Default,,0,0,0,,- Šest meseci.\N- Zašto si revizor.
+Dialogue: 0,1:19:24.25,1:19:28.04,Default,,0,0,0,,- Da, i to je važno...\N- Ja sam vaš klijent.
+Dialogue: 0,1:19:28.21,1:19:30.67,Default,,0,0,0,,Daj $ 20,000 Bellevue Stan Inc
+Dialogue: 0,1:19:30.84,1:19:33.59,Default,,0,0,0,,- Šta je "GAVA"?\N- Kafa. Gorak kao tvoj brat.
+Dialogue: 0,1:19:33.76,1:19:38.39,Default,,0,0,0,,- Bobi i Frankie partnerstvo.\N- Imaju glupo partnerstvo.
+Dialogue: 0,1:19:38.55,1:19:42.52,Default,,0,0,0,,- O čemu?\N- Frankie peva, i Bobi piše.
+Dialogue: 0,1:19:42.68,1:19:44.52,Default,,0,0,0,,- Ti znaš o tome?\N- Da.
+Dialogue: 0,1:19:44.68,1:19:50.15,Default,,0,0,0,,- Kada bi mi rekla?\N- Ne čini ništa za svoj udeo.
+Dialogue: 0,1:19:50.31,1:19:54.32,Default,,0,0,0,,- Mi smo bend.\N- Slažem se.
+Dialogue: 0,1:19:54.49,1:19:57.45,Default,,0,0,0,,Još nije sa njihovim dva ega.
+Dialogue: 0,1:19:57.61,1:20:01.62,Default,,0,0,0,,- Ja ću početi svoj bend.\N- Jesi li siguran da ne.
+Dialogue: 0,1:20:01.78,1:20:05.79,Default,,0,0,0,,Si lenj.\NVi, gospodo, Lou.
+Dialogue: 0,1:20:09.96,1:20:13.05,Default,,0,0,0,,Još jednom sam se našao u njemu.\NDobro kandidovao za nas.
+Dialogue: 0,1:20:13.21,1:20:16.26,Default,,0,0,0,,Igrali smo koncerte\Ni došao do pred lišća.
+Dialogue: 0,1:20:16.42,1:20:19.64,Default,,0,0,0,,Bili smo broj jedan za šest nedelja.\NOna nadmašuje loše.
+Dialogue: 0,1:20:19.80,1:20:21.68,Default,,0,0,0,,Dok nismo stigli Detroit.
+Dialogue: 0,1:20:21.85,1:20:25.18,Default,,0,0,0,,Novinar intervjuisao nas,\Ni Frankie zaljubio.
+Dialogue: 0,1:20:25.35,1:20:29.90,Default,,0,0,0,,Reci mi nešto o vašoj pozadini.
+Dialogue: 0,1:20:30.06,1:20:35.65,Default,,0,0,0,,Ja sam iz Belleville, Nju Xersi.\NSamo van Nevark.
+Dialogue: 0,1:20:36.94,1:20:39.20,Default,,0,0,0,,Pogledajte ovde.
+Dialogue: 0,1:20:40.45,1:20:44.12,Default,,0,0,0,,Imam neke slike.
+Dialogue: 0,1:20:44.29,1:20:46.95,Default,,0,0,0,,Ovo je moja majka.
+Dialogue: 0,1:20:47.12,1:20:49.67,Default,,0,0,0,,Ona pravi najbolju\Nfrikadellesandvicher zemlje.
+Dialogue: 0,1:20:49.83,1:20:53.75,Default,,0,0,0,,Ona je mala, ali žestoka.
+Dialogue: 0,1:20:53.92,1:20:56.42,Default,,0,0,0,,Ona je tako htela\Nme od komšiluka.
+Dialogue: 0,1:20:56.59,1:21:00.89,Default,,0,0,0,,Ali ona još uvek živi tamo.\NJa nateram da se ne kreće.
+Dialogue: 0,1:21:01.05,1:21:03.26,Default,,0,0,0,,Ona neće ostaviti svoje prijatelje.
+Dialogue: 0,1:21:03.43,1:21:05.81,Default,,0,0,0,,"Uzmi ih."\NAli ona još uvek odbija.
+Dialogue: 0,1:21:05.97,1:21:09.69,Default,,0,0,0,,Ona odbija da prihvati novac\Nda popravi mašinu za pranje veša.
+Dialogue: 0,1:21:09.85,1:21:13.98,Default,,0,0,0,,Umesto toga ona uzima u vešu i dovodi\Npojavio kao Frankie Valli majke.
+Dialogue: 0,1:21:14.15,1:21:18.65,Default,,0,0,0,,Sada, ljudi misle da sam prisiljavao\Nda u vešu.
+Dialogue: 0,1:21:27.91,1:21:30.79,Default,,0,0,0,,Šta želite više informacija?
+Dialogue: 0,1:21:30.96,1:21:33.96,Default,,0,0,0,,A onda je intervjuisala Tommi.
+Dialogue: 0,1:21:34.13,1:21:38.42,Default,,0,0,0,,On je koristio samo za određeni tip\Nžene, tako...
+Dialogue: 0,1:21:38.59,1:21:42.55,Default,,0,0,0,,Nije šanse protiv Lorraine.
+Dialogue: 0,1:21:42.72,1:21:46.56,Default,,0,0,0,,- Šta je Frenki rekao o meni?\N- Je uglavnom govorio o njemu i Bobi.
+Dialogue: 0,1:21:46.72,1:21:49.06,Default,,0,0,0,,Bend je prvi uspeh za njega.
+Dialogue: 0,1:21:49.23,1:21:51.64,Default,,0,0,0,,Li je on rekao da sam unajmio Bobbi?
+Dialogue: 0,1:21:51.81,1:21:55.02,Default,,0,0,0,,Rekao da je zajednička odluka.
+Dialogue: 0,1:21:55.19,1:21:57.86,Default,,0,0,0,,Pa, on to rekao?
+Dialogue: 0,1:21:59.40,1:22:03.07,Default,,0,0,0,,Li je on rekao da je pre nego što\Nsam ga uzeo u bendu, bio frizer?
+Dialogue: 0,1:22:04.07,1:22:08.33,Default,,0,0,0,,- Ne\N- Klinac je izgubljena.
+Dialogue: 0,1:22:08.49,1:22:12.46,Default,,0,0,0,,Između vas,\Na ne pisati -
+Dialogue: 0,1:22:12.62,1:22:16.96,Default,,0,0,0,,- pa sam ga naučio sve,\Nšta zna.
+Dialogue: 0,1:22:17.13,1:22:20.72,Default,,0,0,0,,Ali ne sve što ja znam.
+Dialogue: 0,1:22:20.88,1:22:23.38,Default,,0,0,0,,Pomogla sam mu čak\Nda pokupi žene.
+Dialogue: 0,1:22:23.55,1:22:25.55,Default,,0,0,0,,Morao sam da ga treniram.
+Dialogue: 0,1:22:27.31,1:22:31.48,Default,,0,0,0,,Dakle, stvarno ga dobro naučio.
+Dialogue: 0,1:22:31.64,1:22:36.81,Default,,0,0,0,,- Hajde da prekinemo Božićne igre, Lorraine.\N- Šta ti misliš, Tommi?
+Dialogue: 0,1:22:38.40,1:22:40.57,Default,,0,0,0,,Ti si velika devojka.
+Dialogue: 0,1:22:43.99,1:22:47.28,Default,,0,0,0,,Listen. Kada se umorite od\Npočeti tim -
+Dialogue: 0,1:22:47.45,1:22:50.29,Default,,0,0,0,,- javite mi ako želite da pokušate\Nprošireni kurs.
+Dialogue: 0,1:22:56.38,1:22:57.88,Default,,0,0,0,,OK.
+Dialogue: 0,1:22:58.04,1:23:00.71,Default,,0,0,0,,- Da li je on proći na tebe?\N- U veoma trapav način.
+Dialogue: 0,1:23:00.88,1:23:03.80,Default,,0,0,0,,- Ja ću ga ubiti.\N- To je kao zabavno.
+Dialogue: 0,1:23:03.97,1:23:06.89,Default,,0,0,0,,Ne, takva stvar ne dešava!
+Dialogue: 0,1:23:07.05,1:23:11.18,Default,,0,0,0,,Da li ću moći da nastupe sa njim?\NJe lud?
+Dialogue: 0,1:23:11.35,1:23:15.06,Default,,0,0,0,,- On je samo neinteligentna.\N- Ne, on je zao.
+Dialogue: 0,1:23:15.23,1:23:17.61,Default,,0,0,0,,- Osećao se ti?\N- Naravno da ne.
+Dialogue: 0,1:23:20.02,1:23:23.57,Default,,0,0,0,,- Sranje!\N- Šta nije u redu sa tobom?
+Dialogue: 0,1:23:33.08,1:23:37.12,Default,,0,0,0,,Hej, izaberite karticu. No?
+Dialogue: 0,1:23:38.63,1:23:42.67,Default,,0,0,0,,Je da postane ključni majstor?\NFrankie Valli.
+Dialogue: 0,1:23:43.71,1:23:47.72,Default,,0,0,0,,On me ignoriše.\NŠta sam ja uradio sa njim?
+Dialogue: 0,1:23:47.89,1:23:51.35,Default,,0,0,0,,Mu ponudio sam bolji život\Ni odveo ga u bendu.
+Dialogue: 0,1:23:51.51,1:23:55.64,Default,,0,0,0,,Sam se borio za njega godinama.\NGa uzeo sam ispod krila.
+Dialogue: 0,1:23:55.81,1:24:01.61,Default,,0,0,0,,Napravio sam ga zvezda.\NSada neće ni da me pogleda.
+Dialogue: 0,1:24:01.77,1:24:04.94,Default,,0,0,0,,- Polako.\N- Zašto je toliko protiv mene?
+Dialogue: 0,1:24:05.11,1:24:09.66,Default,,0,0,0,,Zbog Chick?\NSuviše daleko.
+Dialogue: 0,1:24:12.03,1:24:17.21,Default,,0,0,0,,Da li nikada učinio bilo dobro?\NDaj mi peškir.
+Dialogue: 0,1:24:18.71,1:24:20.75,Default,,0,0,0,,Daj mi jebeni peškir.
+Dialogue: 0,1:24:30.68,1:24:33.39,Default,,0,0,0,,Jesam li u pravu ili sam u pravu?
+Dialogue: 0,1:24:40.94,1:24:43.86,Default,,0,0,0,,Bobbi će biti odgovoran za novac\Nod sada.
+Dialogue: 0,1:24:44.03,1:24:48.24,Default,,0,0,0,,- Šta?\N- Bobi će biti odgovoran za novac.
+Dialogue: 0,1:24:50.07,1:24:52.33,Default,,0,0,0,,Da ti objasnim nešto.
+Dialogue: 0,1:24:52.49,1:24:55.29,Default,,0,0,0,,Kada sam napusti bend,\Nili sam mrtav -
+Dialogue: 0,1:24:55.45,1:24:57.79,Default,,0,0,0,,- tako Bob mogu da stoje u celini.
+Dialogue: 0,1:24:57.96,1:25:01.54,Default,,0,0,0,,Dokle god sam sa bendom,\Njer ne dotakne peni.
+Dialogue: 0,1:25:01.71,1:25:04.55,Default,,0,0,0,,Ni jedan peni!
+Dialogue: 0,1:25:05.55,1:25:08.26,Default,,0,0,0,,Fat ga.
+Dialogue: 0,1:25:10.84,1:25:13.76,Default,,0,0,0,,- Možda bi trebalo da glasaju o tome.\N- Šta?
+Dialogue: 0,1:25:13.93,1:25:17.02,Default,,0,0,0,,- Šta si rekao?\N- Možda bi trebalo da glasaju o tome.
+Dialogue: 0,1:25:17.18,1:25:19.19,Default,,0,0,0,,Glasamo o tome?
+Dialogue: 0,1:25:23.77,1:25:27.23,Default,,0,0,0,,Sam sa.\NPustili smo demokratija prevladati.
+Dialogue: 0,1:25:27.40,1:25:32.11,Default,,0,0,0,,Hajde da glasamo. Treba Bob stand\Nza novac. Da ili ne?
+Dialogue: 0,1:25:32.28,1:25:34.03,Default,,0,0,0,,- Šta kažete?\N- Zdravo!
+Dialogue: 0,1:25:35.58,1:25:40.79,Default,,0,0,0,,Tamo imaš moj glas.\NŠta je sa vama ostalima?
+Dialogue: 0,1:25:43.79,1:25:46.71,Default,,0,0,0,,- Tomi...\N- Šta?
+Dialogue: 0,1:25:49.42,1:25:52.80,Default,,0,0,0,,Čini se da su naisaiers pobedili.
+Dialogue: 0,1:25:52.97,1:25:57.35,Default,,0,0,0,,Tomi dobili bitku,\Nali je početak kraja.
+Dialogue: 0,1:25:57.52,1:26:03.52,Default,,0,0,0,,Nešto je uništena, pa\Nokliznuo bend polako raspada.
+Dialogue: 0,1:26:03.69,1:26:09.28,Default,,0,0,0,,Dok Norm Vakman pojavio\Ni otkrio istinu -
+Dialogue: 0,1:26:09.44,1:26:12.95,Default,,0,0,0,,- nismo imali pojma gde\Nvelikim dugovima je stajao.
+Dialogue: 0,1:26:47.69,1:26:52.11,Default,,0,0,0,,Moglo bi se pomisliti da bi Frankie\Nprimorati Tomija iz benda.
+Dialogue: 0,1:26:52.28,1:26:56.62,Default,,0,0,0,,Ali ako verujete\Nonda niste iz Xersija.
+Dialogue: 0,1:27:02.41,1:27:04.54,Default,,0,0,0,,Hej, prevara.
+Dialogue: 0,1:27:04.71,1:27:07.13,Default,,0,0,0,,- Tomi je u maloj nevolji.\N- Koliko mala?
+Dialogue: 0,1:27:10.55,1:27:16.22,Default,,0,0,0,,- $ 150.000.\N- Zašto nije ovde?
+Dialogue: 0,1:27:17.22,1:27:21.72,Default,,0,0,0,,Zato što ne može da peva\N"Moja majka & apos; s očima" kao ja.
+Dialogue: 0,1:27:23.48,1:27:28.15,Default,,0,0,0,,- Ti se dobro brine o svojoj porodici.\N- Da.
+Dialogue: 0,1:27:28.31,1:27:30.90,Default,,0,0,0,,Videću šta mogu da uradim.
+Dialogue: 0,1:27:46.23,1:27:49.02,Default,,0,0,0,,Ovde smo da rešimo problem.
+Dialogue: 0,1:27:49.19,1:27:52.90,Default,,0,0,0,,Smo svi gospoda\Ni pravilno ponašati.
+Dialogue: 0,1:27:53.07,1:27:54.69,Default,,0,0,0,,Pozdrav.
+Dialogue: 0,1:27:54.86,1:27:57.32,Default,,0,0,0,,Koliko novca govorimo?
+Dialogue: 0,1:27:59.41,1:28:03.49,Default,,0,0,0,,Uključujući i kamate\Nto je oko $ 162.000.
+Dialogue: 0,1:28:04.49,1:28:09.75,Default,,0,0,0,,- Šta si mislio, Tommi?\N- Ne znam, prevara.
+Dialogue: 0,1:28:09.92,1:28:12.63,Default,,0,0,0,,Mučila sam se da upoznam isplate.
+Dialogue: 0,1:28:12.79,1:28:14.92,Default,,0,0,0,,Neverovatno,\Non i dalje stoji uspravno.
+Dialogue: 0,1:28:15.92,1:28:20.47,Default,,0,0,0,,Mi volimo svoju muziku.\NInače pušio u bolnici.
+Dialogue: 0,1:28:20.64,1:28:26.06,Default,,0,0,0,,- Šta bi ti uradio, pederu?\N- On pokušava da se susret.
+Dialogue: 0,1:28:26.22,1:28:29.73,Default,,0,0,0,,- Na čijoj si ti strani?\N- Moja. Seronjo.
+Dialogue: 0,1:28:29.89,1:28:32.94,Default,,0,0,0,,- Mozes da budes kreten.\N- Jebi se!
+Dialogue: 0,1:28:33.11,1:28:38.40,Default,,0,0,0,,Naš prijatelj, MR. Vakman,\Nima ozbiljan problem.
+Dialogue: 0,1:28:39.36,1:28:42.78,Default,,0,0,0,,Uz svo dužno poštovanje, ali je počeo.
+Dialogue: 0,1:28:44.28,1:28:47.08,Default,,0,0,0,,Dozvolite mi da kažem jednu stvar.
+Dialogue: 0,1:28:48.08,1:28:51.50,Default,,0,0,0,,Sam podelio hotelskih soba\Ns njim poslednjih deset godina.
+Dialogue: 0,1:28:51.67,1:28:54.59,Default,,0,0,0,,Nije bilo lako.\NTo je zatvorska kazna.
+Dialogue: 0,1:28:54.75,1:28:59.09,Default,,0,0,0,,Kazna zatvora od deset godina.\NČovek je strašno.
+Dialogue: 0,1:28:59.26,1:29:02.01,Default,,0,0,0,,On nosi isti veš\Ntri uzastopna dana.
+Dialogue: 0,1:29:02.18,1:29:06.51,Default,,0,0,0,,Nije do svoje spoljašnjosti.
+Dialogue: 0,1:29:06.68,1:29:10.89,Default,,0,0,0,,Čovek koristi sve peškire\Nu hotelskoj sobi.
+Dialogue: 0,1:29:11.06,1:29:13.35,Default,,0,0,0,,Peškiri za lice\Ni peškiri za plažu -
+Dialogue: 0,1:29:13.52,1:29:17.11,Default,,0,0,0,,- otiraca i male vashcloths,\Nkao da je jedini tamo.
+Dialogue: 0,1:29:17.28,1:29:20.32,Default,,0,0,0,,Sve peškiri su\Nu gomili na podu.
+Dialogue: 0,1:29:20.49,1:29:23.49,Default,,0,0,0,,- Nicki...\N- Jednom je besan u sudoperu.
+Dialogue: 0,1:29:23.66,1:29:26.24,Default,,0,0,0,,- Nikada nisam...\N- Samo u lavabo!
+Dialogue: 0,1:29:26.41,1:29:30.75,Default,,0,0,0,,Ukazao sam do toaleta, ali\Numivaonik bio bliži.
+Dialogue: 0,1:29:30.91,1:29:34.04,Default,,0,0,0,,Čovek nema socijalne veštine.
+Dialogue: 0,1:29:34.21,1:29:37.67,Default,,0,0,0,,Ni Frenki ili Gaudio\Nje morao da se bori sa njim.
+Dialogue: 0,1:29:37.84,1:29:41.30,Default,,0,0,0,,Sam se borila sa njom za deset godina!
+Dialogue: 0,1:29:45.76,1:29:48.76,Default,,0,0,0,,Hvala za deljenje ga sa nama.
+Dialogue: 0,1:29:48.93,1:29:52.35,Default,,0,0,0,,Norma i ja ću smisliti.
+Dialogue: 0,1:29:52.52,1:29:55.40,Default,,0,0,0,,Dok drži u našim glavama zajedno...
+Dialogue: 0,1:29:55.56,1:29:57.94,Default,,0,0,0,,i vidim šta mogu naći.
+Dialogue: 0,1:29:58.11,1:29:59.90,Default,,0,0,0,,A ti...
+Dialogue: 0,1:30:00.07,1:30:03.65,Default,,0,0,0,,mešaj mom kupatilu.
+Dialogue: 0,1:30:22.09,1:30:25.68,Default,,0,0,0,,- Gip možda predomisli.\N- Zaboravi.
+Dialogue: 0,1:30:25.84,1:30:27.85,Default,,0,0,0,,Zaboravi.
+Dialogue: 0,1:30:30.14,1:30:34.14,Default,,0,0,0,,Imam nekoliko ideja.\NĆu smisliti nešto.
+Dialogue: 0,1:30:34.31,1:30:39.23,Default,,0,0,0,,- Sada želi da napravi krevetac.\N- Ćuti i pij vino!
+Dialogue: 0,1:30:41.23,1:30:43.24,Default,,0,0,0,,DeCarlo određuje ne, ja radim.
+Dialogue: 0,1:30:43.40,1:30:47.95,Default,,0,0,0,,Zašto smo tražili prevara za pomoć?\NJa izgledam kao idiot.
+Dialogue: 0,1:30:48.12,1:30:53.91,Default,,0,0,0,,- To ti čini dobro Self.\N- Pokažite mi malo poštovanja.
+Dialogue: 0,1:30:54.08,1:30:56.29,Default,,0,0,0,,Zašto?\NZato dugujete $ 162.000 daleko?
+Dialogue: 0,1:30:56.46,1:31:00.38,Default,,0,0,0,,Pokušao sam bar.\NTo nije lako.
+Dialogue: 0,1:31:00.55,1:31:03.80,Default,,0,0,0,,Ja ću se pobrinuti o mestima\Ni izdavačkim kućama.
+Dialogue: 0,1:31:03.97,1:31:06.30,Default,,0,0,0,,Svako pokušava da varaju jedno.
+Dialogue: 0,1:31:06.47,1:31:10.30,Default,,0,0,0,,Je to što nije briga.\NSam zbrinuti sve!
+Dialogue: 0,1:31:11.31,1:31:12.81,Default,,0,0,0,,Sedi.
+Dialogue: 0,1:31:17.73,1:31:21.82,Default,,0,0,0,,Sedi! Sedi.
+Dialogue: 0,1:31:24.86,1:31:29.57,Default,,0,0,0,,Dobro. Hajde s tim.\NKazni me.
+Dialogue: 0,1:31:29.74,1:31:32.49,Default,,0,0,0,,Naime, Tomi.
+Dialogue: 0,1:31:32.66,1:31:35.79,Default,,0,0,0,,Uvek ste bili ravnodušni prema\Nbend.
+Dialogue: 0,1:31:35.96,1:31:39.71,Default,,0,0,0,,Uvek si imao vremena za svoje, a posle toga\Ndošao bend.
+Dialogue: 0,1:31:39.88,1:31:42.63,Default,,0,0,0,,Dobijate Niki da popijete\Ni trčkaraju naokolo sa Bobom.
+Dialogue: 0,1:31:42.80,1:31:45.42,Default,,0,0,0,,A ti si me manipulišu.
+Dialogue: 0,1:31:45.59,1:31:48.63,Default,,0,0,0,,- Ne činite ništa.\N- Umukni jednom.
+Dialogue: 0,1:31:50.72,1:31:53.51,Default,,0,0,0,,Da li znate šta je najgora stvar je Tomi?
+Dialogue: 0,1:31:53.68,1:31:57.69,Default,,0,0,0,,Nisi loša muzičar,\Nako samo pitate, ali ne.
+Dialogue: 0,1:31:57.85,1:32:02.06,Default,,0,0,0,,Ste zauzeti igraju pametno\Ni kupuju stanove za svoje ljubavnike.
+Dialogue: 0,1:32:02.23,1:32:07.61,Default,,0,0,0,,Ali ne više.\NTo je kraj tog sranja.
+Dialogue: 0,1:32:07.78,1:32:09.90,Default,,0,0,0,,Da li je ovo način\Nrazgovarate sa svojim prijateljima?
+Dialogue: 0,1:32:09.99,1:32:12.66,Default,,0,0,0,,Prijatelji, kažete?
+Dialogue: 0,1:32:14.58,1:32:17.58,Default,,0,0,0,,Nijedan Božićni poklon.
+Dialogue: 0,1:32:19.33,1:32:21.42,Default,,0,0,0,,Nijedna kartica.
+Dialogue: 0,1:32:22.84,1:32:25.46,Default,,0,0,0,,Nikad nisam dao večeru.
+Dialogue: 0,1:32:25.63,1:32:29.55,Default,,0,0,0,,Nikada pitati\Nmojoj deci ili ja.
+Dialogue: 0,1:32:29.72,1:32:33.26,Default,,0,0,0,,Deo mene želi da vidi da patiš.
+Dialogue: 0,1:32:35.56,1:32:39.89,Default,,0,0,0,,- Ne, nemoj!\N- Kako to pričaš sa mnom?
+Dialogue: 0,1:32:40.06,1:32:41.77,Default,,0,0,0,,Pustite ga!
+Dialogue: 0,1:32:41.94,1:32:46.57,Default,,0,0,0,,Skarnsunger! Ne ovde.
+Dialogue: 0,1:32:51.66,1:32:54.49,Default,,0,0,0,,OK?\NJa ću vam reći šta će se desiti.
+Dialogue: 0,1:32:54.66,1:32:57.62,Default,,0,0,0,,Žao mi je, g. DeCarlo.\NBand...
+Dialogue: 0,1:32:57.79,1:33:00.83,Default,,0,0,0,,- Mi smo doneli odluku.\N- Zar ne?
+Dialogue: 0,1:33:03.79,1:33:07.26,Default,,0,0,0,,- Mi plaćamo svaki peni nazad.\N- Čekaj.
+Dialogue: 0,1:33:08.55,1:33:12.64,Default,,0,0,0,,To je samo nekoliko stotina hiljada.\NImamo dobar početak ovde.
+Dialogue: 0,1:33:12.80,1:33:17.35,Default,,0,0,0,,- Bend plati dug Off.\N- Zašto to radimo?
+Dialogue: 0,1:33:17.52,1:33:20.27,Default,,0,0,0,,Pošto ništa ne bi trebalo\Npodeliti bend raspada.
+Dialogue: 0,1:33:22.40,1:33:26.73,Default,,0,0,0,,- Da li je dovoljno dobar, Tomi?\N- Za šta?
+Dialogue: 0,1:33:26.90,1:33:31.36,Default,,0,0,0,,Frenki pesma nikada nije dovoljno dobro.\NNe, nije bio dovoljno dobar.
+Dialogue: 0,1:33:31.53,1:33:34.53,Default,,0,0,0,,Klinac koji nikada nije bio dovoljno dobar,\Nčuva dupe.
+Dialogue: 0,1:33:34.70,1:33:39.75,Default,,0,0,0,,- Je li dovoljno dobro?\N- To je komplikovanije od toga.
+Dialogue: 0,1:33:39.91,1:33:43.62,Default,,0,0,0,,- Zašto?\N- Moji ljudi su veoma ljuti.
+Dialogue: 0,1:33:43.79,1:33:46.42,Default,,0,0,0,,- Oni će poslati poruku.\N- Poruka?
+Dialogue: 0,1:33:48.67,1:33:50.67,Default,,0,0,0,,Se preselite u Las Vegasu.
+Dialogue: 0,1:33:50.84,1:33:53.55,Default,,0,0,0,,- Zašto?\N- Iz zdravstvenih razloga.
+Dialogue: 0,1:33:53.72,1:33:57.51,Default,,0,0,0,,Mi vas gledaju.\NNe idi Nevada.
+Dialogue: 0,1:33:57.68,1:34:00.60,Default,,0,0,0,,Ne Nevada.\NZato me baciti, a u reku.
+Dialogue: 0,1:34:00.77,1:34:02.60,Default,,0,0,0,,To je vaš izbor.
+Dialogue: 0,1:34:02.77,1:34:05.81,Default,,0,0,0,,- Koliko dugo?\N- Do duga isplatila.
+Dialogue: 0,1:34:05.98,1:34:09.03,Default,,0,0,0,,- Mi smo u sred turneje.\N- Ne bolje.
+Dialogue: 0,1:34:09.19,1:34:12.20,Default,,0,0,0,,- Šta se dešava sa bendom?\N- Ništa.
+Dialogue: 0,1:34:12.36,1:34:15.99,Default,,0,0,0,,Još uvek posedujem 25%, tako da mogu da\Nme poljubi u dupe.
+Dialogue: 0,1:34:16.16,1:34:19.12,Default,,0,0,0,,Imam bolju ideju.\NSmo ga kupi iz benda.
+Dialogue: 0,1:34:19.29,1:34:22.75,Default,,0,0,0,,Ne, ne.\NSam te kupim iz benda.
+Dialogue: 0,1:34:22.91,1:34:25.50,Default,,0,0,0,,Sa čime, Tommi?
+Dialogue: 0,1:34:25.67,1:34:28.34,Default,,0,0,0,,Dobro. Zato me kupi.
+Dialogue: 0,1:34:28.50,1:34:32.51,Default,,0,0,0,,To je još konačna.\NKoliko još hitove imate?
+Dialogue: 0,1:34:33.59,1:34:35.93,Default,,0,0,0,,Čekaj malo.
+Dialogue: 0,1:34:40.10,1:34:43.39,Default,,0,0,0,,Ima li još da mi ne znamo o?
+Dialogue: 0,1:34:45.98,1:34:48.27,Default,,0,0,0,,Možda sam pozajmio malo od\Nporeskom bilansu.
+Dialogue: 0,1:34:50.57,1:34:52.65,Default,,0,0,0,,Koliko?
+Dialogue: 0,1:34:52.82,1:34:56.24,Default,,0,0,0,,Pola miliona grubo.
+Dialogue: 0,1:35:03.29,1:35:06.79,Default,,0,0,0,,Dug i mi platiti.\NPusti me da sredim ovo.
+Dialogue: 0,1:35:13.46,1:35:16.34,Default,,0,0,0,,Kredita i novac poreskih obveznika...
+Dialogue: 0,1:35:18.05,1:35:19.68,Default,,0,0,0,,mi sve platiti.
+Dialogue: 0,1:35:19.85,1:35:24.89,Default,,0,0,0,,Dobro.\NDakle, problem je rešen.
+Dialogue: 0,1:35:25.06,1:35:27.48,Default,,0,0,0,,Norm, Tomi.
+Dialogue: 0,1:35:27.65,1:35:30.77,Default,,0,0,0,,Morate imati nas izviniti.
+Dialogue: 0,1:35:38.61,1:35:41.74,Default,,0,0,0,,Frenki... Frankie.
+Dialogue: 0,1:35:43.20,1:35:45.87,Default,,0,0,0,,Da li je to tako loše?
+Dialogue: 0,1:35:50.46,1:35:52.21,Default,,0,0,0,,Frenki...
+Dialogue: 0,1:35:52.38,1:35:56.30,Default,,0,0,0,,si se kopaju dole\Nu gigantskom g?ldshul.
+Dialogue: 0,1:35:57.63,1:36:00.72,Default,,0,0,0,,Tomi mi je bolji život.\NKoliko novca vredi?
+Dialogue: 0,1:36:00.89,1:36:04.39,Default,,0,0,0,,Sam na kraju morati da turneju,\Ni ja ću biti 90.
+Dialogue: 0,1:36:04.56,1:36:06.89,Default,,0,0,0,,Sam ti pozajmim pare.
+Dialogue: 0,1:36:07.06,1:36:12.44,Default,,0,0,0,,Hvala. Naša budućnost\Nne da se sudi od strane drugih.
+Dialogue: 0,1:36:12.61,1:36:17.03,Default,,0,0,0,,Upravo sam shvatila nešto.\NNe bih bio u bendu.
+Dialogue: 0,1:36:17.20,1:36:19.57,Default,,0,0,0,,- Ne sada, Niki.\N- Hoću da idem kući.
+Dialogue: 0,1:36:19.74,1:36:23.66,Default,,0,0,0,,- Šta to pričaš?\N- Hoću da idem kući.
+Dialogue: 0,1:36:23.83,1:36:28.29,Default,,0,0,0,,- Mi napravimo pauzu posle turneje.\N- Ne, sada. Dajem otkaz.
+Dialogue: 0,1:36:29.29,1:36:33.00,Default,,0,0,0,,- Ne možeš.\N- Pa Bobe probudio.
+Dialogue: 0,1:36:33.17,1:36:37.92,Default,,0,0,0,,- Mi smo u sred turneje.\N- Uvek sam mrzeo Touring.
+Dialogue: 0,1:36:38.09,1:36:41.09,Default,,0,0,0,,Jebeni hoteli\Nsa svojim malim sapuna.
+Dialogue: 0,1:36:41.26,1:36:43.51,Default,,0,0,0,,Ako bi mogao da ih oprati?
+Dialogue: 0,1:36:43.68,1:36:48.10,Default,,0,0,0,,- Smiri se. Mi ćemo naći rešenje.\N- To je već rešeno.
+Dialogue: 0,1:36:48.27,1:36:52.27,Default,,0,0,0,,Ja olakšavaju za vas.\NNe želim novac.
+Dialogue: 0,1:36:52.44,1:36:55.19,Default,,0,0,0,,- Samo sam hteo napolje.\N- U pravu si o sapuna.
+Dialogue: 0,1:36:55.36,1:36:57.99,Default,,0,0,0,,Nicki...
+Dialogue: 0,1:36:58.15,1:37:02.95,Default,,0,0,0,,Niki!\NMi smo u sred turneje!
+Dialogue: 0,1:37:08.29,1:37:12.50,Default,,0,0,0,,Čekaj, Niki. Čekaj malo!
+Dialogue: 0,1:37:13.50,1:37:17.00,Default,,0,0,0,,Ste proveli toliko vremena na bend.
+Dialogue: 0,1:37:17.17,1:37:21.38,Default,,0,0,0,,Ne možeš tek tako napusti bend.\NOvo je ludo.
+Dialogue: 0,1:37:21.55,1:37:25.10,Default,,0,0,0,,Supruga i ja imao problema\Nprošle godine. Znaš šta sam uradio?
+Dialogue: 0,1:37:25.26,1:37:27.52,Default,,0,0,0,,Imam deca zbrinuta\Nsa mojim roditeljima.
+Dialogue: 0,1:37:27.68,1:37:30.27,Default,,0,0,0,,A onda sam rekla svoje decu...
+Dialogue: 0,1:37:30.43,1:37:33.81,Default,,0,0,0,,da sam bio njihov ujak.\NUjka Nick.
+Dialogue: 0,1:37:33.98,1:37:38.48,Default,,0,0,0,,- Ne razumem.\N- Tako sam mogao da uradim sve što sam hteo.
+Dialogue: 0,1:37:38.65,1:37:42.82,Default,,0,0,0,,Da nisam bio kod kuće,\Nkako ne bi propustili oca.
+Dialogue: 0,1:37:42.99,1:37:45.16,Default,,0,0,0,,Šta da kažem, Nick?
+Dialogue: 0,1:37:45.32,1:37:47.99,Default,,0,0,0,,Uz svo dužno poštovanje, g .. DeCarlo...
+Dialogue: 0,1:37:48.16,1:37:51.58,Default,,0,0,0,,pokušati da proda 100 miliona\Nalbuma i videti kako to ide.
+Dialogue: 0,1:37:51.75,1:37:56.92,Default,,0,0,0,,- Frenki i Bob će biti slomljen.\N- Nisam zabrinut.
+Dialogue: 0,1:37:57.09,1:38:01.51,Default,,0,0,0,,Imaju toliko talenta,\Nda neće posluša da mi nedostaje.
+Dialogue: 0,1:38:13.52,1:38:15.98,Default,,0,0,0,,Da li moram da budem solo umetnik?\NTi si lud.
+Dialogue: 0,1:38:16.15,1:38:21.53,Default,,0,0,0,,Postoji mnogo talentovanih pevača.\NPostoji Xo Dug i Čarli Calello.
+Dialogue: 0,1:38:21.69,1:38:24.57,Default,,0,0,0,,Nalazimo dve DO\Ni omogućavaju vam da se pevač.
+Dialogue: 0,1:38:24.74,1:38:27.24,Default,,0,0,0,,Dobar bubnjar i sekcija rog.
+Dialogue: 0,1:38:27.41,1:38:30.50,Default,,0,0,0,,- Kao Count Basie i Stan Kenton.\N- Šta je sa tobom?
+Dialogue: 0,1:38:30.66,1:38:33.75,Default,,0,0,0,,- Pišem i proizvode.\N- Ne sviđa mi se.
+Dialogue: 0,1:38:33.92,1:38:36.42,Default,,0,0,0,,- Mislio sam da smo se dogovorili?\N- Jo.
+Dialogue: 0,1:38:36.58,1:38:40.13,Default,,0,0,0,,Sam probudim usred noći\Nne znajući gde sam.
+Dialogue: 0,1:38:40.30,1:38:44.76,Default,,0,0,0,,Šta će se desiti? Sve nestaje.
+Dialogue: 0,1:38:47.01,1:38:49.51,Default,,0,0,0,,Zašto sve nestane?
+Dialogue: 0,1:38:49.68,1:38:52.31,Default,,0,0,0,,Frenki...
+Dialogue: 0,1:38:53.85,1:38:56.85,Default,,0,0,0,,Sada je na tebi.
+Dialogue: 0,1:39:00.23,1:39:03.53,Default,,0,0,0,,- Kako vi to radite?\N- Sa čim?
+Dialogue: 0,1:39:04.53,1:39:09.70,Default,,0,0,0,,- Što si me da uradim ovo?\N- Potrebno je talenat.
+Dialogue: 0,1:39:18.21,1:39:20.21,Default,,0,0,0,,Dok je Bob bio kod kuće sa porodicom -
+Dialogue: 0,1:39:20.38,1:39:24.01,Default,,0,0,0,,- obišao sam 200 dana u godini\Nsve vrste mesta.
+Dialogue: 0,1:39:24.17,1:39:27.55,Default,,0,0,0,,U noćnim klubovima,\Nhoteli i privatna lica.
+Dialogue: 0,1:39:59.96,1:40:02.25,Default,,0,0,0,,Victor & apos;\NS hrane, pića i ZABAVA
+Dialogue: 0,1:40:02.42,1:40:04.17,Default,,0,0,0,,Tonight: Frankie Valli
+Dialogue: 0,1:40:34.33,1:40:37.16,Default,,0,0,0,,osećam isto.
+Dialogue: 0,1:40:38.25,1:40:42.34,Default,,0,0,0,,G Valli.\NPostoje telefon iz Nju Xersija.
+Dialogue: 0,1:40:50.55,1:40:52.93,Default,,0,0,0,,- Gde je ona?\N- Ona je tvoja ćerka.
+Dialogue: 0,1:40:53.10,1:40:57.06,Default,,0,0,0,,Ovo nije takmičenje.\NJa sam zabavljač i putuju okolo!
+Dialogue: 0,1:40:57.23,1:41:00.60,Default,,0,0,0,,- Treba ju je otac!\N- Šta je sa majkom?
+Dialogue: 0,1:41:02.56,1:41:04.98,Default,,0,0,0,,Halo?
+Dialogue: 0,1:41:07.94,1:41:11.16,Default,,0,0,0,,- Halo?\N- Mogu li da razgovaram sa mamom?
+Dialogue: 0,1:41:11.32,1:41:15.54,Default,,0,0,0,,Gde si, Fransin?\NBili smo tako zabrinuti.
+Dialogue: 0,1:41:15.70,1:41:19.62,Default,,0,0,0,,- Ja sam u Njujorku. Opustite se.\N- Nemoj samo da nestane.
+Dialogue: 0,1:41:19.79,1:41:23.79,Default,,0,0,0,,- Mora da nas obavestite!\N- Ne plači, tata.
+Dialogue: 0,1:41:23.96,1:41:28.17,Default,,0,0,0,,Listen.\NUpravo sam leteo širom zemlje.
+Dialogue: 0,1:41:28.34,1:41:32.68,Default,,0,0,0,,Možeš li priuštiti taksi?\NHop u taksi i došao kući.
+Dialogue: 0,1:41:32.84,1:41:36.31,Default,,0,0,0,,- Da li odjednom kućica?\N- Frenki...
+Dialogue: 0,1:41:36.47,1:41:40.27,Default,,0,0,0,,Bio sam daleko za dva dana.\NNestaneš mesecima.
+Dialogue: 0,1:41:40.43,1:41:43.31,Default,,0,0,0,,- To je drugačije.\N- Da, to je tvoj posao.
+Dialogue: 0,1:41:43.48,1:41:46.19,Default,,0,0,0,,Ti robuje daleko,\Ntako da možemo imati bolji život.
+Dialogue: 0,1:41:46.36,1:41:48.57,Default,,0,0,0,,Nisam čuo ranije. Baci ga!
+Dialogue: 0,1:41:48.73,1:41:52.24,Default,,0,0,0,,- Mogu li da razgovaram sa mamom?\N- Ne pričaj sa tvojim ocem.
+Dialogue: 0,1:41:55.49,1:41:57.49,Default,,0,0,0,,Francine?
+Dialogue: 0,1:42:00.71,1:42:02.83,Default,,0,0,0,,Pis.
+Dialogue: 0,1:42:04.29,1:42:07.38,Default,,0,0,0,,Dobro urađeno, tata.
+Dialogue: 0,1:42:27.15,1:42:29.44,Default,,0,0,0,,- Francine?\N- Da.
+Dialogue: 0,1:42:29.61,1:42:32.49,Default,,0,0,0,,- Tvoj otac želi da razgovara sa tobom.\N- Mogu li da pomognem?
+Dialogue: 0,1:42:32.65,1:42:35.11,Default,,0,0,0,,Da. Follov sa.
+Dialogue: 0,1:42:36.12,1:42:37.95,Default,,0,0,0,,Ko si sad pa ti?
+Dialogue: 0,1:42:38.12,1:42:40.29,Default,,0,0,0,,Izlazi, ili ću ti slomiti vrat.
+Dialogue: 0,1:42:40.45,1:42:43.08,Default,,0,0,0,,Zvaću te!
+Dialogue: 0,1:43:03.68,1:43:07.02,Default,,0,0,0,,- Hvala, Johnni.\N- Nema na čemu, Frankie.
+Dialogue: 0,1:43:10.27,1:43:12.36,Default,,0,0,0,,Sedi, Francine.
+Dialogue: 0,1:43:18.20,1:43:20.33,Default,,0,0,0,,Kako si me pronašao?
+Dialogue: 0,1:43:21.66,1:43:24.54,Default,,0,0,0,,Imam prijatelje\Nkoji zna ljude na ulici.
+Dialogue: 0,1:43:24.71,1:43:27.33,Default,,0,0,0,,Dakle, vaš Mafia prijatelji?
+Dialogue: 0,1:43:29.13,1:43:31.63,Default,,0,0,0,,- Želite li nešto da popijete?\N- Cola.
+Dialogue: 0,1:43:31.80,1:43:33.80,Default,,0,0,0,,Mogu li da dobijem Kolu?
+Dialogue: 0,1:43:48.40,1:43:50.69,Default,,0,0,0,,Vidi, Francine.
+Dialogue: 0,1:43:53.11,1:43:55.11,Default,,0,0,0,,Sam napravio neke greške.
+Dialogue: 0,1:43:57.95,1:44:01.91,Default,,0,0,0,,Nisam uvek bio.\NTvoja majka...
+Dialogue: 0,1:44:02.08,1:44:04.50,Default,,0,0,0,,Znam oboje znamo.
+Dialogue: 0,1:44:06.12,1:44:09.21,Default,,0,0,0,,Je trebalo da uradi nešto, ali...
+Dialogue: 0,1:44:11.54,1:44:14.17,Default,,0,0,0,,Teško je pomiriti rad i život.
+Dialogue: 0,1:44:14.34,1:44:17.76,Default,,0,0,0,,Kad jednog dana zasnuju porodicu,\Nćeš razumeti.
+Dialogue: 0,1:44:17.93,1:44:21.51,Default,,0,0,0,,Daj mi ih.
+Dialogue: 0,1:44:23.60,1:44:27.35,Default,,0,0,0,,Ako želite da budem pevačica, a zatim pad\Npušenje.
+Dialogue: 0,1:44:28.56,1:44:31.27,Default,,0,0,0,,Ti bi mogao biti odličan pevač.
+Dialogue: 0,1:44:32.19,1:44:36.36,Default,,0,0,0,,Sa mojim talentom i lepotom svoje majke\Nmožete dobiti sve što želite.
+Dialogue: 0,1:44:36.53,1:44:38.53,Default,,0,0,0,,Ali morate da se povuče zajedno.
+Dialogue: 0,1:44:39.74,1:44:43.83,Default,,0,0,0,,Šta nije u redu sa tobom?\NZašto se ponaša ovako?
+Dialogue: 0,1:44:44.91,1:44:46.91,Default,,0,0,0,,Znam kako je teško.
+Dialogue: 0,1:44:47.08,1:44:50.88,Default,,0,0,0,,Imaš nešto da kažeš,\Nali ljudi su jebeno negu.
+Dialogue: 0,1:44:51.04,1:44:56.51,Default,,0,0,0,,Ali onda kada se nešto dobro desi.\NMorate biti strpljivi i nastavite.
+Dialogue: 0,1:44:56.67,1:45:00.26,Default,,0,0,0,,To će biti bolje.\NČuješ li?
+Dialogue: 0,1:45:01.39,1:45:03.39,Default,,0,0,0,,Ja ću ti pomoći.
+Dialogue: 0,1:45:05.26,1:45:07.52,Default,,0,0,0,,Vidim se da ste dobili časove pevanja.
+Dialogue: 0,1:45:08.85,1:45:11.35,Default,,0,0,0,,Treba jesti zdravo i vežbe.
+Dialogue: 0,1:45:11.52,1:45:15.19,Default,,0,0,0,,Bob Kru slaže da\Ndozvoliti snimate četiri pesme.
+Dialogue: 0,1:45:15.36,1:45:17.44,Default,,0,0,0,,Samo vi sami.
+Dialogue: 0,1:45:18.53,1:45:23.45,Default,,0,0,0,,Ćemo pronaći rešenje.\NMožeš ti to.
+Dialogue: 0,1:45:25.28,1:45:29.00,Default,,0,0,0,,To je ono što želiš, zar ne?
+Dialogue: 0,1:45:31.33,1:45:32.96,Default,,0,0,0,,Dođi ovamo.
+Dialogue: 0,1:45:34.75,1:45:36.25,Default,,0,0,0,,Ja verujem u tebe.
+Dialogue: 0,1:45:38.30,1:45:41.13,Default,,0,0,0,,Drago mi je da smo ovde.
+Dialogue: 0,1:45:45.69,1:45:48.11,Default,,0,0,0,,Bilo je vreme -
+Dialogue: 0,1:45:48.28,1:45:52.28,Default,,0,0,0,,- gde smo skoro pao Kru,\Njer on nije nas Snimanje pesama pusti.
+Dialogue: 0,1:45:52.45,1:45:55.20,Default,,0,0,0,,Sada on pomaže Fransin.
+Dialogue: 0,1:45:56.83,1:45:59.91,Default,,0,0,0,,Ona je ide se na marginama.
+Dialogue: 0,1:46:00.08,1:46:02.71,Default,,0,0,0,,Znam kako je to\Nsa mladima i droge.
+Dialogue: 0,1:46:02.88,1:46:04.92,Default,,0,0,0,,Da li mislite da je njena\Nmajka misli o Francine?
+Dialogue: 0,1:46:05.09,1:46:07.38,Default,,0,0,0,,Ona samo ide u kriviš druge.
+Dialogue: 0,1:46:07.55,1:46:10.09,Default,,0,0,0,,Žena... ljudi se menjaju.
+Dialogue: 0,1:46:10.26,1:46:13.72,Default,,0,0,0,,Frankie...\NJa ne mogu da podnesem.
+Dialogue: 0,1:46:14.68,1:46:16.81,Default,,0,0,0,,Kako to misliš?
+Dialogue: 0,1:46:16.97,1:46:20.77,Default,,0,0,0,,Nema mesta za cele svoje porodice\Nu ovom stanu.
+Dialogue: 0,1:46:20.98,1:46:23.52,Default,,0,0,0,,- Stani sad.\N- Koja je korist od toga?
+Dialogue: 0,1:46:23.69,1:46:27.11,Default,,0,0,0,,Ja sam daleko sledeće nedelje, a\Nonda si na turneji.
+Dialogue: 0,1:46:27.28,1:46:31.78,Default,,0,0,0,,Vidim da niste u šest nedelja.\NBez promene ikada.
+Dialogue: 0,1:46:31.95,1:46:35.74,Default,,0,0,0,,- Ja se bori sa ogromnim dugovima.\N- Šta je samo-naneli.
+Dialogue: 0,1:46:35.91,1:46:39.33,Default,,0,0,0,,- Ti ne znaš ništa o tome.\N- On te koristi.
+Dialogue: 0,1:46:39.50,1:46:42.96,Default,,0,0,0,,On te ismevali\Ni pokušao da uništi bend.
+Dialogue: 0,1:46:43.12,1:46:45.92,Default,,0,0,0,,On nije mogao da pomogne!
+Dialogue: 0,1:46:47.00,1:46:49.96,Default,,0,0,0,,O Bože.
+Dialogue: 0,1:46:50.13,1:46:52.05,Default,,0,0,0,,Da li pokušavate da igrate sveca?
+Dialogue: 0,1:46:52.22,1:46:54.39,Default,,0,0,0,,I biti malo čudovište?
+Dialogue: 0,1:46:55.85,1:47:00.31,Default,,0,0,0,,Ako ste došli dalje od komšiluka,\Ntako da možda ima šansu.
+Dialogue: 0,1:47:00.47,1:47:02.77,Default,,0,0,0,,Ali nikada se ne dešava, zar ne?
+Dialogue: 0,1:47:11.82,1:47:13.99,Default,,0,0,0,,Mogli bi se venčamo.
+Dialogue: 0,1:47:14.16,1:47:17.07,Default,,0,0,0,,Ti i Tomi?\NMora se ne prikazuje u Nevadi.
+Dialogue: 0,1:47:17.24,1:47:20.41,Default,,0,0,0,,- Ti si nemoguć.\N- Ja nikada neću biti prioritet.
+Dialogue: 0,1:47:20.58,1:47:25.29,Default,,0,0,0,,Uvek ću stajati u senci Tommi,\NBobi, Niki i Joei.
+Dialogue: 0,1:47:25.46,1:47:27.46,Default,,0,0,0,,Moram da idem.
+Dialogue: 0,1:47:27.63,1:47:33.01,Default,,0,0,0,,- Čekaj za sutra.\N- Dođite u Bostonu za vikend.
+Dialogue: 0,1:47:34.68,1:47:36.59,Default,,0,0,0,,Ne mogu.
+Dialogue: 0,1:47:36.76,1:47:40.22,Default,,0,0,0,,Porodica i rad.\NA šta je ostalo?
+Dialogue: 0,1:47:40.39,1:47:44.23,Default,,0,0,0,,- Hajde. Ne sada.\N- Zašto da ne?
+Dialogue: 0,1:47:44.39,1:47:48.27,Default,,0,0,0,,Dakle, možemo popiti piće da\Ni prevucite poslednji put?
+Dialogue: 0,1:47:52.49,1:47:55.40,Default,,0,0,0,,Žao mi je, dušo.
+Dialogue: 0,1:47:55.57,1:48:00.99,Default,,0,0,0,,Sam skočio sa karusel.\NTo više nije zabavno.
+Dialogue: 0,1:48:26.77,1:48:31.07,Default,,0,0,0,,$ 14,900, $ 14,950 i $ 15,000.
+Dialogue: 0,1:48:31.23,1:48:35.61,Default,,0,0,0,,- Dakle, to je učinjeno.\N- Sada svi dugovi iz sveta.
+Dialogue: 0,1:48:35.78,1:48:42.20,Default,,0,0,0,,- To nije bilo lično, Frenki.\N- Norm. Reci zbogom.
+Dialogue: 0,1:48:45.29,1:48:47.67,Default,,0,0,0,,Vodi računa o sebi.
+Dialogue: 0,1:48:47.83,1:48:52.13,Default,,0,0,0,,Rekao sam\Nbih da sve bude u redu.
+Dialogue: 0,1:48:56.92,1:48:58.93,Default,,0,0,0,,Hvala.
+Dialogue: 0,1:49:00.01,1:49:02.64,Default,,0,0,0,,- Evo na dug život.\N- Dug život.
+Dialogue: 0,1:49:08.81,1:49:11.44,Default,,0,0,0,,Ovo je moja ćerka.\NOna me zove svakog petka. 10
+Dialogue: 0,1:49:11.61,1:49:15.86,Default,,0,0,0,,- Ovo je sjajno.\N- Ona se pojavljuje u Plainfield.
+Dialogue: 0,1:49:16.03,1:49:19.41,Default,,0,0,0,,Samo trenutak, Fransin.
+Dialogue: 0,1:49:19.57,1:49:21.32,Default,,0,0,0,,OK.
+Dialogue: 0,1:49:21.49,1:49:24.37,Default,,0,0,0,,- Kasnije.\N- Da.
+Dialogue: 0,1:49:26.91,1:49:29.12,Default,,0,0,0,,Hvala još jednom.
+Dialogue: 0,1:49:36.01,1:49:38.84,Default,,0,0,0,,Nikad nećeš pogoditi\Nkoji je upravo otišao.
+Dialogue: 0,1:49:39.01,1:49:41.34,Default,,0,0,0,,Šta?
+Dialogue: 0,1:49:41.51,1:49:44.93,Default,,0,0,0,,- Da, ja sam njen otac.\N- Policija u Njujorku.
+Dialogue: 0,1:49:45.10,1:49:48.14,Default,,0,0,0,,Nešto nije u redu. Je ona u redu?
+Dialogue: 0,1:50:06.24,1:50:09.12,Default,,0,0,0,,Ovo je naš Bog u vekove vekova.
+Dialogue: 0,1:51:17.27,1:51:19.69,Default,,0,0,0,,Trebalo je da tvoje ime ugraviran\Nu tabeli.
+Dialogue: 0,1:51:19.86,1:51:21.69,Default,,0,0,0,,Kako si?
+Dialogue: 0,1:51:21.86,1:51:24.91,Default,,0,0,0,,Nikada nisam osećao bolje.
+Dialogue: 0,1:51:27.49,1:51:30.75,Default,,0,0,0,,Imam nešto što pripada vama.
+Dialogue: 0,1:51:30.91,1:51:33.50,Default,,0,0,0,,Otvorite.
+Dialogue: 0,1:51:38.13,1:51:40.42,Default,,0,0,0,,Kru i sam napisao pesmu zajedno.
+Dialogue: 0,1:51:44.63,1:51:48.51,Default,,0,0,0,,Upravo sam sahranio svoju ćerku.\NDa pevam ljubavnu pesmu?
+Dialogue: 0,1:51:48.68,1:51:53.35,Default,,0,0,0,,Moraćete da se krene dalje.
+Dialogue: 0,1:51:55.14,1:51:58.40,Default,,0,0,0,,Njen glas je imao široko.
+Dialogue: 0,1:51:58.56,1:52:01.15,Default,,0,0,0,,Bila je prirodna.
+Dialogue: 0,1:52:04.03,1:52:08.41,Default,,0,0,0,,Šta bih ja uradio?\NJoj vezati za krevet?
+Dialogue: 0,1:52:09.87,1:52:16.29,Default,,0,0,0,,Poraste, vodi u budala\Nsa bocom pilula, a onda je gotovo.
+Dialogue: 0,1:52:21.00,1:52:23.88,Default,,0,0,0,,Ne krivi sebe.
+Dialogue: 0,1:52:24.05,1:52:27.59,Default,,0,0,0,,Ne? Ko je onda?
+Dialogue: 0,1:52:34.27,1:52:37.60,Default,,0,0,0,,Listen.\NUčini mi uslugu.
+Dialogue: 0,1:52:37.77,1:52:43.07,Default,,0,0,0,,Je odnesem kući i pogledaj.\NNešto nije u redu sa završetkom.
+Dialogue: 0,1:52:43.23,1:52:48.20,Default,,0,0,0,,Možda imate predlog.\NGledaj sada samo na tome.
+Dialogue: 0,1:52:55.75,1:52:59.00,Default,,0,0,0,,Evo. Uzmi ovo.
+Dialogue: 0,1:52:59.17,1:53:02.30,Default,,0,0,0,,Nemoj da upalu pluća.
+Dialogue: 0,1:53:16.60,1:53:20.81,Default,,0,0,0,,- Da.\N- Ti modulira odmah nakon tranzicije.
+Dialogue: 0,1:53:20.98,1:53:24.44,Default,,0,0,0,,- Nemoj. Slušaš li?\N- Da, samo nastavite.
+Dialogue: 0,1:53:24.61,1:53:29.86,Default,,0,0,0,,Vaša muzika i tekstovi Creves\Ndobro zajedno.
+Dialogue: 0,1:53:30.03,1:53:34.74,Default,,0,0,0,,Ali ako preterivati,\Npostaje previše.
+Dialogue: 0,1:53:34.91,1:53:37.33,Default,,0,0,0,,Uklonite nekoliko napomena tu i tamo.
+Dialogue: 0,1:53:37.50,1:53:40.50,Default,,0,0,0,,OK.
+Dialogue: 0,1:53:40.67,1:53:43.21,Default,,0,0,0,,Proverite ponovo sutra, mi\Nćemo razgovarati o tome.
+Dialogue: 0,1:53:45.13,1:53:50.18,Default,,0,0,0,,- Ja ću proveriti kalendar.\N- Dobra ideja.
+Dialogue: 0,1:53:57.85,1:54:01.85,Default,,0,0,0,,Pa, čuvamo pet minuta.
+Dialogue: 0,1:54:03.27,1:54:06.90,Default,,0,0,0,,- Šta hoćeš da uradim?\N- Objavljivanje pesmu.
+Dialogue: 0,1:54:07.07,1:54:10.11,Default,,0,0,0,,Je teško da se pop i Soft Rock.
+Dialogue: 0,1:54:10.28,1:54:11.99,Default,,0,0,0,,Ovo je nova vrsta pesme.
+Dialogue: 0,1:54:12.16,1:54:15.70,Default,,0,0,0,,Vi posedujete izdavačke kuće.\NPomažu da se stvori novi pravac.
+Dialogue: 0,1:54:15.87,1:54:21.25,Default,,0,0,0,,Baci ga. Vi naterali\Nda sluša na beskorisne pesmu.
+Dialogue: 0,1:54:21.42,1:54:25.09,Default,,0,0,0,,Listen. Frenki je teško vreme,\Na mi smo zaradili dobre pare za vas.
+Dialogue: 0,1:54:25.25,1:54:31.01,Default,,0,0,0,,Sada uradite pravu stvar. Za Deep Inside\Nste dobra osoba.
+Dialogue: 0,1:54:31.18,1:54:34.55,Default,,0,0,0,,Frankie je dobro,\Nali on nema Neil Sedaka.
+Dialogue: 0,1:54:34.72,1:54:39.35,Default,,0,0,0,,Hoću iz našeg dogovora,\Ni želim originalne snimke.
+Dialogue: 0,1:54:39.52,1:54:42.10,Default,,0,0,0,,- Nisi usudio ne.\N- Čekaj i vidi!
+Dialogue: 0,1:54:43.94,1:54:47.44,Default,,0,0,0,,Dobro.\NZovi me sentimentalan.
+Dialogue: 0,1:54:47.61,1:54:50.74,Default,,0,0,0,,Listen.\NGet igranje na nekim radio stanicama.
+Dialogue: 0,1:54:50.90,1:54:54.12,Default,,0,0,0,,Pa sam objaviti pesmu.\NAko odbiju -
+Dialogue: 0,1:54:54.28,1:54:57.41,Default,,0,0,0,,- ti šamar gore,\Ngde sunce nikada ne sija.
+Dialogue: 0,1:54:57.58,1:55:02.42,Default,,0,0,0,,Hvala, Al. Vi ste nešto posebno.\NPozdravite decu i srećan Božić.
+Dialogue: 0,1:55:02.58,1:55:04.58,Default,,0,0,0,,Vratili smo se.
+Dialogue: 0,1:55:04.75,1:55:07.13,Default,,0,0,0,,- Kako je bilo?\N- Dobro.
+Dialogue: 0,1:55:07.30,1:55:11.97,Default,,0,0,0,,- Gde Song premijera?\N- U Detroitu. Roostertail.
+Dialogue: 0,1:55:12.13,1:55:16.35,Default,,0,0,0,,Znam radijski voditelj, Marti.\NUvek prvo sa novim hitovima!
+Dialogue: 0,1:55:16.51,1:55:20.39,Default,,0,0,0,,Mander težak 140 kilograma.\NSmo ga pozvati.
+Dialogue: 0,1:55:20.56,1:55:24.48,Default,,0,0,0,,Smo servira hranu i piće.\NSve.
+Dialogue: 0,1:55:24.65,1:55:28.98,Default,,0,0,0,,Čovek nije glup.\NKada navijačka publika kao gazda.
+Dialogue: 0,1:55:29.15,1:55:32.61,Default,,0,0,0,,- Samo Detroit.\N- Pusti me da završim. Nastavljamo.
+Dialogue: 0,1:55:32.78,1:55:37.28,Default,,0,0,0,,Filadelfija, Boston,\NČikagu i San Francisku.
+Dialogue: 0,1:55:37.45,1:55:40.16,Default,,0,0,0,,Ali stavi točkova u pokretu,\Ntako da ljudi počnu pričaju.
+Dialogue: 0,1:55:40.33,1:55:45.75,Default,,0,0,0,,To je kao lančana reakcija.\N"Ko je napisao tu pesmu?"
+Dialogue: 0,1:55:47.34,1:55:48.92,Default,,0,0,0,,Dobro.
+Dialogue: 0,1:55:49.21,1:55:53.47,Default,,0,0,0,,Radio stanice primate pozive.\N"Mi želimo da čujemo pesmu."
+Dialogue: 0,1:55:53.63,1:55:57.05,Default,,0,0,0,,"Gde je peva\NZašto sviraš u njoj?"
+Dialogue: 0,1:55:57.22,1:56:01.72,Default,,0,0,0,,"Igraj sada jebenu pesmu!"
+Dialogue: 0,2:00:48.26,2:00:51.26,Default,,0,0,0,,Ništa se nije promenilo, osim Frenki.
+Dialogue: 0,2:00:52.31,2:00:56.10,Default,,0,0,0,,Koliko dugo je prošlo od\Nkoje sam zajedno pevao?
+Dialogue: 0,2:00:56.27,2:00:58.19,Default,,0,0,0,,- 25 godina.\N- Ne od 1912
+Dialogue: 0,2:00:58.35,2:01:04.28,Default,,0,0,0,,- Šta se promenilo?\N- Tone vrste. Oni su niže.
+Dialogue: 0,2:01:04.44,2:01:06.86,Default,,0,0,0,,Da li pesme dali novo značenje?
+Dialogue: 0,2:01:07.03,2:01:10.03,Default,,0,0,0,,To je prvi put da smo\Nponovo zajedno pevamo.
+Dialogue: 0,2:01:10.20,2:01:13.66,Default,,0,0,0,,- Pa ćemo saznati večeras.\N- Lepo. Hvala vam.
+Dialogue: 0,2:01:13.83,2:01:16.41,Default,,0,0,0,,Ima Tomi.
+Dialogue: 0,2:01:18.21,2:01:20.46,Default,,0,0,0,,Dobro veče, gospodine.
+Dialogue: 0,2:01:20.63,2:01:22.92,Default,,0,0,0,,- Drago mi je da te vidim.\N- I ti.
+Dialogue: 0,2:01:23.09,2:01:25.09,Default,,0,0,0,,- Tommooch.\N- Machoch.
+Dialogue: 0,2:01:27.30,2:01:31.64,Default,,0,0,0,,Dobro je da te vidim.\NNisam ih video godinama.
+Dialogue: 0,2:01:31.80,2:01:34.89,Default,,0,0,0,,Dobro je da te vidim, Frankie.
+Dialogue: 0,2:01:36.27,2:01:40.40,Default,,0,0,0,,- Kakav je život prema tebi, Tommi?\N- Ne žalim se.
+Dialogue: 0,2:01:43.52,2:01:45.86,Default,,0,0,0,,Evo.
+Dialogue: 0,2:01:47.61,2:01:51.12,Default,,0,0,0,,Dobro, Tomi.
+Dialogue: 0,2:01:53.20,2:01:55.20,Default,,0,0,0,,Hajdemo unutra.
+Dialogue: 0,2:01:55.37,2:01:59.83,Default,,0,0,0,,To je pre više od 20 godina,\Nda su oni delovali zajedno.
+Dialogue: 0,2:02:00.00,2:02:02.96,Default,,0,0,0,,A šta bolje mesto nego ovde?
+Dialogue: 0,2:02:03.13,2:02:06.05,Default,,0,0,0,,Dame i gospodo, molim vas pozdravite -
+Dialogue: 0,2:02:06.21,2:02:09.80,Default,,0,0,0,,- Moji stari prijatelji i prošlost\NDvorana slavnih članova -
+Dialogue: 0,2:02:09.97,2:02:12.43,Default,,0,0,0,,The Original Four Seasons!
+Dialogue: 0,2:02:41.46,2:02:44.88,Default,,0,0,0,,Znaš šta radim sad?\NRadim za Joe Pesci.
+Dialogue: 0,2:02:45.04,2:02:48.30,Default,,0,0,0,,Isti klinac, sam koštati oko.
+Dialogue: 0,2:02:48.46,2:02:51.05,Default,,0,0,0,,Nedavno smo se vozili kroz\Nnašem starom komšiluku.
+Dialogue: 0,2:02:51.22,2:02:54.60,Default,,0,0,0,,On je pitao: "Kako li se sećate\Nse od tada?"
+Dialogue: 0,2:02:54.76,2:02:58.60,Default,,0,0,0,,Rekao sam: "Mislim da sam bio prilično\Nfin momak."
+Dialogue: 0,2:02:58.77,2:03:02.23,Default,,0,0,0,,On je rekao:\N"Ti si pravi seronja."
+Dialogue: 0,2:03:02.40,2:03:05.86,Default,,0,0,0,,"Našli smo se samo\N, jer smo vas potreban."
+Dialogue: 0,2:03:06.02,2:03:08.82,Default,,0,0,0,,Se sećate šta ste se sećate, zar ne?
+Dialogue: 0,2:03:08.99,2:03:14.57,Default,,0,0,0,,Ljudi uvek pitaju:\N"Zašto ste napustili bend, Nicki?"
+Dialogue: 0,2:03:14.74,2:03:17.08,Default,,0,0,0,,Da ti kažem nešto.
+Dialogue: 0,2:03:17.24,2:03:20.20,Default,,0,0,0,,Nije privatnim sporazumom\Nili više koncerata.
+Dialogue: 0,2:03:20.37,2:03:23.96,Default,,0,0,0,,Loše hrane\Nili u hotelskoj sobi sa Tomijem.
+Dialogue: 0,2:03:24.13,2:03:27.17,Default,,0,0,0,,Samo odleteo iz mojih usta.
+Dialogue: 0,2:03:28.17,2:03:30.38,Default,,0,0,0,,Jednom sam rekao da je...
+Dialogue: 0,2:03:30.55,2:03:33.13,Default,,0,0,0,,onda sam znala\Nda je to moja želja.
+Dialogue: 0,2:03:33.30,2:03:35.22,Default,,0,0,0,,Želeo sam da idem kući.
+Dialogue: 0,2:03:35.39,2:03:38.43,Default,,0,0,0,,Ljudi me pitaju šta\NHighlight je bila.
+Dialogue: 0,2:03:38.60,2:03:43.48,Default,,0,0,0,,Hall of Fame? Veliki uspeh?\NKada smo pisali veliki hit "Sherri"?
+Dialogue: 0,2:03:43.64,2:03:46.27,Default,,0,0,0,,Sve je bilo sjajno.
+Dialogue: 0,2:03:46.44,2:03:51.90,Default,,0,0,0,,Ali četiri momci pod uličnoj lampi\Nsa svetom u našim nogama...
+Dialogue: 0,2:03:52.07,2:03:55.91,Default,,0,0,0,,prvi put,\Nsmo mi stvorili svoju zvuk...
+Dialogue: 0,2:03:56.07,2:04:01.45,Default,,0,0,0,,kad sve drugo nestalo, i\Nsamo muzika postojala...
+Dialogue: 0,2:04:06.04,2:04:08.25,Default,,0,0,0,,to je najbolje.
+Dialogue: 0,2:04:08.42,2:04:12.67,Default,,0,0,0,,Nisam naučio da starom komšiluku.
+Dialogue: 0,2:04:12.84,2:04:15.84,Default,,0,0,0,,Sam briga za\Nsa starom komšiluku.
+Dialogue: 0,2:04:16.01,2:04:18.39,Default,,0,0,0,,Ja pripadam tamo gde ja živim.
+Dialogue: 0,2:04:18.55,2:04:21.68,Default,,0,0,0,,Danas Nashville, Tennessee.
+Dialogue: 0,2:04:21.85,2:04:25.27,Default,,0,0,0,,Samo ja, moja lepa žena...
+Dialogue: 0,2:04:25.44,2:04:27.52,Default,,0,0,0,,i dobra cigara.
+Dialogue: 0,2:04:27.69,2:04:30.94,Default,,0,0,0,,Sam našao mir i spokoj\Nna pomisao -
+Dialogue: 0,2:04:31.11,2:04:34.57,Default,,0,0,0,,- da ništa od ovoga\Nmoglo da se desi...
+Dialogue: 0,2:04:34.74,2:04:37.41,Default,,0,0,0,,bez mene.
+Dialogue: 0,2:04:37.57,2:04:42.41,Default,,0,0,0,,Ako ste u Las Vegasu\Ni pominju ime Tomi DeVito -
+Dialogue: 0,2:04:42.58,2:04:46.37,Default,,0,0,0,,- onda se izbačen\Nu roku nema vremena.
+Dialogue: 0,2:04:46.54,2:04:49.42,Default,,0,0,0,,Dozvolite mi da budem iskren.
+Dialogue: 0,2:04:49.59,2:04:53.55,Default,,0,0,0,,Moj ego je možda povređen.\NSve će biti pevač.
+Dialogue: 0,2:04:54.63,2:04:57.47,Default,,0,0,0,,Međutim, ako postoje četiri momci...
+Dialogue: 0,2:04:57.64,2:05:00.60,Default,,0,0,0,,a ja sam Ringo...
+Dialogue: 0,2:05:03.93,2:05:06.98,Default,,0,0,0,,tako da je bolje da se koristi vreme\Nsa svojom decom.
+Dialogue: 0,2:05:07.98,2:05:13.36,Default,,0,0,0,,Kao zeca sa baterijama\Nću nastavim i ide.
+Dialogue: 0,2:05:14.49,2:05:17.07,Default,,0,0,0,,I sledila moj san\Nda stvori muziku.
+Dialogue: 0,2:05:18.32,2:05:20.70,Default,,0,0,0,,Pokušavam da nađem put do kuće ponovo.
+Dialogue: 0,2:07:01.84,2:07:04.60,Default,,0,0,0,,Joei.\NDuguješ mi pet dolara.
+Dialogue: 0,2:07:37.17,2:07:40.09,Default,,0,0,0,,Izgledaš dobro.
+Dialogue: 0,2:07:40.11,2:07:48.11,Default,,0,0,0,,Obrada: {\c&H996600&}Botaničar\NPreveo: {\c&H0099ff&}eemizerp

@@ -1,0 +1,3208 @@
+1
+00:00:06,000 --> 00:00:12,074
+ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+
+2
+00:00:24,396 --> 00:00:28,396
+www.titlovi.com
+
+3
+00:00:31,396 --> 00:00:34,359
+Hej, Pete,
+Mislim da imam nešto.
+
+4
+00:00:34,394 --> 00:00:36,091
+Bolje ih zovi unutra.
+
+5
+00:00:42,823 --> 00:00:44,158
+Agent Eppes?
+
+6
+00:00:44,193 --> 00:00:45,729
+Da.
+
+7
+00:00:46,457 --> 00:00:48,058
+- David Sinclair.
+- Kako ste?
+
+8
+00:00:48,093 --> 00:00:50,242
+John Reacher.
+Ja sam iz uprave.
+
+9
+00:00:50,277 --> 00:00:53,427
+Žrtva je bila kompjuterski analitièar za privatnu firmu Think Tank.
+
+10
+00:00:53,462 --> 00:00:56,107
+Visok nivo nacionalne
+bezbednosti.
+
+11
+00:00:56,692 --> 00:00:58,283
+Ko je ovo?
+
+12
+00:00:58,318 --> 00:01:01,297
+Ovo je Robert Oliver.
+
+13
+00:01:01,332 --> 00:01:03,048
+On je CEO u Lorman grupi.
+
+14
+00:01:03,083 --> 00:01:04,404
+Kako ste? Don Eppes, FBI.
+
+15
+00:01:04,439 --> 00:01:05,586
+Zdravo.
+
+16
+00:01:05,621 --> 00:01:07,708
+- Lorman grupa je Think Tank?
+- Tako je.
+
+17
+00:01:07,743 --> 00:01:10,902
+Oni imaju broj ugovora koji su sklopljeni sa nama za klasifikovanje vladinih projekata.
+
+18
+00:01:10,938 --> 00:01:12,963
+Znaèi žrtva je bio jedan od vaših zaposlenih?
+
+19
+00:01:12,998 --> 00:01:16,467
+Da. Dr. Hoke je bio jedan od naših starijih analitièara.
+
+20
+00:01:16,502 --> 00:01:18,459
+- Proveriæu telo.
+- U redu.
+..
+
+21
+00:01:18,983 --> 00:01:22,246
+Da li postoji neki razlog da mislim da ubistvo ima neke veze sa poslom koji je radio za vas?
+
+22
+00:01:22,281 --> 00:01:23,948
+Moguæe je.
+
+23
+00:01:25,813 --> 00:01:27,760
+Oni su tehnièari iz uprave?
+
+24
+00:01:27,795 --> 00:01:29,509
+Ne, oni su sa mojom kompanijom.
+
+25
+00:01:29,544 --> 00:01:31,079
+Šta to radiš?
+Oni su civili.
+
+26
+00:01:31,114 --> 00:01:33,325
+Imaju dozvolu.
+
+27
+00:01:35,424 --> 00:01:37,846
+Gospodo, sklonite se od tog kompjutera.
+
+28
+00:01:38,102 --> 00:01:40,342
+Agent Eppes, mogu li da poprièam sa vama?
+
+29
+00:01:41,923 --> 00:01:44,625
+Imam obavezu da zaštitim sadržaj koji je u kompjuteru Dr. Hoka.
+
+30
+00:01:44,660 --> 00:01:46,832
+Pa, ja sam dobio obavezu da istražim ubistvo,
+
+31
+00:01:46,867 --> 00:01:50,550
+i šta god radili ovi momci,
+oni uništavaju moje mesto zloèina.
+
+32
+00:01:50,812 --> 00:01:52,027
+- Vaše mesto zloèina?
+- Tako je.
+
+33
+00:01:52,062 --> 00:01:53,208
+Osim ako postoji nešto što ne znam,
+
+34
+00:01:53,243 --> 00:01:57,052
+moja istraga ubistva æe dobiti prioritet iznad vaše brige o zaštiti.
+
+35
+00:01:57,087 --> 00:01:58,815
+Don.
+
+36
+00:02:01,203 --> 00:02:02,690
+Imamo višestruke ubodne rane.
+
+37
+00:02:02,726 --> 00:02:06,546
+Sudski istražitelj kaže da je bio mrtav skoro dva dana.
+
+38
+00:02:07,233 --> 00:02:11,085
+Oko èega je bilo to? 
+Pustio je te tipove da uzmu podatke sa tog kompjutera.
+
+39
+00:02:11,120 --> 00:02:13,095
+Pa, mislim da im je neko rekao da to urade.
+
+40
+00:02:13,130 --> 00:02:15,123
+Prema onome što sam èuo,
+fajlovi su veæ bili izbrisani.
+
+41
+00:02:15,158 --> 00:02:17,116
+Dobro, poèeæemo sa ovim.
+Niko ne sme da ga dira.
+
+42
+00:02:17,152 --> 00:02:18,933
+U redu? Izbacimo ove ljude odavde,smesta.
+
+43
+00:02:18,968 --> 00:02:20,767
+U redu. Adam, Carter.
+
+44
+00:02:55,629 --> 00:02:57,207
+OK, dobro, prva stvar je,
+
+45
+00:02:57,243 --> 00:02:59,564
+ko god da je brisao informacije sa ovog hard drajva
+
+46
+00:02:59,600 --> 00:03:01,887
+- nije napravio kopiju.
+- Jesi li sigurna?
+
+47
+00:03:01,923 --> 00:03:03,241
+Apsolutno.
+
+48
+00:03:03,276 --> 00:03:05,637
+Hoke se logovao na njegov kompjuter.
+
+49
+00:03:05,672 --> 00:03:07,964
+Snimio je brisanje,
+ali nema duplikata.
+
+50
+00:03:07,999 --> 00:03:11,210
+I kako god da su uradili brisanje
+znali su taèno šta rade.
+
+51
+00:03:11,245 --> 00:03:13,976
+Ovaj kod je bio obrtan
+stotinama hiljada puta.
+
+52
+00:03:14,012 --> 00:03:15,276
+Èekaj. Definiši obrtanje.
+
+53
+00:03:15,311 --> 00:03:17,560
+Kompjuter jezik prebacuje u binarni kod.
+
+54
+00:03:17,595 --> 00:03:21,364
+Svaki bit informacije je
+specifièna sekvenca nula i jedinica,
+
+55
+00:03:21,400 --> 00:03:23,794
+kao novèici...svi sa pismom i glavom.
+
+56
+00:03:23,829 --> 00:03:25,895
+Kada brišemo podatke,
+ne brišete ih stvarno.
+
+57
+00:03:25,930 --> 00:03:27,927
+Samo poèinješ obrtanje
+novèiæa.
+
+58
+00:03:27,962 --> 00:03:32,006
+To uništava kod i èini
+informacije veoma neupotrebljivim.
+
+59
+00:03:32,041 --> 00:03:35,021
+Sada, zamisli,mi prièamo o binarnom kodu,
+
+60
+00:03:35,056 --> 00:03:38,000
+što su milioni i milioni nula i jedinica.
+
+61
+00:03:38,035 --> 00:03:39,890
+Da bih povratio podatke,
+
+62
+00:03:39,925 --> 00:03:42,506
+Moram da rekonstruišem originalnu sekvencu koda.
+
+63
+00:03:42,541 --> 00:03:44,405
+Da bi ih vratio u originalno stanje.
+
+64
+00:03:44,440 --> 00:03:45,784
+Pokušaæu.
+
+65
+00:03:45,819 --> 00:03:49,351
+Ali kao što si rekao, prièamo o milionima i milionima brojeva.
+
+66
+00:03:49,386 --> 00:03:52,884
+Program koji je bio korišæen za brisanje Hoke-ovog coda,ostavio je nešto za prepoznavanje iza sebe.
+
+67
+00:03:52,919 --> 00:03:54,216
+Ako mogu da ga naðem,
+
+68
+00:03:54,251 --> 00:03:58,177
+Mogu inverzno da projektujem program
+i rekonstruišem originalnu sekvencu.
+
+69
+00:03:58,212 --> 00:04:01,093
+Pokušaj.
+Javi mi ako naðeš nešto.
+
+70
+00:04:03,586 --> 00:04:05,921
+Hej.
+
+71
+00:04:05,956 --> 00:04:08,480
+Jonas Hoke je bio primenjeni fizièar.
+
+72
+00:04:08,516 --> 00:04:11,980
+Živeo je sam,nije imao dece, i od svega što sam èuo do sada,
+
+73
+00:04:12,016 --> 00:04:13,491
+totalno predan svom poslu.
+
+74
+00:04:13,526 --> 00:04:16,473
+Bio je u sred razvoda.
+Žena ga je ostavila pre par meseci.
+
+75
+00:04:16,508 --> 00:04:18,151
+Oh, da? Neki podaci tu?
+
+76
+00:04:18,186 --> 00:04:22,884
+Nema policijskih izveštaja, nema 911 poziva.
+Komšiluk kaže da je bio tih,priljateljski nastrojen.
+
+77
+00:04:22,920 --> 00:04:25,429
+Da, koji je nekako bio iskasapljen u svojoj kuæi.
+
+78
+00:04:25,464 --> 00:04:28,029
+Kuæa je ispreturana.
+Imamo višestruke ubodne rane.
+
+79
+00:04:28,064 --> 00:04:30,315
+Alarm je pokvaren.
+
+80
+00:04:30,464 --> 00:04:32,411
+Nije stvarno M.O.
+profesionalnog ubice.
+
+81
+00:04:32,446 --> 00:04:34,673
+Ko je pokvario alarm u noæi kada je pronaðeno telo,
+
+82
+00:04:34,708 --> 00:04:38,493
+umesto dva dana ranije,
+kada je tip u stvari ubijen?
+
+83
+00:04:38,690 --> 00:04:41,286
+Nema dokaza
+da je telo pomerano.
+
+84
+00:04:41,321 --> 00:04:44,015
+Da, komšije nisu prijavile da su videle nekoga u ovom delu.
+
+85
+00:04:44,050 --> 00:04:48,444
+Kuæa je bila ispreturana dajuæi na znanje da je neko nešto tražio.
+
+86
+00:04:48,479 --> 00:04:51,446
+Pa, brisanjem tog fajla
+znao je šta traži, to je sigurno.
+
+87
+00:04:51,481 --> 00:04:53,868
+Misliš da su ispreturali kuæu samo kao masku?
+
+88
+00:04:53,903 --> 00:04:56,399
+Da izgleda kao da su radili amateri?
+
+89
+00:04:58,523 --> 00:04:59,691
+Zašto ne ideš da proveriš ženu?
+
+90
+00:04:59,726 --> 00:05:02,366
+Idem da prièam sa Reacher
+o Lorman povezanosti.
+
+91
+00:05:02,725 --> 00:05:06,717
+Gospoðo Hoke, shvatam da je bila rasprava oko novca umešanog u rastavljanje.
+
+92
+00:05:06,752 --> 00:05:11,232
+Pretpostavljam da smo oboje cenili naše zajednièko vreme malo drugaèije.
+
+93
+00:05:11,376 --> 00:05:13,868
+Možda je bilo zato
+što je bio ljut što idem, ne znam,
+
+94
+00:05:13,903 --> 00:05:18,375
+ali Jonas je mislio da je prikladno da odem iz braka sa onim sa èime sam i ušla u njega.
+
+95
+00:05:18,410 --> 00:05:22,485
+Htela sam da ga pitam da mi vrati mojih 12 godina,ali nije znao kako.
+
+96
+00:05:22,521 --> 00:05:25,081
+Kada ste prošli put prièali sa vašim mužem?
+
+97
+00:05:25,116 --> 00:05:27,089
+Pre nekoliko nedelja.
+
+98
+00:05:27,124 --> 00:05:29,523
+Kasnio je sa proverom.
+
+99
+00:05:29,558 --> 00:05:31,877
+Uradio je to, zaboravite.
+
+100
+00:05:31,912 --> 00:05:35,764
+Ponekad se pitam da li je to bilo namerno.
+
+101
+00:05:36,275 --> 00:05:40,488
+Gospoðo Hoke, moram da vas pitam,
+gde ste bili 14-og?
+
+102
+00:05:40,523 --> 00:05:43,577
+Da, razumem.
+
+103
+00:05:43,612 --> 00:05:45,363
+Kada se to desilo, bila sam kuæi.
+
+104
+00:05:45,398 --> 00:05:47,759
+Postoje li neki svedoci da potvrde to?
+
+105
+00:05:48,341 --> 00:05:50,342
+Lucas Grodin.
+
+106
+00:05:50,377 --> 00:05:52,344
+On je prijatelj.
+
+107
+00:05:54,644 --> 00:05:56,568
+Ne oèekujem od vas da razumete.
+
+108
+00:05:56,603 --> 00:05:58,458
+Ne osuðujem vas, gospoðo Hoke.
+
+109
+00:05:58,493 --> 00:06:00,200
+Samo pokušavam da uzmem vašu izjavu.
+
+110
+00:06:02,884 --> 00:06:03,916
+Dakle vaši tehnièari su sigurni
+
+111
+00:06:03,951 --> 00:06:06,820
+ko god da je brisao Hoke-ove fajlove sa hard diska...nije napravio kopiju?
+
+112
+00:06:06,855 --> 00:06:09,647
+Tako je. Nažalost bilo je obrisano, ali ne i duplirano.
+
+113
+00:06:09,682 --> 00:06:11,958
+Moji šefovi æe biti sreæni kad budu èuli ovo.
+
+114
+00:06:11,993 --> 00:06:14,256
+Vi momci...
+
+115
+00:06:14,292 --> 00:06:17,791
+trebalo bi da podsetite vaše šefove da je èovek ubijen ovde, znaš?
+
+116
+00:06:17,827 --> 00:06:19,349
+Nisam mislio na naèin na koji je zvuèalo.
+
+117
+00:06:19,385 --> 00:06:20,599
+Vidi...
+
+118
+00:06:20,634 --> 00:06:24,317
+Šta je taèno Hoke radio za Lorman grupu?
+
+119
+00:06:26,200 --> 00:06:29,581
+Kompanija ima ugovor sa Ministarstvom odbrane za nove kompjuterske sisteme,
+
+120
+00:06:29,616 --> 00:06:32,545
+one koji æe moæi bolje da interpretiraju 
+globalno slike satelitski.
+
+121
+00:06:32,580 --> 00:06:35,972
+Dakle, tako nove da æe neko možda opet ubiti?
+
+122
+00:06:36,382 --> 00:06:39,919
+To je vrlo razdražljiva stvar,ali motiv za ubistvo?
+
+123
+00:06:39,954 --> 00:06:41,417
+Ne znam.
+
+124
+00:06:45,380 --> 00:06:46,360
+Hej.
+
+125
+00:06:46,395 --> 00:06:48,584
+Dakle Hoke je radio
+na DOD ugovoru
+
+126
+00:06:48,619 --> 00:06:51,208
+za kompjuterske programe koji æe interpretirati slike satelitski.
+
+127
+00:06:51,243 --> 00:06:52,838
+Daljinsko upravljanje.
+
+128
+00:06:53,031 --> 00:06:56,756
+To je proces koji skenira eketromagnetne potpise sa zemljine površine.
+
+129
+00:07:02,154 --> 00:07:06,171
+Hoke je verovatno to razvio 
+da èita mesta bombi, ili putanju od tenkova.
+
+130
+00:07:06,206 --> 00:07:07,330
+Zašto mi nisi rekao da si našao ovo?
+
+131
+00:07:07,365 --> 00:07:10,405
+Zato što podatak nije fokusiran na brisanje sa hard diska.
+
+132
+00:07:10,440 --> 00:07:12,322
+U redu. Šta je bilo?
+
+133
+00:07:14,720 --> 00:07:18,081
+Da kažemo da hoæu da sakrijem ovo što sam napisao.
+
+134
+00:07:22,162 --> 00:07:24,137
+Jesam li sakrio?
+
+135
+00:07:30,566 --> 00:07:34,647
+Taèno. Otisak ide dublje od jedne stranice na kojoj sam napisao.
+
+136
+00:07:34,682 --> 00:07:38,362
+Sada,ako stvarno želim da sakrijem to,uradiæu ovo.
+
+137
+00:07:51,559 --> 00:07:55,028
+Hoke-ov rad na daljinskom upravljanju je bio izbrisan jednako kao sto je marker u ovom sluèaju,
+
+138
+00:07:55,063 --> 00:07:59,090
+ali ovaj odeljak ovde je bio
+prešvrljan sa data olovkom.
+
+139
+00:07:59,125 --> 00:08:00,767
+što je jednako kao olovka u našem sluèaju.
+
+140
+00:08:00,802 --> 00:08:03,508
+Na površini, kompjuter pokazuje da je kod beznaèajan,
+
+141
+00:08:03,543 --> 00:08:06,517
+ali ovde postoje magnetne senke ispod,
+
+142
+00:08:06,552 --> 00:08:09,491
+deo podatka koje sam bio u moguænosti da vidim.
+
+143
+00:08:09,526 --> 00:08:11,152
+U redu, reci mi.
+
+144
+00:08:11,187 --> 00:08:12,289
+Brojevi.
+
+145
+00:08:12,324 --> 00:08:15,730
+Osobito,kao,bejzbol statistika.
+
+146
+00:08:15,765 --> 00:08:17,072
+Bejzbol statistika?
+
+147
+00:08:17,107 --> 00:08:19,105
+Vatiranje proseèno,
+na bazi, procenti.
+
+148
+00:08:19,140 --> 00:08:19,997
+Mislim,kako da kažem,
+
+149
+00:08:20,032 --> 00:08:23,705
+Hoke je razvijao veoma veštu aplikaciju sabermetrike
+
+150
+00:08:23,740 --> 00:08:26,482
+koje stavlja numerièke vrednosti na specifiènu veštinu,
+
+151
+00:08:26,517 --> 00:08:29,765
+kao što je put do kuæe, pogodci, šetnja.
+
+152
+00:08:29,800 --> 00:08:33,907
+Dosta timova koristi sabermetriku da identifikuje najbolji put to postavljanja njihovih resursa.
+
+153
+00:08:33,942 --> 00:08:36,272
+Da. O èemu je bila knjiga...o...
+
+154
+00:08:36,307 --> 00:08:37,966
+- Bila je Oakland A's GM.
+- Money ball.
+
+155
+00:08:38,002 --> 00:08:39,638
+- Da, money ball.
+- Taèno.
+
+156
+00:08:39,673 --> 00:08:41,967
+Jedino je Hoke iskoristio njegove formule za ceo novi nivo,
+
+157
+00:08:42,002 --> 00:08:45,372
+nameravajuæi da predvidi performanse igraèa bazirane na statistièkim krivama.
+
+158
+00:08:45,408 --> 00:08:48,334
+U redu,dakle...
+ko je izbrisao bejzbol podatke?
+
+159
+00:08:48,369 --> 00:08:49,571
+I zašto je ubio pored toga?
+
+160
+00:08:49,606 --> 00:08:51,280
+Nemam ideju.
+
+161
+00:08:51,315 --> 00:08:54,460
+Ali možda æu moæi da koristim predvidivu jednaèinu da rekontruišem fajl koji nedostaje,
+
+162
+00:08:54,495 --> 00:08:57,159
+kao detektovanje originalnih linija ovde,
+
+163
+00:08:57,194 --> 00:08:59,168
+i nagaðati koja slova su mogli da upotrebe.
+
+164
+00:08:59,203 --> 00:09:01,964
+Dobro. Pa, mislim, moramo da znamo
+šta oni pokušavaju da sakriju.
+
+165
+00:09:06,518 --> 00:09:10,034
+Oèigledno, to je bio veliki šok èuti o Jonas.
+
+166
+00:09:10,373 --> 00:09:12,689
+Videti ga takvog.
+
+167
+00:09:12,818 --> 00:09:14,816
+Siguran sam.
+Žao mi je zbog vašeg gubitka.
+
+168
+00:09:14,851 --> 00:09:17,201
+Da. Radili smo zajedno dosta dugo.
+
+169
+00:09:17,236 --> 00:09:20,724
+Pa, trebaæe mi konsultant da dobijem pristup Dr. Hoke-ovom kompjuteru.
+
+170
+00:09:20,759 --> 00:09:22,942
+Ne vidim problem.
+
+171
+00:09:28,085 --> 00:09:30,836
+Znaèi ovo je kancelarija Dr. Hoke-a.
+
+172
+00:09:30,871 --> 00:09:33,731
+Ovo je Scott Reynolds.
+On je Dr. Hoke's analitièki asistent.
+
+173
+00:09:33,766 --> 00:09:35,706
+Da li je još nešto dirano u ovoj kancelariji?
+
+174
+00:09:35,741 --> 00:09:38,937
+Ne. Agent Reacher nam je rekao da ostavimo sve kako je bilo.
+
+175
+00:09:38,972 --> 00:09:40,176
+Šta radis na tom kompjuteru?
+
+176
+00:09:40,211 --> 00:09:42,409
+Samo proveravam e-mailove,
+generalno održavanje.
+
+177
+00:09:42,444 --> 00:09:44,956
+Pa,cenio bih da to radiš na nekom drugom mesto na duže vreme.
+
+178
+00:09:44,992 --> 00:09:46,238
+OK.
+
+179
+00:09:46,273 --> 00:09:47,945
+Radio si sa Dr. Hoke
+na dnevnim izveštajima?
+
+180
+00:09:47,980 --> 00:09:49,130
+Da.
+
+181
+00:09:49,165 --> 00:09:51,185
+Seæaš se šta si radio 14-og?
+
+182
+00:09:51,221 --> 00:09:53,330
+To je bio utorak?
+
+183
+00:09:53,365 --> 00:09:54,981
+Dosao je u taj ponedeljak,
+
+184
+00:09:55,016 --> 00:09:58,983
+onda nisam èuo njega ponovo dok me
+Mr. Oliver nije nazvao i rekao šta se desilo.
+
+185
+00:09:59,019 --> 00:10:01,868
+Pa, nije ga bilo dva dana.
+Zar to nije bilo malo neobièno?
+
+186
+00:10:01,903 --> 00:10:04,717
+Ne, on nije dolazio ovde po tri,èetiri dana za redom.
+
+187
+00:10:04,752 --> 00:10:07,869
+Scott je u pravu.
+Jonas je mogao da se izgubi u svom poslu.
+
+188
+00:10:07,904 --> 00:10:10,987
+Da li je Dr. Hoke kojim sluèajem fan bejzbola?
+
+189
+00:10:11,022 --> 00:10:12,579
+- Bejzbol?
+- Da
+
+190
+00:10:12,614 --> 00:10:14,101
+Nisam siguran.
+
+191
+00:10:14,136 --> 00:10:17,663
+Nikad nije otišao ni na jednu utakmicu ili slièno, ako ste na to mislili.
+
+192
+00:10:18,080 --> 00:10:19,429
+Zašto pitate?
+
+193
+00:10:19,464 --> 00:10:21,137
+Samo malo istraživanje koje pravim.
+
+194
+00:10:21,172 --> 00:10:24,089
+Vaš gospodin ce morati da napusti ovu kancelariju.
+
+195
+00:10:27,485 --> 00:10:29,310
+Izgleda, Hoke
+nije to radio u bejzbolu.
+
+196
+00:10:29,345 --> 00:10:32,301
+Mislim, nema potpisane lopte,
+nema drugih sportova štagod.
+
+197
+00:10:32,336 --> 00:10:35,258
+Dakle kakav god da je njegov interes,
+koliko ti do sada mogu reæi, nije lièno.
+
+198
+00:10:35,293 --> 00:10:37,854
+Možda se interesovao za sabermetriku kao hobi?
+
+199
+00:10:37,889 --> 00:10:40,021
+Ne izgleda tako...
+pošto je dobio udarac do smrti.
+
+200
+00:10:40,056 --> 00:10:41,602
+Kako ti ide u rekonstruisanju njegovih podataka?
+
+201
+00:10:41,637 --> 00:10:45,148
+Pogledaæu pokvarene fajlove preko serije algoritama na mom kompjuteru.
+
+202
+00:10:45,183 --> 00:10:46,470
+U redu, što pre saznaš nešto,
+
+203
+00:10:46,506 --> 00:10:49,183
+javi mi da znam, zato što hoæu da te izvuèem odatle da pogledaš njegov kompjuter...u redu?
+
+204
+00:10:49,218 --> 00:10:52,229
+U redu,ja sam zapravo na putu da održim predavanje.
+
+205
+00:10:52,264 --> 00:10:55,203
+ali sigurno, ubuduæe,
+bilo kako da mogu da pomognem.
+
+206
+00:10:55,238 --> 00:10:56,958
+Dobro,hvala, Charlie.
+
+207
+00:10:57,851 --> 00:11:01,035
+Da li sam te upravo èuo da kažeš "sabermetrika"?
+
+208
+00:11:01,070 --> 00:11:02,228
+Poznato ti je?
+
+209
+00:11:02,263 --> 00:11:05,389
+"Money ball" ludost?
+Oh, da, upoznat sam sa time.
+
+210
+00:11:05,424 --> 00:11:07,106
+Prihvatiæu,ne moraš da dokazuješ.
+
+211
+00:11:07,909 --> 00:11:11,878
+Stanovište da ljudska postignuæa u bejzbolu
+
+212
+00:11:11,913 --> 00:11:15,846
+mogu biti predviðena preko aplikacije statistièke analize
+
+213
+00:11:15,881 --> 00:11:19,326
+je, sama srž,
+veoma problematièno.
+
+214
+00:11:19,361 --> 00:11:22,108
+Èak iako se veština može statistièki odmeriti?
+
+215
+00:11:22,143 --> 00:11:26,707
+Da, zato, Charles,
+ljudski duh je nemerljiv.
+
+216
+00:11:26,742 --> 00:11:28,846
+Znaš, naši mozgovi nisu samo te mašine.
+
+217
+00:11:28,881 --> 00:11:31,319
+Postoji mnogo ili ili ovde.
+
+218
+00:11:31,354 --> 00:11:33,877
+Da,statistièka verovatnoæa je sjajan alat,
+
+219
+00:11:33,912 --> 00:11:37,980
+ali primeniti je u ljudskim performansama,
+to je samo ekstrapolacija prošlosti.
+
+220
+00:11:38,015 --> 00:11:42,090
+Ipak...tu je veliki broj bejzbol timova koji koriste sabermetriku da odluèe koga platiti.
+
+221
+00:11:42,125 --> 00:11:46,127
+Kao Dodger fan, upoznat sam u tu èinjenicu,
+
+222
+00:11:46,162 --> 00:11:49,077
+ali se takoðe plasim da po statistièkim modelima,
+
+223
+00:11:49,112 --> 00:11:51,013
+Red sox nikada neæe pobediti Yankees.
+
+224
+00:11:51,048 --> 00:11:52,914
+Ah, postoje izuzeci za svako pravilo.
+
+225
+00:11:52,949 --> 00:11:55,417
+Da, i nisu li sjajni?
+
+226
+00:11:55,453 --> 00:11:59,137
+Now, zašto te je Don uopšte pitao o  bejzbol statistikama?
+
+227
+00:11:59,172 --> 00:12:01,941
+Naðen je mrtav analitièar.
+
+228
+00:12:01,976 --> 00:12:04,579
+Èekaj,da li govorimo o Jonas Hoke?
+
+229
+00:12:04,730 --> 00:12:06,677
+Znaš ga?
+
+230
+00:12:06,712 --> 00:12:08,590
+Da.
+
+231
+00:12:08,625 --> 00:12:12,339
+Doktorirali smo zajedno.
+Dobro,ne baš zajedno,ali u isto vreme.
+
+232
+00:12:12,374 --> 00:12:14,264
+On je samo... ne znam.
+
+233
+00:12:14,299 --> 00:12:16,119
+Postoji stara izreka.
+
+234
+00:12:16,154 --> 00:12:19,300
+"Priznati fizièari su sa Venere,
+teoretski fizièari..."
+
+235
+00:12:19,335 --> 00:12:21,157
+"se pitaju zašto se rotira u suprotnom pravcu."
+
+236
+00:12:21,192 --> 00:12:22,861
+Tako je.
+
+237
+00:12:22,896 --> 00:12:25,330
+No, naše odeljenje je informisano o njegovoj smrti
+
+238
+00:12:25,365 --> 00:12:27,431
+i planiraju da mu održe pomen.
+
+239
+00:12:27,466 --> 00:12:29,118
+- Žao mi je.
+- Pa,
+
+240
+00:12:29,153 --> 00:12:31,749
+knjige ne funkcionišu uvek, Charles,
+
+241
+00:12:31,784 --> 00:12:36,005
+i brojevi ne mogu uvek izraèunati naèin kako æe se život završiti.
+
+242
+00:12:36,040 --> 00:12:38,581
+Mislim, samo pitaj Jonas Hoke.
+
+243
+00:12:43,341 --> 00:12:44,563
+Šta kažeš, David?
+
+244
+00:12:44,598 --> 00:12:46,832
+Hej. Išta o Lorman grupi?
+
+245
+00:12:46,868 --> 00:12:49,483
+Pa, Hoke se nije pojavio na poslu dva dana, i nije nedostajao.
+
+246
+00:12:49,518 --> 00:12:52,431
+To je veoma žalosno,
+ili je to veoma dobar posao.
+
+247
+00:12:52,466 --> 00:12:53,939
+Da? Izgledalo mi je èudno.
+
+248
+00:12:53,974 --> 00:12:57,676
+Pogodi ko je imao 2 milliona
+osiguravajuæe polise.
+
+249
+00:12:58,535 --> 00:13:00,379
+Šta? Dr. Hoke?
+
+250
+00:13:00,414 --> 00:13:02,502
+I pogodi ko je bio njen korisnik?
+
+251
+00:13:02,537 --> 00:13:03,980
+- Ne žena.
+- Daa.
+
+252
+00:13:04,015 --> 00:13:06,458
+Razvod je bio gadniji nego što smo mislili.
+
+253
+00:13:06,493 --> 00:13:08,754
+Glavno sporno pitanje je
+Hoke's potencijalna zarada.
+
+254
+00:13:08,789 --> 00:13:10,981
+Izgleda, nije hteo da joj da ništa.
+
+255
+00:13:11,016 --> 00:13:13,700
+Zato ga uklanja i uzima ono za šta je ovlašæena?
+
+256
+00:13:13,736 --> 00:13:17,225
+Onda je ona slobodna ponovo.
+
+257
+00:13:17,898 --> 00:13:19,459
+On je njen alibi za noæ kada je ubijen.
+
+258
+00:13:19,494 --> 00:13:21,404
+Uhapšen '84.
+
+259
+00:13:21,439 --> 00:13:23,279
+Napad i zlostavljanje.
+
+260
+00:13:23,314 --> 00:13:27,134
+Mislim da je shvatila da Hoke
+vredi više mrtav nego živ.
+
+261
+00:13:32,248 --> 00:13:34,962
+Imao sam 20 godina.
+Potukao sam se sa likom u baru.
+
+262
+00:13:34,997 --> 00:13:38,225
+Dve godine izdržavanja kazne, verujte mi,
+nauèio sam svoju lekciju.
+
+263
+00:13:38,261 --> 00:13:39,407
+A to je?
+
+264
+00:13:39,443 --> 00:13:41,590
+Ne ostavljaj svedoke sledeæi put?
+
+265
+00:13:41,625 --> 00:13:43,525
+Zamisljate nešto
+
+266
+00:13:43,560 --> 00:13:44,600
+Zamišljamo.
+
+267
+00:13:44,635 --> 00:13:45,821
+Kako ti zamišljaš ovo?
+
+268
+00:13:45,856 --> 00:13:48,084
+Gail Hoke je bio u sred razvoda, jel tako?
+
+269
+00:13:48,119 --> 00:13:49,768
+Mislim, stvarno nije išlo dobro.
+
+270
+00:13:49,803 --> 00:13:54,243
+S druge strane, za mrtvog muža polisa osiguranja se plaæa 2 milliona dolara.
+
+271
+00:13:54,278 --> 00:13:56,881
+Pitam se koliko ovoga moraš da uradiš
+da bi zaradio toliko.
+
+272
+00:13:56,916 --> 00:13:59,304
+I ubijanje Jonas mi pomaže?
+
+273
+00:13:59,339 --> 00:14:02,284
+Jer æe mi Gail dati deo njenog rešenja o isplati osiguranja?
+
+274
+00:14:02,319 --> 00:14:05,934
+Pa, bez njega na putu,ona je slobodna da se uda ponovo.
+
+275
+00:14:06,583 --> 00:14:09,731
+Gail i ja se sviðamo jedno drugome,možda je i više od toga,
+
+276
+00:14:09,766 --> 00:14:12,895
+ali nijedno od nas nije nikad prièalo o braku.
+
+277
+00:14:12,931 --> 00:14:14,143
+U redu.
+
+278
+00:14:14,178 --> 00:14:15,845
+Biæemo u kotaktu.
+
+279
+00:14:17,667 --> 00:14:19,629
+Gail Hoke nije bio ništa više od bivšeg muža.
+
+280
+00:14:19,664 --> 00:14:21,557
+Toliko sam dobio od oboje.
+
+281
+00:14:21,592 --> 00:14:23,273
+Pa,to ne znaèi da ga nije ubila.
+
+282
+00:14:23,308 --> 00:14:26,824
+Da, imam osecaj da nije
+dozvolila sebi da prizna da je brak gotov.
+
+283
+00:14:26,859 --> 00:14:28,955
+Razmišljala je da mu se vrati.
+
+284
+00:14:28,990 --> 00:14:29,992
+Kako si došao do toga?
+
+285
+00:14:30,027 --> 00:14:32,715
+Malo me podseæa na moju sestru
+Lindu kada se razvodila.
+
+286
+00:14:32,750 --> 00:14:36,779
+Iselila se, našla svoj stan,
+sedela i èekala da je pozove bivši,
+
+287
+00:14:36,814 --> 00:14:39,023
+umesto da izaðe i sredi svoj život.
+
+288
+00:14:39,058 --> 00:14:40,951
+Da li je zvao?
+
+289
+00:14:41,842 --> 00:14:44,007
+Da, i vratila mu se.
+
+290
+00:14:44,042 --> 00:14:45,656
+Uvek sam mislio da je mogla bolje, znaš,
+
+291
+00:14:45,691 --> 00:14:48,055
+samo da je sebi dala šansu.
+Hvala.
+
+292
+00:14:48,090 --> 00:14:49,381
+Da?
+
+293
+00:14:49,416 --> 00:14:51,129
+Da. Knucklehead, znaš.
+
+294
+00:14:52,842 --> 00:14:55,647
+Hello. Izvini.
+Imam jasne istrukcije.
+
+295
+00:14:55,682 --> 00:14:57,193
+Niko ne sme da koristi ovaj kompjuter.
+
+296
+00:14:57,228 --> 00:14:58,705
+Oh, izvini.
+Ti mora da si Scott. 
+Da.
+
+297
+00:14:58,740 --> 00:14:59,929
+Ja sam profesor Charlie Eppes.
+
+298
+00:14:59,964 --> 00:15:01,476
+Oh,Ja sam,um, da,
+
+299
+00:15:01,511 --> 00:15:03,449
+- Ja sam FBI konsultant.
+- Oh, u redu.
+
+300
+00:15:03,484 --> 00:15:05,387
+Mr. Oliver je rekao da æete doæi.
+
+301
+00:15:05,422 --> 00:15:07,043
+Rekao sam, uh,
+
+302
+00:15:07,078 --> 00:15:10,306
+da niko ne dira Dr. Hoke's rad dok ja ne doðem ovde.
+
+303
+00:15:10,341 --> 00:15:12,276
+Ne, sve te stvari su moje.
+
+304
+00:15:12,311 --> 00:15:14,177
+- Oh, odlaziš.
+- Da.
+
+305
+00:15:14,212 --> 00:15:18,131
+Pa, verovatno æe mi ponuditi neku drugu poziciju ovde,
+
+306
+00:15:18,166 --> 00:15:21,267
+ali Dr. Hoke mi je bio neka vrsta,
+neka vrsta mentora,
+
+307
+00:15:21,302 --> 00:15:24,333
+i kad radiš sa nekim tako blisko, teško je.
+
+308
+00:15:24,368 --> 00:15:27,094
+Mogu da zamislim. Radio sam i sam sa nekim vrlo blisko.
+
+309
+00:15:27,129 --> 00:15:29,213
+Uvek je hteo da se vratim u školu,
+
+310
+00:15:29,249 --> 00:15:31,243
+da završim svoju disertaciju, pa...
+
+311
+00:15:31,278 --> 00:15:33,406
+- sada kad razmislim i hoæu...
+- To je sjajno.
+
+312
+00:15:33,441 --> 00:15:35,774
+- Koja je tvoja oblast?
+- Econometrika,
+
+313
+00:15:35,809 --> 00:15:38,079
+specijalizovano za ekonomsku statistiku.
+
+314
+00:15:38,114 --> 00:15:40,315
+- Woow
+- Da, to je taèno ono što je moj tata rekao
+
+315
+00:15:40,350 --> 00:15:44,150
+kada sam mu rekao da hoæu da pozajmim 30 hiljada za godinu da bih platio.
+
+316
+00:15:44,185 --> 00:15:46,216
+On je prièao, "ne praviš novac uèeæi to."
+
+317
+00:15:46,251 --> 00:15:49,748
+Matematika može biti mnogo više korisna nego što mnogi oèevi misle.
+
+318
+00:15:49,783 --> 00:15:52,897
+Da, ali ja hoæu da uradim nešto sa njom.
+
+319
+00:15:52,932 --> 00:15:56,011
+Znaš, da napravim razliku u svetu.
+
+320
+00:15:56,046 --> 00:15:57,120
+To je zaista za divlljenje.
+
+321
+00:15:57,155 --> 00:16:02,896
+Zato što ljudi, oni pretpostavljaju da je ekonomski suparništvo u odnosima,
+
+322
+00:16:02,931 --> 00:16:06,729
+kada jedna osoba dobije, po definiciji,
+druga osoba mora da izgubi.
+
+323
+00:16:06,764 --> 00:16:08,878
+Ali ne mora biti tako.
+
+324
+00:16:08,913 --> 00:16:10,959
+Može biti dobitka za svakoga.
+
+325
+00:16:10,994 --> 00:16:12,613
+- Siguran sam da si u pravu.
+- Ne, znam da jesam.
+
+326
+00:16:12,648 --> 00:16:16,798
+Sve je tu u brojevima,
+ako je ikoga briga da pogleda.
+
+327
+00:16:16,833 --> 00:16:18,127
+Ah, mislim da taèno znam kako se oseæaš.
+
+328
+00:16:18,162 --> 00:16:20,452
+Ako sam ti potreban za bilo šta,
+javi mi da znam.
+
+329
+00:16:20,487 --> 00:16:22,383
+Hej, Scott.
+
+330
+00:16:22,418 --> 00:16:26,389
+Da li postoji neki razlog da je Dr. Hoke
+radio na...
+
+331
+00:16:26,424 --> 00:16:27,877
+bejzbol formulama?
+
+332
+00:16:27,912 --> 00:16:31,908
+Da,znaš,drugi agent FBI me je pitao isto o bejzbolu.
+
+333
+00:16:31,944 --> 00:16:34,665
+Rekao sam mu da Dr. Hoke nije nikad spominjao to.
+
+334
+00:16:34,700 --> 00:16:39,232
+Da li postoje još neki backup fajlovi, neko drugo radno mesto koje je Dr. Hoke možda koristio?
+
+335
+00:16:39,267 --> 00:16:42,194
+Ne. Taj èovek je bio osobito
+tamo gde je radio.
+
+336
+00:16:42,229 --> 00:16:45,121
+Da li to bio ovaj kompjuter ili onaj kod kuæe.
+
+337
+00:16:45,305 --> 00:16:47,987
+I nisi bio obavešten o njegovom radu o sabermetrici?
+
+338
+00:16:48,022 --> 00:16:51,002
+Ali opet nisam veliki fan bejzbola.
+
+339
+00:17:04,418 --> 00:17:05,936
+Larry.
+
+340
+00:17:05,971 --> 00:17:07,420
+Charlie.
+
+341
+00:17:07,455 --> 00:17:09,043
+Šta radiš ovde?
+
+342
+00:17:09,078 --> 00:17:12,218
+Pa,pomenuo si memorial,
+i znao sam da æeš biti ovde.
+
+343
+00:17:12,253 --> 00:17:13,513
+Oh, da.
+
+344
+00:17:16,431 --> 00:17:19,566
+Izgleda prilièno tužno,zar ne?
+
+345
+00:17:21,183 --> 00:17:22,426
+Jesmo li poranili?
+
+346
+00:17:22,461 --> 00:17:24,953
+Ne, mislim da nismo.
+
+347
+00:17:26,400 --> 00:17:28,565
+To je fizika.
+
+348
+00:17:28,600 --> 00:17:31,652
+To je tako zahtevna oblast.
+
+349
+00:17:31,687 --> 00:17:34,698
+Ostavlja tako malo vremena za društveni život.
+
+350
+00:17:34,733 --> 00:17:39,523
+Einstein je rekao da se ima vremena za nauku ili za porodicu...
+
+351
+00:17:39,558 --> 00:17:40,865
+ali ne i za oba.
+
+352
+00:17:40,900 --> 00:17:45,676
+Pa, to je rekao kao èovek koji može da ceni naše teškoæe.
+
+353
+00:17:46,425 --> 00:17:47,735
+Razmišljao sam...
+
+354
+00:17:47,770 --> 00:17:51,046
+da li je naš rad pravi razlog,
+ili je izgovor?
+
+355
+00:17:51,081 --> 00:17:54,576
+To je lepa hipoteza, zar ne?
+
+356
+00:17:54,611 --> 00:18:00,731
+Pretpostavljam da je pravi trik naæi rešenje dok je još važno.
+
+357
+00:18:02,101 --> 00:18:03,566
+Šta ti govore te formule?
+
+358
+00:18:03,601 --> 00:18:05,967
+Ono što sam povratio ukazuje na to da Dodgers
+
+359
+00:18:06,002 --> 00:18:08,971
+nisu na pravom putu da osvoje zastavicu sledeæe godine.
+
+360
+00:18:09,006 --> 00:18:11,369
+Kao da ti je potrebna matematika da shvatiš to,ha?
+
+361
+00:18:12,343 --> 00:18:13,411
+Ne.
+
+362
+00:18:14,969 --> 00:18:17,943
+Èuo sam da, uh, Don
+je sklon prema ženi.
+
+363
+00:18:17,978 --> 00:18:19,910
+Tako je.
+
+364
+00:18:19,945 --> 00:18:22,286
+Èini mi se da je to na prvom mestu koje gledaju u današnje vreme.
+
+365
+00:18:23,226 --> 00:18:26,648
+Ne razumem.Mislim, ako mrziš toliko osobu sa kojom si venèan,
+
+366
+00:18:26,683 --> 00:18:28,796
+razvedi se.
+
+367
+00:18:29,329 --> 00:18:31,699
+Iako se razmišlja da se saèuva brak,to je naš poseban užas,
+
+368
+00:18:31,734 --> 00:18:33,150
+da ti kažem.
+
+369
+00:18:33,185 --> 00:18:35,616
+Ti i mama niste nikad razmišljali o...
+
+370
+00:18:35,764 --> 00:18:37,599
+Mislim, nisam bio svedok nikakve...
+
+371
+00:18:37,634 --> 00:18:40,914
+To je taèno ono što smo hteli.
+
+372
+00:18:42,713 --> 00:18:46,012
+Pa, bilo je odavno, mi, um...
+
+373
+00:18:46,168 --> 00:18:48,156
+imali smo burnu svaðu
+na momenat,
+
+374
+00:18:48,191 --> 00:18:50,389
+ali smo prošli preko toga.
+
+375
+00:18:52,067 --> 00:18:54,684
+O kakvoj burnoj svaði prièaš?
+
+376
+00:18:54,719 --> 00:18:58,757
+To je bilo kad si imao 13 godina,
+i kada si otišao na Princeton.
+
+377
+00:18:58,792 --> 00:19:01,157
+Mama je pošla samnom.
+
+378
+00:19:01,931 --> 00:19:06,511
+Odvajanje je bilo veoma teško za oboje.
+
+379
+00:19:06,547 --> 00:19:13,386
+I na stranu novèane probleme,
+tu je bila ta nerazumna ljubomora.
+
+380
+00:19:13,421 --> 00:19:15,899
+Bilokako, nismo razgovarali nikad o moguænosti razvoda,
+
+381
+00:19:15,934 --> 00:19:18,993
+zato što smo se puno voleli.
+
+382
+00:19:20,011 --> 00:19:22,380
+Ne seæam se nièega.
+
+383
+00:19:23,277 --> 00:19:26,582
+Ne seæam se èak ni da ste povisili glas jedno na drugo.
+
+384
+00:19:26,617 --> 00:19:28,152
+Zato što smo se tvoja majka i ja dogovorili
+
+385
+00:19:28,187 --> 00:19:31,692
+da neæemo traumirati tebe i Dona
+više nego što moramo.
+
+386
+00:19:33,554 --> 00:19:36,996
+Charlie, tako se roditelji prepiru pred decom.
+
+387
+00:19:37,609 --> 00:19:40,235
+Oni prièaju o velikim stvarima kao da su male.
+
+388
+00:19:43,617 --> 00:19:45,776
+Velike stvari kao male.
+
+389
+00:19:45,811 --> 00:19:49,760
+U drugom svetskom ratu, amerièka podmornica je bila opremljena sa  bathythermographs,
+
+390
+00:19:49,795 --> 00:19:53,230
+što im je pomoglo da naðu toplo žarište vode ispod hladne,
+
+391
+00:19:53,266 --> 00:19:56,286
+zato što topla voda
+ima sklonost da zvuèi kao udaljeni talas.
+
+392
+00:19:56,321 --> 00:20:01,239
+Pošto se podmornica sakrila na pravo mesto,
+neprijateljski sonar je bio beskoristan.
+
+393
+00:20:02,372 --> 00:20:04,828
+Hoke je uradio isto sa svojim podacima.
+
+394
+00:20:04,863 --> 00:20:06,407
+Sakrio se u toplu vodu.
+
+395
+00:20:06,442 --> 00:20:08,834
+On je prerušio svoj rad u bejzbol statistiku,
+
+396
+00:20:08,870 --> 00:20:10,721
+sakrivajuæi njegovo pravo znaèenje.
+
+397
+00:20:10,756 --> 00:20:12,080
+Kako si to shvatio?
+
+398
+00:20:12,115 --> 00:20:15,550
+Magnetne senke koje su ostavljene na hard drajvu nakon brisanja.
+
+399
+00:20:15,585 --> 00:20:18,986
+Izvršio sam ekstrapolaciju podataka
+kroz seriju prostih algoritama.
+
+400
+00:20:19,021 --> 00:20:22,389
+Krajnji rezultat je da je bejzbol statistika daleko,
+
+401
+00:20:22,424 --> 00:20:24,562
+ostavljajuæi znaèajne brojeve.
+
+402
+00:20:24,597 --> 00:20:26,795
+Onda sam prosto uradio
+grubu silu analize.
+
+403
+00:20:26,830 --> 00:20:30,665
+Grubu silu? 
+Samo sam išao na internet i guglao skup brojeva.
+
+404
+00:20:30,700 --> 00:20:34,499
+Ispitao sam dobijene rezultate jedan po jedan,
+da bih našao odgovarajuæe tablice podataka.
+
+405
+00:20:34,613 --> 00:20:38,820
+Hoke je izvlaèio podatke iz popisa izveštaja U.S. uprave u zadnjih 10 godina.
+
+406
+00:20:38,856 --> 00:20:43,609
+Ostale tabele su federalni budzeti,
+grade point averages, SAT rezultati.
+
+407
+00:20:43,644 --> 00:20:48,051
+Grade point averages? 
+Hoke-ov rad nije imao ništa sa bejzbolom uopšte.
+
+408
+00:20:48,086 --> 00:20:52,459
+Nameravao je da primeni pojam samermetrike u proseènim zajednicama.
+
+409
+00:20:52,494 --> 00:20:55,178
+- Ne atletama.
+- Prièaš o stvarnim ljudima?
+
+410
+00:20:55,214 --> 00:20:57,687
+Statistièari to rade stalno.
+
+411
+00:20:57,722 --> 00:21:01,641
+Uh, obraèunavanje prihoda,
+uvid u zdravstveno osiguranje.
+
+412
+00:21:01,676 --> 00:21:03,897
+Samo Hoke nije merio
+životno oèekivanje.
+
+413
+00:21:03,932 --> 00:21:06,186
+On je procenjivao ljudski potencijal.
+
+414
+00:21:06,479 --> 00:21:09,426
+Kako to misliš?
+Kao predviðanje uspeha?
+
+415
+00:21:09,461 --> 00:21:10,976
+Skoro od roðenja.
+
+416
+00:21:11,011 --> 00:21:12,456
+To nije moguæe.
+
+417
+00:21:12,491 --> 00:21:16,114
+Bejzbol timovi koriste sabermetriku
+da odrede koje igraèe da plate.
+
+418
+00:21:16,149 --> 00:21:21,240
+On je koristio sabermetriku da odredi koji ljudi su vredni za investiranje.
+
+419
+00:21:21,276 --> 00:21:24,532
+Pošto niko nije ostao iza toga,
+oni to nisu nikada poèeli.
+
+420
+00:21:24,567 --> 00:21:27,257
+Primenjivano je u školama.
+Primenjeno je u bolnicama,bibliotekama.
+
+421
+00:21:27,292 --> 00:21:33,244
+Mislim, kompanije otpuštaju radnike koji puše zato što je buduænost statistièke verovatnoæe rak.
+
+422
+00:21:33,279 --> 00:21:36,520
+Uh, oni koriste DNA to zabrane
+pristup zaposlenima za zdravstvenu negu.
+
+423
+00:21:36,555 --> 00:21:39,877
+Mislim, zašto ne matematièka analiza da bi se uradila ista stvar?
+
+424
+00:21:39,912 --> 00:21:41,888
+I kažeš da je on bio zapravo vrlo blizu?
+
+425
+00:21:41,924 --> 00:21:45,102
+Pa,što mogu da kažem,
+nije završio glavnu jednaèinu,
+
+426
+00:21:45,137 --> 00:21:47,452
+meðutim jednom kad bude cela, 
+teoretski,
+
+427
+00:21:47,487 --> 00:21:50,354
+on æe biti u moguænosti da predvidi ljudske performanse bazirane na geografiji i
+
+428
+00:21:50,389 --> 00:21:53,442
+promenljivim faktorima,
+sve to grupe gradova.
+
+429
+00:21:53,477 --> 00:21:55,246
+Znaèi, ti si u stvari gde živiš?
+
+430
+00:21:55,281 --> 00:21:59,719
+Matematièki je odluka ko æe ili ko neæe biti pobednik.
+
+431
+00:22:09,371 --> 00:22:11,166
+Nisam video nijednu od ovih stvari pre.
+
+432
+00:22:11,201 --> 00:22:12,925
+Pa,ovo je neverovatna vrednost podataka.
+
+433
+00:22:12,960 --> 00:22:15,199
+Znaèi ti kažeš da Dr. Hoke
+nikad nije pitao za tvoju pomoæ?
+
+434
+00:22:15,234 --> 00:22:17,010
+Sa ovim? Apsolutno ne.
+
+435
+00:22:17,835 --> 00:22:19,546
+Mislim, znaš kako je.
+On radi sam.
+
+436
+00:22:19,581 --> 00:22:23,408
+Sao sam pogledao neki put, ali nije me je ukljuèivao u bilo šta.
+
+437
+00:22:23,443 --> 00:22:25,860
+Da, ali šta je sa istraživanjem, Scott?
+Mislim, nikad nisi pripremio tabelu,
+
+438
+00:22:25,895 --> 00:22:28,489
+ili skinutu statistiku?
+To je malo èudno,
+
+439
+00:22:28,524 --> 00:22:31,049
+obzirom na to šta si mislio da je radio?
+
+440
+00:22:31,084 --> 00:22:34,162
+Um, bilo je neko istraživanje tržišta
+koje me je pitao da uradim.
+
+441
+00:22:34,197 --> 00:22:36,783
+- Da?
+- Ali nisam znao.
+
+442
+00:22:36,952 --> 00:22:38,236
+Istraživanje tržišta?
+
+443
+00:22:38,271 --> 00:22:40,441
+Da, stvari koje je Lorman grupa
+prikupljala.
+
+444
+00:22:40,476 --> 00:22:42,179
+Kakve stvari?
+
+445
+00:22:42,333 --> 00:22:45,493
+Prihod domaæinstva,kuæni troškovi,
+kupovina naklonosti.
+
+446
+00:22:45,528 --> 00:22:48,653
+To su sve stvari koje je Lorman
+grupa radila?
+
+447
+00:22:48,688 --> 00:22:50,942
+Da. Um, Dr. Hoke
+je napravio zahtev,
+
+448
+00:22:50,977 --> 00:22:53,756
+i onda mu je Mr. Oliver poslao e-mail kuæi.
+
+449
+00:22:53,791 --> 00:22:55,632
+Kada je bilo to?
+
+450
+00:22:55,667 --> 00:22:57,536
+Pre nekoliko nedelja.
+
+451
+00:22:57,571 --> 00:22:58,978
+Šta se desilo nekoliko nedelja pre?
+
+452
+00:22:59,013 --> 00:23:01,062
+Za poslednji zahtev,
+
+453
+00:23:01,097 --> 00:23:02,806
+Mr. Oliver me je zvao u njegovu kancelariju,
+
+454
+00:23:02,841 --> 00:23:05,760
+i rekao mi je da kompanija
+više neæe dozvoliti Dr. Hoke
+
+455
+00:23:05,795 --> 00:23:07,744
+pristup informacijama.
+
+456
+00:23:07,779 --> 00:23:09,181
+Da li ti je rekao zašto?
+
+457
+00:23:09,216 --> 00:23:11,301
+Mislim,nije moje da pitam,
+
+458
+00:23:11,336 --> 00:23:14,184
+ali se seæam da je Dr. Hoke
+bio veoma uznemiren povodom toga.
+
+459
+00:23:14,220 --> 00:23:15,237
+Je li?
+
+460
+00:23:15,272 --> 00:23:16,967
+OK. Hvala na razgovoru.
+
+461
+00:23:17,002 --> 00:23:18,456
+- Ja æu uzeti to.
+- Da.
+
+462
+00:23:18,492 --> 00:23:19,678
+Hvala ti puno, Scott.
+
+463
+00:23:19,713 --> 00:23:20,969
+U redu.
+
+464
+00:23:25,164 --> 00:23:27,446
+Zvuèi kao da je Hoke radio kompaniji iza leða,
+
+465
+00:23:27,482 --> 00:23:29,733
+pokušavajuæi da razvije novi program.
+
+466
+00:23:29,768 --> 00:23:32,407
+Ili...je pokušavao da hijack-uje.
+
+467
+00:23:32,442 --> 00:23:35,545
+Objasni zašto se Oliver pojavio u noæi kada je naðeno telo.
+
+468
+00:23:35,580 --> 00:23:37,978
+Da, hteo je da povrati svoj program, jel tako?
+
+469
+00:23:38,013 --> 00:23:41,235
+Pitanje je, da li su hteli da ga ubiju zbog toga?
+
+470
+00:23:41,270 --> 00:23:44,465
+Pa, mislim, on se brinuo da æe ga neko ukrasti, jel?
+
+471
+00:23:44,500 --> 00:23:46,948
+Inaèe,zašto bi maskirao program u bejzbol statistiku?
+
+472
+00:23:46,983 --> 00:23:48,925
+Zašto se trudio da to uradi na njegovom kuænom kompjuteru?
+
+473
+00:23:48,960 --> 00:23:53,010
+Osim ako je bio zabrinut da njegova kuæa nije bila toliko privatna.
+
+474
+00:24:41,405 --> 00:24:44,618
+Don, pogledaj.
+
+475
+00:24:48,334 --> 00:24:50,308
+Oh, da, vidi ovo.
+
+476
+00:24:51,309 --> 00:24:53,351
+Nešto je bilo ovde.
+
+477
+00:24:54,123 --> 00:24:56,387
+Možda nisu imali vremena da izvuku žicu.
+
+478
+00:24:56,422 --> 00:24:58,690
+Mrtvo telo se raspada nekoliko koraka pored,
+
+479
+00:24:58,726 --> 00:25:01,209
+možda su osetili da treba da požure.
+
+480
+00:25:04,813 --> 00:25:06,595
+Oh, da.
+
+481
+00:25:06,747 --> 00:25:09,246
+Neko je stavio neku vrstu nadzora ovde.
+
+482
+00:25:09,281 --> 00:25:12,193
+Hoke je imao razlog da bude paranoièan.
+
+483
+00:25:15,082 --> 00:25:18,090
+Vidi, mora biti da je zbog ovoga alarm bio pokvaren dva dana kasnije.
+
+484
+00:25:18,126 --> 00:25:20,818
+Znaèi neko je došao nakon što je bio ubijen da skloni ureðaj.
+
+485
+00:25:20,853 --> 00:25:21,952
+Zato je bio pokvaren.
+
+486
+00:25:21,988 --> 00:25:25,792
+Neko je postavio ureðaj za prisluškivanje u Dr. Hoke-ovoj kuæi.
+
+487
+00:25:25,926 --> 00:25:29,518
+Pa, sudeæi po vašem tonu,
+mislite da je taj neko ja?
+
+488
+00:25:30,274 --> 00:25:32,307
+Dr. Hoke je radio na programu
+
+489
+00:25:32,342 --> 00:25:34,850
+koji bi bio izuzetno vredan za mnoge ljude.
+
+490
+00:25:34,885 --> 00:25:38,071
+Da, pa, dao sam FBI pun pristup tim podacima.
+
+491
+00:25:38,106 --> 00:25:40,727
+U stvari, našli smo drugi program na kome je radio na njegovom kuænom kompjuteru,
+
+492
+00:25:40,762 --> 00:25:43,024
+i nije imao nikakve veze sa satelitskim programom.
+
+493
+00:25:43,059 --> 00:25:44,620
+Nemam ideju o èemu prièate.
+
+494
+00:25:44,655 --> 00:25:46,215
+Ne?
+
+495
+00:25:46,249 --> 00:25:47,656
+Jesi li siguran?
+
+496
+00:25:47,691 --> 00:25:51,572
+Znaèi ako je naš konsultat hteo da razvije taj podatak,niste tražili da potvrdite?
+
+497
+00:25:51,607 --> 00:25:55,979
+Pa, Lorman grupa ima ugovor sa svakim zaposlenim analitièarem,
+
+498
+00:25:56,014 --> 00:25:59,475
+znaèii šta god da je Dr. Hoke radio kompanija veæ poseduje.
+
+499
+00:25:59,510 --> 00:26:00,771
+Možda se nije složio.
+
+500
+00:26:00,806 --> 00:26:02,943
+Možda ste otišli u njegovu kuæu, posvaðali ste se.
+
+501
+00:26:02,978 --> 00:26:06,867
+Noæ kada sam vas upoznao je bilo jedimi put kada sam ikada bio u kuæi Dr. Hoke-a.
+
+502
+00:26:06,902 --> 00:26:09,119
+Postoji više od jednog puta da se uðe u neèiju kuæu.
+
+503
+00:26:09,154 --> 00:26:11,302
+Hoæemo to nadgledanje, ok?
+
+504
+00:26:11,337 --> 00:26:12,523
+Hoæu svog advokata.
+
+505
+00:26:12,558 --> 00:26:15,291
+Jeste li sigurni? Ako bi se nekome desilo da procuri u štampu da je vaša firma
+
+506
+00:26:15,326 --> 00:26:17,881
+pod kriviènom istragom,vaši ugovori sa ministarstvom?
+
+507
+00:26:17,916 --> 00:26:20,150
+možda æe se osušiti vrlo brzo.
+Šta vi mislite?
+
+508
+00:26:20,185 --> 00:26:21,666
+Vlada ne voli skandale.
+
+509
+00:26:21,701 --> 00:26:23,989
+Razmislite za trenutak o tome.
+
+510
+00:26:35,818 --> 00:26:38,207
+Jonas nije imao pravo da radi to što je radio.
+
+511
+00:26:38,242 --> 00:26:39,426
+Ne?
+
+512
+00:26:39,461 --> 00:26:43,895
+Ideja korišæenja statistièke analize da bi
+
+513
+00:26:43,931 --> 00:26:48,718
+predvideo ljudske pervormanse u ovoj kompaniji.
+
+514
+00:26:48,753 --> 00:26:50,419
+Ali nije to video na pravi naèin?
+
+515
+00:26:50,454 --> 00:26:54,105
+On je odbio da obezbedi algoritme za nas osim ako
+
+516
+00:26:54,140 --> 00:26:57,756
+mu ne damo procenat od license fees
+
+517
+00:26:57,791 --> 00:27:00,352
+za koju smo zaduženi za korišæenje našeg softvera.
+
+518
+00:27:00,387 --> 00:27:02,264
+A ovaj put,kladim se vi ste bili odbijeni.
+
+519
+00:27:02,299 --> 00:27:06,196
+Nisam imao nameru da iznuðujem Jonas Hoka ili bilo koga drugog.
+
+520
+00:27:06,231 --> 00:27:07,918
+Zato si stavio nadzor na njega?
+
+521
+00:27:07,953 --> 00:27:10,224
+Nisam uradio takvu stvar.
+
+522
+00:27:10,259 --> 00:27:11,807
+Ali kada sam èuo da je umro,
+
+523
+00:27:11,842 --> 00:27:15,564
+osetio sam da smo bez prava da I felt that we were within our rights
+to povratimo istraživanje.
+
+524
+00:27:15,599 --> 00:27:18,449
+Pa, šta, zvao si svog prijatelja, Reacher?
+
+525
+00:27:18,485 --> 00:27:20,996
+Vidite, poenta svega ovoga je da
+
+526
+00:27:21,031 --> 00:27:23,990
+nisam morao da kradem ništa od Jonas Hoka.
+
+527
+00:27:24,025 --> 00:27:25,884
+Veæ posedujem to.
+
+528
+00:27:27,927 --> 00:27:29,182
+U redu.
+
+529
+00:27:29,217 --> 00:27:30,921
+Biæemo u kontaktu.
+
+530
+00:27:38,520 --> 00:27:40,285
+Znaèi Oliver ti je rekao na èemu je Hoke radio.
+
+531
+00:27:40,320 --> 00:27:41,801
+Zato si hteo njegove ljude tamo.
+
+532
+00:27:41,836 --> 00:27:45,283
+Oliver je rekao da Hoke ima program koji može da odreðuje sa matematièkom sigurnošæu
+
+533
+00:27:45,318 --> 00:27:48,730
+èiji komšiluk bi bio koristan od javne potrošnje i koji ne bi.
+
+534
+00:27:48,766 --> 00:27:50,689
+Da, i vi razumete ovo o pravdi,
+
+535
+00:27:50,725 --> 00:27:53,620
+uzimati novac od nekih izvesnih zajednica i davati ga drugima.
+
+536
+00:27:53,655 --> 00:27:56,516
+U sluèaju da niste èuli,
+mi imamo 10 trilliona dolara deficita.
+
+537
+00:27:56,552 --> 00:27:58,056
+Da, proèitao sam papire.
+
+538
+00:27:58,091 --> 00:28:00,632
+Zašto bacati novac na školu umentnosti i laboratorijsku opremu
+
+539
+00:28:00,667 --> 00:28:02,082
+za decu koja nemaju potencijal?
+
+540
+00:28:02,117 --> 00:28:04,530
+To je taèno.
+Zašto im ne dati knjige?
+
+541
+00:28:05,630 --> 00:28:08,443
+Oliver me je pitao da li bi takav program bio
+
+542
+00:28:08,478 --> 00:28:10,347
+od važnosti za ministarstvo.
+
+543
+00:28:10,382 --> 00:28:11,649
+Verujem da bi.
+
+544
+00:28:11,684 --> 00:28:14,463
+Znaèi ti si stavio nadzor u Hoke-ovu kuæu?
+
+545
+00:28:14,788 --> 00:28:16,523
+Ne.
+
+546
+00:28:16,972 --> 00:28:19,256
+Ne bi mi rekao ni da jesi,zar ne?
+
+547
+00:28:20,974 --> 00:28:23,082
+Shvatam da niste vratili podatke koje imate sa Hoke-ovog kompjutera
+
+548
+00:28:23,117 --> 00:28:24,518
+preko Lorman group još uvek.
+
+549
+00:28:24,553 --> 00:28:26,466
+Da, tako je, i nemam neku nameru.
+
+550
+00:28:26,501 --> 00:28:28,492
+Oh, shvatio si , samo treba moj šef da pozove tvog šefa.
+
+551
+00:28:28,527 --> 00:28:30,482
+Ovi odnosi idu bez nas dvojce, Eppes.
+
+552
+00:28:30,517 --> 00:28:32,098
+Deo istrage o ubistvu.
+
+553
+00:28:32,133 --> 00:28:33,705
+Ovde ne postoji informacija koja
+æe možda postati dostupna,
+
+554
+00:28:33,740 --> 00:28:35,807
+ali samo napred,
+napravi taj poziv.
+
+555
+00:28:35,861 --> 00:28:38,744
+Nismo postavili nadzor u Jonas Hoke-ovu kuæu.
+
+556
+00:28:38,779 --> 00:28:41,455
+Ako nismo bili mi,
+i nisu Oliver-ovi ljudi,
+
+557
+00:28:41,490 --> 00:28:42,959
+ko je posmatrao Hoke?
+
+558
+00:28:42,994 --> 00:28:45,660
+Pa,kogod da je,èisto je.
+
+559
+00:28:45,695 --> 00:28:47,922
+Nema otisaka, nema bilo kakve identifikacije.
+
+560
+00:28:47,958 --> 00:28:50,115
+Neka ideja kako su mogli ovo da urade?
+
+561
+00:28:50,150 --> 00:28:53,218
+Kompanija za alarme pušta telefonsku liniju kroz touch pad.
+
+562
+00:28:53,253 --> 00:28:55,741
+Kako god sistem koji je bio korišæen da špijunira Hoka je
+
+563
+00:28:55,776 --> 00:28:58,429
+na krkaèi osiguravajuæeg sistema.
+
+564
+00:28:58,465 --> 00:29:00,283
+Znaèi to je bio ureðaj za slušanje?
+
+565
+00:29:00,318 --> 00:29:01,921
+Neka vrsta zvuka,
+kako mislim,
+
+566
+00:29:01,956 --> 00:29:04,497
+ali je teško reæi bez aktuelnog aparata.
+
+567
+00:29:04,532 --> 00:29:07,038
+Saèekaj minut.
+Stopiraj sliku.
+
+568
+00:29:07,073 --> 00:29:08,232
+Don, pogledaj ovo.
+
+569
+00:29:08,267 --> 00:29:11,023
+Ovo je lista manufaktura za alarmni sistem,jel tako?
+
+570
+00:29:11,058 --> 00:29:14,829
+Ovo je serijski broj tog ureðaja,
+ureðaja u Hoke-ovoj kuæi.
+
+571
+00:29:14,864 --> 00:29:17,128
+Pogledaj ko ga je kupio.
+
+572
+00:29:17,164 --> 00:29:19,639
+Grodin konstrukcije.
+
+573
+00:29:19,674 --> 00:29:21,394
+Deèko.
+
+574
+00:29:35,030 --> 00:29:37,313
+- Uzmi do èetiri.
+- OK.
+
+575
+00:29:37,348 --> 00:29:38,845
+Vas dvoje opet.
+
+576
+00:29:38,880 --> 00:29:40,917
+Da, sa još pitanja.
+
+577
+00:29:40,951 --> 00:29:42,935
+Ne znam šta bih vam još mogao reæi.
+
+578
+00:29:42,970 --> 00:29:46,255
+Zašto nam ne kažeš o bubi koju si ubacio u Jonas Hoke-ovu kuæu?
+
+579
+00:29:46,290 --> 00:29:49,225
+Znate, jedno vreme, razmisljao sam da je Gail bila žrtva u svemu ovome.
+
+580
+00:29:49,259 --> 00:29:50,733
+Nisam uradio ništa loše.
+
+581
+00:29:50,769 --> 00:29:54,060
+Ne? 
+Nemoj mi reæi da je ovo deo gde æeš da mi kažeš da je ona sve uradila?
+
+582
+00:29:54,094 --> 00:29:56,082
+Vidite, niko od nas nije uradio ništa.
+
+583
+00:29:56,117 --> 00:29:58,811
+Pa, i dalje imamo telo i alarm koji je bio ozvuèen
+
+584
+00:29:58,846 --> 00:30:01,443
+i to alarm koji si ti instalirao.
+
+585
+00:30:02,125 --> 00:30:04,705
+Gail-ov advokat me je pitao da pomognem njenom deèku da stavi žice
+
+586
+00:30:04,740 --> 00:30:07,285
+ili nešto u Jonas-ovu kuæu,
+ali to je sve.
+
+587
+00:30:07,320 --> 00:30:08,984
+To je sve što sam uradio.
+
+588
+00:30:09,020 --> 00:30:10,918
+Okreni se. Idemo.
+
+589
+00:30:16,060 --> 00:30:18,464
+Poslednji put kad smo razgovarali,niste bili taèno predstojeæi
+
+590
+00:30:18,499 --> 00:30:20,863
+o vašem odnosu sa Lucas Grodin-om.
+
+591
+00:30:20,897 --> 00:30:22,496
+U kom smislu nije bila predstojeæa?
+
+592
+00:30:22,530 --> 00:30:24,165
+Za poèetak, kako to da nikad niste pomenuli èinjenicu
+
+593
+00:30:24,200 --> 00:30:28,458
+da ste ga pitali da ozvuèi kuæu vašeg muža.
+
+594
+00:30:28,512 --> 00:30:31,091
+Kuèa nikad nije bila presuðena kao odvojeno vlasništvo,
+
+595
+00:30:31,126 --> 00:30:35,548
+znaèi bilo kakvo nadgledanje Mrs. Hoke može staviti u svoju kuæu,
+
+596
+00:30:35,583 --> 00:30:37,999
+ona je apsolutno ovlašæena da uradi to.
+
+597
+00:30:38,034 --> 00:30:40,734
+Podržavala sam Jonas kroz fakultet i diplomiranje. 
+Gail...
+
+598
+00:30:40,768 --> 00:30:43,370
+Èekala sam tablice.
+Uradila sam sve što sam mogla,
+
+599
+00:30:43,405 --> 00:30:45,938
+zato što sam verovala da imamo buduænost.
+
+600
+00:30:45,973 --> 00:30:48,844
+Da li imate ikakvu ideju kako izgleda kada vam muž kaže
+
+601
+00:30:48,878 --> 00:30:51,549
+da vaš doprinos braku nije na ceni?
+
+602
+00:30:51,584 --> 00:30:52,710
+Mislim da bi trebalo da napravimo pauzu sada.
+
+603
+00:30:52,745 --> 00:30:55,137
+Nisam završio sa vašim klijentom, savetnièe.
+
+604
+00:30:55,172 --> 00:30:57,273
+Ne možete da dokažete da je Gail bilo šta uradila.
+
+605
+00:30:57,308 --> 00:31:00,709
+Sve što mi treba da rešim zaveru u ovoj stvari je verovatno uzrok.
+
+606
+00:31:00,744 --> 00:31:03,792
+I alarmni sistem tvog deèka mi je dao upravo to.
+
+607
+00:31:03,827 --> 00:31:06,308
+Takoðe vas stavlja kao vlasnika materijalnog dokaza,
+
+608
+00:31:06,343 --> 00:31:08,756
+i vršenja opstrukcije izvršenja pravde,savetnièe.
+
+609
+00:31:08,791 --> 00:31:13,245
+Da je Jonas bio doktor ili advokat,
+bila bih ovlaðšæena na polovinu svega.
+
+610
+00:31:13,280 --> 00:31:17,700
+Ali sve što je imao je bilo unutar njegove glave,
+zato recite mi , agente Sinclair,
+
+611
+00:31:17,734 --> 00:31:19,398
+kako dobiti polovinu toga?
+
+612
+00:31:19,433 --> 00:31:21,261
+Zato si postavila nadzor u njegovu kuæu,
+
+613
+00:31:21,296 --> 00:31:22,376
+da bi videla šta se nalazi u njegovom kompjuteru.
+
+614
+00:31:22,411 --> 00:31:26,526
+To je bio jedini naèin Jonas mi nikada ne bi dao ono za šta sam ovlašæena.
+
+615
+00:31:26,562 --> 00:31:28,340
+Da.
+
+616
+00:31:28,374 --> 00:31:31,813
+Ali nakon što ste imali potrebne informacije,
+
+617
+00:31:31,847 --> 00:31:34,122
+zašto ste ga ubili?
+
+618
+00:31:34,570 --> 00:31:37,071
+Nisam ga ubila.
+
+619
+00:31:37,321 --> 00:31:39,531
+Nikad ne bih mogla da uradim tako nešto.
+
+620
+00:31:39,566 --> 00:31:41,743
+Rekla sam vam, kasnio je sa proverom.
+
+621
+00:31:41,777 --> 00:31:42,950
+Otišla sam da je uzmem.
+
+622
+00:31:42,985 --> 00:31:44,851
+Tada sam ga našla mrtvog.
+
+623
+00:31:44,886 --> 00:31:46,681
+Gail nije ubila njenog muža.
+
+624
+00:31:46,717 --> 00:31:48,512
+Oprostite mi ako nisam voljan da slušam vaše reèi za to.
+
+625
+00:31:49,831 --> 00:31:51,375
+Ne morate.
+
+626
+00:31:51,410 --> 00:31:54,300
+Moram da nadgledam, seæate se?
+
+627
+00:31:55,565 --> 00:31:57,615
+Znaèi ovo je audio fajl?
+
+628
+00:31:57,650 --> 00:31:59,485
+Ne,zapravo, digitalni video.
+
+629
+00:31:59,520 --> 00:32:01,926
+Znaèi ureðaj je bio kamera?
+
+630
+00:32:01,961 --> 00:32:04,334
+Ne baš. Bila je antena.
+
+631
+00:32:04,391 --> 00:32:06,029
+Van Eck Phreak.
+
+632
+00:32:06,064 --> 00:32:07,878
+Ali na mnogo veštijem nivou.
+
+633
+00:32:07,913 --> 00:32:09,658
+Èekajte,šta vi momci prièate?
+
+634
+00:32:09,692 --> 00:32:12,691
+Žice koje ste pronašli u njegovoj kuæi nisu bile za kameru.
+
+635
+00:32:12,726 --> 00:32:14,479
+Nije bio za mikrofon.
+
+636
+00:32:14,513 --> 00:32:16,231
+Bio je visoko napredna antena.
+
+637
+00:32:16,266 --> 00:32:17,412
+Antena?
+
+638
+00:32:17,447 --> 00:32:19,234
+Za šta? Da prikupi šta?
+
+639
+00:32:19,269 --> 00:32:20,985
+Sa bilo kakvim LCD ekranom,
+
+640
+00:32:21,021 --> 00:32:24,665
+teèni kristal pruža sliku kada energija proðe kroz njega.
+
+641
+00:32:24,700 --> 00:32:25,956
+Boja nastaje
+
+642
+00:32:25,991 --> 00:32:28,278
+u zavisnosti od kolièine energije kojoj je izložena.
+
+643
+00:32:28,313 --> 00:32:30,566
+Kada energija proðe kroz taj teèni kristal,
+
+644
+00:32:30,601 --> 00:32:33,236
+emituje talase elektromagnetnog zraèenja.
+
+645
+00:32:33,271 --> 00:32:37,173
+Holandski fizièar Van Eck je shvatio da sa antenom i dekoderom,
+
+646
+00:32:37,208 --> 00:32:39,460
+možes da èitaš talase i da ih dekodiraš
+
+647
+00:32:39,495 --> 00:32:42,708
+u pravoj kopiji neèega što bi se videlo na njihovim ekranima.
+
+648
+00:32:42,743 --> 00:32:43,521
+To što ti prièaš,
+
+649
+00:32:43,557 --> 00:32:45,356
+je to da je antena bila u stanju da èita i pokupi
+
+650
+00:32:45,391 --> 00:32:47,155
+bilo šta što je bilo na Hoke-ovom
+ekranu kompjutera.
+
+651
+00:32:47,190 --> 00:32:48,909
+- Tako je.
+- To je neverovatno.
+
+652
+00:32:48,944 --> 00:32:51,875
+Hoke je imao razraðenu zaštitu protiv
+against uobièajenog hakovanja.
+
+653
+00:32:51,910 --> 00:32:53,186
+Firewalls, blockers...
+
+654
+00:32:53,221 --> 00:32:55,609
+ipak, ništa nije moglo da zaustavi ovo.
+
+655
+00:32:55,644 --> 00:32:57,223
+Da li je ovo približno vreme kada je ubijen?
+
+656
+00:32:57,258 --> 00:32:59,033
+Da.
+
+657
+00:33:03,276 --> 00:33:05,372
+To je kada su fajlovi bili izbrisani.
+
+658
+00:33:05,407 --> 00:33:09,390
+Vidiš kako se nule i jedinice obræu ukrug, nazad i napred?
+
+659
+00:33:09,425 --> 00:33:11,695
+Znaèi ubica je znao Hoke-ovu šifru.
+
+660
+00:33:11,730 --> 00:33:13,966
+Šteta što nije ostavio otisak prsta.
+
+661
+00:33:14,208 --> 00:33:17,993
+U stvari, znate šta?
+Mislim da jeste.
+
+662
+00:33:20,915 --> 00:33:22,368
+U redu, šta mi tražimo?
+
+663
+00:33:22,404 --> 00:33:24,865
+Digitalni prikaz 
+obrazca "udarac dirki".
+
+664
+00:33:24,900 --> 00:33:26,865
+Jedan je uzet sa Hoke-ovog kompjutera od kuæe
+
+665
+00:33:26,900 --> 00:33:28,801
+jedan sa Hoke-ovog kompjutera sa posla.
+
+666
+00:33:28,836 --> 00:33:31,855
+Sada, znaš da eksperti mogu da razlikuju kada jedna osoba kuca
+
+667
+00:33:31,890 --> 00:33:34,874
+- i kada druga osoba kuca iz ritma.
+- Yeah, Misliš kao Morzeova azbuka.
+
+668
+00:33:34,909 --> 00:33:35,851
+Tako je.
+
+669
+00:33:35,886 --> 00:33:38,315
+Telegraf operateri koriste to da raspoznaju jedni druge
+
+670
+00:33:38,350 --> 00:33:41,598
+po razlièitom naèinu koji koriste da lupaju potpuno isti kod,
+
+671
+00:33:41,633 --> 00:33:44,848
+kao na koncertu kada pijanista sedi i svira deo neke muzike.
+
+672
+00:33:44,883 --> 00:33:47,246
+Iako su note pokrenute sa ploèe,
+
+673
+00:33:47,281 --> 00:33:49,378
+naèin na koji ih svira su potpuno karakteristièan.
+
+674
+00:33:49,413 --> 00:33:54,008
+Sada, ako drugi pijanista sedne da svira istu muziku,
+
+675
+00:33:54,043 --> 00:33:55,506
+jaèina nota,
+
+676
+00:33:55,541 --> 00:34:00,374
+napredovanje u ritmu æe napraviti udarce dirki totalno razlièite.
+
+677
+00:34:02,068 --> 00:34:06,096
+Sada, samo kada bi ih gledao jednog pored drugog moglo bi da se kaže da su razlièiti.
+
+678
+00:34:06,131 --> 00:34:08,156
+Vidi...
+
+679
+00:34:08,191 --> 00:34:10,420
+Sedim ovde,
+i gledam u ovo,
+
+680
+00:34:10,454 --> 00:34:12,440
+i izgledaju mi identièno.
+
+681
+00:34:12,474 --> 00:34:14,391
+To je zato što i jesu, Don.
+
+682
+00:34:14,426 --> 00:34:17,091
+Ovo je sa Hoke-ovog kompjutera od kuæe.
+
+683
+00:34:17,126 --> 00:34:20,715
+"Udarac dirke" što si video je šifra korišæena za prikljuèak
+
+684
+00:34:20,750 --> 00:34:24,358
+u Hoke-ovoj sabermetrici podataka,
+napravljene nakon smrti.
+
+685
+00:34:24,393 --> 00:34:27,966
+Ovo je sa Hoke-ovog kompjutera
+na kome je radio za Lorman grupu,
+
+686
+00:34:28,001 --> 00:34:30,168
+napravljeno nakon Hoke-ove smrti.
+
+687
+00:34:30,203 --> 00:34:34,547
+Znaèi ovo je ista osoba koja je i izbrisala podatke?
+
+688
+00:34:49,268 --> 00:34:51,661
+Scott Reynolds, uhapšen si za ubistvo Dr. Jonas Hoke.
+
+689
+00:34:51,696 --> 00:34:53,499
+Podigni ruke.
+
+690
+00:34:54,398 --> 00:34:55,696
+Imaš pravo da æutiš.
+
+691
+00:34:55,731 --> 00:34:58,868
+Sve što kažeš može i hoæe biti iskorišæeno protiv tebe na sudu.
+
+692
+00:34:58,903 --> 00:35:00,438
+Dovedite ga.
+
+693
+00:35:22,049 --> 00:35:23,893
+U redu, gospodine. Samo napred.
+
+694
+00:35:23,928 --> 00:35:25,663
+Šta hoæeš?
+
+695
+00:35:26,179 --> 00:35:29,140
+Pokušavam da shvatim kako si mogao da ubiješ èoveka,
+
+696
+00:35:29,375 --> 00:35:32,703
+kako si mogao da ubiješ kolegu nauènika samo da bi ukrao njegov rad.
+
+697
+00:35:32,738 --> 00:35:36,033
+Zato misliš da sam ubio Dr. Hoke zbog novca?
+
+698
+00:35:36,653 --> 00:35:39,442
+Nisi bio ljubomoran na njegova dostignuæa.
+
+699
+00:35:39,554 --> 00:35:42,531
+Njegova dostignuæa,jel tako to zoveš?
+
+700
+00:35:44,855 --> 00:35:47,397
+Odrastao sam u West Oakland-u.
+
+701
+00:35:47,432 --> 00:35:50,413
+Bilo ko sa kime sam odrastao a ko nije mrtav ili u zatvoru
+
+702
+00:35:50,447 --> 00:35:52,443
+okreæe hamburgere ili vozi kamion.
+
+703
+00:35:52,478 --> 00:35:56,207
+I nije teško pogoditi šta bi Dr. Hoke-ova formula imala da kaže povodom
+
+704
+00:35:56,242 --> 00:35:58,986
+postavljanja kompjuterske laboratorije u moju srednju školu.
+
+705
+00:35:59,047 --> 00:36:00,801
+Ta kompjuterska laboratorija mi je spasila život,
+
+706
+00:36:00,836 --> 00:36:02,986
+i sledeæe godine, æe spasiti još neèiji.
+
+707
+00:36:03,021 --> 00:36:06,813
+I ubijanjem Dr. Hoka
+dokazuješ to?
+
+708
+00:36:07,811 --> 00:36:10,511
+Misliš da æe se zaustaviti tu?
+
+709
+00:36:10,857 --> 00:36:14,163
+U prošlom veku, Nazis je koristio teoriju eugenics
+
+710
+00:36:14,198 --> 00:36:17,377
+da bi zaustavio razmnožavanje siromašnih.
+
+711
+00:36:17,412 --> 00:36:20,707
+Eventualno su se zadovoljili ubijanjem bolesnog
+
+712
+00:36:20,742 --> 00:36:21,938
+Možeš da porediš to sa ovim sluèajem.
+
+713
+00:36:21,973 --> 00:36:23,529
+U stvari,to je idealno poreðenje,
+
+714
+00:36:23,564 --> 00:36:28,858
+jer to što je Jonas radio je uzimalo ljudima šansu za život.
+
+715
+00:36:28,893 --> 00:36:30,495
+Uzimao je neèiju nadu.
+
+716
+00:36:30,530 --> 00:36:34,109
+I uradio sam šta sam morao da uradim da bih zaustavio to pre poèetka.
+
+717
+00:36:34,177 --> 00:36:37,440
+To te èini ubicom.
+
+718
+00:36:38,983 --> 00:36:41,410
+Da li se ikad zapitaš o svom sopstvenom poslu?
+
+719
+00:36:43,308 --> 00:36:45,279
+Šta u vezi mog posla?
+
+720
+00:36:47,152 --> 00:36:50,871
+Pa, ti si saradnik NSA, zar ne?
+
+721
+00:36:52,230 --> 00:36:54,694
+naravno da jesi.
+
+722
+00:36:54,784 --> 00:36:59,664
+Dakle reæiæeš mi da sve što radiš korišæeno za dobrobit svega i uvek?
+
+723
+00:37:00,229 --> 00:37:02,633
+Šta hoceš da kažeš?
+
+724
+00:37:02,668 --> 00:37:05,440
+Pitaš me kako æu živeti sam sa sobom.
+
+725
+00:37:05,475 --> 00:37:08,212
+Pogledaj u ogledalo.
+Pitaj sebe isto pitanje.
+
+726
+00:37:08,247 --> 00:37:09,730
+Idemo.
+
+727
+00:37:25,275 --> 00:37:27,003
+Jonas Hoke-ova poslednja prepreka.
+
+728
+00:37:27,038 --> 00:37:32,642
+Oh, da, njegova jednaèina teži da predvidi ljudsku šansu za uspeh.
+
+729
+00:37:34,201 --> 00:37:36,442
+Nikad je nije završio.
+
+730
+00:37:36,477 --> 00:37:39,377
+Mislio sam da pokušam sam.
+
+731
+00:37:39,500 --> 00:37:41,300
+Zašto?
+
+732
+00:37:41,335 --> 00:37:43,079
+Radi èega?
+
+733
+00:37:43,114 --> 00:37:47,055
+Ovaj rad je samo samoispunjenje proroèanstva.
+
+734
+00:37:47,090 --> 00:37:48,164
+Kako to misliš?
+
+735
+00:37:48,198 --> 00:37:49,296
+Pa...
+
+736
+00:37:49,331 --> 00:37:55,324
+Charles, ako koristimo brojeve da bismo izabrali ko æe izmeðu nas dobiti šansu,
+
+737
+00:37:55,359 --> 00:37:59,874
+onda po definiciji,
+oni koje nismo izabrali neæe imati.
+
+738
+00:38:00,101 --> 00:38:03,714
+To nije nauka.
+Pa,to nije dobra nauka.
+
+739
+00:38:03,749 --> 00:38:07,847
+To je kao, svake godine fakultet izabere fudbalskog šampiona,
+
+740
+00:38:07,883 --> 00:38:11,947
+ali oni koriste kompjuter da bi odredili koja dva tima æe se takmièiti za titulu.
+
+741
+00:38:11,982 --> 00:38:14,241
+I svake godine, stalno,
+
+742
+00:38:14,276 --> 00:38:16,770
+neki timovi veruju,
+
+743
+00:38:16,806 --> 00:38:22,053
+da mogu da dobiju utakmicu na igralištu ako bi im se dala šansa.
+
+744
+00:38:22,088 --> 00:38:25,622
+Uvek sam verovao da je moja dužnost da...
+
+745
+00:38:25,657 --> 00:38:28,662
+razvijam matematièki alat,
+
+746
+00:38:28,697 --> 00:38:32,783
+i neko drugi da ga koristi pametno.
+
+747
+00:38:33,487 --> 00:38:35,726
+Da li sam mogao da pogrešim?
+
+748
+00:38:37,028 --> 00:38:41,378
+Posledica našeg razumevanja èestica atoma
+
+749
+00:38:41,414 --> 00:38:46,906
+je bila strašna bomba koja je transformisala svet u kome sada živimo
+
+750
+00:38:46,941 --> 00:38:52,400
+i izvor energije,glavna životno èuvana tehnika,
+
+751
+00:38:52,436 --> 00:38:55,915
+i neophodan nauèni alat....
+
+752
+00:38:55,951 --> 00:38:58,136
+Nauka...
+
+753
+00:38:58,172 --> 00:39:00,089
+znaš, nauka,
+
+754
+00:39:00,124 --> 00:39:04,760
+ne ovo, ali prava nauka,
+je otkrivena, Charles.
+
+755
+00:39:04,796 --> 00:39:06,624
+To nije nikakav pronalazak.
+
+756
+00:39:06,659 --> 00:39:08,417
+Istina je tamo,
+
+757
+00:39:08,453 --> 00:39:11,520
+nebitno našli je mi ili ne.
+
+758
+00:39:11,555 --> 00:39:14,430
+Idem da pojedem nešto.
+Hoæeš samnom?
+
+759
+00:39:18,056 --> 00:39:19,927
+OK.
+
+760
+00:39:19,492 --> 00:39:19,962
+Hvala.
+
+761
+00:39:22,962 --> 00:39:26,962
+Preuzeto sa www.titlovi.com
+
+762
+00:39:27,305 --> 00:40:27,275
+-== [ www.OpenSubtitles.com ] ==-

@@ -1,0 +1,543 @@
+{1}{1}23.976
+{0}{88}Sluûio sam s njim.|NauËio sam ga sve öto zna.
+{89}{140}Izgleda da je joö uËio|od tada.
+{215}{243}KreÊemo!
+{244}{307}Zapovjedniötvo Êe biti u|aerodromskoj policijskoj postaji.
+{308}{383}éelim biti u vezi|s tornjem za 15 minuta.
+{385}{414}Idemo!
+{474}{500}Hej, Trudeau...
+{560}{601}Da li su se stvari sad|poboljöale ili pogoröale?
+{709}{804}Svijetla. Velika ruËna svijetla.|Postavimo polja, i onda-
+{806}{844}Oni luaci Êe|ih poubijati.
+{845}{912}A otkud nam svijetla-
+{913}{978}äto je sa telefonima|u avionima?
+{980}{1021}Samo pet ih ima te telefone.
+{1022}{1084}Dobili smo tri,|i joö pokuöavamo.
+{1085}{1130}To znaËi 13 nesreÊa|koje Ëekaju da se dogode.
+{1130}{1180}Ima li vjetra s Ëela?|- Upravo sam provjerio vrijeme.
+{1182}{1240}Vjetar je svuda|po vanjskom markeru.
+{1240}{1283}Avioni s dovoljno|goriva su poslani...
+{1284}{1321}u Atlantu, Memphis,|i Nashville.
+{1351}{1410}Vanjski marker.|Prokletstvo.
+{1434}{1463}Vanjski marker!
+{1492}{1597}To je radio signal koji|samo öalje "bip bip bip."
+{1598}{1669}Pa?|- Tko kaûe da mora samo to?
+{1669}{1762}Prebacimo frekvenciju tornja|na onu na snopu.
+{1764}{1825}Moûemo se|Ëuti s avionima.
+{1826}{1868}Oni neÊe ni znati.
+{1959}{2032}Naöao sam signal.|U dijelu za prtljagu je.
+{2033}{2097}Sluöaju vas cijelu noÊ.
+{2099}{2144}Lopovi kradu prtljagu,|je li Carmine?
+{2242}{2280}Kako ide, Telford?|- Loöe.
+{2305}{2383}Zvao sam Langa. Dekoder Êe|biti ovdje za dva sata.
+{2384}{2424}Moja ûena nema dva sata.
+{2425}{2479}PrebaËen sam u|Grantov tim juËer.
+{2480}{2518}Standardni vojnik|lijeËi slijepo crijevo.
+{2551}{2606}Ali kaûu da nitko nije|bolji u ovome od Granta.
+{2608}{2669}Pozor!|- Osim moûda Stuarta.
+{2724}{2798}éelim Ëuti öto je|s avionom koji su traûili.
+{2800}{2868}Onda Êu izdati naredbe.|U pilotsku sobu odmah.
+{2890}{2918}Nastavite s radom.|- Albertson.
+{2920}{2946}Gospodine!|- Sa mnom.
+{2948}{2976}Da, gospodine!
+{3079}{3105}Bez civila.
+{3130}{3280}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{3380}{3434}äto ...?|- äto je bilo?
+{3480}{3559}Signal vanjskog markera.|Ne piöti, nego govori.
+{3584}{3644}Paûnja, svi avioni na|Dulles putanji slijetanja.
+{3644}{3696}Ovdje glavni inûenjer|Leslie Barnes.
+{3698}{3753}Imam ovlasti da|vas upoznam u potpunosti.
+{3775}{3857}U ovom trenutku ovo je jedini|kanal koji nam je dostupan.
+{3886}{3985}Evo situacije.|Prije oko dva sata...
+{4072}{4100}Sluöaj ovo.
+{4100}{4155}... nikakve instrukcije za koje|se tvrdi da su s naöeg tornja,
+{4156}{4237}dok ne Ëujete vaöu öifru|za snimanje slijetanja.
+{4238}{4311}Teroristi...|- Snimaj ovo.
+{4312}{4372}... kontroliraju sve osim|ovog kanala.
+{4373}{4432}Dajte nam sekundu.|- Ovaj kanal je siguran.
+{4433}{4480}Vaöe poruke nisu.
+{4482}{4529}Nemojte, ponavljam,|nemojte pokuöavati...
+{4531}{4620}odgovarati na vaöim|frekvencijama na ovaj signal.
+{4621}{4671}VeÊ su sruöili|jedan avion...
+{4672}{4712}imitirajuÊi nas.
+{4994}{5042}Ponavljam.|Teroristi su presjekli...
+{5044}{5107}dva sistema koji vam|dozvoljavaju da sletite-
+{5108}{5156}Svijetla za|vizualno slijetanje...
+{5156}{5212}i ILS za sljetanje|preko instrumenata.
+{5212}{5275}Specijalna vojna|jedinica je tu...
+{5276}{5318} i sprema se |uniötiti teroriste.
+{5320}{5361}Boûe moj.|- Ne prihvaÊajte nikakve...
+{5379}{5455}Hej, Marvine.|- Interesira te kaput?
+{5456}{5503}Ionako mi ne bi|dobro stajao.
+{5504}{5552}Vodi me u pilotsku sobu.
+{5552}{5581}Imaju sastanËiÊ.
+{5583}{5640}HoÊu Ëuti öto priËaju.
+{5642}{5700}Koja od ovih mapa-|- Ne diraj!
+{5701}{5735}Nai mapu.|- HoÊu.
+{5736}{5795}Rasturiti Êeö mi sve.
+{5796}{5872}Pilotska soba... Mislim da je|to kod glavnog terminala.
+{5873}{5960}Da li "P" moûda|znaËi pilotska soba?
+{5961}{6028}Sada, Marvin!|- Moûda je pod "P. "
+{6029}{6056}"PomoÊno. "
+{6153}{6205}Sranje.
+{6206}{6281}Traûim dozvolu da|smanjim straûu.
+{6282}{6331}Ljudima je hladno|i smrzavaju se. Gotovo.
+{6332}{6397}ovdje pukovnik Stewart.|Nek se ljudi koji nisu na straûi...
+{6398}{6439}skupe zbog brifinga. Gotovo.
+{6440}{6479}Razumijemo.|- äto je bilo?
+{6567}{6648}Gospodo, veËeras se|sve zavröava.
+{6679}{6727}Domina viöe neÊe padati,
+{6728}{6787}a katapulti Êe ostati uspravni.
+{6728}{6787}[CUT]
+{6787}{6849}Generalov avion se upravo|pojavio na ekranu.
+{7029}{7113}Paûnja, Dulles toranj.|Upalit Êemo svjetla na jednoj pisti.
+{7114}{7210}Ne pokuöavajte |spustiti neki avion.
+{7211}{7252}Zapamtite, pratimo vas.
+{7340}{7371}äto radimo?
+{7404}{7427}Sluöamo.
+{7586}{7647}Dulles toranj|FM-1.
+{7648}{7710}Dulles toranj|FM-1.
+{7711}{7780}FM-1, Dulles.|»ujemo vas. Gotovo.
+{7797}{7872}FM-1,|sletjet Êete na pistu 1-5.
+{7873}{7923}Ponavljam, 1-5.
+{8263}{8356}Naöao sam ga na|podu pored kaputa.
+{8356}{8423}äto si se primio|k'o sauËeöÊe?
+{8424}{8499}U ovaj je ukucana öifra.|- Svia ti se, a?
+{8499}{8599}Dat Êu ti ga za 20 dolara.|- Kako bi bilo da te ostavim u ûivotu?
+{8652}{8688}»ovjek zna kako se pregovara.
+{8704}{8761}Ovo je suprotno|naöim uputama.
+{8763}{8824}Trebamo sletjeti na pistu 1-0,
+{8824}{8880}gdje Êe nas|Ëekati predstavnici-
+{8928}{9017}Kapetane, recite tornju da Êete|nastaviti po naredbi.
+{9294}{9322}Razumijem, Dulles.
+{9358}{9420}Idemo na pistu 1-5.
+{9800}{9835}FM-1, javi se?
+{9871}{9944}I öto Êete sad?|Ubiti me?
+{9946}{10022}Tko Êe upravljati avionom?|- Ne brini za to.
+{10023}{10057}Nije tvoj problem.
+{10216}{10252}...FM-1, Ëujeö li?
+{10362}{10408}FM-1, javite se,|molim vas.
+{10640}{10703}Orlovo gnijezdo, ovdje Sokol.|PomoÊ.
+{10705}{10757}Orlovo gnijezdo, ovdje Sokol.|PomoÊ.
+{10822}{10903}Reci, Sokole.|- Izgubio sam pritisak u kabini.
+{10903}{10986}Vidljivost nula, moram |iÊi ravno po ovom vremenu...
+{10987}{11057}i sletjeti na prvu slobodnu pistu.
+{11057}{11124}Ponavljam, izgubio sam|pritisak u kabini.
+{11125}{11213}Vidljivost nula.|Moram van oluje.
+{11214}{11325}Mogu sletjeti, ali odmah,|na prvu slobodnu pistu.
+{11326}{11402}Ponavljam, ne mogu|kruûiti do piste 1-5.
+{11508}{11593}Da se dogovorimo.|Pokaûi mi preËicu do tih pisti,
+{11594}{11635}i sredit Êu ti kaput.
+{11637}{11716}Ponavljam, ne mogu|kruûiti do piste 1-5.
+{11716}{11774}Sranje. PriËekaj, Sokole.
+{11835}{11878}Dolazi sa oceana, gospodine.
+{11939}{12002}Metak mi je oötetio|instrumente.
+{12002}{12048}Nisam siguran u|koliËinu goriva.
+{12048}{12105}Moram odmah|sletjeti vizualno.
+{12105}{12175}»ujete li, Orlovo gnijezdo?|- Da, Sokole.
+{12177}{12286}To bi bila 2- 5 desno.|Ponavljam, 2- 5 desno.
+{12287}{12352}OdluËi se!|- Slaûem se. Pista...
+{12353}{12428}Opet smo u govnima|sa teroristima, John.
+{12429}{12485}2-5 lijevo...|- 2-5 desno. Gotovo.
+{12485}{12516}2-5 desno.
+{12559}{12591}Moram ostaviti cigarete.
+{12625}{12684}Hvala, öto ste mi rekli,|Orlovo gnijezdo.
+{12684}{12751}ali bi vam bio zahvalan,|ako biste mi pokazali.
+{13033}{13110}Vidim svijetla.|ToËno su ispred mene.
+{13111}{13184}Hvala, prijatelji.|Smanjujem brzinu.
+{13184}{13236}Prilazim pisti.|Poûelite mi sreÊu.
+{13260}{13287}Razumijemo, Sokole.
+{13333}{13390}Imati Êemo vas za pet minuta.
+{13391}{13447}ToËno, seronjo.|Imati Êemo te za pet minuta.
+{14039}{14106}Vidim vaöa svijetla.|ETA 90 sekundi.
+{14330}{14381}Doi tatici, kurvin sine!
+{15713}{15740}O, sranje!
+{16024}{16048}Ne!
+{17197}{17220}Sloboda.
+{17258}{17338}Joö ne.
+{17339}{17369}Trebali bi sjediti....
+{17370}{17419}sve dok avion|ne stigne do terminala.
+{17420}{17462}Niöta od bonusa.
+{17477}{17525}Ko si ti?|- Policajac.
+{17526}{17578}Policajac?|- Jedan od dobrih deËki.
+{17579}{17611}Ti si loö momak.
+{17612}{17681}Sad Êu te mijenjati|za moju ûenu.
+{17908}{17941}Sjedi!
+{18012}{18046}Ulazi!
+{18206}{18240}Gdje je otiöao?|- Tamo.
+{18489}{18553}Ne mogu vjerovati.|Dva mjeseca planiranja.
+{18554}{18608}i niste mogli predvidjeti|jednog smrdljivog policajca.
+{18608}{18657}Hajde, generale.|- Gdje je pukovnik Stewart?
+{18768}{18805}Generale!|- Dobro sam.
+{18827}{18869}Rekao je da je policajac.
+{18870}{18919}Mislio sam da ste|osigurali prostor.
+{18921}{18988}Otiöao je u kokpit!|- Ide u pakao!
+{19024}{19073}McClane!
+{19075}{19115}Pretpostavljam da|si ti, McClane.
+{19143}{19181}Pravi si mali vojnik.
+{19208}{19265}Smatraj ovo|vojniËkim pogrebom.
+{19882}{19929}Koliko granata imamo?|- Svaki po tri.
+{19956}{19983}Bacite ih!
+{20241}{20268}O, sranje!
+{20352}{20407}OPASNOST|KATAPULTIRANJE
+{20613}{20645}Idemo!
+{21055}{21107}O, sranje!
+{21309}{21346}SretniËe.
+{21425}{21509}Vatrogasci, gospodine.|- VraÊamo se u crkvu. Odmah!
+{22049}{22084}Gdje su vrata?
+{22457}{22544}Putnici su malo nervozni.|U stvari, i ja sam.
+{22545}{22602}Nad Washingtonom smo.|Naite neku televiziju.
+{22603}{22672}To Êe ih smiriti.|- Vaûi i za mene. Ja...
+{23261}{23331}Piöeö zahvalnicu za nagradu|"NajveÊe govno na TV-u"?
+{23361}{23386}äto ne za Pulitzerovu.
+{23386}{23425}Dok Ëekamo slijetanje,
+{23425}{23498}puötamo vam|lokalnu televiziju.
+{23499}{23546}Zvuk je na kanalu 3.
+{23712}{23778}OK. OK, OK.
+{23983}{24033}Molim vas, moûemo|sletjeti svakog Ëasa.
+{24059}{24120}Sjedite.|- Nije mi dobro. Oprostite.
+{24121}{24160}Morate se vezati.
+{24285}{24314}Glupan.
+{24315}{24369}WZDC.|- ovdje Richard Thornberg.
+{24371}{24436}Spojite me s Rubenom.|- Upravo Êe iÊi uûivo.
+{24437}{24500}Znam, zato ga i traûim.
+{24501}{24527}»ekaj-
+{24528}{24585}Celia, spoji me, ili poËni|pisati molbe za posao.
+{24628}{24658}Esperanza je sletio...
+{24701}{24796}Ali je povrijeen.|Dobio je metak u rame.
+{24797}{24864}Sredio sam joö jednog.|Ukupno öest.
+{24865}{24939}Kad bi znali koliko ih ima,|moûda bi se i veselio.
+{24941}{25036}Ako ih je 50, malo je|rano za öampanjac.
+{25036}{25125}Hvala ti na trudu, ali...
+{25126}{25206}öto ako sruöe joö jedan|avion u znak odmazde?
+{25207}{25263}To ne mogu viöe,|jel' tako Barnes?
+{25263}{25336}Da sam uhvatio Esperanzu,|Ovo bi sve bilo gotovo.
+{25336}{25398}Moûda si kreativniji|nego öto mislim.
+{25398}{25441}Ja bar razmiöljam,|jebem mu!
+{25442}{25479}Sluöaj, pametnjakoviÊu.
+{25479}{25552}Sredit Êemo ga prije nego|öto pokuöa poletjeti.
+{25552}{25644}ToËka. Ti si pogreöan Ëovjek na|pogreönom mjestu, u pogreöno vrijeme.
+{25712}{25739}PriËa mog ûivota.
+{25783}{25859}Majore, Pentagon!
+{25860}{25913}Pentagon. Razgovarat Êu odovuda.
+{25913}{25965}Hvala ti, Telforde.|Vi ljudi, za mnom.
+{26051}{26095}McClane.|- Da, Barnes?
+{26095}{26140}Odmah su se pojavili?
+{26141}{26223}Da.|- To znaËi da su blizu.
+{26244}{26319}I mislim da znam gdje.|Da ti pokaûem neöto.
+{26391}{26446}Ovo su planovi pista.
+{26446}{26504}Prije 12 godina.
+{26505}{26561}ispod njih su raene|mnoge izmjene-
+{26562}{26649}radi drenaûe.
+{26650}{26692}radi drenaûe.
+{26693}{26773}Ako sam u pravu,
+{26774}{26823}sve instalacije|prolaze pored ovog mjesta.
+{26916}{26957}Trebali smo sletiti|prije nekoliko sati.
+{26958}{27001}Razumijem. Opustite se.
+{27101}{27174}Neko bi trebao najebati|zbog ovoga.
+{27204}{27283}Koga kriviti za oluju?
+{27373}{27405}Trebala sam |iÊi autobusom.
+{27406}{27481}Oni bar mogu stati|za hranu i gorivo.
+{27481}{27534}Oprostite.|- Da.
+{27564}{27612}Pitala sam se.
+{27612}{27709}Let je trebao trajati|pet i pol sati, zar ne?
+{27710}{27756}Imamo li dovoljno goriva...
+{27756}{27796}da kruûimo ovako?
+{27797}{27864}Naravno. Predviaju|probleme kao ovaj.
+{28312}{28366}Provjerili smo 12|kuÊa i niöta.
+{28385}{28423}Ovo je zadnja moguÊnost.
+{28458}{28511}Tamo je crkva.|- Idemo.
+{28643}{28669}»ekaj.
+{28852}{28885}Eno crkve, tamo.
+{29095}{29182}Mogao bi biti straûar.|- Moûda samo öeta.
+{29182}{29232}Zaöto onda öeta|po svojim tragovima?
+{29308}{29335}Hajde.
+{29387}{29475}Dobro. Ostani ovdje i budi|spreman da pozoveö marince.
+{29476}{29556}Zar nisu vojska?|- Koga je briga? Budi spreman.
+{29963}{29994}Sranje!
+{30046}{30075}Ne sada.
+{30410}{30465}Lorenzo... ovdje Barnes.
+{30466}{30516}Gdje si otiöao?|Gdje je McClane?
+{30516}{30599}Kod crkve smo,|na zapadnoj strani aerodroma.
+{30600}{30669}Gdje ste? Ti si idiot!
+{30670}{30755}Ovdje im je baza.|Dolazi ovamo.
+{30756}{30789}äifra crveno. SITREP.
+{30813}{30896}Imamo Stewartovu lokaciju.|KreÊemo!
+{31181}{31242}Plan za bijeg Êe biti|spreman za 30 minuta.
+{31296}{31339}Ako viöe nema iznenaenja.
+{31705}{31764}Gospodo, imamo|situaciju ovdje!
+{33619}{33657}Ovamo!
+{33972}{34027}Isuse, McClane, jesi li u redu?|HoÊeö doktora?
+{34027}{34105}äto misliö ko si ti,|John Wayne?
+{34106}{34161}HoÊeö spavati u Êeliji?
+{34162}{34219}Lorenzo, umukni i poËni|raditi neöto korisno.
+{34221}{34299}Idi zatvori ulicu.|- Ne moûete tako samnom!
+{34300}{34333}Je li, Carmine?
+{34334}{34427}NaredniËe, sklonite ovog birokratu,|s McClaneovog lica, odmah!
+{34428}{34459}Sa zadovoljstvom.
+{34529}{34555}Majore!
+{34575}{34654}Ljudi su na mjestu.|- Provjerite zadnji dio, pa ulazimo.
+{34655}{34705}Pucajte po zapovjedi.|- Razumijem.
+{34726}{34836}Izgleda da sam pogrijeöio.|Ipak nisi toliki seronja k'o öto sam mislio.
+{34836}{34910}Ne, bio si u pravu.|Jesam, ali na tvoj naËin.
+{35137}{35194}Garber! SITREP!
+{35196}{35272}Specijalne jedinice nas|opkoljavaju sa tri strane, brzo.
+{35272}{35337}Problem, pukovniËe?|- Nema problema, generale.
+{35367}{35413}Gospodo, znate öto trebate raditi.
+{35699}{35742}Dole!|- Lezi dole! Lezi dole!
+{36428}{36488}Generale... vrijeme je.
+{36666}{36700}Hajde, idemo!
+{37066}{37113}Bjeûe.|- äto?
+{37113}{37144}Iza!
+{37329}{37357}Brzo!
+{37598}{37645}Albertson,|tvoji iza.
+{38284}{38334}S ovim bi spustili avione.
+{38335}{38391}Ne dirajte niöta.|Bilo je ûica napolju.
+{38392}{38428}Moûda je minirano.|- I je.
+{38428}{38507}I ovdje, aktivirano.
+{38508}{38572}Svi odmah van!. Sada!|- Bjeûite odovuda!
+{38659}{38716}Minirali su opremu.|Zatvorite zgradu.
+{38717}{38754}Sranje.
+{38755}{38809}Postavite straûu.|Bez civila.
+{38810}{38871}Hej... pa gdje je McClane?
+{40067}{40092}Pogodi ga!
+{40145}{40175}PokrivaÊu te!
+{41305}{41353}Toliko o sreÊi.
+{41392}{41425}Hajdemo.
+{41847}{41913}Imao sam ga na niöanu,|znam da sam ga imao.
+{42329}{42405}Paûnja, toranj.|Paûnja, Dulles toranj.
+{42407}{42476}ovdje pukovnik Stewart.|Da li je naö avion spreman?
+{42476}{42560}Da. U hangaru 11.|Onom najdaljem.
+{42600}{42642}Na putu smo.
+{42643}{42716}Neka ga ekipa provjeri|radi ispravnosti.
+{42737}{42812}Pazi ga!
+{42814}{42885}PukovniËe, dovoljno ste|sposobni da ga sami provjerite.
+{42885}{42966}NeÊemo vam|dati joö talaca.
+{42968}{43005}Major Grant, zar ne?
+{43006}{43047}Ako me se sjeÊate, pukovniËe,
+{43048}{43100}onda se sjeÊate da i ja|znam proceduru.
+{43137}{43176}Provjerite sami avion.
+{43202}{43296}KreÊemo za pet minuta.
+{43296}{43380}Pancirke za juriönike.|noÊni niöani za snajperiste.
+{43400}{43436}Uhvatit Êemo ih u hangaru,
+{43436}{43529}i osobno Êu izvuÊi detonator|iz Stewartove mrtve ruke.
+{43560}{43628}Lorenzo, vodi ljude|nazad na aerodrom.
+{43629}{43690}Zatvori sve izlaze sa sluËaj...
+{43691}{43752}da nam |neko ne promakne.
+{43753}{43777}Vaûi.
+{43836}{43868}Dobro... idemo.
+{43900}{43941}Svaka stanica u gradu...
+{43943}{44014}ima ljude na aerodromu,|i niko niöta ne zna.
+{44016}{44111}Oni nisu ja.|HoÊeö dokaz?
+{44112}{44176}Teroristi su ubili civile...
+{44178}{44252}i presjekli dva sistema|preko kojih moûete sletjeti.
+{44253}{44328}Specijalna vojna jedinica|je veÊ ovdje i sprema se...
+{44330}{44373}Isuse Kriste!
+{44375}{44455}Idemo uûivo.
+{44499}{44557}KreÊemo za pet minuta.
+{44577}{44651}Ako joö neko ûeli da se ubaci,|ima tri minute.
+{44699}{44736}Nacionalna mreûo, evo me.
+{44815}{44875}Hej, Telford,|öto su tvoji radili...
+{44876}{44910}dok smo mi|zauzimali Grenadu?
+{44980}{45055}Grenada.|Pet minuta pucnjave,
+{45056}{45109}pet tjedana surfanja.
+{45110}{45218}Volio bih da sam bio s vama.|- Da, i ja, mali.
+{45219}{45268}Stvarno?|- Da.
+{45306}{45348}Onda ovo ne bi|bilo potrebno.
+{45721}{45873}Orlovo gnijezdo, ovdje Hatchling.|Po planu... na poziciji.
+{45873}{45932}Vaûi, Hatchling.|Ovdje smo sigurni.
+{45933}{46038}Imate zeleno svjetlo.|Ponavljam, imate zeleno svjetlo.
+{46319}{46409}Isuse, otkud ti?|Iz Pearl Harboura?
+{46532}{46574}Da oËistimo.|- Da oËistimo.
+{46627}{46653}»ekaj.
+{46672}{46716}5, 4, 3...
+{46746}{46818}Ovo je specijalni|izveötaj WZDC Vesti.
+{46819}{46877}VeËeras se avion|sruöio na aerodromu...
+{46878}{46924}ostali i dalje kruûe...
+{46925}{47004}bez izjave od|strane vlasti.
+{47004}{47076}A sada, ekskluzivni|WZDC izvjeötaj,
+{47077}{47145}evo Dicka Thornberga koji se|javlja sa neba nad Washingtonom.
+{47146}{47173}PojaËaj!
+{47174}{47225}Ja sam jedan|od onih koji kruûe...
+{47226}{47275}nad naöim glavnim gradom|misleÊi öto god...
+{47276}{47376}da se dolje deöava,|da je sve normalno.
+{47377}{47432}Ali istina je|daleko od toga.
+{47433}{47472}Istina je uûasavajuÊa.
+{47489}{47530}Pazite. Pazite.
+{47553}{47629}Pazite! Pazite!|Sklanjajte se!
+{47630}{47697}S puta! Bjeûite s puta!|Bjeûite s puta!
+{47698}{47734}S puta!|- Pazi!
+{47735}{47783}Hajde! Pazi!
+{47784}{47829}Ovo je snimka razgovora,
+{47830}{47905}izmeu Dulles tornja|i zatoËenih aviona.
+{47964}{48038}Sklanjajte se s puta.
+{48060}{48124}Lorenzo!|- Jesi li poludio?
+{48124}{48152}Gdje je Grant?
+{48152}{48232}Stewart je postavio eksploziv|na opremu u crkvi.
+{48233}{48297}Gdje je Grant?|- Ide ubiti Stuarta.
+{48298}{48369}Sjesti Êe na avion sa|Stewartom i odletjeti.
+{48370}{48401}Gubi se.
+{48402}{48465}Popunio je tu|jedinicu svojim ljudima.
+{48466}{48564}Jesi li lud? A borba i pucnjava-|- Predstava da dobije na vremenu!
+{48564}{48629}Ti si poludio,|znaö li to?
+{48630}{48680}Uhapöen si,|seronjo.
+{48843}{48917}Ove su metke|koristili noÊas!
+{48917}{48944}∆orci!
+{49237}{49321}ovdje Lorenzo.|Pozovite sve...
+{49321}{49373}i dajte im pancirke i oruûje...
+{49374}{49416}neka se jave za pet minuta.
+{49480}{49517}Sad Êu mu|jebati majku!
+{49580}{49638}Kao lwo Jima!
+{49639}{49684}Od tada, ovaj reporter|je saznao...
+{49684}{49785}da teroristi kontroliraju|cijeli aerodrom...
+{49852}{49905}Prijete novim|krvoproliÊem ako...
+{49906}{49946}se ne ispune|njihovi zahtjevi...
+{49947}{50034}I sada poöto su|specijalci stigli...
+{50035}{50131}bliûi se krvavi rasplet.
+{50656}{50735}Glupi, arogantni,|kurvin sin!
+{50736}{50773}Na cijelom aerodromu je.
+{50792}{50819}300 ljudi je poginulo...
+{50820}{50896}Kad slijeÊemo?|- Znaö koliko i ja.
+{50897}{50949}Naûalost, moûda|nisu zadnji.
+{50971}{51049}Straöna Ëinjenica je da|nitko nije siguran,
+{51050}{51117}ni na nebu, ni na zemlji...
+{51137}{51214}Prijetnja za joö ûrtava...
+{51215}{51264}visi nad glavom svakome,
+{51265}{51318}a prazniËno vrijeme|mira i ljubavi...
+{51319}{51353}je postalo noÊna mora.
+{51516}{51631}Svi, sluöajte, sve jedinice!|Ravno do hangara 11!
+{51632}{51713}Sve strane!|Ovaj auto, McClane! Ulazi!
+{51714}{51781}Kad se gradska policija|pojavi,
+{51782}{51817}skupljati Êe ostatke.
+{51818}{51847}KreÊemo!
+{51878}{51921}McClane,|ovo je moj brat Vito.
+{51945}{51978}Sretan BoûiÊ.
+{52008}{52035}Zdravo.
+{52175}{52269}Jebem ti mater, da ti|jebem mater! MiËi to govno!
+{52303}{52384}HoÊeö li maknuti to|govno odovuda?
+{52385}{52496}Vito, ulazi u kola, ubaci u|brzinu, i pomozi mi!
+{52496}{52589}HoÊeö li-|MiËi taj auto odmah!
+{52590}{52681}Tamo.|- Hej! Coleman!
+{52682}{52746}Sam! Sam Coleman!
+{52790}{52854}Hej, Coleman!|- Zdravo!
+{52855}{52882}Coleman!
+{52915}{53010}Ali bar istina nije talac...
+{53011}{53125}jer ja, Richard Thornberg,|sam ovdje...
+{53126}{53212}da dam svoj ûivot...|i talent...
+{53213}{53276}za dobrobit ËovjeËanstva i domovine.
+{53276}{53339}i ako me viöe ne|budete Ëuli-
+{53401}{53461}Daj boûe to... Dick.
+{53485}{53540}Dick! Idemo uûivo, Dick.
+{53565}{53615}Gdje si sada? Dick!
+{53680}{53762}Kamion stiûe.|Oni su, toËno na vrijeme.
+{53793}{53826}Vrata hangara-|otvorite ih.
+{53854}{53881}Kao sat.
+{54442}{54498}Daj mi ovu priËu,|i rodit Êu ti dijete.
+{54539}{54587}Ne traûim takvu "voûnju".
+{54873}{54948}PukovniËe, ako mogu|reÊi, sjajni ste.
+{54949}{55033}Hvala, majore.|Ni vi niste tako loöi.
+{55034}{55080}»estitam na bijegu.
+{55081}{55178}Hvala. Da priËekamo dok|doemo na sigurno.
+{55179}{55243}Gospodo,|Ëestitam vam.
+{55244}{55315}Pobijedili ste u ime|naöeg naËina ûivota,
+{55316}{55392}mog ponosa,|i super provoda.
+{55392}{55425}Sad se ukrcavajte.
+{56169}{56232}äto je? Gadno?|- Ne volim letjeti.
+{56233}{56288}Zaöto si ti ovdje?|- Ne volim ni gubiti.
+{56305}{56347}OK! Idemo!
+{56580}{56661}Vidio sam dovoljno|snijega za cijeli ûivot.
+{56678}{56726}Nema toga puno u tropima.
+{56727}{56780}Za vas Êemo gospodo,|uvoziti!
+{56857}{56892}Sranje!. Izaöli su iz hangara!
+{56993}{57019}Tamo. Snimaj to.
+{57043}{57097}Dobro. äto sad?|- Idi ispred njega.
+{57098}{57147}Blokiraj ga da ne poleti.
+{57148}{57249}Ne igram se s avionom.|Jesam lud, ali ne toliko.
+{57250}{57293}ovdje Northeast 140.
+{57293}{57344}Traûimo dozvolu za slijetanje.|- To je Hollyn avion.
+{57344}{57404}Traûimo hitnu dozvolu.
+{57405}{57473}Znam da ne moûete |odgovoriti, ali sluöajte!
+{57474}{57516}Nemamo goriva.
+{57517}{57589}Za pet minuta|sljeÊemo ili padamo!
+{57590}{57622}To je avion moje ûene!
+{57623}{57689}Spusti ga!|- Ne idem ispred njega!
+{57823}{57875}A iznad njega?
+{57876}{57937}Dame i gospodo,|ovdje kapetan.
+{57938}{58017}Moramo prinudno|sletjeti.
+{58018}{58096}Veûite pojaseve i|zauzmite pozicije...
+{58096}{58135}kako vam stjuardese pokaûu.
+{58207}{58258}Paûnja svim avionima na|podruËju Dulles aerodroma.
+{58259}{58301}ovdje Northeast 140.
+{58302}{58365}Pokuöat Êemo prinudno|sljetanje.
+{58432}{58522}Ne ûelim umrijeti.|Ne ûelim umrijeti.
+{58523}{58586}Veûite se.|- Oprostite. Ja...
+{58587}{58628}Hitna situacija.|- Nagnite se naprijed.
+{58675}{58745}Boûe!
+{58837}{58936}Boûe.|- O, Boûe...
+{58937}{58987}OËe naö, koji si|na nebesima...
+{59164}{59211}Drûite se!|- äto radiö?
+{59212}{59274}Drûite se! éeljela si|priËu, zar ne?
+{59275}{59335}Polako me spusti.|- Vaûi!
+{59403}{59469}Spusti me!
+{59470}{59524}PoginuÊeö!|VraÊaj se!
+{59709}{59748}Ostani iznad krila!
+{59960}{60009}Niûe! Sada!
+{60219}{60297}John, öto ti koji kurac traûiö|na krilu aviona?
+{60492}{60519}Prokletstvo!
+{60645}{60685}Sranje.|- äto?
+{60686}{60714}Neöto nije u redu.
+{60748}{60808}Ne moûemo poletjeti.
+{60909}{60983}Kurvin sin.|Opet McClane.
+{61012}{61045}Kurvin sin!
+{61096}{61173}Srediti Êu ga.|- Ovaj put kako treba.
+{61174}{61255}Podignite nas, generale.|Samo vi to znate.
+{61256}{61309}Ne pucaj. To krilo|je puno goriva.
+{62571}{62633}Jebi ga, McClane.|Svidio si mi se.
+{62828}{62861}Imam dovoljno prijatelja!
+{63756}{63829}OK, McClane!|Vrijeme za dogaaj veËeri!
+{64696}{64740}Majku ti jebem!
+{65025}{65052}Kako ide?
+{65145}{65181}Sretan put!
+{65352}{65397}Sretno slijetanje, seronjo!
+{66636}{66683}Jipi-kai-jej, glupane.
+{66987}{67023}Da. To!
+{67928}{67966}Holly!
+{67992}{68065}Evo ti svijetlo za slijetanje!
+{68233}{68267}O, Boûe.
+{68339}{68416}Vidi! Vidi!|- OK! Vidim! Vidim!
+{69036}{69149}Iskoristili su vatru!|- Reci im da tako svi mogu.
+{69150}{69242}VeÊ znaju.|Sluöaj.
+{69243}{69331}Pratimo vatreni trag.|- Ako mogu oni, moûemo i mi.
+{69786}{69841}Svako slijetanje poslije kojeg|moûeö odöetati je dobro.
+{70569}{70594}SkaËi!
+{70620}{70684}SkaËi!|- Imam te!
+{70685}{70720}SkaËi!
+{71409}{71436}To je to.
+{71502}{71531}To je to!
+{72595}{72638}Hajde! Imamo vas!
+{72743}{72849}O, boûe.|O, boûe! Srce.
+{72850}{72909}Mislio da te viöe|neÊu vidjeti.
+{72911}{72954}To sam ja mislila|za tebe.
+{72955}{72989}Tako te volim.
+{73101}{73166}Rekli su da ima|terorista na aerodromu.
+{73168}{73219}Da. To sam i ja Ëuo.
+{73427}{73496}Boûe. Divno je.|- Da.
+{73553}{73603}Da, je.
+{73646}{73681}Tako te volim
+{73815}{73860}Zaöto nam se ovo|stalno deöava?
+{74012}{74038}Idemo kuÊi.
+{74114}{74202}Maknimo je odovuda!|- Neka mi neko pomogne.
+{74225}{74306}Pomozite mi, molim vas.|- Seronjo!
+{74388}{74483}Hej, hajde!|Hajde! Hej, hej!
+{74484}{74569}Hej, uskaËi!|Ubaci i gospou!
+{74570}{74614}äto kaûeö, Marv?
+{74615}{74682}Jebeö me ako Êu ja|ovo Ëistiti!
+{74879}{74905}Hej, McClane!
+{74938}{75002}Dobio si kaznu za parkiranje|na mom aerodromu.
+{75049}{75140}Da.|- A, tko ga jebe.
+{75141}{75181}BoûiÊ je!
+{75181}{75191}BoûiÊ je!
+{75306}{75352}Idemo, Marv!
+{75636}{75797}(c)2002  Ured za istraûivanje ruda i gubljenje vremena
+{76592}{76664}UMRI MUäKI 2
+{76689}{78189}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/3bp3|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

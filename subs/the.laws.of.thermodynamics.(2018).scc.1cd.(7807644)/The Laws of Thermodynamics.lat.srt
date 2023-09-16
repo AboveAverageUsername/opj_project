@@ -1,0 +1,6724 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:31,625 --> 00:00:35,625
+www.titlovi.com
+
+3
+00:00:38,625 --> 00:00:40,355
+<i>Prirodom,</i>
+
+4
+00:00:41,250 --> 00:00:42,749
+<i>svemirom,</i>
+
+5
+00:00:42,880 --> 00:00:45,320
+<i>našim sopstvenim postojanjem,</i>
+
+6
+00:00:45,625 --> 00:00:48,291
+<i>vladaju vrlo dobro</i>
+<i>poznati zakoni.</i>
+
+7
+00:00:48,440 --> 00:00:52,800
+<i>Zakoni, kojima ništa</i>
+<i>i niko ne moe pobeæi.</i>
+
+8
+00:00:53,861 --> 00:00:57,100
+<i>Ovi zakoni su izuzetno precizni.</i>
+
+9
+00:00:57,240 --> 00:01:01,703
+Toliko precizni da su izraeni
+kroz jezik matematike.
+
+10
+00:01:01,840 --> 00:01:04,088
+Zakoni prirode koje tek
+treba otkriti
+
+11
+00:01:04,240 --> 00:01:06,846
+ne mogu biti toliko drugaèiji
+od onih koje veæ znamo.
+
+12
+00:01:07,000 --> 00:01:10,009
+Blizu smo da završimo
+opis svemira,
+
+13
+00:01:10,160 --> 00:01:12,770
+da zaista shvatimo principe
+na kojima poèiva.
+
+14
+00:01:15,208 --> 00:01:19,778
+<i>Pa ipak, nauèna zajednica</i>
+<i>je previdela sve do sada:</i>
+
+15
+00:01:20,042 --> 00:01:23,541
+<i>èudnu i duboku vezu</i>
+<i>izmeğu tih zakona</i>
+
+16
+00:01:23,680 --> 00:01:25,957
+<i>i našeg sopstvenog</i>
+<i>emotivnog ponašanja.</i>
+
+17
+00:01:26,080 --> 00:01:29,374
+<i>Saznaæete kako se zakoni fizike</i>
+
+18
+00:01:29,520 --> 00:01:32,775
+<i>mogu primeniti na emocije koje upravljaju</i>
+<i>našom svakodnevnom rutinom.</i>
+
+19
+00:01:34,333 --> 00:01:36,457
+<i>Posebno ukljuèujuæi</i>
+
+20
+00:01:36,600 --> 00:01:39,291
+<i>onu manje poznatu disciplinu:</i>
+
+21
+00:01:39,440 --> 00:01:42,732
+Termodinamika!
+
+22
+00:01:42,917 --> 00:01:45,541
+Dobro, šta je termodinamika?
+
+23
+00:01:45,680 --> 00:01:47,999
+Moe li mi neko reæi?
+
+24
+00:01:48,160 --> 00:01:49,999
+Nemojte svi dizati
+ruke u isto vreme,
+
+25
+00:01:50,160 --> 00:01:51,124
+zbuniæete me.
+
+26
+00:01:51,280 --> 00:01:54,291
+Kao što samo ime kae,
+termodinamika
+
+27
+00:01:54,440 --> 00:01:56,291
+je prouèavanje kretanja toplote.
+
+28
+00:01:56,440 --> 00:02:00,541
+Posebno na naèin na koji
+se energija transformiše.
+
+29
+00:02:00,680 --> 00:02:04,707
+Jer, kao što znate, energija
+moe imati razlièite oblike.
+
+30
+00:02:04,840 --> 00:02:09,800
+Ovo je Manuel Suarez,
+moj pomoænik tokom semestra.
+
+31
+00:02:09,960 --> 00:02:12,332
+Budite blagi prema njemu,
+molim vas.
+
+32
+00:02:12,480 --> 00:02:16,760
+Manel je proveo vikend praveæi
+ovaj mali parobrod za vas,
+
+33
+00:02:16,960 --> 00:02:21,249
+koji radi zahvaljujuæi
+zakonima termodinamike.
+
+34
+00:02:21,400 --> 00:02:24,230
+Molim vas, priğite blie.
+
+35
+00:02:26,708 --> 00:02:29,880
+Brzo, zauzmite mesta.
+
+36
+00:02:30,333 --> 00:02:34,323
+Manel, objasni kako radi
+pre demonstracije.
+
+37
+00:02:34,500 --> 00:02:35,916
+Dobro...
+
+38
+00:02:36,040 --> 00:02:38,749
+U ovoj maloj posudi je gorivo
+koje æe dati plamen,
+
+39
+00:02:38,880 --> 00:02:42,541
+a on æe zagrevati vodu
+u ovom rezervoaru...
+
+40
+00:02:42,680 --> 00:02:46,041
+Zagrejana voda æe se širiti
+
+41
+00:02:46,200 --> 00:02:49,362
+i izlaziti kroz ove dve cevèice,
+pokreæuæi brodiæ.
+
+42
+00:02:49,560 --> 00:02:52,640
+Kako je lepo, Manel.
+- Graciozno.
+
+43
+00:02:53,000 --> 00:02:54,900
+Hajde da probamo.
+
+44
+00:02:59,208 --> 00:03:01,188
+Evo, uzmi moj.
+
+45
+00:03:10,917 --> 00:03:13,147
+Izgleda da neæe da se upali...
+
+46
+00:03:18,875 --> 00:03:21,400
+Nije bitno.
+Ovo što vidite
+
+47
+00:03:21,560 --> 00:03:25,107
+takoğe odgovara principima
+termodinamike.
+
+48
+00:03:25,625 --> 00:03:29,975
+<i>Principi o kojima æemo prièati</i>
+<i>ne samo da potpuno vladaju</i>
+
+49
+00:03:30,120 --> 00:03:32,957
+<i>našim ivotima nego æe</i>
+<i>konaèno odrediti</i>
+
+50
+00:03:33,080 --> 00:03:35,528
+<i>našu i sudbinu celokupnog svemira.</i>
+
+51
+00:03:36,250 --> 00:03:39,541
+<i>Pripremite se rame uz</i>
+<i>rame sa velikanima</i>
+
+52
+00:03:39,680 --> 00:03:42,124
+<i>za novi krug u istoriji nauke.</i>
+
+53
+00:03:42,280 --> 00:03:45,565
+<i>Dobrodošli u strastveni</i>
+<i>i zastrašujuæi svet...</i>
+
+54
+00:03:45,750 --> 00:03:51,940
+ZAKONA TERMODINAMIKE
+DOKUMENTARNI FILM MANELA SUAREZA
+
+55
+00:03:54,599 --> 00:03:58,252
+<i>Termodinamika je prisutna</i>
+<i>u svemu s èime se sreæemo,</i>
+
+56
+00:03:58,400 --> 00:04:00,756
+<i>od sveta oko nas</i>
+<i>do nas samih</i>
+
+57
+00:04:00,880 --> 00:04:02,900
+<i>i mašina iz svakodnevnog ivota.</i>
+
+58
+00:04:03,040 --> 00:04:04,882
+Ne moemo pobeæi od toga.
+
+59
+00:04:05,040 --> 00:04:07,334
+<i>Kvantna fizika, astronomija,</i>
+
+60
+00:04:07,480 --> 00:04:11,280
+<i>pa èak i biologija,</i>
+<i>sve je ugrağeno u termodinamiku.</i>
+
+61
+00:04:11,332 --> 00:04:14,848
+Nekako je iznenağujuæe
+da teorija, koja je bila
+
+62
+00:04:15,000 --> 00:04:17,257
+razvijena da dokae
+<i>parne mašine</i>
+
+63
+00:04:17,400 --> 00:04:21,032
+<i>završi sa tako dubokim</i>
+<i>filozovskim posledicama.</i>
+
+64
+00:04:22,079 --> 00:04:25,287
+<i>Novelista i analitièar kulture,</i>
+<i>C. P. Snou,</i>
+
+65
+00:04:25,440 --> 00:04:27,866
+<i>jednom je rekao da</i>
+<i>svaka obrazovana osoba</i>
+
+66
+00:04:28,000 --> 00:04:30,859
+<i>treba znati drugi</i>
+<i>zakon termodinamike.</i>
+
+67
+00:04:31,233 --> 00:04:35,720
+I da ne znajuæi to, je kao
+da nikada niste èitali Šekspira.
+
+68
+00:04:39,375 --> 00:04:43,440
+<i>Da bi razgovarali o termodinamici,</i>
+<i>moramo se pozvati na sistem.</i>
+
+69
+00:04:43,600 --> 00:04:45,999
+<i>U ovom sluèaju, uzmimo</i>
+<i>"ljudski" sistem</i>
+
+70
+00:04:46,120 --> 00:04:48,249
+<i>sa hiljadama njegovih</i>
+<i>individualnih èestica</i>
+
+71
+00:04:48,400 --> 00:04:50,791
+<i>koje se kreæu i meğusobno</i>
+<i>dejstvuju jedna sa drugom.</i>
+
+72
+00:04:50,920 --> 00:04:53,374
+<i>A mi æemo se usredsrediti</i>
+<i>na par njih.</i>
+
+73
+00:04:53,520 --> 00:04:55,645
+<i>Na primer, èestica Manel...</i>
+
+74
+00:04:56,333 --> 00:04:58,207
+<i>i èestica Elena,</i>
+
+75
+00:04:58,360 --> 00:05:00,318
+<i>koje se još nisu srele.</i>
+
+76
+00:05:02,750 --> 00:05:04,749
+<i>Prvo što moramo znati</i>
+
+77
+00:05:04,880 --> 00:05:08,150
+<i>je da svi termodinamièki</i>
+<i>sistemi tee ravnotei.</i>
+
+78
+00:05:08,958 --> 00:05:12,082
+<i>Ali nemojte da vas prevari</i>
+<i>kako to lepo zvuèi.</i>
+
+79
+00:05:12,240 --> 00:05:17,040
+<i>Upravo je nedostatak ravnotee</i>
+<i>ono što æe èesticama Manelu i Eleni</i>
+
+80
+00:05:17,200 --> 00:05:19,874
+<i>dati šansu da se sretnu i dejstvuju</i>
+
+81
+00:05:19,875 --> 00:05:22,185
+<i>kako bi zajedno nešto izgradili.</i>
+
+82
+00:05:25,417 --> 00:05:28,916
+<i>Ravnotea u ovom sluèaju</i>
+<i>znaèi disperziju èestica,</i>
+
+83
+00:05:29,040 --> 00:05:32,227
+<i>odsustvo aktivnosti</i>
+<i>i razmene toplote.</i>
+
+84
+00:05:33,042 --> 00:05:37,362
+<i>Naalost, to je ono</i>
+<i>èemu teimo.</i>
+
+85
+00:05:44,083 --> 00:05:48,207
+Sutra æeš prespavati kod mene.
+Moram rano ustati.
+
+86
+00:05:48,360 --> 00:05:49,688
+I ja.
+
+87
+00:05:50,208 --> 00:05:52,291
+Kako ti je prošao
+prvi dan na predavanju?
+
+88
+00:05:52,440 --> 00:05:56,520
+Je li brodiæ radio?
+- Divno, kao vanbrodski motor.
+
+89
+00:05:56,708 --> 00:06:02,499
+Moj super fizièar, aeronautièki,
+pomorski, industrijski, nuklearni.
+
+90
+00:06:02,640 --> 00:06:04,582
+Kladim se da su sve devojke
+bacile oko na tebe.
+
+91
+00:06:04,720 --> 00:06:05,707
+Jedna jeste.
+
+92
+00:06:05,840 --> 00:06:08,957
+Volim kako me laeš
+da bi me napalio.
+
+93
+00:06:09,080 --> 00:06:10,957
+Jesi li veæ sve završio?
+
+94
+00:06:11,080 --> 00:06:14,874
+Oprao sudove, prebrisao pod,
+izluftirao stan,
+
+95
+00:06:15,000 --> 00:06:17,525
+zakljuèao ulazna vrata dvaput?
+
+96
+00:06:17,680 --> 00:06:21,124
+Onda je fizièki sistem
+Rakel-Manel spreman za seks.
+
+97
+00:06:21,280 --> 00:06:24,355
+Još uvek treba da spremiš
+stvari za sutra.
+
+98
+00:06:25,125 --> 00:06:27,525
+I super romantièan.
+
+99
+00:06:27,917 --> 00:06:29,647
+Sve imaš.
+
+100
+00:06:30,875 --> 00:06:33,374
+<i>Ali da krenemo odmah</i>
+<i>na razmenu toplote</i>
+
+101
+00:06:33,520 --> 00:06:35,571
+<i>i zakone termodinamike.</i>
+
+102
+00:06:35,720 --> 00:06:38,321
+Prvi zakon termodinamike
+je dobro poznat:
+
+103
+00:06:38,480 --> 00:06:42,200
+"Energija se ne moe stvoriti
+ili uništiti, jednostavno menja oblik".
+
+104
+00:06:42,958 --> 00:06:45,480
+Kako?
+Jednostavno šta?
+
+105
+00:06:45,640 --> 00:06:48,082
+Transformiše se, preğe
+u nešto drugo.
+
+106
+00:06:48,240 --> 00:06:49,520
+MESEC DANA KASNIJE
+- U šta?
+
+107
+00:06:49,680 --> 00:06:52,457
+Ne znam, u naklonost.
+- Naklonost?
+
+108
+00:06:52,600 --> 00:06:57,080
+Naklonost oseæam prema svom psu.
+- Ne takva, ovo je posebna naklonost.
+
+109
+00:06:57,240 --> 00:07:01,041
+Ali sinoæ smo spavali
+i rekao si da me voliš.
+
+110
+00:07:01,200 --> 00:07:03,374
+Bila sam tvoj proton
+a ti moj elektron.
+
+111
+00:07:03,520 --> 00:07:06,249
+Zvao si me malena.
+- Uglavnom sam te zvao Rakel.
+
+112
+00:07:06,400 --> 00:07:08,874
+Šta to prièaš, Manel?
+Šta se desilo?
+
+113
+00:07:09,000 --> 00:07:11,815
+Ljubav se ne moe promeniti
+preko noæi!
+
+114
+00:07:13,042 --> 00:07:14,749
+<i>Dobro, nije bilo preko noæi.</i>
+
+115
+00:07:14,880 --> 00:07:18,827
+Znaèi nije bilo preko noæi?
+- Ne, nije.
+
+116
+00:07:18,960 --> 00:07:19,760
+GODINU DANA KASNIJE
+
+117
+00:07:19,987 --> 00:07:21,416
+Odluèili smo da napravimo
+pauzu pre 3 meseca.
+
+118
+00:07:21,560 --> 00:07:25,383
+Dva meseca, 18 dana i 6 sati
+od kako si TI to traila.
+
+119
+00:07:25,695 --> 00:07:28,403
+Taèno, nije bilo preko noæi.
+
+120
+00:07:28,560 --> 00:07:31,520
+Ne govoriš mi istinu.
+- Šta? Kaem ti da te ne volim više.
+
+121
+00:07:31,680 --> 00:07:33,332
+<i>Ne, ne govoriš mi</i>
+<i>potpunu istinu.</i>
+
+122
+00:07:33,480 --> 00:07:34,876
+Šta drugo hoæeš da kaem?
+
+123
+00:07:35,000 --> 00:07:37,725
+Zašto se tvoja ljubav promenila?
+- Veæ sam ti rekla.
+
+124
+00:07:37,880 --> 00:07:41,440
+Lubav se ne menja tek tako,
+preko noæi!
+
+125
+00:07:42,000 --> 00:07:44,082
+Vrtiš se u krug.
+<i>- Ne, nije taèno.</i>
+
+126
+00:07:44,240 --> 00:07:45,666
+Reci.
+- Šta da kaem?
+
+127
+00:07:45,800 --> 00:07:48,832
+U šta se tvoja ljubav
+stvarno pretvorila?
+
+128
+00:07:48,960 --> 00:07:50,666
+Stvarno hoæeš da znaš?
+- Duguješ mi toliko.
+
+129
+00:07:50,800 --> 00:07:54,120
+U indiferentnost.
+- Misliš li da sam toliki idiot?
+
+130
+00:07:54,280 --> 00:07:57,685
+Indiferentnost je ono što ostane
+kad se ljubav promeni u nešto drugo.
+
+131
+00:07:57,880 --> 00:08:01,280
+Ne razumem te.
+- Savršeno me razumeš. Reci.
+
+132
+00:08:01,440 --> 00:08:02,416
+Reci mi, molim te.
+
+133
+00:08:02,560 --> 00:08:03,332
+Molim te, reci.
+
+134
+00:08:03,480 --> 00:08:04,041
+Reci!
+
+135
+00:08:04,200 --> 00:08:06,840
+Postoji neko drugi.
+- Postoji neko drugi.
+
+136
+00:08:07,000 --> 00:08:08,689
+MESEC DANA KASNIJE - GODINU DANA KASNIJE
+
+137
+00:08:08,840 --> 00:08:11,821
+<i>Prvi zakon termodinamike</i>
+<i>je da se u svakom sistemu,</i>
+
+138
+00:08:12,000 --> 00:08:15,200
+<i>pod uslovom da su izolovani,</i>
+energija transformiše,
+
+139
+00:08:15,360 --> 00:08:18,813
+ali kolièina energije
+u sistemu uvek ostaje ista.
+
+140
+00:08:19,231 --> 00:08:21,916
+<i>Druga stvar je, recimo, kvalitet</i>
+
+141
+00:08:22,040 --> 00:08:25,491
+<i>te energije nakon</i>
+<i>svake transformacije.</i>
+
+142
+00:08:26,788 --> 00:08:29,559
+<i>Kvalitet moe opasti</i>
+<i>tako da preğe iz</i>
+
+143
+00:08:29,584 --> 00:08:33,692
+<i>jedne forme korisne energije</i>
+<i>u oslobağanje toplote.</i>
+
+144
+00:08:34,333 --> 00:08:38,041
+<i>Što nas dovodi do drugog</i>
+<i>zakona termodinamike.</i>
+
+145
+00:08:38,200 --> 00:08:39,782
+Samo trenutak!
+- Samo trenutak!
+
+146
+00:08:40,083 --> 00:08:42,098
+<i>Ali da ne brzamo.</i>
+
+147
+00:08:42,792 --> 00:08:45,124
+<i>Da bi potpuno shvatili</i>
+<i>šta se dešava,</i>
+
+148
+00:08:45,280 --> 00:08:49,880
+<i>moramo se vratiti unazad</i>
+<i>do trenutka kad je sve poèelo.</i>
+
+149
+00:08:50,040 --> 00:08:54,470
+<i>Osoba koja je ustanovila univerzalne</i>
+<i>nauène zakone, bila je Isak Njutn.</i>
+
+150
+00:08:54,640 --> 00:08:57,310
+<i>Nauèio nas je da se</i>
+<i>svemir moe razumeti</i>
+
+151
+00:08:57,440 --> 00:09:00,241
+<i>prihvatljivim terminima,</i>
+<i>matematièki.</i>
+
+152
+00:09:00,400 --> 00:09:04,391
+pogotovo njegovim zakonima
+kretanja i gravitacije.
+
+153
+00:09:05,677 --> 00:09:08,127
+<i>Prvi zakon kretanja,</i>
+<i>zakon inercije,</i>
+
+154
+00:09:08,280 --> 00:09:11,112
+<i>glasi: ako se objekat kreæe</i>
+<i>i ništa ne dodiruje,</i>
+
+155
+00:09:11,240 --> 00:09:14,557
+<i>ako je neprekinut, on æe</i>
+<i>nastaviti kretanje u pravoj liniji</i>
+
+156
+00:09:14,680 --> 00:09:17,230
+<i>nepromenljivom brzinom zauvek.</i>
+
+157
+00:09:17,500 --> 00:09:22,207
+<i>Inercija. To je ono što u ovom</i>
+<i>trenutku deluje na telo-Manel.</i>
+
+158
+00:09:22,360 --> 00:09:24,874
+<i>I uopšte,</i>
+<i>sve do ovog trenutka.</i>
+
+159
+00:09:25,000 --> 00:09:27,124
+Da li me voliš?
+- Ludo.
+
+160
+00:09:27,280 --> 00:09:29,582
+<i>No, hajde da nastavimo</i>
+<i>sa zakonom kretanja.</i>
+
+161
+00:09:29,720 --> 00:09:34,257
+<i>Devojka koju sada vidite ili telo-Eva</i>
+<i>æe nam pomoæi da objasnimo drugi zakon.</i>
+
+162
+00:09:34,400 --> 00:09:39,142
+Telo ubrzava proporcionalno velièini
+sile koja deluje na njega.
+
+163
+00:09:39,280 --> 00:09:44,249
+<i>U ovom sluèaju, sila koja pokreæe Evu</i>
+<i>se zove Rosa, koja je njena majka.</i>
+
+164
+00:09:44,400 --> 00:09:47,137
+<i>Ona je èeka veæ 15 minuta</i>
+<i>da ruèaju.</i>
+
+165
+00:09:48,000 --> 00:09:51,360
+<i>A ovde moemo videti efekte</i>
+<i>treæeg zakona.</i>
+
+166
+00:09:52,248 --> 00:09:54,286
+<i>Treæi zakon kretanja glasi:</i>
+
+167
+00:09:54,440 --> 00:09:58,240
+<i>svaka sila akcije primenjene na telo</i>
+<i>izaziva silu reakcije</i>
+
+168
+00:09:58,400 --> 00:10:01,480
+<i>koja je iste jaèine</i>
+<i>ali suprotnog smera.</i>
+
+169
+00:10:02,173 --> 00:10:04,725
+<i>To je princip akcije i reakcije.</i>
+
+170
+00:10:04,880 --> 00:10:06,150
+<i>Akcija,</i>
+
+171
+00:10:06,375 --> 00:10:07,815
+<i>reakcija.</i>
+
+172
+00:10:08,875 --> 00:10:11,775
+<i>Ali Njutnov veliki doprinos</i>
+<i>ne završava ovde,</i>
+
+173
+00:10:12,292 --> 00:10:15,572
+<i>niti dogağaj koji zapoèinje našu prièu.</i>
+
+174
+00:10:17,208 --> 00:10:20,028
+<i>Dozvolite da vam predstavim</i>
+<i>telo-Pablo</i>
+
+175
+00:10:20,200 --> 00:10:23,983
+<i>i jedan od kljuènih zakona</i>
+<i>fizike i ove prièe.</i>
+
+176
+00:10:24,250 --> 00:10:26,400
+<i>Zakon gravitacije</i>
+
+177
+00:10:26,560 --> 00:10:28,687
+<i>ili privlaèenje tela.</i>
+
+178
+00:10:33,536 --> 00:10:37,241
+Zakon gravitacije tvrdi da
+gravitaciono privlaèenje dva tela
+
+179
+00:10:37,400 --> 00:10:39,445
+<i>zavisi od proizvoda njihove mase</i>
+
+180
+00:10:39,911 --> 00:10:43,546
+<i>i obrnuto je proporcionalna</i>
+<i>udaljenosti izmeğu njih.</i>
+
+181
+00:10:44,542 --> 00:10:48,692
+<i>Ovaj zakon je toliko vaan</i>
+<i>da ovde treba zastati na tren.</i>
+
+182
+00:10:51,902 --> 00:10:55,167
+<i>Njutnov veliki intelektualni iskorak</i>
+<i>je bilo shvatanje gavitacije</i>
+
+183
+00:10:55,320 --> 00:10:57,897
+<i>kao razloga zašto se planete</i>
+<i>kreæu oko sunca</i>
+
+184
+00:10:58,040 --> 00:11:00,718
+<i>i zašto baèene stvari</i>
+<i>padaju nazad na zemlju.</i>
+
+185
+00:11:02,052 --> 00:11:03,799
+<i>To mnogo objašnjava.</i>
+
+186
+00:11:09,750 --> 00:11:12,780
+<i>Gravitacija tela zavisi</i>
+<i>od njegove mase,</i>
+
+187
+00:11:12,920 --> 00:11:14,999
+<i>koju ne smemo identifikovati</i>
+<i>njihovom teinom,</i>
+
+188
+00:11:15,120 --> 00:11:17,541
+<i>veæ kolièinom privlaènog materijala.</i>
+
+189
+00:11:17,680 --> 00:11:21,982
+<i>Zato su telo-Pablo</i>
+<i>i telo-debeljko privuèeni</i>
+
+190
+00:11:22,208 --> 00:11:25,249
+<i>i padaju na super-masivno</i>
+<i>telo-Elena,</i>
+
+191
+00:11:25,400 --> 00:11:27,480
+<i>a ne obrnuto.</i>
+
+192
+00:11:33,552 --> 00:11:37,899
+<i>Iako znamo formulu, zahvaljujuæi Njutnu,</i>
+<i>zanimljiva stvar je da</i>
+
+193
+00:11:38,040 --> 00:11:41,456
+ostaje misterija šta je
+taèno gravitacija.
+
+194
+00:11:41,632 --> 00:11:43,412
+<i>Mi zapravo ne znamo</i>
+<i>odakle dolazi</i>
+
+195
+00:11:43,560 --> 00:11:45,711
+<i>ili zašto tela privlaèe</i>
+<i>jedno drugo,</i>
+
+196
+00:11:46,121 --> 00:11:47,765
+<i>ali znamo da to rade.</i>
+
+197
+00:11:53,958 --> 00:11:55,249
+<i>Gravitacija.</i>
+
+198
+00:11:55,400 --> 00:11:57,957
+<i>Ona sama nas moe pokrenuti,</i>
+
+199
+00:11:58,080 --> 00:12:00,398
+<i>promeniti pravac našeg puta</i>
+
+200
+00:12:02,708 --> 00:12:05,108
+<i>ili nas dezintegrisati.</i>
+
+201
+00:12:13,635 --> 00:12:15,720
+Boe, šta se desilo?
+Izvini, jesi li povreğen?
+
+202
+00:12:15,880 --> 00:12:17,749
+Kakav udarac, jesi li dobro?
+- Da.
+
+203
+00:12:17,880 --> 00:12:21,041
+Majko moja, razbio sam ti glavu.
+Zašto si ti na zemlji?
+
+204
+00:12:21,200 --> 00:12:24,040
+To si morao biti ti.
+- Poznajete se?
+
+205
+00:12:24,200 --> 00:12:27,240
+Radite ovo namerno?
+- Ne bi me iznenadilo da si ovo planirao.
+
+206
+00:12:27,400 --> 00:12:29,416
+Ti si onaj sa uvrnutim idejama.
+
+207
+00:12:29,560 --> 00:12:32,707
+I ne, nije bilo namerno.
+Nije mi toliko stalo da te upoznam.
+
+208
+00:12:32,840 --> 00:12:35,082
+I da, dobro sam. A ti?
+
+209
+00:12:35,080 --> 00:12:37,416
+Vidim zvezde, ali dobro sam, da.
+
+210
+00:12:37,560 --> 00:12:41,600
+ao mi je, ne znam šta
+sam mislio. - Dobro smo, hvala.
+
+211
+00:12:41,760 --> 00:12:43,278
+Hvala.
+
+212
+00:12:43,750 --> 00:12:45,124
+Hvala.
+
+213
+00:12:45,280 --> 00:12:47,749
+Išli smo na piæe na terasi.
+
+214
+00:12:47,880 --> 00:12:50,166
+Da li biste nam se pridruile
+dok se oporavljamo?
+
+215
+00:12:50,320 --> 00:12:54,600
+Što da ne, nema problema.
+- Dobro, dok mi ne doğe prijatelj.
+
+216
+00:12:54,760 --> 00:12:58,240
+Ovo je Manel, ja sam Pablo.
+- Ja sam Eva, udarena.
+
+217
+00:12:58,400 --> 00:13:00,320
+Kao i ja.
+
+218
+00:13:00,708 --> 00:13:02,318
+Ja sam Manel.
+
+219
+00:13:03,125 --> 00:13:06,200
+Ne, hvala.
+- Elena, je li tako?
+
+220
+00:13:06,625 --> 00:13:09,166
+Izgledaš sjajno na svim
+fotkama. Spektakularno.
+
+221
+00:13:09,320 --> 00:13:11,332
+Ali kampanja je malo glupa.
+
+222
+00:13:11,480 --> 00:13:13,749
+Znaš, mi publicisti sve kritikujemo.
+
+223
+00:13:13,880 --> 00:13:15,820
+Da? Nisam primetila.
+
+224
+00:13:16,708 --> 00:13:18,874
+A vi, šta vi radite?
+
+225
+00:13:19,000 --> 00:13:21,416
+Ja sam advokat, krivièar.
+Skoro sam otvorila
+
+226
+00:13:21,560 --> 00:13:24,147
+svoju kancelariju.
+- Kako hrabro.
+
+227
+00:13:24,167 --> 00:13:25,840
+Nemaš pojma.
+
+228
+00:13:26,080 --> 00:13:28,840
+A ti?
+- Ja sam astrofizièar.
+
+229
+00:13:29,000 --> 00:13:31,832
+Pišem tezu o termodinamici
+u kompleksnim sistemima.
+
+230
+00:13:31,960 --> 00:13:32,749
+Da?
+
+231
+00:13:32,880 --> 00:13:36,530
+Baš zanimljivo.
+- On je genije u svom poslu.
+
+232
+00:13:36,708 --> 00:13:39,666
+<i>Ovde je sve poèelo.</i>
+<i>Sreæom, gravitacija</i>
+
+233
+00:13:39,800 --> 00:13:42,082
+<i>nije jedina sila prirode.</i>
+
+234
+00:13:42,240 --> 00:13:45,249
+I kako se termodinamika ponaša
+
+235
+00:13:45,400 --> 00:13:48,650
+u kompleksnim sistemima?
+- Veoma je lako...
+
+236
+00:13:49,500 --> 00:13:52,957
+<i>Šteta što u svemiru ima</i>
+<i>toliko super-masivnih tela.</i>
+
+237
+00:13:53,080 --> 00:13:54,478
+Æao.
+
+238
+00:13:54,875 --> 00:13:58,440
+Kako si? Vidi, ovo su
+Pablo, Eva i...
+
+239
+00:13:58,708 --> 00:14:00,108
+Manel.
+
+240
+00:14:00,417 --> 00:14:02,457
+Spremna si?
+Ostali su veæ tu.
+
+241
+00:14:02,600 --> 00:14:04,148
+Dobro, dolazim.
+
+242
+00:14:07,750 --> 00:14:09,916
+Ne brini za to, ja æu.
+- Da? Hvala.
+
+243
+00:14:10,040 --> 00:14:13,207
+Bilo je lepo sudariti
+se sa vama ljudi.
+
+244
+00:14:13,360 --> 00:14:16,280
+Takoğe. - Sa zadovoljstvom
+sam šokiran.
+
+245
+00:14:16,440 --> 00:14:17,692
+Æao.
+
+246
+00:14:18,208 --> 00:14:20,028
+Elena!
+
+247
+00:14:20,200 --> 00:14:24,520
+Evo ti moja vizitka. Nazovi me
+kad spadne otok, da proslavimo.
+
+248
+00:14:24,720 --> 00:14:27,541
+Vai? Svo èetvoro.
+Zabaviæemo se.
+
+249
+00:14:27,680 --> 00:14:30,822
+Naravno. Ko se prvi oporavi
+nek pozove.
+
+250
+00:14:31,125 --> 00:14:32,775
+Dobro, dogovoreno.
+
+251
+00:14:32,920 --> 00:14:34,232
+Æao.
+
+252
+00:14:39,375 --> 00:14:42,320
+Predivna je, zar ne?
+- Da, ok je.
+
+253
+00:14:42,480 --> 00:14:45,533
+Nisi ni ti loša, pored hrabrosti.
+
+254
+00:14:49,160 --> 00:14:51,291
+Izlazim veèeras na piæe
+sa Pablom
+
+255
+00:14:51,440 --> 00:14:53,902
+i nekim njegovim
+kolegama s posla.
+
+256
+00:14:54,708 --> 00:14:58,148
+Moda æe Pablito naæi devojku...
+
+257
+00:14:59,864 --> 00:15:02,754
+<i>Njutnovi zakoni su stvarno revolucionarni.</i>
+
+258
+00:15:09,082 --> 00:15:13,506
+<i>Ali drugi brilijantni umovi pre njega</i>
+<i>su takoğe došli do neverovatnih otkriæa.</i>
+
+259
+00:15:13,640 --> 00:15:16,065
+<i>Nikola Kopernik i Galileo Galilej</i>
+
+260
+00:15:16,240 --> 00:15:20,303
+su zapoèeli novu nauènu eru
+u 16-om veku.
+
+261
+00:15:20,472 --> 00:15:23,685
+<i>Prethodno su ljudi mislili</i>
+<i>da sunce,</i>
+
+262
+00:15:24,571 --> 00:15:26,148
+<i>planete,</i>
+
+263
+00:15:27,381 --> 00:15:31,467
+<i>mesec,</i>
+<i>svi oni se okreæu oko zemlje.</i>
+
+264
+00:15:34,794 --> 00:15:39,407
+<i>Ono što su Kopernik i Galileo rekli,</i>
+<i>bilo je: "probudite se, ljudi."</i>
+
+265
+00:15:39,690 --> 00:15:42,635
+<i>Mi smo ti koji se okreæemo</i>
+<i>oko sunca</i>
+
+266
+00:15:42,760 --> 00:15:44,717
+<i>kao i sve ostale planete.</i>
+
+267
+00:15:45,417 --> 00:15:49,687
+Da li shvataš da si stvorila mali
+solarni sistem na podijumu?
+
+268
+00:15:51,542 --> 00:15:54,457
+Imaš masu planeta raznih vrsta.
+
+269
+00:15:54,600 --> 00:16:00,401
+Pogledaj, dinovske planete...
+pustinjske...
+
+270
+00:16:02,542 --> 00:16:04,822
+gasne planete...
+
+271
+00:16:07,250 --> 00:16:09,360
+crvene planete...
+
+272
+00:16:09,583 --> 00:16:12,133
+èak i naseljene.
+
+273
+00:16:12,333 --> 00:16:14,823
+I ja sam bio naseljen sa 16.
+
+274
+00:16:15,042 --> 00:16:16,482
+Zaista.
+
+275
+00:16:16,792 --> 00:16:18,457
+Jesi li i ti planeta?
+
+276
+00:16:18,600 --> 00:16:22,400
+Ja sam Merkur.
+Sagorevam dok prièamo.
+
+277
+00:16:26,958 --> 00:16:30,760
+Vidi, imaš èak i planetu
+sa sopstvenim mesecom.
+
+278
+00:16:44,719 --> 00:16:47,948
+<i>Ovo otkriæe je izazvalo dramatiènu</i>
+<i>promenu jer je znaèilo</i>
+
+279
+00:16:48,080 --> 00:16:51,307
+<i>da Zemlja više nije</i>
+<i>centar univerzuma.</i>
+
+280
+00:16:51,440 --> 00:16:54,330
+<i>Bila je zapravo samo</i>
+<i>još jedna planeta,</i>
+
+281
+00:16:54,480 --> 00:16:56,474
+još jedno èudesno telo.
+
+282
+00:16:58,409 --> 00:17:01,070
+<i>I drugi veliki um koji je</i>
+omoguæio Njutnov rad,
+
+283
+00:17:01,200 --> 00:17:04,558
+bio je Kepler sa svojim zakonom
+<i>planetarnih orbita.</i>
+
+284
+00:17:04,680 --> 00:17:09,800
+Vidi ti to, mislim da i tvoji oboavaoci
+prate iste zakone kao planete oko sunca.
+
+285
+00:17:09,960 --> 00:17:12,457
+Ti si lud.
+- Ozbiljno. Keplerovi zakoni.
+
+286
+00:17:12,600 --> 00:17:15,249
+Ako paljivo pogledaš,
+oni se ne kreæu u krugovima.
+
+287
+00:17:15,400 --> 00:17:18,041
+Kada su iza tebe,
+udaljavaju se.
+
+288
+00:17:18,200 --> 00:17:20,374
+A kada su ispred,
+onda se kreæu blie.
+
+289
+00:17:20,520 --> 00:17:24,082
+Zato, ako ih pogledaš,
+oni æe pratiti elipsu.
+
+290
+00:17:24,240 --> 00:17:25,943
+Svi na podijumu.
+
+291
+00:17:26,375 --> 00:17:29,749
+Pošto ne ele da izgledaju oèajni,
+
+292
+00:17:29,880 --> 00:17:33,150
+kada prolaze ispred tebe,
+iæi æe malo bre.
+
+293
+00:17:33,250 --> 00:17:35,400
+Ima li još zakona?
+- Još jedan.
+
+294
+00:17:35,560 --> 00:17:39,680
+Planete, èije su orbite udaljenije
+kreæu se malo sporije. Verovatno zato
+
+295
+00:17:39,708 --> 00:17:42,207
+što blie planete
+èiniš nervoznijim.
+
+296
+00:17:42,360 --> 00:17:45,082
+Znaèi, ako priğeš blie
+biæeš nervozniji?
+
+297
+00:17:45,240 --> 00:17:48,363
+Poèeæu emitovati ultravioletno zraèenje.
+
+298
+00:17:51,875 --> 00:17:53,355
+A ovde?
+
+299
+00:17:53,833 --> 00:17:56,823
+Ovde rizikujemo kosmièki sudar.
+
+300
+00:17:57,833 --> 00:18:00,533
+Ti si lud...
+ali sladak.
+
+301
+00:18:27,270 --> 00:18:31,521
+<i>I tako su zakoni klasiène</i>
+<i>fizike bili uspostavljeni.</i>
+
+302
+00:18:33,583 --> 00:18:36,862
+<i>Ali bilo je još mnogo</i>
+<i>toga da se otkrije.</i>
+
+303
+00:18:37,000 --> 00:18:41,453
+<i>Uskoro æe se pojaviti nove pukotine</i>
+<i>u našem razumevanju sveta,</i>
+
+304
+00:18:41,600 --> 00:18:46,350
+<i>i pojaviæe se nova pitanja za koja æe biti</i>
+<i>potrebno dosta vremena naæi odgovor.</i>
+
+305
+00:18:46,480 --> 00:18:48,055
+Samo malo!
+- Samo malo!
+
+306
+00:18:48,792 --> 00:18:49,499
+Ko je to?
+
+307
+00:18:49,640 --> 00:18:51,624
+Ko je ko?
+- Šta misliš?
+
+308
+00:18:51,760 --> 00:18:52,999
+Zar je to sad bitno?
+
+309
+00:18:53,000 --> 00:18:54,207
+To je "Lorenaco", zar ne?
+
+310
+00:18:54,360 --> 00:18:55,499
+Kako znaš?
+
+311
+00:18:55,640 --> 00:18:58,610
+Ne znaš èak ni da laeš.
+- Uasan si laov.
+
+312
+00:19:01,750 --> 00:19:04,280
+<i>Raèun... traili ste da donesem.</i>
+
+313
+00:19:08,917 --> 00:19:10,527
+Manel, ne radi to.
+
+314
+00:19:10,708 --> 00:19:14,200
+Molim te, razmisli. Znam te,
+nije ona za tebe.
+
+315
+00:19:14,360 --> 00:19:17,166
+Radi šta god hoæeš,
+jebe mi se.
+
+316
+00:19:17,320 --> 00:19:19,791
+Ali kaem ti, taj tip
+æe te zajebati.
+
+317
+00:19:19,920 --> 00:19:23,666
+Ona je top model, mulatkinja.
+Svi je ele.
+
+318
+00:19:23,800 --> 00:19:26,582
+Glumac i model.
+Znaš li šta to znaèi?
+
+319
+00:19:26,720 --> 00:19:28,832
+Njegov posao je da jebe
+sve što se kreæe!
+
+320
+00:19:28,960 --> 00:19:32,249
+Misliš da æe trpeti tvoj red
+i opsesije kao ja?
+
+321
+00:19:32,400 --> 00:19:35,320
+Da æe ceniti tvoje apsurdne teorije
+o ljubavi i zakonima fizike?
+
+322
+00:19:35,440 --> 00:19:37,957
+Misliš da æe se smiriti
+s jednom manekenkom
+
+323
+00:19:38,080 --> 00:19:41,582
+kad moe imati svaki dan
+po jednu, koja je još i glumica?
+
+324
+00:19:41,720 --> 00:19:44,332
+Patiæeš èak i kad si
+na vrhuncu.
+
+325
+00:19:44,480 --> 00:19:48,403
+Sedeæu ispred vrata i gledati
+kako prolazi tvoj leš.
+
+326
+00:19:51,167 --> 00:19:52,749
+Rekao sam ti da æe
+se ovo desiti.
+
+327
+00:19:52,880 --> 00:19:55,791
+I dok si insistirala da ti
+je potrebno da razmisliš,
+
+328
+00:19:55,920 --> 00:19:58,072
+ti si se jebala s tim drkadijom.
+
+329
+00:19:59,292 --> 00:20:01,124
+Jebeni pastuv.
+
+330
+00:20:01,280 --> 00:20:05,124
+Hvala Bogu da sam video šta
+se sprema pa sam se pripremio.
+
+331
+00:20:05,280 --> 00:20:10,105
+U suprotnom bi me šutnula
+i sad bih se oseæao kao govno.
+
+332
+00:20:11,458 --> 00:20:13,978
+<i>Ali idemo ponovo napred.</i>
+
+333
+00:20:14,708 --> 00:20:16,707
+<i>Pre nego što nastavimo</i>
+<i>s termodinamikom,</i>
+
+334
+00:20:16,840 --> 00:20:19,791
+<i>treba da se vratimo</i>
+<i>na odnos i nauku</i>
+
+335
+00:20:19,960 --> 00:20:23,999
+<i>u vreme sreænih otkriæa</i>
+<i>i vere u znanje,</i>
+
+336
+00:20:24,120 --> 00:20:27,280
+<i>na slatku epohu</i>
+<i>klasiène fizike.</i>
+
+337
+00:20:29,208 --> 00:20:31,858
+Ti si deda!
+
+338
+00:20:37,375 --> 00:20:39,435
+Ovo je moje omiljeno mesto.
+
+339
+00:20:47,033 --> 00:20:49,070
+<i>Tokom dva veka nakon Njutna,</i>
+
+340
+00:20:49,200 --> 00:20:54,142
+<i>mogli smo zaroniti dublje</i>
+<i>u tajne materije...</i>
+
+341
+00:20:54,280 --> 00:20:56,800
+Govno! Doğavola!
+- I to veliko.
+
+342
+00:20:56,960 --> 00:20:59,265
+<i>... i sile koje je kontrolišu.</i>
+
+343
+00:20:59,958 --> 00:21:03,080
+Molim te...
+Ne dodiruj me tim.
+
+344
+00:21:15,958 --> 00:21:18,082
+<i>Gravitacija je moæna sila</i>
+
+345
+00:21:18,240 --> 00:21:21,153
+<i>kada doğe do privlaèenja</i>
+<i>tela jedno drugom.</i>
+
+346
+00:21:24,000 --> 00:21:27,000
+<i>Ali prestaje da bude jednom</i>
+<i>kada se veæ spoje.</i>
+
+347
+00:21:27,160 --> 00:21:29,039
+<i>Kada doğe na malu udaljenost,</i>
+
+348
+00:21:29,160 --> 00:21:32,584
+<i>druge sile postaju</i>
+<i>znaèajnije od gravitacije.</i>
+
+349
+00:21:34,060 --> 00:21:36,426
+<i>To su druge tri osnovne sile</i>
+
+350
+00:21:36,560 --> 00:21:41,124
+<i>koje odreğuju ponašanje molekularnih</i>
+atomskih i subatomskih èestica.
+
+351
+00:21:41,375 --> 00:21:43,041
+<i>Zato, hajde da prouèimo tri sile</i>
+
+352
+00:21:43,200 --> 00:21:46,902
+<i>u odnosu na naš poseban</i>
+<i>atomski sistem, Manel-Elena.</i>
+
+353
+00:21:49,670 --> 00:21:53,178
+<i>Najpoznatija od tih sila</i>
+<i>je elektromagnetna sila,</i>
+
+354
+00:21:53,320 --> 00:21:55,043
+<i>koja, na veoma malim udaljenostima,</i>
+
+355
+00:21:55,200 --> 00:21:58,417
+<i>je neuporedivo intenzivnija</i>
+<i>od gravitacione sile.</i>
+
+356
+00:21:58,560 --> 00:22:03,220
+Meğutim, elektromagnetna sila
+moe delovati u dva smera.
+
+357
+00:22:03,360 --> 00:22:07,250
+<i>Moe biti ili privlaèna</i>
+<i>ili odbojna.</i>
+
+358
+00:22:11,018 --> 00:22:13,556
+<i>Delovanje elektromagnetizma</i>
+
+359
+00:22:13,680 --> 00:22:17,456
+je prisutno u skoro svakom
+aspektu svakodnevnog ivota.
+
+360
+00:22:17,625 --> 00:22:20,047
+Ovde rizikujemo kosmièki sudar.
+
+361
+00:22:20,200 --> 00:22:24,787
+<i>Takoğe je odgovorna za sve što</i>
+<i>se dešava u hemiji i biologiji.</i>
+
+362
+00:22:24,920 --> 00:22:27,207
+Ti si lud... ali sladak.
+
+363
+00:22:27,360 --> 00:22:28,249
+<i>Hemija.</i>
+
+364
+00:22:28,400 --> 00:22:33,110
+<i>Hemija je bila odgovorna da Elena</i>
+<i>izabere mene umesto Pabla te noæi.</i>
+
+365
+00:22:35,083 --> 00:22:39,363
+<i>Ona takoğe omoguæava da sve</i>
+<i>ide glatko izmeğu èestica.</i>
+
+366
+00:22:41,458 --> 00:22:42,916
+Dobro, Elena...
+
+367
+00:22:42,917 --> 00:22:46,874
+Bilo je pravo zadovoljstvo.
+Moeš zvati Pabla, imaš njegov broj,
+
+368
+00:22:47,000 --> 00:22:50,145
+ako hoæeš da se vidite ponekad.
+- Nije on sa mnom.
+
+369
+00:22:50,917 --> 00:22:52,607
+Dobar dan.
+
+370
+00:22:54,125 --> 00:22:56,666
+<i>Ili ono što uzrokuje to peckanje</i>
+
+371
+00:22:56,760 --> 00:22:58,791
+<i>kadgod treba da vidimo</i>
+<i>drugu èesticu.</i>
+
+372
+00:22:58,920 --> 00:23:01,249
+Ne moeš uæi ovde.
+- Došao sam da vidim Elenu.
+
+373
+00:23:01,400 --> 00:23:05,320
+Ti si Manel? Samo napred,
+moeš stajati tamo.
+
+374
+00:23:21,750 --> 00:23:23,940
+<i>Kad je hemija intenzivna,</i>
+
+375
+00:23:24,833 --> 00:23:26,999
+<i>stvarno osetite elektricitet.</i>
+
+376
+00:23:27,120 --> 00:23:29,230
+Uskoro æu biti gotova.
+
+377
+00:23:39,292 --> 00:23:41,916
+Manel, ti si jako
+organizovan, zar ne?
+
+378
+00:23:42,040 --> 00:23:44,107
+Ma ne, misliš?
+
+379
+00:23:44,958 --> 00:23:48,028
+Gde je veèera?
+- U rerni.
+
+380
+00:23:48,708 --> 00:23:52,480
+A prljavi sudovi?
+Ili oni èisti?
+
+381
+00:23:52,640 --> 00:23:54,570
+To je pitanje metode.
+
+382
+00:23:55,750 --> 00:23:58,610
+Moe li malo vina, g. Metod?
+
+383
+00:23:59,417 --> 00:24:03,207
+Ono što je fascinantno u vezi nauke
+je da sve moe biti objašnjeno.
+
+384
+00:24:03,360 --> 00:24:05,749
+Na primer, zar ne misliš da je èudno,
+
+385
+00:24:05,880 --> 00:24:07,582
+da sa svim tim napretkom
+u biologiji,
+
+386
+00:24:07,720 --> 00:24:09,041
+mi i dalje ne znamo šta je ivot?
+
+387
+00:24:09,200 --> 00:24:11,457
+Da ta èuvena misterija
+i dalje nije otkrivena?
+
+388
+00:24:11,600 --> 00:24:13,108
+Ne znam, nije?
+
+389
+00:24:13,240 --> 00:24:16,560
+Moda nema šta da se otkrije.
+To je ono što iznenağuje.
+
+390
+00:24:16,720 --> 00:24:20,582
+ivot je verovatno samo posledica
+kako su se atomi organizovali,
+
+391
+00:24:20,720 --> 00:24:23,541
+drugi korak u evoluciji
+kompleksnih sistema.
+
+392
+00:24:23,680 --> 00:24:25,532
+Zato ih prouèavam.
+
+393
+00:24:25,958 --> 00:24:27,999
+Ti si taj koji je kompleksni sistem.
+
+394
+00:24:28,120 --> 00:24:31,070
+Mi smo samo skupina organizovanih atoma.
+
+395
+00:24:31,200 --> 00:24:34,943
+Èak i ako mislimo da ima neèeg
+boanskog u ivotu i da se menjamo,
+
+396
+00:24:35,080 --> 00:24:38,374
+sve je predodreğeno
+sa par osnovnih pravila.
+
+397
+00:24:38,520 --> 00:24:40,082
+Baš tuno, zar ne?
+
+398
+00:24:40,240 --> 00:24:43,082
+Ne znam, radije mislim
+da je to misterija i da
+
+399
+00:24:43,240 --> 00:24:46,280
+je ivot poseban.
+Ako nije, šta je svrha?
+
+400
+00:24:50,167 --> 00:24:54,041
+Ova grupa organizovanih atoma
+je odluèila da ode u kupatilo.
+
+401
+00:24:54,200 --> 00:24:57,760
+Ustvari, nisi ti odluèila.
+To je veæ odluèeno pre tebe.
+
+402
+00:25:14,958 --> 00:25:16,568
+Nešto si rekla?
+
+403
+00:25:17,125 --> 00:25:20,025
+Ne. Ne, zaboravila sam.
+
+404
+00:25:20,459 --> 00:25:24,271
+<i>Dejstvo druge dve fundamentalne sile</i>
+<i>je mnogo tee otkriti,</i>
+
+405
+00:25:24,400 --> 00:25:27,850
+jer deluju samo
+u unutrašnjosti nukleusa.
+
+406
+00:25:28,000 --> 00:25:30,328
+Poèeæu emitovati ultravioletno zraèenje.
+
+407
+00:25:30,480 --> 00:25:35,930
+<i>Jedna od tih sila izaziva zraèenje.</i>
+<i>Zove se slaba nuklearna sila.</i>
+
+408
+00:25:38,018 --> 00:25:41,127
+<i>Slaba sila, kao i elektromagnetna sila,</i>
+
+409
+00:25:41,280 --> 00:25:44,497
+<i>moe da privlaèi ili da odbija.</i>
+
+410
+00:25:45,841 --> 00:25:49,627
+<i>Ali to se dešava samo</i>
+<i>na najmanjim udaljenostima.</i>
+
+411
+00:25:52,042 --> 00:25:57,322
+<i>Ustvari, slaba sila nije toliko slaba</i>
+<i>niti ju je teško otkriti.</i>
+
+412
+00:25:58,500 --> 00:26:01,730
+<i>Potrebno je samo biti na pravom mestu.</i>
+
+413
+00:26:02,125 --> 00:26:05,041
+<i>U okviru atomskog sistema, ova sila</i>
+
+414
+00:26:05,200 --> 00:26:07,152
+<i>se oseæa velikim intenzitetom.</i>
+
+415
+00:26:11,458 --> 00:26:13,438
+Reci mi da ne hrèeš.
+
+416
+00:26:14,083 --> 00:26:16,783
+FAZA 1
+
+417
+00:26:25,250 --> 00:26:26,940
+Æao!
+
+418
+00:26:28,000 --> 00:26:30,230
+Znaèi ovde spremaš
+svoju tezu?
+
+419
+00:26:31,958 --> 00:26:34,398
+Donela sam ti poklon,
+nisam mogla odoleti.
+
+420
+00:26:34,708 --> 00:26:36,791
+Šta? 
+Zašto?
+
+421
+00:26:36,920 --> 00:26:38,499
+Zato što to nije tvoj stil...
+
+422
+00:26:38,640 --> 00:26:41,860
+i dokazuje da g. Metod nije
+izgubljen sluèaj. Postoji nada.
+
+423
+00:26:42,250 --> 00:26:44,110
+Prelepo je.
+
+424
+00:26:45,667 --> 00:26:48,374
+Identièno je, kako si to uspela?
+
+425
+00:26:48,520 --> 00:26:51,541
+Morala sam odvesti vajara
+u park da uzme otisak.
+
+426
+00:26:51,680 --> 00:26:53,166
+Zaista?
+- Da.
+
+427
+00:26:53,280 --> 00:26:55,332
+Umalo nismo uhvaæeni.
+Bilo je zabavno.
+
+428
+00:26:55,480 --> 00:26:58,653
+Mislim da je to najbolji poklon
+koji sam ikada dobio.
+
+429
+00:27:04,750 --> 00:27:06,690
+Uzmite sobu!
+
+430
+00:27:09,167 --> 00:27:11,477
+Hajdemo kod tebe da izaberemo
+mesto za njega.
+
+431
+00:27:18,590 --> 00:27:23,367
+<i>A onda je tu jaka nuklearna sila,</i>
+<i>najmoænija od svih njih.</i>
+
+432
+00:27:29,002 --> 00:27:32,254
+<i>To je sila koja èuva</i>
+<i>sve èestice</i>
+
+433
+00:27:32,400 --> 00:27:35,191
+unutar nukleusa na okupu.
+
+434
+00:27:37,117 --> 00:27:41,632
+<i>Veæ znamo koliko je teško</i>
+<i>podeliti nukleus atoma.</i>
+
+435
+00:27:48,292 --> 00:27:52,532
+<i>Veæina ljudi bi rekla da je</i>
+<i>jaka nuklearna sila ljubav</i>
+
+436
+00:27:52,708 --> 00:27:55,438
+<i>jer dri èestice nerazdvojnim.</i>
+
+437
+00:27:55,560 --> 00:27:59,920
+<i>Ali paljivije analize pokazuju</i>
+<i>da je to više zavisnost.</i>
+
+438
+00:28:00,080 --> 00:28:02,360
+Prijatan dan.
+- I tebi.
+
+439
+00:28:02,520 --> 00:28:05,816
+<i>Posebna karakteristika jake</i>
+<i>nuklearne sile je da,</i>
+
+440
+00:28:05,960 --> 00:28:09,979
+<i>za razliku od elektromagnetizma,</i>
+ne slabi sa udaljavanjem.
+
+441
+00:28:10,120 --> 00:28:12,176
+Zapravo se pojaèava.
+
+442
+00:28:13,670 --> 00:28:17,026
+<i>To je kao da imate dve èestice</i>
+<i>povezane gumicom.</i>
+
+443
+00:28:17,160 --> 00:28:20,989
+<i>Što ih više udaljite,</i>
+<i>privlaèenje æe biti jaèe.</i>
+
+444
+00:28:22,500 --> 00:28:24,999
+<i>Što je druga èestica udaljenija,</i>
+
+445
+00:28:25,160 --> 00:28:27,150
+<i>više vam je potrebna.</i>
+
+446
+00:28:27,917 --> 00:28:30,567
+<i>A kad gumica pukne,</i>
+
+447
+00:28:31,000 --> 00:28:34,190
+<i>dešava se kao da je eksplodirala atomska bomba.</i>
+
+448
+00:29:17,083 --> 00:29:20,193
+eliš da èuješ tajnu?
+- Molim te.
+
+449
+00:29:20,708 --> 00:29:23,478
+Ti si prvi kome govorim.
+
+450
+00:29:25,292 --> 00:29:29,720
+Hoæu da budem glumica.
+Dobro, to sam oduvek htela...
+
+451
+00:29:29,880 --> 00:29:34,249
+jer mi se sviğa ideja
+da prestanem biti ja
+
+452
+00:29:34,400 --> 00:29:36,900
+i pretvaram se da sam
+neko drugi, ivim druge ivote,
+
+453
+00:29:37,080 --> 00:29:39,916
+upoznajem razlièite ljude
+sa svojim prièama...
+
+454
+00:29:40,040 --> 00:29:45,520
+Seæaš li se momka s kim sam
+prièala posle snimanja? Sa crnim šeširom?
+
+455
+00:29:45,917 --> 00:29:47,666
+Onaj što te prodirao oèima?
+
+456
+00:29:47,800 --> 00:29:49,357
+Da, taj.
+
+457
+00:29:49,708 --> 00:29:54,358
+Ponudio mi je ulogu
+u kratkom filmu.
+
+458
+00:29:54,480 --> 00:29:58,608
+Nisam još proèitala scenario,
+ali sad sam odluèila da prihvatim.
+
+459
+00:30:02,125 --> 00:30:04,725
+Hvala što deliš svoju
+tajnu sa mnom.
+
+460
+00:30:09,958 --> 00:30:12,707
+<i>Pitanje koje verovatno</i>
+<i>postavljate sebi,</i>
+
+461
+00:30:12,840 --> 00:30:15,457
+<i>da li ista sila deluje</i>
+<i>na njih,</i>
+
+462
+00:30:15,600 --> 00:30:18,108
+<i>da li je oseæaju istim intenzitetom?</i>
+
+463
+00:30:21,833 --> 00:30:25,680
+Volim t... biti s tobom.
+- Vidi kako lep bicikl!
+
+464
+00:30:27,750 --> 00:30:28,624
+<i>Vidite.</i>
+
+465
+00:30:28,760 --> 00:30:34,840
+<i>Neki znaci ukazuju da te sile moda</i>
+<i>nemaju potpuno isti efekat na obe èestice.</i>
+
+466
+00:30:36,125 --> 00:30:37,291
+Reci mi da ne hrèeš.
+
+467
+00:30:37,440 --> 00:30:42,124
+<i>Za drugu èesticu, slaba nuklearna</i>
+<i>sila, moda je preslaba.</i>
+
+468
+00:30:42,280 --> 00:30:45,775
+Izvini, ali ne mogu spavati
+u istom krevetu sa nekim.
+
+469
+00:30:46,250 --> 00:30:51,080
+<i>Ili elektromagnetno punjenje</i>
+<i>moda nije dovoljno kompementarno.</i>
+
+470
+00:30:53,042 --> 00:30:56,707
+<i>Ili jaka sila gumice, moda</i>
+<i>je preelastièna.</i>
+
+471
+00:30:56,840 --> 00:31:00,800
+Mnogo si mi nedostajala.
+- Meni je nedelja proletela!
+
+472
+00:31:05,458 --> 00:31:10,728
+<i>Da ne pominjem da gravitacija</i>
+<i>nikada ne prestaje da deluje na nas.</i>
+
+473
+00:31:14,708 --> 00:31:16,778
+Veæ se drite za ruke
+na ulici?
+
+474
+00:31:16,920 --> 00:31:21,280
+Samo što je sledeæeg dana našla izgovor
+da prestane. - Ali viğate se dosta, zar ne?
+
+475
+00:31:21,440 --> 00:31:24,032
+Ne, previše je zauzeta.
+
+476
+00:31:24,375 --> 00:31:26,249
+Doğavola, riba je mrak.
+
+477
+00:31:26,250 --> 00:31:29,780
+Siguran si da ne eliš
+da je vidiš? Riba je bomba.
+
+478
+00:31:29,958 --> 00:31:33,124
+Ponudili su ovu kampanju Eleni,
+ali ona nije mogla.
+
+479
+00:31:33,280 --> 00:31:34,291
+Bolje.
+
+480
+00:31:34,440 --> 00:31:40,400
+Nemaš pojma. Dan posle
+snimanja, kad smo završili...
+
+481
+00:31:44,083 --> 00:31:46,903
+Manel, moda primaš
+signale koji ne postoje.
+
+482
+00:31:47,125 --> 00:31:49,640
+Hvataš se za slamku.
+
+483
+00:31:49,800 --> 00:31:52,760
+Lepo vam je kad ste zajedno,
+zar ne? - Da.
+
+484
+00:31:52,792 --> 00:31:56,280
+Moda je samo malo uplašena.
+- Ne, tako nešto se primeti.
+
+485
+00:31:56,440 --> 00:31:58,582
+Telo ti moe reæi da li se
+druga osoba zaljubljuje ili ne.
+
+486
+00:31:58,720 --> 00:32:02,283
+Doğavola, to su velike reèi.
+Ti se zaljubljuješ?
+
+487
+00:32:02,840 --> 00:32:05,150
+Zaljubio sam se onog dana
+kada sam naleteo na nju.
+
+488
+00:32:06,292 --> 00:32:08,800
+A ti?
+- Šta ja?
+
+489
+00:32:08,960 --> 00:32:10,874
+Ti i Eva.
+- Dobro, dobro.
+
+490
+00:32:11,000 --> 00:32:13,275
+Izlazimo, imamo seks,
+lepo nam je.
+
+491
+00:32:13,417 --> 00:32:16,520
+Ali, jesi li...?
+- Šta?
+
+492
+00:32:16,680 --> 00:32:18,134
+Ni sluèajno.
+
+493
+00:32:18,280 --> 00:32:22,804
+Ne bi mi smetalo jer
+je boanstvena, ali ne.
+
+494
+00:32:24,132 --> 00:32:27,898
+A ona?
+- Ona? Ne, ni ona.
+
+495
+00:32:28,083 --> 00:32:30,041
+Bar tako mislim.
+
+496
+00:32:30,200 --> 00:32:32,362
+Nadam se da ne,
+ništa nije rekla.
+
+497
+00:32:32,520 --> 00:32:33,775
+Doğavola.
+
+498
+00:32:34,000 --> 00:32:36,624
+Ne, ne mislim tako.
+Ne.
+
+499
+00:32:36,760 --> 00:32:39,874
+Ne, definitivno ne.
+Dovraga ne.
+
+500
+00:32:40,000 --> 00:32:42,935
+Ne, ne, ne.
+
+501
+00:32:44,794 --> 00:32:46,778
+U šest?
+- Da.
+
+502
+00:32:49,542 --> 00:32:51,572
+Æao.
+Šta ima?
+
+503
+00:32:57,542 --> 00:32:59,232
+Izvini.
+
+504
+00:33:06,625 --> 00:33:10,775
+Uhvati me za ruku ili æu napraviti
+takvu scenu da neæeš verovati.
+
+505
+00:33:11,542 --> 00:33:13,732
+Ti si pravi kuèkin sin.
+
+506
+00:33:14,125 --> 00:33:17,499
+Zašto? Lepo se ponašam.
+Tretiram je ko kraljicu.
+
+507
+00:33:17,640 --> 00:33:21,280
+Kao što radiš sa svim ribama
+koje tucaš. - Naravno, ja sam dentlmen.
+
+508
+00:33:21,750 --> 00:33:23,320
+Hvala.
+
+509
+00:33:25,250 --> 00:33:27,360
+Vidi, Manel.
+
+510
+00:33:27,520 --> 00:33:31,957
+Treba da se opustiš
+i daš Eleni vremena.
+
+511
+00:33:32,080 --> 00:33:34,749
+Budi kul, neka joj nedostaješ.
+
+512
+00:33:34,880 --> 00:33:39,150
+Izlazi više, idi u teretanu,
+upoznaj i druge ribe...
+
+513
+00:33:39,417 --> 00:33:43,124
+Neæe vredeti,
+mleko se veæ prolilo.
+
+514
+00:33:43,280 --> 00:33:46,707
+Mislim da smo Elena i ja
+veæ dostigli naš vrhunac.
+
+515
+00:33:46,840 --> 00:33:49,207
+Doğavola, s takvim stavom
+nije ni èudno što je uplašena.
+
+516
+00:33:49,360 --> 00:33:52,207
+Nije to stav Pablo, to je nauka.
+Sve je u knjigama.
+
+517
+00:33:52,360 --> 00:33:55,791
+Ti ne znaš zato što samo
+misliš da povališ, ali poèetni
+
+518
+00:33:55,920 --> 00:33:59,082
+uslov u sistemu koji ga
+odreğuje je evolucija.
+
+519
+00:33:59,240 --> 00:34:00,082
+Kako?
+
+520
+00:34:00,240 --> 00:34:01,249
+Šta?
+
+521
+00:34:01,400 --> 00:34:05,933
+Veoma prosto. Imamo sistem
+i dva dela sa razlièitim temperaturama.
+
+522
+00:34:06,080 --> 00:34:09,898
+Drugi zakon termodinamike
+je veæ pokrenut.
+
+523
+00:34:10,750 --> 00:34:12,610
+Šta je drugi zakon?
+
+524
+00:34:14,987 --> 00:34:20,332
+<i>Drugi zakon termodinamike je jedan</i>
+<i>od najèudnijih zakona u prirodi.</i>
+
+525
+00:34:20,733 --> 00:34:23,948
+<i>On uvodi novi koncept</i>
+<i>koji je teško shvatiti,</i>
+
+526
+00:34:24,080 --> 00:34:25,956
+ali ne postoji naèin,
+da se izbegne.
+
+527
+00:34:26,080 --> 00:34:29,256
+Ovaj koncept otvara veoma
+ozbiljna pitanja o realnosti,
+
+528
+00:34:29,400 --> 00:34:34,046
+<i>pa èak i o smislu vremena</i>
+<i>i sudbine svemira.</i>
+
+529
+00:34:34,263 --> 00:34:39,433
+<i>To znaèi da svaki sistem evoluira</i>
+<i>i propada do nekog stepena.</i>
+
+530
+00:34:39,560 --> 00:34:41,041
+Zašto se ne javljaš?
+
+531
+00:34:41,200 --> 00:34:44,944
+Izgleda da sugeriše zašto buduænost
+ide u odreğenom pravcu,
+
+532
+00:34:45,080 --> 00:34:48,286
+stvari postaju lošije.
+Mislim da smo svi to primetili.
+
+533
+00:34:49,716 --> 00:34:53,001
+<i>Ovaj koncept je poznat kao entropija.</i>
+
+534
+00:34:56,208 --> 00:34:58,478
+<i>Ali šta je entropija?</i>
+
+535
+00:34:58,833 --> 00:35:01,416
+<i>Spremite se da razumete</i>
+<i>jednom za svagda</i>
+
+536
+00:35:01,560 --> 00:35:04,377
+<i>nešto što nikada neæete zaboraviti.</i>
+
+537
+00:35:05,737 --> 00:35:10,060
+<i>Veæ smo pomenuli entropiju</i>
+<i>kada smo govorili o prvom zakonu.</i>
+
+538
+00:35:10,521 --> 00:35:15,427
+<i>Entropija meri degradaciju</i>
+<i>dobre energije u toplotu.</i>
+
+539
+00:35:16,240 --> 00:35:20,591
+<i>U bilo kom izolovanom sistemu,</i>
+<i>entropija æe se uvek poveæavati.</i>
+
+540
+00:35:20,720 --> 00:35:23,745
+<i>Postaje veæa i veæa svakog sekunda.</i>
+
+541
+00:35:24,069 --> 00:35:26,975
+<i>To je drugi zakon termodinamike.</i>
+
+542
+00:35:28,723 --> 00:35:33,114
+Entropija je mera energije koja
+je izgubljena i ne moe se vratiti.
+
+543
+00:35:36,330 --> 00:35:39,908
+<i>Iako je toplota jedan od najèešæih</i>
+<i>oblika prenosa energije</i>
+
+544
+00:35:40,040 --> 00:35:42,066
+<i>na koji smo navikli</i>
+<i>u svakodnevnom ivotu,</i>
+
+545
+00:35:42,200 --> 00:35:44,160
+<i>veoma je neefikasna.</i>
+
+546
+00:35:44,320 --> 00:35:45,830
+Je li teško poslati poruku?
+
+547
+00:35:47,068 --> 00:35:49,660
+<i>Ne moemo ništa stvoriti iz toplote.</i>
+
+548
+00:35:49,958 --> 00:35:53,185
+<i>Zato su toplota i entropija</i>
+<i>loše stvari.</i>
+
+549
+00:35:54,400 --> 00:35:58,153
+<i>Toplota je najnasumièniji i</i>
+<i>nekvalitetniji oblik energije.</i>
+
+550
+00:35:58,280 --> 00:36:00,459
+Jedna poruka je previše?
+
+551
+00:36:02,749 --> 00:36:06,814
+<i>Treba vam velika kolièina toplote</i>
+<i>za dobijanje minimalnog uèinka.</i>
+
+552
+00:36:06,960 --> 00:36:10,477
+<i>Na primer, da uporedimo sa</i>
+<i>cepanjem nukleusa u atomu.</i>
+
+553
+00:36:10,600 --> 00:36:12,400
+Postoji neko drugi.
+
+554
+00:36:19,920 --> 00:36:24,084
+<i>Toplota je nusprodukt</i>
+<i>rada motora.</i>
+
+555
+00:36:24,543 --> 00:36:30,666
+<i>Zato je entropija mera</i>
+<i>beskorisne, izgubljene energije.</i>
+
+556
+00:36:31,442 --> 00:36:33,392
+<i>Ali to nije sve.</i>
+
+557
+00:36:33,520 --> 00:36:35,291
+<i>Entropiju moemo posmatrati</i>
+<i>i na drugi naèin</i>
+
+558
+00:36:35,440 --> 00:36:39,112
+<i>a to je još više zabrinjavajuæe,</i>
+<i>još razornije.</i>
+
+559
+00:36:39,875 --> 00:36:44,160
+Celu noæ sam je lepio.
+- Nisi morao.
+
+560
+00:36:45,500 --> 00:36:47,650
+Ne izgleda toliko loše.
+
+561
+00:36:47,875 --> 00:36:50,624
+Nakon svega što si...
+- Nemoj biti preokupiran time,
+
+562
+00:36:50,760 --> 00:36:53,565
+jer sad nosi tvoj
+lièni peèat.
+
+563
+00:36:55,708 --> 00:36:58,108
+Nije baš bila toliko lepa skulptura.
+
+564
+00:36:59,625 --> 00:37:05,642
+Neæemo se videti ove nedelje Manel,
+biæu prezauzeta oko onog kratkog filma.
+
+565
+00:37:05,800 --> 00:37:09,124
+Moeš me posetiti na setu,
+ali ne mogu previše biti s tobom.
+
+566
+00:37:09,280 --> 00:37:11,166
+Veæ ideš?
+Tek si došla.
+
+567
+00:37:11,320 --> 00:37:13,687
+Izvini, ne mogu ostati,
+imam probu.
+
+568
+00:37:13,917 --> 00:37:17,960
+Je li sve u redu?
+- Ne znam. Je li?
+
+569
+00:37:18,542 --> 00:37:20,874
+Nisi mi juèe odgovorila
+na poruku.
+
+570
+00:37:21,000 --> 00:37:25,840
+Nisam. ao mi je, bila sam
+zauzeta, stvarno. - Je li to sve?
+
+571
+00:37:25,875 --> 00:37:28,100
+Jeste. Ne panièi.
+
+572
+00:37:28,240 --> 00:37:32,315
+Moda ideš prebrzo za mene,
+ali sve je u redu, ok?
+
+573
+00:37:32,500 --> 00:37:37,030
+Vidimo se u nedelju. Doği sa još kojim
+zakonom fizike da mi objasniš.
+
+574
+00:37:37,458 --> 00:37:40,360
+Poeli mi sreæu.
+- Sreæno.
+
+575
+00:37:43,965 --> 00:37:45,786
+<i>Toplota, na mikroskopskom nivou,</i>
+
+576
+00:37:45,920 --> 00:37:48,689
+<i>je kretanje èestica koje</i>
+<i>èine taj sistem.</i>
+
+577
+00:37:48,840 --> 00:37:52,834
+<i>Èinjenica da imate toplotu znaèi</i>
+<i>da æe se èestice uznemiriti.</i>
+
+578
+00:37:53,337 --> 00:37:56,897
+<i>Što je sistem topliji,</i>
+<i>èestice se bre kreæu,</i>
+
+579
+00:37:57,040 --> 00:38:02,280
+a kad je sistem hladniji,
+<i>èestice su mirnije i urednije.</i>
+
+580
+00:38:02,480 --> 00:38:07,341
+<i>Shodno tome, entropija se moe videti</i>
+<i>kao mera poremeæaja sistema.</i>
+
+581
+00:38:08,350 --> 00:38:11,656
+Što je veæa entropija,
+veæi je poremeæaj.
+
+582
+00:38:11,800 --> 00:38:16,523
+<i>I manja je verovatnoæa naæi</i>
+<i>èesticu u svojoj prvobitnoj poziciji.</i>
+
+583
+00:38:17,833 --> 00:38:21,249
+Hej, izvini. Došao sam
+da vidim Elenu, ja sam Manel.
+
+584
+00:38:21,400 --> 00:38:24,041
+Manel? Koji Manel?
+Veæ su otišli.
+
+585
+00:38:24,200 --> 00:38:26,207
+Kako otišli? Rekoše mi pre deset
+minuta da æe biti tu.
+
+586
+00:38:26,360 --> 00:38:30,318
+Ostatak dana snimaju negde drugde,
+dva sata odavde.
+
+587
+00:38:32,884 --> 00:38:35,778
+<i>Postoji mnogo konfiguracija</i>
+<i>èestica u sistemu,</i>
+
+588
+00:38:35,803 --> 00:38:40,566
+<i>ali veæina ih je neorganizovana,</i>
+<i>dok je samo par njih organizovan.</i>
+
+589
+00:38:41,691 --> 00:38:44,941
+<i>A to znaèi da entropija</i>
+<i>nastoji da poraste,</i>
+
+590
+00:38:45,120 --> 00:38:47,379
+<i>dominiraæe nered.</i>
+
+591
+00:38:53,629 --> 00:38:58,877
+<i>Kao posledica narušenog nereda koji</i>
+<i>predstavlja gubitak korisne energije,</i>
+
+592
+00:38:59,000 --> 00:39:01,343
+<i>a da bi se odrala</i>
+<i>funkcija mašine,</i>
+
+593
+00:39:01,480 --> 00:39:04,801
+<i>potrebno je obezbediti dodatnu</i>
+<i>spoljašnju energiju.</i>
+
+594
+00:39:04,960 --> 00:39:06,895
+Moda bi mogli u trojku.
+
+595
+00:39:10,080 --> 00:39:12,435
+FAZA 2
+
+596
+00:39:15,958 --> 00:39:17,688
+Nisam mislio...
+
+597
+00:39:17,875 --> 00:39:22,082
+Nisam hteo da te uplašim,
+ali moram reæi da tvoja teza
+
+598
+00:39:22,240 --> 00:39:26,080
+ide mnogo sporije od oèekivanog.
+- Ide do moga.
+
+599
+00:39:26,240 --> 00:39:28,783
+Moglo bi se i tako reæi, da.
+
+600
+00:39:29,917 --> 00:39:31,957
+Trenutno mnogo ljudi radi
+
+601
+00:39:32,080 --> 00:39:34,166
+na termodinamici u
+kompleksnim sistemima.
+
+602
+00:39:34,320 --> 00:39:36,832
+Ako ne pouriš, neko bi
+te mogao preteæi.
+
+603
+00:39:36,960 --> 00:39:39,693
+Muka mi je od termodinamike
+i kompleksnih sistema.
+
+604
+00:39:41,125 --> 00:39:43,707
+Jesi li znao da veliki
+broj fizièara
+
+605
+00:39:43,840 --> 00:39:47,068
+koji su razvili termodinamiku
+su izvršili samoubistvo?
+
+606
+00:39:47,500 --> 00:39:50,780
+Ili još gore,
+neuspešno pokušali.
+
+607
+00:39:51,042 --> 00:39:54,692
+Neki su izgubili ene
+i decu dok su pokušavali.
+
+608
+00:39:54,833 --> 00:39:57,082
+Statistika je zapanjujuæa.
+
+609
+00:39:57,083 --> 00:39:59,283
+Ne, nisam znao.
+
+610
+00:39:59,792 --> 00:40:02,482
+Kaem ti jer ne izgledaš
+previše entuzijastièki.
+
+611
+00:40:03,250 --> 00:40:07,041
+Samo sam umoran. Loša noæ.
+- U svakom sluèaju
+
+612
+00:40:07,200 --> 00:40:10,499
+samo sam hteo da ti kaem
+da tvoja teza obeæava,
+
+613
+00:40:10,640 --> 00:40:14,070
+ali ne smeš izgubiti svoju oštrinu.
+
+614
+00:40:15,250 --> 00:40:18,440
+Nestrpljivo oèekujemo
+tvoje rezultate.
+
+615
+00:40:18,833 --> 00:40:21,207
+<i>Isprièaæu vam o svojoj noæi.</i>
+
+616
+00:40:21,360 --> 00:40:25,278
+<i>Zapamtite, prièamo o neredu</i>
+<i>i izgubljenoj energiji.</i>
+
+617
+00:40:27,708 --> 00:40:30,978
+Sedi! Ovo je gotovo
+i poèinje brzo da se hladi!
+
+618
+00:40:31,458 --> 00:40:32,938
+Æao?
+
+619
+00:40:34,333 --> 00:40:36,033
+Sranje, prekuvano je.
+
+620
+00:40:36,625 --> 00:40:39,041
+Izvini, bio sam u urbi
+i sve je krenulo naopako.
+
+621
+00:40:39,200 --> 00:40:41,402
+Da si mi rekla malo ranije...
+- Æao.
+
+622
+00:40:42,083 --> 00:40:44,033
+Hajde, sedi.
+
+623
+00:40:44,250 --> 00:40:47,541
+Neæe biti odlièno.
+Za šta si, vino?
+
+624
+00:40:47,680 --> 00:40:50,822
+Donela sam ti flašu.
+- Otvori je a ja æu da serviram.
+
+625
+00:41:06,250 --> 00:41:08,650
+Ljubavi, imam kasting
+za film u ponedeljak.
+
+626
+00:41:08,800 --> 00:41:12,999
+Malo sam nervozna, zato
+hajde da ne preterujemo, ok?
+
+627
+00:41:13,120 --> 00:41:14,957
+Pomoæi æu ti oko pranja kasnije.
+
+628
+00:41:15,080 --> 00:41:17,916
+Da, da. Samo sam hteo
+da sve bude savršeno
+
+629
+00:41:18,040 --> 00:41:20,332
+kada doğeš.
+- Došla sam da te vidim.
+
+630
+00:41:20,480 --> 00:41:23,113
+I sigurna sam da je veèera sjajna.
+
+631
+00:41:30,250 --> 00:41:32,940
+Èekaj, da sklonim ovo.
+
+632
+00:41:35,042 --> 00:41:39,572
+Ljubavi, hajde da jedemo
+a onda æemo prièati.
+
+633
+00:41:41,208 --> 00:41:43,228
+Vai?
+- Vai.
+
+634
+00:41:47,458 --> 00:41:49,228
+Skuvaæu kafu.
+
+635
+00:41:50,750 --> 00:41:52,374
+Još nisam završila.
+
+636
+00:41:52,520 --> 00:41:54,725
+Tako æe biti spremno
+kad završiš.
+
+637
+00:41:57,208 --> 00:42:00,358
+Raspremiæu sto dok
+sam na nogama.
+
+638
+00:42:19,083 --> 00:42:22,653
+Nije zbog cigare, miriše
+od kuvanja, malo je zagušljivo.
+
+639
+00:42:32,250 --> 00:42:34,480
+Volim ovu pesmu.
+
+640
+00:42:34,917 --> 00:42:37,207
+Smanjiæu malo, ovde se
+sve èuje.
+
+641
+00:42:37,360 --> 00:42:39,957
+Bar dok ne zatvorim prozore.
+Zaèas æu to.
+
+642
+00:42:40,080 --> 00:42:42,332
+Ne sklanjaj vino.
+Molim te.
+
+643
+00:42:42,480 --> 00:42:44,153
+Da, jasno, izvini.
+
+644
+00:42:48,875 --> 00:42:50,775
+Fascinantan si, znaš li to?
+
+645
+00:42:51,708 --> 00:42:55,440
+Pogledaj svoj stan.
+Knjige poreğane po temama,
+
+646
+00:42:55,600 --> 00:42:57,832
+figurice uvek savršeno poreğane,
+
+647
+00:42:58,000 --> 00:43:00,733
+tvoja pidama uredno
+sloena kraj kreveta...
+
+648
+00:43:01,500 --> 00:43:04,800
+Divim ti se.
+Stvarno ti se divim.
+
+649
+00:43:08,583 --> 00:43:12,363
+Ali ljubavi, mislim
+da ti treba malo...
+
+650
+00:43:12,520 --> 00:43:14,278
+Kako ono beše?
+
+651
+00:43:15,167 --> 00:43:16,567
+Entropija?
+
+652
+00:43:18,583 --> 00:43:19,999
+Izvini.
+
+653
+00:43:20,120 --> 00:43:21,530
+Oprosti!
+
+654
+00:43:24,817 --> 00:43:26,217
+Opa.
+
+655
+00:43:26,500 --> 00:43:31,320
+Ne bih to samo nazvala
+entropija, nego i... radost!
+
+656
+00:43:31,520 --> 00:43:33,983
+Radost!
+
+657
+00:43:34,417 --> 00:43:36,227
+Šta to radiš?
+
+658
+00:43:36,500 --> 00:43:38,166
+Hoæeš li prestati?
+- Radost!
+
+659
+00:43:38,320 --> 00:43:40,357
+Smiri se na trenutak!
+- Leti!
+
+660
+00:43:40,500 --> 00:43:41,957
+Elena, molim te...
+
+661
+00:43:42,080 --> 00:43:44,082
+Ne fioke... ok, ok...
+
+662
+00:43:44,240 --> 00:43:46,320
+Umirala sam da ovo uradim.
+- Moramo da razgovaramo.
+
+663
+00:43:46,480 --> 00:43:47,680
+Elena!
+
+664
+00:43:47,958 --> 00:43:50,582
+Ne, ne knjige,
+one su sloene...
+
+665
+00:43:50,720 --> 00:43:52,916
+Hajde, raduj se sa mnom.
+- Ne, saèekaj, stani...
+
+666
+00:43:53,040 --> 00:43:55,397
+Stani, hajde da
+prièamo... doğavola.
+
+667
+00:43:55,625 --> 00:43:58,916
+Prestaæu da èistim, obeæavam!
+Dosta je, prestani!
+
+668
+00:43:59,040 --> 00:44:02,082
+<i>Dosta, ne moemo da spavamo, dovraga!</i>
+- Elena, molim te...
+
+669
+00:44:02,240 --> 00:44:04,624
+<i>Neko mora da radi!</i>
+
+670
+00:44:04,760 --> 00:44:06,707
+Izvinite!
+- Doği ovamo...
+
+671
+00:44:06,840 --> 00:44:09,880
+Daj da te oslobodim, g. Nauèni Metod!
+- Elena, pusti me!
+
+672
+00:44:10,040 --> 00:44:12,027
+Ti si inhibiran, zar ne vidiš?
+
+673
+00:44:14,750 --> 00:44:17,360
+Šta ti je?
+Razmaeno derište!
+
+674
+00:44:17,750 --> 00:44:20,916
+Vidiš? Nikad ne misliš
+na posledice!
+
+675
+00:44:21,040 --> 00:44:23,999
+To je bolje nego biti
+15 koraka ispred sve vreme!
+
+676
+00:44:24,120 --> 00:44:26,499
+Imaš Kasparov sindrom!
+
+677
+00:44:26,720 --> 00:44:30,320
+Da? A kako se ovo tvoje zove?
+Kad ljudi misle samo na sebe?
+
+678
+00:44:30,480 --> 00:44:34,480
+Ne menjaj temu, g. Metod.
+Poèinješ da smaraš!
+
+679
+00:44:34,640 --> 00:44:38,680
+O, da. Zove se "egocentritis."
+Kad ti je ego veæi od pameti.
+
+680
+00:44:38,840 --> 00:44:40,916
+Šta ja radim ovde s nekim
+ko ne ume da ivi?
+
+681
+00:44:41,040 --> 00:44:45,560
+Ovde si jer te niko ne moe podneti.
+Tvoj ego guta sve kao crna rupa.
+
+682
+00:44:45,720 --> 00:44:50,640
+Da, a tvoj nije? Sve što eliš
+je da te pratim ko kuèence.
+
+683
+00:44:57,542 --> 00:45:00,249
+O, lepo. Sad odlaziš, ne?
+- Da.
+
+684
+00:45:00,480 --> 00:45:04,040
+Mislim da je dosta nereda da te
+dri zauzetim. - Vidiš? To si ti.
+
+685
+00:45:04,200 --> 00:45:07,082
+Stvari postaju neugodne
+a ti me ostavljaš da ih rašèistim.
+
+686
+00:45:07,240 --> 00:45:08,823
+To je tvoj problem.
+
+687
+00:45:11,042 --> 00:45:15,360
+Daj mi kljuè, molim te.
+- Dao sam ti rezervni, seæaš se?
+
+688
+00:45:15,520 --> 00:45:18,374
+Izgubila sam ga. Zaboravila sam
+da ti kaem. Hoæeš li otvoriti vrata?
+
+689
+00:45:18,520 --> 00:45:20,957
+Izgubila si kljuè mog stana?
+
+690
+00:45:21,080 --> 00:45:24,499
+Vrlo dobro, vrlo dobro, ne znam
+gde sam turio moj, ao mi je.
+
+691
+00:45:24,640 --> 00:45:27,874
+Ne, meni je ao
+što sam bila toliko trapava...
+
+692
+00:45:28,000 --> 00:45:31,207
+Molim te, smiri se i idi.
+Sve je u redu.
+
+693
+00:45:31,360 --> 00:45:33,207
+Hvala što si došla.
+Bilo je zadovoljstvo.
+
+694
+00:45:33,360 --> 00:45:35,957
+Ne, hvala tebi. Uivala sam.
+Nasmejao si me.
+
+695
+00:45:36,080 --> 00:45:38,166
+Nemoj mi zahvaljivati, molim te.
+
+696
+00:45:38,320 --> 00:45:41,541
+Ne, stvarno. Volim biti s tobom.
+Mnogo æeš mi nedostajati.
+
+697
+00:45:41,680 --> 00:45:44,800
+I ja s tobom!
+Volim te!
+
+698
+00:45:53,292 --> 00:45:56,732
+Idiote!
+Kakva sam ja budala!
+
+699
+00:46:01,208 --> 00:46:02,648
+Šta je to bilo?
+
+700
+00:46:03,917 --> 00:46:08,727
+To je bila termodinamièka reakcija
+na posudi za kafu.
+
+701
+00:46:18,833 --> 00:46:20,483
+Hvala ti.
+
+702
+00:46:26,792 --> 00:46:29,942
+Pomoæi æu ti da oèistiš, ok?
+
+703
+00:46:30,080 --> 00:46:33,960
+Ne, ni ne pomišljaj na to.
+- Da, oboje smo napravili ovo.
+
+704
+00:46:34,120 --> 00:46:38,680
+Ne, sutra moraš rano ustati.
+- Rekla sam da elim da ti pomognem!
+
+705
+00:46:38,840 --> 00:46:41,749
+Ne, doğavola, ne elim to.
+- Zašto ne?
+
+706
+00:46:41,880 --> 00:46:44,440
+Zato što uasno èistiš!
+- Znam!
+
+707
+00:46:57,081 --> 00:47:00,528
+<i>Drugi zakon termodinamike</i>
+<i>ima kvalitet koji ga èini</i>
+
+708
+00:47:00,680 --> 00:47:02,903
+<i>ajmo reæi... deterministièki.</i>
+
+709
+00:47:04,651 --> 00:47:08,915
+Kvalitet je u tome da æe se entropija
+poveæati kada zapoènete proces
+
+710
+00:47:09,160 --> 00:47:12,057
+<i>i to spreèava da se proces obrne</i>
+
+711
+00:47:12,560 --> 00:47:14,191
+<i>i krene nazad.</i>
+
+712
+00:47:14,371 --> 00:47:17,732
+<i>Mi kaemo da to èini</i>
+<i>proces ireverzibilnim.</i>
+
+713
+00:47:17,880 --> 00:47:20,873
+Vreme ide napred.
+Entropija raste.
+
+714
+00:47:21,000 --> 00:47:23,308
+<i>Ireverzibilni procesi se dešavaju.</i>
+
+715
+00:47:31,536 --> 00:47:35,413
+<i>Drugi zakon termodinamike</i>
+<i>tera nas da mislimo dublje</i>
+
+716
+00:47:35,560 --> 00:47:39,413
+<i>na samu prirodu fundamentalnih</i>
+<i>procesa u sistemima.</i>
+
+717
+00:47:41,388 --> 00:47:45,875
+<i>Ustvari, nemoguæe je iæi nazad</i>
+<i>do potpuno istih poèetnih uslova.</i>
+
+718
+00:47:52,681 --> 00:47:55,699
+Postoje dve stvari za koje znamo
+da imaju samo jedan pravac,
+
+719
+00:47:55,840 --> 00:47:59,511
+a to je poveæanje entropije
+i putanja vremena.
+
+720
+00:47:59,660 --> 00:48:03,367
+<i>I moda èak entropija moe</i>
+<i>biti odgovorna</i>
+
+721
+00:48:03,392 --> 00:48:07,087
+<i>za samo jedan pravac vremena</i>
+<i>koji doivljavamo.</i>
+
+722
+00:48:10,516 --> 00:48:12,662
+<i>Drugi zakon termodinamike</i>
+<i>je veoma vaan</i>
+
+723
+00:48:12,800 --> 00:48:14,527
+<i>zato što postavlja neki limit.</i>
+
+724
+00:48:15,919 --> 00:48:17,733
+<i>Kada ne bi postojao, onda da,</i>
+
+725
+00:48:17,880 --> 00:48:21,162
+<i>mogli bismo se vratiti</i>
+<i>na poèetnu energiju.</i>
+
+726
+00:48:25,625 --> 00:48:29,275
+Ne, dobro sam. U redu je,
+naæi æemo se drugi put.
+
+727
+00:48:29,542 --> 00:48:31,957
+Da, opušteno,
+prièaæemo kasnije.
+
+728
+00:48:32,080 --> 00:48:34,478
+Dobro sam.
+Hajde, radi.
+
+729
+00:48:34,875 --> 00:48:36,916
+Sve je u redu, zaista.
+
+730
+00:48:37,040 --> 00:48:39,291
+To je samo malo pseæe
+govno što mi umazalo kosu
+
+731
+00:48:39,440 --> 00:48:42,332
+kada sam pao glavom u govno
+jer sam te jurio
+
+732
+00:48:42,480 --> 00:48:46,653
+kao što to stalno jebeno radim
+dok se ti zajebavaš svojim stvarima!
+
+733
+00:48:46,800 --> 00:48:48,147
+Jebi se!
+
+734
+00:48:49,167 --> 00:48:50,207
+Oprostite.
+
+735
+00:48:50,400 --> 00:48:53,068
+Ne zasluuješ me, kopile jedno!
+
+736
+00:48:53,292 --> 00:48:54,916
+Ti ne...
+
+737
+00:48:55,040 --> 00:48:57,027
+O, da, da, tako!
+
+738
+00:48:57,160 --> 00:48:59,374
+Samo me zbog ovog eliš.
+
+739
+00:48:59,560 --> 00:49:02,025
+eliš samo da me tucaš,
+mamu ti!
+
+740
+00:49:02,958 --> 00:49:04,957
+Ostaviæu te...
+
+741
+00:49:05,120 --> 00:49:08,358
+Kunem se, ostaviæu te...
+
+742
+00:49:08,480 --> 00:49:10,499
+Kopile, kunem se da æu...
+
+743
+00:49:10,640 --> 00:49:13,360
+Ja æu... ja æu...
+
+744
+00:49:14,583 --> 00:49:18,983
+te ostaviti... ostaviti... ostaviti.
+
+745
+00:49:25,400 --> 00:49:28,280
+Dobila sam ulogu!
+- Kakvu ulogu?
+
+746
+00:49:28,440 --> 00:49:31,400
+Seæaš se kastinga što sam imala?
+- A, da... jasno.
+
+747
+00:49:31,560 --> 00:49:35,874
+Tako sam sreæna! Za dva meseca
+snimaæu film!
+
+748
+00:49:36,000 --> 00:49:38,145
+Izvini, moraæemo otkazati
+naše letovanje.
+
+749
+00:49:38,280 --> 00:49:41,332
+Zar nije neverovatno?
+Reditelj me zvao da mi kae!
+
+750
+00:49:41,333 --> 00:49:44,041
+Daniel Sanèez Arivalo.
+Šta je to?
+
+751
+00:49:44,200 --> 00:49:47,760
+To je samo, da se izvinim.
+- Izviniš? Zbog èega?
+
+752
+00:49:47,920 --> 00:49:49,874
+Hej, ne mogu ostati veèeras
+kod kuæe.
+
+753
+00:49:50,000 --> 00:49:52,957
+Nalazim se s reiserom i nekim
+ljudima iz ekipe da proslavimo.
+
+754
+00:49:53,080 --> 00:49:55,600
+Moeš ostati da prenoæiš,
+ali ne znam kad æu se vratiti.
+
+755
+00:49:55,760 --> 00:49:58,374
+Ne, u redu je. Ionako imam
+posla kod kuæe.
+
+756
+00:49:58,520 --> 00:50:00,685
+Da? Ne ljutiš se?
+- Ne.
+
+757
+00:50:00,800 --> 00:50:04,832
+Zašto ne bi smuækao neko
+piæe dok se obuèem?
+
+758
+00:50:04,960 --> 00:50:06,573
+Treba mi piæe!
+
+759
+00:50:20,292 --> 00:50:23,282
+<i>Entropija polako napreduje.</i>
+
+760
+00:50:23,958 --> 00:50:26,707
+<i>Ponekad je to skoro</i>
+<i>nemoguæe otkriti.</i>
+
+761
+00:50:26,840 --> 00:50:28,108
+<i>Ali, nezaustavljivo je.</i>
+
+762
+00:50:38,240 --> 00:50:42,960
+<i>Da bi to eliminisali, morate zaustaviti</i>
+<i>kretanje èestica,</i>
+
+763
+00:50:43,500 --> 00:50:46,690
+<i>postaviti ih nekako</i>
+<i>u nepromenljivu strukturu.</i>
+
+764
+00:50:47,432 --> 00:50:51,542
+<i>Ali èak ni tada je ne moete</i>
+<i>potpuno ukloniti.</i>
+
+765
+00:50:59,864 --> 00:51:02,184
+<i>Pre ili kasnije,</i>
+
+766
+00:51:02,856 --> 00:51:05,900
+<i>entropija uništi efikasnost sistema...</i>
+
+767
+00:51:10,000 --> 00:51:12,590
+<i>i mašina prestane da funkcioniše.</i>
+
+768
+00:51:16,120 --> 00:51:19,783
+Mislim da nam je oboma
+potrebno neko vreme.
+
+769
+00:51:21,250 --> 00:51:23,874
+<i>Èak iako jedna formula</i>
+<i>izraèunava entropiju</i>
+
+770
+00:51:24,040 --> 00:51:26,166
+u smislu verovatnoæe
+
+771
+00:51:26,320 --> 00:51:28,916
+a druga u smislu energije,
+
+772
+00:51:29,040 --> 00:51:31,957
+i pored raèunanja razlièitih stvari,
+
+773
+00:51:32,080 --> 00:51:34,528
+rezultati se slau.
+
+774
+00:51:34,792 --> 00:51:36,822
+Zar to nije fascinantno?
+
+775
+00:51:37,542 --> 00:51:39,232
+Ne?
+
+776
+00:51:39,875 --> 00:51:44,160
+Ja ne razumem, profesore.
+Znate me, redovan sam student,
+
+777
+00:51:44,320 --> 00:51:46,707
+ali termodinamika mi
+ne ulazi u glavu.
+
+778
+00:51:46,840 --> 00:51:50,515
+Kako to misliš, ne ulazi?
+- Ništa. Za poèetak, ne vidim
+
+779
+00:51:50,640 --> 00:51:53,520
+smisao u svemu ovome.
+- Moda ti ne ulazi
+
+780
+00:51:53,680 --> 00:51:56,832
+jer ti promièe sitan
+ali vaan detalj.
+
+781
+00:51:56,960 --> 00:52:01,443
+Da sve ovo ne utièe samo na supstance
+koje koristimo u laboratoriji.
+
+782
+00:52:01,640 --> 00:52:03,832
+Utièe na tebe, mene,
+
+783
+00:52:04,000 --> 00:52:06,283
+utièe na sve nas.
+
+784
+00:52:06,440 --> 00:52:10,000
+Drugi zakon termodinamike objašnjava
+zašto se èaša, koju ispustiš na pod,
+
+785
+00:52:10,160 --> 00:52:13,957
+razbije u komadiæe, ali ako ispustiš
+komadiæe, oni ne formiraju èašu.
+
+786
+00:52:14,080 --> 00:52:17,082
+Objašnjava zašto mašine prestaju
+da rade ako ih ne koristiš,
+
+787
+00:52:17,240 --> 00:52:22,360
+zašto pešèani zamak ne traje
+i zašto uvek zaboravimo sve.
+
+788
+00:52:22,520 --> 00:52:26,520
+Objanjava zašto ono što si hteo uraditi
+na kraju ispadne katastrofa
+
+789
+00:52:26,680 --> 00:52:30,207
+i zašto je tvojoj devojci dosadno
+sa tobom i nağe nekog drugog.
+
+790
+00:52:30,360 --> 00:52:32,957
+Objašnjava i zašto ne
+moemo vratiti vreme
+
+791
+00:52:33,080 --> 00:52:35,624
+i popraviti ono što smo
+zajebali s njom.
+
+792
+00:52:35,760 --> 00:52:38,791
+Praktièno, objašnjava sve
+što si loše uradio.
+
+793
+00:52:38,920 --> 00:52:40,874
+Jer se primenjuje na sve sisteme,
+
+794
+00:52:41,000 --> 00:52:44,124
+poèevši od samog svemira
+i završavajuæi tvojim sopstvenim ivotom
+
+795
+00:52:44,280 --> 00:52:47,355
+i posranim društvenim sistemom
+u kojem gubiš.
+
+796
+00:52:50,208 --> 00:52:51,728
+Razmisli o tome.
+
+797
+00:52:52,208 --> 00:52:54,778
+Donesi mi sledeæe nedelje
+izveštaj o knjizi.
+
+798
+00:52:58,702 --> 00:53:00,055
+<i>Volim te.</i>
+
+799
+00:53:11,250 --> 00:53:15,150
+<i>Hej, šta ima?</i>
+
+800
+00:53:17,958 --> 00:53:19,938
+Ne, sranje!
+
+801
+00:53:23,958 --> 00:53:25,528
+Ne, sranje!
+
+802
+00:53:31,347 --> 00:53:32,578
+Elena?
+
+803
+00:53:34,125 --> 00:53:37,935
+Ne, ne, ne, ovo je
+Prokrastinatoris Anonimus.
+
+804
+00:53:52,027 --> 00:53:56,779
+<i>Postoji još jedan naèin da se izrazi</i>
+<i>fundamentalno znaèenje entropije,</i>
+
+805
+00:53:56,920 --> 00:54:01,443
+<i>logièna posledica koja je</i>
+<i>poprilièno alarmantna.</i>
+
+806
+00:54:02,925 --> 00:54:05,222
+<i>Ako se sva raspoloiva energija svemira</i>
+
+807
+00:54:05,360 --> 00:54:09,273
+<i>neprestano i nepovratno pogoršava,</i>
+
+808
+00:54:09,400 --> 00:54:10,896
+<i>onda u dalekoj buduænosti</i>
+
+809
+00:54:11,040 --> 00:54:16,101
+<i>moda je neæe biti dovoljno da se</i>
+<i>odre procesi koje danas imamo.</i>
+
+810
+00:54:16,240 --> 00:54:21,586
+<i>I to bi dovelo do onoga što</i>
+zovemo toplotna smrt svemira.
+
+811
+00:54:22,292 --> 00:54:26,207
+<i>Naalost, dragi moji</i>
+<i>prijatelji, dugoroèno</i>
+
+812
+00:54:26,360 --> 00:54:29,041
+<i>neæe biti èak ni super-masivnih</i>
+<i>i divnih biæa kao što je Elena</i>
+
+813
+00:54:29,200 --> 00:54:30,902
+<i>da nas teraju da patimo.</i>
+
+814
+00:54:32,125 --> 00:54:34,355
+<i>Ali opet idemo ispred sebe.</i>
+
+815
+00:54:41,708 --> 00:54:47,080
+<i>Vratimo se nazad još jednom</i>
+<i>da shvatimo šta se desilo,</i>
+
+816
+00:54:49,167 --> 00:54:52,332
+<i>gde je klasièna fizika</i>
+<i>krenula naopako</i>
+
+817
+00:54:52,480 --> 00:54:55,113
+<i>i dovela nas do sadašnjeg</i>
+<i>stanja stvari.</i>
+
+818
+00:55:12,708 --> 00:55:15,832
+Hej, æao!
+Dobro!
+
+819
+00:55:15,960 --> 00:55:17,707
+A ti?
+- Sjajno.
+
+820
+00:55:17,880 --> 00:55:21,957
+Ovo je Manel, Lorenco.
+On je glavni glumac. - Kako si?
+
+821
+00:55:22,080 --> 00:55:23,728
+Kako si?
+- Dobro.
+
+822
+00:55:25,729 --> 00:55:28,274
+<i>Fundamentalni problem u klasiènoj fizici</i>
+
+823
+00:55:28,400 --> 00:55:32,017
+<i>je ono što bismo mogli nazvati</i>
+<i>paradoksom taèke gledišta.</i>
+
+824
+00:55:32,160 --> 00:55:34,612
+Pablo... Pablo!
+
+825
+00:55:34,800 --> 00:55:37,808
+Eva! 
+Eva!
+
+826
+00:55:37,960 --> 00:55:39,332
+Ovamo!
+
+827
+00:55:39,480 --> 00:55:40,733
+Pablo!
+
+828
+00:55:40,880 --> 00:55:43,920
+Eva!
+Dušo, zovi ga!
+
+829
+00:55:44,229 --> 00:55:46,299
+Vidi ko je tamo!
+Elena!
+
+830
+00:55:59,934 --> 00:56:03,009
+Dva posmatraèa koji se kreæu
+jedan u odnosu na drugog
+
+831
+00:56:03,160 --> 00:56:04,933
+<i>razlièito ocenjuju stvari.</i>
+
+832
+00:56:05,080 --> 00:56:06,874
+On je tako blesav.
+
+833
+00:56:07,000 --> 00:56:08,985
+Ne razumem kako Eva
+to prihvata.
+
+834
+00:56:09,120 --> 00:56:12,017
+Pablo!
+Pablo!
+
+835
+00:56:12,160 --> 00:56:14,082
+Ovamo!
+
+836
+00:56:14,240 --> 00:56:16,113
+Pablo!
+
+837
+00:56:20,125 --> 00:56:21,855
+Lepi!
+
+838
+00:56:34,333 --> 00:56:36,533
+<i>Hajde da razmotrimo dogağaj.</i>
+
+839
+00:56:36,680 --> 00:56:39,862
+<i>U ovom sluèaju, desiæe se</i>
+<i>za oko osam sekundi.</i>
+
+840
+00:56:40,000 --> 00:56:42,499
+<i>Pretpostavimo da imamo</i>
+<i>dva posmatraèa,</i>
+
+841
+00:56:42,640 --> 00:56:46,110
+<i>jedna mirno stoji a druga</i>
+<i>se kreæe zajedno sa dogağajem.</i>
+
+842
+00:56:55,208 --> 00:56:58,778
+<i>Hajde da vidimo kako svaka</i>
+<i>posmatra dogağaj.</i>
+
+843
+00:57:00,500 --> 00:57:02,541
+<i>Iz devojèine perspektive,</i>
+
+844
+00:57:02,680 --> 00:57:05,532
+<i>Pablo pada u pravoj liniji</i>
+<i>prema zemlji.</i>
+
+845
+00:57:08,625 --> 00:57:10,332
+<i>Meğutim, za njegovu ljubavnicu,</i>
+
+846
+00:57:10,480 --> 00:57:12,749
+<i>buduæi da se autobus kreæe,</i>
+
+847
+00:57:12,880 --> 00:57:15,230
+<i>Pablo pada prateæi krivu.</i>
+
+848
+00:57:18,833 --> 00:57:22,499
+<i>Kriva je oèigledno dua</i>
+<i>nego prava linija,</i>
+
+849
+00:57:22,640 --> 00:57:27,108
+<i>tako da æe ljubavnica videti kako pada</i>
+<i>veæom brzinom nego njegova devojka.</i>
+
+850
+00:57:27,133 --> 00:57:28,980
+Ali šta se dešava ako
+razmotrimo ovaj problem
+
+851
+00:57:29,120 --> 00:57:31,012
+primenjujuæi ga na
+svetlosni zrak?
+
+852
+00:57:31,636 --> 00:57:34,410
+<i>Dva posmatraèa moraju da vide</i>
+<i>potpuno isti dogağaj</i>
+
+853
+00:57:34,560 --> 00:57:37,269
+<i>jer je brzina svetlosti konstantna.</i>
+
+854
+00:57:38,255 --> 00:57:41,730
+A to je upravo ono što
+je Ajnštajn shvatio.
+
+855
+00:57:43,449 --> 00:57:46,659
+<i>Ajnštajn je dokazao, ne samo</i>
+<i>da se svemir skuplja ili širi</i>
+
+856
+00:57:46,800 --> 00:57:48,910
+<i>u zavisnosti od pozicije posmatraèa,</i>
+
+857
+00:57:49,145 --> 00:57:51,477
+<i>nego da je i samo vreme relativno.</i>
+
+858
+00:57:55,726 --> 00:57:58,166
+Oseæao sam se kao da
+sam zauvek u vazduhu.
+
+859
+00:57:58,320 --> 00:57:59,810
+Da li mnogo boli?
+
+860
+00:58:00,000 --> 00:58:04,331
+Šta si mislio sine?
+Kako si mogao pasti sa autbusa?
+
+861
+00:58:04,585 --> 00:58:06,082
+Gde je Eva?
+
+862
+00:58:06,240 --> 00:58:10,280
+Dobro, ljudi. Moram da ga operem.
+Ovo moe biti veoma neprijatno.
+
+863
+00:58:10,440 --> 00:58:13,249
+Šta treba da radimo?
+- Izağite.
+
+864
+00:58:13,400 --> 00:58:16,530
+Izağite napolje i zatvorite
+vrata, vrištaæu.
+
+865
+00:58:17,292 --> 00:58:19,541
+Moete li pitati Evu da doğe
+i pomogne, molim?
+
+866
+00:58:19,680 --> 00:58:21,282
+Ovde sam.
+
+867
+00:58:21,307 --> 00:58:24,232
+<i>Posebna relativnost jasno</i>
+<i>pokazuje jednu stvar.</i>
+
+868
+00:58:24,360 --> 00:58:28,129
+Merilo vremena nije validnije
+od bilo kog drugog.
+
+869
+00:58:28,405 --> 00:58:31,619
+<i>To zavisi samo od</i>
+<i>kretanja posmatraèa.</i>
+
+870
+00:58:31,760 --> 00:58:33,582
+Meni je proletela nedelja!
+
+871
+00:58:33,720 --> 00:58:35,582
+Veæ odlaziš?
+Tek si stigla.
+
+872
+00:58:35,720 --> 00:58:38,920
+Moda ideš malo prebrzo za mene,
+ali sve je u redu.
+
+873
+00:58:40,334 --> 00:58:43,484
+<i>Ali sve ovo je samo</i>
+<i>deo Ajnštajnove teorije,</i>
+
+874
+00:58:43,640 --> 00:58:46,319
+<i>koju je nazvao, posebna relativnost.</i>
+
+875
+00:58:47,226 --> 00:58:52,207
+<i>Pravi udarac klasiènoj fizici</i>
+<i>tek je trebao doæi.</i>
+
+876
+00:58:53,280 --> 00:58:55,449
+<i>LORENCO</i>
+
+877
+00:58:57,414 --> 00:59:02,488
+<i>Kasnije se Ajnštajn pojavio</i>
+<i>sa još smelijim predlogom,</i>
+
+878
+00:59:02,640 --> 00:59:06,376
+koji je nazvao
+teorija opšteg relativiteta.
+
+879
+00:59:09,463 --> 00:59:13,418
+<i>Ono što znamo od Ajnštajna je</i>
+<i>da slobodni pad pod uticajem gravitacije</i>
+
+880
+00:59:13,560 --> 00:59:17,473
+<i>je potpuno ekvivalentan ubrzanju.</i>
+
+881
+00:59:18,250 --> 00:59:19,749
+<i>Samo da pojasnim:</i>
+
+882
+00:59:19,880 --> 00:59:24,207
+<i>Zaljubiti se ima isti efekat kao</i>
+<i>da trèite bre nego što treba.</i>
+
+883
+00:59:24,360 --> 00:59:28,568
+<i>U oba sluèaja, srce vam bije kao ludo</i>
+<i>i hoæe da iskoèi iz grudi.</i>
+
+884
+00:59:45,333 --> 00:59:47,680
+Æao Manel.
+- Æao.
+
+885
+00:59:47,840 --> 00:59:50,041
+Dogovorili smo se da ne prièamo,
+da treba da razmislimo.
+
+886
+00:59:50,200 --> 00:59:53,692
+Da, ali hteo sam ti reæi
+da sam razmišljao.
+
+887
+00:59:53,840 --> 00:59:54,999
+Puno.
+
+888
+00:59:55,120 --> 00:59:56,880
+I ne mogu da podnesem
+pomisao da te izgubim.
+
+889
+00:59:57,067 --> 00:59:59,624
+Uèiniæu sve što eliš
+samo da te ne izgubim.
+
+890
+00:59:59,760 --> 01:00:01,395
+Znam Manel, ali...
+
+891
+01:00:02,375 --> 01:00:03,815
+ne ide to tako.
+
+892
+01:00:04,000 --> 01:00:07,808
+Scena koju si napravio pre neki dan...
+To nije Manel koga volim.
+
+893
+01:00:07,960 --> 01:00:11,454
+Volim onog sa poèetka,
+dok nije poèeo da odlepljuje.
+
+894
+01:00:12,542 --> 01:00:14,982
+Mislim da treba da nastaviš
+da razmišljaš.
+
+895
+01:00:22,301 --> 01:00:26,410
+<i>To je dovelo do toga da Ajnštajn</i>
+<i>donese prilièno iznenağujuæi zakluèak.</i>
+
+896
+01:00:27,561 --> 01:00:31,264
+<i>Gravitacija ne deluje kao</i>
+<i>normalna sila.</i>
+
+897
+01:00:31,400 --> 01:00:35,021
+Ne treba više da mislite
+o gravitaciji kao sili.
+
+898
+01:00:35,185 --> 01:00:38,622
+<i>Drugim reèima, gravitaciono</i>
+<i>privlaèenje moete opisati</i>
+
+899
+01:00:38,760 --> 01:00:42,573
+<i>kao zakrivljenost</i>
+<i>prostora i vremena,</i>
+
+900
+01:00:42,773 --> 01:00:46,044
+<i>zbog prisustva drugog</i>
+<i>masivnog tela.</i>
+
+901
+01:00:46,750 --> 01:00:49,124
+<i>Drugim reèima, zvezde</i>
+<i>kao što je Elena deformišu</i>
+
+902
+01:00:49,280 --> 01:00:52,541
+<i>prostor i vreme oko njih</i>
+<i>svojim samim prisustvom.</i>
+
+903
+01:00:52,680 --> 01:00:55,249
+<i>A planete kao Manel</i>
+<i>misle da su slobodne</i>
+
+904
+01:00:55,400 --> 01:00:58,720
+<i>i kreæu se u pravoj liniji,</i>
+<i>a ustvari su zarobljene,</i>
+
+905
+01:00:58,880 --> 01:01:00,780
+<i>krueæi oko njihove zvezde.</i>
+
+906
+01:01:01,500 --> 01:01:04,760
+Dobro sam, stvarno.
+Sjajno se oseæam.
+
+907
+01:01:04,920 --> 01:01:06,999
+Više mi èak ni nedostaje.
+
+908
+01:01:07,120 --> 01:01:09,570
+Moj ivot se konaèno ispravlja.
+
+909
+01:01:14,373 --> 01:01:18,374
+<i>Teorija relativiteta je izvršila</i>
+<i>revoluciju nauke.</i>
+
+910
+01:01:18,678 --> 01:01:23,040
+<i>Ali pojavila se skoro u isto vreme</i>
+<i>kao poslednja revolucija...</i>
+
+911
+01:01:23,200 --> 01:01:25,677
+Kako si?
+<i>- ... kvantna fizika.</i>
+
+912
+01:01:28,458 --> 01:01:32,249
+Jeste li znali da je kvantna
+fizika zapoèela kad je nauènik...
+
+913
+01:01:32,400 --> 01:01:34,332
+Ernest Raderford mu je bilo ime...
+
+914
+01:01:34,480 --> 01:01:38,541
+došao na ideju da zamisli atom
+kao minijaturni solarni sistem,
+
+915
+01:01:38,680 --> 01:01:42,232
+sa èesticama koje krue
+jedna oko druge?
+
+916
+01:01:43,125 --> 01:01:45,275
+Kakav kurvin sin.
+
+917
+01:01:47,833 --> 01:01:52,153
+<i>Razmotrimo ponovo Elenu i Manela</i>
+<i>ali kao sistem subatomskih èestica.</i>
+
+918
+01:01:52,417 --> 01:01:55,166
+<i>Evolucija njegovih poseta njenom stanu</i>
+
+919
+01:01:55,167 --> 01:01:59,027
+<i>æe posluiti kao primer</i>
+<i>neverovatnih kvantnih zakona.</i>
+
+920
+01:01:59,528 --> 01:02:01,838
+<i>Postoji jedan èuveni princip,</i>
+
+921
+01:02:02,535 --> 01:02:04,987
+koji se zove princip nepouzdanosti.
+
+922
+01:02:05,120 --> 01:02:07,196
+<i>Radi se o dve kolièine koje se</i>
+
+923
+01:02:07,320 --> 01:02:11,175
+<i>ne mogu definisati sa beskrajnom</i>
+<i>preciznošæu u isto vreme.</i>
+
+924
+01:02:11,635 --> 01:02:16,017
+<i>Ako merite gde je èestica,</i>
+<i>ne znate koliko brzo putuje.</i>
+
+925
+01:02:16,160 --> 01:02:19,383
+OPCIJA 1: Imam hitan posao,
+vidimo se veèeras!
+
+926
+01:02:20,972 --> 01:02:24,680
+OPCIJA 2: Mislila sam da bi i ti
+mogao imati kljuèeve mog stana.
+
+927
+01:02:24,920 --> 01:02:28,265
+OPCIJA 3: Upotrebi kljuè
+što sam ti dala! Veèera zagoreva!
+
+928
+01:02:29,996 --> 01:02:32,218
+<i>Ali ako merite koliko brzo putuje,</i>
+
+929
+01:02:32,360 --> 01:02:34,140
+<i>onda ne znate gde je.</i>
+
+930
+01:02:34,625 --> 01:02:36,226
+OPCIJA 1
+
+931
+01:02:37,583 --> 01:02:40,160
+Sreæan roğendan, g. Metod!
+
+932
+01:02:40,417 --> 01:02:42,857
+OPCIJA 2
+
+933
+01:02:47,000 --> 01:02:48,600
+Jesi li proverio veèeru
+da ne zagoreva?
+
+934
+01:02:48,792 --> 01:02:51,112
+OPCIJA 3
+
+935
+01:02:53,292 --> 01:02:55,840
+Ne! Šta to radiš?
+- Izvini.
+
+936
+01:02:56,000 --> 01:02:58,656
+Iako imaš kljuèeve,
+moeš prvo pozvoniti!
+
+937
+01:02:59,002 --> 01:03:02,384
+Uvek postoje ogranièenja u tome
+što znamo o èestici.
+
+938
+01:03:05,950 --> 01:03:08,994
+<i>Ove nesigurnosti u posmatranju èestice</i>
+
+939
+01:03:09,120 --> 01:03:11,283
+<i>utièu na njenu situaciju.</i>
+
+940
+01:03:11,646 --> 01:03:16,334
+<i>To je kao da ona radi ono</i>
+što posmatrate dok je posmatrate,
+
+941
+01:03:16,480 --> 01:03:19,076
+<i>kao da izvodi samo za vas.</i>
+
+942
+01:03:20,250 --> 01:03:22,400
+Idem u kupatilo.
+
+943
+01:03:26,203 --> 01:03:31,584
+<i>Ostalo vreme, ne postoji naèin da</i>
+<i>sa sigurnošæu znate šta radi.</i>
+
+944
+01:03:33,208 --> 01:03:37,800
+<i>Ali nesigurnost raste ne samo iz èinjenice</i>
+<i>da ne moete znati šta radi,</i>
+
+945
+01:03:37,960 --> 01:03:40,320
+<i>veæ iz neèega mnogo</i>
+<i>uznemiravajuæeg.</i>
+
+946
+01:03:40,610 --> 01:03:42,410
+<i>Kada ne gledamo èesticu,</i>
+
+947
+01:03:42,560 --> 01:03:47,251
+<i>volimo je opisati kao da se širi</i>
+<i>u nekoj vrsti oblaka moguænosti.</i>
+
+948
+01:03:47,400 --> 01:03:51,423
+<i>Gde moemo reæi da èestica</i>
+<i>ne radi ništa posebno,</i>
+
+949
+01:03:51,560 --> 01:03:54,350
+<i>a u isto vreme radi sve.</i>
+
+950
+01:03:54,500 --> 01:03:55,603
+Šta radiš?
+
+951
+01:03:55,760 --> 01:03:57,830
+Izgleda potpuno blesavo.
+
+952
+01:03:58,397 --> 01:04:00,184
+Ali u stvari, nije.
+
+953
+01:04:00,583 --> 01:04:02,233
+<i>Šta si rekao?</i>
+
+954
+01:04:02,360 --> 01:04:03,939
+Šta radiš?
+
+955
+01:04:04,080 --> 01:04:08,114
+<i>U oblaku verovatnoæe, iako su neke</i>
+<i>stvari verovatnije od drugih,</i>
+
+956
+01:04:08,240 --> 01:04:11,271
+zaista sve je moguæe.
+
+957
+01:04:13,375 --> 01:04:16,315
+Šta, hoæeš detalje o tome
+šta radim u kupatilu?
+
+958
+01:04:18,180 --> 01:04:19,744
+<i>Èak je moguæe,</i>
+
+959
+01:04:19,880 --> 01:04:22,456
+<i>a dokazano je èuvenim eksperimentom,</i>
+
+960
+01:04:22,600 --> 01:04:27,068
+<i>da èestica moe biti</i>
+<i>na dva mesta odjednom.</i>
+
+961
+01:04:29,708 --> 01:04:31,358
+A tvoj mobilni?
+
+962
+01:04:32,083 --> 01:04:35,040
+Ostavila sam ga u kupatilu.
+- Ostaviæeš ga tamo?
+
+963
+01:04:35,200 --> 01:04:39,376
+Smeta ti?
+Hoæeš da ga uzmem?
+
+964
+01:04:44,417 --> 01:04:46,957
+<i>Ali ovaj fenomen</i>
+<i>je samo posledica</i>
+
+965
+01:04:47,080 --> 01:04:48,957
+<i>najdublje i najstrašnije istine</i>
+
+966
+01:04:49,080 --> 01:04:51,358
+<i>predstavljene u kvantnoj fizici</i>
+
+967
+01:04:51,480 --> 01:04:53,898
+<i>kao dualnost talas-èestica.</i>
+
+968
+01:04:57,862 --> 01:05:02,203
+<i>Sve u svemiru se moe ponašati</i>
+<i>ili kao talas ili kao èestica.</i>
+
+969
+01:05:02,903 --> 01:05:07,136
+<i>Striktno govoreæi, jedna èestica</i>
+<i>moe biti samo na jednom mestu.</i>
+
+970
+01:05:07,427 --> 01:05:11,154
+<i>Šta se stvarno dešava dok</i>
+<i>ne posmatramo èesticu,</i>
+
+971
+01:05:11,280 --> 01:05:13,445
+<i>je da se ponaša kao talas.</i>
+
+972
+01:05:14,390 --> 01:05:18,893
+<i>A talas se širi celim</i>
+<i>prostorom unaokolo.</i>
+
+973
+01:05:19,040 --> 01:05:22,652
+<i>Moete na to gledati kao na</i>
+<i>èesticu otelotvorenu u tom talasu,</i>
+
+974
+01:05:22,800 --> 01:05:25,505
+<i>koja je na mnogo mesta</i>
+<i>u jednom pokretu.</i>
+
+975
+01:05:30,483 --> 01:05:34,250
+<i>To znaèi, ne samo da moe biti</i>
+<i>bilo gde u prostoru,</i>
+
+976
+01:05:34,400 --> 01:05:39,611
+<i>veæ i da je svuda u isto vreme.</i>
+
+977
+01:05:55,739 --> 01:05:57,559
+Šta si radila sinoæ?
+
+978
+01:05:58,375 --> 01:05:59,775
+Zašto?
+
+979
+01:06:00,125 --> 01:06:02,185
+Bila si sa Lorencom, zar ne?
+
+980
+01:06:02,833 --> 01:06:04,800
+Ozbiljno me to pitaš?
+
+981
+01:06:04,960 --> 01:06:06,822
+Bila si sa Lorencom.
+
+982
+01:06:07,833 --> 01:06:11,720
+Bila sam s tobom.
+- Molim te, ne menjaj temu.
+
+983
+01:06:11,880 --> 01:06:12,999
+Bila sam s tobom!
+
+984
+01:06:13,120 --> 01:06:16,457
+Ne zanima me da li si bila sa mnom!
+Pojebala si se s njim! Hajde, reci to!
+
+985
+01:06:16,600 --> 01:06:19,478
+Pojebala si se s njim!
+
+986
+01:06:22,458 --> 01:06:24,938
+<i>Normalno nisam ovakav, znate.</i>
+
+987
+01:06:25,664 --> 01:06:28,144
+<i>Ali ima nešto što vam</i>
+<i>još nisam rekao.</i>
+
+988
+01:06:28,708 --> 01:06:31,457
+<i>Vratimo se na moju posetu</i>
+<i>Eleninom stanu</i>
+
+989
+01:06:31,458 --> 01:06:33,858
+<i>kako bi najzad shvatili</i>
+<i>šta se desilo.</i>
+
+990
+01:06:35,065 --> 01:06:39,468
+<i>Ustvari, iako taèno ne moemo</i>
+<i>znati gde je èestica,</i>
+
+991
+01:06:41,044 --> 01:06:44,539
+<i>taèno znamo kolika</i>
+<i>je verovatnoæa</i>
+
+992
+01:06:44,680 --> 01:06:47,040
+<i>da je pronağemo</i>
+<i>na datom mestu.</i>
+
+993
+01:06:48,167 --> 01:06:53,582
+Manel, moramo ozbiljno razgovarati.
+Usro si se, a?
+
+994
+01:06:55,847 --> 01:06:57,975
+<i>Ako prouèite dovoljan</i>
+<i>broj èestica,</i>
+
+995
+01:06:58,120 --> 01:06:59,770
+Imam hitan posao,
+vidimo se veèeras!
+
+996
+01:06:59,920 --> 01:07:03,518
+<i>moete biti sigurni</i>
+<i>da je verovatnoæa uvek taèna.</i>
+
+997
+01:07:03,824 --> 01:07:04,850
+<i>Na due staze...</i>
+
+998
+01:07:05,000 --> 01:07:05,986
+Dobila sam ulogu!
+
+999
+01:07:06,120 --> 01:07:08,291
+<i>... to je jednostavno nepogrešivo.</i>
+
+1000
+01:07:12,208 --> 01:07:14,749
+<i>Jer prouèavanje dovoljnog</i>
+<i>broja èestica</i>
+
+1001
+01:07:14,880 --> 01:07:17,291
+<i>je isto kao prouèavanje</i>
+<i>jedne èestice</i>
+
+1002
+01:07:17,440 --> 01:07:19,332
+<i>dovoljno dugo vremena.</i>
+
+1003
+01:07:19,480 --> 01:07:20,749
+Manel!
+
+1004
+01:07:20,880 --> 01:07:23,207
+<i>A veza pogotovo</i>
+
+1005
+01:07:23,360 --> 01:07:25,749
+<i>nudi dosta vremena</i>
+<i>za prouèavanje èestice</i>
+
+1006
+01:07:25,880 --> 01:07:28,320
+<i>mnogo puta.</i>
+
+1007
+01:07:31,417 --> 01:07:34,457
+<i>U pravom trenutku dok</i>
+<i>posmatrate èesticu,</i>
+
+1008
+01:07:34,600 --> 01:07:37,778
+<i>oblak i ostale moguænosti nestaju.</i>
+
+1009
+01:07:38,083 --> 01:07:40,749
+<i>Èestica prestaje da se</i>
+<i>ponaša kao talas</i>
+
+1010
+01:07:40,880 --> 01:07:43,980
+<i>i stvarno radi ono što vidite.</i>
+
+1011
+01:08:09,917 --> 01:08:12,227
+Lorenco je zgodan.
+
+1012
+01:08:12,360 --> 01:08:15,832
+Od kako smo se upoznali,
+nije prestajao sa fletovanjem
+
+1013
+01:08:15,960 --> 01:08:19,640
+i zgodan je.
+- To si veæ rekla.
+
+1014
+01:08:20,875 --> 01:08:22,582
+I ja sam flertovala s njim.
+
+1015
+01:08:22,720 --> 01:08:25,416
+Ponekad sam èak razmišljala
+o jebanju s njim.
+
+1016
+01:08:25,560 --> 01:08:27,937
+Pogotovo kad sumnjam u tebe.
+
+1017
+01:08:28,875 --> 01:08:31,457
+Ali ne zaljubljujem se u nekog
+zato što dobro izgleda
+
+1018
+01:08:31,600 --> 01:08:34,228
+i ne elim momka koji je
+maneken ili glumac.
+
+1019
+01:08:34,360 --> 01:08:35,810
+To je poslednje što elim.
+
+1020
+01:08:36,125 --> 01:08:39,775
+elim nekoga ko misli
+o drugim stvarima,
+
+1021
+01:08:40,167 --> 01:08:42,957
+o stvarima vanijim od
+nas samih,
+
+1022
+01:08:43,080 --> 01:08:45,707
+ko ne provodi ceo dan
+zavodeæi ljude
+
+1023
+01:08:45,840 --> 01:08:47,582
+ili ima veæi ego od pameti.
+
+1024
+01:08:47,720 --> 01:08:49,903
+Kao tvoj.
+- Da, kao moj.
+
+1025
+01:08:50,917 --> 01:08:53,957
+elim deèka koji mi
+objašnjava èudne stvari,
+
+1026
+01:08:54,080 --> 01:08:58,124
+iznova i iznova jer ih
+ne razumem
+
+1027
+01:08:58,280 --> 01:09:00,645
+kao ni svi drugi,
+ali to volim.
+
+1028
+01:09:01,542 --> 01:09:05,192
+Termodinamiènog deèka koga
+mogu zvati g. Metod.
+
+1029
+01:09:05,792 --> 01:09:10,124
+Potpunog manijaka koji me tera
+da budem taèna
+
+1030
+01:09:10,320 --> 01:09:13,874
+gledam dokumentarce
+i idem rano u krevet.
+
+1031
+01:09:14,000 --> 01:09:16,935
+Èak i ako uvek zaspi
+pre mene.
+
+1032
+01:09:17,792 --> 01:09:21,692
+Ne odustaj, samo budi
+malo strpljiv sa mnom.
+
+1033
+01:09:22,333 --> 01:09:23,943
+Ok?
+
+1034
+01:09:37,792 --> 01:09:41,532
+<i>Ali nemojte da vas prevari</i>
+<i>njen mali, senzacionalistièki govor.</i>
+
+1035
+01:09:42,125 --> 01:09:46,249
+<i>Tok naše veze je ionako</i>
+<i>veæ bio odreğen.</i>
+
+1036
+01:09:46,400 --> 01:09:48,650
+Taj novac je moj, novajlijo!
+
+1037
+01:09:55,375 --> 01:09:56,707
+Seci!
+
+1038
+01:09:56,840 --> 01:10:00,416
+<i>Kau da kvantna fizika stavlja</i>
+<i>taèku na nauèni determinizam.</i>
+
+1039
+01:10:00,560 --> 01:10:01,457
+Elena!
+
+1040
+01:10:01,600 --> 01:10:03,791
+<i>Ali to je samo loša procena.</i>
+
+1041
+01:10:03,920 --> 01:10:05,192
+Bila si savršena.
+
+1042
+01:10:06,250 --> 01:10:08,374
+<i>Verovatnoæa, da ponovimo,</i>
+
+1043
+01:10:08,520 --> 01:10:12,249
+<i>je samo odrednica tokom vremena</i>
+<i>kao najtaènija od svih zakona.</i>
+
+1044
+01:10:12,400 --> 01:10:13,650
+<i>To je nepogrešivo.</i>
+
+1045
+01:10:14,800 --> 01:10:17,315
+<i>I što je gore, ostavlja vas bez</i>
+<i>oruja da se borite protiv toga.</i>
+
+1046
+01:10:17,800 --> 01:10:19,233
+Dobro, ti?
+
+1047
+01:10:20,625 --> 01:10:25,105
+<i>Na kraju, verovatnoæa</i>
+<i>te uvek stavi na svoje mesto.</i>
+
+1048
+01:10:32,292 --> 01:10:36,322
+<i>Pogotovo kad ne moeš videti</i>
+<i>gde je druga èestica.</i>
+
+1049
+01:10:39,625 --> 01:10:43,605
+<i>Što nas vraæa nazad</i>
+<i>na drugi zakon termodinamike.</i>
+
+1050
+01:10:48,333 --> 01:10:52,613
+<i>Zašto mislite da entropija uvek</i>
+<i>oznaèava najgori moguæi pravac?</i>
+
+1051
+01:10:53,179 --> 01:10:56,463
+<i>Zato što su izgledi da stvari</i>
+<i>ispadnu onako kako vi elite</i>
+
+1052
+01:10:56,833 --> 01:10:59,249
+<i>smešni u poreğenju sa izgledima</i>
+<i>da se to ne desi.</i>
+
+1053
+01:10:59,400 --> 01:11:03,160
+Ne zanima me da li si bila sa mnom!
+Pojebala si se s njim! Hajde, reci to!
+
+1054
+01:11:03,320 --> 01:11:05,607
+Pojebala si se s njim!
+
+1055
+01:11:06,208 --> 01:11:09,207
+<i>Izgledi da druge èestice</i>
+
+1056
+01:11:09,360 --> 01:11:13,608
+<i>budu tamo gde vi to elite</i>
+<i>uvek æe biti ekstremno mali.</i>
+
+1057
+01:11:15,458 --> 01:11:18,648
+Mislim da nam je oboma
+potrebno malo vremena.
+
+1058
+01:11:19,875 --> 01:11:22,185
+Ja moram da razmislim i...
+
+1059
+01:11:22,583 --> 01:11:25,153
+i ti moraš da razmisliš.
+
+1060
+01:11:28,375 --> 01:11:31,207
+<i>Postoji drugi kvantni fenomen</i>
+<i>koji bolje objašnjava</i>
+
+1061
+01:11:31,360 --> 01:11:34,688
+<i>šta se dešava tokom perioda</i>
+<i>razmišljanja izmeğu parova.</i>
+
+1062
+01:11:35,792 --> 01:11:40,192
+<i>Ili, jeste li stvarno pomislili da su ti periodi</i>
+<i>ikada bili korišæeni za razmišljanje?</i>
+
+1063
+01:11:42,885 --> 01:11:44,937
+<i>Kada se dve èestice sjedine</i>
+
+1064
+01:11:45,080 --> 01:11:47,882
+<i>na primer, formirajuæi</i>
+<i>nukleus atoma,</i>
+
+1065
+01:11:48,134 --> 01:11:50,755
+<i>dolazi do kvantnog uplitanja.</i>
+
+1066
+01:11:50,880 --> 01:11:55,111
+<i>I obe èuvaju kompementarnost</i>
+<i>èak i ako se razdvoje.</i>
+
+1067
+01:11:55,240 --> 01:11:57,000
+<i>Zdravo. Kako si? Sve u redu?</i>
+<i>Hteo bih da razgovaramo.</i>
+
+1068
+01:11:57,204 --> 01:11:59,849
+Uprkos razdvojenosti, one su
+i dalje povezane.
+
+1069
+01:12:00,068 --> 01:12:04,171
+<i>Ocenite jednu od njih i naterate drugu</i>
+<i>da bude u drugom stanju.</i>
+
+1070
+01:12:05,308 --> 01:12:09,636
+<i>Ne samo da stanje jedne govori</i>
+<i>o stanju druge,</i>
+
+1071
+01:12:09,760 --> 01:12:14,502
+nego manipulacijom stanja jedne
+utièete takoğe i na stanje druge.
+
+1072
+01:12:14,734 --> 01:12:18,537
+<i>I nije vano koliko su</i>
+<i>udaljene jedna od druge.</i>
+
+1073
+01:12:19,958 --> 01:12:22,332
+<i>Komplementarno stanje ne znaèi</i>
+
+1074
+01:12:22,480 --> 01:12:24,483
+da su iste, zar ne vidite?
+
+1075
+01:12:25,708 --> 01:12:27,874
+Dobro. Nisam ok.
+
+1076
+01:12:28,000 --> 01:12:29,249
+Oseæam se usrano.
+
+1077
+01:12:29,400 --> 01:12:33,650
+I baš zbog toga, siguran sam
+da je ona sreæna.
+
+1078
+01:12:34,000 --> 01:12:36,390
+Taj kuèkin sin Raderford.
+
+1079
+01:12:37,250 --> 01:12:41,840
+Odoh do toaleta. - Ok, ali to
+nisi ti odluèila. - Dobro.
+
+1080
+01:12:46,417 --> 01:12:49,457
+Vidi Manel, dugo smo
+veæ prijatelji.
+
+1081
+01:12:49,600 --> 01:12:52,999
+Uvek sam slušao tvoje teorije
+i pokazivao interes,
+
+1082
+01:12:53,120 --> 01:12:55,874
+ali više ne mogu.
+Pravi si dave
+
+1083
+01:12:56,000 --> 01:12:58,582
+Hvala drue, baš mi je
+to trebalo da èujem.
+
+1084
+01:12:58,720 --> 01:13:01,541
+Moda jeste.
+Tvoja odreğenost je sranje.
+
+1085
+01:13:01,680 --> 01:13:04,957
+Buduæi da je sve odreğeno,
+ništa ne zavisi od tebe.
+
+1086
+01:13:05,080 --> 01:13:06,624
+Ne ostavljaš mesta
+za slobodnu volju.
+
+1087
+01:13:06,760 --> 01:13:09,832
+Slobodna volja je iluzija,
+veæ sam ti to rekao.
+
+1088
+01:13:09,960 --> 01:13:12,653
+Moda jeste, ali ljudi nastavljaju
+da jebu jedni druge.
+
+1089
+01:13:12,958 --> 01:13:14,207
+Pogledaj Evu.
+
+1090
+01:13:14,360 --> 01:13:17,916
+Bilo joj je mnogo gore nego
+tebi sa Elenom, ali nije odustala.
+
+1091
+01:13:18,040 --> 01:13:19,249
+I evo nas.
+
+1092
+01:13:19,400 --> 01:13:21,791
+Morala je gutati svoj ponos
+iznova i iznova
+
+1093
+01:13:21,960 --> 01:13:23,999
+jer sam je tretirao kao govno,
+
+1094
+01:13:24,120 --> 01:13:26,874
+ali je ostala i borila se
+za ono što eli.
+
+1095
+01:13:27,000 --> 01:13:30,435
+I ja sam se borio. - Ne, ti si se
+alio, to nije isto.
+
+1096
+01:13:30,560 --> 01:13:33,332
+Eva je znala da viğam
+devojku sa gej parade,
+
+1097
+01:13:33,480 --> 01:13:36,193
+pa ipak je bila svakoga
+dana u bolnici
+
+1098
+01:13:36,333 --> 01:13:38,233
+brinuæi o meni.
+
+1099
+01:13:39,750 --> 01:13:41,900
+Eva je jebeno fantastièna.
+
+1100
+01:13:42,000 --> 01:13:46,480
+Doğavola Pablo, stvarno
+si previše popio.
+
+1101
+01:13:46,625 --> 01:13:49,457
+Reci mi jednu stvar.
+Hoæe li to išta promeniti?
+
+1102
+01:13:49,600 --> 01:13:52,082
+Da. Kada je manekenka došla
+u bolnicu i kad nas je ona uhvatila...
+
+1103
+01:13:52,240 --> 01:13:55,193
+Samo maloj, manekenka vas uhvatila?
+
+1104
+01:13:55,583 --> 01:13:57,533
+<i>Eva nas je uhvatila.</i>
+
+1105
+01:13:59,583 --> 01:14:02,233
+<i>Onda je nestala</i>
+
+1106
+01:14:02,360 --> 01:14:05,482
+<i>i tada sam shvatio</i>
+<i>koliko mi nedostaje.</i>
+
+1107
+01:14:05,958 --> 01:14:07,818
+Kako smo?
+
+1108
+01:14:08,760 --> 01:14:11,041
+<i>ao mi je, ne moete unutra.</i>
+
+1109
+01:14:11,200 --> 01:14:14,124
+<i>Hej, rekoh da ne moete...</i>
+<i>Ona je na sastanku...</i>
+
+1110
+01:14:14,280 --> 01:14:15,525
+<i>Ne moete...!</i>
+
+1111
+01:14:15,958 --> 01:14:18,648
+Izvini, nisam ga mogla spreèiti.
+
+1112
+01:14:19,250 --> 01:14:22,041
+Znam da ne eliš da
+me vidiš i razgovaraš.
+
+1113
+01:14:22,200 --> 01:14:27,280
+Samo sam ti hteo reæi da sam
+govnar i da te ne zasluujem.
+
+1114
+01:14:27,500 --> 01:14:29,017
+Ali ja te volim.
+
+1115
+01:14:29,160 --> 01:14:31,612
+Volim te i elim
+da ivim s tobom.
+
+1116
+01:14:32,750 --> 01:14:37,240
+I ako mi daš šansu, obeæavam ti
+da to više nikada neæu uraditi.
+
+1117
+01:14:38,958 --> 01:14:43,639
+Ne mogu da ivim bez tebe.
+Ne elim da ivim bez tebe.
+
+1118
+01:14:52,333 --> 01:14:56,480
+Ako eliš da se vratiš,
+potpiši ovo.
+
+1119
+01:14:58,244 --> 01:15:02,487
+To je ugovor kojim se obavezuješ da
+budeš veran svom svojom imovinom.
+
+1120
+01:15:20,958 --> 01:15:23,778
+Ma zezam te, seronjo.
+
+1121
+01:15:26,125 --> 01:15:27,999
+Manekenka je mnogo dobra.
+
+1122
+01:15:28,120 --> 01:15:30,332
+I ona s parade isto,
+super u krevetu.
+
+1123
+01:15:30,480 --> 01:15:33,335
+Ali Eva ima...
+Ona je...
+
+1124
+01:15:33,480 --> 01:15:37,608
+Rešio sam da prestanem sa
+zajebavanjem i da se sredim.
+
+1125
+01:15:37,760 --> 01:15:40,612
+Znam šta æeš reæi, ali ne,
+ozbiljan sam.
+
+1126
+01:15:40,760 --> 01:15:42,600
+Reæi æu ti šta si
+hteo da kaeš.
+
+1127
+01:15:42,760 --> 01:15:44,666
+Da sve ovo prièam
+jer sam na štakama
+
+1128
+01:15:44,800 --> 01:15:49,291
+i da jedva mogu jebati,
+da mi je mozak ošteæen,
+
+1129
+01:15:49,440 --> 01:15:51,999
+da sam govorio da mi
+se to nikada neæe desiti,
+
+1130
+01:15:52,120 --> 01:15:54,499
+ne ukoliko mogu imati
+druge ene, ne pre 50-te,
+
+1131
+01:15:54,640 --> 01:15:56,624
+da se nadvijaju crni oblaci
+
+1132
+01:15:56,760 --> 01:15:58,624
+i da se bojim ostati sam,
+
+1133
+01:15:58,760 --> 01:16:02,815
+da eniti se znaèi odustajati,
+biti škrtica,
+
+1134
+01:16:02,960 --> 01:16:06,707
+da to znaèi odbacivanje
+naše suštine,
+
+1135
+01:16:06,840 --> 01:16:08,916
+slobode i prave ljubavi,
+
+1136
+01:16:08,917 --> 01:16:12,567
+Što je potpuno bešèasno,
+
+1137
+01:16:12,958 --> 01:16:15,440
+tuno, patetièno...
+
+1138
+01:16:15,600 --> 01:16:17,190
+Ne, nisam to hteo reæi.
+
+1139
+01:16:18,083 --> 01:16:20,693
+Šta je bešèasno i patetièno?
+
+1140
+01:16:21,000 --> 01:16:22,957
+Manel, šta drugo?
+
+1141
+01:16:23,080 --> 01:16:26,541
+Govorim mu da se krije iza svojih
+zakona i da neæe ništa da preduzme.
+
+1142
+01:16:26,680 --> 01:16:31,362
+Manel, dieš ruke kad
+je vreme, ne unapred.
+
+1143
+01:16:32,000 --> 01:16:34,832
+Ustvari, razmišljala sam
+nešto u toaletu.
+
+1144
+01:16:34,960 --> 01:16:37,903
+Taj zakon kvantnog uplitanja.
+
+1145
+01:16:37,958 --> 01:16:40,874
+Kaeš da ako promeniš
+stanje jedne èestice,
+
+1146
+01:16:41,000 --> 01:16:42,707
+to menja i stanje
+druge, je li tako?
+
+1147
+01:16:42,840 --> 01:16:45,499
+Onda, ako promeniš sebe
+u pozitivnije stanje,
+
+1148
+01:16:45,640 --> 01:16:50,230
+ako se pobrineš o sebi
+i okruiš se dobrim vibracijama,
+
+1149
+01:16:50,360 --> 01:16:52,291
+onda Elena moda neæe biti
+
+1150
+01:16:52,440 --> 01:16:54,416
+toliko sreæna i poèeæeš
+da joj nedostaješ.
+
+1151
+01:16:54,560 --> 01:16:58,560
+Nisam razmišljao o tome.
+- To moe da upali, zar ne?
+
+1152
+01:16:58,720 --> 01:17:02,033
+Ali ona te mora videti kao
+Manela s poèetka.
+
+1153
+01:17:02,250 --> 01:17:04,190
+Pre nego što si odlepio.
+
+1154
+01:17:05,625 --> 01:17:08,124
+Naravno! To mu govorim
+sve vreme.
+
+1155
+01:17:08,280 --> 01:17:10,791
+Da se provodi, da više
+izlazi, doğavola.
+
+1156
+01:17:10,920 --> 01:17:15,612
+Da izlazi i da se picne,
+flertuje s dugim ribama, zar ne?
+
+1157
+01:17:15,750 --> 01:17:19,800
+Da ide u teretanu, ne znam,
+da ivi malo.
+
+1158
+01:17:19,920 --> 01:17:21,903
+I da se seksa, ne?
+
+1159
+01:17:22,167 --> 01:17:26,477
+Kresni brdo riba,
+koliko god moeš.
+
+1160
+01:17:28,375 --> 01:17:30,025
+Razumeš, Manel?
+
+1161
+01:17:30,583 --> 01:17:34,573
+Rekao sam ti, Eva je najbolja.
+Kako da ne budem lud za njom?
+
+1162
+01:17:35,833 --> 01:17:37,613
+Ti si najbolja.
+
+1163
+01:17:57,917 --> 01:18:01,457
+Zato što veæ znate ili
+bi bar trebalo da znate,
+
+1164
+01:18:01,600 --> 01:18:03,541
+da termodinamika...
+
+1165
+01:18:03,680 --> 01:18:06,749
+Znamo da je potpuno super zgodna.
+Ako pomnoimo njenu privlaènu masu
+
+1166
+01:18:06,880 --> 01:18:11,320
+sa brzinom svetlosti na kvadrat,
+dobijamo neizmernu kolièinu energije.
+
+1167
+01:18:13,083 --> 01:18:15,863
+IVOT JE PREDIVAN!!!
+
+1168
+01:18:17,417 --> 01:18:18,817
+Hej.
+
+1169
+01:18:32,750 --> 01:18:36,291
+Onda, tu je tip ene koju zovem
+super masivna crna rupa.
+
+1170
+01:18:36,440 --> 01:18:39,291
+Ne samo da je super riba
+i potpuno otkaèena,
+
+1171
+01:18:39,440 --> 01:18:43,082
+ona misli da je centar galaksije,
+da se sve vrti oko nje.
+
+1172
+01:18:43,240 --> 01:18:46,332
+U teoriji, mogla bi postati
+èak i crvotoèina.
+
+1173
+01:18:46,480 --> 01:18:49,874
+Moe te išèupati iz tvog
+sveta i transportovati
+
+1174
+01:18:50,000 --> 01:18:54,661
+u paralelni svemir.
+Ona je rupa, ja sam...
+
+1175
+01:18:54,800 --> 01:18:56,568
+crv.
+
+1176
+01:18:57,250 --> 01:19:00,730
+Imaš li devojku ili si
+malo zagoreo?
+
+1177
+01:19:00,880 --> 01:19:03,675
+Devojku, ja? Ne, ne.
+Da, dobro... nekoliko.
+
+1178
+01:19:03,800 --> 01:19:05,930
+Mnogo. Tebe.
+
+1179
+01:19:06,417 --> 01:19:07,830
+Šta je devojka?
+
+1180
+01:19:07,855 --> 01:19:11,625
+Reæi æeš mi kasnije.
+Momci su tako èudni.
+
+1181
+01:19:13,585 --> 01:19:15,225
+Gde me vodiš?
+
+1182
+01:19:15,360 --> 01:19:17,940
+Ne znam, gde god hoæeš.
+
+1183
+01:19:36,375 --> 01:19:39,720
+Æao, Elena.
+- Manel, æao.
+
+1184
+01:19:39,880 --> 01:19:41,957
+Kako si?
+- Dobro, ti?
+
+1185
+01:19:42,080 --> 01:19:44,082
+Dobro, super. Ti?
+
+1186
+01:19:44,240 --> 01:19:46,291
+Dobro, sjajno.
+
+1187
+01:19:46,440 --> 01:19:48,541
+Drago mi je da to èujem.
+I ja sam sjajno.
+
+1188
+01:19:48,680 --> 01:19:51,041
+Ovo je Alba.
+- Æao.
+
+1189
+01:19:51,200 --> 01:19:53,332
+Ti si Elena Baoæi, zar ne?
+- Da.
+
+1190
+01:19:53,480 --> 01:19:56,693
+Nisam znala da æu
+upoznati poznatu liènost.
+
+1191
+01:19:56,917 --> 01:19:59,294
+Moja devojka, studentkinja.
+Dobro nam ide.
+
+1192
+01:19:59,440 --> 01:20:00,874
+Dobro, tek poèinjemo.
+
+1193
+01:20:01,000 --> 01:20:04,041
+Jedva da je punoletna,
+ali veoma je pametna.
+
+1194
+01:20:04,200 --> 01:20:05,874
+I oboje smo u nauci.
+
+1195
+01:20:06,000 --> 01:20:08,582
+Razume skoro sve
+što joj objasnim.
+
+1196
+01:20:08,720 --> 01:20:10,363
+Je li tako, Alba?
+
+1197
+01:20:16,583 --> 01:20:20,800
+Alba je otkaèena. Ne znam,
+moda æemo u trojku veèeras.
+
+1198
+01:20:21,208 --> 01:20:23,332
+Dobro, ustvari...
+
+1199
+01:20:23,480 --> 01:20:25,416
+Prvi put sam sa njom.
+
+1200
+01:20:25,560 --> 01:20:27,957
+Elena, sve ovo vreme
+razmišljanja me ubija.
+
+1201
+01:20:28,080 --> 01:20:29,891
+Došli smo ovde jer sam
+hteo videti tebe.
+
+1202
+01:20:30,040 --> 01:20:32,275
+Moram znati koliko dugo još...
+
+1203
+01:20:32,400 --> 01:20:34,363
+Seæaš se Lorenca?
+
+1204
+01:20:35,333 --> 01:20:36,733
+Æao.
+
+1205
+01:20:38,167 --> 01:20:40,357
+Zapamtio sam da si viši.
+
+1206
+01:20:40,875 --> 01:20:43,874
+I nisi htela deèka koji je
+maneken ili glumac.
+
+1207
+01:20:44,000 --> 01:20:45,457
+To je poslednje što si htela.
+
+1208
+01:20:45,600 --> 01:20:48,541
+Htela si termodinamièkog
+deèka, seæaš se?
+
+1209
+01:20:48,680 --> 01:20:50,456
+Da ti objasni zakone fizike.
+
+1210
+01:20:50,600 --> 01:20:53,999
+Dobro, ostalo je puno
+da se objasni...
+
+1211
+01:20:54,120 --> 01:20:56,690
+U to vreme je bila istina.
+
+1212
+01:20:56,880 --> 01:21:00,216
+Bio si dobar prema meni,
+objašnjavao zanimljive stvari,
+
+1213
+01:21:00,400 --> 01:21:02,416
+bilo nam lepo, ali...
+
+1214
+01:21:02,560 --> 01:21:04,937
+Ali ljudi ne mogu
+uvek biti u pravu.
+
+1215
+01:21:05,167 --> 01:21:07,416
+Na koga misliš,
+tebe ili mene?
+
+1216
+01:21:07,560 --> 01:21:09,227
+Manel, ti imaš problem.
+
+1217
+01:21:09,360 --> 01:21:11,707
+Ti objašnjavaš stvari kao
+da su tvoji zakoni stvarni,
+
+1218
+01:21:11,840 --> 01:21:13,777
+ali oni su samo u tvojoj glavi.
+
+1219
+01:21:13,920 --> 01:21:16,007
+Ti ne vidiš realnost.
+
+1220
+01:21:16,160 --> 01:21:18,892
+Ja nisam gomila organizovanih atoma.
+
+1221
+01:21:19,040 --> 01:21:21,332
+A dokaz je da sam odluèila
+da te ostavim.
+
+1222
+01:21:21,480 --> 01:21:23,733
+Ti misliš da si odluèila
+da me ostaviš.
+
+1223
+01:21:23,792 --> 01:21:25,442
+ao mi je.
+
+1224
+01:21:26,833 --> 01:21:29,573
+Imam više zajednièkih
+stvari sa Lorencom.
+
+1225
+01:21:30,458 --> 01:21:33,082
+Pomae mi u poslu,
+daje mi samopouzdanje,
+
+1226
+01:21:33,240 --> 01:21:35,733
+smiren je i siguran u sebe.
+
+1227
+01:21:38,833 --> 01:21:40,573
+Da, shvatam.
+
+1228
+01:21:41,583 --> 01:21:42,983
+U pravu si.
+
+1229
+01:21:46,458 --> 01:21:49,478
+Iako si zaboravila
+jedan mali detalj.
+
+1230
+01:21:49,640 --> 01:21:52,943
+Nije sluèajnost da je on
+drugo super-masivno telo.
+
+1231
+01:21:55,250 --> 01:21:56,082
+Vidiš?
+
+1232
+01:21:56,240 --> 01:21:58,707
+To je ono što mislim,
+ne moeš kontrolistai stvarnost
+
+1233
+01:21:58,840 --> 01:22:01,478
+i nikada ne prestaješ pokušavati.
+
+1234
+01:22:02,417 --> 01:22:05,166
+Kada se stvarnost opire,
+pokušavaš još jaèe
+
+1235
+01:22:05,320 --> 01:22:08,578
+da je uklopiš u svoje
+usrane zakone.
+
+1236
+01:22:08,720 --> 01:22:10,723
+Šta prièaš? Prisiljavam
+stvarnost da se uklopi?
+
+1237
+01:22:10,880 --> 01:22:12,895
+Ti èak ne razumeš šta govoriš.
+
+1238
+01:22:27,958 --> 01:22:30,358
+Hej momak!
+Neæeš da platiš?
+
+1239
+01:22:38,417 --> 01:22:41,249
+Elena, stani!
+Elena.
+
+1240
+01:22:41,400 --> 01:22:43,320
+Šta si mislila tim,
+ja forsiram stvari?
+
+1241
+01:22:43,583 --> 01:22:47,082
+Jesi li ozbiljna da
+ti se Pablo ne sviğa?
+
+1242
+01:22:47,240 --> 01:22:50,332
+To je normalno, veoma je zgodan.
+Priznaj, više ti se sviğa.
+
+1243
+01:22:50,480 --> 01:22:53,082
+Stvarno mi ne smeta.
+Mi smo dobri prijatelji.
+
+1244
+01:22:53,240 --> 01:22:54,541
+Više ti se sviğa Pablo.
+
+1245
+01:22:54,680 --> 01:22:57,999
+Objasni mi! Kako to
+forsiram stvarnost?
+
+1246
+01:22:58,120 --> 01:23:00,082
+Ovo neæe uspeti.
+Kaem ti.
+
+1247
+01:23:00,240 --> 01:23:02,749
+Znam da smo po drugi
+put spavali,
+
+1248
+01:23:02,880 --> 01:23:06,541
+ali mi smo potpuno razlièiti.
+Ti sa tim poslom, stalno putujuæi,
+
+1249
+01:23:06,680 --> 01:23:11,112
+i ja... Dosadiæu ti kad ti
+ovo prestane biti novo.
+
+1250
+01:23:11,280 --> 01:23:13,898
+Molim te!
+Elena!
+
+1251
+01:23:14,040 --> 01:23:17,433
+Onaj sa šeširom? Sigurna si
+da eli snimiti film?
+
+1252
+01:23:17,560 --> 01:23:20,791
+Ili hoæe da ti se uvuèe u gaæice.
+Nadam se da je scenario dobar,
+
+1253
+01:23:20,920 --> 01:23:25,550
+ali hajde, tip koji tako izgleda
+ne moe biti dobar pisac.
+
+1254
+01:23:26,167 --> 01:23:29,243
+Sve što sam uradio bilo je
+zato što sam lud za tobom!
+
+1255
+01:23:34,792 --> 01:23:37,207
+<i>Gde si? Gde si? Gde si?</i>
+<i>Gde si? Gde si? Gde si?</i>
+
+1256
+01:23:37,360 --> 01:23:40,728
+A sad kaeš ja forsiram stvari?
+Zaista?
+
+1257
+01:23:50,458 --> 01:23:51,707
+Hajde!
+
+1258
+01:23:51,840 --> 01:23:52,957
+Elena!
+
+1259
+01:23:53,080 --> 01:23:54,358
+<i>Akcija!</i>
+
+1260
+01:24:02,560 --> 01:24:03,817
+Seci!
+
+1261
+01:24:04,375 --> 01:24:06,935
+Stani! Molim te
+ne ostavljaj me!
+
+1262
+01:24:17,625 --> 01:24:19,025
+Elena...
+
+1263
+01:24:19,917 --> 01:24:22,291
+Veæ sam te ostavila, Manel!
+Veæ sam te ostavila.
+
+1264
+01:24:22,440 --> 01:24:25,332
+Znaš zašto?
+Jer si to eleo.
+
+1265
+01:24:25,480 --> 01:24:28,124
+eleo si da ovo propadne
+od samog poèetka.
+
+1266
+01:24:28,280 --> 01:24:31,749
+Jer si nesposoban da pobeğuješ,
+znaš samo kako da gubiš.
+
+1267
+01:24:31,880 --> 01:24:35,416
+Jer to potvrğuje koliko si pametan
+i kako su tvoje teorije sjajne.
+
+1268
+01:24:35,560 --> 01:24:37,957
+I reæi æu ti još nešto.
+
+1269
+01:24:38,080 --> 01:24:40,832
+Ne moeš primeniti zakone
+fizike na ljubav!
+
+1270
+01:24:40,960 --> 01:24:44,651
+Ne moeš! To je ludilo!
+To je totalno sranje!
+
+1271
+01:24:44,880 --> 01:24:46,656
+Ne moeš!
+
+1272
+01:24:54,200 --> 01:24:56,652
+FAZA 3
+
+1273
+01:25:01,995 --> 01:25:04,392
+Nema potrebe za simuliranjem,
+g. Suarez.
+
+1274
+01:25:04,520 --> 01:25:08,291
+Znaš da elektromagnetno
+polje prolazi kroz zidove.
+
+1275
+01:25:08,440 --> 01:25:12,207
+Mogao sam detektovati tvoje
+emitovanje, danas je tamne boje,
+
+1276
+01:25:12,360 --> 01:25:13,791
+skoro crno.
+
+1277
+01:25:13,920 --> 01:25:17,082
+Iznenağen sam do još uopšte
+imam elektromagnetno polje.
+
+1278
+01:25:17,240 --> 01:25:21,693
+Moda ga potpuno izgubiš
+kad èuješ šta imam da kaem.
+
+1279
+01:25:22,625 --> 01:25:25,124
+Ne moeš nastaviti
+kao moj asistent.
+
+1280
+01:25:25,280 --> 01:25:30,185
+Univerzitetska pravila zabranjuju veze
+izmeğu profesora i studenata.
+
+1281
+01:25:30,360 --> 01:25:32,916
+Jedna naša studentkinja te
+je prijavila dekanu.
+
+1282
+01:25:33,040 --> 01:25:36,211
+Ali ništa se nije desilo...
+- Ne, nema potrebe za objašnjavanjem.
+
+1283
+01:25:36,360 --> 01:25:39,153
+ivot, naalost, ne funkcioniše
+kao nauka.
+
+1284
+01:25:39,280 --> 01:25:41,758
+Istina nije najvanija.
+
+1285
+01:25:41,906 --> 01:25:45,506
+Da li je istina ili ne,
+sad ne moeš ništa uraditi.
+
+1286
+01:25:46,750 --> 01:25:48,707
+Ne muèi sebe.
+
+1287
+01:25:48,840 --> 01:25:50,957
+Tvoja plata je bila sranje.
+
+1288
+01:25:51,080 --> 01:25:54,416
+i naravno, tvoji èasovi
+su bili u redu.
+
+1289
+01:25:54,560 --> 01:25:56,727
+Što znaèi da su ga popušili.
+
+1290
+01:25:58,167 --> 01:26:01,187
+Sve prolazi, g. Suarez.
+Ne zaboravi to.
+
+1291
+01:26:01,333 --> 01:26:05,693
+Èak i ti lièni problemi
+koji te toliko uznemiravaju.
+
+1292
+01:26:05,875 --> 01:26:09,315
+Taj zakon ima manje izuzetaka
+od bilo kog drugog koji znam.
+
+1293
+01:26:10,958 --> 01:26:13,358
+Da li bi kasnije
+ruèao sa mnom?
+
+1294
+01:26:13,583 --> 01:26:15,457
+Ne pokušavam da se sprijateljim,
+
+1295
+01:26:15,600 --> 01:26:17,624
+samo elim biti siguran
+da ne planiraš
+
+1296
+01:26:17,760 --> 01:26:20,685
+poveæati statistiku
+termodinamièkih samoubistava.
+
+1297
+01:26:21,417 --> 01:26:25,067
+Ne brini, obeæavam da neæu,
+bar dok ne završim svoju tezu.
+
+1298
+01:26:25,583 --> 01:26:27,943
+Drago mi je da to èujem.
+
+1299
+01:26:28,080 --> 01:26:31,940
+Za svaki sluèaj, neæeš biti podoban
+za tu statistiku dok je ne završiš.
+
+1300
+01:26:37,238 --> 01:26:39,800
+<i>Nakon relativiteta i kvantne fizike,</i>
+
+1301
+01:26:40,478 --> 01:26:44,405
+<i>napravljeno je šokantno otkriæe</i>
+<i>koje pokazuje koliko smo daleko</i>
+
+1302
+01:26:44,560 --> 01:26:47,525
+<i>od shvatanja realnosti.</i>
+
+1303
+01:26:47,760 --> 01:26:50,900
+<i>Svemir, ne samo da je</i>
+<i>neizmerno veliki,</i>
+
+1304
+01:26:51,488 --> 01:26:53,710
+<i>nego se i širi.</i>
+
+1305
+01:26:55,426 --> 01:26:58,450
+<i>A to znaèi da se sva tela u svemiru</i>
+
+1306
+01:26:58,600 --> 01:27:01,249
+udaljavaju jedna od drugih.
+
+1307
+01:27:01,400 --> 01:27:04,960
+<i>A što su udaljenija,</i>
+<i>bre se kreæu.</i>
+
+1308
+01:27:08,589 --> 01:27:11,267
+<i>To vam je to, moji gledaoci.</i>
+
+1309
+01:27:11,440 --> 01:27:15,532
+<i>Svemir se udaljava i ostaviæe</i>
+<i>nas još izolovanijim.</i>
+
+1310
+01:27:16,807 --> 01:27:20,198
+<i>Ovo otkriæe je dovelo do</i>
+<i>zakljuèka da je u poèetku</i>
+
+1311
+01:27:20,320 --> 01:27:23,408
+<i>sve u svemiru moralo</i>
+<i>biti koncentrisano</i>
+
+1312
+01:27:23,560 --> 01:27:29,382
+<i>u neverovatno malom,</i>
+neshvatljivo gustom grumenu.
+
+1313
+01:27:29,600 --> 01:27:31,041
+<i>U jednom trenutku</i>
+
+1314
+01:27:31,200 --> 01:27:33,624
+<i>sva tela u svemiru</i>
+<i>bila su jako blizu,</i>
+
+1315
+01:27:33,760 --> 01:27:36,069
+<i>stisnuta zajedno u obliku</i>
+<i>èiste energije.</i>
+
+1316
+01:27:36,200 --> 01:27:38,582
+<i>A onda je došao Veliki Prasak.</i>
+
+1317
+01:27:38,960 --> 01:27:42,194
+<i>Zato pitanje koje su nauènici</i>
+<i>postavili u tom momentu glasi:</i>
+
+1318
+01:27:42,320 --> 01:27:47,157
+<i>"Gde ide svemir?</i>
+<i>Šta je krajnje odredište?"</i>
+
+1319
+01:27:47,280 --> 01:27:50,012
+Mislilo se da ako svemir
+ima dovoljno mase,
+
+1320
+01:27:50,160 --> 01:27:52,423
+<i>cela ekspanzija bi se mogla</i>
+<i>vratiti u poèetno stanje.</i>
+
+1321
+01:27:52,560 --> 01:27:54,795
+<i>I svemir æe završiti</i>
+<i>ponovo se skupljajuæi</i>
+
+1322
+01:27:54,920 --> 01:27:57,782
+<i>u nešto poznato</i>
+<i>kao Veliki Škripac.</i>
+
+1323
+01:27:59,542 --> 01:28:02,249
+<i>Ova predivna teorija</i>
+<i>je predvidela da bi se svi,</i>
+
+1324
+01:28:02,400 --> 01:28:04,999
+<i>ukljuèujuæi Elenu i mene,</i>
+<i>ponovo spojili</i>
+
+1325
+01:28:05,120 --> 01:28:07,360
+<i>u toplom i veènom zagrljaju.</i>
+
+1326
+01:28:09,903 --> 01:28:14,151
+<i>Ali sudbonosne vesti su stigle</i>
+<i>pre samo dve decenije.</i>
+
+1327
+01:28:14,280 --> 01:28:20,713
+<i>Svemir ne samo da se širi,</i>
+<i>nego se širenje zapravo ubrzava.</i>
+
+1328
+01:28:21,162 --> 01:28:23,896
+<i>Udaljavamo se sve bre i bre.</i>
+
+1329
+01:28:24,295 --> 01:28:28,849
+<i>Zato konaèna sudbina svemira</i>
+<i>moda nije termalna smrt,</i>
+
+1330
+01:28:29,000 --> 01:28:33,392
+nego neka vrsta suze u prostor-vremenu
+svemira, zvana Veliko Cepanje.
+
+1331
+01:28:33,520 --> 01:28:35,497
+<i>Veliko Cepanje.</i>
+
+1332
+01:28:35,640 --> 01:28:39,094
+<i>U ovom trenutku takav kraj</i>
+<i>mi zvuèi dobro.</i>
+
+1333
+01:28:42,083 --> 01:28:45,971
+<i>Sila koja izaziva ovo ubrzavanje</i>
+<i>nazvana je tamna energija,</i>
+
+1334
+01:28:46,120 --> 01:28:48,700
+<i>zato što u osnovi</i>
+<i>ne znamo šta je to.</i>
+
+1335
+01:28:48,840 --> 01:28:50,608
+<i>Zato što je misterija.</i>
+
+1336
+01:28:52,158 --> 01:28:55,218
+<i>Moda bih mogao uneti malo</i>
+<i>svetla u ovom trenutku.</i>
+
+1337
+01:28:56,708 --> 01:28:58,919
+<i>Ova sila koja nas razdvaja</i>
+
+1338
+01:28:59,040 --> 01:29:01,318
+<i>je ista sila koja</i>
+<i>je spreèila telo-Manel</i>
+
+1339
+01:29:01,440 --> 01:29:03,600
+<i>da se istinski preda telu-Elena</i>
+
+1340
+01:29:03,760 --> 01:29:05,624
+<i>i vidi stvari onakvima</i>
+<i>kakve su zaista bile.</i>
+
+1341
+01:29:05,760 --> 01:29:08,332
+<i>To je ista sila koja</i>
+<i>uništava pravu ljubav</i>
+
+1342
+01:29:08,480 --> 01:29:11,374
+<i>i jaèa osrednje veze,</i>
+<i>èini nas sebiènim.</i>
+
+1343
+01:29:11,520 --> 01:29:13,815
+<i>sitnièavim i sumnjièavim.</i>
+
+1344
+01:29:14,208 --> 01:29:15,608
+<i>Strah.</i>
+
+1345
+01:29:17,250 --> 01:29:18,730
+<i>Strah.</i>
+
+1346
+01:29:19,560 --> 01:29:22,499
+Strah me je naterao da
+se skrivam iza tih zakona.
+
+1347
+01:29:22,640 --> 01:29:23,457
+Sada to jasno vidim.
+
+1348
+01:29:23,600 --> 01:29:26,978
+Kako ne bih morao da se suoèim
+sa sopstvenim greškama, svojim neuspehom.
+
+1349
+01:29:27,458 --> 01:29:28,999
+Elena je bila u pravu.
+
+1350
+01:29:29,120 --> 01:29:32,291
+Misao da se mogu primeniti
+na ljubav, je bezumna.
+
+1351
+01:29:32,440 --> 01:29:35,207
+Ipak, koincidencije su veoma
+iznenağujuæe, zar ne?
+
+1352
+01:29:35,360 --> 01:29:38,568
+Šta vi mislite?
+Ovo je fatalno.
+
+1353
+01:29:40,250 --> 01:29:44,666
+Moja ena mi je izgledala kao lepa,
+masivna zvezda kad je bila mlada.
+
+1354
+01:29:44,800 --> 01:29:48,857
+Ali nije bila toliko masivna
+da postane supernova.
+
+1355
+01:29:50,292 --> 01:29:52,942
+Postala je crveni patuljak.
+
+1356
+01:29:53,875 --> 01:29:55,957
+Nije tako loše, zar ne?
+
+1357
+01:29:56,080 --> 01:30:00,398
+Mislim, mogao je dijagnostikovati
+šizofreniju ili tako nešto.
+
+1358
+01:30:00,625 --> 01:30:03,499
+Jesi li siguran da neæeš
+baciti pogled? Riba je strava.
+
+1359
+01:30:03,640 --> 01:30:07,400
+Ti æeš završiti sa šizofrenijom
+ako prièaš s ljudima dok gledaš
+
+1360
+01:30:07,560 --> 01:30:08,374
+slike seksi ena.
+
+1361
+01:30:08,520 --> 01:30:10,957
+Ne elim da zaboravim
+kako izgleda svet napolju,
+
+1362
+01:30:11,080 --> 01:30:13,124
+jer postoji nešto gore
+od tamne energije.
+
+1363
+01:30:13,280 --> 01:30:16,416
+Pobogu Pablo, ne mogu više
+mešati fiziku sa oseæanjima.
+
+1364
+01:30:16,560 --> 01:30:21,000
+Tamna materija je mnogo gora.
+- Ne!?
+
+1365
+01:30:25,958 --> 01:30:27,457
+Imaæete bebu?
+
+1366
+01:30:27,600 --> 01:30:30,553
+Eva je bila u pravu kad je rekla
+da sam u dubini duše sjajan otac.
+
+1367
+01:30:30,680 --> 01:30:33,104
+Èestitam, èoveèe!
+
+1368
+01:30:33,782 --> 01:30:36,683
+<i>Takoğe, ne znamo</i>
+<i>šta je tamna materija.</i>
+
+1369
+01:30:36,840 --> 01:30:40,374
+<i>Ono što znamo je da se svemir</i>
+<i>ponaša kao da je tamo više gravitacije</i>
+
+1370
+01:30:40,520 --> 01:30:43,749
+<i>nego što odgovara telima</i>
+<i>koje moemo videti.</i>
+
+1371
+01:30:43,880 --> 01:30:46,707
+<i>To znaèi da privlaèimo</i>
+<i>i drimo se jedni drugih</i>
+
+1372
+01:30:46,840 --> 01:30:49,707
+<i>više no što bi trebalo po</i>
+<i>tome koliko smo privlaèni.</i>
+
+1373
+01:30:49,840 --> 01:30:51,568
+Evo vašeg ruèka.
+
+1374
+01:30:57,250 --> 01:31:00,124
+Boe dragi, šta to radim?
+
+1375
+01:31:00,280 --> 01:31:03,291
+Sve je išlo tako dobro,
+zašto sam se morao zaljubiti?
+
+1376
+01:31:03,440 --> 01:31:05,832
+Kaeš da tamna energija
+moe biti strah.
+
+1377
+01:31:05,960 --> 01:31:09,903
+A ja bih rekao da je
+tamna energija potreba.
+
+1378
+01:31:10,040 --> 01:31:12,227
+A potreba je sranje.
+
+1379
+01:31:12,360 --> 01:31:15,586
+Ono što sam voleo
+bila je entropija, nered.
+
+1380
+01:31:15,720 --> 01:31:18,416
+To je bila moja teritorija.
+Zato što sa manje
+
+1381
+01:31:18,560 --> 01:31:22,082
+entropije ima manje slobode
+zato što èestice
+
+1382
+01:31:22,240 --> 01:31:24,457
+èvrsto svezane!
+
+1383
+01:31:24,600 --> 01:31:27,200
+Zar nije tako?
+Jesam li u pravu ili ne?
+
+1384
+01:31:27,360 --> 01:31:29,688
+Ne znam, ne slušam.
+
+1385
+01:31:30,292 --> 01:31:32,692
+Zaboga!
+
+1386
+01:31:33,489 --> 01:31:37,179
+Treba mi opet entropija u mom ivotu.
+
+1387
+01:31:39,634 --> 01:31:42,544
+Molim, neka me neko entropira.
+
+1388
+01:31:51,042 --> 01:31:55,790
+<i>Još uvek nedostaje jedan zakon</i>
+<i>da završimo naše putovanje kroz nauku:</i>
+
+1389
+01:31:55,920 --> 01:31:58,885
+<i>treæi princip termodinamike.</i>
+
+1390
+01:31:58,917 --> 01:32:02,807
+<i>Ako uspete da smanjite unutrašnje</i>
+<i>kretanje u sistemu</i>
+
+1391
+01:32:02,960 --> 01:32:06,862
+<i>potpuno do odsustva</i>
+<i>vibracija ili kretanja,</i>
+
+1392
+01:32:07,000 --> 01:32:10,850
+<i>onda æete dostiæi odreğenu temperaturu</i>
+<i>koja se zove apsolutna nula.</i>
+
+1393
+01:32:11,000 --> 01:32:13,475
+Biæemo za barom.
+- Dobro.
+
+1394
+01:32:14,393 --> 01:32:20,284
+<i>To je temperatura</i>
+<i>koja odgovara -273°C.</i>
+
+1395
+01:32:21,211 --> 01:32:26,822
+<i>Treæi zakon termodinamike nam govori</i>
+<i>da se apsolutna nula ne moe postiæi.</i>
+
+1396
+01:32:37,110 --> 01:32:41,958
+Da bi ohladili telo do apsolutne nule
+treba da ubrizgate toliko mnogo energije
+
+1397
+01:32:42,080 --> 01:32:44,618
+da æete se u odreğenom
+trenutku zagrejati.
+
+1398
+01:32:44,643 --> 01:32:47,783
+<i>Samo telo, makar malèice.</i>
+
+1399
+01:32:49,375 --> 01:32:51,082
+<i>Tako je,</i>
+
+1400
+01:32:51,240 --> 01:32:53,541
+<i>nikada neæemo moæi</i>
+<i>potpuno zaboraviti.</i>
+
+1401
+01:32:53,680 --> 01:32:55,999
+<i>Nikada neæemo dostiæi</i>
+<i>tu temperaturu da zaustavi</i>
+
+1402
+01:32:56,120 --> 01:32:58,480
+<i>vibraciju naših atoma</i>
+<i>kada je vidimo.</i>
+
+1403
+01:32:58,600 --> 01:33:00,612
+Èestitam, Elena.
+
+1404
+01:33:03,167 --> 01:33:07,080
+Hvala što si došao.
+To mi je veoma vano.
+
+1405
+01:33:07,917 --> 01:33:09,396
+Èestitam.
+
+1406
+01:33:09,520 --> 01:33:11,503
+Nadam se da ste oboje veoma sreæni.
+
+1407
+01:33:11,833 --> 01:33:15,120
+To je Manel, moj bivši.
+- Manel, hvala što si došao.
+
+1408
+01:33:15,125 --> 01:33:17,249
+Nadam se da æeš
+uivati na zabavi.
+
+1409
+01:33:17,400 --> 01:33:19,874
+Elena, vidi ko je ovde!
+- Viktore, drago mi je da te vidim!
+
+1410
+01:33:20,000 --> 01:33:22,543
+Èestitam, predivno.
+
+1411
+01:33:30,042 --> 01:33:31,608
+Æao.
+
+1412
+01:33:32,085 --> 01:33:33,485
+Rakel?
+
+1413
+01:33:34,208 --> 01:33:37,597
+Šta radiš ovde?
+- Mali svet, a?
+
+1414
+01:33:38,250 --> 01:33:40,280
+Ja sam Lorencova prijateljica.
+
+1415
+01:33:40,583 --> 01:33:44,983
+Ustvari, imali smo vlastito
+kvantno uplitanje.
+
+1416
+01:33:48,542 --> 01:33:50,124
+On je dobar.
+
+1417
+01:33:50,280 --> 01:33:52,525
+I veoma seksi.
+
+1418
+01:33:53,750 --> 01:33:55,980
+Ali ti mi se više sviğaš.
+
+1419
+01:33:57,583 --> 01:33:59,124
+<i>To je to.</i>
+
+1420
+01:33:59,280 --> 01:34:02,957
+<i>Jednom kada ti termodinamika</i>
+<i>uğe u ivot, nikada ga ne napušta.</i>
+
+1421
+01:34:03,080 --> 01:34:04,957
+Hej, pa to je Rakel!
+
+1422
+01:34:05,080 --> 01:34:06,791
+Pablito!
+- Kako si?
+
+1423
+01:34:06,920 --> 01:34:09,862
+Najbolja devojka koju je
+ovaj som ikada imao!
+
+1424
+01:34:10,125 --> 01:34:12,690
+Ovo je Eva. najbolja devojka
+koju je ovaj som imao.
+
+1425
+01:34:12,840 --> 01:34:14,831
+Drago mi je.
+- I meni.
+
+1426
+01:34:23,250 --> 01:34:27,582
+<i>Iako sam, zahvaljujuæi mojoj</i>
+<i>terapiji uspeo da razmislim,</i>
+
+1427
+01:34:27,720 --> 01:34:31,693
+<i>otkrio sam zakon koji zaista</i>
+<i>vlada svim našim postupcima.</i>
+
+1428
+01:34:32,010 --> 01:34:35,790
+<i>Nema sumnje da je to</i>
+<i>najèudniji zakon svih vremena.</i>
+
+1429
+01:34:35,960 --> 01:34:38,947
+<i>Ali ostaviæemo to za drugi put.</i>
+
+1430
+01:34:40,444 --> 01:34:43,812
+<i>Ova teorija je izazvala jednu od najveæih</i>
+revolucija u ljudskom razmišljanju.
+
+1431
+01:34:43,960 --> 01:34:47,019
+<i>Èak ni Njutnov niti Ajnštajnov</i>
+doprinos nije napravio takav uticaj.
+
+1432
+01:34:47,160 --> 01:34:49,914
+<i>Imao je neverovatne implikacije</i>
+za celokupnu biologiju.
+
+1433
+01:34:50,040 --> 01:34:52,904
+<i>Kad je stavite zajedno sa relativitetom</i>
+<i>i kvantnom mehanikom,</i>
+
+1434
+01:34:53,040 --> 01:34:55,641
+<i>potpuno je promenjen naš</i>
+moderni pogled na svet.
+
+1435
+01:34:55,800 --> 01:34:58,331
+Ideja da je od grèkih filozofa,
+
+1436
+01:34:58,480 --> 01:35:01,505
+<i>ali moda je to bilo prerano</i>
+<i>da ga èoveèanstvo shvati.</i>
+
+1437
+01:35:01,640 --> 01:35:06,411
+<i>Imao je dubok uticaj na to kako moramo</i>
+razmišljati o našem mestu na svetu.
+
+1438
+01:35:06,560 --> 01:35:10,789
+<i>Mislim da njegove posledice nismo</i>
+dobro razumeli ni dan danas.
+
+1439
+01:35:10,814 --> 01:35:14,708
+<i>Njegova pojava u to vreme,</i>
+<i>bila je ogroman udarac</i>
+
+1440
+01:35:14,840 --> 01:35:17,074
+<i>za osnove teologije.</i>
+
+1441
+01:35:17,200 --> 01:35:18,302
+I još uvek je.
+
+1442
+01:35:18,440 --> 01:35:21,182
+Otkrivamo da se to ne odnosi
+<i>samo na biologiju,</i>
+
+1443
+01:35:21,320 --> 01:35:23,681
+<i>veæ i na sve kompleksne sisteme.</i>
+
+1444
+01:35:23,840 --> 01:35:27,808
+<i>Radiæemo na njegovom mehanizmu</i>
+i detaljima još dugo vremena.
+
+1445
+01:35:27,960 --> 01:35:30,607
+Ne postoje reèi koje bi
+<i>opisale jednostavnost,</i>
+
+1446
+01:35:30,760 --> 01:35:33,600
+<i>lepotu i dobrotu zakona.</i>
+
+1447
+01:35:33,832 --> 01:35:34,994
+ZAKONI TERMODINAMIKE II
+
+1448
+01:35:35,000 --> 01:35:36,762
+ZAKONI TERMODINAMIKE II
+EVOLUCIJA
+
+1449
+01:35:36,962 --> 01:35:41,254
+Prevod i obrada:
+Pantel
+
+1450
+01:35:44,254 --> 01:35:48,254
+Preuzeto sa www.titlovi.com
+
+1451
+01:35:49,305 --> 01:36:49,577
+ĞœĞ¾Ğ»Ğ¸Ğ¼Ğ¾ Ğ²Ğ°Ñ Ğ´Ğ° Ğ¾Ñ†ĞµĞ½Ğ¸Ñ‚Ğµ Ğ¾Ğ²Ğ°Ñ˜ Ñ‚Ğ¸Ñ‚Ğ» Ğ½Ğ° www.osdb.link/88wjf
+ĞŸĞ¾Ğ¼Ğ¾Ğ·Ğ¸Ñ‚Ğµ Ğ´Ñ€ÑƒĞ³Ğ¸Ğ¼ ĞºĞ¾Ñ€Ğ¸ÑĞ½Ğ¸Ñ†Ğ¸Ğ¼Ğ° Ğ´Ğ° Ğ¸Ğ·Ğ°Ğ±ĞµÑ€Ñƒ Ğ½Ğ°Ñ˜Ğ±Ğ¾Ñ™Ğµ Ñ‚Ğ¸Ñ‚Ğ»Ğ¾Ğ²Ğµ

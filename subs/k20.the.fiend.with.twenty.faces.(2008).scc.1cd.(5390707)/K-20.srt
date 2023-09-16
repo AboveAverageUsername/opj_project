@@ -1,0 +1,5544 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:00:49,895 --> 00:00:53,895
+www.titlovi.com
+
+3
+00:00:56,895 --> 00:01:00,690
+Paûnja, ovo su specijalne
+vesti....
+
+4
+00:01:00,732 --> 00:01:04,693
+Generalötab
+Carske vojske i mornarice
+
+5
+00:01:04,735 --> 00:01:08,655
+objavljuje da je danas
+6-og decembra
+
+6
+00:01:08,697 --> 00:01:12,409
+potpisan mirovni sporazum sa
+Amerikom i Engleskom.
+
+7
+00:01:12,451 --> 00:01:16,121
+Joö jednom, svetski rat je izbegnut.
+
+8
+00:01:16,830 --> 00:01:21,501
+U vremenu gde se II svetski rat
+nikad nije dogodio,
+
+9
+00:01:26,880 --> 00:01:30,175
+"Novo Plemstvo"
+nastalo u
+
+10
+00:01:30,217 --> 00:01:33,136
+19-om veku nastavlja da jaËa.
+
+11
+00:01:33,178 --> 00:01:36,389
+To je dovelo do ogromne razlike
+izmeu "niûe" i "viöe" klase.
+
+12
+00:01:38,182 --> 00:01:40,726
+Promena zanimanja je zabranjena.
+
+13
+00:01:40,768 --> 00:01:43,521
+Ljudi ne mogu slobodno da se zaljubljuju,
+
+14
+00:01:43,562 --> 00:01:46,315
+i moraju sklapati brakove u
+okviru svoje klase.
+
+15
+00:01:48,776 --> 00:01:54,906
+Fantomski lopov poznat kao K-20 ili
+
+16
+00:01:55,031 --> 00:01:56,991
+maska sa 20 lica,
+
+17
+00:01:57,033 --> 00:01:59,327
+teroriöe druötvo, kraduÊi
+
+18
+00:01:59,327 --> 00:02:01,579
+skupocene stvari od bogatih...
+
+19
+00:02:16,593 --> 00:02:22,807
+Japan 1949 god. Teito
+glavni grad carevine.
+
+20
+00:02:23,599 --> 00:02:27,519
+Zajedno sa legendarnim pronalazaËem
+Tomasom Edisonom,
+
+21
+00:02:27,561 --> 00:02:30,939
+Dr. Nikola Tesla je bio nominovan
+za Nobelovu nagradu
+
+22
+00:02:30,981 --> 00:02:33,692
+zbog njegovog istraûivanja
+
+23
+00:02:33,692 --> 00:02:36,403
+beûiËnog prenosa energije.
+
+24
+00:02:36,528 --> 00:02:42,575
+Ovo je umanjena verzija
+elektriËnog ureaja za prenos
+
+25
+00:02:42,617 --> 00:02:45,327
+koji je Dr.Tesla projektovao.
+
+26
+00:02:46,328 --> 00:02:49,206
+Jednostavno govoreÊi
+
+27
+00:02:49,248 --> 00:02:54,878
+dok mi prenosimo elektriËnu energiju
+preko ûica,
+
+28
+00:02:57,046 --> 00:02:59,299
+sa ovim ureajem
+
+29
+00:03:35,165 --> 00:03:37,125
+moûemo preneti energiju
+
+30
+00:03:37,125 --> 00:03:39,043
+na bilo koju taËku u svetu
+
+31
+00:03:39,043 --> 00:03:42,213
+unoseÊi kordinate, na ovaj naËin...
+
+32
+00:03:43,214 --> 00:03:45,799
+Implementacija ovog ureaja
+
+33
+00:03:45,841 --> 00:03:48,385
+Êe stvoriti energetsku revoluciju.
+
+34
+00:03:52,681 --> 00:03:53,974
+Ti...
+
+35
+00:04:07,069 --> 00:04:08,570
+äta to radiö?
+
+36
+00:04:50,275 --> 00:04:52,736
+Maska sa 20 lica!
+
+37
+00:04:52,778 --> 00:04:55,238
+Teslin ureaj je sada moj!
+
+38
+00:05:04,121 --> 00:05:06,790
+K-20!
+
+39
+00:06:06,553 --> 00:06:08,180
+Nije zlato ovoga puta.
+
+40
+00:06:08,222 --> 00:06:11,308
+Da li moûete komentarisati vaöu vezu
+sa Yoko Hashibom?
+
+41
+00:06:11,933 --> 00:06:13,768
+Detektive Akechi! Kobayashi!
+
+42
+00:06:14,936 --> 00:06:16,729
+Oh, Inspektor Namikoshi.
+
+43
+00:06:18,189 --> 00:06:20,274
+Drago mi je da ste ovde.
+
+44
+00:06:20,274 --> 00:06:22,526
+I öta je sada ukrao?
+
+45
+00:06:34,871 --> 00:06:38,875
+Pogledaj ovo. K-20 je baö 
+napravio nered.
+
+46
+00:06:38,916 --> 00:06:42,461
+Moûda Êe ovo öto je ukrao
+iskoristiti za novi zloËin.
+
+47
+00:06:42,461 --> 00:06:44,088
+Gde je predavaË, Dr. Yagi?
+
+48
+00:06:44,130 --> 00:06:47,383
+U bolnici, zadobio je opekotine.
+
+49
+00:06:47,424 --> 00:06:49,551
+Njegov pravi asistent je bio vezan.
+
+50
+00:06:49,593 --> 00:06:51,845
+Upravo ga ispitujemo.
+
+51
+00:06:51,887 --> 00:06:53,638
+Ovo pripada K-20.
+
+52
+00:06:55,181 --> 00:06:58,977
+Evo je maska koju je K-20
+ostavio iza sebe.
+
+53
+00:06:59,018 --> 00:07:00,561
+Joö jedna...
+
+54
+00:07:00,853 --> 00:07:04,190
+Gospodine, idem da vidim Dr. Yagia.
+
+55
+00:07:09,319 --> 00:07:14,324
+"Veliki Cirkus"
+
+56
+00:07:23,749 --> 00:07:25,793
+Superljudska veötina!
+
+57
+00:07:25,835 --> 00:07:29,838
+Zvezda Velikog Cirkusa,
+Heikichi Endo!
+
+58
+00:07:29,880 --> 00:07:32,674
+Molim, jedan veliki aplauz.
+
+59
+00:07:34,092 --> 00:07:37,345
+U sledeÊem velikom triku
+
+60
+00:07:37,387 --> 00:07:40,556
+izbegavat Êe kiöu strela,
+
+61
+00:07:40,598 --> 00:07:43,142
+rizikujuÊi svoj ûivo.
+
+62
+00:07:43,184 --> 00:07:48,647
+Ne skidajte oËi sa njega,
+ni na jednu sekundu.
+
+63
+00:08:21,010 --> 00:08:22,220
+Gledaj te!
+
+64
+00:08:22,261 --> 00:08:25,097
+Strela!
+
+65
+00:08:34,731 --> 00:08:38,359
+Oh, ne. Brzo, pomozite mu!
+
+66
+00:08:38,401 --> 00:08:40,611
+Ovo je uûasno!
+
+67
+00:09:09,555 --> 00:09:13,391
+Nadam se da ste svi uûivali u predstavi.
+
+68
+00:09:13,433 --> 00:09:16,644
+Gledali ste gospodara iluzije
+
+69
+00:09:16,686 --> 00:09:19,856
+i Japanskog najveÊeg akrobatskog izvoaËa,
+
+70
+00:09:19,897 --> 00:09:22,191
+Heikichi Endo!
+
+71
+00:09:22,233 --> 00:09:26,111
+Molim vas, dajte mu jedan
+ogroman aplauz!
+
+72
+00:09:31,199 --> 00:09:33,160
+Uverio si ih da si mrtav!
+
+73
+00:09:36,538 --> 00:09:39,165
+Hvala Bogu da si dobro.
+
+74
+00:09:39,582 --> 00:09:41,250
+Heikichi.
+
+75
+00:09:41,584 --> 00:09:43,085
+Direktore cirkusa.
+
+76
+00:09:43,127 --> 00:09:46,547
+Lepo je brinuti se o golubovima,
+
+77
+00:09:46,589 --> 00:09:49,591
+ali svi su bili oduöevljeni
+tvojim novim trikom.
+
+78
+00:09:49,633 --> 00:09:53,887
+To je taËno.
+Moûda je moj ureaj malo pomogao?
+
+79
+00:09:55,263 --> 00:09:56,556
+Oh, da.
+
+80
+00:09:56,556 --> 00:09:59,225
+"Oh, da"? A kako bi bilo "HVALA"?
+
+81
+00:09:59,225 --> 00:10:01,811
+Dobro je...
+
+82
+00:10:03,229 --> 00:10:05,064
+Direktore?
+
+83
+00:10:05,064 --> 00:10:06,857
+U redu je.
+
+84
+00:10:11,570 --> 00:10:14,781
+Nadam se da je Direktor dobro.
+
+85
+00:10:18,743 --> 00:10:21,287
+Trebalo bi da poseti doktora.
+
+86
+00:10:21,913 --> 00:10:26,041
+Ali, zar mu neÊe trebati dosta para?
+
+87
+00:10:27,001 --> 00:10:30,587
+Moramo da radimo kao ludi
+samo da bi se prehranili.
+
+88
+00:10:32,130 --> 00:10:35,592
+Hej, moûda je bolje da krademo!
+
+89
+00:10:36,676 --> 00:10:38,928
+Ne priËaj gluposti.
+
+90
+00:10:38,970 --> 00:10:41,222
+Kraa je loöa.
+
+91
+00:10:41,639 --> 00:10:44,225
+Ljudi kao mi...
+
+92
+00:10:44,266 --> 00:10:45,684
+bez obzira koliko teöko radimo,
+
+93
+00:10:45,726 --> 00:10:47,102
+uvek Êemo biti siromaöni.
+
+94
+00:10:47,144 --> 00:10:49,771
+To je ûivot u cirkusu.
+
+95
+00:10:50,397 --> 00:10:52,315
+Bez obzira koliko se trudimo,
+
+96
+00:10:52,357 --> 00:10:54,234
+nikada neÊemo biti viöa klasa.
+
+97
+00:10:54,276 --> 00:10:56,903
+Niöta se neÊe promeniti.
+
+98
+00:10:58,196 --> 00:11:00,323
+To nije istina.
+
+99
+00:11:01,365 --> 00:11:03,409
+Shinsuke...
+
+100
+00:11:04,243 --> 00:11:06,078
+Jednog dana,
+
+101
+00:11:06,120 --> 00:11:10,082
+doÊi Êe kraj svih nepravdi
+u ovom svetu.
+
+102
+00:11:10,123 --> 00:11:14,085
+Druötvo koje oduzima dostojanstvo
+svojim ljudima, neÊe trajati dugo.
+
+103
+00:11:14,127 --> 00:11:16,296
+ZavröiÊe u ruöevinama.
+
+104
+00:11:16,337 --> 00:11:20,425
+Tada Êe ljudi kao ti i Heikichi
+
+105
+00:11:20,466 --> 00:11:24,428
+raditi zajedno na izgradnji novog sveta.
+
+106
+00:11:26,972 --> 00:11:29,016
+Nikad ne odustaj.
+
+107
+00:11:29,016 --> 00:11:30,726
+A ako nikad ne odustajeö,
+
+108
+00:11:30,767 --> 00:11:33,645
+ostvariÊeö svoje snove.
+
+109
+00:11:33,687 --> 00:11:36,523
+Odustajanje znaËi kraj.
+
+110
+00:11:38,691 --> 00:11:41,027
+Direktore...
+
+111
+00:11:43,404 --> 00:11:46,824
+Heikichi, tvoj oboûavatelj je ovde.
+
+112
+00:11:51,203 --> 00:11:52,954
+Bravo!
+
+113
+00:11:52,996 --> 00:11:55,874
+Bravo, Heikichi.
+
+114
+00:11:56,708 --> 00:11:58,001
+"Kozo Tonomura"
+
+115
+00:11:58,042 --> 00:11:59,961
+Magazin "Istinite PriËe"?
+
+116
+00:12:00,002 --> 00:12:01,879
+Magazin "Istinite PriËe".
+
+117
+00:12:01,879 --> 00:12:03,923
+Magazin ûute ötampe.
+
+118
+00:12:03,964 --> 00:12:07,301
+Predloûio bih ti jedan posao koji 
+zahteva tvoju fiziËku spremnost.
+
+119
+00:12:07,343 --> 00:12:11,430
+éelim da fotografiöeö naslednicu
+Hashiba Industrije
+
+120
+00:12:11,471 --> 00:12:13,723
+Yoko Hashiba i poznatog
+Detektiva Kogoro Akechija,
+
+121
+00:12:13,765 --> 00:12:18,353
+na njihovoj predstojeÊoj 
+ceremoniji venËanja.
+
+122
+00:12:19,729 --> 00:12:20,563
+Ja?
+
+123
+00:12:20,563 --> 00:12:23,899
+Da, ti. Samo ti to moûeö da uradiö.
+
+124
+00:12:24,316 --> 00:12:27,820
+Tvoj honorar Êe biti i viöe
+nego zadovoljavajuÊi.
+
+125
+00:12:28,862 --> 00:12:30,530
+Honorar?
+
+126
+00:12:37,579 --> 00:12:41,999
+Direktor Nanbu je bolestan, taËno?
+
+127
+00:12:48,213 --> 00:12:51,633
+Ovaj slajd pokazuje krater nastao
+masivnom eksplozijom
+
+128
+00:12:51,633 --> 00:12:54,427
+nepoznatog porekla, u Sibiru 1908 god.
+
+129
+00:12:54,469 --> 00:12:58,097
+Ova eksplozija nam je poznata
+kao "Tunguska Dogaaj".
+
+130
+00:12:59,015 --> 00:13:03,060
+Pretvorila je drveÊe u prah i pepeo
+u radijusu od 30km.
+
+131
+00:13:03,102 --> 00:13:07,106
+Udarni talas je polomio prozorska stakla
+1000km daleko od centra dogaaja.
+
+132
+00:13:07,606 --> 00:13:12,986
+Glasine kaûu da je ova eksplozija izazvana
+Teslinim ureajem za prenos energije.
+
+133
+00:13:13,028 --> 00:13:15,613
+Molim vas pogledajte sledeÊi slajd.
+
+134
+00:13:16,823 --> 00:13:19,701
+Meu preûivelima...
+
+135
+00:13:22,495 --> 00:13:25,623
+Je i Vojvoda Hashiba.
+
+136
+00:13:25,664 --> 00:13:28,333
+Kako je tu Hashiba umeöan?
+
+137
+00:13:28,375 --> 00:13:30,043
+U stvari...
+
+138
+00:13:30,085 --> 00:13:32,254
+naftni magnat Soutaro Hashiba je
+
+139
+00:13:32,295 --> 00:13:34,464
+istraûujuÊi nove vidove energije,
+
+140
+00:13:34,506 --> 00:13:37,175
+pruûio Tesli
+
+141
+00:13:37,175 --> 00:13:39,969
+finansijsku podröku.
+
+142
+00:13:40,928 --> 00:13:44,098
+Kad je Tesla preminuo,
+kupio je svu opremu.
+
+143
+00:13:44,140 --> 00:13:45,558
+KoristeÊi je...
+
+144
+00:13:45,599 --> 00:13:46,934
+OdliËan posao.
+
+145
+00:13:46,976 --> 00:13:49,019
+Ali kao öto dobro znate...
+
+146
+00:13:49,061 --> 00:13:51,229
+Ja poznajem Hashiba porodicu
+joö od vremena
+
+147
+00:13:51,271 --> 00:13:53,690
+kada je Soutaro Hashiba bio ûiv,
+
+148
+00:13:53,732 --> 00:13:56,151
+ali nikada nisam Ëuo ni reË
+o ovome.
+
+149
+00:13:58,361 --> 00:14:00,530
+Ako Dr.Yaghi ne laûe,
+
+150
+00:14:00,571 --> 00:14:02,448
+onda je ovo istina.
+
+151
+00:14:02,490 --> 00:14:05,576
+I kakav je vaö zakljuËak?
+
+152
+00:14:06,285 --> 00:14:08,245
+Prava namera maske sa 20 lica 
+ili K-20
+
+153
+00:14:08,287 --> 00:14:11,331
+je da ukrade originalni ureaj, 
+u punoj veliËini.
+
+154
+00:14:11,373 --> 00:14:13,875
+Sa kojom namerom?
+
+155
+00:14:13,917 --> 00:14:15,210
+Da ga iskoristi kao oruûje.
+
+156
+00:14:15,251 --> 00:14:16,461
+Kao oruûje?
+
+157
+00:14:16,503 --> 00:14:19,297
+Da. Moûda K-20 namerava da ga
+
+158
+00:14:19,297 --> 00:14:22,049
+koristi za masovna uniötavanja.
+
+159
+00:14:24,009 --> 00:14:27,346
+Da je uhapöen na vreme...
+
+160
+00:14:27,388 --> 00:14:30,224
+Gde se sada nalazi ureaj?
+
+161
+00:14:30,265 --> 00:14:33,351
+Dr. Yagi kaûe da ne zna.
+
+162
+00:14:33,393 --> 00:14:34,936
+Da li ne zna?
+
+163
+00:14:34,978 --> 00:14:37,272
+IstraûiÊu to.
+
+164
+00:14:39,565 --> 00:14:41,150
+Da?
+
+165
+00:14:41,192 --> 00:14:43,861
+Akechi, upali TV.
+
+166
+00:14:43,861 --> 00:14:46,488
+Kobayashi, upali TV.
+
+167
+00:14:47,948 --> 00:14:50,492
+Pismo mi deluje autentiËno.
+
+168
+00:14:50,534 --> 00:14:55,080
+Piöe:
+
+169
+00:14:55,121 --> 00:14:58,875
+Na dan venËanja 
+Detektiva Akechija,
+
+170
+00:14:58,916 --> 00:15:00,501
+Brigelova slika
+
+171
+00:15:00,543 --> 00:15:03,045
+'Vavilonska Kula' biÊe moja.
+
+172
+00:15:03,629 --> 00:15:07,257
+äta Êete da uradite ?
+OdloûiÊe te venËanje ?
+
+173
+00:15:07,299 --> 00:15:10,302
+Zbog hvalisanja K-20 ?
+
+174
+00:15:10,344 --> 00:15:12,471
+Gluposti.
+
+175
+00:15:12,471 --> 00:15:15,849
+PotrudiÊu se da slika bude tamo,
+
+176
+00:15:15,890 --> 00:15:18,059
+i uhapsiÊu ga.
+
+177
+00:15:18,101 --> 00:15:20,269
+Da, ali na takvom dogaaju...
+
+178
+00:15:20,311 --> 00:15:23,272
+Kaûem, sve Êe biti u redu.
+
+179
+00:15:23,314 --> 00:15:27,192
+Verujem vam da Êete se potruditi
+oko obezbeenja.
+
+180
+00:15:30,487 --> 00:15:32,864
+Ali da li Êe sve biti u redu ?
+
+181
+00:15:32,906 --> 00:15:34,950
+Naravno da Êe biti.
+
+182
+00:15:35,367 --> 00:15:39,829
+Nedavno me je pratio
+Ëovek u crnom odelu.
+
+183
+00:15:39,871 --> 00:15:42,331
+To me Ëini nervoznim.
+
+184
+00:15:42,373 --> 00:15:46,001
+U crnom odelu ? Da li ste
+mu videli lice ?
+
+185
+00:15:46,001 --> 00:15:49,588
+Pa nisam mogao baö dobro da vidim...
+
+186
+00:15:50,547 --> 00:15:53,258
+Da nije moûda to K-20?
+
+187
+00:16:20,783 --> 00:16:24,286
+Okupili smo se danas da budemo svedoci
+
+188
+00:16:24,328 --> 00:16:27,748
+razmeni darova vernosti
+
+189
+00:16:27,790 --> 00:16:31,168
+povodom venËanja
+
+190
+00:16:31,209 --> 00:16:34,421
+izmeu Vojvotkinje Yoko Hashibe
+
+191
+00:16:34,421 --> 00:16:37,590
+i Barona Kogoro Akechija.
+
+192
+00:16:39,300 --> 00:16:41,928
+Nevesta Êe sada da ue.
+
+193
+00:17:30,973 --> 00:17:36,102
+A sada, obe porodice Êe
+razmeniti darove.
+
+194
+00:17:52,034 --> 00:17:54,536
+Ne mrdajte. Ovo je diverzija !
+
+195
+00:17:54,578 --> 00:17:56,246
+Blokirajte izlaze !
+
+196
+00:18:10,259 --> 00:18:12,719
+Neka svi ostanu mirni!
+
+197
+00:18:12,719 --> 00:18:15,680
+Molim vas, neka svi ostanu mirni !
+
+198
+00:18:22,937 --> 00:18:24,397
+Gore !
+
+199
+00:18:30,027 --> 00:18:32,404
+K-20 !
+
+200
+00:18:32,612 --> 00:18:34,781
+Ja?... Ne !
+
+201
+00:18:34,823 --> 00:18:37,116
+Pucajte ! Oborite ga !
+
+202
+00:18:51,296 --> 00:18:52,714
+Uhapsite ga !
+
+203
+00:18:58,678 --> 00:19:02,515
+Ovo je greöka ! GREäKA !
+Ja nisam K-20 !
+
+204
+00:19:02,556 --> 00:19:04,475
+Ovo su najnovije vesti.
+
+205
+00:19:04,517 --> 00:19:06,393
+K-20 je uhapöen.
+
+206
+00:19:06,435 --> 00:19:10,397
+Ponavljam, dobili smo obaveötenje
+da je K-20 uhapöen.
+
+207
+00:19:11,440 --> 00:19:14,609
+Pravi indentitet maske sa 20 lica ili
+K-20 je...
+
+208
+00:19:14,609 --> 00:19:17,695
+Heikichi Endo, godine starosti
+nepoznata.
+
+209
+00:19:17,737 --> 00:19:21,574
+Akrobata i iluzionista 
+u Velikom Cirkusu.
+
+210
+00:19:21,616 --> 00:19:24,785
+OsumnjiËeni je uhapöen 16-og Januara,
+
+211
+00:19:24,827 --> 00:19:27,830
+za vreme venËanja
+
+212
+00:19:27,871 --> 00:19:29,540
+Vojvotkinje Yoko Hashiba i
+
+213
+00:19:29,581 --> 00:19:31,792
+Barona Kogoro Akechija.
+
+214
+00:19:31,833 --> 00:19:35,295
+UkljuËujemo se uûivo iz
+rezidencije Hashiba porodice.
+
+215
+00:19:41,676 --> 00:19:44,220
+»estitamo, gospodine Akechi.
+
+216
+00:19:44,261 --> 00:19:47,348
+Sada imate dva razloga da budete
+veoma sreÊan Ëovek.
+
+217
+00:19:47,973 --> 00:19:51,226
+Joö jednom, kriminal je 
+sklonjen sa ulica.
+
+218
+00:19:51,268 --> 00:19:54,479
+Mirno veËe celom Teitu.
+
+219
+00:19:57,190 --> 00:20:00,068
+Znao sam da Akechi moûe
+to da uradi.
+
+220
+00:20:00,109 --> 00:20:10,369
+Akechi ! Akechi !
+
+221
+00:20:22,296 --> 00:20:25,799
+Kaûem vam ! Ovo je greöka !
+
+222
+00:20:26,675 --> 00:20:31,263
+Kamera koju ste imali je
+aktivirala eksploziv.
+
+223
+00:20:31,888 --> 00:20:34,182
+To je neoboriv dokaz !
+
+224
+00:20:34,224 --> 00:20:37,477
+Ma o Ëemu vi priËate ?
+Angaûovao me je....
+
+225
+00:20:37,519 --> 00:20:39,228
+Ne zavitlavaj me !
+
+226
+00:20:39,270 --> 00:20:41,522
+To je istina .
+
+227
+00:20:41,564 --> 00:20:43,733
+Prestani da izigravaö budalu.
+
+228
+00:20:43,733 --> 00:20:48,070
+Ne postoji nikakav Magazin
+"Istinite PriËe".
+
+229
+00:20:48,904 --> 00:20:52,407
+To je laû.
+Imam njegovu karticu.
+
+230
+00:20:52,449 --> 00:20:56,369
+Oh ? Pa gde je ta kartica ?
+
+231
+00:21:03,876 --> 00:21:08,297
+U mojoj sobi. U cirkuskom öatoru.
+
+232
+00:21:09,590 --> 00:21:12,968
+To je istina ! Proveri sam !
+
+233
+00:21:13,009 --> 00:21:15,261
+Baö ötete za tebe.
+
+234
+00:21:16,096 --> 00:21:19,057
+Nismo naöli nikakvu karticu.
+
+235
+00:21:20,641 --> 00:21:22,935
+Ali naöli smo ovo...
+
+236
+00:21:23,394 --> 00:21:26,981
+Romanov dijamant koji si ukrao.
+
+237
+00:21:27,022 --> 00:21:30,567
+Naöli smo ga ispod tvog kreveta.
+
+238
+00:21:31,693 --> 00:21:34,821
+äalite se. Da je bio kod mene,
+
+239
+00:21:34,863 --> 00:21:35,822
+pomogao bih direktoru...
+
+240
+00:21:48,208 --> 00:21:50,711
+Gde je Teslin ureaj ?
+
+241
+00:21:50,752 --> 00:21:52,045
+Kaûi nam !
+
+242
+00:21:55,048 --> 00:21:56,841
+GOVORI !
+
+243
+00:22:05,182 --> 00:22:08,435
+"K-20 Uhapöen"
+
+244
+00:22:09,228 --> 00:22:11,521
+"Smrt, ili ûivot u zatvoru ?
+Akechi pobeuje ponovo"
+
+245
+00:22:16,526 --> 00:22:19,028
+"Maska sa 20 lica :
+Heikichi Endo "
+
+246
+00:22:19,070 --> 00:22:20,822
+Baron Akechi ponovo uspeöan.
+
+247
+00:22:20,863 --> 00:22:24,200
+Vesti o hapöenju K-20 su u
+
+248
+00:22:24,241 --> 00:22:27,536
+svim novinama i televiziji.
+
+249
+00:22:27,578 --> 00:22:29,872
+PostaÊe joö popularniji.
+
+250
+00:22:29,913 --> 00:22:32,582
+Mora da ste veoma ponosni, miledi.
+
+251
+00:22:32,624 --> 00:22:35,543
+Istina. Neko sa Baronovim
+
+252
+00:22:35,585 --> 00:22:39,547
+socijalnim statusom, reputacijom,
+i pojavom
+
+253
+00:22:39,589 --> 00:22:41,632
+ne postoji na ovom svetu.
+
+254
+00:22:41,674 --> 00:22:43,092
+Znam.
+
+255
+00:22:43,134 --> 00:22:45,803
+Tako tih odgovor, miledi.
+
+256
+00:22:45,844 --> 00:22:48,430
+Sa svaËije taËke glediöta,
+
+257
+00:22:48,472 --> 00:22:51,641
+Baron Akechi je savröen gospodin.
+
+258
+00:22:51,683 --> 00:22:54,811
+äta mu se moûe zameriti ?
+
+259
+00:22:54,853 --> 00:22:56,771
+Nije u pitanju
+
+260
+00:22:56,813 --> 00:22:58,648
+Akechijev karakter.
+
+261
+00:22:58,690 --> 00:23:01,150
+Samo se pitam da li je put koji mi je
+zacrtao moj deda
+
+262
+00:23:01,192 --> 00:23:03,611
+ispravan i da li da ga pratim.
+
+263
+00:23:03,611 --> 00:23:05,863
+Moûda postoje i drugi putevi.
+
+264
+00:23:05,905 --> 00:23:07,573
+Pravi put ?
+
+265
+00:23:07,614 --> 00:23:09,783
+Da nije to malo ekstravagantno ?
+
+266
+00:23:09,825 --> 00:23:10,951
+Ekstravagantno ?
+
+267
+00:23:10,993 --> 00:23:13,954
+Za ûenu, brak je sreÊa.
+
+268
+00:23:13,954 --> 00:23:16,873
+Nema veÊeg puta.
+
+269
+00:23:16,915 --> 00:23:17,916
+Da li ?
+
+270
+00:23:17,957 --> 00:23:20,418
+Naravno !
+
+271
+00:23:22,378 --> 00:23:26,757
+Miledi je samo malo nervozna
+zbog prve braËne noÊi.
+
+272
+00:23:29,635 --> 00:23:33,096
+Baron Akechi Êe uskoro stiÊi.
+
+273
+00:24:04,417 --> 00:24:08,212
+Da li je Vavilonska Kula joö
+u tvojoj rezidenciji ?
+
+274
+00:24:08,253 --> 00:24:10,088
+OËekujem da Êe biti vraÊena.
+
+275
+00:24:10,130 --> 00:24:11,631
+Izvinjavam se.
+
+276
+00:24:11,673 --> 00:24:13,425
+Kao Detektiv, u prirodi mi je
+
+277
+00:24:13,466 --> 00:24:18,012
+da saznam zaöto je K-20 ûeleo
+da ukrade baö tu sliku.
+
+278
+00:24:18,054 --> 00:24:21,349
+Da, ali slika je samo reprodukcija.
+
+279
+00:24:21,390 --> 00:24:24,018
+Nema nikakvu umetniËku vrednost.
+
+280
+00:24:24,060 --> 00:24:26,478
+TaËno.
+
+281
+00:24:26,520 --> 00:24:29,648
+Do sada K-20 ima
+ukradene samo vredne predmete.
+
+282
+00:24:29,690 --> 00:24:34,736
+Moram da utvrdim zaöto je pokuöao
+da ukrade kopiju.
+
+283
+00:24:34,736 --> 00:24:37,864
+Ovo je...
+
+284
+00:24:40,825 --> 00:24:42,868
+Yoko?
+
+285
+00:24:43,744 --> 00:24:45,955
+Niöta.
+
+286
+00:24:49,625 --> 00:24:51,835
+Ako te neöto muËi,
+
+287
+00:24:51,835 --> 00:24:54,587
+ne oklevaj da mi kaûeö.
+
+288
+00:24:54,629 --> 00:24:57,340
+Ipak, biÊemo u braku.
+
+289
+00:24:57,382 --> 00:25:00,760
+Da. Hvala ti.
+
+290
+00:25:01,093 --> 00:25:04,138
+Olazim na posao.
+
+291
+00:25:13,980 --> 00:25:17,400
+Neöto je Ëudno u njenom ponaöanju...
+
+292
+00:25:17,442 --> 00:25:19,777
+Ne budi preterano sumnjiËav.
+
+293
+00:25:27,326 --> 00:25:31,872
+Yoko, da li si upoznata
+sa ovom slikom ?
+
+294
+00:25:32,789 --> 00:25:34,499
+Ne...
+
+295
+00:25:34,541 --> 00:25:37,460
+Zove se Vavilonska Kula.
+
+296
+00:25:37,502 --> 00:25:39,962
+U Mesopotamiji, kula je
+
+297
+00:25:40,004 --> 00:25:42,882
+izgraena da bi ljudi dodirnuli nebesa.
+
+298
+00:25:42,923 --> 00:25:45,759
+Zbog toga su izazvali gnev Boga.
+
+299
+00:25:48,303 --> 00:25:52,849
+Yoko, ova slika je veoma vaûna.
+
+300
+00:25:52,891 --> 00:25:57,353
+Mora uvek ostati u tvom vlasniötvu.
+
+301
+00:26:13,201 --> 00:26:15,912
+Ustaj, K-20 !
+
+302
+00:26:15,954 --> 00:26:18,665
+Vreme je za jelo.
+
+303
+00:26:19,248 --> 00:26:23,169
+Ups!
+
+304
+00:26:25,880 --> 00:26:27,798
+Izvini zbog ovoga.
+
+305
+00:26:30,092 --> 00:26:34,721
+Poliûi to, lepo i Ëisto.
+
+306
+00:26:48,942 --> 00:26:51,653
+Loöe, a ?
+
+307
+00:26:54,072 --> 00:26:59,160
+Oni misle da si ti K-20 ?
+
+308
+00:27:01,120 --> 00:27:03,164
+Ma daj.
+
+309
+00:27:03,205 --> 00:27:09,127
+Video sam jednom njegovo lice.
+
+310
+00:27:12,756 --> 00:27:18,177
+I ti definitivno nisi on.
+
+311
+00:27:20,096 --> 00:27:25,935
+K-20 je stariji,
+
+312
+00:27:25,976 --> 00:27:28,770
+i ima oûiljak preko lica.
+
+313
+00:27:30,731 --> 00:27:35,110
+Direktor Nanbu je loöeg zdravlja ?
+
+314
+00:27:43,409 --> 00:27:45,828
+Da li je istina ?
+
+315
+00:27:48,247 --> 00:27:49,456
+Da li ?!
+
+316
+00:27:49,498 --> 00:27:52,918
+Da... istina je.
+
+317
+00:28:02,510 --> 00:28:05,471
+Proklet bio, K-20...
+
+318
+00:28:29,701 --> 00:28:32,079
+Doöao si da me vidiö ?
+
+319
+00:29:29,631 --> 00:29:32,551
+äta se desilo ?! äta je ovo ?
+
+320
+00:29:35,637 --> 00:29:37,555
+äta do avola ?!
+
+321
+00:29:39,474 --> 00:29:41,392
+Hej, most se pomera !
+
+322
+00:29:42,977 --> 00:29:44,478
+K-20 konvoj raportira.
+
+323
+00:29:44,520 --> 00:29:45,896
+Most je raznesen!
+
+324
+00:29:45,938 --> 00:29:47,314
+OdseËeni smo!
+
+325
+00:29:47,314 --> 00:29:49,316
+Ponavljam, K-20...
+
+326
+00:29:53,403 --> 00:29:54,362
+Idioti !
+
+327
+00:29:54,404 --> 00:29:56,656
+Mislite da Êe vas ta izvinjenja
+opravdati ?
+
+328
+00:29:56,656 --> 00:29:58,283
+Gubite mi se sa oËiju !
+
+329
+00:30:00,576 --> 00:30:02,328
+Akechi.
+
+330
+00:30:07,124 --> 00:30:09,793
+Ovo je neverovatno.
+
+331
+00:30:11,336 --> 00:30:13,380
+Zaista je to uradeo.
+
+332
+00:30:13,421 --> 00:30:17,300
+Most se popravlja nekoliko 
+zadnjih dana.
+
+333
+00:30:17,342 --> 00:30:20,887
+ZnaËi sve su uradeli
+po belom danu...
+
+334
+00:30:20,928 --> 00:30:23,180
+Misliö na K-20-ove sauËesnike ?
+
+335
+00:30:23,180 --> 00:30:28,102
+Obzirom öta sam video,
+K-20 ne radi sam.
+
+336
+00:30:28,143 --> 00:30:32,147
+Mora da ima ljude koji mu daju
+logistiËku podröku.
+
+337
+00:30:37,402 --> 00:30:39,445
+Neverovatno.
+
+338
+00:30:39,487 --> 00:30:42,240
+Ovo postaje veoma interesantno.
+
+339
+00:30:49,621 --> 00:30:51,957
+OdliËan posao.
+
+340
+00:30:51,998 --> 00:30:54,209
+Naö plan je doûiveo veliki uspeh,
+
+341
+00:30:54,209 --> 00:30:58,421
+zahvaljujuÊi svim stanovnicima
+lopovskog kvarta.
+
+342
+00:31:00,089 --> 00:31:01,007
+Lopovima ?
+
+343
+00:31:01,048 --> 00:31:04,093
+Drûi, Heikichi. Popij.
+
+344
+00:31:04,135 --> 00:31:05,719
+Doi ovamo.
+
+345
+00:31:06,220 --> 00:31:07,513
+äta ?
+
+346
+00:31:07,554 --> 00:31:08,764
+Genji...
+
+347
+00:31:08,806 --> 00:31:11,183
+Zar si i ti lopov ?
+
+348
+00:31:11,224 --> 00:31:14,853
+A-ha. Cirkuski trikovi su moj 
+dnevni posao,
+
+349
+00:31:14,894 --> 00:31:16,062
+pikrivajuÊi moj pravi posao.
+
+350
+00:31:16,104 --> 00:31:20,191
+Mi lopovi krademo malo para
+od bogatih
+
+351
+00:31:20,233 --> 00:31:22,401
+i delimo siromaönima.
+
+352
+00:31:22,443 --> 00:31:25,571
+To se zove kavaljerstvo.
+
+353
+00:31:26,614 --> 00:31:29,449
+Ovo je moja ûena, Kikuko.
+
+354
+00:31:29,449 --> 00:31:31,576
+Ona je varalica.
+
+355
+00:31:31,618 --> 00:31:33,662
+Sada je u penziji.
+
+356
+00:31:33,703 --> 00:31:35,914
+Prevarila ga je i za brak.
+
+357
+00:31:35,955 --> 00:31:38,166
+Moûda i nije u penziji !
+
+358
+00:31:38,791 --> 00:31:44,046
+Kako bi inaËe neko kao on,
+zavröio sa takvom lepoticom ?
+
+359
+00:31:44,380 --> 00:31:46,090
+Prekinite veÊ jednom.
+
+360
+00:31:46,548 --> 00:31:47,633
+Ali ozbiljno,
+
+361
+00:31:47,633 --> 00:31:49,760
+Genjijev ureaj nikada nije zakazao.
+
+362
+00:31:49,801 --> 00:31:54,264
+Ne zovu ga dûabe 
+Genji »udesni.
+
+363
+00:31:54,973 --> 00:31:57,141
+Ti kurvini sinovi nisu ni sanjali
+
+364
+00:31:57,141 --> 00:32:01,187
+da Êemo ukrati ceo most.
+
+365
+00:32:02,563 --> 00:32:05,316
+Veliki trik kao ovaj uËinio ih je
+jadnim bednicima!
+
+366
+00:32:05,316 --> 00:32:07,651
+Ej, ne izigravaj glavnog na 
+mojoj paradi.
+
+367
+00:32:07,651 --> 00:32:12,864
+Zabole nas za njihov klasni poredak,
+
+368
+00:32:12,906 --> 00:32:15,492
+ûivimo kako hoÊemo.
+
+369
+00:32:16,618 --> 00:32:20,037
+KuÊi si, Heikichi.
+
+370
+00:32:20,079 --> 00:32:21,664
+Svi su ûeleli i svi su uËestvovali
+u tvom spasavanju.
+
+371
+00:32:21,664 --> 00:32:23,791
+Mogla bi i neka reË zahvalnosti ?
+
+372
+00:32:25,292 --> 00:32:30,964
+K-20 je samo Ëovek, kao i ti.
+
+373
+00:32:31,548 --> 00:32:33,842
+To ti kaûeö.
+
+374
+00:32:39,680 --> 00:32:41,516
+U celoj zemlji je potraga za Heikichi Endoa.
+
+375
+00:32:41,557 --> 00:32:45,102
+Ne... Ja nisam K-20.
+
+376
+00:32:45,102 --> 00:32:48,605
+Prevaren sam od strane K-20!
+
+377
+00:32:52,025 --> 00:32:53,777
+Heikichi...
+
+378
+00:32:53,818 --> 00:32:58,448
+bez obzira da li si, ili nisi K-20,
+
+379
+00:32:58,489 --> 00:33:00,950
+za javnost
+
+380
+00:33:00,950 --> 00:33:03,369
+ovo je lice K-20.
+
+381
+00:33:05,829 --> 00:33:08,373
+äta Êeö da radiö povodom toga?
+
+382
+00:33:08,415 --> 00:33:13,253
+Sve dok sija sunce, moraö
+ostati skriven.
+
+383
+00:33:16,047 --> 00:33:19,717
+VraÊam se u cirkus.
+Svi me Ëekaju.
+
+384
+00:33:19,759 --> 00:33:21,761
+Golubi, takoe.
+
+385
+00:33:23,929 --> 00:33:25,556
+Znam kako se oseÊaö,
+
+386
+00:33:25,598 --> 00:33:27,141
+ali to je nemoguÊe.
+
+387
+00:33:27,182 --> 00:33:31,144
+UhapsiÊe te Ëim ti budu
+videli lice.
+
+388
+00:33:31,186 --> 00:33:33,271
+U svakom sluËaju, cirkus je veÊ...
+
+389
+00:33:33,313 --> 00:33:35,607
+I öta da radim ?
+
+390
+00:33:35,648 --> 00:33:38,651
+Ne mogu veËno da ûivim
+na ovaj naËin, krijuÊi se
+
+391
+00:33:38,693 --> 00:33:40,486
+i uvek se osvrtati iza sebe.
+
+392
+00:33:40,528 --> 00:33:42,571
+Ne postoji izlaz !
+
+393
+00:33:43,155 --> 00:33:44,865
+Lopov je lopov,
+
+394
+00:33:44,907 --> 00:33:46,617
+svi su oni isti.
+
+395
+00:33:46,617 --> 00:33:50,245
+Prljavi, smrdljivi.
+
+396
+00:33:50,287 --> 00:33:53,290
+Prodali bi se izmeu sebe
+samo da spasu svoju koûu.
+
+397
+00:33:53,331 --> 00:33:56,167
+Ne razlikujeö se mnogo od K-20 !
+
+398
+00:34:09,263 --> 00:34:12,766
+VraÊam se u cirkus.
+
+399
+00:34:13,433 --> 00:34:17,187
+Heikichi. Heikichi!
+
+400
+00:34:17,228 --> 00:34:20,022
+PustiÊeö ga da ode ?
+
+401
+00:34:20,064 --> 00:34:22,024
+Niöta ne mogu da uradim...
+
+402
+00:34:22,066 --> 00:34:24,568
+Bez obzira kakav mu je ûivot
+bio do sada,
+
+403
+00:34:24,610 --> 00:34:27,821
+ni to viöe za njega ne postoji.
+
+404
+00:34:28,322 --> 00:34:31,575
+Samo je trenutno zbunjen.
+
+405
+00:34:32,784 --> 00:34:36,329
+Baö sam osoba za ûurke, huh?
+
+406
+00:34:36,371 --> 00:34:39,165
+Ajde, popijmo!
+
+407
+00:34:40,041 --> 00:34:41,751
+Ovaj mladi klipan...
+
+408
+00:34:41,792 --> 00:34:43,294
+Ne priËaj tako.
+
+409
+00:34:43,336 --> 00:34:45,754
+Trebali bi da ga ûalimo.
+
+410
+00:36:27,931 --> 00:36:32,936
+"Traûi se : Heikichi Endo"
+
+411
+00:37:05,799 --> 00:37:07,885
+To je on !
+
+412
+00:37:07,926 --> 00:37:09,970
+Zgrabi ga !
+
+413
+00:37:10,887 --> 00:37:12,305
+Otiöao je ovim putem !
+
+414
+00:37:12,347 --> 00:37:13,431
+Poûuri !
+
+415
+00:37:13,473 --> 00:37:16,226
+Nemoj da pobegne !
+
+416
+00:37:45,586 --> 00:37:47,713
+Prestani da se zajebavaö sa mnom...
+
+417
+00:37:48,130 --> 00:37:49,840
+Doavola !
+
+418
+00:38:03,644 --> 00:38:06,480
+Veliki brate, Heikichi?
+
+419
+00:38:11,610 --> 00:38:13,528
+Shinsuke?
+
+420
+00:38:15,363 --> 00:38:21,452
+Ovi smrdljivi policajci su prebili
+sve u cirkusu.
+
+421
+00:38:22,370 --> 00:38:25,915
+Jedini sam ja pobegao.
+
+422
+00:38:26,915 --> 00:38:30,377
+Kurvini sinovi...
+
+423
+00:38:33,380 --> 00:38:37,967
+Baö mi je drago öto si dobro,
+veliki brate !
+
+424
+00:38:47,476 --> 00:38:51,271
+Da li si gladan ?
+
+425
+00:38:51,313 --> 00:38:54,983
+Ja sam uvek gladan.
+
+426
+00:38:56,693 --> 00:38:59,737
+Onda je bolje da posluûim neöto.
+
+427
+00:38:59,779 --> 00:39:02,198
+Hura !
+
+428
+00:39:02,657 --> 00:39:06,160
+Hej, ne Ëujem nikakav aplauz.
+
+429
+00:39:08,454 --> 00:39:11,581
+A na danaönjem meniju imamo,
+
+430
+00:39:11,623 --> 00:39:15,085
+peËeni krompir, peËeni krompir
+ili peËeni krompir.
+
+431
+00:39:15,126 --> 00:39:17,128
+UzeÊu ovaj treÊi peËeni krompir.
+
+432
+00:39:17,170 --> 00:39:18,838
+Odmah stiûe.
+
+433
+00:39:20,047 --> 00:39:21,716
+Spreman ?
+
+434
+00:39:34,352 --> 00:39:36,354
+Kopaj .
+
+435
+00:39:44,069 --> 00:39:47,197
+äta nije u redu ?
+
+436
+00:39:48,782 --> 00:39:54,079
+Mogu li da ga vratim u moj
+kokoöinjac ?
+
+437
+00:39:55,080 --> 00:39:56,831
+Kokoöinjac ?
+
+438
+00:40:06,131 --> 00:40:08,258
+Ovde smo.
+
+439
+00:40:18,434 --> 00:40:20,436
+Poûuri.
+
+440
+00:40:20,812 --> 00:40:22,605
+Hajde !
+
+441
+00:40:33,323 --> 00:40:36,284
+Ovo je moj mali brat, Kota.
+
+442
+00:40:36,326 --> 00:40:39,370
+Veoma je bolestan.
+
+443
+00:40:42,915 --> 00:40:45,626
+Niöta ne jede.
+
+444
+00:40:45,668 --> 00:40:49,046
+Ako mi ne dopusti da ga
+uskoro nahranim...
+
+445
+00:40:55,260 --> 00:40:57,428
+Shinsuke...
+
+446
+00:40:58,763 --> 00:41:01,515
+éao mi je öto ti ovo govorim...
+
+447
+00:41:02,350 --> 00:41:05,186
+ovaj deËko viöe neÊe jesti.
+
+448
+00:41:06,437 --> 00:41:08,981
+Zaöto ?
+
+449
+00:41:14,944 --> 00:41:17,780
+Da nije mrtav ?
+
+450
+00:41:23,869 --> 00:41:26,622
+Stvarno ?
+
+451
+00:41:27,873 --> 00:41:30,000
+Stvarno.
+
+452
+00:41:45,222 --> 00:41:47,558
+Hladan je.
+
+453
+00:42:18,378 --> 00:42:20,963
+Shinsuke...
+
+454
+00:42:21,547 --> 00:42:24,675
+Zaöto ne ûiviö sa mnom ?
+
+455
+00:42:24,717 --> 00:42:27,136
+I ja sam iz Nogamija.
+
+456
+00:42:27,177 --> 00:42:30,847
+Znam kakvo je to mesto.
+
+457
+00:42:31,223 --> 00:42:34,017
+Teöko je biti sam..
+
+458
+00:42:42,650 --> 00:42:44,819
+Zaöto da ne ?
+
+459
+00:42:44,860 --> 00:42:46,987
+Zato...
+
+460
+00:42:46,987 --> 00:42:51,450
+Imam mnogo prijatelja koje
+moram da nahranim.
+
+461
+00:43:15,138 --> 00:43:18,766
+Sam ?
+
+462
+00:43:18,808 --> 00:43:21,227
+Pa, da.
+
+463
+00:43:22,645 --> 00:43:27,316
+IzgradiÊemo novi svet.
+
+464
+00:43:27,858 --> 00:43:32,028
+Baö kako je Direktor Nanbu rekao.
+
+465
+00:43:45,082 --> 00:43:47,418
+NuËi me !
+
+466
+00:43:50,796 --> 00:43:55,592
+Molim te, nauËi me kako da
+postanem lopov.
+
+467
+00:43:58,428 --> 00:44:00,930
+Misleo sam da neÊeö da se
+poniziö ?
+
+468
+00:44:00,930 --> 00:44:05,017
+I da neÊeö moÊi da ûiviö, osvrÊuÊi se
+uvek iza sebe.
+
+469
+00:44:07,853 --> 00:44:11,732
+Mi lopovi smo svi isti.
+
+470
+00:44:11,773 --> 00:44:14,984
+Prljavi i smrdljivi.
+
+471
+00:44:15,026 --> 00:44:19,739
+Prodajemo jedni druge,
+samo da bi spasili svoju koûu.
+
+472
+00:44:21,032 --> 00:44:25,286
+Ne razlikujemo se od K-20.
+
+473
+00:44:27,204 --> 00:44:33,752
+Molim te, najzad sam shvatio öta moram
+da uradim.
+
+474
+00:44:35,086 --> 00:44:37,422
+Preklinjem te.
+
+475
+00:45:00,693 --> 00:45:02,486
+Poi sa mnom.
+
+476
+00:45:45,776 --> 00:45:49,696
+Svo znanje skupljano generacijama
+lopova.
+
+477
+00:45:49,738 --> 00:45:52,741
+Lopovski priruËnici.
+
+478
+00:45:52,782 --> 00:45:56,369
+»uo sam da ih je K-20 prouËavao.
+
+479
+00:45:57,579 --> 00:46:00,081
+Pozajmljujem ti ih.
+
+480
+00:46:00,081 --> 00:46:05,961
+NeÊeö postati Majstor lopova, ali 
+steÊi Êeö a i mislim da imaö neke veötine.
+
+481
+00:46:08,505 --> 00:46:10,799
+Ali...
+
+482
+00:46:10,841 --> 00:46:14,052
+Ne moraö postati lopov.
+
+483
+00:46:14,511 --> 00:46:20,183
+Postoje dosta tehnika koje moûeö
+iskoristiti u borbi protiv K-20.
+
+484
+00:46:21,892 --> 00:46:25,521
+Uhvati ga, dokaûi svoju nevinost,
+
+485
+00:46:25,563 --> 00:46:29,149
+i tada se vrati u cirkus.
+
+486
+00:46:31,485 --> 00:46:36,739
+Kao öto si rekao, ne moûeö toliko
+pasti nisko da bi bio lopov.
+
+487
+00:46:38,199 --> 00:46:40,993
+Genji, ali...
+
+488
+00:46:41,035 --> 00:46:43,788
+Ne brini.
+
+489
+00:46:44,705 --> 00:46:48,000
+Svi te podrûavamo.
+
+490
+00:46:48,584 --> 00:46:50,335
+Sredi ga, Heikichi !
+
+491
+00:46:50,335 --> 00:46:52,796
+Vidimo se u Cirkusu !
+
+492
+00:46:52,838 --> 00:46:55,256
+PomoÊi Êu kako god mogu !
+
+493
+00:46:55,298 --> 00:46:56,424
+Iza tebe smo !
+
+494
+00:46:56,466 --> 00:46:57,592
+Moûeö ti to !
+
+495
+00:46:57,634 --> 00:46:58,676
+Verujemo u tebe !
+
+496
+00:46:58,718 --> 00:47:01,179
+Ne brini te, daÊu sve od sebe !
+
+497
+00:47:01,220 --> 00:47:04,390
+Kako Êe to da pomogne ?
+
+498
+00:47:21,364 --> 00:47:23,908
+Koristi samo öto direktnije i kraÊe
+puteve do odrediöta.
+
+499
+00:47:24,241 --> 00:47:26,869
+Prvo, nabavi mapu grada.
+
+500
+00:47:26,869 --> 00:47:30,163
+Odaberi taËku na mapi i povuci
+pravu liniju preko nje.
+
+501
+00:47:33,041 --> 00:47:36,836
+Onda moraö da trËiö po toj
+zadatoj ruti.
+
+502
+00:47:39,380 --> 00:47:42,049
+Ako naletiö na prepreku, 
+prei preko nje.
+
+503
+00:47:42,049 --> 00:47:44,051
+Ako nema prolaza, snai se.
+Napravi ga...
+
+504
+00:47:44,093 --> 00:47:46,261
+Bez obzira sa Ëime se susretneö,
+
+505
+00:47:46,303 --> 00:47:48,430
+koristi najdirektniji put.
+
+506
+00:47:48,889 --> 00:47:52,392
+To je veötina bekstva i infiltriranja.
+
+507
+00:47:52,434 --> 00:47:56,104
+Ukratko, osnovni princip lopovluka.
+
+508
+00:48:50,362 --> 00:48:52,364
+Genji...
+
+509
+00:48:55,325 --> 00:48:57,952
+äta se doavola desilo ?
+
+510
+00:48:57,994 --> 00:49:00,580
+Da li mogu da pozajmim konopac ?
+
+511
+00:49:33,026 --> 00:49:34,694
+Uf...
+
+512
+00:49:44,787 --> 00:49:46,246
+Pazi, budalo !
+
+513
+00:49:46,246 --> 00:49:47,706
+Izvinite !
+
+514
+00:49:55,130 --> 00:49:56,631
+Heikichi...
+
+515
+00:50:01,594 --> 00:50:04,638
+Kada si postao Doktor ?
+
+516
+00:50:06,432 --> 00:50:08,934
+To je maska !
+
+517
+00:50:11,269 --> 00:50:14,397
+Umetnost maskiranja ?
+
+518
+00:50:15,023 --> 00:50:18,192
+Maskiranje nije Maskiranje ?
+
+519
+00:50:18,234 --> 00:50:20,361
+Maskiranje je da budeö jedno zrno
+pirinËa u milion zrna,
+
+520
+00:50:20,403 --> 00:50:23,030
+da se meöaö sa zrnima i stalno
+ostaneö nevidljiv.
+
+521
+00:50:23,072 --> 00:50:25,449
+U belom laboratorijskom mantilu,
+nosi crnu torbu...
+
+522
+00:50:25,491 --> 00:50:28,368
+i postajeö Doktor.
+
+523
+00:50:28,410 --> 00:50:30,912
+Ne seÊam se tog dela.
+
+524
+00:50:30,954 --> 00:50:35,667
+Umesto crne torbe ako nosim
+naoËare sa tamnim staklima,
+
+525
+00:50:37,293 --> 00:50:39,921
+postajem slepi maser.
+
+526
+00:50:41,088 --> 00:50:44,925
+U odori sam budistiËki sveötenik.
+
+527
+00:50:45,342 --> 00:50:49,137
+Ako nosim turban, onda sam
+Indijac.
+
+528
+00:50:53,391 --> 00:50:57,478
+»ak i Indijci Êe pomisliti da si
+Indijac.
+
+529
+00:51:13,159 --> 00:51:15,245
+Heikichi ?
+
+530
+00:51:16,496 --> 00:51:18,623
+äta to radiö ?
+
+531
+00:51:18,790 --> 00:51:20,291
+Hej ?
+
+532
+00:51:28,715 --> 00:51:30,509
+I.
+
+533
+00:51:32,761 --> 00:51:33,970
+Kad promeniö svoj izgled
+
+534
+00:51:34,012 --> 00:51:36,681
+i ne ostane niöta od tebe,
+
+535
+00:51:36,723 --> 00:51:39,350
+onda si savladao umetnost
+maskiranja.
+
+536
+00:51:43,187 --> 00:51:45,689
+Neverovatno.
+
+537
+00:51:45,731 --> 00:51:49,359
+On je veÊ savladao umetnost
+maskiranja.
+
+538
+00:51:52,571 --> 00:51:54,364
+Vidimo se kasnije.
+
+539
+00:51:55,573 --> 00:51:57,492
+Ej, Heikichi.
+
+540
+00:52:02,079 --> 00:52:04,665
+Zaöto ne poneseö ovo sa sobom ?
+
+541
+00:53:41,337 --> 00:53:43,130
+OdliËno !
+
+542
+00:53:43,172 --> 00:53:44,965
+Ja sam...
+
+543
+00:54:06,985 --> 00:54:09,613
+Prelepo je.
+
+544
+00:54:09,655 --> 00:54:10,906
+Baö prekrasno.
+
+545
+00:54:10,947 --> 00:54:13,783
+Perfektno vam stoji...
+
+546
+00:54:14,576 --> 00:54:16,202
+Da ?
+
+547
+00:54:17,370 --> 00:54:20,748
+Da li moûete saËekati napolje ?
+
+548
+00:54:25,628 --> 00:54:29,047
+Vojvotkinjo, nadam se da je 
+sve u redu ?
+
+549
+00:54:29,089 --> 00:54:31,133
+Da, hvala vam.
+
+550
+00:54:32,551 --> 00:54:35,011
+VenËanica izgleda veoma elegantno.
+
+551
+00:54:35,053 --> 00:54:37,388
+Hvala vam.
+
+552
+00:54:45,729 --> 00:54:50,275
+Moûda bi joö trebali da je suzimo
+u struku.
+
+553
+00:54:50,317 --> 00:54:53,486
+Ostavljam to vama.
+
+554
+00:54:58,032 --> 00:55:00,785
+Vojvotkinjo...
+
+555
+00:55:00,827 --> 00:55:02,453
+Da ?
+
+556
+00:55:02,495 --> 00:55:05,831
+Da li bi ste bili tako ljubazni
+da mi kaûete
+
+557
+00:55:05,873 --> 00:55:09,626
+gde je vaö deda sakrio Teslin ureaj ?
+
+558
+00:55:55,585 --> 00:55:57,212
+K-20.
+
+559
+00:56:11,058 --> 00:56:12,976
+–ubre !
+
+560
+00:56:13,977 --> 00:56:16,938
+Zar postoje dva K-20 ?
+
+561
+00:56:16,980 --> 00:56:19,857
+Ne, ja nisam K-20.
+
+562
+00:56:19,899 --> 00:56:22,568
+On je pravi K-20.
+
+563
+00:56:22,610 --> 00:56:25,237
+Proölo je mnogo vremena
+
+564
+00:56:25,904 --> 00:56:28,115
+Heikichi Endo.
+
+565
+00:56:28,157 --> 00:56:32,369
+Nakon öto si uzeo konopac,
+misleo sam da je vreme za penziju,
+
+566
+00:56:32,744 --> 00:56:35,872
+ali odradeo si oËajno bekstvo.
+
+567
+00:56:36,247 --> 00:56:41,335
+Pa sam odluËio da joö malo budem 
+K-20.
+
+568
+00:56:42,670 --> 00:56:44,839
+Zaöto si mi namestio ?
+
+569
+00:56:45,923 --> 00:56:50,594
+LiËio si mi na idiota.
+I bio sam u pravu.
+
+570
+00:56:52,095 --> 00:56:53,680
+äarlatanu..
+
+571
+00:57:45,686 --> 00:57:49,606
+Ovakvi potezi se mogu videti
+samo u Cirkusu.
+
+572
+00:57:49,648 --> 00:57:53,026
+Najniûi talog druötva.
+
+573
+00:57:55,320 --> 00:57:58,656
+Ne vreaj moj narod !
+
+574
+00:58:04,286 --> 00:58:06,664
+äteta.....
+
+575
+00:58:06,705 --> 00:58:10,834
+nikada se viöe neÊeö vratiti
+u Cirkus.
+
+576
+00:58:11,168 --> 00:58:14,629
+Sem ako me ne uhvatiö.
+
+577
+00:58:59,212 --> 00:59:02,131
+Do sledeÊeg vienja, Heikichi Endo!
+
+578
+00:59:08,637 --> 00:59:11,056
+Da li si u redu ?
+
+579
+00:59:14,642 --> 00:59:16,144
+Hajde !
+
+580
+00:59:19,856 --> 00:59:20,815
+To je on !
+
+581
+00:59:20,815 --> 00:59:23,317
+Idite okolo ! Pozovi pojaËanje !
+
+582
+00:59:28,697 --> 00:59:29,198
+Poûuri.
+
+583
+00:59:29,239 --> 00:59:30,907
+SaËekaj.
+
+584
+00:59:30,907 --> 00:59:32,492
+Ne budi ishitren.
+
+585
+00:59:32,534 --> 00:59:35,245
+Izvini. Nisam misleo da te povredim.
+
+586
+00:59:35,286 --> 00:59:37,997
+Ne, poöto idem sa tobom, 
+mislim da je
+
+587
+00:59:37,997 --> 00:59:40,124
+bolje da se otarasim ovoga.
+
+588
+00:59:46,380 --> 00:59:48,006
+Hajdemo.
+
+589
+00:59:49,383 --> 00:59:50,842
+Desno.
+
+590
+00:59:55,722 --> 00:59:57,181
+Tim putem ?
+
+591
+01:00:06,023 --> 01:00:07,357
+Hajdemo.
+
+592
+01:00:09,568 --> 01:00:11,278
+Pratimo ih !
+
+593
+01:00:24,832 --> 01:00:26,458
+Ustani.
+
+594
+01:00:38,678 --> 01:00:39,887
+Nastavi da osmatraö.
+
+595
+01:00:58,112 --> 01:01:01,115
+Ne mogu biti daleko. Budi pripravan !
+
+596
+01:01:02,533 --> 01:01:04,118
+Izlazi !
+
+597
+01:01:11,083 --> 01:01:13,668
+Huh?
+
+598
+01:01:22,009 --> 01:01:24,094
+Yoko...
+
+599
+01:01:24,136 --> 01:01:26,597
+Dajem ti ovo.
+
+600
+01:01:26,638 --> 01:01:28,390
+äta je to ?
+
+601
+01:01:28,432 --> 01:01:30,100
+Kutijica sreÊe.
+
+602
+01:01:30,142 --> 01:01:31,726
+U ovoj kutijici,
+
+603
+01:01:31,768 --> 01:01:34,646
+pronaÊi Êeö pravu sreÊu.
+
+604
+01:01:55,206 --> 01:01:57,041
+Genji...
+
+605
+01:01:57,875 --> 01:02:02,630
+Heikichi, da li si bio napadnut ?
+
+606
+01:02:02,672 --> 01:02:03,589
+Ukrao sam je.
+
+607
+01:02:03,631 --> 01:02:05,341
+Ukrao ?
+
+608
+01:02:07,176 --> 01:02:11,304
+»ak ni lopovi ne padaju 
+tako nisko.
+
+609
+01:02:12,055 --> 01:02:14,516
+äalim se.
+
+610
+01:02:15,934 --> 01:02:18,478
+Spasio sam je od  K-20.
+
+611
+01:02:18,519 --> 01:02:21,022
+K-20 ? Sreo si  K-20?!
+
+612
+01:02:22,732 --> 01:02:25,484
+On mi je smestio.
+
+613
+01:02:25,526 --> 01:02:28,237
+Zaöto je jurio nevestu ?
+
+614
+01:02:28,278 --> 01:02:29,780
+Ne znam.
+
+615
+01:02:29,821 --> 01:02:31,865
+Doveo sam je ovde da bih saznao
+razlog.
+
+616
+01:02:31,907 --> 01:02:33,575
+Vidim...
+
+617
+01:02:40,081 --> 01:02:41,791
+Polako.
+
+618
+01:02:46,420 --> 01:02:48,255
+Da nisi povreena ?
+
+619
+01:02:50,007 --> 01:02:51,383
+Kako se usuujeö !
+
+620
+01:03:01,183 --> 01:03:03,352
+Ti si tiha devojka.
+
+621
+01:03:03,394 --> 01:03:05,229
+Samo vaspitana devojka 
+iz dobre porodice.
+
+622
+01:03:05,271 --> 01:03:07,106
+To boli !
+
+623
+01:03:07,856 --> 01:03:10,859
+Ma öta... Nakon öto sam te spasio..
+
+624
+01:03:10,901 --> 01:03:12,402
+Spasio ?
+
+625
+01:03:13,403 --> 01:03:17,448
+Pa pomogao sam ti da pobegneö 
+od K-20, ako si zaboravila ?
+
+626
+01:03:17,490 --> 01:03:19,409
+A, da.
+
+627
+01:03:19,450 --> 01:03:23,788
+A, da ? A kako bi bilo jedno HVALA ?
+
+628
+01:03:24,788 --> 01:03:29,918
+Da. Hvala bi bilo lepo.
+
+629
+01:03:30,877 --> 01:03:32,295
+äta ?
+
+630
+01:03:40,178 --> 01:03:41,178
+Da li si lud ?
+
+631
+01:03:41,220 --> 01:03:43,514
+Dovoditi ovde princezu kao öto je ona?
+
+632
+01:03:43,514 --> 01:03:46,684
+Ona je iz totalno dgugaËijeg sveta
+nego öto je naö
+
+633
+01:03:46,725 --> 01:03:49,978
+Um, gde je öampon ?
+
+634
+01:03:50,020 --> 01:03:54,024
+äampon ? äta je äampon ?
+
+635
+01:03:54,065 --> 01:03:58,069
+äam-pon, öam-pon...
+
+636
+01:03:59,195 --> 01:04:03,032
+Hej, znam. To je kada otmena dama
+ima gasove.
+
+637
+01:04:03,032 --> 01:04:05,409
+HoÊu da operem moju kosu...
+
+638
+01:04:05,451 --> 01:04:09,079
+Jer vidiö da greöiö. To je za pranje
+kose.
+
+639
+01:04:09,121 --> 01:04:10,580
+Nemamo.
+
+640
+01:04:10,622 --> 01:04:12,541
+Jer hoÊeö da mi kupiö jedan ?
+
+641
+01:04:12,582 --> 01:04:14,751
+Upotrebi sapun.
+
+642
+01:04:14,793 --> 01:04:18,588
+Sapun ? Mogu da perem kosu
+sapunom ?
+
+643
+01:04:18,629 --> 01:04:20,548
+A-ha !
+
+644
+01:04:21,048 --> 01:04:23,676
+Da li ima tuöa ??
+
+645
+01:04:23,717 --> 01:04:25,803
+Ne !
+
+646
+01:04:26,428 --> 01:04:30,432
+Kako da sperem sapunicu ?
+
+647
+01:04:32,517 --> 01:04:34,602
+Sapunicu ?
+
+648
+01:04:36,521 --> 01:04:37,814
+Oh, ne !
+
+649
+01:04:41,651 --> 01:04:44,236
+äta ti zamiöljaö da si...
+
+650
+01:04:44,862 --> 01:04:45,571
+Voajeru !
+
+651
+01:04:45,613 --> 01:04:48,073
+Kako se usuujeö da uzurpiraö
+moju privatnost.
+
+652
+01:04:52,911 --> 01:04:55,038
+äta se desilo ?
+
+653
+01:04:59,292 --> 01:05:01,502
+PatetiËno.
+
+654
+01:05:01,544 --> 01:05:05,089
+Dva odrasla Ëoveka poput vas da 
+zbog golotinje dobiju krvarenje iz nosa.
+
+655
+01:05:05,130 --> 01:05:06,256
+Zaveûi.
+
+656
+01:05:06,298 --> 01:05:10,302
+Ovo je baö zanimljivo mesto.
+
+657
+01:05:10,302 --> 01:05:13,096
+LiËi na kuÊu lutaka.
+
+658
+01:05:13,138 --> 01:05:14,431
+Pa izvini.
+
+659
+01:05:14,472 --> 01:05:16,182
+A vaöa glavna soba ?
+
+660
+01:05:16,224 --> 01:05:17,850
+Ovo je glavna soba.
+
+661
+01:05:17,892 --> 01:05:20,645
+Mislite, ovo je mesto gde ûivite ?
+
+662
+01:05:20,686 --> 01:05:24,982
+Da. Ovo je mesto gde jedemo, pijemo 
+i spavamo.
+
+663
+01:05:24,982 --> 01:05:28,110
+Ovde ûivimo naöe ûivote.
+
+664
+01:05:28,152 --> 01:05:31,238
+Oh, ne moûete biti ozbiljni.
+
+665
+01:05:31,279 --> 01:05:33,323
+Ne vreaj nas.
+
+666
+01:05:33,365 --> 01:05:35,366
+Mi smo sreÊni ovde.
+
+667
+01:05:35,408 --> 01:05:36,910
+Stvarno ?
+
+668
+01:05:36,951 --> 01:05:38,494
+Impresionirana sam,
+
+669
+01:05:38,494 --> 01:05:42,748
+kako ljudi ûive u ovako oronulim
+i praönjavim mestima.
+
+670
+01:05:42,790 --> 01:05:45,668
+To je tvoja krivica...
+
+671
+01:05:45,668 --> 01:05:47,836
+Zbog ljudi kao öto si ti,
+
+672
+01:05:47,878 --> 01:05:50,005
+mi ûivimo u ovakvim uslovima.
+
+673
+01:05:50,547 --> 01:05:53,133
+äta misliö time da kaûeö ??
+
+674
+01:05:57,095 --> 01:05:59,055
+Poi sa mnom.
+
+675
+01:06:04,018 --> 01:06:05,978
+Razumem.
+
+676
+01:06:07,187 --> 01:06:08,689
+äefe !
+
+677
+01:06:08,730 --> 01:06:09,606
+äta je ?
+
+678
+01:06:09,648 --> 01:06:13,902
+Policija kaûe da je Vojvotkinja
+oteta od strane K-20.
+
+679
+01:06:13,944 --> 01:06:15,862
+Oteta od strane K-20 ?
+
+680
+01:06:15,904 --> 01:06:17,989
+Izgubili su ih blizu Kojimachija,
+
+681
+01:06:18,031 --> 01:06:19,949
+ali traûe ih sa svim jedinicama.
+
+682
+01:06:19,991 --> 01:06:21,867
+Kobayashi, sada si ti na potezu.
+
+683
+01:06:21,909 --> 01:06:25,371
+Upotrebi mlae detektive za 
+dobijanje informacija.
+
+684
+01:06:45,472 --> 01:06:47,307
+Deca ?
+
+685
+01:06:47,766 --> 01:06:50,227
+Veliki brate !
+
+686
+01:06:52,062 --> 01:06:56,524
+Veliki brate, koje ova dama ?
+
+687
+01:06:57,734 --> 01:07:00,778
+Da li je ona tvoja devojka ?
+
+688
+01:07:00,820 --> 01:07:02,363
+Devojka ?
+
+689
+01:07:02,363 --> 01:07:03,864
+Budi miran.
+
+690
+01:07:04,532 --> 01:07:05,616
+Evo tvoje veËere.
+
+691
+01:07:05,658 --> 01:07:08,410
+Hvala !
+
+692
+01:07:08,452 --> 01:07:11,121
+PirinaËne kugle !
+
+693
+01:07:13,582 --> 01:07:16,167
+äta rade njihovi roditelji ?
+
+694
+01:07:16,209 --> 01:07:19,629
+Zaöto im dozvoljavaju da provode
+ovde vreme ?
+
+695
+01:07:19,921 --> 01:07:23,007
+Ova deca su ili napuötena
+
+696
+01:07:23,049 --> 01:07:26,302
+ili su im roditelji ubijeni od strane
+viöih klasa.
+
+697
+01:07:26,343 --> 01:07:27,970
+Ali...
+
+698
+01:07:28,011 --> 01:07:31,556
+sigurno drûava nije dozvolila
+da se to desi.
+
+699
+01:07:32,766 --> 01:07:36,644
+Pa öta vidiö sada ?
+
+700
+01:07:36,686 --> 01:07:39,105
+äta vlada radi ?
+
+701
+01:07:39,147 --> 01:07:40,148
+Vlada ?
+
+702
+01:07:40,189 --> 01:07:42,817
+UloûiÊu formalnu ûalbu.
+
+703
+01:07:42,858 --> 01:07:46,653
+Deca ne smeju biti primorana
+da ûive na ovakvim mestima.
+
+704
+01:07:46,695 --> 01:07:48,113
+Oni znaju sve o tome.
+
+705
+01:07:48,155 --> 01:07:51,241
+Da, ali ako i dalje dozvoliö da ûive ovako
+to je NEOPROSTIVO !.
+
+706
+01:07:51,283 --> 01:07:54,369
+Skretanje pogleda u stranu
+
+707
+01:07:54,411 --> 01:07:57,497
+je isto kao i sam zloËin.
+
+708
+01:07:58,039 --> 01:08:00,291
+Hajde da im pomognemo !
+
+709
+01:08:00,333 --> 01:08:02,501
+Pomozimo im...
+
+710
+01:08:02,543 --> 01:08:05,713
+Moûemo barem da ih odvedemo
+do sirotiöta.
+
+711
+01:08:05,754 --> 01:08:08,132
+Sirotiöta ?
+
+712
+01:08:10,217 --> 01:08:13,595
+Reci mi gde da naem jedno.
+
+713
+01:08:13,637 --> 01:08:17,015
+Sam Êu da ih odvedem.
+
+714
+01:08:19,016 --> 01:08:23,229
+Reci mi ! Gde da naem jedno?
+
+715
+01:08:23,270 --> 01:08:27,441
+Ova deca nisu jedina koja pate.
+
+716
+01:08:27,483 --> 01:08:30,110
+Ima ih na hiljade u Teitu.
+
+717
+01:08:30,152 --> 01:08:34,489
+Kako Êeö do avola svima njima
+da pomogneö?
+
+718
+01:08:36,783 --> 01:08:38,785
+Da li je to zbog tebe ?
+
+719
+01:08:39,827 --> 01:08:42,246
+éiveÊi privilegovano u tvom svetu,
+
+720
+01:08:42,288 --> 01:08:45,541
+ti bi kao da pomaûeö ovoj deci 
+i drugim ljudima.
+
+721
+01:08:48,168 --> 01:08:52,464
+Gade mi se ljudi poput tebe.
+
+722
+01:08:53,298 --> 01:08:55,508
+Hipokrito.
+
+723
+01:09:05,184 --> 01:09:08,061
+äta je sa stolnjakom ?
+
+724
+01:09:08,103 --> 01:09:10,939
+äta kaûe za K-20 ?
+
+725
+01:09:14,275 --> 01:09:17,946
+Nisi pitao i samo si je ostavio
+u Nogamiju ?
+
+726
+01:09:17,987 --> 01:09:18,988
+Zaboravio sam.
+
+727
+01:09:19,030 --> 01:09:22,783
+Bio bi veoma oËajan detektiv.
+Glupane...
+
+728
+01:09:23,117 --> 01:09:25,077
+Zato öto ona...
+
+729
+01:09:26,036 --> 01:09:30,791
+najverovatnije cmizdri na putu
+do kuÊe.
+
+730
+01:09:30,832 --> 01:09:33,835
+Nadaj se da je tako.
+
+731
+01:09:34,919 --> 01:09:36,421
+äta ?
+
+732
+01:09:36,462 --> 01:09:38,131
+Ne glumi budalu.
+
+733
+01:09:38,172 --> 01:09:40,841
+Ostavio si tako neûnu princezu
+
+734
+01:09:40,883 --> 01:09:43,385
+na tako opasnom mestu ?
+
+735
+01:09:43,427 --> 01:09:45,846
+Tretman je baö za primer.
+
+736
+01:09:45,888 --> 01:09:48,515
+Ti si najgori ûenski neprijatelj.
+
+737
+01:10:01,527 --> 01:10:03,279
+Hvala za Ëaj.
+
+738
+01:11:14,135 --> 01:11:15,970
+Shinsuke ?
+
+739
+01:11:55,340 --> 01:11:59,385
+Ne guraj se. Stani u red.
+
+740
+01:12:04,098 --> 01:12:06,767
+Svako Êe dobiti po jednu Ëiniju.
+
+741
+01:12:07,518 --> 01:12:09,978
+Zdravo, Heikichi!
+
+742
+01:12:18,236 --> 01:12:21,280
+Razmiöljala sam o tome celu noÊ.
+
+743
+01:12:21,322 --> 01:12:23,491
+Kad bi samo postojala dovoljno 
+velika kuÊa
+
+744
+01:12:23,532 --> 01:12:26,035
+gde bi sva ta deca mogla da ûive.
+
+745
+01:12:26,076 --> 01:12:28,579
+I gde bi mogla da idu u ökolu.
+
+746
+01:12:32,165 --> 01:12:35,085
+Zaöto radiö sve ovo ?
+
+747
+01:12:35,126 --> 01:12:38,671
+Rekla sam da je isto zloËin
+ignorisati sve ovo.
+
+748
+01:12:38,713 --> 01:12:42,216
+Moram ozbiljno da shvatim to öto sam
+rekla.
+
+749
+01:12:44,135 --> 01:12:47,137
+HoÊu da ti se zahvalim.
+
+750
+01:12:47,179 --> 01:12:52,517
+OseÊam se kao da sam naöla cilj
+u ûivotu.
+
+751
+01:12:55,353 --> 01:12:57,730
+ZahvaljujuÊi tebi.
+
+752
+01:12:58,314 --> 01:13:02,276
+ZahvaljujuÊi velikom bratu Heikichiju.
+Dobar posao.
+
+753
+01:13:04,028 --> 01:13:06,447
+Hajde, nastavimo sa sluûenjem.
+
+754
+01:13:10,283 --> 01:13:11,743
+Drûi.
+
+755
+01:13:24,964 --> 01:13:28,300
+Moje ime je Yoko Hashiba.
+
+756
+01:13:31,011 --> 01:13:32,804
+Akechijeva buduÊa nevesta ?
+
+757
+01:13:32,804 --> 01:13:33,972
+Ceremonija...
+
+758
+01:13:33,972 --> 01:13:36,808
+Oh, postiena sam.
+
+759
+01:13:36,849 --> 01:13:39,811
+Princeza kao ti u ovakvoj baraci ?
+
+760
+01:13:39,811 --> 01:13:45,274
+ObjasniÊu ti razlog zaöto me K-20
+najverovatnije prati.
+
+761
+01:13:47,192 --> 01:13:49,278
+Izvini. NeÊe se viöe ponoviti.
+
+762
+01:13:49,319 --> 01:13:51,321
+Gde si je izgubio ?
+
+763
+01:13:51,363 --> 01:13:54,157
+Pored Taharamachija u Asakusi.
+
+764
+01:13:54,157 --> 01:13:57,452
+Raöirio sam moj tim od tog mesta pa
+prema Nogamiju.
+
+765
+01:13:59,162 --> 01:14:00,621
+äefe ?
+
+766
+01:14:00,663 --> 01:14:02,081
+äta je ?
+
+767
+01:14:02,123 --> 01:14:03,499
+Pa teöko je reÊi...
+
+768
+01:14:03,541 --> 01:14:05,626
+äta je ?
+
+769
+01:14:07,294 --> 01:14:08,545
+Moj tim mi je raportirao
+
+770
+01:14:08,587 --> 01:14:11,048
+da je Vojvotkinja kidnapovana,
+
+771
+01:14:11,089 --> 01:14:13,508
+ali da je tamo svojevoljno.
+
+772
+01:14:13,550 --> 01:14:15,552
+Svojevoljno ?
+
+773
+01:14:19,347 --> 01:14:22,350
+Kancelarija Detektiva Akechija.
+
+774
+01:14:23,017 --> 01:14:26,145
+äta... Vojvotkinja ?
+
+775
+01:14:31,858 --> 01:14:32,359
+Otiöao je.
+
+776
+01:14:32,359 --> 01:14:33,943
+Dobro, uradimo to !
+
+777
+01:14:57,924 --> 01:15:00,551
+Zdravo, da li je to Teito Electric ?
+
+778
+01:15:00,593 --> 01:15:02,219
+Da.
+
+779
+01:15:03,137 --> 01:15:06,515
+U redu, biÊemo uskoro tamo.
+
+780
+01:15:09,810 --> 01:15:11,186
+Dolazim.
+
+781
+01:15:16,399 --> 01:15:18,484
+Teito Electric.
+
+782
+01:15:19,944 --> 01:15:21,779
+Yoko.
+
+783
+01:15:22,405 --> 01:15:25,491
+Dobio sam izveötaj od jednog agenta
+
+784
+01:15:25,532 --> 01:15:28,619
+da si sa K-20, Heikichi Endom.
+
+785
+01:15:28,869 --> 01:15:31,955
+Vieni ste u Nogamiju.
+
+786
+01:15:32,205 --> 01:15:34,708
+O Ëemu se radi ?
+
+787
+01:15:34,749 --> 01:15:39,253
+Dragi, Heikichi Endo nije K-20.
+
+788
+01:15:40,046 --> 01:15:42,798
+Nije K-20?
+
+789
+01:15:42,798 --> 01:15:47,302
+Jurio me je drugi K-20.
+
+790
+01:15:47,344 --> 01:15:51,139
+Heikichi Endo je osoba koja mi je
+pomogla.
+
+791
+01:15:51,681 --> 01:15:56,978
+Kaûeö mi da sam uhapsio
+pogreönu osobu ?
+
+792
+01:15:57,645 --> 01:15:59,439
+Da.
+
+793
+01:16:02,608 --> 01:16:05,611
+Postoji kratki spoj.
+
+794
+01:16:05,653 --> 01:16:07,988
+Koja je soba najopremljenija ?
+
+795
+01:16:08,030 --> 01:16:10,240
+ElektriËnom opremom ?
+
+796
+01:16:10,282 --> 01:16:12,450
+Moûda öefova kancelarija.
+
+797
+01:16:12,492 --> 01:16:14,285
+Ovim putem.
+
+798
+01:16:19,957 --> 01:16:21,792
+Ovamo.
+
+799
+01:16:29,675 --> 01:16:32,385
+Gde je oprema ?
+
+800
+01:16:32,719 --> 01:16:34,554
+Ovamo.
+
+801
+01:16:38,558 --> 01:16:41,560
+Neko drugo mesto ?
+
+802
+01:16:41,560 --> 01:16:43,646
+Ovamo.
+
+803
+01:16:47,941 --> 01:16:51,319
+Ovo mesto nije mnogo koriöteno.
+
+804
+01:16:53,571 --> 01:16:55,990
+Izvini me.
+
+805
+01:17:04,748 --> 01:17:06,208
+Da ?
+
+806
+01:17:06,250 --> 01:17:10,295
+Mi smo iz lokalne crkve.
+Skupljamo donacije.
+
+807
+01:17:10,879 --> 01:17:12,339
+Oh, pa moj öef nije trenutno ovde.
+
+808
+01:17:12,797 --> 01:17:17,844
+Pa onda, ajde. Svi zapevajmo.
+
+809
+01:17:17,885 --> 01:17:21,514
+"I...nas Isus voli... "
+
+810
+01:17:21,555 --> 01:17:24,725
+Tvoja tvrdnja je malo neverovatna ?
+
+811
+01:17:24,767 --> 01:17:28,312
+Ali to je istina.
+
+812
+01:17:35,693 --> 01:17:40,489
+Dobro. Dosta je za danas, pustimo to.
+
+813
+01:17:41,866 --> 01:17:44,660
+Sve dok si ti bezbedna.
+
+814
+01:17:45,327 --> 01:17:48,830
+»ekaj. Zar neÊeö joö neöto
+da me pitaö ?
+
+815
+01:17:48,830 --> 01:17:51,166
+VeÊ je kasno. Neki drugi dan.
+
+816
+01:17:51,208 --> 01:17:52,250
+Ali imam kolaËe !
+
+817
+01:17:52,292 --> 01:17:53,793
+Ne, hvala ti.
+
+818
+01:17:53,835 --> 01:17:55,336
+Ali moraö.
+
+819
+01:18:20,276 --> 01:18:22,445
+Da li si u redu ?
+
+820
+01:18:22,486 --> 01:18:24,572
+Jesam, izvini.
+
+821
+01:18:24,613 --> 01:18:27,950
+Molim te, probaj kolaËe.
+
+822
+01:18:27,991 --> 01:18:33,747
+Naö Isuse, naö Isuse...
+
+823
+01:18:33,788 --> 01:18:36,749
+Tako nas voliö...
+
+824
+01:18:36,791 --> 01:18:40,253
+Dosta ! Koliko vam treba ?
+
+825
+01:18:40,294 --> 01:18:42,880
+To nije pitanje novca.
+
+826
+01:18:42,922 --> 01:18:44,173
+Pitanje je da li ti je
+
+827
+01:18:44,215 --> 01:18:47,885
+ova pesma proËistila srce.
+
+828
+01:18:47,926 --> 01:18:51,513
+Da li je tvoje srce proËiöÊeno ?
+
+829
+01:18:51,555 --> 01:18:53,556
+Pa, valjda je proËiöÊeno.
+
+830
+01:18:53,598 --> 01:18:55,600
+Onda joö jedna pesma.
+
+831
+01:19:00,771 --> 01:19:03,691
+Heikichi... Ostavi to.
+
+832
+01:19:03,732 --> 01:19:06,235
+Pogledaj okolo.
+
+833
+01:19:11,448 --> 01:19:13,908
+Hej, moûda je baö to.
+
+834
+01:19:38,222 --> 01:19:40,099
+Genji !
+
+835
+01:19:47,523 --> 01:19:50,317
+Ovo je bilo odliËno.
+
+836
+01:19:50,359 --> 01:19:52,611
+Jer moraö tako rano da ideö ?
+
+837
+01:19:52,652 --> 01:19:54,821
+Setio sam se,
+
+838
+01:19:54,863 --> 01:19:57,156
+moram neöto hitno da obavim.
+
+839
+01:19:57,198 --> 01:19:58,908
+Moram da se vratim u kancelariju.
+
+840
+01:19:58,950 --> 01:20:00,660
+Ne ! Mislila sam...
+
+841
+01:20:00,660 --> 01:20:04,205
+bio si tako ljubazan da doeö
+Ëak ovde.
+
+842
+01:20:04,246 --> 01:20:07,124
+PopriËajmo joö malo.
+
+843
+01:20:07,166 --> 01:20:10,002
+PriËaÊemo drugi put.
+
+844
+01:20:10,502 --> 01:20:12,712
+Ala je vruÊe...
+
+845
+01:20:13,505 --> 01:20:17,091
+u ovoj sobi je malo vruÊe.
+
+846
+01:20:18,843 --> 01:20:21,345
+Da li se...
+
+847
+01:20:21,387 --> 01:20:23,722
+ti...
+
+848
+01:20:23,764 --> 01:20:26,058
+slaûeö ?
+
+849
+01:20:31,438 --> 01:20:33,315
+Dragi !
+
+850
+01:20:33,356 --> 01:20:35,191
+»ekaj !
+
+851
+01:20:47,077 --> 01:20:48,370
+Imam ga...
+
+852
+01:20:48,829 --> 01:20:50,914
+Baö kao lopov.
+
+853
+01:20:50,956 --> 01:20:52,999
+Zadrûi komplimente.
+
+854
+01:21:04,718 --> 01:21:06,929
+Baö kao u Cirkusu.
+
+855
+01:21:08,847 --> 01:21:12,267
+U ovakvom sluËaju jedno HVALA
+ne bi bilo loöe ?
+
+856
+01:21:13,768 --> 01:21:15,228
+Hvala ti.
+
+857
+01:21:22,735 --> 01:21:24,445
+Ovo je veliko.
+
+858
+01:21:27,614 --> 01:21:29,658
+Gubite se.
+
+859
+01:21:32,285 --> 01:21:34,412
+Suviöe sam zauzet za ovo !
+
+860
+01:21:50,260 --> 01:21:52,053
+Popravljeno.
+
+861
+01:21:53,513 --> 01:21:55,056
+IzaÊiÊemo sami.
+
+862
+01:22:02,104 --> 01:22:04,273
+Dobrodoöli nazad, äefe.
+
+863
+01:22:17,327 --> 01:22:18,953
+Ti !
+
+864
+01:22:43,392 --> 01:22:47,312
+Kaûeö da si ti naredila 
+ovim lopovima
+
+865
+01:22:47,354 --> 01:22:50,357
+da ukradu sliku, Yoko?
+
+866
+01:22:50,399 --> 01:22:52,526
+Oprosti mi...
+
+867
+01:22:52,567 --> 01:22:54,069
+Zaöto ?
+
+868
+01:22:56,070 --> 01:22:58,614
+Kaûi mi razlog.
+
+869
+01:22:58,656 --> 01:23:00,908
+Mislim da slika sadrûi
+
+870
+01:23:00,950 --> 01:23:03,160
+tajnu Teslinog ureaja.
+
+871
+01:23:03,202 --> 01:23:04,411
+Tesla ?!
+
+872
+01:23:04,411 --> 01:23:10,292
+Da. K-20 me je pitao da li znam
+gde se nalazi ureaj.
+
+873
+01:23:10,334 --> 01:23:13,253
+Ali ja stvarno niöta ne znam.
+
+874
+01:23:14,087 --> 01:23:18,883
+Pomislila sam da K-20 hoÊe
+da ukrade sliku
+
+875
+01:23:18,925 --> 01:23:21,302
+zato öto sadrûi neku tajnu.
+
+876
+01:23:23,387 --> 01:23:26,432
+Zaöto mi to nisi ranije ispriËala ?
+
+877
+01:23:26,432 --> 01:23:28,600
+Nisam mogla da kaûem nikom iz
+
+878
+01:23:30,769 --> 01:23:33,730
+Moj deda mi je rekao da se ureaj
+moûe koristiti
+
+879
+01:23:33,772 --> 01:23:36,691
+kao oruûje za masovna uniötavanja.
+
+880
+01:23:36,733 --> 01:23:39,152
+Oruûje za masovno uniötavanje ?
+
+881
+01:23:39,193 --> 01:23:41,529
+äefe, sve je kao öto sam rekao !
+
+882
+01:23:41,570 --> 01:23:44,073
+Ono öto je K-20 uËinio na nauËnom
+skupu,
+
+883
+01:23:44,114 --> 01:23:46,533
+bila je samo demonstracija.
+
+884
+01:23:46,575 --> 01:23:50,287
+Pravi ureaj stvara verovatno
+mnogo veÊu snagu.
+
+885
+01:23:50,328 --> 01:23:52,414
+Kao eksplozija u Tunguski.
+
+886
+01:24:00,296 --> 01:24:04,175
+I tako, Ëuvala sam tajnu...
+
+887
+01:24:04,216 --> 01:24:06,343
+Htela sam da naem ureaj pre K-20
+
+888
+01:24:06,343 --> 01:24:08,303
+i uniötim ga.
+
+889
+01:24:11,681 --> 01:24:15,310
+Proverio sam sliku ali nisam
+niöta pronaöao.
+
+890
+01:24:15,351 --> 01:24:16,811
+Nisi ?
+
+891
+01:24:18,604 --> 01:24:21,315
+Moûda je u samoj slici.
+
+892
+01:24:21,357 --> 01:24:22,650
+UÊuti.
+
+893
+01:24:22,691 --> 01:24:24,360
+U slici ?
+
+894
+01:24:25,944 --> 01:24:28,155
+Slikana je specijalnom tehnikom.
+
+895
+01:24:32,701 --> 01:24:34,703
+Kako Êeö proveriti unutraönjost slike ?
+
+896
+01:24:37,288 --> 01:24:39,832
+Moûda kamerom sa elektromagnetnim
+talasima ?
+
+897
+01:24:40,374 --> 01:24:42,001
+Elektromagnetni talasi ?
+
+898
+01:24:42,835 --> 01:24:45,045
+Da bi se fotografisale skrivene
+slike.
+
+899
+01:24:45,045 --> 01:24:46,714
+I gde je ta kamera ?
+
+900
+01:24:48,549 --> 01:24:50,342
+Pa...
+
+901
+01:24:50,801 --> 01:24:54,220
+Prestani da okoliöeö ?
+Gde je ?
+
+902
+01:24:56,222 --> 01:24:59,350
+U Vojnoj istraûivaËkoj laboratoriji.
+
+903
+01:24:59,392 --> 01:25:01,227
+Vojna istraûivaËka laboratorija ?!
+
+904
+01:25:03,187 --> 01:25:06,148
+Kakvo je to mesto ?
+
+905
+01:25:06,190 --> 01:25:09,234
+Nalazi se u centru Vojne obaveötajne
+sluûbe. Nije lako uÊi.
+
+906
+01:25:11,528 --> 01:25:14,906
+Oh... Da li moûemo uputiti sluûbeni
+zahtev preko vas äefe,
+
+907
+01:25:14,948 --> 01:25:16,282
+ili preko Vojvotkinje ?
+
+908
+01:25:16,324 --> 01:25:17,784
+NemoguÊe !
+
+909
+01:25:17,825 --> 01:25:19,577
+Ako vojska pronae ureaj,
+
+910
+01:25:19,577 --> 01:25:23,080
+rezultati Êe biti tragiËniji nego
+da ga nae K-20.
+
+911
+01:25:23,122 --> 01:25:25,582
+Istina, ali...
+
+912
+01:25:25,624 --> 01:25:28,085
+Zaöto ne iskoristiö nas ?
+
+913
+01:25:29,586 --> 01:25:31,129
+Kako to misliö ?
+
+914
+01:25:31,171 --> 01:25:33,715
+Moûemo da se infiltriramo.
+
+915
+01:25:33,757 --> 01:25:35,467
+SaËekaj malo...
+
+916
+01:25:35,508 --> 01:25:36,634
+Idioti.
+
+917
+01:25:36,676 --> 01:25:38,636
+Zar vi mislite da radimo sa
+kriminalcima ?
+
+918
+01:25:39,762 --> 01:25:42,973
+Genji je ekspert za vojna
+postrojenja.
+
+919
+01:25:43,015 --> 01:25:44,058
+Da li si izgubio i to malo pameti
+öto imaö ?
+
+920
+01:25:44,099 --> 01:25:45,434
+Opusti se.
+
+921
+01:25:46,226 --> 01:25:47,978
+äta ûeliö ?
+
+922
+01:25:48,896 --> 01:25:50,272
+Imam jedan uslov...
+
+923
+01:25:50,939 --> 01:25:52,899
+HoÊu da se spere ljaga sa mog
+imena.
+
+924
+01:25:53,650 --> 01:25:55,527
+Ti si me uhapsio.
+
+925
+01:25:55,568 --> 01:25:57,737
+Narod Êe verovati ako kaûeö
+da sam nevin.
+
+926
+01:25:58,613 --> 01:26:01,824
+Ali ne postoji dokaz da ti
+nisi K-20.
+
+927
+01:26:01,824 --> 01:26:03,701
+Ja mogu da dokaûem njegovu
+nevinost!
+
+928
+01:26:03,742 --> 01:26:05,577
+äefe, ne dozvoli da te prevare.
+
+929
+01:26:06,161 --> 01:26:07,830
+On je sigurno K-20.
+
+930
+01:26:07,871 --> 01:26:09,539
+Ja nisam K-20 !
+
+931
+01:26:10,707 --> 01:26:14,002
+Da li bi pravi K-20 zaista bio uhvaÊen
+na ovaj naËin ?
+
+932
+01:26:14,669 --> 01:26:17,046
+Borio si se sa njim stotinu puta,
+
+933
+01:26:17,088 --> 01:26:18,297
+trebalo bi da znaö.
+
+934
+01:26:20,132 --> 01:26:21,926
+Koji je tvoj pravi razlog ?
+
+935
+01:26:22,510 --> 01:26:24,136
+Nema ga.
+
+936
+01:26:25,846 --> 01:26:29,266
+Sve öto ûelim je da se vratim u Cirkus !
+
+937
+01:26:41,444 --> 01:26:43,320
+Sve Êeö uËiniti ?
+
+938
+01:26:44,238 --> 01:26:45,698
+Da.
+
+939
+01:26:46,490 --> 01:26:48,700
+I ûivot Êeö rizikovati ?
+
+940
+01:26:50,869 --> 01:26:51,828
+Da.
+
+941
+01:27:00,461 --> 01:27:02,880
+Hej ! I ja hoÊu da pomognem.
+
+942
+01:27:03,631 --> 01:27:04,840
+Huh ?
+
+943
+01:27:07,676 --> 01:27:13,974
+Vojna IstraûivaËka Laboratorija
+
+944
+01:27:14,391 --> 01:27:16,726
+Poruka od K-20.
+
+945
+01:27:23,399 --> 01:27:23,566
+Kamera sa elektromagnetnim talasima
+Êe biti moja.
+
+946
+01:27:23,607 --> 01:27:26,777
+Kamera sa elektromagnetnim talasima
+Êe biti moja. K-20 je bezobrazno kopile.
+
+947
+01:27:26,777 --> 01:27:28,403
+K-20 je bezobrazno kopile.
+
+948
+01:27:28,445 --> 01:27:29,988
+Gde je kamera ?
+
+949
+01:27:30,030 --> 01:27:34,075
+Unutra.
+
+950
+01:27:38,746 --> 01:27:40,331
+Ovamo.
+
+951
+01:27:43,751 --> 01:27:49,006
+Nema potrebe da se äef policije i
+detektivi meöaju u ovo.
+
+952
+01:27:49,756 --> 01:27:52,175
+Greöiö. Kada se radi o K-20,
+
+953
+01:27:52,217 --> 01:27:54,552
+Kogoro Akechi je Ëovek koga
+treba zvati.
+
+954
+01:27:54,594 --> 01:27:57,055
+Bez obzira koliko se K-20 trudio
+da ue unutra,
+
+955
+01:27:57,096 --> 01:27:59,557
+neÊe proÊi obezbeenje.
+
+956
+01:28:00,224 --> 01:28:05,271
+Da li ? On ima metode za koje ti
+nisi ni svestan da postoje.
+
+957
+01:28:07,064 --> 01:28:10,359
+Oh, izgleda da tog lopova
+veoma ceniö,
+
+958
+01:28:10,400 --> 01:28:13,653
+Detektive Akechi.
+
+959
+01:28:13,653 --> 01:28:16,823
+Takav stav te moûe odvesti u nevolju.
+
+960
+01:28:16,864 --> 01:28:19,325
+Zar nije tako, Inspektore ?
+
+961
+01:28:21,160 --> 01:28:24,496
+Da. Razlog zbog kog je K-20
+pobegao
+
+962
+01:28:24,496 --> 01:28:27,708
+je njegovo veliko podcenjivanje
+od strane policije.
+
+963
+01:28:27,749 --> 01:28:30,252
+Baö kao öto njegovo ime kaûe,
+
+964
+01:28:30,293 --> 01:28:32,629
+on je Ëovek sa dvadeset razliËitih lica.
+
+965
+01:28:33,171 --> 01:28:35,965
+U stvari, on upravo sada moûe biti
+
+966
+01:28:36,007 --> 01:28:38,634
+meu nama.
+
+967
+01:28:39,343 --> 01:28:40,511
+Na primer,
+
+968
+01:28:40,511 --> 01:28:44,348
+osoba koja je upravo pokuöala
+da ometa moju istragu !
+
+969
+01:28:52,189 --> 01:28:57,235
+Samo se öalim. Ali povedi raËuna,
+sve je moguÊe.
+
+970
+01:28:58,486 --> 01:29:00,905
+äta gledaö ?
+Vrati se na svoje mesto !
+
+971
+01:29:04,033 --> 01:29:07,411
+Dakle, na öta si ponosan
+ u ovom
+
+972
+01:29:07,411 --> 01:29:08,370
+sistemu obezbeenja ?
+
+973
+01:29:09,413 --> 01:29:11,706
+Kao prvo,
+
+974
+01:29:11,748 --> 01:29:13,833
+nema poda.
+
+975
+01:29:13,875 --> 01:29:15,877
+Ne idi dalje.
+
+976
+01:29:15,919 --> 01:29:18,129
+Odavde pa napred, daske su 
+osetljive na pritisak.
+
+977
+01:29:18,171 --> 01:29:19,589
+Sada, molim te pogledaj ovo.
+
+978
+01:29:19,589 --> 01:29:23,551
+Ovaj sigurnosni ureaj je baziran
+
+979
+01:29:31,850 --> 01:29:37,313
+na poslednjoj laserskoj tehnologiji.
+
+980
+01:29:37,355 --> 01:29:38,147
+Laser ?
+
+981
+01:29:38,189 --> 01:29:39,107
+Baö tako.
+
+982
+01:29:39,107 --> 01:29:41,317
+Ako bilo öta proe ovu taËku,
+
+983
+01:29:41,359 --> 01:29:42,943
+alarm se aktivira.
+
+984
+01:29:55,955 --> 01:29:58,082
+Bez panike ! Ovo je veûba !
+
+985
+01:29:58,124 --> 01:30:00,209
+Ponavljam, ovo je veûba !
+
+986
+01:30:10,844 --> 01:30:13,013
+Ovo je veûba ! Polako .
+
+987
+01:30:14,931 --> 01:30:16,391
+Doavola, öta to radiö ?
+
+988
+01:30:16,432 --> 01:30:21,771
+Moja greöka. Samo sam hteo da
+testiram sistem.
+
+989
+01:30:21,812 --> 01:30:24,148
+Baö je neverovatan.
+
+990
+01:30:24,815 --> 01:30:26,817
+Nema öanse da K-20
+
+991
+01:30:26,859 --> 01:30:28,485
+ukrade neöto.
+
+992
+01:30:28,485 --> 01:30:30,570
+Ako bi uopöte i stigao dovde.
+
+993
+01:30:30,612 --> 01:30:35,825
+Ako bi se nekim Ëudom i
+infiltrirao ovde,
+
+994
+01:30:35,825 --> 01:30:38,703
+sa ovakvim sigurnosnim sistemom
+oseÊao bi se kao pacov u klopci.
+
+995
+01:30:39,996 --> 01:30:41,497
+OdliËno.
+
+996
+01:30:42,456 --> 01:30:45,709
+Sada znam zaöto su ova postrojenja
+najbezbednija u Japanu.
+
+997
+01:30:45,751 --> 01:30:48,420
+Kao öto si rekao,
+
+998
+01:30:48,462 --> 01:30:51,756
+nismo imali razloga da dolazimo
+ovde.
+
+999
+01:30:52,549 --> 01:30:54,092
+ZvuËi sumnjivo...
+
+1000
+01:30:54,551 --> 01:30:56,344
+Veoma sumnjivo...
+
+1001
+01:30:57,303 --> 01:31:01,140
+Otprilike, koliko vojnika imate ovde ?
+
+1002
+01:31:01,182 --> 01:31:03,517
+Ako K-20 ode odavde sa bilo Ëim,
+
+1003
+01:31:03,559 --> 01:31:05,853
+bio to kompletan gubitak Ëasti.
+
+1004
+01:31:06,395 --> 01:31:08,814
+Imam 100 vojnika i...
+
+1005
+01:31:08,855 --> 01:31:10,607
+100 ?
+
+1006
+01:31:10,649 --> 01:31:12,776
+I mitraljze.
+
+1007
+01:31:16,404 --> 01:31:19,407
+Mi-traljeze ?
+
+1008
+01:31:25,079 --> 01:31:28,790
+Neverovatno, ali ako K-20 bude
+ubijen,
+
+1009
+01:31:28,832 --> 01:31:31,251
+biÊemo u velikoj nevolji.
+
+1010
+01:31:31,293 --> 01:31:33,003
+Velikoj nevolji.
+
+1011
+01:31:33,003 --> 01:31:34,629
+TaËno, Inspektore ?
+
+1012
+01:31:34,671 --> 01:31:37,965
+Baö tako. Imamo mnogo nereöenih
+sluËajeva
+
+1013
+01:31:38,007 --> 01:31:39,300
+o kojima bi smo ispitivali K-20.
+
+1014
+01:31:39,342 --> 01:31:41,802
+Joö ima nestalih umetniËkih predmeta.
+
+1015
+01:31:41,844 --> 01:31:44,263
+Zahtevam da pazite da ga ne ubijete.
+
+1016
+01:31:44,263 --> 01:31:46,849
+DaÊu takva nareenja,
+
+1017
+01:31:46,890 --> 01:31:51,061
+ali ako moji ljudi budu izazvani
+
+1018
+01:31:52,187 --> 01:31:54,439
+pretvoriÊe se u krvoûedne ûivotinje.
+
+1019
+01:31:54,481 --> 01:31:56,566
+Pa sada, ako izae ûiv..
+
+1020
+01:31:56,608 --> 01:31:57,942
+Ne, ne, ne.
+
+1021
+01:31:57,942 --> 01:32:03,405
+Bez obzira na sve, morate K-20
+uhvatiti ûivog.
+
+1022
+01:32:03,906 --> 01:32:09,536
+Ako umre... BiÊe to,
+
+1023
+01:32:09,578 --> 01:32:12,372
+nezgodna situacija.
+
+1024
+01:32:12,414 --> 01:32:13,373
+Akechi ?
+
+1025
+01:32:13,415 --> 01:32:17,710
+On ima mnogo kriminalnih saradnika.
+
+1026
+01:32:17,752 --> 01:32:19,545
+Mislim, mnogo...
+
+1027
+01:32:19,587 --> 01:32:24,842
+Moramo ispitati K-20 i o njima.
+
+1028
+01:32:25,384 --> 01:32:29,888
+Hvatanje njega ûivog bi bio najbolji
+izlaz.
+
+1029
+01:32:33,350 --> 01:32:35,268
+Ovaj Ëovek je K-20!
+
+1030
+01:32:39,522 --> 01:32:41,774
+Maskirao se da liËi na mene.
+
+1031
+01:32:47,070 --> 01:32:49,698
+Kako je to pronicljivo sa vaöe strane.
+
+1032
+01:32:52,742 --> 01:32:53,827
+Uhapsite ga !
+
+1033
+01:32:55,036 --> 01:32:55,912
+Ouch !
+
+1034
+01:33:02,752 --> 01:33:04,545
+Pratite ga. Otiöao je pozadi.
+
+1035
+01:33:05,713 --> 01:33:07,005
+Sranje !
+
+1036
+01:33:11,885 --> 01:33:14,012
+äta, za ime Boga ?
+
+1037
+01:33:14,054 --> 01:33:16,181
+K-20 ide prema kancelarijama.
+
+1038
+01:33:16,222 --> 01:33:18,850
+Mobilizirajte sve jedinice !
+Ne dozvolite da pobegne !
+
+1039
+01:33:38,076 --> 01:33:39,577
+Niöta ne vidim !
+
+1040
+01:33:46,792 --> 01:33:48,252
+Smanjite malo doûivljaj !
+
+1041
+01:33:48,544 --> 01:33:51,129
+Ja ovde rizikujem svoj ûivot, 
+za stvarno !
+
+1042
+01:33:51,171 --> 01:33:53,798
+Moraö da odeö odatle.
+
+1043
+01:33:53,840 --> 01:33:56,426
+Ne mogu. Oni znaju svoj posao !
+
+1044
+01:34:17,945 --> 01:34:19,655
+ZakljuËano je !
+
+1045
+01:34:19,697 --> 01:34:21,407
+Idi okolo !
+
+1046
+01:34:22,366 --> 01:34:24,410
+Princezo, da li me Ëujeö ?
+
+1047
+01:34:26,203 --> 01:34:28,372
+Nema öanse. éiv si !!!
+
+1048
+01:34:28,413 --> 01:34:30,290
+Da li si zaboravila ko sam ja ?
+
+1049
+01:34:30,332 --> 01:34:31,917
+Velika cirkuska zvezda.
+
+1050
+01:34:32,834 --> 01:34:34,294
+Endo...
+
+1051
+01:34:35,336 --> 01:34:36,379
+Heikichi !
+
+1052
+01:34:37,005 --> 01:34:38,423
+Akechi, plan B !
+
+1053
+01:34:39,507 --> 01:34:41,634
+On je samo jedan. Vi, idioti.
+
+1054
+01:34:42,676 --> 01:34:43,969
+Kobayashi...
+
+1055
+01:34:47,973 --> 01:34:49,641
+Stani !
+
+1056
+01:34:51,685 --> 01:34:52,936
+Ovo je bilo blizu.
+
+1057
+01:34:53,520 --> 01:34:55,355
+Stoj !
+
+1058
+01:35:00,026 --> 01:35:02,153
+Dogodila se eksplozija 
+u laboratoriji br.2
+
+1059
+01:35:02,194 --> 01:35:05,197
+Neprijatelj moûda ima sauËesnike !
+Vaöa nareenja ?
+
+1060
+01:35:05,239 --> 01:35:06,865
+NastaviÊemo da posmatramo odavde.
+
+1061
+01:35:06,907 --> 01:35:08,659
+Treba da odeö na prvim linijama.
+
+1062
+01:35:08,700 --> 01:35:10,619
+Da, slaûem se. Izvini.
+
+1063
+01:35:15,707 --> 01:35:17,458
+Da li misliö da Endo moûe da pobegne ?
+
+1064
+01:35:17,458 --> 01:35:19,168
+Ne brini, on je genije,
+
+1065
+01:35:19,919 --> 01:35:22,338
+Ëak i ako ne uspe.
+
+1066
+01:35:25,132 --> 01:35:28,594
+VeÊ je iznenadio pravog K-20.
+
+1067
+01:35:30,178 --> 01:35:31,513
+Jeste ?
+
+1068
+01:35:33,265 --> 01:35:34,224
+Nemamo vremena.
+
+1069
+01:35:35,058 --> 01:35:38,519
+Fotografiöi ovo, pre nego se vrati 
+komandir.
+
+1070
+01:35:41,022 --> 01:35:44,149
+Gde si ? Pokaûi se !
+
+1071
+01:35:45,442 --> 01:35:48,320
+Ne pokuöavaj niöta glupo, K-20 !
+
+1072
+01:35:48,570 --> 01:35:51,281
+Rekao sam ti, ja nisam K-20.
+
+1073
+01:35:52,616 --> 01:35:54,701
+Ups, sad jesam K-20.
+
+1074
+01:36:00,540 --> 01:36:02,833
+K-20 je primeÊen.
+
+1075
+01:36:06,795 --> 01:36:08,338
+Heikichi !
+
+1076
+01:36:44,663 --> 01:36:46,290
+Pucajte !
+
+1077
+01:36:48,959 --> 01:36:52,128
+Heikichi. Smeh !
+
+1078
+01:37:05,015 --> 01:37:08,352
+Sii ! To nije fer !
+
+1079
+01:37:08,393 --> 01:37:09,853
+Pucajte ! Pucajte !
+
+1080
+01:37:15,859 --> 01:37:17,360
+Uspeli smo !
+
+1081
+01:37:17,360 --> 01:37:19,570
+Stvarno si cirkuska zvezda.
+
+1082
+01:37:19,612 --> 01:37:21,030
+Ovo je bilo neverovatno !
+
+1083
+01:37:21,072 --> 01:37:24,909
+Ti stvarno znaö da letiö.
+
+1084
+01:37:25,743 --> 01:37:29,162
+Ja sam samo vaspitana devojka
+iz dobre porodice !
+
+1085
+01:37:29,204 --> 01:37:30,539
+Ti si fantastiËna !
+
+1086
+01:37:35,210 --> 01:37:36,753
+Neverovatno !
+
+1087
+01:37:36,794 --> 01:37:38,046
+Sigurno nisi povreen ?
+
+1088
+01:37:38,087 --> 01:37:39,755
+Dobro sam. Bilo je zabavno.
+
+1089
+01:37:39,755 --> 01:37:41,674
+I ja sam se zabavljala !
+
+1090
+01:37:49,097 --> 01:37:51,683
+Odradeo si neverovatno bekstvo, Endo.
+
+1091
+01:37:53,685 --> 01:37:55,395
+Da li je kamera funkcionisala ?
+
+1092
+01:37:56,729 --> 01:37:58,564
+Genji upravo razvija sliku.
+
+1093
+01:38:00,775 --> 01:38:01,567
+Gde je Kobayashi?
+
+1094
+01:38:02,485 --> 01:38:06,238
+On je sa Inspektorom Namikoshijem,
+sreuje policijske izveötaje.
+
+1095
+01:38:07,114 --> 01:38:09,908
+Prvo, zdravica.
+
+1096
+01:38:11,535 --> 01:38:13,078
+Da li je moje ime sada Ëisto ?
+
+1097
+01:38:14,579 --> 01:38:16,789
+Dok se pravi K-20 ne uhapsi
+
+1098
+01:38:16,831 --> 01:38:19,000
+stvari neÊe biti do kraja reöene...
+
+1099
+01:38:21,836 --> 01:38:23,754
+Ali ja ti verujem.
+
+1100
+01:38:23,796 --> 01:38:26,757
+Rizikovao si svoj ûivot da bi se ovaj
+posao dobro odradeo..
+
+1101
+01:38:27,508 --> 01:38:28,800
+Stvarno ?
+
+1102
+01:38:29,426 --> 01:38:30,844
+Da, stvarno.
+
+1103
+01:38:32,971 --> 01:38:36,599
+LiËno Êu objaviti tvoju nevinost.
+
+1104
+01:38:37,350 --> 01:38:39,352
+»estitamo, Heikichi.
+
+1105
+01:38:40,144 --> 01:38:42,646
+Mogu se vratiti u Cirkus sa Shinsukeom.
+
+1106
+01:38:47,442 --> 01:38:49,611
+Za laûno optuûenog heroja.
+
+1107
+01:38:50,362 --> 01:38:53,114
+Za tvoju hrabru potragu za istinom.
+
+1108
+01:38:53,948 --> 01:38:55,658
+Pravda za sve...
+
+1109
+01:38:56,534 --> 01:38:57,827
+éiveli.
+
+1110
+01:39:16,844 --> 01:39:20,514
+Nisam znao da moûe toliko da popije...
+
+1111
+01:39:24,059 --> 01:39:25,853
+Kada sam je ugledao prvi put...
+
+1112
+01:39:28,313 --> 01:39:30,649
+liËila je na golubicu.
+
+1113
+01:39:34,694 --> 01:39:39,615
+Da li znaö da je oduvek sanjala
+da leti po nebu...
+
+1114
+01:39:46,497 --> 01:39:53,211
+Sa raöirenim krilima...
+
+1115
+01:39:56,214 --> 01:39:57,757
+Yeah...
+
+1116
+01:40:17,817 --> 01:40:20,861
+Misleo sam da si jedan jadan kurvin sin...
+
+1117
+01:40:21,862 --> 01:40:23,364
+ali ti si dobar Ëovek.
+
+1118
+01:40:23,989 --> 01:40:28,619
+A ja sam misleo da si jedan
+glupi seljak,
+
+1119
+01:40:28,660 --> 01:40:30,954
+ali nisam bio u pravu.
+
+1120
+01:40:36,501 --> 01:40:38,503
+Gotovo je.
+
+1121
+01:40:41,297 --> 01:40:42,465
+äta je to ?
+
+1122
+01:40:42,506 --> 01:40:44,341
+Pa,
+
+1123
+01:40:44,383 --> 01:40:46,427
+to je zagonetka unutar misterije.
+
+1124
+01:40:48,971 --> 01:40:51,223
+Znam öta je to !
+
+1125
+01:40:51,264 --> 01:40:52,891
+Izvini.
+
+1126
+01:40:52,933 --> 01:40:54,976
+Ima isti obrazac.
+
+1127
+01:40:57,979 --> 01:40:59,605
+äta to znaËi ?
+
+1128
+01:41:00,064 --> 01:41:01,607
+Mogu li da vidim.
+
+1129
+01:41:29,966 --> 01:41:31,551
+äta bi ovo trebalo da bude ?
+
+1130
+01:41:44,396 --> 01:41:48,150
+To je obrazac na podu Hashibine zgrade.
+
+1131
+01:41:49,151 --> 01:41:52,362
+U pravu si.
+Pod u velikoj sali.
+
+1132
+01:41:53,738 --> 01:41:55,115
+Ovo pismo.
+
+1133
+01:41:59,911 --> 01:42:01,871
+Kako je dospelo ovde ?
+
+1134
+01:42:09,586 --> 01:42:10,921
+Teslin ureaj je moj.
+
+1135
+01:42:10,962 --> 01:42:12,214
+Uljez Êe umreti !
+
+1136
+01:42:15,467 --> 01:42:16,759
+Heikichi.
+
+1137
+01:42:21,597 --> 01:42:23,099
+Za svaki sluËaj.
+
+1138
+01:42:28,061 --> 01:42:29,062
+Pazi !
+
+1139
+01:42:34,317 --> 01:42:38,446
+Akechi !
+
+1140
+01:42:38,488 --> 01:42:40,906
+Molim vas, zovite doktora !
+
+1141
+01:42:42,742 --> 01:42:45,119
+Sa druge strane prozora...
+
+1142
+01:42:46,620 --> 01:42:48,372
+K-20...
+
+1143
+01:42:51,291 --> 01:42:52,626
+Akechi !
+
+1144
+01:42:52,834 --> 01:42:56,546
+Akechi !
+
+1145
+01:42:58,339 --> 01:43:00,383
+Poûuri, idi.
+
+1146
+01:43:01,384 --> 01:43:05,512
+Uniöti ureaj pre nego padne
+u ruke K-20.
+
+1147
+01:43:05,512 --> 01:43:07,556
+Doktor stiûe.
+
+1148
+01:43:07,931 --> 01:43:10,517
+OstaÊu ovde.
+
+1149
+01:43:18,357 --> 01:43:22,319
+ObeÊavam, uniötiÊu ga !
+
+1150
+01:44:03,023 --> 01:44:04,525
+Ovde.
+
+1151
+01:44:21,123 --> 01:44:23,834
+Ovo je veoma lukavo uraeno.
+
+1152
+01:45:24,557 --> 01:45:25,891
+Neka sam proklet.
+
+1153
+01:46:09,681 --> 01:46:13,935
+Samo Hashiba Industrija je mogla
+da izgradi neöto ovakvo .
+
+1154
+01:46:13,935 --> 01:46:16,563
+Masivno je...
+
+1155
+01:46:17,522 --> 01:46:18,523
+Genji.
+
+1156
+01:46:23,611 --> 01:46:24,737
+Kako radi ?
+
+1157
+01:46:29,157 --> 01:46:31,409
+Moraö da uneseö kordinate.
+
+1158
+01:46:33,495 --> 01:46:35,622
+Pozicija zgrade je nula.
+
+1159
+01:46:39,458 --> 01:46:41,085
+Evo ti kljuË za aktiviranje.
+
+1160
+01:47:19,537 --> 01:47:20,830
+Da li moûemo da ga uniötimo ?
+
+1161
+01:47:20,871 --> 01:47:22,248
+Moûda...
+
+1162
+01:47:22,915 --> 01:47:25,209
+Ali kakav gubitak !
+
+1163
+01:47:25,751 --> 01:47:26,960
+Nisi valjda ozbiljan.
+
+1164
+01:47:27,711 --> 01:47:30,589
+To je neverovatna maöinerija.
+
+1165
+01:47:31,548 --> 01:47:33,049
+Mogli bi ceo Nogami da snabdevamo 
+strujom.
+
+1166
+01:47:35,051 --> 01:47:36,511
+Ceo Nogami ?
+
+1167
+01:47:36,553 --> 01:47:39,096
+Da. äta misliö ?
+
+1168
+01:47:42,725 --> 01:47:44,393
+Da li da uniötimo ureaj ?
+
+1169
+01:47:48,730 --> 01:47:53,234
+Shinsuke i deca, viöe nikada ne bi
+osetila hladnoÊu.
+
+1170
+01:47:53,860 --> 01:47:55,195
+Ne...
+
+1171
+01:47:56,487 --> 01:47:57,530
+Uniötimo ga.
+
+1172
+01:47:58,281 --> 01:47:59,949
+To je Princezina ûelja.
+
+1173
+01:48:07,706 --> 01:48:08,749
+U redu.
+
+1174
+01:48:19,967 --> 01:48:21,052
+Genji !
+
+1175
+01:48:42,279 --> 01:48:44,907
+Hajde ! Probaj da ga uzmeö od mene.
+
+1176
+01:51:56,374 --> 01:51:57,709
+Akechi ?
+
+1177
+01:51:58,543 --> 01:52:01,504
+Tako je, Heikichi Endo.
+
+1178
+01:52:03,172 --> 01:52:05,466
+Kako to da si ovde ?
+
+1179
+01:52:05,507 --> 01:52:08,510
+Misleo sam da si primio metak
+umesto mene, malopre.
+
+1180
+01:52:09,469 --> 01:52:11,596
+Izgledalo je baö realno, zar ne ?
+
+1181
+01:52:12,555 --> 01:52:15,016
+Imao sam malu zaötitu ispod odeÊe.
+
+1182
+01:52:16,267 --> 01:52:17,852
+äta ti priËaö ?
+
+1183
+01:52:18,728 --> 01:52:20,980
+Joö uvek ne shvataö ?
+
+1184
+01:52:21,772 --> 01:52:23,691
+Ja sam K-20.
+
+1185
+01:52:25,275 --> 01:52:27,277
+Ja sam Detektiv
+
+1186
+01:52:27,319 --> 01:52:30,989
+Kogoro Akechi i K-20...
+
+1187
+01:52:39,747 --> 01:52:42,458
+Kada je K-20 objavljivao svoje mete,
+
+1188
+01:52:42,500 --> 01:52:46,211
+Detektivu Akechiju je bilo poveravana
+njihova zaötita .
+
+1189
+01:52:46,253 --> 01:52:50,465
+To mi je omoguÊavalo direktan 
+pristup vrednim objektima,
+
+1190
+01:52:50,465 --> 01:52:52,717
+koji su bili strogo Ëuvani.
+
+1191
+01:52:53,468 --> 01:52:56,763
+Dok su sve oËi bile uprte u K-20,
+
+1192
+01:52:56,804 --> 01:53:00,224
+ja sam krao objekte i zamenjivao ih
+kopijama.
+
+1193
+01:53:01,809 --> 01:53:05,312
+Trik koji sam izveo sa tobom
+obiËno radim sam.
+
+1194
+01:53:06,438 --> 01:53:08,774
+I planiranje i egzekuciju.
+
+1195
+01:53:08,815 --> 01:53:11,401
+Laköe je tako ukrasti predmete.
+
+1196
+01:53:13,236 --> 01:53:16,948
+Ti si K-20 ? Svo ovo vreme ?
+
+1197
+01:53:18,658 --> 01:53:20,284
+Od poËetka ?
+
+1198
+01:53:23,496 --> 01:53:25,789
+Ali K-20 koga sam ja sreo je bio
+sasvim drugi Ëovek !
+
+1199
+01:53:26,248 --> 01:53:28,709
+Volim da koristim...
+
+1200
+01:53:30,460 --> 01:53:31,962
+ovo lice.
+
+1201
+01:53:43,472 --> 01:53:45,265
+Ali, cirkuski trikovi...
+
+1202
+01:53:45,265 --> 01:53:47,017
+Ti si iz viöe klase...
+
+1203
+01:53:49,436 --> 01:53:52,063
+Nekada sam bio jedan od vas.
+
+1204
+01:53:53,773 --> 01:53:56,109
+Kupio sam moj socijalni status.
+
+1205
+01:53:56,943 --> 01:54:01,906
+Problem je bio u tome öto su mi 
+sigurnosne sluûbe bile sve bliûe.
+
+1206
+01:54:04,158 --> 01:54:06,743
+Nisam mogao da Ëekam moje venËanje.
+
+1207
+01:54:07,911 --> 01:54:09,705
+Pa si mi smestio ?
+
+1208
+01:54:10,622 --> 01:54:12,874
+Optuûivöi me da sam K-20
+
+1209
+01:54:13,375 --> 01:54:15,043
+mogao si da uhapsiö samoga sebe.
+
+1210
+01:54:15,084 --> 01:54:16,502
+TaËno.
+
+1211
+01:54:17,420 --> 01:54:19,672
+Zaista se divim tvom talentu.
+
+1212
+01:54:21,173 --> 01:54:24,635
+A öta sa Yoko ?
+
+1213
+01:54:26,136 --> 01:54:27,346
+Yoko ?
+
+1214
+01:54:29,056 --> 01:54:30,974
+Ona mi viöe nije potrebna.
+
+1215
+01:54:32,601 --> 01:54:33,935
+–ubre !
+
+1216
+01:54:40,399 --> 01:54:42,401
+Pridruûi mi se, Heikichi.
+
+1217
+01:54:43,277 --> 01:54:44,778
+Ti si lud...
+
+1218
+01:54:44,820 --> 01:54:46,822
+Ako iskombinujemo naöe snage,
+
+1219
+01:54:46,864 --> 01:54:49,991
+zajedno moûemo stvoriti novi svet.
+
+1220
+01:54:50,992 --> 01:54:52,827
+Novi svet ?
+
+1221
+01:54:52,869 --> 01:54:56,831
+Da. Novi svet. Svet u kome mogu
+da preûive snaûni ljudi
+
+1222
+01:54:56,873 --> 01:54:58,458
+kao öto smo ti i ja.
+
+1223
+01:54:58,458 --> 01:55:01,127
+Bez mesta za bezvrednu viöu klasu
+
+1224
+01:55:01,127 --> 01:55:02,711
+ili smrdljive seljake.
+
+1225
+01:55:05,673 --> 01:55:09,176
+Moûeö da budeö moja desna ruka.
+
+1226
+01:55:14,305 --> 01:55:16,015
+Daj mi kljuË.
+
+1227
+01:55:19,393 --> 01:55:22,688
+äta nameravaö da uradiö ?
+
+1228
+01:55:23,314 --> 01:55:26,733
+Veliko ËiöÊenje zahteva
+veliku razornu moÊ.
+
+1229
+01:55:28,151 --> 01:55:32,030
+ElektriËne centrale, naftne rafinerije,
+sve Êe biti uniöteno.
+
+1230
+01:55:33,073 --> 01:55:34,574
+Kontrola energije
+
+1231
+01:55:34,616 --> 01:55:36,075
+daÊe nam svet na dlanu !
+
+1232
+01:55:40,371 --> 01:55:42,706
+Ne razlikujeö se od trulog plemstva.
+
+1233
+01:55:44,124 --> 01:55:48,545
+éeliö da ih uniötiö samo da bi
+postao kralj.
+
+1234
+01:55:50,714 --> 01:55:52,882
+Nije mi potrebna takva moÊ...
+
+1235
+01:55:54,968 --> 01:55:57,178
+da bih ispunio svoje ûelje.
+
+1236
+01:56:02,516 --> 01:56:04,727
+NeÊeö mi se pridruûiti ?
+
+1237
+01:56:05,644 --> 01:56:10,357
+Ne. Mi smo na totalno razliËitim
+putevima.
+
+1238
+01:56:17,405 --> 01:56:18,781
+ObeÊao sam...
+
+1239
+01:56:20,366 --> 01:56:21,992
+da Êu uniötiti ureaj.
+
+1240
+01:56:28,290 --> 01:56:29,875
+To je velika öteta.
+
+1241
+01:56:30,709 --> 01:56:33,086
+Veoma velika öteta, Heikichi Endo.
+
+1242
+01:56:35,130 --> 01:56:36,798
+Poöto dolazimo sa istog mesta,
+
+1243
+01:56:36,839 --> 01:56:38,758
+misleo sam da Êeö me razumeti.
+
+1244
+01:56:51,811 --> 01:56:56,482
+KoriöÊenje ove stvari nije u skladu
+sa mojom reputacijom.
+
+1245
+01:57:00,570 --> 01:57:03,364
+Akechi... stani.
+
+1246
+01:57:06,742 --> 01:57:09,745
+éanjemo ono öto smo posejali.
+Zbogom !
+
+1247
+01:59:53,937 --> 01:59:58,316
+Dok se Heikichi zabavljao sa tobom,
+
+1248
+01:59:58,357 --> 02:00:02,653
+uradeo sam mala podeöavanja.
+
+1249
+02:00:12,078 --> 02:00:15,623
+Pa ? Izgledalo je baö realno, a ?
+
+1250
+02:00:16,416 --> 02:00:18,334
+A ?!
+
+1251
+02:00:20,503 --> 02:00:22,129
+A, ovo ?
+
+1252
+02:00:32,555 --> 02:00:35,934
+Laûna krv. Piötolj je iz Cirkusa.
+
+1253
+02:00:35,975 --> 02:00:39,103
+Bolje iöta nego niöta.
+
+1254
+02:00:40,730 --> 02:00:43,858
+Za svaki sluËaj.
+
+1255
+02:00:44,775 --> 02:00:46,402
+Jeste....
+
+1256
+02:00:49,321 --> 02:00:51,573
+–ubrad ! äta je ovo ?
+
+1257
+02:00:51,615 --> 02:00:55,285
+Celo vreme ste znali moj indentitet ?
+
+1258
+02:00:55,326 --> 02:00:58,996
+Ne, nismo imali pojima ko je K-20.
+
+1259
+02:00:59,539 --> 02:01:04,752
+U stvari, mi uopöte nismo sumnjali
+na tebe.
+
+1260
+02:01:05,627 --> 02:01:07,671
+Bila je to Yoko.
+
+1261
+02:01:09,673 --> 02:01:11,758
+Yoko ?
+
+1262
+02:01:11,800 --> 02:01:16,054
+Kada se K-20 maskirao kao krojaË...
+
+1263
+02:01:16,888 --> 02:01:19,891
+ruke su mu izgledale veoma
+poznato.
+
+1264
+02:01:32,152 --> 02:01:35,989
+Gotovo je, Akechi. Izgubio si.
+
+1265
+02:01:54,089 --> 02:01:56,549
+Heikichi, eksplodiraÊe !
+
+1266
+02:02:06,350 --> 02:02:08,352
+Sranje !
+
+1267
+02:02:11,062 --> 02:02:14,232
+Akechi, odustani !
+
+1268
+02:02:17,819 --> 02:02:19,362
+Izlazi !
+
+1269
+02:02:28,787 --> 02:02:30,997
+Heikichi Endo...
+
+1270
+02:02:35,335 --> 02:02:38,046
+Ja joö nisam izgubio.
+
+1271
+02:02:39,797 --> 02:02:42,049
+Zar ne shvataö ?
+
+1272
+02:02:42,049 --> 02:02:45,094
+Niko drugi ne moûe da spere ljagu
+sa tvog imena.
+
+1273
+02:02:45,135 --> 02:02:50,098
+MoraÊeö ceo ûivot da ûiviö
+kao K-20!
+
+1274
+02:02:53,101 --> 02:02:55,562
+Neka bude tako.
+
+1275
+02:02:56,938 --> 02:03:00,483
+éiveÊu moj ûivot kao novi K-20 ?
+
+1276
+02:03:35,014 --> 02:03:36,933
+To je odliËno.
+
+1277
+02:03:54,115 --> 02:03:57,535
+Heikichi !
+
+1278
+02:04:28,438 --> 02:04:32,192
+Idemo gore !
+
+1279
+02:05:20,987 --> 02:05:25,949
+Izvinjavam se öto kasnim.
+Bila sam drogirana...
+
+1280
+02:05:28,243 --> 02:05:30,745
+Hvala Bogu da si dobro...
+
+1281
+02:05:31,955 --> 02:05:34,290
+Tako sam sreÊan.
+
+1282
+02:05:47,469 --> 02:05:51,473
+Izvini. Izvini.
+
+1283
+02:05:51,515 --> 02:05:55,810
+To baö i nisu pravi maniri 
+prema jednoj Princezi.
+
+1284
+02:05:55,852 --> 02:05:58,771
+Ne budi blesav.
+
+1285
+02:06:03,192 --> 02:06:08,488
+Heikichi, neÊeö moÊi da se vratiö
+u Cirkus.
+
+1286
+02:06:11,032 --> 02:06:13,493
+U redu je.
+
+1287
+02:06:14,369 --> 02:06:19,749
+NastaviÊu sa predstavama 
+na moj naËin.
+
+1288
+02:06:19,790 --> 02:06:23,002
+Ne u malom öatoru,
+
+1289
+02:06:24,253 --> 02:06:26,046
+veÊ tamo.
+
+1290
+02:06:27,881 --> 02:06:30,842
+To je moja nova pozornica.
+
+1291
+02:06:37,473 --> 02:06:41,977
+Povedi me sa sobom, Heikichi.
+
+1292
+02:06:53,905 --> 02:06:58,618
+Svi mi imamo svoje puteve.
+
+1293
+02:06:59,327 --> 02:07:02,204
+Tvoj put vodi u svetlost.
+
+1294
+02:07:02,246 --> 02:07:05,082
+Moj u tamu noÊi.
+
+1295
+02:07:14,299 --> 02:07:16,384
+Ne budi tuûna.
+
+1296
+02:07:17,135 --> 02:07:21,430
+Uvek Êu paziti na tebe.
+
+1297
+02:07:30,439 --> 02:07:32,440
+Osmeh.
+
+1298
+02:08:33,204 --> 02:08:36,374
+Stigle su stvari od velikog brata 
+Heikichija !
+
+1299
+02:08:42,755 --> 02:08:45,007
+Doite i uzmite !
+
+1300
+02:08:45,049 --> 02:08:47,217
+Izvoli !
+
+1301
+02:09:05,234 --> 02:09:07,736
+Na Ëemu radiö ?
+
+1302
+02:09:08,111 --> 02:09:13,241
+To je za Heikichija.
+Pokuöavam da ga uËinim laköim.
+
+1303
+02:09:51,193 --> 02:09:52,902
+K-20 najavljuje
+
+1304
+02:09:52,944 --> 02:09:56,239
+joö jedan zloËin, doavola !
+
+1305
+02:09:58,241 --> 02:09:59,700
+Inspektore, da li je obezbeenje
+na mestu ?
+
+1306
+02:09:59,742 --> 02:10:01,327
+Ni mrav se ovde
+
+1307
+02:10:01,369 --> 02:10:03,037
+ne moûe provuÊi.
+
+1308
+02:10:03,078 --> 02:10:05,205
+Uhvatimo danas K-20.
+
+1309
+02:10:05,247 --> 02:10:07,332
+Moramo osvetiti Akechija.
+
+1310
+02:10:07,374 --> 02:10:09,126
+Apsolutno !
+
+1311
+02:10:19,969 --> 02:10:23,013
+Da li je vaöa potpuna promena
+poslovne politike naiöla na
+
+1312
+02:10:23,055 --> 02:10:25,224
+veliki otpor kod ostalih kompanija ?
+
+1313
+02:10:25,265 --> 02:10:28,644
+Da, naravno. Bilo je mnogo
+nezadovoljstva.
+
+1314
+02:10:28,685 --> 02:10:32,022
+Ali shvatila sam da su monopoli
+besmisleni.
+
+1315
+02:10:32,063 --> 02:10:36,150
+Kao pojedinac i kao kompanija,
+
+1316
+02:10:36,192 --> 02:10:40,655
+imamo odgovornost da neöto i damo
+druötvu.
+.
+
+1317
+02:10:40,905 --> 02:10:46,243
+I nisam usamljena u tome...
+
+1318
+02:10:46,285 --> 02:10:51,706
+Imam jaku podröku.
+
+1319
+02:11:13,560 --> 02:11:18,022
+A sada, neka Cirkus poËne.
+
+1320
+02:11:19,106 --> 02:11:21,817
+Njegovo ime je Heikichi Endo,
+
+1321
+02:11:21,859 --> 02:11:24,486
+ali poznatiji je kao...
+
+1322
+02:11:27,486 --> 02:11:31,486
+Preuzeto sa www.titlovi.com
+
+1323
+02:11:32,305 --> 02:12:32,941
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/9spux
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

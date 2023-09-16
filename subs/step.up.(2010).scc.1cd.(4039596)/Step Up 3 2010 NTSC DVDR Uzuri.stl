@@ -1,0 +1,751 @@
+//Font select and font size
+$FontName       = Arial
+$FontSize       = 33
+
+//Character attributes (global)
+$Bold           = TRUE
+$UnderLined     = FALSE
+$Italic         = FALSE
+
+//Position Control
+$HorzAlign      = Center
+$VertAlign      = Bottom
+$XOffset        = 0
+$YOffset        = -12
+
+//Contrast Control
+$TextContrast           = 15
+$Outline1Contrast       = 8
+$Outline2Contrast       = 15
+$BackgroundContrast     = 0
+
+//Effects Control
+$ForceDisplay   = FALSE
+$FadeIn         = 0
+$FadeOut        = 0
+
+//Other Controls
+$TapeOffset          = FALSE
+//$SetFilePathToken  = <<:>>
+
+//Colors
+$ColorIndex1    = 0
+$ColorIndex2    = 1
+$ColorIndex3    = 8
+$ColorIndex4    = 3
+
+//Subtitles
+00:00:39:20,00:00:41:10,Hej,|ja sam Luk.
+00:00:41:15,00:00:42:14,Ovo je moj film.
+00:00:42:14,00:00:43:17,Da vas pitam nekoliko pitanja...
+00:00:44:14,00:00:45:16,ZAŠTO TI PLEŠEŠ?
+00:00:45:16,00:00:48:08,Zato što je kao disanje...|kao hodanje...za mene
+00:00:48:13,00:00:50:15,Ne pretvaram se..|Kada plešem...ne pretvaram se
+00:00:50:15,00:00:53:19,Ja sam više "ja" kada plešem,|nego u neko drugo doba dana
+00:00:53:19,00:00:56:24,Plešem da postanem...|neko drugi
+00:00:56:24,00:00:59:17,Postoje toliko stvari na ovom svetu|koje žele da vas slome,
+00:01:00:05,00:01:02:10,ali kada plešete, onda ste slobodni.
+00:01:02:00,00:01:06:08,Poèeli smo da plešemo u sedmoj godini,|u našoj kuæi, u dnevnoj sobi.
+00:01:06:17,00:01:09:12,Samo plesanje, plesanje i|kopiranje Majkl Džeksona.
+00:01:09:12,00:01:12:07,I ja sam kao,|slušajuæi muziku u prodavnici
+00:01:12:07,00:01:16:16,ja, ...kao, plešem, a neki decko,|kao "Obuzdaj se, smiri se!"
+00:01:16:16,00:01:19:10,a ja kao... "ne mogu da stanem,|moram to da radim, moram"
+00:01:19:10,00:01:23:20,Nakon što svi odu na spavanje,|otvarao sam garažu i vježbao.
+00:01:23:20,00:01:26:23,To je nešto što prilièno dobro|znam i nikad ne bih odustao
+00:01:27:06,00:01:30:04,jer sam uložio dosta truda|i vremena za tako nesto.
+00:01:30:04,00:01:32:15,To nije samo skakanje.|Ples ima vokabular.
+00:01:32:15,00:01:35:04,Ja sam iz Argentine.|Ja sam sa sjevara Ugande.
+00:01:35:04,00:01:36:21,Miami,  Florida.|Divni grad Los Angeles.
+00:01:36:21,00:01:38:20,Mnogo je bandi i nasilja.
+00:01:38:20,00:01:40:06,Ja bih tamo ostala cio život.
+00:01:40:06,00:01:42:23,Moje selo je napadnuto!|Roditelji me nisu vise željeli u blizini.
+00:01:42:23,00:01:45:02,Ona me, u stvari...izbacila iz kuæe.|Morala sam da odem.
+00:01:45:02,00:01:47:15,Plesanje.|Plesanje me definitivno spasilo.
+00:01:47:22,00:01:50:22,Da nije plesa,|ja ne znam šta bih sada radio.
+00:01:50:22,00:01:54:18,Nisam imao nista. Nisam imao novca.|Živio sam sa $15 sedmièno, u Njujorku.
+00:01:54:18,00:01:57:18,Ples nas je spojio.|Sa svih strana svijeta, ..i ovdje smo.
+00:01:58:03,00:01:59:16,Istina je, ..da je svako plesaè.
+00:01:59:16,00:02:02:00,Svi mi imamo otkucaj srca.
+00:02:03:15,00:02:06:15,Kako vi to kažete "Kako...
+00:02:06:15,00:02:08:16,Yeah, kako to zovete?|Roðeni Boombox?
+00:02:08:16,00:02:10:12,Da!|Boombox!
+00:02:10:12,00:02:12:09,Ovo je prilièno dobro.|Roðeni boombox.
+00:02:12:09,00:02:14:19,Zvuèi glupo, ali osjeæam se tako.
+00:02:14:19,00:02:20:15,I ako dovoljno slušamo srce, shvatiæemo da...|smo možda svi prikljuèeni na istu pjesmu.
+00:02:23:10,00:02:27:05,DOKAŽI SE 3D
+00:02:35:02,00:02:37:17,Novajlije iz Njujorka,|dobrodošli u Washington Square Park
+00:02:47:20,00:02:50:04,Mama, tata,|možete da idete.
+00:02:50:04,00:02:53:22,Ne, odvešæemo vas na veèeru, tebe i Camille.|Obeæali smo to njenim roditeljima.
+00:02:54:06,00:02:57:09,Ne, mi smo veæ sve uplatili.|Dobro smo, stvarno Mrs. A.
+00:02:57:15,00:02:59:09,Treba da idemo.|Ok, posljednja fotografija.
+00:02:59:16,00:03:03:17,Ok, posljednja.|Približite se, vi ste najbolji prijatelji.
+00:03:03:17,00:03:06:13,Blizu smo!|Još se približite. Zagrli je.
+00:03:06:13,00:03:10:10,Dobro, spremni?|Kazite: "Mama je lijepa."
+00:03:10:10,00:03:11:08,Mama je lijepa.|Mama je lijepa.
+00:03:11:17,00:03:14:13,Hvala.|Spremni? I oh...
+00:03:17:17,00:03:22:01,Da me moj tata može sada vidjeti, pozdravljajuæi|se sa svojim sinom, buduæim inžinjerom.
+00:03:22:01,00:03:24:16,Tako sam sreæan što si prestao sa tim|plesom, da ti ne mogu opisati.
+00:03:24:16,00:03:27:06,Ali si rekao.|U redu, iznenadi me.
+00:03:27:12,00:03:30:11,Ok, to je to.|Ok, mogu dobiti potapšaj po leðima?
+00:03:30:11,00:03:35:05,Hajde! Iznenadiæu te ako|mogu  otiæi da upoznam okolinu.
+00:03:35:11,00:03:37:12,Nee, ti si moja beba!|Trebali ste veæ otiæi.
+00:03:38:03,00:03:40:06,Ok! Zvaæu te kada doðem u studenski dom.
+00:03:40:16,00:03:42:01,kada naruèimo.
+00:03:42:01,00:03:45:02,Svaki dan, u redu, važno je.|Sada si èovjek.
+00:03:45:14,00:03:47:03,Hajde. Upašæemo u saobraæajnu gužvu.
+00:03:47:17,00:03:50:15,Vau, oni su stvarno...|Oni su posramljujuæi.
+00:03:50:22,00:03:52:13,Samo da kažu "volim te"...
+00:03:54:22,00:03:59:17,Ej Cam, pogledaj ih!|To je ogranièeno izdanje Nike-a.
+00:03:59:23,00:04:04:22,Oh. Znam taj pogled. Ok, Moose, stvarno,|sljedeæe u obilasku je Union Square.
+00:04:04:22,00:04:08:05,Želim samo da ih pogledam izbliza.|Odmah sa vraæam. U redu? Da.
+00:04:41:04,00:04:42:06,10$ na mršavog.
+00:06:23:16,00:06:24:21,Nek' neko uhvati ovog deèka!
+00:06:25:10,00:06:26:14,Hej ti, stani!
+00:06:27:07,00:06:29:19,Hajde, èovjeèe, tebe jure. Hajde!
+00:06:38:11,00:06:39:05,Hajde, hajde!
+00:06:39:12,00:06:41:21,U redu, èovjeèe. Pauza, pauza, ne mogu.|Moram da se vratim na predavanja.
+00:06:43:22,00:06:44:20,Bježi s puta!
+00:06:46:15,00:06:48:21,Èekaj, šta radiš?|Šta radiš?
+00:06:48:21,00:06:49:22,Ja sam prvi.|Vidimo se kasnije.
+00:06:53:10,00:06:54:14,Vau...
+00:06:58:00,00:06:58:14,Izvinite!|Propustite me!
+00:07:06:19,00:07:08:01,U redu!
+00:07:11:03,00:07:13:13,Gdje ideš?
+00:07:15:15,00:07:22:21,Yoo, kako si ono tamo uradio?|Ti si, kao, letio. Ti si kao nindža.
+00:07:23:08,00:07:27:17,Luke! Ne, ne, ovako.|Mora da eksplodira.
+00:07:30:16,00:07:33:22,A ovo?|Ok.
+00:07:34:04,00:07:40:17,Ja sam Robert Alexander III, usput.|S obzirom da si pitao, ali me možeš zvati Moose.
+00:07:41:11,00:07:43:16,Nisam te viðao ranije.|Tek sam došao u NY.
+00:07:44:05,00:07:46:21,zapravo, upisao sam za inžinjera.|Ali takoðer i plešeš.
+00:07:46:21,00:07:51:14,Ne, ne više, to plesanje je bilo zanimljivo u školi,|ali je vrijeme da se suoèim sa stvarnim svijetom.
+00:07:51:14,00:07:57:01,Ti stvarno nemaš pojma šta si napravio tamo,|zar ne? Ti si BFB (Born from a Boombox)
+00:07:57:01,00:07:59:14,Šta znaèi BFB?|Roðen iz Boombox-a
+00:07:59:24,00:08:02:19,Dok neki ljudi uèe da igraju,|drugi su roðeni za to.
+00:08:03:09,00:08:06:08,Inžinjerstvo u NY,|koji je plesni centar svijeta.
+00:08:06:08,00:08:12:23,Pazi ovo. To je najveæa bitka ikada.|Nikad nije bila ovolika novèana nagrada.
+00:08:13:06,00:08:16:09,I ti momci iz parka su dovoljno dobri za to.|Ti si dovoljno dobar.
+00:08:16:19,00:08:17:21,Trebalo bi da budeš u ovome.
+00:08:22:04,00:08:26:12,Ovo je tvoj auto?|Oh, Bože, to je tako ludo.
+00:08:26:12,00:08:30:19,Upadaj. Ono sto si vidio|danas u parku je samo poèetak.
+00:09:25:21,00:09:29:20,Ovo je to.|Kakvo je ovo mjesto?
+00:09:30:11,00:09:30:19,Hajde.
+00:09:33:18,00:09:41:22,Dobrodošao u moju kuæu, u kuæu "Pirata".|Lijepo mjesto. Premalo je za življenje.
+00:09:45:04,00:09:49:02,Moji roditelji su preuredili ovo mjesto prošle godine.|Svi mi živimo i vježbamo na spratu.
+00:09:49:02,00:09:53:07,Radimo u klubu, dolje da naðemo plesaèe.|Kao neko tajno skrovište.
+00:09:54:02,00:09:54:18,Ok, tu smo.
+00:09:57:06,00:09:58:11,Ovo zovemo "Èamac".
+00:10:06:21,00:10:11:11,Ovdje je ples identitet. Živimo zajedno,|radimo zajedno, borimo se zajedno.
+00:10:11:22,00:10:14:13,Ali ne kao druge ekipe.|Mi imamo drugaèiji stil.
+00:10:15:06,00:10:18:15,Pronašao sam sve ove momke po gradu.|Veoma talentovani, ali nemaju gdje da odu.
+00:10:19:02,00:10:23:16,Postali smo kao neka porodica ovdje,|gdje možemo biti svoji.
+00:10:24:04,00:10:26:02,Ovo mjesto je strava!
+00:10:27:04,00:10:29:19,Vidiš onu dvojicu tamo?|To su blizanci Santiago.
+00:10:30:02,00:10:33:01,Vidjeli smo te u parku danas, i ti si bio...
+00:10:33:01,00:10:34:21,Neverovatno!|Bilo je super!
+00:10:34:21,00:10:39:06,U svom svijetu, ti si samo.. nevjerovatan|Imam pitanje za tebe.
+00:10:39:06,00:10:41:12,Ne, ne, momci. Bez pitanja.|Samo jedno pitanje.
+00:10:41:12,00:10:44:04,Moram da mu pokažem okolinu.|Razumijem, razuuumemmm...
+00:10:44:09,00:10:45:13,Ti si sjajan!
+00:10:46:09,00:10:48:01,Luke.|Jacob
+00:10:49:04,00:10:51:12,Upoznaj Moose.|Oh,  drago mi je Moose.
+00:10:51:23,00:10:55:20,Ovaj deèko ovde je kapetan broda.|Još ulaganja...
+00:10:56:06,00:10:58:18,Èuo sam da si napravio neke|impresivne pokrete danas u parku...
+00:10:58:19,00:11:00:06,Ou, kako svi znaju za to?
+00:11:00:11,00:11:02:04,Vijesti brzo putuju kada dobiješ|nekoga kao što je "Dijete Tame"...
+00:11:02:04,00:11:05:01,Ali Luke, moram na sekund da|razgovaram sa tobom. Ne može da èeka?
+00:11:06:06,00:11:07:01,Moram da mu pokažem ostatak.
+00:11:06:23,00:11:08:22,Daj da mu mi pokažemo okolinu.
+00:11:08:22,00:11:11:19,Ne znam, momci.|Hajde, molim te. Možeš nam vjerovati.
+00:11:12:01,00:11:14:17,Šta bi Isus uradio? Dobro.|Ne mojte ga povrijediti. U redu?
+00:11:14:17,00:11:16:01,Obeæavamo.
+00:11:16:01,00:11:18:04,Moose. Ovo su poèeci.|Sretno!
+00:11:20:18,00:11:24:05,Ovo je danas stiglo iz banke.|6 mjeseci kasnimo sa isplatom.
+00:11:24:11,00:11:27:04,Platili smo prošlog mjeseca.|Da, za jedan, a šta æemo za ostalih pet?
+00:11:27:04,00:11:29:13,Radimo na tome. Klub ne zaraðuje|više novaca kao prije.
+00:11:29:13,00:11:35:12,Banku to ne interesuje, oni hoæe novac, a ako|ne dobiju, staviæe kuæu na javnu aukciju.
+00:11:35:12,00:11:37:10,Slušaj, zar nisam uvijek imao plan?
+00:11:38:13,00:11:40:13,Ovaj deèko, Moose je pobijedio|"Dijete Tame", danas...
+00:11:41:09,00:11:43:13,I uradio je to sa stilom,|sa malo treniranja
+00:11:43:14,00:11:45:11,on može biti varnica koja|nam je potrebna da se ujedinimo.
+00:11:45:13,00:11:48:12,Kada osvojimo 100.000 dolara|na "World Jam"-u, otplatiæemo dug...
+00:11:48:15,00:11:51:03,Jacob, neæemo izgubiti "Èamac". U redu?
+00:11:51:12,00:11:53:04,Neæu dozvoliti da se to desi.
+00:11:53:10,00:11:56:00,Ne, ne, ne razumiješ. Niko još nije pobijedio|"Dijete Tame", i još da to ima snimljeno.
+00:12:00:05,00:12:02:09,Misliš da æe te "Samuraji" pustiti|da se tako lako izvuæeš?
+00:12:02:14,00:12:04:09,Naæi æe te i ponovo æe se boriti sa tobom.
+00:12:04:14,00:12:06:05,"Samu...". Ko?|Kuæa "Samuraja".
+00:12:06:12,00:12:09:12,Najbolja plesna kuæa u gradu.|Naši najjaèi rivali.
+00:12:09:19,00:12:14:22,Kako misliš "Naæi æe me"?|Oni imaju tehnologiju, znaš, GPS i te stvari..
+00:12:17:16,00:12:20:14,Hajde, dosta je. Ne želim da ga izbezumite.|On je sad sa nama.
+00:12:20:14,00:12:27:03,I niko se ne kaèi sa nama, pa èak ni "Samuraji".|Osim ako nisi "zahrðao".
+00:12:34:18,00:12:36:13,Šta?
+00:12:36:13,00:12:40:05,Ok, vi ne razumijete,|ali znam šta sam rekao.
+00:12:49:18,00:12:53:10,Vratila se.|Žena o kojoj sam ti prièao.
+00:12:54:05,00:12:57:06,Hej Moose, hajde.|Pokazaæu ti klub u donjem delu.
+00:13:01:21,00:13:02:19,Hajde, ovuda.
+00:13:15:18,00:13:16:21,Pazi se, oni "ujedaju".
+00:13:24:16,00:13:28:00,Hej, jesi dobro?|Razgledaj malo, vraæam se za sekund.
+00:15:33:04,00:15:35:21,Niko se ne bori sa "Samurajima"|samo jednom....
+00:15:41:18,00:15:43:10,O, jesi se ti to uplašio?
+00:15:55:00,00:15:56:20,Gdje si ti krenuo?|Ovo još nije gotovo.
+00:16:08:16,00:16:09:11,Hvataj ga!
+00:16:51:08,00:16:53:22,Želim samo nekoliko rundi sa klincem.|Mi imamo neka nedovršena posla.
+00:16:54:10,00:16:56:11,Hoæete da doðete do njega?|Onda æete morati da proðete kroz nas.
+00:16:57:13,00:17:01:07,Hajde, Luke. Budi dobar sportista.|Šta ti radiš ovdje, Julian?
+00:17:01:16,00:17:05:01,Takoðe mi je drago što te vidim.|Pokupi svoje momke i napusti moj posjed.
+00:17:05:01,00:17:09:01,Tvoj posjed?|Izgleda da neæe još dugo biti tvoj posjed.
+00:17:09:00,00:17:11:12,I kad kupim ovo mjesto,|dobro æu voditi raèuna o njemu.
+00:17:11:19,00:17:15:16,Kada pobijedimo na "World Jam"-u, ti i tvoj fond|neæeti biti u moguænosti da nas dodirnete.
+00:17:17:09,00:17:22:18,To je slatko. Tvoj deèko|ne može ni da dovrši svoje bitke.
+00:17:23:09,00:17:25:12,Lopte i baloni,|to je tako puno energije.
+00:17:25:23,00:17:28:07,Dosta, èovjeèe! Završiæe svoje|bitke na "World Jam"-u, kao i mi.
+00:17:28:07,00:17:33:00,Ja èak ne znam ni šta si upravo rekao.|-Prestani da se zezaš sa mojom ekipom.
+00:17:44:07,00:17:46:00,Hajde, izveæu te odavde.|Pusti je!
+00:17:50:17,00:17:54:07,Jesi li dobro?|Da, hvala ti.
+00:17:56:03,00:17:59:17,Ja sam Luke.|Natalie.
+00:18:01:03,00:18:06:05,Pa, šta je sa torbama?|Oh, trebalo je da se ovdje naðem sa prijateljem.
+00:18:06:15,00:18:08:03,Ali se izgleda nije pojavio.
+00:18:08:08,00:18:12:03,Pa, sta æeš da radiš?|Ne znam, nisam jos smislila.
+00:18:12:13,00:18:16:03,Možeš ovdje ostati.|Gdje? U klubu?
+00:18:16:11,00:18:22:05,Ne, mislim na spratu, u dnevnoj sobi.|Ti me i ne poznaješ.
+00:18:22:17,00:18:26:14,Da, znam te. Zoves se Natalie|i potrebno ti je prenoæište.
+00:18:30:10,00:18:35:01,Ok, naravno. Hvala ti!|Ok, ponesi stvari.
+00:18:48:19,00:18:52:15,Siguran si da ti neæu smetati?|Svi ovdje znaju kako je kad si beskuænik.
+00:18:54:22,00:19:00:06,Pa, odakle si? Odavde, ali sam živjela|u Londonu posljednje tri godine.
+00:19:00:16,00:19:03:22,Vau, ovo mjesto æe biti u dijelovima.
+00:19:05:02,00:19:08:03,Hvala ti.|Nema na èemu.
+00:19:10:16,00:19:15:11,Pa, jesi spremna?|Za krevet?
+00:19:15:11,00:19:18:23,Ne, za bitku, "World Jam",|bio bi nam od koristi neko kao ti.
+00:19:19:08,00:19:23:16,Spremna za malo takmièenje?|Za to sam uvijek spremna. Cio život se takmièim.
+00:19:23:22,00:19:26:21,I pobijediš li?|Nikad ne gubim.
+00:19:27:07,00:19:32:12,Dobro. Vidimo se ujutru.|Imamo dosta posla da obavimo.
+00:19:43:06,00:19:47:02,Moose! Gdje si bio juèer?|Mislila sam da imamo planove?
+00:19:47:02,00:19:52:01,Znam, znam, žao mi je, Cam.|Žao ti je? Morala sam da veèeram sa  koleginicom
+00:19:52:01,00:19:57:06,u nekoj smrdljivoj sobi. I nije prestala|da govori o blogu ljubimaca pacova.
+00:19:57:06,00:19:59:15,Saèekaj malo. Trebali bi ponekad|da se skupimo i družimo sa našim cimerima.
+00:19:59:15,00:20:04:06,Sjeæaš se mog prijatelja sa mišem,|imao je nos i ostalo, kao kandže....
+00:20:06:19,00:20:08:08,Oh, vidis!
+00:20:08:15,00:20:11:20,Sad, potrebna si mi da pronaðem|labaratoriju za inžinjerstvo.
+00:20:11:20,00:20:13:12,Moose!|Šta je?
+00:20:16:20,00:20:20:15,Šta bih ja bez tebe?|Ne znam. Stvarno ne znam.
+00:20:23:09,00:20:24:11,Vidimo se kasnije..
+00:21:01:09,00:21:04:16,Vidim da si pronasla muzièku sobu.|-Da.
+00:21:06:11,00:21:09:12,Ovo sam sagradio kad nismo|nigdje mogli da naðemo jubox u gradu.
+00:21:09:22,00:21:12:17,Impresivno.|Ustala si rano.
+00:21:13:08,00:21:16:11,Zagrijavam se.|Super. Ti si moj novi regrut.
+00:21:16:11,00:21:20:14,Moja je odgovornost da te istreniram.|Onda, trenirajmo.
+00:21:20:14,00:21:23:16,Ne, ne. Ne treniramo ovdje.|Veæ gdje?
+00:21:23:21,00:21:27:13,Tamo. Samo me prati.
+00:21:44:01,00:21:47:05,Prije nego što se podijelimo|u dvije grupe i poènemo sa radom
+00:21:47:05,00:21:51:11,Želim da vam prièam o tome|šta inžinjerstvo meni znaèi...
+00:21:51:22,00:21:58:16,Kako se zoveš?|Tišina. Tišina tokom èasa.
+00:22:14:13,00:22:16:11,Hajde, javi se Mr. Popularni....
+00:22:19:03,00:22:21:08,VRIJEME RELAKSACIJE!|POGLEDAJ LIJEVO. GORE LIJEVO.
+00:22:27:23,00:22:29:01,Šta?
+00:22:30:01,00:22:33:19,Otvarajte rešetke, momci.|Pokazaæu ovim dvoma zašto ovo zovemo "Èamac".
+00:22:34:04,00:22:41:07,Ok. Moose, kako si prijatelju?|Ohh, kako lijepa sinjorita. Molim vas.
+00:22:41:12,00:22:42:11,Drago mi je.
+00:22:47:00,00:22:48:00,Jel' se ljutiš na mene?
+00:22:48:09,00:22:52:02,Ne, ne, ne ljutim se...|Samo sam joj se javio.
+00:22:52:07,00:22:53:12,Dozvoli mi da se predstavim.
+00:22:53:20,00:22:56:19,Ok, ali si me prekinuo dok sam|se predstavljao ovoj lijepoj...
+00:22:56:19,00:23:00:08,Ne slušaj ga. Stani!|Dobro, razumijem, razumijem.
+00:23:02:16,00:23:06:04,Dame i gospodo,|naše najdragocjenije stvari.
+00:23:12:14,00:23:14:05,Razgledajte...
+00:23:15:13,00:23:21:10,Ples je nase oružije, a ovo je naša municija.|Ovo su najlepše patike na svijetu.
+00:23:21:10,00:23:23:06,Naæin na koji se osjeæaju,|naæin na koji se osjeæamo u njima...
+00:23:23:14,00:23:26:16,Hej, zvuèiš kao neka djevojka.|Znam da hoæes da kažeš ko voli tenisice...
+00:23:26:16,00:23:29:04,ali reci to kao muško.
+00:23:29:04,00:23:33:03,Ok, brate.|Izgleda kao da mu se sviðaju. Moj èovjek.
+00:23:34:08,00:23:37:16,Ok Moose, nemoj se previše vezati.|U ovoj kuæi, moraš ih zaslužiti.
+00:23:38:18,00:23:43:10,I ovdje je druga soba. Grafièka soba.|Koji je ovaj èovjek?
+00:23:43:20,00:23:46:08,To? To je Jason|On je naš Guru grafièar.
+00:23:46:14,00:23:50:03,Govorim o elektriènim tablama,|led svjetlima... o svemu.
+00:23:50:22,00:23:54:02,Pravo vrijeme. Radim od sinoæ|na ovom cijelom sistemu
+00:23:54:02,00:23:56:09,i ne mogu da ukapiram|kako da stoje odvojeno.
+00:23:56:17,00:23:58:18,I ti se baviš elektrikom?
+00:24:00:02,00:24:04:02,Da. Pazi ovo.|Postavi ovo ovdje, baciš i gotovo.
+00:24:04:08,00:24:07:18,Razumiješ se u svjetla?|Yeah. Onako. Zipa ovo.
+00:24:08:16,00:24:14:15,To! Ja volim ovog klinca.|Led, baterija i magnet.
+00:24:14:15,00:24:18:21,Prelijepo je.|Kao neonski svici su.
+00:24:19:06,00:24:22:09,Neonski svici.|Sviða mi se.
+00:24:31:16,00:24:34:08,Slušaj 'vamo. "World Jam"je blizu,
+00:24:34:12,00:24:37:08,ali da doðemo do njega|moramo proæi dvije kvalifikacione runde.
+00:24:37:19,00:24:38:23,Što znaèi...
+00:24:38:23,00:24:42:01,Što znaèi da imamo|dosta posla... Moose, Natalie...
+00:24:42:01,00:24:43:10,Jeste li sa nama?
+00:24:48:07,00:24:50:11,Ne znam, razmišljam,|moram iæi u školu, ne mogu samo....
+00:24:50:18,00:24:52:09,Nešto æemo smisliti.
+00:24:52:23,00:24:57:01,Pirati! Pirati! Pirati!
+00:24:57:01,00:25:00:01,Pirati! Pirati! Pirati!
+00:25:00:03,00:25:03:21,Mogu se boriti!|Ok, ok. Natalie?
+00:25:04:07,00:25:06:09,Kuæa "Pirata"!
+00:28:14:03,00:28:17:04,Vau, to je podmuklo.
+00:28:17:23,00:28:20:04,Sakupljam slike plesaèa|koji me inspirišu.
+00:28:21:06,00:28:22:01,Oèigledno.
+00:28:24:01,00:28:28:13,Šta radiš sa tim?|Ništa. Samo se igram.
+00:28:46:10,00:28:48:23,Ja nisam znala.|Oni su nevjerovatni, zar ne?
+00:28:49:05,00:28:54:04,Mislim na tebe.|Ti praviš filmove.
+00:28:56:14,00:29:00:09,Šta nije u redu? Ništa.|Obièno ne pokazujem ljudima ove stvari.
+00:29:01:09,00:29:02:10,To sam samo ja.|U redu.
+00:29:08:19,00:29:10:10,Možeš mi pokazati?|Da.
+00:29:11:05,00:29:15:03,U redu.|Obeæaj da se neæeš smijati.
+00:29:15:11,00:29:16:20,Oh, obeæavam.
+00:29:42:16,00:29:46:15,Kako to radite?|Mi možemo jedno drugom èitati misli.
+00:29:47:06,00:29:50:01,Oh, vi ste tako slatki.|Koliko dugo ste zajedno?
+00:29:50:12,00:29:55:01,Oh, ne, ne. Ne na taj naèin.|Mi smo samo.... prijatelji.
+00:29:55:19,00:30:02:23,Ne. Ispravka. Mi smo najbolji prijatelji|Kako god, izvinite, moram da idem.
+00:30:03:04,00:30:06:17,Veæ ideš? Samo što smo stigli...|Lijepo se provedite.
+00:30:20:00,00:30:23:13,Oh, to je tako oèigledno.|Sad sve ima smisla. Šta?
+00:30:23:22,00:30:26:06,Ti si totalno zaljubljena|u njega, zar ne?
+00:30:26:06,00:30:30:06,Ne, ne, ne, ne. Nije tako.
+00:30:30:06,00:30:35:06,Mi smo samo... kao odrasli zajedno...|Ne, to bi bilo stvarno šašavo.
+00:30:35:12,00:30:40:12,Ah, mislim da je vaš red.|Pa...
+00:30:58:14,00:31:04:09,Ej...Pazi ko se sad rano probudio?|U stvari, nisam uopšte ni išao da spavam.
+00:31:06:04,00:31:09:01,Mogu li da ti se pridružim?|Naravno.
+00:31:10:01,00:31:12:07,Šta posmatraš?|Ponekad dolazim ovdje da slušam...
+00:31:14:18,00:31:17:01,rijeku...saobraæaj...ptice....
+00:31:18:13,00:31:20:03,Èini me da se osjeæam|kao da sam dio neèeg veæeg....
+00:31:22:01,00:31:24:13,Saobraæaj te èini da se|osjeæaš da si dio neæeg veæeg?
+00:31:24:13,00:31:25:23,To je duboko....
+00:31:27:02,00:31:29:12,Šta da ti kažem?|Ostajem budan cijelu noæ.
+00:31:31:11,00:31:35:21,Razmišljala sam o tvom videu...|od sinoæ
+00:31:37:04,00:31:40:13,Mislim da bi trebao da ga završiš|i da ga pokažeš ljudima.
+00:31:42:07,00:31:46:01,Yeah, Nisam siguram u vezi toga.|Mislim, oèigledno to voliš, zar ne?
+00:31:46:01,00:31:48:17,Mislim, pogledaj se.|Budan si cijelu noæ i ti kao...
+00:31:48:17,00:31:52:18,ne znam...ti zraèiš ili tako nešto.|Zraèim?
+00:31:56:12,00:31:57:14,Tako mislim, Luke.
+00:32:07:17,00:32:13:05,Trebali bi da odemo u "Red Hook".|U pravu si.
+00:32:23:02,00:32:28:18,Dobrodosli u "Red Hook".|Prva bitka "World Jam"-a...
+00:32:32:22,00:32:35:02,Da li ste spremni za bitku?
+00:32:36:03,00:32:38:04,"Red Hook", jeste li spremni?
+00:32:38:20,00:32:40:17,"Pirati", jeste vi spremni?
+00:36:21:15,00:36:23:06,I pobjednik je:
+00:36:26:22,00:36:28:12,"Pirati"
+00:36:30:19,00:36:33:07,"Pirati' idu u sljedeæu rundu.
+00:36:35:01,00:36:36:15,od "World Jam"-a...
+00:36:50:09,00:36:54:22,Sad je vrijeme da ti budeš ispred kamere.|Moj lijepi "Piratu".
+00:36:54:22,00:37:01:03,Da li ti je potrebna šminka, dušo?|Onda, kapetane Luke....
+00:37:01:11,00:37:03:06,Daj mi kameru.
+00:37:04:05,00:37:09:17,Nije tako lagano na ovoj strani, a?|Da, zašto ne nastaviš da hodaš?
+00:37:12:17,00:37:17:06,Šta ti voliš oko plesa?|Ne znam, ples, muziku.
+00:37:17:06,00:37:23:13,Uvijek tu za mene, ja mislim.|To je to?
+00:37:25:13,00:37:30:03,Zašto? Znam da možeš|bolje od toga. Hajde.
+00:37:31:15,00:37:33:19,Moji roditelji su|nekad bili plesaèi,
+00:37:34:07,00:37:36:05,i poèeli su na ovom mjestu,|za ljude poput njih.
+00:37:36:17,00:37:39:18,Ali nisu željeli da budu|samo pomoæni plesaèi,
+00:37:41:11,00:37:44:13,veæ su radili sve te stvari,|gradili svoje poštovanje.
+00:37:45:16,00:37:48:09,Mislio sam da je to super, tako|da sam želio da nastavim tradiciju,
+00:37:48:11,00:37:50:21,na moj naèin, ali za njih, znaš?
+00:37:53:14,00:37:56:05,Pa, šta oni misle o tome|da si pretvorio ovu kuæu u ludnicu?
+00:38:00:01,00:38:02:03,Nikad neæe vidjeti.
+00:38:07:13,00:38:11:01,Tako mi je žao.|Ne, u redu je.
+00:38:12:23,00:38:16:06,Znaèi, zato si toliko vezan za ovo mjesto?|Da bi nastavio ono što su oni zapoèeli?
+00:38:16:20,00:38:21:24,Porodica je porodica.|"Èamac" je nekad bio njihov život i sad je moj.
+00:38:24:08,00:38:27:20,Nevjerovatno je šta ponekad èinimo za porodicu.|Pa, reci mi nešto o tvojim roditeljima?
+00:38:29:19,00:38:36:12,Davno su se razveli.|Ja i moj stariji brat smo bili izmeðu njih.
+00:38:36:02,00:38:39:08,Pa gdje je tvoj brat sada?|Još uvijek smo bliski.
+00:38:39:08,00:38:43:16,Mislim, on me je praktièno i odgajao.|Tako da njemu sve dugujem.
+00:38:46:20,00:38:51:17,Pa, Tarantino...|Ucjenjuješ li ljude sa svim tim snimcima?
+00:38:52:02,00:38:55:05,Ne, samo tebe.
+00:39:06:21,00:39:10:05,U redu, lujko.|Izvini što kasnim.
+00:39:10:15,00:39:14:13,Oh! Žao mi je, mislio sam|da si neko drugi. Izvini.
+00:39:24:10,00:39:27:03,Camille, šta se dešava?|Mislio sam da idemo na ruèak?
+00:39:28:01,00:39:32:04,Jel' vrijeme za ruèak? Vau!|Mi smo toliko oduševljeni kostimima
+00:39:32:09,00:39:35:01,da sam izgubila pojam o vremenu.|Za šta kostimi?
+00:39:35:06,00:39:40:18,Žurka za Noæ Vještica u studenskom domu.|Ljudi planiraju kostime svaki semestar.
+00:39:40:21,00:39:42:16,U redu, šta æemo da budemo?
+00:39:42:21,00:39:48:04,Oh, u stvari, pokušala sam|da te pozovem, ali se nisi javio
+00:39:48:05,00:39:55:05,tako da æemo Kristen i ja biti braæa "Olsen".|Èekaj, èekaj... Kristen?
+00:39:57:02,00:40:01:04,Kristen?|Camille,  Kristen?
+00:40:02:00,00:40:06:24,Šta bi sa Moose?|Idite vi.
+00:40:09:11,00:40:14:19,Nisi bio tu u posljednje vrijeme.|Mislim, ne mogu te dovijeka èekati.
+00:40:16:18,00:40:24:09,Ok, ali saèekaj. Camille, vidi, sad sam tu.|Hajde, šta kažeš?
+00:40:24:22,00:40:29:20,Znaš dobro da se više|zabavljaš samnom nego sa Kristen.
+00:40:31:01,00:40:33:06,Jel' me ti to zoveš na ples?
+00:40:38:11,00:40:43:17,Camille, ti znaš da sam roðen,|da bih te pitao da ideš samnom. Stvarno?
+00:40:43:19,00:40:50:10,Da, stvarno.|Ok, ok, u redu. Otkazaæu sa Kristen.
+00:40:49:13,00:40:52:17,To!|Vidimo se tamo.
+00:40:52:22,00:40:56:04,Onda se vidimo kasnije.|Vrati se svojim prijateljima.
+00:40:56:04,00:40:58:16,Hej, Kristen, u lice...
+00:41:00:17,00:41:03:21,Ok, moraš prestati da se žališ.|Žao mi je, ali osjeæam se smiješno
+00:41:03:21,00:41:06:14,držeæi ovu gigantsku èasu.
+00:41:06:14,00:41:10:04,Sjeæaš se da je rekao da ima|mala, srednja, velika i gigantska...
+00:41:10:12,00:41:15:21,Hej, gledaj! Ovo si ti.|O èemu prièaš?
+00:41:15:21,00:41:18:16,Ovaj deèko izgleda baš kao ti.|Ne, ne izgleda.
+00:41:18:16,00:41:25:24,Gledaj, ima kameru i slatku bradu.|Ne izgleda meni. I ja to nikad ne bi radio.
+00:41:26:17,00:41:32:16,Vidjela sam tvoj materijal i ne zezaj me.|Ali to samo radi zabave, nista profesionalno.
+00:41:32:19,00:41:39:02,Pa, šta da"Pirati" i rivalstvo ne postoje?|Da li bi dao šansu tvom filmu?
+00:41:39:04,00:41:41:17,Ta akademija za|filmove zvuèi nevjerovatno.
+00:41:41:17,00:41:45:00,Da, ali to nije opcija,|tako da ne razmišljam o tome.
+00:41:45:19,00:41:50:05,"World Jam" me interesuje.|Onda, kaži mi, kako to radiš?
+00:41:49:11,00:41:52:10,Šta radim?|Radiš te nevjerovatne snimke?
+00:41:54:01,00:41:55:19,Ne znam, samo se trudim da vidim|stvari koje ljudi obièno ne vide.
+00:41:58:13,00:42:01:14,Pokazaæeš mi?|Ok, hajde.
+00:42:03:15,00:42:06:22,Gdje me vodiš?|Vjeruj mi. Hajde!
+00:42:06:24,00:42:08:01,Požuri!
+00:42:16:04,00:42:18:02,Saèekaj malo.|Šta?
+00:42:23:06,00:42:23:16,Pazi ovo.
+00:42:31:01,00:42:32:04,Kako si to uradio?
+00:42:32:06,00:42:32:22,Sad æu ja.
+00:42:39:03,00:42:42:05,Vidio si?|Uspjela sam.
+00:43:04:22,00:43:06:10,Oh Bože, ode mi...
+00:43:52:09,00:44:00:14,Sjeæam se da smo bili u dnevnoj sobi,|moj brat i ja i da smo se zajedno igrali.
+00:44:00:17,00:44:03:19,I uvek sam pokušavala...|da mu odgovara.
+00:44:06:11,00:44:10:23,Moose!|Yoo, u koje vrijeme je bitka?
+00:44:11:02,00:44:12:18,U 8h? Što?|Jesi spreman?
+00:44:12:18,00:44:17:08,8h?|Biæe u kineskoj èetvrti, u kuæi "Gwaii".
+00:44:17:11,00:44:19:21,Oni su višestruki šampioni,|nadam se da si spreman.
+00:44:20:19,00:44:22:21,Ej, imamo problem.|Ne, ne, ne smije biti problema, èovjeèe.
+00:44:22:21,00:44:26:18,Ovo je druga runda. Moraš biti tu.|Ne smijemo imati propuste.
+00:44:26:18,00:44:27:19,Ili æemo biti eliminisani|sa "World Jam"-a.
+00:44:27:21,00:44:33:00,Znam, znam, imam test istog dana.|ne znam da li æu moæi...
+00:44:33:01,00:44:36:02,Slušaj, potreban si nam.|Uradi sve što možeš kako bi stigao tamo.
+00:44:42:23,00:44:45:17,Naravno da ne treba da vas|podsjeæam koliko se ovaj test raèuna.
+00:44:45:18,00:44:52:12,On zaslužuje 25% vaše ocjene.|Dobro iskoristite vrijeme. Možete poèeti.
+00:45:14:04,00:45:17:24,OD LUKE:|DOLAZI ODMAH OVDJE. KASNIŠ!
+00:45:39:02,00:45:41:01,Yo, gdje je Moose?|Ne znam.
+00:47:15:18,00:47:17:01,Šta se ovo desilo?
+00:47:17:13,00:47:19:03,Samo malo, odmah se vraæam!
+00:47:21:01,00:47:23:06,Gdje si bio brate?|Samo si uništio podijum.
+00:48:55:18,00:48:58:22,I pobjednici su "Pirati"!
+00:48:59:05,00:49:05:12,*Hit me with your best shot*|*Why don't you hit me with your best shot*
+00:49:08:09,00:49:13:07,*Hit me with your best shot*|*Far away*
+00:49:15:02,00:49:17:02,Mogu li da razgovaram sa tobom?|Da, naravno.
+00:49:18:00,00:49:20:21,Nasamo.|Da, èekaj sekund.
+00:49:25:07,00:49:27:17,Yoo, stanite.|Ugasite muziku.
+00:49:27:21,00:49:31:12,Ugasite muziku.|Ovo morate da vidite.
+00:49:39:04,00:49:41:13,Šta je to?|To je naša cijela koreografija.
+00:49:41:13,00:49:44:02,Ko je to postavio na internet?|Imaju cijelu postavku!
+00:49:44:02,00:49:45:02,Saèekaj trenutak.|Ko bi to uradio?
+00:49:45:02,00:49:47:20,Julian i "Samurai"|Kako su oni došli do naših snimaka?
+00:49:47:20,00:49:50:24,Da li neko ima DVD?|Da, stavio sam ga u sobu.
+00:49:50:24,00:49:52:09,Jesi li siguran?
+00:49:52:10,00:49:54:11,Ovo je neko ukrao.|Moramo nešto smisliti.
+00:49:55:13,00:49:59:19,Ok, Vidiš to? Ako samo oslobodiš taj okret,|mi možemo da pobijedimo.
+00:49:59:19,00:50:00:19,Ti momci mogu imati naše snimke
+00:50:01:01,00:50:03:03,ali nas to neæe zaustaviti.|Vjeruj mi.
+00:50:04:07,00:50:07:02,Luke, ne znam...|Možda neko drugi treba to da uradi.
+00:50:08:01,00:50:11:19,Ako ovo uradimo, rasturiæemo na podijumu.|Julian neæe znati šta ga je pogodilo.
+00:50:15:24,00:50:19:02,Šta se desilo izmeðu vas dvojice?|Mene i Juliana?
+00:50:20:10,00:50:23:18,On je nekad bio "Pirat".|Bili smo najbolji prijatelji.
+00:50:24:02,00:50:26:01,Ali kako je vrijeme prolazilo,|stvari su se promijenile.
+00:50:26:01,00:50:27:06,Kako misliš "promijenile"?
+00:50:27:16,00:50:31:15,Saznali smo da ima problema sa kockom.|Bio je u oèajanom stanju
+00:50:31:15,00:50:33:22,da je se kladio protiv svoje kuæe.|I izgubio je bitku da bi dobio na kocki.
+00:50:33:22,00:50:37:19,Izgubio je bitku da bi dobio na kocki?|Cijela kuæa je bila poražena.
+00:50:37:21,00:50:42:01,Pa smo ga izbacili.|Od tad pokušava da nas uništi.
+00:50:42:01,00:50:46:14,Najluðe je to da ako ne pobijedimo na|"World Jam"-u, moæi æe to i da uradi.
+00:51:25:23,00:51:27:03,Hej!
+00:51:28:15,00:51:31:10,Dobrodošla kuæi!|Lagao si mi!
+00:51:31:22,00:51:36:13,Rekao si mi da te je izbacio jer|je bio ljubomoran, ali nije bilo to, zar ne?
+00:51:36:13,00:51:38:20,Odbacio si bitku zbog uloga?|Natalie...
+00:51:38:20,00:51:41:07,Nemoj.|Neæu biti tu za tebe, Julian.
+00:51:41:07,00:51:43:21,Ne mogu da verujem da si|ukrao taj DVD i stavio ga na internet.
+00:51:43:14,00:51:46:19,O èemu prièaš?|Mi smo zajedno u ovome.
+00:51:47:00,00:51:50:17,Luke je bio ljubomoran.|On je želio da bude voða pa me je izbacio.
+00:51:50:14,00:51:51:24,Iskoristio me je, pa me izbacio.
+00:51:58:09,00:52:03:02,Žao mi je. Sad moramo ostati zajedno,|Natalie, znaš to.
+00:52:03:08,00:52:05:21,Ne volim kad me lažu.
+00:52:06:14,00:52:09:16,Samo sam zelio da naša|kuæa pobijedi na "World Jam"-u. Ok?
+00:52:09:23,00:52:13:23,Toliko smo uložili u ovo, jako smo se trudili.|Bez obzira na to što su mama i tata govorili
+00:52:13:23,00:52:17:21,da nije sve u pobjedi.|Poèinješ da zvuèiš kao oni.
+00:52:17:21,00:52:21:24,Treba da se sjetiš kojoj strani pripadaš.|Ovo je smiješno!
+00:52:21:24,00:52:25:05,Znaš, Luke nije neki monstrum Julian,|on je dobar momak,
+00:52:25:05,00:52:26:10,koji vodi raèuna o ljudima koje voli.
+00:52:26:16,00:52:30:21,Kome æeš da vjeruješ? Njemu ili svojoj porodici?|Ne prièaj mi ti o porodici.
+00:52:31:02,00:52:34:06,I ako Luke nije ni u kakvom srodstvu|sa njima, on ih nikad ne bi lagao.
+00:52:34:06,00:52:39:16,Oh, ja sam lazov? A ti?|Kako misliš da æe se dragi Luke
+00:52:39:16,00:52:43:01,osjeæati kad sazna da si|se ti poigravala s njim.
+00:52:43:01,00:52:48:19,U stvari, sad kad razmislim, treba da|kažeš istinu. To je sve što mi treba
+00:52:48:19,00:52:53:18,da ga izbacim sa "World Jam"-a.|Hvala, sestro! Stvarno si mi pomogla.
+00:52:53:18,00:53:05:03,Neæu ih izbaciti na ulicu zbog glupog rivalstva.|Neæu ni da budem dio toga.
+00:53:18:21,00:53:23:12,Jacob, uplašio si me.|Ti ne lièiš na devojku koja se tako lako uplaši.
+00:53:27:23,00:53:36:13,Kazi Luke da mi je žao.|Još imaš izbora, znaš?
+00:53:40:22,00:53:47:22,Nije tako jednostavno.|Najbitnije odluke u životu nikad nisu jednostavne.
+00:54:02:22,00:54:05:15,Preko plesa možeš saznati mnogo o osobi.|Naèin na koji se kreæe.
+00:54:05:15,00:54:08:14,Naèin na koji uèi korake,|ako je tvoj ples stvaran.
+00:54:08:14,00:54:14:19,Prikazuje dušu èovjeka onakvom kakva jeste.|Plešem da bi izrazio kako se osjeæam iznutra.
+00:54:14:11,00:54:20:04,Kad sam ljut, sreæan, usamljen...|Jednom kad sam pronašao put
+00:54:20:09,00:54:21:23,bilo je kao povratak kuæi.
+00:54:21:20,00:54:26:15,Ovo je mjesto gdje se|osjeæam sigurno, mjesto gdje priradam, 
+00:54:27:02,00:54:30:00,gdje je moja porodica.|Ovo mjesto je posebno, ono je naš svijet.
+00:54:30:00,00:54:33:07,Konaèno imam gdje da budem|ono što jesam.
+00:54:33:07,00:54:35:12,Ljudi kažu da ti|ne biraš svoju porodicu
+00:54:36:10,00:54:37:06,Mi jesmo.
+00:54:36:20,00:54:39:17,Ako si jedan od nas,|Luke æe te pronaæi.
+00:55:24:12,00:55:27:13,Luke.|Zašto bi otišla samo tako?
+00:55:27:13,00:55:32:02,Ne znam.|Ali sada imamo veæe probleme od toga.
+00:55:32:11,00:55:41:12,Banka je stavila kuæu na javne aukcije.|Prodaju je. U redu, vidi, pobrinuæu se za to.
+00:55:43:17,00:55:45:24,Šta se dešava?|Hej Luke, kako si? Sjedi.
+00:55:45:24,00:55:48:23,Neæu da sjednem.|Luke, razumijem koliko teško ovo može biti.
+00:55:48:23,00:55:51:12,Ako samo možeš saèekati par dana,|ja æu imati novac.
+00:55:51:12,00:55:55:15,Ti 5 mjeseci kasniš,|sem ako možeš odjednom sve poplaèati.
+00:55:55:06,00:55:56:18,Bojim se da više ništa ne mogu
+00:55:56:18,00:56:01:11,uèiniti za tebe. Tvoja kuæa je naše|vlasništvo i banka æe je staviti na aukciju.
+00:56:01:22,00:56:04:24,-Treba mi još vremena.|-Vidjeæu ako budem mogao da odložim
+00:56:04:24,00:56:10:11,aukciju, ali se ne nadaj mnogo.|Oni mogu danas uzeti kuæu.
+00:56:10:23,00:56:13:18,To se neæe desiti,|zato što nije na prodaju.
+00:56:16:05,00:56:18:04,Treba da razgovaramo.|DOÐI VEÈERAS NA MOJU ZABAVU
+00:56:18:04,00:56:20:22,Vidi šta sam dobio od Natalie.|Šta ovo znaèi?
+00:56:20:22,00:56:29:12,Ne znam, ali æu saznati.|Hajde i ti samnom.
+00:56:29:17,00:56:31:10,Ko, ja?|Da, potreban si mi.
+00:56:31:10,00:56:34:19,Imam veèeras žurku za Noæ Vještica.|Mislim, išao bih, ali ne mogu izbjeæi to.
+00:56:35:00,00:56:37:08,Studenske žurke poèinju kasnije,|stiæi æeš na vrijeme. Obeæavam.
+00:56:37:08,00:56:41:04,Trebao bi da budem Ashley Olsen.|Ashley Olsen?
+00:56:41:04,00:56:44:05,Da. Znaš li koliko je potrebno da|napraviš tu frizuru?
+00:56:44:05,00:56:48:03,Hajde, ti si moj drug.|Danas mi je bio dug dan.
+00:56:48:03,00:56:53:02,Potreban mi je sada dobar prijatelj.|U redu, pokrivam te.
+00:56:58:19,00:57:00:19,Pozivnice molim!|Pozivnice?
+00:57:02:00,00:57:03:07,Imam jednu na mobitelu!
+00:57:03:07,00:57:04:19,Nije dozvoljen ulaz bez pozivnica.
+00:57:04:19,00:57:07:00,Možete li vi momci saèekati malo?
+00:57:18:13,00:57:19:22,-Mora da postoji drugi naèin.
+00:57:36:22,00:57:38:14,Pogledaj ovo mjesto, Moose.
+00:57:38:14,00:57:40:22,Gdje ideš? Luke!
+00:58:25:05,00:58:27:22,Luke!|Uhvatio sam te!
+00:59:39:02,00:59:40:04,Hajde samnom.
+00:59:50:02,00:59:54:16,KASNIM...|BIÆU TU USKORO
+00:59:54:16,00:59:57:04,Hej, Camille, spremni smo za žurku.|Ideš li?
+00:59:57:04,01:00:00:17,Naæi æemo se tamo,|Moose æe doæi svakog trenutka.
+01:00:07:23,01:00:12:18,Imam nešto za tebe.|Nadam da æe ti se svidjeti.
+01:00:13:17,01:00:23:06,Tvoj film? Uradio si ga?|Luke. Drago mi je što si ga završio.
+01:00:31:08,01:00:34:22,Haj'mo odavde.|Sve je u redu. Niko nas ne može vidjeti.
+01:00:34:22,01:00:40:14,Ne, mislim, haj'mo odavde.|Možemo otiæi bilo gdje. Èak i u Californiu.
+01:00:40:14,01:00:46:01,Hajde, možeš iæi u školu filma.|Možemo poèeti iznova.
+01:00:50:13,01:00:54:10,Luke,|drago mi je da si uspio.
+01:00:54:22,01:00:59:17,Znaš, bio sam malo zabrinut da|neæeš dobiti pozivnicu na vrijeme.
+01:00:59:17,01:01:03:02,Šta ti radiš ovde?|Julian, ti si ga pozvao.
+01:01:03:02,01:01:09:11,Šta? Pozvao sam ga da doðe da èestita roðendan|mojoj nevjerovatnoj i voljenoj sestri.
+01:01:10:20,01:01:15:21,On se šali, zar ne?|Tako mi je žao.
+01:01:15:21,01:01:19:19,Žao ti je? Ovo je sve bila laž, zar ne?|Da, bila je.
+01:01:20:01,01:01:22:11,Ušuti, Julian.|Zašto? Bila je.
+01:01:23:07,01:01:26:16,Slušaj, u poèetku jeste bila,|ali onda sam te upoznala, ok?
+01:01:26:16,01:01:30:20,I poèela sam da se zaljubljujem|u tebe, i to je bilo stvarno.
+01:01:30:20,01:01:37:05,Zato sam morala da odem.|Tako mi je žao. Molim te, reci da mi vjeruješ.
+01:01:37:05,01:01:41:22,Ne pipaj me!|Luke!
+01:01:45:23,01:01:48:05,Natalie, ne moraš da se pravdaš....|Nemoj, Julian.
+01:01:49:07,01:01:54:03,Ne brini za njega, on je gubitnik.|Natalie, zar æeš stvarno da se ljutiš zbog toga?
+01:02:05:19,01:02:10:12,Camille, mislio sam da si.....|Dosta mi je.
+01:02:11:12,01:02:17:20,Ti oèigledno imaš bitnije stvari da radiš.|Nije tako. Zeznuo sam stvar.
+01:02:18:02,01:02:21:22,Super, hvala.|Igrao sam.
+01:02:25:17,01:02:32:09,Prije, tokom i poslije škole.|Znaèi, lagao si me i ...
+01:02:32:14,01:02:40:14,zapostavaljao zbog nekog skrivenog života?|-Trebao si mi jednom veæ reèi.
+01:02:42:01,01:02:46:21,Ali pretpostavljam da ti nisam toliko|važna u tvom novom životu da bih znala.
+01:02:48:15,01:02:53:14,Trebao sam ti reèi, znam|ali žao mi je, ok?
+01:02:56:05,01:03:02:06,I sad je sve gotovo.|U pravu si. Gotovo je.
+01:03:19:24,01:03:24:13,Luke,|ovo je glupost!
+01:03:25:12,01:03:28:05,Ne možemo ih sprijeèiti.|Moramo uæi,
+01:03:28:05,01:03:31:01,ne mogu to da nam uèine.|Luke! Luke!
+01:03:32:00,01:03:37:14,Odugovlaèio sam koliko sam mogao.|To je bio Julian. On pokušava da kupi kuæu.
+01:03:37:23,01:03:42:06,Pa, šta æemo sada da radimo?|Zar ne vidiš? Gotovi smo.
+01:03:42:06,01:03:46:05,Ali "World Jam" se bliži.|Ali gdje æemo vježbati?
+01:03:46:05,01:03:48:07,Nemamo gdje da spavamo.
+01:03:48:07,01:03:50:24,Bili smo budale kad smo mislili|da æe ovo mjesto biti posljednje.
+01:03:52:14,01:03:59:14,Ja izlazim!|Još neko?
+01:04:09:12,01:04:15:04,Ej, nije tvoja krivica. Julian je ovo zapoèeo.|Vi zaslužujete bolje od ovoga.
+01:04:15:11,01:04:21:11,Ne mogu više nista da uradim.|Uprskao sam stvar. Sa "Piratima" je gotovo.
+01:04:43:15,01:04:44:15,Pokušali smo....
+01:06:37:19,01:06:38:21,Æao.
+01:06:40:07,01:06:41:01,Æao.
+01:06:46:15,01:06:53:11,Pa, na skali od 1 do 10,|koliko me mrziš?
+01:06:54:15,01:06:59:14,Ja tebe ne mrzim, Moose.|Nedostaješ mi.
+01:07:00:15,01:07:07:04,Najgore je što ja tebi uopšte ne nedostajem.|Èak, više ti nista i ne znaèim.
+01:07:09:12,01:07:13:16,Proveli smo cijelu prošlu|godinu prièajuæi o NYU,
+01:07:13:16,01:07:18:07,stvarnom svijetu,|zajednièkom suoèavanju.
+01:07:18:20,01:07:20:06,Šta se promijenilo?
+01:07:24:22,01:07:27:14,Ti si moj najbolji prijatelj|na cijelom svijetu, Camille.
+01:07:27:14,01:07:33:07,I ne bih nikad želio da te izgubim.
+01:07:38:14,01:07:43:18,Mama mi je ovo upravo poslala.
+01:07:51:01,01:07:53:08,To je neprocjenjivo.
+01:07:55:21,01:07:57:04,Cam.
+01:08:01:09,01:08:02:23,Žao mi je.
+01:08:08:05,01:08:13:06,Nedostaje mi plesanje, ali moram reèi
+01:08:13:06,01:08:16:15,da mi ti više nedostaješ.|Stvarno?
+01:08:17:09,01:08:18:10,Stvarno, stvarno.
+01:08:22:13,01:08:24:18,Èuješ li to?|Šta?
+01:08:24:18,01:08:26:21,Èuješ li sad?|Šta?
+01:08:26:21,01:08:29:05,Hajde!|Šta?
+01:08:32:16,01:08:36:14,Ozbiljno? Stanite nazad u red.|Samo sekund, djevojèice. Samo sekund.
+01:08:36:14,01:08:42:06,Izvinite, jel' možete da pojaèate malo ovu pjesmu?|Jel' ti ja lièim na Jukebox?
+01:08:42:12,01:08:45:22,A šta kažeš na 5$.|Daj.
+01:08:45:22,01:08:47:05,Odmah se vraæam.
+01:08:51:15,01:08:54:06,Naša prva godina.|Upoznali smo se uz ovu pjesmu.
+01:08:54:06,01:08:58:10,Oh, ovo je smiješno.|Oh, siguran sam da se sjeæaš koreografije?
+01:08:58:10,01:09:03:02,Ne, nema šanse.|Igraj sa njim, molim te.
+01:09:03:02,01:09:07:05,Èula si dijete.|Hajde.
+01:09:19:22,01:09:20:22,Izvinite!
+01:11:14:05,01:11:17:05,O moj Bože, ima lišæa svud po tebi.
+01:11:21:21,01:11:25:24,Nisi nikad trebao da odustaješ.|Roðen si za ples.
+01:11:25:24,01:11:33:04,Odustani, loš si!|Stvarno? Ne slušaj ih.
+01:11:35:07,01:11:39:02,Znam, ali ti si odustala.|Da, ali ja nisam kao ti.
+01:11:39:02,01:11:43:21,Ja sam dobra,|ali Moose ti si odlièan.
+01:11:44:09,01:11:47:08,-Moji roditelji su od svega odustali.|-Pa si i ti morao.
+01:11:47:08,01:11:53:04,Znam. Mozemo nešto da smislimo.|Zajedno.
+01:11:54:22,01:11:55:15,Ok.|Ok.
+01:12:03:04,01:12:06:23,Ej, treba mi kafa za sto broj 8.|Ok?
+01:12:06:23,01:12:10:13,Izvinite, šta treba da uradim da bi|dobio "meni"? Šta ti radiš ovdje?
+01:12:10:13,01:12:14:06,Imam dvije stvari da ti kažem.|Hoæu sendviè
+01:12:14:06,01:12:16:02,i mislim da i dalje možemo da pobijedimo|"World Jam" i da vratimo kuæu.
+01:12:16:02,01:12:18:21,Nemam sendvièa, jesi poludio?|Mislio sam da je to zbog toga što ti se sviðam.
+01:12:18:21,01:12:23:20,Da, još smo zaluðeni i nema više nikog.|Da, ali ja sam ovdje. Konaèno sam se vratio.
+01:12:24:22,01:12:28:05,Luke, svi želimo da se ponovo|sastavimo i saèuvamo tvoju kuæu.
+01:12:29:05,01:12:31:02,"Piratima" je potreban voða.
+01:12:31:02,01:12:31:23,Oni me ne trebaju.
+01:12:31:23,01:12:33:15,Uzeo  sam ono što su mi|moji roditelji ostavili i odbacio sam to.
+01:12:33:15,01:12:35:08,Ti stvarno ne znaš šta si uradio.
+01:12:35:08,01:12:37:22,Ti si dao ljudima mjesto|gdje mogu da žive svoje snove
+01:12:37:22,01:12:40:08,i da budu ono sto jesu.|Sjedi.
+01:12:40:08,01:12:43:19,Imam zauzet sto da uslužim.|Ne, sjedi.
+01:12:43:19,01:12:47:14,Neka bude brzo.|Nikad me nisi pitao zašto volim da plešem.
+01:12:47:14,01:12:52:10,Hoæeš da znaš zašto?|Ja plešem jer ples može da promijeni stvari.
+01:12:52:10,01:12:57:20,Jedan potez može da oslobodi|cijelu generaciju kao Elvis.
+01:12:59:22,01:13:05:16,Jedan pokret može da te natjera|da vjeruješ da si nešto više... Sjeæaš se ovoga?
+01:13:07:13,01:13:18:00,Moose, sjedi prije nego što napraviš budale od nas.|Neki pokreti mogu dati nadu
+01:13:18:00,01:13:34:19,mršavom djetetu koje samo želi da igra.|Nadam se da primjeæuješ koliko je posebno.
+01:13:35:21,01:13:41:00,Izvinite, haloo...kafa, bez kofeina, kao i obièno.
+01:13:41:24,01:13:46:00,Žao mi je, ne mogu ja to.|Pokušao sam, ali to nisam ja.
+01:13:46:12,01:13:52:01,Èekam ovdje veæ 20 minuta!|Hej, hej, on ne može to da radi.
+01:13:55:07,01:13:57:23,Ok, to je super Moose, ali kako æemo|se ponovo svi sastaviti...
+01:13:57:23,01:14:04:06,Ja sam ih nekako veæ sve skupio.|Èovjeèe, nedostajali ste mi...
+01:14:04:23,01:14:10:08,Moja jutra su tiha bez vas.|Vidiš, rekao sam ti da æemo mu nedostajati.
+01:14:12:03,01:14:14:22,Vidite, znam da su šanse male,|nemamo kuæu, nemamo koreografiju.
+01:14:15:14,01:14:17:08,Doðavola, ne znam èak|ni kako æemo to da uradimo,
+01:14:17:08,01:14:20:08,ali ja vjerujem u nas|i znam da i vi verujete.
+01:14:21:22,01:14:26:16,Daleko smo dogurali da bi sad stali.|Znam da možemo da pobijedimo.
+01:14:27:09,01:14:29:23,Upoznajte Pirate!|Upoznajte Pirate!
+01:14:31:03,01:14:33:06,Ali još uvijek|nemamo gdje da vježbamo.
+01:14:33:06,01:14:35:20,Oh, ni brini za to.|Moose je rekao da æe pronaæi mjesto.
+01:14:46:12,01:14:48:00,Moose, vratio si se ponovo!
+01:14:49:03,01:14:50:02,Kiro!
+01:14:55:22,01:14:57:23,Šta ima?|Nedostajao si mi.
+01:14:57:23,01:15:01:09,I ti meni.|Doði da te zagrlim.
+01:15:01:09,01:15:06:03,Momci, ovo je Kiro, igrali|smo zajedno u srednjoj školi.
+01:15:06:03,01:15:07:03,Jel' propuštam nešto?
+01:15:07:15,01:15:10:05,Šta ove igrice imaju sa"World Jam"-om?
+01:15:10:14,01:15:11:14,Ti si igraè bejzbola, aa?
+01:15:12:12,01:15:16:05,Imam dva brata, doðite!
+01:15:17:22,01:15:19:19,Drago mi je što|smo se upoznali!
+01:15:23:08,01:15:27:13,Haj'te, ovuda. Pazite gdje stajete.|Svidjeæe vam se ovo mjesto.
+01:15:27:20,01:15:29:06,Samo doðite.
+01:15:30:13,01:15:32:22,Tananana...|Rekla sam vam.
+01:15:35:04,01:15:36:16,Ok, sviða mi se.
+01:15:37:14,01:15:39:07,Vau, volio sam ovu igricu|kad sam bio mali.
+01:15:40:13,01:15:43:08,Kome oni pripadaju?|Ou, meni. Pazim na njih poslije škole
+01:15:43:14,01:15:45:13,zato što njihovi roditelji rade ovdje.
+01:15:46:10,01:15:47:22,ne znam, momci.|Mislite li da æe ovo moæi da funkcioniše?
+01:15:47:22,01:15:50:14,Dosta je smeæa, nema prostora|i skoro smo bez plesaèa.
+01:15:50:19,01:15:54:00,Da, a "Samuraja" ima 21.
+01:15:58:18,01:16:01:15,Zadrži tu misao.
+01:16:19:06,01:16:23:06,Oh moj Bože!|-Kiro!
+01:16:28:01,01:16:30:09,Momci, mislio sam da æe|nam trebati jos plesaèa.
+01:16:30:15,01:16:33:15,"Pirati", upoznajte MSI grupu.
+01:16:33:07,01:16:35:00,Hej, pokažite im šta znate.
+01:16:37:21,01:16:39:23,Imamo Monster-a.
+01:16:49:02,01:16:52:07,Imamo Kybo, èoveka bez kostiju.
+01:16:57:19,01:16:59:00,Fly, razdrmaj i protresi!
+01:17:08:04,01:17:09:16,Hair!
+01:17:15:17,01:17:18:18,I konaèno, Smiles.
+01:17:30:12,01:17:32:17,U redu, momci.|Mislim da æe ovo funkcionisati.
+01:17:32:17,01:17:35:17,Funkcionisati?|Isprašiæemo ih.
+01:18:38:09,01:18:41:13,Hoæemo li pobijediti "World Jam"?
+01:18:48:11,01:18:52:15,Ej! Yo! Mašino,|vrati mi moj novac.
+01:19:07:23,01:19:10:05,Hej, momci, pogledajte ovo.|Radim ovo za "World Jam".
+01:19:10:05,01:19:12:05,Zamislite, ove lampice, na odijelu.
+01:19:40:23,01:19:42:22,Sviðaju mi se tvoji pokreti..
+01:19:43:05,01:19:46:13,Meni se sviða tvoj akcenat.|Sviða ti se moj akcenat? To je dobro.
+01:19:47:01,01:19:51:16,I meni tvoj.|Ja nemam akcenat.
+01:20:07:07,01:20:10:15,NAPOLJU ZA PET MINUTA - CARLOS
+01:20:11:21,01:20:16:02,Carlos, treba da se vratiš,|potreban si nam.
+01:20:16:10,01:20:18:03,Potreban sam vam?|Da.
+01:20:18:03,01:20:20:23,Pazi ovo.|Imam poruku od Julian-a.
+01:20:20:23,01:20:23:09,O èemu prièaš?|Treniram sa "Samurajima", u redu?
+01:20:23:09,01:20:25:10,Šta?|Oni žele da ti daju pogodbu.
+01:20:26:09,01:20:28:07,Jel' ovo šala?|Zeliš nazad kuæu?
+01:20:28:07,01:20:31:12,Možeš je imati.|Koji je ulog?
+01:20:32:19,01:20:35:23,Izgubi bitku.|Da izgubim bitku?
+01:20:35:23,01:20:37:12,Da.|Zar ne vidiš??
+01:20:37:12,01:20:40:01,Pokušavam da ti dam|šansu uzmeš što zeliš.
+01:20:39:24,01:20:42:10,Kako si mogao ovo da uradiš?|Ovo je stvaran život, Luke.
+01:20:42:10,01:20:44:20,Kada æeš to shvatiti??
+01:20:45:22,01:20:49:03,Vrijeme je da odrasteš.|"Samuraji" æe pobijediti po svaku cijenu.
+01:20:49:03,01:20:56:13,Treba da ideš sada.|Razmisli o tome, ponuda ostaje.
+01:20:57:04,01:20:59:23,ili možeš imati sansu u bitci.
+01:21:32:08,01:21:38:07,DAME I GOSPODO|OVO JE "WORLD JAM"
+01:21:39:01,01:21:40:07,Idemo!!!
+01:22:13:10,01:22:17:09,Kuæa "Pirata" protiv kuce "Samuraja".
+01:22:17:09,01:22:22:00,I ova bitka je bitka koju neæete zaboraviti.
+01:22:22:08,01:22:24:16,Skupite se.
+01:22:39:07,01:22:40:21,Jeste li uzbuðeni?
+01:22:42:14,01:22:43:17,Luke!
+01:22:47:17,01:22:52:05,Tako mi je žao.|Znam da sam te lagala.
+01:22:52:16,01:22:58:21,Ali sve što smo imali bilo je stvarno.|Odlazim sutra.
+01:22:59:02,01:23:07:07,Uzimam voz za Californiu,|i ne bi imala hrabrosti da to uradim bez tebe.
+01:23:07:07,01:23:16:09,Znam da i ti imaš snove.|Ovo je ludo, ali poði samnom.
+01:23:17:20,01:23:20:08,Zašto misliš da bih|trebao opet da ti vjerujem?
+01:23:23:21,01:23:30:03,Zato što ta osoba koja je bila sa tobom|je osoba kakva u stvari i jesam.
+01:23:30:22,01:23:35:05,I sada...."Pirati" na binu!
+01:23:37:15,01:23:38:16,Luke!
+01:23:41:14,01:23:43:04,Sretno.
+01:23:56:23,01:23:58:15,"Samuraji", na binu!
+01:23:59:10,01:24:05:03,I evo dolaze u crnoj odjeæi,|Samuraji, smrtno spremni. 
+01:24:08:15,01:24:10:15,Idemo!
+01:28:30:21,01:28:35:23,Hej, možemo ih dobiti.|Rekla si i sama da nismo spremni.
+01:28:35:19,01:28:38:18,Možeš mi vjerovati.
+01:28:38:20,01:28:42:08,Izgleda da nema naèina|na koji bi se Pirati vratili nakon ovoga!
+01:28:48:20,01:28:51:11,Silazi sa bine!|Pusti me!
+01:28:51:22,01:28:54:23,Šta to radiš?|Ne možeš to da radiš.
+01:28:54:23,01:28:57:15,Šta se desilo sa porodicom?|Ovo je moja porodica, Julian.
+01:28:58:07,01:28:59:04,Pustite me.
+01:29:00:19,01:29:02:09,Vratimo se poslu, ljudi!
+01:29:05:12,01:29:06:24,O tome vam govorim ljudi!
+01:29:51:09,01:29:53:21,Koja izvedba!|Dajem im desetku!
+01:30:05:07,01:30:07:24,Šta to oni rade?|Šta pokušavaju sada?
+01:30:07:24,01:30:09:05,Zar još nema kraja?
+01:30:54:21,01:30:57:02,Pogledajte tu odjeæu i rad nogu.
+01:31:42:20,01:31:45:08,A sada mali Pirati!|Ouu Bože!
+01:32:44:12,01:32:48:15,To je to! To je vrh.|Finalisti su dali sve od sebe.
+01:32:48:17,01:32:54:15,Sad je vrijeme da sudije odluèe|ko ide kuæi sa sto hiljada dolara.
+01:32:55:02,01:32:56:04,Sudije?
+01:32:56:04,01:32:57:21,Jeste li odluèili?
+01:32:58:19,01:33:00:09,Koja æe zastava da pobijedi?
+01:33:00:09,01:33:05:07,Zlatna-crna za "Samuraje" ili|crveno-crna za "Pirate".
+01:33:06:09,01:33:18:20,Pirati!!!|Kuæa "Pirata" je pobjednik "World Jam"-a.
+01:33:58:04,01:34:01:11,Dragi Luke,|tvoj film je toliko dobar da sam ga podijelila.
+01:34:01:16,01:34:04:23,Nadam se da æeš sebi|dati šansu da živiš svoj san.
+01:34:04:23,01:34:06:06,Sa ljubavlju, Natalie.
+01:34:10:03,01:34:14:13,Èestitamo!|Primljeni ste u Akademiju filmova u Californiji.
+01:34:15:10,01:34:19:23,Možeš da ideš ako hoæeš. Ja æu voditi|raèuna o svemu dok se ne vratiš.
+01:34:22:08,01:34:23:18,Dao si nam šansu da živimo naše snove
+01:34:24:20,01:34:27:15,i sad je vrijeme da ideš i živiš svoje.
+01:34:48:08,01:34:49:20,Postoji jedna stvar koju mi je|neki momak jednom rekao.
+01:34:50:03,01:34:54:13,Putovanje je bolje nego dolazak.
+01:34:54:21,01:35:01:19,A ja sam mislio, što? Zato što|mislim da sam imao samo jednu putanju
+01:35:02:06,01:35:04:12,kojom smo mogli da biramo|kakvi æemo da budemo.
+01:35:04:15,01:35:07:11,Ali, ako izabereš tu jednu putanju,|ne znaèi da treba da odbaciš ostale.
+01:35:08:11,01:35:13:15,Shvatio sam da se zapravo|dešava samo jednom, koji se raèuna.
+01:35:16:01,01:35:27:01,Spoticanja, padanja, prijateljstvo,|to je putovanje, a ne odredište.
+01:35:29:06,01:35:35:05,Pretpostavljam i vjerujem, da æu u|buduænosti završiti onako kako treba.
+01:35:35:19,01:35:39:04,Ali trebao bih da pitam školu da|mi nekako ovo odobri.
+01:35:39:16,01:35:41:03,Ali sam spreman za skok.
+01:35:41:03,01:35:49:13,Ono što ti tražiš ovdje je da|maturiraš u inžinjerstvu i plesu.
+01:35:51:09,01:35:54:16,Da.|Pa, to je sigurno prvi put.
+01:36:05:01,01:36:06:15,Pa?
+01:36:08:16,01:36:17:04,Da. Mislim... Duplo æu maturirati.|O moj Bože, o moj Bože, ne mogu da vjerujem!
+01:36:17:04,01:36:19:12,Kako misliš ne mogu da vjerujem"?
+01:36:20:19,01:36:25:23,Cam, hvala ti što si bila tu.|Nema na èemu.
+01:36:50:02,01:36:54:14,Šta se dešava? Da nisi nešto zaboravila?|Mislim da si zaboravila da se pozdraviš.
+01:36:55:15,01:36:58:15,Ne napuštaj me, molim te.|Ne slušaj ga.
+01:37:02:02,01:37:07:09,Poljubio sam ti ruku, sjeæaš se?|Nedostajaæete mi!
+01:37:17:02,01:37:18:18,Hajde, ne plaèi.
+01:37:22:02,01:37:24:18,Gde je Luke?
+01:38:19:05,01:38:21:17,Ne slušaj ih, ok?|Ok.
+01:38:35:22,01:38:38:12,Mogu li da poljubim nekog sada?
+01:38:40:04,01:38:43:02,Saèekaj sekund, ok?|Odmah se vraæam.
+01:38:48:18,01:38:52:19,Ovo je za tebe.|Vidimo se uskoro.
+01:38:56:15,01:39:03:06,Da eksplodira. Ti si BFB, zapamti to.|Vodite raèuna o kuæi, momci.
+01:39:04:02,01:39:05:07,Otvori je!
+01:39:15:20,01:39:17:08,Jesi spremna?|Da.
+01:39:22:13,01:39:25:06,Haj'mo na žurku!|Yea.
+01:39:25:16,01:39:29:16,DIRECTED BY JOHN CHY.... but|TRANSLATED BY SAWO :))))
+01:39:30:18,01:39:35:18,Sredio i doradio za DvDrip-MXMG: AldoS

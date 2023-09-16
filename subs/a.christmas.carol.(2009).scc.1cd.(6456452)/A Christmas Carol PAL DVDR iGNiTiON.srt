@@ -1,0 +1,755 @@
+//Font select and font size
+$FontName       = Arial
+$FontSize       = 30
+
+//Character attributes (global)
+$Bold           = FALSE
+$UnderLined     = FALSE
+$Italic         = FALSE
+
+//Position Control
+$HorzAlign      = Center
+$VertAlign      = Bottom
+$XOffset        = 0
+$YOffset        = 0
+
+//Contrast Control
+$TextContrast           = 15
+$Outline1Contrast       = 8
+$Outline2Contrast       = 15
+$BackgroundContrast     = 0
+
+//Effects Control
+$ForceDisplay   = FALSE
+$FadeIn         = 0
+$FadeOut        = 0
+
+//Other Controls
+$TapeOffset          = FALSE
+//$SetFilePathToken  = <<:>>
+
+//Colors
+$ColorIndex1    = 0
+$ColorIndex2    = 1
+$ColorIndex3    = 2
+$ColorIndex4    = 3
+
+//Subtitles
+00:01:13:12,00:01:21:12,Božiæna Prièa|Prema romanu Charlesa Dickensa
+00:01:25:00,00:01:27:10,"Marleyjev Duh"|MARLEY je bio mrtav: za poèetak.
+00:01:27:14,00:01:30:03,U to nije bilo nikakve sumnje.|Umrlicuicu je potpisao beležnik...
+00:01:48:00,00:01:51:12,Da.|Prilièno mrtav.
+00:01:53:17,00:01:56:05,Kao iskorišceni ekser.
+00:01:58:12,00:02:00:10,Umrlica, gospodine.
+00:02:04:05,00:02:10:00,Ebenezer Scrooge
+00:03:07:22,00:03:08:22,Stani!
+00:03:10:10,00:03:12:09,Odmakni se,|idiote epskih razmera.
+00:03:23:11,00:03:25:19,Novac je novac.
+00:03:48:23,00:03:50:14,Izvinjavam se!|- I ja kažem!
+00:04:28:21,00:04:31:01,Delikventi.
+00:04:31:05,00:04:33:08,Novine!
+00:04:43:00,00:04:47:18,Božiæna Prièa
+00:05:37:06,00:05:38:17,Gladni smo, gospodine!
+00:05:40:10,00:05:43:19,Molim vas, gospodine, jako smo gladni.|- Koji zalogaj. Gladni smo, gospodine.
+00:05:43:23,00:05:45:12,Nešto ostataka.|- Umiremo od gladi.
+00:05:45:15,00:05:47:06,Molim vas, gospodine.|Mnogo smo gladni.
+00:05:48:14,00:05:51:22,Sretan vam Božiæ, od gradonaèelnika!
+00:05:52:13,00:05:54:12,Molim vas, gospodine.|- O, gledajte. Tamo je.
+00:05:54:16,00:05:56:20,Hej! Vrati se s tim!|To je naše meso!
+00:05:56:23,00:05:59:00,Vrati! To je naše!|Vrati se!
+00:06:20:10,00:06:22:03,Izvolite, gospodine.|- Hvala.
+00:06:22:19,00:06:24:00,Sveže, vruèe kestenje.
+00:06:24:04,00:06:26:12,Kako vam se sviða ovaj?|- Savršen je.
+00:06:27:15,00:06:29:19,To je fina sveža jegulja.
+00:06:29:22,00:06:32:23,Ovde su Otac, Sin i Sveti Duh.|Gubi se.
+00:06:33:01,00:06:36:13,A ispod kojeg je grašak?|Boom, boom, boom, boom...
+00:06:36:16,00:06:38:02,Boom! Beži odavde.
+00:06:38:17,00:06:40:02,Evo ga. Gledajte ovo sada.
+00:07:14:04,00:07:21:08,Scrooge i Marley
+00:07:32:17,00:07:37:15,SEDAM BADNJAKA KASNIJE
+00:08:12:02,00:08:14:00,UGALJ
+00:08:25:01,00:08:26:08,Sretan Božiæ, strièe!
+00:08:27:06,00:08:30:14,Bog te spasio.|- Bah! Podvala!
+00:08:30:15,00:08:33:09,Božiæ podvala?|Strièe! Ne misliš stvarno tako.
+00:08:34:00,00:08:35:15,Sretan Božiæ.
+00:08:35:16,00:08:38:03,Koji razlog imaš za sreæu?|Dovoljno si siromašan.
+00:08:38:04,00:08:40:13,Kako možeš da budeš tako sumoran?|Dovoljno bogat.
+00:08:41:13,00:08:44:02,Podvala!|- Nemoj da si ljut, strièe.
+00:08:44:03,00:08:49:04,A šta drugo mogu kada živim|na svetu ovakvih budala?
+00:08:49:05,00:08:51:09,Sretan Božiæ.
+00:08:51:10,00:08:54:23,Šta je za tebe vreme Božiæa osim|vreme za plaæanje raèuna bez novca.
+00:08:55:00,00:08:58:16,Vreme kada si godinu dana stariji,|a ni dinara bogatiji.
+00:08:58:17,00:09:00:05,Da je po mome,
+00:09:00:06,00:09:03:10,svaki idiot koji kaže "Sretan Božiæ"
+00:09:03:11,00:09:05:08,bi trebao da bude skuvan|u liènom pudingu
+00:09:05:09,00:09:07:09,i sahranjen sa glogovim kolcem kroz srce!
+00:09:07:10,00:09:09:05,Strièe!|- Sinovac!
+00:09:10:03,00:09:13:22,Imaj Božiæ na svoj naèin|i pusti mene da ga imam na svoj.
+00:09:13:23,00:09:16:17,Da ga imaš?|Ali nemaš ga!
+00:09:17:21,00:09:20:05,Onda me pusti da ga ostavim na miru.
+00:09:21:11,00:09:23:08,Puno dobrog ti je doneo.
+00:09:23:09,00:09:27:00,Puno stvari mi je donelo dobro,|a da nisam profitirao.
+00:09:27:11,00:09:29:00,Božiæ je jedna od njih.
+00:09:29:16,00:09:32:23,Ali uvek sam mislio o Božiæu|kao o dobrom, vremenu darivanja.
+00:09:33:00,00:09:35:06,Jedinom vremenu kada èovek|otvara svoja zatvorena srca
+00:09:35:07,00:09:37:22,i misli o svim ljudima kao o|kolegama putnicima do groba,
+00:09:37:23,00:09:41:13,a ne kao o nekoj drugoj vrsti|stvorenja vezana na putovanja drugog.
+00:09:41:14,00:09:43:00,I zato, strièe,
+00:09:43:15,00:09:47:21,iako to nije nikada stavilo ni|komadiæ zlata ili srebra u moj džep,
+00:09:47:23,00:09:51:20,verujem da mi je uèinilo dobro,|i kažem, Bog blagoslovio!
+00:09:54:00,00:09:56:19,Èujem li još jedan zvuk|od tebe, Cratchit,
+00:09:56:20,00:10:00:06,imaæeš Božiæ tako što æeš|izgubiti svoje radno mesto!
+00:10:05:03,00:10:09:12,Poprilièno ste moæan govornik, gospodine.|Èudo da niste u parlamentu.
+00:10:09:13,00:10:13:07,Ne ljuti se, Srièe.|Doði, veèeraj s nama sutra.
+00:10:14:00,00:10:16:01,Pre æu vas videti u paklu.
+00:10:16:02,00:10:19:20,Ali zašto?|Zašto si tako hladnokrvan, strièe? Zašto?
+00:10:21:19,00:10:23:04,Zašto si se oženio?
+00:10:26:00,00:10:27:15,Zato što sam se zaljubio.
+00:10:28:20,00:10:30:02,Zato...
+00:10:31:04,00:10:32:19,što si se...
+00:10:34:10,00:10:36:11,zaljubio?
+00:10:41:07,00:10:43:00,Doviðenja.
+00:10:43:16,00:10:47:14,Ne želim ništa od tebe.|Ništa ti nisam tražio.
+00:10:47:15,00:10:50:08,Zašto ne možemo da budemo prijatelji?|- Doviðenja.
+00:10:51:20,00:10:54:17,Žao mi je, celim srcem,|što si tako otresit.
+00:10:54:18,00:10:57:08,Ali pokušao sam iz poštovanja|prema Božiæu, i zato,
+00:10:57:09,00:10:59:22,sretan ti Božiæ, strièe!|- Doviðenja!
+00:10:59:23,00:11:02:09,I sretna ti Nova Godina!|- Doviðenja!
+00:11:02:10,00:11:05:00,I vrlo sretan Božiæ i vama,|gospodine Cratchit.
+00:11:05:01,00:11:06:22,Sretan Božiæ, gospodine.
+00:11:07:14,00:11:08:23,Evo još jednog.
+00:11:09:16,00:11:12:12,Prodavac zaraðuje 15 šilinga nedeljno...
+00:11:12:14,00:11:16:19,i sa ženom i porodicom,|prièa mi o sretnom Božiæu.
+00:11:16:20,00:11:18:14,Kao da sam u ludnici.
+00:11:18:15,00:11:22:13,Dobro veæe.|Scrooge i Marley's, verujem?
+00:11:25:21,00:11:30:00,Imam li zadovoljstvo obraèati se|gospodinu Scroogeu ili gospodinu Marleyu?
+00:11:30:04,00:11:32:14,Gospodin Marley je bio|mrtav ovih sedam godina.
+00:11:33:16,00:11:37:09,Umro je pre sedam godina...|baš na ovu noæ.
+00:11:39:15,00:11:41:20,Pa, ne sumnjamo da|je njegova darežljivost
+00:11:42:00,00:11:44:17,dobro zastupljena i u|njegovom preživelom partneru.
+00:11:45:21,00:11:49:00,U ovo sveèano doba godine,|gospodine Scrooge,
+00:11:49:01,00:11:53:12,više je nego obièno poželjno|da damo neku malu proviziju
+00:11:53:13,00:11:55:20,za bedne i siromašne.
+00:11:55:21,00:11:59:23,Hiljade žele normalni komfor,|gospodine.
+00:12:05:23,00:12:07:14,Zar nema zatvora?
+00:12:11:08,00:12:14:15,Zatvora?|Da, da, ima puno zatvora.
+00:12:16:14,00:12:19:23,A sindikalne radionice,|dali još uvek rade?
+00:12:20:21,00:12:24:05,Rade. Voleo bih|da mogu suprotno reèi.
+00:12:24:06,00:12:26:10,Radna snaga je u punoj snazi?
+00:12:27:15,00:12:30:00,Vrlo je zaposlena, gospodine.|- Dobro!
+00:12:30:08,00:12:34:02,Bojao sam se da se nešto dogodilo što bi ih|spreèilo u njihovom svrsishodnom usmerenju.
+00:12:36:00,00:12:40:22,Da. U ovo sveèano doba godine,|nekolicina nas zeli da skupi novac
+00:12:41:02,00:12:46:00,da kupimo siromašnima nešto mesa|i piæa i sredstva za grejanje.
+00:12:46:04,00:12:48:01,Za šta da vas pribeležimo?
+00:12:49:07,00:12:52:23,Za ništa.|- Oh, želite ostati anonimni?
+00:12:53:00,00:12:56:16,Želim da me ostavite na miru!|Sam nisam sretan za Božiæ
+00:12:56:17,00:12:59:15,i ne mogu priuštiti sebi|da èinim sretnima besposlièare.
+00:13:00:18,00:13:03:03,Podupirem ustanove koje sam spomenuo.
+00:13:03:04,00:13:06:01,I oni koji su potrebni|moraju da idu tamo.
+00:13:08:19,00:13:11:00,Mnogi ne mogu tamo.
+00:13:11:01,00:13:15:16,I, pa, iskreno,|mnogi bi radije umrli.
+00:13:15:17,00:13:19:14,Onda bolje da to urade|i smanje višak populacije.
+00:13:24:00,00:13:25:23,Doviðenja, gospodo!
+00:13:26:17,00:13:28:00,Doviðenja.
+00:13:44:06,00:13:47:06,Želiš sutra ceo dan slobodan,|pretpostavljam?
+00:13:48:04,00:13:49:20,Pa, ako vam odgovara, gospodine.
+00:13:50:07,00:13:52:22,Ne odgovara mi.|I nije fer.
+00:13:53:09,00:13:56:21,Da ti uzmem pola krune za to,|mislio bi da si iskorišten.
+00:13:56:22,00:14:01:11,A opet ne bi mislio da sam ja iskorišten|kada ti platim dnevnicu za ništa.
+00:14:02:04,00:14:05:08,Pa, to je samo jednom godišnje,|gospodine.
+00:14:05:09,00:14:09:08,Jadan izgovor za dzeparenje|svakog 25. decembra.
+00:14:11:10,00:14:15:01,Ali ako moraš da imaš celi dan.
+00:14:15:02,00:14:17:17,Budi ovde što ranije sledeæeg jutra.
+00:14:18:12,00:14:19:14,Gospodine.
+00:15:10:19,00:15:13:06,U èast Badnjaku!
+00:16:19:17,00:16:21:04,Prokletstvo!
+00:16:32:02,00:16:34:04,Gde si? Ovde!
+00:16:35:17,00:16:38:19,Zašto se sve meni dogaða?
+00:17:07:06,00:17:09:06,Odlazi! Odlazi!
+00:17:29:12,00:17:30:12,Besmislica!
+00:19:17:19,00:19:20:03,Sam sam sebe uplašio.
+00:19:22:12,00:19:23:20,To je to.
+00:21:44:10,00:21:45:12,Sve je to još uvek smi...
+00:22:20:06,00:22:21:06,Šta sada!
+00:22:22:00,00:22:23:14,Šta želiš od mene?
+00:22:23:15,00:22:27:05,Oh, puno.
+00:22:29:18,00:22:34:06,Ko si ti?|- Pitaj me ko sam bio.
+00:22:34:07,00:22:35:21,Ko si bio onda?
+00:22:36:16,00:22:39:17,Za života, bio sam tvoj partner,
+00:22:39:18,00:22:42:20,Jacob Marley.
+00:22:47:20,00:22:49:08,Možeš li da sedneš?
+00:22:50:00,00:22:53:07,Mogu.|- Uradi to onda.
+00:23:05:02,00:23:07:18,Ne veruješ u mene.
+00:23:10:04,00:23:11:13,Ne.
+00:23:11:14,00:23:14:15,Zašto sumnjaš u svoja cula?
+00:23:14:16,00:23:17:08,Zato što i najmanje stvari|mogu uticati na njih.
+00:23:17:09,00:23:20:20,I mali poremeèaj u stomaku|ih može uèiniti varljivim.
+00:23:20:21,00:23:24:09,Možeš biti nesvareni|zalogaj govedine. Mrlja senfa.
+00:23:24:10,00:23:27:20,Mrva sira. Deo nedovoljno kuvanog krompira.
+00:23:28:00,00:23:31:07,Više je safta nego groba oko tebe,|šta god da si.
+00:23:33:17,00:23:38:18,Milost! Strašna utvaro,|zašto me muèiš?
+00:23:38:19,00:23:42:23,Èoveèe ovozemaljskog uma,|veruješ li u mene ili ne?
+00:23:43:00,00:23:44:20,Verujem! Moram!
+00:23:44:21,00:23:49:07,Jadan! Jadan ja!
+00:23:49:08,00:23:52:01,Okovan si lancima.|Zašto?
+00:23:52:11,00:23:56:02,Nosim lance koje|sam iskovao za života.
+00:23:56:03,00:24:01:01,Napravio sam ih kariku|po kariku i metar po metar.
+00:24:01:02,00:24:03:23,Prepoznaješ li njihov šablon?
+00:24:05:05,00:24:09:11,Možeš li zamisliti težinu|i dužinu lanca koji ti nosiš?
+00:24:09:13,00:24:13:12,Bio je težak i dugaèak kao|ovaj pre sedam Badnjaka.
+00:24:13:13,00:24:17:21,Oh, tvoj lanac je masivan.
+00:24:19:14,00:24:22:22,Jacobe, ne govori mi više.
+00:24:22:23,00:24:25:00,Prièaj mi utešno, Jacobe.
+00:24:28:12,00:24:31:06,Nemam za davanje.
+00:24:33:10,00:24:35:14,Ne mogu da ostanem.
+00:24:35:15,00:24:38:01,Ne mogu nigde stati.
+00:24:38:02,00:24:43:00,Oznaèen sam, za života, moj duh nije nikada|išao van naše raèunovodstvene kancelarije,
+00:24:43:01,00:24:48:05,nije nikada tumarao van uskih|granica naše rupe za menjanje novca.
+00:24:48:06,00:24:52:04,Sada beskrajna putovanja leže preda mnom.
+00:24:53:11,00:24:57:10,Mrtav si sedam godina|i celo vreme putuješ?
+00:24:58:08,00:25:02:06,Celo vreme.|Bez odmora, bez mira.
+00:25:04:02,00:25:06:12,Mora da si obišao|puno zemlje u sedam godina.
+00:25:10:12,00:25:16:01,Bio sam slep! Slep!|Nisam mogao da vidim svoj život!
+00:25:16:02,00:25:21:14,Potrošen i zloupotrebljen.|Oh, jadan... Oh, jadan ja!
+00:25:21:15,00:25:24:05,Ali uvek si bio|dobar èovek za posao!
+00:25:24:06,00:25:26:07,Posao!
+00:25:37:16,00:25:41:04,Èoveèanstvo... je bilo moj posao.
+00:25:41:05,00:25:44:04,Opšta dobrobit je bila moj posao.
+00:25:45:01,00:25:49:08,Dobroèinstvo, milosrðe, strpljenje i|dobronamernost su sve bili moji poslovi.
+00:26:06:12,00:26:09:20,Slušaj me!|Moje vreme je skoro gotovo.
+00:26:09:21,00:26:13:09,Hoæu. Ali nebudi težak,|Jacobe. Moli se.
+00:26:13:10,00:26:15:12,Ovde sam da te upozorim
+00:26:15:13,00:26:19:03,da još uvek imaš šansu|i nadu izbeæi moju sudbinu.
+00:26:19:04,00:26:22:20,Šansu koju æu ti|ja osigurati, Ebenezer.
+00:26:24:22,00:26:29:00,Uvek si mi bio dobar prijatelj,|Jacobe. Hvala ti.
+00:26:29:04,00:26:32:06,Obilaziæe te tri duha.
+00:26:35:04,00:26:36:17,To je šansa i nada?
+00:26:38:10,00:26:41:00,Radije ne bih.|- Oèekuj prvog
+00:26:41:01,00:26:44:05,sutra kada zvona odzvone jedan.
+00:26:44:06,00:26:47:08,Mogu li ih uzeti sve odjednom|i završiti s tim, Jacobe?
+00:26:48:10,00:26:51:19,Oèekuj drugog sledeæe|noæi u isti sat.
+00:26:52:22,00:26:56:09,I treèeg sledeæu noæ,
+00:26:56:10,00:26:59:07,kada zadnji udarac ponoèi
+00:26:59:23,00:27:02:14,prestane da vibrira.
+00:27:09:21,00:27:13:18,Gledaj da me više ne vidiš.
+00:27:44:11,00:27:46:17,Žao mi je.
+00:27:47:17,00:27:50:01,Voleo bih da mogu da ti pomognem.
+00:29:02:20,00:29:07:06,Jesi li ti duh èiji|mi je dolazak najavljen?
+00:29:08:14,00:29:10:19,Jesam.
+00:29:22:17,00:29:26:00,Je li moguæe da staviš svoju kapu?
+00:29:28:06,00:29:33:13,Zar æeš tako brzo ugasiti,|svojim ovozemaljskim rukama,
+00:29:33:14,00:29:37:14,svetlo koje ja dajem?
+00:29:37:15,00:29:39:14,Ne, ne! Ne, ne! Žao mi je.
+00:29:39:15,00:29:42:12,Nisam ništa time mislio.|Nisam mislio da te uvredim.
+00:29:42:16,00:29:44:14,Samo sam mislio...
+00:29:59:13,00:30:02:15,Ko i šta si ti?
+00:30:05:06,00:30:09:13,Ja sam Duh Božiæne Prošlosti.
+00:30:13:11,00:30:14:20,Davne prošlosti?
+00:30:15:10,00:30:18:05,Tvoje prošlosti.
+00:30:19:19,00:30:22:03,Ustani.
+00:30:22:04,00:30:26:08,I prošetaj sa mnom.
+00:30:43:01,00:30:45:12,Ali ja sam smrtnik|i podložan sam da padnem.
+00:30:46:03,00:30:49:22,Otpusti sav teret|osim moje ruke ovde...
+00:30:51:00,00:30:55:03,i trebao bi da budeš|sklon veæem od ovoga.
+00:31:40:07,00:31:41:15,Tako mi raja.
+00:31:42:17,00:31:44:12,Odgajen sam u ovom mestu.
+00:31:46:00,00:31:47:20,Bio sam deèak ovde.
+00:31:47:21,00:31:51:22,Tvoja usnica... drhti.
+00:31:53:22,00:31:56:06,I šta je to?
+00:31:58:17,00:32:01:20,Na tvom obrazu?|- Ništa.
+00:32:02:17,00:32:04:09,Nešto mi je u oku.
+00:32:08:06,00:32:10:15,Seæaš li se puta?
+00:32:11:15,00:32:13:15,Seæam li ga se?
+00:32:14:10,00:32:16:17,Mogao bih ga|proæi zavezanih oèiju.
+00:32:18:20,00:32:21:01,Ðiha! Ðiha!
+00:32:26:01,00:32:30:13,Ovo su samo senke|stvari koje su bile.
+00:32:31:07,00:32:36:13,Nisu nas svesni.
+00:32:41:18,00:32:43:06,Poznavao sam ih.
+00:32:44:08,00:32:46:23,Sve ih poznajem.
+00:32:47:00,00:32:49:07,Bili su moji školski prijatelji.
+00:32:50:20,00:32:53:12,Nastavimo dalje.
+00:33:07:15,00:33:12:07,Ovo...|Ovo je bila moja škola.
+00:33:12:09,00:33:16:08,Ova škola nije skroz napuštena.
+00:33:17:02,00:33:19:00,Usamljeno dete...
+00:33:19:14,00:33:22:06,zanemareno od strane prijatelja...
+00:33:22:18,00:33:26:07,je i dalje ostalo ovde.
+00:33:27:00,00:33:28:17,Znam.
+00:34:08:22,00:34:10:02,Jadan deèak.
+00:34:10:18,00:34:12:17,Jadan, jadan deèak.
+00:34:14:00,00:34:19:11,Da vidimo... drugi Božiæ.
+00:34:43:00,00:34:47:06,Ebenezer!
+00:34:47:07,00:34:52:11,Dragi, dragi brate!|Došla sam da te odvedem kuæi!
+00:34:52:12,00:34:55:15,Kuæi mala Fan?|- Da, kuæi!
+00:34:55:23,00:34:59:04,Otac je puno|srdaèniji nego inaèe.
+00:34:59:05,00:35:01:20,Prièao mi je tako nežno jedne noæi.
+00:35:01:21,00:35:04:17,Nisam se bojala da ga pitam|možeš li se vratiti kuæi.
+00:35:04:18,00:35:06:15,I rekao je da!
+00:35:06:16,00:35:09:05,I pozvao mi je|fijaker da te vratim.
+00:35:09:06,00:35:11:17,I biæemo zajedno celi Božiæ.
+00:35:11:18,00:35:15:09,I imati najsretnije|vreme na celom svetu!
+00:35:16:16,00:35:19:06,Prava si žena, mala Fan.
+00:35:24:02,00:35:28:10,Imala je veliko srce.|- Umrla je kao žena.
+00:35:29:03,00:35:31:22,I imala je, kako mislim...
+00:35:33:05,00:35:34:17,decu.
+00:35:35:15,00:35:38:01,Da, jedno dete.
+00:35:38:12,00:35:39:18,Istina.
+00:35:40:09,00:35:43:00,Tvoj sestriè.|- Da.
+00:36:03:10,00:36:06:00,Poznaješ li ovo mesto?
+00:36:07:00,00:36:10:21,Poznajem li ga?|Bio sam šegrt ovde!
+00:36:15:12,00:36:17:15,Hej, to je stari Fezziwig.
+00:36:17:16,00:36:21:11,Blagoslovljeno mu srce!|To je Fezziwig opet živ!
+00:36:24:03,00:36:26:23,Ju-hu! Ebenezer, hajde!
+00:36:29:05,00:36:32:06,Doði! Dick! Hajde!|18 je sati.
+00:36:32:07,00:36:34:09,Uskoro æe doæi.
+00:36:35:13,00:36:40:05,Dick Wilkins. Blagoslovi me, da.|Eno ga, Dick Wilkins.
+00:36:40:06,00:36:42:09,Bio mi je vrlo privržen, Dick.
+00:36:46:12,00:36:50:13,Ju-hu, moji momci! Nema više|posla veèeras. Badnje vece je!
+00:36:50:14,00:36:51:20,Uraa!
+00:36:51:21,00:36:53:20,Dick, Ebenezer, rašèistimo malo.
+00:36:53:21,00:36:57:01,Želimo puno prostora.|Puno, puno prostora.
+00:36:57:02,00:36:58:21,Hi-haj!
+00:37:08:20,00:37:10:03,Maestro!
+00:37:10:19,00:37:12:14,Mogu li pokazati...?!
+00:37:48:04,00:37:51:11,Bravo! Bravo!
+00:37:52:18,00:37:56:20,A sada, dobri violinisto,|ako izvoljevate.
+00:37:56:21,00:38:00:08,Vreme je za gospodina|Rogera de Coverleya!
+00:38:17:06,00:38:19:17,Mogu li da imam ovaj ples s vama?
+00:38:22:20,00:38:24:21,Ebenezer, ti si na redu.
+00:39:33:10,00:39:39:03,Drugi idol me je zamenio.|- Drugi idol? Koji idol?
+00:39:40:13,00:39:42:00,Zlatni.
+00:39:43:14,00:39:47:02,Ništa me na ovom|svetu ne plaši više
+00:39:47:05,00:39:50:08,od života osuðenog na siromaštvo.
+00:39:50:09,00:39:53:03,Mogu li pitati, zašto si osudila,|s takvom ozbiljnošæu,
+00:39:53:04,00:39:56:01,iskrenu težnju za materijalnim?
+00:39:57:06,00:40:00:01,Previše se bojiš sveta, Ebenezer.
+00:40:01:21,00:40:04:05,Promenio si se.|- Promenio?
+00:40:04:06,00:40:08:05,Možda sam postao pametniji, ali moji|oseæaji prema tebi nisu promenjeni.
+00:40:08:06,00:40:10:00,Naš ugovor je star.
+00:40:10:04,00:40:13:23,Napravili smo ga kada smo oboje|bili siromašni i zadovoljni time.
+00:40:14:22,00:40:16:21,Kada je napravljen...
+00:40:18:10,00:40:22:07,bio si drugi èovek.|- Bio sam deèak!
+00:40:27:19,00:40:29:18,Oslobaðam te, Ebenezer.
+00:40:32:10,00:40:34:23,Jesam li ikad to tražio?
+00:40:35:00,00:40:38:08,Reèima, ne.|- Èime, onda?
+00:40:39:13,00:40:41:16,Promenjenim duhom.
+00:40:42:04,00:40:45:07,Drugaèijom atmosferom života.
+00:40:45:13,00:40:50:00,Svime što je moju ljubav èinilo|imalo vrednom u tvojim oèima.
+00:40:51:01,00:40:55:00,Reci mi, Ebenezer,|da nema ovog ugovora meðu nama,
+00:40:55:01,00:40:56:21,dal bi li me sada tražio?
+00:40:59:14,00:41:00:21,Ne.
+00:41:03:13,00:41:05:08,Misliš da ne bih?
+00:41:06:10,00:41:09:08,Rado bih mislila suprotno da mogu.
+00:41:11:06,00:41:16:06,Ali da si danas slobodan, dal bi|izabrao devojku bez nasledstva?
+00:41:16:07,00:41:19:15,Devojku ostavljenu bez penija|nakon smrti njenih roditelja?
+00:41:20:07,00:41:23:10,Ti, koji sve meriš kroz dobit?
+00:41:27:00,00:41:29:15,Oslobaðam te, Ebenezer.
+00:41:30:13,00:41:33:21,Sretno ti u životu|kojeg si odabrao.
+00:41:39:04,00:41:42:09,Duše, makni me s ovog mesta.
+00:41:42:10,00:41:45:22,Rekao sam ti,|ovo su senke stvari koje su bile.
+00:41:46:02,00:41:49:10,Takve su kakve su.|Nemoj mene kriviti.
+00:41:49:14,00:41:52:07,Makni me.|Ne mogu da podnesem to.
+00:42:04:06,00:42:07:10,Ostavi me! Vrati me nazad!
+00:42:08:06,00:42:10:02,Ne opsedaj me više!
+00:43:06:04,00:43:08:14,Oh, do vraga!
+00:43:39:11,00:43:41:15,Uði, Scrooge!
+00:44:16:02,00:44:20:16,Uði! Uði|i upoznaj me, èoveèe!
+00:44:26:13,00:44:30:03,Ja sam Duh Božiæne Sadašnjosti.
+00:44:31:23,00:44:34:15,Gledaj me!
+00:44:42:11,00:44:47:00,Nisi nikada pre|video sliène meni?
+00:44:49:17,00:44:54:20,Nikada. - Nisi nikada hodao|napred sa mojom starijom braæom?
+00:44:56:10,00:44:58:11,Ne bih rekao da jesam.
+00:44:59:10,00:45:02:11,Imaš puno braæe?
+00:45:10:00,00:45:12:13,Više od 1.800.
+00:45:12:20,00:45:17:15,1.842. da budem taèan.
+00:45:24:06,00:45:28:15,Vidim da nosiš korice oružja,|ali ne i maè.
+00:45:31:05,00:45:32:17,Taèno.
+00:45:34:11,00:45:39:07,Mir na Zemlji.|Dobra volja prema èoveku.
+00:45:42:12,00:45:46:10,Duše, vodi me gde želiš.
+00:46:00:08,00:46:02:19,Dotakni moj plašt.
+00:46:52:18,00:46:56:01,Šta se dogaða?|Šta radiš?
+00:47:25:00,00:47:28:13,Vrlo èudno.|- Taèno tako.
+00:47:29:03,00:47:35:13,Nije mnogim smrtnicima odobrena božanska|perspektiva na svet èoveka. - Da.
+00:48:21:09,00:48:23:14,Prilièno je lepo.
+00:48:48:00,00:48:51:13,Duše, ovi jadni ljudi nemaju|sredstava da skuvaju svoju hranu.
+00:48:51:14,00:48:53:11,A ipak zahtevaš da se|zatvori jedino mesto
+00:48:53:15,00:48:56:13,u kojem mogu podgrejati svoje|male obroke svaki sedmi dan.
+00:49:03:15,00:49:06:01,Slušaj me, Scrooge.
+00:49:08:14,00:49:14:16,Ima nekih na ovoj tvojoj Zemlji|koji tvrde da poznaju mene i moju braæu,
+00:49:14:17,00:49:19:04,i deluju zlom voljom|i sebiènošæu u naše ime.
+00:49:19:05,00:49:22:13,Ti takozvani "sveštenici"
+00:49:22:14,00:49:27:18,su strani meni i mojoj rodbini|kao da nikada nisu živeli.
+00:49:27:19,00:49:31:08,Pripiši njihova dela njima,|a ne nema.
+00:49:32:19,00:49:35:12,Da. Hoæu.
+00:49:39:18,00:49:41:00,Osecaš li to?
+00:49:42:03,00:49:43:16,Peèena guska!
+00:49:44:11,00:49:45:19,Doði!
+00:50:07:08,00:50:11:08,Pretpostavljam da je ovo sumorno siromašno|mesto stanovanja od nekog znaèaja.
+00:50:11:09,00:50:16:14,To je sve što tvoj odani zapisnièar može priuštiti|sebi za svojih mršavih 15 bobova nedeljno.
+00:50:16:15,00:50:18:06,Majko!|- Tata!
+00:50:18:07,00:50:19:20,Upravo smo prolazili pored pekare.
+00:50:20:00,00:50:22:10,I osetili smo miris naše guske,|ukusno se peèe.
+00:50:22:12,00:50:26:03,Zatvorite vrata, molim vas.|Šta se dogodilo s vašim dragim ocem?
+00:50:26:04,00:50:30:11,I bratom. I Martom,|nije toliko kasnila prošli Božiæ.
+00:50:30:12,00:50:32:13,Majko, evo je, majko.|Evo Marte.
+00:50:32:14,00:50:36:01,Marta! Èekaj da vidiš našu gusku.|Èudesna je.
+00:50:36:02,00:50:38:08,Petere, idi u pekaru da pokupiš pticu.
+00:50:38:09,00:50:41:22,I povedi decu sa sobom.|I moli se, nemoj da dangubiš.
+00:50:41:23,00:50:45:08,Drago mi je da si živa!|Draga, koliko si kasnila!
+00:50:45:09,00:50:49:05,Imali smo posao da završimo|noæas i sve da poèistimo jutros.
+00:50:49:06,00:50:52:21,Nije bitno. Važno je da si tu.|Sedni ispred vatre i ugrej se.
+00:50:52:22,00:50:55:06,Ne. Ne, ne, ne.|Otac dolazi.
+00:50:55:07,00:50:58:07,Sakrij se, Marta.|Moraš se sakriti. Sakrij se, Marta.
+00:51:06:16,00:51:11:06,Hladno je napolju.|- Zdravo, oèe. Zdravo, Timmy.
+00:51:16:00,00:51:17:16,Gde je naša Marta?
+00:51:18:21,00:51:20:12,Neæe doæi.
+00:51:21:11,00:51:25:12,Neæe doæi?|Neæe doæi za Božiæ?
+00:51:27:00,00:51:28:07,Ovde sam, oèe!
+00:51:29:08,00:51:31:01,Ala smo te, oèe.
+00:51:31:02,00:51:34:23,Nisam mogla da podnesem videti te|razoèaranog. Makar samo iz zabave.
+00:51:35:00,00:51:37:15,Tako je divno videti te,|moja Marta.
+00:51:37:16,00:51:40:06,Hajde, Timmy.|Èujem puding kako peva u bakru.
+00:51:40:07,00:51:42:08,Hoæemo li pogledati, onda?
+00:51:42:20,00:51:47:15,Kako se mali Timmy ponašao?|- Kao zlato. I bolje.
+00:51:48:14,00:51:51:04,Nekako postane zamišljen|sedeæi toliko sam,
+00:51:51:05,00:51:53:23,i zamišlja najèudnije|stvari koje si ikada èula.
+00:51:54:00,00:51:57:06,Rekao mi je, dolazeæi kuæi, kako se|nadao da su ga ljudi videli u crkvi,
+00:51:57:09,00:51:58:22,zato što je bogalj...
+00:52:00:05,00:52:04:01,i da bi im moglo biti|ugodno setiti se toga na Božiæ
+00:52:04:02,00:52:07:20,ko èini da šepavi prosjaci|hodaju i slepci vide.
+00:52:10:11,00:52:15:12,Verujem da svaki dan izrasta|još srdaèniji i jaèi, moja draga.
+00:52:23:14,00:52:25:11,Puding izgleda ukusno!
+00:52:26:03,00:52:29:18,Cela perionica|miriše kao poslastièarnica.
+00:52:31:05,00:52:36:03,Duše, reci mi,|hoæe li malecki Tim...?
+00:52:36:04,00:52:41:20,Vidim prazno mesto|u jadnom uglu dimnjaka...
+00:52:43:10,00:52:46:11,i štaku bez vlasnika.
+00:52:49:22,00:52:52:05,Brižno oèuvanu.
+00:52:54:10,00:52:57:07,Hura!|- Božiæna guska!
+00:52:57:09,00:53:00:21,Napravite mesta.|Maknimo taj prekrivac.
+00:53:01:13,00:53:03:20,Divno! Bravo, Petere.
+00:53:03:21,00:53:06:22,Ne verujem da sam ikada video|velièanstveniju peèenu gusku.
+00:53:06:23,00:53:09:07,Lepa je to ptica, to je sigurno.
+00:53:10:01,00:53:13:13,Ali moliæu se da|jednog Božiæa, možda,
+00:53:13:14,00:53:15:09,deca probaju gusku.
+00:53:15:10,00:53:18:01,Možda jednog dana, moja draga.|Možda jednog dana.
+00:53:19:11,00:53:20:19,Zdravica.
+00:53:24:03,00:53:25:12,Za gospodina Scroogea.
+00:53:26:15,00:53:28:12,Osnivaèa naše gozbe.
+00:53:29:16,00:53:33:01,Osnivaèa gozbe, baš.|Da je barem ovde.
+00:53:33:02,00:53:35:05,Dala bih mu ono što mi|je na pameti da se gosti,
+00:53:35:09,00:53:37:07,i nadala se da bi imao|dobar apetiti za to.
+00:53:37:08,00:53:40:22,Moja draga, deca...|Božiæ je.
+00:53:40:23,00:53:43:21,Božiæ, sigurno. Kako neko|može piti za zdravlje tako odvratnog,
+00:53:44:01,00:53:47:04,škrtog, teškog, bezoseæajnog|èoveka kao što je g. Scrooge?
+00:53:47:05,00:53:51:05,I znaš da je takav, Roberte.|Niko to ne zna bolje od tebe.
+00:53:51:06,00:53:53:20,Moja draga, Božiæ je.
+00:53:55:03,00:53:58:07,Piæu u njegovo zdravlje zbog tvog|dobra i ovog dana, ali ne njegovog.
+00:54:00:15,00:54:03:03,Sretan Božiæ i sretna Nova Godina.
+00:54:03:21,00:54:06:18,On æe biti jako èestit i vrlo sretan,|ne sumnjam.
+00:54:07:07,00:54:11:18,Svima nam sretan Božiæ,|dragi moji. Bog nas blagoslovio.
+00:54:11:19,00:54:13:14,Bog nas blagoslovio.
+00:54:13:15,00:54:16:12,Bog nas blagoslovio, sve.
+00:54:17:13,00:54:19:22,Èestit Božiæ i sretna Nova Godina.|- Dao Bog.
+00:54:21:11,00:54:25:08,Dobri duše,|reci da æe malecki Tim biti pošteðen.
+00:54:25:12,00:54:29:08,Ako ove senke ostanu|nepromenjene buduænošæu...
+00:54:31:00,00:54:35:16,dete æe umreti.|- Umreti! Ne, duše. Ne.
+00:54:37:10,00:54:41:18,Šta onda? Ako æe umreti,|i bolje.
+00:54:43:17,00:54:46:10,I da smanji višak populacije.
+00:55:07:23,00:55:10:00,Znaèi misliš na životinju?|- Da.
+00:55:10:04,00:55:11:22,Živu životinju?|- Da.
+00:55:11:23,00:55:14:06,Poprilièno neprijatnu životinju?|- Da.
+00:55:14:07,00:55:15:14,Divlju životinju?|- Da.
+00:55:15:15,00:55:18:11,Èekaj, èekaj! Je li to životinja|koja rokta i reži?
+00:55:18:12,00:55:19:14,Da!
+00:55:19:18,00:55:21:12,I živi u Londonu?|- Da.
+00:55:21:16,00:55:22:14,Konj?|- Ne.
+00:55:22:15,00:55:23:14,Krava?|- Ne.
+00:55:23:15,00:55:25:01,Pas?|- Svinja?
+00:55:25:02,00:55:26:14,Ne.|- Guzica?
+00:55:27:20,00:55:29:06,Da i ne.
+00:55:30:06,00:55:33:19,Znam ko je to, Frede!|Znam! To je tvoj stric Scrooge!
+00:55:33:20,00:55:35:05,Da!
+00:55:43:09,00:55:46:11,Božiæ je podvala?|Stvarno je to rekao?
+00:55:46:15,00:55:49:16,Kao što sam živ.|I veruje u to.
+00:55:49:17,00:55:51:20,Nemam strpljenja s njim, Frede.
+00:55:52:18,00:55:54:14,Ja imam.|Žao mi ga je.
+00:55:55:07,00:55:58:02,Ko pati zbog njegove zle æudi?|Samo on.
+00:55:58:03,00:56:01:19,Odluèio je da nas ne voli,|neæe doæi i veèerati s nama,
+00:56:01:23,00:56:04:00,i šta je posledica?|Gubi veèeru.
+00:56:04:01,00:56:08:02,Tako je, gubi vrlo dobru veèeru.|- Velièanstvenu veèeru.
+00:56:08:03,00:56:09:15,Odlièno.
+00:56:10:03,00:56:12:15,Dao nam je mnogo veselja,|to je sigurno,
+00:56:12:19,00:56:15:11,i mislim da bi bilo nezahvalno|ne popiti u njegovo zdravlje.
+00:56:15:12,00:56:18:10,On to ne bi prihvatio od mene,|ali ipak neka mu.
+00:56:19:00,00:56:22:05,Sretan Božiæ starcu,|kakav god da je. Stricu Scroogeu.
+00:56:22:06,00:56:24:04,Za strica Scroogea.
+00:56:37:14,00:56:40:01,Zar su životi duhova tako kratki?
+00:56:40:05,00:56:45:00,Moj život na ovoj kugli je vrlo kratak.
+00:56:46:08,00:56:48:05,Završava veèeras.
+00:56:48:06,00:56:52:16,Veèeras?|- Veèeras u ponoæ.
+00:56:54:13,00:56:59:17,Slušaj. Vreme se približava.
+00:57:08:11,00:57:09:19,Oprosti mi...
+00:57:10:14,00:57:13:11,ali vidim nešto èudno|kako viri ispod tvoje suknje.
+00:57:14:03,00:57:16:14,Je li to stopalo ili kandža?
+00:57:16:21,00:57:21:18,Mogla bi biti kandža,|s obzirom koliko ima mesa na njoj.
+00:57:24:09,00:57:28:06,Gledaj ovde.|- Odbij!
+00:57:28:07,00:57:32:13,Oh, èoveèe. Gledaj ovde.|- Ti otkaèeni starkeljo.
+00:57:32:14,00:57:36:02,Gledaj! Gledaj!
+00:57:36:17,00:57:38:11,Ovde dole!
+00:57:41:23,00:57:45:04,Odlazi!|- Jesu li tvoji?
+00:57:45:16,00:57:47:15,Èovekovi su.
+00:57:48:18,00:57:51:07,Ovaj deèak je Neznanje.
+00:57:51:19,00:57:54:05,Devojèica je Želja.
+00:57:54:17,00:57:57:13,Èuvaj ih se oboje.
+00:58:17:00,00:58:19:14,Zar nemaju utoèište?|Nikakvih resursa?
+00:58:20:21,00:58:22:14,Zar nema zatvora?
+00:58:27:05,00:58:30:00,Zar nema radionica?
+00:59:36:03,00:59:39:21,Jesam li u prisutnosti|Duha Božiæa Koji Tek Dolazi?
+00:59:42:22,00:59:46:11,Pokazaæeš mi senke stvari|koje se nisu dogodile ali hoæe.
+00:59:46:12,00:59:48:09,Je li tako, duše?
+00:59:50:01,00:59:53:18,Duše Buduænosti, bojim te se|više od ijedne sablasti koju sam video.
+00:59:53:19,00:59:56:06,Ali znam da æe mi|tvoja svrha uèiniti dobro.
+00:59:57:00,00:59:59:19,Spreman sam podneti tvoje društvo.
+00:59:59:20,01:00:00:20,Samo napred.
+01:00:06:20,01:00:09:11,Noæ brzo jenjava.|To vreme mi je dragoceno.
+01:00:09:12,01:00:10:12,Napred, duše.
+01:00:23:12,01:00:26:12,Kada je umro?|- Sinoæ, verujem.
+01:00:26:13,01:00:29:09,Ili u neko doba na Božiæ.|- Mislio sam da nikada neæe umreti.
+01:00:30:01,01:00:31:16,Šta je uradio sa svojim novcem?
+01:00:31:17,01:00:35:02,Nije ga ostavio meni.|Toliko znam.
+01:00:36:16,01:00:39:12,Verovatno æe biti jeftina saHrana.
+01:00:39:13,01:00:42:10,Života mi, ne mogu da smislim nikoga|ko bi želeo da prisustvuje.
+01:00:42:11,01:00:46:19,Ja ne bih ima ništa protiv...|ako je ruèak osiguran.
+01:00:46:20,01:00:48:02,To, da.
+01:00:49:06,01:00:50:13,Kakav strašan èovek.
+01:00:50:14,01:00:52:23,U redu.|- Doviðenja, gospodo.
+01:00:58:06,01:01:03:06,Saberi se, Ebenezer.|Rastresen si.
+01:03:46:23,01:03:48:13,Ovde me neæete uhvatiti.
+01:03:54:00,01:03:55:17,Božiæni puding, nema sumnje.
+01:04:16:14,01:04:18:16,Ja sam... Na Lime ulici sam.
+01:04:25:10,01:04:27:03,Ma daj sada.
+01:05:54:03,01:05:58:20,Sretan Božiæ, Joe. - I sretna Nova|Godina, da budemo sigurni. Uði.
+01:06:00:03,01:06:03:18,Sedi u moju sobu za primanja,|pa da pogledamo.
+01:06:08:20,01:06:10:01,Ovde.
+01:06:13:00,01:06:15:01,Kako biste ovo nazvali,|gospoðo Dilber, ha?
+01:06:15:02,01:06:16:18,Gospoðo Dilber?
+01:06:18:06,01:06:19:22,Zavese za krevet.
+01:06:21:15,01:06:24:13,Hoæete reèi da ste ih|skinuli dok je tamo ležao?
+01:06:25:09,01:06:27:00,Jesam.
+01:06:27:07,01:06:29:01,Zašto ne?
+01:06:31:02,01:06:34:16,Roðeni ste da si stvorite bogatstvo,|i sigurno æete to uraditi.
+01:06:34:20,01:06:38:10,Pa, ne smem obuzdavati svoju ruku|kada mogu dobiti nešto od toga...
+01:06:38:11,01:06:40:20,Da niste umastili te pokrivaèe.
+01:06:41:00,01:06:44:17,Njegove pokrivaèe?|- A èiji bi bili?
+01:06:45:10,01:06:49:06,Neæe mu biti hladno bez njih sada,|usudim se reæi.
+01:06:49:07,01:06:53:23,Nadam se da nije umro od neèeg prenosivog.|- Ne boj se toga.
+01:06:54:06,01:06:58:08,Nisam toliko bila zanesena njegovom|firmom koliko sam švrljala okolo.
+01:07:02:03,01:07:05:14,Možeš pregledavati tu|košulju dok te oèi ne zabole,
+01:07:05:15,01:07:08:09,i neæeš naæi nijednu rupu u njoj.
+01:07:09:08,01:07:11:20,Ta je bila najbolja koju je imao.|- Gospoðo Dilber!
+01:07:12:03,01:07:14:00,Bila bi upropaštena da nije bilo mene.
+01:07:14:04,01:07:18:10,Otpušteni ste! Otpušteni!|- Kako to mislite "upropaštena"?
+01:07:18:11,01:07:24:13,Neko je bio dovoljno glup da mu|je obuèe kako bi bio sahranjen u njoj.
+01:07:24:20,01:07:27:11,Ali skinula sam je s njega.
+01:07:31:10,01:07:33:12,Ovo je kraj toga, vidiš.
+01:07:34:07,01:07:37:13,Sve je terao od sebe dok je bio živ.
+01:07:38:18,01:07:41:16,Samo kako bismo mi|profitirali sada kada je mrtav.
+01:07:42:12,01:07:47:09,Da je imao nekoga da se pobrine|za njega kada ga pogodi smrt,
+01:07:47:10,01:07:52:17,umesto da leži tamo, sam samcat,|izdišuæi svoj poslednji dah...
+01:07:52:18,01:07:55:15,pa, ne bismo sada imali|ove stvari da prodamo, zar ne?
+01:08:21:08,01:08:23:16,Duše! Shvatam! Shvatam!
+01:08:24:21,01:08:27:21,Sluèaj ovog nesretnog èoveka koji|je umro usamljenom, samotnom smræu
+01:08:27:22,01:08:29:12,bi mogao biti moj lièni.
+01:08:29:16,01:08:31:13,Moj život ide u tom smeru sada.
+01:08:48:20,01:08:50:17,Milostiva nebesa!|Šta je to?
+01:08:55:11,01:08:58:08,Duše, ovo je strašno mesto.
+01:08:59:02,01:09:02:19,Kada ga napustim, neæu zaboraviti|njegovu poruku. Veruj mi. Idemo!
+01:09:16:01,01:09:19:23,Razumem. I bih,|da mogu, ali nemam snage.
+01:09:32:09,01:09:37:08,Duše, ako postoji ijedna osoba koja|oseæa emocije izazvane smræu ovog èoveka,
+01:09:37:12,01:09:40:05,pakaži mi je, preklinjem te.
+01:09:51:22,01:09:55:13,Jesmo li propali?|- Još ima nade.
+01:09:56:05,01:09:59:05,Nade?|Samo ako se predomisli.
+01:10:00:08,01:10:02:07,Prošlo ga je predomišljanje.
+01:10:04:01,01:10:05:13,Mrtav je.
+01:10:06:07,01:10:07:13,Mrtav?
+01:10:11:14,01:10:13:14,Kome æe naši dugovi biti prebaèeni?
+01:10:13:15,01:10:15:02,Ne znam,|ali do tada æemo imati novac.
+01:10:15:05,01:10:19:13,A èak i ako ne budemo, teško da æe|novi zajmodavac biti tako nemilosrdan.
+01:10:20:20,01:10:23:15,Veæeras bi trebali da spavamo|lakog srca, moja draga.
+01:10:24:09,01:10:26:23,Daj mi da vidim malo|saoseæajnosti povezane sa smræu,
+01:10:27:00,01:10:29:18,ili æe me ova soba|zauvek progoniti!
+01:10:42:03,01:10:43:06,Kasno je.
+01:10:44:13,01:10:46:06,Prošlo je vreme vašeg oca.
+01:10:48:11,01:10:52:00,Hodao je polako ovih|nekoliko poslednjih veæeri.
+01:10:52:12,01:10:54:00,Oh, hodao je on...
+01:10:55:00,01:10:59:01,sa maleckim Timom na ramenima...|brzo, uistinu.
+01:11:01:10,01:11:06:02,Ali nosio ga je|s velikom lakoèom...
+01:11:08:00,01:11:09:23,vaš otac ga je toliko voleo.
+01:11:20:06,01:11:23:08,Oèe.|- Onda, otišao si danas tamo?
+01:11:25:09,01:11:26:17,Da, moja draga.
+01:11:27:08,01:11:28:20,Želeo bih da si i ti mogla.
+01:11:29:22,01:11:32:12,Dobro bi ti došlo da vidiš|kako je zeleno to mesto.
+01:11:33:23,01:11:35:06,Viðaæeš ga èesto.
+01:11:36:09,01:11:41:23,I obeæao sam mu da æu prošetati|tamo svake... svake nedelje.
+01:11:43:06,01:11:45:14,Moje malo dete!
+01:11:47:03,01:11:49:00,Moje malo dete.
+01:11:49:04,01:11:53:11,Oèe, molim te ne budi tužan.|Molim te, oèe.
+01:11:53:12,01:11:56:04,Dobro sam, ljubavi.|Prilièno sam miran.
+01:11:58:01,01:12:02:07,Siguran sam da niko od nas nikada neæe|zaboraviti našeg jadnog maleckog Tima.
+01:12:02:08,01:12:05:00,Oh, ne, oèe.|- Niko ikada.
+01:12:05:18,01:12:06:22,Hvala vam.
+01:12:08:09,01:12:09:17,Hvala vam, dragi moji.
+01:12:35:01,01:12:36:05,Bobe.
+01:13:01:19,01:13:07:15,Sablasti... nešto mi govori da je|naš opraštajni trenutak nadohvat ruke.
+01:13:08:18,01:13:10:00,Reci mi...
+01:13:10:20,01:13:16:15,ko... je bio onaj èovek|kojeg smo videli kako leži mrtav?
+01:13:48:05,01:13:49:07,Duše...
+01:13:51:22,01:13:56:12,pre nego se približim|tom spomeniku koji pokazuješ,
+01:13:56:13,01:13:58:00,odgovori mi na jedno pitanje!
+01:13:58:23,01:14:01:10,Jesu li ovo senke|stvari koje æe biti
+01:14:01:11,01:14:03:20,ili senke stvari|koje bi mogle biti?
+01:14:04:01,01:14:07:01,Èovekovi putevi za života|nagoveštavaju eventualne završetke.
+01:14:07:02,01:14:11:04,Ali ako ti putevi napušteni, ovi|završeci æe se promeniti. Zar nije tako?
+01:14:14:00,01:14:16:20,Ne. Ne!
+01:14:16:21,01:14:20:02,Jesam li ja taj èovek|koji je ležao na krevetu?
+01:14:23:10,01:14:26:11,Ne. Duše, èuj me!
+01:14:26:12,01:14:28:20,Nisam èovek kakav sam bio!
+01:14:28:21,01:14:31:15,Zašto mi ovo pokazuješ|ako sam tako beznadan?
+01:14:32:19,01:14:33:20,Duše!
+01:14:34:09,01:14:37:11,Duše, uveri me da mogu izmeniti|ove senke koje si mi pokazao!
+01:14:37:12,01:14:39:16,Izmeniti ih promenjenim životom!
+01:14:42:22,01:14:46:01,Ne, duše! Ne! Ne, duše!
+01:14:53:19,01:14:56:09,Dobri duše... pomozi mi!
+01:14:57:13,01:14:59:22,Duše!
+01:15:01:00,01:15:02:19,Pomozi mi, duše!
+01:15:25:16,01:15:27:10,Pomozi, duše!
+01:15:38:08,01:15:42:21,Duše, poštovaæu Božiæ u srcu|i pokušaæu ga èuvati celu godinu.
+01:15:42:22,01:15:46:06,Neæu zanemariti lekcije prošlosti,|ni sadašnjosti, niti buduænosti.
+01:15:46:07,01:15:48:09,Oh, molim te, duše,
+01:15:48:10,01:15:53:03,reci mi da mogu izbrisati|natpis na tom spomeniku!
+01:16:43:18,01:16:44:20,Još su ovde?
+01:16:46:17,01:16:48:00,Još su ovde.
+01:16:49:21,01:16:50:22,Ja sam još ovde.
+01:16:52:17,01:16:53:20,Ja sam još ovde.
+01:16:56:01,01:16:58:08,Još sam ovde!
+01:17:02:07,01:17:03:11,Ne znam šta da radim.
+01:17:03:12,01:17:07:02,Lagan sam kao pero,|veseo kao školarac.
+01:17:09:16,01:17:11:07,Èuo sam taj smeh pre.
+01:17:19:09,01:17:22:06,Kažem, šta je danas?|- Ha?
+01:17:22:23,01:17:27:09,Šta je danas, moj dobri momèe?|- Danas? Pa, Božiæ.
+01:17:27:23,01:17:31:01,Božiæ je?|Nisam ga propustio.
+01:17:31:02,01:17:33:00,Duhovi su sve to|uradili u jednoj noæi.
+01:17:33:01,01:17:36:04,Mogu raditi šta god žele.|Naravno da mogu. Naravno da mogu.
+01:17:36:05,01:17:39:08,Zdravo, moj dobri momèe.|Znaš li živinara na uglu?
+01:17:39:09,01:17:42:14,Nadam se da znam.|- Kako inteligentan deèak.
+01:17:42:15,01:17:45:16,Znaš li jesu li prodali|nagraðenu curku koja je tamo visila?
+01:17:45:20,01:17:48:08,Ne malu nagraðenu curku,|onu veliku.
+01:17:48:09,01:17:52:00,Onu veliku kao ja?|- Kako divno dete.
+01:17:53:20,01:17:57:07,Da, moj poletni momèe.|- Sada tamo visi.
+01:17:57:08,01:18:00:01,Jeli? Idi i kupi je onda!
+01:18:00:02,01:18:03:06,Ma briši!|- Ne, ne, ozbiljan sam.
+01:18:03:07,01:18:06:13,Idi i kupi je, donesi je nazad ovde,|i daæu ti šiling.
+01:18:06:14,01:18:09:08,Vrati se za manje od pet minuta|i daæu ti pola krune.
+01:18:10:19,01:18:14:13,Poslaæu je Bobu Cratchitu.|Ne sme da zna ko ju je poslao.
+01:18:14:14,01:18:17:08,Dvostruko je veæa od maleckog Tima.
+01:18:20:13,01:18:21:17,Gospoðo Dilber.
+01:18:23:01,01:18:24:21,Sretan Božiæ!
+01:18:27:02,01:18:29:00,Oh, moj Bože!
+01:18:31:01,01:18:33:03,Poludeo je!
+01:18:38:01,01:18:39:13,Moja draga gospoðo Dilber,
+01:18:39:14,01:18:43:00,vi ste najljupkije stvorenje|na koje sam ikada bacio pogled.
+01:18:43:01,01:18:45:16,Plešite sa mnom, gospoðo Dilber.|Plešite sa mnom!
+01:18:45:17,01:18:48:23,Ludi ste, gospodine Scrooge!|Pustite me!
+01:18:49:14,01:18:53:09,Potpuno je poremeæen! Upomoæ!
+01:18:53:22,01:18:55:08,Kako šarmantna žena.
+01:18:55:09,01:18:56:22,Upomoæ!
+01:18:59:14,01:19:01:12,Trebao bih to da volim dok sam živ.
+01:19:02:03,01:19:03:17,Kako ima pošteno lice.
+01:19:05:15,01:19:07:11,Zdravo. Evo ptice.
+01:19:09:10,01:19:11:02,Zdravo! Hop!
+01:19:11:18,01:19:14:01,Kako ste? Sretan Božiæ.
+01:19:15:12,01:19:19:05,Pa, to je nemoguæe nositi u Camden Town.|Sigurno imate koèiju.
+01:19:21:06,01:19:23:00,Vozi, moj dobri èoveèe!
+01:19:32:15,01:19:34:11,Uzbrdo! Ðiha!
+01:19:43:09,01:19:45:10,Hip, hip! Brže!
+01:19:45:11,01:19:47:09,Spolovilo je tvoj stric!|Guzica tvoja strina!
+01:19:47:10,01:19:49:01,Evo guzice tvoje strine.
+01:19:52:11,01:19:55:03,Živnite, ljudi!|Dugo æete biti mrtvi!
+01:19:55:04,01:19:57:10,Ne dopustite da|se samo crvi zabavljaju.
+01:20:04:19,01:20:06:03,Sretan Božiæ.
+01:20:16:21,01:20:19:00,Dobro jutro, gospodine.|I sretan vam Božiæ.
+01:20:19:01,01:20:21:01,I vama, gospodine.|- Sretni blagdani!
+01:20:21:02,01:20:23:04,I sretan Božiæ tebi.
+01:20:23:17,01:20:26:11,"Bog vas blagoslovi, gospodine."|- Hvala vam, gospodine.
+01:20:27:08,01:20:30:04,Radosne vesti.|- Gospodine.
+01:20:36:21,01:20:40:17,Moj dragi gospodine, kako ste?|Nadam se da ste uspeli juèe.
+01:20:40:18,01:20:42:06,Sretan vam Božiæ, gospodine.
+01:20:43:10,01:20:44:22,Gospodin Scrooge?
+01:20:45:16,01:20:49:23,Da. Tako se zovem, i bojim se|da bi vam to moglo biti neugodno.
+01:20:50:14,01:20:53:05,Ali dopustite mi da|vas zamolim za oproštaj.
+01:20:53:09,01:20:55:02,I hoæete li imati dobrote...
+01:21:00:21,01:21:02:03,Gospodine blagoslovi me!
+01:21:02:04,01:21:06:18,Moj dragi gospodine Scrooge, jeste li|ozbiljni? - I ni èetvrt penija manje.
+01:21:06:19,01:21:09:20,Puno velikih otplata|je ukljuèeno u to, uveravam vas.
+01:21:09:21,01:21:12:04,Moj dragi gospodine,|ne znam šta da kažem na tako...
+01:21:12:05,01:21:15:23,Ne recite ništa.|Puno sam vam dužan.
+01:21:16:00,01:21:19:00,Puno vam hvala.|I budite blagoslovljeni.
+01:22:06:06,01:22:08:14,Je li tvoj gospodar kod kuæe?|- Da, gospodine.
+01:22:10:01,01:22:12:08,Ja sam... njegov stric.
+01:22:22:15,01:22:24:23,Je li to životinja koja rokæe i reži?
+01:22:25:00,01:22:25:23,Da.
+01:22:26:00,01:22:27:10,I živi u Londonu?|- Da.
+01:22:27:11,01:22:28:11,Konj?|- Ne.
+01:22:28:12,01:22:29:12,Krava?|- Ne.
+01:22:29:15,01:22:30:14,Pas.
+01:22:30:15,01:22:31:17,Svinja.|- Ne.
+01:22:31:18,01:22:32:19,Guzica.
+01:22:34:00,01:22:35:11,Da i ne.
+01:22:36:17,01:22:38:17,Znam šta je to, Frede! Znam!|- Šta?
+01:22:38:18,01:22:39:18,To je tvoj...
+01:22:41:16,01:22:43:00,Strièe Scrooge?
+01:22:44:06,01:22:45:18,Pa, neka mi je|duša blagoslovljena.
+01:22:49:00,01:22:52:00,Došao... sam na veèeru...
+01:22:54:09,01:22:56:00,ako me želite.
+01:23:01:00,01:23:03:06,Naravno, strièe!|Dobrodošao! Dobrodošao!
+01:23:03:10,01:23:06:10,Sretan Božiæ!|Svi, ovo je moj stric, Ebenezer.
+01:23:13:08,01:23:14:21,Budite dobri i prosledite to.
+01:23:15:15,01:23:18:02,Izvolite. Uživajte.
+01:23:18:15,01:23:21:15,Sledeæe godine moramo|imati ovu veèeru kod moje kuæe.
+01:23:21:16,01:23:23:01,Insistiram.
+01:23:24:00,01:23:27:14,Neæu štediti. Ipak, ne možete|poneti veèeru sa sobom, zar ne?
+01:23:27:18,01:23:29:13,Ne, ne možemo.
+01:23:58:23,01:24:01:12,Kasni punih 16 minuta.
+01:24:05:04,01:24:08:16,Šta si mislio dolazeæi|ovde u ovo doba dana?
+01:24:09:04,01:24:12:15,Jako mi je žao, gospodine.|Malo sam u zaostatku s vremenom.
+01:24:12:16,01:24:14:14,Jesi, uistinu.
+01:24:16:01,01:24:17:23,Doði ovde.
+01:24:21:00,01:24:22:16,Pa, to je samo|jednom godišnje, gospodine.
+01:24:22:20,01:24:26:07,Neæe se ponoviti.|Malo sam preterao sa slavljem juèe.
+01:24:26:11,01:24:28:21,Pa, da vam kažem nešto,|gospodine Cratchit.
+01:24:28:22,01:24:32:06,Neæu više trpeti ovakve stvari.
+01:24:32:07,01:24:33:15,I zato...
+01:24:34:19,01:24:36:23,I zato...
+01:24:37:00,01:24:40:03,æu vam povisiti platu!
+01:24:47:14,01:24:49:00,Sretan ti Božiæ, Bobe.
+01:24:51:12,01:24:54:12,Sretniji ti Božiæ, Bobe,|moj dobri kolega,
+01:24:54:16,01:24:57:16,od mnogih koje sam|ti dao u puno godina.
+01:24:57:17,01:25:01:21,Povisiæu ti platu, i uraditi šta|god mogu da pomognem tvojoj porodici.
+01:25:02:02,01:25:06:06,A razgovaraæemo o tvom poslu ovo|posle podne uz èiniju Božiænog punèa.
+01:25:06:07,01:25:08:08,Ali prvo, zapalimo vatru.
+01:25:08:12,01:25:10:12,Hoæu da odeš napolje...
+01:25:11:16,01:25:13:18,i kupiš drugu posudu uglja
+01:25:13:21,01:25:17:00,pre nego staviš još jednu|taèku na "I", Bobe Cratchite.
+01:25:17:09,01:25:19:03,Kreni, Bobe.
+01:25:19:04,01:25:21:19,Pa æemo nazdraviti.
+01:25:22:02,01:25:23:12,Uzbrdo, Bobe!
+01:25:23:13,01:25:26:10,Da. Da, gospodine.|Odmah, gospodine.
+01:25:47:00,01:25:49:08,I Scrooge je bio bolji od svoje reèi.
+01:25:49:09,01:25:52:00,Uradio je sve što|je rekao da hoæe i više.
+01:25:52:19,01:25:58:00,A našem maleckom Timu, koji je ozdravio,|Scrooge je bio kao drugi otac.
+01:25:58:04,01:26:00:23,Postao je tako dobar prijatelj,|koliko i dobar gospodar
+01:26:01:03,01:26:03:22,i tako dobar èovek kakvog|je dobri stari grad ikada znao.
+01:26:04:08,01:26:08:19,I uvek se govorilo o njemu|da je znao kako ulepšati Božiæ.
+01:26:09:18,01:26:13:11,I tako, kako je|malecki Tim na to gledao...
+01:26:13:15,01:26:16:00,Bog nas blagoslovio, sve.
+01:26:27:08,01:26:33:05,KRAJ
+01:26:33:14,01:26:37:01,Preveo: ŠimA, na srpski|svario i povratio: ZLAJA-TOLTEC

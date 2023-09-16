@@ -1,0 +1,3857 @@
+1
+00:00:06,000 --> 00:00:12,074
+ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+
+2
+00:04:47,701 --> 00:04:51,701
+www.titlovi.com
+
+3
+00:04:54,701 --> 00:04:57,598
+<i>Katastrofa u Kini.</i>
+
+4
+00:04:57,724 --> 00:05:01,367
+<i>U nuklearnoj elektrani
+Èai Van došlo je do nesreæae.</i>
+
+5
+00:05:26,640 --> 00:05:29,385
+<i>Desila se havarija na nuklearnom reaktoru,
+a stanovnici iz tog podruèja su evakuisani.</i>
+
+6
+00:05:29,510 --> 00:05:32,515
+<i>Verovatno nije radio sistem za hlaðenje.
+Radijacija je pogodila stanovništvo.</i>
+
+7
+00:05:32,640 --> 00:05:35,306
+<i>Na lokaciji blizu Hong Konga do sad
+je registrovano 8 mrtvih i 27 povreðenih...</i>
+
+8
+00:05:35,431 --> 00:05:38,437
+<i>Kineska vlada još nije
+izdala saopštenje.</i>
+
+9
+00:05:38,563 --> 00:05:42,273
+<i>Ima mnogo nesporazuma
+izmeðu ministarstava.</i>
+
+10
+00:05:42,913 --> 00:05:46,059
+<i>Pokušavaju da spreèe
+topljenje jezgra reaktora.</i>
+
+11
+00:05:46,184 --> 00:05:50,744
+<i>Nadali smo se da vojska
+može da nam da neke odgovore.</i>
+
+12
+00:05:56,388 --> 00:05:58,266
+<i>Èen Da Vei.</i>
+
+13
+00:06:51,219 --> 00:06:54,230
+Hetavej, ustani! Ruke na leða!
+
+14
+00:07:13,633 --> 00:07:15,245
+Otvori 16!
+
+15
+00:07:16,145 --> 00:07:17,355
+Hajde, hajde, hajde!
+
+16
+00:07:22,585 --> 00:07:24,076
+Pretražite sve!
+
+17
+00:07:30,888 --> 00:07:32,148
+Skloni se odatle!
+
+18
+00:07:40,760 --> 00:07:42,211
+U redu. 1, 2, 3! Diži!
+
+19
+00:07:50,273 --> 00:07:52,559
+Ovo je pronaðeno u tvojoj æeliji.
+
+20
+00:07:53,132 --> 00:07:57,929
+Svojim ortacima iz bloka dodao
+si 900 dolara na raèun za kafe.
+
+21
+00:07:58,053 --> 00:07:59,700
+Je li ovo sredstvo napada?
+
+22
+00:07:59,825 --> 00:08:03,717
+Sa ovim otvoriš terminal i
+izbaci ti komandnu liniju?
+
+23
+00:08:03,917 --> 00:08:06,915
+Onda si provalio na mrežu
+i poveæao raèune?
+
+24
+00:08:08,627 --> 00:08:11,132
+Ne, koristio sam ga da zovem
+Deda Mraza na Severni pol.
+
+25
+00:08:11,257 --> 00:08:14,829
+Rekao sam mu da ove godine
+poène ranije sa Božiæem.
+
+26
+00:09:02,383 --> 00:09:05,527
+Virus je preuzeo kontrolu
+nad našim sistemom.
+
+27
+00:09:07,700 --> 00:09:09,411
+Kako je to moguæe?
+
+28
+00:09:12,879 --> 00:09:15,011
+Kako su uspeli da se probiju?
+
+29
+00:09:15,135 --> 00:09:19,623
+Mislimo da je RAT otvorio
+ulaz za malver.
+
+30
+00:09:20,503 --> 00:09:24,794
+Koliko znamo, istovremeno je
+napadnut isti model reaktora u SAD.
+
+31
+00:09:25,072 --> 00:09:28,485
+U SAD upad nije uspeo.
+Imaju drugaèiji softver.
+
+32
+00:09:29,768 --> 00:09:32,361
+Jesu li forenzièari analizirali
+kodove?
+
+33
+00:09:32,486 --> 00:09:35,496
+Nemamo kod.
+-Zašto?
+
+34
+00:09:35,767 --> 00:09:39,768
+Njihovi ruteri su uništeni i ne
+možemo da uðemo. Sve je vrelo.
+
+35
+00:09:42,429 --> 00:09:45,189
+Politièka izjava?
+
+36
+00:09:45,658 --> 00:09:47,259
+Ne.
+
+37
+00:09:48,079 --> 00:09:51,011
+Iznuðivanje? Zahtev za novac?
+
+38
+00:09:51,829 --> 00:09:53,260
+Ne.
+
+39
+00:09:53,841 --> 00:09:56,527
+Šta im je motiv? Šta žele?
+
+40
+00:09:56,652 --> 00:09:58,323
+Ne znamo,
+
+41
+00:09:58,708 --> 00:10:03,119
+ali kad bih mogao da vidim kod za
+RAT koji ima FBI i udružio se s njima,
+
+42
+00:10:03,243 --> 00:10:05,100
+znao bih više.
+
+43
+00:10:06,604 --> 00:10:09,379
+Naðite ih. Zaustavite ih.
+
+44
+00:10:09,504 --> 00:10:12,505
+Obaviæu pozive.
+
+45
+00:10:24,229 --> 00:10:25,828
+Šta znamo o ovom tipu?
+
+46
+00:10:27,228 --> 00:10:30,281
+Njegov deda je dvadesetih bio
+vojni komandant u Šangaju,
+
+47
+00:10:30,406 --> 00:10:33,204
+i tridesetih protiv Japanaca,
+tokom Graðanskog rata.
+
+48
+00:10:33,329 --> 00:10:37,037
+Otac mu je postao kineski podsekretar
+za trgovinu sa Ujedinjenim nacijama.
+
+49
+00:10:37,162 --> 00:10:40,286
+Došao je u Njujork, Bronks
+srednju školu nauke, MIT.
+
+50
+00:10:40,411 --> 00:10:42,926
+Njegova sestra je mrežni
+inženjer u privatnom sektoru.
+
+51
+00:10:43,051 --> 00:10:45,303
+I ona je odrasla u Njujorku?
+-Ne.
+
+52
+00:10:45,428 --> 00:10:49,148
+On je zvezda u usponu u PLA
+Odelenju sajber odbrane.
+
+53
+00:10:49,274 --> 00:10:50,917
+Da saraðujemo s njima?
+
+54
+00:10:51,623 --> 00:10:54,155
+Pozivamo lisicu u kokošinjac,
+Kerol.
+
+55
+00:10:54,495 --> 00:10:57,793
+Stenli, idemo rame uz rame sa
+Kinezima u vezi ovih sajber upada.
+
+56
+00:10:57,918 --> 00:10:58,672
+Svaki dan u nedelji.
+
+57
+00:10:58,797 --> 00:11:03,294
+Nije loša ideja da bar jednom
+radimo
+
+58
+00:11:03,419 --> 00:11:04,418
+direktno sa njima.
+
+59
+00:11:07,619 --> 00:11:12,200
+Dobro pratite èemu imaju
+pristup, a èemu ne, razumete?
+
+60
+00:11:13,679 --> 00:11:16,083
+Shvataš? Pošaljite kod.
+
+61
+00:11:26,586 --> 00:11:28,286
+U redu.
+
+62
+00:12:10,011 --> 00:12:11,106
+Zdravo!
+
+63
+00:12:11,403 --> 00:12:13,403
+...onda sam ušao u prodaju
+u tehnièkom sektoru
+
+64
+00:12:14,803 --> 00:12:17,934
+Da li izgledam kao
+potencijalni klijent?
+
+65
+00:12:19,165 --> 00:12:21,840
+Nije zainteresovana.
+-Jesi li ti njen momak?
+
+66
+00:12:21,965 --> 00:12:26,037
+Ne, ja sam joj brat i još
+uvek nije zainteresovana.
+
+67
+00:12:26,195 --> 00:12:29,140
+Idemo negde da razgovaramo.
+-Evo ti moja kartica.
+
+68
+00:12:29,266 --> 00:12:31,127
+Hej! Tebi govorim!
+
+69
+00:12:32,707 --> 00:12:33,936
+Dobro.
+
+70
+00:12:34,468 --> 00:12:36,034
+To me je koštalo
+drugog martinija.
+
+71
+00:12:36,159 --> 00:12:38,587
+Engleski bi možda bio bolji.
+Hajde.
+
+72
+00:12:45,480 --> 00:12:48,069
+Sutra? Ne mogu. Nemoguæe je.
+-Zašto ne?
+
+73
+00:12:48,194 --> 00:12:53,124
+Imam optièku mrežu koja mora
+da bude gotova za 17 dana.
+
+74
+00:12:53,603 --> 00:12:55,406
+Poslali su mi kod, Lien.
+
+75
+00:12:55,606 --> 00:12:58,251
+Haker koji je napao
+reaktor u Èai Vanu.
+
+76
+00:12:59,212 --> 00:13:01,515
+Kad sam pogledao kod bio je...
+
+77
+00:13:02,695 --> 00:13:03,774
+I?
+
+78
+00:13:05,495 --> 00:13:08,853
+Treba mi mrežni inženjer
+kojem mogu da verujem.
+
+79
+00:13:09,596 --> 00:13:11,717
+Potpuno verujem.
+
+80
+00:13:12,667 --> 00:13:14,837
+Sto posto.
+
+81
+00:13:27,971 --> 00:13:29,590
+Kad idemo?
+
+82
+00:15:18,475 --> 00:15:21,381
+Curenje reaktora u Kini, nagli
+rast vrednosti soje juèe
+
+83
+00:15:21,507 --> 00:15:24,143
+su proizvod istog RAT-a.
+
+84
+00:15:24,967 --> 00:15:27,587
+Ne znamo kako je
+uopšte postavljen.
+
+85
+00:15:27,878 --> 00:15:31,063
+Ali kad je ušao, postao je
+ono što je u stvari,
+
+86
+00:15:31,188 --> 00:15:33,339
+alat za daljinski pristup.
+
+87
+00:15:33,678 --> 00:15:34,724
+RAT.
+
+88
+00:15:34,924 --> 00:15:38,426
+Posao RAT-a je bio da otvori
+zadnja vrata sistema i pozove kuæi.
+
+89
+00:15:38,550 --> 00:15:42,908
+Haker onda koristi zadnja
+vrata da ubaci drugi deo.
+
+90
+00:15:43,492 --> 00:15:45,232
+Svoj tovar.
+
+91
+00:15:45,401 --> 00:15:47,432
+To se desilo sa sojom.
+
+92
+00:15:47,742 --> 00:15:50,207
+Sad, pogledajmo izbliza RAT i
+tovar.
+
+93
+00:15:50,332 --> 00:15:53,976
+Mislimo da su oni...
+-Napisani od razlièitih autora.
+
+94
+00:15:56,714 --> 00:15:59,820
+To smo shvatili zbog
+dekodiranja u RAT-u.
+
+95
+00:15:59,945 --> 00:16:02,983
+Iako je star par godina,
+to je graciozno platno.
+
+96
+00:16:03,183 --> 00:16:05,762
+U drugu ruku, kodiranje tovara
+je frenetièno, konfuzno.
+
+97
+00:16:05,887 --> 00:16:09,061
+Frenetièno? Ili prepisano?
+
+98
+00:16:11,847 --> 00:16:14,215
+Pitanje je sa èim ovde imamo
+posla?
+
+99
+00:16:14,340 --> 00:16:16,411
+Možemo li negde da razgovaramo?
+
+100
+00:16:25,820 --> 00:16:28,486
+Danijel je kvalifikovan za
+kompjutersku forenziku.
+
+101
+00:16:28,611 --> 00:16:31,428
+Taj izvještaj može da napiše
+stažista.
+
+102
+00:16:31,553 --> 00:16:34,077
+Stvarno. A koga trebamo,
+ako ne Danijela?
+
+103
+00:16:34,201 --> 00:16:36,818
+"Veza" u povezanoj grupi
+podrazumeva uzajamnost.
+
+104
+00:16:36,943 --> 00:16:40,130
+Ako ne volite našeg momka,
+koga biste doveli na ples?
+
+105
+00:16:40,255 --> 00:16:42,111
+Èoveka po imenu Hetavej.
+
+106
+00:16:42,544 --> 00:16:47,061
+Osuðenog hakera koju služi 15 godina u
+zatvoru Kanan u Vejmartu, Pensilvanija.
+
+107
+00:16:47,186 --> 00:16:51,003
+Kažete da neki haker iz zatvora
+napada naše finansijsko tržište?
+
+108
+00:16:51,128 --> 00:16:53,423
+Ne, ali želimo Hetaveja
+u našem timu
+
+109
+00:16:53,548 --> 00:16:56,018
+da bi nam pomogao u istrazi.
+
+110
+00:17:03,930 --> 00:17:07,991
+Napao je èetiri glavne banke i
+oštetio ih za 46 miliona dolara.
+
+111
+00:17:08,191 --> 00:17:10,302
+I to je samo ono što znamo.
+
+112
+00:17:10,542 --> 00:17:14,970
+Hoæete da nasmejete ljude u
+Odeljenju pravosuða?
+
+113
+00:17:19,633 --> 00:17:22,419
+Danijel je rekao da postoje
+dva autora virusa.
+
+114
+00:17:22,563 --> 00:17:24,999
+Ne znam ko je napisao drugu
+polovinu, ali za prvi deo...
+
+115
+00:17:25,124 --> 00:17:29,321
+RAT, alat za daljinski pristup,
+koji Danijel zove gracioznim platnom,
+
+116
+00:17:29,446 --> 00:17:31,887
+jedan od orginalnih autora sam ja.
+
+117
+00:17:32,237 --> 00:17:33,846
+Ja sam koautor.
+
+118
+00:17:34,447 --> 00:17:36,953
+To je bila šala pre osam
+godina na MIT.
+
+119
+00:17:37,078 --> 00:17:40,357
+Moj genijalni cimer,
+glavni kreator, je bio...
+
+120
+00:17:40,597 --> 00:17:41,864
+Nikolas Hetavej.
+
+121
+00:17:41,990 --> 00:17:42,989
+Tako je.
+
+122
+00:17:43,888 --> 00:17:47,366
+Haker je našao RAT onlajn
+i modifikovao ga.
+
+123
+00:17:47,565 --> 00:17:51,695
+Ako hoæemo da se kreæemo u okviru koda
+tražeæi tragove hakerovog identiteta
+
+124
+00:17:51,820 --> 00:17:54,181
+treba nam autor.
+
+125
+00:18:29,220 --> 00:18:31,691
+O reaktoru u Kini sam èuo, ali
+
+126
+00:18:32,569 --> 00:18:34,881
+za rast vrednosti soje...
+
+127
+00:18:36,570 --> 00:18:40,067
+Ne znam ni za šta od ovog.
+Ovde ne dobijamo mnogo vesti.
+
+128
+00:18:40,192 --> 00:18:43,348
+Amerièka vlada bi volela
+da nas savetuješ o ovom.
+
+129
+00:18:43,473 --> 00:18:46,394
+U zamenu za to æemo da ti
+damo odsustvo.
+
+130
+00:18:47,454 --> 00:18:51,720
+Potpiši se na zadnjoj stranici
+i mi æemo to da sredimo.
+
+131
+00:18:54,595 --> 00:18:57,450
+Nosiæeš narukvicu na èlanku i biæeš
+u društvu sa amerièkim maršalima.
+
+132
+00:18:57,575 --> 00:18:59,872
+Tvoj pristup kompjuteru
+biæe ogranièen.
+
+133
+00:18:59,997 --> 00:19:04,141
+Ako želiš da prouèiš ceo
+dokument, možeš da ga proèitaš.
+
+134
+00:19:04,718 --> 00:19:06,917
+Vratiæu se za mesec, dva.
+
+135
+00:19:12,408 --> 00:19:13,800
+Ne. Završio sam.
+
+136
+00:19:17,051 --> 00:19:19,220
+Nisi potpisao.
+-Da, zašto bih?
+
+137
+00:19:19,401 --> 00:19:23,426
+Zato što ti velikodušnost pomoænika
+državnog tužioca daje odsustvo.
+
+138
+00:19:23,552 --> 00:19:27,607
+I ti i pomoænik državnog tužioca možete
+taj dokument da nabijete sebi u bulju.
+
+139
+00:19:27,732 --> 00:19:28,842
+Molim?
+
+140
+00:19:29,052 --> 00:19:30,544
+Zašto ti je žao?
+
+141
+00:19:30,764 --> 00:19:33,774
+Uvredio sam te. Zašto bi tebi
+bilo žao? Meni nije žao.
+
+142
+00:19:33,898 --> 00:19:35,229
+Nemoj da misliš da æeš...
+-Hej!
+
+143
+00:19:35,354 --> 00:19:39,210
+Hoæeš da me odvedeš odavde da
+rešim vašu dilemu sa prodajom
+
+144
+00:19:39,336 --> 00:19:41,871
+i da za to dobijem odsustvo
+par nedelja. Da li se šališ?
+
+145
+00:19:41,996 --> 00:19:44,493
+Imaš li pojma koliki napredak
+možete da ostvarite
+
+146
+00:19:44,618 --> 00:19:46,921
+u ovako kompleksnom napadu
+bez nekog kao što sam ja?
+
+147
+00:19:47,047 --> 00:19:48,289
+Nikakav.
+
+148
+00:19:48,439 --> 00:19:51,517
+Ovo nije pregovor.
+-Upravo sam ga napravio.
+
+149
+00:19:51,716 --> 00:19:53,524
+Želite me? Prosledi ovo gore.
+
+150
+00:19:53,649 --> 00:19:59,149
+Ako uz moju pomoæ identifikujete
+i uhapsite tipa kojeg tražite
+
+151
+00:19:59,349 --> 00:20:01,930
+hoæu da mi promenite presudu.
+
+152
+00:20:02,070 --> 00:20:04,862
+Ako ne uspem, ponovo
+me vratite u zatvor.
+
+153
+00:20:05,253 --> 00:20:07,522
+To su uslovi.
+
+154
+00:20:07,742 --> 00:20:09,043
+Straža.
+
+155
+00:20:09,483 --> 00:20:11,132
+Revizija je gotova.
+
+156
+00:20:19,594 --> 00:20:23,066
+Koliko vam je potreban taj tip?
+
+157
+00:20:49,612 --> 00:20:55,113
+Drago mi je da te vidim! -Ni upola
+koliko je meni drago što vidim tebe.
+
+158
+00:21:04,265 --> 00:21:05,434
+Idemo odavde.
+
+159
+00:21:39,053 --> 00:21:44,039
+Planirali ste da se ponovo ujedinite
+sa svojim prijateljem èim ste sletili?
+
+160
+00:21:44,163 --> 00:21:45,724
+Palo mi je na pamet.
+
+161
+00:22:20,512 --> 00:22:21,874
+Jesi li dobro?
+
+162
+00:22:24,873 --> 00:22:26,164
+Da, dobro sam.
+
+163
+00:22:34,427 --> 00:22:37,909
+Molim vas, sklonite ih,
+ako možete.
+
+164
+00:22:38,110 --> 00:22:41,668
+Vidiš? Ukrao je kod
+i promenio mu svrhu.
+
+165
+00:22:47,250 --> 00:22:49,018
+Šta je ovo doðavola?
+-Šta?
+
+166
+00:22:49,143 --> 00:22:52,341
+Dogovor je bio da moramo odobriti
+njegovu prisutnost za kompjuterom.
+
+167
+00:22:52,466 --> 00:22:54,372
+Ja sam odobrio.
+-Daj odobrenje.
+
+168
+00:22:54,497 --> 00:22:57,396
+Sad menjate granice?
+-Hola Èika, ti si meni došla.
+
+169
+00:22:57,521 --> 00:23:00,207
+Kako da radim svoj posao?
+Na abakusu ili neèemu sliènom?
+
+170
+00:23:00,332 --> 00:23:03,327
+Èika? Jesam li Špankinja?
+-Šta se doðavola dešava?
+
+171
+00:23:03,452 --> 00:23:05,011
+Založila sam se da vas
+dovedem ovamo.
+
+172
+00:23:05,135 --> 00:23:08,913
+Povukla sam sve veze da izvuèem
+vašeg druga prestupnika, g. Èen.
+
+173
+00:23:09,036 --> 00:23:12,726
+Kapetan Èen. Nisam to tražio. Ali
+ponudio sam partnerstvo i jednakost
+
+174
+00:23:12,850 --> 00:23:14,756
+ili æemo to sami da obavimo.
+-Biæe mi drago
+
+175
+00:23:14,881 --> 00:23:18,451
+da ga vratim u Kanan i smestim
+vaše dupe na prvi avion za Kinu.
+
+176
+00:23:18,577 --> 00:23:19,806
+Izvinjava se.
+
+177
+00:23:19,966 --> 00:23:24,181
+Moj brat je pogrešno razumeo
+naš dogovor, specijalni agente.
+
+178
+00:23:39,641 --> 00:23:42,181
+Razgledajte.
+
+179
+00:23:43,521 --> 00:23:45,808
+Moram da napravim jutarnji bekap.
+
+180
+00:23:49,003 --> 00:23:54,824
+Vaša mreža se nalazi iza duboko
+upakovane inspekcije upada, zaštite...
+
+181
+00:23:55,074 --> 00:23:57,335
+Produžava vaš fajervol.
+
+182
+00:23:57,485 --> 00:23:58,555
+Taèno.
+
+183
+00:23:58,755 --> 00:24:02,476
+Neko je morao fizièki da
+doðe u sobu i ubaci virus.
+
+184
+00:24:02,736 --> 00:24:05,842
+Pregledali smo skenere kartica i nadzorne
+trake. Nije bilo nedozvoljenih upada.
+
+185
+00:24:05,966 --> 00:24:08,603
+Sada razmišljamo o slabostima
+na rutingu.
+
+186
+00:24:08,729 --> 00:24:11,084
+Previše komplikovano.
+Ne bih to uradio.
+
+187
+00:24:11,210 --> 00:24:12,834
+Da, ali ono što predlažete
+nije se desilo.
+
+188
+00:24:12,959 --> 00:24:16,435
+Samo jedna osoba ima dozvolu
+za pristup terminalu.
+
+189
+00:24:16,560 --> 00:24:17,278
+Ja.
+
+190
+00:24:17,478 --> 00:24:20,005
+Moja šifra je otisak prsta.
+
+191
+00:24:23,750 --> 00:24:24,891
+Mogu li?
+
+192
+00:24:31,972 --> 00:24:34,473
+Može li sada dozvola?
+
+193
+00:24:57,228 --> 00:24:58,760
+Ovo je kod za RAT.
+
+194
+00:24:58,960 --> 00:25:01,100
+Kompaktan je, uglaðen.
+Manji od megabajta.
+
+195
+00:25:01,300 --> 00:25:02,714
+Nikad ne biste naišli na njega.
+
+196
+00:25:02,838 --> 00:25:04,454
+Da li ste ikada ostavili taj
+USB drajv na stolu?
+
+197
+00:25:04,579 --> 00:25:05,735
+Pretpostavljam da jesam.
+
+198
+00:25:05,860 --> 00:25:09,589
+Neko ko radi ovde, a ne voli vas?
+Nedavno zaposlen, otpušten?
+
+199
+00:25:09,714 --> 00:25:12,770
+Ne
+-Ko?
+
+200
+00:25:13,371 --> 00:25:16,680
+Lozano. Majka mu je umrla
+i otišao je pre dve nedelje.
+
+201
+00:25:16,804 --> 00:25:18,959
+Džon Lozano.
+Radio je samo mesec dana.
+
+202
+00:25:19,084 --> 00:25:21,219
+Imao je pristup vašoj
+kancelariji? -Da.
+
+203
+00:25:21,343 --> 00:25:25,030
+Doneæu njegov dosije.
+-Sve æe biti lažno.
+
+204
+00:25:25,155 --> 00:25:28,508
+Osim ovog. Imate li njegovu
+propusnicu sa slikom?
+
+205
+00:25:29,476 --> 00:25:30,607
+Da.
+
+206
+00:25:31,246 --> 00:25:34,759
+Ovaj deo koda ovde je u neredu.
+
+207
+00:25:34,959 --> 00:25:39,705
+Ima 25 linija. Ostavio je
+tekst. Izgleda nedovršeno.
+
+208
+00:25:39,948 --> 00:25:43,378
+Ili kao beleške samom sebi.
+-Ideje bez rešenja.
+
+209
+00:25:43,889 --> 00:25:45,689
+Možda ga još piše.
+
+210
+00:25:45,888 --> 00:25:47,360
+Da, to je dobro.
+
+211
+00:25:49,040 --> 00:25:52,556
+Da imaš moguænost da pomeriš
+komandu gde hoæeš, šta bi uradio?
+
+212
+00:25:52,681 --> 00:25:57,392
+Igrao bih dugo i pritajeno. Ne bih se
+isticao. Igrao bih u razmaku od mesec
+
+213
+00:25:57,517 --> 00:25:59,705
+dana. Manji rizik od otkrivanja.
+-Taèno.
+
+214
+00:25:59,829 --> 00:26:03,198
+Ali naš tip je u jednom danu
+povisio vrednost soje za 250 %.
+
+215
+00:26:03,323 --> 00:26:06,499
+Èudno je. Znao je da æe
+privuæi pažnju.
+
+216
+00:26:06,624 --> 00:26:11,856
+Možda mu je brzo trebao novac. -Dobio
+je novac od rasta vrednosti soje.
+
+217
+00:26:15,787 --> 00:26:19,097
+I zauzet je pisanjem
+koda za ono što sledi.
+
+218
+00:26:26,398 --> 00:26:29,257
+Mislim da æe pravi
+napad tek da usledi.
+
+219
+00:26:33,611 --> 00:26:36,372
+Imamo Lozanovu sliku.
+
+220
+00:26:37,981 --> 00:26:39,632
+Šta mu je na vratu?
+
+221
+00:26:39,701 --> 00:26:41,545
+Klinac ima tetovaže.
+
+222
+00:26:41,823 --> 00:26:43,665
+Imate li neke rutinske
+nadzorne trake?
+
+223
+00:26:48,865 --> 00:26:49,866
+Ovde.
+
+224
+00:26:57,945 --> 00:26:59,514
+Kameno lice.
+
+225
+00:27:02,388 --> 00:27:03,991
+<i>Polak. Ja sam.</i>
+
+226
+00:27:04,226 --> 00:27:06,595
+Možeš li da pošalješ nekog da
+ode do NCIC baze podataka?
+
+227
+00:27:07,027 --> 00:27:10,636
+<i>Potraži latino muškarce
+ispod 30 godina, osuðivane zbog</i>
+
+228
+00:27:11,611 --> 00:27:15,388
+bilo èega, kao što su prevare
+sa karticama, kraða identiteta,
+
+229
+00:27:15,513 --> 00:27:17,387
+a koji su bili u bandama u
+zatvoru u Zapadnom Teksasu.
+
+230
+00:27:17,512 --> 00:27:21,490
+Naš kauboj ima tetovažu na ramenu.
+On je u Los Zapotekasima.
+
+231
+00:27:21,615 --> 00:27:23,974
+<i>Upravo ti šaljem nešto.</i>
+
+232
+00:27:25,051 --> 00:27:27,153
+To je on. Dole levo.
+
+233
+00:27:30,153 --> 00:27:33,157
+<i>Alonso Rejes, odležao dve godine
+u Hantsvilu zbog prevare sa karticama.</i>
+
+234
+00:27:33,282 --> 00:27:34,585
+<i>Pušten uslovno.</i>
+
+235
+00:27:34,714 --> 00:27:36,781
+<i>Vratio se u Los Anðeles.
+Naredio sam da ga pokupe.</i>
+
+236
+00:27:37,205 --> 00:27:39,790
+Nadgledaæe podruèje oko kuæe.
+-Ja jesam.
+
+237
+00:27:39,616 --> 00:27:43,830
+Imamo bolju šansu da bacimo
+prvi pogled.
+
+238
+00:27:45,107 --> 00:27:47,607
+Zar me niste zato doveli ovamo?
+
+239
+00:27:47,967 --> 00:27:50,121
+<i>U redu?
+-Da, hajde.</i>
+
+240
+00:27:51,408 --> 00:27:54,445
+Znaèi da smo na pravom putu
+
+241
+00:27:54,571 --> 00:27:56,645
+osim ako mislite da to
+možete sami da uradite?
+
+242
+00:27:56,770 --> 00:27:57,845
+Ide nam dobro.
+-Ide?
+
+243
+00:27:57,970 --> 00:28:01,399
+Da vidimo kako rukujete
+finansijskim sektorom.
+
+244
+00:28:01,940 --> 00:28:03,801
+Hvala, Stenli.
+
+245
+00:28:19,485 --> 00:28:22,430
+Pratim te.
+-Gde misliš da bi otišao?
+
+246
+00:28:22,555 --> 00:28:26,913
+Ovaj tip je na korak od moje
+karte za izlazak iz zatvora.
+
+247
+00:28:42,500 --> 00:28:46,139
+Onda, kako mogu da vam pomognem?
+
+248
+00:28:46,351 --> 00:28:49,178
+Želimo da vidimo zapise
+prodaja vaših trgovaca koji
+
+249
+00:28:49,302 --> 00:28:52,804
+su ubrali veliki profit
+od rasta vrednosti soje.
+
+250
+00:28:56,383 --> 00:29:00,361
+Zahtevate da predam zapise
+FBI i stranoj sili
+
+251
+00:29:00,486 --> 00:29:03,772
+o hiljadama privatnih
+brokera i trgovaca?
+
+252
+00:29:05,216 --> 00:29:07,550
+Nemoguæe je da vam to obezbedim.
+
+253
+00:29:07,675 --> 00:29:09,952
+Štitiæete osobu koja je
+manipulisala vašom trgovinom?
+
+254
+00:29:10,077 --> 00:29:12,992
+Ne, bacate vašu mrežu
+preširoko, gospodine Èen.
+
+255
+00:29:13,118 --> 00:29:16,508
+Ako želite da vidite moje podatke,
+morate doæi sa neèim opipljivijim,
+
+256
+00:29:16,634 --> 00:29:18,964
+neèim više kao što je opravdana
+sumnja, nego vaš predoseæaj.
+
+257
+00:29:19,089 --> 00:29:21,440
+Geri! Mogu li da te zovem Geri?
+
+258
+00:29:23,270 --> 00:29:26,857
+Da li ti je ovo opipljivije?
+U sledeæih 15 sekundi
+
+259
+00:29:26,982 --> 00:29:29,788
+pozvaæu Loru Grir iz Komisije
+robne trgovine
+
+260
+00:29:29,913 --> 00:29:31,599
+i reæi æu: "Zdravo, Lora. Kako si?"
+
+261
+00:29:31,724 --> 00:29:35,070
+"Želela bih da pokrenem zvaniènu
+istragu o Geriju Bejkeru."
+
+262
+00:29:35,195 --> 00:29:38,458
+Tako da udarna vest
+"M-Tech zvaniènik
+
+263
+00:29:38,657 --> 00:29:41,268
+pod istragom zbog pomaganja i
+podržavanja sajber kriminalaca"
+
+264
+00:29:41,393 --> 00:29:46,774
+procuri na CNN za 90 sekundi
+i stigne na vesti u tri, kao i
+
+265
+00:29:46,975 --> 00:29:49,690
+u noæne vesti. I to bi bilo dobro.
+
+266
+00:29:52,936 --> 00:29:54,957
+Jesam li bila opipljiva?
+
+267
+00:29:56,617 --> 00:29:58,117
+Geri?
+
+268
+00:30:03,479 --> 00:30:07,749
+Pogledajte okolo,
+ali ostajem s vama.
+
+269
+00:30:07,874 --> 00:30:09,161
+Ne uzimajte ništa.
+
+270
+00:30:43,138 --> 00:30:45,369
+Šta ti se desilo?
+
+271
+00:31:09,434 --> 00:31:11,863
+<i>preuzimanje...
+dogovorimo sastanak</i>
+
+272
+00:31:13,895 --> 00:31:16,324
+<i>preuzimanje...
+dogovorimo sastanak</i>
+
+273
+00:31:17,136 --> 00:31:21,218
+Ima WRT hardver i Onion ruter.
+
+274
+00:31:22,117 --> 00:31:26,257
+Može da usmerava šifrovane
+podatke i ostane anoniman
+
+275
+00:31:26,598 --> 00:31:29,008
+bez IP adrese.
+
+276
+00:31:30,739 --> 00:31:33,810
+Da, neko mora da mu je rekao
+kako da podesi.
+
+277
+00:31:37,880 --> 00:31:39,154
+<i>Odgovori</i>
+
+278
+00:31:40,071 --> 00:31:42,811
+<i>Naravno. Vidimo se tamo.</i>
+
+279
+00:31:46,063 --> 00:31:48,133
+Najverovatnije je zvala 911.
+
+280
+00:32:02,546 --> 00:32:06,438
+Ko je ova žena?
+-Menadžer, gospoða Novo.
+
+281
+00:32:06,686 --> 00:32:08,317
+Da vidim.
+
+282
+00:32:12,729 --> 00:32:15,515
+<i>Osvežiti svakih: jedan dan.</i>
+
+283
+00:32:18,059 --> 00:32:19,949
+Probaj sad.
+
+284
+00:32:23,601 --> 00:32:25,632
+Beret, ovde je Džesap.
+
+285
+00:32:28,691 --> 00:32:30,413
+Hvala ti, Džesape.
+
+286
+00:32:30,902 --> 00:32:35,691
+Bolje da mi pratimo isplatu.
+Nije Rejes. Mrtav je.
+
+287
+00:32:36,944 --> 00:32:38,474
+Sjajno!
+
+288
+00:32:40,506 --> 00:32:41,910
+Samo malo.
+
+289
+00:32:42,035 --> 00:32:45,430
+Tražimo kupce soje
+ili samo prodavaèe?
+
+290
+00:32:45,556 --> 00:32:48,628
+Samo je naš igraè taèno znao
+kada da istupi.
+
+291
+00:32:55,458 --> 00:32:59,288
+Rejes je dobio e-mail o
+veèerašnjem preuzimanju.
+
+292
+00:33:00,110 --> 00:33:05,276
+Bez Rejesa moramo naæi novu vezu sa našim
+glavnim igraèem. Videæu ko æe se pojaviti.
+
+293
+00:33:05,401 --> 00:33:07,050
+Rekao si Džesapu?
+
+294
+00:33:07,530 --> 00:33:10,067
+Ne, primetiæe ga sa udaljenosti
+od deset blokova.
+
+295
+00:33:10,192 --> 00:33:13,313
+Ni tebi nije dosta za jedan dan?
+
+296
+00:33:14,613 --> 00:33:18,328
+Radimo po mom ako uspe.
+Ako ne, bar sam probao.
+
+297
+00:33:22,865 --> 00:33:24,264
+Idem i ja.
+
+298
+00:33:55,372 --> 00:33:58,373
+Ne izgledaš mnogo drugaèije
+nego na slikama.
+
+299
+00:33:58,923 --> 00:34:00,602
+Kojim slikama?
+
+300
+00:34:01,244 --> 00:34:03,764
+Onim koje mi je brat
+ranije slao.
+
+301
+00:34:58,367 --> 00:35:01,596
+Zašto si u zatvoru?
+
+302
+00:35:16,481 --> 00:35:20,577
+Bio sam u baru, upoznao devojku
+i neki tip me je napao zbog nje.
+
+303
+00:35:20,702 --> 00:35:24,398
+Potukli smo se. Kad se završilo
+on je bio u bolnici, a ja uhapšen.
+
+304
+00:35:24,523 --> 00:35:28,344
+Osuðen sam na 18 meseci
+u MCI Norfolku.
+
+305
+00:35:28,469 --> 00:35:32,112
+Zamenio sam akademiju sa
+gladijatorskom akademijom.
+
+306
+00:35:34,655 --> 00:35:35,879
+A onda?
+
+307
+00:35:36,004 --> 00:35:39,087
+Kad sam izašao imao sam 22
+godine i
+
+308
+00:35:39,287 --> 00:35:43,290
+malo toga je bilo u silikonskoj dolini
+za bivšeg zatvorenika bez diplome.
+
+309
+00:35:43,415 --> 00:35:44,903
+Tako da...
+-Prevare sa karticama?
+
+310
+00:35:45,028 --> 00:35:49,418
+Da, to i meðunarodna trgovina na
+veliko. Radio sam to osam godina.
+
+311
+00:35:49,543 --> 00:35:53,258
+Onda me je uhvatio FBI
+i dobio sam 13 godina.
+
+312
+00:35:53,749 --> 00:35:55,699
+Žališ li za neèim?
+
+313
+00:35:56,500 --> 00:35:58,025
+Da li žalim? Ne.
+
+314
+00:35:58,224 --> 00:36:02,013
+Banke su nastradale, ne ljudi.
+Ne uzimam od ljudi.
+
+315
+00:36:02,139 --> 00:36:04,626
+Mislim, banke ionako
+stalno kradu od svih.
+
+316
+00:36:04,752 --> 00:36:07,045
+Nije mi žao banaka.
+-Mislim,
+
+317
+00:36:07,245 --> 00:36:09,654
+meni je žao zbog onog
+što ti se desilo.
+
+318
+00:36:09,779 --> 00:36:13,372
+Nemoj da ti bude žao.
+Ne tražim saoseæanje.
+
+319
+00:36:13,572 --> 00:36:17,600
+Poèinio sam zloèin, odležao
+kaznu. Kazna nije odležala mene.
+
+320
+00:36:17,726 --> 00:36:19,185
+Šta to znaèi?
+
+321
+00:36:19,365 --> 00:36:21,906
+Odležao sam za sebe,
+ne za instituciju.
+
+322
+00:36:22,031 --> 00:36:25,027
+Držiš do sebe i posvetiš se
+svom programu.
+
+323
+00:36:25,153 --> 00:36:28,511
+Radiš na svom telu i umu.
+
+324
+00:36:38,239 --> 00:36:40,089
+Otvori oèi.
+
+325
+00:36:41,399 --> 00:36:45,814
+Šta si rekla?
+-Govoriš kao da si još u zatvoru.
+
+326
+00:36:46,440 --> 00:36:50,126
+Ali nisi više. Misli na ono
+gde si, a ne na ono gde si bio.
+
+327
+00:36:50,251 --> 00:36:52,149
+Šta znaš o tome gde sam bio?
+
+328
+00:36:52,274 --> 00:36:53,478
+Ništa.
+-Ništa.
+
+329
+00:36:53,603 --> 00:36:57,386
+Reci mi šta bih ja to trebao
+tako brzo da poènem da vidim.
+
+330
+00:36:57,511 --> 00:37:00,012
+Ono gde si.
+-Šta? Korejska èetvrt?
+
+331
+00:37:00,655 --> 00:37:03,012
+Ovaj restoran, sto? Šta?
+
+332
+00:37:04,385 --> 00:37:07,537
+Bio si u žestokom
+režimu odluèivanja.
+
+333
+00:37:07,737 --> 00:37:09,998
+Morao si da donosiš intuitivne
+odluke.
+
+334
+00:37:10,123 --> 00:37:13,634
+Ljudi koji su protiv tebe,
+spremni su, svetska klasa, opasni.
+
+335
+00:37:13,759 --> 00:37:17,431
+Trebaš biti genijalni koder da
+ih nadmudriš, da razmišljaš šire
+
+336
+00:37:17,556 --> 00:37:19,580
+kao što moj brat kaže da možeš.
+
+337
+00:37:19,705 --> 00:37:22,062
+Moraš bistro da razmišljaš o tome.
+
+338
+00:37:23,630 --> 00:37:25,995
+Nije lako, znam.
+
+339
+00:37:26,195 --> 00:37:27,746
+Nema prelaznog perioda.
+
+340
+00:37:27,872 --> 00:37:29,092
+Ali...
+
+341
+00:37:30,910 --> 00:37:34,698
+Verujem da si veoma jak èovek.
+Vrlo pametan èovek.
+
+342
+00:37:41,745 --> 00:37:43,195
+Evo, Èen.
+
+343
+00:37:43,354 --> 00:37:47,320
+3 trgovine, 3 razlièita velika raèuna.
+Svi su pregledani u minut razlike
+
+344
+00:37:47,445 --> 00:37:50,371
+baš pred zatvaranje u
+13:13 i 13:14.
+
+345
+00:37:50,496 --> 00:37:52,245
+Uz savršen tajming.
+
+346
+00:37:53,977 --> 00:37:56,617
+Šta je to?
+-Bankovni raèuni. Strani.
+
+347
+00:37:56,817 --> 00:37:58,351
+Sva tri na istom mestu.
+
+348
+00:37:58,475 --> 00:38:00,275
+Gde?
+
+349
+00:38:01,278 --> 00:38:02,739
+U Hong Kongu.
+
+350
+00:38:06,089 --> 00:38:10,315
+Želite li raèun? Ako ne naruèite
+još, moraæete da napustite sto.
+
+351
+00:38:10,440 --> 00:38:12,686
+Stvarno vam nedostaje prostora?
+
+352
+00:38:17,392 --> 00:38:20,033
+Možda se naš tip ne pojavi.
+
+353
+00:38:44,511 --> 00:38:45,846
+Šta je?
+
+354
+00:39:11,575 --> 00:39:12,933
+<i>Korejski restoran</i>
+
+355
+00:39:50,644 --> 00:39:52,245
+<i>Ko</i>
+
+356
+00:40:01,067 --> 00:40:04,352
+<i>Ko je 95.45.265.284</i>
+
+357
+00:40:04,552 --> 00:40:06,392
+<i>Administrativni kontakt servera:
+DNS Administrator</i>
+
+358
+00:40:06,517 --> 00:40:10,661
+<i>Karkivan Korp, Ulica Zoltan
+100, Dnjepropetrovsk, Ukrajina.</i>
+
+359
+00:40:12,128 --> 00:40:20,961
+<i>Upiši sdksdk. Na tragu sam ti.</i>
+
+360
+00:40:25,212 --> 00:40:28,712
+<i>Ko si ti?</i>
+
+361
+00:40:34,703 --> 00:40:37,425
+<i>Duh.</i>
+
+362
+00:40:45,727 --> 00:40:50,338
+<i>Odjebi i umri, duše.</i>
+
+363
+00:40:59,260 --> 00:41:01,189
+Idemo.
+-Šta se dešava?
+
+364
+00:41:04,300 --> 00:41:05,390
+Ko si ti?
+
+365
+00:41:06,961 --> 00:41:08,271
+Zašto si ovde?
+
+366
+00:41:09,051 --> 00:41:10,307
+Ko si ti?
+
+367
+00:41:10,433 --> 00:41:11,643
+Ne!
+
+368
+00:41:34,248 --> 00:41:35,722
+Pazi!
+
+369
+00:42:09,135 --> 00:42:11,836
+<I>Rejes je najverovatnije ubijen.
+
+370
+00:42:12,278 --> 00:42:14,273
+<I>E-mail na ovom kompjuteru
+je bio mamac.
+
+371
+00:42:14,398 --> 00:42:17,871
+<I>Ko god da je, želeo je da
+vidi da li smo na tragu Rejesu.
+
+372
+00:42:17,996 --> 00:42:21,194
+<i>Pukli smo. -Možeš li da
+otkriješ lokaciju našeg tipa?</i>
+
+373
+00:42:21,319 --> 00:42:24,714
+Ne. Video odlazi na proksi
+server u Ukrajini.
+
+374
+00:42:24,839 --> 00:42:27,550
+Ko zna gde ide odatle.
+
+375
+00:42:27,751 --> 00:42:30,334
+Da, i naši igraèi
+su takoðe stranci.
+
+376
+00:42:30,790 --> 00:42:32,155
+Šta je sa novcem?
+
+377
+00:42:32,280 --> 00:42:34,197
+<i>Tri raèuna, svi sa istog mesta.</i>
+
+378
+00:42:34,321 --> 00:42:37,752
+Uzeli su 74 miliona.
+Pratiæemo novac.
+
+379
+00:42:38,142 --> 00:42:39,397
+<i>Gde?</i>
+
+380
+00:42:39,522 --> 00:42:41,243
+Daj mi sestru.
+
+381
+00:42:44,234 --> 00:42:46,225
+<i>Prepoznali su me.</i>
+
+382
+00:42:46,664 --> 00:42:48,429
+Moramo da prekinemo i da odemo.
+
+383
+00:42:48,554 --> 00:42:49,870
+<i>Gde da se naðemo?</i>
+
+384
+00:42:49,995 --> 00:42:52,355
+Gde smo slavili moj roðendan.
+
+385
+00:42:53,506 --> 00:42:56,006
+Samo idi tamo.
+
+386
+00:42:58,997 --> 00:43:01,687
+Ujutro letimo u Kinu.
+
+387
+00:44:54,435 --> 00:44:59,389
+Moj otac je radio u èelièani.
+Samohrani otac. Sam nas je podigao.
+
+388
+00:44:59,515 --> 00:45:01,680
+Dva puta je došao da me poseti.
+
+389
+00:45:01,805 --> 00:45:03,406
+I onda se razboleo.
+
+390
+00:45:04,175 --> 00:45:07,867
+Nekad sam vraæao seæanja
+
+391
+00:45:08,067 --> 00:45:11,498
+da ostanem orijentisan
+kad izaðem napolje.
+
+392
+00:46:27,164 --> 00:46:30,914
+Kapetan Èen? Hong Vei, CNCERT.
+
+393
+00:46:31,145 --> 00:46:33,436
+Kakvo je stanje?
+
+394
+00:46:34,696 --> 00:46:37,954
+Pokušavamo da povratimo hlaðenje
+upumpavajuæi morsku vodu.
+
+395
+00:46:38,079 --> 00:46:40,238
+Imamo još povreðenih.
+
+396
+00:46:43,409 --> 00:46:47,480
+Od kad se to desilo da li je
+bilo novèanih zahteva? -Ne.
+
+397
+00:46:48,360 --> 00:46:50,945
+Ako nije u pitanju iznuda,
+da li su politièki razlozi?
+
+398
+00:46:51,070 --> 00:46:53,743
+Neki teroristièki napad,
+bilo kakve izjave?
+
+399
+00:46:53,868 --> 00:46:57,299
+Nema prisvajanja, nema izjava.
+-Šta hoæe taj tip?
+
+400
+00:46:59,071 --> 00:47:03,648
+Šta je napao malver? -Programirane
+daljinske kontrolere. PLC-eve.
+
+401
+00:47:03,772 --> 00:47:06,958
+Govore pumpama da se ukljuèe
+ili iskljuèe i hlade reaktor.
+
+402
+00:47:07,083 --> 00:47:09,630
+Imate li pojma odakle je
+napad mogao da doðe?
+
+403
+00:47:09,756 --> 00:47:12,540
+Pratio sam malver kad
+je procurelo jezgro.
+
+404
+00:47:12,664 --> 00:47:14,081
+Morali smo da evakuišemo ljude.
+
+405
+00:47:14,206 --> 00:47:18,653
+Ali ako je mašina zakazala, trebalo bi
+da saèuva memoriju u dijagnostièki fajl.
+
+406
+00:47:18,778 --> 00:47:21,340
+Tako je. I ta memorija je
+možda tvoj trag koda.
+
+407
+00:47:21,465 --> 00:47:23,303
+Možda i njegove prave IP adrese.
+
+408
+00:47:23,428 --> 00:47:26,665
+Ali server je u kontrolnoj
+sobi. Sve je još uvek vrelo.
+
+409
+00:47:26,790 --> 00:47:28,789
+Borimo se sa curenjem jezgra.
+
+410
+00:48:20,591 --> 00:48:21,816
+Èen Lien.
+
+411
+00:48:21,941 --> 00:48:25,173
+Inspektor Aleks Trang,
+policija Hong Konga.
+
+412
+00:48:25,802 --> 00:48:28,607
+Hetavej, US maršal Mark Džesap.
+
+413
+00:48:28,732 --> 00:48:29,782
+Zdravo!
+
+414
+00:48:32,784 --> 00:48:34,114
+Jesu li to oni?
+
+415
+00:48:35,274 --> 00:48:37,132
+Jesu li to ti tipovi?
+-Davai, da.
+
+416
+00:48:37,474 --> 00:48:38,814
+Imamo li šta?
+
+417
+00:48:40,896 --> 00:48:42,246
+Eto ih.
+
+418
+00:48:42,785 --> 00:48:45,647
+Džoni Li, Jan Lin, Semjuel Vu.
+
+419
+00:48:46,137 --> 00:48:48,535
+Li je pre dva meseca izašao
+iz zatvora.
+
+420
+00:48:48,660 --> 00:48:50,521
+I Jang i njegova majka
+su narkomani.
+
+421
+00:48:50,646 --> 00:48:51,983
+Vu vodi automehanièarsku
+radionicu.
+
+422
+00:48:52,108 --> 00:48:54,178
+Teško da su špekulanti.
+
+423
+00:48:55,039 --> 00:48:57,658
+Njihovi promptovi, proksiji...
+
+424
+00:49:03,781 --> 00:49:07,066
+I kako komuniciraju. Kako se
+konektuju za interakciju?
+
+425
+00:49:07,192 --> 00:49:08,216
+Ne konektuju se.
+
+426
+00:49:08,341 --> 00:49:10,204
+Telefon, internet.
+
+427
+00:49:10,403 --> 00:49:14,190
+Nadgledali smo ih ceo
+dan i noæ. Ništa.
+
+428
+00:49:14,383 --> 00:49:16,619
+Da si sad na njegovom mestu
+
+429
+00:49:16,819 --> 00:49:19,807
+šta bi bio tvoj sledeæi korak?
+-Zavarao bih trag.
+
+430
+00:49:19,933 --> 00:49:21,427
+Kako?
+-Keširao bih raèun.
+
+431
+00:49:21,552 --> 00:49:24,951
+Kešu ne može da se uðe u trag.
+Uzmeš ga i ideš gde hoæeš.
+
+432
+00:49:25,076 --> 00:49:29,791
+Ali novac još nije pomeran.
+Nema aktivnosti na raèunima.
+
+433
+00:49:33,066 --> 00:49:35,530
+Da, sve je previše èisto. Mora
+da postoji neko izmeðu njih
+
+434
+00:49:35,654 --> 00:49:39,033
+da razgovara sa njima, daje
+instrukcije, govori im šta da rade.
+
+435
+00:49:39,158 --> 00:49:41,130
+Mora da ima neko ko
+kontaktira sa njima.
+
+436
+00:49:41,255 --> 00:49:43,695
+Nije glavni igraè.
+Previše je izložen.
+
+437
+00:49:43,820 --> 00:49:44,844
+Posrednik.
+
+438
+00:49:46,902 --> 00:49:50,094
+Nisu svi tu sluèajno.
+-Gde?
+
+439
+00:49:50,562 --> 00:49:51,652
+Mogu li?
+
+440
+00:50:03,024 --> 00:50:05,155
+Taèno tu. Gde je to?
+
+441
+00:50:06,685 --> 00:50:08,145
+Jau Ma Tei.
+
+442
+00:50:22,649 --> 00:50:23,859
+Sjajno.
+
+443
+00:50:39,374 --> 00:50:43,205
+Šta radiš ovde?
+Uplašio si me, Trang.
+
+444
+00:50:46,139 --> 00:50:48,455
+Ko ste vi?
+-Kapetan Èen Davai.
+
+445
+00:50:48,655 --> 00:50:50,055
+Šta se ovde dešava?
+
+446
+00:50:50,234 --> 00:50:52,482
+OCDB, vrši nadgledanje.
+
+447
+00:50:52,607 --> 00:50:53,616
+Èije?
+
+448
+00:50:54,165 --> 00:50:57,153
+Nekog Libanca sa spiska trgovaca.
+
+449
+00:50:57,277 --> 00:50:59,071
+Zašto ste ga pustili unutra?
+
+450
+00:50:59,196 --> 00:51:01,722
+Žele da vide da li razgovara
+sa nekim domaæim.
+
+451
+00:51:01,847 --> 00:51:02,848
+Zašto ovde?
+
+452
+00:51:03,588 --> 00:51:06,375
+Svako jutro doðe da se
+sastane sa nekim.
+
+453
+00:51:07,489 --> 00:51:08,930
+Proveri ga.
+
+454
+00:51:16,951 --> 00:51:18,702
+Ilajs Kasar.
+
+455
+00:51:19,122 --> 00:51:23,098
+Borio se sa hrišæanskim falangistima
+u Graðanskom ratu i onda nestao.
+
+456
+00:51:23,222 --> 00:51:27,323
+Pojavio se devedesetih u
+paravojsci u Kolumbiji.
+
+457
+00:51:27,774 --> 00:51:30,480
+Iznajmljivao je kuæu mesec
+po mesec u Šek O.
+
+458
+00:51:30,605 --> 00:51:31,925
+S kim se nalazio?
+
+459
+00:51:32,404 --> 00:51:35,048
+Ni sa kim. Nikad se niko
+nije pojavio.
+
+460
+00:51:35,915 --> 00:51:37,546
+Šalje poruke.
+
+461
+00:52:33,349 --> 00:52:35,492
+Da li tvoj telefon ima android?
+
+462
+00:52:37,310 --> 00:52:38,530
+Mogu li da vidim?
+
+463
+00:53:16,271 --> 00:53:18,468
+Hvala.
+
+464
+00:53:46,165 --> 00:53:47,737
+Blutut transmiter.
+
+465
+00:53:47,876 --> 00:53:50,663
+Kratkog dometa. Ne bi ga
+nikad uhvatili.
+
+466
+00:53:52,576 --> 00:53:55,772
+Ne doðe da se naðe s njima.
+Doðe zbog ovog.
+
+467
+00:53:55,898 --> 00:54:00,958
+Kasar šalje poruke. Vu, Jang i Li
+proðu pored. Risiver u džepu pokupi.
+
+468
+00:54:01,083 --> 00:54:04,755
+Proèitaju je i obrišu. Kasar
+ih nikad ne sretne, niti vidi.
+
+469
+00:54:04,880 --> 00:54:08,121
+Nema pošte, poziva, nièeg.
+Uglaðeno je.
+
+470
+00:54:08,333 --> 00:54:11,501
+Možeš li da je razbiješ?
+-Za nekih mesec dana.
+
+471
+00:54:11,626 --> 00:54:15,057
+Zakljuèano je u GPG enkripciji.
+-Bar na 512 kb.
+
+472
+00:54:15,462 --> 00:54:17,727
+Pokupimo ga, nadvijemo se nad njim
+
+473
+00:54:17,853 --> 00:54:20,763
+ili ga pratimo do glavnog igraèa.
+
+474
+00:54:20,888 --> 00:54:25,176
+Mislim da nemate izbora.
+Ovaj tip, neæe saraðivati.
+
+475
+00:54:27,006 --> 00:54:29,089
+Mislim da ga pustimo da radi.
+
+476
+00:54:36,877 --> 00:54:38,798
+Za dva sata sviæe.
+
+477
+00:55:03,644 --> 00:55:05,403
+Kad se ovo završi
+
+478
+00:55:07,035 --> 00:55:09,094
+šta æeš da radiš?
+
+479
+00:55:11,365 --> 00:55:15,156
+Ne znam. Popravljaæu televizore,
+garažna vrata.
+
+480
+00:55:16,267 --> 00:55:20,839
+Da li æu ti se dopadati i ako
+budem popravljao garažna vrata?
+
+481
+00:55:22,827 --> 00:55:24,969
+Ne znam. Možda.
+
+482
+00:56:08,898 --> 00:56:14,258
+Daj mi flašu vode.
+-Odmah.
+
+483
+00:57:01,600 --> 00:57:03,151
+Premeštaju novac.
+
+484
+00:57:08,862 --> 00:57:10,433
+Na sva tri raèuna.
+
+485
+00:57:19,975 --> 00:57:22,618
+Elektronski transfer
+u kasino u Makaou.
+
+486
+00:57:22,985 --> 00:57:23,911
+Keširaju.
+
+487
+00:57:24,036 --> 00:57:25,816
+Nadgledanje?
+-Niko se nije pomerio.
+
+488
+00:57:25,942 --> 00:57:28,395
+Kasar? -Ne možemo da
+dobijemo tim u Šeikou.
+
+489
+00:57:28,520 --> 00:57:31,640
+Idemo u Šek O.
+Idemo u Šek O po Kasara.
+
+490
+00:57:31,765 --> 00:57:33,831
+Pokreni SDU, naæi æemo se
+na helidromu.
+
+491
+00:57:33,956 --> 00:57:35,814
+Preuzeæu kurire.
+
+492
+00:57:37,510 --> 00:57:38,909
+Hajde, idemo.
+
+493
+00:57:39,149 --> 00:57:41,310
+Napolje, brže, brže!
+
+494
+00:58:30,011 --> 00:58:32,012
+Moramo da razgovaramo o ovom.
+
+495
+00:58:34,072 --> 00:58:37,204
+Nisam slep. Znam da ste vas
+dvoje zajedno.
+
+496
+00:58:37,329 --> 00:58:40,187
+Ali ako to pogledaš sa mog
+stanovišta, šta vidiš?
+
+497
+00:58:42,095 --> 00:58:45,109
+Hetavej. Bio si u zatvoru.
+Ošteæena roba.
+
+498
+00:58:45,234 --> 00:58:47,549
+Nema baš mnogo da ponudi
+mojoj sestri.
+
+499
+00:58:47,674 --> 00:58:51,461
+I buduænost mu nije
+zagarantovana. To vidim.
+
+500
+00:58:51,866 --> 00:58:53,086
+Šta još?
+
+501
+00:58:54,268 --> 00:58:57,409
+Zaslužuje bolje.
+Da sam Èen tako bih mislio.
+
+502
+00:58:58,918 --> 00:59:01,098
+Retko sam je viðao sreæniju.
+
+503
+00:59:02,549 --> 00:59:04,405
+Ali šta ako ovo ne uspe?
+
+504
+00:59:04,669 --> 00:59:08,527
+Devet godina u zatvoru.
+Kakav je to život za nju?
+
+505
+00:59:20,064 --> 00:59:22,631
+Èen, ovde Beret.
+-Èujem vas.
+
+506
+00:59:23,233 --> 00:59:25,590
+Kuriri. Uhvatili smo Lia i Jana.
+
+507
+00:59:25,973 --> 00:59:29,331
+Ne možemo da kontaktiramo
+prismotru u Šek O.
+
+508
+01:00:41,492 --> 01:00:42,892
+Na prizemlje.
+
+509
+01:00:56,245 --> 01:00:58,146
+Hej, ovamo!
+
+510
+01:01:07,743 --> 01:01:09,488
+Hajde, ovuda!
+
+511
+01:04:30,464 --> 01:04:32,384
+Drži se.
+
+512
+01:04:46,597 --> 01:04:48,258
+Ostani dole!
+
+513
+01:06:09,767 --> 01:06:11,712
+Dila, kako je Asil?
+
+514
+01:06:11,837 --> 01:06:17,052
+Šefe, neæe preživeti.
+
+515
+01:07:01,059 --> 01:07:02,388
+Idi! Idi!
+
+516
+01:07:03,779 --> 01:07:04,810
+Hajde!
+
+517
+01:07:08,320 --> 01:07:11,443
+Ilajs. Ideš li?
+
+518
+01:07:13,485 --> 01:07:14,956
+Hajde.
+
+519
+01:07:15,156 --> 01:07:18,812
+Ne èekajte, vozite barku odavde!
+
+520
+01:07:53,390 --> 01:07:54,841
+<i>Da?
+-Pol Lang je.</i>
+
+521
+01:07:54,966 --> 01:07:56,550
+<i>Uspeli smo da povratimo
+vodu iznad pogonskih šipki</i>
+
+522
+01:07:56,676 --> 01:08:00,276
+<i>i da stabilizujemo reaktor.
+Još je vruæ, ali možemo da uðemo.</i>
+
+523
+01:08:00,401 --> 01:08:02,453
+Hej! Mogu li da posudim auto?
+
+524
+01:08:04,153 --> 01:08:05,854
+Nik! Mark!
+
+525
+01:08:16,935 --> 01:08:22,154
+Radijacija je 100 milisajverta.
+
+526
+01:08:22,567 --> 01:08:25,540
+Unutra možete da budete samo 8 minuta.
+Tamo je temperatura 59 stepeni.
+
+527
+01:08:25,665 --> 01:08:28,669
+Ako vam se srž zagreje preko
+40 stepeni, doživæete infarkt.
+
+528
+01:08:28,794 --> 01:08:31,509
+Još mi nije jasno. Šta on želi?
+
+529
+01:08:32,836 --> 01:08:34,061
+I zašto ovo?
+
+530
+01:08:37,741 --> 01:08:40,641
+Ako kolabirate vaš partneri neæe moæi
+da vas nose, a da i sebe ne izlože riziku.
+
+531
+01:08:42,041 --> 01:08:46,341
+Hej, šta kaže?
+-Brzo se kreæi.
+
+532
+01:10:13,962 --> 01:10:15,329
+Vong!
+
+533
+01:10:15,454 --> 01:10:16,389
+Hej!
+
+534
+01:10:16,514 --> 01:10:19,157
+Uzmi ga. Obojica izaðite odavde!
+
+535
+01:10:29,237 --> 01:10:30,167
+Šta to radiš?
+
+536
+01:12:04,760 --> 01:12:06,324
+Bili smo u pravu.
+
+537
+01:12:06,524 --> 01:12:11,215
+U otpadnoj memoriji se nalazi
+deliæ malvera, ali je ošteæen.
+
+538
+01:12:11,340 --> 01:12:13,539
+Možda i IP adresa.
+
+539
+01:12:13,980 --> 01:12:15,891
+Ali je previše rupa.
+
+540
+01:12:25,871 --> 01:12:31,353
+Znate, kad me je FBI uhvatio
+2007, brisao sam fajlove.
+
+541
+01:12:31,754 --> 01:12:37,613
+Ali kad je poèelo suðenje povratili su sve
+podatke koji su trebali da budu nepovratni.
+
+542
+01:12:48,647 --> 01:12:51,534
+Crna udovica je softver NSA.
+
+543
+01:12:52,209 --> 01:12:58,601
+Pregleda deliæe i rekonstruiše orginal
+za samo par sati super raèunanja.
+
+544
+01:12:59,452 --> 01:13:02,601
+U velikim sluèajevima kao
+što je tvoj, posude nam ga.
+
+545
+01:13:10,963 --> 01:13:13,634
+Riè, treba mi pristup Crnoj udovici.
+
+546
+01:13:14,564 --> 01:13:17,876
+Da delimo poverljivu tehnologiju
+sa Kinezima. Šališ se?
+
+547
+01:13:18,001 --> 01:13:20,346
+To nije ni blizu korišæenja
+na Hetaveju.
+
+548
+01:13:20,471 --> 01:13:22,315
+Obavezali smo se na
+potpunu saradnju, Riè.
+
+549
+01:13:22,440 --> 01:13:27,655
+Vi ste u pravosuðu, mi smo NSA.
+I da hoæu, ne mogu. A ne želim.
+
+550
+01:13:29,248 --> 01:13:31,138
+Nekategorisano "ne".
+
+551
+01:13:36,709 --> 01:13:40,666
+Dobro, kako to radi? Daš NSA
+podatke, oni ih pokrenu, i šta onda?
+
+552
+01:13:40,791 --> 01:13:43,515
+Ne, imaju daljinsko
+prijavljivanje. Mi pokreæemo.
+
+553
+01:13:43,640 --> 01:13:47,374
+Ne misliš valjda...
+-Ma hajde, imaju kljuèeve carstva.
+
+554
+01:13:47,499 --> 01:13:50,612
+Adresa našeg tipa,
+šta god da sprema sledeæe
+
+555
+01:13:50,738 --> 01:13:54,076
+je taèno tu. Samo što mi to
+ne možemo da proèitamo.
+
+556
+01:13:54,703 --> 01:13:56,003
+Idemo.
+
+557
+01:14:02,475 --> 01:14:05,516
+Ovde je moja stara prepiska
+sa Donahjuom.
+
+558
+01:14:06,786 --> 01:14:11,822
+Ali nema šanse da je zapis još uvek
+aktivan. -Neæu koristiti taj zapis.
+
+559
+01:14:11,948 --> 01:14:15,160
+U redu, Donahju, kontakt iz
+NSA sa kojim ste razgovarali...
+
+560
+01:14:15,285 --> 01:14:17,682
+Ako NSA otkrije upad...
+
+561
+01:14:17,882 --> 01:14:21,905
+Sigurno želiš ovo da uradiš?
+-FBI æe moæi da objasni to?
+
+562
+01:14:22,030 --> 01:14:26,388
+Ako ga otkriješ, dobar si.
+Ako oni tebe otkriju, gotov si.
+
+563
+01:14:27,282 --> 01:14:29,067
+Jasno ti je, zar ne?
+
+564
+01:14:45,855 --> 01:14:50,069
+Kako se zove supervizor tipa
+iz NSA sa kojim ste razgovarali?
+
+565
+01:14:52,047 --> 01:14:53,707
+Ben Hièens.
+
+566
+01:14:55,477 --> 01:14:58,326
+Možda je za vas dvoje i za
+vas bolje da niste u blizini
+
+567
+01:14:58,451 --> 01:15:01,352
+da biste mogli da poreknete
+da ste bili ovde.
+
+568
+01:15:37,807 --> 01:15:40,518
+Kako se oseæaš u vezi ovog?
+-Ne dobro.
+
+569
+01:15:41,369 --> 01:15:46,606
+Gore je njemu tamo. Iznenadila
+sam se što si se složio.
+
+570
+01:15:47,032 --> 01:15:49,321
+Vašington nije video Èai Van.
+
+571
+01:16:18,013 --> 01:16:20,657
+<i>U svetlu èinjenica da ste
+kontaktirani od strane FBI agenata</i>
+
+572
+01:16:20,782 --> 01:16:22,767
+<i>koji rade zajedno sa kineskim
+sajber specialistima</i>
+
+573
+01:16:22,892 --> 01:16:25,105
+<i>zabrinuti smo za
+bezbednost daljinske</i>
+
+574
+01:16:25,230 --> 01:16:27,505
+<i>prijave za Crnu udovicu.
+Predlažemo da promenite šifru.</i>
+
+575
+01:16:27,630 --> 01:16:30,202
+Tražio si da promeni šifru?
+
+576
+01:16:43,682 --> 01:16:46,233
+Kad je skinuo PDF,
+
+577
+01:16:47,073 --> 01:16:49,573
+ono što je preuzeo je
+snimaè šifara.
+
+578
+01:17:12,009 --> 01:17:13,098
+Imam ga!
+
+579
+01:17:28,962 --> 01:17:29,983
+Sad èekamo.
+
+580
+01:18:01,470 --> 01:18:02,729
+Ušli smo.
+
+581
+01:18:07,500 --> 01:18:11,146
+Možeš me zvati Èika kad god želiš.
+
+582
+01:18:17,824 --> 01:18:21,824
+Ovo je glavna IP adresa našeg
+hakera sa njegovog servera.
+
+583
+01:18:21,964 --> 01:18:25,786
+Nije u Mumbaiju, ni u
+Mineapolisu, ni u Rigi.
+
+584
+01:18:25,987 --> 01:18:28,450
+U Džakarti je!
+-Možeš li da krekuješ stranicu?
+
+585
+01:18:28,576 --> 01:18:32,635
+Ne. Intrarmur je hosting kompanija
+kao hotel ili švajcarska banka.
+
+586
+01:18:32,759 --> 01:18:34,626
+Ekskluzivno za hakere!
+
+587
+01:18:34,751 --> 01:18:38,493
+Tako da je neprobojna. Server je tu,
+ali ne možemo da krekujemo stranicu.
+
+588
+01:18:38,618 --> 01:18:41,619
+Sad idemo bez tehnologije.
+-Kako?
+
+589
+01:18:42,059 --> 01:18:45,979
+Idemo u Džakartu, obijemo mesto
+i dokopamo se njegovog servera.
+
+590
+01:18:46,104 --> 01:18:48,937
+Nemamo ni vize, ni znaèke
+koje važe u Indoneziji.
+
+591
+01:18:49,062 --> 01:18:51,105
+Može li FBI da nam sredi
+dokumente?
+
+592
+01:18:51,230 --> 01:18:54,068
+Nakon što nas je NSA odbio, ne
+bih se približavala glavnom gradu.
+
+593
+01:18:54,193 --> 01:18:59,209
+Onda æu ja da sredim ulaz sa mojima.
+Moram lièno da razgovaram sa šefovima.
+
+594
+01:18:59,333 --> 01:19:00,983
+U redu.
+-U redu.
+
+595
+01:19:16,317 --> 01:19:17,812
+Jesi li ušla negde?
+
+596
+01:19:17,937 --> 01:19:19,921
+Ne, nisam u servere.
+
+597
+01:19:20,790 --> 01:19:24,962
+Ali sam ušla u Intrarmurovo
+raèunovodstvo.
+
+598
+01:19:25,389 --> 01:19:28,390
+Vidi ovo.
+-Naplate sa raèuna našeg momka.
+
+599
+01:19:28,896 --> 01:19:32,208
+Da, pa?
+-Vidi ovo. 14 dolara, 17 dolara.
+
+600
+01:19:32,561 --> 01:19:37,027
+Sad, 16.400 dolara pet puta.
+
+601
+01:19:38,002 --> 01:19:42,008
+Plaæeno Satelitšotu. Oni iznajmljuju
+satelit na odreðeno vreme.
+
+602
+01:19:42,133 --> 01:19:44,277
+Snimak koje vrste?
+-Ove.
+
+603
+01:19:46,183 --> 01:19:49,110
+Skeniranje visoke rezolucije.
+-Obale Malezije.
+
+604
+01:19:49,235 --> 01:19:51,522
+Šta je tamo?
+-Ništa posebno.
+
+605
+01:19:52,156 --> 01:19:54,536
+Zašto je skenirao tamo?
+
+606
+01:20:08,490 --> 01:20:11,044
+Dobar dan. -Da Vei, drago mi
+je da se opet vidimo.
+
+607
+01:20:11,169 --> 01:20:12,890
+Kakve su novosti?
+
+608
+01:20:13,491 --> 01:20:17,217
+Dva napada... Identifikovali
+smo izvor.
+
+609
+01:20:17,342 --> 01:20:20,983
+U Džakarti je. Sad mi
+trebaju dokumenti
+
+610
+01:20:21,183 --> 01:20:23,937
+da ubacim svoj tim u zemlju.
+
+611
+01:20:24,062 --> 01:20:27,783
+Ministarstvo odbrane SAD
+me je kontaktiralo.
+
+612
+01:20:29,075 --> 01:20:34,816
+Hetavej je hakovao
+tajni sistem NSA.
+
+613
+01:20:35,026 --> 01:20:37,185
+Žele ga nazad.
+
+614
+01:20:37,386 --> 01:20:41,906
+Amerikanci su nam odbili pristup.
+Bez Hetaveja ne bismo našli onog
+
+615
+01:20:42,107 --> 01:20:43,107
+ko je napao Èai Van.
+
+616
+01:20:44,298 --> 01:20:47,288
+Sa SAD smo u konfliktu zbog pomorskih
+problema u Južnom kineskom moru
+
+617
+01:20:47,819 --> 01:20:50,354
+i sajber špijunaže, ali smo partneri
+u trgovini i finansijama.
+
+618
+01:20:50,479 --> 01:20:53,826
+Nije baš lako održati balans. Hetavej
+ne dovodi do tog nivoa razmatranja.
+
+619
+01:20:57,420 --> 01:21:00,954
+Ne treba vam više Hetavej.
+Imate Džakartu.
+
+620
+01:21:01,154 --> 01:21:03,486
+Organizujte vreme i mesto
+i predajte ga
+
+621
+01:21:03,611 --> 01:21:05,177
+Amerikancima.
+-Majore...
+
+622
+01:21:07,537 --> 01:21:10,467
+Nema diskusije.
+
+623
+01:21:11,163 --> 01:21:15,307
+Hetavej ide Amerikancima. Onda
+idete u Džakartu i završite ovo.
+
+624
+01:21:19,135 --> 01:21:21,118
+Razumem, gospodine.
+
+625
+01:21:34,630 --> 01:21:38,343
+<i>Paukov ujedu, nema vize za
+prijatelja. Krenite odmah.</i>
+
+626
+01:22:00,374 --> 01:22:04,875
+Ovde Beret. -Kerol, zašto si
+to doðavola dozvolila?
+
+627
+01:22:05,946 --> 01:22:08,612
+Polak? -Znaš li šta je
+tvoj momak uradio?
+
+628
+01:22:08,737 --> 01:22:10,514
+O èemu govoriš?
+-Ne kenjaj.
+
+629
+01:22:10,640 --> 01:22:14,498
+Govorim o pozivima koje sam
+dobio od NSA i Ministarstva odbrane.
+
+630
+01:22:14,642 --> 01:22:17,124
+Naš tip je razneo reaktor
+u Èai Vanu.
+
+631
+01:22:17,249 --> 01:22:20,321
+Zar ne gledaš CNN?
+-Nije u tome poenta.
+
+632
+01:22:21,080 --> 01:22:23,485
+Nije u tome poenta.
+-Jeste.
+
+633
+01:22:23,610 --> 01:22:27,065
+Tip na kojem radimo, napašæe
+bez razmišljanja.
+
+634
+01:22:27,192 --> 01:22:29,947
+Hajde, hajde, ne prebacuj mi
+11. septembar.
+
+635
+01:22:30,072 --> 01:22:32,787
+Nisi nikog izgubio tamo, Stenli.
+
+636
+01:22:33,663 --> 01:22:36,144
+Imam nareðenja, a sad i ti.
+
+637
+01:22:36,269 --> 01:22:38,624
+Privedi ga, Kerol. Privedi ga.
+
+638
+01:22:44,324 --> 01:22:45,865
+Šta se dešava?
+
+639
+01:22:49,137 --> 01:22:52,661
+Prokletstvo, Hetavej je nestao.
+-Hej, ovo pokazuje da je ovde.
+
+640
+01:22:52,787 --> 01:22:55,571
+Presekao je narukvicu?
+-Ne može. Pokrenuæe alarm.
+
+641
+01:22:55,696 --> 01:22:56,656
+Piše da radi.
+
+642
+01:22:56,781 --> 01:22:58,139
+Proveri postavke.
+
+643
+01:23:08,015 --> 01:23:10,135
+Postavio je reset
+na svaka 24 èasa.
+
+644
+01:23:10,260 --> 01:23:15,118
+Nismo ga pratili još od Los Anðelesa.
+Oni su u Ulici Èung Hau. -Sranje.
+
+645
+01:23:32,776 --> 01:23:34,563
+Dolaze po tebe.
+
+646
+01:23:35,726 --> 01:23:38,756
+Dolaze po tebe zbog Crne
+udovice. -To je bilo brzo.
+
+647
+01:23:38,881 --> 01:23:42,208
+Hoæe da te predam Amerikancima.
+
+648
+01:23:46,726 --> 01:23:48,287
+Predajte me i idite.
+
+649
+01:23:48,412 --> 01:23:50,145
+Beret i Džesap æe me podržati.
+
+650
+01:23:50,271 --> 01:23:54,413
+NSA nije briga, a misle da zbog
+tebe sada imamo Crnu udovicu.
+
+651
+01:23:57,051 --> 01:23:59,438
+Moraš da pobegneš.
+
+652
+01:23:59,563 --> 01:24:01,237
+Odbiæeš nareðenje?
+
+653
+01:24:01,362 --> 01:24:04,659
+Pobegao si i ponovo æemo
+da se naðemo u Džakarti.
+
+654
+01:24:04,784 --> 01:24:09,286
+Tvoji šefovi æe sabrati 2 i 2.
+-Neæu da te uhapsim.
+
+655
+01:24:11,715 --> 01:24:13,716
+Da li idem sa tobom ili sa Nikom?
+
+656
+01:24:14,775 --> 01:24:15,989
+Ni sa jednim.
+-Šta?
+
+657
+01:24:16,114 --> 01:24:17,592
+Nisi ukljuèena u ovo.
+
+658
+01:24:17,717 --> 01:24:19,126
+Ko je to odluèio?
+
+659
+01:24:20,497 --> 01:24:22,048
+U pravu je.
+
+660
+01:24:25,058 --> 01:24:29,345
+Više nisam siguran da ima
+svetla na kraju ovog tunela.
+
+661
+01:24:33,449 --> 01:24:34,946
+Šta si uradio Èen Davaiju?
+
+662
+01:24:35,071 --> 01:24:39,158
+Podsetio sam ga da ti duguje,
+da bi me ostavio?
+
+663
+01:24:40,172 --> 01:24:43,601
+Ne idi tim putem.
+-Ja æu da odluèim za sebe.
+
+664
+01:24:45,813 --> 01:24:49,054
+Da, i ja sam odluèio za sebe.
+Idem, a ti ne.
+
+665
+01:24:54,065 --> 01:24:56,315
+Sad nam trebaju naši podaci.
+
+666
+01:25:03,317 --> 01:25:06,961
+Evo, uzmi auto. Možda æeš
+morati brže da se kreæeš.
+
+667
+01:25:07,577 --> 01:25:10,149
+Odneæu hard disk u zaliv Kueri.
+
+668
+01:25:16,190 --> 01:25:18,090
+U Kovlunu je. Baš ovde.
+
+669
+01:25:18,900 --> 01:25:21,094
+Privešæeš ga?
+
+670
+01:25:23,302 --> 01:25:25,637
+Izvršavam nareðenja.
+-Kakvo nareðenje imaš?
+
+671
+01:25:25,762 --> 01:25:28,834
+Da zaustaviš negativce
+ili da uhapsiš Hetaveja?
+
+672
+01:25:30,613 --> 01:25:32,226
+Postaviæu ti privatno pitanje.
+
+673
+01:25:32,351 --> 01:25:34,781
+Ne odgovaraj, ako ne želiš.
+
+674
+01:25:35,794 --> 01:25:37,545
+Koga si izgubila 11. septembra?
+
+675
+01:25:37,925 --> 01:25:39,185
+Muža.
+
+676
+01:26:17,953 --> 01:26:19,910
+Moraš da se rešiš te stvari.
+
+677
+01:26:20,035 --> 01:26:21,606
+Imamo par sati.
+
+678
+01:26:35,457 --> 01:26:37,049
+Prièekaj.
+
+679
+01:26:37,609 --> 01:26:39,623
+Ponovo je u pokretu.
+U Hong Kongu je.
+
+680
+01:26:39,749 --> 01:26:40,674
+Zaliv Kueri.
+-Gde?
+
+681
+01:26:40,799 --> 01:26:43,043
+Krenuo je u zaliv Kueri.
+
+682
+01:27:11,436 --> 01:27:13,777
+Mislila sam da idete odvojeno.
+
+683
+01:27:14,377 --> 01:27:17,353
+Nik æe da uzme mali avion.
+Ja letim komercijalnim letom.
+
+684
+01:27:17,478 --> 01:27:18,878
+Sestro, idi kuæi.
+
+685
+01:27:25,041 --> 01:27:27,270
+Ti si uradio ovo.
+
+686
+01:27:36,534 --> 01:27:37,938
+Idemo.
+
+687
+01:27:39,113 --> 01:27:40,383
+Lien!
+
+688
+01:27:40,972 --> 01:27:42,888
+Lien! Prièekaj!
+
+689
+01:27:43,433 --> 01:27:44,738
+Stani! Prièekaj!
+-Šta je? Šta je?
+
+690
+01:27:44,863 --> 01:27:46,315
+Stani. Slušaj!
+
+691
+01:27:46,846 --> 01:27:48,674
+Sad sam begunac.
+
+692
+01:27:50,620 --> 01:27:53,833
+U roku od par sati æe da izdaju
+poternicu.
+
+693
+01:27:59,983 --> 01:28:03,127
+Hej, da li bih te odveo
+tamo gde ja idem?
+
+694
+01:28:23,394 --> 01:28:25,156
+Ne krivi brata.
+
+695
+01:29:26,966 --> 01:29:28,458
+Idi! idi! idi!
+
+696
+01:29:55,054 --> 01:29:56,464
+Beret.
+
+697
+01:31:36,878 --> 01:31:39,653
+Mogu li da stignu do sledeæe
+stanice pre voza?
+
+698
+01:31:39,777 --> 01:31:42,433
+Slušaj, žaliæemo kasnije.
+Moramo da preživimo!
+
+699
+01:31:42,558 --> 01:31:45,703
+Mogu li da stignu do sledeæe
+stanice pre voza?
+
+700
+01:31:47,880 --> 01:31:50,311
+Ne, ne mogu.
+
+701
+01:31:51,080 --> 01:31:52,211
+Dobro, u redu.
+
+702
+01:31:58,013 --> 01:32:00,051
+Oboje idemo za njima.
+
+703
+01:32:00,683 --> 01:32:02,259
+Oboje idemo.
+
+704
+01:32:02,384 --> 01:32:04,453
+Da, idemo.
+
+705
+01:32:06,235 --> 01:32:08,094
+Idemo.
+
+706
+01:32:21,098 --> 01:32:22,799
+Evo ti pasoš.
+
+707
+01:33:11,119 --> 01:33:13,140
+Perak, Malezija.
+
+708
+01:36:18,412 --> 01:36:20,702
+Ovde su koordinate.
+
+709
+01:36:27,074 --> 01:36:29,465
+Da, ovde. Vidi ovo.
+
+710
+01:36:32,245 --> 01:36:36,103
+Ovaj tip ima 74 miliona
+u kešu. Za šta piše kod?
+
+711
+01:36:37,175 --> 01:36:39,017
+Šta je ovde?
+
+712
+01:36:39,626 --> 01:36:46,028
+Din Palm Oil, "Pera Limited
+Mining", ratarstvo.
+
+713
+01:37:33,672 --> 01:37:35,087
+Hej, ova pumpa...
+
+714
+01:37:35,287 --> 01:37:37,268
+To je drenažna pumpa?
+
+715
+01:37:47,392 --> 01:37:52,251
+Koriste isti model drenažne pumpe
+za vodu kao u reaktoru u Èai Vanu.
+
+716
+01:37:53,463 --> 01:37:56,396
+Ista marka, kontrolisana istim
+PLC?
+
+717
+01:37:56,676 --> 01:37:58,890
+Da.
+-Šta kopaju tamo?
+
+718
+01:37:59,015 --> 01:38:01,276
+"Pera Limited".
+
+719
+01:38:01,517 --> 01:38:03,240
+Kalaj.
+-Kalaj?
+
+720
+01:38:03,365 --> 01:38:05,598
+Malezija je jedan od najveæih
+izvoznika.
+
+721
+01:38:05,722 --> 01:38:10,151
+I imaju još èetiri kopa
+u sledeæoj dolini.
+
+722
+01:38:14,538 --> 01:38:16,258
+Ovo je korito reke.
+
+723
+01:38:16,891 --> 01:38:19,675
+Preusmeravaju vodu
+drenažnim pumpama.
+
+724
+01:38:21,251 --> 01:38:23,607
+Znaš li zašto reaktor
+u Èai Vanu?
+
+725
+01:38:25,291 --> 01:38:27,466
+Gledali smo u pogrešnom pravcu.
+
+726
+01:38:27,591 --> 01:38:32,667
+Nije napao reaktor da bi ga
+srušio. Cilj su mu bile pumpe.
+
+727
+01:38:32,792 --> 01:38:35,139
+Probavao ih je.
+To je bila proba.
+
+728
+01:38:35,264 --> 01:38:37,504
+Èai Van je bila proba.
+
+729
+01:38:37,714 --> 01:38:40,339
+Želi da zaustavi pumpe
+i potopi rudnike kalaja.
+
+730
+01:38:40,464 --> 01:38:43,611
+I doline, sela, seljane i pse.
+
+731
+01:38:43,736 --> 01:38:47,880
+Stvori zalihe kalaja. Cena
+kalaja bi porasla i prodaj ga.
+
+732
+01:38:48,037 --> 01:38:52,538
+Njegovih 74 miliona iz Èikaga
+je za kupovinu akcija rude kalaja.
+
+733
+01:38:56,038 --> 01:38:58,024
+To radiš.
+
+734
+01:38:58,149 --> 01:38:59,869
+Zar ne, kuèkin sine?
+
+735
+01:39:11,083 --> 01:39:12,583
+<i>Džakarta. Indonezija.</i>
+
+736
+01:43:20,533 --> 01:43:23,319
+<i>Sistem konfigurisan
+za jednog korisnika.</i>
+
+737
+01:43:34,643 --> 01:43:37,358
+<i>Kopiraj fajlove na
+eksterni hard disk.</i>
+
+738
+01:43:50,126 --> 01:43:51,671
+U redu, vidi ovo.
+
+739
+01:43:51,796 --> 01:43:55,441
+Treæa verzija virusa kontroliše
+više PLC-ova.
+
+740
+01:43:57,087 --> 01:43:59,084
+53...
+
+741
+01:43:59,209 --> 01:44:01,528
+53 PLC-a.
+
+742
+01:44:02,168 --> 01:44:07,242
+Pet razlièitih rudnika kalaja za
+koje treba poplaviti 5 dolina reka.
+
+743
+01:44:11,722 --> 01:44:13,776
+Evo novca iz Èikaga.
+
+744
+01:44:13,900 --> 01:44:16,783
+73.6 miliona u kešu.
+
+745
+01:44:17,022 --> 01:44:21,254
+Položeno u lokalnu banku.
+Banka Sentra Agatis.
+
+746
+01:45:10,824 --> 01:45:12,444
+Na ovu adresu.
+-Dobro.
+
+747
+01:45:44,562 --> 01:45:46,381
+Zdravo.
+-Zdravo.
+
+748
+01:45:46,581 --> 01:45:49,158
+Izvinite, govorite li engleski?
+-Pomalo.
+
+749
+01:45:49,283 --> 01:45:53,792
+Za pet minuta treba da se naðem
+ovde sa gospodinom Džumharijem.
+
+750
+01:45:54,805 --> 01:45:59,247
+Idite na recepciju, treæi sprat.
+-Da, znam, ali...
+
+751
+01:45:59,565 --> 01:46:03,067
+Možete li da mi pomognete?
+Prezentacija mi se isprljala.
+
+752
+01:46:03,537 --> 01:46:07,324
+Ima li šanse da mi odštampate
+drugu kopiju, molim vas?
+
+753
+01:46:07,478 --> 01:46:09,437
+Ne bih trebao, ali...
+
+754
+01:46:40,895 --> 01:46:43,967
+<i>Banka Sentra Agatis
+Administrativna prijava.</i>
+
+755
+01:47:25,726 --> 01:47:27,256
+Onda?
+
+756
+01:47:27,575 --> 01:47:28,696
+Završio sam.
+
+757
+01:47:34,507 --> 01:47:38,078
+Ne znaš me, ali ja znam tebe.
+
+758
+01:47:38,739 --> 01:47:40,878
+Imaš loš dan.
+
+759
+01:48:55,766 --> 01:48:59,371
+<i>Dobio si moju poruku.
+-Zašto si ovde?</i>
+
+760
+01:48:59,572 --> 01:49:04,113
+Reci mi šta hoæeš! -Neæu da prièam
+sa jebenim trgovaèkim putnikom.
+
+761
+01:49:04,238 --> 01:49:07,254
+Evo zahteva. Samo telefonom,
+ne licem u lice.
+
+762
+01:49:07,378 --> 01:49:08,324
+<i>Jesi li razumeo?
+Dobro.</i>
+
+763
+01:49:08,449 --> 01:49:12,261
+<i>Sledeæe, želim tvog šefa
+na vezi za 15 minuta.</i>
+
+764
+01:49:15,511 --> 01:49:17,331
+To nije moguæe.
+
+765
+01:49:17,861 --> 01:49:21,862
+Imam 74 miliona njegovog
+novca i omoguæi to.
+
+766
+01:49:48,859 --> 01:49:50,299
+Da?
+
+767
+01:49:51,109 --> 01:49:54,919
+U poruci piše da me znaš,
+ali da ja tebe ne znam.
+
+768
+01:49:55,045 --> 01:49:56,719
+To nije baš istina.
+Zar ne, Hetavej?
+
+769
+01:49:56,844 --> 01:49:58,410
+<i>Da? Znam te.</i>
+
+770
+01:49:58,690 --> 01:50:00,271
+Znaš?
+
+771
+01:50:01,090 --> 01:50:03,162
+<i>Onda si ti jedini.</i>
+
+772
+01:50:03,441 --> 01:50:06,449
+<i>Ponekad kad se probudim
+ujutro ne znam ni sam ko sam.</i>
+
+773
+01:50:06,574 --> 01:50:08,932
+Gde sam? U kojoj zemlji?
+
+774
+01:50:10,694 --> 01:50:12,663
+<i>A ti me znaš!</i>
+
+775
+01:50:13,643 --> 01:50:16,069
+Znam te, želiš novac
+
+776
+01:50:16,194 --> 01:50:18,850
+<i>jer je on tvoj rezultat
+u virtuelnom svetu.</i>
+
+777
+01:50:18,975 --> 01:50:22,589
+Našao si me. Šta hoæeš?
+
+778
+01:50:24,036 --> 01:50:26,116
+Želim da budem duh Kasper.
+
+779
+01:50:26,397 --> 01:50:29,102
+Zar nemaš posla izbavljajuæi
+se iz zatvora?
+
+780
+01:50:29,227 --> 01:50:32,728
+Nekako mi ne odgovara.
+-Tražiš zaposlenje?
+
+781
+01:50:33,649 --> 01:50:35,034
+Zašto bi mi trebalo zaposlenje?
+
+782
+01:50:35,159 --> 01:50:39,838
+Hoæeš deo da se vratiš u igru.
+
+783
+01:50:40,080 --> 01:50:41,986
+Nikad nisi ni bio u igri.
+
+784
+01:50:42,111 --> 01:50:45,322
+Ti si slavni prevarant,
+kojem je isteklo vreme.
+
+785
+01:50:45,447 --> 01:50:48,123
+Proveri rok trajanja.
+Tvoj je istekao.
+
+786
+01:50:48,248 --> 01:50:49,917
+Slavni prevarant ima
+tvojih 74 miliona dolara.
+
+787
+01:50:50,042 --> 01:50:52,158
+Dobro. Poslednji put, šta hoæeš?
+
+788
+01:50:52,283 --> 01:50:55,554
+Hoæu 20 % profita od
+malezijske rude kalaja.
+
+789
+01:51:00,755 --> 01:51:03,494
+<i>Za vraæanje mog novca.
+-Ne, za iznajmljivanje mog koda.</i>
+
+790
+01:51:03,619 --> 01:51:06,770
+Moja dela su tvom kodu dala
+znaèenje.
+
+791
+01:51:06,895 --> 01:51:09,468
+Šta ti to znaèi bez
+bankovnog raèuna?
+
+792
+01:51:13,937 --> 01:51:18,368
+<i>Hoæeš da mi budeš partner?
+-20 %, i zovi me kako god hoæeš.</i>
+
+793
+01:51:18,689 --> 01:51:20,690
+Ja se sastajem sa partnerima.
+
+794
+01:51:24,490 --> 01:51:28,130
+E pa ja ne. Kao što sam rekao tvom
+nosaèu, ne želim da se naðemo.
+
+795
+01:51:28,255 --> 01:51:30,685
+<i>Zabole me šta ti želiš.</i>
+
+796
+01:51:31,851 --> 01:51:35,749
+To je ono što želim kad se
+dogovaram. Licem u lice.
+
+797
+01:51:36,662 --> 01:51:38,173
+Jer mogu...
+
+798
+01:51:38,554 --> 01:51:41,439
+da napravim novi bankovni
+raèun, napadnem novu metu.
+
+799
+01:51:41,564 --> 01:51:44,208
+I ako prestanem da razmišljam
+o tebi,
+
+800
+01:51:44,975 --> 01:51:47,833
+ako prestanem da razmišljam
+o bilo èemu,
+
+801
+01:51:48,145 --> 01:51:51,966
+to nestane, prestane da postoji.
+
+802
+01:51:56,258 --> 01:51:59,758
+Ali s tobom želim da se sastanem.
+
+803
+01:52:00,419 --> 01:52:03,205
+Ili možeš da odjebeš i umreš,
+duše.
+
+804
+01:52:10,522 --> 01:52:14,378
+<i>U redu, ti i Kasar.
+Zvaæu da kažem gde.</i>
+
+805
+01:52:14,503 --> 01:52:15,941
+Naravno.
+
+806
+01:52:25,053 --> 01:52:26,956
+U redu, u igri smo.
+
+807
+01:52:47,749 --> 01:52:49,469
+Hitno je, molim vas.
+
+808
+01:53:49,204 --> 01:53:53,634
+Pitanje je da li mogu da priðem
+dovoljno blizu i dovoljno brzo.
+
+809
+01:54:34,735 --> 01:54:37,815
+<i>Hej, rekao sam samo ti i Kasar.</i>
+
+810
+01:54:41,155 --> 01:54:43,266
+Petorica, dva sprata niže.
+
+811
+01:54:44,395 --> 01:54:46,557
+<i>Tim dva sprata niže.</i>
+
+812
+01:54:47,338 --> 01:54:49,226
+I dva revolveraša sa njima.
+
+813
+01:54:49,506 --> 01:54:51,738
+<i>I dva tipa sa vama.</i>
+
+814
+01:54:52,827 --> 01:54:55,889
+<i>Ostavi ih. Promenio
+sam lokaciju.</i>
+
+815
+01:54:56,310 --> 01:54:59,550
+Ti i Kasar, Papua trg,
+hodajte na zapad.
+
+816
+01:54:59,970 --> 01:55:03,901
+<i>Naðimo se za dva sata.
+-Biæe gužva. Kako da te naðem?</i>
+
+817
+01:55:04,481 --> 01:55:06,240
+<i>Ja æu tebe da naðem.</i>
+
+818
+01:55:39,559 --> 01:55:41,843
+Brzo doði ovamo!
+
+819
+01:55:42,507 --> 01:55:44,785
+Doði ovamo! Ima posmatraèa.
+
+820
+01:55:44,985 --> 01:55:48,259
+Zato budi malo povuèen.
+Ti levo, a ti desno.
+
+821
+01:55:48,783 --> 01:55:52,952
+Ali drži pogled na nama.
+
+822
+01:58:01,451 --> 01:58:04,450
+Nazad, nazad! Ruke gore!
+
+823
+01:58:04,650 --> 01:58:05,777
+Ruke gore!
+
+824
+01:58:06,202 --> 01:58:07,658
+Ruke gore! Okreni se!
+
+825
+01:58:07,783 --> 01:58:09,881
+Okreni se!
+
+826
+01:58:23,136 --> 01:58:26,107
+Niko pre nije prišao ovako blizu.
+
+827
+01:59:25,420 --> 01:59:28,919
+20 % je previše, Hetavej.
+-Govoriš poentu?
+
+828
+01:59:30,150 --> 01:59:33,367
+Mnogo ljudi umre svaki
+dan na ovoj planeti.
+
+829
+01:59:33,533 --> 01:59:38,449
+Šta hoæeš da radim, da ga oplakujem
+jer ga nisam znao. Nije više ovde.
+
+830
+01:59:38,573 --> 01:59:39,905
+Gde je moj novac?
+
+831
+01:59:40,104 --> 01:59:41,890
+Nije stvar u novcu.
+
+832
+01:59:44,736 --> 01:59:48,722
+Nije u nulama, jedinicama,
+u kodovima!
+
+833
+01:59:48,936 --> 01:59:51,973
+Šta sam ti rekao? Odmakni se!
+
+834
+01:59:52,408 --> 01:59:53,700
+Ja sam gejmer.
+
+835
+01:59:53,899 --> 01:59:56,047
+Unajmljujem ljude da rade
+prljave poslove.
+
+836
+01:59:56,173 --> 01:59:58,914
+Ubio si mi prijatelje.
+Ja radim svoje.
+
+837
+01:59:59,038 --> 02:00:00,628
+Da li me je briga?
+
+838
+02:02:14,132 --> 02:02:15,412
+Betadin.
+
+839
+02:02:16,429 --> 02:02:17,390
+Evo.
+
+840
+02:02:33,666 --> 02:02:35,699
+Imam ga.
+-U redu.
+
+841
+02:02:38,880 --> 02:02:40,413
+Ovaj?
+
+842
+02:02:41,492 --> 02:02:42,673
+To je dobro. Dobro je.
+
+843
+02:02:43,329 --> 02:02:44,720
+U redu!
+
+844
+02:03:15,654 --> 02:03:19,185
+<i><b>Engleski.
+Molimo vas, unesite pin.</b></i>
+
+845
+02:03:31,958 --> 02:03:33,998
+<i><b>Molimo vas, uzmite novac.</b></i>
+
+846
+02:03:39,168 --> 02:03:42,740
+<i><b>Želite li priznanicu?
+Ne</b></i>
+
+847
+02:03:43,059 --> 02:03:44,209
+<i><b>Transakcija završena</b></i>
+
+848
+02:03:44,335 --> 02:03:48,407
+<i><b>Podignuto: 5.000 evra.
+Saldo: 46.759.131 evra.</b></i>
+
+849
+02:04:51,560 --> 02:04:56,562
+Prevod: fAzazel
+Adaptacija na srpski: kumek
+
+850
+02:04:59,562 --> 02:05:03,562
+Preuzeto sa www.titlovi.com
+
+851
+02:05:04,305 --> 02:06:04,593
+-== [ www.OpenSubtitles.com ] ==-

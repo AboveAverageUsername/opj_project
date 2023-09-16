@@ -1,0 +1,736 @@
+{25}{175}Who are the real-world Illuminati ?|Find out @ saveanilluminati.com
+{1781}{1864}Zvali su iz vaše kancelarije. Šalju|helikopter da vas pokupi.
+{1865}{1908}Neka vrste uzbune.
+{1910}{1960}Obično je tako.|Hvala Vam.
+{3955}{4012}Dobar dan, Mr. Bond.
+{4015}{4080}Ne brinite za pilota.
+{4082}{4132}Jedan od mojih nekorisnijih ljudi.
+{4267}{4350}Vi sada letite|daljinski kontrolisnim avio putem.
+{5041}{5122}Razmisli dvaput, 007.|Dug je put do dole.
+{5981}{6076}Radovao sam se|ovom trenutku, Mr. Bond.
+{6084}{6158}Nameravam da uživam|u potpunosti.
+{7055}{7114}Stvarno, zar nemate poštovanje|za mrtve ?
+{7184}{7239}Doviđenja, Mr. Bond.
+{7242}{7316}Verujem da ste imali prijatan...|strah.
+{7759}{7838}Bledite|sa moje slike, Mr. Bond.
+{7841}{7937}Ali kraj|ne može biti daleko.
+{8716}{8800}Mr. Bond! Mr. Bond!
+{8876}{8932}Možemo se dogovoriti!
+{8934}{9049}Kupiću vam delikatese|u nerđajućem čeliku.
+{9080}{9115}Molim vas!
+{9116}{9161}U redu, drži se.
+{9162}{9237}Spusti me!|Spusti me!
+{9238}{9298}Oh, želiš da siđeš?
+{9361}{9406}Mr. Bond!
+{9991}{10087}SAMO ZA TVOJE OČI
+{14927}{14977}Dobar dan.|Kako izgleda odozgo?
+{14980}{15049}Predivan dan.|Upravo unosim mreže.
+{15052}{15097}Ponovo riba za večeru.
+{15356}{15442}Dekodirani ruski satelitski podaci, ser,|pozicija britanskih i američkih brodova.
+{15445}{15505}- Potvrdite i pošaljite admiralitetu.|- Da, ser.
+{15562}{15620}- Dobar dan, ser.|- Oh, zdravo, Mek.
+{15658}{15704}Moj sat.
+{16766}{16823}Odakle je dođavola|to došlo?
+{16941}{17017}- Šta se dođavola dešava ovde?|- Neidentifikovani objekt se brzo približava .
+{17427}{17497}Uništi ATAC sistem.
+{18451}{18518}- Da?|- Prvi Lord mora i vice admiral, ser.
+{18520}{18556}Pošalji ih unutra.
+{18683}{18717}Šokantne vesti, ministre.
+{18719}{18805}Plašim se da smo izgubili naš elektronski|brod za nadgledanje, Sveti Đorđe.
+{18806}{18861}Dobili smo rutinsku poruku|u 16.00 juče...
+{18882}{18923}zatim ništa.
+{18925}{18969}Ovog jutra smo primetili da|plivaju krhotine.
+{18971}{19057}Moj Bože, Džek.|Koliko je tamo duboka voda?
+{19060}{19129}Nije dovoljno duboka, plašim se.
+{19204}{19270}Da, druže Sekretare.|Kod Albanije.
+{19271}{19381}Sumnjivi britanski špijunski brod|koji smo pratili.
+{19383}{19462}Mislimo da postoji šansa|da pribavimo...
+{19465}{19510}ATAC predajnik.
+{19558}{19642}Oh, naravno, druže.|Nećemo se direktno umešati...
+{19645}{19725}ali ako izađe na tržište,|ne smemo propustiti...
+{19726}{19786}tako izvanrednu priliku.
+{19839}{19947}Sa tim na umu, već sam|kontaktirao našeg stalnog prijatelja u Grčkoj.
+{21143}{21193}Spusti se. Hajde.
+{21196}{21253}Spusti se.
+{21399}{21445}Daj nam poljubac.|Daj nam poljubac.
+{21447}{21512}Daću ti orah.|Evo ti. Beži.
+{21622}{21663}Napred.
+{21689}{21766}- Vaš prtljag, senjorita.|- Oh, hvala vam.
+{21884}{21917}Melina!
+{22325}{22380}- Hvala ti, draga.|- Zdravo, tatice.
+{22418}{22460}Dobro došla kući, Melina, draga.
+{22461}{22509}- Izgledaš lepo.|- Hvala.
+{22512}{22581}Tvoj poziv iz Atine|je bio prijatno inenađenje.
+{22584}{22654}Bila sam srećna da sam te našla.|Iznenada si napustio Krit.
+{22655}{22742}Ah, da, želeo sam da se vratim|i da ponovo počnem da radim na hramu.
+{22744}{22821}- Ti si između dva posla?|- Samo na nekoliko dana.
+{22823}{22919}- Pomoćiću ti ako želiš.|- Draga, ovo je prelepo. Hvala ti.
+{22924}{22998}To je za tebe,|i pistaći za Maksa.
+{24918}{24944}Džejms.
+{24945}{25023}Manipeni,|gozba za moje oči.
+{25024}{25072}Šta je sa tvojim ostatkom ?
+{25074}{25132}Pa, hteo sam da|dođem do toga.
+{25134}{25200}Bolje uđi unutra.|M je na odmoru...
+{25201}{25252}a ministar je došao|sa šefom štaba...
+{25254}{25306}i želi odmah da te vidi.
+{25307}{25369}- Odmah se vraćam.|- Jedva čekam.
+{25372}{25451}Oh, da nisi nešto zaboravio?
+{25453}{25506}Oh. Pa, pošto M nije tu--
+{25650}{25718}Ah, tu ste, 007.
+{25719}{25769}Ministre, Šefe.
+{25772}{25834}Da li ste upoznati|sa ATAC sistemom, 007?
+{25837}{25923}ATAC, ser? Automatski Nišanski|Napadni Komunikator.
+{25925}{25983}Koristi odašiljač sa ultra niskim|kodiranim frekfencijama...
+{25985}{26054}da naredi podmornicama|da lansiraju balističke rakete.
+{26055}{26136}Pre pet dana, naš špijunski brod,|Sveti Đorđe je potopljen...
+{26139}{26174}u Jonskom Moru.
+{26175}{26227}Bio je opremljen ATAC-om.
+{26230}{26282}Ukoliko bi taj odašiljač pao|u pogrešne ruke...
+{26285}{26352}to bi učinilo našu celu|Polaris flotu nekorisnom.
+{26383}{26449}- Svaka naredba bi mogla biti poništena.|- Još gore.
+{26450}{26539}Našim sopstvenim podmornicama moglo bi biti|naređeno da napadnu naše gradove.
+{26575}{26624}Da li smo započeli|operaciju spašavanja, Ministre?
+{26625}{26697}Zvanična operacija|ne dolazi u obzir.
+{26700}{26757}Sveti Đorđe je bio|kod albanske obale.
+{26760}{26793}Zamolili smo Ser Timotia Haveloka...
+{26795}{26857}morskog arheologa,|da tajno locira olupinu.
+{26858}{26925}Pre nego što je mogao da pošalje izveštaj,|njega i njegovu ženu je ubio...
+{26927}{27001}kubanski plaćeni ubica,|Hektor Gonzales.
+{27002}{27074}Grčka policija|je identifikovala Gonzalesa...
+{27076}{27153}iz opisa koji je dala|Melina, Ser Havelokova ćerka.
+{27189}{27263}Operacija podvodna struja.|Sve informacije su ovde.
+{27265}{27328}Gonzales je u vili|pored Madrida.
+{27330}{27384}Izolujte ga i upotrebite|neophodni pritisak...
+{27385}{27457}da saznate ko ga je unajmio.
+{31043}{31108}Valter PPK...
+{31110}{31193}standardno izdanje,|Britanska Tajna Služba.
+{31194}{31230}Dozvola za ubistvo.
+{31285}{31316}Ili da budeš ubijen.
+{31317}{31369}Odvedite ga.
+{33189}{33244}Bilo ko da ste, prekoračili ste|dobrodošlicu. Polazite.
+{33961}{34057}- Pa, nadam se da imate automobil.|- Ovuda.
+{34510}{34543}Požurite.
+{34826}{34900}- Ko ste Vi?|- On je ubio moje roditelje.
+{34903}{34987}Havelokove ?|Žao mi je.
+{35152}{35190}Odakle ste znali|gde se nalazi Gonzales ?
+{35193}{35272}preko detektivske agencije.|Šta ste radili tamo ?
+{35320}{35380}Bojim se da smo ostali|bez konjske snage.
+{35754}{35785}Izvinite me.
+{36092}{36133}Pođi donjim putem.
+{36181}{36240}Ne toliko donjim.
+{36559}{36617}Ne smeta ti da ja|vozim, zar ne?
+{38455}{38532}Idi nazad. Napred.|Brzo.
+{40014}{40086}Ja volim da vozim u prirodi,a ti?
+{40251}{40285}Čvrsto se uhvati.
+{40898}{40968}Oh, usput, mi se nismo|ni upoznali, Melina.
+{40970}{41054}Moje ime je Bond, James Bond.
+{41200}{41258}Olimpikov let je u 11:00.
+{41334}{41397}Trebalo bi da bude sigurno|da idemo na aerodrom.
+{41526}{41622}- Da li si dobro?|- Uredu sam, stvarno.
+{41660}{41708}Da li ćeš se vratiti|na očev brod ?
+{41711}{41813}Da, ja nastavljam njegov rad,|ali ovaj posao je idalje nedovršen.
+{41814}{41886}- Kakav posao?|- Čovek koji je platio Gonzalesa.
+{41917}{41977}Kinezi imaju izreku:
+{41979}{42098}"Pre no pođeš u osvetu,|iskopaj dva groba."
+{42099}{42157}Ja i ne očekujem od|tebe da to shvatiš.
+{42159}{42249}Ti si englez,|ali ja sam polu grkinja.
+{42250}{42315}A grkinja, pout Elektre...
+{42317}{42387}uvek osveti svoje voljene.
+{42413}{42459}Moram da idem.
+{42617}{42725}Ti si trebao da ispitaš Gonzalesa, a ne da|pustiš gospođicu Havelok da ga raspori.
+{42727}{42761}Potpuno se slažem, gospodine.
+{42763}{42859}Moramo da kažemo premijeru da je|operacija podvodna struja mrtva u vodi.
+{42864}{42913}Mislim da joj se neće dopasti.
+{42914}{42974}Ako želite da pogledate ponovo...
+{42977}{43027}stranu dva, paragraf četri|mog izveštaja, ser...
+{43029}{43100}videćete da sam video|da neko isplaćuje Gonzalesa.
+{43101}{43180}Ukoliko predpostavimo|da je to bilo za Havelokovo ubistvo...
+{43183}{43221}onda još uvek|postoji tračak nade.
+{43223}{43257}Nije mi baš jasno.
+{43259}{43318}Ako bi mi mogli da identifikujemo tog "nekog"--
+{43319}{43367}Zašto onda ne probate|na fotorobotu?
+{43430}{43490}- Da, gospodine.|- Na posao, 007.
+{43521}{43557}Ministar.
+{43665}{43738}Zdravo, Q.|Smiterse, kako ruka?
+{43739}{43787}Hvala na pitanju,|dobro napreduje.
+{43849}{43889}Oh, to će biti korisno.
+{43890}{43938}Šta radiš ovde, 007?
+{43940}{43993}- Foto robot, Q.|- Ovuda.
+{44259}{44345}- Davljenje na kiši?|- To nije smešno, 007.
+{44377}{44436}Vidim da ste uspeli|da ponovo sastavite Lotus.
+{44439}{44535}Ne sviđaju mi se šale|na račun naše opreme, 007.
+{44540}{44591}Činimi se da ti nije smešna|na terenu.
+{44592}{44628}Zaista, ne.
+{44774}{44882}Ovo je 3-D vizualni fotorobot.|Još uvek je u eksperimentalnoj fazi.
+{44885}{44960}Kada jednom dobijemo|delove čoveka...
+{44961}{45041}možemo da nađemo podudarnost|u fotografskim fajlovima...
+{45043}{45136}lnterpola,|CIA-e, Mosada.
+{45139}{45256}I zapadnonemačke policije.|Rekli ste mi to već pet puta.
+{45283}{45357}Hvala ti, 007.|Uredu.
+{45412}{45470}A sada opiši osobu|koju želiš da identifikuješ...
+{45472}{45519}a ja ću uneti informacije.
+{45520}{45613}Muški kavkazijac,|kasne tridesete.
+{45647}{45726}Kosa: dobra, svetlo braon.
+{45788}{45827}To je to.
+{45829}{45894}- Razdvojeno u sredini.|- Samo minut.
+{45896}{45956}- Tačno.|- Oči.
+{45959}{46009}- Malo manje.
+{46011}{46100}Plave. Malo tamnije.
+{46103}{46177}To je to. Pogodio si.|Sada, nos.
+{46246}{46309}- Nos, ne banana, Q.|- Žao mi je.
+{46311}{46349}Stani.
+{46352}{46397}Usne punije.
+{46484}{46565}Ne, ne, Šira usta.|Dobro.
+{46666}{46699}Hvala.
+{46726}{46759}Hvala, Šeron.
+{46762}{46831}- Možeš ići. Ja ću zaključati.|- Uredu.
+{46879}{46969}Mislim da smo skoro gotovi, Q,|još naočare.
+{46970}{47004}Čelični okvir.
+{47006}{47060}- Da.|- Osmougaoni.
+{47061}{47102}Osmougaoni.
+{47157}{47229}To je on.|To je naš čovek.
+{47250}{47331}Dobro. Pokušaću|da rponađem podudarnost.
+{47691}{47717}Da.
+{47719}{47787}Čovek koga tražimo je|Emil Leopold Loke...
+{47789}{47851}član Briselskog podzemlja.
+{47854}{47887}Osuđen je za|nekoliko...
+{47890}{47940}posebno brutalnih ubistava.
+{47942}{47993}Pobegao je iz zatvora Namur ...
+{47995}{48048}tako što je zadavio svog psihijatra.
+{48050}{48138}Radio je za dilere droge|u Marseju i Hong Kongu.
+{48139}{48203}Sada radi za|Grčke krijumčare.
+{48204}{48288}ltalijanska Obaveštajna služba smatra|da je, trenutno, u Kortini.
+{48290}{48383}Uputiću Ferara, našeg čoveka|u severnoj ltaliji, da te kontaktira tamo.
+{48386}{48482}- Da, ser.|- I 007, probaj da ne zabrljaš ponovo.
+{48489}{48549}Potrudiću se, ser.
+{48551}{48621}Ostaviću te da zaključaš.|Pusti ma napolje, hoćeš li?
+{50972}{51040}Ove godine sneg|je najbolji u lnsbruku.
+{51042}{51104}Ali ne u St. Moricu.
+{51107}{51200}- Ferara.|- Bond. Džejms.
+{51203}{51248}Luiđi.
+{51251}{51313}Predpostavljam da vas je London uputio.
+{51315}{51393}Ukoliko je Loke u Kortini,|naćićemo ga.
+{51394}{51488}Imam pouzdani grčki kontakt ovde,|jednog anglofila.
+{51490}{51562}Pomogao nam je prošle godine|u operaciji krijumčarenja.
+{51565}{51639}- Šta radi u Kortini?|- On--
+{51732}{51819}Provodi nekoliko meseci godišnje ovde|u svojoj vili.
+{51821}{51924}Bavi se špedicijom, osiguranjem,|iskorišćavanjem ulja.
+{51927}{51972}Zna sve što se događa.
+{51974}{52022}Vrlo pouzdan.
+{52025}{52111}Britanija mu je dala Kraljevu|medalju za učestvovanje u pokretu|otpora tokom rata.
+{52114}{52157}Da, ali da li mogu da se sretnem sa njim?
+{52159}{52255}To sam već dogovorio. Čeka nas|kod olimpiskog klizališta.
+{52770}{52842}- Kristatos. Ari Kristatos.|- Bond. James Bond.
+{52845}{52892}Da li biste želeli da mi|se pridružte uz kuvano vino?
+{52893}{52943}To je veoma dobra ideja.|Hvala vam.
+{52974}{53063}Pa, gospodo,|Kako vam ja mogu pomoći?
+{53065}{53130}Mi bi smo želeli neke informacije.
+{53310}{53357}Moja štićenica.|Sigurno pobeđuje...
+{53358}{53394}na sledećoj Olimpijadi.
+{53396}{53454}Ona je potpuno obuzeta|svojim klizanjem...
+{53456}{53509}ali neiskusna u|stvarnom žvotu.
+{53511}{53568}Dan kada bude osvojila zlatnu medalju...
+{53569}{53641}biće najveći u mom životu.
+{53796}{53901}Bibi, ovde su tvoji|novi obožavaoci.
+{53902}{53976}Mr. Bond, Mr. Ferara,|Bibi Dal...
+{53979}{54069}i njen trener, Džakoba Brink,|nekada i sama klizačica svetskoga ranga.
+{54070}{54108}Video sam gospođicu Brink kako kliza.
+{54110}{54180}Mislim da će svet videti uskoro|Vaše klizanje takođe.
+{54182}{54230}Samo ako radi više.
+{54233}{54273}- Mnogo više.|- Oh, ujka Ari.
+{54276}{54321}Mogu li da stanem sada?|Umorila sam se.
+{54324}{54388}To je na gospođici Brink da odluči.
+{54391}{54458}Dođi, Bibi,|još pola sata vežbe.
+{54460}{54512}Ujka Ari, da li ćeš me povesti|na biatlon?
+{54513}{54573}Bibi, znaš da moram da radim|ovog poslepodneva.
+{54662}{54731}Bibi želi da zna|da li biste je otpratili , Mr. Bond.
+{54734}{54779}- Ne mislim--|- Bolje bih se osećao...
+{54782}{54827}ukoliko bi neko drugi bio sa njom.
+{54894}{54969}Bio bih oduševljen.|Odseo sam u Miramonti.
+{54971}{55007}Odlično !
+{55045}{55108}Kako mogu da pomognem ?
+{55110}{55160}- Da li znate ovog čoveka?|- Da. Loke.
+{55163}{55227}Kolumbova desna ruka.
+{55230}{55287}Milos Kolumbo.|Njegovo ime se pojavilo u vezi...
+{55290}{55342}operacijom krijumčarenja|prošle godine.
+{55343}{55465}To je najblaže što je učinio.|Droga, belo roblje, naručena ubistva.
+{55467}{55552}U grčkom podzemlju on je|poznat kao "Golub".
+{55553}{55592}Vrlo bolesna šala.
+{55594}{55673}- Gde je taj Golub?|- Nagađam da je negde u grčkoj.
+{55676}{55740}Nekada smo bili kao braća.|A sada me mrzi.
+{55743}{55800}Mi smo se zajedno borili|u grčkom pokretu otpora...
+{55803}{55860}a zatim i protiv komunista.
+{55863}{55913}Posle toga,|on je krenuo drugim putem.
+{56016}{56071}Hvala vam za vaše vreme,|Mr. Kristatos.
+{56074}{56114}Moje zadovoljstvo.|ja uskoro krećem za Korfu.
+{56117}{56184}Ako budem saznao još nešto,|pozvaću Ferara.
+{56467}{56536}Šta ti misliš, Luiđi?|Da li taj "Golub" Kolumbo...
+{56539}{56584}ima mogućnosti da izvrši|spasilačku operaciju?
+{56587}{56699}Oh, sigurno. Poseduje flotu|međuobalnih teretnih brodova u Aegenu.
+{56702}{56776}Pozvaću moju kancelariju u Milanu.|Možda imaju nešto više o njemu.
+{57037}{57085}- Vidimo se kasnije.|- Uredu.
+{57454}{57506}Da li ste na ovo mislili?
+{57507}{57603}Hvala vam. Uzeću.|Dostavite to u hotel Kristalo.
+{57833}{57879}Izvinite.
+{57958}{58003}- Mogu li da Vam pomognem?|- Da, dajte mi tuce jorgovana.
+{58006}{58035}Hoćete ih?
+{58205}{58241}Pokupiću ih kasnije.
+{58423}{58473}Dođi, brzo.
+{58857}{58917}Pošaljite ih na sahranu,|hoćete li ?
+{59041}{59118}Uspori malo. Da li bi želela da mi kažeš|šta dođavola radiš u Kortini ?
+{59121}{59204}- Vaš telegram.|- Kakav telegram?
+{59207}{59288}Piše da si pronašao čoveka|i da se sretnem s tobom danas.
+{59291}{59324}Nisam ga ja poslao.
+{59327}{59360}Sada, ulazi.
+{59418}{59456}Stanica, molim vas.
+{59459}{59554}- Zar odlazimo?|- Ne "mi." Ti. I to odmah.
+{59559}{59619}Negovorite mi šta da radim.
+{60022}{60070}Da li si pronašao čoveka|koji je unajmio Gonzalesa ?
+{60099}{60135}Radim na tome.
+{60137}{60182}On je ovde, zar ne ?
+{60221}{60290}Zato si ti ovde.|Vozaču, stanite! Vratite se nazad !
+{60345}{60413}- Ostajem.|- Znači možeš da ga središ ?
+{60415}{60489}Uradi to, i nikada ne ćemo saznati|ko i šta je iza svega ovoga.
+{60492}{60580}Moje roditelje su ubili,|ne tvoje. Pusti me napolje. Vozaču, stanite !
+{60679}{60721}Melina, pogledaj me.
+{60722}{60787}Imala si sreću jednom,|ali sada su ti na tragu.
+{60789}{60870}Telegram, motorcikl|tamo. Oni to dokazuju.
+{60873}{60952}- Pusti me da sredim ovo.|- Ti ? Kako si ti umešan ?
+{60954}{61049}Sve što mogu da ti kažem je|da je ovo od vitalnog interesa|za obe naše zemlje.
+{61050}{61122}Važnije od mojih roditelja ?
+{61168}{61216}Tvoj otac je bio deo toga .
+{61218}{61264}On je mislio da je dovoljno važno|da rizikuje svoj život.
+{61266}{61327}Sada, Melina, molim te da mi veruješ.
+{61328}{61379}Vrati se na Triainu i čekaj.
+{61381}{61447}Dozvoli mi da pronađem ovde šta mogu,|zatim ću doći pravo na Krf.
+{61448}{61495}- Obećavam ti.|- Uredu.
+{61496}{61590}Vratiću se i čekaću,|ali ne dugo.
+{61592}{61628}Neće biti dugo, kunem se.
+{62800}{62883}Zar nemaju tuševe|na klizalištu?
+{62884}{62931}Kako si ušla ovde ?
+{62932}{62975}Jedan od portira je moj obožavalac.
+{62978}{63105}Uradio bi sve za mene,|a ja bih sve za tebe.
+{63107}{63179}Pa, neizmerno sam|polaskan, Bibi...
+{63181}{63222}ali ti treniraš.
+{63225}{63319}To je smešno. Svi znaju|da to izgrađuje mišiće.
+{63320}{63443}Kako bi bilo da malo izgradiš mišiće|tako što ćeš obući svoju odeću?
+{63498}{63531}Zar ti se nesviđam?
+{63582}{63639}Mislim da si predivna, Bibi...
+{63642}{63723}ali ne mislim da bi tvoj ujka Ari|to odobrio.
+{63726}{63800}On? On misli|da sam još uvek devica.
+{63836}{63970}Da, pa, obuci se,|a ja ću ti kupiti sladoled.
+{64152}{64200}Hoćemo li ?
+{64344}{64398}Zar nikad ne izlaziš po vazduh ?
+{64399}{64485}Zato sam dobio zlatnu medalju--|kontrola disanja.
+{64488}{64557}Da, pa, ne možeš da izgubiš.
+{65265}{65312}A sada, Erik Krigler...
+{65315}{65382}Prošlogodišnji Istočno Evropski šampion.
+{65567}{65604}Eno ga Erik Krigler.
+{65605}{65650}Istočno-nemački šampion ?
+{65689}{65730}Zar nije lep?
+{65732}{65782}Znaš šta, Bibi?|Ti si promenljiva.
+{65811}{65861}Hej, Erik!
+{65905}{65948}Hajde, idemo da gledamo kako gađa.
+{66660}{66732}Popićemo piće|na kraju.
+{66784}{66831}Pa, Bibi, plašim se|da moram da te napustim.
+{66832}{66914}- Ne, Džejms, ostani sa mnom.|- Imam zakazan sastanak.
+{66962}{67038}Hoćeš li doći kasnije na|vežbalište da se oprostiš od mene?
+{67041}{67094}Molim te, James, uskoro|se vraćamo za Grčku.
+{67096}{67142}Uredu, ali za slučaj da|ne budem mogao da pođem...
+{67144}{67197}sve što mogu da kažem je|nemoj više da rasteš.
+{67199}{67281}- Suprotni pol to neće preživeti.
+{80410}{80448}Ne treba još mnogo.
+{80451}{80525}- Nemoj da se igraš prekidačima.|- Dobro.
+{80897}{80942}Šta te je toliko zadržalo ?
+{80945}{80988}Išao sam okolnim putem.
+{81019}{81096}Kaži mi nešto više o tvom momku,|Eriku Krajgleru.
+{81098}{81194}Ne puši, jede samo zdravu|hranu i neće uopšte ni da priča sa devojkama.
+{81239}{81278}Džejmse, ti si ljubomoran.
+{81280}{81403}Naravno. Šta mi još možeš reći|o mom rivalu za tvoju naklonost ?
+{81405}{81486}Kažu da je prebegao|iz Istočne Nemačke.
+{81489}{81554}Vreme je za tvoju masažu.
+{81764}{81839}Mogla bih da te pojedem živog.
+{81904}{81997}Doviđenja, Mr. Bond,|ali ne i zbogom.
+{84440}{84519}Završavam oko 6:00.|Naćićemo se ovde.
+{84572}{84619}Odakle si znao da sam ovde?
+{84620}{84699}Pozvao sam radiom Trianiu,|i oni su mi rekli da izlaziš na obalu.
+{84701}{84770}Moram da kupujem za posadu.|Pođi sa mnom, možemo da pričamo.
+{84771}{84797}Zašto da ne?
+{85363}{85399}Hvala ti.
+{85550}{85610}Pomislio sam da će ti trebati.
+{86226}{86289}Moj otac je voleo pogled odavde.
+{86290}{86395}- Mogu da vidim zašto.|- Dolazili smo ovde često.
+{86396}{86451}- Da li živiš na Krfu?|- Ne.
+{86453}{86537}Moj pravi dom su oduvek bili|Triaina, Grčka ostrva...
+{86540}{86636}Turska, Severna Afrika--|bilo gde bi nas rad mog oca odveo.
+{86669}{86758}Da li je ostavio neke beleške?|Mogle bi da nam pomognu.
+{86760}{86818}Ne, mislim da nije.
+{86856}{86910}Da ti kažem istinu...
+{86911}{86993}nisam imala hrabrosti da idem|u njegovu radnu sobu.
+{87031}{87079}Pokušaj da ne misliš na to sada.
+{87081}{87149}Susrešću večeras u kazinu čoveka|koji bi mogao da nam da neki trag.
+{87920}{87978}Znojiš se, Bunki.
+{88009}{88043}Kontesa.
+{88333}{88366}500,000.
+{88369}{88447}Samo pola?|Gde ti je hrabrost, Bunki?
+{88448}{88541}Hrabrost nije merilo|za neprijateljski par, Kontesa.
+{88611}{88649}Bravo, Bunki.
+{88810}{88848}Srećna noć.
+{89270}{89353}Odnosi stoje blagonaklono.
+{89354}{89397}Ukoliko igrate na mogućnosti.
+{89587}{89682}Da li biste unovčili ovo|za mene, molim Vas?
+{89685}{89742}Hvala. Izvinite me.
+{90200}{90236}Aperitiv ?
+{90239}{90284}Uzo za mene, molim.
+{90342}{90387}I viski.
+{90421}{90456}Za jelo ?
+{90457}{90577}Uzeću škampe,|salatu i Burdeto.
+{90579}{90628}Odličan izbor.|Uzeću isto.
+{90629}{90720}Mogu li da predložim belo vino|iz mog rodnog kraja ?
+{90723}{90816}Oprostite mi, to je|malo previše mirišljavo za moj ukus.
+{90819}{90891}Više volim Teotaki Aspro.
+{90953}{91019}Posle našeg poslednjeg susreta,|pitam se...
+{91020}{91094}zašto želite informacije o Loku,|Kolumbovom čoveku.
+{91121}{91205}Znam da Kolumbo dovozi heroin|da ga preradi ovde...
+{91207}{91252}pre nego ga pošalje u Englesku.
+{91253}{91305}Zato mislim da znam odgovor.
+{91308}{91377}Vi ste iz britanskog biroa za narkotike.
+{91399}{91432}Da li sam u pravu?
+{91435}{91476}Nastavite.
+{91533}{91598}Želim Vam sreću, prijatelju.
+{91600}{91672}Ali moram da Vas upozorim,|biće teško zaustaviti Kolumba.
+{91675}{91770}On ima važne veze.|Ne možete ga jednostavno uhapsiti.
+{91778}{91814}Pronađite neki drugi način.
+{91816}{91895}Možda ćete morati da ga ubijete.
+{91897}{91965}Da li Vas to plaši?
+{92017}{92082}- Samo mi recite gde je.|- Tamo.
+{92084}{92120}Sa ženom u plavom.
+{92209}{92288}Mi ignorišemo jedan drugog,|ali sam želeo da ga vidite.
+{92291}{92334}On je tajni partner|u ovom kazinu.
+{92336}{92390}Ali smo sasvim sigurni.
+{92391}{92463}Neće nam ništa uraditi u svom mestu.
+{92466}{92521}A kontesa?
+{92523}{92594}Lisl, Austrijanka.
+{92595}{92681}Skupa ljubavnica.|Ponekad igra za kuću.
+{92684}{92746}Kladi se tuđim novcem.
+{93278}{93348}Ali moram da Vas upozorim,|biće teško zaustaviti Kolumba.
+{93350}{93436}On ima važne veze.|Ne možete ga jednostavno uhapsiti.
+{93439}{93498}Pronađite neki drugi način.
+{93499}{93570}Možda ćete morati da ga ubijete.
+{93571}{93681}Da li Vas to plaši?
+{93683}{93729}- Samo mi recite gde je.|- Tamo.
+{94072}{94152}Vi ste odvratan čovek. Kako se usuđujete|da razgovarate sa mnom na takav način?
+{94153}{94249}Pričaću s tobom kako želim.|Sedi.
+{94256}{94314}Praviš spektakl|od sebe.
+{94345}{94368}Odlazi!
+{94369}{94450}Ništa mi se ne bi više dopalo .
+{94649}{94724}- Ovo bi mogla da bude prilika.|- Ovo bi mogla da bude zamka.
+{94726}{94779}Ukoliko odigrate na mogućnosti.
+{94781}{94863}Kako želiš. Uzmi moj auto.|Igraću malo čemin.
+{94865}{94928}Kaži šoferu|da se vrati po mene.
+{95174}{95221}Dozvolite mi.
+{95222}{95268}Da li mogu da Vas odvezem do kuće?
+{95270}{95330}Ne, hvala Vam.|Uzeću taksi.
+{95333}{95378}Plašite se?
+{95381}{95452}Ozbiljno, mogli biste da imate|teškoće da na nađete neki.
+{95484}{95553}Pa, izgledate kao džentlmen.
+{95556}{95589}Zašto da ne?
+{95798}{95849}Ja sam Kontesa Lisl Fon Šlaf.
+{95850}{95900}Moje ime je Bond.
+{95901}{96004}Pišem roman o grčkim|krijumčarima. Da li znate nekog?
+{96006}{96084}Krijumčare ? Kako bih ja mogla|da znam nekog krijumčara ?
+{96085}{96187}Pomislio bih da|dama u vašoj poziciji...
+{96188}{96239}mogla bi da zna dosta stvari.
+{96241}{96277}Bio bih Vam zahvalan.
+{96280}{96320}Koliko zahvalan?
+{96323}{96351}Veoma.
+{96354}{96428}Obožavam zahvalne muškarce.
+{97162}{97225}Da li bih mogao da vas nazovem sutra, Konteso?
+{97226}{97307}Ja sam noćna ptica. Imam|šampanjac i ostrige u frižideru.
+{97308}{97356}Zašto ne uđete na zalogaj ?
+{97449}{97526}Ne trebate mi više večeras.
+{98159}{98214}- Živeli.|- Do dna.
+{98391}{98453}Moja spavaćica klizi.
+{98454}{98502}Takođe i vaš akcent, Konteso.
+{98557}{98610}- Mančester?|- Blizu.
+{98612}{98671}Liverpul.
+{98672}{98713}Bila je zanimljiva gluma...
+{98715}{98796}između tebe i vlasnika.
+{98797}{98849}Šta ti je ustvari Kolumbo šapnuo?
+{98852}{98948}Da si špijun.|Da saznam više o tebi.
+{98976}{99010}I jesi li?
+{99058}{99103}Jesam li uopšte.
+{99710}{99813}Kada budeš spreman da pođeš,|možeš da uzmeš moja kola.
+{99815}{99885}To zvuči kao otpuštanje.
+{99887}{99942}Nadao sam se doručku.
+{100921}{100964}Lisl, vrati se!
+{101757}{101791}Ulazi-- !
+{102095}{102145}Doviđenja, Konteso.
+{102251}{102316}Šta--
+{103337}{103413}- Šta da radim sa tobom ?|- Ne možete ga jednostavno uhapsiti.
+{103414}{103466}Pronađite neki drugi način.
+{103469}{103529}Možda ćete morati da ga ubijete.
+{103531}{103584}- Da li Vas to plaši?
+{103620}{103653}Samo mi recite gde je.
+{103656}{103776}Ovde sam, Mr. Bond|iz britanske Tajne službe.
+{103778}{103823}Ali kažem Vam...
+{103824}{103881}Kristatosa želite, ne mene.
+{103883}{103958}On Vam je pričao o sebi.
+{103960}{104044}On je taj sa|moćnim vezama.
+{104046}{104098}Loke radi za njega,|a ne mene.
+{104099}{104195}Ja krijumčarim, da.|Krijumčarim zlato, dijamante...
+{104200}{104243}cigarete, pistaće...
+{104245}{104307}ali ne heroin.
+{104308}{104389}Sedite.|To ostavljam njemu...
+{104392}{104472}kad nije previše zauzet|radeći za Rusiju...
+{104473}{104515}protiv moje i vaše zemlje.
+{104516}{104562}Moja zemlja ga je odlikovala Kraljevom Medaljom.
+{104564}{104654}Da, znam.|Ali drugi ljudi su umrli za nju.
+{104655}{104725}Tokom borbi na Kritu,|on je bio dupli agent.
+{104792}{104857}Kraljeva Medalja.
+{104859}{104942}Smejao bih se|da mi nije toliko teško na srcu...
+{104943}{104984}zbog moje jadne Lisl.
+{105034}{105106}Šta Kristatos dobija|smeštajući ti?
+{105108}{105191}Pa, znam previše o njemu.
+{105192}{105255}Hoće da me skloni s puta.
+{105257}{105391}Koristeći britanskog agenta|da odradi prljavi posao za njega...
+{105394}{105446}možda će mu vaša vlada|dati još jednu medalju.
+{105468}{105563}- Zašto bih ti verovao?|- Dokazaću ti večeras.
+{105564}{105630}Ićićemo zajedo u njegovo skladište...
+{105631}{105713}u Albaniji, uredu?
+{105732}{105789}Ukoliko se ne javim do sutra ujutu...
+{105792}{105888}ne samo moji ljudi, već cela grčka|policija će se srušiti na tebe...
+{105890}{105923}kao tovar cigli.
+{105926}{105969}Ne brini.
+{105971}{106053}Do sutra,|mi ćemo biti dobri prijatelji.
+{106101}{106158}Pijmo za to.
+{106161}{106216}Sačekaću do sutra.
+{106487}{106552}Možda će ti trebati ovo.
+{106583}{106631}Dobro procenjujem ljude.
+{106633}{106753}Mr. Bond, imaš|ono što Grci zovu tha'ros.
+{106755}{106791}Petlju.
+{106839}{106873}Ti takođe, Mr. Columbo.
+{107081}{107105}Živeli.
+{109598}{109639}Santosovo skladište droge.
+{110018}{110054}Pazi.
+{110435}{110473}J.I.M. oprema za ronjenje...
+{110476}{110545}za spasilačke poslove|na dubinama preko 300 stopa.
+{110898}{110965}- Sirovi opium.|- Stari krijumčrski trik.
+{110967}{111029}Kristatos ih sve zna.
+{112048}{112115}Izvedi svoje ljude odavde.
+{112118}{112151}Odmah.
+{115088}{115172}Ostavio si ovo sa Fererom,|verujem.
+{115603}{115639}Nema glavu za visinu.
+{117797}{117885}Gde je Sv. Džordž potonuo ?
+{117888}{117957}Ne znamo sigurno.|Znamo da je bio u ovoj okolini.
+{117960}{118050}Tvoj otac je koristio|hram kao paravan.
+{118051}{118105}Kristatos je ubio tvog oca...
+{118106}{118176}da ne bi pronašao|Sv. Džordža pre njega.
+{118178}{118291}Kristatos.|Kako mogu da pomognem ?
+{118293}{118372}Gde je tvoj otac držao|svoje dnevne zapise?
+{118375}{118418}Dnevne zapise.
+{118420}{118530}Otac i on su bili prijatelji trideset|godina.On ponavlja sve.
+{118607}{118676}- Daj nam poljubac.|- Kako se zove?
+{118677}{118733}Maks.
+{118734}{118770}Hvala.
+{118816}{118849}Zdravo.
+{118940}{118986}To je sve stenografski.
+{118988}{119084}Koristio je posebnu vrstu.|Jedino ja mogu da dešifrujem.
+{119185}{119254}Napravio je nekoliko izviđanja u Neptunu.
+{119257}{119312}- Šta je to Neptun?|- Naša podmornica dvosed.
+{119357}{119439}Video je ronilačko zvono ovde.
+{119441}{119472}Ronilačko zvono ?
+{119475}{119566}Istraživanje nafte. Kristatos.
+{119623}{119712}Tri dana kasnije,|primetio je olupinu u istom području.
+{119736}{119782}I ?
+{119784}{119825}To je poslednje uneo.
+{119827}{119897}Dan kad je ubijen.
+{119899}{120028}Vazduh bi bio beskoristan na ovoj dubini.|Treba nam mešavina kiseonika i helijuma.
+{120029}{120077}Imam potrebnu opremu.
+{120117}{120163}Što manje ljudi zna,|to bolje.
+{120187}{120259}Dozvoliću posadi izlazak na obalu|izuzev pomoćniku i još dvojici.
+{120261}{120304}Idemo.
+{122390}{122452}584 stopa.
+{122455}{122591}Mešavina kiseonik-helijum daće nam|osam minuta. Moramo brzo da radimo.
+{122594}{122673}Zar ne bi posada uništila|predajnik ?
+{122675}{122735}Samo ako su imaki šansu|da podese tajmer.
+{123521}{123574}Imamo posetioca ispod.
+{123751}{123823}Čuvaj zalihe gasa.|Govori samo kad je neophodno.
+{125065}{125115}Nadam se da je ronio sam.
+{125715}{125754}Vrati se u podmornicu.
+{125755}{125801}Ne, ne. Ostajem.
+{126055}{126120}Ovo bi trebala da bude komandna kabina.
+{126652}{126686}Eureka!
+{126911}{126947}"Glavna ppoluga za samouništenje...
+{126949}{127028}ispod poluge desno od ATAC-ovog|kućišta, dupliran...
+{127031}{127143}sa još jednim u glavnom kolu|preko sigurnosnog prekidača."
+{127146}{127205}Vreme samouništenja podešeno|na jedan minut.
+{127206}{127271}Iz nekg razloga,|poluga nije povučena.
+{127422}{127486}Odašiljač sa termičkim punjenjem.
+{127882}{127930}Drži ovo.
+{127966}{128009}"Za zaobilaženje|živinog prekidača...
+{128011}{128090}seći žice u sledećem redosledu."
+{128131}{128160}Sečice.
+{128639}{128673}Šrafciger.
+{129064}{129140}To je to.|Hajdemo odavde.
+{129742}{129785}James, upomoć!
+{130684}{130754}- James, ja neću uspeti.|- Oboje hoćemo.
+{130876}{130912}Idi do podmornice.|Ja ću ga usporiti.
+{135769}{135805}Pokušaj i zatvori CO2.
+{135807}{135850}Pokušavam.
+{137991}{138082}Pažljivo, James.|To je 5,000 godina staro.
+{139010}{139049}Hvala vam, Mr. Bond.
+{139050}{139108}Uštedeli ste nam|muke oko deaktiviranja.
+{139110}{139194}Apostis, uzmi to.
+{139245}{139287}Gde su moji ljudi?
+{139288}{139338}Ti ćeš im se pridružiti.
+{139340}{139400}Pusti devojku.
+{139403}{139453}Mi ćemo ti dati duplo|više nego što dobijaš.
+{139455}{139532}Nikada ne kršim dogovor.
+{139535}{139602}To bi bilo loše|za moju reputaciju.
+{140014}{140078}Ja ću ga isporučiti|i vratiti se sa novcem.
+{140079}{140213}Glas KGB-a. Naš dogovor je|da ja određujem mesto sastanka.
+{140215}{140295}Posle isplate,|ja ću im dati odašiljač.
+{140297}{140374}On nesme biti ispušten iz našeg vida.
+{140376}{140462}Ni moga. Gde mi idemo?
+{140465}{140513}Odnećemo ATAC|na Svetog Ćirila.
+{140515}{140599}Sveti Ćirilo.|Ja ću srediti preuzimanje.
+{140755}{140887}Previj tu ranu.|Neželimo krv u vodi, jošuvek.
+{140889}{140920}Ubico.
+{140923}{141018}Upravo ste ispucali svoju|poslednju strelu,gospođice Havelok.
+{141129}{141178}Ostavite im noge slobodne.
+{141179}{141208}Biće dobro predjelo.
+{141448}{141492}Nisam mislila|da će se ovako završiti.
+{141493}{141541}Još uvek nismo mrtvi.
+{142181}{142215}Drži se čvrsto.
+{142821}{142876}Okreni. Idemo ponovo.
+{143003}{143037}Udahni duboko.
+{144389}{144422}Ponovo. Požuri.
+{145607}{145655}Upomoć!
+{145700}{145734}Ma, ostavi ga.
+{145808}{145868}Okreni. Pregazi ih.
+{146280}{146309}Zamnom.
+{147359}{147474}Ahh. Ajkule su ih sredile.|Idemo u luku.
+{148018}{148052}Hvala ti.
+{148054}{148088}Zdravo.
+{148165}{148252}- Daj nam pusu.|-Maks, nemoj sad.
+{148253}{148319}Kristatos je još uvek živ.
+{148320}{148409}I verovatno je  dosada|krenuo ka Moskvi ili Havani.
+{148411}{148459}Nikada ga nećemo uhvatiti.
+{148462}{148495}A ni ATAC.
+{148498}{148543}ATAC na Svetog Ćirila.
+{150332}{150408}Oprosti mi, Oče,|grešio sam.
+{150411}{150491}Blago rečeno, 007.
+{150492}{150575}Tvoj signal je šokirao Vajthol.
+{150576}{150648}Do sada smo uspeki da lociramo...
+{150650}{150746}439 Svetih Ćirila u grčkoj.
+{150751}{150847}Samo Bog zna u koji je|Kristatos odneo ATAC.
+{150852}{150936}znam dobro informisanu osobu|da pitam za informaciju, Q.
+{151271}{151349}Sv. Ćiril, gde smo se krili|o Nemaca.
+{151350}{151463}Samo bi Kristatos pretvorio napušteni|manastir u svoje sklonište.
+{151501}{151561}Moj prijatelju, proučavao sam|ovo mesto...
+{151564}{151609}baš za ovakvu priliku.
+{151640}{151680}Ovde ćemo da se razdvojimo ?
+{151681}{151777}Najbolje mesto za pristup je sa|desne strane,daleko od zgrada.
+{151782}{151834}Onde ćeš morati ka nadstrešnici|sa leve strne...
+{151835}{151921}u kojoj su korpa|i električno vitlo.
+{151923}{151988}Može se upravljati|samo iz nadstrešnice.
+{151990}{152034}Srećno.
+{152276}{152314}Trebali smo da povedemo više ljudi.
+{152316}{152387}- Džejms računa na iznenađenje.|- Ali ima nas samo petorica.
+{152388}{152429}I jedna žena.
+{153671}{153719}Osamnaest...
+{153721}{153757}devetnaest...
+{153760}{153810}dvadeset.
+{153812}{153846}Još pedeset.
+{153848}{153951}Ovo je rupa! Trebala sam|da klizam u Oslu, u lnsbruku.
+{153954}{153996}Zašto smo u ovom jezivom mestu?
+{153997}{154104}Naši planovi su se promenili.|Živećemo na Kubi nekoliko meseci.
+{154105}{154179}- Kuba!|- Možeš da klizaš bez ometanja.
+{154181}{154212}Ja ću biti tvoja publika.
+{154213}{154321}Šteta.|Želim da osvojim zlatnu medalju.
+{154323}{154347}Svi to želimo.
+{154368}{154404}Znam ja šta ti želiš.
+{154407}{154481}Ali si previše star za mene.|Odlazim.
+{154503}{154620}- Ti si je zatrovala protiv mene!|- Nemoj da eksplodiraš, Ari.
+{154623}{154710}- Ostavi je na miru.|- Obračunaću se s tobom...
+{154711}{154783}kao sa svima koji su me izdali.
+{155004}{155054}Bibi...
+{155056}{155102}ti si tako mlada.
+{155140}{155191}Moraš da imaš sponzora.
+{155193}{155239}Naćiću drugog.
+{155241}{155282}Idi napolje i proveri stažu.
+{155284}{155359}Javi mi čim stigne helikopter.
+{162895}{162946}Na sreću jedan od Kristatosovih ubica.
+{166858}{166891}- Ućutkaj ga.
+{167021}{167066}Zatvori vrata.
+{167189}{167270}Hajde, Džordže. Idemo.
+{167313}{167385}Požuri, osim ako ne želiš|da odem bez tebe.
+{167388}{167448}Znaš,|nikada te neću napustiti
+{167527}{167594}Tvoj general kasni.
+{167596}{167656}Samo bi loše vreme moglo da ga zadrži.
+{167997}{168047}Pokrij prozore.
+{168049}{168100}Idemo.
+{168102}{168150}Uredu je. Ostavi ga.
+{168337}{168377}Uredu je.
+{168378}{168421}Nazad!
+{168625}{168661}Okej. Idemo.
+{168689}{168753}Biću s tobom.
+{168754}{168778}Izvini.
+{169078}{169135}Pokrij vrata!
+{169138}{169205}Gde je Kristatos?|I budi tih.
+{169207}{169289}Ostavljamo ga.|Ne sme da zna dok ne odemo.
+{169291}{169329}Pomoći ćemo ti ukoliko nam pomogneš.
+{169394}{169430}Dođite.
+{169701}{169742}Gde su stražari?
+{169744}{169785}Tamo.
+{169787}{169833}Sačekaj ovde.
+{171024}{171070}Pomeri se!
+{171142}{171228}- Gde je Kristatos?|- Sa druge strane dvorišta.
+{171230}{171290}Bolje ostani ovde.
+{171489}{171552}Gde je Brinka?|Šta si uradio Brinki?
+{171554}{171614}- Vrati se u svoju sobu!|- Idi dođavola!
+{172403}{172458}Baci.
+{174428}{174471}- Gde je Kristatos?|- Otišao je sa ATAC-om.
+{174764}{174812}Platićeš za to.
+{174814}{174881}Nisi toliko brz|kao što si bio.
+{175181}{175234}Ne, Melina,|to nije odgovor.
+{175265}{175303}Predaćemo ga|grčkoj policiji.
+{175306}{175354}Skloni se, Džejms.
+{175375}{175421}Uredu...
+{175423}{175485}ali spremi se da|da kopaš dva groba.
+{176382}{176438}To je detant, druže.
+{176439}{176504}Ti ga nemaš a|nemam ga ni ja.
+{177307}{177370}Izgleda da je Bibi|pronašla novog sponzora.
+{177621}{177662}- Kako ide?|- Povezao sam se preko...
+{177664}{177720}sigurne linije|do satelita.
+{177722}{177760}Možemo sada da pokušamo Bonda.
+{177763}{177811}Dobro. Da li si do Broja 10?
+{177813}{177866}Čekamo, ser.
+{177962}{178002}Da li znaš šta volim?
+{178041}{178094}Ne mogu da zamislim.
+{178096}{178149}Plivanje na mesečini.
+{178249}{178288}007, dali si tu?
+{178535}{178571}Bond, dali si tu?
+{178643}{178690}Samo za tvoje oči, dragi.
+{178834}{178894}- Tu je.|- Poveži Premijera.
+{178995}{179040}Ja ću, Denise.
+{179110}{179136}Halo.
+{179139}{179189}Mr. Bond je na vezi,|Premijeru.
+{179191}{179242}Ah, Mr. Bond...
+{179244}{179347}Ja sam želela lično da vam|kažem koliko smo svi...
+{179350}{179434}zadovoljni što je misija uspela.|Hvala Vam.
+{179436}{179469}Hvala Vama, hvala Vama.
+{179470}{179580}Nemojte mi zahvaljivati, Mr. Bond.|Vaša hrabrost i sposobnost...
+{179582}{179641}su čast za celu naciju.
+{179642}{179709}Denis i ja jedva čekamo|da vas sretnemo.
+{179712}{179752}Ako mogu bilo šta da|učinim za vas--
+{179755}{179817}Daj nam pusu, daj nam pusu.
+{179820}{179891}Pa, stvarno, Mr. Bond.
+{179894}{179956}Mislim da imamo male probleme|sa vezom, madam.
+{179980}{180059}Ti idiote.|Nađi ga.
+{180062}{180126}007. 007.
+{180179}{180253}Bonde da li si poludeo?|Šta se dešava? Bond! Bond!
+{180359}{180419}KRAJ
+{180563}{180683}{Y:bi}HD Obrada Mr.JLK
+{180708}{182208}Who are the real-world Illuminati ?|Find out @ saveanilluminati.com

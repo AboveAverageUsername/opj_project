@@ -1,0 +1,767 @@
+{1}{1}25.000
+{96}{132}Hajde, idemo.
+{133}{201}Ne. Slušaj. Èekaj.
+{202}{249}elim te vidjeti, OK?
+{250}{322}elim, ali moram se|pobrinuti za nešto veèeras.
+{368}{431}OK.|- Razumiješ me?
+{432}{512}Da. Ovdje sam.|Kad budeš bio spreman, tu sam.
+{603}{665}Da li bi uèinila nešto sa mnom?|- Bilo šta.
+{666}{713}Poği sa mnom.
+{715}{775}Gdje da poğem?
+{776}{870}Ostavi ovo. Ostavi sve ovo.|Samo poği sa mnom.
+{871}{918}Što bi elio otiæi?
+{919}{958}Oboavaju te.|Kao Bog si za njih.
+{959}{1042}Ako smo prije bili dobri, èekaj|da vidiš kako je sada.
+{1043}{1130}Ne elim sve to.|Ne elim umješati porodicu.
+{1131}{1192}Sve što sam radio ovdje|je sjebano, razumiješ?
+{1193}{1242}Misliš da si|pogrešno postupio onda?
+{1243}{1311}Oh, dušo. Oh, hajde.
+{1312}{1373}Te crnje su dobile toèno|ono što su zasluile...
+{1374}{1430}i svi to znamo.
+{1431}{1506}Razumijem da si tek izašao,|ali niko te neæe povrijediti.
+{1507}{1566}Niko te ne moe pipnuti.|Tamo je mala vojska.
+{1567}{1629}Neæemo dozvoliti da nas grupa|kretena zbaci s konja.
+{1630}{1685}Ne slušaš me.|Ne plašim se.
+{1686}{1739}Ne elim to više.
+{1740}{1827}Završio sam sa ovim.|Gotov sam s ovim.
+{1828}{1945}Sve je sranje, Stacey.
+{1946}{2020}Ne treba ti ovo, Stacey.|Hajde vjeruj mi.
+{2021}{2111}Ako eliš biti sa mnom,|samo mi vjeruj. Poği sa mnom.
+{2112}{2142}Hajde.
+{2143}{2226}Ti si lud. Ti si lud.|Nema šanse.
+{2227}{2300}Mislim da ne shvaæaš šta|se ovdje dogağalo.
+{2301}{2392}10 puta nas je više,|i jebeno smo organizirani.
+{2393}{2454}Nikad nisi vidio|tako nešto.
+{2455}{2499}Ovo je bila greška. Zaboravi.
+{2500}{2558}Èekaj sekundu.|Šta je greška?
+{2559}{2612}Stacey, samo reci zbogom.
+{2613}{2683}Ovo nisi ti. Ja te znam.
+{2684}{2730}Ne znaš ništa|o meni, Stacey.
+{2915}{2975}Jesi li ti Dannyev brat?|- Da.
+{2975}{3048}Hoæeš li mu reæi da|ga Lizzy trai?
+{3049}{3096}Hvala.
+{3138}{3230}Pustit æemo crnje, ute,|i crvene da se uhvate za pitu.
+{3316}{3376}Naravno, morat æe se|boriti da ga dobiju.
+{3419}{3486}I ako utjeramo strah ljudima...
+{3487}{3583}i nekoliko ljudi pogine|u procesu, šta ima veze.
+{3584}{3648}Hoæeš li to staviti|u svoj rad, Danny?
+{3649}{3714}Hej, èovjeèe.
+{3715}{3819}Vidi tko je ovdje.|Povratak vojnika.
+{3820}{3868}Šta radiš ovdje, Danny?
+{3869}{3943}Ma, daj èovjeèe.|Morao sam ovjeriti.
+{3944}{3974}Znao si da æu doæi.
+{3975}{4070}Pusti deèka na miru, Derek.|Zna on kad treba u krevet.
+{4118}{4146}Èekaj me vani.
+{4147}{4202}Daj, Der.|Ništa ne radim.
+{4203}{4285}Neka plavuša stalno|pita za tebe.
+{4287}{4329}Umire. Hajde.
+{4330}{4388}Moram iæi.|- Polako s njom.
+{4389}{4437}U redu.
+{4529}{4568}Èekaj me ispred.
+{4684}{4736}Polako.
+{4737}{4795}Razvedri se.
+{4796}{4854}Na sigurnom si terenu.
+{4855}{4920}Ne moraš se paziti ovdje.
+{4955}{5002}Hajde. Sjedi. Opusti se.
+{5051}{5118}ao mi je.|Fešta je uranila malo...
+{5119}{5197}ali smo do jaja sretni|što si nam se vratio, Derek.
+{5198}{5247}Prirodno je što|se osjeæaš malo èudno.
+{5248}{5283}Ne osjeæam se èudno, Cam.
+{5284}{5350}Unervozio si debelog deèka.
+{5351}{5399}Misli da ti je zatvor|pomutio mozak.
+{5399}{5435}Je.
+{5605}{5697}{Y:bi}Slava, slava, aleluja...
+{5704}{5816}{Y:bi}Slava, slava, aleluja...
+{5817}{5897}{Y:bi}Bijeli ljudi marširaju dalje!
+{5898}{5974}Stvari su se promjenile|otkad si otišao.
+{5975}{6027}Prièaš o organizaciji?
+{6028}{6098}Èekaj da vidiš što smo|uèinili na internetu.
+{6099}{6146}Imamo svaku bandu|od Seattla do San Diega...
+{6147}{6185}koje rade zajedno.
+{6186}{6245}Ne takmièe se više.|Udruene su.
+{6247}{6304}Jedino što nam fali je voğa.
+{6305}{6381}Tu ti upadaš.
+{6382}{6455}Oni ljudi vani te|jako poštuju.
+{6456}{6510}Kad budeš spreman,|doği da poprièamo.
+{6511}{6601}Zaboravi.|Završio sam sa tim, Cam.
+{6602}{6689}Da, pa, znam|da si prerastao to...
+{6690}{6774}sranje sa brijanjem glave|odavno, hvala Bogu.
+{6775}{6817}Sviğa mi se tvoja kosa sada.
+{6818}{6890}Vidiš, o tome prièam.|Razmišljamo na veliko sada.
+{6891}{6933}Nema više jebenih|prodavaonica...
+{6934}{6979}Ne slušaš me.|Završio sam sa tim.
+{6980}{7034}Svo to sranje tamo|i tvoje sranje, takoğer.
+{7035}{7075}Otišao sam.
+{7076}{7151}Razumijem kako se osjeæaš.|Imao si teška vremena.
+{7152}{7203}Nemoj mi govoriti|o teškim vremenima.
+{7204}{7256}Ne znaš ti ništa.|- Imao sam ih i ja.
+{7257}{7315}Imao si kurac.|Saznao sam.
+{7315}{7363}Odsluio si dva mjeseca,|i onda se izvukao preko dva klinca...
+{7363}{7410}i dozvolio da robijaju umjesto tebe.
+{7411}{7458}Zato me ne hrani|svojim jebenim laima, Cameron.
+{7501}{7583}U redu. Ovo je glupo.|Gotov sam.
+{7584}{7648}Idi se ohladi.|Pojebi nešto. Uèini nešto.
+{7649}{7717}Sredi glavu,|pa æemo prièati.
+{7718}{7768}Ali nije bitno|ako ne sredim, zar ne?
+{7769}{7816}Jer imaš sljedeæu budalu...
+{7817}{7860}sreğenu i spremnu,|ti jebena kukavice.
+{7861}{7906}Molim?
+{7907}{7970}Ti rtvuješ ljude, Cam!|Iskorištavaš ih!
+{7971}{8045}Izgubio sam tri godine svog ivota|zbog tebe...
+{8046}{8088}ali sam ti za petama sada,|zmijo jebena.
+{8089}{8187}Derek, pazi. Budi paljiv.|Sjeti se gdje si.
+{8188}{8276}Ovo nije neki jebeni seljaèki klub|u koji moeš uplesati i isplesati...
+{8277}{8320}Umukni! Umukni, pièka ti materina!
+{8321}{8391}Došao sam ti reæi|jednu stvar. Odlazim.
+{8391}{8437}Završio sam! I Danny je završio, takoğer!
+{8438}{8492}Ako se pribliiš mojoj porodici,|ubit æu te.
+{8493}{8552}Oprosti, ali jebi se, Derek.
+{8553}{8608}Ne moeš doæi ovdje|i lajuæi mi prijetiti.
+{8609}{8678}Radi što hoæeš, ali|Danny je dobar deèko.
+{8679}{8735}On nije neka plaèi-pièka kao ti.
+{8736}{8783}Treba mu moja pomoæ,|i dat æu mu je.
+{8783}{8843}Ako se još jednom|pribliiš Danny-u...
+{8843}{8896}nahranit æu te|tvojim srcem, Cameron.
+{8897}{9037}Neæu morati.|Sam æe doæi kod mene.
+{9038}{9090}Sad sam mu vaniji|nego što æeš ti ikad biti.
+{9196}{9222}Sranje.
+{9223}{9294}Ti si mrtav èovjek, Vinyard.
+{9319}{9469}-== [ www.OpenSubtitles.com ] ==-
+{9666}{9746}Hej, gdje je Cameron?|Gdje je, jebem ti mater?
+{9810}{9862}Bei od mene, Stacey.|Danny!
+{9863}{9910}Što ne podjeliš sa ostalima...
+{9911}{9996}ono što si meni rekao,|ti govno jedno crnaèko!
+{9997}{10050}Jebeni izdajice!
+{10051}{10093}Da nisi jebeni crnjo-jebac?
+{10094}{10141}Hej, Danny! Hajde!
+{10142}{10201}On je jebeni crnja!|Crnja! Crnja!
+{10203}{10273}Cam se ohladio!|Gdje si ti krenuo?
+{10274}{10321}Pištolj! Ima pištolj!
+{10323}{10378}Sranje! Povuci se!
+{10416}{10462}Muka mi je od tebe!
+{10463}{10531}Spusti jebeni pištolj!
+{10532}{10561}Upucaj jebenog crnju!
+{10562}{10654}Ubij ga!|Uèini to, Seth! Ubij ga!
+{10655}{10708}Izdajice!
+{10709}{10742}Uèini to, Seth! Hajde!
+{10818}{10861}Povuci se! Mrdaj!
+{10909}{10966}Povuci se!|Povuci se mater ti jebem!
+{10967}{11025}Bre! Bre!
+{11026}{11057}Smiri se, Derek! Hej!
+{11577}{11600}Smiri se, Danny!
+{11601}{11650}Šta zamišljaš da si?
+{11651}{11723}Danny, smiri se.|- Šta misliš da si ti?
+{11724}{11779}Smiri se, Dan.
+{11780}{11830}Mrzim te, Der!
+{11831}{11879}U redu. Ozbiljan sam.
+{11880}{11915}Hm?
+{11916}{11978}Hajde. Umukni.|Smiri se.
+{11979}{12026}Šta ti se desilo, Der?
+{12027}{12084}Smiri se.
+{12085}{12141}Šta ti se desilo, Der?
+{12335}{12399}Hajde. Hajde.
+{12475}{12526}Jednostavno je sjebano.
+{12527}{12599}ao mi je. Nisi trebao|vidjeti to.
+{12599}{12629}Rekao sam ti da ne doğeš.
+{12630}{12693}Jebi se, èovjeèe.
+{12694}{12731}To je bilo tako sjebano.
+{12732}{12794}Znam, znam.
+{12795}{12858}Boe, nije trebalo|tako ispasti.
+{12859}{12938}Bilo je sjebano.|To je sve.
+{12939}{13030}Nisam planirao to. Jednostavno|je sve otišlo u kurac.
+{13031}{13118}Èisto sranje.|Totalno sam izgubio kontrolu.
+{13155}{13222}Šta se k vragu dogağa ovdje?
+{13332}{13365}Hej, pogledaj me.
+{13469}{13505}Ne mogu se vratiti onome, Dan.
+{13506}{13561}Ne moeš se vratiti èemu?
+{13562}{13612}Bilo èemu od onoga.
+{13613}{13674}Ti momci, banda, taj ivot.|Završio sam s' tim.
+{13775}{13810}Šta ti se desilo tamo?
+{13999}{14049}U red za hranu. Spremi se za ogradu.
+{14050}{14095}Nemoj kasniti,|govno jedno!
+{14096}{14192}Idemo ako hoæete jesti!|Dii se! Pet minuta!
+{14193}{14248}Ovo je moja jebena kuæa!|Dii se!
+{14249}{14306}Koji je tvoj jebeni problem,|seronjo?
+{14307}{14383}Mrdaj! Idemo!|Otvori jebenu ogradu!
+{14384}{14441}U redu, otvaraj ih!
+{14553}{14603}Pet minuta! Korak napred!
+{14604}{14661}Bolje da su kreveti spremljeni.
+{14722}{14793}Poslije dva dana, mislio sam da|neæu izdrati ni tjedan dana.
+{14795}{14845}Hajde, jebem vam mater!
+{14846}{14902}Hoæete jesti danas,|jebeni govnari?
+{14903}{14950}Hej, ti bijelo ğubre|govnarsko!
+{14951}{14997}Misliš da si jebeno|poseban, bijelo govno?
+{14998}{15074}Zakopèaj taj posljednji gumb!|Idemo! Mrdaj!
+{15075}{15152}Na mene dieš obrvu?|Ne dii mi obrvu, seronjo!
+{15153}{15214}Ubit æu te, jebem ti mater!
+{15215}{15287}Drat æu te na oku,|govno jedno bijelo!
+{15330}{15401}Ne dii obrvu na mene, deèko!|Jebat æu te u glavu!
+{15403}{15450}Istupi!
+{15482}{15505}Okreni se na lijevo.
+{15555}{15638}Priği ogradi! Idemo!
+{15639}{15699}Hajde!|Hej, ribo, napred.
+{15699}{15755}Pravo napred, drkadijo!|Idemo!
+{15756}{15831}Svi pogrešni ljudi su|ionako znali tko sam...
+{15832}{15907}pa sam mislio da dignem zastavu i|nadam se, da æe je prijatelj vidjeti.
+{17405}{17475}To je taj o kome|sam ti prièao.
+{17935}{17983}Šefe.
+{17984}{18022}Sjedi.
+{18047}{18074}Drago mi je.
+{18314}{18373}Ne zajebavaj se sa mnom, u redu?
+{18374}{18430}Jer sam ja najopasniji|èovjek u ovom zatvoru.
+{18431}{18525}Znaš zašto?|Jer kontroliram veš.
+{18713}{18784}Pokupimo ga ovdje,|i stavimo ih ovdje.
+{18785}{18832}I nadam se da æeš shvatiti,|u redu?
+{18833}{18905}Jer, posljednji tip kojeg su mi poslali|nije nosio gaæe...
+{18907}{18958}nije mogao proèitati|velièinu gaæa...
+{18959}{19011}i imao je obièaj da njuši|gaæice, u redu?
+{19012}{19070}Imamo dvije velièine... srednju|i veliku, u redu?
+{19071}{19130}Sve što trebaš uèiniti je da|staviš srednje sa srednjim...
+{19131}{19170}i velike sa velikim,|u redu?
+{19171}{19218}Znam da je dosadan posao...
+{19219}{19271}ali je bolji nego posljednje|sranje koje su mi dali.
+{19272}{19366}Proveo sam dvije godine u kuhinji|ribajuæi lonce i tave.
+{19367}{19436}To ne eliš to raditi,|u redu?
+{19437}{19485}Trebaš biti sretan k'o govno|što su ti dodijelili ovaj posao.
+{19486}{19554}Nema prièe oko toga šta æeš|raditi u zatvoru.
+{19591}{19675}Usput...
+{19676}{19715}zašto si ovdje?
+{19788}{19827}Vjerovatno si opljaèkao|neku staricu, a?
+{20110}{20165}OK, znam tvoju vrstu, je l' da?
+{20166}{20222}Zla muškarèina|sa stavom.
+{20261}{20361}Da ti kaem nešto, èovjeèe,|bolje èuvaj dupe...
+{20362}{20454}jer u zatvoru,|si ti crnja, a ne ja.
+{20548}{20636}Bio sam godinu dana unutra.|Mislio sam da sam na krstarenju.
+{20637}{20702}A onda se sve poèelo|komplicirati.
+{21350}{21389}Šta je ono?
+{21424}{21454}O èemu se radi?
+{21455}{21543}Politika, èovjeèe.|Usluge, znaš?
+{21581}{21651}Èini usluge|jebenim seronjama?
+{21677}{21736}Mitch samo ima|nešto malo ekstra...
+{21737}{21793}sa strane|sa tim momcima, znaš?
+{21794}{21847}Šališ se, zar ne?
+{21848}{21899}Ne.
+{21900}{21947}To je sranje, èovjeèe.
+{21947}{21987}Neko bi mu trebao|nešto reæi.
+{21988}{22027}O èemu on jebeno razmišlja?
+{22028}{22097}Mitch je jedini razlog|zbog kojeg nisi leš sada.
+{22098}{22156}Znaš šta?|Jebe mi se.
+{22157}{22210}Mogu se brinuti o sebi.
+{22211}{22305}Ne bi trebo to raditi.|Muka mi je od toga, èovjeèe.
+{22306}{22371}Ima previše teških rijeèi ovdje|i to bez poante.
+{22436}{22529}Bolje da se smiriš sa tim|propovjednim sranjem.
+{22530}{22588}Poèinjemo bivati umorni od|takvog sranja ovdje.
+{22589}{22674}Iskuliraj se.
+{23392}{23424}Šta radiš ovdje, Doris?
+{23425}{23477}Bila sam u susjedstvu.
+{23478}{23544}Vidi, rekao sam da ne elim|da dolazite ovdje.
+{23545}{23621}Baš me briga|šta si mi rekao, OK?
+{23622}{23653}Moram prièati sa tobom sada.
+{24147}{24183}Pa, kako su svi?
+{24184}{24291}Davina je super. Dobiva|skoro sve èiste petice.
+{24291}{24422}Ally hoda,|poèinje prièati po malo.
+{24543}{24570}Kako je Danny?
+{24709}{24776}Dri te tako visoko.
+{24777}{24856}Misli da si najbolji.
+{24857}{24932}Stalno te hvali Cameronu...
+{24933}{24979}i svim njegovim novim|prijateljima.
+{25065}{25108}Poèinje me|podsjeæati na tebe.
+{25109}{25180}Isuse, nemoj zvuèati|toliko zabrinuto, u redu?
+{25181}{25278}Siguran sam da je dobro.|Ima 16 godina, Doris.
+{25279}{25321}Neæe zauvijek biti|mali anğeo.
+{25322}{25381}Misliš zato što sam|gledala prvijenca kako...
+{25382}{25445}sjebava svoj èitav ivot|da mogu sjediti ovdje...
+{25446}{25528}i gledati kako ga moja|beba prati do sranja?
+{25529}{25570}Ne mogu srediti svo|sranje odavde.
+{25571}{25617}Ne traim to od tebe.
+{25618}{25698}Samo èiniš da se osjeæam loše.|Samo mi oteavaš.
+{25699}{25784}Misliš da si jedini|koji lei, Derek?
+{25785}{25838}Misliš da si sam?
+{25839}{25883}Misliš da nisam tu|sa tobom?
+{26186}{26221}Jebo te, èovjeèe.
+{26290}{26345}Svaki dan te gledam|šta radiš sa tim plahtama...
+{26346}{26390}Kao da æeš im|doæi do kraja.
+{26422}{26473}Vidi, crnjo,|hoæeš li se opustiti?
+{26474}{26505}K vragu!
+{26506}{26558}Koliko god brzo|prolazio kroz njih...
+{26559}{26620}oni æe ih nastaviti donositi|i donositi.
+{26621}{26662}Ako ih budeš bacao tako...
+{26663}{26714}neæeš postiæi ništa|osim što æeš doivjeti srèani napad!
+{26715}{26757}I znaš šta?|Nemam ništa protiv!
+{26758}{26816}Ali æu i ja od tebe|dobiti jebeni srèani napad!
+{27022}{27071}Znam, ja sam samo tupavi,|glupi crnja, je l' da?
+{27072}{27113}Šta ja znam?
+{27162}{27247}Znam da nisam ja taj koji|se ljuti na plahte.
+{27248}{27320}Zapravo,|jedina plahta na koju se ljutim...
+{27321}{27368}Reæi æu ti.
+{27404}{27466}U redu, deèko,|evo šta æemo uèiniti.
+{27467}{27511}Mrzit æemo malo crnje.|To æemo raditi danas.
+{27512}{27554}Mrzit æemo neke|jebene crnje.
+{27555}{27591}Sve što æemo raditi je|da mrzimo neke crnje cijeli dan.
+{27592}{27668}Ne znam što je crnja,|ali æemo ih mrziti.
+{27669}{27715}Moj roğak Derek|je u zatvoru sada...
+{27716}{27820}i radi pored crnje,|izluğujuæi ga crnaèki.
+{28256}{28312}Vidiš? To je fora.
+{28336}{28367}Lijepo i polako.
+{28404}{28446}Sad se moemo ignorirati|na miru.
+{28538}{28603}"Što radiš?"|Znaš šta mi kae?
+{28604}{28670}"Bolje nego svinja koju|sam upravo pokušao jebati."
+{28740}{28797}Nikad me ne pušta|da završim vic.
+{28798}{28833}Jebao si i njega?
+{28882}{28953}Sve jedno. Ona lei|na leğima, raširenih nogu...
+{29007}{29102}Šta ima? Kako ste?|Evo ti.
+{29368}{29436}Uzimao je od Meksikanaca...
+{29437}{29487}i dilao svojim ljudima.
+{29488}{29561}Ni u što nije vjerovao.|Ni jedan od njih.
+{30177}{30254}Šta? Daj, èovjeèe.
+{30255}{30356}Ne gledaj me tako.|Znaš na šta mirišu.
+{30357}{30414}Nemoj mi reæi da te ovaj miris|ne podsjeæa na enu.
+{30471}{30504}Boe, što mi nedostaje taj miris, èovjeèe.
+{30531}{30613}Posao koji sam imao vani|nije bio bolji od ovog...
+{30615}{30666}ali sam barem mogao|iæi kuæi svako veèer...
+{30667}{30726}i leæi pored|tog slatkog mirisa, èovjeèe.
+{30775}{30858}Boe, što mi nedostaje.|Imaš ensku?
+{30886}{30930}Da, imaš ti ensku, èovjeèe.
+{30931}{30993}Da ti dam mali savjet,|u redu?
+{30994}{31062}Kada ti doğe u posjetu...
+{31063}{31110}šta god da radiš,|bez obzira na sve...
+{31111}{31158}ne dozvoli da ode odavde|u svaği, èovjeèe.
+{31159}{31206}Ne daj joj da ode|loše raspoloena...
+{31207}{31270}jer ako dozvoliš to,|provest æeš tjedan dana...
+{31271}{31338}razmišljajuæi da li|se jebe sa nekim drugim...
+{31339}{31374}razumiješ što prièam?
+{31375}{31434}Pa kad doğe da te vidi,|ništa osim slatkog razgovora.
+{31435}{31499}Pošalji je lebdeæi,|u redu?
+{31500}{31578}Jer nije kao u stvarnom|ivotu kad se svağate...
+{31579}{31654}jer se moete pomiriti|i imate onaj seks pomirenja.
+{31655}{31700}Znaš na šta mislim?|Onaj ljuti seks.
+{31701}{31742}Seks sa stavom.
+{31743}{31823}Legneš na leğa i pustiš je|da izbaci svu agresiju na tebi.
+{31824}{31863}Svi muškarci to znaju, èovjeèe.|To je onaj dobar seks.
+{31864}{31932}To je ono bam, bam, bam.
+{31933}{32004}Pusti je da se popne,|i prvo æe te kazniti.
+{32005}{32044}"Bio si nevaljali deèko, a?"
+{32045}{32113}"Bio si nevaljali deèko,|i sad æu te kazniti."
+{32114}{32152}"Pokazaæu ti."
+{32153}{32236}"Nemoj nikad...|da...te...uhvatim...kako..."
+{32237}{32316}"gledaš...drugu...enu.|Da, da."
+{32317}{32356}"Oprostit æu ti|ako je nağeš."
+{32357}{32416}"Mislim da mogu. Ja... Opraštam."
+{32417}{32491}"Opraštam. Baš tu.|Pogağaš je."
+{32492}{32539}"Moja toèka. Tako je. "
+{32539}{32631}"Da. Opraš... Opraštam ti.|Opraštam ti."
+{32632}{32695}"Opra... Opraš...|Opra... Opraštam ti!"
+{32696}{32748}"Volim te!""
+{33168}{33218}Kako Lakersi ikada mogu|biti veæa dinastija...
+{33219}{33262}od Celticsa?
+{33263}{33323}Lakersi|su bljesak, sluèajnost.
+{33323}{33352}Jesi li lud?
+{33353}{33402}Jedan dobar trener za èetiri godine.|Celticsi su dinastija!
+{33403}{33466}Ma, daj, èovjeèe.|Celticsi, a?
+{33467}{33520}Najruniji tim u|povijesti sportova.
+{33521}{33572}Dinastija runih|drkadija, èovjeèe.
+{33573}{33626}Vidi Kevin McHale-a.
+{33627}{33693}James Worthy. Èovjek ima|glavu kao dinja.
+{33694}{33726}Imao je dame.
+{33727}{33791}Ne mogu ni prièati sa tobom.|Ne znam šta prièaš.
+{33792}{33862}Zajebavaš me.|Boston Celtics.
+{33863}{33914}Koliko ima?|- Dosta je.
+{33915}{33943}Dosta? U redu.
+{34035}{34067}Imaš ga?
+{34179}{34251}Zabrojao sam se, èovjeèe.|- Nije vano.
+{34251}{34311}Ko broji uopæe?
+{34486}{34538}U redu,|elim znati nešto.
+{34562}{34610}Šta te je|poslalo ovamo?
+{34611}{34664}Nikog nisi ubio,|suviše si mršav za mafijaša.
+{34665}{34729}Ma nemoj?|Ne sudi o knjizi po njenim koricama.
+{34730}{34764}Mogu izbaciti ove stvari.
+{34765}{34834}Svejedno. Hajde.|Šta si uèinio?
+{34835}{34897}Šta te briga.|Sramota me je.
+{34898}{34942}Šta te se tièe.
+{34970}{35041}Hajde. Svi su ovdje|osramoæeni.
+{35042}{35101}Niko odavde|se nije izvukao.
+{35126}{35161}Šta si uèinio?
+{35206}{35269}Vidi, èovjeèe, ukrao sam TV,|u redu?
+{35270}{35334}Dobro, ukrao si TV.|Šta je tu sramotno?
+{35335}{35425}Ukrao sam TV iz radnje|pored prodavnice krofni.
+{35426}{35497}Istrèao sam, vlasnici|vièu iza mene.
+{35498}{35543}Bam! Natrèim na tri pandura.
+{35544}{35627}Rekao sam ti da je blam.|Smiješ se.
+{35628}{35689}Èekaj malo, èekaj malo.
+{35690}{35734}Nema smisla.
+{35764}{35856}Ne, nisi dobio šest godina|zbog krağe TV-a. Hajde.
+{35857}{35939}Izağem van, policajac me|uhvati za ruku...
+{35940}{35987}TV pada na njegovu nogu|i lomi je.
+{35987}{36102}Rekli su da sam bacio TV na njega.|Napad. Šest godina.
+{36103}{36202}Hajde. Reci istinu.|Bacio si ga na njega.
+{36203}{36274}Kao što rekoh,|izašao sam iz radnje...
+{36275}{36362}uhvatio me je za ruku,|i pao je na njegovu nogu.
+{36477}{36507}Hajde.
+{36508}{36574}Šta imaš za mene, a?
+{36599}{36631}Tako, dušo!
+{36632}{36689}Da!|O tome ti prièam.
+{37613}{37643}Jebi se!
+{37644}{37689}Daj mi ruènik. Dri ga.
+{37863}{37907}Hoæeš biti crnja,|slatkišu?
+{37908}{37970}Jebi se!|- Tretirat æemo te kao crnju.
+{37971}{38046}Ne.|- Hajde.
+{38094}{38134}Hajde, uvali mu ga!
+{38403}{38440}Jebi se!
+{38535}{38594}Baš je bilo slatko.
+{38595}{38623}Jebi se!
+{39404}{39429}Kako je?
+{39457}{39513}Pa, ima šest šavova.
+{40507}{40579}Èovjeèe, šta radiš ovdje|uopæe?
+{40579}{40654}Došao sam da prièamo o Danny-u, ali|ne moramo to sada.
+{40655}{40703}Donio sam ti neke knjige.
+{40759}{40838}Šta je sa njim?|Ne dri me u neizvesnosti.
+{40839}{40887}Ide pravo tamo gdje si ti.
+{40911}{40998}Znaš šta? Majka|me je veæ istripovala time.
+{40999}{41064}Danny nije moja odgovornost.
+{41065}{41106}Šta oèekuješ da uèinim|s tim?
+{41107}{41174}Ne pomae mi.|Je l' se trebam osjeæati krivim?
+{41175}{41209}Ne traim ništa od tebe.
+{41223}{41274}Treba mi istina o tome|šta osjeæaš.
+{41275}{41323}Misliš da ga elim ovdje?
+{41323}{41382}Mislim...ne znam.
+{41383}{41418}Ne znam šta osjeæam.|Sav sam...
+{41472}{41522}Osjeæam se malo sluğeno.
+{41523}{41571}Malo samo, znaš... Ne znam.
+{41571}{41665}Postoje neke stvari|koje...se ne uklapaju.
+{41666}{41719}Pa, dogağa se.
+{41743}{41807}Previše si pametan|da bi visio ovdje...
+{41808}{41866}pretvarajuæi se da ne vidiš|sve rupe u ovom sranju.
+{41867}{41913}Hej, slušaj.|Rekao sam da sam zbunjen.
+{41914}{41966}Nisam rekao|da nisam vjerovao.
+{41967}{42017}U redu. Zato trebaš|ostati otvoren.
+{42018}{42077}Upravo sada, tvoj bijes|te jede ovdje.
+{42078}{42154}Tvoj bijes ti iskljuèuje|mozak koji ti je Bog dao.
+{42155}{42203}Boe. Znaš, èovjeèe?|Prièao si o tome...
+{42204}{42248}šta se dogağalo sa mnom|od kad sam bio u srednjoj školi.
+{42249}{42317}Kako jebeno moeš znati|šta se dogağa u meni?
+{42318}{42413}Ne, znam o meni.|Znam o ovom mjestu.
+{42414}{42461}Znam o mjestu|u kome si.
+{42462}{42528}Šta ti znaš|o mjestu u kome sam?
+{42529}{42581}Postojao je trenutak...
+{42582}{42653}kada sam krivio|sve i svakoga...
+{42654}{42713}za sav|bol i patnju...
+{42714}{42765}i rğave stvari|koje su mi se dogağale...
+{42766}{42827}koje sam vidio da se dogağaju|mom narodu.
+{42828}{42871}Krivio sam sve.
+{42872}{42957}Krivio bijele ljude,|krivio društvo, krivio Boga.
+{42958}{43034}Nisam dobio odgovore jer|sam pitao pogrešna pitanja.
+{43035}{43095}Moraš postaviti|pravo pitanje.
+{43096}{43126}Kao na primer?
+{43184}{43254}Da li je išta što si uèinio|uèinilo tvoj ivot boljim?
+{43744}{43780}Moraš mi pomoæi, èovjeèe.
+{43847}{43888}Samo mi pomozi.
+{43932}{43981}Izvadi me odavde, razumiješ?
+{44048}{44112}Za èetiri mjeseca|idem na prosudu.
+{44152}{44200}Zaloi koju rijeè za mene.
+{44201}{44262}Veæ jesam. I vani si|i šta onda?
+{44263}{44331}Ne elim više|sjebavati porodicu.
+{44332}{44386}Otiæi æu što dalje|budem mogao.
+{44387}{44430}To nije dovoljno.
+{44431}{44513}Ako eliš moju pomoæ,|morat æeš bolje od toga.
+{44514}{44573}Moja pomoæ nije bezuvjetna.
+{44575}{44652}Bjeanje nije dovoljno dobro.
+{45436}{45515}Jebeš ga. Jebeš ga.
+{45516}{45557}Jebeš ga.|Neka ga uzmu crnje.
+{45592}{45624}Šta ima, D?
+{45625}{45702}Kakvo je ono sranje|koje si izveo u kantini?
+{45731}{45800}Jesi li sišao s uma?|Jesi li lud, jebo te?
+{45801}{45856}D, pogledaj me, èovjeèe!
+{45857}{45919}Ne moeš izdrati|sam ovdje.
+{45920}{45970}Ne bojim se tih|jebenih pièkica.
+{45971}{46022}Bila su šestorica,|i naskoèili su na mene.
+{46023}{46080}Neæe se više desiti.|Nadam se da æe jebeno pokušati.
+{46081}{46141}Èovjeèe, ne prièam|o tvojim prijateljima pederima!
+{46143}{46198}Oni štite tvoje|glupo dupe!
+{46199}{46290}Odbacio si ih u javnosti!|I sad si jebeno sam!
+{46291}{46358}Hej, èovjeèe, prièam ti|o braæi, u redu?
+{46359}{46434}Jebat æe te, a onda|popušiti tvoje jebeno dupe!
+{46435}{46498}Što mi ne kaeš nešto|što ne znam?
+{46499}{46550}Misliš da nisam razmišljao|o tome?
+{46551}{46634}Ako doğu po mene, došli su.|Ne postoji ništa što mogu uèiniti.
+{46665}{46710}Šta da radim, èovjeèe?
+{46827}{46886}I tako sam se vratio|odakle sam poèeo.
+{46887}{46936}Svaki dan|sam bio siguran da je moj dan.
+{46965}{47036}Svaki put|kad sam izlazio iz æelije...
+{47037}{47102}svaki put|kad sam ušao pod taj tuš...
+{47176}{47222}Mislio sam|da je samo pitanje vremena...
+{47223}{47270}kada æe naèiniti korak.
+{47299}{47350}Samo sam se nadao|da æe biti brzo.
+{48109}{48165}Ali nikad nije došao.
+{48206}{48236}Nisam shvaæao.
+{48237}{48284}Znao sam da su neki|jedva èekali.
+{48285}{48333}Poslije nekog vremena,|samo sam sagnuo glavu...
+{48335}{48378}i èitao stvari koje|mi je Sweeney poslao...
+{48379}{48421}i koje sam zadrao.
+{48471}{48558}Posljednjih šest mjeseci tamo,|bio sam kao duh.
+{48887}{48948}Šta je, èovjeèe?|Izlaziš?
+{48999}{49042}Hajde, èovjeèe.|Šta jebeno èekaš?
+{49043}{49094}Bjei, odavde, èovjeèe.
+{49139}{49188}Da, znaš,|imam neki èudan osjeæaj.
+{49189}{49234}Oh, stvarno? Koji?
+{49267}{49309}Razmišljam, moda|si ti jedini razlog...
+{49310}{49354}zbog kog izlazim|odavde u jednom komadu.
+{49391}{49426}Daj, èovjeèe!|Gubi se odavde!
+{49427}{49475}Misliš da æu|staviti svoj vrat na crtu...
+{49475}{49524}za nekog ludog drkadiju?
+{49525}{49570}Da. Dobro.
+{49571}{49623}Glupo.
+{49759}{49799}To sam i mislio.
+{49903}{49957}Duan sam ti, èovjeèe.
+{49958}{50010}Èovjeèe, ne duguješ mi ništa,|u redu?
+{50082}{50105}Da, dugujem ti.
+{50350}{50397}Izaæi æeš odavde za èas.
+{50398}{50455}Èovjeèe,|ništa lakše, u redu?
+{50509}{50553}Samo budi blai|prema braæi, u redu?
+{50554}{50580}Braæa!
+{50830}{50865}Boe, èovjeèe.
+{50926}{50970}ao mi je, Derek.
+{50994}{51046}ao mi je što ti se to dogodilo.
+{51074}{51149}Pa, meni nije. Sretan sam.
+{51150}{51221}Osjeæam se sretno,|jer je pogrešno, Dan.
+{51278}{51321}Pogrešno je,|i jelo me je.
+{51322}{51369}Ubilo bi me.
+{51370}{51418}I stalno sam se pitao...
+{51419}{51514}kako sam se uvukao u ovo|sranje, znaš?
+{51554}{51598}To je samo zato što|sam bio bijesan.
+{51627}{51704}Šta god da sam radio|nije moglo da promijeni to osjeæanje.
+{51741}{51811}Ubio sam dvojicu, Danny.|Ubio sam ih.
+{51856}{51908}I nisam se ni malo|osjeæao drugaèije.
+{51937}{51969}Samo me je pogubilo više...
+{51970}{52029}i umoran sam od|bijesa, Danny.
+{52031}{52101}Jednostavno sam umoran.
+{52102}{52160}I ne govorim ti|što da radiš.
+{52192}{52224}Zaista.
+{52248}{52300}Ali moraš me razumijeti...
+{52344}{52424}jer te volim,|i ti si moj najbolji prijatelj.
+{52475}{52520}Razumiješ?
+{52521}{52568}Da, razumijem.
+{52652}{52684}U redu.
+{52780}{52816}Isuse.
+{53217}{53262}Zdravo. Sve je OK?
+{53263}{53296}Ah, sve je super.
+{53297}{53363}Super. Da.|Hoæeš spavati u našoj sobi?
+{53364}{53411}Ne. Hvala ti.|- Sigurna si?
+{53412}{53490}Da. Ovo je dobro.|Hvala ti.
+{53491}{53550}U redu. Hajde, idemo.
+{54059}{54083}Laku noæ.
+{55689}{55733}Idem se istuširati,|u redu?
+{56553}{56583}Teško je pogledati unazad...
+{56584}{56654}i vidjeti istinu|o ljudima koje voliš.
+{56655}{56726}Mislim ako bi pitali Dereka zašto|je sve išlo tim putem...
+{56727}{56766}i gdje je poèelo...
+{56767}{56835}i dalje bi rekao da je poèelo|kada je naš otac ubijen.
+{56863}{56918}Istina je,|da je poèelo ranije.
+{56919}{56996}Je l' idemo svi|na utakmicu veèeras?
+{56997}{57026}Definitivno.
+{57027}{57066}U redu,|Ben's Burger u 7:00...
+{57067}{57099}onda idemo gledati|kako veliki èovjek igra.
+{57159}{57206}Spreman za igru?
+{57207}{57281}Uvijek sam spreman na to.|Imam ispit iz engleskog.
+{57283}{57338}Proivljavam srèani napad.|Nisam spreman.
+{57339}{57387}Šta je bilo?|Bojiš se da æeš dobiti èetvorku?
+{57388}{57458}Moda ti pomogne. Èetiri minus.
+{57459}{57529}Hej, ne smij se.|Ovaj èovjek je drugaèiji.
+{57530}{57589}Dr. Sweeney.|Èovjek je nevjerovatan.
+{57590}{57638}Nevjerovatan. Nikad nisam|imao takvog uèitelja.
+{57639}{57668}Ima dvije Ph.D. diplome.
+{57669}{57756}Ne znam zašto|predaje u našoj školi.
+{57757}{57786}Šta te tjera da èitaš?
+{57787}{57874}Imamo za ispit esej|o "Narodn-om Sin-u".
+{57875}{57934}"Narodni Sin"?|Ne znam to.
+{57935}{57972}To je baš iznenağenje.
+{57999}{58032}Šta? Èitam ja.
+{58062}{58142}Dušo, ne predaju|Tom Clancy-a u školi.
+{58182}{58225}Pa, ne predaju.
+{58226}{58261}I, dobro, šta je to "Narodni Sin"?
+{58289}{58346}To je knjiga|o nekom tipu crncu.
+{58347}{58418}Radimo cijelu|crnaèku knjievnost.
+{58419}{58478}Da nije Mjesec Crnaèke Povijesti?
+{58479}{58537}Ne, samo|taj èovjek Sweeney, znaš?
+{58538}{58582}To je dio nastave sada.
+{58742}{58780}Šta?
+{58781}{58849}Ništa. Samo...
+{58850}{58900}Gdje god pogledam sada.
+{58901}{58942}Šta?
+{58982}{59049}To potvrğivanje crnaca.
+{59050}{59168}Nekoliko novih knjiga ne oznaèava|potvrğivanje crnaèkih akcija.
+{59195}{59238}Proèitaj knjigu,|dobij peticu na testu.
+{59239}{59297}Samo nemoj progutati|sve èime te hrani.
+{59298}{59335}Samo zato što ga vidiš|na veèernjim vijestima...
+{59336}{59363}Znam, ali šta?
+{59364}{59413}Sve te stvari o|izjednaèavanju svega.
+{59414}{59449}Nije to tako jednostavno.
+{59450}{59497}Sad imaš tu knjigu|"Narodni Sin."
+{59498}{59545}Šta se dogodilo sa|ostalim knjigama sa nastave?
+{59546}{59653}Ne valjaju više jer je |Gosp. Dvije Ph.D. diplome tako rekao?
+{59654}{59713}Sad menjaš dobre knjige|za crnaèke knjige?
+{59714}{59777}Ima li smisla?
+{59778}{59829}Moraš preispitati|takve stvari, Derek.
+{59830}{59877}Moraš pogledati|na cijelu sliku.
+{59878}{59954}Prièamo o knjigama ovdje.|Takoğer prièam o svom poslu.
+{59955}{60025}Imam dva crnca u|svojoj jedinici, sada...
+{60026}{60085}koji su dobili posao|preko par bijelih ljudi...
+{60086}{60135}koji su zapravo imali|bolje ocjene na testu.
+{60136}{60217}Ima li smisla?
+{60218}{60303}Sve je jednako sada, ali imam|dvojicu da mi èuvaju leğa...
+{60304}{60399}odgovornih za moj ivot|koji nisu toliko dobri.
+{60400}{60443}Dobili su posao samo|zato što su crnci...
+{60444}{60499}a ne zato što su bili najbolji.
+{60500}{60573}Sranje.|-Je l' se o tome radi u Americi?
+{60575}{60623}Ne, Amerika je|najbolji èovjek za posao.
+{60624}{60675}Daj sve od sebe,|dobit æeš posao.
+{60676}{60747}Ovo sranje o povlağivanju...
+{60748}{60791}Ne znam o èemu se radi.
+{60792}{60891}Kao da postoji neki|skriveni program rada ili slièno.
+{60892}{60927}Vidiš šta prièam?
+{60928}{60990}Da, shvaæam. Nisam|tako razmišljao o tome.
+{61027}{61079}Mada, ovaj èovjek... Ne znam.
+{61080}{61130}Dr. Sweeney,|tako snano nastupa...
+{61131}{61175}teško je ne slušati ga...
+{61176}{61237}ali moda nešto|od njegove prièe...
+{61238}{61267}To je sranje.
+{61296}{61347}Da. Da, moda.
+{61348}{61440}Ne. To je crnaèko sranje.
+{61496}{61562}Vidiš to, zar ne?|- Da.
+{61563}{61607}Moraš se paziti toga.
+{61608}{61679}Da. Ne, razumijem|o èemu prièaš. Pazit æu se.
+{61716}{61762}Dobar deèko.
+{61763}{61813}Ponosim se tobom.
+{61815}{61854}Ne brini. Ja æu.
+{64867}{64914}I za oko minutu...
+{64915}{64976}gledat æu kako se Sunce die.
+{64977}{65031}Ne znam|da li sam to radio nekad.
+{65059}{65139}U svakom sluèaju, pokušat æemo|pokupiti stvari i poèeti ponovo.
+{65140}{65222}Neæe biti lako,|ali smo opet zajedno...
+{65222}{65273}i osjeæam se super.
+{65299}{65370}Nisam siguran da je ovo|ono što ste traili da pišem...
+{65371}{65418}ako sam pogodio|društveni znaèaj...
+{65419}{65472}ili šta veæ|da traite...
+{65473}{65557}ali za ono što vrijedi,|hvala puno.
+{65905}{66007}Opa. Izgledaš super.|Vidi se.
+{66047}{66118}Da. Moram se obuæi|za referenta uvjetnog.
+{66119}{66150}Je l' slatka?
+{66151}{66202}Ona je debeli èovjek po imenu Hector...
+{66203}{66281}Oh. Pa...|-Tako da nemam sreæe.
+{66338}{66377}Moram se prijaviti...
+{66378}{66428}a onda æu probati|da vratim stari posao.
+{66429}{66498}Super.|- Dobro jutro.
+{66527}{66557}Davina, moeš li pomoæi?
+{66558}{66593}Sestra æe ti pomoæi.
+{66618}{66659}Odlièno izgledaš. Obori ih s nogu.
+{66660}{66697}Hvala.
+{66698}{66756}Hajde, slatkišu. Šta eliš|obuæi danas?
+{66819}{66896}Stvarno dobro izgledaš.|- Stvarno? Osjeæam se glupo.
+{66897}{66954}Izgledaš dobro.|- Stvarno?
+{67002}{67037}Osjeæaš li se dobro?
+{67106}{67181}Da. Osjeæam, znaš...
+{67182}{67229}malo...
+{67230}{67287}stiem polako.
+{67326}{67371}Slušaj...ne znam...
+{67411}{67466}Ne znam|da li je O.K. što sam ovdje.
+{67564}{67594}elim biti ovdje.
+{68044}{68086}Idem uzeti novine.|- Vai.
+{68504}{68579}Šta eliš?|-Pitu od javora i veliko mlijeko.
+{68580}{68616}U redu. Ja æu.
+{68723}{68771}Daj mi kavu...
+{68772}{68835}pitu od javora,|i veliko mlijeko za ponijeti.
+{68836}{68861}Odmah.
+{69102}{69170}Derek, moramo poprièati.
+{69171}{69206}Šta se dogağa?
+{69206}{69313}Cameron Alexander i Seth Ryan|su u ICU kod St. John's.
+{69315}{69350}Napadnuti su sinoæ|blizu Ben's Burgers.
+{69350}{69394}Koliko loše?
+{69394}{69434}Pa, izgleda|da æe preivjeti.
+{69435}{69509}Onda im se posreæilo.|- Mada, neko mora izgubiti.
+{69576}{69600}Šta?
+{69630}{69706}Mislili smo da bi moda mogao|poprièati sa starom ekipom...
+{69707}{69745}Hajde. Nema šanse.
+{69747}{69822}Ako æe nekoga slušati|to si ti.
+{69822}{69876}Ne. ao mi je,|ali izašao sam, OK?
+{69877}{69924}Ti momci me vjerovatno|trae da me ubiju.
+{69925}{69973}Traimo pomoæ|od tebe, Derek.
+{69974}{70019}Jesi li mu rekao|da æu ovo uèiniti?
+{70182}{70238}Ovo više nema nikakve|veze sa mnom.
+{70238}{70310}Da, ima. Ima|svakakve veze sa tobom.
+{70310}{70374}Boe, šta mi to radiš?|Trudim se!
+{70374}{70440}elim samo odrati|svoju porodicu èistu.
+{70441}{70475}Ne trai od mene da|popravim ovu jebenu situaciju!
+{70476}{70523}Ne traim to.|-Postojalo je i prije mene.
+{70524}{70596}Pomogao si da se napravi.|Hoæeš sada pauzirati?
+{70597}{70638}Ako sad staneš,|neæeš naæi mir.
+{70639}{70715}Naèin da nağeš mir|je da istraješ.
+{70716}{70764}Neæe ni malo|napraviti razliku.
+{70765}{70840}Mogo bi.|- Ni malo.
+{70841}{70928}Mislim, znaš li šta|traiš od mene?
+{70929}{71000}Da. Traim da uèiniš sve|što je u tvojoj moæi.
+{71036}{71091}Oh, èovjeèe.
+{71157}{71189}Jebi ga.
+{71299}{71333}U redu.
+{71377}{71448}Znaš šta æeš uèiniti?|Ubit æe me bijeli momci.
+{71449}{71496}Sumnjam.
+{71497}{71570}Svi æemo se smijati|tome, vidjet æeš.
+{71599}{71682}Odvest æu ga do škole.|Vratit æu se za pola sata.
+{71682}{71716}Hajde.
+{71717}{71808}Hej, ti. Imaš li nešto|dobro za mene jutros?
+{71809}{71838}Predat æu vam ga,|Dr. Sweeney.
+{71839}{71870}Da, OK.|- U redu.
+{71985}{72033}Šta se dogağa?
+{72155}{72183}Hajde, idemo.
+{72558}{72634}Šteta za Setha, èovjeèe.
+{72635}{72699}Pitam se koliko gadno|su se sjebali.
+{72730}{72787}Drago mi je da nisu mrtvi.|Pored toga, ne zanima me.
+{72823}{72858}Da ih posjetimo?
+{72859}{72922}Ne. Definitivno ne.
+{72923}{72972}Samo se ne mješaj.
+{72973}{73066}Slušaj. Vidio sam auto kako|krui sinoæ oko kuæe...
+{73067}{73110}kad sam|izašao sa Sethom.
+{73111}{73186}Ako doğeš kuæi prije mene danas,|pogledaj malo oko ulice.
+{73187}{73247}Uvjeri se|da se ništa ne dogağa.
+{73271}{73321}Èovjeèe, to ne valja.
+{73375}{73446}Jure te, èovjeèe.|- Smirit æe se.
+{73447}{73532}Ako sam uspio u Chino-u,|ovo bi trebalo biti lako.
+{73587}{73611}Hoæeš li biti OK?
+{73736}{73763}Šta æeš uèiniti?
+{73764}{73846}Sredit æu to.|Dri glavu gore, u redu?
+{73847}{73928}Bit æe sve u redu.|Bit æe sve OK.
+{73929}{73973}Idi predaj taj rad.
+{74015}{74091}U redu. Vidimo se.
+{74092}{74123}Doği.
+{74263}{74298}Vidimo se kuæi.
+{74340}{74377}U redu?
+{74407}{74469}Da, vidimo se.|Sretno, u redu?
+{74470}{74543}Da.|- Vidimo se kasnije.
+{74681}{74739}Zakasnit æu.|- Bolje da idemo.
+{74763}{74797}U redu. Idemo.
+{75347}{75372}Bok.
+{75373}{75450}Stiæi æu te.|Vidimo se kasnije.
+{77410}{77454}Bjei mi s puta!
+{77455}{77498}U redu! Pusti ga!
+{77558}{77585}Oh, ne.
+{77660}{77710}Ah, Boe.
+{78274}{78318}Oh, Boe.
+{78318}{78366}Boe, šta sam uèinio?
+{79041}{79136}Vjerujem da je ovo onda|kad vam prièam šta sam nauèio.
+{79137}{79181}Moj zakljuèak, je l' tako?
+{79205}{79299}Pa, moj zakljuèak je|da je mrnja teret.
+{79319}{79396}ivot je previše kratak|da bi bio nadrkan svo vrijeme.
+{79397}{79449}Jednostavno nije vrijedno.
+{79515}{79600}Derek kae da je uvijek dobro|završiti rad citatom.
+{79601}{79660}On kae neko drugi je veæ|rekao to na najbolji naèin...
+{79661}{79708}i ako ga ne moeš nadmašiti...
+{79709}{79768}ukradi od njega|i izaği jak.
+{79769}{79829}Tako sam izabrao tipa za kojeg|sam mislio da æe vam se svidjeti.
+{79873}{79960}"Mi nismo neprijatelji,|veæ prijatelji."
+{79961}{80016}"Ne smijemo biti neprijatelji."
+{80017}{80076}"Mada je strast|moda deformirana..."
+{80077}{80144}"ne smijemo lomiti|kosti naših osjeæaja."
+{80145}{80212}"Tajanstvene strune sjeæanja..."
+{80213}{80273}"æe nabubriti|kada budu ponovo dodirnute..."
+{80274}{80321}"kao što æe sigurno biti..."
+{80322}{80413}"od strane boljih anğela|naše prirode."
+{80422}{81493}PREVOD I OBRADA|ÈEDO FILM - by Lucifre
+{81518}{83018}ĞœĞ¾Ğ»Ğ¸Ğ¼Ğ¾ Ğ²Ğ°Ñ Ğ´Ğ° Ğ¾Ñ†ĞµĞ½Ğ¸Ñ‚Ğµ Ğ¾Ğ²Ğ°Ñ˜ Ñ‚Ğ¸Ñ‚Ğ» Ğ½Ğ° www.osdb.link/77x23|ĞŸĞ¾Ğ¼Ğ¾Ğ·Ğ¸Ñ‚Ğµ Ğ´Ñ€ÑƒĞ³Ğ¸Ğ¼ ĞºĞ¾Ñ€Ğ¸ÑĞ½Ğ¸Ñ†Ğ¸Ğ¼Ğ° Ğ´Ğ° Ğ¸Ğ·Ğ°Ğ±ĞµÑ€Ñƒ Ğ½Ğ°Ñ˜Ğ±Ğ¾Ñ™Ğµ Ñ‚Ğ¸Ñ‚Ğ»Ğ¾Ğ²Ğµ

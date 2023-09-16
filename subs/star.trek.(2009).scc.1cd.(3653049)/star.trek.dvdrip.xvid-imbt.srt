@@ -1,0 +1,1206 @@
+[Script Info]
+; This script was created by subtitleeditor 0.21.1
+; http://kitone.free.fr/subtitleeditor/
+Title: Untitled
+ScriptType: V4.00+
+Collisions: Normal
+Timer: 100
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:04.00,Default,,0000,0000,0000,,Downloaded From www.AllSubs.org
+Dialogue: 0,0:01:19.00,0:01:21.90,Default,,0000,0000,0000,,USS Kelvin zove bazu Zvezdane flote!\nBaza Zvezdane flote na prijemu!
+Dialogue: 0,0:01:22.20,0:01:23.70,Default,,0000,0000,0000,,Izvrsili smo prenos podataka.\nDa li ste primili?
+Dialogue: 0,0:01:24.00,0:01:25.50,Default,,0000,0000,0000,,Kelvine da li ste proverili\nova oèitavanja?
+Dialogue: 0,0:01:25.70,0:01:28.30,Default,,0000,0000,0000,,Naši gravitacioni senzori su poludeli.\nTrebalo bi da vidite ovo!
+Dialogue: 0,0:01:28.70,0:01:31.20,Default,,0000,0000,0000,,Izgleda kao elektrièna oluja!\nRekli ste nam da je to malo verovatno!
+Dialogue: 0,0:01:31.60,0:01:33.90,Default,,0000,0000,0000,,Da gospodjo,razumemo.\nZato smo i poslali podatke vama!
+Dialogue: 0,0:01:34.10,0:01:36.80,Default,,0000,0000,0000,,Izveštaj!\nJoš uvek smo van vizuelnog dometa
+Dialogue: 0,0:01:36.90,0:01:40.90,Default,,0000,0000,0000,,<i>Obavestite Kapetana Robaua da Zvezdana\nflota nalaže da budete veoma oprezni.</i>
+Dialogue: 0,0:01:41.30,0:01:45.30,Default,,0000,0000,0000,,Polarizujte novi ekran.\nKada æemo imati vizuelni prikaz?
+Dialogue: 0,0:01:45.80,0:01:49.80,Default,,0000,0000,0000,,<i>Ponavljam. Da li su to Klingonci?\nNegativno poruènièe...</i>
+Dialogue: 0,0:01:50.00,0:01:52.40,Default,,0000,0000,0000,,Kapetane! Vidite li ovo?
+Dialogue: 0,0:01:54.60,0:01:56.90,Default,,0000,0000,0000,,Moj Bože...
+Dialogue: 0,0:02:16.80,0:02:19.00,Default,,0000,0000,0000,,Primamo oèitavanja!\nNaciljali su nas oružjem!
+Dialogue: 0,0:02:19.50,0:02:22.80,Default,,0000,0000,0000,,Na borbene položaje!\nTorpeda naciljana na 20-2 stepena!
+Dialogue: 0,0:02:25.80,0:02:27.70,Default,,0000,0000,0000,,Manevar za izbegavanje Delta-5
+Dialogue: 0,0:02:29.60,0:02:31.40,Default,,0000,0000,0000,,Nadolazeæi objekat!
+Dialogue: 0,0:02:36.60,0:02:39.30,Default,,0000,0000,0000,,Paljba svim fazorima!\nIzveštaj o šteti!
+Dialogue: 0,0:02:39.70,0:02:42.20,Default,,0000,0000,0000,,Vorp pogon je onesposobljen\nNikada nisam video nešto takvo!
+Dialogue: 0,0:02:43.50,0:02:45.70,Default,,0000,0000,0000,,Oružje ne funkcioniše.\nGlavno napajanje na 38%
+Dialogue: 0,0:02:46.10,0:02:48.30,Default,,0000,0000,0000,,Ponovo pucaju!\nSvu snagu u prednje štitove!
+Dialogue: 0,0:03:05.90,0:03:07.90,Default,,0000,0000,0000,,Javljaju se palube 17-13.\nImamo poginulih!
+Dialogue: 0,0:03:08.30,0:03:10.70,Default,,0000,0000,0000,,Štitovi na 11% i padaju.\n10%. Stanje se stabilizovalo.
+Dialogue: 0,0:03:11.00,0:03:14.10,Default,,0000,0000,0000,,Svu preostalu snagu u prednje štitove!\nPripremite šatlove za evakuaciju!
+Dialogue: 0,0:03:17.20,0:03:19.00,Default,,0000,0000,0000,,Pozdrav!
+Dialogue: 0,0:03:19.40,0:03:21.80,Default,,0000,0000,0000,,Moj komandant zahteva\nprisustvo vašeg Kapetana...
+Dialogue: 0,0:03:22.20,0:03:24.40,Default,,0000,0000,0000,,kako bi pregovarali o prekidu vatre.
+Dialogue: 0,0:03:24.50,0:03:27.20,Default,,0000,0000,0000,,Prebaciæete se na naš brod šatlom.
+Dialogue: 0,0:03:27.70,0:03:30.50,Default,,0000,0000,0000,,Ne bi bilo mudro da odbijete!
+Dialogue: 0,0:03:43.00,0:03:45.00,Default,,0000,0000,0000,,Poði samnom!
+Dialogue: 0,0:03:50.40,0:03:53.30,Default,,0000,0000,0000,,Ako se ne vratim za\n15 minuta,evakuišite posadu!
+Dialogue: 0,0:03:53.90,0:03:56.00,Default,,0000,0000,0000,,Gospodine ne možemo vas...\nOvde nam niko ne može pomoæi!
+Dialogue: 0,0:03:56.50,0:03:58.40,Default,,0000,0000,0000,,Ipotrebite autopilota...
+Dialogue: 0,0:03:59.20,0:04:01.70,Default,,0000,0000,0000,,i idite sa ovog broda!\nRazumem Kapetane!
+Dialogue: 0,0:04:02.10,0:04:04.50,Default,,0000,0000,0000,,Vi ste sada Kapetan gospodine Kirk!
+Dialogue: 0,0:05:17.00,0:05:19.20,Default,,0000,0000,0000,,Rad srca mu se ubrzao!
+Dialogue: 0,0:05:41.30,0:05:43.30,Default,,0000,0000,0000,,Pogledaj ovaj brod!
+Dialogue: 0,0:05:44.80,0:05:47.80,Default,,0000,0000,0000,,Da li ti je poznata ovakva letelica!\nKo je tvoj komandant?
+Dialogue: 0,0:05:49.50,0:05:52.80,Default,,0000,0000,0000,,Da li je to on?\nJa æu da govorim u ime Kapetana Niroa
+Dialogue: 0,0:05:53.20,0:05:55.60,Default,,0000,0000,0000,,Onda pitaj Kapetana Niroa,odakle mu pravo...
+Dialogue: 0,0:05:56.20,0:05:58.50,Default,,0000,0000,0000,,da napadne brod Federacije?
+Dialogue: 0,0:06:11.00,0:06:14.30,Default,,0000,0000,0000,,Da li znaš lokaciju Ambasadora Spoka?
+Dialogue: 0,0:06:17.30,0:06:19.90,Default,,0000,0000,0000,,Nije mi poznato to ime!
+Dialogue: 0,0:06:21.70,0:06:24.40,Default,,0000,0000,0000,,Koji je trenutni zvezdani datum?\nZvezdani datum?
+Dialogue: 0,0:06:26.40,0:06:28.90,Default,,0000,0000,0000,,2233.04
+Dialogue: 0,0:06:31.00,0:06:33.10,Default,,0000,0000,0000,,Odakle ste vi?
+Dialogue: 0,0:06:38.00,0:06:39.50,Default,,0000,0000,0000,,PREKINUTO -
+Dialogue: 0,0:06:40.10,0:06:41.70,Default,,0000,0000,0000,,Gospodine ponovo su nas naciljali!\nPonovo lansiraju oružje!
+Dialogue: 0,0:06:42.10,0:06:44.20,Default,,0000,0000,0000,,Bravo-6 manevar!\nIspalite pun plotun...
+Dialogue: 0,0:06:54.80,0:06:57.70,Default,,0000,0000,0000,,Preðite na Opšte Upozorenje 13.\nEvakuišemo se!
+Dialogue: 0,0:06:58.20,0:06:59.60,Default,,0000,0000,0000,,Da gospodine!
+Dialogue: 0,0:07:03.60,0:07:06.50,Default,,0000,0000,0000,,Svim palubama,govori Kapetan.\nOdmah napustite brod!
+Dialogue: 0,0:07:07.30,0:07:09.40,Default,,0000,0000,0000,,<i>Poðite prema šatlovima za evakuaciju.</i>
+Dialogue: 0,0:07:09.50,0:07:12.20,Default,,0000,0000,0000,,Šta se dogaða?\nPorodite je u šatlu. Krenite!
+Dialogue: 0,0:07:25.30,0:07:26.90,Default,,0000,0000,0000,,Džordže!\nDodro si. Hvala Bogu!
+Dialogue: 0,0:07:27.30,0:07:29.10,Default,,0000,0000,0000,,Èeka te medicinski šatl 37,\nidi do njega odmah.
+Dialogue: 0,0:07:29.40,0:07:31.00,Default,,0000,0000,0000,,Možeš li to da uradiš?\nDa!
+Dialogue: 0,0:07:31.80,0:07:34.60,Default,,0000,0000,0000,,Uradi taèno kako ti kažem. Šatl 37.\nDžordže...
+Dialogue: 0,0:07:35.10,0:07:38.50,Default,,0000,0000,0000,,Izlazi. Naša beba. Poraðam se!
+Dialogue: 0,0:07:38.90,0:07:40.60,Default,,0000,0000,0000,,Odmah dolazim!
+Dialogue: 0,0:07:46.00,0:07:49.90,Default,,0000,0000,0000,,<i><b>Autopilot je uništen!\nMoguæe je samo ruèno upravljanje!</b></i>
+Dialogue: 0,0:07:58.90,0:08:01.30,Default,,0000,0000,0000,,To je bolelo!\nSamo nastavi da dišeš. Biæeš dobro!
+Dialogue: 0,0:08:01.60,0:08:04.20,Default,,0000,0000,0000,,I beba takodje?\nI beba takodje!
+Dialogue: 0,0:08:09.20,0:08:10.80,Default,,0000,0000,0000,,Ovde!
+Dialogue: 0,0:08:16.10,0:08:19.30,Default,,0000,0000,0000,,Šatl 37 da li se moja žena ukrcala?\nDa gospodine!
+Dialogue: 0,0:08:19.80,0:08:22.00,Default,,0000,0000,0000,,Moraš odmah da kreneš!\nÈekamo vas.
+Dialogue: 0,0:08:22.40,0:08:25.00,Default,,0000,0000,0000,,Ne, idite! poletite odmah!\nTo je nareðenje!
+Dialogue: 0,0:08:25.50,0:08:28.20,Default,,0000,0000,0000,,Da gospodine!
+Dialogue: 0,0:08:35.00,0:08:38.20,Default,,0000,0000,0000,,Džordž, šatl poleæe. Gde si ti?
+Dialogue: 0,0:08:38.70,0:08:40.50,Default,,0000,0000,0000,,Dušo slušaj me.
+Dialogue: 0,0:08:41.00,0:08:43.10,Default,,0000,0000,0000,,Ja ne dolazim!\nNe!
+Dialogue: 0,0:08:43.50,0:08:46.00,Default,,0000,0000,0000,,Ovo je jedini naèin da preživite\nMolim te ne radi to!
+Dialogue: 0,0:08:47.50,0:08:49.70,Default,,0000,0000,0000,,Šatlovi neæe uspeti\nako ne odbijem napad.
+Dialogue: 0,0:08:50.20,0:08:53.40,Default,,0000,0000,0000,,Džordž, ne mogu ovo bez tebe!
+Dialogue: 0,0:08:53.80,0:08:55.90,Default,,0000,0000,0000,,OK. Moraš da guraš, odmah!
+Dialogue: 0,0:09:34.50,0:09:36.60,Default,,0000,0000,0000,,<i><b>KVAR SISTEMA -</b></i>
+Dialogue: 0,0:09:41.20,0:09:43.60,Default,,0000,0000,0000,,<i><b>UNET KURS ZA DIREKTAN SUDAR -</b></i>
+Dialogue: 0,0:09:57.10,0:09:59.90,Default,,0000,0000,0000,,<i><b>UDAR -</b></i>
+Dialogue: 0,0:10:12.80,0:10:14.30,Default,,0000,0000,0000,,Šta smo dobili?\nDeèaka!
+Dialogue: 0,0:10:14.70,0:10:16.70,Default,,0000,0000,0000,,Deèaka!
+Dialogue: 0,0:10:17.60,0:10:20.20,Default,,0000,0000,0000,,Prièaj mi kakav je.
+Dialogue: 0,0:10:20.70,0:10:23.30,Default,,0000,0000,0000,,Predivan je!
+Dialogue: 0,0:10:23.70,0:10:26.20,Default,,0000,0000,0000,,Džordž trebao si da budeš ovde!
+Dialogue: 0,0:10:26.90,0:10:29.00,Default,,0000,0000,0000,,<i><b>UDAR -</b></i>
+Dialogue: 0,0:10:30.30,0:10:33.80,Default,,0000,0000,0000,,Kako æemo da ga nazovemo?\nMožemo ga nazvati po tvome ocu!
+Dialogue: 0,0:10:34.30,0:10:36.90,Default,,0000,0000,0000,,Tiberije? Šališ se.\nTo je najgore ime!
+Dialogue: 0,0:10:39.40,0:10:42.20,Default,,0000,0000,0000,,Nazovimo ga po tvome ocu.\nNazovimo ga Džim!
+Dialogue: 0,0:10:44.30,0:10:48.00,Default,,0000,0000,0000,,Džim. Ok. Neka bude Džim!
+Dialogue: 0,0:10:52.40,0:10:54.80,Default,,0000,0000,0000,,Dušo da li me èuješ?\nÈujem te!
+Dialogue: 0,0:10:55.20,0:10:57.30,Default,,0000,0000,0000,,Toliko te volim!
+Dialogue: 0,0:10:57.90,0:10:59.60,Default,,0000,0000,0000,,Volim te...
+Dialogue: 0,0:11:42.30,0:11:53.10,Default,,0000,0000,0000,,ZVEZDANE STAZE\nTranslation by Hero
+Dialogue: 0,0:12:16.80,0:12:18.80,Default,,0000,0000,0000,,<i>Da li si poludeo! Taj auto je antika.</i>
+Dialogue: 0,0:12:19.30,0:12:21.20,Default,,0000,0000,0000,,<i>Misliš da æeš se izvuæi zato\nšto ti majka nije na planeti.</i>
+Dialogue: 0,0:12:21.70,0:12:23.80,Default,,0000,0000,0000,,Da si dovukao ovamo, odmah!
+Dialogue: 0,0:12:24.10,0:12:27.40,Default,,0000,0000,0000,,Živiš u mojoj kuæi druškane,\nu mojoj kuæi, a to je moj auto!
+Dialogue: 0,0:12:27.80,0:12:30.40,Default,,0000,0000,0000,,Ako ga samo izgrebeš ima da te...
+Dialogue: 0,0:12:54.80,0:12:57.10,Default,,0000,0000,0000,,Hej Džoni!
+Dialogue: 0,0:13:17.60,0:13:19.20,Default,,0000,0000,0000,,Stani sa strane!
+Dialogue: 0,0:14:13.00,0:14:15.40,Default,,0000,0000,0000,,U èemu je problem gospodine?
+Dialogue: 0,0:14:15.80,0:14:17.90,Default,,0000,0000,0000,,Graðanine, kako se zovete?
+Dialogue: 0,0:14:18.30,0:14:20.60,Default,,0000,0000,0000,,Zovem se Džejms Tiberije Kirk!
+Dialogue: 0,0:14:23.60,0:14:26.90,Default,,0000,0000,0000,,<i><b>PLANETA VULKAN</b></i>
+Dialogue: 0,0:14:39.00,0:14:43.50,Default,,0000,0000,0000,,Koja je formula za zapreminu lopte?\n1/3 pi x pirad
+Dialogue: 0,0:14:58.00,0:15:00.70,Default,,0000,0000,0000,,Dimenzionalnost je jednaka...
+Dialogue: 0,0:15:04.30,0:15:07.70,Default,,0000,0000,0000,,...je moralno pohvalna,\nali ne i moralno obavezujuæa!
+Dialogue: 0,0:15:11.00,0:15:13.10,Default,,0000,0000,0000,,Spok!
+Dialogue: 0,0:15:14.00,0:15:17.20,Default,,0000,0000,0000,,Pretpostavljam da si\npripremio nove uvrede za danas?
+Dialogue: 0,0:15:17.70,0:15:19.90,Default,,0000,0000,0000,,Potvrdno!
+Dialogue: 0,0:15:27.10,0:15:31.10,Default,,0000,0000,0000,,Ovo vam je 35 put kako pokušavate\nda od mene dobijete emocionalni odgovor
+Dialogue: 0,0:15:31.60,0:15:34.20,Default,,0000,0000,0000,,Ti nisi ni Èovek ni Vulkanac,te stoga\nnemaš mesto u ovom univerzumu!
+Dialogue: 0,0:15:34.60,0:15:37.10,Default,,0000,0000,0000,,Pogledaj,njegove èoveèije oèi.\nIzgledaju tužno, zar ne!
+Dialogue: 0,0:15:37.50,0:15:40.00,Default,,0000,0000,0000,,Možda emocionalni odgovor\nzahteva fizièku stimulaciju!
+Dialogue: 0,0:15:42.30,0:15:45.60,Default,,0000,0000,0000,,On je izdajnik, znaš. Tvoj otac.\nZato što je oženio nju!
+Dialogue: 0,0:15:46.10,0:15:48.10,Default,,0000,0000,0000,,Tu kurvu sa Zemlje!
+Dialogue: 0,0:16:16.00,0:16:18.60,Default,,0000,0000,0000,,Rekli su da si izdajnik!
+Dialogue: 0,0:16:22.70,0:16:25.40,Default,,0000,0000,0000,,Emocije su duboko\nukorenjene u našoj vrsti.
+Dialogue: 0,0:16:25.80,0:16:28.50,Default,,0000,0000,0000,,Na mnogo naèina dublje nego kod Ljudi.
+Dialogue: 0,0:16:29.00,0:16:32.30,Default,,0000,0000,0000,,Logika nam nudi mudrost\nkoju Ljudi retko mogu da dostignu!
+Dialogue: 0,0:16:33.00,0:16:37.50,Default,,0000,0000,0000,,Da kontrolišemo oseæanja,\ntako da ona ne kontrolišu tebe!
+Dialogue: 0,0:16:40.70,0:16:44.40,Default,,0000,0000,0000,,Ti govoriš da bi ja trebao\nda budem u potpunosti Vulkanac,
+Dialogue: 0,0:16:44.80,0:16:46.60,Default,,0000,0000,0000,,a opet, ti si oženio Zemljanku!
+Dialogue: 0,0:16:47.10,0:16:50.70,Default,,0000,0000,0000,,Kao ambasador na Zemlji moja je dužnost\nda posmatram i razumem Ijudsko ponašanje.
+Dialogue: 0,0:16:52.10,0:16:56.10,Default,,0000,0000,0000,,Odluka da oženim tvoju majku je bila...\nLogièna!
+Dialogue: 0,0:16:59.30,0:17:03.80,Default,,0000,0000,0000,,Spok, ti si potpuno sposoban\nda odluèiš o svojoj sudbini.
+Dialogue: 0,0:17:05.40,0:17:08.00,Default,,0000,0000,0000,,Pitanje sa kojim se suoèavaš je...
+Dialogue: 0,0:17:08.50,0:17:11.40,Default,,0000,0000,0000,,Koji deo sebe æeš odabrati!
+Dialogue: 0,0:17:12.10,0:17:14.70,Default,,0000,0000,0000,,Samo ti to možeš odluèiti!
+Dialogue: 0,0:17:20.10,0:17:22.80,Default,,0000,0000,0000,,Spok doði ovamo. Daj da te vidim!
+Dialogue: 0,0:17:24.90,0:17:27.60,Default,,0000,0000,0000,,Ne!\nSpok...
+Dialogue: 0,0:17:35.20,0:17:37.90,Default,,0000,0000,0000,,Nema potrebe da budeš uzbuðen.
+Dialogue: 0,0:17:38.30,0:17:41.40,Default,,0000,0000,0000,,Biæeš dobro!\nNe bih rekao da sam uzbudjen majko.
+Dialogue: 0,0:17:42.10,0:17:46.10,Default,,0000,0000,0000,,Po vulkanskim definicijama\nto je neprihvatljivo!
+Dialogue: 0,0:17:46.80,0:17:48.50,Default,,0000,0000,0000,,U redu!
+Dialogue: 0,0:17:55.50,0:17:58.80,Default,,0000,0000,0000,,Mogu li da postavim lièno pitanje?\nBilo šta.
+Dialogue: 0,0:18:01.30,0:18:04.60,Default,,0000,0000,0000,,Da li da izaberem da završim\nVulkansku Disciplinu Kolinhara
+Dialogue: 0,0:18:05.80,0:18:09.00,Default,,0000,0000,0000,,I oèistim se od svih emocija...
+Dialogue: 0,0:18:09.70,0:18:13.20,Default,,0000,0000,0000,,Verujem da se neæeš oseæati\nkao da sam te izneverio?
+Dialogue: 0,0:18:15.90,0:18:18.40,Default,,0000,0000,0000,,Oh Spok!
+Dialogue: 0,0:18:19.90,0:18:23.50,Default,,0000,0000,0000,,Kao i uvek.\nŠta god odluèiš da budeš...
+Dialogue: 0,0:18:24.20,0:18:27.30,Default,,0000,0000,0000,,imaæeš ponosnu majku!
+Dialogue: 0,0:18:31.20,0:18:34.70,Default,,0000,0000,0000,,Prevazišli ste oèekivanja vaših uèitelja.
+Dialogue: 0,0:18:35.10,0:18:37.40,Default,,0000,0000,0000,,Vaš poslednji zadatak je bio bez greške!
+Dialogue: 0,0:18:37.90,0:18:42.60,Default,,0000,0000,0000,,Sa jednim izuzetkom. Vidim da ste\nse takoðe prijavili i u Zvezdanu flotu?
+Dialogue: 0,0:18:43.10,0:18:47.40,Default,,0000,0000,0000,,Bilo je logièno da imam u vidu obe opcije.\nLogièno, ali nepotrebno!
+Dialogue: 0,0:18:47.90,0:18:50.80,Default,,0000,0000,0000,,Primljen si u Vulkansku akademiju nauka.
+Dialogue: 0,0:18:51.30,0:18:52.90,Default,,0000,0000,0000,,Zaista je neverovatno\nSpok koliko si postigao...
+Dialogue: 0,0:18:53.50,0:18:56.30,Default,,0000,0000,0000,,uprkos tvom nedostatku!
+Dialogue: 0,0:18:56.80,0:18:59.40,Default,,0000,0000,0000,,Svi ustanite!
+Dialogue: 0,0:19:01.60,0:19:04.40,Default,,0000,0000,0000,,Ako bi ste mi pojasnili ministre.
+Dialogue: 0,0:19:04.90,0:19:07.30,Default,,0000,0000,0000,,O kojem to nedostatku govorite?
+Dialogue: 0,0:19:07.70,0:19:10.00,Default,,0000,0000,0000,,O tome što ti je majka sa Zemlje!
+Dialogue: 0,0:19:13.70,0:19:16.80,Default,,0000,0000,0000,,Savetnici, Ministre,moram da odbijem!
+Dialogue: 0,0:19:17.20,0:19:19.60,Default,,0000,0000,0000,,Nijedan Vulkanac nikada nije\nodbio prijem u ovu Akademiju.
+Dialogue: 0,0:19:20.10,0:19:22.60,Default,,0000,0000,0000,,Pošto sam ja polu\nèovek to æe tako i ostati.
+Dialogue: 0,0:19:23.10,0:19:26.10,Default,,0000,0000,0000,,Spok. Obavezao si se da æeš\nslediti vulkansku doktrinu!
+Dialogue: 0,0:19:26.50,0:19:28.40,Default,,0000,0000,0000,,Zašto si došao pred ovaj Savet danas?
+Dialogue: 0,0:19:28.90,0:19:31.40,Default,,0000,0000,0000,,Da zadovoljiš svoju emocionalnu\npotrebu za buntovništvom?
+Dialogue: 0,0:19:31.80,0:19:34.30,Default,,0000,0000,0000,,Jedinu emociju koju želim\nda izrazim je zahvalnost!
+Dialogue: 0,0:19:35.20,0:19:38.80,Default,,0000,0000,0000,,Hvala vam, Ministri, za\nvaše oduzeto vreme!
+Dialogue: 0,0:19:40.50,0:19:43.30,Default,,0000,0000,0000,,Živite dugo i uspešno!
+Dialogue: 0,0:20:11.30,0:20:14.10,Default,,0000,0000,0000,,Æao. Jedan Vatreni èaj...
+Dialogue: 0,0:20:14.80,0:20:18.60,Default,,0000,0000,0000,,3 Badvajzer klasika,\n2 kardasijanska koktela i...
+Dialogue: 0,0:20:19.60,0:20:22.40,Default,,0000,0000,0000,,Translešer je dobar!\nHvala vam!
+Dialogue: 0,0:20:22.80,0:20:25.50,Default,,0000,0000,0000,,To je mnogo piæa za jednu ženu!
+Dialogue: 0,0:20:26.70,0:20:29.40,Default,,0000,0000,0000,,I jedan viski.\nNeka budu dve, ja plaæam!
+Dialogue: 0,0:20:30.00,0:20:32.20,Default,,0000,0000,0000,,Ja plaæam svoje. Hvala, ali neka hvala!
+Dialogue: 0,0:20:32.60,0:20:35.30,Default,,0000,0000,0000,,Zar neæeš da bar èuješ moje\nime pre nego što me odbiješ?
+Dialogue: 0,0:20:35.70,0:20:38.30,Default,,0000,0000,0000,,Dobro mi je i bez toga!\nTebi je dobro.
+Dialogue: 0,0:20:38.90,0:20:41.30,Default,,0000,0000,0000,,Zovem se Džim. Džim Kirk.
+Dialogue: 0,0:20:42.60,0:20:45.60,Default,,0000,0000,0000,,Ako mi ne kažeš ime\nmoraæu neko da ti izmislim.
+Dialogue: 0,0:20:46.30,0:20:50.20,Default,,0000,0000,0000,,Zovem se Uhura! Uhura, neverovatno.\nTo ime sam hteo da izmislim!
+Dialogue: 0,0:20:51.20,0:20:53.70,Default,,0000,0000,0000,,Uhura i...\nSamo Uhura.
+Dialogue: 0,0:20:54.20,0:20:56.70,Default,,0000,0000,0000,,Nemaju prezimena na tvom svetu.\nUhura je moje prezime!
+Dialogue: 0,0:20:58.60,0:21:01.10,Default,,0000,0000,0000,,Neæemo da preðemo na imena?
+Dialogue: 0,0:21:03.10,0:21:06.20,Default,,0000,0000,0000,,Znaèi ti si kadet, studiraš.\nZa šta si se opredelila?
+Dialogue: 0,0:21:06.50,0:21:08.80,Default,,0000,0000,0000,,Zino-lingvistika!\nNemaš pojma šta to znaèi?
+Dialogue: 0,0:21:09.20,0:21:12.90,Default,,0000,0000,0000,,Prouèavanje vanzemaljskih jezika.\nMorgologija, filologija, sintaksa...
+Dialogue: 0,0:21:14.10,0:21:16.60,Default,,0000,0000,0000,,To znaèi da imaš talentovan jezik.
+Dialogue: 0,0:21:17.50,0:21:22.60,Default,,0000,0000,0000,,Zadivljena sam. Na momenat mi se\nuèinilo da si obièan glupan sa farme.
+Dialogue: 0,0:21:24.40,0:21:26.90,Default,,0000,0000,0000,,Pa... Ne obièan!
+Dialogue: 0,0:21:27.40,0:21:30.40,Default,,0000,0000,0000,,Ovaj ti dosaðuje?\nNemaš pojma koliko!
+Dialogue: 0,0:21:30.90,0:21:34.00,Default,,0000,0000,0000,,Ali mogu to da sredim!\nMožeš da me središ, pozivam te...
+Dialogue: 0,0:21:34.70,0:21:38.20,Default,,0000,0000,0000,,Bolje pripazi na manire.\nOpusti se kolaèiæu to je bila šala!
+Dialogue: 0,0:21:38.50,0:21:42.30,Default,,0000,0000,0000,,Hej farmeru. Ako nisi primetio\nnas je èetvoro, a ti si sam!
+Dialogue: 0,0:21:43.30,0:21:47.10,Default,,0000,0000,0000,,Onda dovedi još par momaka\npa æe to biti poštena tuèa!
+Dialogue: 0,0:21:51.00,0:21:52.80,Default,,0000,0000,0000,,Prekinite!
+Dialogue: 0,0:21:54.10,0:21:55.80,Default,,0000,0000,0000,,Prekinite!
+Dialogue: 0,0:22:17.10,0:22:18.50,Default,,0000,0000,0000,,Dosta je bilo!
+Dialogue: 0,0:22:26.00,0:22:28.00,Default,,0000,0000,0000,,Momci dosta mu je bilo!
+Dialogue: 0,0:22:32.70,0:22:35.20,Default,,0000,0000,0000,,Napolje,svi vi!
+Dialogue: 0,0:22:35.70,0:22:37.70,Default,,0000,0000,0000,,Odmah!\nDa gospodine!
+Dialogue: 0,0:22:42.60,0:22:46.20,Default,,0000,0000,0000,,Da li si dobro sinko?\nStvarno možeš glasno da zazviždiš!
+Dialogue: 0,0:22:48.00,0:22:50.70,Default,,0000,0000,0000,,Nisam mogao da verujem\nkada mi je barmen rekao ko si ti.
+Dialogue: 0,0:22:51.10,0:22:54.00,Default,,0000,0000,0000,,Ko sam ja Kapetane Pajk?\nSin svoga oca!
+Dialogue: 0,0:22:56.80,0:22:58.50,Default,,0000,0000,0000,,Mogu li da dobijem još jedno?
+Dialogue: 0,0:22:59.00,0:23:01.40,Default,,0000,0000,0000,,Tokom disertacije dodeljen\nsam na USS Kelvin.
+Dialogue: 0,0:23:01.50,0:23:05.20,Default,,0000,0000,0000,,Tome sam se divio kod tvoga oca.\nNije verovao nikome na osnovu ocena.
+Dialogue: 0,0:23:05.70,0:23:07.80,Default,,0000,0000,0000,,Pa baš je nauèio lekciju.
+Dialogue: 0,0:23:08.20,0:23:10.70,Default,,0000,0000,0000,,Zavisi kako tumaèiš pobedu.\nTi si ovde, zar ne?
+Dialogue: 0,0:23:11.40,0:23:13.40,Default,,0000,0000,0000,,Znaš, taj instinkt da\nskoèiš pre nego što pogledaš...
+Dialogue: 0,0:23:13.90,0:23:17.00,Default,,0000,0000,0000,,je bila i njegova osobina, a po mom\nmišIjenju retka je u Zvezdanoj floti.
+Dialogue: 0,0:23:17.50,0:23:21.70,Default,,0000,0000,0000,,Zašto mi to govoriš?\nZato što me potseèaš na svog oca!
+Dialogue: 0,0:23:22.60,0:23:25.40,Default,,0000,0000,0000,,Tvoji testovi su neverovatni.\nU èemu je onda problem?
+Dialogue: 0,0:23:26.30,0:23:29.60,Default,,0000,0000,0000,,Voliš da budeš jedini\ngenije-ponavljaè na Srednjem Zapadu?
+Dialogue: 0,0:23:29.60,0:23:31.90,Default,,0000,0000,0000,,Možda baš to volim!\nVidi. Otac ti je poginuo.
+Dialogue: 0,0:23:32.30,0:23:34.70,Default,,0000,0000,0000,,Mogao bi da se zadovoljiš obiènim životom.
+Dialogue: 0,0:23:35.30,0:23:40.00,Default,,0000,0000,0000,,Ali ti oseæaš da ti je suðeno nešto bolje.\nNešto posebno!
+Dialogue: 0,0:23:42.60,0:23:45.70,Default,,0000,0000,0000,,Upiši se u Zvezdanu flotu!\nDa se upišem...?
+Dialogue: 0,0:23:46.60,0:23:49.50,Default,,0000,0000,0000,,Mora da su vam pali\nstandardi za regrutovanje.
+Dialogue: 0,0:23:49.60,0:23:51.00,Default,,0000,0000,0000,,Ako si pola èoveka\nkakav ti je otac bio Džime,
+Dialogue: 0,0:23:51.50,0:23:53.60,Default,,0000,0000,0000,,Zvezdanoj floti si potreban.
+Dialogue: 0,0:23:53.90,0:23:57.10,Default,,0000,0000,0000,,Možeš da postaneš oficir za 4 godine,\nmožeš da imaš svoj brod za 8.
+Dialogue: 0,0:23:59.00,0:24:02.00,Default,,0000,0000,0000,,Ti razumeš šta je Federacija?\nOna je važna.
+Dialogue: 0,0:24:02.30,0:24:05.70,Default,,0000,0000,0000,,Ona je miroljubiva, humana armada.\nJeste li završili?
+Dialogue: 0,0:24:06.40,0:24:09.10,Default,,0000,0000,0000,,Ja jesam!
+Dialogue: 0,0:24:12.10,0:24:16.20,Default,,0000,0000,0000,,Riversajd brodogradilište.\nŠatl sa novim regrutima polazi sutra u 08h
+Dialogue: 0,0:24:20.30,0:24:24.20,Default,,0000,0000,0000,,Tvoj otac je bio Kapetan broda 12 minuta.
+Dialogue: 0,0:24:24.60,0:24:29.40,Default,,0000,0000,0000,,Spasio je 800 života,\nukljuèujuæi tvoju majku i tebe.
+Dialogue: 0,0:24:30.30,0:24:33.50,Default,,0000,0000,0000,,Baš da vidim možeš li ti bolje od toga!
+Dialogue: 0,0:25:57.60,0:25:59.60,Default,,0000,0000,0000,,Dobar motor!
+Dialogue: 0,0:26:02.60,0:26:05.80,Default,,0000,0000,0000,,Tvoj je!\n4 godine! Uradiæu to za 3!
+Dialogue: 0,0:26:23.10,0:26:25.50,Default,,0000,0000,0000,,Voljno gospodo!
+Dialogue: 0,0:26:43.70,0:26:46.10,Default,,0000,0000,0000,,Nisam ti zapamtio ime!
+Dialogue: 0,0:26:46.70,0:26:49.90,Default,,0000,0000,0000,,Treba ti doktor.\nRekao sam da mi ne treba. Ja sam doktor!
+Dialogue: 0,0:26:50.40,0:26:53.00,Default,,0000,0000,0000,,Morate se vratiti na mesto!
+Dialogue: 0,0:26:53.90,0:26:57.90,Default,,0000,0000,0000,,Zbog vaše sigurnosti sedite\nili æu vas naterati.
+Dialogue: 0,0:27:01.70,0:27:04.30,Default,,0000,0000,0000,,Dobro!\nHvala vam!
+Dialogue: 0,0:27:05.00,0:27:07.40,Default,,0000,0000,0000,,<i><b>Govori Kapetan Pajk. Poleæemo.</b></i>
+Dialogue: 0,0:27:08.30,0:27:12.30,Default,,0000,0000,0000,,Možda se ispovraæam po tebi.\nMislim da su ove stvari prilièno bezbedne.
+Dialogue: 0,0:27:12.70,0:27:16.90,Default,,0000,0000,0000,,Ne teši me. Jedna mala rupa u trupu\ni krv nam prokljuèa za 13 sekundi.
+Dialogue: 0,0:27:17.40,0:27:20.20,Default,,0000,0000,0000,,Pojavi se solarna baklja\ni stopi nas sa sedištem.
+Dialogue: 0,0:27:20.70,0:27:23.10,Default,,0000,0000,0000,,Video bih da li bi bio tako opušten
+Dialogue: 0,0:27:23.60,0:27:26.30,Default,,0000,0000,0000,,kada ti oèi poènu da krvare.
+Dialogue: 0,0:27:27.00,0:27:30.20,Default,,0000,0000,0000,,Svemir je bolest i opasnost, tama i tišina.
+Dialogue: 0,0:27:30.80,0:27:33.80,Default,,0000,0000,0000,,Ne bih da ti kvarim ovo,\nali Zvezdana flota radi u svemiru!
+Dialogue: 0,0:27:34.40,0:27:38.80,Default,,0000,0000,0000,,Pa nemam gde da odem. Moja bivša žena\nmi je uzela celu planetu tokom razvoda.
+Dialogue: 0,0:27:39.80,0:27:42.30,Default,,0000,0000,0000,,Ostale su mi samo moje kosti.
+Dialogue: 0,0:27:47.30,0:27:51.60,Default,,0000,0000,0000,,Džim Kirk.\nMekoj. Lenard Mekoj!
+Dialogue: 0,0:28:10.80,0:28:14.40,Default,,0000,0000,0000,,<i><b>3 GODINE KASNIJE</b></i>
+Dialogue: 0,0:28:38.50,0:28:42.10,Default,,0000,0000,0000,,Kapetane Niro.\nTraže vas na Mostu.
+Dialogue: 0,0:28:42.70,0:28:44.90,Default,,0000,0000,0000,,Kažu da je vreme!
+Dialogue: 0,0:28:49.10,0:28:52.50,Default,,0000,0000,0000,,Gospodine. Stigli smo na\nkoordinate koje smo izraèunali.
+Dialogue: 0,0:28:53.00,0:28:55.70,Default,,0000,0000,0000,,Ovde nema nièega.\nŠta zapovedate?
+Dialogue: 0,0:28:56.20,0:29:00.70,Default,,0000,0000,0000,,Èekaæemo. Èekaæemo onoga\nkoji je dozvolio da nam unište dom.
+Dialogue: 0,0:29:01.60,0:29:04.90,Default,,0000,0000,0000,,Kao što radimo proteklih 25 godina.
+Dialogue: 0,0:29:05.40,0:29:08.20,Default,,0000,0000,0000,,A kada ga ubijemo?\nUbijemo?
+Dialogue: 0,0:29:08.60,0:29:12.50,Default,,0000,0000,0000,,Neæu da ga ubijem.\nNateraæu ga da gleda!
+Dialogue: 0,0:29:26.40,0:29:29.00,Default,,0000,0000,0000,,Uhvatite taj brod.
+Dialogue: 0,0:29:29.40,0:29:31.90,Default,,0000,0000,0000,,Dobrodošao nazad Spok!
+Dialogue: 0,0:29:35.20,0:29:37.40,Default,,0000,0000,0000,,Zašto si ti toliko sreæan?\nNe znam o èemu to govoriš?
+Dialogue: 0,0:29:37.80,0:29:40.30,Default,,0000,0000,0000,,Siguran sam da ne znaš.\nZdravo dame!
+Dialogue: 0,0:29:40.70,0:29:42.60,Default,,0000,0000,0000,,Polagaæu ispit ponovo.\nMora da se šališ.
+Dialogue: 0,0:29:43.00,0:29:45.30,Default,,0000,0000,0000,,Da sutra ujutru, i hoæu da budeš tamo!\nZnaš, imam pametnija posla da radim...
+Dialogue: 0,0:29:45.70,0:29:48.00,Default,,0000,0000,0000,,...umesto da gledam kako se blamiraš 3. put!
+Dialogue: 0,0:29:48.40,0:29:49.80,Default,,0000,0000,0000,,Ja sam doktor Džime. Zauzet sam.
+Dialogue: 0,0:29:50.20,0:29:51.70,Default,,0000,0000,0000,,Ne smeta ti to što niko\njoš nije uspeo da položi ispit
+Dialogue: 0,0:29:51.70,0:29:54.00,Default,,0000,0000,0000,,Nedostaje ti Kobajaši Maru.\nNiko ne može da položi taj ispit.
+Dialogue: 0,0:29:54.40,0:29:56.90,Default,,0000,0000,0000,,I niko se ne vraæa drugi put,\na kamoli treæi.
+Dialogue: 0,0:29:57.70,0:29:59.70,Default,,0000,0000,0000,,Moram da uèim!
+Dialogue: 0,0:30:00.20,0:30:02.40,Default,,0000,0000,0000,,Uèiš malo sutra!
+Dialogue: 0,0:30:04.80,0:30:07.60,Default,,0000,0000,0000,,Džime, mislim da te volim!
+Dialogue: 0,0:30:08.20,0:30:11.20,Default,,0000,0000,0000,,To je tako uvrnuto.\nSvetla!
+Dialogue: 0,0:30:12.60,0:30:14.90,Default,,0000,0000,0000,,Da li si upravo rekao da je to uvrnuto?\nDa, ali...
+Dialogue: 0,0:30:15.30,0:30:17.90,Default,,0000,0000,0000,,Ti mene ne voliš?\nTo mi je cimerka.
+Dialogue: 0,0:30:18.30,0:30:20.90,Default,,0000,0000,0000,,Šta? Zar nisi rekla da je izašla veèeras?\nOèigledno nije. Idi ispod kreveta!
+Dialogue: 0,0:30:21.80,0:30:24.50,Default,,0000,0000,0000,,Samo idi... Požuri ne sme da te vidi ovde.\nZašto?
+Dialogue: 0,0:30:25.10,0:30:27.10,Default,,0000,0000,0000,,Zato što sam joj obeæala da æu\nprestati da dovodim momke.
+Dialogue: 0,0:30:27.60,0:30:30.20,Default,,0000,0000,0000,,Pa koliko si ih dovela...?\nDole. Sagni se dole.
+Dialogue: 0,0:30:32.30,0:30:34.00,Default,,0000,0000,0000,,Hej.\nHej. Kako si!
+Dialogue: 0,0:30:34.80,0:30:38.10,Default,,0000,0000,0000,,Èudna stvar. Bila sam u\nlaboratoriji dalekometnih senzora.
+Dialogue: 0,0:30:38.40,0:30:41.30,Default,,0000,0000,0000,,Mislila sam da æeš tamo biti celo veèe?
+Dialogue: 0,0:30:42.30,0:30:44.70,Default,,0000,0000,0000,,Pratila sam Sunèev sistem\ni uhvatila sam hitnu poruku.
+Dialogue: 0,0:30:45.10,0:30:48.70,Default,,0000,0000,0000,,Stvarno?\nDa. Od Klingonskog zatvora.
+Dialogue: 0,0:30:49.20,0:30:52.40,Default,,0000,0000,0000,,Ne.\nKlingonska armada je uništena. 47 brodova!
+Dialogue: 0,0:30:53.00,0:30:56.00,Default,,0000,0000,0000,,Znaèi ne vraæaš se u laboratoriju veèeras?
+Dialogue: 0,0:30:59.20,0:31:01.10,Default,,0000,0000,0000,,Gejla ko je on?\nKo je ko?
+Dialogue: 0,0:31:01.50,0:31:03.60,Default,,0000,0000,0000,,Taj što dahæe pod krevetom!
+Dialogue: 0,0:31:03.60,0:31:06.00,Default,,0000,0000,0000,,Èula si me kako dišem?\nTi!
+Dialogue: 0,0:31:06.30,0:31:08.30,Default,,0000,0000,0000,,Imam važan dan sutra.\nPašæeš na ispitu!
+Dialogue: 0,0:31:08.70,0:31:10.20,Default,,0000,0000,0000,,Gejla vidimo se.\nIzlazi napolje!
+Dialogue: 0,0:31:10.50,0:31:12.30,Default,,0000,0000,0000,,Ako položim hoæeš li mi reæi svoje ime?\nNe! Laku noæ.
+Dialogue: 0,0:31:12.70,0:31:16.00,Default,,0000,0000,0000,,Mislim da je to što si uhvatila\nporuku bilo jako uzbudljivo.
+Dialogue: 0,0:31:17.80,0:31:20.80,Default,,0000,0000,0000,,Primamo poziv za pomoæ\nod USS Kobajaši Maru.
+Dialogue: 0,0:31:21.20,0:31:23.10,Default,,0000,0000,0000,,Brod je bez napajanja i nepomièan je.
+Dialogue: 0,0:31:23.60,0:31:25.10,Default,,0000,0000,0000,,Zvezdana flota nam je\nnaredila da ga spasemo.
+Dialogue: 0,0:31:25.50,0:31:28.80,Default,,0000,0000,0000,,Zvezdana flota nam je\nnaredila da ga spasemo. Kapetane!
+Dialogue: 0,0:31:31.70,0:31:34.70,Default,,0000,0000,0000,,Dve klingonske letelice su ušle u\nNeutralnu zonu i ciljaju nas oružjem.
+Dialogue: 0,0:31:35.20,0:31:37.70,Default,,0000,0000,0000,,To je u redu.\nTo je u redu?
+Dialogue: 0,0:31:39.50,0:31:43.60,Default,,0000,0000,0000,,Je li on to rekao da ne brinu?\nOn ovu simulaciju ne shvata ozbiljno?
+Dialogue: 0,0:31:44.10,0:31:46.70,Default,,0000,0000,0000,,Još 2 klingonske Ratne ptice\nse otkrivaju i nišane naš brod.
+Dialogue: 0,0:31:47.20,0:31:49.60,Default,,0000,0000,0000,,Pretpostavljam da i ovo nije problem?\nPucaju Kapetane!
+Dialogue: 0,0:31:50.10,0:31:53.80,Default,,0000,0000,0000,,Obavestite Bolnicu da se spremi\nda primi svu posadu sa ošteæenog broda!
+Dialogue: 0,0:31:54.20,0:31:58.20,Default,,0000,0000,0000,,A kako mislite da ih spasite kada\nsmo okruženi Klingoncima, Kapetane!
+Dialogue: 0,0:31:58.70,0:32:01.00,Default,,0000,0000,0000,,Obavestite Bolnicu.
+Dialogue: 0,0:32:02.20,0:32:04.80,Default,,0000,0000,0000,,Napadaju brod. Štitovi na 60%
+Dialogue: 0,0:32:05.20,0:32:08.50,Default,,0000,0000,0000,,Zar ne bi trebali da...\nUzvratimo vatru?
+Dialogue: 0,0:32:08.90,0:32:11.80,Default,,0000,0000,0000,,Ne!\nNaravno da ne.
+Dialogue: 0,0:32:18.00,0:32:20.60,Default,,0000,0000,0000,,Šta je ovo?\nŠta se dogadja?
+Dialogue: 0,0:32:23.90,0:32:25.90,Default,,0000,0000,0000,,Naoružajte fotonska torpeda.\nSpremite se da pucate na klingonski brod!
+Dialogue: 0,0:32:26.40,0:32:28.30,Default,,0000,0000,0000,,Razumem gospodine!\nDžime, štitovi su im i dalje podignuti!
+Dialogue: 0,0:32:28.70,0:32:30.40,Default,,0000,0000,0000,,Zar jesu?
+Dialogue: 0,0:32:31.40,0:32:35.00,Default,,0000,0000,0000,,Ne, nisu!\nPucajte na sve neprijateljske brodove.
+Dialogue: 0,0:32:35.60,0:32:37.90,Default,,0000,0000,0000,,Jedan torpedo je dovoljan.\nNe treba trošiti municiju.
+Dialogue: 0,0:32:38.40,0:32:40.40,Default,,0000,0000,0000,,Naciljane su sve Ratne ptice\nPucamo!
+Dialogue: 0,0:32:45.90,0:32:48.40,Default,,0000,0000,0000,,Svi brodovi su uništeni Kapetane.\nPoènite sa spašavanjem posade!
+Dialogue: 0,0:32:48.90,0:32:51.80,Default,,0000,0000,0000,,Znaèi. Uspeli smo da uništimo\nsve neprijateljske brodove.
+Dialogue: 0,0:32:52.30,0:32:53.80,Default,,0000,0000,0000,,Niko na brodu nije povredjen.
+Dialogue: 0,0:32:54.30,0:32:57.10,Default,,0000,0000,0000,,I uspešno spašavanje posade Kobajaši Marua,
+Dialogue: 0,0:32:57.50,0:33:00.10,Default,,0000,0000,0000,,je upravo u toku!
+Dialogue: 0,0:33:03.90,0:33:06.50,Default,,0000,0000,0000,,Kako je taj klinac pobedio tvoj test?
+Dialogue: 0,0:33:09.20,0:33:12.10,Default,,0000,0000,0000,,Ne znam!
+Dialogue: 0,0:33:12.50,0:33:14.80,Default,,0000,0000,0000,,Ovaj sastanak je sazvan da bi\nse rešila jedna problematièna stvar.
+Dialogue: 0,0:33:15.50,0:33:17.90,Default,,0000,0000,0000,,Džejmse T Kirk istupite!
+Dialogue: 0,0:33:19.60,0:33:22.60,Default,,0000,0000,0000,,Kadete Kirk, dokazi su priloženi\novom Savetu koji govore
+Dialogue: 0,0:33:23.20,0:33:26.00,Default,,0000,0000,0000,,da ste prekršili etièko\npravilo ponašanja a tièe se
+Dialogue: 0,0:33:26.40,0:33:28.80,Default,,0000,0000,0000,,propisa 143 Pravilnika Zvezdane flote.
+Dialogue: 0,0:33:29.70,0:33:32.70,Default,,0000,0000,0000,,Želite li nešto da kažete\npre nego što požnemo?
+Dialogue: 0,0:33:34.00,0:33:37.60,Default,,0000,0000,0000,,Da. Mislim da imam pravo da\nse suoèim sa tužiocem direktno.
+Dialogue: 0,0:33:42.10,0:33:44.10,Default,,0000,0000,0000,,Istupite molim vas.
+Dialogue: 0,0:33:44.50,0:33:47.70,Default,,0000,0000,0000,,Ovo je komandir Spok, on je\njedan od naših najboljih diplomaca.
+Dialogue: 0,0:33:48.30,0:33:51.50,Default,,0000,0000,0000,,On je programer Kobajaši\nMaru ispita veæ 4 godine.
+Dialogue: 0,0:33:54.40,0:33:57.10,Default,,0000,0000,0000,,Komandire!\nKadete Kirk, nekako ste uspeli
+Dialogue: 0,0:33:57.50,0:33:59.30,Default,,0000,0000,0000,,da instalirate i aktivirate\npodprogram koji je
+Dialogue: 0,0:33:59.70,0:34:02.30,Default,,0000,0000,0000,,izmenio uslove u kojima se ispit odvija.
+Dialogue: 0,0:34:03.40,0:34:06.60,Default,,0000,0000,0000,,Poenta je...?\nAkademski reèeno. Varali ste!
+Dialogue: 0,0:34:08.90,0:34:12.50,Default,,0000,0000,0000,,Da i ja vas nešto pitam,\niako svi znamo odgovora na to.
+Dialogue: 0,0:34:13.20,0:34:17.30,Default,,0000,0000,0000,,Sam test je varanje, zar ne?\nProgramirali ste ga da ne može da se pobedi!
+Dialogue: 0,0:34:17.70,0:34:19.60,Default,,0000,0000,0000,,Vaš argument isljuèuje\nscenario koji se ne može dobiti!
+Dialogue: 0,0:34:20.10,0:34:22.20,Default,,0000,0000,0000,,Ja ne verujem u takva scenarija.
+Dialogue: 0,0:34:22.60,0:34:24.40,Default,,0000,0000,0000,,Onda ne samo što ste prekršili pravila,
+Dialogue: 0,0:34:24.80,0:34:26.00,Default,,0000,0000,0000,,veæ niste ni uspeli da\nshvatite osnovnu poentu.
+Dialogue: 0,0:34:26.40,0:34:27.90,Default,,0000,0000,0000,,Molim vas. Prosvetlite me!
+Dialogue: 0,0:34:28.40,0:34:30.10,Default,,0000,0000,0000,,Od svih Ijudi, vi bi trebalo\nda znate kadete Kirk.
+Dialogue: 0,0:34:30.50,0:34:32.60,Default,,0000,0000,0000,,Kapetan ne može da prevari smrt
+Dialogue: 0,0:34:35.00,0:34:36.50,Default,,0000,0000,0000,,Ja od svih Ijudi.
+Dialogue: 0,0:34:36.90,0:34:39.70,Default,,0000,0000,0000,,Vaš otac. Poruènik Džordž Kirk\npreuzeo je komandu nad brodom
+Dialogue: 0,0:34:40.10,0:34:41.80,Default,,0000,0000,0000,,pre nego što je poginuo u akciji, zar ne?
+Dialogue: 0,0:34:42.20,0:34:43.90,Default,,0000,0000,0000,,Mislim da vam se ne dopada\nèinjenica da sam vam pobedio test.
+Dialogue: 0,0:34:44.30,0:34:45.90,Default,,0000,0000,0000,,Niste uspeli da shvatite šta je svrha testa!
+Dialogue: 0,0:34:46.30,0:34:48.80,Default,,0000,0000,0000,,Prosvetlite me ponovo!\nSvrha je da se iskusi strah!
+Dialogue: 0,0:34:50.10,0:34:52.30,Default,,0000,0000,0000,,Strah pred suoèavanje sa sigurnom smræu
+Dialogue: 0,0:34:52.60,0:34:55.90,Default,,0000,0000,0000,,Prihvatanje tog straha i zadržavanje\nkontrole nad sobom i posadom.
+Dialogue: 0,0:34:56.70,0:34:59.50,Default,,0000,0000,0000,,Ova se osobina oèekuje od\nsvakog kapetana u Zvezdanoj floti!
+Dialogue: 0,0:35:02.80,0:35:05.10,Default,,0000,0000,0000,,Izvinite gospodine.
+Dialogue: 0,0:35:10.50,0:35:13.20,Default,,0000,0000,0000,,Primili smo poziv za pomoæ sa Vulkana.
+Dialogue: 0,0:35:13.70,0:35:16.20,Default,,0000,0000,0000,,Pošto je naša primarna flota\nangažovana u Lorentijanskom sistemu
+Dialogue: 0,0:35:16.60,0:35:19.80,Default,,0000,0000,0000,,nareðujem svim kadetima\nda se prijave u hangar 1 odmah!
+Dialogue: 0,0:35:27.60,0:35:30.40,Default,,0000,0000,0000,,Ko je bio taj sa zašiljenim ušima?\nNe znam, ali mi se dopada!
+Dialogue: 0,0:35:48.20,0:35:50.30,Default,,0000,0000,0000,,Nije prozvao moje ime!
+Dialogue: 0,0:35:51.00,0:35:54.40,Default,,0000,0000,0000,,Komandire!\nNiste prozvali moje ime!
+Dialogue: 0,0:35:55.00,0:35:57.20,Default,,0000,0000,0000,,Zovem se Kirk, Džejms T.\nKirk ti si pod suspenzijom.
+Dialogue: 0,0:35:57.50,0:36:01.10,Default,,0000,0000,0000,,To znaèi da ne ideš nikuda\ndok Odbor Akademije ne odluèi.
+Dialogue: 0,0:36:03.80,0:36:08.20,Default,,0000,0000,0000,,Džime Odbor æe presuditi\nu tvoju korist. Najverovatnije!
+Dialogue: 0,0:36:09.70,0:36:12.50,Default,,0000,0000,0000,,Džime, moram da idem.
+Dialogue: 0,0:36:12.90,0:36:15.90,Default,,0000,0000,0000,,Da...\nMožeš da ideš. Èuvaj se!
+Dialogue: 0,0:36:23.50,0:36:25.90,Default,,0000,0000,0000,,Izvinite.\nDa svakako.
+Dialogue: 0,0:36:30.40,0:36:32.10,Default,,0000,0000,0000,,Doðavola!
+Dialogue: 0,0:36:33.90,0:36:35.70,Default,,0000,0000,0000,,Poði samnom!
+Dialogue: 0,0:36:36.20,0:36:39.20,Default,,0000,0000,0000,,Uhura ideš na USS Faragot\nPetrovski USS Intauers
+Dialogue: 0,0:36:39.60,0:36:41.90,Default,,0000,0000,0000,,Javite se na položaje i sreæno!
+Dialogue: 0,0:36:45.00,0:36:47.40,Default,,0000,0000,0000,,Gde idemo?\nVideæeš!
+Dialogue: 0,0:36:49.60,0:36:51.20,Default,,0000,0000,0000,,Komandire možemo li da prièamo?\nDa poruènice!
+Dialogue: 0,0:36:51.60,0:36:52.90,Default,,0000,0000,0000,,Zar ja nisam bila jedna od\nvaših najboljih studenata?
+Dialogue: 0,0:36:53.40,0:36:55.70,Default,,0000,0000,0000,,Zaista jeste!\nI nisam li više puta demonstrirala...
+Dialogue: 0,0:36:56.00,0:36:58.00,Default,,0000,0000,0000,,izuzetnu predanost poslu i citiram:
+Dialogue: 0,0:36:58.30,0:37:00.70,Default,,0000,0000,0000,,Neverovatnu sposobnost identifikacije...
+Dialogue: 0,0:37:01.20,0:37:03.50,Default,,0000,0000,0000,,soniènih anomalija emitovanih\nna podprostornim frekvencijama!
+Dialogue: 0,0:37:03.50,0:37:04.90,Default,,0000,0000,0000,,Doslovno reèeno DA!
+Dialogue: 0,0:37:05.40,0:37:08.10,Default,,0000,0000,0000,,lako ste znali da želim da\nslužim na USS Enterprajzu...
+Dialogue: 0,0:37:08.60,0:37:10.70,Default,,0000,0000,0000,,Dobila sam službu na Faragotu?
+Dialogue: 0,0:37:10.90,0:37:13.60,Default,,0000,0000,0000,,To je uraðeno da bi se izbegao\nutisak da te favorizujem!
+Dialogue: 0,0:37:14.00,0:37:16.30,Default,,0000,0000,0000,,Ne, dobila sam službu na Enterprajzu!
+Dialogue: 0,0:37:20.20,0:37:22.70,Default,,0000,0000,0000,,Da, mislim da jeste!\nHvala vam!
+Dialogue: 0,0:37:23.70,0:37:25.70,Default,,0000,0000,0000,,Šta to radiš?\nÈinim ti uslugu.
+Dialogue: 0,0:37:26.10,0:37:28.50,Default,,0000,0000,0000,,Nisam mogao samo da te\nostavim tako patetiènog. Sedi!
+Dialogue: 0,0:37:28.90,0:37:32.10,Default,,0000,0000,0000,,Dajem ti vakcinu protiv virusne infekcije\nmilvaranskih buva!
+Dialogue: 0,0:37:34.00,0:37:36.10,Default,,0000,0000,0000,,Zašto?\nDa bi dobio presudu!
+Dialogue: 0,0:37:36.50,0:37:38.90,Default,,0000,0000,0000,,O èemu to govoriš?\nPoæeèeš da gubiš vid u levom oku.
+Dialogue: 0,0:37:39.40,0:37:42.50,Default,,0000,0000,0000,,Veæ sam izgubio.\nDobiæeš i jaku glavobolju i groznicu.
+Dialogue: 0,0:37:43.50,0:37:46.40,Default,,0000,0000,0000,,Tebi je ovo usluga?\nDa, dužan si mi za ovo!
+Dialogue: 0,0:37:47.80,0:37:50.20,Default,,0000,0000,0000,,Kirk, Džejms T.
+Dialogue: 0,0:37:50.70,0:37:52.60,Default,,0000,0000,0000,,On nije dobio dužnost na Enterprajzu.
+Dialogue: 0,0:37:53.00,0:37:55.70,Default,,0000,0000,0000,,Medicinska pravila nalažu da transport\ni naèin leèenja pascijenta odreðuje...
+Dialogue: 0,0:37:56.20,0:37:59.30,Default,,0000,0000,0000,,njegov lekar. Što sam u ovom sluèaju JA.
+Dialogue: 0,0:37:59.60,0:38:01.50,Default,,0000,0000,0000,,Zato ja vodim gospodina Kirka na brod.
+Dialogue: 0,0:38:01.90,0:38:04.10,Default,,0000,0000,0000,,Ili bi ste vi voleli da\nobjasnite Kapetanu Pajku...
+Dialogue: 0,0:38:04.50,0:38:08.30,Default,,0000,0000,0000,,zašto je Enterprajz otišao, bez\nnjihovog višeg medicinskog oficira?
+Dialogue: 0,0:38:08.90,0:38:11.60,Default,,0000,0000,0000,,Proðite!
+Dialogue: 0,0:38:30.20,0:38:33.40,Default,,0000,0000,0000,,Povratiæu po tebi!\nDžime moraš ovo da vidiš.
+Dialogue: 0,0:38:34.90,0:38:37.40,Default,,0000,0000,0000,,Džime?\nŠta je!
+Dialogue: 0,0:39:33.80,0:39:35.70,Default,,0000,0000,0000,,Moraš da se presvuèeš!
+Dialogue: 0,0:39:36.10,0:39:38.30,Default,,0000,0000,0000,,Ne oseæam se dobro.
+Dialogue: 0,0:39:38.30,0:39:40.80,Default,,0000,0000,0000,,Evo onog sa šiljatim ušima.
+Dialogue: 0,0:39:57.70,0:39:59.10,Default,,0000,0000,0000,,Gospodine Spok!
+Dialogue: 0,0:39:59.50,0:40:02.50,Default,,0000,0000,0000,,Kapetane. Pogon javlja da\nsu spremni za lansiranje.
+Dialogue: 0,0:40:02.90,0:40:06.20,Default,,0000,0000,0000,,Dame i gospodo. Prvo putovanje\nnašeg novog predvodnog broda
+Dialogue: 0,0:40:06.70,0:40:09.20,Default,,0000,0000,0000,,zaslužuje veæe slavlje, koje ne\nmožemo da priuštimo danas.
+Dialogue: 0,0:40:09.70,0:40:12.30,Default,,0000,0000,0000,,Krštenje broda biæe nam\nnagrada za sretan povratak.
+Dialogue: 0,0:40:12.80,0:40:14.10,Default,,0000,0000,0000,,Nastavite.
+Dialogue: 0,0:40:14.60,0:40:17.30,Default,,0000,0000,0000,,Svim palubama govori Kapetan Pajk.\nPripremite se za polazak.
+Dialogue: 0,0:40:17.90,0:40:20.30,Default,,0000,0000,0000,,Pali potisnike.\nMost je uvuèen Kapetane. Sve je spremno.
+Dialogue: 0,0:40:20.80,0:40:23.70,Default,,0000,0000,0000,,Palimo potisnike.\nOdvajamo se od svemirskog doka!
+Dialogue: 0,0:40:32.80,0:40:35.60,Default,,0000,0000,0000,,Flota se odvojila od doka Kapetane.\nSvi brodovi su spremni!
+Dialogue: 0,0:40:36.10,0:40:38.50,Default,,0000,0000,0000,,Unesite kurs prema Vulkanu!\nRazumem.
+Dialogue: 0,0:40:39.10,0:40:41.10,Default,,0000,0000,0000,,Kurs unesen.
+Dialogue: 0,0:40:41.70,0:40:44.00,Default,,0000,0000,0000,,Maksimalnim vorpom.\nNagazi ga!
+Dialogue: 0,0:41:01.00,0:41:04.00,Default,,0000,0000,0000,,Poruènièe gde je Kormilar Mekena?\nBolestan je.
+Dialogue: 0,0:41:04.50,0:41:07.10,Default,,0000,0000,0000,,Nije mogao da se javi na dužnost\nJa sam Hikaru Sulu.
+Dialogue: 0,0:41:07.50,0:41:10.70,Default,,0000,0000,0000,,A ti si pilot, zar ne?\nNaravno, gospodine.
+Dialogue: 0,0:41:11.80,0:41:14.10,Default,,0000,0000,0000,,Nisam siguran šta nije u redu ovde.
+Dialogue: 0,0:41:14.60,0:41:16.90,Default,,0000,0000,0000,,Da li nam je spuštena ruèna koènica?\nJeste.
+Dialogue: 0,0:41:17.30,0:41:18.60,Default,,0000,0000,0000,,Otkriæu o æemu se radi, samo...
+Dialogue: 0,0:41:19.00,0:41:21.60,Default,,0000,0000,0000,,Da li ste iskljuèili spoljne\ninercione prigušivaèe?
+Dialogue: 0,0:41:25.80,0:41:28.60,Default,,0000,0000,0000,,Spremni smo gospodine!\nNagazi ga!
+Dialogue: 0,0:41:35.20,0:41:36.80,Default,,0000,0000,0000,,Gde smo?\nU Bolnici.
+Dialogue: 0,0:41:37.20,0:41:39.50,Default,,0000,0000,0000,,Ovo je najgori dan...\nMalo bola nije ništa...
+Dialogue: 0,0:41:41.10,0:41:44.20,Default,,0000,0000,0000,,Sve me svrbi. Jel to normalno?\nTi simptomi ne traju dugo.
+Dialogue: 0,0:41:44.60,0:41:46.50,Default,,0000,0000,0000,,Daæu ti blagi sedativ.
+Dialogue: 0,0:41:46.90,0:41:49.30,Default,,0000,0000,0000,,Voleo bih da te nisam upoznao.\nNe budi dete.
+Dialogue: 0,0:41:51.10,0:41:53.10,Default,,0000,0000,0000,,Koliko bi ovo trebalo...
+Dialogue: 0,0:41:53.50,0:41:55.10,Default,,0000,0000,0000,,Neverovatno!
+Dialogue: 0,0:41:55.70,0:41:57.20,Default,,0000,0000,0000,,Motori su na maksimumu.
+Dialogue: 0,0:41:57.60,0:41:59.80,Default,,0000,0000,0000,,Ruski narednièe kako se zovete?\nÈenkov, Èirpov...?
+Dialogue: 0,0:42:00.20,0:42:02.50,Default,,0000,0000,0000,,Narednik Èehov.\nPavel Andrejeviè
+Dialogue: 0,0:42:02.90,0:42:05.70,Default,,0000,0000,0000,,Dobro Èehove poèni da\nemituješ ostalim brodovima.
+Dialogue: 0,0:42:06.10,0:42:08.00,Default,,0000,0000,0000,,Da gospodine. Odmah!
+Dialogue: 0,0:42:08.30,0:42:12.40,Default,,0000,0000,0000,,Unosim kod 95-VV2
+Dialogue: 0,0:42:12.40,0:42:14.30,Default,,0000,0000,0000,,<i><b>Kod nije prepoznat</b></i>
+Dialogue: 0,0:42:14.90,0:42:19.10,Default,,0000,0000,0000,,Unesi kod 95-VV2
+Dialogue: 0,0:42:21.30,0:42:23.40,Default,,0000,0000,0000,,<i><b>Kod odobren</b></i>
+Dialogue: 0,0:42:23.50,0:42:26.00,Default,,0000,0000,0000,,Molim vas za pažnju!
+Dialogue: 0,0:42:26.60,0:42:31.50,Default,,0000,0000,0000,,U 2200h, telemetrija je otkrila\nanomaliju u Neutralnoj zoni!
+Dialogue: 0,0:42:32.10,0:42:35.50,Default,,0000,0000,0000,,Nešto što se èini kao\nelektrièna oluja u svemiru!
+Dialogue: 0,0:42:36.00,0:42:40.40,Default,,0000,0000,0000,,Nedugo zatim, Zvezdana flota je primila\npoziva za pomoæ o vulkanske Vrhovne komande.
+Dialogue: 0,0:42:40.90,0:42:44.40,Default,,0000,0000,0000,,Da je pojaèana seizmièka\naktivnost njihove planete.
+Dialogue: 0,0:42:44.80,0:42:48.20,Default,,0000,0000,0000,,Naš zadatak je da procenimo\nsituaciju na Vulkanu,
+Dialogue: 0,0:42:48.60,0:42:52.00,Default,,0000,0000,0000,,i pomognemo u evakuaciji\nukoliko je neophodno.
+Dialogue: 0,0:42:52.50,0:42:57.70,Default,,0000,0000,0000,,Trebalo bi da stignemo na Vulkan\nza 3 minute. Hvala vam na vremenu.
+Dialogue: 0,0:42:58.90,0:43:02.00,Default,,0000,0000,0000,,Treba mi jaèi lek.\nDžime, budan si.
+Dialogue: 0,0:43:02.50,0:43:04.80,Default,,0000,0000,0000,,Kako se oseæaš?
+Dialogue: 0,0:43:05.30,0:43:07.60,Default,,0000,0000,0000,,Blagi Bože!\nŠta...?
+Dialogue: 0,0:43:09.60,0:43:12.40,Default,,0000,0000,0000,,Šta je ovo?\nReakcija na vakcinu.
+Dialogue: 0,0:43:13.20,0:43:15.10,Default,,0000,0000,0000,,<i><b>Potrebno mi je 30 cc Kordazina\nDa gospodine!</b></i>
+Dialogue: 0,0:43:18.80,0:43:22.20,Default,,0000,0000,0000,,...izgleda kao elektrièna\noluja u svemiru...
+Dialogue: 0,0:43:22.80,0:43:24.50,Default,,0000,0000,0000,,Moramo da zaustavimo brod!
+Dialogue: 0,0:43:24.90,0:43:27.40,Default,,0000,0000,0000,,Džime ne šalim se, moraš da se vratiš.
+Dialogue: 0,0:43:28.10,0:43:29.80,Default,,0000,0000,0000,,Kompjuteru lociraj poruènicu Uhuru.
+Dialogue: 0,0:43:30.20,0:43:32.40,Default,,0000,0000,0000,,Nisam video ovakvu reakciju\njoš od medicinske škole!
+Dialogue: 0,0:43:32.50,0:43:34.80,Default,,0000,0000,0000,,Dobro sam.\nDoðavola Džime budi miran.
+Dialogue: 0,0:43:36.70,0:43:38.60,Default,,0000,0000,0000,,Prekini!
+Dialogue: 0,0:43:46.80,0:43:49.10,Default,,0000,0000,0000,,Uhura...\nKirk. Šta to radiš...?
+Dialogue: 0,0:43:49.50,0:43:52.30,Default,,0000,0000,0000,,Poruka iz klingonskog zatvora...\nŠta ti je to sa rukama?
+Dialogue: 0,0:43:53.50,0:43:56.70,Default,,0000,0000,0000,,Ko je odgovoran za klingonski\nnapad i je li brod bio romulanski?
+Dialogue: 0,0:43:57.20,0:43:59.40,Default,,0000,0000,0000,,Je li brod bio... šta?\nŠta mi se dešava sa ustima?
+Dialogue: 0,0:43:59.80,0:44:02.40,Default,,0000,0000,0000,,Utrnuo ti je jezik?\nMogu to da sredim!
+Dialogue: 0,0:44:02.80,0:44:05.60,Default,,0000,0000,0000,,Je li brod bio... šta?\nRomulanski?
+Dialogue: 0,0:44:06.20,0:44:08.30,Default,,0000,0000,0000,,Romulanski?\nDa!
+Dialogue: 0,0:44:43.80,0:44:47.10,Default,,0000,0000,0000,,Kapetane Niro. Sedam federacijskih\nbrodova je na putu ovamo!
+Dialogue: 0,0:44:49.20,0:44:51.20,Default,,0000,0000,0000,,Džime! Šta se dogaða?\nDžime vrati se ovamo!
+Dialogue: 0,0:44:51.70,0:44:54.10,Default,,0000,0000,0000,,Kapetane! Kapetane Pajk\nmorate zaustaviti brod!
+Dialogue: 0,0:44:54.60,0:44:56.80,Default,,0000,0000,0000,,Kirk. Kako si ti dospeo na Enterprajz?
+Dialogue: 0,0:44:57.20,0:44:59.80,Default,,0000,0000,0000,,Gospodine, ovaj èovek ima\nozbiljnu reakciju, potpuno je van sebe...
+Dialogue: 0,0:45:00.90,0:45:04.90,Default,,0000,0000,0000,,Na Vulkanu nema prirodne katastrofe,\nveæ ga napadaju Romulanci!
+Dialogue: 0,0:45:05.30,0:45:08.20,Default,,0000,0000,0000,,Romulanci? Kadete Kirk\ndosta je bilo za danas!
+Dialogue: 0,0:45:08.70,0:45:11.00,Default,,0000,0000,0000,,Mekoj vratite ga u Bolnicu,\npoprièaæemo kasnije...
+Dialogue: 0,0:45:11.10,0:45:13.10,Default,,0000,0000,0000,,Gospodine, ta ista anomalija...
+Dialogue: 0,0:45:13.60,0:45:16.40,Default,,0000,0000,0000,,Gospodin Kirk ne bi trebao\nda je na ovom brodu.
+Dialogue: 0,0:45:17.60,0:45:20.70,Default,,0000,0000,0000,,Gospodine mogu ga ukloniti sa Mosta!\nPokušaj! Pokušavam da spasim Most
+Dialogue: 0,0:45:21.10,0:45:24.00,Default,,0000,0000,0000,,Tako što æete zaustaviti brod\ntokom misije spašavanja?
+Dialogue: 0,0:45:24.50,0:45:26.90,Default,,0000,0000,0000,,Ovo nije misija spašavanja, veæ napad!\nNa osnovu kojih èinjenica?
+Dialogue: 0,0:45:29.20,0:45:32.00,Default,,0000,0000,0000,,Ta ista anomalija, elektrièna oluja u\nsvemiru koju smo videli danas...
+Dialogue: 0,0:45:32.40,0:45:35.40,Default,,0000,0000,0000,,takoðe se pojavila na dan moga roðenja,\nkada je romulanski brod...
+Dialogue: 0,0:45:35.80,0:45:39.10,Default,,0000,0000,0000,,napao USS Kelvin. Znate to gospodine.\nProèitao sam vašu disertaciju.
+Dialogue: 0,0:45:39.60,0:45:43.60,Default,,0000,0000,0000,,Taj brod je imao napredno\noružje i nikada više nije viðen.
+Dialogue: 0,0:45:44.00,0:45:46.90,Default,,0000,0000,0000,,Kelvin je napadnut na ivici\nklingonskog prostora i u 2300h sinoæ...
+Dialogue: 0,0:45:47.40,0:45:52.20,Default,,0000,0000,0000,,...desio se napad. 47 klingonskih\nRatnih ptica su uništili Romulanci.
+Dialogue: 0,0:45:52.60,0:45:55.80,Default,,0000,0000,0000,,Javljeno je da su Romulanci\nbili u jednom ogromnom brodu!
+Dialogue: 0,0:45:56.30,0:45:58.80,Default,,0000,0000,0000,,A kako ti znaš za taj napad na Klingonce?
+Dialogue: 0,0:46:01.00,0:46:05.80,Default,,0000,0000,0000,,Gospodine, ja sam presrela i prevela poruku!\nKirkov izveštaj je taèan.
+Dialogue: 0,0:46:06.30,0:46:10.20,Default,,0000,0000,0000,,Idemo u zamku. Romulanci\nnas èekaju, siguran sam.
+Dialogue: 0,0:46:11.00,0:46:13.50,Default,,0000,0000,0000,,Kadetova logika je utemeljena.
+Dialogue: 0,0:46:13.90,0:46:17.80,Default,,0000,0000,0000,,Uhura je najbolja u zino-lingvistici.\nBilo bi mudro prihvatiti njene zakljuèke.
+Dialogue: 0,0:46:18.20,0:46:20.80,Default,,0000,0000,0000,,Skenirajte vuklanski prostor. Proverite ima\nli kakvih poruka na Romulanskom.
+Dialogue: 0,0:46:21.30,0:46:24.30,Default,,0000,0000,0000,,Gospodine, nisam siguran da mogu da\nrazlikujem Romulanski jezik od Vulkanskog!
+Dialogue: 0,0:46:24.60,0:46:26.60,Default,,0000,0000,0000,,A ti? Da li govoriš Romulanski, kadete?\nUhura!
+Dialogue: 0,0:46:27.00,0:46:29.90,Default,,0000,0000,0000,,Sva tri dijalekta.\nUhura preuzmi mesto od poruènika!
+Dialogue: 0,0:46:30.40,0:46:32.90,Default,,0000,0000,0000,,Da gospodine!\nPozovite USS Truman.
+Dialogue: 0,0:46:33.30,0:46:34.90,Default,,0000,0000,0000,,Svi brodovi su van vorpa,\ni stigli su na Vulkan,
+Dialogue: 0,0:46:35.30,0:46:38.00,Default,,0000,0000,0000,,ali smo izgubili kontakt sa njima.
+Dialogue: 0,0:46:38.50,0:46:42.30,Default,,0000,0000,0000,,Ne primam nikakav romulanski signal,\nniti bilo kakav signal iz podruèja.
+Dialogue: 0,0:46:42.70,0:46:45.10,Default,,0000,0000,0000,,To je zato što su napadnuti!
+Dialogue: 0,0:46:48.90,0:46:51.50,Default,,0000,0000,0000,,Diži štitove. Na borbene položaje!
+Dialogue: 0,0:46:52.80,0:46:55.00,Default,,0000,0000,0000,,Stižemo na Vulkan za 5 sekundi.
+Dialogue: 0,0:46:55.40,0:46:56.20,Default,,0000,0000,0000,,<b>4...</b>
+Dialogue: 0,0:46:56.50,0:46:57.50,Default,,0000,0000,0000,,<b>3...</b>
+Dialogue: 0,0:46:57.80,0:46:59.10,Default,,0000,0000,0000,,<b>2...</b>
+Dialogue: 0,0:47:00.10,0:47:02.60,Default,,0000,0000,0000,,Hitno izbegavanje...
+Dialogue: 0,0:47:10.10,0:47:12.30,Default,,0000,0000,0000,,Izašli smo iz vorpa\nŠtitovi drže!
+Dialogue: 0,0:47:12.70,0:47:15.00,Default,,0000,0000,0000,,Svim palubama...\nPogon, izveštaj!
+Dialogue: 0,0:47:24.10,0:47:27.60,Default,,0000,0000,0000,,Punom snagom nazad. Desno 19 stepeni.\nSpustite nas ispod tih krhotina
+Dialogue: 0,0:47:46.70,0:47:48.70,Default,,0000,0000,0000,,Gospodine, još jedan federacijski brod!
+Dialogue: 0,0:47:49.10,0:47:50.90,Default,,0000,0000,0000,,Uništite ga!\nIspaljujem torpeda!
+Dialogue: 0,0:47:51.30,0:47:52.70,Default,,0000,0000,0000,,Kapetane ispaljuju torpeda.
+Dialogue: 0,0:47:53.10,0:47:55.90,Default,,0000,0000,0000,,Preusmeri snagu sa levog\nnosaèa na prednje štitove.
+Dialogue: 0,0:48:02.50,0:48:05.80,Default,,0000,0000,0000,,Sulu, izveštaj o šteti!\nŠtitovi na 32%. To oružje je moæno.
+Dialogue: 0,0:48:06.10,0:48:09.20,Default,,0000,0000,0000,,Ne možemo podneti još jedan takav udar.\nZovi mi Komandu Zvezdane flote.
+Dialogue: 0,0:48:09.50,0:48:12.80,Default,,0000,0000,0000,,Romulanski brod je ispustio visokoenergetsku\npulsnu napravu u atmosferu Vulkana.
+Dialogue: 0,0:48:13.20,0:48:16.10,Default,,0000,0000,0000,,Njen signal blokira komunikacije,\nkao i transportere.
+Dialogue: 0,0:48:16.40,0:48:18.90,Default,,0000,0000,0000,,Svu snagu u prednje štitove.\nPripremite se za paljbu svim oružjem.
+Dialogue: 0,0:48:23.50,0:48:26.20,Default,,0000,0000,0000,,Oružje je spremno!\nÈekajte!
+Dialogue: 0,0:48:26.30,0:48:29.30,Default,,0000,0000,0000,,Trup. Uveæaj!\nDa gospodine!
+Dialogue: 0,0:48:33.70,0:48:35.50,Default,,0000,0000,0000,,Kapetane, zovu nas!
+Dialogue: 0,0:48:37.00,0:48:39.40,Default,,0000,0000,0000,,Pozdrav!
+Dialogue: 0,0:48:40.10,0:48:42.70,Default,,0000,0000,0000,,Ja sam Kapetan Kristofer Pajk.\nSa kime razgovaram?
+Dialogue: 0,0:48:43.10,0:48:45.40,Default,,0000,0000,0000,,Zdravo Kristofere. Ja sam Niro!
+Dialogue: 0,0:48:45.80,0:48:47.80,Default,,0000,0000,0000,,Objavili ste rat Federaciji.\nPovucite se i ja æu...
+Dialogue: 0,0:48:48.10,0:48:51.20,Default,,0000,0000,0000,,dogovoriti sastanak sa romulanskim\nliderima na neutralnoj lokaciji.
+Dialogue: 0,0:48:51.60,0:48:55.60,Default,,0000,0000,0000,,Ja ne govorim u ime Carstva.\nMi smo odvojeni.
+Dialogue: 0,0:48:56.60,0:49:00.60,Default,,0000,0000,0000,,Kao i vaš vulkanski èIan posade.\nJel tako Spok!
+Dialogue: 0,0:49:03.20,0:49:06.10,Default,,0000,0000,0000,,Izvinite me. Mislim da se\nvi i ja ne poznajemo!
+Dialogue: 0,0:49:06.70,0:49:09.70,Default,,0000,0000,0000,,I ne poznajemo se.\nJoš uvek ne!
+Dialogue: 0,0:49:10.30,0:49:13.80,Default,,0000,0000,0000,,Spok, želeo bih da vidiš nešto!
+Dialogue: 0,0:49:14.50,0:49:18.10,Default,,0000,0000,0000,,Kapetane Pajk, vaš\ntransporter je onesposobljen.
+Dialogue: 0,0:49:18.70,0:49:22.50,Default,,0000,0000,0000,,Kao što vidite po ostacima vaše armade...\nNemate izbora!
+Dialogue: 0,0:49:23.00,0:49:27.60,Default,,0000,0000,0000,,Doðite šatlom na Noradu,\nda pregovaramo!
+Dialogue: 0,0:49:28.00,0:49:30.10,Default,,0000,0000,0000,,To je sve!
+Dialogue: 0,0:49:38.40,0:49:40.10,Default,,0000,0000,0000,,Ubiæe vas!\nŠanse da preživite su male.
+Dialogue: 0,0:49:40.50,0:49:43.10,Default,,0000,0000,0000,,Ništa ne dobijamo od njihovih obeæanja.\nOdlazak na taj brod je greška.
+Dialogue: 0,0:49:43.50,0:49:44.90,Default,,0000,0000,0000,,I ja se slažem.\nTrebalo bi da razmislite o strategiji!
+Dialogue: 0,0:49:45.40,0:49:47.50,Default,,0000,0000,0000,,Slažem se sa tim!
+Dialogue: 0,0:49:48.00,0:49:50.80,Default,,0000,0000,0000,,trebaju mi oficiri trenirani\nu naprednoj borbi prsa u prsa.
+Dialogue: 0,0:49:51.10,0:49:54.60,Default,,0000,0000,0000,,Ja sam treniran gospodine.\nPoði samnom!
+Dialogue: 0,0:49:55.10,0:49:57.60,Default,,0000,0000,0000,,Kirk, ti takoðe.\nlonako ne bi trebalo da si ovde.
+Dialogue: 0,0:49:58.00,0:50:00.90,Default,,0000,0000,0000,,Èehove, Most je tvoj!\nRazumem gospodine!
+Dialogue: 0,0:50:21.30,0:50:23.40,Default,,0000,0000,0000,,Pripremite "Crvenu materiju"!
+Dialogue: 0,0:50:25.00,0:50:27.00,Default,,0000,0000,0000,,Da gospodine!
+Dialogue: 0,0:51:04.50,0:51:06.40,Default,,0000,0000,0000,,Bez transportera ne\nmožemo otiæi sa broda.
+Dialogue: 0,0:51:06.90,0:51:08.90,Default,,0000,0000,0000,,Ne možemo pomoèi Vulkancima.\nNe možemo da radimo naš posao.
+Dialogue: 0,0:51:09.30,0:51:13.40,Default,,0000,0000,0000,,Gospodin Kirk, Sulu i inženjer Olsen\næe iskoèiti iz šatla.
+Dialogue: 0,0:51:14.20,0:51:17.90,Default,,0000,0000,0000,,Sleteæete na tu napravu koju su spustili\nu atmosferu, koja nam ometa opremu...
+Dialogue: 0,0:51:18.40,0:51:21.70,Default,,0000,0000,0000,,Onesposobiæete je, a zatim æete\nse transportovati na brod.
+Dialogue: 0,0:51:22.20,0:51:24.80,Default,,0000,0000,0000,,G. Spok, vama prepuštam\nkomandovanje nad Enterprajzom.
+Dialogue: 0,0:51:25.40,0:51:28.10,Default,,0000,0000,0000,,Kada transporteri i komunikacije\nprorade, kontaktiraæete...
+Dialogue: 0,0:51:28.60,0:51:31.10,Default,,0000,0000,0000,,Zvezdanu flotu i obavestiti\nih šta se ovde dogaða!
+Dialogue: 0,0:51:31.50,0:51:33.00,Default,,0000,0000,0000,,Ako sve ovo propadne. Povucite se i
+Dialogue: 0,0:51:33.60,0:51:35.30,Default,,0000,0000,0000,,sastanite sa flotom u\nHorencijanskom sistemu.
+Dialogue: 0,0:51:35.30,0:51:37.00,Default,,0000,0000,0000,,Kirk, unapreðujem te u Prvog oficira!\nŠta!
+Dialogue: 0,0:51:37.40,0:51:41.20,Default,,0000,0000,0000,,Kapetane, ne razumem ovu Ijudsku šalu!
+Dialogue: 0,0:51:41.60,0:51:46.60,Default,,0000,0000,0000,,Nije šala Spok.\nI ja nisam Kapetan. Ti si!
+Dialogue: 0,0:51:47.10,0:51:49.00,Default,,0000,0000,0000,,Idemo!
+Dialogue: 0,0:51:51.10,0:51:53.30,Default,,0000,0000,0000,,Kapetane kada uništimo tu "bušilicu",\nšta æe biti sa vama?
+Dialogue: 0,0:51:53.70,0:51:55.80,Default,,0000,0000,0000,,Moraæete nekako doæi po mene.
+Dialogue: 0,0:51:56.10,0:51:58.70,Default,,0000,0000,0000,,Pazi na ovaj brod. Nov je!
+Dialogue: 0,0:52:09.90,0:52:11.20,Default,,0000,0000,0000,,Doktore Puri, izveštaj!
+Dialogue: 0,0:52:11.80,0:52:15.50,Default,,0000,0000,0000,,Ovde Mekoj. Doktor Puri je bio na palubi 6.\nMrtav je!
+Dialogue: 0,0:52:16.10,0:52:19.50,Default,,0000,0000,0000,,Onda ste vi nasledili njegovu\nulogu kao glavni brodski doktor.
+Dialogue: 0,0:52:19.80,0:52:21.90,Default,,0000,0000,0000,,Reci mi nešto što ne znam!
+Dialogue: 0,0:52:31.30,0:52:35.30,Default,,0000,0000,0000,,Poneo si eksploziv? Da. Jedva èekam da\nga zabijem u ta romulanska dupeta!
+Dialogue: 0,0:52:57.80,0:53:01.20,Default,,0000,0000,0000,,kakvu si ono beše imao obuku?\nObuku iz penjanja!
+Dialogue: 0,0:53:04.40,0:53:06.40,Default,,0000,0000,0000,,Spremite se!
+Dialogue: 0,0:53:20.00,0:53:22.10,Default,,0000,0000,0000,,Približavamo se zoni iskakanja.
+Dialogue: 0,0:53:22.50,0:53:24.60,Default,,0000,0000,0000,,Imate jedan pokušaj da\nsletite na tu platformu
+Dialogue: 0,0:53:25.10,0:53:28.30,Default,,0000,0000,0000,,Imaju odbranu zato aktivirajte\npadobran što je kasnije moguæe.
+Dialogue: 0,0:53:28.50,0:53:29.60,Default,,0000,0000,0000,,3...
+Dialogue: 0,0:53:29.90,0:53:30.90,Default,,0000,0000,0000,,2...
+Dialogue: 0,0:53:31.20,0:53:32.50,Default,,0000,0000,0000,,1...
+Dialogue: 0,0:53:33.20,0:53:35.20,Default,,0000,0000,0000,,Zapamtite, Enterprajz vas\nneæe moæi transportovati...
+Dialogue: 0,0:53:35.50,0:53:37.60,Default,,0000,0000,0000,,sve dok n iskljuèite tu "Bušilicu".
+Dialogue: 0,0:53:39.30,0:53:41.20,Default,,0000,0000,0000,,Steæno!
+Dialogue: 0,0:54:02.00,0:54:06.60,Default,,0000,0000,0000,,Tim ulazi u atmosferu.\nNa 20000 metara su.
+Dialogue: 0,0:54:30.80,0:54:33.20,Default,,0000,0000,0000,,Prilaze platformi na 5800 metara
+Dialogue: 0,0:54:33.60,0:54:37.10,Default,,0000,0000,0000,,Kirk zove Enterprajz.\nPrilazimo meti na 5000 metara
+Dialogue: 0,0:54:39.70,0:54:42.40,Default,,0000,0000,0000,,4600 metara od platforme.
+Dialogue: 0,0:54:45.10,0:54:47.60,Default,,0000,0000,0000,,4000 metara.
+Dialogue: 0,0:54:48.70,0:54:50.60,Default,,0000,0000,0000,,3000 metara.
+Dialogue: 0,0:54:50.60,0:54:52.90,Default,,0000,0000,0000,,Aktivirajte padobrane!
+Dialogue: 0,0:54:57.10,0:54:59.20,Default,,0000,0000,0000,,2000 metara.
+Dialogue: 0,0:54:59.20,0:55:01.80,Default,,0000,0000,0000,,Hajde, aktiviraj padobran Olsene.
+Dialogue: 0,0:55:02.80,0:55:04.40,Default,,0000,0000,0000,,1100 metara.\nOtvaraj padobran!
+Dialogue: 0,0:55:06.10,0:55:08.80,Default,,0000,0000,0000,,Olsene otvaraj padobran!\n1000 metara.
+Dialogue: 0,0:55:21.30,0:55:22.90,Default,,0000,0000,0000,,Olsene...!
+Dialogue: 0,0:55:23.60,0:55:25.90,Default,,0000,0000,0000,,Olsen je gotov, gospodine!
+Dialogue: 0,0:55:45.30,0:55:47.40,Default,,0000,0000,0000,,Kirk je sleteo!
+Dialogue: 0,0:57:50.70,0:57:52.20,Default,,0000,0000,0000,,Daj mi ruku!
+Dialogue: 0,0:57:59.80,0:58:02.20,Default,,0000,0000,0000,,Olsen je imao eksploziv.
+Dialogue: 0,0:58:02.60,0:58:04.20,Default,,0000,0000,0000,,Znam!
+Dialogue: 0,0:58:20.70,0:58:24.20,Default,,0000,0000,0000,,Ometajuæi signal je nestao.\nPonovo imamo transportere
+Dialogue: 0,0:58:24.50,0:58:26.20,Default,,0000,0000,0000,,Kontrola transportera je uspostavljena.
+Dialogue: 0,0:58:26.60,0:58:29.30,Default,,0000,0000,0000,,Èehove, skeniraj gravitacionim senzorima.\nZanima me šta su uradili na planeti!
+Dialogue: 0,0:58:29.80,0:58:32.10,Default,,0000,0000,0000,,Da komandire. Oprostite...\nKapetane!
+Dialogue: 0,0:58:37.00,0:58:40.00,Default,,0000,0000,0000,,Bušilica je sabotirana,\nali smo stigli do jezgra planete!
+Dialogue: 0,0:58:40.50,0:58:42.90,Default,,0000,0000,0000,,Lansirajte Crvenu materiju!
+Dialogue: 0,0:58:56.40,0:59:00.80,Default,,0000,0000,0000,,Kirk zove Enterprajz. Nešto je\nupravo upalo u rupu koju su bušili!
+Dialogue: 0,0:59:01.50,0:59:03.90,Default,,0000,0000,0000,,<i>Da li primate Enterprajz?</i>
+Dialogue: 0,0:59:05.40,0:59:08.10,Default,,0000,0000,0000,,Gravitaciona oèitavanja su van svake skale.
+Dialogue: 0,0:59:08.50,0:59:12.00,Default,,0000,0000,0000,,Ako su moji proraèuni taèni.\nOni stvaraju Singularnost!
+Dialogue: 0,0:59:13.00,0:59:16.40,Default,,0000,0000,0000,,Koja æe progutati planetu!
+Dialogue: 0,0:59:17.90,0:59:21.10,Default,,0000,0000,0000,,Prave Crnu rupu u središtu Vulkana?
+Dialogue: 0,0:59:21.50,0:59:23.00,Default,,0000,0000,0000,,Da gospodine!
+Dialogue: 0,0:59:23.40,0:59:28.00,Default,,0000,0000,0000,,Koliko vremena planeta ima?\nMinute gospodine!
+Dialogue: 0,0:59:29.40,0:59:31.50,Default,,0000,0000,0000,,Obavesti Komandu Zvezdane flote, da odmah\notpoèinjemo sa evakuacijom planete.
+Dialogue: 0,0:59:31.70,0:59:33.90,Default,,0000,0000,0000,,Odašiljite na svim kanalima i frekvencijama.\nOdržavajte standardnu orbitu!
+Dialogue: 0,0:59:34.90,0:59:36.90,Default,,0000,0000,0000,,Gde vi idete?\nDa evakuišem vulkanski Vrhovni savet.
+Dialogue: 0,0:59:37.40,0:59:39.00,Default,,0000,0000,0000,,Njihov zadatak je da\nštite vulkansku kulturu,
+Dialogue: 0,0:59:39.60,0:59:40.40,Default,,0000,0000,0000,,Moji roditelji su meðu njima.
+Dialogue: 0,0:59:40.50,0:59:43.10,Default,,0000,0000,0000,,Zar ne možeš da ih transportuješ?\nTo je nemoguæe. Oni su u Katrièkom luku!
+Dialogue: 0,0:59:43.80,0:59:45.80,Default,,0000,0000,0000,,Moram sam otiæi po njih!
+Dialogue: 0,0:59:46.20,0:59:48.60,Default,,0000,0000,0000,,Èekove, Most je tvoj!\nRazumem!
+Dialogue: 0,0:59:51.40,0:59:53.90,Default,,0000,0000,0000,,Kirk zove Enterprajz.\nVadite nas odavde!
+Dialogue: 0,0:59:54.60,0:59:56.60,Default,,0000,0000,0000,,Lociram vaše signale!
+Dialogue: 0,0:59:57.00,0:59:59.00,Default,,0000,0000,0000,,Locirali smo Bušilicu.\nPovucite je nazad.
+Dialogue: 0,0:59:59.30,1:00:00.70,Default,,0000,0000,0000,,Povucite je!
+Dialogue: 0,1:00:03.10,1:00:06.00,Default,,0000,0000,0000,,Imam vaš signal. Ne mrdajte se...
+Dialogue: 0,1:00:06.50,1:00:08.10,Default,,0000,0000,0000,,Ne...!
+Dialogue: 0,1:00:15.40,1:00:17.20,Default,,0000,0000,0000,,Sulu...!
+Dialogue: 0,1:00:19.60,1:00:21.20,Default,,0000,0000,0000,,Drži se!
+Dialogue: 0,1:00:23.40,1:00:25.50,Default,,0000,0000,0000,,Imam te.\nOtvaram moj padobran!
+Dialogue: 0,1:00:32.50,1:00:36.00,Default,,0000,0000,0000,,Razbiæemo se. Padamo bez padobrana.
+Dialogue: 0,1:00:36.40,1:00:38.80,Default,,0000,0000,0000,,Transportujte nas.\nPokušavam. Ne mogu da uhvatim vaš signal.
+Dialogue: 0,1:00:38.90,1:00:40.80,Default,,0000,0000,0000,,Prebrzo se kreæete!
+Dialogue: 0,1:00:41.20,1:00:43.40,Default,,0000,0000,0000,,Ja to mogu da uradim.
+Dialogue: 0,1:00:43.80,1:00:45.90,Default,,0000,0000,0000,,Preuzmi Most!\nDa gospodine!
+Dialogue: 0,1:00:46.30,1:00:49.60,Default,,0000,0000,0000,,Crna rupa se širi. Neæemo uspeti da se\nudaljimo na sigurno ako odmah ne krenemo.
+Dialogue: 0,1:00:51.80,1:00:54.10,Default,,0000,0000,0000,,Mièite se.\nJa to mogu da uradim...
+Dialogue: 0,1:00:57.40,1:00:59.90,Default,,0000,0000,0000,,Transportujte nas!
+Dialogue: 0,1:01:00.90,1:01:03.90,Default,,0000,0000,0000,,Enterprajz gde ste!\nÈekaj, èekaj...
+Dialogue: 0,1:01:04.50,1:01:07.50,Default,,0000,0000,0000,,Sada. Uradite to sada...
+Dialogue: 0,1:01:09.00,1:01:12.50,Default,,0000,0000,0000,,Èekajte, èekajte...
+Dialogue: 0,1:01:18.30,1:01:20.10,Default,,0000,0000,0000,,Imam vas!
+Dialogue: 0,1:01:29.20,1:01:31.00,Default,,0000,0000,0000,,Hvala!\nNema na èemu!
+Dialogue: 0,1:01:34.30,1:01:37.80,Default,,0000,0000,0000,,Sklonite se sa platforme.\nTransportujem se na površinu.
+Dialogue: 0,1:01:38.00,1:01:42.00,Default,,0000,0000,0000,,Ideš dole? Zar si lud?
+Dialogue: 0,1:01:42.70,1:01:45.80,Default,,0000,0000,0000,,Spok ne možeš to da uradiš!\nPoènite!
+Dialogue: 0,1:02:24.60,1:02:25.60,Default,,0000,0000,0000,,Spok!
+Dialogue: 0,1:02:26.00,1:02:28.40,Default,,0000,0000,0000,,Planeta ima još nekoliko sekundi\nMoramo se evakuisati!
+Dialogue: 0,1:02:28.90,1:02:30.90,Default,,0000,0000,0000,,Majko, odmah!
+Dialogue: 0,1:02:53.00,1:02:56.80,Default,,0000,0000,0000,,Spok zove Enterprajz. Vadite nas odmah!\nOstanite gde ste!
+Dialogue: 0,1:03:04.20,1:03:05.20,Default,,0000,0000,0000,,Transportujem za...
+Dialogue: 0,1:03:05.50,1:03:06.30,Default,,0000,0000,0000,,5...
+Dialogue: 0,1:03:06.70,1:03:07.40,Default,,0000,0000,0000,,4...
+Dialogue: 0,1:03:07.70,1:03:08.60,Default,,0000,0000,0000,,3...
+Dialogue: 0,1:03:09.00,1:03:10.60,Default,,0000,0000,0000,,2...
+Dialogue: 0,1:03:11.20,1:03:14.30,Default,,0000,0000,0000,,Majko!\nGubim je!
+Dialogue: 0,1:04:13.30,1:04:16.80,Default,,0000,0000,0000,,Dnevnik vršioca dužnosti Kapetana\nzvezdani datum 2258.42
+Dialogue: 0,1:04:18.70,1:04:21.70,Default,,0000,0000,0000,,Nemamo vesti od Kapetana Pajka
+Dialogue: 0,1:04:22.50,1:04:26.00,Default,,0000,0000,0000,,Sroga smatram da je talac\nratnog zloèinca poznatoga kao Nero
+Dialogue: 0,1:04:27.20,1:04:31.80,Default,,0000,0000,0000,,Onog koji je uništio moju planetu,\nkao i veæinu od 6 milijardi stanovnika.
+Dialogue: 0,1:04:33.40,1:04:35.70,Default,,0000,0000,0000,,lako je osnova naše kulture\nsaèuvana kroz Starešine...
+Dialogue: 0,1:04:36.20,1:04:38.70,Default,,0000,0000,0000,,koje se sada nalaze na ovom brodu.
+Dialogue: 0,1:04:40.60,1:04:43.90,Default,,0000,0000,0000,,Procenjujem da nije\npreživelo više od 10000.
+Dialogue: 0,1:04:47.10,1:04:50.40,Default,,0000,0000,0000,,Sada sam pripadnik ugrožene vrste!
+Dialogue: 0,1:05:17.70,1:05:20.00,Default,,0000,0000,0000,,Žao mi je.
+Dialogue: 0,1:05:24.90,1:05:27.20,Default,,0000,0000,0000,,Tako mi je žao!
+Dialogue: 0,1:05:40.00,1:05:42.50,Default,,0000,0000,0000,,Šta ti treba?\nReci mi!
+Dialogue: 0,1:05:43.10,1:05:45.20,Default,,0000,0000,0000,,Reci mi.
+Dialogue: 0,1:05:52.80,1:05:54.80,Default,,0000,0000,0000,,Potrebni su mi svi...
+Dialogue: 0,1:05:55.90,1:05:58.90,Default,,0000,0000,0000,,kako bih nastavio da\nobavljam dužnost èasno.
+Dialogue: 0,1:06:05.80,1:06:07.70,Default,,0000,0000,0000,,U redu.
+Dialogue: 0,1:06:25.80,1:06:28.10,Default,,0000,0000,0000,,Sigurno imaš mnoga pitanja za mene?
+Dialogue: 0,1:06:29.20,1:06:31.30,Default,,0000,0000,0000,,Ja za tebe imam samo jedno!
+Dialogue: 0,1:06:32.60,1:06:36.70,Default,,0000,0000,0000,,Trebaju mi podprostorne frekvencije za\nzaštitne graniène mreže Zvezdane flote.
+Dialogue: 0,1:06:37.30,1:06:40.00,Default,,0000,0000,0000,,Naroèito za one koje okružuju Zemlju.
+Dialogue: 0,1:06:41.50,1:06:44.90,Default,,0000,0000,0000,,Kristofere, odgovori mi na pitanje.
+Dialogue: 0,1:06:45.30,1:06:48.00,Default,,0000,0000,0000,,Ti æeš odgovarati za genocid\nkoji si poèinio protiv miroljubivih...
+Dialogue: 0,1:06:48.60,1:06:50.60,Default,,0000,0000,0000,,Ja sam spreèio genocid!
+Dialogue: 0,1:06:53.80,1:06:56.20,Default,,0000,0000,0000,,U mom vremenu.\nOdakle sam došao
+Dialogue: 0,1:06:56.70,1:07:01.10,Default,,0000,0000,0000,,Ovo je prost brod za rudarenje.\nJa sam izabrao život poštenog radnika.
+Dialogue: 0,1:07:02.20,1:07:05.50,Default,,0000,0000,0000,,Da obezbedim za život sebi i ženi\nkoja je oèekivala moje dete!
+Dialogue: 0,1:07:06.10,1:07:10.30,Default,,0000,0000,0000,,Bio sam van planete, radio sam svoj posao\ndok tvoja Federacija nije ništa uèinila.
+Dialogue: 0,1:07:11.00,1:07:14.20,Default,,0000,0000,0000,,I dozvolila da moj narod gori dok\nse planeta raspadala na pola.
+Dialogue: 0,1:07:14.70,1:07:17.50,Default,,0000,0000,0000,,A Spok... Nije nam pomogao.\nIzdao nas je!
+Dialogue: 0,1:07:18.30,1:07:21.50,Default,,0000,0000,0000,,Ti si zbunjen. Nisi informisan.\nRomulus nije uništen.
+Dialogue: 0,1:07:22.00,1:07:25.40,Default,,0000,0000,0000,,On je tamo. Kriviš Federaciju za\nnešto što se još nije ni dogodilo!
+Dialogue: 0,1:07:25.80,1:07:29.80,Default,,0000,0000,0000,,Dogodilo se. Video sam. Nemoj\nmi govoriti kako se nije dogodilo.
+Dialogue: 0,1:07:34.40,1:07:36.50,Default,,0000,0000,0000,,A kada sam je izgubio...
+Dialogue: 0,1:07:37.00,1:07:39.40,Default,,0000,0000,0000,,Obeæao sam sebi osvetu.
+Dialogue: 0,1:07:40.00,1:07:43.50,Default,,0000,0000,0000,,I veæ 25 godina planiram\nosvetu protiv Federacije.
+Dialogue: 0,1:07:43.90,1:07:47.00,Default,,0000,0000,0000,,I veæ sam zaboravio kako\nje to imati normalan život.
+Dialogue: 0,1:07:47.90,1:07:50.00,Default,,0000,0000,0000,,Ali nisam zaboravio bol.
+Dialogue: 0,1:07:51.20,1:07:55.10,Default,,0000,0000,0000,,To je bol koju sada deli\nsvaki preživeli Vulkanac.
+Dialogue: 0,1:07:56.20,1:07:58.50,Default,,0000,0000,0000,,Moja svrha Kristofere...
+Dialogue: 0,1:07:59.10,1:08:02.30,Default,,0000,0000,0000,,nije da samo izbegnem\nuništenje doma kojeg volim...
+Dialogue: 0,1:08:04.10,1:08:09.00,Default,,0000,0000,0000,,Veæ da uèinim da Romulus postoji,\nslobodan od Federacije.
+Dialogue: 0,1:08:11.60,1:08:14.70,Default,,0000,0000,0000,,Jedino tada æe biti stvarno spasen.
+Dialogue: 0,1:08:15.70,1:08:20.00,Default,,0000,0000,0000,,Zato æu uništiti sve\npreostale planete u Federaciji...
+Dialogue: 0,1:08:20.40,1:08:22.50,Default,,0000,0000,0000,,Poèevši od tvoje!
+Dialogue: 0,1:08:23.20,1:08:26.00,Default,,0000,0000,0000,,Onda više nemamo o\nèemu da razgovaramo!
+Dialogue: 0,1:08:29.60,1:08:32.90,Default,,0000,0000,0000,,Daæeš mi frekvencije da\nonesposobim Zemljinu odbranu.
+Dialogue: 0,1:08:35.60,1:08:37.70,Default,,0000,0000,0000,,Centurijski puževi
+Dialogue: 0,1:08:38.60,1:08:41.20,Default,,0000,0000,0000,,Zakaèe se za moždano stablo.
+Dialogue: 0,1:08:42.00,1:08:45.00,Default,,0000,0000,0000,,I oslobaðaju otrov koji\nte natera da odgovaraš.
+Dialogue: 0,1:08:45.80,1:08:48.50,Default,,0000,0000,0000,,Frekvencije Kristofere!
+Dialogue: 0,1:08:48.70,1:08:50.80,Default,,0000,0000,0000,,Kristofer Pajk, Kapetan USS Enterprajz...
+Dialogue: 0,1:08:51.10,1:08:52.80,Default,,0000,0000,0000,,Kako želiš!
+Dialogue: 0,1:09:00.00,1:09:01.80,Default,,0000,0000,0000,,Da li ste potvrdili da\nNiro ide prema Zemlji?
+Dialogue: 0,1:09:02.40,1:09:04.70,Default,,0000,0000,0000,,Njihova putanja ne ukazuje\nni na koju drugu destinaciju.
+Dialogue: 0,1:09:05.20,1:09:06.60,Default,,0000,0000,0000,,Hvala poruènice.
+Dialogue: 0,1:09:07.00,1:09:08.60,Default,,0000,0000,0000,,Zemlja je možda sledeæa stanica,\nali moramo da pretpostavimo...
+Dialogue: 0,1:09:09.20,1:09:11.20,Default,,0000,0000,0000,,da je svaka planeta u Federaciji meta.
+Dialogue: 0,1:09:11.60,1:09:14.40,Default,,0000,0000,0000,,Ustani iz stolice.\nAko je Federacija meta.
+Dialogue: 0,1:09:14.90,1:09:16.90,Default,,0000,0000,0000,,Zašto onda nije nas uništio.
+Dialogue: 0,1:09:17.20,1:09:19.70,Default,,0000,0000,0000,,Zašto bi. Zašto trošiti municiju.\nOèigledno je da nismo pretnja.
+Dialogue: 0,1:09:20.20,1:09:24.00,Default,,0000,0000,0000,,To nije to. Rekao je da hoæe da ja\nvidim uništenje moje rodne planete.
+Dialogue: 0,1:09:24.40,1:09:28.10,Default,,0000,0000,0000,,Kako to uopšte rade?\nI odakle Romulancima takvo oružje?
+Dialogue: 0,1:09:28.60,1:09:33.30,Default,,0000,0000,0000,,Nauèno znanje neophodno da se\nveštaèki stvori crna rupa je odgovor.
+Dialogue: 0,1:09:33.90,1:09:36.30,Default,,0000,0000,0000,,Takva tehnolpgija bi se,\nteoretski, mogla iskoristiti...
+Dialogue: 0,1:09:36.70,1:09:38.70,Default,,0000,0000,0000,,da se napravi tunel kroz prostor-vreme!
+Dialogue: 0,1:09:39.10,1:09:42.50,Default,,0000,0000,0000,,Dodjavola, ja sam doktor, ne fizièar.\nHoæeš da kažeš da su iz buduænosti?
+Dialogue: 0,1:09:42.80,1:09:44.20,Default,,0000,0000,0000,,Ako eliminišeš nemoguæe, ono što ostane,
+Dialogue: 0,1:09:44.50,1:09:47.10,Default,,0000,0000,0000,,ma koliko bilo neverovatno,\nmora biti istina.
+Dialogue: 0,1:09:47.20,1:09:48.20,Default,,0000,0000,0000,,Kako poetièno.
+Dialogue: 0,1:09:49.00,1:09:51.70,Default,,0000,0000,0000,,Šta bi onda besni Romulanac iz\nbuduænosti hteo od Kapetana Pajka?
+Dialogue: 0,1:09:52.00,1:09:54.00,Default,,0000,0000,0000,,Kao Kapetan on zna sve\no odbrani Zvezdane flote.
+Dialogue: 0,1:09:54.30,1:09:55.70,Default,,0000,0000,0000,,Moramo da stignemo taj brod!
+Dialogue: 0,1:09:56.20,1:09:58.00,Default,,0000,0000,0000,,Onesposobimo ga i vratimo Pajka nazad.
+Dialogue: 0,1:09:58.30,1:09:59.90,Default,,0000,0000,0000,,Tehnološki smo nadjaèani\nu svakom pogledu,
+Dialogue: 0,1:10:00.30,1:10:02.80,Default,,0000,0000,0000,,Pokušaj spašavanja bi bio nelogièan.
+Dialogue: 0,1:10:03.30,1:10:05.50,Default,,0000,0000,0000,,Kao i ovaj brod, jer bi morali da\nizaðemo iz vorpa da ga napadnemo.
+Dialogue: 0,1:10:06.10,1:10:08.70,Default,,0000,0000,0000,,A da pošaljemo inženjere da pokušaju\nda pojaèaju naše vorp motore?
+Dialogue: 0,1:10:09.10,1:10:10.40,Default,,0000,0000,0000,,Svu energiju smo\npreusmerili za zaustavljanje...
+Dialogue: 0,1:10:10.80,1:10:12.10,Default,,0000,0000,0000,,curenja radijacije na nižim palubama...
+Dialogue: 0,1:10:12.50,1:10:14.00,Default,,0000,0000,0000,,Uredu! Moramo popraviti\nkomunikacije jer bez njih ne možemo...
+Dialogue: 0,1:10:14.40,1:10:16.10,Default,,0000,0000,0000,,Mora biti neki naèin!\nMoramo kontaktirati Zvezdanu flotu...
+Dialogue: 0,1:10:16.50,1:10:18.20,Default,,0000,0000,0000,,Moramo se sastati sa\nostatkom Zvezdane flote!
+Dialogue: 0,1:10:18.60,1:10:20.10,Default,,0000,0000,0000,,Da izjednaèimo snage kada se\nponovo budemo borili sa njima.
+Dialogue: 0,1:10:20.50,1:10:21.50,Default,,0000,0000,0000,,Neæe biti ponovne borbe!
+Dialogue: 0,1:10:22.10,1:10:24.30,Default,,0000,0000,0000,,Dok se mi susretnemo\nsa flotom, biæe prekasno!
+Dialogue: 0,1:10:24.80,1:10:26.90,Default,,0000,0000,0000,,Ti kažeš da je on iz buduænosti\ni da zna šta æe se dogoditi.
+Dialogue: 0,1:10:27.30,1:10:29.60,Default,,0000,0000,0000,,Onda je logièna stvar\nda budemo nepredvidljivi!
+Dialogue: 0,1:10:30.00,1:10:32.60,Default,,0000,0000,0000,,Ti pretpostavljaš da Niro\nzna šta æe se dogoditi.
+Dialogue: 0,1:10:33.10,1:10:35.50,Default,,0000,0000,0000,,Naprotiv, njegovo prisustvo\nje izmenilo tok istorije
+Dialogue: 0,1:10:35.90,1:10:38.20,Default,,0000,0000,0000,,Poèevši sa napadom na USS Kelvin,\nkao i sa onim što se danas desilo...
+Dialogue: 0,1:10:38.60,1:10:43.40,Default,,0000,0000,0000,,stvoren je novi niz dogaðaja\nkoji se ne može predvideti.
+Dialogue: 0,1:10:43.90,1:10:47.50,Default,,0000,0000,0000,,Alternativna stvarnost?\nTaèno tako!
+Dialogue: 0,1:10:48.30,1:10:51.50,Default,,0000,0000,0000,,Kakvi god su naši životi trebali da budu,\nako je vremenski kontinuum poremeæen...
+Dialogue: 0,1:10:53.00,1:10:55.10,Default,,0000,0000,0000,,Naše sudbine su se promenile!
+Dialogue: 0,1:10:55.50,1:10:57.70,Default,,0000,0000,0000,,G. Sulu unesite kurs ka\nLorentijanskom sistemu, vorp faktor 3.
+Dialogue: 0,1:10:58.20,1:10:59.50,Default,,0000,0000,0000,,Spok ne èini to!
+Dialogue: 0,1:10:59.90,1:11:03.40,Default,,0000,0000,0000,,Susretati se sa ostatkom\nflote je ogroman gubitak vremena.
+Dialogue: 0,1:11:03.90,1:11:05.80,Default,,0000,0000,0000,,Imaš nareðenja od Kapetana Pajka...
+Dialogue: 0,1:11:06.10,1:11:08.60,Default,,0000,0000,0000,,Takoðe je naredio da ga izbavimo.\nSpok sada si Kapetan...
+Dialogue: 0,1:11:09.10,1:11:10.70,Default,,0000,0000,0000,,Svestan sam svojih dužnosti G. Kirk!
+Dialogue: 0,1:11:11.20,1:11:12.80,Default,,0000,0000,0000,,Svakog sekunda Niro je\nbliži svojoj novoj meti.
+Dialogue: 0,1:11:13.20,1:11:15.50,Default,,0000,0000,0000,,To je taèno. I dok ja pokušavam\nda ti objasnim da ja zapovedam...
+Dialogue: 0,1:11:15.90,1:11:18.20,Default,,0000,0000,0000,,Neæu dozvoliti da idemo unazad...
+Dialogue: 0,1:11:18.60,1:11:20.60,Default,,0000,0000,0000,,umesto da krenemo za Nirom!
+Dialogue: 0,1:11:21.00,1:11:23.00,Default,,0000,0000,0000,,Obezbeðenje ispratite ga napolje!
+Dialogue: 0,1:11:38.00,1:11:40.60,Default,,0000,0000,0000,,Maknite ga sa ovog broda!
+Dialogue: 0,1:12:00.10,1:12:01.70,Default,,0000,0000,0000,,Kompjuteru, gde se nalazim?
+Dialogue: 0,1:12:02.20,1:12:05.30,Default,,0000,0000,0000,,<i><b>Lokacija Delta Vega,\nplaneta klase M, nebezbedna...</b></i>
+Dialogue: 0,1:12:05.60,1:12:08.70,Default,,0000,0000,0000,,<i><b>Postoji baza Zvezdane flote\n14 km na severo-zapadu</b></i>
+Dialogue: 0,1:12:09.40,1:12:10.60,Default,,0000,0000,0000,,<i><b>Ostanite u svojoj\nkapsuli i èekajte spašavanje</b></i>
+Dialogue: 0,1:12:10.80,1:12:12.90,Default,,0000,0000,0000,,Mora da se šališ
+Dialogue: 0,1:12:55.10,1:12:58.50,Default,,0000,0000,0000,,Zvezdani datum 2258.42
+Dialogue: 0,1:12:59.40,1:13:02.80,Default,,0000,0000,0000,,Nalazim se...\nGde veæ...
+Dialogue: 0,1:13:03.30,1:13:06.30,Default,,0000,0000,0000,,Vršilac dužnosti Kapetana Spok\nme ostavio na Delta Vegi,
+Dialogue: 0,1:13:07.10,1:13:11.00,Default,,0000,0000,0000,,za šta ja smatram da je kršenje\nsigurnosnog protokola 49409.
+Dialogue: 0,1:13:11.50,1:13:13.90,Default,,0000,0000,0000,,koji se tièe tretiranja\nzarobljenika na zvezdanom brodu...
+Dialogue: 0,1:15:24.50,1:15:27.70,Default,,0000,0000,0000,,Džejms T Kirk
+Dialogue: 0,1:15:28.70,1:15:31.00,Default,,0000,0000,0000,,Izvinite?\nKako si me pronašao?
+Dialogue: 0,1:15:31.90,1:15:34.90,Default,,0000,0000,0000,,Èekaj malo!\nKako znaš moje ime?
+Dialogue: 0,1:15:36.00,1:15:40.50,Default,,0000,0000,0000,,Ja sam bio, i uvek æu\nbiti tvoj prijatelj!
+Dialogue: 0,1:15:41.10,1:15:42.80,Default,,0000,0000,0000,,Šta...?
+Dialogue: 0,1:15:44.10,1:15:46.50,Default,,0000,0000,0000,,Vidi, ja te ne poznajem!
+Dialogue: 0,1:15:47.00,1:15:49.50,Default,,0000,0000,0000,,Ja sam Spok!
+Dialogue: 0,1:15:52.90,1:15:54.40,Default,,0000,0000,0000,,Gluposti!
+Dialogue: 0,1:15:55.10,1:15:57.50,Default,,0000,0000,0000,,Neverovatno mi je drago da te\nvidim ponovo stari prijatelju.
+Dialogue: 0,1:15:58.10,1:16:00.90,Default,,0000,0000,0000,,Posebno nakon današnjih dogaðanja.
+Dialogue: 0,1:16:02.40,1:16:04.50,Default,,0000,0000,0000,,Gospodine, cenim to što\nste za mene uradili,
+Dialogue: 0,1:16:05.00,1:16:08.20,Default,,0000,0000,0000,,ali da ste vi Spok, znali bi\nda mi nismo prijatelji.
+Dialogue: 0,1:16:08.60,1:16:11.10,Default,,0000,0000,0000,,Ti me mrziš, proterao si\nme ovde zbog pobune!
+Dialogue: 0,1:16:11.60,1:16:13.00,Default,,0000,0000,0000,,Pobune?\nDa!
+Dialogue: 0,1:16:13.40,1:16:15.40,Default,,0000,0000,0000,,Ti nisi Kapetan?
+Dialogue: 0,1:16:17.70,1:16:19.30,Default,,0000,0000,0000,,Ne, ne!
+Dialogue: 0,1:16:20.90,1:16:24.20,Default,,0000,0000,0000,,Ti si Kapetan. Pajka su uzeli kao taoca!
+Dialogue: 0,1:16:24.80,1:16:27.10,Default,,0000,0000,0000,,Uzeo ga je Niro?
+Dialogue: 0,1:16:32.20,1:16:34.30,Default,,0000,0000,0000,,Šta ti znaš o njemu?
+Dialogue: 0,1:16:35.00,1:16:38.00,Default,,0000,0000,0000,,On je veoma problematièan Romulanac!
+Dialogue: 0,1:16:38.90,1:16:41.80,Default,,0000,0000,0000,,Molim te. Dozvoli mi. Biæe lakše!
+Dialogue: 0,1:16:41.80,1:16:43.80,Default,,0000,0000,0000,,Hej... Šta to radiš?
+Dialogue: 0,1:16:44.20,1:16:47.50,Default,,0000,0000,0000,,Naši umovi. Kao jedan i zajedno!
+Dialogue: 0,1:16:49.70,1:16:52.10,Default,,0000,0000,0000,,129 godina od sada...
+Dialogue: 0,1:16:52.50,1:16:55.80,Default,,0000,0000,0000,,zvezda æe eksplodirati i\npretiti da uništi galaksiju...
+Dialogue: 0,1:16:57.30,1:17:00.90,Default,,0000,0000,0000,,Odatle sam ja Džime. Iz buduænosti!
+Dialogue: 0,1:17:05.50,1:17:08.20,Default,,0000,0000,0000,,Zvezda je postala Supernova.
+Dialogue: 0,1:17:10.10,1:17:12.10,Default,,0000,0000,0000,,Koja je uništavala sve na njenom putu.
+Dialogue: 0,1:17:12.40,1:17:15.70,Default,,0000,0000,0000,,Obeæao sam Romulancima\nda æu spasiti njihovu planetu,
+Dialogue: 0,1:17:21.10,1:17:23.90,Default,,0000,0000,0000,,Opremili smo naš najbrži brod!
+Dialogue: 0,1:17:24.60,1:17:26.90,Default,,0000,0000,0000,,Koristeæi Crvenu materiju\nnapravio bih crnu rupu
+Dialogue: 0,1:17:27.40,1:17:30.00,Default,,0000,0000,0000,,koja bi progutala eksplodirajuæu zvezdu,
+Dialogue: 0,1:17:31.10,1:17:34.50,Default,,0000,0000,0000,,Bio sam na putu, kada se nezamislivo desilo
+Dialogue: 0,1:17:35.40,1:17:39.30,Default,,0000,0000,0000,,Supernova je uništila Romulus!
+Dialogue: 0,1:17:44.40,1:17:46.70,Default,,0000,0000,0000,,Imao sam malo vremena.
+Dialogue: 0,1:17:48.70,1:17:52.50,Default,,0000,0000,0000,,Morao sam da izvadim Crvenu\nmateriju i ispalim je u Supernovu.
+Dialogue: 0,1:18:09.40,1:18:12.00,Default,,0000,0000,0000,,Kada sam se vraæao nazad,\npresreo me je brod...
+Dialogue: 0,1:18:12.40,1:18:15.10,Default,,0000,0000,0000,,Rekao je da se zove Niro!
+Dialogue: 0,1:18:16.50,1:18:20.10,Default,,0000,0000,0000,,Kada sam pokušao da pobegnem,\nuvukla nas je crna rupa.
+Dialogue: 0,1:18:28.60,1:18:32.60,Default,,0000,0000,0000,,Nira je prvog uvukla,\nzato je on prvi i stigao!
+Dialogue: 0,1:18:40.00,1:18:42.80,Default,,0000,0000,0000,,Proveo je 25 godina èekajuæi moj dolazak.
+Dialogue: 0,1:18:43.40,1:18:45.90,Default,,0000,0000,0000,,Ali ono što su za Nira bile godine,
+Dialogue: 0,1:18:46.40,1:18:49.30,Default,,0000,0000,0000,,za mene su bile sekunde,
+Dialogue: 0,1:18:49.80,1:18:52.50,Default,,0000,0000,0000,,Prišao sam kroz crnu rupu,
+Dialogue: 0,1:18:53.70,1:18:56.90,Default,,0000,0000,0000,,Niro me je èekao!
+Dialogue: 0,1:19:01.90,1:19:05.30,Default,,0000,0000,0000,,Krivio je mene za gubitak svog sveta,
+Dialogue: 0,1:19:06.90,1:19:10.50,Default,,0000,0000,0000,,Zarobio je moj brod, i poštedeo mi život,
+Dialogue: 0,1:19:10.90,1:19:13.30,Default,,0000,0000,0000,,Iz jednog razloga...
+Dialogue: 0,1:19:13.70,1:19:17.10,Default,,0000,0000,0000,,Da ja osetim njegov bol!
+Dialogue: 0,1:19:17.90,1:19:22.60,Default,,0000,0000,0000,,Transportovao me je ovde\nda bih video njegovu osvetu.
+Dialogue: 0,1:19:23.40,1:19:26.40,Default,,0000,0000,0000,,Kao što je on bio bezpomoæan\nda spase svoju planetu.
+Dialogue: 0,1:19:26.70,1:19:30.40,Default,,0000,0000,0000,,Ja æu biti bezpomoæan da spasim moju.
+Dialogue: 0,1:19:32.50,1:19:35.20,Default,,0000,0000,0000,,Milioni života su izgubljeni,
+Dialogue: 0,1:19:35.70,1:19:39.90,Default,,0000,0000,0000,,zboga mene Džime.\nZato što ja nisam uspeo!
+Dialogue: 0,1:19:42.30,1:19:46.40,Default,,0000,0000,0000,,Oprosti mi! Prenos emocija je\nneizbežan kod spajanja umova.
+Dialogue: 0,1:19:53.50,1:19:56.80,Default,,0000,0000,0000,,Znaèi ti ipak imaš emocije?\nDa.
+Dialogue: 0,1:19:57.20,1:20:00.10,Default,,0000,0000,0000,,Vratio se kroz vreme i\npromenio nam živote!
+Dialogue: 0,1:20:00.60,1:20:03.80,Default,,0000,0000,0000,,Džime. Moramo poæi!
+Dialogue: 0,1:20:04.20,1:20:07.20,Default,,0000,0000,0000,,Postoji baza Zvezdane flote nedaleko odavde.
+Dialogue: 0,1:20:08.10,1:20:09.70,Default,,0000,0000,0000,,Èekaj!
+Dialogue: 0,1:20:10.50,1:20:13.20,Default,,0000,0000,0000,,Tada odakle si došao...
+Dialogue: 0,1:20:14.40,1:20:16.90,Default,,0000,0000,0000,,Jesam li upoznao mog oca?
+Dialogue: 0,1:20:17.60,1:20:23.00,Default,,0000,0000,0000,,Jesi. Èesto si govorio da te je on\ninspirisao da se pridružiš Zvezdanoj floti.
+Dialogue: 0,1:20:23.80,1:20:27.60,Default,,0000,0000,0000,,Doživeo je da te vidi kada si\npostao Kapetan Enterprajza.
+Dialogue: 0,1:20:28.10,1:20:31.90,Default,,0000,0000,0000,,Kapetan.\nNa taj brod se moramo vratiti što pre!
+Dialogue: 0,1:20:40.70,1:20:44.20,Default,,0000,0000,0000,,Vorp 3 gospodine.\nKurs 141-3, Lorentijanski sistem.
+Dialogue: 0,1:20:44.60,1:20:47.40,Default,,0000,0000,0000,,Hvala vam\nHteli ste da me vidite?
+Dialogue: 0,1:20:47.90,1:20:50.00,Default,,0000,0000,0000,,Da, doktore.
+Dialogue: 0,1:20:50.70,1:20:53.30,Default,,0000,0000,0000,,Znam da je Džejms Kirk vaš prijatelj.
+Dialogue: 0,1:20:53.70,1:20:56.20,Default,,0000,0000,0000,,Pretpostavljam da vam\nje bilo teško da me podržite?
+Dialogue: 0,1:20:56.70,1:21:00.10,Default,,0000,0000,0000,,Je li to hvala?\nSamo navodim vaše teškoæe.
+Dialogue: 0,1:21:00.60,1:21:03.00,Default,,0000,0000,0000,,Dozvolite da govorim slobodno!
+Dialogue: 0,1:21:03.90,1:21:06.00,Default,,0000,0000,0000,,Pozdravljam to.\nJel tako?
+Dialogue: 0,1:21:06.50,1:21:09.80,Default,,0000,0000,0000,,Jesi li sišao sa svog vulkanskog uma?
+Dialogue: 0,1:21:10.20,1:21:12.50,Default,,0000,0000,0000,,Da li je logièna odluka da\nukloniš Kirka? Verovatno.
+Dialogue: 0,1:21:12.90,1:21:15.60,Default,,0000,0000,0000,,Ali da li je ispravna?\nMi kod kuæe imamo izreku,
+Dialogue: 0,1:21:16.00,1:21:19.80,Default,,0000,0000,0000,,Ako æeš da jašeš na Kentaki derbiju,\nne ostavljaš svog najboljeg pasuva u štali!
+Dialogue: 0,1:21:20.20,1:21:23.40,Default,,0000,0000,0000,,Zanimljiva metafora doktore.\nAli pastuv najpre mora biti slomljen,
+Dialogue: 0,1:21:23.80,1:21:25.90,Default,,0000,0000,0000,,pre nego što bude mogao da\ndostigne svoj pun potencijal.
+Dialogue: 0,1:21:26.30,1:21:28.70,Default,,0000,0000,0000,,Mogao bi bar da se pretvaraš\nda je to bila teška odluka!
+Dialogue: 0,1:21:29.00,1:21:31.80,Default,,0000,0000,0000,,Nameravam da uspostavim\nkomunikacije sa Zvezdanom flotom
+Dialogue: 0,1:21:32.30,1:21:35.60,Default,,0000,0000,0000,,Ali ako æe tako moral posade porasti
+Dialogue: 0,1:21:36.10,1:21:39.40,Default,,0000,0000,0000,,rado æu prihvatiti vaše medicinsko znanje.
+Dialogue: 0,1:21:40.70,1:21:42.40,Default,,0000,0000,0000,,Izvinite me!
+Dialogue: 0,1:21:46.50,1:21:48.80,Default,,0000,0000,0000,,Taj Goblin zelene krvi...
+Dialogue: 0,1:22:25.30,1:22:27.10,Default,,0000,0000,0000,,Hej!
+Dialogue: 0,1:23:09.20,1:23:11.10,Default,,0000,0000,0000,,Šta je!
+Dialogue: 0,1:23:14.40,1:23:16.30,Default,,0000,0000,0000,,Shvatate li vi koliko je\novo neprihvatljivo!
+Dialogue: 0,1:23:16.60,1:23:18.10,Default,,0000,0000,0000,,Fascinantno!\nŠta to?
+Dialogue: 0,1:23:18.40,1:23:21.10,Default,,0000,0000,0000,,Siguran sam da samo radite svoj posao,\nali zar niste mogli doši ranije?
+Dialogue: 0,1:23:21.50,1:23:25.60,Default,,0000,0000,0000,,Veæ sam 6 meseci ovde. Živim od proteinskih\ngrickalica i obeæanja za dobri obrok!
+Dialogue: 0,1:23:26.00,1:23:29.40,Default,,0000,0000,0000,,I taèno znam šta se ovde dogaða.\nKazna, jel tako. Izvršenje!
+Dialogue: 0,1:23:29.80,1:23:32.70,Default,,0000,0000,0000,,Za nešto što je oèigledno bila greška!
+Dialogue: 0,1:23:33.10,1:23:35.60,Default,,0000,0000,0000,,Ti si Montgomeri Skot?\nPoznaješ ga?
+Dialogue: 0,1:23:36.00,1:23:37.70,Default,,0000,0000,0000,,Taj sam. Na pravom ste mestu!
+Dialogue: 0,1:23:38.30,1:23:40.50,Default,,0000,0000,0000,,Osim ako nema još nekog vrednijeg\ni gladnijeg flotinog oficira ovde.
+Dialogue: 0,1:23:40.90,1:23:43.30,Default,,0000,0000,0000,,Ja!\nUmukni!
+Dialogue: 0,1:23:43.70,1:23:46.50,Default,,0000,0000,0000,,Sve bi uradio. Jedeš malo kao pèela.
+Dialogue: 0,1:23:47.10,1:23:51.20,Default,,0000,0000,0000,,Govorim o hrani. Pravoj hrani. Ali vi\nste ovde, pa hvala vam. Gde je?
+Dialogue: 0,1:23:51.70,1:23:56.10,Default,,0000,0000,0000,,Vi ste ustvari G. Skot koji je postavio\nteoriju transvorpskog transportovanja?
+Dialogue: 0,1:23:56.40,1:23:59.50,Default,,0000,0000,0000,,O tome ti govorim.\nNisam zaslužio da završim ovde!
+Dialogue: 0,1:23:59.80,1:24:02.20,Default,,0000,0000,0000,,Imao sam malu debatu sa\nsvojim instruktorom na pitanjima...
+Dialogue: 0,1:24:02.60,1:24:05.20,Default,,0000,0000,0000,,relativistièke fizike i kako se ona\nodražava na podprostorna putovanja.
+Dialogue: 0,1:24:05.70,1:24:09.00,Default,,0000,0000,0000,,On je smatrao da je udaljenost na koju se\nmože transportovati nešto kao grejpfrut...
+Dialogue: 0,1:24:09.60,1:24:12.10,Default,,0000,0000,0000,,limitirana na oko 250 km.\nRekao sam mu da ne samo što mogu...
+Dialogue: 0,1:24:12.70,1:24:14.90,Default,,0000,0000,0000,,poslati grejpfrut sa jedne\nna drugu planetu...
+Dialogue: 0,1:24:14.90,1:24:17.00,Default,,0000,0000,0000,,u istom sistemu, što je,\nuzgred reèeno, lako.
+Dialogue: 0,1:24:17.60,1:24:22.30,Default,,0000,0000,0000,,Mogu to da uradim sa oblikom života.\nTako sam je testirao na psu Admirala Arèera!
+Dialogue: 0,1:24:22.80,1:24:24.70,Default,,0000,0000,0000,,Znam za to.\nŠta se desilo sa tim psom?
+Dialogue: 0,1:24:25.10,1:24:26.50,Default,,0000,0000,0000,,Reciæu ti kada se ponovo pojavi!
+Dialogue: 0,1:24:27.10,1:24:28.60,Default,,0000,0000,0000,,Ne znam. Još uvek se\noseæam krivim zbog toga!
+Dialogue: 0,1:24:28.80,1:24:31.00,Default,,0000,0000,0000,,Šta ako bih ti rekao da\nje tvoja teorija bila taèna,
+Dialogue: 0,1:24:31.40,1:24:34.30,Default,,0000,0000,0000,,da je moguæe transportovati se\nna brod koji putuje vorp brzinom.
+Dialogue: 0,1:24:34.70,1:24:37.10,Default,,0000,0000,0000,,Da je ta jednaèina\notkrivena, èuo bih za to!
+Dialogue: 0,1:24:37.50,1:24:41.10,Default,,0000,0000,0000,,Niste èuli G. Skot, zato\nšto je još niste pronašli!
+Dialogue: 0,1:24:46.80,1:24:50.70,Default,,0000,0000,0000,,Jel ste vi iz buduænosti?\nDa, on je. Ja nisam!
+Dialogue: 0,1:24:51.10,1:24:53.80,Default,,0000,0000,0000,,Pa to je sjajno.\nDa li tamo još prave sendvièe?
+Dialogue: 0,1:24:53.90,1:24:56.00,Default,,0000,0000,0000,,Pa malo je stara. Štitovi su\npotpuno neupotrebljivi.
+Dialogue: 0,1:24:56.30,1:24:58.70,Default,,0000,0000,0000,,Kao i mnogo ostalih stvari.
+Dialogue: 0,1:24:58.90,1:25:00.30,Default,,0000,0000,0000,,Možete uæi.
+Dialogue: 0,1:25:01.10,1:25:03.20,Default,,0000,0000,0000,,Znaèi, Enterprajz je na svom\nkrštenom putovanju?
+Dialogue: 0,1:25:03.20,1:25:05.10,Default,,0000,0000,0000,,To je jedan dobar brod
+Dialogue: 0,1:25:05.10,1:25:09.10,Default,,0000,0000,0000,,Voleo bih da se doèepam njegovih motora,\nkako se to inženjerski kaže.
+Dialogue: 0,1:25:11.40,1:25:15.40,Default,,0000,0000,0000,,Èak i kada bih vam verovao.\nOdakle ste. Šta sam ja uradio,
+Dialogue: 0,1:25:15.40,1:25:19.80,Default,,0000,0000,0000,,u što, uzgred, ne verujem. Još uvek\nprièamo o transportovanju na Enterprajz,
+Dialogue: 0,1:25:19.80,1:25:22.60,Default,,0000,0000,0000,,koji putuje brže od svetlosti, bez\nodgovarajuæeg prijemnika na njemu.
+Dialogue: 0,1:25:22.60,1:25:25.20,Default,,0000,0000,0000,,Silazi odatle. Tu se ne sme penjati!
+Dialogue: 0,1:25:25.70,1:25:27.10,Default,,0000,0000,0000,,Transvort transportovanje vam je...
+Dialogue: 0,1:25:27.10,1:25:30.40,Default,,0000,0000,0000,,kao da pokušavate da pogodite\nmetak, manjim metkom...
+Dialogue: 0,1:25:30.40,1:25:33.40,Default,,0000,0000,0000,,dok imate povez na\noèima i jašete konja!
+Dialogue: 0,1:25:33.40,1:25:34.50,Default,,0000,0000,0000,,Šta je to?
+Dialogue: 0,1:25:34.50,1:25:37.70,Default,,0000,0000,0000,,Tvoja jednašina za postizanje\ntransvorp transportovanja!
+Dialogue: 0,1:25:40.00,1:25:41.90,Default,,0000,0000,0000,,Da vidim!
+Dialogue: 0,1:25:45.30,1:25:49.30,Default,,0000,0000,0000,,Zamisli to! Nikad mi nije palo na pamet da\nsvemir posmatram kao pokretni prostor.
+Dialogue: 0,1:25:49.90,1:25:51.90,Default,,0000,0000,0000,,Ideš sa nama, zar ne?
+Dialogue: 0,1:25:53.70,1:25:56.00,Default,,0000,0000,0000,,Ne, Džime.\nTo nije moja sudbina!
+Dialogue: 0,1:25:56.80,1:25:58.40,Default,,0000,0000,0000,,Tvoja sudb...
+Dialogue: 0,1:25:59.00,1:26:01.60,Default,,0000,0000,0000,,Drugi Spok mi neæe verovati.\nSamo ti mu možeš objasniti...
+Dialogue: 0,1:26:01.60,1:26:05.80,Default,,0000,0000,0000,,Ni pod kojim okolnostima On ne sme\nbiti svestan moga postojanja. Obeæaj mi to!
+Dialogue: 0,1:26:06.30,1:26:09.00,Default,,0000,0000,0000,,Kažeš mi da ne smem Tebi reæi da\nsledim tvoja nareðenja?
+Dialogue: 0,1:26:09.50,1:26:10.20,Default,,0000,0000,0000,,Zašto ne?\nŠta æe se dogoditi?
+Dialogue: 0,1:26:10.20,1:26:12.60,Default,,0000,0000,0000,,Džime, ovo obeæanje ne smeš da prekršiš
+Dialogue: 0,1:26:12.60,1:26:16.40,Default,,0000,0000,0000,,Zaustavi Nira. Ti moraš preuzeti\nkomandu nad svojim brodom!
+Dialogue: 0,1:26:16.40,1:26:18.20,Default,,0000,0000,0000,,Kako? Preko tebe mrtvog?
+Dialogue: 0,1:26:18.20,1:26:19.40,Default,,0000,0000,0000,,Po moguæstvu, ne!
+Dialogue: 0,1:26:19.40,1:26:22.30,Default,,0000,0000,0000,,Postoji Pravilo Flote 619.
+Dialogue: 0,1:26:23.00,1:26:26.10,Default,,0000,0000,0000,,Pravilo 619 kaže,\nda bilo koji oficir Flote koji je...
+Dialogue: 0,1:26:26.50,1:26:29.10,Default,,0000,0000,0000,,emotivno upleten u misiju koja sledi,
+Dialogue: 0,1:26:29.70,1:26:31.80,Default,,0000,0000,0000,,mora prepustiti komandovanje drugom.
+Dialogue: 0,1:26:33.40,1:26:37.30,Default,,0000,0000,0000,,Kažeš da moram da te\nemotivno kompromitujem?
+Dialogue: 0,1:26:37.30,1:26:40.60,Default,,0000,0000,0000,,Džime, upravo sam izgubio planetu!
+Dialogue: 0,1:26:41.60,1:26:45.30,Default,,0000,0000,0000,,Mogu ti reæi, emotivno\nsam kompromitovan!
+Dialogue: 0,1:26:45.60,1:26:48.40,Default,,0000,0000,0000,,Moraš me naterati da to pokažem.
+Dialogue: 0,1:26:48.40,1:26:51.10,Default,,0000,0000,0000,,U redu momci. Spremni smo\nza polazak. Završimo sa ovim!
+Dialogue: 0,1:26:57.90,1:27:00.10,Default,,0000,0000,0000,,Ne možeš samnom Idi!
+Dialogue: 0,1:27:01.20,1:27:05.70,Default,,0000,0000,0000,,Vraæati se u prošlost, menjati istoriju.\nTo je varanje!
+Dialogue: 0,1:27:08.00,1:27:10.90,Default,,0000,0000,0000,,To sam nauèio od starog prijatelja.
+Dialogue: 0,1:27:19.30,1:27:22.90,Default,,0000,0000,0000,,Živi dugo i uspešno!
+Dialogue: 0,1:27:42.00,1:27:44.20,Default,,0000,0000,0000,,Gospodine Skot!
+Dialogue: 0,1:27:48.60,1:27:50.80,Default,,0000,0000,0000,,Gospodine Skot, èujete li me?
+Dialogue: 0,1:27:58.30,1:28:01.20,Default,,0000,0000,0000,,Saèekaj sekundu!
+Dialogue: 0,1:28:18.40,1:28:19.60,Default,,0000,0000,0000,,Ne.
+Dialogue: 0,1:28:30.50,1:28:31.60,Default,,0000,0000,0000,,<i><b>VENTIL ZA OTPUŠTANJE</b></i>
+Dialogue: 0,1:28:38.90,1:28:41.80,Default,,0000,0000,0000,,<i><b>ZATVARANJE VENTILA</b></i>
+Dialogue: 0,1:28:48.10,1:28:50.80,Default,,0000,0000,0000,,Da li si dobro?
+Dialogue: 0,1:28:52.70,1:28:55.40,Default,,0000,0000,0000,,Uši mi zuje i mokar sam.\nInaèe sam dobro!
+Dialogue: 0,1:28:55.40,1:29:00.80,Default,,0000,0000,0000,,Kapetane Spok. Detektujem\nneovlašæen pristup turbini za vodu.
+Dialogue: 0,1:29:01.20,1:29:03.00,Default,,0000,0000,0000,,Dajte video!
+Dialogue: 0,1:29:06.70,1:29:10.30,Default,,0000,0000,0000,,Obezbeðenje, osigurajte Pogon.\nImamo uljeze u sektoru 3 Turbina!
+Dialogue: 0,1:29:11.40,1:29:13.00,Default,,0000,0000,0000,,Postavite fazore na omamljivanje!
+Dialogue: 0,1:29:24.70,1:29:26.20,Default,,0000,0000,0000,,Stoj!
+Dialogue: 0,1:29:30.70,1:29:34.20,Default,,0000,0000,0000,,Poðite samnom...\nKolaèiæi.
+Dialogue: 0,1:29:41.70,1:29:43.10,Default,,0000,0000,0000,,Ko si ti? Ja sam sa njim!\nOn je samnom.
+Dialogue: 0,1:29:43.20,1:29:46.30,Default,,0000,0000,0000,,Putujemo vorp brzinom.\nKako ste se transpotovali na brod?
+Dialogue: 0,1:29:46.30,1:29:47.70,Default,,0000,0000,0000,,Ti si genije. Sam shvati!
+Dialogue: 0,1:29:47.70,1:29:50.80,Default,,0000,0000,0000,,Kao vršilac dužnosti Kapetan,\nnareðujem ti da odgovoriš na pitanje!
+Dialogue: 0,1:29:50.80,1:29:53.20,Default,,0000,0000,0000,,Pa neæu ti reæi, vršioce dužnosti!
+Dialogue: 0,1:29:56.60,1:30:00.50,Default,,0000,0000,0000,,O, to te ne frustrira, zar ne?\nMoja ne saradnja? To te ne Ijuti?
+Dialogue: 0,1:30:00.50,1:30:03.70,Default,,0000,0000,0000,,Da li si èIan Flote?\nDa. Mogu li da dobijem peškir?
+Dialogue: 0,1:30:03.70,1:30:06.20,Default,,0000,0000,0000,,Pod pretnjom Vojnog suda,\nnareðujem vam da mi objasnite...
+Dialogue: 0,1:30:06.20,1:30:08.50,Default,,0000,0000,0000,,kako ste se transportovali\nna brod dok smo u vorpu?
+Dialogue: 0,1:30:08.90,1:30:10.00,Default,,0000,0000,0000,,Pa...\nNe odgovaraj mu!
+Dialogue: 0,1:30:10.00,1:30:12.30,Default,,0000,0000,0000,,Odgovoriæete mi!
+Dialogue: 0,1:30:13.50,1:30:16.40,Default,,0000,0000,0000,,Ne bih da biram strane.\nŠta je to sa tobom Spok?
+Dialogue: 0,1:30:18.80,1:30:23.80,Default,,0000,0000,0000,,Planeta ti je uništena, majka ubijena,\na ti nisi ni uznemiren.
+Dialogue: 0,1:30:23.80,1:30:26.40,Default,,0000,0000,0000,,Ako pretpostavljate da ti dogaðaji,\nna bilo koji naèin dovode u pitanje...
+Dialogue: 0,1:30:26.40,1:30:28.60,Default,,0000,0000,0000,,moji sposobnost da\nkomandujem brodom, varate se!
+Dialogue: 0,1:30:28.60,1:30:32.10,Default,,0000,0000,0000,,A opet, ti si taj koji je rekao da je strah\nneophodan da bi neko komandovao.
+Dialogue: 0,1:30:32.10,1:30:35.40,Default,,0000,0000,0000,,Video si njegov brod?\nVideo si šta je uradio?
+Dialogue: 0,1:30:36.30,1:30:38.50,Default,,0000,0000,0000,,Naravno da sam video!\nDakle, bojiš li se, ili ne?
+Dialogue: 0,1:30:38.50,1:30:41.00,Default,,0000,0000,0000,,Nešu ti dozvoliti da mi držiš\npredavanja o emocijama.
+Dialogue: 0,1:30:41.00,1:30:42.80,Default,,0000,0000,0000,,Zašto me onda ne zaustaviš?\nSkloni se sa Mosta.
+Dialogue: 0,1:30:42.80,1:30:46.80,Default,,0000,0000,0000,,Kako je to ne oseæati bes?\nNe oseæati tugu?
+Dialogue: 0,1:30:46.80,1:30:50.30,Default,,0000,0000,0000,,Ili potrebu da te ništa ne zaustavi da\nosvetiš smrt žene koja te je rodila?
+Dialogue: 0,1:30:50.30,1:30:52.20,Default,,0000,0000,0000,,Prekini sa ovim.\nNe oseæaš ništa!
+Dialogue: 0,1:30:52.20,1:30:54.80,Default,,0000,0000,0000,,Tebi to sigurno nije ni važno
+Dialogue: 0,1:30:55.40,1:30:57.10,Default,,0000,0000,0000,,Nikada je nisi ni voleo!
+Dialogue: 0,1:31:21.50,1:31:23.00,Default,,0000,0000,0000,,Spok!
+Dialogue: 0,1:32:00.20,1:32:02.90,Default,,0000,0000,0000,,Doktore, nisam više sposoban za dužnost.
+Dialogue: 0,1:32:02.90,1:32:07.70,Default,,0000,0000,0000,,Ovim prepuštam dužnost s obzirom da\nsam emocionalno kompromitovan.
+Dialogue: 0,1:32:08.80,1:32:11.00,Default,,0000,0000,0000,,Zabeležite vremei datum u brodski dnevnik!
+Dialogue: 0,1:32:38.00,1:32:40.00,Default,,0000,0000,0000,,Îmi place nava.
+Dialogue: 0,1:32:40.30,1:32:41.90,Default,,0000,0000,0000,,Obožavam ovaj brod!\nUzbudljiv je.
+Dialogue: 0,1:32:44.70,1:32:50.10,Default,,0000,0000,0000,,Èestitam ti Džime. Sada nemamo Kapetana\nkao ni Prvog oficira da ga zameni.
+Dialogue: 0,1:32:51.00,1:32:52.70,Default,,0000,0000,0000,,Imamo!
+Dialogue: 0,1:32:52.70,1:32:55.30,Default,,0000,0000,0000,,Šta je?\nPajk ga je unapredovao u Prvog oficira.
+Dialogue: 0,1:32:55.60,1:32:58.40,Default,,0000,0000,0000,,Mora da se šališ?\nHvala na podršci.
+Dialogue: 0,1:33:01.60,1:33:05.50,Default,,0000,0000,0000,,Nadam se da znaš šta radiš, Kapetane!
+Dialogue: 0,1:33:06.70,1:33:08.70,Default,,0000,0000,0000,,Kao i ja.
+Dialogue: 0,1:33:13.00,1:33:15.70,Default,,0000,0000,0000,,Pažnja posado Enterprajza.\nGovori Džejms Kirk.
+Dialogue: 0,1:33:17.00,1:33:20.70,Default,,0000,0000,0000,,G. Spok se povukao sa položaja i uèinio\nmene vršiocem dužnosti Kapetana.
+Dialogue: 0,1:33:21.70,1:33:24.50,Default,,0000,0000,0000,,Znam da svi oèekujete da\nse sastanemo sa Flotom,
+Dialogue: 0,1:33:25.50,1:33:27.10,Default,,0000,0000,0000,,Ali ja nareðujem da se poène potera\nza neprijateljskim brodom...
+Dialogue: 0,1:33:27.50,1:33:28.70,Default,,0000,0000,0000,,koji ide prema Zemlji. Hoæu da\nsu sve palube spremne...
+Dialogue: 0,1:33:29.10,1:33:31.10,Default,,0000,0000,0000,,za borbena dejstva za 10 minuta!
+Dialogue: 0,1:33:31.20,1:33:35.50,Default,,0000,0000,0000,,Ili æemo mi biti uništeni,\nili æe to biti oni!
+Dialogue: 0,1:33:36.20,1:33:37.50,Default,,0000,0000,0000,,Kirk prekida.
+Dialogue: 0,1:33:45.20,1:33:47.50,Default,,0000,0000,0000,,Kaži šta ti je na umu Spok!
+Dialogue: 0,1:33:50.10,1:33:52.00,Default,,0000,0000,0000,,To ne bi bilo mudro.
+Dialogue: 0,1:33:52.00,1:33:56.00,Default,,0000,0000,0000,,Ono što je nužno, uvek je mudro.
+Dialogue: 0,1:33:57.30,1:34:00.50,Default,,0000,0000,0000,,Borim se sa sobom kao nekada,\nkada sam bio dete.
+Dialogue: 0,1:34:02.20,1:34:05.10,Default,,0000,0000,0000,,Uvek žeš biti dete dva sveta.
+Dialogue: 0,1:34:06.90,1:34:09.60,Default,,0000,0000,0000,,Zahvalan sam zbog toga.
+Dialogue: 0,1:34:10.70,1:34:12.70,Default,,0000,0000,0000,,I zbog tebe!
+Dialogue: 0,1:34:14.10,1:34:17.40,Default,,0000,0000,0000,,Oseæam bes prema onome\nkoji je uzeo majèin život.
+Dialogue: 0,1:34:18.70,1:34:21.60,Default,,0000,0000,0000,,Bes koji ne mogu da kontrolišem.
+Dialogue: 0,1:34:25.70,1:34:27.30,Default,,0000,0000,0000,,Verujem...
+Dialogue: 0,1:34:29.40,1:34:31.30,Default,,0000,0000,0000,,da bi ona rekla...
+Dialogue: 0,1:34:32.30,1:34:34.50,Default,,0000,0000,0000,,da ni ne pokušavaš!
+Dialogue: 0,1:34:34.70,1:34:39.30,Default,,0000,0000,0000,,Jednom si me pitao,\nzašto sam oženio tvoju majku.
+Dialogue: 0,1:34:43.50,1:34:46.40,Default,,0000,0000,0000,,Oženio sam je zato što sam je voleo!
+Dialogue: 0,1:34:54.10,1:34:56.60,Default,,0000,0000,0000,,Kako god bilo, moramo se ukrcati\nna Nirov brod neprimeæeni.
+Dialogue: 0,1:34:56.60,1:34:59.10,Default,,0000,0000,0000,,Ne možemo samo otiæi tamo\ni poèeti da pucamo Džime!
+Dialogue: 0,1:34:59.10,1:35:00.90,Default,,0000,0000,0000,,Kažem ti da to neæe...
+Dialogue: 0,1:35:00.90,1:35:03.80,Default,,0000,0000,0000,,Kapetane Kirk.\nDa, Èehove. Šta je?
+Dialogue: 0,1:35:03.80,1:35:05.70,Default,,0000,0000,0000,,Na osnovu kursa Norade\nkada su otišli sa Vulkana,
+Dialogue: 0,1:35:05.70,1:35:09.10,Default,,0000,0000,0000,,predvideo sam da æe\nNiro proæi pšored Saturna.
+Dialogue: 0,1:35:09.10,1:35:12.60,Default,,0000,0000,0000,,Kao što ste rekli, moramo ostati\nnevidljivi za njih, ili æe nas uništiti.
+Dialogue: 0,1:35:12.60,1:35:15.20,Default,,0000,0000,0000,,Ako nas G. Skot može\nubrzati na vorp faktor 4
+Dialogue: 0,1:35:15.20,1:35:19.70,Default,,0000,0000,0000,,I ako možemo izaæi iz vorpa iza jednog\nod Saturnovih satelita, recimo Titana,
+Dialogue: 0,1:35:19.70,1:35:22.20,Default,,0000,0000,0000,,Magnetna distorzija planetarnog prstena
+Dialogue: 0,1:35:22.30,1:35:24.80,Default,,0000,0000,0000,,uèiniæe nas nevidljivim\nza Nirove senzore.
+Dialogue: 0,1:35:24.80,1:35:27.20,Default,,0000,0000,0000,,Odatle, sve dok Bušilica nije aktivna
+Dialogue: 0,1:35:27.20,1:35:28.90,Default,,0000,0000,0000,,možemo se transportovati\nna neprijateljski brod.
+Dialogue: 0,1:35:28.90,1:35:30.70,Default,,0000,0000,0000,,Da. To bi moglo da upali!
+Dialogue: 0,1:35:31.20,1:35:33.70,Default,,0000,0000,0000,,Èekaj malo klinac. Koliko imaš godina?\n17, gospodine.
+Dialogue: 0,1:35:34.30,1:35:35.60,Default,,0000,0000,0000,,Sjajno, ima 17.
+Dialogue: 0,1:35:35.70,1:35:37.40,Default,,0000,0000,0000,,Doktore.
+Dialogue: 0,1:35:37.40,1:35:41.00,Default,,0000,0000,0000,,G. Èehov je u pravu.\nMogu da potvrdim njegovu telemetriju.
+Dialogue: 0,1:35:41.10,1:35:43.30,Default,,0000,0000,0000,,Ako G. Sulu uspe da nas\ndovede na poziciju...
+Dialogue: 0,1:35:43.30,1:35:46.10,Default,,0000,0000,0000,,ja mogu da se transportujem na Nirov brod,\nukradem napravu za crne rupe,
+Dialogue: 0,1:35:46.10,1:35:48.60,Default,,0000,0000,0000,,i, ako je moguæe, vratim Kapetana Pajka!
+Dialogue: 0,1:35:49.00,1:35:51.00,Default,,0000,0000,0000,,Neæu vam dozvoliti\nda to uradite G. Spok!
+Dialogue: 0,1:35:51.70,1:35:54.40,Default,,0000,0000,0000,,Romulanci i Vulkanci\ndele zajednièko poreklo,
+Dialogue: 0,1:35:55.40,1:35:57.00,Default,,0000,0000,0000,,Naše kulturne sliènosti olakšaæe mi da...
+Dialogue: 0,1:35:57.30,1:36:00.50,Default,,0000,0000,0000,,pristupim brodskom kompjuteru\ni lociram napravu.
+Dialogue: 0,1:36:01.90,1:36:03.70,Default,,0000,0000,0000,,Takoðe, majka mi je bila Zemljanka.
+Dialogue: 0,1:36:04.30,1:36:06.70,Default,,0000,0000,0000,,To èini Zemlju jedinim domom\nkoji mi je preostao.
+Dialogue: 0,1:36:12.90,1:36:14.90,Default,,0000,0000,0000,,Onda i ja idem sa vama!
+Dialogue: 0,1:36:15.10,1:36:18.30,Default,,0000,0000,0000,,To je protiv propisa, ali znam da\næe te vi to prosto ignorisati.
+Dialogue: 0,1:36:20.90,1:36:24.00,Default,,0000,0000,0000,,Vidiš! Poèinjemo da se upoznajemo!
+Dialogue: 0,1:36:39.40,1:36:41.50,Default,,0000,0000,0000,,Pripremite Bušilicu!
+Dialogue: 0,1:36:57.60,1:36:59.30,Default,,0000,0000,0000,,Stajemo za...
+Dialogue: 0,1:36:59.60,1:37:01.00,Default,,0000,0000,0000,,3...
+Dialogue: 0,1:37:01.40,1:37:02.70,Default,,0000,0000,0000,,2...
+Dialogue: 0,1:37:03.10,1:37:04.30,Default,,0000,0000,0000,,1...
+Dialogue: 0,1:37:07.90,1:37:10.90,Default,,0000,0000,0000,,Daj mi 1/4 impulsne brzine,\nod 5 sekundi...
+Dialogue: 0,1:37:10.90,1:37:12.80,Default,,0000,0000,0000,,Ostalo æu potisnicima.\nNa moj znak!
+Dialogue: 0,1:37:12.80,1:37:13.80,Default,,0000,0000,0000,,U redu!
+Dialogue: 0,1:37:14.50,1:37:15.50,Default,,0000,0000,0000,,Pali!
+Dialogue: 0,1:37:42.30,1:37:44.80,Default,,0000,0000,0000,,Transportno odeljenje.\nNa poziciji smo iznad Titana!
+Dialogue: 0,1:37:45.20,1:37:48.00,Default,,0000,0000,0000,,Stvarno? Odièan posao G. Sulu.\nBravo
+Dialogue: 0,1:37:48.60,1:37:51.80,Default,,0000,0000,0000,,Kako stojimo Skoti?\nDa ne poveruješ. Brod je na poziciji.
+Dialogue: 0,1:37:56.20,1:37:58.10,Default,,0000,0000,0000,,Šta god da se desi G. Sulu...
+Dialogue: 0,1:37:58.60,1:38:01.20,Default,,0000,0000,0000,,Ako imate taktièku prednost,\npucajte na taj brod.
+Dialogue: 0,1:38:01.60,1:38:03.80,Default,,0000,0000,0000,,Èak iako smo mi još na njemu.\nTo je nareðenje!
+Dialogue: 0,1:38:05.30,1:38:06.30,Default,,0000,0000,0000,,Da, gospodine!
+Dialogue: 0,1:38:06.30,1:38:09.20,Default,,0000,0000,0000,,U suprotnom æemo kontaktirati Enterprajz\nkada budemo bili spremni za transport nazad.
+Dialogue: 0,1:38:10.10,1:38:12.40,Default,,0000,0000,0000,,Sreæno!
+Dialogue: 0,1:38:24.40,1:38:27.30,Default,,0000,0000,0000,,Vratiæu se.\nBolje bi ti bilo.
+Dialogue: 0,1:38:28.70,1:38:32.70,Default,,0000,0000,0000,,Pratiæu tvoju frekvenciju.\nHvala ti Niota.
+Dialogue: 0,1:38:49.00,1:38:51.80,Default,,0000,0000,0000,,Zove se Niota?\nNemam komentar na tu temu!.
+Dialogue: 0,1:38:51.80,1:38:55.20,Default,,0000,0000,0000,,U redu. Ako je taj brod pravljen\nsa ikakvim smislom...
+Dialogue: 0,1:38:55.20,1:38:58.30,Default,,0000,0000,0000,,trebalo bi da vas transportujem\nnegde u Skladište.
+Dialogue: 0,1:38:58.60,1:38:59.70,Default,,0000,0000,0000,,Transpotruj!
+Dialogue: 0,1:39:43.00,1:39:45.70,Default,,0000,0000,0000,,Kapetane, imamo oficire Flote na brodu.
+Dialogue: 0,1:39:45.70,1:39:48.40,Default,,0000,0000,0000,,Jedan od njih je Vulkanac!\nNe.
+Dialogue: 0,1:39:52.80,1:39:54.60,Default,,0000,0000,0000,,Ajal!
+Dialogue: 0,1:40:08.50,1:40:11.00,Default,,0000,0000,0000,,Pokrivaæu te.\nDa li si siguran?
+Dialogue: 0,1:40:11.00,1:40:12.50,Default,,0000,0000,0000,,Da. Imam te.
+Dialogue: 0,1:40:32.10,1:40:35.90,Default,,0000,0000,0000,,Znaš li gde se nalazi?\nNaprava za crnu rupu?
+Dialogue: 0,1:40:37.30,1:40:39.50,Default,,0000,0000,0000,,I Kapetan Pajk.
+Dialogue: 0,1:41:01.60,1:41:02.70,Default,,0000,0000,0000,,Pomeri se!
+Dialogue: 0,1:41:03.50,1:41:05.60,Default,,0000,0000,0000,,Aktivirali se Bušilicu!
+Dialogue: 0,1:41:06.60,1:41:08.20,Default,,0000,0000,0000,,Komunikacije i Transport ne rade,
+Dialogue: 0,1:41:08.20,1:41:09.80,Default,,0000,0000,0000,,Sulu, molim te mi reci da ih imaš?
+Dialogue: 0,1:41:09.90,1:41:11.50,Default,,0000,0000,0000,,Inaèe neæemo moæi da ih vratimo nazad!
+Dialogue: 0,1:41:11.50,1:41:13.50,Default,,0000,0000,0000,,Kirk i Spok su sami sada!
+Dialogue: 0,1:41:33.00,1:41:34.40,Default,,0000,0000,0000,,Predviðam komplikacije.
+Dialogue: 0,1:41:34.80,1:41:37.00,Default,,0000,0000,0000,,Dizajn ovog broda je komplikovaniji\nnego što sam oèekivao.
+Dialogue: 0,1:41:37.00,1:41:39.50,Default,,0000,0000,0000,,<i><b>Glasovni kod i\nprepoznavanje lica je potvrðeno.</b></i>
+Dialogue: 0,1:41:39.80,1:41:41.90,Default,,0000,0000,0000,,<i><b>Dobrodošli nazad Ambasadore Spok</b></i>
+Dialogue: 0,1:41:41.90,1:41:43.30,Default,,0000,0000,0000,,To je èudno!
+Dialogue: 0,1:41:44.60,1:41:47.60,Default,,0000,0000,0000,,Kompjuteru, koje je tvoje\nproizvoðaèko poreklo?
+Dialogue: 0,1:41:47.60,1:41:52.20,Default,,0000,0000,0000,,<i><b>Datum 2387.\nVulkanska Akademija nauka.</b></i>
+Dialogue: 0,1:41:55.30,1:41:57.50,Default,,0000,0000,0000,,Izgleda da si skrivao vazne\ninformacije od mene?
+Dialogue: 0,1:41:57.50,1:41:59.60,Default,,0000,0000,0000,,Moæi æeš da letiš sa ovim, zar ne?
+Dialogue: 0,1:41:59.60,1:42:01.50,Default,,0000,0000,0000,,Nešto mi govori da veæ jesam!
+Dialogue: 0,1:42:02.70,1:42:04.60,Default,,0000,0000,0000,,Sreæno!\nDžime.
+Dialogue: 0,1:42:05.60,1:42:09.20,Default,,0000,0000,0000,,Verovatnoæa da æe naš plan\nuspeti manja je od 4.3%
+Dialogue: 0,1:42:09.70,1:42:11.30,Default,,0000,0000,0000,,Uspeæe!\nU sluèaju da se ne vratim...
+Dialogue: 0,1:42:11.70,1:42:14.70,Default,,0000,0000,0000,,molim te reci poruènici Uhuri...\nSpok! Uspeæe.
+Dialogue: 0,1:42:24.70,1:42:26.10,Default,,0000,0000,0000,,Fascinantno!
+Dialogue: 0,1:42:34.70,1:42:37.40,Default,,0000,0000,0000,,<i><b>Poletanje otpoèelo</b></i>
+Dialogue: 0,1:43:21.10,1:43:23.80,Default,,0000,0000,0000,,Niro, naredi Ijudima da\nonesposobe Bušilicu ili æu...
+Dialogue: 0,1:43:33.90,1:43:36.90,Default,,0000,0000,0000,,Znam tvoje lice.\nIz Zemljine istorije.
+Dialogue: 0,1:44:22.00,1:44:24.60,Default,,0000,0000,0000,,Džejms T. Kirk se\nsmatrao velikim èovekom.
+Dialogue: 0,1:44:25.40,1:44:29.40,Default,,0000,0000,0000,,Bio je Kapetan USS Enterprajza.\nAli to je bio u drugom životu!
+Dialogue: 0,1:44:30.20,1:44:33.00,Default,,0000,0000,0000,,Životu kojeg æu te lišiti,\nkao što sam lišio i tvog oca!
+Dialogue: 0,1:45:05.90,1:45:09.80,Default,,0000,0000,0000,,Kapetane Niro, neko je uzeo vulkanski brod.\nBušilica je uništena!
+Dialogue: 0,1:45:10.60,1:45:15.00,Default,,0000,0000,0000,,Spok!
+Dialogue: 0,1:45:32.60,1:45:34.40,Default,,0000,0000,0000,,Otvorite kanal!\nDa, gospodine!
+Dialogue: 0,1:45:35.70,1:45:39.00,Default,,0000,0000,0000,,Znao sam da sam te trebao\nubiti dok sam imao priliku:
+Dialogue: 0,1:45:39.00,1:45:41.20,Default,,0000,0000,0000,,Ovim konfiskujem ovaj nelegalno uzet brod...
+Dialogue: 0,1:45:41.20,1:45:43.00,Default,,0000,0000,0000,,i nareðujem ti da predaš svoj brod!
+Dialogue: 0,1:45:43.00,1:45:44.50,Default,,0000,0000,0000,,Taj brod. Skinite ga!
+Dialogue: 0,1:45:44.50,1:45:47.80,Default,,0000,0000,0000,,Gospodine ako se Crvena materija zapali...\nHoæu Spoka mrtvog, odmah!
+Dialogue: 0,1:46:03.40,1:46:05.20,Default,,0000,0000,0000,,Otišao je u vorp.\nPratite ga!
+Dialogue: 0,1:46:05.20,1:46:06.20,Default,,0000,0000,0000,,Da, gospodine.
+Dialogue: 0,1:46:36.60,1:46:39.20,Default,,0000,0000,0000,,Slabiji si nego što sam oèekivao!
+Dialogue: 0,1:46:43.10,1:46:45.10,Default,,0000,0000,0000,,Ne možeš ni da govoriš!
+Dialogue: 0,1:46:47.20,1:46:48.40,Default,,0000,0000,0000,,Šta je?
+Dialogue: 0,1:46:48.90,1:46:51.30,Default,,0000,0000,0000,,Imam tvoj pištolj!
+Dialogue: 0,1:47:17.30,1:47:18.60,Default,,0000,0000,0000,,Šta to radi?
+Dialogue: 0,1:47:18.60,1:47:21.70,Default,,0000,0000,0000,,<i><b>Ambasadore Spok,\nuneli ste kurs za sudar</b></i>
+Dialogue: 0,1:47:22.10,1:47:23.80,Default,,0000,0000,0000,,Pucajte iz svih oružja!
+Dialogue: 0,1:47:30.50,1:47:34.70,Default,,0000,0000,0000,,<i><b>Dolazeæi projektili. Ako pogode brod,\nCrvena materija æe se zapaliti</b></i>
+Dialogue: 0,1:47:34.80,1:47:36.60,Default,,0000,0000,0000,,Razumeo!
+Dialogue: 0,1:47:42.50,1:47:44.00,Default,,0000,0000,0000,,Kapetane, otkrio sam još jedan brod!
+Dialogue: 0,1:48:05.60,1:48:08.10,Default,,0000,0000,0000,,Šta ti radiš ovde?\nSamo pratim nareðenja.
+Dialogue: 0,1:48:28.90,1:48:30.80,Default,,0000,0000,0000,,Enterprajze, sada!
+Dialogue: 0,1:48:53.40,1:48:55.20,Default,,0000,0000,0000,,Dobar tajming Skoti!
+Dialogue: 0,1:48:56.50,1:49:00.30,Default,,0000,0000,0000,,Nikada nisam uspeo da transportujem\n2 èoveka na jednu platformu.
+Dialogue: 0,1:49:00.30,1:49:02.70,Default,,0000,0000,0000,,Džime.\nMekoj.
+Dialogue: 0,1:49:05.80,1:49:07.70,Default,,0000,0000,0000,,To je bilo dobro!
+Dialogue: 0,1:49:08.30,1:49:11.50,Default,,0000,0000,0000,,Kapetane, neprijateljski brod gubi snagu.\nŠtitovi im ne rade!
+Dialogue: 0,1:49:11.60,1:49:13.50,Default,,0000,0000,0000,,Pozovi ih, odmah.\nRazumem!
+Dialogue: 0,1:49:49.00,1:49:51.70,Default,,0000,0000,0000,,Ovde Kapetan Džejms T Kirk\nsa USS Enterprajza,
+Dialogue: 0,1:49:52.30,1:49:54.90,Default,,0000,0000,0000,,Brod vam je ugrožen.\nPreblizu ste singularnosti...
+Dialogue: 0,1:49:54.90,1:49:57.90,Default,,0000,0000,0000,,da preživite bez pomoæi koju\nsmo voljni da vam pružimo.
+Dialogue: 0,1:50:01.10,1:50:03.00,Default,,0000,0000,0000,,Kapetane, šta to radite?
+Dialogue: 0,1:50:03.00,1:50:05.60,Default,,0000,0000,0000,,Jedini moguæi naèin za mir sa Romulancima\nje da im pokažemo samilost.
+Dialogue: 0,1:50:05.60,1:50:08.60,Default,,0000,0000,0000,,To je logièno Spok.\nMislio sam da æe ti se to svideti?
+Dialogue: 0,1:50:09.10,1:50:11.70,Default,,0000,0000,0000,,Ne, ne baš.\nNe ovoga puta!
+Dialogue: 0,1:50:11.70,1:50:16.00,Default,,0000,0000,0000,,Radije bih patio na Romulusu, hiljadu puta.
+Dialogue: 0,1:50:16.10,1:50:20.60,Default,,0000,0000,0000,,Radije bih umro u agoniji\nnego prihvatio pomoæ od vas!
+Dialogue: 0,1:50:20.60,1:50:21.80,Default,,0000,0000,0000,,Važi!
+Dialogue: 0,1:50:22.40,1:50:24.70,Default,,0000,0000,0000,,Naciljaj fazorima.\nPucajte iz svega što imamo!
+Dialogue: 0,1:50:24.70,1:50:25.70,Default,,0000,0000,0000,,Da, gospodine!
+Dialogue: 0,1:51:10.70,1:51:12.80,Default,,0000,0000,0000,,Sulu, idemo kuæi!\nDa, gospodine!
+Dialogue: 0,1:51:24.00,1:51:26.40,Default,,0000,0000,0000,,Zašto nismo u vorpu?\nJesmo gospodine.
+Dialogue: 0,1:51:26.40,1:51:28.70,Default,,0000,0000,0000,,Kirk zove Pogon.\nMièi nas odavde Skoti!
+Dialogue: 0,1:51:28.70,1:51:30.70,Default,,0000,0000,0000,,Možete da se kladite\nu to Kapetane!
+Dialogue: 0,1:51:33.70,1:51:35.80,Default,,0000,0000,0000,,Kapetane, gravitacija\nrupe nas je uhvatila!
+Dialogue: 0,1:51:35.80,1:51:37.50,Default,,0000,0000,0000,,Maksimalni vorp.\nNagazi ga!
+Dialogue: 0,1:51:37.50,1:51:39.50,Default,,0000,0000,0000,,Dajem vam sve što mogu Kapetane!
+Dialogue: 0,1:51:48.70,1:51:51.20,Default,,0000,0000,0000,,To nam nije dovoljno!\nŠta još možemo?
+Dialogue: 0,1:51:51.20,1:51:53.60,Default,,0000,0000,0000,,U redu, ako izbacimo\njezgro i detonujemo ga...
+Dialogue: 0,1:51:53.60,1:51:56.50,Default,,0000,0000,0000,,eksplozija bi trebalo da nas odgurne.\nNe mogu ništa da obeæ!am
+Dialogue: 0,1:51:59.80,1:52:01.70,Default,,0000,0000,0000,,Uradi to!
+Dialogue: 0,1:52:02.30,1:52:04.20,Default,,0000,0000,0000,,Napustite podruèje. Krenite!\nDa, gospodine!
+Dialogue: 0,1:53:31.80,1:53:33.20,Default,,0000,0000,0000,,Oèe?
+Dialogue: 0,1:53:41.80,1:53:44.50,Default,,0000,0000,0000,,Ja nam nisam otac!
+Dialogue: 0,1:53:51.40,1:53:56.00,Default,,0000,0000,0000,,Ostalo je malo Vulkanaca.\nNe možemo da priuštimo da se ignorušemo!
+Dialogue: 0,1:53:59.10,1:54:02.00,Default,,0000,0000,0000,,Zašto si poslao Kirka na brod, kada si ti\nsam mogao da mi objasniš istinu!
+Dialogue: 0,1:54:02.00,1:54:04.00,Default,,0000,0000,0000,,Zato jer ste trebali jedan drugog.
+Dialogue: 0,1:54:04.00,1:54:08.50,Default,,0000,0000,0000,,Nisam mogao da te lišim otkrovenja svega\nšto možete da postignete zajedno...
+Dialogue: 0,1:54:08.50,1:54:11.80,Default,,0000,0000,0000,,prijateljstva koje æe vas oboje definisati!
+Dialogue: 0,1:54:11.80,1:54:14.10,Default,,0000,0000,0000,,Na naèine kojih još nisi svestan!
+Dialogue: 0,1:54:15.50,1:54:18.00,Default,,0000,0000,0000,,Kako si ga ubedio da èuva tvoju tajnu?
+Dialogue: 0,1:54:18.00,1:54:21.30,Default,,0000,0000,0000,,Rekao sam mu da æe se\nsvemir okonèati paradoksom...
+Dialogue: 0,1:54:21.30,1:54:22.90,Default,,0000,0000,0000,,ako prekrši svoje obeæanje!
+Dialogue: 0,1:54:22.90,1:54:24.70,Default,,0000,0000,0000,,Lagao si ga?
+Dialogue: 0,1:54:25.60,1:54:28.70,Default,,0000,0000,0000,,Nagovestio sam.\nKockao si se?
+Dialogue: 0,1:54:28.70,1:54:30.60,Default,,0000,0000,0000,,Bio je to èin vere!
+Dialogue: 0,1:54:30.60,1:54:34.20,Default,,0000,0000,0000,,Kakav se nadam da æeš ti ponoviti\nu buduænosti u Zvezdanoj floti!
+Dialogue: 0,1:54:34.40,1:54:37.70,Default,,0000,0000,0000,,Suoèeni sa izumiranjem, verujem da\nje jedino logièno da dam otkaz u Floti...
+Dialogue: 0,1:54:37.70,1:54:38.90,Default,,0000,0000,0000,,i pomognem da ponovo izgradimo našu rasu!
+Dialogue: 0,1:54:38.90,1:54:41.50,Default,,0000,0000,0000,,A opet, možeš biti na\ndva mesta u isto vreme!
+Dialogue: 0,1:54:42.50,1:54:44.70,Default,,0000,0000,0000,,Molim te da ostaneš u Zvezdanoj floti!
+Dialogue: 0,1:54:45.50,1:54:49.30,Default,,0000,0000,0000,,Veæ sam pronašao odgovarajuæu planetu\nna kojoj æemo osnovati vulkansku koloniju.
+Dialogue: 0,1:54:49.80,1:54:53.80,Default,,0000,0000,0000,,Spok, u ovom sluèaju\nuèini sebi uslugu.
+Dialogue: 0,1:54:55.60,1:54:57.30,Default,,0000,0000,0000,,Ostavi logiku sa strane.
+Dialogue: 0,1:54:57.80,1:54:59.80,Default,,0000,0000,0000,,Uradi onako kako\nti se èini ispravnim.
+Dialogue: 0,1:55:04.50,1:55:07.80,Default,,0000,0000,0000,,Pošto bi moj uobièajeni pozdrav\nbio neprimeren jer smo ti i ja isti.
+Dialogue: 0,1:55:08.20,1:55:11.40,Default,,0000,0000,0000,,Prosto æu ti reæi...\nSreæno!
+Dialogue: 0,1:55:22.80,1:55:26.30,Default,,0000,0000,0000,,Ovaj skup poziva Kapetana\nDžejmsa Tiberija Kirka.
+Dialogue: 0,1:55:27.10,1:55:30.50,Default,,0000,0000,0000,,Vaša pokazana hrabrost i\nposveæenost svojim kolegama,
+Dialogue: 0,1:55:30.50,1:55:32.80,Default,,0000,0000,0000,,je u skladu sa najvišim\nstandardima službe.
+Dialogue: 0,1:55:33.60,1:55:38.20,Default,,0000,0000,0000,,I da iskazem najveæe zasluge vama,\nvašoj posadi, i Federaciji.
+Dialogue: 0,1:55:39.30,1:55:42.50,Default,,0000,0000,0000,,Èast mi je da vam uruèim ovo odlikovanje
+Dialogue: 0,1:55:47.30,1:55:49.40,Default,,0000,0000,0000,,Po nareðenju Zvezdane flote 28455
+Dialogue: 0,1:55:49.70,1:55:51.70,Default,,0000,0000,0000,,ovim vam nareðujemo\nda se javite Admiralu Pajku.
+Dialogue: 0,1:55:51.70,1:55:55.40,Default,,0000,0000,0000,,na dužnost na USS Enterprajz\nposle njegovog odlaska.
+Dialogue: 0,1:56:03.60,1:56:05.20,Default,,0000,0000,0000,,Oslobaðam vas\ndužnosti, gospodine!
+Dialogue: 0,1:56:05.80,1:56:07.90,Default,,0000,0000,0000,,Osloboðen sam!
+Dialogue: 0,1:56:09.60,1:56:12.20,Default,,0000,0000,0000,,Hvala vam, gospodine.\nÈestitam, Kapetane.
+Dialogue: 0,1:56:14.00,1:56:16.20,Default,,0000,0000,0000,,Vaš otac bi bio ponosan!.
+Dialogue: 0,1:56:45.60,1:56:47.30,Default,,0000,0000,0000,,Potisnike na maksimum.
+Dialogue: 0,1:56:48.30,1:56:50.90,Default,,0000,0000,0000,,Palim potisnike i impulsne motore\nna vašu komandu, gospodine!
+Dialogue: 0,1:56:50.90,1:56:53.20,Default,,0000,0000,0000,,Oružja su proverena\ni u stanju pripravnosti!
+Dialogue: 0,1:56:53.40,1:56:56.20,Default,,0000,0000,0000,,Komunikacije su spremne, Kapetane!
+Dialogue: 0,1:57:00.40,1:57:01.50,Default,,0000,0000,0000,,Mekoj!
+Dialogue: 0,1:57:02.40,1:57:04.10,Default,,0000,0000,0000,,Veži se!
+Dialogue: 0,1:57:07.70,1:57:09.40,Default,,0000,0000,0000,,Skoti, kako stojimo?
+Dialogue: 0,1:57:09.40,1:57:11.90,Default,,0000,0000,0000,,Dilitijumska komora\nna maksimumu, Kapetane!
+Dialogue: 0,1:57:13.10,1:57:15.00,Default,,0000,0000,0000,,Silazi odatle!
+Dialogue: 0,1:57:16.70,1:57:19.70,Default,,0000,0000,0000,,G. Sulu, pripremite se\nda ukljuèite potisnike!
+Dialogue: 0,1:57:22.60,1:57:24.40,Default,,0000,0000,0000,,Tražim dozvolu da\nse ukrcam, Kapetane!
+Dialogue: 0,1:57:25.30,1:57:27.00,Default,,0000,0000,0000,,Dozvola odobrena!
+Dialogue: 0,1:57:27.80,1:57:29.90,Default,,0000,0000,0000,,Pošto još niste\nizabrali Prvog oficira,
+Dialogue: 0,1:57:30.00,1:57:32.50,Default,,0000,0000,0000,,sa poštovanjem predajem\nsvoju kandidaturu.
+Dialogue: 0,1:57:33.50,1:57:36.30,Default,,0000,0000,0000,,Ako zelite dostaviæu\nvam preporuke!
+Dialogue: 0,1:57:37.50,1:57:39.50,Default,,0000,0000,0000,,Biæe mi èast komandire!
+Dialogue: 0,1:57:43.40,1:57:45.60,Default,,0000,0000,0000,,Manevarske potisnike, G. Sulu!
+Dialogue: 0,1:57:47.80,1:57:50.40,Default,,0000,0000,0000,,Potisnici u stanju pripravnosti.\nIzvedite nas napolje!
+Dialogue: 0,1:57:50.90,1:57:52.30,Default,,0000,0000,0000,,Razumem Kapetane!
+Dialogue: 0,1:57:57.00,1:58:00.30,Default,,0000,0000,0000,,Svemir. Konaèna granica!
+Dialogue: 0,1:58:01.90,1:58:05.50,Default,,0000,0000,0000,,Ovo su putovanja\nzvezdanog broda Enterprajz.
+Dialogue: 0,1:58:06.50,1:58:10.50,Default,,0000,0000,0000,,Vaša je stalna misija,\nda istražujete nove svetove.
+Dialogue: 0,1:58:11.10,1:58:14.90,Default,,0000,0000,0000,,Da tražite nove oblike\nživota i nove civilizacije.
+Dialogue: 0,1:58:15.50,1:58:20.10,Default,,0000,0000,0000,,Da hrabro idete tamo\ngde niko ranije nije išao!
+Dialogue: 0,1:58:21.10,1:58:31.10,Default,,0000,0000,0000,,Downloaded From www.AllSubs.org

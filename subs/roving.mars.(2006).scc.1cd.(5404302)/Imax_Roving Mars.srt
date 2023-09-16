@@ -1,0 +1,2050 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:00:18,484 --> 00:00:22,484
+www.titlovi.com
+
+3
+00:00:25,484 --> 00:00:28,508
+Svemirska istraûivanja
+su poËela snovima.
+
+4
+00:00:28,509 --> 00:00:32,856
+Hiljadama godina su ljudi
+zurili u nebesa pitajuÊi se,
+
+5
+00:00:32,857 --> 00:00:37,620
+"Kako je ovo nastalo?
+äta je joö tamo napolju?"
+
+6
+00:00:37,621 --> 00:00:41,958
+Rani odgovori su davani
+u mitovima i poeziji.
+
+7
+00:00:41,959 --> 00:00:46,045
+Sada, odgovore traûimo,
+tehnologijom svemirskog doba.
+
+8
+00:00:46,046 --> 00:00:49,590
+I kako svaka misija
+poveÊava naöe znanje,
+
+9
+00:00:49,591 --> 00:00:53,970
+ona takoe vodi naöu
+maötu sve dalje i dalje.
+
+10
+00:00:53,971 --> 00:00:59,767
+Kako je nastao ûivot? Da li se to
+dogodilo viöe nego jednom u svemiru?
+
+11
+00:00:59,768 --> 00:01:02,887
+Odgovor moûda leûi na Marsu.
+
+12
+00:01:09,069 --> 00:01:16,774
+LUTANJE MARSOM
+
+13
+00:01:32,301 --> 00:01:35,845
+Mars je danas pust,
+suv i neplodan.
+
+14
+00:01:35,846 --> 00:01:40,183
+Na prvi pogled, ima malo toga
+zajedniËkog sa naöom planetom.
+
+15
+00:01:40,184 --> 00:01:46,564
+Ipak sa orbite vidimo neöto öto
+liËi na isuöena jezera i reËna korita.
+
+16
+00:01:46,565 --> 00:01:49,567
+Pre odprilike tri ili
+Ëetiri milijarde godina,
+
+17
+00:01:49,568 --> 00:01:53,196
+Mars je mogao imati vodu, i
+viöe je liËio na planetu Zemlju.
+
+18
+00:01:53,197 --> 00:01:58,201
+Obzirom da ûivot cveta
+ovde na Zemlji, pitanje je:
+
+19
+00:01:58,202 --> 00:02:02,145
+Da li se to ikada
+dogodilo na Marsu?
+
+20
+00:02:12,883 --> 00:02:18,436
+Da odgovori na to pitanje, laboratorija
+za mlazne motore u NASA je sastavila tim
+
+21
+00:02:18,437 --> 00:02:23,059
+od nauËnika i inûenjera, Ëija je
+misija da otkrije da li je Mars ikad
+
+22
+00:02:23,060 --> 00:02:26,480
+imao uslove, koji su potrebni
+za postojanje ûivota.
+
+23
+00:02:26,481 --> 00:02:30,024
+Geolog i astronom sa
+Kornel univerziteta,
+
+24
+00:02:30,025 --> 00:02:33,528
+Stiv Skvajers, je izabran
+da vodi nauËni tim.
+
+25
+00:02:33,529 --> 00:02:37,657
+Kao glavni istraûivaË,
+usmerio je tim u potragu za
+
+26
+00:02:37,658 --> 00:02:42,495
+najvaûnijim ûivotnim
+resursom: vodom.
+
+27
+00:02:42,496 --> 00:02:45,790
+Radio sam na pitanju
+vode na Marsu 28 goidna.
+
+28
+00:02:45,791 --> 00:02:49,877
+Ne moûete nauËiti öta vam je potrebno
+teleskopom. Morate biti geolog.
+
+29
+00:02:49,878 --> 00:02:53,736
+Geolog je neka vrsta
+detektiva na mestu zloËina.
+
+30
+00:02:53,737 --> 00:02:57,718
+Neöto se ovde dogodilo pre
+mnogo godina. äta se dogodilo?
+
+31
+00:02:57,719 --> 00:03:02,181
+Da li je toplo? Da li je vlaûno?
+Moûe li ûivot opstati ovde?
+
+32
+00:03:02,182 --> 00:03:05,602
+KljuË svih istraûivanja je u
+tragovima koji se nalaze u stenama.
+
+33
+00:03:05,603 --> 00:03:09,230
+Na Zemlji, geolog moûe
+pronaÊi zanimljiv kamen,
+
+34
+00:03:09,231 --> 00:03:11,691
+razbiti ga ËekiÊem, da
+vidi njegovu unutraönjost.
+
+35
+00:03:11,692 --> 00:03:18,143
+Ali, joö nismo spremni da
+poöaljemo ljude, geologe, na Mars.
+
+36
+00:03:21,407 --> 00:03:24,339
+Zato smo morali da
+napravimo robote geologe.
+
+37
+00:03:24,340 --> 00:03:26,435
+I jedino mesto gde
+je to moguÊe uraditi,
+
+38
+00:03:26,436 --> 00:03:29,198
+bila je laboratorija za
+mlazne motore pri NASA,
+
+39
+00:03:29,199 --> 00:03:31,961
+gde rade najsposobniji
+inûenjeri u SAD.
+
+40
+00:03:31,962 --> 00:03:34,839
+Govorimo o robotu. Lutalica,
+koja moûe otiÊi na Mars,
+
+41
+00:03:34,840 --> 00:03:41,470
+spustiti se na povröinu, pogledati
+okolo, preseÊi pupËanu vrpcu i krenuti,
+
+42
+00:03:41,471 --> 00:03:45,120
+da nosi sve öto mu
+je potrebno sa sobom:
+
+43
+00:03:45,121 --> 00:03:50,771
+kamere, instrumente,
+komunikacionu opremu. Sve.
+
+44
+00:03:50,772 --> 00:03:54,179
+Tako neöto moûe
+pogledati unutar stene
+
+45
+00:03:54,180 --> 00:03:57,587
+i reÊi nam kakve
+odgovore stena sadrûi.
+
+46
+00:04:03,702 --> 00:04:06,120
+Ovo mesto je za
+mene skoro sveto.
+
+47
+00:04:06,121 --> 00:04:09,415
+To je mesto gde je naöa
+lutalica sklopljena poslednji put
+
+48
+00:04:09,416 --> 00:04:11,981
+pre nego öto je
+napustila naöu planetu.
+
+49
+00:04:11,982 --> 00:04:18,575
+Sve öto radimo toj sobi,
+mora biti savröeno ureeno.
+
+50
+00:04:20,636 --> 00:04:24,055
+Preko 4000 ljudi je
+radilo na ovoj misiji.
+
+51
+00:04:24,056 --> 00:04:27,600
+Za svaki deo ove svemirske
+letelice, sve do najsitnijeg dela,
+
+52
+00:04:27,601 --> 00:04:30,666
+postoji osoba koja ga je
+izmislila. Koja ga je razvijala.
+
+53
+00:04:30,667 --> 00:04:37,624
+Neko ko je od zamisli, napravio
+neöto stvarno, opipljivo.
+
+54
+00:04:37,625 --> 00:04:40,259
+Bilo je potrebno tri
+godine, da projektujemo,
+
+55
+00:04:40,260 --> 00:04:46,219
+izgradimo i testiramo lutalice rovere i
+joö uvek imamo neöto öto treba obaviti.
+
+56
+00:04:47,788 --> 00:04:50,269
+Lansiranje se moûe obaviti
+samo kada su dve planete
+
+57
+00:04:50,270 --> 00:04:53,074
+dovoljno blizu a to Êe
+biti kroz nekoliko meseci.
+
+58
+00:04:53,075 --> 00:04:55,874
+Ipak, i dalje probamo poletanje.
+Radimo u smenama.
+
+59
+00:04:55,875 --> 00:05:01,121
+Radimo skoro neprekidno 24h,
+i ne znamo da li Êemo uspeti.
+
+60
+00:05:08,100 --> 00:05:11,707
+Ne postoji osoba koja moûe da rukama
+obuhvati ceo projekat i da kaûe
+
+61
+00:05:11,708 --> 00:05:20,744
+"Ja razumem sve o ovom vozilu."
+To prelazi granice naöih umova.
+
+62
+00:05:22,364 --> 00:05:25,324
+Dakle, ovaj rover je mnogo
+viöe od lutajuÊeg geologa.
+
+63
+00:05:25,325 --> 00:05:29,912
+Rover mora istovremeno da
+bude i svemirska letelica.
+
+64
+00:05:29,913 --> 00:05:32,790
+On zaista mora da preleti
+od Zemlje do Marsa.
+
+65
+00:05:32,791 --> 00:05:37,503
+Pored toga, mora da vröi veoma
+suptilno i brzo vremensko podeöavanje
+
+66
+00:05:37,504 --> 00:05:41,017
+za sve stvari koje se dogaaju,
+prilikom dolaska i sletanja letelice.
+
+67
+00:05:41,018 --> 00:05:46,262
+Moramo da ugradimo svu tu
+inteligenciju i sve te sposobnosti
+
+68
+00:05:46,263 --> 00:05:54,145
+u to malo vozilo sa öest toËkova,
+da moûe samostalno stigne na cilj.
+
+69
+00:05:54,146 --> 00:05:58,399
+Ja zovem naöu svemirsku letlicu
+"Origami", jer predstavlja
+
+70
+00:05:58,400 --> 00:06:00,776
+sloûeni redosled
+presavijanja i omotavanja.
+
+71
+00:06:00,777 --> 00:06:05,052
+Izbuöili smo rupe na stopama sletnog
+dela, da toËkovi mogu da se provuku.
+
+72
+00:06:05,053 --> 00:06:09,452
+Sve smo morali da spakujemo u
+sloûene oblike, da svi sistemi
+
+73
+00:06:09,453 --> 00:06:13,360
+lepo stanu u tetraedar.
+
+74
+00:06:15,626 --> 00:06:23,906
+Jeste lepo, ali koöta. A cena
+je u ovom sluËaju, sloûenost.
+
+75
+00:06:23,907 --> 00:06:27,470
+Bilo je misija na Mars,
+joö u 60-tim goidnama.
+
+76
+00:06:27,471 --> 00:06:31,331
+Bilo je tuce takvih misija, a
+dve treÊine od njih su propale.
+
+77
+00:06:31,332 --> 00:06:36,319
+Mars je groblje
+svemirskih letelica.
+
+78
+00:06:37,689 --> 00:06:42,276
+Svemirski brod putuje do Marsa,
+otprilike 510 miliona kilometara,
+
+79
+00:06:42,277 --> 00:06:44,641
+brzinom od 100.000
+kilometara na sat.
+
+80
+00:06:44,642 --> 00:06:48,115
+Ali mu ipak treba sedam
+meseci da stigne donde.
+
+81
+00:06:48,116 --> 00:06:49,889
+Da pogodimo mesto
+sletanja na toj
+
+82
+00:06:49,890 --> 00:06:53,111
+udaljenosti je kao
+bacanje koöarkaöke lopte
+
+83
+00:06:53,112 --> 00:06:59,131
+od L.A. do Njujorka i da
+ubacimo u koö bez koske.
+
+84
+00:07:03,757 --> 00:07:07,437
+I najmanja greöka sa naöe strane,
+moûe da ugrozi celu misiju.
+
+85
+00:07:07,438 --> 00:07:12,181
+Dve od poslednje tri
+misije na Mars nisu uspekle.
+
+86
+00:07:12,182 --> 00:07:14,576
+Jedna letelica je izgorela
+u Marsovoj atmosferi,
+
+87
+00:07:14,577 --> 00:07:17,812
+druga se razbila,
+udarivöi u povröinu Marsa.
+
+88
+00:07:17,813 --> 00:07:20,127
+Ovog puta, NASA je
+odluËila da poöalje dve
+
+89
+00:07:20,128 --> 00:07:25,861
+identiËne letelice, da
+udvostruËi izglede na uspeh.
+
+90
+00:07:26,405 --> 00:07:32,201
+Lutalice Roveri se zovu:
+Spirit i Oportjuniti.
+
+91
+00:07:32,202 --> 00:07:34,036
+Roveri imaju vrlo
+razliËite karaktere.
+
+92
+00:07:34,037 --> 00:07:37,540
+Bili su jednaki u poËetku,
+kada smo poËeli da ih pravimo.
+
+93
+00:07:37,541 --> 00:07:40,272
+Spirit je bio nezgodan prvenac.
+Svaki test koji smo
+
+94
+00:07:40,273 --> 00:07:42,791
+radili, bio je teûak, kad
+je raen prvo na Spiritu
+
+95
+00:07:42,792 --> 00:07:45,309
+jer kad neöto probate po
+prvi put, obiËno ne radi.
+
+96
+00:07:45,310 --> 00:07:47,613
+Testovi koji su raeni
+na Spiritu su omanuli.
+
+97
+00:07:47,614 --> 00:07:49,501
+Onda smo pokuöli
+da popravimo stvari.
+
+98
+00:07:49,502 --> 00:07:55,724
+Uradili smo nove testove, i oni su
+omanuli takoe. Vremenom smo doöli
+
+99
+00:07:55,725 --> 00:08:01,947
+do Opurtjunitija. VeÊ smo nauËili
+gradivo i stvari su iöle mnogo glatkije.
+
+100
+00:08:14,536 --> 00:08:17,830
+NajveÊi problem je bio da ne
+potcenimo veliËinu i teûinu rovera.
+
+101
+00:08:17,831 --> 00:08:21,918
+Jednom kada smo shvatili
+koliki stvarno treba da budu,
+
+102
+00:08:21,919 --> 00:08:24,901
+bilo je jasno da sistem za
+sletanje koji planiramo da
+
+103
+00:08:24,902 --> 00:08:27,933
+upotrebimo, neÊe uspeti rovere
+da spusti na tlo u jednom komadu.
+
+104
+00:08:27,934 --> 00:08:30,964
+äto je rover bio teûi, sistem
+za sletanje je bio joö teûi.
+
+105
+00:08:30,965 --> 00:08:33,638
+Ako je sistem za sletanje
+bio teûi, Raketa nosaË bi
+
+106
+00:08:33,639 --> 00:08:37,371
+bila joö teûa. Cela stvar
+je bivala sve teûa i teûa.
+
+107
+00:08:37,372 --> 00:08:41,103
+Na samom poËetku misije, izgledalo
+je da niöta ne radi kako treba.
+
+108
+00:08:41,104 --> 00:08:44,857
+Zaötitni jastuci su kao oni u
+vaöim kolima, samo mnogo skuplji.
+
+109
+00:08:44,858 --> 00:08:52,365
+Eksplozivno se naduvavaju oko letelice
+i ublaûavaju udar pri sletanju.
+
+110
+00:08:52,366 --> 00:08:56,407
+Na prvom testu su se
+pocepali i izduvali.
+
+111
+00:08:59,534 --> 00:09:01,582
+Znali smo da Êe se
+neuspesi deöavati.
+
+112
+00:09:01,583 --> 00:09:04,439
+Uvek govorim ljudima kad
+poËinju ovakve projekte:
+
+113
+00:09:04,440 --> 00:09:07,296
+Ista stvar se dogodila
+Luisu i Klarku, i...
+
+114
+00:09:07,297 --> 00:09:09,945
+kapetanu Kuku u
+njegovim istraûivanjima.
+
+115
+00:09:09,946 --> 00:09:12,593
+äto je garancija da Êe
+sve to tamo biti neuspesi.
+
+116
+00:09:12,594 --> 00:09:17,265
+Tri... dva... jedan.
+
+117
+00:09:17,266 --> 00:09:23,271
+Prilikom sletanja koristiÊe se
+padobrani za nadzvuËne brzine.
+
+118
+00:09:23,272 --> 00:09:26,649
+Izgledaju kao da su
+rasparani na froncle.
+
+119
+00:09:26,650 --> 00:09:30,736
+Deo za sletanje Êe toliko oteûati,
+da padobrani prosto neÊe izdrûati.
+
+120
+00:09:30,737 --> 00:09:33,197
+PrekoraËili smo vreme,
+a sve öto imamo je,
+
+121
+00:09:33,198 --> 00:09:36,909
+da Êe zbog padobrana, letelica
+biti uniötena prilikom sletanja.
+
+122
+00:09:36,910 --> 00:09:40,746
+Morali smo da napravimo sasvim novi
+komplet, sa drugaËijim dizajnom.
+
+123
+00:09:40,747 --> 00:09:47,336
+Tri-Ëetiri nova dizajna smo
+testirali u sledeÊih tri meseca.
+
+124
+00:09:47,337 --> 00:09:53,801
+Ponestaje nam novca,
+ponestaje nam vremena.
+
+125
+00:09:53,802 --> 00:09:56,596
+Ovaj, mislim, pad
+je bio uspeöan...
+
+126
+00:09:56,597 --> 00:10:01,267
+Aha. -Vidite, Ëinjenica da je padobran
+eksplodirao... nikako nije dobra stvar.
+
+127
+00:10:01,268 --> 00:10:05,438
+Bolje da se to dogodilo ovde, nego
+na nekom drugom mestu. -Mars. -Da.
+
+128
+00:10:05,439 --> 00:10:10,151
+Tako je. Naûalost, pravo govoreÊi,
+taj padobran je baö eksplodirao
+
+129
+00:10:10,152 --> 00:10:15,359
+kada smo planirali da
+poöaljemo misiju na Mars.
+
+130
+00:10:50,484 --> 00:10:53,069
+Mars je gadno mesto da
+poöaljeö svemirsku letelicu.
+
+131
+00:10:53,070 --> 00:10:55,905
+ProseËna temperatura je
+80 stepeni ispod nule.
+
+132
+00:10:55,906 --> 00:10:59,033
+NoÊu se spuöta na sto
+dvadeset ispod nule.
+
+133
+00:10:59,034 --> 00:11:03,246
+MoguÊe su peöËane oluje koje
+mogu zamraËiti nebo mesecima.
+
+134
+00:11:03,247 --> 00:11:05,748
+Ali ako lutalica rover
+uspe, pruûiÊe nam iskustvo
+
+135
+00:11:05,749 --> 00:11:08,084
+kako igleda biti na Marsu.
+
+136
+00:11:08,085 --> 00:11:13,022
+MoÊi Êemo da pogledamo u daljinu i
+kaûemo, "Aha. Hteo bih da odem tamo",
+
+137
+00:11:13,023 --> 00:11:17,960
+i onda da to stvarno uradimo
+i vidimo öta Êemo tamo naÊi.
+
+138
+00:11:25,352 --> 00:11:28,604
+Robotova ruka, ima istu razmeru
+kao ljudska ruka. Sa ramenom,
+
+139
+00:11:28,605 --> 00:11:33,317
+laktom i ruËnim zglobom. Ruka je
+skupljena na prednjem delu vozila.
+
+140
+00:11:33,318 --> 00:11:37,301
+dok se vozikamo okolo. Ali,
+kad naiemo na kamen koji hoÊemo
+
+141
+00:11:37,302 --> 00:11:41,284
+da ispitamo, ruka se izvija
+napolje, koristeÊi sve zglobove,
+
+142
+00:11:41,285 --> 00:11:48,491
+da postavi instrument na
+stenu, za poËetak prouËavanja.
+
+143
+00:11:49,084 --> 00:11:54,005
+Ruka ima Ëetiri prsta. Jedan je
+mikroskop, drugi je spektroskop,
+
+144
+00:11:54,006 --> 00:11:58,593
+da nam detaljno kaûu od
+Ëega je stena sastavljena.
+
+145
+00:11:58,594 --> 00:12:03,181
+»etvrti zovemo SAA.
+Alat za abraziju stena.
+
+146
+00:12:03,182 --> 00:12:07,894
+MARS
+
+147
+00:12:07,895 --> 00:12:12,148
+Da ispitamo stene, moramo doÊi do
+njih, a tlo Marsa je vrlo neravno.
+
+148
+00:12:12,149 --> 00:12:15,151
+Da bi savladali neravnine, inûenjeri
+su napravili neöto öto zovu
+
+149
+00:12:15,152 --> 00:12:17,487
+nezavisni-viöeosovinski
+sistem veöanja.
+
+150
+00:12:17,488 --> 00:12:19,947
+To je vrlo pametan dizajn,
+koji dozvoljava svakom
+
+151
+00:12:19,948 --> 00:12:24,504
+od öest toËkova, da
+pree preko kamena
+
+152
+00:12:24,505 --> 00:12:29,061
+nezavisno od toga
+koliko je rover nagnut.
+
+153
+00:12:29,062 --> 00:12:32,909
+U redu. Uite unutra, druötvo.
+Ostanite Ëisti, pazite. Pazite.
+
+154
+00:12:32,910 --> 00:12:36,000
+Stanite dalje od tih stvari, zato
+öto se u trenutku mogu pomeriti.
+
+155
+00:12:36,001 --> 00:12:39,091
+Pazi! Pazi toËkove. Pazi
+toËkove. Pazi toËkove. Sad pazi.
+
+156
+00:12:39,092 --> 00:12:41,719
+Ovo prevazilazi okvire
+pojedinaËne misije. -Vidite li to?
+
+157
+00:12:41,720 --> 00:12:44,055
+KonaËni cilj je
+slanje ljudi na Mars.
+
+158
+00:12:44,056 --> 00:12:47,026
+Prvi Ëovek koji Êe hodati po
+Marsu nije kosmonaut danaönjice.
+
+159
+00:12:47,027 --> 00:12:51,270
+To je neko ko je joö u
+srednjoj ökoli. Ili osnovnoj...
+
+160
+00:12:51,271 --> 00:12:57,845
+Dakle smestimo ih, kad stignu
+poreani kako treba, voziÊemo unazad.
+
+161
+00:13:02,699 --> 00:13:05,993
+Uloûili smo mnoga
+truda... mnogo godina...
+
+162
+00:13:05,994 --> 00:13:11,040
+toliko mnogo oËekivanja
+i snova u ove rovere.
+
+163
+00:13:11,041 --> 00:13:16,921
+I kad samo pomisliö gde idu,
+na let raketom kroz svemir,
+
+164
+00:13:16,922 --> 00:13:18,965
+öta Êe biti kada
+se padobrani otvore,
+
+165
+00:13:18,966 --> 00:13:23,937
+pri brzini od dva Maha
+u Marsovoj atmosferi...
+
+166
+00:13:30,435 --> 00:13:34,605
+Kad ste pored tog malog robota i
+shvatite da Êe ostati zauvek na
+
+167
+00:13:34,606 --> 00:13:42,546
+povröini drugog sveta. Da
+zaista ide na drugu planetu.
+
+168
+00:13:44,950 --> 00:13:47,702
+I jednom Êe otiÊi, i to je to.
+Kada roveri budu lansirani,
+
+169
+00:13:47,703 --> 00:13:51,330
+nikada ih viöe neÊemo
+videti sopstvenim oËima.
+
+170
+00:13:51,331 --> 00:13:53,624
+UËinili smo sve öto smo
+mogli da ih pripremimo
+
+171
+00:13:53,625 --> 00:13:55,918
+za opasnosti sa
+kojima Êe se suoËiti.
+
+172
+00:13:55,919 --> 00:13:59,742
+Ali, biÊe vrlo
+teöko reÊi zbogom.
+
+173
+00:14:54,269 --> 00:15:18,918
+NASA
+
+174
+00:15:18,919 --> 00:15:24,173
+Spirit Êe biti lansiran prvi, zatim
+Oportjuniti, tri nedelje kasnije.
+
+175
+00:15:24,174 --> 00:15:27,510
+Mars i Zemlja se okreÊu oko
+Sunca, öto znaËi da se stalno kreÊu
+
+176
+00:15:27,511 --> 00:15:30,847
+u odnosu jedan na drugog.
+Svakih dvadeset öest meseci,
+
+177
+00:15:30,848 --> 00:15:35,226
+je uzan interval, kada su planete
+poreane baö kao öto treba.
+
+178
+00:15:35,227 --> 00:15:40,606
+U to vreme i samo u to vreme,
+imamo dovoljno goriva do Marsa.
+
+179
+00:15:40,607 --> 00:15:45,921
+Naö pokuöaj mora
+da uspe iz prve.
+
+180
+00:17:41,082 --> 00:17:45,096
+Ne moûemo da drûimo
+upaljen motor sve do Marsa.
+
+181
+00:17:45,097 --> 00:17:49,110
+Nije ni potrebno. Samo
+postavimo letelicu na putanju
+
+182
+00:17:49,111 --> 00:17:52,613
+do Marsa i pustimo po inerciji,
+sledeÊih sedam meseci i
+
+183
+00:17:52,614 --> 00:17:57,034
+500 miliona kilometara,
+dok ne stigne do planete.
+
+184
+00:17:57,035 --> 00:17:59,819
+Jednom kada bude gurnut na
+svoj put do Marsa, pomoÊu
+
+185
+00:17:59,820 --> 00:18:02,603
+rakete nosaËa, mora biti
+sposoban, da odrûava svoju
+
+186
+00:18:02,604 --> 00:18:05,126
+orijentaciju prema Suncu,
+i potrebnu sposobnost
+
+187
+00:18:05,127 --> 00:18:08,838
+da popravlja tu orijentaciju
+i pravac, tako da pogodi Mars.
+
+188
+00:18:08,839 --> 00:18:11,883
+I stigne do te vrlo, vrlo male
+
+189
+00:18:11,884 --> 00:18:15,011
+odrediöne taËke na
+Marsu, mestu sletanja.
+
+190
+00:18:15,012 --> 00:18:22,566
+Tako, da sve to treba da se odigra
+redom, tokom sedmomeseËnog putovanja.
+
+191
+00:18:30,611 --> 00:18:39,380
+7 MESECI POSLE LANSIRANJA
+DAN SLETANJA SPIRITA
+
+192
+00:18:47,878 --> 00:18:50,546
+Planiranje je kada
+pravi izazov poËne.
+
+193
+00:18:50,547 --> 00:18:54,550
+Mars je toliko udaljen, da je radio
+signalu potrebno oko 10 minuta putovanja
+
+194
+00:18:54,551 --> 00:18:59,096
+u jednom smeru izmeu Marsa
+i Zemlje. Ali samo 6 minuta od
+
+195
+00:18:59,097 --> 00:19:02,871
+prvog kontakta sa Marsovom atmosferom
+do odskoka od povröine planete.
+
+196
+00:19:02,872 --> 00:19:06,646
+ZnaËi, niöta ne moûemo da uradimo
+da pomognemo u vreme sletanja.
+
+197
+00:19:06,647 --> 00:19:08,773
+Roveri su prepuöteni
+sami sebi, a mi smo samo
+
+198
+00:19:08,774 --> 00:19:10,900
+pasivni, strasno
+zainteresovani posmatraËi
+
+199
+00:19:10,901 --> 00:19:17,250
+koji Ëekaju radio signal, koji Êe
+pokazati da li su ili nisu opstali.
+
+200
+00:19:17,251 --> 00:19:23,621
+NeÊe biti doneta odluka. Trenutna
+temperatura je oko 0 stepeni Celzijusa
+
+201
+00:19:23,622 --> 00:19:27,604
+öto je blizu dozvoljene
+granice za let. Kako god...
+
+202
+00:19:27,605 --> 00:19:31,587
+Spuötanje svemirske letelice
+na Mars je tako komplikovano.
+
+203
+00:19:31,588 --> 00:19:34,173
+Toliko je mnogo stvari
+koje mogu da krenu naopako.
+
+204
+00:19:34,174 --> 00:19:37,635
+Letni kompjuter zna precizno i pravo
+vreme kada da razvije padobrane.
+
+205
+00:19:37,636 --> 00:19:40,409
+Ako ga otvori na velikoj
+visini, kada se padobran otvori,
+
+206
+00:19:40,410 --> 00:19:43,182
+sile vetra Êe ga jednostavno
+pocepati na komade.
+
+207
+00:19:43,183 --> 00:19:47,687
+Ako ga razvije suviöe nisko,
+neÊe se otvoriti na vreme
+
+208
+00:19:47,688 --> 00:19:51,566
+i letelica Êe
+se razbiti o tlo.
+
+209
+00:19:51,567 --> 00:19:54,318
+Trik je u tome, da uvek
+postoji kritiËna taËka:
+
+210
+00:19:54,319 --> 00:19:57,175
+razvijanje padobrana,
+odbacivanje toplotnog
+
+211
+00:19:57,176 --> 00:20:00,032
+ötita, mi menjamo
+frekvenciju radio signala.
+
+212
+00:20:00,033 --> 00:20:04,245
+I tako Poli sedi ispred njene
+konzole i gleda promene frekvencija
+
+213
+00:20:04,246 --> 00:20:08,749
+i kada se brojka promeni, ona
+zna da se dogaaj odigrao.
+
+214
+00:20:08,750 --> 00:20:14,088
+Taj dogaaj se dogodio.
+
+215
+00:20:14,089 --> 00:20:18,009
+Direktor leta, Dûejson Vilis,
+izveötava da svi sitemi rade za
+
+216
+00:20:18,010 --> 00:20:20,344
+spuötanje i sletanje na
+tlo. Grubo, oko 11 minuta,
+
+217
+00:20:20,345 --> 00:20:22,597
+48 sekundi do
+spuötanja u krater Gusev
+
+218
+00:20:22,598 --> 00:20:27,794
+na juûnoj hemisferi Marsa.
+
+219
+00:20:33,108 --> 00:20:41,885
+Ulazak u atmosferu je
+za tri... dva... jedan.
+
+220
+00:20:46,705 --> 00:20:48,915
+Upravo smo proöli prvi
+minut ulaska u atmosferu.
+
+221
+00:20:48,916 --> 00:20:50,500
+Trenutna visina:
+170 kilometara.
+
+222
+00:20:50,501 --> 00:20:55,588
+Trenutna brzina: 17.926
+kilometara na sat.
+
+223
+00:20:55,589 --> 00:20:57,882
+Sada smo na visini
+od 102 kilometra,
+
+224
+00:20:57,883 --> 00:21:00,885
+kreÊemo se brzinom od
+17.068 kilometara na Ëas.
+
+225
+00:21:00,886 --> 00:21:04,744
+OËekivano otvaranje
+padobrana za pet sekundi.
+
+226
+00:21:04,745 --> 00:21:10,609
+»etiri... tri...
+dva... jedan... sad.
+
+227
+00:21:12,342 --> 00:21:18,444
+»ekamo potvrdu da
+se padobran otvorio.
+
+228
+00:21:18,445 --> 00:21:21,735
+Padobran je opaûen.
+
+229
+00:21:24,535 --> 00:21:27,282
+Dogaaj postavljanja
+toplotnog ötita.
+
+230
+00:21:27,283 --> 00:21:30,081
+Uh, letelica izveötava da je
+toplotni ötit zaista odbaËen...
+
+231
+00:21:30,082 --> 00:21:33,941
+Svemirska letelica izveötava
+da se lender odvojio. KreÊe se
+
+232
+00:21:33,942 --> 00:21:37,801
+brzinom od 242 km na Ëas.
+Blizu smo zavröne brzine.
+
+233
+00:21:39,967 --> 00:21:44,743
+OËekivan start retro
+rakete, na moj znak. Znak.
+
+234
+00:21:49,309 --> 00:21:54,494
+Ovog trenutka, trebalo
+bi da smo na tlu.
+
+235
+00:21:56,942 --> 00:22:00,969
+Bilo koji signal koji
+primimo od sada, pokazivaÊe
+
+236
+00:22:00,970 --> 00:22:04,997
+da je letelica operativna,
+i da odskaËe sa tla.
+
+237
+00:22:09,361 --> 00:22:12,263
+Letelica mora da
+izdrûi svo odskakivanje
+
+238
+00:22:12,264 --> 00:22:15,165
+od tla da bi
+sletanje bilo uspeöno.
+
+239
+00:22:21,175 --> 00:22:24,302
+Trenutno nema signala.
+
+240
+00:22:24,303 --> 00:22:27,346
+»ekati.
+
+241
+00:22:27,347 --> 00:22:32,393
+Signal je trenutno isprekidan.
+
+242
+00:22:32,394 --> 00:22:35,229
+Trenutno ne primamo signal.
+
+243
+00:22:35,230 --> 00:22:39,567
+Tako je. Primamo isprekidan
+signal öto ukazuje da letelica
+
+244
+00:22:39,568 --> 00:22:43,905
+odskakuje od tla, mada nemamo
+trenutno signal sa letelice.
+
+245
+00:22:43,906 --> 00:22:47,714
+U redu. Molim saËekajte.
+
+246
+00:22:49,703 --> 00:22:51,783
+Sada smo, oko deset
+minuta posle sletanja.
+
+247
+00:22:51,784 --> 00:22:54,171
+Letelica mora da se
+kotrlja i trebalo bi da
+
+248
+00:22:54,172 --> 00:22:56,559
+se zaustavila do sada.
+Mreûne stanice za daleki
+
+249
+00:22:56,560 --> 00:22:59,254
+svemir, u Goldstonu i Kanberi
+joö trgaju za signalom.
+
+250
+00:23:07,554 --> 00:23:14,315
+Naöli su ga. -äta imamo?
+Imamo signal!
+
+251
+00:24:22,838 --> 00:24:26,346
+Prvu stvar koju moramo da uradimo
+posle sletanja, je da otvorimo
+
+252
+00:24:26,347 --> 00:24:29,855
+solarne panele da dobijemo malo
+energije. To Êe napuniti baterije.
+
+253
+00:24:33,473 --> 00:24:37,852
+Posle toga moramo razviti
+kameru, da rover moûe da vidi
+
+254
+00:24:37,853 --> 00:24:42,316
+i razviti antenu da rover
+moûe da komunicira sa nama.
+
+255
+00:25:01,418 --> 00:25:04,679
+Naöe prve slike sa Marsa!
+
+256
+00:25:22,356 --> 00:25:30,830
+Pogledaj to! To je
+pogled na naöu letelicu.
+
+257
+00:25:46,463 --> 00:25:54,470
+Joö nismo imali prijem snimaka,
+tako rano kao ovo, tako jasno kao ovo
+
+258
+00:25:54,471 --> 00:26:00,643
+tako uspeöno kao ovo, i
+takvog obima kao öto je ovo.
+
+259
+00:26:00,644 --> 00:26:05,355
+Dame i gospodo, Mars.
+
+260
+00:26:23,333 --> 00:26:27,545
+Poslali smo Spirit u krater Gusev,
+u juûnoj hemisferi Marsa.
+
+261
+00:26:27,546 --> 00:26:29,505
+Ima preËnik od 140 km.
+
+262
+00:26:29,506 --> 00:26:31,967
+Ono öto ga Ëini
+posebnim je to, öto se u
+
+263
+00:26:31,968 --> 00:26:34,000
+njega uliva dûinovski,
+vodom izbrazdan kanal.
+
+264
+00:26:34,001 --> 00:26:36,033
+Dakle Gusev je rupa
+na tlu, sa suvim
+
+265
+00:26:36,034 --> 00:26:38,963
+reËnim koritom, koji
+se u njega uliva.
+
+266
+00:26:38,964 --> 00:26:41,893
+U tom krateru je nekada
+moralo postojati jezero.
+
+267
+00:26:41,894 --> 00:26:44,270
+Poslali smo Spirit da
+tamo ispita sedimente.
+
+268
+00:26:44,271 --> 00:26:50,484
+Da potraûi sedimentno stenje koje
+je leûalo nekada davno u tom jezeru.
+
+269
+00:26:50,485 --> 00:26:54,315
+Od sletanja, mislim da
+je najstraöniji deo cele
+
+270
+00:26:54,316 --> 00:26:58,145
+misije poËetno
+odmotavanje-otkrivanje rovera.
+
+271
+00:27:02,289 --> 00:27:06,042
+Tu je toliko mnogo zupËanika,
+opruga, motora, öarki i reza
+
+272
+00:27:06,043 --> 00:27:11,337
+koji moraju da rade kako
+treba, ili ste zavröili.
+
+273
+00:27:19,556 --> 00:27:22,558
+Kada je sve razvijeno, spremni
+smo da razgledamo uokolo.
+
+274
+00:27:22,559 --> 00:27:26,187
+Moûemo da gledamo u daljinu sa kamerama
+i sa infracrvenim spektrometrom,
+
+275
+00:27:26,188 --> 00:27:31,192
+i moûemo mnogo da nauËimo sa udaljenosti
+od 50m do 100m, o tome kako stene
+
+276
+00:27:31,193 --> 00:27:35,488
+izgledaju i od Ëega su napravljene.
+Tada, ako vidimo kamen Ëija tekstura ili
+
+277
+00:27:35,489 --> 00:27:39,157
+sastav izgledaju
+zanimljivo za nas, moûemo da
+
+278
+00:27:39,158 --> 00:27:42,825
+se odvezemo do njega
+i pogledamo detaljnije.
+
+279
+00:27:50,629 --> 00:27:53,881
+Za voûnju, rover ima te
+kosooke kamere koje koristi,
+
+280
+00:27:53,882 --> 00:27:57,426
+koje prikazuju slike terena ispred.
+Imaju öirokougaone objektive
+
+281
+00:27:57,427 --> 00:28:03,140
+i stvaraju vizuru ribljeg oka.
+Spirit koristi te slike da
+
+282
+00:28:03,141 --> 00:28:06,394
+donese sopstvene odluke
+o tome kako Êe da vozi.
+
+283
+00:28:06,395 --> 00:28:08,813
+VoziÊe pravo napred i
+pogledati kamen i reÊi,
+
+284
+00:28:08,814 --> 00:28:11,858
+"Ovo je preveliko, moram
+da idem oko toga."
+
+285
+00:28:11,859 --> 00:28:14,902
+Ili moûda opazi lak prolaz i
+jednostavno nastavi dalje.
+
+286
+00:28:14,903 --> 00:28:18,156
+Moûemo programirati razliËite
+nivoe hrabrosti i kukaviËluka
+
+287
+00:28:18,157 --> 00:28:21,617
+za rover, govoreÊi mu koliko agresivan
+da bude, u zavisnosti od toga,
+
+288
+00:28:21,618 --> 00:28:26,205
+koliko mi mislimo
+da je teren opasan.
+
+289
+00:28:26,206 --> 00:28:28,437
+Ti roveri su toliko
+komplikovani, da su
+
+290
+00:28:28,438 --> 00:28:30,751
+potrebni sati da prime
+naredbe kako treba.
+
+291
+00:28:30,752 --> 00:28:36,382
+Kada upravljamo njima, normalno
+öaljemo komande jednom dnevno.
+
+292
+00:28:36,383 --> 00:28:39,834
+Prvi kamen koji smo
+ugledali je ovaj. Nazvali smo
+
+293
+00:28:39,835 --> 00:28:43,286
+ga Adirondak. Kada kamen
+leûi na povröini planete,
+
+294
+00:28:43,287 --> 00:28:46,111
+moûe biti podvrgnut neËemu,
+öto zovemo "ovremeöenje".
+
+295
+00:28:46,112 --> 00:28:48,936
+Kada je izloûena Suncu, vlazi
+ili vetru, povröina kamena
+
+296
+00:28:48,937 --> 00:28:50,751
+moûe biti promenjena
+i podaci o tome
+
+297
+00:28:50,752 --> 00:28:52,648
+kako je kamen nastao,
+mogu biti uniöteni.
+
+298
+00:28:52,649 --> 00:28:56,485
+Zato, da bi dobio tragove koje
+traûiö, moraö pogledati unutar stene
+
+299
+00:28:56,486 --> 00:28:59,947
+ispod "ovremeöene" povröine.
+
+300
+00:28:59,948 --> 00:29:03,159
+KljuË za razumevanje Adirondaka,
+je bio alat za abraziju stena.
+
+301
+00:29:03,160 --> 00:29:07,997
+SAA nam je dao sposbnost
+da prosvrdlamo unutar stene,
+
+302
+00:29:07,998 --> 00:29:12,267
+otkrivajuÊi nezastarele
+podatke iznutra.
+
+303
+00:29:21,762 --> 00:29:26,724
+Napravili smo SAA rupu u Adirondaku
+i napali ga sa svim öto smo imali.
+
+304
+00:29:26,725 --> 00:29:29,769
+Gledali smo sa kamerama,
+gledali smo sa spektrometrom,
+
+305
+00:29:29,770 --> 00:29:32,813
+sa mikroskopom.
+Adirondak je komad lave.
+
+306
+00:29:32,814 --> 00:29:36,067
+Nije sedimentna stena.
+I svaki kamen oko njega
+
+307
+00:29:36,068 --> 00:29:40,279
+je takoe nastao od lave. To
+je bilo veliko razoËarenje.
+
+308
+00:29:40,280 --> 00:29:43,950
+Doöli smo u krater Gusev da traûimo
+sedimentne stene, koje leûe dole
+
+309
+00:29:43,951 --> 00:29:48,871
+u pradavnom jezeru, ali naöli
+smo samo lavu. Vulkansko stenje.
+
+310
+00:29:48,872 --> 00:29:52,792
+Sedimentno stenje mora biti
+tamo, ali je zatrpano ispod lave,
+
+311
+00:29:52,793 --> 00:29:56,170
+a mi ne moûemo
+dopreti do njih.
+
+312
+00:29:56,171 --> 00:29:59,173
+Kada smo shvatili da nismo sleteli
+na materijal po koji smo doöli,
+
+313
+00:29:59,174 --> 00:30:03,094
+odluËili smo da odemo na neko
+drugo mesto. Udaljeno tri kilometra.
+
+314
+00:30:03,095 --> 00:30:06,597
+tamo je neobiËan venac uzvisina,
+koje zovemo Kolumbija Hils.
+
+315
+00:30:06,598 --> 00:30:10,184
+Trebate znati, da
+je Spirit napravljen
+
+316
+00:30:10,185 --> 00:30:13,771
+da pree samo kilometar
+za svoj radni vek.
+
+317
+00:30:13,772 --> 00:30:19,360
+Zato smo krenuli do tih brda,
+ne znajuÊi hoÊemo li uopöte stiÊi.
+
+318
+00:30:19,361 --> 00:30:25,865
+U meuvremenu, na drugoj strani
+Marsa, Oportjuniti se spremao da sleti.
+
+319
+00:30:49,641 --> 00:30:51,642
+Kada je Oportjuniti
+sleteo u Orlov krater,
+
+320
+00:30:51,643 --> 00:30:57,773
+Bio je to pogodak iz prve,
+dugaËak 500 miliona km.
+
+321
+00:30:57,774 --> 00:31:00,902
+Dokotrljali smo se i zaustavili
+ispred slojevitog stenovitog tla.
+
+322
+00:31:00,903 --> 00:31:03,906
+Kamenjar je
+geoloöka Ëinjenica.
+
+323
+00:31:03,907 --> 00:31:11,211
+Oportjuniti je sleteo
+ispred Knjige Istorije Marsa.
+
+324
+00:31:14,249 --> 00:31:17,251
+Kada smo odvezli lender i
+pogledali zemljiöte ispred nas,
+
+325
+00:31:17,252 --> 00:31:20,671
+videli smo da je pokriven neËim öto
+je liËilo a male i okrugle perle.
+
+326
+00:31:20,672 --> 00:31:25,593
+Nebrojeno malih
+okruglih stvari.
+
+327
+00:31:25,594 --> 00:31:27,762
+Izvadili smo
+mikroskop na dohvat,
+
+328
+00:31:27,763 --> 00:31:31,807
+pogledali zemljiöte detaljno i slika
+koju smo je dobili, je zapanjujuÊa.
+
+329
+00:31:31,808 --> 00:31:37,647
+Tos u bile savröene lopte, sfere.
+SeÊaÊu se toga celog ûivota,
+
+330
+00:31:37,648 --> 00:31:44,468
+kako sam se oseÊao kada
+sam video prvu sliku.
+
+331
+00:31:48,617 --> 00:31:52,495
+Kada smo dosegli uzorak i
+pogledali ga iz blizine, shvatili
+
+332
+00:31:52,496 --> 00:31:56,374
+smo da su sfere zatopljene u
+steni, kao groûice u kolaËu.
+
+333
+00:31:56,375 --> 00:31:58,918
+Kamen je erodirao, a
+perle su ispale napolje
+
+334
+00:31:58,919 --> 00:32:04,131
+i skotrljale se na zemljiöte.
+
+335
+00:32:04,132 --> 00:32:06,259
+Perle koje su ispale su
+satavljene od hematita,
+
+336
+00:32:06,260 --> 00:32:09,887
+minerala koji se na Zemlji
+Ëesto formira u teËnoj vodi.
+
+337
+00:32:09,888 --> 00:32:14,308
+SledeÊe, pronaöli smo jarosit, koji
+se kao mineral nije mogao formirati
+
+338
+00:32:14,309 --> 00:32:18,896
+ako nije bilo vode u tim stenama.
+Dakle bilo je ovde vode ispod tla.
+
+339
+00:32:18,897 --> 00:32:23,860
+Naöe najveÊe otkriÊe je doölo,
+kada smo naöli nabore u stenama.
+
+340
+00:32:23,861 --> 00:32:27,822
+Prastari nabori, koji su nastali kada
+je voda tekla preko Marsovog peska,
+
+341
+00:32:27,823 --> 00:32:29,323
+pre nekoliko milijardi godina.
+
+342
+00:32:29,324 --> 00:32:39,208
+Dakle, tamo nije bila samo voda ispod
+povröine... bilo je vode i na povröini.
+
+343
+00:32:39,209 --> 00:32:42,420
+Oportjuniti je otkrio da je na tom
+mestu pre nekoliko milijardi godina,
+
+344
+00:32:42,421 --> 00:32:44,964
+Mars bio svet vrlo
+pogodan za ûivot.
+
+345
+00:32:44,965 --> 00:32:47,342
+To je mesto, koje
+je u nekom periodu
+
+346
+00:32:47,343 --> 00:32:49,844
+vremena bilo pogodno
+za neki oblik ûivota.
+
+347
+00:32:49,845 --> 00:32:55,558
+Decenije rada su se
+isplatile ovim otkriÊem.
+
+348
+00:32:55,559 --> 00:32:59,770
+Pre nekoliko milijardi godina postojalo
+je plitak, povremeni bazen sa vodom.
+
+349
+00:32:59,771 --> 00:33:02,106
+Ne mislite na okean,
+mislite na slane ravnice.
+
+350
+00:33:02,107 --> 00:33:04,984
+I voda moûda nije
+baö bila lepa, plava.
+
+351
+00:33:04,985 --> 00:33:09,030
+U stvari, moûda je bila toliko kisela
+da je rastvarala gvoûe iz stena
+
+352
+00:33:09,031 --> 00:33:15,897
+i pravila crvena jezerca
+ispod ruûiËastog Marsovog neba.
+
+353
+00:33:29,801 --> 00:33:32,261
+Sva otkriÊa koje je
+Oportjuniti napravio o vodi
+
+354
+00:33:32,262 --> 00:33:34,556
+dogodili su se u prvih
+öest nedelja misije.
+
+355
+00:33:34,557 --> 00:33:36,974
+Sve se odigravalo kako
+treba za taj rover.
+
+356
+00:33:36,975 --> 00:33:39,519
+Nazvao sam Oportjuniti
+"Mala gospoica perfekcija".
+
+357
+00:33:39,520 --> 00:33:43,147
+Oportjuniti je sleteo baö
+tamo, gde su dokazi bili.
+
+358
+00:33:43,148 --> 00:33:50,279
+Voûnja je bila kao po
+parkingu. Sve je bilo savröeno.
+
+359
+00:33:50,280 --> 00:33:53,991
+Spirit, naö oblik teûaka,
+radniËki rover, sleteo je
+
+360
+00:33:53,992 --> 00:33:58,454
+u tu groznu, stenovitu, neravnu, lavom
+pokrivenu ravnicu, tri kilometra od
+
+361
+00:33:58,455 --> 00:34:01,958
+najbliûe interesantne stene,
+morao je da se bori pet meseci
+
+362
+00:34:01,959 --> 00:34:07,046
+samo da bi poËeo misiju.
+
+363
+00:34:07,047 --> 00:34:09,153
+Spirit je morao
+da radi baö za sve,
+
+364
+00:34:09,154 --> 00:34:14,554
+bukvalno kao da se
+penjao na Marsove planine.
+
+365
+00:34:14,555 --> 00:34:17,703
+Koristili smo energiju
+koja je dolazila od Sunca,
+
+366
+00:34:17,704 --> 00:34:20,852
+da upravljamo vozilima
+i da napunimo baterije.
+
+367
+00:34:20,853 --> 00:34:23,126
+Na putu za Kolumbijska
+brda, Spritove solarne
+
+368
+00:34:23,127 --> 00:34:25,481
+Êelije su bile
+pokrivene praöinom.
+
+369
+00:34:25,482 --> 00:34:30,278
+Doöli smo do taËke, gde je
+Spirit naprosto mogao da otkaûe.
+
+370
+00:34:30,279 --> 00:34:34,615
+Tada, jednog predivnog dana, kada
+smo se popeli na vrh grebena koji
+
+371
+00:34:34,616 --> 00:34:37,139
+bilo je, ne jednog
+nego viöe udara vetra
+
+372
+00:34:37,140 --> 00:34:39,745
+koji je oËistio solarne
+panele od praöine.
+
+373
+00:34:39,746 --> 00:34:42,895
+To je bio potpuno nov rover.
+
+374
+00:34:42,896 --> 00:34:46,127
+Spirit se popeo na
+vrh Kolumbijskih brda,
+
+375
+00:34:46,128 --> 00:34:49,714
+i poËeo da skuplja materijal koji je
+bio razliËit od svega öto smo videli.
+
+376
+00:34:49,715 --> 00:34:52,175
+Tamo ima naslaga soli,
+u brdima i gde stene su
+
+377
+00:34:52,176 --> 00:34:56,929
+oËigledno izmenjene radom vode.
+Proöli su meseci rada i borbe,
+
+378
+00:34:56,930 --> 00:35:01,184
+ali konaËno nam je Spirit pokazao da
+je bilo vode na obe strane planete.
+
+379
+00:35:01,185 --> 00:35:05,741
+Dao nam je taËno ono
+öto nam je bilo potrebno.
+
+380
+00:35:07,691 --> 00:35:11,110
+Roveri su projektovani da
+traju samo 90 Marsovih dana
+
+381
+00:35:11,111 --> 00:35:14,426
+i oni su to ograniËenje premaöili
+viöe puta. Razvili su osobenosti.
+
+382
+00:35:14,427 --> 00:35:17,742
+Oni su radni konji. Oni kaûu: "Poterajte
+nas. Traûite da uradimo joö viöe.
+
+383
+00:35:17,743 --> 00:35:20,912
+Moûemo dalje, moûemo brûe."
+Dakle, mi smo traûili mnogo viöe
+
+384
+00:35:20,913 --> 00:35:27,045
+nego öto im je bilo odreeno. I
+za naöu zabavu, oni to uradiöe.
+
+385
+00:35:28,837 --> 00:35:32,173
+Ne znamo öta Êe zaustaviti ove
+rovere; ostariÊe, motori Êe otkazati,
+
+386
+00:35:32,174 --> 00:35:35,635
+podmazivanje Êe nestati u motorima,
+toËkovi mogu prestati da se okreÊu.
+
+387
+00:35:35,636 --> 00:35:39,938
+Nemamo predstavu
+öta Êe se dogoditi.
+
+388
+00:35:43,185 --> 00:35:46,687
+NeÊe trajati zauvek.
+I dok praöina nastavlja da pada,
+
+389
+00:35:46,688 --> 00:35:48,856
+solarni paneli
+postaju sve prljaviji.
+
+390
+00:35:48,857 --> 00:35:51,984
+DesiÊe se da jednog dana
+neÊemo moÊi
+
+391
+00:35:51,985 --> 00:35:54,716
+da napunimo baterije dovoljno
+da odrûe rover toplim noÊu.
+
+392
+00:35:54,717 --> 00:35:57,448
+I kada se to dogodi, rover
+Êe postati isuviöe hladan.
+
+393
+00:35:57,449 --> 00:36:03,438
+I jednog jutra,
+jednostavno se neÊe probuditi.
+
+394
+00:36:08,669 --> 00:36:10,691
+Spirit i Oportjuniti
+su nam pokazali,
+
+395
+00:36:10,692 --> 00:36:12,839
+da je nekad, pre
+tri-Ëetiri milijarde godina,
+
+396
+00:36:12,840 --> 00:36:15,571
+Mars imao neophodne
+sastojke za nastanak ûivota.
+
+397
+00:36:15,572 --> 00:36:18,386
+SledeÊi korak je,
+da pronaemo dokaze
+
+398
+00:36:18,387 --> 00:36:22,823
+postojanja samog ûivota. Trenutno,
+imamo jedan primer ûivota. Nas.
+
+399
+00:36:22,824 --> 00:36:27,311
+Moûda smo jedini u svemiru.
+Jednostavno to ne znamo.
+
+400
+00:36:27,312 --> 00:36:31,868
+Ali ako moûeö pokazati da se ûivot
+razvio dvaput u istom solarnom sistemu,
+
+401
+00:36:31,869 --> 00:36:35,444
+tada moûemo smatrati, da mnogobrojni
+solarni sistemi tamo negde,
+
+402
+00:36:35,445 --> 00:36:39,490
+bez mnogo maötanja,
+da bismo poverovali
+
+403
+00:36:39,491 --> 00:36:44,314
+da ûivot moûe biti
+uobiËajena pojava u svemiru.
+
+404
+00:36:50,377 --> 00:36:54,964
+Naöi roveri idu dalje, jaËe i duûe
+nego öto smo mi, njihovi tvorci,
+
+405
+00:36:54,965 --> 00:36:58,551
+verovali da je moguÊe.
+Uradili su herojski posao.
+
+406
+00:37:00,894 --> 00:37:02,889
+Ali jednog dana,
+roboti nam neÊe trebati.
+
+407
+00:37:02,890 --> 00:37:06,226
+Jednog dana, ljudi
+na Marsu ostaviÊe
+
+408
+00:37:06,227 --> 00:37:13,796
+otiske stopala preko
+tragova naöih toËkova.
+
+409
+00:37:18,071 --> 00:37:20,907
+Ova misija nas je postavila
+na putanju da nauËimo
+
+410
+00:37:20,908 --> 00:37:23,784
+viöe o Marsu i o samima sebi.
+
+411
+00:37:23,785 --> 00:37:28,831
+Upravo sada, Spirit i
+Oportjuniti i dalje lutaju Marsom.
+
+412
+00:37:28,832 --> 00:37:33,169
+Nisu samo prevaziöli
+naöe najlue snove.
+
+413
+00:37:33,170 --> 00:37:38,716
+Na viöe naËina, oni
+jesu naöi najlui snovi.
+
+414
+00:37:38,717 --> 00:37:42,296
+Preveo i obradio magila
+
+415
+00:37:45,296 --> 00:37:49,296
+Preuzeto sa www.titlovi.com
+
+416
+00:37:50,305 --> 00:38:50,850
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/3bagv
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

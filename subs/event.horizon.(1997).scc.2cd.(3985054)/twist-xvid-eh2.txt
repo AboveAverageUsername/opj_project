@@ -1,0 +1,512 @@
+{0}{0}Ugljik dioksid|moûe proizvesti halucinacije,
+{0}{10}pogreöno rasuivanje.
+{10}{101}Boûe, glupost, to nije bila halucinacija.
+{101}{158}Doktore, bili ste u tu.
+{158}{211}Sigurno ste vidjeli neöto.
+{237}{289}Sigurno ste Ëuli neöto.
+{289}{324}I jesam.
+{324}{453}Prije jedan sat, vidjela sam mog sina|kako leûi na stolu za ispitivanje.
+{453}{509}i...
+{509}{561}u njegovim nogama su puzali...
+{561}{670}G. Peters, to zvuËi pomalo kao|öok.
+{670}{705}Vi ste traumatizirani...
+{705}{756}Ne. Ne. IspriËajte me! Ne!
+{756}{836}Viala sam tijela i prije.|Ovo se razlikuje.
+{836}{889}Ona je u pravu.
+{889}{927}Ovo... ovo je bilo stvarno.
+{927}{977}Osjetila sam... Osjetila sam vruÊinu.
+{977}{1041}To nije neöto|öto je u naöim glavama.
+{1084}{1135}Smitty, jesi li vidio,
+{1135}{1185}uopÊe, bilo öto neobiËno?
+{1185}{1226}Ne, nisam vidio niöta,
+{1226}{1311}a i ne moram, gospodine,
+{1311}{1359}Ali mogu vam reÊi, ovaj brod je sjeban.
+{1359}{1407}Pa, hvala vam na znanstvenoj analizi G. Smith.
+{1407}{1445}Yeah, nema...
+{1445}{1507}OK, OK! U redu, Doc.
+{1507}{1567}Kröenje zakona fizike koöta!
+{1567}{1632}Pobio je zadnju posadu, a sad nas!
+{1633}{1704}Ma to je samo jebeni brod.
+{1704}{1781}To je samo brod, gomila metala.
+{1781}{1828}Niöta Ëudno se ne dogaa.
+{1925}{1958}Lijepo.
+{2028}{2069}OK. Hajde da vidimo.
+{2069}{2102}Dobro si?
+{2102}{2165}Yeah. Samo sam... Oprosti.
+{2237}{2284}Nema jebene öanse...
+{2284}{2403}Dosta! Olabavi! Odmah!
+{2403}{2438}U redu.
+{2438}{2512}Ideö van|na Clark-a sa Cooper'om
+{2512}{2596}i popravit Êete|brod. Bez greöke.
+{2596}{2641}Greöke - niko ne ide kuÊi.|Razumio sam?
+{2641}{2740}Da, gospodine. U redu.
+{2740}{2779}MiËi se.
+{2932}{2961}Miller.
+{2961}{2999}Da, Starck?
+{2999}{3046}Radila sam bioscan.
+{3046}{3082}Rezultati biooËitanja su...
+{3082}{3133}Nepoznatog prijekla. Da, znam to.
+{3133}{3198}Reci mi ËovjeËe neöto korisno, PoruËniËe.
+{3198}{3273}Imam teoriju.|Hajde da Ëujemo.
+{3273}{3313}Postoji veza
+{3313}{3368}izmeu jaËine oËitanja|i halucinacija,
+{3368}{3450}kao dio obrambene|reakcije, imuni sistem.
+{3450}{3491}Nemam vremena...
+{3491}{3535}Sluöajte.|äto?
+{3535}{3564}To je reakcija broda,
+{3564}{3617}i reakcije|postaju sve jaËe.
+{3617}{3696}Kao da je brod donio nazad|neöto sa njim.
+{3696}{3774}äto to govoriö?|Da je brod ûiv?
+{3774}{3834}Traûili ste odgovor.
+{3834}{3910}éelim preûivjeti sljedeÊih 10 sati.
+{3935}{4085}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{6418}{6479}Jeste li Ëuli to?!
+{6479}{6553}»uli ste. äto je to?
+{6553}{6581}Sluöajte me.
+{6581}{6620}To je DJ, u redu?
+{6620}{6664}Nitko od nas nije Ëuo niöta.
+{6664}{6728}Smirite se. Povratite dah.
+{6754}{6815}sad, reci mi.|Bio sam...
+{6910}{6951}Zaustavite to!
+{6986}{7052}Otvaraj vrata.
+{7052}{7093}Ne!
+{7172}{7224}Weir, stani!
+{7224}{7261}Zaustavite ga!
+{7261}{7321}äto radiö ËovjeËe?!
+{7372}{7462}U trenutnoj okolini,|samokontrola je svetinja.
+{7617}{7655}äto je to?
+{7655}{7727}Um... prednja zraËna komora.
+{7727}{7793}Miller, Smith, Cooper,|ima li koga na izlazu?
+{7793}{7846}Nema, Starck.
+{8049}{8114}Justine, ne! Justine, otvaraj vrata!
+{8141}{8176}Miller, povrati se.
+{8176}{8246}Miller, vrati se.|Ovo je sluËaj opasnosti.
+{8246}{8299}äto se dogaa, Starck?
+{8299}{8331}Justin je na izlazu.
+{8331}{8363}Reci ponovno.
+{8363}{8426}Justin je u zraËnoj komori|bez skafandera.
+{8426}{8486}Radim na tome.|Ne, mornarËino.
+{8486}{8551}Skipper, trebam te.|Ostani tamo.
+{8551}{8624}UkljuËio je ruËno.|Zatvori ga, iskljuËi.
+{8624}{8691}Probat Êu.|Idem do njega, Starck.
+{8691}{8763}Justin! Otvori ova vrata odmah!
+{8815}{8864}Starck, kakvo je stanje.
+{8864}{8947}UkljuËio je premoöÊivanje.|Mi ne moûemo otvoriti vrata.
+{8947}{9046}Donijet Êu alat.|Justin, otvori ova vrata!
+{9160}{9232}Justin, otvori ova vrata.
+{9232}{9269}Jeste li Ëuli?
+{9269}{9386}Nastavite mu govoriti.|Da, Ëula sam. äto je to?
+{9386}{9468}To vam prikazuje stvari...|straöne stvari.
+{9468}{9509}äto radi?
+{9509}{9597}Crnilo unutar mene...|iz drugih mjesta.
+{9597}{9708}Ne vraÊam se tamo.|Medo, otvaraj vrata!
+{9708}{9768}äto se dogaa?|Ne ûeli da sluöati.
+{9768}{9858}Ako otvori izlaz|izvrnut Êe se iznutra kao vesta.
+{9858}{9930}Ostani samnom!|Skoro sam ga dohvatio...
+{9930}{9999}Ostani samnom, Justin! Otvaraj vrata!
+{9999}{10087}Da si mogla vidjeti öto sam ja vidio,|ne bi me zaustavljala.
+{10087}{10123}To ti ne govoriö!
+{10123}{10162}To ti ne govoriö.
+{10162}{10254}To je to. Otvori vrata.|Pritisni to dugme.
+{10430}{10512}Aktivirao je vrata.|Imaju 30 sekundi kaönjenja.
+{10638}{10764}Spremite se za dekompresiju|za 25 sekundi.
+{10764}{10811}Gdje sam? Hej...
+{10811}{10869}Otvori ih!|Otvori vrata...
+{10869}{10902}Ne mogu.
+{10902}{10977}Ne mogu se otvoriti kada su|pokrenuta vanjska vrata.
+{10977}{11066}Oh, Boûe.|Mama Medo... otvori vrata.
+{11066}{11123}Doi. Molim te...
+{11123}{11185}Kapetane!|Privucite me k njemu.
+{11185}{11275}Recite mu da ih otvori.|Ne mogu, Justin'e.
+{11275}{11380}Ne ûelim umrijeti.|NeÊeö umrijeti.
+{11380}{11437}Sluöaj me paûljivo. IzvuÊi Êu te.
+{11520}{11557}Oh, moj Boûe.
+{11557}{11619}PoËinje. Moje oËi!
+{11619}{11727}Ne misli o tome.|Pritisni ih koliko moûeö.
+{11727}{11762}Pet sekundi.
+{11762}{11843}ZgrËi se u lopticu.
+{11843}{11876}Ne mogu disati!
+{11876}{11909}Oh! Oh, Boûe!
+{11909}{11975}Oh, Boûe, boli!
+{11975}{12081}éelim da huhneö i puhneö|i isprazniö pluÊa.
+{12081}{12128}»ujeö li me, Justine?!
+{12192}{12231}UËini to! Odmah!
+{12514}{12563}OK, Mediko.
+{12593}{12652}Imam ga. imam ga.
+{12652}{12707}Pozor, narode.
+{12707}{12743}Pozor!
+{12777}{12815}Imamo tlak.
+{12815}{12859}Dolazimo, Justine!
+{12859}{12892}Dolazim!
+{12892}{12962}Trebat Êe nam 5 jedinica ovdje.
+{12962}{13002}Drûi mu glavu.
+{13084}{13144}Dajte mi joö malo glicerina, sad!
+{13144}{13242}Jedan po jedan.|Kriste, on krvari!
+{13468}{13562}Zaustavio sam krvarenje.|Stabilizirao sam ga najbolje öto mogu.
+{13602}{13706}NeÊe biti lijep, ali Êe|biti ûiv... ako se vratimo.
+{13706}{13769}Uspjet Êemo, ne brini.
+{13769}{13817}Starck, kako stojimo s vremenom?
+{13817}{13902}CO2 nivo Êe postati|otrovan za Ëetiri sata.
+{13902}{13975}Dobro. Peters,|moramo saznati
+{13975}{14080}öto se dogodilo prijaönjoj posadi|prije nego se to dogodi nama.
+{14080}{14188}Mogu raditi na mostu,|ali ne ûelim se vratiti u medicinski odjel.
+{14188}{14283}Lijepo.|Da, gospodine.
+{14283}{14393}Justin je rekao neöto o...
+{14393}{14465}tami unutar sebe.
+{14465}{14502}Na öto je mislio?
+{14502}{14549}Doktore?
+{14609}{14672}Ne mislim da to neöto znaËi.
+{14767}{14841}Ne okreÊite mi lea gospodine.
+{14873}{14920}éelim neke odgovore, Doktore.
+{14920}{15015}Zaöto je jedan od mojih|ljudi pokuöao samoubojstvo?
+{15015}{15087}Volio bih da znam|öto je prouzrokovalo tu glupost.
+{15087}{15136}Gledaj, termiËke promjene u trupu
+{15136}{15218}su mogle prouzrokovati|njegovo öirenje i skupljanje,
+{15218}{15256}öto izaziva reverberacije.|MoguÊe je...
+{15256}{15300}Veliko sranje! Vi ste izgradili ovaj brod.
+{15300}{15351}Niste mi dali niöta|osim velikog sranja.
+{15351}{15409}äto vi, takoer, Ëujete?
+{15409}{15482}Rekli ste da brodski pogon|stvara prolaz.
+{15482}{15520}Da.
+{15520}{15552}Kuda?
+{15552}{15591}Ne znam.
+{15591}{15649}Gdje ste ga poslali?
+{15649}{15688}Gle, ne znam.
+{15688}{15748}Gdje je bio sedam godina?
+{15748}{15831}Ne znam.|To nije dovoljno dobro.
+{15831}{15936}Vi ste ekspert.|Meni trebaju odgovori. To je vaö posao.
+{15936}{16000}E, a sad, to drugo mjesto, gdje je to?
+{16000}{16047}Ne znam! Ne znam!
+{16047}{16146}Vidite, mnogo se stvari|dogodilo ovdje
+{16146}{16192}a ja ih ne razumijem u potpunosti.
+{16192}{16227}Treba mi vremena.
+{16263}{16299}Vidim.
+{16299}{16375}E pa to je upravo ono|öto nemamo, Doktore.
+{16489}{16536}Kapetane!
+{16670}{16726}Ne ostavljajte me!
+{16863}{16937}Ne ostavljajte me!
+{17040}{17087}Molim vas!
+{17153}{17256}Za ime Boûje, pomozite mi!
+{17487}{17520}To je u tvojoj glavi.
+{17591}{17642}To je samo u tvojoj glavi.
+{18108}{18158}Boûe pomozi nam.
+{18286}{18359}Kaûem ti,|njegov glas sam Ëuo.
+{18359}{18433}Zvao me je... mladi|bosun zvan Eddie Corrick.
+{18479}{18538}Sluûili smo zajedno na Goliath'u.
+{18574}{18623}Kad su se spremnici s kisikom rasprsnuli,
+{18623}{18695}Ëetvoro od nas je stiglo do Ëamca za spaöavanje,
+{18695}{18787}ali Corrick je joö uvijek bio na palubi|kad je izbila vatra.
+{18787}{18867}Jeste li ikad vidjeli vatru na nultoj gravitaciji?
+{18909}{18947}Divna je.
+{18997}{19054}Ona je kao tekuËina.
+{19054}{19140}Klizi svuda i preko svega.
+{19140}{19222}Nailazi u valovima.
+{19222}{19294}Oni su ga nastavljali pogaati.
+{19294}{19374}Val za valom.
+{19374}{19448}Vriötao je da ga spasim.
+{19448}{19514}äto si uËinio?
+{19514}{19581}Jedinu stvar koju sam mogao.
+{19629}{19723}Zatvorio sam vrata Ëamca za spaöavanje,|i ostavio ga.
+{19811}{19898}Zakleo sam se da viöe nikad neÊu izgubiti niti jednog Ëovjeka.
+{19898}{19955}Poznajem te dugo vremena.
+{19955}{20015}Nikad mi nisi rekao.
+{20015}{20098}To je to, DJ.|Nikad nikom nisam rekao.
+{20098}{20162}Ali ovaj brod zna o tome.
+{20162}{20291}Zna moje strahove.|Zna moje tajne.
+{20291}{20370}Ue u tvoju glavu,|i prikaûe ti.
+{20370}{20428}Nisam imao namjeru reËi ti.
+{20469}{20565}Presluöavao sam|onaj izobliËeni signal,
+{20565}{20612}i Ja, uh...
+{20658}{20732}Mislim da sam pogrijeöio u prijevodu.
+{20771}{20867}Liberate tutemet...
+{20939}{20973}Nastavi.
+{21016}{21083}Mislio sam da je rekao "Iiberate me"...
+{21083}{21130}"Spasi me."
+{21130}{21204}Ali nije "me".
+{21204}{21277}To je "Iiberate tutemet"...
+{21277}{21326}"Spasi sebe".
+{21326}{21388}A joö gore.
+{21388}{21476}Liberate tutemet ex inferis.
+{21476}{21514}Tako.
+{21548}{21595}Mislim...
+{21595}{21677}Da kaûe "ex inferis".
+{21677}{21788}"Spasite sebe"...
+{21788}{21836}"od pakla".
+{21874}{21969}Pazi, ako je ono öto dr Weir|kaûe istina,
+{21969}{22018}ovaj brod je bio iza granica
+{22018}{22073}naöeg svemira,
+{22073}{22150}daleko od poznatih znanstvenih Ëinjenica.
+{22150}{22219}Tko zna gdje je bio,
+{22219}{22278}öto je vidio...
+{22330}{22390}i öto je doveo nazad sa sobom?
+{22390}{22443}Iz pakla.
+{22519}{22593}Ne vjerujete valjda|u sve to, zar ne?
+{22675}{22794}Tko god da je poslao poruku,|sigurno vjeruje u pakao.
+{22794}{22843}Kapetane Miller!
+{22925}{22972}äto god bilo, neka bude dobro, Coop.
+{22972}{23073}Spremni smo za uspostavljanje tlaka|na Clark-u i da se nestanemo odavde.
+{23073}{23110}Dolazim.
+{23202}{23274}Hajde, mala. Nemoj me iznevjeriti.
+{23443}{23487}Zdravo, mala.
+{23487}{23544}Tatina lutka.
+{23544}{23607}Drûi se.
+{23607}{23641}Oh, sranje.
+{23641}{23706}Skipper, joö uvijek curimo|vidim tragove plina.
+{23706}{23762}Daj mi 20 minuta da zaËepim.
+{23762}{23832}Cooper, ti si spasioc.
+{23832}{23887}20 minuta i briöemo.
+{23970}{24016}Sranje.
+{24065}{24113}Ima li kave?
+{24113}{24162}Da, ali je hladna.
+{24162}{24200}Sjajno.
+{24845}{24974}Liberate tutemet ex inferis.
+{25134}{25178}Odlazimo.
+{25231}{25278}Ne, ne moûemo otiÊi.
+{25313}{25370}Naöa nareenja su jasna.
+{25370}{25430}Spasite posadu, raznesite brod.
+{25430}{25501}Mrtvi su, Doktore.|Vaö brod ih je pobio.
+{25501}{25574}Doöli smo da odradimo posao.|Prekidamo!
+{25574}{25612}Starck, presnimi fajlove
+{25612}{25658}sa Event Horizon-ovih kompjutora.
+{25658}{25763}DJ, pripremi Justina|i spremi se za preseljenje na Clark.
+{25763}{25811}Ima stvari koje mi trebaju iz medicinskog.
+{25811}{25901}Pomakni ga u spremnik.|nema problema. Napravi to.
+{25901}{25948}Peters.|Da, gospodine.
+{25948}{26026}Uzmi CO2 spremnike.|Povedi Smitty-ja sa sobom.
+{26199}{26238}Ne Ëinite to.
+{26238}{26285}UËinjeno je.
+{26330}{26367}Ne moûete ostaviti moj brod!
+{26367}{26428}Nemam namjeru ostaviti ga.
+{26428}{26492}Uzet Êu Lewis & Clark.
+{26492}{26583}I lansirat Êu TAC projektile na Event Horizon|dok se ne uvjerim da je pretvoren u paru.
+{26583}{26621}Ne.
+{26799}{26876}Kapetane, bio-scanovi|su upravo izaöli izvan skale.
+{26876}{26967}Jezgra crpi energiju|od ostalih dijelova broda.
+{26967}{27054}Pokupite fajlove.|Evakuacija. éelim da napustimo brod.
+{27054}{27145}Ne moûete ga ostaviti. NeÊe vas pustiti.
+{27145}{27225}Potegni svoju guzicu|ili Êeö pjeöke kuÊi.
+{27227}{27280}Ja sam doma.
+{27313}{27350}Idemo!
+{27350}{27397}Spremni?
+{27397}{27436}Pali.
+{27473}{27518}Hajde. Hajde.
+{27518}{27557}Spremni?
+{27557}{27590}Pali.
+{27686}{27725}Pali. OK.
+{27725}{27797}Moûemo li iÊi? Ovo mjesto me plaöi.
+{27797}{27880}HoÊete li disati usput?|Ne! Idemo!
+{27880}{27930}Sranje! 25! Idemo!
+{27930}{27984}Treba nam 25! Peters!
+{27984}{28041}Izlazi! Imam ih!
+{31512}{31559}Oh, ne, Peters.
+{31690}{31745}Oh, Boûe.
+{32434}{32472}Ja sam. Doma sam.
+{32515}{32568}Doma sam.
+{32664}{32755}Znao sam da nisam bio tamo|kad si me trebala i...
+{32755}{32817}éao mi je. Ja...
+{32817}{32905}Dozvolio sam da moj rad stane izmeu nas.
+{32999}{33057}Boûe, Kler, ne.
+{33057}{33095}Preklinjem te.
+{33095}{33153}Molim te, Molim te nemoj.
+{33153}{33200}Ne opet, Molim.
+{33239}{33288}Bio sam tako...
+{33383}{33440}Bio sam tako...
+{33479}{33537}Billy.
+{33537}{33581}U redu je.
+{33623}{33694}Bio sam tako sam.
+{33694}{33777}Nikad viöe neÊeö biti sam.
+{33777}{33824}Sada si samnom.
+{33824}{33887}Samnom si,
+{33887}{34006}i imam tako divne,|divne stvari...
+{34006}{34041}da ti pokaûem.
+{34486}{34535}Prokletstvo, kako sam dobar!
+{34640}{34708}Coop, Koliko ti joö treba?
+{34708}{34784}Poljubi mi guzicu, Smith. Zavröio sam.
+{34784}{34878}Samo da pokupim alat,|i moûemo iÊi.
+{34878}{34942}Najviöe dvije minute.|»uo sam.
+{35356}{35466}Dr. Weir, pokupite svoju guzicu|nazad na palubu odmah! Weir!
+{35466}{35512}Sranje.
+{35512}{35573}Kapetane Miller, »ujete li me? Prijem.
+{35573}{35636}Kapetane Miller, »ujete li? Prijem.
+{35636}{35665}Napred, Smitty.
+{35665}{35762}Upravo sam vidio Weir-a kako se mota|po Clark-u, gospodine.
+{35762}{35863}PriËekaj, Smitty.|Moram neöto provjeriti.
+{35975}{36045}Smith, gubi se.|Moûete li ponoviti, gospodine?
+{36045}{36125}Eksplozivi nedostaju.|Weir ih je postavio na Clark-a.
+{36125}{36217}Ne, gospodine. Nema naËina.|Upravo sam ih vratio.
+{36217}{36253}Gubi se odatle, Smith!
+{36493}{36543}Gdje si ËovjeËe?
+{37087}{37126}Imam te.
+{37126}{37166}Drûi se, Smitty! Stiûem!
+{37491}{37547}Ne!
+{37699}{37729}Sranje!
+{38750}{38775}Sranje!
+{38775}{38822}Kud sam ja krenuo?
+{38822}{38896}Zaöto se ovo sranje dogaa|meni? Jebi ga.
+{38952}{38999}U redu, Misli, Coop. Misli. Misli!
+{38999}{39092}Vrati se na brod.
+{39092}{39182}Raznijet Êu svoj spremnik zraka.|Raznijet Êu svoj spremnik zraka.
+{39231}{39258}U redu. Jebi ga.
+{39258}{39296}Bolje da ovo proradi.
+{39296}{39342}Bolje da ovo proradi.
+{39342}{39408}Idemo. 1, 2, 3.
+{39408}{39443}Doi. Doi!
+{39443}{39479}Doi! Da!
+{39479}{39552}Da! Da!
+{39552}{39610}Dolazim, jebaËi!
+{39826}{39859}äto je to bilo?
+{39859}{39950}Clark-a nema.|Smitty i Cooper su mrtvi.
+{39950}{39984}äto...?
+{39984}{40039}Ako ugledaö Weir-a, sredi ga.
+{40039}{40086}Razumio sam.
+{40086}{40137}Budi oprezan, DJ.
+{40137}{40175}Ne brinite oko Weir-a.
+{40175}{40230}Pobrinut Êu se ja za njega.
+{40799}{40893}DJ! DJ, odgovori mi!
+{42031}{42080}OK, Dr. Weir.
+{42201}{42261}Ne ûeliö napustiti tvoj brod?
+{42261}{42318}Nikad i: neÊeö.
+{44290}{44337}To je OK.
+{44433}{44486}Izvadit Êu te odatle.
+{44692}{44741}Lagano.
+{45074}{45148}Oh, moj Boûe.
+{45182}{45231}äto se dogodilo sa tvojim oËima?
+{45231}{45328}Tamo gdje idemo,|ne trebaju nam oËi da bi vidjeli.
+{45328}{45378}O Ëemu ti to?
+{45378}{45473}Stvorio sam Event Horizon|da dostignem zvijezde,
+{45473}{45584}ali je otiöao mnogo,|mnogo dalje od njih.
+{45584}{45657}Napravio je rupu u naöem svemiru...
+{45657}{45742}Prolaz u sasvim drugu dimenziju...
+{45742}{45834}Dimenziju Ëistog kaosa...
+{45834}{45894}»isto zlo.
+{45894}{45993}Kad je krenuo preko,|bio je samo brod,
+{45993}{46074}Ali kad se vratio...
+{46074}{46146}Bio je ûiv.
+{46146}{46232}Pogledaj ga, Miller.
+{46232}{46303}Zar nije predivan?
+{46303}{46406}Tvoj predivni brod|pobio je svoju posadu, Doktore.
+{46439}{46505}Pa...
+{46505}{46560}Sad ima drugu posadu.
+{46602}{46661}Sad ima nas.
+{46818}{46874}äto mislite|da radite, Doktore?
+{46874}{46985}éeljeli ste znati|gdje je brod bio...
+{46985}{47041}Sad Êete saznati.
+{47344}{47412}Ako me promaöiö,|moûeö raznijeti oklop.
+{47412}{47490}Kako moûeö pomisliti da Êu promaöiti?
+{47523}{47561}ToËno! Vratio sam se!
+{47561}{47625}Ja sam... oh, sranje! Ne mogu stati! Hej!
+{47625}{47668}Hey! Jebi ga.
+{47707}{47750}äto?! Tko zajebava?!
+{47750}{47791}Tko...? Oh, sranje!
+{47935}{47959}Ne!
+{50450}{50474}Daj mi ruku!
+{50688}{50766}Prii!|Ne mogu!
+{50811}{50854}NeÊu te ostaviti!
+{51326}{51375}Prednji izlaz.
+{51502}{51565}Ne moûe biti Weir.
+{51565}{51613}Ne ûelim riskirati.
+{51613}{51660}Pazi lea.
+{51925}{51972}Yo! Pazi da ne pogodiö mene!
+{52014}{52069}Ostavi, skini to!
+{52069}{52116}Ne mogu disati. Ne mogu disati.
+{52116}{52179}Ti si OK. Ti si OK. Gotovo je.
+{52179}{52221}Ne, nije.
+{52221}{52300}Weir je aktivirao gravitacijski|pogon. Moramo ga ugasiti.
+{52300}{52394}Kako? Most je otiöao.|äto je sa inûinjerijom?
+{52394}{52443}Dr. Weir je bio ekspert.
+{52443}{52530}Ne ûelim otiËi tamo|gdje je ostala posada otiöla.
+{52530}{52566}Raznijet Êemo ga.
+{52566}{52625}Raznijeti ga?|Kao öto je Weir rekao.
+{52625}{52661}Raznijeti tunel,
+{52661}{52757}odvojiti nas od broda, iskoristiti|prednje palube kao Ëamac za spaöavanje.
+{52790}{52851}TDRS bi trebao pokupiti|naö spasilaËki Ëamac.
+{52851}{52942}Stavit Êemo sebe u mirovanje,|i Ëekati na spasioce.
+{52942}{52991}RuËno Êu aktivirati eksploziv.
+{52991}{53029}Skipper, hoÊe li to raditi?
+{53029}{53117}Idi aktiviraj odvajanje u sluËaju nuûde|i vrati se.
+{53117}{53175}Da, gospodine.|Dolazim.
+{53175}{53210}Ti ostani ovdje.
+{53277}{53332}Zatvorite vrata iza mene,|PoruËniËe.
+{53579}{53676}Prolaz se otvara|u T-minus 5 minuta.
+{53834}{53890}Odvajanje u sluËaju nuûde aktivirano.
+{53929}{53974}Da.
+{53974}{54010}Krv?
+{54194}{54249}Oh, jebi me.
+{54249}{54298}Jebi me.
+{55033}{55066}TrËi!
+{55129}{55233}Prolaz se otvara|za T-minus 3 minute.
+{55316}{55391}Oslobaanje detonatora odobreno.
+{55426}{55498}Glavni tunel je spreman.
+{55498}{55545}Mi smo spremni. Spreman je da se rasipa.
+{55545}{55611}Ponavljam. Spreman je da se rasipa.
+{55611}{55697}Miller. Miller, moûeö li me Ëuti?
+{55697}{55771}Moramo otiÊi odavde.
+{55800}{55845}Ostavio si me da izgorim!
+{56275}{56386}Prolaz se otvara|za T-minus 2 minute.
+{57264}{57309}Ostavio si me iza sebe.
+{57351}{57441}Ne, ti nisi Edward Corrick.|Vidio sam ga kako umire.
+{57533}{57569}Weir?
+{57630}{57680}Brod me je doveo nazad.
+{57680}{57755}Rekao sam ti da me neÊe pustiti da odem.
+{57755}{57802}NeÊe pustiti nikoga da ode.
+{57802}{57882}Jesi li stvarno pomislio|da moûeö uniötiti ovaj brod?
+{57882}{57958}On svladava i prostor i vrijeme.
+{57958}{58044}Bio je na mjestima|koje ne moûeö ni zamisliti.
+{58044}{58087}I sad...
+{58087}{58151}je vrijeme da se vrati.
+{58151}{58208}Znam. U pakao.
+{58208}{58303}Nemaö ti pojma.|Pakao je samo rijeË.
+{58303}{58405}Stvarnost je mnogo, mnogo gora.
+{58460}{58532}Sad Êu ti pokazati.
+{58575}{58605}Pomozi mi!
+{58663}{58727}Ne!
+{58760}{58821}Ne. Ne. Ne.
+{58821}{58854}Vidiö?
+{58854}{58938}Ne, oni nisu mrtvi.|Oni nisu mrtvi.
+{58938}{58981}Ne joö.
+{59040}{59094}Ti neÊeö...
+{59094}{59157}uzeti moju posadu!
+{59613}{59670}Oni viöe nisu tvoja posada.
+{59670}{59718}Oni pripadaju brodu.
+{59718}{59779}Prolaz se otvara.
+{60098}{60146}Uzmi mene.
+{60146}{60217}Uzmi mene! Ostavi ih na miru!
+{60217}{60259}Ne.
+{60259}{60302}Nema bjeûanja.
+{60356}{60393}Prolaz je otvoren,
+{60393}{60475}i svi vi idete samnom.
+{60585}{60624}Vidiö li?
+{60700}{60773}Vidiö li?
+{60817}{60853}Vidiö li?!
+{60908}{60938}Da...
+{60971}{61012}Vidim.
+{61107}{61227}Ne!
+{63281}{63387}Ovo je Spasilac Jedan. Imamo kontakt.
+{63387}{63465}Prilazimo olupini|Event Horizon-a.
+{63465}{63510}Pripremite se za iskrcavanje.
+{63736}{63809}Ulazim u halu sa gravitacijskim kauËima.
+{63809}{63905}Ne izgleda oöteÊen eksplozijom.
+{63945}{64025}»ini se da ima tri preûivjela:
+{64025}{64106}Cooper, Justin, PoruËnik Starck.
+{64106}{64192}Justin izgleda pati od|masivnih povreda,
+{64192}{64238}ali joö uvijek je ûiv.
+{64264}{64329}Gravitacijski kauËi joö uvijek imaju energiju.
+{64394}{64455}Otvaram prvi spremnik.
+{64682}{64744}Sve je u redu. OK je.
+{64744}{64782}Sigurna si.
+{64782}{64815}Justin, Cooper.
+{64815}{64874}Oni su dobro. Oni su dobro.|Oni su sa nama.
+{64874}{64912}Ti si sa nama.
+{64985}{65018}Starck.
+{65018}{65055}Ostani mirna. Sve je u redu.
+{65055}{65104}Starck, smiri se. To sam ja.
+{65104}{65137}Diöi duboko. Diöi duboko.
+{65137}{65184}Treba mi sedativ ovdje, sad!
+{65184}{65233}Imam te, Starck..
+{65233}{65266}Sve je u redu.
+{65266}{65307}Sedativ, odmah!
+{65307}{65351}Starck, sigurni smo.
+{65351}{65402}OK, OK! Trebam ga odmah!
+{65402}{65432}Sigurni smo.
+{65732}{66432}This file is free subtitle file; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2,|or (at your option) any later version. :-)| |Obradio: Josip DeanoviÊ|                                                                                                                                                                                                                                   
+{66457}{67957}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/7gfsb|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

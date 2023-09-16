@@ -1,0 +1,5399 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:01:03,520 --> 00:01:07,461
+<i>Dragi moj Frodo.</i>
+
+3
+00:01:11,874 --> 00:01:18,376
+<i>Jednom si me pitao jesam li ti
+rekao sve o mojim, pustolovinama.</i>
+
+4
+00:01:18,410 --> 00:01:23,105
+<i>Iako iskreno mogu da kaûem
+da sam ti ispriËao istinu,</i>
+
+5
+00:01:23,139 --> 00:01:27,320
+<i>moûda ti je nisam ispriËao celu.</i>
+
+6
+00:01:32,956 --> 00:01:36,665
+<i>Sada sam star, Frodo.</i>
+
+7
+00:01:36,699 --> 00:01:40,838
+<i>Nisam isti hobit kakav sam nekad bio.</i>
+
+8
+00:01:42,808 --> 00:01:47,339
+<i>I mislim, da je vreme da saznaö</i>
+
+9
+00:01:47,374 --> 00:01:50,294
+<i>öta se zapravo dogodilo.</i>
+
+10
+00:01:51,477 --> 00:01:55,975
+<i>ZapoËelo je jako davno.</i>
+
+11
+00:01:56,009 --> 00:02:00,442
+<i>U zemlji jako daleko, na istoku,</i>
+
+12
+00:02:00,477 --> 00:02:04,876
+<i>kakvu danas neÊeö na svetu pronaÊi.</i>
+
+13
+00:02:13,741 --> 00:02:16,978
+<i>Stajao je grad Dale.</i>
+
+14
+00:02:17,012 --> 00:02:19,258
+<i>Njegove trûnice nadaleko bijahu poznate,</i>
+
+15
+00:02:19,293 --> 00:02:26,154
+<i>po izobilju svega, mirne i imuÊne.</i>
+
+16
+00:02:28,519 --> 00:02:34,823
+<i>Taj grad stajaöe pred dverima
+najveÊeg kraljevstva u Meuzemlju.</i>
+
+17
+00:02:34,858 --> 00:02:37,070
+<i>Erebora.</i>
+
+18
+00:02:37,110 --> 00:02:41,404
+<i>Utvrenje Throra, kralja podno gore,</i>
+
+19
+00:02:41,444 --> 00:02:45,154
+<i>najmoÊnijeg od svih vladara patuljaka.</i>
+
+20
+00:02:45,188 --> 00:02:50,705
+<i>Thror vladaöe apsolutnom sigurnoöÊu,
+nikad ne sumnjavöi u opstanak svoje kuÊe.</i>
+
+21
+00:02:50,738 --> 00:02:57,404
+<i>Jer njegova loza bijaöe osigurana
+ûvotima njegovog sina i unuka.</i>
+
+22
+00:02:57,955 --> 00:03:01,310
+<i>Ah Frodo, Erebor,</i>
+
+23
+00:03:01,344 --> 00:03:07,413
+<i>uklesan duboko u samu planinu, lepota
+tog grada-utvrenja beöe legendarna.</i>
+
+24
+00:03:07,453 --> 00:03:12,772
+<i>Njegovo bogatstvo leûalo je u zemlji,
+u draguljima isklesanim iz stene,</i>
+
+25
+00:03:12,807 --> 00:03:18,959
+<i>i u velikim ûilama zlata, koje
+tekoöe poput reka kroz kamen.</i>
+
+26
+00:03:21,126 --> 00:03:24,436
+<i>Veötina patuljaka bila je bez premca.</i>
+
+27
+00:03:24,471 --> 00:03:27,711
+<i>IzraujuÊi predmete velike lepote,</i>
+
+28
+00:03:27,746 --> 00:03:32,869
+<i>od dijamanata, smaragda,
+rubina i safira.</i>
+
+29
+00:03:32,904 --> 00:03:37,480
+<i>Uvek kopavöi dublje, dole u mrak.</i>
+
+30
+00:03:37,514 --> 00:03:41,421
+<i>I tu su ga pronaöli.</i>
+
+31
+00:03:45,558 --> 00:03:48,513
+<i>Srce gore.</i>
+
+32
+00:03:49,499 --> 00:03:52,178
+<i>Najdragulj.</i>
+
+33
+00:03:52,336 --> 00:03:55,487
+<i>Thror ga prozvaöe Kraljev Dragulj.</i>
+
+34
+00:03:55,527 --> 00:04:00,927
+<i>Shvatio ga je kao znak, znak da je
+njegovo pravo na vladavinu boûansko.</i>
+
+35
+00:04:00,961 --> 00:04:07,625
+<i>Svi su mu odali poËast, Ëak i
+veliki vilenjaËki kralj Thranduil.</i>
+
+36
+00:04:08,491 --> 00:04:13,340
+<i>Ali godine mira i obilja nisu potrajale.</i>
+
+37
+00:04:13,374 --> 00:04:17,359
+<i>Lagano, dani su postali kiseli.</i>
+
+38
+00:04:17,398 --> 00:04:21,891
+<i>I ustupiöe mesto budnim noÊima.</i>
+
+39
+00:04:26,737 --> 00:04:32,057
+<i>Throrova ljubav prema zlatu
+preûestoko se rasplamsala.</i>
+
+40
+00:04:32,647 --> 00:04:36,786
+<i>Bolest je poËela da raste u njemu.</i>
+
+41
+00:04:37,495 --> 00:04:41,317
+<i>Bila je to bolest uma.</i>
+
+42
+00:04:42,696 --> 00:04:48,884
+<i>A gde bolest buja, zle stvari slede.</i>
+
+43
+00:04:57,278 --> 00:05:02,123
+<i>Prvo öta su Ëuli bila je buka, poput
+uragana, kako se spuöta sa severa.</i>
+
+44
+00:05:02,400 --> 00:05:08,588
+<i>Borovi na planini su ökripali i
+pucali na vruÊem, suvom vetru.</i>
+
+45
+00:05:11,857 --> 00:05:15,405
+Baline, oglasi uzbunu!
+
+46
+00:05:17,296 --> 00:05:20,723
+Pozovi straûe, odmah!
+- äta je to?
+
+47
+00:05:20,758 --> 00:05:23,400
+Zmaj.
+
+48
+00:05:23,434 --> 00:05:26,044
+Zmaj!
+
+49
+00:05:27,304 --> 00:05:31,087
+<i>Bio je to vatreni drak sa severa.</i>
+
+50
+00:05:37,472 --> 00:05:41,885
+<i>Smaug je stigao.</i>
+
+51
+00:06:07,499 --> 00:06:11,795
+<i>Toliko uzaludne smrti
+je bilo tog dana.</i>
+
+52
+00:06:11,829 --> 00:06:16,165
+<i>Jer grad ljudi nije
+znaËio niöta Smaugu.</i>
+
+53
+00:06:16,199 --> 00:06:20,503
+<i>Njegove oËi, traûile su drugu nagradu.</i>
+
+54
+00:06:23,655 --> 00:06:29,488
+<i>Zmajevi ûude za zlatom,
+mraËnom i ûestokom ûudnjom.</i>
+
+55
+00:07:11,179 --> 00:07:15,396
+<i>Erebor bijaöe izgubljen.</i>
+
+56
+00:07:18,745 --> 00:07:25,445
+<i>Zmaj Êe Ëuvati svoj
+plen, dok god ûivi.</i>
+
+57
+00:07:32,537 --> 00:07:35,256
+Ne uzmiËite!
+
+58
+00:07:35,291 --> 00:07:37,975
+Pomozite nam!
+
+59
+00:07:49,560 --> 00:07:55,077
+<i>Thranduil ne htede da rizikuje ûivote
+svog roda protiv zmajevog besa.</i>
+
+60
+00:07:55,313 --> 00:07:59,254
+<i>Tog dana ne bi pomoÊi od vilenjaka.</i>
+
+61
+00:07:59,289 --> 00:08:02,452
+<i>I ni jednog dana od tad.</i>
+
+62
+00:08:02,486 --> 00:08:08,081
+<i>Ostavöi bez otadûbine, patuljci
+iz Erebora lutaöe divljinom.</i>
+
+63
+00:08:08,594 --> 00:08:13,441
+<i>Nekad moÊan narod, nisko je spao.</i>
+
+64
+00:08:14,110 --> 00:08:17,855
+<i>Mladi princ patuljaka uzimao
+je poslove gde je god mogao,</i>
+
+65
+00:08:17,888 --> 00:08:22,549
+<i>nadniËarevöi u ljudskim
+selima, ali uvek se seÊao,</i>
+
+66
+00:08:22,584 --> 00:08:28,376
+<i>planinskih obronaka pod meseËinom,
+stabala poput baklji kako ûarko bukte.</i>
+
+67
+00:08:28,415 --> 00:08:34,877
+<i>Video je zmajevu vatru na
+nebu i grad pretvoren u pepeo.</i>
+
+68
+00:08:36,256 --> 00:08:39,173
+<i>Nikad nije oprostio.</i>
+
+69
+00:08:39,207 --> 00:08:42,090
+<i>Nikad nije zaboravio.</i>
+
+70
+00:08:46,306 --> 00:08:50,724
+<i>Tu, moj dragi Frodo, ja nastupam.</i>
+
+71
+00:08:50,759 --> 00:08:53,679
+<i>Pukom sluËajnoöÊu, i voljom Ëarobnjaka,</i>
+
+72
+00:08:53,713 --> 00:08:58,521
+<i>sudbina je odluËila da
+Êu da postanem deo te priËe.</i>
+
+73
+00:08:58,915 --> 00:09:03,763
+<i>PoËelo je, pa poËelo je
+kako bi se moglo i oËekivati.</i>
+
+74
+00:09:05,141 --> 00:09:10,856
+<i>U rupi u zemlji, ûiveo je hobit.</i>
+
+75
+00:09:11,722 --> 00:09:17,476
+<i>Nije to bila gadna, prljava, mokra rupa
+ispunjena crvima i zadahom vlage.</i>
+
+76
+00:09:17,510 --> 00:09:20,983
+<i>Bijaöe to hobitska rupa, a to znaËi,</i>
+
+77
+00:09:21,023 --> 00:09:28,194
+<i>dobra hrana, toplo ognjiöte
+i sve udobnosti kuÊe.</i>
+
+78
+00:10:01,571 --> 00:10:03,857
+Hvala.
+
+79
+00:10:04,252 --> 00:10:07,166
+äta je ovo?
+- To je privatno.
+
+80
+00:10:07,201 --> 00:10:10,048
+Ne primiËi svoje lepljive öape.
+
+81
+00:10:10,082 --> 00:10:14,181
+Joö nije spremno.
+- Za öta nije spremno?
+
+82
+00:10:14,222 --> 00:10:16,860
+»itanje.
+
+83
+00:10:19,028 --> 00:10:21,668
+Zaboga, öta li je ovo?
+
+84
+00:10:21,708 --> 00:10:24,743
+Odgovori na pozivnice za zabavu.
+
+85
+00:10:24,777 --> 00:10:28,253
+Prokletstvo, to je danas?
+
+86
+00:10:28,288 --> 00:10:31,835
+Svi su odgovorili da dolaze,
+osim Sakvileskih Baginsa,
+
+87
+00:10:31,870 --> 00:10:35,347
+koji su zahtevali da ih
+liËno pozoveö. - A jesu li?
+
+88
+00:10:35,381 --> 00:10:39,007
+Samo preko mene mrtvog.
+- To bi im verovatno bilo po volji.
+
+89
+00:10:39,046 --> 00:10:41,371
+»ini se da misle kako
+imaö tunele pune blaga.
+
+90
+00:10:41,411 --> 00:10:45,548
+Jedan maleni kovËeûiÊ, ni blizu prepun.
+
+91
+00:10:45,824 --> 00:10:48,484
+I joö smrdi na trolove.
+
+92
+00:10:48,519 --> 00:10:51,145
+äta li to zaboga radiö?
+
+93
+00:10:53,036 --> 00:10:55,558
+Mere opreza.
+
+94
+00:10:55,596 --> 00:10:58,316
+Jednom sam je uhvatio
+kako odlazi sa srebrninom.
+
+95
+00:10:58,355 --> 00:11:02,341
+Koga?
+- Lobeliu Sakvile Bagins.
+
+96
+00:11:02,375 --> 00:11:05,690
+Natrpala je sve moje
+ûlice u svoje dûepove.
+
+97
+00:11:05,724 --> 00:11:10,651
+Uûasna ûena. Svakako drûi
+oko na njoj nakon öto ja...
+
+98
+00:11:11,557 --> 00:11:14,079
+Kada ja... kada...
+
+99
+00:11:14,117 --> 00:11:17,349
+Kada ti, öta?
+
+100
+00:11:20,226 --> 00:11:24,324
+Niöta, niöta.
+
+101
+00:11:28,107 --> 00:11:32,126
+Znaö, neki su poËeli
+da se raspituju o tebi ujaËe.
+
+102
+00:11:32,639 --> 00:11:36,382
+Misle da postajeö Ëudan.
+- »udan?
+
+103
+00:11:37,447 --> 00:11:41,387
+Nedruötven.
+- Nedruötven, ja? Gluposti.
+
+104
+00:11:41,420 --> 00:11:45,328
+Budi dobar i stavi to na vrata.
+
+105
+00:11:45,840 --> 00:11:49,071
+ZABRANJEN ULAZ
+OSIM PO PITANJU ZABAVE
+
+106
+00:11:53,721 --> 00:11:56,559
+Misliö li da Êe doÊi?
+- Ko?
+
+107
+00:11:56,593 --> 00:11:58,691
+Gandalf.
+
+108
+00:11:58,726 --> 00:12:01,602
+Ne bi on propustio priliku
+za njegove Ëaro prskalice.
+
+109
+00:12:01,637 --> 00:12:04,326
+PrirediÊe nam pravu
+predstavu, videÊeö.
+
+110
+00:12:04,362 --> 00:12:08,300
+Idem ja. - Gde?
+- IstoËna öuma, iznenadiÊu ga.
+
+111
+00:12:08,335 --> 00:12:12,124
+Pa kreni onda, ne ûeliö da zakasniö.
+
+112
+00:12:16,261 --> 00:12:19,374
+<i>On ne odobrava kaönjenje.</i>
+
+113
+00:12:19,409 --> 00:12:22,662
+<i>Nije da sam ja ikada kasnio.</i>
+
+114
+00:12:22,697 --> 00:12:25,917
+<i>Tih dana sam uvek bio taËan.</i>
+
+115
+00:12:25,950 --> 00:12:29,676
+<i>Bio sam posve ugledan.</i>
+
+116
+00:12:29,711 --> 00:12:33,404
+<i>A niöta neoËekivano...</i>
+
+117
+00:12:33,994 --> 00:12:37,225
+<i>Nikada se nije dogaalo.</i>
+
+118
+00:12:39,590 --> 00:12:43,057
+NEO»EKIVANO PUTOVANJE
+
+119
+00:12:52,831 --> 00:12:55,745
+60 GODINA PRE...
+
+120
+00:12:59,412 --> 00:13:02,333
+Dobro jutro.
+- Kako misliö?
+
+121
+00:13:02,367 --> 00:13:04,933
+éeliö li da mi poûeliö dobro jutro,
+
+122
+00:13:04,966 --> 00:13:07,568
+ili misliö da je jutro
+dobro, ûeleo ja to ili ne?
+
+123
+00:13:08,081 --> 00:13:13,105
+Ili moûda ûeliö da kaûeö da se
+dobro oseÊaö ovog jutra?
+
+124
+00:13:13,139 --> 00:13:18,128
+Ili jednostavno govoriö da
+je ovo jutro da se bude dobar?
+
+125
+00:13:18,445 --> 00:13:21,597
+Sve zajedno, valjda.
+
+126
+00:13:27,193 --> 00:13:31,212
+Mogu li da vam pomognem?
+- To tek treba videti.
+
+127
+00:13:32,118 --> 00:13:36,965
+Traûim nekoga ko bi
+uËestvovao u pustolovini.
+
+128
+00:13:39,408 --> 00:13:41,693
+Pustolovini?
+
+129
+00:13:42,875 --> 00:13:48,472
+Sumnjam da bi ikoga zapadno od
+Brija, imalo zanimale pustolovine.
+
+130
+00:13:48,506 --> 00:13:52,885
+Gadne, uznemirujuÊe, neudobne stvari.
+
+131
+00:13:53,397 --> 00:13:55,880
+Zbog njih zakasniö na veËeru.
+
+132
+00:14:03,762 --> 00:14:06,204
+Dobro jutro.
+- Kad pomislim da sam doûivio
+
+133
+00:14:06,240 --> 00:14:09,807
+da me izdobrojutra sin Beladone Tuk,
+
+134
+00:14:09,840 --> 00:14:13,376
+kao da na vratima prodajem lonce.
+
+135
+00:14:13,416 --> 00:14:18,735
+Izvinite? - Promenio si se,
+i to ne nabolje, Bilbo Baginse.
+
+136
+00:14:18,770 --> 00:14:21,258
+Izvinite, poznajemo li se?
+- Znaö moje ime,
+
+137
+00:14:21,296 --> 00:14:25,198
+iako se ne seÊaö da meni
+pripada, ja sam Gandalf.
+
+138
+00:14:25,237 --> 00:14:28,193
+A Gandalf znaËi...
+
+139
+00:14:28,981 --> 00:14:31,311
+Ja.
+
+140
+00:14:31,345 --> 00:14:35,050
+Ne valjda Gandalf, putujuÊi Ëarobnjak
+koji je radio odliËan vatromet?
+
+141
+00:14:35,090 --> 00:14:39,306
+Stari Tuk bi ih
+prireivao za ivanjsku noÊ.
+
+142
+00:14:39,340 --> 00:14:42,632
+Nisam znao da joö poslujete.
+
+143
+00:14:42,666 --> 00:14:45,926
+A gde bih to trebao da budem?
+
+144
+00:14:48,684 --> 00:14:52,508
+Drago mi je öto se barem
+neËega seÊaö o meni.
+
+145
+00:14:52,541 --> 00:14:56,329
+Makar samo mog vatrometa.
+
+146
+00:14:56,368 --> 00:14:58,580
+Dakle odluËeno je.
+
+147
+00:14:58,614 --> 00:15:01,767
+BiÊe to jako korisno za tebe.
+
+148
+00:15:01,846 --> 00:15:06,299
+A za mene jako zabavno,
+obavestiÊu ostale.
+
+149
+00:15:06,333 --> 00:15:08,826
+Ne, ne, Ëekajte.
+
+150
+00:15:08,860 --> 00:15:12,604
+Ne ûelimo nikakve
+pustolovine ovde, hvala.
+
+151
+00:15:12,639 --> 00:15:14,658
+Ni danas, ni...
+
+152
+00:15:14,692 --> 00:15:19,500
+Predlaûem da pokuöate iza
+brega, ili preko vode.
+
+153
+00:15:21,392 --> 00:15:23,519
+Dobro jutro.
+
+154
+00:16:44,618 --> 00:16:49,031
+Dvalin, na usluzi.
+
+155
+00:16:51,237 --> 00:16:54,237
+Bilbo Bagins.
+
+156
+00:16:54,271 --> 00:16:57,818
+Vama na usluzi. Poznajemo li se?
+
+157
+00:16:57,936 --> 00:17:00,543
+Ne.
+
+158
+00:17:00,577 --> 00:17:03,532
+Kuda momËe? Je li ovde dole?
+
+159
+00:17:03,567 --> 00:17:06,059
+Je li öta gde?
+
+160
+00:17:06,092 --> 00:17:10,625
+VeËera. Rekao je da Êe
+biti hrane, i to puno.
+
+161
+00:17:10,660 --> 00:17:13,975
+On je rekao? Ko?
+
+162
+00:17:23,904 --> 00:17:27,372
+Ovo je jako dobro. Ima li joö?
+
+163
+00:17:27,407 --> 00:17:31,512
+Molim? O, da, da.
+
+164
+00:17:36,712 --> 00:17:39,589
+Posluûite se.
+
+165
+00:17:42,150 --> 00:17:46,878
+Samo, nisam oËekivao druötvo.
+
+166
+00:17:49,834 --> 00:17:52,395
+To bi bila vrata.
+
+167
+00:17:55,627 --> 00:17:59,652
+Balin, na usluzi.
+
+168
+00:17:59,686 --> 00:18:02,921
+Dobro veËe.
+- Da, zaista je.
+
+169
+00:18:02,956 --> 00:18:06,445
+Iako, mislim da bi mogla kiöa kasnije.
+
+170
+00:18:06,478 --> 00:18:09,932
+Jesam li zakasnio?
+- Zakasnio, na öta?
+
+171
+00:18:12,414 --> 00:18:15,730
+VeËe, brate.
+
+172
+00:18:15,764 --> 00:18:20,965
+Tako mi brade, niûi si i öiri
+od zadneg puta kada smo se videli.
+
+173
+00:18:20,999 --> 00:18:25,812
+äiri, ne niûi. Dovoljno oötar za obojicu.
+
+174
+00:18:35,348 --> 00:18:38,539
+Oprostite! éao mi je öto
+prekidam, ali stvar je u tome
+
+175
+00:18:38,575 --> 00:18:41,732
+öto nisam siguran da ste u pravoj kuÊi.
+
+176
+00:18:41,772 --> 00:18:44,806
+Jesi li jeo iöta?
+- Nije da ne volim posetioce.
+
+177
+00:18:44,841 --> 00:18:48,121
+Volim ih kao i svaki hobit.
+
+178
+00:18:48,155 --> 00:18:51,584
+Ali volim da ih upoznam
+pre nego öto dou u posetu.
+
+179
+00:18:51,622 --> 00:18:54,854
+äta je ovo? - Ne znam, mislim
+da je sir, poplesnavio.
+
+180
+00:18:56,037 --> 00:18:59,977
+Stvar je u tome öto ne poznajem
+nijednog od vas, ni najmanje.
+
+181
+00:19:00,012 --> 00:19:03,917
+Ne ûelim da budem grub ali
+moram da kaûem öta mi je na umu.
+
+182
+00:19:03,953 --> 00:19:06,872
+éao mi je.
+
+183
+00:19:08,529 --> 00:19:10,780
+Izvinjenje prihvaÊena.
+
+184
+00:19:10,814 --> 00:19:14,874
+Napuni bukaru brate, ne ökrtari.
+
+185
+00:19:19,010 --> 00:19:21,060
+Fili.
+- I Kili.
+
+186
+00:19:21,094 --> 00:19:23,192
+Na usluzi.
+
+187
+00:19:23,228 --> 00:19:26,772
+Vi ste sigurno g. Bogins. - Ne, ne moûete
+da uete, doöli ste u pogreönu kuÊu.
+
+188
+00:19:26,807 --> 00:19:30,635
+äta? Zar je otkazano?
+- Nama niko nije rekao.
+
+189
+00:19:30,670 --> 00:19:35,166
+Niöta nije otkazano.
+- Sad mi je laköe.
+
+190
+00:19:37,413 --> 00:19:40,960
+Oprezno s ovime, tek sam ih naoötrio.
+
+191
+00:19:40,994 --> 00:19:43,289
+Lepo, ovo mesto.
+
+192
+00:19:43,323 --> 00:19:46,442
+Sam si ga namestio?
+- Ne, godinama je u porodici.
+
+193
+00:19:46,476 --> 00:19:49,511
+To mi je majËin sanduk za stolnjake,
+moûete li molim vas to da ne radite?
+
+194
+00:19:49,551 --> 00:19:54,081
+Fili, Kili, doite, pomozite nam.
+- Gospodine Dvalin.
+
+195
+00:19:55,619 --> 00:19:58,495
+Gurnite ovo u hodnik,
+inaËe nam neÊe svi stati.
+
+196
+00:19:58,530 --> 00:20:00,939
+Svi?! Koliko vas joö ima?
+
+197
+00:20:01,647 --> 00:20:05,948
+O ne. Ne, nema nikoga kuÊi!
+
+198
+00:20:05,982 --> 00:20:09,410
+Odlazite i smetajte nekom drugom!
+
+199
+00:20:09,451 --> 00:20:12,484
+VeÊ ima i previöe patuljaka
+u mojoj trpezariji.
+
+200
+00:20:12,518 --> 00:20:16,974
+Ako je ovo neËiji smisao za öalu,
+
+201
+00:20:17,008 --> 00:20:21,428
+mogu samo da kaûem, da jako neslana!
+
+202
+00:20:29,823 --> 00:20:31,990
+Gandalf.
+
+203
+00:20:32,069 --> 00:20:35,734
+Oprostite, ne moje vino!
+Vratite to! Vratite to!
+
+204
+00:20:36,641 --> 00:20:40,462
+Oprostite! Oprostite, zar to nije
+malo previöe? Imate li noû za sir?
+
+205
+00:20:40,497 --> 00:20:43,892
+Noû za sir? On ih jede na kolute.
+
+206
+00:20:43,931 --> 00:20:50,117
+Ne, ne, to je dedova stolica! Vratite
+ga nazad! Vratite ga, nije za sedenje.
+
+207
+00:20:57,132 --> 00:21:02,333
+Oprostite g. Gandalfe. Mogu li
+da vam ponudim öoljicu kamilice?
+
+208
+00:21:02,367 --> 00:21:07,456
+Ne hvala, za mene je crno vino.
+
+209
+00:21:14,352 --> 00:21:17,075
+Fili, Kili.
+
+210
+00:21:17,110 --> 00:21:20,820
+Oin, Gloin, Dvalin, Balin,
+
+211
+00:21:20,854 --> 00:21:23,730
+Bifur, Bofur, Bombur, Dori, Nori.
+
+212
+00:21:24,480 --> 00:21:27,632
+Ori!
+
+213
+00:21:29,918 --> 00:21:32,562
+Da, u pravu si Bifure.
+
+214
+00:21:32,598 --> 00:21:36,479
+»ini se da nam nedostaje jedan patuljak.
+- Kasni, to je.
+
+215
+00:21:36,513 --> 00:21:40,505
+Putovao je na sever, na
+sastanak naöeg roda, doÊi Êe.
+
+216
+00:21:40,539 --> 00:21:44,498
+G. Gandalfe, Ëaöica crnog
+vina, kako ste traûili.
+
+217
+00:21:44,532 --> 00:21:49,305
+Ima voÊni buke.
+- Uzdravlje.
+
+218
+00:21:59,945 --> 00:22:02,033
+Bombure! Lovi!
+
+219
+00:22:15,235 --> 00:22:18,191
+Ko ûeli pivo? Eto ga!
+
+220
+00:22:19,096 --> 00:22:22,642
+Evo joö jedno piÊe!
+
+221
+00:22:43,607 --> 00:22:46,923
+Oprostite, to je tabletiÊ, a ne krpa.
+
+222
+00:22:46,957 --> 00:22:49,833
+Ali pun je rupa.
+- Tako treba da izgleda, heklano je.
+
+223
+00:22:49,868 --> 00:22:54,066
+Predivna je to igra,
+ako imaö lopte za nju.
+
+224
+00:22:54,101 --> 00:22:58,265
+Prokleti patuljci!
+- Dragi Bilbo, öta je bilo?
+
+225
+00:22:58,305 --> 00:23:02,996
+äta je bilo? Okruûen sam
+patuljcima. äta rade ovde?
+
+226
+00:23:03,034 --> 00:23:06,777
+Pravo su veselo druötvance,
+kad se navikneö na njih.
+
+227
+00:23:06,812 --> 00:23:08,989
+Ne ûelim da se naviknem na njih.
+
+228
+00:23:09,023 --> 00:23:11,945
+Usmrdeli su mi kuhinju,
+blato je po tepisima.
+
+229
+00:23:11,979 --> 00:23:16,000
+Poharali su öpajz, neÊu ni
+da govorim öta su radili u kupatilu,
+
+230
+00:23:16,038 --> 00:23:20,175
+praktiËno su uniötili cevi. Ne
+razumem öta rade u mojoj kuÊi!
+
+231
+00:23:20,211 --> 00:23:23,486
+Izvinjavam se, ûao mi
+je öto vas prekidam,
+
+232
+00:23:23,526 --> 00:23:27,820
+ali öta da uradim sa svojim tanjirom?
+- Hajde Ori, daj ga meni.
+
+233
+00:23:33,968 --> 00:23:38,855
+Oprostite! To je majËin servis,
+star je viöe od 100 godina!
+
+234
+00:23:42,638 --> 00:23:47,642
+Moûete li to da ne radite? OtupiÊete ih!
+- »ujete li to momci?
+
+235
+00:23:47,677 --> 00:23:50,676
+Kaûe da Êemo otupiti noûeve.
+
+236
+00:23:50,716 --> 00:23:54,852
+Otupi noûeve, vilice savi'.
+Razbij flaöe i spali Ëepove.
+
+237
+00:23:54,888 --> 00:23:57,766
+Okrnji Ëaöe i razbij tanjire!
+
+238
+00:23:57,801 --> 00:24:00,612
+Jer to Bilbo Bagins mrzi!
+
+239
+00:24:00,646 --> 00:24:03,916
+Iseci stolnjak, mast zgazi!
+Na tepihu u sobi, kosti ostavi!
+
+240
+00:24:03,951 --> 00:24:06,889
+Po podu öpajza mleko prospi!
+
+241
+00:24:06,923 --> 00:24:09,792
+Svaka vrata vinom polij!
+
+242
+00:24:09,828 --> 00:24:13,532
+U golem kotao sue zgrni!
+ätapom za maslo dobro ih smrvi!
+
+243
+00:24:13,570 --> 00:24:18,103
+A kad zavröiö, ostane li iöta!
+
+244
+00:24:18,261 --> 00:24:21,728
+Poöalji ih do dvoriöta!
+
+245
+00:24:28,231 --> 00:24:30,871
+Jer to Bilbo Bagins mrzi!
+
+246
+00:24:44,269 --> 00:24:46,948
+Stigao je.
+
+247
+00:24:49,706 --> 00:24:52,824
+Gandalfe.
+
+248
+00:24:52,859 --> 00:24:55,814
+Mislim da si rekao da Êe
+ovo mesto biti lako da se nae.
+
+249
+00:24:55,849 --> 00:24:58,145
+Izgubio sam se, dvaput.
+
+250
+00:24:58,179 --> 00:25:01,297
+Ne bih ga uopöte pronaöao,
+da nije tog znaka na vratima.
+
+251
+00:25:01,331 --> 00:25:04,365
+Znak? Nema znaka na vratima,
+oliËio sam ih pre nedeljun dana.
+
+252
+00:25:04,405 --> 00:25:07,799
+Ima znak, ja sam ga stavio.
+
+253
+00:25:07,834 --> 00:25:12,759
+Bilbo Bagins, dopusti da ti
+predstavim vou naöe druûine.
+
+254
+00:25:12,793 --> 00:25:19,655
+Thorin Hrastoötit.
+- Dakle, to je taj hobit.
+
+255
+00:25:20,522 --> 00:25:23,675
+Kaûite mi g. Bagins,
+jeste li se mnogo borili?
+
+256
+00:25:23,714 --> 00:25:26,713
+Sekira ili maË? Koje
+je vaöe najdraûe oruûje?
+
+257
+00:25:26,747 --> 00:25:31,320
+Pa pomalo sam veöt u
+pikulanju, ako morate da znate.
+
+258
+00:25:31,354 --> 00:25:35,891
+Ali ne vidim po Ëemu je to vaûno.
+- Tako sam i mislio.
+
+259
+00:25:35,930 --> 00:25:39,673
+Viöe liËi na voÊara nego na provalnika.
+
+260
+00:25:43,771 --> 00:25:46,614
+Kakve su novosti sa
+sastanka u Ered Luinu?
+
+261
+00:25:46,649 --> 00:25:50,392
+Jesu li svi doöli?
+- Jesu, glasnici svih 7 kraljevstava.
+
+262
+00:25:50,786 --> 00:25:54,412
+äta patuljci sa Gvozdene planine kaûu?
+
+263
+00:25:54,451 --> 00:25:57,682
+Je li Dane uz nas?
+
+264
+00:25:58,667 --> 00:26:01,504
+NeÊe doÊi.
+
+265
+00:26:03,593 --> 00:26:08,440
+Kaûu da je ovaj pohod naö, i samo naö.
+
+266
+00:26:09,385 --> 00:26:12,426
+Vi idete na pohod?
+
+267
+00:26:12,460 --> 00:26:18,076
+Bilbo, prijatelju,
+treba nam malo svetla.
+
+268
+00:26:18,110 --> 00:26:23,655
+Daleko na istoku,
+preko klanaca i reka,
+
+269
+00:26:23,689 --> 00:26:30,114
+iza öuma i pustinja,
+leûi jedan samotan vrh.
+
+270
+00:26:33,030 --> 00:26:36,463
+Samotna gora.
+
+271
+00:26:36,497 --> 00:26:42,294
+Tako je, Oin je proËitao
+znamenje a ono kaûe da je vreme.
+
+272
+00:26:42,329 --> 00:26:47,334
+Gavrani su vieni kako lete nazad
+na goru, kao öto je predskazano.
+
+273
+00:26:47,369 --> 00:26:51,390
+Kad se ptice vrate na Erebor,
+
+274
+00:26:51,424 --> 00:26:55,412
+vladavina zveri Êe se zavröiti.
+
+275
+00:26:58,171 --> 00:27:02,268
+Kakve zveri?
+- To bi bio Smaug Uûasni,
+
+276
+00:27:02,303 --> 00:27:06,333
+najveÊa i najgora poöast naöeg doba.
+
+277
+00:27:06,367 --> 00:27:11,095
+LeteÊi, vatrenog daha. Zubi poput
+oötrica, kandûe poput kuka za meso.
+
+278
+00:27:11,130 --> 00:27:13,460
+Plemeniti metali su mu izuzetno dragi.
+- Da, znam öta je zmaj.
+
+279
+00:27:13,854 --> 00:27:20,317
+Mene nije strah! Ja sam za to! DobiÊe
+gvoûeo patuljaka pravo u njuöku!
+
+280
+00:27:20,355 --> 00:27:24,533
+Sedi!
+- Zadatak bi bio teûak i za vojsku.
+
+281
+00:27:24,567 --> 00:27:28,710
+Ali nas je samo 13, i to ne najboljih.
+
+282
+00:27:28,743 --> 00:27:31,587
+Niti najpametnijih.
+
+283
+00:27:34,227 --> 00:27:39,828
+Moûda smo brojËano slabi,
+ali smo borci, svi mi!
+
+284
+00:27:39,862 --> 00:27:43,409
+Do zadnjega! - A zar zaboravljate
+da imamo Ëarobnjaka s nama?
+
+285
+00:27:43,443 --> 00:27:47,350
+Gandalf je u svoje vreme
+ubio stotine zmajeva!
+
+286
+00:27:47,901 --> 00:27:50,108
+Ne bih rekao stotine...
+- Koliko onda? - Molim?
+
+287
+00:27:50,142 --> 00:27:53,261
+Koliko zmajeva ste ubili?
+
+288
+00:27:54,719 --> 00:27:58,068
+Hajde, dajte nam broj!
+
+289
+00:28:02,008 --> 00:28:04,452
+Dosta!
+
+290
+00:28:05,751 --> 00:28:11,269
+Ako smo mi proËitali to znamenje,
+mislite da ih drugi neÊe?
+
+291
+00:28:11,860 --> 00:28:15,110
+Glasine su poËele da se öire.
+
+292
+00:28:15,145 --> 00:28:18,361
+Zmaj Smaug nije vien 60 godina.
+
+293
+00:28:19,031 --> 00:28:22,303
+OËi gledaju na istok,
+prema gori, procenjuju.
+
+294
+00:28:22,338 --> 00:28:25,617
+Pitaju se, odvaguju rizike.
+
+295
+00:28:25,653 --> 00:28:28,692
+Moûda golemo bogatstvo naöeg
+naroda sada leûi nebranjeno.
+
+296
+00:28:28,725 --> 00:28:32,823
+HoÊemo li samo sediti dok drugi
+uzimaju ono öto je s pravom naöe?
+
+297
+00:28:32,863 --> 00:28:37,394
+Ili Êemo iskoristiti ovu
+priliku i zauzeti Erebor?
+
+298
+00:28:38,341 --> 00:28:41,494
+Zaboravljate, ulazna
+vrata su zapeËaÊena.
+
+299
+00:28:41,534 --> 00:28:47,798
+Nema drugog puta u goru.
+- To, dragi Baline, nije sasvim istinito.
+
+300
+00:28:51,463 --> 00:28:56,469
+Kako si doöao do ovoga?
+- Dao mi ga je tvoj otac.
+
+301
+00:28:56,507 --> 00:29:00,803
+Thrain, na Ëuvanje.
+
+302
+00:29:00,841 --> 00:29:03,875
+Sada je tvoj.
+
+303
+00:29:09,786 --> 00:29:13,807
+Ako postoji kljuË, moraju biti i vrata.
+
+304
+00:29:14,712 --> 00:29:19,046
+Ove rune govore o skrivenom
+prolazu do donjih dvorana.
+
+305
+00:29:19,081 --> 00:29:21,377
+Postoji drugi ulaz.
+
+306
+00:29:21,412 --> 00:29:24,958
+Ako ga i uspemo naÊi, patuljaËka
+vrata su nevidljiva dok su zatvorena.
+
+307
+00:29:27,914 --> 00:29:31,146
+Odgovor leûi skriven
+negde na ovoj mapi,
+
+308
+00:29:31,184 --> 00:29:34,416
+a ja nisam dovoljno veöt
+da ga pronaem, ali...
+
+309
+00:29:34,450 --> 00:29:37,765
+Postoje drugi u Meuzemlji koji mogu.
+
+310
+00:29:38,159 --> 00:29:41,785
+Zadatak koji imam na umu zahtevatÊu
+jako puno tajnovitosti,
+
+311
+00:29:41,824 --> 00:29:44,824
+i niöta manje hrabrosti.
+
+312
+00:29:44,859 --> 00:29:49,750
+Ali ako si paûljiv i pametan,
+verujem da se to moûe.
+
+313
+00:29:49,784 --> 00:29:55,183
+Zato nam je potreban provalnik.
+- I to dobar, rekao bih struËnjak.
+
+314
+00:29:55,223 --> 00:29:58,650
+A jesi li?
+
+315
+00:29:59,754 --> 00:30:04,877
+Jesam li öta?
+- Rekao je da je struËnjak!
+
+316
+00:30:04,912 --> 00:30:07,679
+Ja? Ne, ne, nisam provlanik.
+
+317
+00:30:07,714 --> 00:30:10,084
+Nikad u ûivotu nisam niöta ukrao.
+
+318
+00:30:10,118 --> 00:30:12,521
+Bojim se da se moram
+sloûiti s g. Baginsom.
+
+319
+00:30:12,561 --> 00:30:15,560
+Nije materijal za provalnika.
+
+320
+00:30:15,595 --> 00:30:18,161
+Tako je, divljina nije
+mesto za neûnu Ëeljad,
+
+321
+00:30:18,195 --> 00:30:20,797
+koja ne zna ni da se borii
+ni da se brine za sebe.
+
+322
+00:30:27,495 --> 00:30:34,431
+Dosta! Ako ja kaûem da je Bilbo
+Bagins provalnik, tada je on provalnik!
+
+323
+00:30:34,825 --> 00:30:37,628
+Hobiti su neverovatno lagani na nogama.
+
+324
+00:30:37,663 --> 00:30:41,210
+U stvari, mogu da prou nevidljivo
+pokraj veÊine, ako tako odluËe.
+
+325
+00:30:41,244 --> 00:30:45,036
+A poöto je zmaj naviknut
+na miris patuljaka,
+
+326
+00:30:45,070 --> 00:30:51,026
+miris hobita mu je sasvim nepoznat,
+öto nam daje izrazitu prednost.
+
+327
+00:30:51,061 --> 00:30:56,105
+Zamolio si me da pronaem 14. Ëlana ove
+druûine, a ja sam odabrao g. Baginsa.
+
+328
+00:30:56,139 --> 00:30:59,139
+U njemu ima mnogo viöe
+nego bi se po izgledu reklo.
+
+329
+00:30:59,174 --> 00:31:03,356
+I moûe da ponudi viöe
+nego öto iko od vas zna!
+
+330
+00:31:03,395 --> 00:31:06,823
+UkljuËujuÊi i on sam.
+
+331
+00:31:10,448 --> 00:31:14,508
+Moraö da mi verujeö u vezi ovoga.
+
+332
+00:31:15,689 --> 00:31:18,843
+U redu, uËiniÊemo to po tvome.
+
+333
+00:31:18,877 --> 00:31:21,960
+Dajte mu ugovor.
+- Orine, idemo!
+
+334
+00:31:21,994 --> 00:31:25,817
+UobiËajeno, saûetak o
+dûeparcu, potrebnom vremenu,
+
+335
+00:31:25,856 --> 00:31:29,679
+naknadi, dogovoru za
+pogreb i tako dalje.
+
+336
+00:31:29,713 --> 00:31:32,358
+Dogovor za pogreb?
+
+337
+00:31:36,575 --> 00:31:40,712
+Ne mogu da jamËim njegovu sigurnost.
+- Razumem.
+
+338
+00:31:40,747 --> 00:31:45,047
+Niti Êu biti odgovoran
+za njegovu sudbinu.
+
+339
+00:31:47,018 --> 00:31:48,953
+Slaûem se.
+
+340
+00:31:48,987 --> 00:31:54,189
+Isplata po zavröetku u gotovini, maksimalno
+do 1/14 ukupne zarade, ako je bude.
+
+341
+00:31:54,229 --> 00:31:56,755
+»ini se poöteno.
+
+342
+00:31:56,790 --> 00:32:02,307
+Prisutni se neÊe teretiti zbog povrede
+koje bi mogle da nastane, a ukljuËuju,
+
+343
+00:32:02,342 --> 00:32:05,516
+posekotine?
+
+344
+00:32:05,550 --> 00:32:08,691
+SakaÊenja?
+
+345
+00:32:09,558 --> 00:32:14,208
+Spaljivanje?! - O da, skine
+ti meso s kosti dok trepneö.
+
+346
+00:32:18,858 --> 00:32:22,562
+Jesi li dobro momËe?
+- Da.
+
+347
+00:32:23,271 --> 00:32:27,684
+Zamalo sam se onesvestio.
+- Zamisli visoku peÊ, s krilima.
+
+348
+00:32:27,724 --> 00:32:31,862
+Treba mi vazduh.
+- Bljesak svetla, probadajuÊa bol i puf.
+
+349
+00:32:31,895 --> 00:32:35,093
+Od tebe je ostala samo hrpa pepela.
+
+350
+00:32:39,821 --> 00:32:42,152
+Ne.
+
+351
+00:32:42,186 --> 00:32:44,235
+Jako si od pomoÊi Bofure.
+
+352
+00:32:44,274 --> 00:32:46,993
+BiÊu dobro, samo me pustite
+da tiho sedim na tren.
+
+353
+00:32:47,033 --> 00:32:50,659
+Predugo sediö tiho.
+
+354
+00:32:51,564 --> 00:32:56,929
+Kad su ti tabletiÊi i majËino
+posue postali tako vaûni?
+
+355
+00:32:56,963 --> 00:33:01,889
+SeÊam se mladog hobita koji je uvek
+trËkarao u potrazi za vilenjacima u öumi.
+
+356
+00:33:01,923 --> 00:33:08,785
+Ostajao kasno, vraÊao se kuÊi nakon
+mraka, pun blata i granËica i vatre.
+
+357
+00:33:08,903 --> 00:33:15,287
+Mladog hobita koji je najviöe ûelio
+da sazna öta se krije izvan granica äirea.
+
+358
+00:33:15,484 --> 00:33:20,016
+Svet nije u tvojim knjigama i mapama.
+
+359
+00:33:20,410 --> 00:33:23,365
+Tamo je napolju.
+
+360
+00:33:23,562 --> 00:33:26,616
+Ne mogu iz vedra neba da odem.
+
+361
+00:33:26,651 --> 00:33:29,671
+Ja sam Bagins, iz VreÊastog Venca.
+
+362
+00:33:29,705 --> 00:33:33,414
+Takoe si i Tuk.
+
+363
+00:33:33,729 --> 00:33:36,882
+Jesi li znao da je tvoj
+pra-pra-pra-pra stric Bandobras Tuk,
+
+364
+00:33:36,916 --> 00:33:40,472
+bio toliko velik, da je
+mogao da jaöe pravog konja?
+
+365
+00:33:40,507 --> 00:33:45,201
+E pa mogao je! U bitci Zelenih
+polja, juriöao je na redove goblina,
+
+366
+00:33:45,236 --> 00:33:49,255
+zamahnuo je toljagom tako jako, da je
+odvalio glavu kralju goblina s ramena,
+
+367
+00:33:49,294 --> 00:33:53,590
+i odletela je 50 metara u zeËju rupu.
+
+368
+00:33:53,629 --> 00:33:59,106
+I tako je bitka dobijena.
+A i igra golf izumljena.
+
+369
+00:34:02,062 --> 00:34:04,511
+Verujem da ste to izmislili.
+
+370
+00:34:04,544 --> 00:34:08,800
+Sve dobre priËe zasluûuju ukraöavanje.
+
+371
+00:34:09,352 --> 00:34:14,121
+ImaÊeö poneku vlastitu priËu
+da ispriËaö kad se vratiö.
+
+372
+00:34:17,076 --> 00:34:20,386
+Moûete li da mi obeÊaö da Êu da se vratim?
+
+373
+00:34:20,898 --> 00:34:25,627
+Ne mogu, a i ako se vratiö,
+
+374
+00:34:25,661 --> 00:34:28,662
+neÊeö biti isti.
+
+375
+00:34:29,292 --> 00:34:32,208
+To sam i mislio.
+
+376
+00:34:32,248 --> 00:34:35,557
+éao mi je Gandalfe,
+ne mogu ovo da potpiöem.
+
+377
+00:34:36,779 --> 00:34:40,404
+Imate pogreönog hobita.
+
+378
+00:34:45,645 --> 00:34:49,469
+»ini se da smo izgubili provalnika.
+
+379
+00:34:49,941 --> 00:34:54,787
+Verovatno je tako i bolje,
+izgledi su protiv nas.
+
+380
+00:34:54,822 --> 00:34:58,103
+Na kraju, öta smo mi?
+
+381
+00:34:58,138 --> 00:35:03,654
+Trgovci, rudari, kotlokrpe,
+izraivaËi igraËaka.
+
+382
+00:35:04,835 --> 00:35:10,274
+Nismo baö materijal za legende.
+- Ima i poneki ratnik meu nama.
+
+383
+00:35:10,668 --> 00:35:12,796
+Stari ratnik.
+
+384
+00:35:12,835 --> 00:35:17,446
+Uzeo bih svakog od ovih patuljaka
+radije nego vojsku iz Gvozdene planine.
+
+385
+00:35:17,480 --> 00:35:20,599
+Jer kad sam ih pozvao,
+oni su se odazvali.
+
+386
+00:35:21,307 --> 00:35:26,312
+Odanost, Ëast, hrabro srce.
+
+387
+00:35:27,691 --> 00:35:31,336
+Viöe od toga ne mogu da traûim.
+
+388
+00:35:31,371 --> 00:35:35,048
+Ne moraö ovo da radiö. Imaö izbor.
+
+389
+00:35:35,083 --> 00:35:38,691
+»asno si se poneo prema naöem narodu.
+
+390
+00:35:38,726 --> 00:35:42,666
+Izgradio si novi ûivot
+za nas u Plavom gorju.
+
+391
+00:35:42,701 --> 00:35:46,376
+éivot mira i obilja.
+
+392
+00:35:46,410 --> 00:35:51,808
+éivot koji vredi viöe
+od sveg zlata u Ereboru.
+
+393
+00:35:51,847 --> 00:35:57,720
+Od mog deda, preko mog
+oca, ovo je doölo do mene.
+
+394
+00:35:58,310 --> 00:36:03,631
+Sanjali su dan kad Êe patuljci
+Erebora povratiti svoju otadûbinu.
+
+395
+00:36:03,945 --> 00:36:06,901
+Nema izbora, Baline.
+
+396
+00:36:07,886 --> 00:36:10,959
+Za mene nema.
+
+397
+00:36:11,748 --> 00:36:15,038
+Onda smo s tobom momËe.
+
+398
+00:36:15,072 --> 00:36:18,328
+Zajedno Êemo do kraja.
+
+399
+00:36:39,490 --> 00:36:48,159
+Daleko preko, Maglenog gorja studenog.
+
+400
+00:36:48,198 --> 00:36:56,829
+Do tamnica dubokih, i öpilja starih.
+
+401
+00:36:57,222 --> 00:37:06,680
+Zaputiti se moramo, u svitanje zato,
+
+402
+00:37:06,718 --> 00:37:15,152
+Da pronaemo naöe,
+davno zaboravljeno zlato.
+
+403
+00:37:15,192 --> 00:37:24,156
+Borovi urlikahu u visini,
+
+404
+00:37:24,190 --> 00:37:33,087
+Vetrovi tugovahu u tmini.
+
+405
+00:37:33,122 --> 00:37:41,633
+éarila se vatra, plamen njen raöiren,
+
+406
+00:37:41,668 --> 00:37:50,144
+Stabla poput baklji, svetlom izgaraöe.
+
+407
+00:38:29,668 --> 00:38:32,309
+Ima li koga?
+
+408
+00:39:55,732 --> 00:39:59,988
+Gospodine Bilbo, gde ste se zaputili?!
+- Ne mogu da stanem, veÊ kasnim!
+
+409
+00:40:00,022 --> 00:40:04,323
+Na öta kasnite?!
+- Idem u pustolovinu!
+
+410
+00:40:19,690 --> 00:40:23,238
+»ekajte!
+
+411
+00:40:33,286 --> 00:40:36,361
+Potpisao sam.
+
+412
+00:40:46,959 --> 00:40:49,719
+»ini se da je sve u redu.
+
+413
+00:40:49,758 --> 00:40:56,536
+Dobrodoöli meötre Bagins, u
+druûinu Thorina Hrastoötita.
+
+414
+00:41:01,541 --> 00:41:04,895
+Dajte mu ponija.
+- Ne, ne, nema potrebe.
+
+415
+00:41:04,929 --> 00:41:10,052
+Siguran sam da mogu da drûimi
+korak peöice. Nahodao sam se ja.
+
+416
+00:41:10,086 --> 00:41:13,087
+Jednom Ëak i do éablje kaljuûe.
+
+417
+00:41:25,696 --> 00:41:28,258
+Hajde Dori, plati!
+
+418
+00:41:31,411 --> 00:41:33,464
+O Ëemu je tu reË?
+
+419
+00:41:33,499 --> 00:41:37,912
+Kladili su se, hoÊeö li da se pojaviö.
+
+420
+00:41:37,946 --> 00:41:41,144
+VeÊina ih se kladila da neÊeö.
+
+421
+00:41:42,050 --> 00:41:44,493
+äta ste vi mislili?
+
+422
+00:41:48,435 --> 00:41:52,769
+Dragi moj momËe, ni sekundu nisam sumnjao.
+
+423
+00:41:57,734 --> 00:42:01,674
+Konjska dlaka, imam alergiju.
+
+424
+00:42:03,526 --> 00:42:07,979
+»ekajte, stanite,
+stanite! Moramo da se vratimo.
+
+425
+00:42:08,014 --> 00:42:11,012
+Zaboga öta je?
+- Zaboravio sam maramicu.
+
+426
+00:42:11,048 --> 00:42:13,541
+Evo.
+
+427
+00:42:13,575 --> 00:42:16,846
+Upotrebi ovo.
+
+428
+00:42:18,895 --> 00:42:21,849
+Pokret.
+
+429
+00:42:28,234 --> 00:42:33,751
+<i>MoraÊeö se snaÊi bez dûepnih mamramica
+i mnogo drugih stvari, Bilbo Baginse,</i>
+
+430
+00:42:33,790 --> 00:42:37,692
+<i>pre nego öto doemo do kraja puta.</i>
+
+431
+00:42:37,731 --> 00:42:43,602
+<i>Roen si na zelenim breûuljcima
+i malim reËicama äirea.</i>
+
+432
+00:42:43,642 --> 00:42:47,070
+<i>Ali kuÊa je sada za tobom.</i>
+
+433
+00:42:47,104 --> 00:42:50,813
+<i>Svet je ispred.</i>
+
+434
+00:43:29,629 --> 00:43:33,766
+Dobra devojËica, ti si dobra devojËica.
+
+435
+00:43:36,642 --> 00:43:40,741
+Ovo je naöa mala tajna,
+Mirtle. Nikom ne smeö da kaûeö.
+
+436
+00:43:45,588 --> 00:43:49,411
+äta je to bilo?
+- Orci.
+
+437
+00:43:49,450 --> 00:43:52,055
+Orci?!
+
+438
+00:43:52,090 --> 00:43:55,715
+KoljaËi, ima ih na desetke.
+
+439
+00:43:55,755 --> 00:44:00,444
+Nizine su ih prepune.
+- Udaraju u sitne sate, dok svi spavaju.
+
+440
+00:44:00,484 --> 00:44:04,778
+Brzo i tiho, bez jauka, samo mnogo krvi.
+
+441
+00:44:08,050 --> 00:44:11,004
+Vama je to smeöno?
+
+442
+00:44:11,596 --> 00:44:14,552
+Mislite da je orkovska
+noÊna pljaËka öala?
+
+443
+00:44:14,630 --> 00:44:19,596
+Nismo mislili niöta loöe.
+- Ne, niste mislili.
+
+444
+00:44:19,631 --> 00:44:22,827
+Ne znate niöta o svetu.
+
+445
+00:44:23,142 --> 00:44:25,665
+Ne uzimaj mu za zlo momËe.
+
+446
+00:44:25,704 --> 00:44:31,417
+Thorin ima viöe razloga
+od veÊine, da mrzi orke.
+
+447
+00:44:34,845 --> 00:44:38,275
+Nakon öto je zmaj oteo Samotnu goru,
+
+448
+00:44:38,313 --> 00:44:44,185
+kralj Thror je pokuöao da povrati
+drevno kraljevstvo patuljaka, Moriju.
+
+449
+00:44:45,761 --> 00:44:50,016
+<i>Ali naö neprijatelj je stigao tamo prvi.</i>
+
+450
+00:45:00,972 --> 00:45:05,549
+<i>Moriju su zauzele, legije orka,</i>
+
+451
+00:45:05,583 --> 00:45:10,193
+<i>predvoeni najogavnijim
+od svoje vrste.</i>
+
+452
+00:45:10,232 --> 00:45:14,371
+<i>Azog Oskvrnitelj.</i>
+
+453
+00:45:15,828 --> 00:45:20,522
+Divovski ork iz Gundabada
+
+454
+00:45:20,557 --> 00:45:25,285
+se zakleo da Êe izbrisati Durinovu lozu.
+
+455
+00:45:27,847 --> 00:45:33,443
+ZapoËeo je tako öto
+je obezglavio kralja.
+
+456
+00:45:47,549 --> 00:45:52,639
+Thrain, Thorinov otac,
+je izludeo od jada.
+
+457
+00:45:52,674 --> 00:45:58,386
+Nestao je, utamniËen ili
+ubijen, nismo saznali.
+
+458
+00:45:58,663 --> 00:46:01,028
+Ostali smo bez voe.
+
+459
+00:46:01,067 --> 00:46:07,568
+<i>Poraz i smrt bili su nad nama.</i>
+
+460
+00:46:09,302 --> 00:46:14,030
+Tada sam video njega.
+
+461
+00:46:15,449 --> 00:46:21,517
+<i>Mladi princ patuljaka,
+stoji protiv bledog orka.</i>
+
+462
+00:46:26,089 --> 00:46:30,817
+<i>Stajao je sam, protiv
+uûasnog duömanina.</i>
+
+463
+00:46:38,778 --> 00:46:45,083
+<i>Oklop mu je popustio, vitlao je
+samo hrastovom granom, kao ötitom.</i>
+
+464
+00:46:56,905 --> 00:47:01,869
+<i>Azog Oskvrnitelj,
+tog dana je shvatio,</i>
+
+465
+00:47:01,904 --> 00:47:06,836
+da se Durinova loza
+neÊe lagano prekinuti.
+
+466
+00:47:34,026 --> 00:47:36,625
+<i>Naöe snage su zbile redove</i>
+
+467
+00:47:36,661 --> 00:47:40,645
+<i>i oterale orke.</i>
+
+468
+00:47:41,039 --> 00:47:45,373
+<i>Naö neprijatelj, bio je poraûen.</i>
+
+469
+00:47:46,241 --> 00:47:51,680
+Ali nije bilo gozbe,
+niti pesme te noÊi.
+
+470
+00:47:52,074 --> 00:47:57,905
+<i>Jer za naöim mrtvima,
+tuga je bila pregolema.</i>
+
+471
+00:47:57,984 --> 00:48:02,910
+<i>Mi retki smo preûiveli.</i>
+
+472
+00:48:08,427 --> 00:48:12,643
+<i>Tada sam pomislio...</i>
+
+473
+00:48:14,062 --> 00:48:19,264
+<i>Eno jednog koga bih mogao da pratim.</i>
+
+474
+00:48:20,367 --> 00:48:25,490
+<i>Eno jednog, koga bih
+mogao da zovem kraljem.</i>
+
+475
+00:48:43,892 --> 00:48:46,652
+A bledi ork?
+
+476
+00:48:47,321 --> 00:48:49,375
+äta je bilo s njim?
+
+477
+00:48:49,409 --> 00:48:53,408
+Povukao se u rupu iz koje je ispuzao.
+
+478
+00:48:53,444 --> 00:48:57,409
+To smeÊe je davno umrlo od zadanih rana.
+
+479
+00:49:19,357 --> 00:49:22,708
+<i>Obavestite naöeg gospodara...</i>
+
+480
+00:49:23,298 --> 00:49:26,726
+<i>Pronaöli smo patuljasti oloö!</i>
+
+481
+00:49:42,411 --> 00:49:46,429
+Gospodine Gandalfe, zar ne moûete
+neöto da uradite u vezi s ovim potopom?
+
+482
+00:49:46,470 --> 00:49:52,676
+Pada kiöa meötre patuljËe, i
+nastaviÊe da pada dok se ne ispada.
+
+483
+00:49:52,710 --> 00:49:58,882
+Ako ûeliö da menjaö vrjeme
+sveta, pronai drugog Ëarobnjaka.
+
+484
+00:49:58,916 --> 00:50:01,489
+Ima li ih? - »ega?
+- Drugih Ëarobnjaka?
+
+485
+00:50:01,523 --> 00:50:07,630
+Ima nas petorica. NajveÊi iz
+naöeg reda je Saruman Beli.
+
+486
+00:50:07,664 --> 00:50:11,651
+Zatim su tu dva plava Ëarobnjaka.
+
+487
+00:50:11,689 --> 00:50:14,886
+»ija sam imena zaboravio.
+
+488
+00:50:14,920 --> 00:50:20,522
+A ko je peti?
+- To bi bio Radagast Smei.
+
+489
+00:50:20,556 --> 00:50:24,890
+Je li on veliki Ëarobnjak
+ili je viöe, poput vas?
+
+490
+00:50:26,230 --> 00:50:30,846
+Mislim da je jako velik
+Ëarobnjak, na svoj naËin.
+
+491
+00:50:30,881 --> 00:50:35,412
+On je neûna duöa kojoj je draûe
+druötvo ûivotinja nego ljudi.
+
+492
+00:50:35,446 --> 00:50:39,831
+Budno pazi na nepregledne
+öume na istoku.
+
+493
+00:50:39,864 --> 00:50:46,328
+I dobro da je, jer uvek zlo
+traûi uporiöte na ovom svetu.
+
+494
+00:50:52,947 --> 00:50:56,809
+Nije dobro, nimalo nije dobro.
+
+495
+00:51:19,546 --> 00:51:24,158
+O ne, Sebastiane.
+
+496
+00:51:25,734 --> 00:51:28,886
+Doavola.
+
+497
+00:51:48,313 --> 00:51:52,135
+Pomerite se, dajte mu vazduh!
+
+498
+00:52:04,352 --> 00:52:09,593
+Ne razumem zaöto ne
+deluje. Ta nije vradûbina...
+
+499
+00:52:12,351 --> 00:52:15,305
+Vradûbina.
+
+500
+00:52:17,671 --> 00:52:20,789
+Ali je.
+
+501
+00:52:20,824 --> 00:52:27,049
+MraËna i moÊna magija.
+
+502
+00:53:57,171 --> 00:54:02,294
+Odakle su, na ovoj dobroj zemlji,
+ta opaka stvorenja doöla?
+
+503
+00:54:03,594 --> 00:54:07,692
+Stara tvrava? Pokaûi mi.
+
+504
+00:54:40,124 --> 00:54:44,852
+PrenoÊiÊemo ovde. Fili,
+Kili, pobrinite se za ponije.
+
+505
+00:54:44,888 --> 00:54:47,098
+Svakako ostanite s njima.
+
+506
+00:54:47,139 --> 00:54:51,276
+Farmer i njegova
+porodica su ûiveli ovde.
+
+507
+00:54:51,311 --> 00:54:54,787
+Oine, Gloine, potpalite vatru.
+
+508
+00:54:54,822 --> 00:54:58,842
+Mislim da bi mudrije
+bilo da nastavimo dalje.
+
+509
+00:54:59,709 --> 00:55:02,944
+KrenuÊemo ka Skrivenom dolu.
+
+510
+00:55:02,978 --> 00:55:07,083
+VeÊ sam ti rekao, neÊu
+mu se ni pribliûiti.
+
+511
+00:55:07,118 --> 00:55:12,161
+Zaöto ne? Vilenjaci mogu da nam pomognu.
+Dobili bismo hranu, prenoÊiöte, savet.
+
+512
+00:55:12,195 --> 00:55:16,181
+Ne treba nam njihov savet, imamo mapu...
+- Koju ne znamo da Ëitamo.
+
+513
+00:55:16,215 --> 00:55:19,648
+Gospodar Elrond bi mogao da nam pomogne.
+- Da nam pomgne?
+
+514
+00:55:20,317 --> 00:55:25,303
+Zmaj opustoöi Erebor, kakve
+pomoÊi bi od vilenjaka?
+
+515
+00:55:25,337 --> 00:55:30,287
+Orci haraËe Morijom,
+oskvrnjavaju naöe svete dvorane,
+
+516
+00:55:30,321 --> 00:55:34,076
+vilenjaci su posmatrali
+i nisu niöta uradili.
+
+517
+00:55:34,110 --> 00:55:38,326
+Traûiö od mene da traûim iste
+ljude koji su izdali mog dedu?
+
+518
+00:55:38,366 --> 00:55:42,110
+Izdali mog oca?
+- Ti nisi oni.
+
+519
+00:55:42,385 --> 00:55:45,932
+Nisam ti dao tu mapu i kljuË
+da bi se drûao proölosti.
+
+520
+00:55:45,967 --> 00:55:48,572
+Nisi ni imao pravo da ih drûiö.
+
+521
+00:55:54,010 --> 00:55:56,847
+Je li sve u redu? Gandalfe, gde Êete?
+
+522
+00:55:56,886 --> 00:56:00,631
+Potraûiti druötvo jedine osobe
+ovde koja ima imalo zdravog razuma.
+
+523
+00:56:00,664 --> 00:56:03,631
+A ko je to?
+- Ja, g. Bagins!
+
+524
+00:56:03,665 --> 00:56:07,211
+Dosta mi je patuljaka za jedan dan.
+
+525
+00:56:07,723 --> 00:56:10,561
+Hajde Bombure, gladni smo.
+
+526
+00:56:10,596 --> 00:56:13,714
+HoÊe li da se vrati?
+
+527
+00:56:16,550 --> 00:56:19,590
+Dugo ga nema.
+- Koga? - Gandalfa.
+
+528
+00:56:19,624 --> 00:56:25,535
+On je Ëarobnjak, radi öta mu se prohte.
+Evo, uËini nam uslugu, odnesi ovo momcima.
+
+529
+00:56:25,569 --> 00:56:28,372
+Prestani, dovoljno si pojeo.
+
+530
+00:56:28,412 --> 00:56:34,599
+Bombure, nije ti ovo najgore
+varivo koje si ikad skuvao!
+
+531
+00:56:46,105 --> 00:56:49,100
+äta je bilo?
+- Trebali bismo da pazimo na ponije.
+
+532
+00:56:49,135 --> 00:56:53,293
+Samo, naiöli smo na mali problem.
+
+533
+00:56:53,329 --> 00:56:57,454
+Imali smo ih 16.
+- Sada ih je 14.
+
+534
+00:57:00,213 --> 00:57:02,542
+Daisi i Bungo nedostaju.
+
+535
+00:57:02,576 --> 00:57:06,484
+To nije dobro. To nimalo nije dobro.
+
+536
+00:57:06,518 --> 00:57:10,537
+Zar ne bismo trebali da javimo Thorinu?
+- Ne, nemojmo da ga brinemo.
+
+537
+00:57:10,578 --> 00:57:14,083
+Poöto si naö sluûbeni provalnik,
+mislili smo da bi ti hteo da baciö oko.
+
+538
+00:57:15,779 --> 00:57:19,916
+Neöto veliko je raskrËilo ovo drveÊe.
+- To smo i mi mislili.
+
+539
+00:57:19,951 --> 00:57:24,842
+Neöto jako veliko, moguÊe i jako opasno.
+
+540
+00:57:26,300 --> 00:57:30,555
+Tamo je svetlo. Doite.
+
+541
+00:57:32,446 --> 00:57:35,285
+Dole.
+
+542
+00:57:38,831 --> 00:57:42,692
+äta je to?
+- Trolovi.
+
+543
+00:58:08,188 --> 00:58:11,306
+Ima Mirtle i Mindi!
+
+544
+00:58:11,340 --> 00:58:14,789
+Mislim da Êe ih pojesti,
+moramo neöto da uradimo.
+
+545
+00:58:14,823 --> 00:58:18,237
+Tako je, treba. Planinski
+trolovi su spori i glupi,
+
+546
+00:58:18,271 --> 00:58:20,285
+a ti si tako mali,
+neÊe te nikako videti.
+
+547
+00:58:20,325 --> 00:58:23,714
+Savröeno je sigurno,
+biÊemo odmah za tobom.
+
+548
+00:58:23,750 --> 00:58:27,068
+Ako upadneö u nevolje,
+hukni dvaput poput sove.
+
+549
+00:58:27,102 --> 00:58:31,635
+Dvaput poput sove.
+Jeste sigurni da je ovo dobra zamisao?
+
+550
+00:58:31,670 --> 00:58:34,556
+Jagnjetina juËe, jagnjetina veËeras.
+
+551
+00:58:34,591 --> 00:58:39,201
+I svega mi, ako neÊe
+biti jagnjetine opet sutra.
+
+552
+00:58:39,240 --> 00:58:46,136
+Ne kukaj, nisu ti ovo
+ovce, ovo su sveûi konji!
+
+553
+00:58:46,215 --> 00:58:51,141
+Ne volim konjetinu, nikad
+nisam. Nema sala na njima.
+
+554
+00:58:51,176 --> 00:58:55,476
+Bolji su od starog
+farmera, sama kost i koûa.
+
+555
+00:58:55,510 --> 00:58:58,744
+Joö imam komadiÊe meu zubima.
+
+556
+00:58:58,777 --> 00:59:01,943
+Ma to ti je lepo, joö i pluta.
+
+557
+00:59:01,978 --> 00:59:07,179
+Moûda poboljöa ukus.
+- Ima toga joö!
+
+558
+00:59:07,218 --> 00:59:09,937
+Da ti nije palo na pamet!
+
+559
+00:59:12,302 --> 00:59:14,784
+Sedi!
+
+560
+00:59:23,730 --> 00:59:29,484
+Nadam se da Êeö oËistit ove
+konje, ne volim smrdljive delove.
+
+561
+00:59:30,154 --> 00:59:32,877
+Rek'o sam da sedneö!
+
+562
+00:59:32,911 --> 00:59:36,458
+Skapavam, hoÊemo li da jedemo
+konjetinu veËeras ili ne?
+
+563
+00:59:36,492 --> 00:59:40,911
+ZaËepi. JeöÊeö öta ti dam!
+
+564
+00:59:40,989 --> 00:59:46,901
+Kako to da je on kuvar? Sve ima
+isti ukus, sve ima ukus na piletini.
+
+565
+00:59:46,935 --> 00:59:50,562
+Osim piletine.
+- Koja ima ukus na ribi!
+
+566
+00:59:50,597 --> 00:59:54,191
+Samo kaûem, malo
+zahvalnosti bi bilo lepo.
+
+567
+00:59:56,752 --> 01:00:01,678
+Hvala ti Bert, dobar gulaö
+Bert, to vam je teöko?
+
+568
+01:00:04,042 --> 01:00:07,471
+Treba joö mrvu veveriËjih brabonjaka.
+
+569
+01:00:07,982 --> 01:00:11,923
+'Ej, to je moj grog!
+
+570
+01:00:12,515 --> 01:00:14,957
+Oprosti!
+
+571
+01:00:18,425 --> 01:00:22,168
+To ti je predivno uravnoteûeno.
+
+572
+01:00:22,203 --> 01:00:25,716
+Srkni malo toga.
+
+573
+01:00:25,913 --> 01:00:28,749
+Dobro, a?
+
+574
+01:00:28,789 --> 01:00:32,138
+Zato sam ja kuvar.
+
+575
+01:00:39,311 --> 01:00:46,088
+Stomak mi krËi, moram neöto da pojedem!
+Meso! Treba mi mesa!
+
+576
+01:00:49,754 --> 01:00:54,363
+Svega mi! Bert, vidi öta
+mi je ispalo iz surle!
+
+577
+01:00:54,402 --> 01:00:58,507
+Ima ruke, noge i sve!
+- äta je to?
+
+578
+01:00:58,541 --> 01:01:02,560
+Ne znam, ali ne svia
+mi se kako se migolji!
+
+579
+01:01:04,925 --> 01:01:08,155
+äta si ti onda? Prerasla veverica?
+
+580
+01:01:08,195 --> 01:01:10,329
+Ja sam provalnik, hobit!
+
+581
+01:01:10,363 --> 01:01:14,461
+Provalnobit?!
+- Moûemo li da ga skuvamo?
+
+582
+01:01:14,499 --> 01:01:17,535
+Moûemo da probamo!
+
+583
+01:01:19,426 --> 01:01:24,514
+Ne bi bio viöe od zalogaja,
+kad je sama kost i koûa!
+
+584
+01:01:24,549 --> 01:01:30,854
+Moûda ima joö provalnobita ovuda.
+Taman dovoljno za pitu!
+
+585
+01:01:30,889 --> 01:01:33,691
+Drû' ga!
+- Prebrz je!
+
+586
+01:01:36,135 --> 01:01:38,104
+Jesam te!
+
+587
+01:01:38,145 --> 01:01:44,015
+Ima li vas joö da se krijete
+gde ne bi smeli? - Ne.
+
+588
+01:01:44,055 --> 01:01:46,380
+Laûe!
+- Ne laûem!
+
+589
+01:01:46,420 --> 01:01:51,621
+Sveûi mu prste nad vatrom, neka cvili!
+
+590
+01:01:55,680 --> 01:01:58,911
+Spusti ga!
+- äta reËe?
+
+591
+01:01:58,946 --> 01:02:02,260
+Rekoh, spusti ga.
+
+592
+01:03:18,512 --> 01:03:21,551
+Bilbo!
+- Stani!
+
+593
+01:03:21,585 --> 01:03:26,590
+Ruke u vis! Ili Êemo njegove otkinuti!
+
+594
+01:03:41,761 --> 01:03:48,539
+Nemoj da se zamarate kuvanjem.
+- Sednimo na njih, zgnjeËimo ih u ûele.
+
+595
+01:03:48,579 --> 01:03:54,371
+Trebali bismo ih kao paprikaö,
+i na roötilj s mrvicom ûalfije.
+
+596
+01:03:54,405 --> 01:03:57,444
+To zvuËi jako fino.
+
+597
+01:03:59,416 --> 01:04:03,198
+Pusti zaËine, nemamo celu noÊ!
+
+598
+01:04:03,232 --> 01:04:06,880
+Skoro Êe zora, pokrenimo se!
+
+599
+01:04:06,914 --> 01:04:10,527
+Ne bi' da se pretvorim u kamen.
+
+600
+01:04:11,710 --> 01:04:16,518
+»ekajte! Pravite uûasnu greöku!
+
+601
+01:04:16,557 --> 01:04:21,561
+Ne moûeö da ih urazumiö, oni su glupi!
+- Glupi? A öta smo onda mi?
+
+602
+01:04:21,595 --> 01:04:27,241
+Mislim da ste pogreöili sa zaËinima.
+- äta u vezi zaËina?
+
+603
+01:04:27,276 --> 01:04:32,594
+Jeste li ih pomirisali? TrebaÊe vam
+neöto jaËe od ûalfije za ovu rulju.
+
+604
+01:04:32,630 --> 01:04:36,220
+Izdajico! - äta ti znaö
+o kuvanju patuljaka?
+
+605
+01:04:36,261 --> 01:04:41,939
+Zaveûi, neka provalnobolobit govori.
+
+606
+01:04:41,974 --> 01:04:47,569
+Tajna kuvanja patuljaka je u...
+- Da? Hajde.
+
+607
+01:04:47,603 --> 01:04:52,101
+Reci nam tajnu.
+- Tajna je...
+
+608
+01:04:52,771 --> 01:04:55,766
+Najpre ih odrati!
+
+609
+01:04:56,633 --> 01:05:01,559
+Tome, daj mi noû za filterianje.
+
+610
+01:05:03,017 --> 01:05:05,858
+Koja hrpa gluposti!
+
+611
+01:05:05,893 --> 01:05:11,528
+Pojeo sam ih puno s koûom.
+Ja kaûem da ih smaûemo, sa svime.
+
+612
+01:05:12,000 --> 01:05:17,518
+U pravu je, niöta bolje
+od sirova patuljka.
+
+613
+01:05:19,803 --> 01:05:23,114
+Fin i hrskav.
+
+614
+01:05:23,153 --> 01:05:26,152
+Ne toga, zaraûen je!
+
+615
+01:05:26,187 --> 01:05:31,113
+äta?
+- Ima crve u crevima.
+
+616
+01:05:33,595 --> 01:05:38,009
+äta viöe svi ih imaju,
+puni su parazita, uûasno.
+
+617
+01:05:38,043 --> 01:05:40,260
+Ja ne bih rizikovao, stvarno.
+
+618
+01:05:40,295 --> 01:05:43,920
+Je li rekao parazita?
+- Nemamo parazite!
+
+619
+01:05:43,954 --> 01:05:46,363
+Ti ih imaö!
+
+620
+01:05:50,698 --> 01:05:55,820
+Ja imam parazite velike ko ruka!
+- Ja imam ogromne!
+
+621
+01:05:57,397 --> 01:06:00,358
+Puni smo ih!
+- Da, jesmo!
+
+622
+01:06:00,393 --> 01:06:06,185
+A öta bi ti onda? Da ih sve pustimo?
+
+623
+01:06:06,220 --> 01:06:08,910
+Misliö da ne znam öta smeraö?
+
+624
+01:06:08,944 --> 01:06:13,554
+Ova mala lasica misli da smo budale!
+
+625
+01:06:13,592 --> 01:06:16,134
+Lasica?!
+- Budale?
+
+626
+01:06:16,169 --> 01:06:18,677
+Zora vas sve odnela!
+
+627
+01:06:19,306 --> 01:06:22,223
+Ko je to? - Nemam pojma.
+- Moremo li da pojedemo i njega?
+
+628
+01:06:47,757 --> 01:06:51,619
+Sklanjaj nogu s moje guzice!
+
+629
+01:07:00,171 --> 01:07:02,988
+Gde si ti bio otiöao,
+ako smem da pitam?
+
+630
+01:07:03,023 --> 01:07:05,806
+Pogledati öta je napred?
+- äta te vratilo?
+
+631
+01:07:05,840 --> 01:07:08,411
+Gledao sam unazad.
+
+632
+01:07:08,446 --> 01:07:13,766
+Gadna rabota, ipak svi ste u jednom komadu.
+- Ne zahvaljujuÊi tvom provalniku.
+
+633
+01:07:14,160 --> 01:07:17,608
+Imao je pameti da odugovlaËi.
+
+634
+01:07:17,642 --> 01:07:21,057
+Niko od vas se toga nije setio.
+
+635
+01:07:22,041 --> 01:07:25,159
+Sigurno su se spustili s Etenmorsa.
+
+636
+01:07:25,193 --> 01:07:28,426
+Otkad planinski trolovi
+zalaze ovoliko na jug?
+
+637
+01:07:28,464 --> 01:07:34,336
+Nisu celo doba. Ne otkad je
+mraËnija moÊ vladala ovom zemljom.
+
+638
+01:07:39,498 --> 01:07:43,083
+Nisu mogli da se kreu danju.
+
+639
+01:07:43,117 --> 01:07:46,670
+Mora da bude peÊina u blizini.
+
+640
+01:07:56,798 --> 01:08:02,038
+Kakav je to smrad?
+- To je trolovski brlog.
+
+641
+01:08:02,235 --> 01:08:04,994
+Pazite öta dodirujete.
+
+642
+01:08:17,210 --> 01:08:21,150
+Bila bi öteta ostaviti
+ga da samo leûi tu.
+
+643
+01:08:21,347 --> 01:08:27,455
+Bilo ko bi ga mogao uzeti.
+- Slaûem se. Nori, donesi lopatu.
+
+644
+01:08:44,400 --> 01:08:48,025
+Ovi maËevi nisu delo trolovskih ruku.
+
+645
+01:08:52,477 --> 01:08:57,010
+Niti je delo ljudskih kovaËa.
+
+646
+01:09:01,147 --> 01:09:07,058
+Ovo su iskovali u Gondulinu,
+vioski vilenjaci iz Prvog doba.
+
+647
+01:09:07,453 --> 01:09:10,999
+Ne moûeö da poûeliö bolju oötricu.
+
+648
+01:09:35,943 --> 01:09:39,337
+Obavljamo dugoroËni depozit.
+
+649
+01:09:39,371 --> 01:09:42,918
+Idemo iz ovog kuûnog
+mesta, hajde idemo.
+
+650
+01:09:43,038 --> 01:09:45,676
+Bofure, Gloine, Dori!
+
+651
+01:10:03,882 --> 01:10:06,049
+Bilbo.
+
+652
+01:10:07,468 --> 01:10:11,487
+Evo, otprilike je po tvojoj meri.
+
+653
+01:10:16,414 --> 01:10:20,630
+Ne mogu ovo da prihvatim.
+- Oötrica je vilenjaËka,
+
+654
+01:10:20,669 --> 01:10:26,384
+öto znaËi da Êe zasvetleti plavo
+kad su orci ili goblini u blizini.
+
+655
+01:10:26,778 --> 01:10:31,781
+Nikad se u ûivotu nisam sluûio maËem.
+- I nadam se da nikada ni neÊeö.
+
+656
+01:10:31,821 --> 01:10:34,737
+Ali zapamti ovo,
+
+657
+01:10:34,777 --> 01:10:40,570
+prava hrabrost nije znati
+kako da oduzmeö ûivot,
+
+658
+01:10:40,608 --> 01:10:44,116
+veÊ kada da ga poötediö.
+
+659
+01:10:48,215 --> 01:10:50,618
+Neöto dolazi!
+- Gandalfe?
+
+660
+01:10:50,697 --> 01:10:54,637
+Ostanite na okupu! Samo mirno!
+
+661
+01:10:54,672 --> 01:10:57,278
+Naoruûajte se!
+
+662
+01:11:13,355 --> 01:11:17,886
+Vatra! Ubistvo!
+
+663
+01:11:18,399 --> 01:11:21,040
+Radagaste.
+
+664
+01:11:21,078 --> 01:11:24,390
+Radagast Smei.
+
+665
+01:11:26,832 --> 01:11:30,300
+äta zaboga ti radiö tu?
+- Traûio sam tebe Gandalfe.
+
+666
+01:11:30,335 --> 01:11:34,240
+Neöto nije u redu,
+neöto uûasno nije u redu.
+
+667
+01:11:34,275 --> 01:11:36,407
+Da?
+
+668
+01:11:40,625 --> 01:11:43,782
+Daj mi samo trenutak.
+
+669
+01:11:43,817 --> 01:11:48,741
+Imao sam misao a sad sam je
+izgubio, bila je tu, na vrhu jezika.
+
+670
+01:11:50,278 --> 01:11:53,470
+To uopöte nije misao.
+
+671
+01:11:53,549 --> 01:11:58,160
+To je insekt granËicak.
+
+672
+01:12:01,628 --> 01:12:05,489
+Zelendol je bolestan, Gandalfe.
+
+673
+01:12:05,844 --> 01:12:10,494
+Tama je pala na nj. Niöta viöe ne raste.
+
+674
+01:12:10,691 --> 01:12:12,937
+Barem niöta dobro.
+
+675
+01:12:12,975 --> 01:12:17,311
+vazduh je pun truleûi.
+Ali najgore su mreûe.
+
+676
+01:12:17,346 --> 01:12:19,523
+Mreûe?! Kako misliö?
+
+677
+01:12:19,557 --> 01:12:23,384
+Pauci, Gandalfe, divovski.
+
+678
+01:12:23,418 --> 01:12:28,621
+Nekakav nakot Ungoliant,
+ili ja ne bio Ëarobnjak.
+
+679
+01:12:28,656 --> 01:12:33,822
+Sledio sam njihov trag.
+Doöli su iz Dul Guldura.
+
+680
+01:12:35,793 --> 01:12:41,428
+Dul Guldura? Ali stara
+tvrava je napuötena.
+
+681
+01:12:42,098 --> 01:12:46,433
+Ne Gandalfe, nije.
+
+682
+01:12:55,024 --> 01:12:58,254
+<i>MraËna moÊ tamo prebiva.</i>
+
+683
+01:12:58,294 --> 01:13:02,431
+<i>Kakvu nikad nisam osetio.</i>
+
+684
+01:13:03,180 --> 01:13:07,830
+<i>To je senka drevnog uûasa.</i>
+
+685
+01:13:13,741 --> 01:13:19,375
+<i>Koje moûe da prizove duhove mrtvih.</i>
+
+686
+01:13:35,414 --> 01:13:38,290
+<i>Video sam ga Gandalfe.</i>
+
+687
+01:13:38,325 --> 01:13:40,896
+<i>Iz tame...</i>
+
+688
+01:13:40,932 --> 01:13:44,990
+<i>Nekromant je stigao.</i>
+
+689
+01:13:52,359 --> 01:13:55,117
+Brzo, brzo, brzo!
+
+690
+01:13:57,285 --> 01:13:59,846
+»ekajte me!
+
+691
+01:14:12,063 --> 01:14:16,278
+Oprosti.
+- Probaj malo Starog Tobija.
+
+692
+01:14:16,397 --> 01:14:19,470
+SmiriÊe ti ûivce.
+
+693
+01:14:21,441 --> 01:14:24,159
+I izdahni.
+
+694
+01:14:30,189 --> 01:14:34,798
+A sada, Nekromant, jesi li siguran?
+
+695
+01:14:47,922 --> 01:14:53,832
+To nije iz sveta ûivih.
+
+696
+01:14:59,231 --> 01:15:02,226
+Je li to bio vuk? Ima li vukova?
+
+697
+01:15:02,261 --> 01:15:05,773
+Vukovi? Ne, to nije vuk.
+
+698
+01:15:06,246 --> 01:15:08,295
+Varg!
+
+699
+01:15:19,328 --> 01:15:22,761
+Vargovi skauti! äta znaËi
+da Ëopor orka nije daleko!
+
+700
+01:15:22,795 --> 01:15:27,013
+»opor orkova? - Kome si rekao za
+svoj pohod, osim svome rodu?
+
+701
+01:15:27,092 --> 01:15:31,269
+Nikome. - Kome si rekao?!
+- Nikome, kunem se!
+
+702
+01:15:31,303 --> 01:15:35,209
+äta se za ime Durina dogaa?
+- Love nas.
+
+703
+01:15:35,327 --> 01:15:39,425
+Moramo da pobegnemo odavde.
+- Ne moûemo, nemamo ponija!
+
+704
+01:15:39,465 --> 01:15:42,775
+Razbeûali su se!
+- Ja Êu da ih odvuËem!
+
+705
+01:15:42,815 --> 01:15:45,931
+To su vargovi iz Gundabada, stiÊi Êe te!
+
+706
+01:15:45,966 --> 01:15:52,154
+Ovo su Rustabelski zeËevi.
+Samo neka pokuöaju.
+
+707
+01:16:03,187 --> 01:16:06,063
+Ulovite me!
+
+708
+01:16:14,496 --> 01:16:16,703
+Idemo!
+
+709
+01:16:43,776 --> 01:16:46,259
+Ostanite na okupu, idemo.
+
+710
+01:16:56,898 --> 01:17:00,208
+Ne Ori! Nazad!
+
+711
+01:17:03,281 --> 01:17:05,252
+Idemo, brzo!
+
+712
+01:17:06,947 --> 01:17:09,665
+Gde nas vodiö?
+
+713
+01:18:04,362 --> 01:18:08,105
+<i>PatuljaËki oloö je otiöao tamo!</i>
+
+714
+01:18:08,139 --> 01:18:11,139
+<i>Za njima!</i>
+
+715
+01:18:16,774 --> 01:18:20,518
+Trk! Beûite!
+
+716
+01:18:35,689 --> 01:18:38,250
+Eno ih!
+
+717
+01:18:39,117 --> 01:18:41,797
+Ovuda! Brzo!
+
+718
+01:18:52,633 --> 01:18:55,082
+Dolaze!
+
+719
+01:18:55,116 --> 01:18:58,544
+Kili gaaj ih!
+
+720
+01:19:01,776 --> 01:19:04,337
+Okruûeni smo!
+
+721
+01:19:07,490 --> 01:19:11,351
+Gde je Gandalf?
+- Napustio nas je!
+
+722
+01:19:17,341 --> 01:19:20,100
+Ne pomeratej se!
+
+723
+01:19:28,690 --> 01:19:32,158
+Ovuda budale!
+- Idemo, trk!
+
+724
+01:19:34,286 --> 01:19:36,888
+Brzo svi!
+
+725
+01:19:50,363 --> 01:19:52,334
+10...
+
+726
+01:19:53,438 --> 01:19:56,668
+Kili! Beûi!
+
+727
+01:20:35,090 --> 01:20:37,651
+Vilenjaci.
+
+728
+01:20:39,542 --> 01:20:43,364
+Ne vidim gde put vodi!
+Idemo li njime ili ne?
+
+729
+01:20:43,399 --> 01:20:45,926
+Idemo naravno!
+
+730
+01:20:48,488 --> 01:20:51,837
+Mislim da bi to bilo mudro.
+
+731
+01:21:47,085 --> 01:21:51,109
+Dolina Imladris.
+
+732
+01:21:51,143 --> 01:21:54,808
+Na zajedniËkom jeziku
+poznata je pod drugim imenom.
+
+733
+01:21:54,966 --> 01:21:57,447
+Rivendel.
+
+734
+01:21:59,024 --> 01:22:03,950
+Ovde leûi poslednja
+domaÊinska kuÊa, istoËno od mora.
+
+735
+01:22:05,448 --> 01:22:08,053
+Ovo je bio tvoj plan celo vreme.
+
+736
+01:22:08,088 --> 01:22:10,984
+Da potraûimo skloniöte
+kod naöih neprijatelja.
+
+737
+01:22:11,019 --> 01:22:13,882
+Ovde nemaö neprijatelja,
+Thorine Hrastoötite.
+
+738
+01:22:13,920 --> 01:22:18,806
+Jedine loöe namere u ovoj dolini
+su one koje doneseö sa sobom.
+
+739
+01:22:18,845 --> 01:22:23,260
+Misliö da Êe vilenjaci dati
+blagoslov ovom naöem pohodu?
+
+740
+01:22:23,294 --> 01:22:26,490
+PokuöaÊe da nas spreËe.
+- Naravno da hoÊe.
+
+741
+01:22:26,529 --> 01:22:30,432
+Ali mi imamo pitanja koja
+moraju biti odgovorena.
+
+742
+01:22:32,520 --> 01:22:35,870
+Ako ûelimo da uspemo, ovo
+Êemo morati da izvedemo taktiËno,
+
+743
+01:22:35,903 --> 01:22:40,007
+s poötovanjem i
+popriliËnom koliËinom öarma.
+
+744
+01:22:40,598 --> 01:22:44,735
+Zato Êeö razgovor prepustiti meni.
+
+745
+01:23:40,298 --> 01:23:42,859
+Mithrandire!
+
+746
+01:23:43,530 --> 01:23:46,485
+Lindire.
+
+747
+01:23:47,983 --> 01:23:50,509
+<i>»uli smo da si doöao u Dolinu.</i>
+
+748
+01:23:50,543 --> 01:23:54,878
+Moram da priËam s gospodarom Elrondom.
+- Gospodar Elrond nije ovde.
+
+749
+01:23:54,913 --> 01:23:59,095
+Nije ovde? Gde je?
+
+750
+01:24:11,114 --> 01:24:14,976
+Gandalfe!
+- Zbijte redove!
+
+751
+01:24:38,422 --> 01:24:41,772
+Gandalfe!
+- Gospodaru Elronde!
+
+752
+01:24:42,836 --> 01:24:46,383
+<i>Prijatelju. Gde si bio?</i>
+
+753
+01:24:46,422 --> 01:24:50,166
+<i>Lovili smo grupu orka
+koji su doöli s juga.</i>
+
+754
+01:24:52,136 --> 01:24:55,367
+<i>Mnogo smo ih ubili
+blizu Skrivenog Prolaza.</i>
+
+755
+01:24:58,322 --> 01:25:02,622
+NeobiËno da orci zalaze
+tako blizu naöih granica.
+
+756
+01:25:02,657 --> 01:25:09,159
+Neöto ili neko ih je privukao.
+- To smo moûda bili mi.
+
+757
+01:25:13,611 --> 01:25:16,902
+Dobrodoöao Thorine, sine Thrainov.
+
+758
+01:25:16,936 --> 01:25:20,193
+Ne verujem da smo se upoznali.
+
+759
+01:25:20,228 --> 01:25:23,232
+Imaö dedovo drûanje.
+
+760
+01:25:23,266 --> 01:25:26,104
+Poznavao sam Throra dok
+je vladao podno gore.
+
+761
+01:25:26,138 --> 01:25:30,045
+Zaista? On tebe nije spominjao.
+
+762
+01:25:40,290 --> 01:25:45,018
+äta to govori? »asti
+li nas on to uvredama?
+
+763
+01:25:45,054 --> 01:25:50,338
+Ne meötre Gloine, nudi vam hranu.
+
+764
+01:25:55,540 --> 01:25:58,929
+Pa, u tom sluËaju, vodi nas.
+
+765
+01:26:01,096 --> 01:26:06,298
+Probaj, samo zalogaj.
+- Ne volim zelenu hranu.
+
+766
+01:26:06,496 --> 01:26:08,943
+Gde je meso?
+
+767
+01:26:08,977 --> 01:26:11,893
+Imaju li krumpiriÊa?
+
+768
+01:26:11,933 --> 01:26:14,342
+Ljubazno od tebe öto si nas pozvao.
+
+769
+01:26:14,376 --> 01:26:18,829
+Nisam prikladno obuËen za veËeru.
+- Nikada nisi.
+
+770
+01:26:37,743 --> 01:26:42,236
+Ovo je Orkrist, goblinosek,
+
+771
+01:26:42,276 --> 01:26:47,201
+slavna oötrica, koju su iskovali
+visoki vilenjaci sa Zapada.
+
+772
+01:26:47,236 --> 01:26:49,807
+Moj rod.
+
+773
+01:26:49,841 --> 01:26:54,708
+Neka te dobro sluûi. Ovo je Glamdring.
+
+774
+01:26:54,742 --> 01:26:59,574
+Malj Duömana, maË kralja Gondolina.
+
+775
+01:27:02,057 --> 01:27:04,559
+Ne bih se trudio momËe.
+MaËevima se daju imena
+
+776
+01:27:04,594 --> 01:27:07,062
+zbog velikih dela
+uËinjena njima u ratovima.
+
+777
+01:27:07,101 --> 01:27:13,092
+éeliö da kaûeö da moj maË nije video boja?
+- U stvari nisam siguran ni da je to maË.
+
+778
+01:27:13,366 --> 01:27:16,519
+Pre je otvaraË pisama.
+
+779
+01:27:16,559 --> 01:27:19,672
+Kako ste doöli do njih?
+- Pronaöli smo ih u trolovskom brlogu,
+
+780
+01:27:19,711 --> 01:27:25,188
+na velikoj istoËnom putu. Malo
+pre nego su nas zaskoËili orci.
+
+781
+01:27:25,229 --> 01:27:29,366
+A öta ste radili, na
+velikoj istoËnom putu?
+
+782
+01:27:30,627 --> 01:27:33,070
+Naö posao se ne tiËe vilenjaka.
+
+783
+01:27:33,108 --> 01:27:40,006
+Za boga miloga, Thorine, pokaûi mu mapu.
+- Na meni je da ötitim naslee mog naroda,
+
+784
+01:27:40,041 --> 01:27:45,602
+kao i njegove tajne. - Spasi me
+tvrdoglavosti patuljaka, i vaöeg ponosa.
+
+785
+01:27:45,636 --> 01:27:48,772
+To Êe te doÊi glave.
+Stojiö u prisustvu jednog od
+
+786
+01:27:48,806 --> 01:27:51,905
+retkih u Meuzemlji koji
+znaju da proËitaju tu mapu!
+
+787
+01:27:51,941 --> 01:27:55,651
+Pokaûi je gospodaru Elrondu!
+
+788
+01:28:00,969 --> 01:28:03,729
+Thorine, nemoj.
+
+789
+01:28:11,609 --> 01:28:14,289
+Erebor?
+
+790
+01:28:14,761 --> 01:28:19,293
+Zbog Ëega vas zanima, ova mapa?
+
+791
+01:28:19,412 --> 01:28:21,820
+Uglavnom akademski.
+
+792
+01:28:21,855 --> 01:28:27,963
+Kao öto znaö, ovakvi artefakti
+ponekad sadrûe skrivene zapise.
+
+793
+01:28:31,628 --> 01:28:35,845
+Joö uvek znaö da Ëitaö drevni
+jezik patuljaka, zar ne?
+
+794
+01:28:42,347 --> 01:28:46,681
+MeseËeve rune, naravno.
+
+795
+01:28:47,548 --> 01:28:49,912
+Lako ih je prevideti.
+
+796
+01:28:49,952 --> 01:28:54,464
+U ovom sluËaju to je istina.
+MeseËeve rune mogu da se proËitaju
+
+797
+01:28:54,499 --> 01:28:58,975
+pod svetlom meseca istog oblika
+i mene kao na dan kad su napisane.
+
+798
+01:28:59,094 --> 01:29:02,049
+Moûeö li da ih proËitaö?
+
+799
+01:29:05,516 --> 01:29:10,916
+Ove rune su napisane na ivanjsku
+noÊ, pod svetlom mladog meseca
+
+800
+01:29:10,950 --> 01:29:13,950
+pre gotovo 200 godina.
+
+801
+01:29:13,990 --> 01:29:17,102
+»ini se da vam je bilo
+sueno da doete u Rivendel.
+
+802
+01:29:17,142 --> 01:29:23,406
+Sudbina je uz tebe, Thorine Hrastoötite,
+isti mesec noÊas sja nad nama.
+
+803
+01:29:41,653 --> 01:29:46,543
+Stoj kraj sivog kamena
+kada drozd zakuca.
+
+804
+01:29:46,579 --> 01:29:51,503
+I zalazeÊe sunce poslednjim
+svetlom Durinova dana,
+
+805
+01:29:51,538 --> 01:29:54,931
+Êe obasati kljuËanicu.
+
+806
+01:29:54,972 --> 01:29:57,972
+Durinov dan?
+- PoËetak nove godine patuljaka.
+
+807
+01:29:58,006 --> 01:30:02,538
+Kada se poslednji mesec jeseni i
+prvo sunce zime zajedno pojave na nebu.
+
+808
+01:30:02,572 --> 01:30:06,991
+To su loöe vesti. Leto
+prolazi, Durinov dan Êe uskoro.
+
+809
+01:30:07,026 --> 01:30:10,813
+Joö imamo vremena.
+- Za öta? - Da pronaemo ulaz.
+
+810
+01:30:10,931 --> 01:30:14,557
+Moramo stajati na taËno odreenom
+mestu, u taËno odreeno vreme.
+
+811
+01:30:14,591 --> 01:30:18,810
+Tada i samo tada Êe
+vrata moÊi da se otvore.
+
+812
+01:30:18,844 --> 01:30:23,755
+ZnaËi to je vaöa namera, da uete u goru?
+
+813
+01:30:23,789 --> 01:30:28,663
+äta onda?
+- Neki bi rekli da to nije mudro.
+
+814
+01:30:28,743 --> 01:30:31,387
+Kako misliö?
+
+815
+01:30:31,422 --> 01:30:36,427
+Nisi jedini Ëuvar koji
+budno bdije nad Meuzemljem.
+
+816
+01:31:00,346 --> 01:31:04,130
+<i>Patuljci, gospodaru.</i>
+
+817
+01:31:05,076 --> 01:31:07,675
+<i>Utekli su.</i>
+
+818
+01:31:10,592 --> 01:31:14,769
+<i>Upali smo u zasedu prokletih patuljaka.</i>
+
+819
+01:31:14,803 --> 01:31:18,078
+<i>Ne ûelim opravdanja.</i>
+
+820
+01:31:23,833 --> 01:31:28,325
+<i>éelim glavu kralja patuljaka!</i>
+
+821
+01:31:28,364 --> 01:31:32,581
+<i>Bilo ih je viöe nego nas,
+nismo mogli niöta da uradimo.</i>
+
+822
+01:31:32,616 --> 01:31:36,522
+<i>Jedva sam uspeo da spasim svoj ûivot.</i>
+
+823
+01:31:36,556 --> 01:31:39,872
+<i>Bilo bi bolje...</i>
+
+824
+01:31:39,905 --> 01:31:43,219
+<i>Da si umro.</i>
+
+825
+01:32:01,425 --> 01:32:07,061
+<i>PatuljaËki oloö
+neÊe moÊi dugo da se skriva.</i>
+
+826
+01:32:08,756 --> 01:32:14,272
+<i>Razglasite svima da
+su im glave ucenjene!</i>
+
+827
+01:32:36,340 --> 01:32:38,783
+Bombure!
+
+828
+01:32:43,985 --> 01:32:48,437
+Sa ili bez naöe pomoÊi, ovi
+patuljci Êe krenuti na goru.
+
+829
+01:32:48,471 --> 01:32:51,358
+OdluËni su da povrate svoju otadûbinu.
+
+830
+01:32:51,393 --> 01:32:56,949
+Sumnjam da Thorin Hrastoötit
+smatra da mora da odgovara ikome.
+
+831
+01:32:56,983 --> 01:33:02,505
+A öta se toga tiËe, ne moram ni ja.
+- Ne moraö meni da odgovaraö.
+
+832
+01:33:13,540 --> 01:33:18,662
+Gospa Galadriel.
+- Mithrandire.
+
+833
+01:33:19,686 --> 01:33:22,839
+<i>Jako dugo se ne videsmo.</i>
+
+834
+01:33:24,021 --> 01:33:28,396
+<i>Vreme me je promenilo,</i>
+
+835
+01:33:28,430 --> 01:33:32,770
+<i>ali nije gospu od Loriena.</i>
+
+836
+01:33:36,789 --> 01:33:40,572
+Nisam znao da je gospodar
+Elrond poslao po vas.
+
+837
+01:33:40,606 --> 01:33:44,394
+Nije, ja sam.
+
+838
+01:33:52,394 --> 01:33:58,581
+Sarumane. - U poslednje si
+vreme vredan, prijatelju.
+
+839
+01:33:58,974 --> 01:34:05,082
+Kaûi mi Gandalfe, zar si mislio
+da ti planovi i tvoje spletke,
+
+840
+01:34:05,117 --> 01:34:09,339
+mogu proÊi neprimeÊeno?
+- NeprimeÊeno?
+
+841
+01:34:09,614 --> 01:34:14,736
+Ne. Ja samo radim öta
+mislim da je ispravno.
+
+842
+01:34:14,771 --> 01:34:19,861
+Zmaj ti je dugo na umu.
+- To je istina gospo.
+
+843
+01:34:19,895 --> 01:34:22,307
+Smaug nikome nije odan.
+
+844
+01:34:22,343 --> 01:34:28,254
+Ali ako bi se priklonio neprijatelju,
+zmaj bi bio uûasna pretnja.
+
+845
+01:34:28,289 --> 01:34:30,661
+Kakvom neprijatelju?
+
+846
+01:34:30,696 --> 01:34:35,505
+Gandalfe, neprijatelj je poraûen.
+Sauron je proteran.
+
+847
+01:34:35,543 --> 01:34:38,499
+Nikad viöe ne moûe da povrati punu snagu.
+
+848
+01:34:38,534 --> 01:34:42,732
+Gandalfe, 400 godina ûivimo u miru,
+
+849
+01:34:42,767 --> 01:34:46,932
+teöko izvojevanom, budnom miru.
+
+850
+01:34:46,971 --> 01:34:50,399
+éivimo li? Jesmo li u miru?
+
+851
+01:34:50,990 --> 01:34:55,995
+Trolovi su se spustili s planina.
+HaraËe selima, uniötavaju farme.
+
+852
+01:34:56,035 --> 01:35:00,507
+Orci su nas napali na putu.
+- Teöko da je to uvod u rat.
+
+853
+01:35:00,541 --> 01:35:04,981
+Uvek se ti moraö petljati.
+Traûiö nevolje gde ih nema.
+
+854
+01:35:05,015 --> 01:35:08,210
+Dopustite mu da govori.
+
+855
+01:35:08,330 --> 01:35:13,254
+Neöto je na delu, jaËe od Smaugova zla.
+
+856
+01:35:13,289 --> 01:35:16,328
+Neöto daleko moÊnije.
+
+857
+01:35:16,722 --> 01:35:21,924
+Moûemo ostati slepi na to, ali ono
+nas neÊe zanemariti, to mogu da vam obeÊam.
+
+858
+01:35:21,959 --> 01:35:24,845
+Bolest leûi nad Zelendolom.
+
+859
+01:35:24,881 --> 01:35:31,304
+äumari koji tamo ûive sada
+ga nazivaju Mrkodol, i kaûu...
+
+860
+01:35:31,337 --> 01:35:36,899
+Dakle? Nemoj sada stati,
+kaûi nam öta öumari kaûu.
+
+861
+01:35:36,933 --> 01:35:40,131
+Govore o Nekromantu
+koji ûivi u Dol Gulduru,
+
+862
+01:35:40,169 --> 01:35:45,489
+Ëarobnjak koji moûe da dozove mrtve.
+- To je apsurdno.
+
+863
+01:35:45,523 --> 01:35:48,011
+Takva moÊ ne postoji na ovom svetu.
+
+864
+01:35:48,051 --> 01:35:52,627
+Taj Nekromant, je obiËan smrtnik,
+
+865
+01:35:52,661 --> 01:35:55,187
+MaioniËar koji petlja s crnom magijom.
+
+866
+01:35:55,223 --> 01:36:00,740
+Tako sam i ja mislio, ali Radagast
+je video... - Radagast?
+
+867
+01:36:00,774 --> 01:36:05,981
+Ne spominji mi Radagasta
+Smeeg. On je priprost svat.
+
+868
+01:36:06,059 --> 01:36:10,359
+»udan je, priznajem to.
+éivi samotnim ûivotom.
+
+869
+01:36:10,395 --> 01:36:15,438
+Nije zbog toga. VeÊ zbog
+preteranog konzumiranja peËuraka.
+
+870
+01:36:15,472 --> 01:36:19,654
+Pomutile su mu mozak i poûutile zube.
+
+871
+01:36:24,580 --> 01:36:28,013
+<i>Nosiö neöto.</i>
+
+872
+01:36:28,048 --> 01:36:31,440
+<i>Radagast ti je to dao.</i>
+
+873
+01:36:31,476 --> 01:36:37,506
+<i>Pronaöao je to u Dol Gulduru.
+- Da.</i>
+
+874
+01:36:37,781 --> 01:36:41,131
+<i>Pokaûi mi.</i>
+
+875
+01:36:49,603 --> 01:36:55,790
+äta je to?
+- Relikvija, iz Mordora.
+
+876
+01:37:05,760 --> 01:37:11,078
+Morgulska oötrica.
+- NaËinjena za kralja veöca iz Angmara.
+
+877
+01:37:11,868 --> 01:37:15,413
+Zakopana s njime.
+
+878
+01:37:16,281 --> 01:37:20,773
+Kad je Angmar pao, ljudi sa
+severa odneli su njegovo telo,
+
+879
+01:37:20,807 --> 01:37:25,266
+sve öto je posedovao i zapeËatili
+pod visokim dvorima Rhudara.
+
+880
+01:37:25,300 --> 01:37:28,974
+Duboko u stenu su ga zakopali.
+
+881
+01:37:29,008 --> 01:37:34,132
+U grobnicu tako mraËnu da
+nikad ne doe na svetlost.
+
+882
+01:37:34,167 --> 01:37:36,855
+Ovo nije moguÊe.
+
+883
+01:37:36,890 --> 01:37:42,151
+MoÊna Ëarolija leûi nad tim
+grobnicama, ne mogu da se otvore.
+
+884
+01:37:42,186 --> 01:37:47,412
+Kakav dokaz imamo da je ovo
+oruûje doölo iz Angmarova groba?
+
+885
+01:37:47,451 --> 01:37:51,077
+Nemam ga.
+- Jer ne postoji.
+
+886
+01:37:51,353 --> 01:37:53,998
+Preispitajmo ono öta znamo.
+
+887
+01:37:54,032 --> 01:37:59,233
+Jedan orkovski Ëopor se
+usudio da pree Bruinen.
+
+888
+01:37:59,273 --> 01:38:02,470
+Bodeû iz minulog doba je pronaen.
+
+889
+01:38:02,505 --> 01:38:08,140
+Ljudski Ëarobnjak, koji
+se naziva Nekromant,
+
+890
+01:38:08,174 --> 01:38:12,554
+uselio se u poruöenoj tvravi.
+
+891
+01:38:12,868 --> 01:38:16,774
+Nije to bogznaöta, na kraju,
+
+892
+01:38:16,809 --> 01:38:21,696
+pitanje ove druûine
+patuljaka me duboko muËi.
+
+893
+01:38:21,735 --> 01:38:26,897
+Nisam uveren Gandalfe. Ne
+mogu odobriti takav pohod.
+
+894
+01:38:26,931 --> 01:38:32,024
+Kad bi se ja pitao,
+poötedeo bih ih razoËaranja.
+
+895
+01:38:32,059 --> 01:38:35,290
+NeÊu glumiti da razumem tvoje
+razloge za potpirivanje njihove nade...
+
+896
+01:38:35,330 --> 01:38:38,641
+<i>Odlaze.</i>
+
+897
+01:38:39,271 --> 01:38:41,910
+<i>Da.</i>
+
+898
+01:38:42,816 --> 01:38:46,047
+<i>Znao si.</i>
+
+899
+01:38:54,127 --> 01:38:57,082
+Gospodaru Elronde.
+
+900
+01:38:57,116 --> 01:39:00,037
+Patuljci, otiöli su.
+
+901
+01:39:04,254 --> 01:39:08,706
+Budite na oprezu!
+Prelazimo granicu divljine.
+
+902
+01:39:08,741 --> 01:39:13,159
+Baline poznate su ti
+ove staze, vodi nas.
+
+903
+01:39:18,755 --> 01:39:23,485
+Meötre Bagins.
+Savetujem da drûiö korak.
+
+904
+01:39:36,802 --> 01:39:39,606
+IÊi Êeö za njima.
+- HoÊu.
+
+905
+01:39:39,641 --> 01:39:42,680
+S pravom pomaûeö Thorinu Hrastoötitu.
+
+906
+01:39:42,714 --> 01:39:49,610
+Ali bojim se da je ova potraga
+pokrenula sile koje joö ne razumemo.
+
+907
+01:39:49,688 --> 01:39:53,792
+Zagonetka morgulske
+oötrice mora se odgonetnuti.
+
+908
+01:39:53,828 --> 01:39:57,295
+Neöto se kreÊe u senkama,
+nevidljivo, skriveno od nas,
+
+909
+01:39:57,329 --> 01:40:01,392
+i neÊe da se pokaûe. Joö ne.
+
+910
+01:40:01,432 --> 01:40:06,831
+A svakim danom jaËa. Moraö biti oprezan.
+
+911
+01:40:10,771 --> 01:40:13,726
+Mithrandire.
+
+912
+01:40:14,120 --> 01:40:17,668
+Zaöto polutan?
+
+913
+01:40:18,179 --> 01:40:21,096
+Ne znam.
+
+914
+01:40:22,514 --> 01:40:29,372
+Saruman veruje da samo
+velika moÊ moûe da zadrûi zlo.
+
+915
+01:40:29,884 --> 01:40:33,513
+Ali ja to nisam saznao.
+
+916
+01:40:33,548 --> 01:40:39,853
+Shvatio sam da male stvari,
+svakodnevna dela obiËnih ljudi
+
+917
+01:40:39,888 --> 01:40:43,444
+drûe tamu podalje.
+
+918
+01:40:43,478 --> 01:40:47,498
+Jednostavna dela dobrote i ljubavi.
+
+919
+01:40:48,601 --> 01:40:52,462
+Zaöto Bilbo Bagins?
+
+920
+01:40:53,723 --> 01:40:57,664
+Moûda zato öto me je strah.
+
+921
+01:40:58,375 --> 01:41:02,077
+A on mi daje hrabrost.
+
+922
+01:41:05,231 --> 01:41:09,486
+Ne boj se, Mithrandire.
+
+923
+01:41:10,274 --> 01:41:13,821
+Nisi sam.
+
+924
+01:41:15,318 --> 01:41:18,550
+<i>Ako ti ikada zatreba moja pomoÊ...</i>
+
+925
+01:41:18,584 --> 01:41:21,387
+<i>Pozovi me i doÊi Êu.</i>
+
+926
+01:42:50,170 --> 01:42:55,015
+Drûite se!
+
+927
+01:43:04,079 --> 01:43:06,917
+Moramo da pronaemo skloniöte!
+
+928
+01:43:06,951 --> 01:43:10,542
+Gromada!
+
+929
+01:43:21,181 --> 01:43:26,817
+Ovo nije gromovita oluja!
+Ovo je gromovita bitka!
+
+930
+01:43:27,211 --> 01:43:29,456
+Pogledajte!
+
+931
+01:43:33,240 --> 01:43:37,220
+Svega mi, legende su istinite!
+
+932
+01:43:37,255 --> 01:43:41,200
+Divovi! Kameni divovi!
+
+933
+01:43:47,819 --> 01:43:53,889
+Pusti me ili Êeö pasti!
+- Drûite se!
+
+934
+01:44:01,376 --> 01:44:04,134
+Uhvati me za ruku!
+
+935
+01:45:09,785 --> 01:45:13,016
+Drûite se!
+
+936
+01:45:43,675 --> 01:45:47,379
+Gde je Bilbo?
+- Gde je naö hobit?
+
+937
+01:45:47,615 --> 01:45:50,453
+Tamo!
+
+938
+01:45:51,555 --> 01:45:54,392
+Drûite ga!
+
+939
+01:46:22,174 --> 01:46:25,129
+Mislio sam da smo izgubili provalnika.
+
+940
+01:46:25,164 --> 01:46:28,085
+On je izgubljen od
+kad je otiöao od kuÊe.
+
+941
+01:46:28,282 --> 01:46:33,010
+Nije uopöte smeo da poe.
+Nije mu mesto meu nama.
+
+942
+01:46:33,720 --> 01:46:36,162
+Dvaline!
+
+943
+01:46:41,484 --> 01:46:44,360
+Izgleda dovoljno sigurno.
+- Pretraûite pozadi.
+
+944
+01:46:44,394 --> 01:46:48,379
+PeÊine u planinama su
+retko nenastanjene.
+
+945
+01:46:50,547 --> 01:46:53,502
+Ovde nema niËega.
+
+946
+01:46:54,369 --> 01:46:59,018
+Dobro, zapalimo vatru.
+- Bez vatre, ovde ne.
+
+947
+01:46:59,491 --> 01:47:04,141
+Naspavajte se, kreÊemo s prvim svetlom.
+
+948
+01:47:04,219 --> 01:47:08,082
+Trebali bismo Ëekati u planinama
+dok nam se Gandalf ne pridruûi.
+
+949
+01:47:08,117 --> 01:47:11,037
+Takav je bio plan.
+- Planovi se menjaju.
+
+950
+01:47:11,072 --> 01:47:14,978
+Bofure, preuzmi prvu straûu.
+
+951
+01:47:21,401 --> 01:47:24,317
+<i>Trag je sveû.</i>
+
+952
+01:47:24,357 --> 01:47:29,440
+<i>Krenuli su prema planinama.</i>
+
+953
+01:48:27,366 --> 01:48:30,244
+Gde si se ti zaputio?
+
+954
+01:48:32,333 --> 01:48:35,331
+U Rivendel.
+
+955
+01:48:35,366 --> 01:48:39,977
+Ne moûeö sada da se vratiö, deo
+si druûine, jedan si od nas.
+
+956
+01:48:40,055 --> 01:48:42,972
+Ali nisam, zar ne?
+
+957
+01:48:43,761 --> 01:48:46,794
+Thorin je rekao da nisam
+ni smeo da poem, i u pravu je.
+
+958
+01:48:47,070 --> 01:48:51,524
+Ja nisam Tuk, ja sam Bagins,
+ne znam gde mi je pamet bila.
+
+959
+01:48:52,508 --> 01:48:56,449
+Nisam smeo da preem prag.
+- »ezneö za kuÊom, razumem to.
+
+960
+01:48:56,484 --> 01:49:00,468
+Ne razumeö. Vi ste patuljci.
+
+961
+01:49:00,508 --> 01:49:03,975
+Vi ste navikli na ovakav
+ûivot, ûiveti na putu,
+
+962
+01:49:04,010 --> 01:49:07,483
+nikad se ne skrasiti,
+nigde ne pripadati.
+
+963
+01:49:09,768 --> 01:49:12,684
+éao mi je, nisam...
+
+964
+01:49:16,743 --> 01:49:20,015
+Ne, u pravu si.
+
+965
+01:49:21,747 --> 01:49:25,018
+Mi nikamo ne pripadamo.
+
+966
+01:49:31,717 --> 01:49:35,461
+éelim ti svu sreÊu sveta.
+
+967
+01:49:37,116 --> 01:49:39,796
+Zaista.
+
+968
+01:49:42,869 --> 01:49:45,392
+äta je to?
+
+969
+01:50:06,592 --> 01:50:10,217
+Budite se!
+
+970
+01:50:31,891 --> 01:50:34,374
+Pazite!
+
+971
+01:51:05,503 --> 01:51:08,380
+Sklanjaj öape s mene!
+
+972
+01:53:00,570 --> 01:53:06,086
+Ko je toliko odvaûan da doe
+naoruûan u moje kraljevstvo?
+
+973
+01:53:06,120 --> 01:53:11,486
+äpijuni? Lopovi? Ubice?
+- Patuljci, vaöa pakosti.
+
+974
+01:53:11,525 --> 01:53:13,540
+Patuljci?
+
+975
+01:53:13,574 --> 01:53:17,396
+Naöli smo ih na prednjim vratima.
+- Nemojte samo stajati tu!
+
+976
+01:53:17,436 --> 01:53:20,042
+Pretraûite ih!
+
+977
+01:53:20,076 --> 01:53:24,016
+Svaku pukotinu, svaku prazninu!
+
+978
+01:53:27,641 --> 01:53:31,031
+äta vi radite u ovim krajevima?
+
+979
+01:53:31,067 --> 01:53:34,853
+Govorite!
+
+980
+01:53:34,971 --> 01:53:40,173
+U redu, ako neÊe
+da priËaju onda Êe da jauËu!
+
+981
+01:53:40,208 --> 01:53:45,374
+Donesite komadatela!
+Donesite kostolomca!
+
+982
+01:53:45,414 --> 01:53:49,630
+ZapoËnite s najmlaim!
+- »ekaj!
+
+983
+01:53:50,892 --> 01:53:53,886
+Vidi, vidi, vidi.
+
+984
+01:53:54,043 --> 01:53:57,280
+Ko nam je to.
+
+985
+01:53:57,315 --> 01:54:01,531
+Thorin, Thrainov sin, Throrov sin.
+
+986
+01:54:01,570 --> 01:54:05,591
+Kralj podno gore.
+
+987
+01:54:06,378 --> 01:54:09,806
+Ali zaboravih! Ti nemaö goru!
+
+988
+01:54:09,846 --> 01:54:16,348
+I ti nisi kralj. äto
+znaËi da si niko i niöta.
+
+989
+01:54:18,988 --> 01:54:24,387
+Postoji netko ko bi platio
+lepu cenu za tvoju glavu.
+
+990
+01:54:24,505 --> 01:54:28,840
+Samo glavu, bez ostalog.
+
+991
+01:54:28,874 --> 01:54:33,175
+Moûda znaö o kome govorim.
+
+992
+01:54:33,371 --> 01:54:37,234
+Tvoj stari neprijatelj.
+
+993
+01:54:38,494 --> 01:54:43,420
+Bledi ork, koji jaöe belog varga.
+
+994
+01:54:44,327 --> 01:54:48,030
+Azog Oskvrnitelj je uniöten.
+
+995
+01:54:49,922 --> 01:54:52,449
+Ubijen je u bitci odavno.
+
+996
+01:54:52,483 --> 01:54:57,093
+Dakle misliö da su njegovi
+dani oskvrnjivanja proöli?
+
+997
+01:54:58,197 --> 01:55:04,187
+Javi bledom orku, kaûi mu da
+sam pronaöao njegovu nagradu.
+
+998
+01:55:41,151 --> 01:55:43,553
+Da!
+
+999
+01:55:43,587 --> 01:55:45,957
+Da.
+
+1000
+01:55:49,820 --> 01:55:54,863
+Da! Golum, golum!
+
+1001
+01:56:22,525 --> 01:56:26,354
+Gadni goblinovski.
+
+1002
+01:56:26,388 --> 01:56:32,457
+Bolji od starih kostiju
+zlato, bolji od niöta.
+
+1003
+01:56:58,386 --> 01:57:03,588
+Samo kostice i koûica,
+nema dovoljno mesa!
+
+1004
+01:57:03,627 --> 01:57:08,040
+Zaveûi! Oderi mu koûu!
+
+1005
+01:57:22,622 --> 01:57:29,517
+Stenje i kamenje su ko
+kosti stare, gole bez mesa!
+
+1006
+01:57:29,634 --> 01:57:35,506
+Hladno ko smrt, ne moûe
+disati, dobro za jesti!
+
+1007
+01:58:13,336 --> 01:58:19,247
+Tukni nas i pljusni zlato,
+to je mesnati zalogaj.
+
+1008
+01:58:24,764 --> 01:58:27,523
+Nazad, pomeri se.
+
+1009
+01:58:27,562 --> 01:58:31,778
+Upozoravam te, ne pribliûavaj se.
+
+1010
+01:58:32,763 --> 01:58:37,217
+Ima vilenjaËku oötricu,
+ali vilenjak nije.
+
+1011
+01:58:38,280 --> 01:58:43,403
+Nije vilenjaËko, öta je to, zlato?
+
+1012
+01:58:43,522 --> 01:58:49,511
+äta je to?
+- Zovem se, Bilbo Bagins.
+
+1013
+01:58:49,546 --> 01:58:52,235
+Baginsko?
+
+1014
+01:58:52,270 --> 01:58:56,014
+äta je Baginsko, zlato?
+
+1015
+01:58:56,049 --> 01:58:59,757
+Ja sam hobit, iz Okruga.
+
+1016
+01:59:00,466 --> 01:59:05,864
+Volim goblinaste, öiömiöaste i
+ribaste, ali nisam probao hobitaste.
+
+1017
+01:59:06,654 --> 01:59:10,002
+Je li meko? Je li soËno?
+
+1018
+01:59:10,037 --> 01:59:13,436
+Nazad! Odmakni se!
+
+1019
+01:59:13,471 --> 01:59:15,598
+UpotrebiÊu ovo, ako moram.
+
+1020
+01:59:16,386 --> 01:59:19,820
+Ne ûelim nevolje, razumeö?
+
+1021
+01:59:19,854 --> 01:59:23,085
+Samo mi pokaûi izlaz odavde, i odlazim.
+
+1022
+01:59:23,716 --> 01:59:28,839
+Je li to izgubljeno? - Da, i
+ûelim da se pronaem, öto je pre moguÊe.
+
+1023
+01:59:28,873 --> 01:59:32,070
+Mi znamo, mi znamo
+siguran put za hobitasto.
+
+1024
+01:59:32,104 --> 01:59:35,581
+Siguran put kroz mrak...
+- Zaveûi!
+
+1025
+01:59:35,617 --> 01:59:38,572
+Niöta nisam rekao.
+- Tebi se nisam obraÊao.
+
+1026
+01:59:38,606 --> 01:59:41,921
+Pa, jesmo zlato, jesmo.
+
+1027
+01:59:42,237 --> 01:59:46,729
+Ne znam kakve su ti to igre...
+- Igre?!
+
+1028
+01:59:46,847 --> 01:59:51,851
+Mi volimo igre, zar ne zlato?
+Voli li igre? Voli li? Voli li?
+
+1029
+01:59:51,891 --> 01:59:54,531
+Voli li se igrati?
+
+1030
+01:59:54,609 --> 01:59:57,211
+Moûda.
+
+1031
+01:59:58,078 --> 02:00:02,885
+äta ima korene koje niko ne vidi?
+
+1032
+02:00:02,924 --> 02:00:07,161
+Viöe je od stabala, gore, gore,
+
+1033
+02:00:07,196 --> 02:00:11,397
+gore ide a nikada ne raste?
+
+1034
+02:00:11,673 --> 02:00:14,707
+Planina.
+- Da, da.
+
+1035
+02:00:15,496 --> 02:00:21,326
+Idemo joö jednu.
+Hajde, hajde, pitaj nas.
+
+1036
+02:00:21,361 --> 02:00:24,282
+Ne, dosta zagonetki.
+
+1037
+02:00:24,952 --> 02:00:28,027
+Sredi ga, sredi ga sad!
+
+1038
+02:00:29,407 --> 02:00:33,622
+Ne! Ne, ne. éelim da se igram.
+
+1039
+02:00:33,741 --> 02:00:37,878
+Stvarno, ûelim da se igram. Vidim,
+
+1040
+02:00:37,912 --> 02:00:41,227
+da si jako dobar u ovome.
+
+1041
+02:00:42,528 --> 02:00:47,257
+Zaöto se ne bismo igrali zagonetaka?
+
+1042
+02:00:47,414 --> 02:00:50,409
+Samo nas dvojica.
+
+1043
+02:00:51,749 --> 02:00:56,793
+Samo mi.
+- Da, da.
+
+1044
+02:00:56,872 --> 02:01:02,704
+A ako ja pobedim,
+pokazaÊeö mi izlaz, da?
+
+1045
+02:01:02,738 --> 02:01:07,512
+Da. A ako izgubi, öta onda?
+
+1046
+02:01:07,551 --> 02:01:12,162
+Ako izgubi zlato, mi ga pojedemo.
+
+1047
+02:01:12,240 --> 02:01:16,497
+Ako Bagins izgubi,
+mi ga pojedemo celog.
+
+1048
+02:01:22,605 --> 02:01:25,244
+Poöteno.
+
+1049
+02:01:28,515 --> 02:01:31,943
+Bagins prvi.
+
+1050
+02:01:36,592 --> 02:01:40,888
+Trideset belih konja
+na crvenom bregu.
+
+1051
+02:01:40,923 --> 02:01:45,182
+Najpre skaËu, zatim
+gaze, zatim miruju.
+
+1052
+02:01:55,193 --> 02:01:59,251
+Zubi? Zubi!
+
+1053
+02:01:59,645 --> 02:02:03,783
+Tako je zlato! Ali mi...
+
+1054
+02:02:03,818 --> 02:02:07,921
+Mi ih imamo samo devet.
+
+1055
+02:02:10,877 --> 02:02:13,127
+Mi smo na redu.
+
+1056
+02:02:13,162 --> 02:02:19,546
+Bez glasa cvili, bez krila klepeÊe,
+
+1057
+02:02:19,581 --> 02:02:25,930
+bez zuba grize, bez usta mrmlja.
+
+1058
+02:02:28,531 --> 02:02:31,683
+Samo trenutak.
+
+1059
+02:02:33,653 --> 02:02:36,805
+Mi znamo! Mi znamo!
+- Zaveûi!
+
+1060
+02:02:42,992 --> 02:02:46,815
+Vetar. To je vetar.
+
+1061
+02:02:47,051 --> 02:02:52,332
+Jako pametno hobitasto. Jako pametno.
+
+1062
+02:02:53,356 --> 02:02:58,085
+Kutija bez öarki, kljuËa i poklopca,
+
+1063
+02:02:58,120 --> 02:03:02,813
+a ipak zlatno blago u njoj se Ëuva.
+
+1064
+02:03:08,606 --> 02:03:12,745
+Kutija... kljuË...
+- Dakle?
+
+1065
+02:03:12,779 --> 02:03:15,581
+Gadna.
+
+1066
+02:03:17,946 --> 02:03:22,005
+Odustajeö?
+- Daj nam priliku zlato, daj nam priliku.
+
+1067
+02:03:35,128 --> 02:03:41,511
+Jaja! Jaja! Mokra mala jaja!
+
+1068
+02:03:41,983 --> 02:03:47,618
+Baka nas je uËila kako da ih sisamo!
+
+1069
+02:03:54,594 --> 02:03:58,456
+Mi imamo jednu za tebe.
+
+1070
+02:03:58,770 --> 02:04:02,869
+Sve stvari proûdire.
+
+1071
+02:04:02,909 --> 02:04:07,992
+Ptice, zveri, drveÊe, cveÊe.
+
+1072
+02:04:08,031 --> 02:04:11,932
+Gvoûe gloe, Ëelik grize.
+
+1073
+02:04:11,972 --> 02:04:15,872
+Tvrdi kamen u prah melje.
+
+1074
+02:04:17,764 --> 02:04:23,281
+Odgovori nam. - Trenutak molim,
+ja sam tebe dugo Ëekao.
+
+1075
+02:04:27,695 --> 02:04:32,660
+Ovu ne znam.
+- Je li ukusno?
+
+1076
+02:04:32,694 --> 02:04:37,152
+Je li soËno?
+
+1077
+02:04:37,192 --> 02:04:40,423
+Je li hrskavo?
+- Pusti me da razmislim!
+
+1078
+02:04:40,458 --> 02:04:42,511
+Pusti me da razmislim!
+
+1079
+02:04:46,609 --> 02:04:49,368
+Zapelo je.
+
+1080
+02:04:49,407 --> 02:04:54,608
+Baginsko je zapelo.
+
+1081
+02:04:57,249 --> 02:05:00,323
+Vreme je isteklo.
+
+1082
+02:05:02,766 --> 02:05:07,495
+Vreme. Odgovor je, vreme.
+
+1083
+02:05:09,386 --> 02:05:12,341
+U stvari i nije bilo toliko teöko.
+
+1084
+02:05:13,130 --> 02:05:16,618
+Poslednje pitanje.
+
+1085
+02:05:16,652 --> 02:05:20,105
+Poslednja prilika.
+
+1086
+02:05:22,311 --> 02:05:25,114
+Pitaj nas.
+
+1087
+02:05:25,149 --> 02:05:28,498
+Pitaj nas!
+- Da, da, u redu.
+
+1088
+02:05:32,715 --> 02:05:37,679
+äta to imam u dûepu?
+
+1089
+02:05:39,650 --> 02:05:42,172
+To nije poöteno.
+
+1090
+02:05:42,290 --> 02:05:46,114
+Nije poöteno! Nije po pravilima!
+
+1091
+02:05:46,900 --> 02:05:49,073
+Pitaj nas neöto drugo.
+
+1092
+02:05:49,107 --> 02:05:54,507
+Ne, ne, rekao si "postavi mi
+pitanje", e pa to je moje pitanje.
+
+1093
+02:05:54,542 --> 02:05:57,934
+äta imam u dûepu?
+
+1094
+02:05:58,644 --> 02:06:01,994
+Tri pokuöaja zlato, moraö nam dati tri.
+
+1095
+02:06:02,028 --> 02:06:04,769
+Tri pokuöaja? Pa dobro, pogaaj.
+
+1096
+02:06:04,803 --> 02:06:07,510
+RuËice?
+- Pogreöno, pogaaj opet.
+
+1097
+02:06:09,284 --> 02:06:14,485
+Goblinske zube moûda? äiömiöova krila?
+
+1098
+02:06:15,272 --> 02:06:17,721
+Noû!
+- Zaveûi!
+
+1099
+02:06:17,755 --> 02:06:22,879
+Opet pogreöno, poslednji pokuöaj.
+- Konac! - Ili niöta.
+
+1100
+02:06:22,913 --> 02:06:26,228
+Dva pokuöaja odjednom. Oba pogreöna.
+
+1101
+02:06:32,848 --> 02:06:36,671
+Hajde, pobedio sam,
+obeÊao si da Êeö da mi pokaûeö izlaz.
+
+1102
+02:06:36,788 --> 02:06:42,306
+Jesmo li to rekli zlato? Jesmo li rekli?
+
+1103
+02:06:45,537 --> 02:06:50,857
+äta to ima u dûepovima?
+
+1104
+02:06:51,526 --> 02:06:53,699
+To se tebe ne tiËe.
+
+1105
+02:06:53,733 --> 02:06:58,857
+Ti si izgubio.
+- Izgubio?
+
+1106
+02:06:59,645 --> 02:07:02,796
+Izgubio?
+
+1107
+02:07:02,876 --> 02:07:05,319
+Izgubio?
+
+1108
+02:07:10,756 --> 02:07:13,042
+Gde je?
+
+1109
+02:07:13,595 --> 02:07:15,958
+Gde je?!
+
+1110
+02:07:19,426 --> 02:07:23,169
+Gde je?! Ne!
+
+1111
+02:07:24,865 --> 02:07:29,081
+Izgubljeno! Tukni nas i pljusni,
+
+1112
+02:07:29,114 --> 02:07:33,297
+naöe zlato je izgubljeno!
+
+1113
+02:07:34,598 --> 02:07:39,603
+äta si izgubio?
+- Ne sme nas pitati! Ne tiËe ga se!
+
+1114
+02:07:56,153 --> 02:08:01,039
+äta to ima u svojim
+
+1115
+02:08:01,073 --> 02:08:05,926
+gadnim malim dûepovima?
+
+1116
+02:08:15,304 --> 02:08:17,945
+Ukrao ga?
+
+1117
+02:08:18,339 --> 02:08:21,767
+On ga je ukrao!
+
+1118
+02:08:24,525 --> 02:08:26,890
+On ga je ukrao!
+
+1119
+02:08:31,737 --> 02:08:35,953
+Kosti Êe se mrviti! Vratovi slomiti!
+
+1120
+02:08:35,992 --> 02:08:39,895
+BiÊete tuËeni i mlaÊeni!
+
+1121
+02:08:39,933 --> 02:08:43,833
+LeûaÊete tu nikad pronaeni!
+
+1122
+02:08:43,873 --> 02:08:48,800
+Dole u dubini Grada Goblina!
+
+1123
+02:08:50,849 --> 02:08:55,346
+Znam taj maË! To je Goblinosek!
+
+1124
+02:08:55,381 --> 02:09:00,385
+GrizaË! Oötrica koja je
+prerezala hiljade vratova!
+
+1125
+02:09:00,425 --> 02:09:04,409
+Sasecite ih! Ubijte ih!
+
+1126
+02:09:04,444 --> 02:09:08,266
+Sve ih ubijte! Odsecite mu glavu!
+
+1127
+02:09:37,033 --> 02:09:41,367
+Uzmite oruûje. Borite se.
+
+1128
+02:09:42,392 --> 02:09:44,441
+Borite se!
+
+1129
+02:09:50,549 --> 02:09:56,184
+On vitla Maljem Duömana!
+UdaraËem! Bljeötavim kao dan!
+
+1130
+02:10:19,433 --> 02:10:21,877
+Za mnom! Brzo!
+
+1131
+02:10:56,082 --> 02:10:58,840
+Naöe je.
+
+1132
+02:10:58,997 --> 02:11:02,464
+Naöe je!
+
+1133
+02:11:25,320 --> 02:11:28,867
+Lopov!
+
+1134
+02:11:29,261 --> 02:11:32,098
+Bagins!
+
+1135
+02:12:44,330 --> 02:12:47,285
+Prereûite uûe!
+
+1136
+02:13:23,540 --> 02:13:25,588
+SkaËite!
+
+1137
+02:14:31,633 --> 02:14:35,258
+Mislili ste da moûete meni da pobegnete?
+
+1138
+02:14:37,544 --> 02:14:41,169
+äta Êeö sada ËarobnjaËe?
+
+1139
+02:14:48,459 --> 02:14:50,942
+To Êe biti dosta.
+
+1140
+02:15:24,200 --> 02:15:26,802
+Pa to je moglo i gore da proe.
+
+1141
+02:15:29,363 --> 02:15:32,988
+Mora da se öaliö!
+
+1142
+02:15:37,402 --> 02:15:40,279
+Gandalfe!
+
+1143
+02:15:43,431 --> 02:15:46,781
+Previöe ih je! Ne
+moûemo da se borimo s njima!
+
+1144
+02:15:46,815 --> 02:15:50,130
+Samo Êe nas jedno spasiti!
+Dnevno svetlo! Na noge!
+
+1145
+02:15:56,751 --> 02:15:59,159
+Ne, Ëekaj!
+
+1146
+02:15:59,194 --> 02:16:03,448
+Moje zlato! »ekaj!
+
+1147
+02:16:03,483 --> 02:16:06,089
+Golum! Golum!
+
+1148
+02:17:50,516 --> 02:17:55,914
+Bagins! Lopov!
+
+1149
+02:17:55,954 --> 02:18:00,367
+Prokleti! Mrzimo ga zauvek!
+
+1150
+02:18:14,671 --> 02:18:18,657
+Gloin, to je osam.
+Bifur, Bofur, to je deset.
+
+1151
+02:18:18,691 --> 02:18:24,799
+Fili, Kili, to je dvanaest.
+I Bombur, znaËi trinaest.
+
+1152
+02:18:24,834 --> 02:18:27,439
+Gde je Bilbo?
+
+1153
+02:18:27,479 --> 02:18:30,434
+Gde je naö hobit?
+
+1154
+02:18:30,630 --> 02:18:33,351
+Gde je naö hobit?
+
+1155
+02:18:33,862 --> 02:18:38,079
+Prokleti polutan! Sad je izgubljen!
+- Mislio sam da je s Dorijem!
+
+1156
+02:18:38,118 --> 02:18:41,624
+Ne krivi mene!
+- Gde si ga zadnji put video?
+
+1157
+02:18:41,665 --> 02:18:44,389
+Mislim da sam ga video kako
+beûi kad su nas uhvatili.
+
+1158
+02:18:44,424 --> 02:18:48,048
+äta se taËno dogodilo? Kaûi mi!
+- Ja Êu da ti kaûem öta se dogodilo.
+
+1159
+02:18:48,166 --> 02:18:51,319
+Meötar Bagins je vidio
+svoju priliku i ugrabio je.
+
+1160
+02:18:51,871 --> 02:18:57,309
+Razmiölja samo o mekom krevetu i toplom
+ognjiötu od kad je zakoraËio preko praga.
+
+1161
+02:18:57,344 --> 02:19:02,431
+NeÊemo viöe videti naöeg hobita.
+Odavno je on otiöao.
+
+1162
+02:19:14,451 --> 02:19:17,327
+Ne, nije.
+
+1163
+02:19:21,032 --> 02:19:26,863
+Bilbo Baginse, nikad mi
+nije bilo milo da nekoga vidim.
+
+1164
+02:19:28,045 --> 02:19:32,302
+Bilbo, gotovo smo odustali od tebe.
+- Kako si proöao pored goblina?
+
+1165
+02:19:32,337 --> 02:19:35,139
+Stvarno kako?
+
+1166
+02:19:42,823 --> 02:19:46,881
+Zar je to vaûno? Vratio se.
+
+1167
+02:19:46,960 --> 02:19:50,192
+Vaûno je, ûelim da znam.
+
+1168
+02:19:51,690 --> 02:19:55,157
+Zaöto si se vratio?
+
+1169
+02:19:56,615 --> 02:20:00,360
+Znam da sumnjaö u mene,
+znam da si uvek sumnjao.
+
+1170
+02:20:01,343 --> 02:20:04,694
+I u pravu si, Ëesto
+razmiöljam o VreÊastom Vencu.
+
+1171
+02:20:04,890 --> 02:20:07,531
+Nedostaju mi moje knjige.
+
+1172
+02:20:07,649 --> 02:20:10,920
+I naslonjaË, moj vrt.
+
+1173
+02:20:10,998 --> 02:20:14,939
+Tamo ja pripadam, to je kuÊa.
+
+1174
+02:20:16,594 --> 02:20:20,376
+Zato sam se vratio, jer...
+
+1175
+02:20:20,849 --> 02:20:24,475
+Vi nemate svoju kuÊu.
+
+1176
+02:20:24,516 --> 02:20:27,746
+Oduzeta vam je.
+
+1177
+02:20:28,928 --> 02:20:32,080
+Ali pomoÊi Êu vam da
+je vratite ako mogu.
+
+1178
+02:20:53,754 --> 02:20:58,759
+<i>Pregazite ih! Rastrgnite ih!</i>
+
+1179
+02:21:04,590 --> 02:21:08,846
+Iz trave...
+- U vatru, beûite.
+
+1180
+02:21:08,881 --> 02:21:10,975
+Beûite!
+
+1181
+02:21:53,059 --> 02:21:57,788
+Gore, na drveÊe, svi!
+Idemo penjite se! Bilbo penji se!
+
+1182
+02:22:08,625 --> 02:22:11,581
+Dolaze!
+
+1183
+02:23:10,572 --> 02:23:13,251
+Azog.
+
+1184
+02:23:17,468 --> 02:23:20,620
+<i>Osetite li?</i>
+
+1185
+02:23:21,409 --> 02:23:24,797
+<i>Miris straha.</i>
+
+1186
+02:23:27,319 --> 02:23:33,073
+<i>SeÊam se da je tvoj otac tako mirisao.</i>
+
+1187
+02:23:33,108 --> 02:23:38,275
+<i>Thorine, sine Thrainov.</i>
+
+1188
+02:23:38,472 --> 02:23:41,231
+Ne moûe da bude.
+
+1189
+02:23:47,023 --> 02:23:49,702
+<i>Onaj je moj.</i>
+
+1190
+02:23:49,737 --> 02:23:52,383
+<i>Ubijte ostale!</i>
+
+1191
+02:24:18,785 --> 02:24:21,699
+<i>Napijte im se krvi!</i>
+
+1192
+02:25:22,425 --> 02:25:24,395
+Kili!
+
+1193
+02:26:12,549 --> 02:26:15,506
+Gospodine Gandalfe!
+
+1194
+02:28:23,969 --> 02:28:28,304
+<i>Donesi mi njegovu glavu.</i>
+
+1195
+02:29:16,065 --> 02:29:18,270
+<i>Ubijte ga.</i>
+
+1196
+02:31:50,062 --> 02:31:53,531
+Thorine!
+
+1197
+02:33:05,447 --> 02:33:07,418
+Thorine!
+
+1198
+02:33:10,374 --> 02:33:12,342
+Thorine?
+
+1199
+02:33:29,563 --> 02:33:33,899
+Polutan?
+- U redu je.
+
+1200
+02:33:34,016 --> 02:33:37,327
+Bilbo je ovde, sasvim siguran.
+
+1201
+02:33:40,322 --> 02:33:43,552
+Pomozi mu da ustane Dvaline.
+
+1202
+02:33:46,903 --> 02:33:49,463
+Ti!
+
+1203
+02:33:51,828 --> 02:33:56,557
+äta si to uradio? Skoro si poginuo!
+
+1204
+02:33:58,448 --> 02:34:01,996
+Zar nisam rekao da Êeö biti na teret?
+
+1205
+02:34:02,030 --> 02:34:05,500
+Da neÊeö preûiveti u divljini.
+
+1206
+02:34:05,533 --> 02:34:08,969
+Da ti nema mesta meu nama.
+
+1207
+02:34:12,792 --> 02:34:16,653
+Nikad nisam tako pogreöio u ûivotu.
+
+1208
+02:34:28,476 --> 02:34:33,126
+éao mi je öto sam sumnjao u tebe.
+- Ne, i ja sam sumnjao u sebe.
+
+1209
+02:34:33,284 --> 02:34:36,830
+Nisam junak, niti ratnik.
+
+1210
+02:34:38,406 --> 02:34:41,677
+»ak ni provalnik.
+
+1211
+02:34:58,740 --> 02:35:02,679
+Je li to, ono öto mislim da jeste?
+
+1212
+02:35:16,473 --> 02:35:19,197
+Erebor.
+
+1213
+02:35:19,230 --> 02:35:25,615
+Samotna gora, poslednje od velikih
+kraljevstava patuljaka u Meuzemlju.
+
+1214
+02:35:28,177 --> 02:35:31,525
+Naöa kuÊa.
+
+1215
+02:35:34,481 --> 02:35:39,014
+Gavran! Ptice se vraÊaju na goru.
+
+1216
+02:35:42,165 --> 02:35:46,816
+To, dragi moj Gloine, je drozd.
+
+1217
+02:35:47,288 --> 02:35:50,952
+Ali uzeÊemo to kao
+znak, dobar predznak.
+
+1218
+02:35:50,987 --> 02:35:53,080
+U pravu si.
+
+1219
+02:35:53,120 --> 02:35:56,431
+Stvarno verujem da je najgore za nama.
+
+1220
+02:35:57,305 --> 02:36:57,923
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/avrx
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

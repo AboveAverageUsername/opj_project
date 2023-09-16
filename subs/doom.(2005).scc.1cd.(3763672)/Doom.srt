@@ -1,0 +1,3203 @@
+1
+00:00:05,759 --> 00:00:07,659
+Godine 2026
+
+2
+00:00:07,760 --> 00:00:09,660
+Arheolozi koji su radili
+u pustinji Nevada
+
+3
+00:00:09,761 --> 00:00:12,061
+otkrili su portal prema drevnom
+gradu na Marsu.
+
+4
+00:00:13,262 --> 00:00:15,362
+Nazvali su taj portal - Ark
+
+5
+00:00:17,063 --> 00:00:18,663
+20 godina kasnije mi se još
+uvek trudimo
+
+6
+00:00:18,964 --> 00:00:20,664
+da otkrijemo zašto je sagraðen
+
+7
+00:00:21,865 --> 00:00:24,765
+i šta se dogodilo s civilizacijom
+koja ga je sagradila.
+
+8
+00:00:26,000 --> 00:00:32,074
+ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+
+9
+00:01:49,360 --> 00:01:50,930
+Dr. Carmack!
+
+10
+00:01:51,931 --> 00:01:52,931
+Dr. Carmack!
+
+11
+00:01:53,932 --> 00:01:54,932
+Dr. Carmack!
+
+12
+00:01:56,633 --> 00:01:57,933
+Dr. Carmack!
+
+13
+00:01:58,533 --> 00:02:00,933
+Dr. Carmack!
+Dr. Carmack!
+
+14
+00:02:13,043 --> 00:02:15,933
+Ovde Doktor Carmack,
+indetifikacijski broj 6-627.
+
+15
+00:02:18,537 --> 00:02:22,794
+Imamo proboj nivoa 5.
+Iplementirati odmah karantenu.
+
+16
+00:02:23,398 --> 00:02:25,063
+Implementirati karantenu odmah!
+
+17
+00:02:51,059 --> 00:02:52,811
+Specijalna jedinica pri marincima.
+Èujem vas jasno i glasno generale.
+
+18
+00:02:52,851 --> 00:02:56,677
+Traži se vaša prisustnost da ispitate
+proboj nivoa 5 u njihovoj ustanovi.
+
+19
+00:02:57,451 --> 00:03:00,382
+Koliko je radnika umešano?
+6 nauènika u bloku
+
+20
+00:03:00,422 --> 00:03:02,371
+visoko èuvanih laboratorija kada 
+je došlo do proboja.
+
+21
+00:03:02,851 --> 00:03:05,108
+Još 79 UAC zaposlenih su tamo.
+
+22
+00:03:06,457 --> 00:03:08,401
+Putovanje arkom je obustavljeno.
+
+23
+00:03:08,402 --> 00:03:11,551
+-Koji je cilj?
+- Šifra crveno. Procenjena pretnja.
+
+24
+00:03:11,563 --> 00:03:14,150
+Zaštititi i povratiti vlasništvo UAC-a,
+
+25
+00:03:14,157 --> 00:03:17,297
+održavati karantenu oba ark portala
+pod bilo kojim uslovima,
+
+26
+00:03:17,298 --> 00:03:18,729
+Koristiti ekstremne mere?
+
+27
+00:03:18,730 --> 00:03:21,802
+Ekstremne mere.
+Ako je potrebno, naæi i uništiti.
+
+28
+00:03:22,012 --> 00:03:22,987
+Gotovo.
+
+29
+00:03:22,999 --> 00:03:26,048
+Naæi i uništiti.
+Nareðenja primljena i shvaæena.
+
+30
+00:03:31,147 --> 00:03:33,469
+Stvari postaju žestoke, zar ne?
+U redu, hoæeš li dovesti svoje deèke?
+
+31
+00:03:53,558 --> 00:03:59,935
+Ne mogu verovati u ovo sranje. 6 meseci
+bez vikenda a sad i transport kasni 5 minuta.
+
+32
+00:04:00,102 --> 00:04:03,889
+A to je 5 minuta odmora, i to
+nam se nikad neæe vratiti.
+
+33
+00:04:04,062 --> 00:04:05,637
+Opusti se, na odmoru smo.
+
+34
+00:04:16,615 --> 00:04:17,715
+- Jebi ga!
+- Kuda ideš, Portman?
+
+35
+00:04:18,277 --> 00:04:22,368
+Idem u "El Honto", leæi æu malo
+u motelsku sobu...
+
+36
+00:04:22,724 --> 00:04:25,754
+...sa bocom tequile i tri
+transverstita!
+
+37
+00:04:28,002 --> 00:04:29,066
+Ti si bolestan, èoveèe.
+
+38
+00:04:33,529 --> 00:04:36,509
+- Dosta mi je tvoje boleštine, Portman.
+- Iskustvo.
+
+39
+00:04:36,966 --> 00:04:39,648
+Gde æe to biti, Reaps?
+Tvoj vlastiti rat na nekom mirnom mestu?
+
+40
+00:04:46,785 --> 00:04:51,247
+Slušajte ljudi!
+Odmor je otkazan.
+
+41
+00:04:52,696 --> 00:04:54,259
+Oh, èoveèe.
+
+42
+00:04:54,942 --> 00:04:56,221
+Ne mogu verovati u ovo sranje.
+
+43
+00:04:56,788 --> 00:04:57,880
+Jebem ti!
+
+44
+00:04:58,000 --> 00:05:00,254
+Imaš problem sa tim Duke?
+Ja? Ma kakvi, ja obožavam svoj posao.
+
+45
+00:05:01,027 --> 00:05:03,631
+O èemu se radi, Sarge?
+Dobili smo igru.
+
+46
+00:05:05,219 --> 00:05:11,111
+Kid, sad si u odredu za
+brza reagiranja. RRTS..
+
+47
+00:05:13,008 --> 00:05:14,189
+Upadaj.
+
+48
+00:05:18,047 --> 00:05:19,234
+Fino obuèen, a nemaš kuda
+iæi, ha?
+
+49
+00:05:23,656 --> 00:05:24,872
+Umukni, Portman!
+
+50
+00:05:26,353 --> 00:05:29,665
+Ne ovaj put John.
+- Što? Možemo mi ovo srediti.
+
+51
+00:05:29,695 --> 00:05:33,863
+Zezaš me? Ne zezam te.
+
+52
+00:05:34,574 --> 00:05:38,261
+- Idemo na Olduvai.
+- Olduvai?
+
+53
+00:05:43,348 --> 00:05:50,697
+Uzmi odmor. - Je li to nareðenje?
+- To je preporuka. Vidimo se kad se vratim.
+
+54
+00:05:55,768 --> 00:05:57,490
+- Letelica spremna.
+- Razumem.
+
+55
+00:05:57,629 --> 00:05:59,235
+Super odmor!
+Prokletstvo! Brzo proðe!
+
+56
+00:05:59,236 --> 00:06:00,795
+Kao da nikad nisam ni otišao.
+
+57
+00:06:03,842 --> 00:06:05,284
+Svi sistemi spremni,
+spremni za poletanje.
+
+58
+00:06:12,229 --> 00:06:14,382
+RRTS specijalna operacija potvrðena.
+
+59
+00:06:14,469 --> 00:06:15,715
+Identifikacija Razaraè!
+
+60
+00:06:15,890 --> 00:06:17,270
+Tata je doma.
+
+61
+00:06:17,279 --> 00:06:19,556
+ID: "Mac".
+
+62
+00:06:20,255 --> 00:06:26,624
+Identifikacija Portman!
+Identifikacija Kid!
+
+63
+00:06:26,776 --> 00:06:27,814
+Kid?
+
+64
+00:06:27,967 --> 00:06:29,094
+Identifikacija Duke!
+
+65
+00:06:29,406 --> 00:06:30,564
+Reci moje ime.
+
+66
+00:06:31,882 --> 00:06:34,091
+RRTS specijalna operacija potvrðena.
+
+67
+00:06:34,310 --> 00:06:36,333
+ID: "Sarge".
+
+68
+00:06:36,829 --> 00:06:41,996
+Ne mogu verovati da idemo preko portala.
+- Ne brini klinac, svideæe ti se.
+
+69
+00:06:44,249 --> 00:06:45,124
+Svi spremni? Da gospodine!
+
+70
+00:06:53,840 --> 00:06:58,471
+RRTS specijalna operacija potvrðena.
+Identifikacija Reaper.
+
+71
+00:06:58,508 --> 00:06:59,495
+Povedi nas gore.
+
+72
+00:07:16,943 --> 00:07:21,899
+Roger 39. Smer misije 147 stepeni
+prema lokaciji Primrode, Zulu Foxtrot 14.
+
+73
+00:07:22,136 --> 00:07:23,137
+Roger QO6.
+
+74
+00:07:35,252 --> 00:07:36,281
+Koliko je prošlo?
+
+75
+00:07:38,113 --> 00:07:40,641
+- 10 godina.
+- Jesi li siguran da je još tamo?
+
+76
+00:07:44,729 --> 00:07:45,837
+Da.
+
+77
+00:07:47,909 --> 00:07:50,024
+Izgleda da se sa svojim demonima
+moraš sresti kad tad.
+
+78
+00:07:51,703 --> 00:07:56,249
+- Pripremite se za pristup.
+- Copy QO6. Imaš vizualno Zulu.
+
+79
+00:07:56,504 --> 00:07:59,001
+ETA na 90 sekundi, spremno.
+
+80
+00:07:59,401 --> 00:08:01,710
+Živnite ljudi!
+Vreme je za igru!
+
+81
+00:08:27,367 --> 00:08:28,430
+Stop!
+
+82
+00:08:50,524 --> 00:08:51,713
+Ulazi!
+
+83
+00:09:03,481 --> 00:09:05,780
+Ako se dvoumimo, ljudi
+umiru!
+
+84
+00:09:28,562 --> 00:09:31,470
+Sandford Crosby, UAC javni odnosi.
+
+85
+00:09:33,072 --> 00:09:35,615
+Pratite me molim vas. Koliko ljudi
+imate tamo?
+
+86
+00:09:35,656 --> 00:09:45,830
+85 UAC zaposlenih je na Olduvaiu.
+Dobrodošli na arku.
+
+87
+00:09:46,334 --> 00:09:48,229
+Iniciranje molukelarnog mapiranja.
+
+88
+00:09:53,942 --> 00:09:55,858
+Svi zaposleni neka se pripreme
+za aktivaciju.
+
+89
+00:09:57,385 --> 00:10:00,159
+Držite distancu od jezgre ili
+je moguæe da vas usisa.
+
+90
+00:10:00,836 --> 00:10:05,107
+Jesi li radio ovo pre?
+Jednom na trening misiji.
+
+91
+00:10:05,247 --> 00:10:07,445
+Nadamo se da si dobro veèerao.
+
+92
+00:10:10,901 --> 00:10:13,290
+Sva telemetrija je potvrðena i
+transmisija je 5 od 5.
+
+93
+00:10:13,835 --> 00:10:16,276
+Èim siðemo hoæu da ugasite
+servisni lift.
+
+94
+00:10:16,362 --> 00:10:18,496
+Potrudite se da imamo standardnu
+karantenu od 6 sati.
+
+95
+00:10:19,453 --> 00:10:25,953
+Spremni za nastavak?
+Putovanje arkom 15 sekundi i odbrojavam.
+
+96
+00:10:35,694 --> 00:10:41,239
+5, 4, 3, 2, 1
+
+97
+00:10:53,724 --> 00:10:56,616
+Zašto smo mi morali doæi skroz ovde?
+Zašto nisu poslali pandure za ovo sranje?
+
+98
+00:10:57,885 --> 00:10:59,027
+Je li uvek ovako teško?
+
+99
+00:10:59,250 --> 00:11:01,610
+Veruj mi, znalo je biti i puno gore.
+
+100
+00:11:02,322 --> 00:11:07,349
+Bilo je trenutaka kad smo znali
+imati, da tako kažem, jaku turbulenciju.
+
+101
+00:11:08,019 --> 00:11:12,124
+Šta misli pod tim? - Želi reæi da mu je
+guzica otišla u jednu galaksiju a on u drugu.
+
+102
+00:11:12,964 --> 00:11:20,520
+Mala greška u proraèunu. Koliko Èudno
+zvuèalo, UAC može napraviti malu grešku.
+
+103
+00:11:21,019 --> 00:11:23,212
+Marcus Pinzerowsky. Zovite me Pinky!
+Pratite me.
+
+104
+00:11:23,312 --> 00:11:27,364
+Gde su zaposleni koji nisu zakljuèani
+u laboratoriji? U atrijumu.
+
+105
+00:11:27,507 --> 00:11:28,755
+Pinky, postavi nas.
+
+106
+00:11:30,279 --> 00:11:32,059
+Aktiviram daljinsko nadgledanje osoblja.
+
+107
+00:11:35,016 --> 00:11:44,150
+Skupite se ljudi. Idemo na 3.
+- 1, 2, 3. Sve je podignuto i radi.
+
+108
+00:11:45,582 --> 00:11:48,960
+Ljudi, ova soba je šifra crveno,
+što znaèi da niko ne izlazi odavde
+
+109
+00:11:49,285 --> 00:11:50,893
+bez naše dozvole, i to po
+svaku cenu.
+
+110
+00:11:50,910 --> 00:11:52,963
+Mac, ostani ovde s našim
+prijateljem i osiguraj vrata.
+
+111
+00:11:53,056 --> 00:11:54,473
+Ljudi sa mnom. Kreæemo.
+
+112
+00:12:00,316 --> 00:12:01,946
+Otvorite vrata.
+
+113
+00:12:16,510 --> 00:12:19,197
+- Ko je zvao vojnike?
+- Tata, pogledaj!
+
+114
+00:12:23,588 --> 00:12:27,262
+Gde smo mi to? Nekoliko miliona
+svetlosnih godina od doruèka.
+
+115
+00:12:27,588 --> 00:12:29,908
+Kada æu moæi poèeti sa
+evakuacijom ljudi kroz arku?
+
+116
+00:12:29,949 --> 00:12:32,123
+Trenutno smo na nivou 5 karantene,
+niko nikud ne ide.
+
+117
+00:12:33,330 --> 00:12:39,713
+Na nivou 5 smo karantene pa æu
+morati pretresti vas devojke!
+
+118
+00:12:40,353 --> 00:12:41,613
+Mislim da ne.
+
+119
+00:12:42,921 --> 00:12:46,047
+Na nivou 5 smo karantene pa æu
+morati pret-
+
+120
+00:12:46,597 --> 00:12:48,731
+-Portman! Narednièe, ovo je doktorica
+Samantha Grimm,
+
+121
+00:12:49,072 --> 00:12:52,440
+oficir UAC-a, zadužena da izvuèe
+podatke iz laboratorija.
+
+122
+00:12:52,475 --> 00:12:56,488
+Doktorice Grimm. - Zdravo Johne.
+- Zdravo Samantha.
+
+123
+00:12:59,419 --> 00:13:03,179
+Sarge, ova operacija je šifra crveno
+i mi zaista nemamo mesta za putnike.
+
+124
+00:13:03,420 --> 00:13:06,498
+- Oprostite, ali ja imam nareðenja da
+donesem podatke iz 3 laboratorija.
+
+125
+00:13:06,719 --> 00:13:09,441
+Antropologije, Forenzièke arheologije
+i Genetike.
+
+126
+00:13:10,221 --> 00:13:14,495
+Ovo je vojna operacija doc., Nismo ovde
+da bi prikupljali vaše znastvene podatke.
+
+127
+00:13:15,051 --> 00:13:18,311
+Imam ja ideju, zašto ne pitaš svog
+pretpostavljenog koja su ti nareðenja.
+
+128
+00:13:22,274 --> 00:13:27,497
+Da neutraliziramo opasnost, zaštitimo
+civile i povratimo vlasništvo UAC-a.
+
+129
+00:13:28,243 --> 00:13:30,307
+Jesmo li završili ovde, pošto ja
+imam posao za obaviti?
+
+130
+00:13:30,901 --> 00:13:32,433
+Ako bi me pratili…
+
+131
+00:13:32,927 --> 00:13:34,209
+Ti si ovo izabrao, Reaper.
+
+132
+00:13:35,393 --> 00:13:37,516
+- Da li æe mi ovo pokvariti dan?
+- Ne gospodine.
+
+133
+00:13:37,754 --> 00:13:42,669
+- Nisi valjda ispustio ovakav komad,
+Reaper. - Ona mi je sestra. - Ne seri.
+
+134
+00:13:42,846 --> 00:13:44,485
+Nemoj to ponovo raditi.
+Što?
+
+135
+00:13:45,590 --> 00:13:47,420
+Imamo 3 odela Carmackova
+kompleksa laboratorija.
+
+136
+00:13:47,928 --> 00:13:49,771
+- Arheologija,
+genetika i istraživanje oružja.
+
+137
+00:13:50,160 --> 00:13:52,061
+Testirate oružje ovde?
+- Pa, mrtva je planeta.
+
+138
+00:13:52,093 --> 00:13:54,670
+Možemo testirati ovde na
+sigurnom ili u tvom dvorištu.
+
+139
+00:13:55,003 --> 00:13:59,561
+Mi smo primarno arheološka operacija.
+Istraživanje oružja je u posebnom delu
+
+140
+00:13:59,614 --> 00:14:01,544
+i nema ništa sa radom doktora Carmacka.
+
+141
+00:14:02,138 --> 00:14:03,824
+Koliko ih je ostalo unutra kad
+je laboratorija zatvoren?
+
+142
+00:14:03,838 --> 00:14:05,824
+Samo tim doktora Carmacka,
+a to je 6 ljudi.
+
+143
+00:14:06,585 --> 00:14:09,981
+U jednom delu laboratorija
+je ostao otvoren telefon.
+
+144
+00:14:10,175 --> 00:14:11,662
+Jeste li dobili neku
+informaciju sa njega?
+
+145
+00:14:20,774 --> 00:14:21,763
+Otvori vrata.
+
+146
+00:14:32,053 --> 00:14:33,728
+Portman, Goat krenite.
+Vodite nas.
+
+147
+00:14:41,273 --> 00:14:44,724
+Magnezijum, krom, gvožðe,
+sve je normalno.
+
+148
+00:14:44,736 --> 00:14:53,609
+Sve je èisto. - Pinky, daj nam shemu.
+- Sad vam šaljem.
+
+149
+00:14:57,251 --> 00:15:02,965
+Carmackove prostorije su odvojene od ostalih.
+Samo airlockom se može uæi ili izaæi.
+
+150
+00:15:08,358 --> 00:15:09,671
+Goat i Portman u genetiku. Kid i
+Razaraè u Carmackovu kancelariju
+
+151
+00:15:09,833 --> 00:15:11,579
+odakle je poslao poruku. Reaper, ostani
+da vodiš raèuna o sigurnosti doktorice,
+
+152
+00:15:11,585 --> 00:15:16,774
+a Duke i ja æemo odneti oružje u
+lab i osigurati sav hardware.
+
+153
+00:15:17,463 --> 00:15:18,613
+Pazite se gospodo.
+
+154
+00:15:19,547 --> 00:15:21,326
+- Portman, Goat… na vas.
+- Ukljuèeno je.
+
+155
+00:15:33,540 --> 00:15:34,934
+Èisto levo, èisto desno.
+
+156
+00:15:39,678 --> 00:15:43,076
+U 5 dolara da je ovo samo neki
+ljuti zaposlenik sa puškom.
+
+157
+00:15:45,570 --> 00:15:47,356
+Postavite flourescentne oznake
+kako koju sobu oèistimo.
+
+158
+00:15:47,359 --> 00:15:48,390
+Idemo.
+
+159
+00:15:53,821 --> 00:15:55,615
+U pokretu su.
+
+160
+00:15:57,087 --> 00:16:05,185
+Ne lièiš mi na Macka. Katsuhiko
+Kumanosuke Takahashi. - Da, Mack.
+
+161
+00:16:55,054 --> 00:16:56,323
+Šta, do ðavola…?
+
+162
+00:17:15,009 --> 00:17:19,882
+Pinky, kako nas primaš?
+-Isuse, jako cool!
+
+163
+00:17:49,956 --> 00:17:51,428
+Gde su do ðavola svi?
+
+164
+00:17:54,758 --> 00:17:55,792
+Hej!
+
+165
+00:18:10,455 --> 00:18:11,496
+Zakljuèaj.
+
+166
+00:18:18,851 --> 00:18:19,894
+Èisto.
+
+167
+00:18:23,145 --> 00:18:25,875
+Koliko æe ti vremena trebati?
+30 minuta najviše.
+
+168
+00:18:27,543 --> 00:18:35,096
+Goat, Portman, ima još jedna prostorija, na
+severu. Kad proðete genetiku. Primljeno!
+
+169
+00:18:52,270 --> 00:18:54,802
+Šta je ovo?
+-Nikad nisi odležao malo?
+
+170
+00:18:55,095 --> 00:18:59,238
+-Šta?
+-Ovo je pritvor.
+
+171
+00:19:00,306 --> 00:19:07,111
+Sranje, zašto misliš da je
+to? - Pipni.
+
+172
+00:19:11,453 --> 00:19:15,180
+Zato što su zidovi pod naponom.
+Seronjo!
+
+173
+00:19:20,941 --> 00:19:23,469
+Ako su ostavili ovakava sranja
+uokolo...
+
+174
+00:19:24,951 --> 00:19:26,385
+voleo bih videti šta su zatvorili.
+
+175
+00:19:36,577 --> 00:19:37,947
+BFG.
+
+176
+00:19:41,234 --> 00:19:43,698
+Ej Sarge. Šta je sa
+Reaperovom sestrom?
+
+177
+00:19:46,848 --> 00:19:49,057
+Reaperovi roditelji su bili s prvom
+grupom arheologa na Olduvaiu.
+
+178
+00:19:49,418 --> 00:19:51,415
+Umrli su nesreænim sluèajem
+dok je bio dete.
+
+179
+00:19:54,297 --> 00:19:56,419
+Ona je nastavila njihovim koracima
+i postala arheolog, a on nije.
+
+180
+00:19:57,586 --> 00:20:00,065
+Ma mislio sam da li je zauzeta.
+
+181
+00:20:05,948 --> 00:20:07,675
+Pristupite proveri DNK.
+
+182
+00:20:12,387 --> 00:20:13,884
+Pristup zabranjen!
+
+183
+00:20:15,327 --> 00:20:20,340
+Reaper kao Grimm?
+Mi smo marinci Sam, a ne pesnici.
+
+184
+00:20:22,288 --> 00:20:25,287
+O sranje! O da, upoznaj Lucy.
+
+185
+00:20:25,581 --> 00:20:28,948
+Lucy, ovo je moj brat John,
+još jedno biæe iz daleke prošlosti.
+
+186
+00:20:29,903 --> 00:20:31,873
+Našli ste ljudske ostatke.
+Humanoid.
+
+187
+00:20:32,071 --> 00:20:34,062
+Lucy je prvo veliko otkriæe, a
+svakim danom ih donosimo sve više.
+
+188
+00:20:37,982 --> 00:20:41,797
+Opet ste otvorili iskopinu?
+Znam da sam ti trebala reæi.
+
+189
+00:20:41,838 --> 00:20:44,860
+Ali to nije stvar koja se može
+napisati na èestitci za roðendan.
+
+190
+00:20:46,651 --> 00:20:48,425
+Stabilizirana je.
+Sranje!
+
+191
+00:20:49,065 --> 00:20:51,507
+Hoæeš da prièamo o sigurnom?
+Kao što si ti uzeo posao za stolom.
+
+192
+00:20:53,541 --> 00:20:55,356
+Ja sam forenzièki arheolog, Johne.
+Idem tamo gde ima posla.
+
+193
+00:20:55,371 --> 00:20:57,562
+To je jedini razlog zašto si ovde?
+
+194
+00:20:58,452 --> 00:21:02,109
+Hoæeš znati zašto sam ovde?
+Doði ovde, pokazaæu ti.
+
+195
+00:21:05,263 --> 00:21:07,627
+Ovo je profil kromosoma od Lucy.
+Primeæuješ li?
+
+196
+00:21:09,340 --> 00:21:13,466
+Pa, malo sam zahrðao iz genetike.
+Šta nas je tata prvo uèio da tražimo?
+
+197
+00:21:21,220 --> 00:21:25,018
+Ima 24 para kromosoma.
+Ljudi imaju samo 23.
+
+198
+00:21:25,768 --> 00:21:28,048
+- Šta ekstra par èini?
+- Èini je superèovekom.
+
+199
+00:21:29,002 --> 00:21:32,253
+Ekstra par je èini super jakom, super
+sposobnom i super inteligentnom.
+
+200
+00:21:33,368 --> 00:21:37,612
+Njene stanice se dele 50 puta brže,
+što znaèi da joj rane zaceljuju trenutno.
+
+201
+00:21:38,590 --> 00:21:44,178
+Takoðer ne podležu bolestima. Nikakvi
+poremeæaji, mutacije, virusi ni rak.
+
+202
+00:21:44,776 --> 00:21:46,974
+Znaèi, prirodno su bili superiorni?
+
+203
+00:21:47,414 --> 00:21:55,615
+Ne. Ne prirodno. Prvi ostaci imali su samo 23.
+verujemo da je dodatni kromosom sintetièki.
+
+204
+00:21:55,725 --> 00:21:59,315
+Bioinženjering. To je dugaèka
+reè za marinca.
+
+205
+00:22:01,229 --> 00:22:04,895
+Nikad te nije muèilo što si mogao provesti
+život na mikroskopu a ne na snajperu?
+
+206
+00:22:08,318 --> 00:22:13,238
+Ako su bili toliko pametni kako su
+toliko mrtvi? - Ne znamo.
+
+207
+00:22:14,563 --> 00:22:16,060
+Možda ju je dohvatilo vreme.
+
+208
+00:22:17,475 --> 00:22:19,224
+Ne možeš zaštiti bebu od vremena.
+
+209
+00:22:21,591 --> 00:22:23,275
+Imamo kretanje napred.
+
+210
+00:22:24,817 --> 00:22:26,503
+- Ostani tu.
+Zakljuèaj vrata.
+
+211
+00:22:37,487 --> 00:22:41,185
+Vrata su raskomadana.
+Ima neèeg u Carmackovoj kancelariji.
+
+212
+00:23:34,858 --> 00:23:35,890
+Tamo!
+
+213
+00:23:38,055 --> 00:23:41,204
+Imamo kontakt.
+- Brzo u Carmackovu kancelariju.
+
+214
+00:23:44,904 --> 00:23:46,411
+Kontakt!
+Brzo!
+
+215
+00:23:48,048 --> 00:23:49,172
+Ne pucaj!
+
+216
+00:23:58,943 --> 00:24:00,337
+Ako imaš oružje, baci ga!
+
+217
+00:24:06,100 --> 00:24:07,124
+Ne mièi se!
+
+218
+00:24:18,140 --> 00:24:20,027
+-Sam, rekao sam ti da-
+-Zna me, Johne!
+
+219
+00:24:21,889 --> 00:24:26,497
+Dr. Carmack, ja sam, Samantha.
+Gde su ostali?
+
+220
+00:24:27,480 --> 00:24:30,012
+Gde su? Steve, Hillary...
+
+221
+00:24:30,092 --> 00:24:32,042
+Neæu te povredeti.
+
+222
+00:24:35,082 --> 00:24:36,372
+Neæu te povredeti.
+
+223
+00:24:42,514 --> 00:24:44,453
+Prokletstvo!
+Dajte pribor za prvu pomoæ.
+
+224
+00:24:44,863 --> 00:24:46,268
+Oh, lepo.
+
+225
+00:24:47,311 --> 00:24:48,286
+Neæu te povredeti.
+
+226
+00:24:48,353 --> 00:24:50,009
+Duke, Odvedi ga u ambulantu sa
+doktoricom Grimm
+
+227
+00:24:50,490 --> 00:24:53,388
+Portman, Kid. Idite do Airlocka
+i ukopajte se.
+
+228
+00:24:54,049 --> 00:24:56,325
+Ako nam nešto pobegne, navest
+æemo ga direktno na tebe.
+
+229
+00:24:59,992 --> 00:25:02,133
+Idemo videti ako možemo naæi
+telo koje ide uz tu ruku.
+
+230
+00:25:07,603 --> 00:25:11,394
+Ovo je baš sjebano.
+
+231
+00:25:11,454 --> 00:25:15,751
+Ljudi kao Carmack su spremni da stave
+logiku pre emocija.
+
+232
+00:25:16,424 --> 00:25:18,163
+Tako je uplašen.
+
+233
+00:25:18,204 --> 00:25:20,198
+Sam je sebi otkinuo uho.
+
+234
+00:25:22,635 --> 00:25:27,350
+Kažem ti èoveèe, takvo sranje zna
+ti uæi pod kožu.
+
+235
+00:25:40,979 --> 00:25:43,599
+Imaš li nešto?
+Da li imam nešto?
+
+236
+00:25:49,708 --> 00:25:55,680
+Šta? Znaš šta. Malo sam
+potresen i treba mi nešto
+
+237
+00:25:55,690 --> 00:25:58,559
+da se skoncertriram.
+
+238
+00:25:59,955 --> 00:26:00,955
+Moja faca za igru.
+
+239
+00:27:02,253 --> 00:27:03,251
+Prokletstvo!
+
+240
+00:27:34,534 --> 00:27:35,790
+Koristio sam Njegovo ime uzalud.
+
+241
+00:27:56,360 --> 00:28:00,762
+Ne, ne ja ne idem kroz
+nano zidove.
+
+242
+00:28:01,331 --> 00:28:02,456
+Ideš.
+
+243
+00:28:06,043 --> 00:28:12,097
+Imaš ga?
+Prièekaj ovde. Kakvo sranje!
+
+244
+00:28:29,204 --> 00:28:31,742
+Jedan, dva, tri.
+Jesi li dobro?
+
+245
+00:28:31,784 --> 00:28:36,558
+Jeste li našli ostale?
+- Ne još. - Moj muž je sa njima.
+
+246
+00:28:37,123 --> 00:28:43,145
+Sigurna sam da je Steve dobro.
+Dr. Carmack, izmeriæu vam pritisak.
+
+247
+00:28:48,971 --> 00:28:51,102
+- Hej, hej!
+- U redu je.
+
+248
+00:28:52,305 --> 00:28:54,496
+Polje...
+Šta se desilo tamo?
+
+249
+00:28:55,665 --> 00:28:58,335
+Zatvorite ga...
+
+250
+00:29:09,435 --> 00:29:11,736
+Unutra je.
+
+251
+00:29:13,627 --> 00:29:15,944
+Èuli smo nešto na genetici.
+Ulazimo.
+
+252
+00:29:16,406 --> 00:29:17,547
+To je potvrdno, Reaper.
+
+253
+00:29:24,010 --> 00:29:27,641
+Izgleda da smo propustili
+žurku. Bili smo ovde.
+
+254
+00:29:27,743 --> 00:29:30,241
+Šta se desilo sa životinjama?
+
+255
+00:29:53,211 --> 00:29:59,396
+Gospodine, mi smo RRTS, došli smo
+pomoæi. Gospodine, da li ste dobro?
+
+256
+00:30:05,281 --> 00:30:07,319
+Ne, ne, ne. Gospodine,
+spustite to!
+
+257
+00:30:11,768 --> 00:30:13,055
+Kontakt raport!
+
+258
+00:30:13,324 --> 00:30:14,447
+Prokletstvo
+
+259
+00:30:14,865 --> 00:30:18,533
+Našli smo još jednog nauènika. Neko
+teško sranje se odvija ovde, Sarge.
+
+260
+00:30:18,786 --> 00:30:21,463
+Znate ko je? Dr. Olsen.
+
+261
+00:30:23,918 --> 00:30:25,844
+Napao nas je, lud isto kao
+i Carmack.
+
+262
+00:30:26,419 --> 00:30:28,453
+Da li je mrtav?
+- Da. Vrlo.
+
+263
+00:30:28,842 --> 00:30:30,400
+Da ga spakiramo i obeležimo?
+
+264
+00:30:30,410 --> 00:30:31,694
+Negativno. Nastavite sa potragom.
+
+265
+00:30:36,292 --> 00:30:37,594
+Sarge!
+
+266
+00:31:31,384 --> 00:31:34,576
+Šta je to bilo?
+Majmun.
+
+267
+00:31:36,933 --> 00:31:37,966
+Neka vrsta majmuna.
+
+268
+00:31:55,719 --> 00:31:56,847
+Oh, moj bože!
+
+269
+00:31:58,937 --> 00:32:00,328
+Nešto mu je u krvi.
+
+270
+00:32:03,130 --> 00:32:04,962
+Šta se dogaða s njim?
+
+271
+00:32:20,898 --> 00:32:22,244
+- Imam ga!
+- Ovde!
+
+272
+00:32:22,392 --> 00:32:23,377
+Idemo!
+
+273
+00:32:25,209 --> 00:32:26,465
+Reapere, šta imate?
+
+274
+00:32:27,160 --> 00:32:28,893
+- Nešto smo videli, Sarge!
+- Kako to misliš nešto?
+
+275
+00:32:29,162 --> 00:32:31,138
+Nešto ogromno, nije ljudsko?
+
+276
+00:32:31,327 --> 00:32:35,724
+Prokletstvo, potvrdi mi šta si video.
+Reaper! U kanalizaciji je.
+
+277
+00:32:37,355 --> 00:32:40,330
+Sve jedinice, sve jedinice.
+Prolaz jugoistoèno, kraj medlaba.
+
+278
+00:32:44,412 --> 00:32:46,542
+Mislio sam da je izraz
+"nemoj srat" samo figurativan.
+
+279
+00:32:46,787 --> 00:32:48,415
+Upadaj u prokletu rupu, Portman.
+
+280
+00:32:54,624 --> 00:32:58,795
+Mogu sama ovde. Trebaš otiæi.
+Želim ostati.
+
+281
+00:32:59,502 --> 00:33:04,377
+Steve æe biti dobro.
+Momci koji ga traže su najbolji.
+
+282
+00:33:06,005 --> 00:33:07,664
+Pusti.
+Hajde, budi sa svojom kæeri.
+
+283
+00:33:09,793 --> 00:33:10,955
+Hvala.
+
+284
+00:33:18,275 --> 00:33:19,468
+Šta se dogaða?
+
+285
+00:33:22,335 --> 00:33:24,497
+Krv se ne poklapa.
+To nije dobro, zar ne?
+
+286
+00:33:26,671 --> 00:33:27,768
+Ovo je ludo.
+
+287
+00:33:31,660 --> 00:33:32,985
+Moj Bože!
+
+288
+00:33:39,769 --> 00:33:41,274
+U tunelu napred je
+glavni spoj.
+
+289
+00:33:41,717 --> 00:33:43,441
+On vodi natrag u kompleks 
+laboratorija.
+
+290
+00:33:43,701 --> 00:33:45,696
+Razaraè, pokrivaj izlaz.
+
+291
+00:34:41,294 --> 00:34:45,277
+Imamo Dr. Willitsa. Steve Willits.
+
+292
+00:34:47,483 --> 00:34:48,500
+Idemo.
+
+293
+00:35:04,226 --> 00:35:05,636
+Budi trezan, budi osvetnik...
+
+294
+00:35:06,012 --> 00:35:10,677
+...zbog toga jer se može pojaviti
+vrag ako nešto tražiš.
+
+295
+00:35:12,635 --> 00:35:14,172
+To je jako utešno, Goat.
+
+296
+00:35:14,612 --> 00:35:16,428
+Nije me preplašilo nimalo.
+
+297
+00:35:20,108 --> 00:35:21,667
+- Portman!
+- Šta?
+
+298
+00:35:24,455 --> 00:35:25,584
+Èekaj!
+Nešto ga je povuklo dole.
+
+299
+00:35:25,671 --> 00:35:27,680
+Hajde! Uhvati ruku!
+
+300
+00:35:28,469 --> 00:35:30,128
+Ovaj kuèkin sin je težak!
+
+301
+00:35:31,997 --> 00:35:34,189
+Klizi!
+
+302
+00:35:37,557 --> 00:35:40,529
+Portmane, šta se dogodilo?
+Upao sam u prokletu rupu.
+
+303
+00:35:41,239 --> 00:35:45,802
+Svi za mnom i pazite gde gazite.
+Idemo. Sranje.
+
+304
+00:36:01,026 --> 00:36:02,489
+- Goat, pravo napred.
+- Gospodine.
+
+305
+00:36:02,921 --> 00:36:05,415
+Portman, ti si sa mnom.
+Johne, uzmi Kida i idi desno.
+
+306
+00:36:17,308 --> 00:36:18,470
+Prokleta rupa.
+
+307
+00:36:40,487 --> 00:36:42,555
+- Ti si izgubio roditelje, zar ne?
+- Zašuti!
+
+308
+00:36:43,676 --> 00:36:45,964
+Kako je mali svet!
+Mislim, i ja sam ih isto izgubio.
+
+309
+00:36:47,747 --> 00:36:50,285
+Mislim, probudio sam se jedno
+jutro i sve je nestalo.
+
+310
+00:36:50,506 --> 00:36:51,948
+Mislim, jedino što je ostalo
+bio sam ja.
+
+311
+00:36:52,004 --> 00:36:53,945
+Želeli su TV više nego
+što su želeli mene.
+
+312
+00:36:57,744 --> 00:37:01,338
+Svaki put kada otvoriš usta
+ti odaješ našu poziciju.
+
+313
+00:37:03,433 --> 00:37:04,599
+Èekaj malo.
+
+314
+00:37:09,393 --> 00:37:10,607
+Zjenice su ti raširene.
+
+315
+00:37:11,372 --> 00:37:13,023
+Jesi li drogiran?
+-Šta?
+
+316
+00:37:14,873 --> 00:37:16,960
+Ne, ja imam to stanje...
+-Zaboli me...
+
+317
+00:37:17,041 --> 00:37:20,565
+Ako to sranje opet uzmeš izbušit
+æu te! Jasno!
+
+318
+00:37:30,866 --> 00:37:33,798
+Sagni se! Žao mi je, samo sam
+trebao malo...  Sagni se!
+
+319
+00:37:36,089 --> 00:37:38,047
+Goat, mislim da nešto ide ka vama.
+
+320
+00:37:45,713 --> 00:37:46,622
+Ovo se ne dogaða.
+
+321
+00:37:46,681 --> 00:37:47,965
+Moje svetlo se ugasilo.
+
+322
+00:37:56,118 --> 00:37:57,339
+Ništa ne vidim.
+
+323
+00:37:57,351 --> 00:38:02,428
+Ne mièi se. Dolazim.
+Pinky!
+
+324
+00:38:03,023 --> 00:38:04,131
+Vidiš li nešto?
+
+325
+00:38:05,862 --> 00:38:08,119
+Ne, ništa.
+
+326
+00:38:22,911 --> 00:38:23,936
+Dr. Willit?
+
+327
+00:38:26,902 --> 00:38:27,954
+Goat!
+
+328
+00:38:29,881 --> 00:38:33,636
+Raport!
+Goat, koja je tvoja pozicija?
+
+329
+00:38:36,366 --> 00:38:37,761
+Goat, prièaj mi!
+
+330
+00:38:38,027 --> 00:38:39,687
+Prokletstvo!
+
+331
+00:38:41,493 --> 00:38:42,473
+Kontakt!
+
+332
+00:38:43,389 --> 00:38:44,609
+Kontakt!
+
+333
+00:39:07,153 --> 00:39:10,470
+Èovek oboren!
+Èovek oboren!
+
+334
+00:39:12,429 --> 00:39:17,055
+Svi krenite ka arki. Huges, idi u zonu
+karantene i evakuirajte celo postrojenje.
+
+335
+00:39:17,220 --> 00:39:18,434
+Povedite sve ka arki.
+
+336
+00:39:18,720 --> 00:39:20,223
+Šta se dogaða?
+
+337
+00:39:20,510 --> 00:39:22,907
+Idemo! Hajde!
+Ovo je hitno.
+
+338
+00:39:22,908 --> 00:39:24,857
+Hajde!
+Svi prema Arki!
+
+339
+00:39:30,906 --> 00:39:32,994
+Šta se dogodilo?
+Uboli su ga ðavoli!
+
+340
+00:39:33,460 --> 00:39:35,331
+Ðavoli?
+-Njegovo biblijsko sranje.
+
+341
+00:39:35,760 --> 00:39:40,091
+Anðeli, zlo i dobro, vragovi meðu nama.
+- Skinimo mu vestu.
+
+342
+00:39:44,357 --> 00:39:46,205
+Imam slab puls.
+- Portmane, daj mi liniju ovde.
+
+343
+00:39:48,097 --> 00:39:50,342
+Hajde èoveèe.
+Održi pritisak na tu ranu.
+
+344
+00:39:51,598 --> 00:39:53,233
+Kakav je puls?
+Gubim ga.
+
+345
+00:39:54,113 --> 00:39:55,852
+Sam, daj mu injekciju adrenalina.
+
+346
+00:40:01,989 --> 00:40:03,333
+- Izgubili smo puls.
+- Ok, idemo s elektrošokovima.
+
+347
+00:40:05,477 --> 00:40:06,640
+Hajde èoveèe!
+
+348
+00:40:09,733 --> 00:40:10,983
+Maknite se!
+
+349
+00:40:14,577 --> 00:40:17,460
+Gde je do ðavola Carmack?
+Nestao je?
+
+350
+00:40:17,896 --> 00:40:18,977
+Kako to misliš nestao?
+
+351
+00:40:19,158 --> 00:40:20,986
+Otišao! Nestao je.
+
+352
+00:40:21,326 --> 00:40:22,536
+Izgubio sam puls.
+
+353
+00:40:23,371 --> 00:40:25,811
+Ok. Opet idem s elektrošokovima.
+Maknite se!
+
+354
+00:40:28,682 --> 00:40:31,267
+Hajde.
+Ništa.
+
+355
+00:40:31,595 --> 00:40:33,848
+- Gubimo ga.
+Sam, daj mi taj adrenalin.
+
+356
+00:40:43,355 --> 00:40:44,482
+Hajde, kuèkin sine.
+
+357
+00:40:44,697 --> 00:40:46,419
+Ok, idemo ponovo.
+Maknite se!
+
+358
+00:41:08,362 --> 00:41:09,431
+Gotov je.
+
+359
+00:41:18,799 --> 00:41:22,956
+Doktorice, reæi æete mi koji se
+vrag dogaða ovde? - Što?
+
+360
+00:41:22,982 --> 00:41:26,499
+Doði! Doði!
+
+361
+00:41:28,503 --> 00:41:29,550
+Ovo je ŠTA!
+
+362
+00:41:31,988 --> 00:41:37,530
+Oh, bože! - Jeste li videli nešto
+ovako na vašim iskopinama? - Ne.
+
+363
+00:41:37,693 --> 00:41:40,173
+Ima li šanse da je ovo došlo izvana,
+sa površine?
+
+364
+00:41:40,415 --> 00:41:44,163
+Planeta je potpuno mrtva!
+Od nekud je došlo, gospoðice.
+
+365
+00:41:44,345 --> 00:41:45,373
+Portmane, umukni!
+
+366
+00:41:45,617 --> 00:41:48,222
+Atmosfera na površini ne
+podržava život.
+
+367
+00:41:48,637 --> 00:41:51,067
+Možda ne treba zrak.
+Možda je došlo sa druge planete.
+
+368
+00:41:51,107 --> 00:41:53,107
+- Šta, kao vanzemaljac.
+POGLEDAJ TU STVAR!
+
+369
+00:41:53,347 --> 00:41:55,546
+Portmane, moraš zaèepiti!
+
+370
+00:41:58,248 --> 00:42:00,625
+To nije ono na što smo
+ja i Goat pucali u genetici.
+
+371
+00:42:01,214 --> 00:42:03,575
+Kažeš mi da ima još ovih seronja?
+
+372
+00:42:03,819 --> 00:42:07,482
+Gde su vam ulazi sa površine?
+Ima jedan na kraju severnog hodnika.
+
+373
+00:42:07,792 --> 00:42:11,338
+Razaraè. Ti, Kid i Portman odmah odite
+tamo i obaveštavajte me. Razumem!
+
+374
+00:42:11,479 --> 00:42:14,938
+Šta god da je ovo,
+Ne sme stiæi do arke.
+
+375
+00:42:14,950 --> 00:42:18,994
+Mac. - Hoæu da naoružaš Pinkija sa
+oružjem. Sa ST granatama.
+
+376
+00:42:19,271 --> 00:42:22,538
+I zapeèatite vrata ka arki.
+- Postoje još jedna vrata. - Gde?
+
+377
+00:42:22,580 --> 00:42:25,537
+Ulaz prema arheološkim iskopinama.
+
+378
+00:42:28,327 --> 00:42:29,828
+Ne puštaj da ništa proðe ka arki.
+
+379
+00:42:33,105 --> 00:42:34,491
+Èekaj! Èekaj malo!
+
+380
+00:42:35,353 --> 00:42:37,062
+Ne možete me ostaviti ovde,
+ja nisam vojnik.
+
+381
+00:42:37,603 --> 00:42:41,097
+Jebite se! Ovo je sranje.
+Vi mene trebate štititi!
+
+382
+00:42:41,513 --> 00:42:42,564
+Arka osigurana.
+
+383
+00:42:47,613 --> 00:42:51,406
+Idemo natrag kroz ventilaciju.
+Neæemo zvati podršku?
+
+384
+00:42:53,573 --> 00:42:56,164
+Arka je zapeèaèena.
+Ništa ne može natrag dok sve na
+
+385
+00:42:56,205 --> 00:42:57,880
+ovoj planeti ne bude mrtvo.
+
+386
+00:42:58,896 --> 00:43:00,186
+Idemo naoružani.
+
+387
+00:43:00,985 --> 00:43:03,165
+Ozbiljan si? 
+- Pokupi svoje oružje Portmane.
+
+388
+00:43:03,205 --> 00:43:05,419
+Hajde Portman, kreæemo.
+
+389
+00:43:05,648 --> 00:43:07,368
+Jesmo li svi videli kako
+je ova stvar sredila Goata?
+
+390
+00:43:08,566 --> 00:43:14,751
+Ne znamo s èim imamo posla ovde.
+Najbolje je zvati pojaèanje kad situacija...
+
+391
+00:43:14,798 --> 00:43:17,230
+MI SMO... pojaèanje!
+
+392
+00:43:24,996 --> 00:43:28,124
+A sad stavi jebenu pušku na
+rame, vojnièe!
+
+393
+00:43:41,968 --> 00:43:44,279
+Svo UAC osoblje neka se
+evakuira na Zemlju.
+
+394
+00:44:04,801 --> 00:44:05,963
+Duke?
+
+395
+00:44:29,375 --> 00:44:30,456
+Duke?
+
+396
+00:44:32,664 --> 00:44:33,792
+Duke?
+
+397
+00:44:35,719 --> 00:44:38,980
+Samo kratak spoj.
+Jesi li dobro?
+
+398
+00:44:38,999 --> 00:44:42,051
+Evo tvoje pile za kosti.
+
+399
+00:44:43,692 --> 00:44:45,275
+Pa, ko je stariji od vas dvoje?
+- Što?
+
+400
+00:44:46,482 --> 00:44:48,395
+O..Ja. Oko dva minuta.
+
+401
+00:44:48,743 --> 00:44:50,567
+Blizanci. Sranje.
+
+402
+00:44:58,859 --> 00:45:00,246
+Sam, vrati se u lab.
+
+403
+00:45:27,158 --> 00:45:29,248
+- Hajde!
+- Seronjo!
+
+404
+00:45:30,919 --> 00:45:32,383
+Zatvori!
+
+405
+00:45:40,902 --> 00:45:42,407
+Zato ja ne idem kroz
+nano zidove.
+
+406
+00:45:44,229 --> 00:45:46,346
+Pinky, ulazimo na iskopine.
+
+407
+00:45:56,879 --> 00:45:58,074
+Osiguraj izlaz.
+
+408
+00:46:44,759 --> 00:46:46,014
+Tata!
+
+409
+00:46:49,833 --> 00:46:51,340
+Sam.
+
+410
+00:47:05,061 --> 00:47:07,200
+Hajde!
+
+411
+00:47:07,201 --> 00:47:09,637
+Ne preblizu, John.
+
+412
+00:47:13,584 --> 00:47:14,748
+Zadrži!
+
+413
+00:47:17,125 --> 00:47:19,786
+Ne mama.
+-Ne!
+
+414
+00:47:27,250 --> 00:47:28,301
+Ovde se to dogodilo?
+
+415
+00:47:31,310 --> 00:47:32,542
+Jesi li našao vrata?
+
+416
+00:47:44,754 --> 00:47:46,354
+John.
+
+417
+00:47:50,668 --> 00:47:51,671
+Clay.
+
+418
+00:47:56,702 --> 00:47:57,961
+Thurman.
+
+419
+00:47:59,756 --> 00:48:03,232
+Pogledaj ih. Nisu pokušavali
+zaustaviti nešto da uðe....
+
+420
+00:48:05,004 --> 00:48:06,477
+Nešto je njih zaustavilo
+da izaðu napolje.
+
+421
+00:48:09,185 --> 00:48:12,954
+Razaraè raportiraj.
+Stigli smo do severnog airlocka.
+
+422
+00:48:13,319 --> 00:48:16,161
+Osiguran je. Odustani u sluèaju da 
+ništa ne uðe ili izaðe...
+
+423
+00:48:16,252 --> 00:48:17,309
+...26 sati.
+
+424
+00:48:21,243 --> 00:48:22,278
+Mac!
+
+425
+00:48:25,394 --> 00:48:26,459
+Mac!
+
+426
+00:48:26,945 --> 00:48:28,439
+Mac, èuješ li me?
+
+427
+00:48:30,165 --> 00:48:32,334
+Prièaj sa mnom!
+Prièaj sa mnom, Mac!
+
+428
+00:48:34,786 --> 00:48:39,360
+Sranje!
+Isuse bože!
+
+429
+00:48:44,416 --> 00:48:45,420
+Kontakt!
+
+430
+00:48:45,764 --> 00:48:48,104
+U poteri smo! Kreæemo se brzo
+dolje prema iskapalištu!
+
+431
+00:48:49,809 --> 00:48:51,019
+Pinky, šta vidiš?
+
+432
+00:48:51,273 --> 00:48:55,300
+Veliko je, ogromno. Kreæe se brzo.
+Kreæe se ka kompleksu laboratorija.
+
+433
+00:49:01,984 --> 00:49:03,359
+Vratilo se u laboratoriju.
+
+434
+00:49:07,844 --> 00:49:10,147
+Èisto.
+
+435
+00:49:11,545 --> 00:49:12,744
+Dovraga, baš je brzo.
+
+436
+00:49:13,785 --> 00:49:16,394
+Spremite odbranu, ljudi.
+Jeste li dobili?
+
+437
+00:49:18,083 --> 00:49:20,951
+Pinky! Da Sarge! Ako nešto proðe
+tamo iskoristi ST granatu.
+
+438
+00:49:20,963 --> 00:49:22,905
+Ne sme se vratiti na Zemlju!
+
+439
+00:49:23,978 --> 00:49:26,857
+Baci li ST tamo uništiæe arku.
+
+440
+00:49:26,835 --> 00:49:30,450
+Reaper, Kid u formaciju,
+pregledajte hodnike. krenite.
+
+441
+00:49:30,574 --> 00:49:35,275
+Razaraè. Ti i Portman ostanite ovde.
+Zatvorite airlock i održite podruèje.
+
+442
+00:49:35,316 --> 00:49:37,606
+Ako raznese arku, kako æemo
+se do ðavola ðavola vratiti kuæi?
+
+443
+00:49:37,747 --> 00:49:39,615
+Portmane, zatvori ta vrata.
+
+444
+00:49:40,301 --> 00:49:41,501
+Kuda ideš?
+
+445
+00:49:42,035 --> 00:49:46,502
+Idem u oružarnicu. Mislim da æe nam
+trebati nešto sa malo veæom snagom.
+
+446
+00:50:17,033 --> 00:50:18,834
+Jesi li videla nešto slièno
+do sad?
+
+447
+00:50:32,726 --> 00:50:34,728
+Srce.
+
+448
+00:50:41,174 --> 00:50:42,710
+Jetra.
+
+449
+00:50:52,916 --> 00:50:56,136
+- Bubrezi.
+- Psi imaju bubrege, zar ne?
+
+450
+00:50:56,748 --> 00:50:58,098
+Svinje imaju bubrege.
+
+451
+00:51:06,768 --> 00:51:10,316
+Odstranjeno mu je slepo crevo.
+Èovek je.
+
+452
+00:51:11,249 --> 00:51:12,268
+Šta do ðavola?!
+
+453
+00:51:53,951 --> 00:51:55,705
+Goat je znao da se transformira.
+
+454
+00:52:02,942 --> 00:52:04,763
+Ova stvar nije ubila Wallitsa.
+
+455
+00:52:06,946 --> 00:52:10,776
+- To je Wallits.
+- Šta?
+
+456
+00:52:17,024 --> 00:52:23,809
+Sranje! Ja sam tu da štitim svoju zemlju a ne
+da štitim korporacijski nauèni eksperiment.
+
+457
+00:52:26,655 --> 00:52:28,070
+Moram se iskenjati.
+
+458
+00:52:28,219 --> 00:52:29,903
+- Šta? Sad?
+
+459
+00:52:30,763 --> 00:52:33,103
+- Osim ako ne želiš da se
+ovde userem u gaæe.
+
+460
+00:52:39,896 --> 00:52:41,338
+Molim vas dajte DNK - verifikaciju.
+
+461
+00:52:44,795 --> 00:52:47,604
+Dobrodošla Patricia Tallman.
+Ulaz dozvoljen.
+
+462
+00:53:00,008 --> 00:53:02,547
+Velika puška.
+
+463
+00:53:27,763 --> 00:53:29,117
+Oh, sranje.
+
+464
+00:54:25,609 --> 00:54:28,088
+Portman, vidim pod i zidove
+u tvojoj kameri na pušci.
+
+465
+00:54:29,090 --> 00:54:31,216
+Na WC-u sam, ti seronjo.
+
+466
+00:54:33,552 --> 00:54:35,861
+Jebi se Portman, ti sero..!
+
+467
+00:55:03,270 --> 00:55:05,748
+Izgubio sam Portmana na vezi.
+A od Razaraèa vidim samo zid.
+
+468
+00:55:06,128 --> 00:55:07,778
+Portman, javi se.
+
+469
+00:55:09,278 --> 00:55:11,029
+Razaraè, javi se.
+
+470
+00:55:34,173 --> 00:55:37,573
+Ovde kaplar Dean Portman,
+sa RRTS 6 specijalnim operacijama...
+
+471
+00:55:37,589 --> 00:55:41,754
+...na Olduvaiu je 0310 sati.
+Imali smo neprijateljsku aktivnost.
+
+472
+00:57:08,044 --> 00:57:11,948
+Ponavljam, zahtevamo trenutna
+RRTS pojaèanja.
+
+473
+00:58:04,626 --> 00:58:05,705
+Sranje!
+
+474
+00:58:25,048 --> 00:58:26,803
+- Pinky, imaš Portmana?
+- Ne.
+
+475
+00:58:44,860 --> 00:58:46,435
+Ti boga!
+
+476
+00:59:01,529 --> 00:59:02,778
+Otišao je.
+
+477
+00:59:07,965 --> 00:59:09,190
+Razaraè?
+- I Portman.
+
+478
+00:59:10,542 --> 00:59:12,012
+Jebem ti.
+Imam ga, imam ga.
+
+479
+00:59:28,393 --> 00:59:30,023
+Šta je do ðavola ovo?
+
+480
+00:59:30,043 --> 00:59:31,685
+I èija je krv na ovom prozoru?
+
+481
+00:59:32,126 --> 00:59:33,205
+Goatsova.
+
+482
+00:59:34,752 --> 00:59:36,008
+Ubio se.
+
+483
+00:59:36,039 --> 00:59:38,226
+Kako misliš ubio se?
+Veæ je bio mrtav.
+
+484
+00:59:39,694 --> 00:59:42,313
+To je istina.
+Bio je mrtav pri dolasku.
+
+485
+00:59:42,594 --> 00:59:45,409
+Pretvorio se u jedno od ovih
+seronja i ubio se.
+
+486
+00:59:45,696 --> 00:59:50,082
+Našli smo još dvojicu nauènika kod iskopina.
+Thurman i èelavog tipa s naoèarima.
+
+487
+00:59:50,263 --> 00:59:51,619
+Dr. Clay.
+
+488
+00:59:53,981 --> 00:59:57,075
+Jesi li im proverio vratove? Jesu li
+imali otvorene rane na vratovima?
+
+489
+00:59:57,215 --> 00:59:59,532
+Ja se ovde borim oružjem, ne
+izvodim autopsiju.
+
+490
+01:00:00,173 --> 01:00:04,435
+Došli smo da naðemo 6 nauènika od
+kojih je 4 mrtvo,
+
+491
+01:00:04,440 --> 01:00:06,673
+a Dr. Willits je verovatno KAI
+dolje negde u onoj kanalizaciji.
+
+492
+01:00:07,683 --> 01:00:09,184
+Jedini koji nedostaje je Dr.Carmack.
+
+493
+01:00:09,225 --> 01:00:14,071
+Da li se Dr. Carmack pojavio još?
+-Nadam se da nije.
+
+494
+01:00:14,782 --> 01:00:15,972
+Pogledaj mu levo uho.
+
+495
+01:00:24,669 --> 01:00:27,741
+Kuèkin sin. Mislim da je ovaj
+drugi Steve Willits.
+
+496
+01:00:28,182 --> 01:00:30,544
+Izvršit æu test DNK i usporediti
+sa njegovim kartonima.
+
+497
+01:00:30,614 --> 01:00:33,608
+Na èemu vi to ljudi radite ovde?
+Analiziramo kosti,
+
+498
+01:00:34,309 --> 01:00:36,697
+...artifikate.
+Ne radimo takve stvari.
+
+499
+01:00:36,776 --> 01:00:38,247
+Onda koji je vrag ono?
+
+500
+01:00:38,369 --> 01:00:43,873
+Mora da je genetska mutacija.
+Nešto iz okoline ili virusno. Ne znam.
+
+501
+01:00:44,677 --> 01:00:46,170
+Može biti povratno.
+
+502
+01:00:46,438 --> 01:00:48,692
+Veruj mi, nepovratno je.
+-Ne nužno.
+
+503
+01:00:49,020 --> 01:00:53,142
+Stanje Dr. Carmacka
+je nepovratno.
+
+504
+01:00:58,502 --> 01:01:02,535
+Zato šta je Carmackovo stanje
+takvo da je mrtav.
+
+505
+01:01:04,227 --> 01:01:10,345
+Kid. Ti i Duke idite do iskopina i sredite da
+oni ostali nauènici ostanu stvarno mrtvi.
+
+506
+01:01:17,163 --> 01:01:24,849
+Izgubio sam 4 vojnika. Sa èime vi
+ljudi eksperimentirate ovde?
+
+507
+01:01:28,043 --> 01:01:29,432
+Neæu te ponovo pitati.
+
+508
+01:01:30,964 --> 01:01:33,979
+Rekla sam ti, ovo je arheološki
+centar za istraživanje.
+
+509
+01:01:35,787 --> 01:01:37,475
+Misliš da te lažem.
+To želiš reæi?
+
+510
+01:01:45,750 --> 01:01:47,416
+Govorim ti istinu.
+
+511
+01:01:52,475 --> 01:01:55,879
+Šta si downloadirala?
+Šta si poslala da zaštitiš?
+
+512
+01:01:57,939 --> 01:01:59,454
+Podatke od istraživanja.
+
+513
+01:02:00,988 --> 01:02:02,937
+Istraživanja o èemu?
+
+514
+01:02:08,571 --> 01:02:12,202
+Subjektu je injektiran
+promatrani sastojak na 003.
+
+515
+01:02:14,126 --> 01:02:15,629
+Vitalni znakovi normalni...
+
+516
+01:02:15,652 --> 01:02:18,823
+...povišeni otkucaji srca, shodno prema
+subjektovom nervoznom ponašanju.
+
+517
+01:02:19,525 --> 01:02:24,234
+C24 uspešno cepljen sa subjektovim
+makro stanicama na 009.
+
+518
+01:02:24,709 --> 01:02:27,518
+Rekonstruirali ste kromosomsku
+mutaciju na ljudskom biæu.
+
+519
+01:02:28,583 --> 01:02:30,440
+Nikada nismo trebali raditi
+ispitivanja na ljudima.
+
+520
+01:02:31,481 --> 01:02:32,406
+U šta to mi gledamo?
+
+521
+01:02:35,757 --> 01:02:37,710
+Postanak. Poglavlje jedan.
+
+522
+01:02:38,410 --> 01:02:42,411
+Subjekt prebaèen u zaštiæeno
+podruèje promatranja u 017.
+
+523
+01:02:48,605 --> 01:02:55,021
+Subjekt Curtis Stale.
+Zloèin: serijski ubica.
+
+524
+01:02:55,976 --> 01:02:58,701
+Status: zatvoren do smaknuæa.
+
+525
+01:03:09,280 --> 01:03:13,969
+Kromosom 24.
+O Bože!
+
+526
+01:03:14,057 --> 01:03:17,151
+49 minuta nakon ubrizgavanja,
+genetske mutacije
+
+527
+01:03:17,160 --> 01:03:21,151
+su se vizualizirale na subjektovim
+ekstremitetima.
+
+528
+01:03:31,289 --> 01:03:33,215
+Ti si tu da štitiš ovo.
+
+529
+01:03:33,555 --> 01:03:34,745
+Nema nikakvog smisla.
+
+530
+01:03:34,790 --> 01:03:37,256
+Ti si im verovala,
+a oni su te lagali.
+
+531
+01:03:38,396 --> 01:03:39,785
+Iskoristili su te, Sam.
+
+532
+01:03:39,852 --> 01:03:42,312
+Ako su usavršili xenopostanak...
+
+533
+01:03:42,313 --> 01:03:44,022
+Isuse bože, zar ne shvataš?
+
+534
+01:03:44,527 --> 01:03:47,813
+Ovo mesto, to je pakao.
+Oduvek je i bilo.
+
+535
+01:03:50,457 --> 01:03:51,844
+Nismo to trebali
+nikad videti.
+
+536
+01:03:53,517 --> 01:03:56,160
+Šta to radiš?
+- Moramo uništiti ove diskove.
+
+537
+01:03:56,901 --> 01:03:58,231
+To je vlasništvo UAC-a.
+
+538
+01:03:58,741 --> 01:04:00,783
+Jebeš UAC, jer ako ga vratimo...
+
+539
+01:04:01,498 --> 01:04:03,270
+vratiæemo podatke nazad!
+
+540
+01:04:05,445 --> 01:04:07,825
+Sarge, zar ne vidiš šta se dogaða?
+Ja ništa nisam video.
+
+541
+01:04:09,067 --> 01:04:12,876
+Plaæen sam da ništa ne vidim.
+Imam svoja nareðenja, a imaš i ti.
+
+542
+01:04:14,996 --> 01:04:16,615
+Je li ovo sve?
+
+543
+01:04:18,174 --> 01:04:20,810
+Pitao sam, da li je ovo sve?
+
+544
+01:04:21,123 --> 01:04:23,992
+Imam još 3 za download.
+- Napravi onda.
+
+545
+01:04:37,328 --> 01:04:41,691
+Sarge, imamo problem.
+Jedan mrtav nauènik nedostaje.
+
+546
+01:04:45,707 --> 01:04:48,965
+Samu æeš ju ostaviti ovde?
+Imamo posao za dovršiti.
+
+547
+01:04:52,511 --> 01:04:54,787
+Gledaj. Ovo je Portmanov comm.
+
+548
+01:04:54,934 --> 01:04:57,510
+Pozovi me ako ti treba pomoæ.
+
+549
+01:04:59,638 --> 01:05:04,514
+Hoæeš li biti dobro?
+- Hoæu.
+
+550
+01:05:04,847 --> 01:05:06,313
+Vidimo se uskoro.
+
+551
+01:05:11,132 --> 01:05:12,557
+Pinky jesi li tamo?
+
+552
+01:05:12,899 --> 01:05:16,034
+Sarge.
+Nešto seèe kroz vrata arke.
+
+553
+01:05:16,331 --> 01:05:19,784
+Vidiš li ga?
+O, još kako.
+
+554
+01:05:20,412 --> 01:05:21,849
+Ne daj mu da stigne do arke.
+
+555
+01:05:23,695 --> 01:05:25,008
+Pinky, iskoristi granatu!
+
+556
+01:05:25,296 --> 01:05:26,518
+Iskoristi prokletu granatu!
+
+557
+01:05:45,357 --> 01:05:51,394
+Pinkija nema. Seronja je zbrisao.
+- Probio se! - koji je to ðavo?
+
+558
+01:05:51,404 --> 01:05:56,586
+...Sistem se resetira... Vreme
+za ponovljenu operaciju... 5 minuta.
+
+559
+01:05:56,628 --> 01:05:58,898
+Karantena je probijena.
+Ova misija nije više pod kontrolom.
+
+560
+01:06:00,061 --> 01:06:03,405
+Uzmite svo oružje i municiju koju
+možete, idemo napred.
+
+561
+01:06:03,433 --> 01:06:09,690
+Sam javi se! Èuješ li me? Javi se.
+Ne javlja se.
+
+562
+01:06:10,629 --> 01:06:14,471
+Vreme potrebno za ponavljane operacije:
+4 minuta i 45 sekundi.
+
+563
+01:06:14,782 --> 01:06:15,846
+Imaš 3.
+
+564
+01:06:22,342 --> 01:06:24,012
+Sam!
+Javi se Sam!
+
+565
+01:06:36,123 --> 01:06:38,817
+Sam, zašto se ne javljaš na Comm?
+Moramo iæi! Odmah!
+
+566
+01:06:38,855 --> 01:06:41,019
+Zašto je uzeo Goata a ne Razaraèa.
+
+567
+01:06:41,156 --> 01:06:43,248
+- Zašto Carmacka a ne Dr. Thurmana?
+- Šta?
+
+568
+01:06:43,323 --> 01:06:46,153
+Lucy je imala 24 kromosoma ali
+nije bila èudovište.
+
+569
+01:06:46,171 --> 01:06:48,955
+Preminula je štiteæi svoje dete,
+a ne ubijajuæi ga.
+
+570
+01:06:48,985 --> 01:06:52,432
+Zašto je isti kromosom koji ju je napravio
+superèovekom pretvorio Stalla u èudovište?
+
+571
+01:06:53,892 --> 01:06:57,436
+Idemo! -Daj mi minut. - Nemamo minut.
+Onda mi daj 10 sekundi..
+
+572
+01:07:00,628 --> 01:07:02,343
+Ovo je jezik onog stvorenja.
+
+573
+01:07:03,021 --> 01:07:05,276
+Ovo je moždana tekuæina
+od Portmana.
+
+574
+01:07:19,463 --> 01:07:25,584
+Bira Johne. Bira koga æe zaraziti.
+Bira? Kako bira?
+
+575
+01:07:25,861 --> 01:07:29,159
+Postoje markeri u organizmu za
+psihotièno i nasilno ponašanje.
+
+576
+01:07:30,192 --> 01:07:33,074
+Može biti da oseæa specifiène
+nervne transmitere.
+
+577
+01:07:33,374 --> 01:07:36,761
+Živèani èvor, povezuje se na brojeve
+u DNK kodnom linku.
+
+578
+01:07:36,830 --> 01:07:41,809
+I vezuje se na šta? Zlo?
+10 posto ljudskih gena su još nemapirani.
+
+579
+01:07:42,041 --> 01:07:44,569
+Neki kažu da je to genetski
+nacrt duše.
+
+580
+01:07:44,969 --> 01:07:48,174
+Možda je C24 ono što je
+uništilo populaciju.
+
+581
+01:07:49,015 --> 01:07:52,980
+To bi objasnilo zašto je neko napravio
+arku. Da bi pobegao ka novom poèetku.
+
+582
+01:07:53,752 --> 01:07:55,402
+Neke je napravilo super ljudima...
+
+583
+01:07:56,943 --> 01:07:57,992
+a druge èudovištima.
+
+584
+01:07:59,806 --> 01:08:00,676
+Oh, moj Bože.
+
+585
+01:08:00,927 --> 01:08:03,523
+Moramo otiæi odavde odmah.
+Hajde! Idemo!
+
+586
+01:08:05,264 --> 01:08:08,190
+Ljudi koji su u karanteni na drugoj
+strani arke neæe svi biti zaraženi.
+
+587
+01:08:08,303 --> 01:08:09,476
+Šta se dogaða?
+
+588
+01:08:10,756 --> 01:08:13,611
+Sarge æe ih pobiti sve!
+Idemo!
+
+589
+01:08:16,093 --> 01:08:19,126
+Karantena je gotova, ništa ne sme
+doæi do lifta natrag na Zemlju.
+
+590
+01:08:19,448 --> 01:08:20,921
+Ne smemo im dopustiti
+da doðu na površinu.
+
+591
+01:08:21,642 --> 01:08:23,591
+Ako diše, ubijte ga.
+
+592
+01:08:35,856 --> 01:08:37,373
+Putovanje arkom završeno.
+
+593
+01:08:39,564 --> 01:08:42,513
+Ovde kaplar dean Portman,
+sa RRTS 6 specijalnim operacijama...
+
+594
+01:08:42,641 --> 01:08:46,462
+...na Olduvaiu su sad 0310 sati.
+zapazili smo neprijateljsku aktivnost.
+
+595
+01:08:47,881 --> 01:08:50,564
+Zahtevam trenutno RRTS pojaèanje.
+
+596
+01:08:51,472 --> 01:08:52,733
+Sranje!
+
+597
+01:08:52,999 --> 01:08:55,082
+Imamo 58 minuta pre nego što
+se sistem sam ugasi.
+
+598
+01:08:56,412 --> 01:09:00,134
+Resetiraj na novih 6 sati.
+Ne mogu. Onesposobljeno je.
+
+599
+01:09:00,393 --> 01:09:02,006
+Izgleda kao da je Carmack to otipkao.
+
+600
+01:09:02,167 --> 01:09:05,559
+- Sada i onesposobljavaju kompjutere?
+- Pa, oni su raketni nauènici, seæaš se?
+
+601
+01:09:44,854 --> 01:09:46,530
+Putovanje arkom završeno.
+
+602
+01:09:47,216 --> 01:09:51,669
+Oh, moj bože.
+Sarge, koja je tvoja pozicija?
+
+603
+01:09:52,210 --> 01:09:56,420
+Ne ubijaj sve! Ponavljam. Ne ubijaj
+sve! Nisu svi zaraženi.
+
+604
+01:09:56,871 --> 01:09:58,796
+Pomozite mi. Pomozite mi!
+Molim vas.
+
+605
+01:09:59,503 --> 01:10:00,571
+Èuješ li me?
+
+606
+01:10:00,614 --> 01:10:01,590
+Primljeno.
+
+607
+01:10:08,442 --> 01:10:11,591
+Poèisti ostatak ovog sektora i
+vidimo se u prostoriji arke.
+
+608
+01:10:33,173 --> 01:10:34,660
+- Isuse bože, na šta pucaš?
+- Ruke u zrak.
+
+609
+01:10:36,705 --> 01:10:39,697
+Ne stoj samo, kuèkin sine.
+Pomozi mi.
+
+610
+01:10:45,840 --> 01:10:47,286
+U redu je.
+
+611
+01:10:57,091 --> 01:11:00,321
+Molim vas, pomozite.
+
+612
+01:11:03,647 --> 01:11:10,559
+Ne moraš ih sve ubiti jer nisu svi
+zaraženi. Nisu svi ni sposobni da budu.
+
+613
+01:11:11,832 --> 01:11:15,182
+Imamo nareðenja da neutraliziramo
+pretnju po bilo koju cenu.
+
+614
+01:11:15,564 --> 01:11:19,438
+Idemo evakuirati nezaražene i
+raznesti ovo mesto do ðavola.
+
+615
+01:11:19,887 --> 01:11:23,649
+Imamo naredbu da zaštitimo postrojenje.
+Nemam naredbu da ubijam nedužne ljude.
+
+616
+01:11:27,047 --> 01:11:29,440
+Moramo zaustaviti bilo šta da ne
+stigne na površinu.
+
+617
+01:11:30,124 --> 01:11:34,013
+Po... svaku... cenu.
+
+618
+01:11:35,050 --> 01:11:37,885
+Našao sam ovog seronju kako se
+skriva iza hrpe mrtvih tela.
+
+619
+01:11:38,125 --> 01:11:41,790
+Kako mi je drago da vas vidim momci.
+Taj stvor je prošao kroz vrata.
+
+620
+01:11:41,937 --> 01:11:44,327
+Pokušao sam koristiti granatu
+ali je bio previše brz.
+
+621
+01:11:45,127 --> 01:11:47,457
+Pratio me je kroz arku
+i poèeo ubijati sve.
+
+622
+01:11:50,592 --> 01:11:54,273
+Nema ranu na vratu. Èist je.
+
+623
+01:11:56,006 --> 01:11:59,116
+- Ja æu reæi ko je èist!
+
+624
+01:12:00,859 --> 01:12:01,941
+A ko ne!
+
+625
+01:12:02,881 --> 01:12:04,147
+Nije moja krivica!
+
+626
+01:12:06,212 --> 01:12:08,915
+Ja nisam vojnik. Niste me trebali
+ostavljati tamo.
+
+627
+01:12:08,924 --> 01:12:09,930
+Sarge!
+
+628
+01:12:12,002 --> 01:12:18,097
+Postoji skladište na jugu sa 20 ljudi
+u njemu. Moramo nešto uèiniti.
+
+629
+01:12:19,436 --> 01:12:20,942
+Naredba ti je bila da oèistiš
+taj sektor.
+
+630
+01:12:23,133 --> 01:12:24,373
+Da li je èist?
+
+631
+01:12:25,014 --> 01:12:26,655
+Ne, rekao sam im da sede i èekaju.
+
+632
+01:12:27,562 --> 01:12:29,356
+Dobro su. Samo su uplašeni.
+
+633
+01:12:29,869 --> 01:12:31,015
+Sve æemo ih pobiti!
+
+634
+01:12:35,353 --> 01:12:39,775
+Gospod neka ih rasporedi.
+To je pogrešno. Mislim...
+
+635
+01:12:40,077 --> 01:12:42,284
+Sinko, ti ne misliš.
+
+636
+01:12:44,748 --> 01:12:49,141
+To je nareðenje.
+Mi smo na terenu vojnièe.
+
+637
+01:12:49,626 --> 01:12:52,206
+- Sarge, ako ništa nije naðeno..
+Ti æeš...
+
+638
+01:12:53,350 --> 01:12:55,436
+poslušati direktno nareðenje
+
+639
+01:12:57,049 --> 01:12:58,912
+tvog pretpostavljenog.
+
+640
+01:13:06,389 --> 01:13:11,226
+Ne!
+Odmah!
+
+641
+01:13:13,363 --> 01:13:17,006
+Idi do ðavola!
+
+642
+01:13:28,742 --> 01:13:34,101
+Neposlušnost se kažnjava smræu!
+
+643
+01:13:39,292 --> 01:13:41,807
+To mu je bila prva misija!
+A neæe biti moja zadnja!
+
+644
+01:13:42,449 --> 01:13:47,393
+Trebaju mi vojnici! Ne treba mi
+niko drugi do vojnici!
+
+645
+01:14:19,844 --> 01:14:22,662
+Baci to oružje!
+Ozbiljan sam!
+
+646
+01:14:23,277 --> 01:14:26,135
+Ne želim biti ubijen od strane
+ludaka! Baci ga!
+
+647
+01:14:32,165 --> 01:14:33,384
+Nešto je iza mene,
+zar ne?
+
+648
+01:14:47,199 --> 01:14:48,248
+Sa mnom!
+
+649
+01:14:51,990 --> 01:14:53,028
+Povedi Sam!
+
+650
+01:15:09,834 --> 01:15:10,844
+Èekaj ovde!
+
+651
+01:15:23,729 --> 01:15:24,832
+Slušaj!
+
+652
+01:15:32,760 --> 01:15:33,771
+Povlaèenje!
+
+653
+01:15:33,959 --> 01:15:35,405
+Povlaèenje, iza tog nano zida!
+
+654
+01:15:36,294 --> 01:15:37,278
+Brzo!
+
+655
+01:16:03,699 --> 01:16:05,661
+Zid se ne zatvara!
+
+656
+01:16:30,011 --> 01:16:32,541
+Ne bih trebao umreti.
+
+657
+01:16:47,433 --> 01:16:52,131
+Koliko im treba da proðu?
+- Ne dugo.
+
+658
+01:16:53,656 --> 01:16:56,559
+Pogoðen si!
+Oh, John.
+
+659
+01:17:11,665 --> 01:17:13,167
+Slušaj me Sam.
+
+660
+01:17:14,210 --> 01:17:17,642
+Hladan si i treseš se.
+
+661
+01:17:19,459 --> 01:17:23,053
+Važno je. Ovo je gadna granata.
+
+662
+01:17:24,479 --> 01:17:30,071
+Kad proðu... moraš
+aktivirati tipku.
+
+663
+01:17:33,745 --> 01:17:38,162
+Johne ostani sa mnom. Ostani budan.
+Ostani sa mnom. Molim te.
+
+664
+01:17:44,604 --> 01:17:47,888
+Šta je to?
+C24.
+
+665
+01:17:48,789 --> 01:17:51,879
+Iz Carmackovog laboratorija.
+Ne! Može te spasiti. Nema šanse.
+
+666
+01:17:52,352 --> 01:17:54,672
+- Zaboravi.
+- Iskrvariæeš.
+
+667
+01:17:56,469 --> 01:17:58,225
+Oh, Sam.
+
+668
+01:18:00,842 --> 01:18:02,619
+Napravio sam neke loše stvari.
+
+669
+01:18:07,215 --> 01:18:08,033
+Ja te poznam.
+
+670
+01:18:09,911 --> 01:18:10,979
+Ne poznaš me.
+
+671
+01:18:12,766 --> 01:18:14,431
+Ne poznaš me.
+
+672
+01:18:14,965 --> 01:18:16,158
+Ti si moj brat.
+
+673
+01:18:17,166 --> 01:18:18,202
+Poznam te.
+
+674
+01:18:22,127 --> 01:18:23,195
+Èekaj.
+
+675
+01:18:24,830 --> 01:18:25,680
+Èekaj.
+
+676
+01:18:27,184 --> 01:18:30,537
+Ako se pretvorim u jedno od
+onih biæa,...
+
+677
+01:18:32,617 --> 01:18:36,309
+jednom u glavu i jednom u srce.
+Ne oklevaj.
+
+678
+01:18:36,550 --> 01:18:37,657
+Neæe biti potrebno.
+
+679
+01:18:56,354 --> 01:18:59,625
+Poznam te.
+Ti si moj brat.
+
+680
+01:19:07,076 --> 01:19:08,374
+Sam?
+
+681
+01:23:45,422 --> 01:23:48,585
+- Sam.
+- Živ si.
+
+682
+01:23:49,609 --> 01:23:50,622
+Nemoj govoriti.
+
+683
+01:23:50,623 --> 01:23:53,819
+Posljednji koji ostane, Reaper.
+
+684
+01:23:58,532 --> 01:24:00,152
+Mislim da joj treba
+medicinska pomoæ.
+
+685
+01:24:06,135 --> 01:24:09,036
+Možeš li stiæi do lifta.
+Ne znam da li æu moæi.
+
+686
+01:24:11,218 --> 01:24:12,478
+Probaj.
+
+687
+01:24:17,915 --> 01:24:19,721
+Gde su preživeli koje je
+Kid našao?
+
+688
+01:24:20,906 --> 01:24:22,160
+Rešio sam taj problem.
+
+689
+01:24:24,374 --> 01:24:25,577
+Karantena je uskoro gotova.
+
+690
+01:24:26,818 --> 01:24:28,152
+Struja æe se uskoro vratiti.
+
+691
+01:24:32,728 --> 01:24:37,698
+Ubio si Kida.
+Svi smo mi ubojice, Reaper.
+
+692
+01:24:39,570 --> 01:24:41,078
+Za to nas plaæaju.
+
+693
+01:24:41,693 --> 01:24:43,231
+Karantena kompletirana.
+
+694
+01:24:43,542 --> 01:24:45,194
+Liftovi su ponovno u funkciji.
+
+695
+01:24:56,902 --> 01:24:57,906
+Završeno je.
+
+696
+01:24:59,804 --> 01:25:02,710
+Šta kažeš da izaðemo napolje na
+malo svežeg zraka.
+
+697
+01:25:11,111 --> 01:25:14,540
+Pucaæeš u mene?
+Razmišljao sam o tome.
+
+698
+01:25:15,401 --> 01:25:18,370
+Koliko ti je ostalo?
+Pola šaržera. Tebi?
+
+699
+01:25:28,955 --> 01:25:31,282
+Imam... jedan metak.
+
+700
+01:28:01,071 --> 01:28:03,399
+Semper fi, seronjo!
+
+701
+01:28:05,896 --> 01:28:08,159
+Vjeran do srži, John.
+
+702
+01:31:25,914 --> 01:31:31,138
+Kao što Kid reèe...
+Idi do ðavola!
+
+703
+01:32:03,610 --> 01:32:05,500
+Još malo pa smo doma.
+
+704
+01:32:06,305 --> 01:33:06,851
+-== [ www.OpenSubtitles.org ] ==-

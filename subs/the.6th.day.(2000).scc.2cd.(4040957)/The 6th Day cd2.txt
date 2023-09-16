@@ -1,0 +1,411 @@
+{40}{103}Da li ste vi ili netko drugi u opasnosti?
+{108}{131}Da!
+{136}{194}Da li su osumnjiËeni ili ûrtve,,,
+{229}{309}Zaboravi policiju.|VeÊ sam probao.
+{314}{376}Tko si dovraga ti?
+{381}{445}Znam da zvuËi suludo, ali...
+{465}{499}...ja sam Adam Gibson.
+{522}{614}Nemamo vremana za öok.| Imaju Natalie i Claru.
+{619}{691}-Trebam pomoÊ za moju obitelj.|-One su moja obitelj.
+{794}{833}To je za spavanje sa mojom ûenom...
+{874}{909}...u prokletom mini-kombiju.
+{952}{1021}Prijavu ste sami otkazali.
+{1030}{1086}Hvala na posjetu|Tehnologiji zamjene.
+{1137}{1170}To je on.
+{1186}{1245}Vjerujem da imaö neöto moje.
+{1250}{1325}Ne, imam sve tvoje.
+{1330}{1394}Imam sinkord koji dokazuje da si klon.
+{1398}{1436}Imam sve tvoje:
+{1441}{1500}Tvoju obitelj na svom dlanu.
+{1505}{1557}-HoÊemo se mijenjati?|-»itaö mi misli.
+{1570}{1599}Samo najvaûnije.
+{1604}{1676}Dobro, donijet Êu disk,,,
+{1681}{1757},,, u ured Double X Charter|veËeras u 22h.
+{1762}{1805}Budi tamo sa mojom obitelji.
+{1830}{1980}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{2021}{2069}Morao si me tako jako udariti?
+{2074}{2135}Nisi smio razgovarati sa policijom.
+{2140}{2181}Ta ti je dobra.
+{2197}{2238}To je dovoljno.
+{2288}{2318}äto to radiö?
+{2322}{2394}Testiram.| Nemaö dovoljno aluminija.
+{2406}{2498}äaliö se?| Toliko sam koristio u ratu "Rain Forest".
+{2532}{2573}Nemoj govoriti.
+{2578}{2637}Napravio si nered ureujuÊi garaûu....
+{2646}{2707}-Vidio si me u garaûi?|-Vidio?
+{2712}{2750}Umalo sam te ubio.
+{2866}{2898}Isprobajmo.
+{3344}{3385}-Cool.|-Cool.
+{3475}{3530}Bolje da si öto dalje kad poËne.
+{3538}{3619}Brine me, kako Êu uÊi da bi naöao Natalie i Claru.
+{3634}{3691}Riskirat Êu pri izlazu.
+{3760}{3784}Griffin.
+{3789}{3814}Ovdje.
+{3834}{3902}-äto to radiö?|-Tvoje. Tvoje.
+{3921}{3965}Griffin, u Ëemu je problem?
+{3983}{4022}Moja ûena, Katherine, je mrtva.
+{4027}{4077}Oh, Isuse Kriste.
+{4114}{4163}Griffin, neznam--
+{4168}{4198}éao mi je.
+{4202}{4270}Ne govori mi da ti je ûao.|Nemoj!
+{4275}{4334}Ne govori mi da ti je ûao!
+{4352}{4425}Znam za priroene greöke|koje si stavljao...
+{4430}{4463}...u klonirani DNA.
+{4468}{4542}U moju ûenu, Johnny Phoenixa|i ostale.
+{4556}{4612}Ali, Michael, zaöto moja ûena? Zaöto?
+{4617}{4655}U pravu si, Griffin.
+{4718}{4808}To je osigurani protokol.|Znao sam da neÊeö razumijeti.
+{4813}{4857}äto bi morao razumijeti?
+{4862}{4913}Jedino öto razumijem je...
+{4929}{4976}...da si joj dao cistiËnu fibrozu!
+{4981}{5007}Smiri se.
+{5022}{5089}Netko je pogrijeöio.|Nije joj trebalo ötetiti.
+{5094}{5137}Nije joj ötetilo. Ubilo ju je.
+{5142}{5225}Recimo da kloniramo senatora|koji nas podrûava, a poslije ne.
+{5230}{5334}Ili Johnny Phoenix ûeli viöe novca.|U prednosti smo ako imamo osiguranje.
+{5338}{5370}U Ëemu je smisao?
+{5375}{5452}Ako nas prevare|umrijet Êe.
+{5457}{5523}Ako su sa nama,|ponovno ih kloniramo.
+{5528}{5614}äto Êemo uËiniti i sa Katherine.|Siguran sam da je klonirana.
+{5619}{5643}Ne, nije.
+{5666}{5705}-Ne.|-Ona je--
+{5730}{5778}Griffin, bila je greöka.
+{5794}{5876}Ako te brine njen DNA,|provjeri ga sam.
+{5881}{5937}OËito Êe biti kloniranje besplatno.
+{5942}{6010}Besplatno. Baö ti hvala.
+{6016}{6089}Ne razumijeö, da ne ûeli biti klonirana.
+{6094}{6118}UËini to ipak.
+{6142}{6198}Ipak. Razumijem.
+{6222}{6281}Da ti neöto objasnim.
+{6322}{6370}Jako sam volio ûenu.
+{6374}{6443}Tako jako, da sam obeÊao|da ju nikad neÊu vratiti nazad.
+{6450}{6490}I neÊu.
+{6514}{6601}I ako ju ne mogu vratiti,|onda neÊu i nikog drugog, nikad.
+{6638}{6682}Toliko sam ju volio.
+{6750}{6794}Gotovo je, svröeno...
+{6798}{6834}...dajem otkaz.
+{6872}{6926}Ne mogu ti to dozvoliti.
+{6930}{6986}Previöe sam bio na drugoj strani.
+{6991}{7046}Previöe sam priËao...
+{7166}{7229}...Gotov sam. Gotovo je.
+{7326}{7417}-Znaö öto Êu uËiniti za tebe?|-äto Êeö uËiniti?
+{7438}{7470}Dati Êu ti...
+{7491}{7543}...najveÊi dar koji moûeö zamisliti.
+{7555}{7602}-Dar?|-Spasit Êu ti ûivot.
+{7607}{7706}Spasit Êu Katherinein ûivot.|SaËuvat Êu naöe prijateljstvo.
+{7711}{7758}I spasit Êu tvoj brak.
+{7781}{7829}O Ëemu to govoriö?
+{7902}{7947}Ubit Êu te...
+{7952}{8031}...i onda klonirat sa zadnjim sinkordom.
+{8036}{8113}Tako Êu klonirat i Katherine.
+{8118}{8154}Razumijeö?
+{8170}{8221}Vidiö, öto Ëinim za tebe?
+{8235}{8330}Bit Êete zajedno i neÊete znati za to obeÊanje.
+{8335}{8366}Ili da je ona umrla.
+{8386}{8446}NeÊeö se sjeÊati ovog razgovora.
+{8670}{8702}Nema na Ëemu.
+{9258}{9313}Dobro, pokaûi mi obitelj.
+{10034}{10102}Nitkovi. Znao sam.
+{10726}{10769}Tvoj sinkord nije tu.
+{10777}{10822}Koristio je daljinsko upravljanje.
+{10826}{10873}Oboje, nazad.
+{10886}{10926}Hajde.
+{11226}{11301}Ovo je privatno podruËje.|Ne moûeö ovdje sletjeti.
+{11306}{11347}Doöao sam po G. Druckera.
+{11473}{11523}Moj ugovor.
+{11678}{11749}Sve je normalno, G. Drucker,|u pripravnosti smo.
+{11754}{11794}Kad Êete poletjeti?
+{11799}{11837}Poletjeti? Nisam naruËio--
+{11842}{11889}Pilot ide prema prijemu.
+{11948}{11980}Sluöaj me.
+{11985}{12037}Zatvori zgradu,|potpuni sigurnosni alarm.
+{12043}{12109}Pronaite pilota,|naoruûan je i opasan.
+{12125}{12189}Neka Wiley i nekoliko ljudi|dou u moj ured.
+{12197}{12286}Zaustavite liftove. Zatvorite garaûe|na nivoima 2 i 3.
+{12298}{12361}-Zona 6, inûenjerski hodnik.|-Tako. Sector 3.
+{12454}{12525}Prema tebi ide, Dan.|Okreni se!
+{12563}{12587}Ne pokuöavaj.
+{12605}{12641}Pripremi ljude!
+{12706}{12765}Ekipe 3 i 4, opkolite ga!|Idemo!
+{13194}{13269}-Uniötio je dovod energije.|-Uniötio je cijeli sistem.
+{13274}{13354}U klopci je.|Zapadno stubiöte izmeu 13 i 14.
+{13514}{13542}Idemo!
+{13689}{13738}Pokrivajte stubiöna vrata!
+{13842}{13881}Pucajte ispred njega!
+{14050}{14082}Ok!
+{14093}{14134}Dobar si!
+{14138}{14179}Prevario nas na letaliötu!
+{14197}{14262}Pretvorio ovaj prostor u klaonicu!
+{14269}{14303}Najbolji si, tata!
+{14383}{14437}G. Drucker ûeli razgovarati s tobom.
+{14442}{14518}I naravno,|imamo tvoju obitelj!
+{14578}{14601}Dobro.
+{14627}{14665}Uhvatite ga.
+{14730}{14754}Vidi, vidi.
+{14806}{14895}-Adam Gibson.|-Volio bi reÊi, "jedan jedini".
+{14907}{14963}Izgleda da smo obojica povukli rijeË.
+{14972}{15049}-Imamo viöe zajedniËkog--|-Gdje je moja obitelj?
+{15062}{15089}Odmah na posao.
+{15111}{15153}»udnovat pristup.
+{15228}{15287}Tamo su. éive i zdrave.
+{15292}{15321}Za sada.
+{15346}{15406}Nema vaöeg sinkorda...
+{15411}{15449}...niti je u blizini.
+{15767}{15850}Znao sam da Êeö me prevariti,|pa sam ga dao klonu.
+{15854}{15910}Ako se nama neöto dogodi...
+{15914}{15997}...vidjet Êeö ga na suenju za ubojstvo.
+{16039}{16078}Dr. Weir ti nije rekao.
+{16089}{16123}Rekao, öto?
+{16160}{16214}Adam, Adam, Adam.
+{16278}{16313}On nije klon.
+{16402}{16426}Ti si.
+{16505}{16542}Upitaj se neöto.
+{16562}{16637}Da li se sjeÊaö neËeg poslije testa?
+{16642}{16706}Moram provjeriti vaö vid.|Tu stavite bradu.
+{16711}{16767}Zamjena sa prijateljem?
+{16772}{16855}Prijatelju, probudi se. Tu smo.|Woodland centar.
+{16870}{16932}ProdavaËu u RePet-u|je bilo Ëudno...
+{16937}{17003}...öto si dolazio dvaput.
+{17013}{17053}Postavljao ista pitanja...
+{17058}{17086}...dvaput.
+{17100}{17149}Joö se ne moûete odluËiti?
+{17186}{17222}Izgubili ste psa, zar ne?
+{17258}{17304}Da vidim tvoju bradu.
+{17309}{17361}Porezao si se brijajuÊi.
+{17382}{17407}Tvoja ogrebotina?
+{17434}{17482}Lako napravljena.
+{17522}{17581}Kao i oûiljak iz rata.
+{17649}{17689}Znam tko sam.
+{17697}{17729}Znam.
+{17749}{17781}Talia?
+{17786}{17833}Koiko puta si klonirana?
+{17838}{17885}Neznam viöe.
+{17890}{17930}Samo na jedan naËin se moûe utvrditi.
+{17954}{17985}Pokaûi mu.
+{18038}{18102}Jedini naËin za provjeravanje|generacije klona.
+{18117}{18169}Vidiö? »etiri toËke znaËe...
+{18174}{18224}...da je klonirana Ëetiri puta.
+{18229}{18253}Doi.
+{18258}{18305}Pogledajmo tvoje.
+{18325}{18361}Pogledaj u zrcalo.
+{18366}{18437}Da vidimo, tko si.
+{18634}{18680}Ispod lijevog oka.
+{18997}{19067}Uzme ti radost ûivota, zar ne?
+{19108}{19139}Pa, vidiö...
+{19144}{19193}...tvoja obitelj|nije baö tvoja obitelj.
+{19217}{19241}Njegova je.
+{19261}{19345}A ti si u istom brodu sa svima nama.
+{19524}{19599}Ako Adam Gibson preda sinkord|vlastima...
+{19604}{19638}...svi Êemo biti uniöteni.
+{19656}{19719}Ako zaista voliö|ûenu i dijete...
+{19724}{19783}...reÊi Êeö mi|gdje je Adam Gibson.
+{19793}{19868}Dobit Êemo moj sinkord,|rijeöit Êemo se njega.
+{19883}{19934}Reci mi gdje je Adam Gibson.
+{19945}{20063}Dobit Êemo moj sinkord,|rijeöit Êemo se njega.
+{20075}{20129}NeÊe nikad znati da si klon.
+{20206}{20244}To, ili ih gubiö zauvijek.
+{20249}{20342}Adam, to mi ne treba.
+{20347}{20398}Sve mogu dobiti iz tvojih sjeÊanja.
+{20403}{20461}»injenica je,|hoÊu da razumijeö...
+{20466}{20517}...da imaö viöi smisao.
+{20543}{20646}Za tri godine Êu imati| dovoljno glasova za promjenu zakona.
+{20668}{20768}Onda neÊemo morati gubiti najbolje ljude.|Naöe Mozarte...
+{20773}{20809}...ili Martin Luther Kingove.
+{20814}{20885}Bit Êemo sposobni pobijediti smrt.
+{20931}{21003}Bit Êemo sposobni pobijediti smrt.
+{21206}{21253}Tko Êe odluËivati...
+{21258}{21297}...tko ûivi, a tko umire?
+{21315}{21346}Ti?
+{21359}{21392}Imaö bolju ideju?
+{21397}{21422}Da.
+{21427}{21461}Recimo Bog?
+{21466}{21564}Jedan si od tih.| Misliö da je znanost zlo.
+{21569}{21657}Ne mislim da je znanost zlo.
+{21665}{21699}Ali ti jesi.
+{21726}{21784}Ako vjerujeö da je Bog| stvorio Ëovjeka po sebi...
+{21789}{21860}...vjerujeö da mu je podario| razumijevanje evolucije...
+{21865}{21944}...iskoriötavanje znanosti,|manipuliranje sa genetskim kodom.
+{21949}{21994}ToËno öto ja radim.
+{22020}{22086}Nastavljam gdje je Bog stao.
+{22157}{22261}Ako u to stvarno vjerujeö,|onda se moraö klonirati...
+{22269}{22309}...dok si joö ûiv.
+{22314}{22396}Zaöto to?| Da bi razumio tvoj pogled?
+{22401}{22477}Ne. Da se moûeö jebati.
+{22638}{22725}Reci gdje si stavio|sinkord G. Druckera!
+{22806}{22843}NeÊete ga naÊi u mojoj glavi.
+{22869}{22937}Rekao sam mu da ga sakrije|da ja neznam gdje je.
+{22942}{22994}-Vidjet Êemo.|-Da, hoÊemo.
+{22999}{23042}Idemo. Unutra.
+{23053}{23084}Hajde!
+{23089}{23119}Hajde!
+{23145}{23173}Hajde!
+{23178}{23222}Dobro! Neka bude po tvojem!
+{24020}{24058}Nije tako boljelo.
+{24101}{24127}äupak.
+{24362}{24401}Idemo unatrag par minuta.
+{24562}{24599}Tu je Druckerov sinkord.
+{24610}{24642}Tamo je drugi.
+{24646}{24683}Drûi ovo.
+{24697}{24766}Ako se ne vratim za jedan sat,|znaö öto ti je Ëiniti.
+{24788}{24872}Ne brini, ako se neöto dogodi|tebi ili mojoj obitelji,,,
+{24877}{24941}...uniötit Êu|tog kurvinog sina.
+{25119}{25157}Znaö odrediöte?
+{25166}{25248}Letaliöte. Bio sam tamo.|Mrtav je za 20 minuta.
+{25253}{25283}Idemo.
+{25292}{25341}Izdan od svojeg uma.
+{25615}{25658}»ekaj!
+{25680}{25704}äto je?
+{25709}{25752}Odglumili su ovo.
+{25757}{25826}Drugi je sjedio iza njega|pa ga nismo mogli vidjeti.
+{25831}{25894}Nitkov je laûirao vlastiti sinkord.
+{25902}{26017}Jedan se sakrio, ovaj ga nije gledao|pa mu nije ostao u sjeÊanju.
+{26022}{26065}I drugi se nalazi tu?
+{26070}{26101}ToËno.
+{26106}{26183}Oglasite joö jednu uzbunu.|Ova je diverzija!
+{26335}{26392}Uniötavao je kamere,|bio uhvaÊen...
+{26397}{26483}...dok je drugi  spasio obitelj.
+{27459}{27492}Idiote!
+{27625}{27662}Natalie, Clara.
+{27676}{27741}-Oh, moj boûe. äto se dogaa?|-Tata?
+{27950}{27974}Ne brinite.
+{27979}{28007}Dignite ga.
+{28041}{28072}Bojim se, tata.
+{28077}{28113}äto se dogaa?
+{28118}{28219}-Ovo nije zbog cigare?|-Ne. Objasnit Êu ti kasnije.
+{28405}{28478}Ne brini. Nikud ne ide.|Uhvatit Êemo ga.
+{28524}{28558}»ekaj.
+{28567}{28610}Talia, ti idi. Vas dvojica ostanite.
+{28670}{28714}Neka blokiraju sve izlaze.
+{28743}{28767}Henderson...
+{28772}{28831}...zatvori podruËje tankova,|nivoa 6 i 7.
+{28982}{29029}Pokuöavam. Samo malo.
+{29034}{29081}Daj nam energije tu.
+{29109}{29190}Ne miËite se.| Moja kÊer je unutra.
+{29205}{29274}Ne ûelim joj pokazati nasilje.
+{29279}{29341}Dosta ga ima u medijima.
+{29346}{29385}Odloûite oruûje.
+{29396}{29437}Polako. Fino.
+{29452}{29494}Kad uete unutra...
+{29499}{29523}...recite....
+{29536}{29585}Ugodan let, djevojËice.
+{29596}{29639}Oni su tatini prijatelji.
+{29644}{29691}Dobro, idemo.
+{29895}{29986}Imat Êemo ponoÊni let sa tatom i mamom.
+{29990}{30024}Tu smo.
+{30029}{30053}U redu?
+{30110}{30149}Evo, gospodine.
+{30165}{30196}Wiley.
+{30201}{30237}Idi.
+{30305}{30353}Wiley, samo sekundu.
+{30582}{30609}Ne opet.
+{30721}{30754}I nemoj ga vraÊat viöe.
+{30758}{30835}Glupi idiot je| napravio rupu kroz moj trbuh.
+{30845}{30884}Boûe.
+{30889}{30939}Umrijet Êu za 20 minuta.
+{31009}{31059}Nema boljeg mjesta, zar ne?
+{31082}{31138}Henderson? Gdje je energija?
+{31158}{31197}Dolazi, gospodine.
+{31202}{31273}Blokirajte sve izlaze!
+{31365}{31389}Sranje.
+{31539}{31582}Zagrij "praznoga".
+{31587}{31659}Napravi novi sinkord.|Da imam najnovija sjeÊanja.
+{32875}{32921}Evo. Ovo je potpuno novi.
+{32926}{32977}Ovo Êe biti kompletni sinkord.
+{33310}{33345}Je li to Talia?
+{33370}{33402}Pomogni joj.
+{33438}{33471}NaÊi Êemo ih.
+{34918}{34986}-äto imaö?|-Tankovi 3 i 4, niöta.
+{34990}{35050}Ok, idi nazad.
+{36765}{36798}Ne.
+{37067}{37095}Oh, Boûe.
+{38294}{38327}Oh, ne.
+{38815}{38856}Vodi ju k tvojoj mami...
+{38861}{38900}...i ostanite tamo dok ne doem.
+{38905}{38937}Idi sa nama, tata.
+{38942}{39005}Moram pomoÊi prijatelju? Bok.
+{39010}{39041}Volim te.
+{39578}{39622}Wiley, ustrijelio si me!
+{39703}{39743}Dobro. Ti si to bio.
+{39827}{39860}Moram se odjenuti.
+{39934}{39994}NeÊeö priËekati...
+{39999}{40030}...ni da umrem?
+{40043}{40073}Ti bi?
+{40098}{40127}Hajde.
+{40134}{40170}Skini se.
+{40193}{40259}Imaö krvi na jakni.|Isuse Kriste.
+{40682}{40709}äto?
+{40845}{40869}äto je?
+{40901}{40933}äto?
+{41079}{41103}Gledaj...
+{41131}{41173}...moûemo se dogovoriti.
+{41190}{41261}Niöta ti nisam napravio.|Sve je on.
+{41296}{41330}Sluöaj me.
+{41345}{41404}ZaËas mogu sve ovo popraviti.
+{41409}{41450}Mogu te spasiti, Adame.
+{41455}{41481}Spasiti me?
+{41486}{41579}Stavili smo greöke u klonove DNA|da kraÊe ûive.
+{41584}{41674}éeliö znati od Ëega Êeö umrijeti?|Koliko dugo Êeö ûivjeti?
+{41679}{41742}Idemo gore i pogledati.
+{42609}{42652}Svi moramo umrijeti jednog dana.
+{42657}{42693}Ne moramo.
+{42718}{42817}Nudim ti moguÊnost vjeËnog ûivota.
+{42839}{42886}Savröenog u svakom pogledu.
+{42891}{42941}Savröenog? Kao ti?
+{42966}{42991}Gledaj.
+{43008}{43043}To je tvoja "savröenost".
+{43238}{43275}Oh, Boûe.
+{43384}{43455}Ne treba paniËariti.|Mogu popraviti ovo.
+{43460}{43494}NeÊeö niöta popraviti.
+{43499}{43534}Gotovo je.
+{43547}{43574}Gotovo je.
+{44033}{44083}Kad sam rekao|da se jebeö...
+{44088}{44151}...nisam mislio doslovno.
+{44874}{44922}Idi za njim.
+{44954}{44995}Uhvati ga.
+{45043}{45076}Provjeri krov!
+{45081}{45111}Ti! Na vrh!
+{46933}{46966}Idemo!
+{47533}{47588}-Znaö letjeti sa ovim?|-Bolje od tebe.
+{47593}{47653}Dobro. Jer nikako ne gaaö.
+{47863}{47901}Idemo odavde.
+{49426}{49450}Sranje.
+{49692}{49722}Hajde!
+{50239}{50267}Popni se preko mene!
+{50494}{50533}Hajde! Poûuri!
+{50819}{50843}Idemo!
+{51362}{51388}Sranje!
+{52034}{52074}Znaö, zanima me...
+{52091}{52141}...da li sam doista Ëovjek?
+{52146}{52177}Da li imam duöu?
+{52190}{52270}Tvoj DNA sken|je normalan, zar ne?
+{52275}{52329}Da. Bez greöke.
+{52334}{52388}Kao u reklami za RePet.
+{52393}{52463}Ako nisi Ëovjek,|ne bi te spomenuli.
+{52553}{52605}Dosta filozofiranja.
+{52610}{52646}Bolje da krenem.
+{52651}{52703}Imam 3 tjedna na moru|da razmislim.
+{52708}{52760}Poûuri ako hoÊeö vidjeti Claru.
+{52765}{52843}Hvala öto si mi dozvolio| da se oprostim od tvoje obitelji.
+{52848}{52880}PriËekaj.
+{52885}{52947}Ovo je i tvoja obitelj.
+{52958}{53030}Spreman si bio umrijeti za nju.
+{53040}{53091}Razmisli o tome na moru...
+{53096}{53152}...pa Êeö vidjeti da li si Ëovjek ili ne.
+{53157}{53202}Ako to nije bilo ljudski...
+{53206}{53254}...onda neznam öto jest.
+{53300}{53331}Hvala.
+{53491}{53529}Zdravo, svima.
+{53554}{53601}-Gledaj öto sam donio.|-Maca!
+{53674}{53733}Oh, Sadie.
+{53743}{53775}Mislila sam da...
+{53780}{53809}...je bila Hankova--
+{53814}{53838}Pa je.
+{53843}{53893}Ali ti mrziö RePet-e.
+{53898}{53954}Promijenio sam miöljenje.
+{53959}{54004}Njeûna duöa.
+{54028}{54062}Moûemo ju zadrûati?
+{54066}{54101}-Molim te?|-Naravno.
+{54106}{54177}Zato sam ju i donio.|Spusti ju.
+{54182}{54205}Dobro.
+{54210}{54266}Hvala lijepa.
+{54291}{55791}-== [ www.OpenSubtitles.org ] ==-

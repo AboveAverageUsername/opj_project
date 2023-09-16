@@ -1,0 +1,5238 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.org ] ==-
+
+2
+00:00:16,513 --> 00:00:19,641
+"Novo zastraöujuÊe
+upozorenje FBI-a o hakerima
+
+3
+00:00:19,725 --> 00:00:21,518
+koji koriste maliciozni softver
+
+4
+00:00:21,643 --> 00:00:24,438
+u sajber napadu na ameriËke kompanije.
+
+5
+00:00:24,521 --> 00:00:28,775
+To je na neki naËin
+potpuno nov naËin ratovanja.
+
+6
+00:00:29,526 --> 00:00:33,989
+U toku je sajber rat.
+Pokrenule su ga Sjedinjene Drûave.
+
+7
+00:00:34,198 --> 00:00:38,410
+Prvo sajber oruûje preti da
+uniöti mete u stvarnom svetu.
+
+8
+00:00:38,577 --> 00:00:41,288
+Hakeri u zemljama poput
+Kine, Severne Koreje i Irana
+
+9
+00:00:41,371 --> 00:00:45,250
+mogu da napadnu elektriËnu mreûu.
+
+10
+00:00:46,210 --> 00:00:49,254
+Mobilizovani su kineski hakeri
+koje podrûava drûava.
+
+11
+00:00:49,338 --> 00:00:54,301
+Na umu im je samo jedna meta: sve öto
+je povezano s istraûivanjem COVID-a 19.
+
+12
+00:00:55,344 --> 00:01:00,516
+Mnoge pretnje u 21. veku biÊe
+dezinformacije u sajber prostoru.
+
+13
+00:01:00,641 --> 00:01:03,894
+Jutjub, Fejsbuk,
+Tviter, Votsap, Instagram.
+
+14
+00:01:04,019 --> 00:01:07,564
+Mi smo ljudska vrsta.
+I nas mogu da hakuju.
+
+15
+00:01:07,689 --> 00:01:11,568
+Hakeri ruske vlade probili su se
+u mreûu Demokratske stranke.
+
+16
+00:01:11,693 --> 00:01:13,487
+Niko ne zna je li to bila Rusija.
+
+17
+00:01:13,695 --> 00:01:16,949
+Rusija, Kina i druge zemlje sakupljaju
+ukradene informacije od hakera.
+
+18
+00:01:17,115 --> 00:01:20,577
+Danas smo suoËeni sa mnogo
+sofisticiranijim, intenzivnijim,
+
+19
+00:01:20,702 --> 00:01:24,081
+veÊim i brûim pretnjama.
+
+20
+00:01:24,206 --> 00:01:26,458
+äta je sa poverenjem u izbore?
+
+21
+00:01:26,542 --> 00:01:29,920
+NaroËito ako se prisetite ruskog
+meöanja u izbore 2016.
+
+22
+00:01:30,045 --> 00:01:34,007
+Napadaju me na Fejsbuku jer me
+Putin poznaje i ja poznajem njega.
+
+23
+00:01:34,174 --> 00:01:36,260
+Ne ûeli da postanem predsednik.
+
+24
+00:01:36,385 --> 00:01:38,428
+Predsednik Tramp bez
+dokaza tvrdi da Êe, citiram,
+
+25
+00:01:38,512 --> 00:01:41,181
+'nameöteni izbori 2020.
+biti skandal naöeg doba'.
+
+26
+00:01:41,306 --> 00:01:45,018
+Kaûete da moûda neÊete prihvatiti
+rezultate izbora? -Moram da vidim.
+
+27
+00:01:45,644 --> 00:01:51,275
+SAVRäENO ORUéJE
+
+28
+00:01:59,825 --> 00:02:03,120
+2007.
+
+29
+00:02:03,287 --> 00:02:09,042
+Gospoo predsednice PredstavniËkog
+doma, predsednik Sjedinjenih Drûava!
+
+30
+00:02:17,342 --> 00:02:19,761
+Na kraju svoje administracije,
+
+31
+00:02:19,845 --> 00:02:24,266
+predsednik Buö je odluËio da
+zaustavi iranski nuklearni program.
+
+32
+00:02:24,391 --> 00:02:27,227
+Ujedinjene nacije su
+nametnule sankcije Iranu.
+
+33
+00:02:27,352 --> 00:02:30,397
+Time su istakle da svet neÊe
+dozvoliti teheranskom reûimu
+
+34
+00:02:30,481 --> 00:02:33,775
+da nabavi nuklearno oruûje.
+
+35
+00:02:34,234 --> 00:02:36,278
+Ali imao je problem.
+
+36
+00:02:36,653 --> 00:02:40,657
+Moj drugi danaönji cilj je da podelim
+s vama öta Sjedinjene Drûave znaju
+
+37
+00:02:40,782 --> 00:02:43,535
+o iraËkom oruûju za masovno uniötenje.
+
+38
+00:02:43,702 --> 00:02:47,039
+Upravo smo bili zaratili sa
+Irakom pod laûnim izgovorom
+
+39
+00:02:47,122 --> 00:02:52,336
+da Irak ima nuklearno oruûje.
+Zato nije mogao da ubedi svet
+
+40
+00:02:52,419 --> 00:02:58,050
+da ue u sukob sa Iranom zbog
+iranskog nuklearnog programa.
+
+41
+00:02:59,635 --> 00:03:05,432
+Jednog dana je grupa obaveötajnih
+i vojnih oficira rekla predsedniku:
+
+42
+00:03:05,557 --> 00:03:09,228
+"Gospodine, postoji drugi naËin."
+
+43
+00:03:10,145 --> 00:03:16,068
+Rekli su Buöu da je zajedniËki
+sajber tim Izraela i Amerike
+
+44
+00:03:16,151 --> 00:03:20,364
+napisao kod koji moûe da ue u iranski
+sistem za kontrolu nuklearnog oruûja.
+
+45
+00:03:21,323 --> 00:03:25,911
+Do tada su zemlje koristile
+sajber prostor za krau podataka
+
+46
+00:03:26,829 --> 00:03:29,248
+i meusobno öpijuniranje,
+
+47
+00:03:30,332 --> 00:03:34,545
+ali niko ga nije koristio
+kao oruûje za napad.
+
+48
+00:03:37,172 --> 00:03:40,843
+REGIJA ISFAHAN, IRAN
+
+49
+00:03:42,344 --> 00:03:44,680
+NUKLEARNO POSTROJENJE NATANZ
+
+50
+00:03:44,763 --> 00:03:48,392
+Plan je bio da se deo
+malicioznog programa dostavi
+
+51
+00:03:48,475 --> 00:03:53,272
+u kontrolne sisteme postrojenja koje
+sprovodi iranski nuklearni program.
+
+52
+00:03:55,399 --> 00:03:57,901
+Ta mreûa je bila neprobojna.
+
+53
+00:03:57,985 --> 00:04:00,279
+Drugim reËima, nije
+bila spojena sa internetom.
+
+54
+00:04:00,362 --> 00:04:04,158
+Morali ste da imate naËin na koji
+Êe kod uskoËiti u te raËunare.
+
+55
+00:04:04,658 --> 00:04:07,411
+VOJNO POSTROJENJE FORT MID
+
+56
+00:04:07,494 --> 00:04:09,788
+SEDIäTE NACIONALNE
+AGENCIJE ZA BEZBEDNOST
+
+57
+00:04:09,997 --> 00:04:14,793
+Joö nije potpuno jasno kako
+je taj kod dospeo iz NSA
+
+58
+00:04:15,002 --> 00:04:18,672
+i izraelske sajber jedinice
+u elektranu Natanz.
+
+59
+00:04:21,592 --> 00:04:25,763
+Postoji mnogo naËina za to,
+ukljuËujuÊi krijumËarenje USB stika.
+
+60
+00:04:26,889 --> 00:04:33,645
+Ali sada znamo i da je NSA osmislila
+genijalni mali sistem veliËine aktovke
+
+61
+00:04:33,896 --> 00:04:38,400
+koji moûe da radi na udaljenosti od
+10-ak kilometara öaljuÊi raËunarski kod
+
+62
+00:04:38,609 --> 00:04:42,237
+u raËunar sa prijemnim Ëipom.
+
+63
+00:04:43,655 --> 00:04:48,786
+Taj ureaj bi mogao da se koristi
+ne samo za unos koda,
+
+64
+00:04:49,286 --> 00:04:52,748
+nego i za kasniju zamenu i nadogradnju.
+
+65
+00:04:54,208 --> 00:04:58,253
+Nakon öto su upali,
+kod je poËeo da se otkljuËava
+
+66
+00:04:58,504 --> 00:05:01,465
+i zapoËeo je dva glavna zadatka.
+
+67
+00:05:01,673 --> 00:05:08,514
+Prvi zadatak je bio da snima sve öto
+operater vidi i da to stavi u petlju
+
+68
+00:05:08,597 --> 00:05:14,812
+kako bi, svakog dana kada operater
+doe na posao, sve izgledalo normalno.
+
+69
+00:05:16,980 --> 00:05:22,152
+Poput klasiËnog filma o pljaËki kada
+nadzorna kamera öalje stari snimak,
+
+70
+00:05:22,236 --> 00:05:25,197
+a Ëuvar ne zna öta se zapravo dogaa
+
+71
+00:05:25,280 --> 00:05:28,242
+dok istovremeno neko
+provaljuje i krade neöto.
+
+72
+00:05:30,828 --> 00:05:35,833
+Iranci su sve vreme mislili da
+napreduju, da idu prema svom cilju,
+
+73
+00:05:36,083 --> 00:05:39,837
+a sistemi su zapravo bili mrtvi.
+
+74
+00:05:40,170 --> 00:05:45,467
+Zato öto je drugi zadatak
+koda bio da pokvari centrifuge.
+
+75
+00:05:47,052 --> 00:05:52,349
+Taj kod je bio genijalan. Ne samo
+da je imao taj laûni snimak,
+
+76
+00:05:52,808 --> 00:05:55,519
+nego je mirovao i Ëekao.
+
+77
+00:05:55,602 --> 00:05:59,356
+Prolazili bi dani, centrifuge
+bi se okretale kako treba,
+
+78
+00:05:59,565 --> 00:06:02,026
+i iznenada bi naglo ubrzale.
+
+79
+00:06:02,192 --> 00:06:05,571
+Kad biste pogledali,
+usporile bi na normalnu brzinu.
+
+80
+00:06:05,779 --> 00:06:08,157
+Kad to radite tako sofisticiranim
+i podeöenim maöinama,
+
+81
+00:06:08,240 --> 00:06:10,868
+one se raspadnu.
+
+82
+00:06:15,497 --> 00:06:18,876
+Kada je predsednik Obama
+odrûao tradicionalni sastanak
+
+83
+00:06:19,001 --> 00:06:21,628
+sa svojim prethodnikom
+Dûorûdom Buöom,
+
+84
+00:06:21,754 --> 00:06:26,633
+Buö mu je rekao da postoje
+dva neophodna programa.
+
+85
+00:06:27,301 --> 00:06:32,681
+Jedan je bio program s dronovima. Drugi
+program su bile "Olimpijske igre",
+
+86
+00:06:33,140 --> 00:06:36,727
+kodni naziv za program protiv Irana.
+
+87
+00:06:37,311 --> 00:06:42,024
+Iznenada, u svojim prvim mesecima,
+predsednik Obama morao je da odabere
+
+88
+00:06:42,107 --> 00:06:46,111
+koje Êe centrifuge napasti.
+
+89
+00:06:48,864 --> 00:06:52,785
+Neko vreme Iranci nisu
+imali pojma öta se dogaa.
+
+90
+00:06:52,910 --> 00:06:57,581
+Nisu znali imaju li inûenjerske
+greöke, loöe delove...
+
+91
+00:06:57,873 --> 00:07:01,001
+Sumnjali su na sabotaûu,
+ali nisu mogli da je dokaûu
+
+92
+00:07:01,085 --> 00:07:04,463
+dok jednog dana kod
+nije izaöao iz postrojenja.
+
+93
+00:07:04,588 --> 00:07:07,675
+Kod je trebalo da ode u
+samo jedno postrojenje.
+
+94
+00:07:07,800 --> 00:07:10,636
+Svet nije trebalo da zna za njega.
+
+95
+00:07:10,761 --> 00:07:15,432
+Ali pobegao je iz tog postrojenja
+i poËeo da se öiri po svetu.
+
+96
+00:07:15,557 --> 00:07:19,103
+"Ovo su slova i brojke iza
+takozvanog virusa Staksnet.
+
+97
+00:07:19,186 --> 00:07:23,482
+PoËinje sa jednostavnim USB stikom,
+a zatim hirurökom preciznoöÊu prodire
+
+98
+00:07:23,565 --> 00:07:26,694
+kroz najnaprednija raËunarska
+obezbeenja na svetu.
+
+99
+00:07:26,819 --> 00:07:29,863
+Tvorci su toliko dobro sakrili
+tragove, da struËnjaci kaûu
+
+100
+00:07:29,947 --> 00:07:32,908
+da verovatno nikad neÊemo
+saznati ko ga je stvorio."
+
+101
+00:07:33,659 --> 00:07:38,038
+Kako smo poËeli da saznajemo za
+taj neverovatno sofisticirani kod
+
+102
+00:07:38,372 --> 00:07:41,041
+koji je industrija zvala Staksnet,
+
+103
+00:07:41,166 --> 00:07:46,964
+poËeo sam da rekonstruiöem priËu o
+tome ko je odobrio stvaranje tog koda.
+
+104
+00:07:54,096 --> 00:07:58,767
+Ni Izrael, ni Sjedinjene Drûave nisu
+javno priznale da su stvorile kod.
+
+105
+00:07:58,892 --> 00:08:02,563
+UËinili ste to, a da niste ni pomenuli
+Staksnet ili Olimpijske igre.
+
+106
+00:08:02,646 --> 00:08:04,982
+Impresivno.
+-Nisam Ëuo za to.
+
+107
+00:08:05,149 --> 00:08:07,985
+Moûete li da priËate
+o Staksnetu? -Ne.
+
+108
+00:08:08,068 --> 00:08:11,655
+To je bilo davno.
+-Ne ûelim da priËam o tome.
+
+109
+00:08:12,031 --> 00:08:15,576
+Ali to je misterija.
+-Ne ûelim da priËam o tome.
+
+110
+00:08:15,659 --> 00:08:19,580
+Recite mi ako nisam dovoljno jasan.
+
+111
+00:08:22,082 --> 00:08:26,045
+"Ovo je prvi 'crv' stvoren da
+naökodi fiziËkom svetu.
+
+112
+00:08:26,170 --> 00:08:29,256
+To je nova dimenzija
+u sabotaûi i ratovanju.
+
+113
+00:08:29,381 --> 00:08:34,178
+Implikacije i moguÊe posledice
+tek sada se otkrivaju."
+
+114
+00:08:35,137 --> 00:08:42,269
+Staksnetov napad na Iran je bio prvi u
+kojem velika sila koristi sajber oruûje
+
+115
+00:08:42,353 --> 00:08:45,981
+na veoma agresivan naËin.
+
+116
+00:08:47,149 --> 00:08:51,362
+Ljudi su znali da
+ameriËka vlada razvija alate
+
+117
+00:08:51,445 --> 00:08:53,656
+koji mogu da manipuliöu sistemima
+
+118
+00:08:53,739 --> 00:08:56,325
+kako bi postigli efekte
+u stvarnom svetu.
+
+119
+00:08:56,450 --> 00:08:59,995
+Staksnet je prvi veliki primer toga.
+
+120
+00:09:00,162 --> 00:09:04,333
+Ovako izgleda, toliko je
+sofisticirano i evo öta sve moûe.
+
+121
+00:09:05,584 --> 00:09:08,545
+Tim istim principom moûete
+da zatvorite aerodrom,
+
+122
+00:09:08,629 --> 00:09:11,423
+moûete da iskljuËite elektriËnu mreûu.
+
+123
+00:09:11,590 --> 00:09:14,426
+Moûete da zaustavite dovod gasa.
+
+124
+00:09:14,718 --> 00:09:18,555
+Stvari o kojima se spekulisalo
+iznenada su postale stvarne.
+
+125
+00:09:18,639 --> 00:09:21,684
+Pitanje je: Ako ste zapoËeli s tim,
+
+126
+00:09:21,767 --> 00:09:24,061
+mogu li sada svi to da rade?
+
+127
+00:09:24,186 --> 00:09:26,355
+Preöli su Rubikon.
+
+128
+00:09:26,438 --> 00:09:30,276
+Sjedinjene Drûave su legitimizovale
+koriöÊenje sajber oruûja
+
+129
+00:09:30,442 --> 00:09:35,155
+protiv druge zemlje
+kojoj nisu objavile rat.
+
+130
+00:09:35,864 --> 00:09:39,618
+To je gurnulo svet na
+potpuno novu teritoriju.
+
+131
+00:09:39,910 --> 00:09:42,246
+"To je loö i nemoralan potez.
+
+132
+00:09:42,413 --> 00:09:45,374
+SreÊom, naöi struËnjaci su to otkrili.
+
+133
+00:09:45,457 --> 00:09:48,085
+Viöe ne mogu to da rade."
+
+134
+00:09:49,461 --> 00:09:56,093
+Kad su Iranci primili udarac, Iran je
+rekao: "Tako se to igra. Sad kapiramo."
+
+135
+00:09:56,218 --> 00:09:59,930
+I poËeli su da napadaju
+Sjedinjene Drûave.
+
+136
+00:10:06,478 --> 00:10:09,982
+2013.
+
+137
+00:10:20,951 --> 00:10:25,873
+Godine 2013. je bilo jasno da Iran
+i dalje razvija nuklearno oruûje.
+
+138
+00:10:26,790 --> 00:10:30,085
+Obamina administracija
+pokuöava da zapoËne pregovore
+
+139
+00:10:30,294 --> 00:10:33,672
+kako bi ih spreËili u tome.
+
+140
+00:10:34,215 --> 00:10:37,259
+U oktobru 2013.
+odrûana se panel-diskusija.
+
+141
+00:10:37,384 --> 00:10:39,220
+UËestvuje nekoliko osoba,
+
+142
+00:10:39,303 --> 00:10:43,390
+ali najzanimljivija osoba
+tamo je äeldon Adelson.
+
+143
+00:10:44,141 --> 00:10:48,562
+Adelson je jedan od najbogatijih
+ljudi na svetu, kockarski magnat.
+
+144
+00:10:49,522 --> 00:10:56,070
+Ima kockarnice u Kini, Singapuru,
+dva velika u Las Vegasu
+
+145
+00:10:56,237 --> 00:10:58,614
+i tamo je zapravo
+zaradio toliki novac.
+
+146
+00:10:58,697 --> 00:11:01,700
+"Milijarder koji je zaradio
+bogatstvo na kockarnicama
+
+147
+00:11:01,784 --> 00:11:05,120
+dao je viöe od 92 miliona dolara
+konzervativnim kandidatima
+
+148
+00:11:05,246 --> 00:11:07,081
+u izbornoj trci 2012."
+
+149
+00:11:07,164 --> 00:11:10,125
+Slavan je po tome öto je bio spreman
+da potroöi 100 miliona dolara
+
+150
+00:11:10,209 --> 00:11:12,503
+kako Obama ne bi
+dobio drugi mandat.
+
+151
+00:11:12,628 --> 00:11:18,092
+Zaista vam nisam drag kada ste
+spremni da potroöite toliki novac.
+
+152
+00:11:18,217 --> 00:11:21,846
+I veoma je jasan i otvoren
+u svojim stavovima.
+
+153
+00:11:21,971 --> 00:11:24,139
+Kako moûete da budete tako direktni?
+
+154
+00:11:24,265 --> 00:11:27,101
+Pao sam Osnove diplomatije.
+
+155
+00:11:28,269 --> 00:11:31,814
+NaroËito kad je reË
+o Iranu i tim pregovorima.
+
+156
+00:11:32,064 --> 00:11:39,363
+Podrûali biste pregovore sa Iranom
+ako prestanu da obogaÊuju uran?
+
+157
+00:11:39,822 --> 00:11:44,243
+Ne. Kakvi pregovori?
+Oko Ëega Êemo pregovarati?
+
+158
+00:11:44,618 --> 00:11:51,083
+Ja bih rekao: "Vidite li onu
+pustinju? PokazaÊu vam neöto."
+
+159
+00:11:51,834 --> 00:11:57,965
+Uzmete mobilni, pozovete nekoga
+u Nebraski i kaûete: "Puötaj."
+
+160
+00:11:58,591 --> 00:12:05,097
+Atomska bomba eksplodira
+usred pustinje i niko ne strada.
+
+161
+00:12:06,223 --> 00:12:09,310
+Moûda poneka zveËarka i ökorpija.
+
+162
+00:12:09,935 --> 00:12:16,901
+I onda kaûete: "Vidite?
+SledeÊa ide na Teheran."
+
+163
+00:12:17,860 --> 00:12:20,404
+To u Iranu nisu dobro prihvatili.
+
+164
+00:12:20,488 --> 00:12:23,365
+"SledeÊa ide na Teheran."
+
+165
+00:12:23,491 --> 00:12:26,327
+Neko je to postavio
+na Jutjub i proöirilo se.
+
+166
+00:12:26,494 --> 00:12:28,704
+Iran je ubrzo to primetio.
+
+167
+00:12:28,787 --> 00:12:35,503
+"Izvesni ameriËki bogataö se usudio
+da kaûe da treba baciti atomsku bombu
+
+168
+00:12:35,586 --> 00:12:39,256
+na pustinju u Iranu.
+
+169
+00:12:39,340 --> 00:12:43,219
+Njemu treba odseÊi jezik!"
+
+170
+00:12:48,682 --> 00:12:53,229
+Jasno je da Iran ûeli da kazni
+Adelsona. I ûele da ga boli.
+
+171
+00:12:57,191 --> 00:12:59,819
+Kockarnice su zapravo velike banke.
+
+172
+00:12:59,902 --> 00:13:02,863
+KoliËina novca koji ulazi i izlazi
+iz kockarnice svakog dana
+
+173
+00:13:02,947 --> 00:13:05,407
+broji se u milionima
+i milionima dolara.
+
+174
+00:13:05,574 --> 00:13:08,744
+Sends troöi ogromnu svotu
+na fiziËko obezbeenje,
+
+175
+00:13:08,828 --> 00:13:11,747
+kamere, Ëuvare, trezore...
+
+176
+00:13:11,831 --> 00:13:15,167
+Sve Ëime ötite ûetone i gotovinu.
+
+177
+00:13:15,668 --> 00:13:19,380
+Ali nisu potroöili dovoljno
+novca na IT infrastrukturu.
+
+178
+00:13:25,010 --> 00:13:31,767
+U decembru 2013, hakeri u Iranu poËinju
+da traûe slabu kariku u mreûi Sendsa.
+
+179
+00:13:32,476 --> 00:13:35,479
+Na kraju im se posreÊilo.
+
+180
+00:13:36,689 --> 00:13:39,942
+Softverski inûenjer koji
+je doöao iz Las Vegasa
+
+181
+00:13:40,109 --> 00:13:42,862
+radio je u maloj kockarnici
+u Betlehemu u Pensilvaniji.
+
+182
+00:13:42,987 --> 00:13:45,406
+To je deo imperije kompanije Sends.
+
+183
+00:13:45,573 --> 00:13:50,035
+Iskoristio je svoj pristup raËunarima
+u Betlehemu, a hakeri su ih naöli.
+
+184
+00:13:51,120 --> 00:13:54,623
+Preko tog pristupa su uöli
+u mreûu u Betlehemu,
+
+185
+00:13:54,957 --> 00:14:00,212
+a odande u mreûu Las Vegasa,
+i tamo su zapravo hteli da budu.
+
+186
+00:14:03,883 --> 00:14:06,051
+PoËeli su polako,
+
+187
+00:14:06,135 --> 00:14:10,055
+ali do poËetka februara su uneli
+nekoliko stotina linija koda
+
+188
+00:14:10,139 --> 00:14:14,435
+koji nije bio stvoren
+za krau informacija,
+
+189
+00:14:14,602 --> 00:14:21,901
+nego za uniötenje raËunara i
+stvaranje haosa u Sendsovoj mreûi.
+
+190
+00:14:26,447 --> 00:14:31,202
+Bivöa zaposlena Sendsa: Primila
+sam poziv öefice tehniËke sluûbe
+
+191
+00:14:31,285 --> 00:14:33,496
+u 4 sata ujutro.
+
+192
+00:14:33,579 --> 00:14:40,628
+Primala je pozive da je
+ljudima nedostupna e-poöta.
+
+193
+00:14:41,670 --> 00:14:48,302
+Neki inûenjeri su pokuöali da otkriju
+uzrok, ali nisu mogli da uu u sistem.
+
+194
+00:14:49,637 --> 00:14:55,851
+Ne bih rekla da su bili uspaniËeni,
+nego da su to hitno hteli da reöe.
+
+195
+00:14:57,603 --> 00:15:01,023
+Bivöi zaposleni Sendsa:
+Ujutro bih proverio e-poötu,
+
+196
+00:15:01,107 --> 00:15:03,401
+ali nisam mogao da je otvorim.
+
+197
+00:15:03,526 --> 00:15:07,238
+Prvo sam pomislio da Êe
+neko pozvati i vikati na mene
+
+198
+00:15:07,530 --> 00:15:10,491
+jer verovatno ni automati ne rade.
+
+199
+00:15:10,616 --> 00:15:15,162
+Samo minut prestanka rada automata
+naneÊe ogromnu finansijsku ötetu.
+
+200
+00:15:17,248 --> 00:15:22,294
+Stizali su izveötaji da ljudi ne mogu
+da pristupe svojim raËunarima,
+
+201
+00:15:22,545 --> 00:15:26,215
+internim sistemima, e-poöti...
+
+202
+00:15:26,757 --> 00:15:30,970
+RaËunovodstvo je bilo paralisano,
+a njega Ëine samo raËunovoe.
+
+203
+00:15:31,053 --> 00:15:34,974
+Svi koji nisu informatiËki tehniËari
+deo su finansijskog tima.
+
+204
+00:15:35,141 --> 00:15:37,601
+Dok su momci istraûivali,
+
+205
+00:15:37,893 --> 00:15:43,858
+stekli smo utisak
+da je reË o ogromnoj öteti.
+
+206
+00:15:48,195 --> 00:15:53,367
+U jednom trenutku smo odluËili
+da svi moraju da iskljuËe raËunare.
+
+207
+00:15:54,285 --> 00:15:59,165
+Timovi su iöli okolo i
+iskljuËivali raËunare iz struje.
+
+208
+00:15:59,290 --> 00:16:03,461
+Iöli smo od raËunara do raËunara,
+
+209
+00:16:03,586 --> 00:16:09,091
+iskljuËivali ih, skenirali i Ëistili.
+
+210
+00:16:12,136 --> 00:16:16,098
+Tada smo znali da je
+moûda reË o hakovanju,
+
+211
+00:16:16,265 --> 00:16:22,229
+ali mislila sam da je to izolovan
+dogaaj i da radimo kontrolu ötete.
+
+212
+00:16:23,272 --> 00:16:30,446
+Ali pokazalo se da to nije hakovanje
+iz zabave, nego da je politiËki Ëin.
+
+213
+00:16:32,740 --> 00:16:35,868
+Promenjena je internet
+stranica Sendsa.
+
+214
+00:16:35,951 --> 00:16:40,873
+Prikazivala je sliku sveta
+na kojoj neke lokacije gore.
+
+215
+00:16:42,833 --> 00:16:48,130
+SeÊam se plamena i neËega o
+Adelsonu i odsecanju njegovog jezika.
+
+216
+00:16:49,674 --> 00:16:52,426
+Zanimalo nas je ko je to uËinilo.
+
+217
+00:16:52,510 --> 00:16:55,179
+Kad smo videli öta se
+dogodilo sa stranicom,
+
+218
+00:16:55,680 --> 00:17:00,309
+shvatili smo da je to reakcija
+na ono öto je g. Adelson rekao.
+
+219
+00:17:00,434 --> 00:17:02,937
+éeludac mi se prevrnuo.
+
+220
+00:17:03,020 --> 00:17:08,025
+Izvinite zbog reËnika,
+ali to je bilo veliko sranje.
+
+221
+00:17:11,445 --> 00:17:15,866
+"Napad na raËunare,
+gaöenje servera, prazni ekrani,
+
+222
+00:17:15,950 --> 00:17:18,202
+hitno iskljuËivanje raËunara.
+
+223
+00:17:18,285 --> 00:17:22,039
+Pre 10 meseci je napadnuta
+najveÊa kockarnica na svetu."
+
+224
+00:17:22,123 --> 00:17:24,834
+Sends je mesecima
+uspevao da krije napad
+
+225
+00:17:24,917 --> 00:17:27,545
+kao i njegov obim.
+
+226
+00:17:27,795 --> 00:17:32,383
+"CNN je 10. februara otkrio da su
+pogoeni raËunari hiljada zaposlenih
+
+227
+00:17:32,466 --> 00:17:36,512
+Sendsovih kockarnica u Las Vegasu
+i Betlehemu u Pensilvaniji."
+
+228
+00:17:38,431 --> 00:17:41,309
+Nisu hteli da se sazna.
+
+229
+00:17:41,392 --> 00:17:45,396
+ReÊi Êu samo da su ûeleli
+kontrolisanu komunikaciju.
+
+230
+00:17:48,858 --> 00:17:54,155
+Adelsonov komentar je bio veoma skup.
+
+231
+00:17:55,990 --> 00:18:00,202
+Cena napada i oporavka
+iznosila je oko 40 miliona dolara.
+
+232
+00:18:00,453 --> 00:18:03,122
+Irance je koötao mnogo manje.
+
+233
+00:18:03,205 --> 00:18:05,958
+Takva je asimetrija tih napada.
+
+234
+00:18:06,167 --> 00:18:09,003
+Hakeri rade u timovima nekoliko dana.
+
+235
+00:18:09,128 --> 00:18:12,214
+PoËeli su sa istraûivanjem u decembru,
+
+236
+00:18:12,298 --> 00:18:15,343
+nekoliko timova je bilo
+veoma aktivno u januaru,
+
+237
+00:18:15,551 --> 00:18:18,304
+a u februaru su krenuli sa napadom.
+
+238
+00:18:18,429 --> 00:18:21,974
+To je veoma jeftin napad
+sa stajaliöta drûave.
+
+239
+00:18:26,646 --> 00:18:29,857
+Napad na Sendsove
+kockarnice je bio upozorenje.
+
+240
+00:18:30,066 --> 00:18:34,528
+To je bilo ostvarenje ideje
+da osrednja sila poput Irana
+
+241
+00:18:34,904 --> 00:18:39,784
+moûe da zatvori veliku
+kompaniju u SAD.
+
+242
+00:18:40,993 --> 00:18:46,207
+A ako mogu da uniöte Sends,
+mogu i ostatak Las Vegasa.
+
+243
+00:18:46,540 --> 00:18:50,836
+A ono öto se dogodilo u Vegasu,
+ne bi i ostalo u Vegasu.
+
+244
+00:18:58,803 --> 00:19:04,141
+Evolucija sajber ratovanja se dogodila
+veoma brzo u smislu vaûnosti za SAD
+
+245
+00:19:04,225 --> 00:19:08,354
+i organizacijske dimenzije
+u ameriËkoj vladi.
+
+246
+00:19:09,689 --> 00:19:13,067
+Godine 2007, direktor
+Nacionalne obaveötajne sluûbe
+
+247
+00:19:13,150 --> 00:19:15,987
+izdao je procenu svih pretnji SAD,
+
+248
+00:19:16,070 --> 00:19:19,490
+a reË "sajber" se ne pojavljuje u njoj.
+
+249
+00:19:20,992 --> 00:19:25,079
+Za samo nekoliko godina, veÊ
+imate osnivanje Sajber komande.
+
+250
+00:19:26,372 --> 00:19:30,126
+SkoËite joö nekoliko
+godina napred u 2012. godinu.
+
+251
+00:19:30,209 --> 00:19:32,878
+Iznenada, nikad pomenuti "sajber"
+
+252
+00:19:32,962 --> 00:19:37,300
+postao je jedna od tri
+glavne pretnje SAD.
+
+253
+00:19:43,180 --> 00:19:46,350
+Ministar odbrane Paneta
+odlazi na Intrepid,
+
+254
+00:19:46,434 --> 00:19:49,061
+nosaË aviona koji je pretvoren u muzej,
+
+255
+00:19:49,145 --> 00:19:51,606
+smatram da pozadina nije sluËajna,
+
+256
+00:19:51,731 --> 00:19:53,816
+i priËa o sajber Perl Harboru.
+
+257
+00:19:53,941 --> 00:19:57,695
+Znamo da strani
+sajber akteri istraûuju
+
+258
+00:19:57,778 --> 00:20:02,074
+kritiËne ameriËke
+infrastrukturne mreûe.
+
+259
+00:20:02,158 --> 00:20:05,077
+Njihova meta su
+raËunarski kontrolni sistemi
+
+260
+00:20:05,411 --> 00:20:09,957
+koji upravljaju elektranama, hemijskim
+postrojenjima i hidroelektranama,
+
+261
+00:20:10,583 --> 00:20:14,587
+kao i oni koji upravljaju
+saobraÊajem öirom zemlje.
+
+262
+00:20:16,422 --> 00:20:22,470
+Kolektivni rezultat takvih napada
+mogao bi da bude sajber Perl Harbor.
+
+263
+00:20:23,804 --> 00:20:26,641
+Dok su ljudi upozoravali na tu
+ideju o sajber Perl Harboru,
+
+264
+00:20:26,724 --> 00:20:30,770
+promakla im je Ëinjenica da je
+SAD postavio reûim u kojem,
+
+265
+00:20:30,853 --> 00:20:35,775
+ako bi Rusi prekinuli elektriËnu
+mreûu ili bi Kina uniötila gasovod,
+
+266
+00:20:35,942 --> 00:20:38,945
+trebalo bi da oËekuju reakciju vojske.
+
+267
+00:20:39,070 --> 00:20:43,908
+Vlada je imala planove za veliki
+napad na elektriËnu mreûu,
+
+268
+00:20:44,033 --> 00:20:49,455
+ali nisu imali planove za napad
+na kompaniju, uniötavanje brenda
+
+269
+00:20:49,539 --> 00:20:53,626
+i sposobnosti poslovanja.
+
+270
+00:20:54,460 --> 00:20:58,756
+Kako Êe vlada odgovoriti
+na takve napade?
+
+271
+00:20:59,382 --> 00:21:05,012
+2014.
+
+272
+00:21:06,722 --> 00:21:10,393
+"Naö dragi voa je mudar,
+neûan, dobar i snaûan.
+
+273
+00:21:10,476 --> 00:21:14,647
+éelimo mu radost, ûelimo
+mu mir, ûelimo mu ljubav.
+
+274
+00:21:14,814 --> 00:21:19,277
+A najviöe od svega
+
+275
+00:21:20,069 --> 00:21:24,282
+ûelimo da Sjedinjene Drûave
+raznese vatrena eksplozija."
+
+276
+00:21:24,407 --> 00:21:28,744
+PoËelo je velikom
+fascinacijom Severnom Korejom.
+
+277
+00:21:29,620 --> 00:21:33,499
+"Neka budu bespomoÊni,
+jadni, tuûni i promrzli."
+
+278
+00:21:33,749 --> 00:21:37,628
+Sa svojim scenaristiËkim partnerom
+Evanom Ëitao sam Ëlanke i knjige,
+
+279
+00:21:37,712 --> 00:21:41,048
+gledao dokumentarce i to nam
+je bilo izuzetno fascinantno.
+
+280
+00:21:41,215 --> 00:21:44,218
+Ko je?
+-Kim Dûong Un.
+
+281
+00:21:45,803 --> 00:21:48,764
+A kad je Kim Dûong Un preuzeo vlast,
+
+282
+00:21:48,890 --> 00:21:53,728
+ideja se proöirila jer smo
+shvatili da je naöih godina.
+
+283
+00:21:54,228 --> 00:21:59,525
+»itali smo o njegovom ûivotu i
+zaËudo je bio veoma simpatiËan lik
+
+284
+00:21:59,650 --> 00:22:02,361
+na neke naËine.
+
+285
+00:22:02,695 --> 00:22:05,406
+INTERVJU
+
+286
+00:22:05,656 --> 00:22:12,413
+Smislili smo priËu o tipu koji vodi
+veoma eksploatacijski noÊni tok öou.
+
+287
+00:22:15,082 --> 00:22:19,670
+Kim Dûong Un je oboûavalac
+njegove emisije.
+
+288
+00:22:22,632 --> 00:22:27,386
+Dobijemo intervju s njim, a "CIA"
+kaûe da moûemo da ga ubijemo
+
+289
+00:22:27,470 --> 00:22:31,682
+jer smo prvi Amerikanci
+koji se uûivo nalaze s njim.
+
+290
+00:22:35,853 --> 00:22:38,564
+Predstavili smo ideju Soniju.
+
+291
+00:22:38,940 --> 00:22:45,446
+Rekli su: "Ako dobijete Dûejmsa
+Franka, odmah snimamo."
+
+292
+00:22:51,160 --> 00:22:57,834
+Ako se dobro seÊam, oni su predloûili
+da Kim Dûong Un bude pravi lik.
+
+293
+00:23:01,212 --> 00:23:06,092
+Razmiöljali smo o tome hoÊemo li
+izmisliti tipa je li to previöe,
+
+294
+00:23:06,217 --> 00:23:10,847
+a Soni je rekao da Êe
+ovako biti smeönije.
+
+295
+00:23:15,977 --> 00:23:20,731
+Kad je izaöla najava za film, Severna
+Koreja je objavila izjavu preko UN-a
+
+296
+00:23:20,815 --> 00:23:22,984
+i osudila film.
+
+297
+00:23:23,067 --> 00:23:27,989
+"Severna Koreja optuûuje SAD
+za 'provokativnu ludost', 'ratni Ëin'
+
+298
+00:23:28,072 --> 00:23:31,117
+i obeÊava 'odluËnu i
+nemilosrdnu protivmeru'
+
+299
+00:23:31,284 --> 00:23:34,704
+ako SAD podrûi objavu filma."
+
+300
+00:23:38,624 --> 00:23:43,880
+Pokuöavali smo da shvatimo
+koliko je ozbiljna ta pretnja.
+
+301
+00:23:44,547 --> 00:23:47,467
+Pozvao sam prijatelja u
+Ministarstvu spoljnih poslova,
+
+302
+00:23:47,550 --> 00:23:51,053
+a on me je uputio na osobu
+koja se razumela u temu.
+
+303
+00:23:52,430 --> 00:23:57,477
+Osoba je rekla da
+Severna Koreja Ëesto preti,
+
+304
+00:23:58,519 --> 00:24:01,773
+ali gotovo nikada
+ne ostvaruje pretnje
+
+305
+00:24:01,898 --> 00:24:06,527
+i da ne bi mogla da sprovede
+napad na ameriËkom tlu.
+
+306
+00:24:06,861 --> 00:24:10,323
+Nije se pominjao sajber napad.
+
+307
+00:24:11,324 --> 00:24:17,538
+Tada smo poËeli da razgovaramo o tome
+da li bi trebalo da malo ublaûimo ton,
+
+308
+00:24:18,498 --> 00:24:22,293
+da je ideja o ûivopisnom
+ubistvu Kim Dûong Una
+
+309
+00:24:22,418 --> 00:24:27,507
+moûda previöe antagonistiËka.
+
+310
+00:24:36,891 --> 00:24:40,895
+Set Rogen i njegova
+grupa bili su veoma istrajni.
+
+311
+00:24:41,312 --> 00:24:45,400
+Smatrali su da to uveÊva satiru.
+
+312
+00:24:45,566 --> 00:24:52,365
+Bilo je dosta diskusije, ali na
+kraju smo doöli do kompromisa.
+
+313
+00:24:54,492 --> 00:24:58,621
+U tom trenu smo smatrali da smo
+preduzeli sve potrebne mere.
+
+314
+00:24:58,746 --> 00:25:04,919
+Izmenili smo film onako
+kako je Soni smatrao da treba.
+
+315
+00:25:05,503 --> 00:25:09,173
+Ostalo se svodilo na objavu filma.
+
+316
+00:25:09,382 --> 00:25:12,719
+PJONGJANG, SEVERNA KOREJA
+
+317
+00:25:12,802 --> 00:25:18,349
+Iz Severne Koreje je Glavna kancelarija
+za izvianje, ekvivalent CIA,
+
+318
+00:25:19,142 --> 00:25:24,397
+poslala mladog hakera
+u Kinu i jugoistoËnu Aziju.
+
+319
+00:25:24,939 --> 00:25:29,652
+Trebao je da osnuje tim koji bi
+provalio u Sonijeve sisteme.
+
+320
+00:25:30,820 --> 00:25:34,532
+Dûim Klaper je otiöao u Severnu
+Koreju tokom hakovanja Sonija
+
+321
+00:25:34,741 --> 00:25:37,869
+i susreo se sa direktorom
+Glavne kancelarije za izvianje.
+
+322
+00:25:37,952 --> 00:25:40,872
+Pregovarao je o puötanju dvojice
+Amerikanaca koji su bili tamo.
+
+323
+00:25:40,955 --> 00:25:45,209
+Nije pominjao hakovanje jer
+nije znao da se ono dogaa.
+
+324
+00:25:45,793 --> 00:25:50,423
+Severnokorejci su to obavili
+strpljivo i gotovo genijalno.
+
+325
+00:25:52,592 --> 00:25:56,637
+U septembru 2014. provalili
+su u Sonijeve sisteme,
+
+326
+00:26:00,308 --> 00:26:03,311
+ali nisu odmah napali.
+
+327
+00:26:03,436 --> 00:26:09,567
+Nedeljama su prouËavali kako je
+svaki element Sonijevih poslova
+
+328
+00:26:09,692 --> 00:26:12,487
+povezan u raËunarske sisteme.
+
+329
+00:26:12,653 --> 00:26:17,325
+Dovoljno dugo su pratili sistem da
+saznaju kako da nanesu najveÊu ötetu.
+
+330
+00:26:18,034 --> 00:26:24,290
+Napali su dva meseca kasnije,
+oko Dana zahvalnosti.
+
+331
+00:26:28,336 --> 00:26:31,589
+Vozio sam se na posao.
+Zazvonio mi je mobilni.
+
+332
+00:26:31,798 --> 00:26:36,678
+Finansijski direktor kompanije
+rekao mi je da imamo veliki problem.
+
+333
+00:26:36,803 --> 00:26:41,849
+Nestala je sva e-poöta. Niko
+nije mogao da pristupi podacima.
+
+334
+00:26:41,974 --> 00:26:45,770
+Uskoro je postalo jasno
+da je problem mnogo veÊi
+
+335
+00:26:45,853 --> 00:26:52,527
+i da je oko 70% raËunara uniöteno.
+
+336
+00:26:53,111 --> 00:26:56,364
+"Proöle nedelje se dogodio
+ozbiljan prodor u Soni.
+
+337
+00:26:56,489 --> 00:27:00,368
+Na raËunarima se pojavio kostur
+s malom porukom u kojoj je pisalo
+
+338
+00:27:00,451 --> 00:27:03,371
+da ih je hakovala grupa
+pod nazivom '»uvari mira'.
+
+339
+00:27:03,496 --> 00:27:06,916
+Ko god da su, '»uvari mira',
+su veÊ naneli veliku ötetu.
+
+340
+00:27:07,041 --> 00:27:10,753
+Zaposleni su komunicirali
+preko fiksnih linija
+
+341
+00:27:10,837 --> 00:27:13,965
+i isplaÊivali plate
+papirnatim Ëekovima.
+
+342
+00:27:14,132 --> 00:27:19,637
+Soni Êe zbog ovoga izgubiti
+desetine miliona dolara."
+
+343
+00:27:19,929 --> 00:27:23,850
+To je ogroman troöak u okviru
+uticaja na IT infrastrukturu,
+
+344
+00:27:23,975 --> 00:27:28,104
+ali joö vaûnije, to je velika cena za
+brend jer su ukrali mnogo podataka
+
+345
+00:27:28,187 --> 00:27:30,398
+i poËeli da ih javno objavljuju.
+
+346
+00:27:30,523 --> 00:27:33,818
+"Izaölo je holivudsko
+prljavo rublje, izaölo je...
+
+347
+00:27:33,901 --> 00:27:35,695
+I nije lepo.
+
+348
+00:27:35,778 --> 00:27:39,115
+PomoÊnik direktora studija i moÊni
+holivudski producent se rasnim öalama
+
+349
+00:27:39,198 --> 00:27:40,992
+rugao predsedniku Obami.
+
+350
+00:27:41,117 --> 00:27:44,078
+Slavni producent je kritikovao
+talenat i ego Andûeline Dûoli.
+
+351
+00:27:44,162 --> 00:27:46,247
+Veoma soËno!"
+
+352
+00:27:47,332 --> 00:27:51,628
+ZloËinaËki hakeri i haktivisti su veÊ
+koristili te tehnike hakovanja
+
+353
+00:27:51,753 --> 00:27:54,631
+i objavljivanja podataka
+kako bi zaplaöili ûrtve,
+
+354
+00:27:54,797 --> 00:27:59,427
+ali ovo je prvi put da se koriste tako
+efikasno na nacionalnom nivou.
+
+355
+00:27:59,552 --> 00:28:02,472
+Severnokorejci su prvo
+dali podatke novinarima,
+
+356
+00:28:02,680 --> 00:28:06,267
+a kad su iskoristili taj kanal,
+dali su ih Vikiliksu.
+
+357
+00:28:09,979 --> 00:28:12,815
+Svi ti podaci su vredni za kompaniju:
+
+358
+00:28:12,899 --> 00:28:16,069
+poslovne tajne poput
+scenarija pre objave filmova,
+
+359
+00:28:16,152 --> 00:28:19,405
+detaljni podaci o
+ugovorima o plaÊanju...
+
+360
+00:28:19,489 --> 00:28:23,743
+"Uzgred, Set Rogen je zaradio dva
+miliona viöe od kolege Dûejmsa Franka."
+
+361
+00:28:25,370 --> 00:28:29,457
+Ne pretpostavite da Êe neËija ukradena
+imovina odmah biti dostupna
+
+362
+00:28:29,540 --> 00:28:33,586
+za javnu konzumaciju od strane medija.
+
+363
+00:28:34,337 --> 00:28:38,758
+Soni je ûrtva zloËina,
+a mediji su uzeli ûrtvu na zub
+
+364
+00:28:38,841 --> 00:28:41,386
+i pogoröali situaciju 100 miliona puta.
+
+365
+00:28:41,469 --> 00:28:46,599
+HoÊete da izvröimo atentat na
+vou Severne Koreje? -Da. -äta?
+
+366
+00:28:46,808 --> 00:28:49,227
+Ovde su Dûejms Franko i Set Rogen.
+
+367
+00:28:49,352 --> 00:28:52,230
+I ceo svet se sada pita: "äta?"
+
+368
+00:28:53,815 --> 00:28:58,403
+Otiöao sam u Njujork na
+poslednju nedelju promocije filma.
+
+369
+00:28:58,570 --> 00:29:04,200
+Veoma je Ëudno promovisati film
+koji trenutno ökodi svetu.
+
+370
+00:29:04,701 --> 00:29:10,081
+Onda je postalo gore.
+
+371
+00:29:10,456 --> 00:29:15,086
+"Hakeri su zapretili svima koji
+odu da pogledaju Sonijev novi film.
+
+372
+00:29:15,295 --> 00:29:18,881
+Ova poruka poruËuje
+gledaocima da se klone bioskopa.
+
+373
+00:29:18,965 --> 00:29:22,135
+Grupa preti 'boûiÊnim darom'."
+
+374
+00:29:22,260 --> 00:29:24,971
+Napustio sam Njujork usred promocije.
+
+375
+00:29:25,096 --> 00:29:27,515
+Trebalo je da gostujem kod
+Dûimija Falona, ali rekao sam:
+
+376
+00:29:27,599 --> 00:29:31,144
+"Idemo na aerodrom. Mislim
+da ovaj film neÊe biti objavljen."
+
+377
+00:29:33,688 --> 00:29:36,649
+Vratio sam se u Los Aneles
+i otiöao u Soni.
+
+378
+00:29:36,733 --> 00:29:41,946
+Zanimalo me je kakav je plan.
+HoÊe li povuÊi film iz bioskopa?
+
+379
+00:29:45,366 --> 00:29:48,578
+Kad je stigla poruka
+sa fiziËkim pretnjama,
+
+380
+00:29:48,703 --> 00:29:55,376
+vodili su se razgovori s bioskopima u
+kojima su pitali o odlaganju premijere.
+
+381
+00:29:55,710 --> 00:30:02,133
+Mislim da Majkl Linton nije ûeleo da
+kinooperateri izgledaju kao zlikovci.
+
+382
+00:30:02,258 --> 00:30:05,511
+Rekao je: "PovuÊi Êu film
+
+383
+00:30:05,595 --> 00:30:12,143
+i svi moramo da budemo
+ujedinjeni i da kaûemo da to ûelimo."
+
+384
+00:30:12,435 --> 00:30:15,522
+Rekli smo da to ne dolazi u obzir.
+
+385
+00:30:15,605 --> 00:30:19,442
+"Danas je Soni otkazao
+boûiÊnu premijeru filma 'Intervju'.
+
+386
+00:30:19,567 --> 00:30:22,529
+Hakeri su pobedili. Ne znam
+kako bih drugaËije to rekao
+
+387
+00:30:22,612 --> 00:30:26,074
+nakon otkazivanja premijere filma
+'Intervju', parodije o Severnoj Koreji
+
+388
+00:30:26,157 --> 00:30:28,910
+sa Dûejmsom Frankom
+i Setom Rogenom."
+
+389
+00:30:30,078 --> 00:30:35,416
+Nekoliko dana kasnije smo se okupili
+u naöem bungalovu u sklopu Sonija.
+
+390
+00:30:35,625 --> 00:30:39,921
+Rekli su da Êe odrûati konferenciju
+za medije i Obama Êe govoriti o tome.
+
+391
+00:30:40,088 --> 00:30:43,633
+Nismo verovali,
+a to je bilo prvo pitanje.
+
+392
+00:30:43,925 --> 00:30:46,928
+Hvala, g. predsedniËe.
+PoËnimo od Severne Koreje.
+
+393
+00:30:47,011 --> 00:30:49,764
+To je danas najveÊa tema.
+
+394
+00:30:49,848 --> 00:30:54,644
+Kako izgleda odgovor
+na hakovanje Sonija?
+
+395
+00:30:55,353 --> 00:30:58,898
+Tada je bilo pitanje
+koliko je to ozbiljno.
+
+396
+00:30:59,148 --> 00:31:03,152
+Ubrzo je to postalo meunarodni
+bezbednosni incident
+
+397
+00:31:03,278 --> 00:31:06,781
+koji je ukljuËivao predsednika SAD.
+
+398
+00:31:07,866 --> 00:31:13,121
+Da Severna Koreja ispali
+raketu na San Francisko,
+
+399
+00:31:13,454 --> 00:31:18,293
+svi znaju kakav bi bio
+odgovor Sjedinjenih Drûava.
+
+400
+00:31:18,793 --> 00:31:22,172
+To je fiziËki napad na koji
+se odgovara fiziËkom silom.
+
+401
+00:31:22,255 --> 00:31:26,426
+Ali öta je digitalni napad
+i koji je prikladan odgovor?
+
+402
+00:31:26,509 --> 00:31:29,345
+Dûon Mekejn je rekao
+da je to ratni Ëin.
+
+403
+00:31:29,429 --> 00:31:32,515
+To je novi oblik ratovanja
+u koji smo ukljuËeni
+
+404
+00:31:32,599 --> 00:31:35,393
+i moramo ûestoko da reagujemo.
+
+405
+00:31:35,477 --> 00:31:38,646
+Predsednik Obama
+nije hteo tako da reaguje.
+
+406
+00:31:38,980 --> 00:31:43,693
+Kad smo bili na tim sastancima u
+Ministarstvu odbrane i u Beloj kuÊi,
+
+407
+00:31:43,776 --> 00:31:48,573
+bojali smo se da bi se previöe ûestok
+odgovor pretvorio u vojni sukob.
+
+408
+00:31:49,199 --> 00:31:52,118
+Poslednje öto ûelite jeste eskalacija
+
+409
+00:31:52,202 --> 00:31:56,414
+i napad Severne Koreje na
+naöu kritiËnu infrastrukturu.
+
+410
+00:31:56,539 --> 00:32:00,502
+Nismo znali jesu li u mreûi
+i mogu li da uniöte neöto.
+
+411
+00:32:00,585 --> 00:32:03,963
+ReagovaÊemo proporcionalno.
+
+412
+00:32:04,255 --> 00:32:09,344
+ReagovaÊemo kada i kako to odluËimo.
+
+413
+00:32:09,594 --> 00:32:13,515
+To nije neöto öto Êu objaviti
+ovde na konferenciji za ötampu.
+
+414
+00:32:13,598 --> 00:32:16,100
+Niko ne zna öta je ameriËka
+vlada uËinila Severnoj Koreji.
+
+415
+00:32:16,184 --> 00:32:20,230
+Neki novinski izveötaji upuÊuju
+na to da je nakon hakovanja Sonija
+
+416
+00:32:20,355 --> 00:32:23,399
+iznenada prestao da radi
+Severnokorejski internet.
+
+417
+00:32:23,525 --> 00:32:26,194
+»ak i ako je to uËinila ameriËka vlada,
+
+418
+00:32:26,277 --> 00:32:30,115
+Severna Koreja je tada
+imala 28 internet stranica.
+
+419
+00:32:30,198 --> 00:32:34,285
+Sjedinjene Drûave su mnogo ranjivije
+na sajber napade od drugih zemalja
+
+420
+00:32:34,369 --> 00:32:37,413
+koje pokuöavaju da nas napadnu.
+
+421
+00:32:38,706 --> 00:32:45,839
+Predsednik nije imao odgovor na
+to, pa je odluËio da priËa o Soniju.
+
+422
+00:32:46,005 --> 00:32:48,800
+Ne moûemo da imamo druötvo
+
+423
+00:32:49,008 --> 00:32:55,598
+u kojem neki diktator negde nameÊe
+cenzuru u Sjedinjenim Drûavama.
+
+424
+00:32:55,682 --> 00:32:58,560
+Rekao je da bioskopi
+treba da prikazuju film
+
+425
+00:32:58,643 --> 00:33:01,271
+i da ne bi trebalo da
+podlegnemo pretnjama.
+
+426
+00:33:01,396 --> 00:33:04,983
+Bili smo zadovoljni,
+ali svi su odustali.
+
+427
+00:33:07,485 --> 00:33:13,283
+Filmofili su bili razoËarani öto neÊe
+videti film u bioskopima öirom zemlje.
+
+428
+00:33:13,700 --> 00:33:16,703
+Uverili smo ih da
+ûelimo da objavimo film.
+
+429
+00:33:16,828 --> 00:33:18,997
+Pozvao sam Erika Smita iz Gugla.
+
+430
+00:33:19,080 --> 00:33:22,542
+On i ljudi iz Gugla su smatrali
+da je vaûno da se film objavi
+
+431
+00:33:22,625 --> 00:33:26,337
+i ponudili su da ga objave
+na svojoj platformi.
+
+432
+00:33:32,093 --> 00:33:35,722
+Na kraju su dozvolili bioskopima
+koji su hteli da puötaju film.
+
+433
+00:33:35,805 --> 00:33:38,475
+To je bilo dvadesetak bioskopa.
+
+434
+00:33:38,641 --> 00:33:43,188
+Mislim da je to i dalje najskidaniji
+film sa Gugl pleja.
+
+435
+00:33:47,317 --> 00:33:50,278
+Objavili su i scenu.
+
+436
+00:33:51,196 --> 00:33:54,908
+"Verdû" je pregledao
+hakovane snimke,
+
+437
+00:33:55,033 --> 00:34:00,830
+naöao scenu u kojoj Kim Dûong
+Unu eksplodira glava i objavio je.
+
+438
+00:34:06,669 --> 00:34:11,508
+Velika je stvar da zemlja
+koja je toliko siromaöna
+
+439
+00:34:11,633 --> 00:34:16,304
+i u kojoj samo 10% graana ima mobilne
+moûe da pokrene sajber napad
+
+440
+00:34:16,471 --> 00:34:19,974
+na najmoÊnije filmske studije
+
+441
+00:34:20,058 --> 00:34:23,728
+i korporacije i da stvori
+meunarodnu krizu.
+
+442
+00:34:27,941 --> 00:34:33,446
+Napad na Soni je promenio javnu
+sliku o tome öta je sajber napad.
+
+443
+00:34:33,571 --> 00:34:37,992
+Ranije su ljudi verovali da
+neko pokuöava da im ukrade
+
+444
+00:34:38,076 --> 00:34:43,957
+podatke o kreditnim karticama, broj
+osiguranja kako bi poËinio prevaru.
+
+445
+00:34:44,207 --> 00:34:48,503
+Napad na Soni je bio napad
+koji je za cilj imao uniötenje.
+
+446
+00:35:01,641 --> 00:35:05,729
+Godine 2014. dogodili su se prvi
+destruktivni sajber napadi
+
+447
+00:35:05,854 --> 00:35:09,357
+na ameriËkom tlu koje
+su sprovele druge drûave.
+
+448
+00:35:09,524 --> 00:35:14,529
+Prvi je bio proölogodiönji iranski
+napad na korporaciju Sends,
+
+449
+00:35:14,654 --> 00:35:18,908
+a drugi severnokorejski napad
+na Soni u novembru.
+
+450
+00:35:19,200 --> 00:35:24,539
+Iako su obe nacije manje tehnoloöki
+napredne od Rusije i Kine,
+
+451
+00:35:24,873 --> 00:35:29,335
+ovi destruktivni napadi pokazuju da
+su Iran i Severna Koreja motivisani
+
+452
+00:35:29,419 --> 00:35:32,422
+i nepredvidivi sajber elementi.
+
+453
+00:35:32,547 --> 00:35:37,177
+Rusija i Kina nastavljaju da razvijaju
+sofisticirane sajber programe.
+
+454
+00:35:37,385 --> 00:35:40,305
+Ne mogu da idem u detalje,
+ali ruska sajber pretnja
+
+455
+00:35:40,388 --> 00:35:43,892
+ozbiljnija je nego öto smo
+prvobitno procenili.
+
+456
+00:35:48,605 --> 00:35:52,442
+2016.
+
+457
+00:35:55,153 --> 00:35:58,823
+Uvek nas unajme advokati,
+jer advokate prve zovu
+
+458
+00:35:58,948 --> 00:36:04,996
+kad doe do hakovanja firme jer moûe
+biti gubitaka nakon objave o hakovanju.
+
+459
+00:36:05,288 --> 00:36:11,503
+ObiËno pozove advokatska kancelarija
+i kaûe da je klijentu potrebna pomoÊ.
+
+460
+00:36:11,961 --> 00:36:15,382
+U ovom sluËaju je to
+bila Demokratska stranka.
+
+461
+00:36:16,966 --> 00:36:20,679
+Poziv je stigao u petak, pa nam je
+trebalo nekoliko dana da uemo u mreûu
+
+462
+00:36:20,804 --> 00:36:24,265
+i naemo inficirane maöine.
+
+463
+00:36:24,432 --> 00:36:28,478
+To nije bio samo jedan sistem.
+To su bile stotine sistema.
+
+464
+00:36:30,313 --> 00:36:33,733
+PoËeli smo da proveravamo maliciozni
+softver i odmah smo shvatili
+
+465
+00:36:33,858 --> 00:36:36,611
+da to nije uobiËajeni
+maliciozni softver.
+
+466
+00:36:36,695 --> 00:36:42,200
+Mogli smo da ga pripiöemo GRU-u,
+ruskoj vojnoj obaveötajnoj sluûbi.
+
+467
+00:36:42,575 --> 00:36:45,996
+GLAVNI OBAVEäTAJNI
+DIREKTORAT, MOSKVA, RUSIJA
+
+468
+00:36:46,121 --> 00:36:50,458
+äirili su se sa sistema na sistem,
+uzimali dokumenta s mreûe,
+
+469
+00:36:50,583 --> 00:36:53,712
+krali podatke, nadzirali sve...
+
+470
+00:36:53,837 --> 00:36:57,257
+Ne moûete samo da iskljuËite
+jednu maöinu jer su svuda.
+
+471
+00:36:57,340 --> 00:37:02,220
+Morate da iskljuËite sve i da nekoliko
+dana ponovo gradite infrastrukturu.
+
+472
+00:37:02,429 --> 00:37:06,433
+Pitali smo Demokratsku
+stranku kada ûele remedijaciju.
+
+473
+00:37:07,600 --> 00:37:11,229
+Tada su u punom zamahu bili
+izbori za predsedniËkog kandidata.
+
+474
+00:37:11,313 --> 00:37:14,607
+Hilari Klinton joö nije bila
+obezbedila nominaciju, pa su rekli
+
+475
+00:37:14,733 --> 00:37:18,737
+da Ëekamo 4 ili 5 nedelja da se zavröe
+izbori za predsedniËkog kandidata
+
+476
+00:37:18,862 --> 00:37:21,406
+kad viöe ne budu pod lupom.
+
+477
+00:37:21,489 --> 00:37:23,950
+Nekoliko nedelja nije
+izgledalo problematiËno.
+
+478
+00:37:24,034 --> 00:37:26,953
+Naravno, u tom periodu su Rusi
+nastavili da kradu dokumenta,
+
+479
+00:37:27,078 --> 00:37:30,081
+a mi smo ih bespomoÊno posmatrali.
+
+480
+00:37:30,832 --> 00:37:35,462
+Bila sam zbunjena i uznemirena
+time öto se dogaalo.
+
+481
+00:37:37,005 --> 00:37:40,884
+Ali FBI to isprva
+nije shvatio ozbiljno.
+
+482
+00:37:41,468 --> 00:37:48,099
+Tada to nije izgledalo kao
+hitna i opasna situacija.
+
+483
+00:37:49,559 --> 00:37:52,479
+éelim da Ëestitam Hilari Klinton
+öto je uöla u istoriju
+
+484
+00:37:52,604 --> 00:37:57,943
+kao prva demokratska kandidatkinja
+za predsednicu Sjedinjenih Drûava.
+
+485
+00:37:58,318 --> 00:38:03,198
+Napokon, u junu 2016, izbacili smo
+Ruse iz mreûe Demokratske stranke.
+
+486
+00:38:03,448 --> 00:38:06,451
+"Upravo smo saznali da su
+ruski hakeri uspeli da se infiltriraju
+
+487
+00:38:06,534 --> 00:38:09,704
+u raËunarsku mreûu Demokratske stranke.
+
+488
+00:38:09,788 --> 00:38:15,210
+Oko godinu dana su pretraûivali
+mreûu, ali uklonjeni su ovog vikenda.
+
+489
+00:38:15,377 --> 00:38:18,505
+Razgovarali smo sa zvaniËnicima
+Demokratske stranke i kompanijom
+
+490
+00:38:18,588 --> 00:38:21,675
+koju su doveli kada
+su spoznali problem.
+
+491
+00:38:21,800 --> 00:38:23,677
+Ta firma se zove Kraudstrajk.
+
+492
+00:38:23,802 --> 00:38:28,890
+Pojavila se manja vest da Rusija
+hakuje Demokratsku stranku,
+
+493
+00:38:29,015 --> 00:38:32,435
+ali nacionalni mediji su
+brzo preöli preko toga.
+
+494
+00:38:32,686 --> 00:38:35,397
+Mislio sam da je to kraj priËe.
+
+495
+00:38:37,357 --> 00:38:40,735
+Ali veËe pre Demokratske konvencije,
+
+496
+00:38:43,738 --> 00:38:46,658
+Vikiliks je objavio imejlove.
+
+497
+00:38:48,994 --> 00:38:52,539
+"Dobro veËe. Ostavka predsednice
+Demokratskog nacionalnog odbora,
+
+498
+00:38:52,622 --> 00:38:56,668
+rusko hakovanje imejlova i revolt
+meu pristalicama Bernija Sandersa.
+
+499
+00:38:56,918 --> 00:38:59,963
+Dobro doöli na prvi dan
+Demokratske nacionalne konvencije."
+
+500
+00:39:02,173 --> 00:39:05,218
+Informacije ukradene sa
+servera Demokratske stranke
+
+501
+00:39:05,343 --> 00:39:08,013
+iznenada su poËele
+da se pojavljuju
+
+502
+00:39:08,138 --> 00:39:11,224
+na naËin koji su najavili
+napadi na Soni i Sends.
+
+503
+00:39:11,349 --> 00:39:12,475
+"Imejlovi koje je objavio
+Vikiliks pokazuju
+
+504
+00:39:12,559 --> 00:39:14,185
+da je Demokratski nacionalni
+odbor favorizovao Hilari Klinton
+
+505
+00:39:14,269 --> 00:39:16,354
+u odnosu na Sandersa."
+
+506
+00:39:16,563 --> 00:39:20,150
+To izlazi preko Vikiliksa
+gde sve moûe da se pretraûuje.
+
+507
+00:39:20,233 --> 00:39:23,194
+Oni izbace 20.000 imejlova, vi kao
+novinar samo upiöete neka imena
+
+508
+00:39:23,278 --> 00:39:25,322
+i odjednom imate priËu.
+
+509
+00:39:25,447 --> 00:39:28,408
+"Hiljade hakovanih imejlova
+prosleenih Vikiliksu
+
+510
+00:39:28,491 --> 00:39:30,535
+protresle su Demokratsku stranku."
+
+511
+00:39:30,619 --> 00:39:34,539
+"Namestili ste izbore!"
+
+512
+00:39:35,707 --> 00:39:40,045
+Pokuöavali su da pokrenu sukob
+
+513
+00:39:40,212 --> 00:39:45,675
+izmeu Bernijevih
+delegata i naöih snaga.
+
+514
+00:39:45,842 --> 00:39:48,386
+"Pristalice Bernija Sandersa
+kaûu da su imejlovi dokazali
+
+515
+00:39:48,470 --> 00:39:50,931
+da je stranka sve vreme
+favorizovala Hilari Klinton."
+
+516
+00:39:51,014 --> 00:39:53,141
+To je potvrdilo sve öto smo mislili.
+
+517
+00:39:53,225 --> 00:39:55,518
+Da su izbori za kandidata
+otpoËetka nameöteni.
+
+518
+00:39:56,519 --> 00:39:59,481
+KoristeÊi ukradeni materijal,
+mediji su usadili ideju
+
+519
+00:39:59,564 --> 00:40:03,026
+da je Demokratska stranka namestila
+proces protiv Bernija Sandersa.
+
+520
+00:40:03,109 --> 00:40:05,111
+U tome se nalazi deliÊ istine.
+
+521
+00:40:05,237 --> 00:40:08,198
+U Demokratskoj stranci je oËigledno
+bilo ljudi koji nisu voleli Sandersa,
+
+522
+00:40:08,323 --> 00:40:10,408
+ali to ne znaËi da je ceo
+proces bio nameöten.
+
+523
+00:40:10,492 --> 00:40:14,162
+Mediji su im omoguÊili da od deliÊa
+istine naprave konvencionalnu mudrost
+
+524
+00:40:14,246 --> 00:40:18,542
+jer je to prodavalo novine i teralo
+ljude da gledaju televiziju.
+
+525
+00:40:19,960 --> 00:40:23,588
+Ali samo su pojaËavali poruke
+koje su Rusi hteli da pojaËaju.
+
+526
+00:40:26,383 --> 00:40:30,053
+U toj gomilli informacija koje su
+potekle od Demokratske stranke,
+
+527
+00:40:30,428 --> 00:40:33,390
+bilo je dokumenata
+o finansiranju kampanje
+
+528
+00:40:33,473 --> 00:40:38,311
+koji nije trebalo da budu
+u Demokratskoj stranci.
+
+529
+00:40:39,771 --> 00:40:44,860
+Zato je kampanja poËela da istraûuje
+odakle su potekli ti podaci.
+
+530
+00:40:47,445 --> 00:40:51,283
+U proleÊe je jedna od mojih koleginica
+koja je imala pristup mojoj e-poöti
+
+531
+00:40:51,533 --> 00:40:56,371
+videla priliËno profesionalan
+"fiöing" zahtev
+
+532
+00:40:56,538 --> 00:40:59,875
+koji je izgledao kao
+da potiËe od Gugla.
+
+533
+00:41:00,417 --> 00:41:05,714
+Prijavila ga je
+tehniËarima iz kampanje.
+
+534
+00:41:06,840 --> 00:41:13,597
+TehniËar je poslao poruku mojoj
+asistentkinji da je zahtev stvaran
+
+535
+00:41:13,680 --> 00:41:17,017
+i da bi trebalo da promenim
+svoje podatke.
+
+536
+00:41:17,100 --> 00:41:22,314
+Ona je kliknula na link
+i tako su me Rusi hakovali.
+
+537
+00:41:22,731 --> 00:41:27,235
+U tom trenu nismo bili sigurni
+koliki je obim prodora.
+
+538
+00:41:30,864 --> 00:41:35,660
+U leto i jesen 2016. imali smo
+mnogo sastanaka u vezi s Rusima.
+
+539
+00:41:36,495 --> 00:41:40,373
+Bilo je mnogo diskusije
+oko toga öta treba uËiniti.
+
+540
+00:41:41,333 --> 00:41:45,045
+PoËeli smo da dobijamo
+informacije o sajber aktivnosti
+
+541
+00:41:45,128 --> 00:41:48,840
+koja je usredsreena na naöe
+baze podatka o registraciji biraËa.
+
+542
+00:41:49,382 --> 00:41:54,471
+Shvatili smo da su verovatno hteli
+da uniöte integritet tih podataka.
+
+543
+00:41:55,555 --> 00:41:59,768
+Rusi su mogli da uu u bazu podataka
+o registraciji biraËa i da ih promene
+
+544
+00:41:59,893 --> 00:42:03,355
+tako da, kada se biraËi
+pojave na biraliötu,
+
+545
+00:42:03,480 --> 00:42:07,859
+njihovi podaci se ne podudaraju
+sa ispravama i ne mogu da glasaju,
+
+546
+00:42:07,943 --> 00:42:13,073
+nastane haos na biraliötima i tako
+poremete izborni dan do tog stepena,
+
+547
+00:42:13,156 --> 00:42:18,245
+da ameriËka javnost poËne da
+sumnja u legitimitet procesa,
+
+548
+00:42:18,537 --> 00:42:22,874
+a onda potencijalno
+i u legitimitet ishoda.
+
+549
+00:42:24,376 --> 00:42:27,587
+Na to se Obama fokusirao.
+
+550
+00:42:27,921 --> 00:42:31,049
+Kada se Obama video
+sa Putinom u septembru,
+
+551
+00:42:31,466 --> 00:42:35,262
+praktiËno mu je zapretio
+ozbiljnim posledicama
+
+552
+00:42:35,345 --> 00:42:39,224
+ako pokuöaju tako neöto.
+
+553
+00:42:40,058 --> 00:42:46,148
+Mislim da su potcenili kakav efekat
+Rusi mogu da imaju od hakovanja,
+
+554
+00:42:46,815 --> 00:42:51,111
+od njihove ogromne
+operacije dezinformisanja.
+
+555
+00:42:52,195 --> 00:42:54,698
+SILICIJUMSKA DOLINA, KALIFORNIJA
+
+556
+00:42:54,906 --> 00:42:58,285
+Tokom izbora smo imali tim u Fejsbuku
+
+557
+00:42:58,368 --> 00:43:01,288
+Ëiji je posao bio traûenje
+ruskih operativaca.
+
+558
+00:43:01,455 --> 00:43:04,624
+Otkrili smo aktivnost
+GRU-a, Di-Si Liksa,
+
+559
+00:43:05,459 --> 00:43:07,794
+otkrili smo da guraju
+dezinformacije, ali niöta znaËajno,
+
+560
+00:43:07,878 --> 00:43:13,133
+i nismo razumeli öta se nalazi
+iza veÊine tih laûnih vesti.
+
+561
+00:43:15,302 --> 00:43:18,972
+Ali odmah nakon izbora uzeli
+smo sve politiËke reklame
+
+562
+00:43:19,055 --> 00:43:22,017
+koje su objavljene u SAD
+u godini pre izbora.
+
+563
+00:43:22,100 --> 00:43:25,020
+Otkrili smo sve raËune sa
+kojima su verovatno povezani.
+
+564
+00:43:25,103 --> 00:43:27,439
+To su ljudi koji su objavili reklamu,
+
+565
+00:43:27,522 --> 00:43:29,983
+ali i ljudi koji su
+koristili isti raËunar,
+
+566
+00:43:30,108 --> 00:43:32,194
+ili ljudi koji su
+koristili isti mobilni
+
+567
+00:43:32,319 --> 00:43:34,404
+kao osoba koja je objavila reklamu.
+
+568
+00:43:34,488 --> 00:43:37,866
+Za svaki taj raËun smo traûili
+moguÊu vezu sa Rusijom.
+
+569
+00:43:37,991 --> 00:43:41,536
+Na kraju smo otkrili
+klaster koji sve povezuje,
+
+570
+00:43:41,620 --> 00:43:44,873
+a to je Agencija za
+istraûivanje interneta.
+
+571
+00:43:45,582 --> 00:43:48,460
+SANKT PETERBURG, RUSIJA
+
+572
+00:43:51,505 --> 00:43:55,759
+Agencija za istraûivanje interneta
+zapravo je zgrada u Sankt Peterburgu
+
+573
+00:43:56,051 --> 00:44:00,972
+u kojoj sedi gomila trolova koji
+pokuöavaju da podele ameriËko druötvo.
+
+574
+00:44:01,973 --> 00:44:04,601
+Tada je postojala veÊ godinama.
+
+575
+00:44:04,726 --> 00:44:08,355
+Bavili su se propagandom
+u Rusiji, u Ukrajini i sliËno.
+
+576
+00:44:09,314 --> 00:44:14,653
+AII slala je ljude u SAD da
+prouËavaju politiËku sferu
+
+577
+00:44:14,778 --> 00:44:17,948
+i otkriju problematiËne taËke.
+
+578
+00:44:18,031 --> 00:44:21,618
+Godine 2016. su stvarali
+laûne ameriËke persone
+
+579
+00:44:21,785 --> 00:44:25,455
+i pokretali reklame
+kao politiËke grupe.
+
+580
+00:44:34,506 --> 00:44:37,092
+Dubina sadrûaja bila je iznenaujuÊa.
+
+581
+00:44:37,175 --> 00:44:40,637
+Naöa pretpostavka je bila da Êe
+sadrûaj biti politiËki jednostran,
+
+582
+00:44:40,762 --> 00:44:44,641
+ali efikasno su naöli taËke sukoba
+
+583
+00:44:44,725 --> 00:44:48,270
+i pokuöali da manipuliöu
+ljudima na obe strane.
+
+584
+00:44:48,603 --> 00:44:51,481
+Glavna tema bila je
+"éivoti crnaca su vaûni".
+
+585
+00:44:51,648 --> 00:44:53,692
+Stvorili su laûnu personu
+
+586
+00:44:53,817 --> 00:44:56,695
+koja se pretvarala da je aktivista
+pokreta "éivoti crnaca su vaûni"
+
+587
+00:44:57,279 --> 00:45:01,283
+i gurala narative koji bi
+mogli da radikalizuju ljude
+
+588
+00:45:01,366 --> 00:45:03,827
+koji su podrûavali pokret,
+
+589
+00:45:03,910 --> 00:45:06,580
+ali su i izgledali radikalno
+umerenim ljudima koji bi rekli:
+
+590
+00:45:06,663 --> 00:45:09,875
+"Pogledaj te ljude, zaista su ludi."
+
+591
+00:45:11,752 --> 00:45:14,755
+U nekoliko sluËajeva su
+pokuöali da organizuju proteste
+
+592
+00:45:14,838 --> 00:45:17,758
+gde bi grupa za imigraciju
+protestovala u isto vreme
+
+593
+00:45:17,883 --> 00:45:21,720
+kada bi protestovala
+i grupa protiv imigracije.
+
+594
+00:45:22,763 --> 00:45:25,891
+Dole rasisti, dole nacisti!
+
+595
+00:45:31,980 --> 00:45:35,901
+Iznenadilo nas je da bi Putinu
+bilo toliko stalo do toga
+
+596
+00:45:36,068 --> 00:45:39,112
+ko Êe biti sledeÊi predsednik,
+
+597
+00:45:39,488 --> 00:45:44,951
+da se toliko namerio da
+naöteti meni i mojoj kampanji
+
+598
+00:45:45,452 --> 00:45:49,414
+i spreËi me da
+postanem predsednica.
+
+599
+00:45:49,665 --> 00:45:55,504
+Iznenadilo nas je i to koliko su bili
+spretni u öirenju dezinformacija.
+
+600
+00:45:55,712 --> 00:45:58,924
+Nikad nismo videli tako neöto.
+
+601
+00:46:01,760 --> 00:46:05,972
+Nije nam palo na pamet da bi
+trebalo da traûimo takve grupe.
+
+602
+00:46:07,099 --> 00:46:11,436
+Obaveötajni timovi u firmama i u
+mestima poput NSA i ameriËke vlade
+
+603
+00:46:11,561 --> 00:46:14,356
+bili su usredsreeni
+na tradicionalne pretnje.
+
+604
+00:46:18,610 --> 00:46:22,572
+General Klaper je ratnik starog kova.
+
+605
+00:46:22,656 --> 00:46:25,409
+Odrastao je kao sin
+zapovednika Vazduönih snaga,
+
+606
+00:46:25,492 --> 00:46:28,120
+postao je obaveötajni
+oficir Vazduönih snaga.
+
+607
+00:46:28,203 --> 00:46:32,457
+Ali sajber sukobi koji se pojavljuju
+
+608
+00:46:32,541 --> 00:46:36,545
+tokom njegovog upravljanja
+Nacionalnom obaveötajnom agencijom
+
+609
+00:46:36,712 --> 00:46:39,548
+potpuno su drugaËija vrsta pretnje
+
+610
+00:46:39,631 --> 00:46:42,384
+koju pokuöava da drûi pod kontrolom,
+
+611
+00:46:42,467 --> 00:46:47,055
+ali iznenauju ga iznova i iznova.
+
+612
+00:46:47,764 --> 00:46:50,100
+Nije on kriv.
+
+613
+00:46:50,267 --> 00:46:55,230
+Nismo bili izgradili obaveötajnu
+mreûu za otkrivanje takvih stvari.
+
+614
+00:46:55,689 --> 00:47:01,278
+Ali bio je u Severnoj Koreji
+dok su oni bili u Soniju.
+
+615
+00:47:01,737 --> 00:47:04,156
+Nalazio se na Ëelu sistema
+
+616
+00:47:04,239 --> 00:47:08,076
+koji nije uspeo da na vreme
+upozori predsednika SAD
+
+617
+00:47:08,702 --> 00:47:12,164
+da se Rusi nalaze u Demokratskom
+nacionalnom odboru,
+
+618
+00:47:12,289 --> 00:47:15,917
+a kamoli unutar Fejsbuka.
+
+619
+00:47:19,838 --> 00:47:23,467
+Sada je lako priËati o tome.
+
+620
+00:47:24,217 --> 00:47:28,764
+Tada je bilo zabrinutosti
+oko objavljivanja toga u javnosti
+
+621
+00:47:28,847 --> 00:47:32,976
+jer time samo naglaöavamo vaûnost toga.
+
+622
+00:47:33,226 --> 00:47:36,897
+Prethodna administracija
+bila je nesklona delovanju
+
+623
+00:47:36,980 --> 00:47:41,401
+jer bi time iskazala
+naklonost jednom kandidatu
+
+624
+00:47:41,485 --> 00:47:45,155
+na ötetu drugog.
+
+625
+00:47:46,156 --> 00:47:48,659
+Sistem je nameöten.
+
+626
+00:47:48,742 --> 00:47:53,205
+To je nameöten, odvratan,
+prljav sistem. To je prljav sistem.
+
+627
+00:47:54,206 --> 00:47:59,169
+Kandidat Tramp je insinuirao da su
+izbori nameöteni ako on ne pobedi.
+
+628
+00:47:59,336 --> 00:48:03,840
+Zato je bilo oklevanja u
+delovanju prema tom narativu.
+
+629
+00:48:08,387 --> 00:48:14,101
+Ali efekat toga öto su Rusi
+radili bio je sve veÊi i jasniji.
+
+630
+00:48:14,393 --> 00:48:17,938
+7. oktobra smo napokon
+objavili izjavu za javnost
+
+631
+00:48:18,647 --> 00:48:22,526
+koja je bila priliËno
+jasna o ruskom uplitanju.
+
+632
+00:48:22,651 --> 00:48:26,154
+"Joö vanrednih vesti.
+Sjedinjene Drûave otvoreno kaûu
+
+633
+00:48:26,321 --> 00:48:30,200
+da se Rusija nalazi iza
+niza sajber napada
+
+634
+00:48:30,325 --> 00:48:33,370
+koji ciljaju predstojeÊe
+predsedniËke izbore."
+
+635
+00:48:33,579 --> 00:48:36,206
+Naûalost, naöa poruka je
+ostala neprimeÊena.
+
+636
+00:48:36,331 --> 00:48:39,543
+"Snimak Donalda Trampa
+nastao pre viöe od 10 godina..."
+
+637
+00:48:39,626 --> 00:48:43,380
+Zato öto je istog dana izaöao
+snimak "Akses Holivuda".
+
+638
+00:48:43,463 --> 00:48:45,591
+"Ne ûelite da ga deca Ëuju."
+
+639
+00:48:45,716 --> 00:48:49,595
+"Nabacivao sam joj se. Bila je u Palm
+BiËu. Nisam uspeo, priznajem.
+
+640
+00:48:49,761 --> 00:48:53,348
+Pokuöao sam da je tucam.
+Bila je udata. -Kakva vest!"
+
+641
+00:48:53,599 --> 00:48:56,768
+Izaölo je pismo obaveötajne zajednice.
+
+642
+00:48:56,852 --> 00:48:59,438
+U istom danu izae snimak
+"Akses Holivuda",
+
+643
+00:48:59,605 --> 00:49:05,944
+a Vikiliks poËne da objavljuje
+moje imejlove sat nakon toga.
+
+644
+00:49:06,486 --> 00:49:08,572
+Sami prosudite je li to sluËajnost.
+
+645
+00:49:08,655 --> 00:49:10,782
+"Objavljeno je joö 2000 imejlova
+
+646
+00:49:10,866 --> 00:49:14,494
+navodno sa hakovanog raËuna Dûona
+Podeste, menadûera kampanje H. Klinton.
+
+647
+00:49:14,661 --> 00:49:18,040
+... hiljade hakovanih imejlova
+menadûera kampanje Dûona Podeste.
+
+648
+00:49:18,165 --> 00:49:22,920
+TreÊi deo hakovanih imejlova Dûona
+Podeste, menadûera Klintonine kampanje
+
+649
+00:49:23,045 --> 00:49:26,965
+koji pruûaju uvid u rad kampanje."
+
+650
+00:49:27,299 --> 00:49:31,762
+VeÊina tih imejlova nije
+imala nikakvu vaûnost.
+
+651
+00:49:34,848 --> 00:49:36,934
+PriliËno sam dosadan tip.
+
+652
+00:49:37,017 --> 00:49:41,104
+"Jedna poruka otkriva neslaganje
+izmeu Hume Abedin i Podeste
+
+653
+00:49:41,230 --> 00:49:43,315
+o medijskoj strategiji."
+
+654
+00:49:43,398 --> 00:49:45,108
+Bilo je mnogo traËeva.
+
+655
+00:49:45,192 --> 00:49:47,486
+"U drugoj poruci dugogodiönja
+asistentkinja Klintonove
+
+656
+00:49:47,569 --> 00:49:50,364
+naziva »elsi Klinton
+razmaûenim deriötem."
+
+657
+00:49:50,489 --> 00:49:57,287
+Ali ljudi su mislili da je veoma
+soËno ako je tajno ili ukradeno.
+
+658
+00:49:57,871 --> 00:50:01,750
+"Tajanstveno je,
+ne ûele da to znate..."
+
+659
+00:50:01,917 --> 00:50:04,211
+"Poput svakog dobrog
+zavirivanja iza zavese,
+
+660
+00:50:04,294 --> 00:50:06,922
+pokazuju stvari koje bi kampanja
+radije gurnula pod tepih.
+
+661
+00:50:07,005 --> 00:50:10,551
+Klintonine poruke su
+fascinantne i urnebesne.
+
+662
+00:50:10,676 --> 00:50:13,095
+Viöe poput serije
+'Potpredsednica' ili 'Zapadno krilo'?"
+
+663
+00:50:13,178 --> 00:50:15,472
+Bili smo veoma frustrirani.
+
+664
+00:50:16,181 --> 00:50:21,395
+»injenica da se strana
+vlada upliÊe u izbore
+
+665
+00:50:21,520 --> 00:50:25,482
+nikad nije istaknuta u medijima.
+
+666
+00:50:25,607 --> 00:50:30,654
+Svi bi trebalo da se zabrinu öto Rusi
+pokuöavaju da utiËu na naöe izbore.
+
+667
+00:50:32,197 --> 00:50:36,285
+Svi su obaveöteni o mojim
+greökama sa e-poötom,
+
+668
+00:50:36,368 --> 00:50:40,163
+ali nisu znali da Rusi
+vode kampanju protiv nas.
+
+669
+00:50:40,414 --> 00:50:44,001
+Nisu znali da su ljudi iz Trampove
+kampanje povezani s tim
+
+670
+00:50:44,084 --> 00:50:47,421
+i da su pod istragom.
+
+671
+00:50:47,504 --> 00:50:50,465
+Ako pogledate Trampovu
+kampanju u poslednjem mesecu,
+
+672
+00:50:50,549 --> 00:50:53,677
+pominje Vikiliks viöe od 160 puta.
+
+673
+00:50:53,802 --> 00:50:58,348
+Sve iz e-poöte Dûona Podeste
+koristili su na perverzan naËin
+
+674
+00:50:58,432 --> 00:51:04,938
+kako bi stvorili kontroverzu
+i usadili nepoverenje.
+
+675
+00:51:05,314 --> 00:51:08,775
+"Ruski portal je potpuno pogreöno
+predstavio jedan od imejlova,
+
+676
+00:51:08,859 --> 00:51:10,402
+a Donald Tramp je to proËitao."
+
+677
+00:51:10,486 --> 00:51:13,489
+Sada priznaje da su mogli da
+uËine neöto u vezi sa Bengazijem.
+
+678
+00:51:13,572 --> 00:51:15,407
+Ovo je nedavno objavljeno.
+
+679
+00:51:15,574 --> 00:51:18,076
+Svakog dana se pojavljivala
+neka priËa sa imejlovima,
+
+680
+00:51:18,160 --> 00:51:20,913
+a onda je Komi bacio bombu na nas.
+
+681
+00:51:21,038 --> 00:51:23,832
+"Oktobarsko iznenaenje stiglo
+je u obliku pisma Kongresu
+
+682
+00:51:23,916 --> 00:51:26,752
+od strane direktora
+FBI-a Dûejmsa Komija
+
+683
+00:51:26,835 --> 00:51:30,088
+koji je napisao da su agenti na
+nepovezanom sluËaju saznali
+
+684
+00:51:30,172 --> 00:51:34,968
+za postojanje imejlova vaûnih
+za istragu Hilari Klinton."
+
+685
+00:51:35,135 --> 00:51:39,473
+To je sada "divljina ogledala",
+istraga za istragom...
+
+686
+00:51:39,848 --> 00:51:42,851
+Moramo da istraûimo Hilari Klinton
+
+687
+00:51:42,976 --> 00:51:46,355
+i moramo da istraûimo istragu.
+
+688
+00:51:47,564 --> 00:51:49,817
+To je prema ruskom udûbeniku.
+
+689
+00:51:49,900 --> 00:51:52,277
+Kad niöta nije stvarno, sve je moguÊe,
+
+690
+00:51:52,402 --> 00:51:54,279
+kao öto je rekao jedan
+od Putinovih kritiËara.
+
+691
+00:51:54,363 --> 00:51:57,407
+Mislim da niko ne zna da je Rusija
+provalila u Demokratsku stranku.
+
+692
+00:51:57,533 --> 00:51:59,618
+Ona govori: "Rusija, Rusija, Rusija."
+
+693
+00:51:59,701 --> 00:52:01,537
+Ali nisam siguran. Moûda jeste,
+
+694
+00:52:01,620 --> 00:52:05,290
+a moûda je neko od 200 kg
+ko sedi na svom krevetu.
+
+695
+00:52:05,415 --> 00:52:10,462
+PoËinje da uniötava poverenje ljudi.
+
+696
+00:52:10,671 --> 00:52:15,008
+HoÊete li se obavezati da Êete
+prihvatiti rezultate ovih izbora?
+
+697
+00:52:15,175 --> 00:52:17,094
+VideÊu u tom trenutku.
+
+698
+00:52:17,219 --> 00:52:21,974
+To uniötava verodostojnost
+demokratije. To Putin ûeli.
+
+699
+00:52:27,312 --> 00:52:31,316
+"Gledamo elektronsku mapu drûave
+
+700
+00:52:31,442 --> 00:52:35,028
+ovde na adresi Rokfeler
+Plaza 30 u Njujorku
+
+701
+00:52:35,154 --> 00:52:40,451
+gde Êe sunce izaÊi za novoizabranog
+predsednika Donalda Dûona Trampa
+
+702
+00:52:40,534 --> 00:52:43,412
+iz Kvinsa u Njujorku."
+
+703
+00:52:53,505 --> 00:52:59,803
+Imao sam oseÊaj da mi je
+utroba ispala. Bio sam skrhan.
+
+704
+00:53:01,597 --> 00:53:05,350
+MAR-A-LAGO, FLORIDA,
+NOVA GODINA, 2016.
+
+705
+00:53:06,435 --> 00:53:09,521
+Mesecima je novoizabrani
+predsednik bio pod paljbom
+
+706
+00:53:09,646 --> 00:53:12,608
+zbog reöavanja problema s Rusijom.
+
+707
+00:53:12,775 --> 00:53:16,153
+Znam mnogo o hakovanju.
+Hakovanje je teöko dokazati.
+
+708
+00:53:16,320 --> 00:53:18,489
+To je mogao da bude neko drugi.
+
+709
+00:53:18,655 --> 00:53:24,953
+Znam i stvari koje drugi ljudi ne
+znaju, pa ne mogu da budu sigurni.
+
+710
+00:53:26,663 --> 00:53:30,292
+Svi Ëekaju njegov prvi sastanak
+sa Vladimirom Putinom
+
+711
+00:53:31,376 --> 00:53:34,379
+koji je odrûan u Hamburgu u NemaËkoj.
+
+712
+00:53:35,297 --> 00:53:37,424
+Odleteli smo u Hamburg.
+
+713
+00:53:37,508 --> 00:53:39,927
+Tramp se po prvi put
+susreÊe sa Putinom.
+
+714
+00:53:40,052 --> 00:53:42,262
+Dugo razgovara s njim.
+
+715
+00:53:42,346 --> 00:53:48,268
+Na veËeri odlazi i vodi s njim razgovor
+kojem niko drugi nije prisustvovao.
+
+716
+00:53:48,560 --> 00:53:52,815
+Predsednik Putin i ja smo
+razgovarali o raznim stvarima.
+
+717
+00:53:52,940 --> 00:53:56,151
+Sve ide dobro. Dobro smo razgovarali.
+
+718
+00:53:57,236 --> 00:54:02,032
+VraÊao sam se u svoju hotelsku
+sobu. Zazvonio mi je mobilni.
+
+719
+00:54:03,450 --> 00:54:05,369
+Predsednik.
+
+720
+00:54:05,536 --> 00:54:09,957
+"Dejvide, imao sam neverovatan
+razgovor sa Vladimirom Putinom.
+
+721
+00:54:10,749 --> 00:54:16,255
+Rekao mi je, da su se
+Rusi petljali u izbore,
+
+722
+00:54:16,338 --> 00:54:19,133
+ne bismo ih ni videli.
+
+723
+00:54:19,758 --> 00:54:23,178
+Zato nisu mogli da budu oni
+jer ne bi bili tako neoprezni.
+
+724
+00:54:23,303 --> 00:54:27,725
+Piöeö o takvim stvarima. Znaö
+sve o tome. Sigurno je u pravu."
+
+725
+00:54:28,350 --> 00:54:31,353
+Predsednik je traûio potvrdu.
+
+726
+00:54:31,562 --> 00:54:36,650
+Traûio je bilo kakav naËin da
+porekne ili baci sumnju na pitanje
+
+727
+00:54:36,775 --> 00:54:39,945
+o tome jesu li Rusi
+odgovorni za hakovanje.
+
+728
+00:54:40,446 --> 00:54:42,698
+U tom trenutku znate
+
+729
+00:54:42,781 --> 00:54:48,245
+da vlada neÊe organizovati
+reakciju protiv Rusa.
+
+730
+00:54:53,584 --> 00:54:56,045
+2017.
+
+731
+00:54:56,128 --> 00:55:00,924
+"Ovo nije sliËno bilo kom drugom
+sajber napadu dosad.
+
+732
+00:55:01,091 --> 00:55:06,055
+PoËnimo s tim sajber napadom.
+To je novi oblik ucene.
+
+733
+00:55:06,305 --> 00:55:11,477
+Pogaa firme öirom sveta i drûi
+njihove raËunarske sisteme kao taoce."
+
+734
+00:55:12,144 --> 00:55:16,148
+Godine 2017, ubrzo nakon
+öto je Tramp doöao na vlast,
+
+735
+00:55:16,273 --> 00:55:22,529
+videli smo dramatiËnu
+eskalaciju sajber napada.
+
+736
+00:55:24,365 --> 00:55:27,576
+Dogodio se veliki napad
+ucenjivaËkim softverom
+
+737
+00:55:27,659 --> 00:55:30,954
+pod nazivom "NotPetja"
+koji je poËeo u Ukrajini.
+
+738
+00:55:31,663 --> 00:55:34,249
+KIJEV, UKRAJINA
+
+739
+00:55:34,416 --> 00:55:36,794
+Bio je jun 2017. godine.
+
+740
+00:55:37,044 --> 00:55:40,631
+Zamenik sam öefa
+predsedniËke administracije.
+
+741
+00:55:40,839 --> 00:55:44,968
+Uzeo sam nekoliko slobodnih dana
+da odvezem decu u letnji kamp.
+
+742
+00:55:45,135 --> 00:55:48,055
+Ujutro sam poËeo da dobijam
+poruke od svog tima.
+
+743
+00:55:49,181 --> 00:55:52,184
+Misle da je Ukrajina pod napadom.
+
+744
+00:55:52,351 --> 00:55:56,146
+Naöa infrastruktura registruje
+napade. Virus uniötava raËunare.
+
+745
+00:55:57,272 --> 00:56:01,151
+Bankomati nisu radili.
+Pali su bolniËki raËunari.
+
+746
+00:56:02,027 --> 00:56:05,072
+Televizijske stanice, prodavnice...
+
+747
+00:56:05,489 --> 00:56:09,034
+Bilo je straöno.
+äirilo se poput poûara.
+
+748
+00:56:10,661 --> 00:56:13,789
+Ukrajina je Putinova
+Petrijeva öolja.
+
+749
+00:56:14,123 --> 00:56:18,210
+Tamo eksperimentiöe sa svakom tehnikom
+
+750
+00:56:18,502 --> 00:56:22,506
+koju na kraju koristi
+u Sjedinjenim Drûavama,
+
+751
+00:56:22,589 --> 00:56:25,134
+kao öto je provala u
+e-poötu i njeno objavljivanje
+
+752
+00:56:25,259 --> 00:56:28,220
+i stvaranje haosa dezinformacijama.
+
+753
+00:56:29,471 --> 00:56:34,184
+Rusija je neprestano testirala
+razliËite strategije i pristupe
+
+754
+00:56:34,393 --> 00:56:36,145
+u Ukrajini.
+
+755
+00:56:36,228 --> 00:56:42,026
+Napadi na elektriËnu mreûu 2015.
+Na saobraÊajnu infrastrukturu 2016,
+
+756
+00:56:43,277 --> 00:56:47,364
+aerodrom u Odesi,
+podzemna ûeleznica u Kijevu.
+
+757
+00:56:47,573 --> 00:56:53,996
+Ne vidimo regularni rat,
+ali odvija se rat i uniötava sve.
+
+758
+00:56:55,706 --> 00:56:59,209
+äto se tiËe napada "NotPetja",
+Rusi nisu raËunali na to
+
+759
+00:56:59,335 --> 00:57:02,921
+da su öireÊi algoritmi koje su
+stavili unutra toliko agresivni,
+
+760
+00:57:03,339 --> 00:57:06,467
+da se neÊe zaustaviti samo
+na mreûi jedne kompanije.
+
+761
+00:57:06,592 --> 00:57:12,681
+"Bilo koja firma povezana s Ukrajinom
+zaraûena je ovim zaraznim virusom."
+
+762
+00:57:12,806 --> 00:57:18,354
+Brzo je ugrozio izvoaËe radova,
+druge mreûe s kojima ste povezani...
+
+763
+00:57:18,520 --> 00:57:22,483
+Oteo se kontroli i poËeo da napada
+korporacije i firme öirom sveta.
+
+764
+00:57:23,108 --> 00:57:26,820
+Pogoene su kompanije Maersk, FedEks...
+
+765
+00:57:26,987 --> 00:57:31,659
+Izgubile su stotine miliona dolara
+samo u gubitku poslovnih operacija,
+
+766
+00:57:31,784 --> 00:57:35,996
+kao i novac kojim su
+morale da saniraju ötetu.
+
+767
+00:57:37,748 --> 00:57:41,293
+Postoji joö jedan aspekt
+napada "NotPetja"
+
+768
+00:57:41,418 --> 00:57:44,880
+koji je zaista zakomplikovao priËu.
+
+769
+00:57:46,507 --> 00:57:50,386
+Ispostavilo se da se komponenta
+napada oslanjala na kod
+
+770
+00:57:50,469 --> 00:57:55,224
+koji je bio ukraden iz NSA.
+
+771
+00:57:57,184 --> 00:58:01,939
+U leto 2016, grupa koja se
+nazivala "äedou Brokers"
+
+772
+00:58:02,314 --> 00:58:06,610
+poËela je da objavljiuje
+hiljade linija tog koda
+
+773
+00:58:07,611 --> 00:58:12,074
+kako bi NSA bilo jasno
+da imaju njihovo blago.
+
+774
+00:58:13,659 --> 00:58:18,581
+Ubrzo su Severnokorejci
+koristili delove koda
+
+775
+00:58:18,872 --> 00:58:22,918
+kada su napali oruûjem
+pod nazivom "VanaKraj".
+
+776
+00:58:23,210 --> 00:58:27,006
+"Taj 'crv' koji je procureo iz
+NSA ciljao je Majkrosoft vindouz.
+
+777
+00:58:27,172 --> 00:58:30,342
+U opasnosti su raËunari
+u SAD i öirom sveta
+
+778
+00:58:30,509 --> 00:58:32,928
+koji koriste Vindouz."
+
+779
+00:58:35,973 --> 00:58:41,687
+Uvek Êu se seÊati tog jutra i
+sastanka uprave Majkrosofta.
+
+780
+00:58:42,062 --> 00:58:45,232
+Iznenada su ljudi
+poËeli da primaju poruke,
+
+781
+00:58:45,399 --> 00:58:49,445
+izveötaje i pitanja od klijenata
+o tome öta se dogaa.
+
+782
+00:58:49,528 --> 00:58:53,324
+"Dobijamo informacije o velikom
+meunarodnom sajber napadu.
+
+783
+00:58:53,449 --> 00:58:58,954
+Hakeri koji traûe novac paralisali
+su raËunare u barem 99 zemalja."
+
+784
+00:59:00,331 --> 00:59:03,751
+Gotovo da moûete da vidite kako se taj
+"crv" kreÊe s vremenskim zonama
+
+785
+00:59:04,001 --> 00:59:07,796
+preko Atlantskog okeana,
+iz Evrope u Severnu Ameriku.
+
+786
+00:59:10,925 --> 00:59:16,222
+Kao da smo izgubili nacrte
+za ameriËki projektil.
+
+787
+00:59:16,680 --> 00:59:22,394
+Ukrali su ga Severna Koreja i
+Rusija, usavröili, stvorili prototip
+
+788
+00:59:22,728 --> 00:59:27,274
+i ispalili ga na ameriËke
+saveznike i prijatelje.
+
+789
+00:59:27,524 --> 00:59:31,654
+U jednom danu je napao 155 zemalja.
+
+790
+00:59:31,820 --> 00:59:35,616
+U istoriji ËoveËanstva,
+nijedno oruûje neke zemlje
+
+791
+00:59:35,699 --> 00:59:41,497
+nije istovremeno pogodilo
+toliko drugih nacija.
+
+792
+00:59:44,583 --> 00:59:50,256
+Obim napada eskalira.
+Sofisticiranost napada eskalira.
+
+793
+00:59:50,631 --> 00:59:56,053
+A debata o tome kako to
+reöiti samo postaje zbunjujuÊa.
+
+794
+00:59:57,930 --> 01:00:00,850
+BALTIMOR, MERILEND
+
+795
+01:00:06,647 --> 01:00:09,650
+To je bio moj prvi dan
+predsedavanja veÊem.
+
+796
+01:00:09,817 --> 01:00:14,405
+Bila je ponoÊ. Preko poslovnog mobilnog
+pokuöavao sam da uem u e-poötu.
+
+797
+01:00:14,530 --> 01:00:18,826
+Nisam mogao. Nisam
+mogao ni preko raËunara.
+
+798
+01:00:19,118 --> 01:00:21,954
+PoËeo sam da zovem ljude za
+koje sam znao da su budni
+
+799
+01:00:22,037 --> 01:00:24,957
+i rekao im da su nas hakovali.
+
+800
+01:00:25,583 --> 01:00:28,294
+Napadnuti smo ucenjivaËkim softverom.
+
+801
+01:00:28,419 --> 01:00:31,589
+Administracija i savezna
+vlada su nas savetovali
+
+802
+01:00:31,714 --> 01:00:34,675
+da ne plaÊamo otkupninu.
+
+803
+01:00:34,967 --> 01:00:37,970
+Nismo mogli da komuniciramo s ljudima
+s kojima inaËe komuniciramo.
+
+804
+01:00:38,095 --> 01:00:41,265
+Ljudi nisu mogli da vade
+dozvole, kupuju nekretnine,
+
+805
+01:00:41,348 --> 01:00:45,561
+plaÊaju raËune, kazne
+za parking i globe...
+
+806
+01:00:45,769 --> 01:00:49,231
+Govorimo o poslovima
+koji nisu mogli da se obave
+
+807
+01:00:49,315 --> 01:00:53,694
+zato öto su sistemi zaustavljeni.
+
+808
+01:00:54,570 --> 01:00:58,407
+Izgubio sam 12 godina dokumenata.
+
+809
+01:00:59,700 --> 01:01:01,785
+Koliko je to koötalo Baltimor?
+
+810
+01:01:01,952 --> 01:01:07,833
+Morali smo da platimo 15 miliona
+dolara i izgradimo bolje sisteme.
+
+811
+01:01:08,584 --> 01:01:12,588
+Otkupnina je bila manja?
+-Mnogo manja.
+
+812
+01:01:12,796 --> 01:01:17,092
+Ali gradonaËelnik je doneo
+odluku o neplaÊanju otkupnine
+
+813
+01:01:17,259 --> 01:01:20,471
+na osnovu saveta struËnjaka
+za javnu bezbednost.
+
+814
+01:01:22,556 --> 01:01:26,310
+Paralisani su gradovi
+öirom Amerike, a neki od njih,
+
+815
+01:01:26,811 --> 01:01:31,065
+ukljuËujuÊi gradiÊ na Floridi, odluËili
+su da je jeftinije platiti otkupninu
+
+816
+01:01:31,190 --> 01:01:35,361
+nego ponovo praviti baze podataka.
+
+817
+01:01:36,946 --> 01:01:41,075
+Gradovi i uprave öirom zemlje, firme
+öirom zemlje, neprofitne organizacije
+
+818
+01:01:41,200 --> 01:01:46,121
+i ökole moraju da shvate da je to
+svet u kom trenutno ûivimo.
+
+819
+01:01:46,330 --> 01:01:49,250
+To je novo normalno.
+
+820
+01:01:51,961 --> 01:01:56,298
+2018.
+
+821
+01:01:58,843 --> 01:02:02,346
+Direktorko Nilsen,
+
+822
+01:02:02,513 --> 01:02:07,685
+kako Drûavna
+bezbednost procenjuje rusku
+
+823
+01:02:07,768 --> 01:02:11,272
+ili drugu pretnju izborima?
+
+824
+01:02:12,231 --> 01:02:16,026
+Ta pretnja ostaje visoka.
+Opreznost je vaûna.
+
+825
+01:02:16,110 --> 01:02:21,740
+Moramo mnogo toga da uËinimo
+na svim nivoima vlasti pre izbora.
+
+826
+01:02:25,703 --> 01:02:29,457
+Kad je reË o izborima,
+predsednik, razumljivo,
+
+827
+01:02:29,623 --> 01:02:34,003
+nije hteo da se
+preispituju rezultati izbora.
+
+828
+01:02:35,838 --> 01:02:37,965
+Bilo je teöko,
+
+829
+01:02:38,174 --> 01:02:43,345
+ali oni koji moraju da budu fokusirani
+na izbore znaju öta treba uraditi.
+
+830
+01:02:43,637 --> 01:02:49,977
+Ljudi koji to moraju su zaista
+prionuli na posao i prepoznali pretnju.
+
+831
+01:02:55,816 --> 01:02:57,860
+Kada se nadmetao za predsednika,
+
+832
+01:02:57,943 --> 01:03:01,197
+Tramp nije razmiöljao
+o sajber napadima.
+
+833
+01:03:01,530 --> 01:03:04,074
+Mislim da nije ni Ëuo za Staksnet.
+
+834
+01:03:04,241 --> 01:03:07,578
+Sigurno nije shvatio
+o Ëemu je bila reË.
+
+835
+01:03:08,162 --> 01:03:10,081
+U jednom trenu mi je rekao:
+
+836
+01:03:10,247 --> 01:03:13,334
+O, 'sajber'. 'Sajber' je veoma moÊan."
+
+837
+01:03:16,003 --> 01:03:20,049
+Ali kandidat Tramp je rekao da ûeli da
+povuËe ameriËke snage s Bliskog istoka,
+
+838
+01:03:20,633 --> 01:03:23,219
+iz Juûne Koreje, iz Japana.
+
+839
+01:03:23,344 --> 01:03:26,639
+Sajber napade je smatrao
+"Ëarobnim metkom".
+
+840
+01:03:27,223 --> 01:03:31,143
+Sazvao sam danaönji
+sastanak zbog obeÊanja
+
+841
+01:03:31,227 --> 01:03:34,647
+da Êu obezbediti kljuËnu infrastrukturu
+
+842
+01:03:35,398 --> 01:03:39,944
+i mreûe savezne vlade,
+o Ëemu smo mnogo govorili,
+
+843
+01:03:40,069 --> 01:03:44,698
+od sajber pretnji.
+
+844
+01:03:47,284 --> 01:03:50,413
+KRIPTOLOäKI CENTAR NSA,
+SAN ANTONIO, TEKSAS
+
+845
+01:03:50,538 --> 01:03:52,748
+BAZA PODATAKA 'NSA,
+KAMP VILIJAMS, JUTA
+
+846
+01:03:52,832 --> 01:03:55,084
+Dok je Tramp postao predsednik,
+
+847
+01:03:55,209 --> 01:03:59,422
+Sjedinjene Drûave su izgradile
+veliki sajber ofanzivni program.
+
+848
+01:03:59,630 --> 01:04:02,967
+INTEGRISANI SAJBER CENTAR,
+FORT MID, MERILEND
+
+849
+01:04:03,634 --> 01:04:06,303
+Napao je projektile Severne Koreje.
+
+850
+01:04:06,387 --> 01:04:09,223
+"Severna Koreja je opet pokuöala
+da lansira balistiËki projektil
+
+851
+01:04:09,306 --> 01:04:12,351
+i nije uspela. -To je drugo
+i treÊe neuspeöno lansiranje.
+
+852
+01:04:12,435 --> 01:04:14,645
+Joö jedan neuspeh.
+
+853
+01:04:14,854 --> 01:04:18,858
+PomoÊu koda su ti
+projektili poslati u more.
+
+854
+01:04:22,862 --> 01:04:26,490
+Napao je ISIS-ov sistem regrutovanja.
+
+855
+01:04:27,533 --> 01:04:30,453
+Operacija se zvala
+"Svetlucava simfonija".
+
+856
+01:04:30,995 --> 01:04:34,999
+Ideja je bila da se
+ISIS iskljuËi sa interneta.
+
+857
+01:04:37,376 --> 01:04:40,588
+Ali jedna od kljuËnih lekcija
+Obamine administracije
+
+858
+01:04:40,755 --> 01:04:45,259
+jeste da je odobravanje sajber
+operacija trajalo predugo
+
+859
+01:04:45,342 --> 01:04:49,055
+uprkos razvijanju svih
+tih novih sposobnosti.
+
+860
+01:04:51,098 --> 01:04:53,684
+Tokom mog rada
+u Ministarstvu odbrane,
+
+861
+01:04:53,809 --> 01:04:57,563
+Ëak ni ministar odbrane nije
+mogao da odobri sajber napad.
+
+862
+01:04:57,688 --> 01:04:59,690
+To je mogao samo predsednik SAD.
+
+863
+01:04:59,940 --> 01:05:01,984
+Predsednik Tramp ima drugaËiji pristup.
+
+864
+01:05:02,068 --> 01:05:05,446
+Ovlastio je ministra odbrane i
+zapovednika Sajber komande
+
+865
+01:05:05,529 --> 01:05:10,659
+za odobravanje ofanzivnih
+sajber operacija.
+
+866
+01:05:12,411 --> 01:05:14,705
+äta mislite da naöi
+protivnici sada misle?
+
+867
+01:05:14,872 --> 01:05:17,917
+äta Êe im se dogoditi ako
+izvedu sajber napad na Ameriku?
+
+868
+01:05:18,084 --> 01:05:23,464
+Mislim da ne misle da Êe
+im se neöto posebno dogoditi.
+
+869
+01:05:23,589 --> 01:05:26,258
+Ne plaöe nas se?
+-Ne.
+
+870
+01:05:28,219 --> 01:05:32,056
+Kada je general Nakasoni preuzeo
+NSA i Sajber komandu,
+
+871
+01:05:32,181 --> 01:05:35,017
+unutar te organizacije
+osnovao je grupu
+
+872
+01:05:35,101 --> 01:05:37,436
+pod nazivom "Rusija mala grupa"
+
+873
+01:05:37,561 --> 01:05:40,940
+koja je trebalo da se agresivno
+postavi prema Rusima.
+
+874
+01:05:43,901 --> 01:05:48,572
+Nekoliko godina su Sjedinjene Drûave
+upozoravale da se ruski hakeri nalaze
+
+875
+01:05:48,656 --> 01:05:51,617
+u ameriËkoj elektriËnoj mreûi.
+
+876
+01:05:52,034 --> 01:05:56,914
+Godine 2018, NSA je uzela kod
+koji su napravili Amerikanci
+
+877
+01:05:57,039 --> 01:06:01,085
+i stavila ga u rusku elektriËnu mreûu.
+
+878
+01:06:01,502 --> 01:06:05,965
+Deo su dizajnirali tako
+da ga Rusi sigurno vide.
+
+879
+01:06:07,383 --> 01:06:11,053
+Poslali su poruku:
+"NeÊemo to raditi tajno,
+
+880
+01:06:11,303 --> 01:06:15,057
+nateraÊemo vas da shvatite
+kolika Êe cena biti."
+
+881
+01:06:15,766 --> 01:06:19,103
+SPOLJNA OBAVEäTAJNA SLUéBA,
+MOSKVA, RUSIJA
+
+882
+01:06:19,437 --> 01:06:23,024
+Poslate su i SMS poruke ruskim
+obaveötajnim operativcima
+
+883
+01:06:23,149 --> 01:06:27,987
+u kojima je pisalo: "Znamo ko ste. Ako
+nastavite da sprovodite sajber napade
+
+884
+01:06:28,070 --> 01:06:33,409
+i utiËete na izbore 2018,
+biÊe posledica."
+
+885
+01:06:33,701 --> 01:06:36,037
+Sprovedene su ciljane
+sajber operacije
+
+886
+01:06:36,120 --> 01:06:38,539
+u kojima je trebalo da bude jasno
+da znamo ko sprovodi napade
+
+887
+01:06:38,622 --> 01:06:41,959
+i da Êemo im uniötiti
+sposobnost delovanja.
+
+888
+01:06:42,668 --> 01:06:44,670
+SANKT PETERBURG, RUSIJA
+
+889
+01:06:44,754 --> 01:06:47,506
+Godine 2018, neposredno pre izbora,
+
+890
+01:06:47,840 --> 01:06:51,802
+Sajber komanda je oborila rusku
+Agenciju za istraûivanje interneta.
+
+891
+01:06:52,470 --> 01:06:55,348
+Upali su u nju i uniötili njihovu mreûu
+
+892
+01:06:55,431 --> 01:07:00,811
+kako ne bi mogli da sprovode svoju
+kampanju na druötvenim mreûama.
+
+893
+01:07:03,731 --> 01:07:08,778
+To je bila direktna operacija
+i, Ëini se, uspeöna.
+
+894
+01:07:09,445 --> 01:07:12,907
+Rusi su bili donekle
+tihi u tom periodu.
+
+895
+01:07:14,158 --> 01:07:16,160
+Pitanje je koliko Êe to trajati.
+
+896
+01:07:16,327 --> 01:07:20,122
+Moûemo li da se unapred branimo
+od svakog potencijalnog hakera?
+
+897
+01:07:20,665 --> 01:07:22,833
+2020.
+
+898
+01:07:22,917 --> 01:07:24,585
+FEBRUAR
+
+899
+01:07:24,835 --> 01:07:27,964
+"Dobro jutro, Sandra i Ede,
+sada sve zavisi od glasaËa u Ajovi.
+
+900
+01:07:28,214 --> 01:07:32,134
+Ajovljani se okupljaju na viöe od 1600
+biraliöta kako bi podrûali osobu
+
+901
+01:07:32,218 --> 01:07:35,096
+za koju ûele da osvoji demokratsku
+predsedniËku nominaciju."
+
+902
+01:07:35,221 --> 01:07:38,933
+Moj cilj je jednostavan. éelim
+da joö jedanput stanem pred vas
+
+903
+01:07:39,058 --> 01:07:41,560
+i zamolim vas za vaö glas.
+
+904
+01:07:42,228 --> 01:07:48,150
+Joö Ëekamo prve zvaniËne rezultate.
+OËigledno sporo broje glasove.
+
+905
+01:07:48,317 --> 01:07:53,698
+Proölo je 16 sati od poËetka
+izbora u Ajovi. Joö Ëekamo rezultate.
+
+906
+01:07:53,781 --> 01:07:57,118
+Aplikacija nije radila.
+Niko nije znao hoÊe li raditi.
+
+907
+01:07:57,243 --> 01:07:59,495
+Zasad nije dobro."
+
+908
+01:08:01,831 --> 01:08:03,958
+U Ajovi se ostvario moj najveÊi strah.
+
+909
+01:08:04,083 --> 01:08:08,170
+"NajveÊa zabrinutost odnosila se na to
+da glasaËi neÊe moÊi da veruju sistemu.
+
+910
+01:08:08,254 --> 01:08:10,381
+äta je sa poverenjem u glasanje?
+
+911
+01:08:10,464 --> 01:08:14,010
+Pogotovo nakon ruskog uplitanja 2016."
+
+912
+01:08:14,176 --> 01:08:17,138
+Ono öto Ajova pokazuje
+protivnicima SAD
+
+913
+01:08:17,221 --> 01:08:19,765
+jeste da samo treba da stvore privid,
+
+914
+01:08:19,890 --> 01:08:22,435
+Ëak ne treba da stvore
+sopstvene dezinformacije,
+
+915
+01:08:22,518 --> 01:08:24,645
+ameriËki politiËari
+Êe uËiniti to za njih.
+
+916
+01:08:24,729 --> 01:08:26,522
+"Predsednikov sin
+kaûe da je nameöteno,
+
+917
+01:08:26,606 --> 01:08:28,316
+predsednikov voa kampanje.
+
+918
+01:08:28,399 --> 01:08:31,861
+Bajdenova kampanja otvoreno
+kaûe da ne veruje rezultatima."
+
+919
+01:08:31,986 --> 01:08:35,197
+Stvorili su neöto öto se
+zove "hakovanje percepcije".
+
+920
+01:08:35,281 --> 01:08:40,411
+Naö um odmah postavlja pitanje:
+"Meöaju li se Rusi u naöe izbore?"
+
+921
+01:08:40,620 --> 01:08:42,914
+Nije vaûno da li se meöaju ili ne.
+
+922
+01:08:42,997 --> 01:08:45,750
+To je jedan od zbunjujuÊih
+aspekata izborne bezbednosti.
+
+923
+01:08:45,958 --> 01:08:48,920
+Nije stvar samo u hakovanju raËunara.
+
+924
+01:08:49,086 --> 01:08:53,299
+Postoji drugi aspekt uplitanja u izbore
+koji ûeli da vam hakuje mozak.
+
+925
+01:08:53,424 --> 01:08:57,970
+éele da ameriËki narod
+izgubi poverenje u sistem,
+
+926
+01:08:58,095 --> 01:09:03,434
+da misle je sistem pokvaren
+i da njihov glas nije vaûan.
+
+927
+01:09:03,601 --> 01:09:07,271
+"AmeriËki zvaniËnici rekli su Berniju
+Sandersu da Rusija pokuöava
+
+928
+01:09:07,355 --> 01:09:10,733
+da pomogne njegovoj
+predsedniËkoj kampanji."
+
+929
+01:09:10,900 --> 01:09:13,569
+Zaöto se to sada saznalo,
+a rekli su vam pre mesec dana?
+
+930
+01:09:13,694 --> 01:09:17,990
+Dan pre izbora u
+Nevadi? A öta mislite?
+
+931
+01:09:18,115 --> 01:09:20,910
+Zbog Vaöington posta?
+Dobri prijatelji.
+
+932
+01:09:21,452 --> 01:09:25,206
+Dûo, öta poruËujete Rusima?
+-Dolazim.
+
+933
+01:09:25,957 --> 01:09:30,795
+NastaviÊe da se upliÊu. UkljuËeni su u
+ovu trku. Napadaju me na Fejsbuku.
+
+934
+01:09:30,920 --> 01:09:33,631
+Sklonili su ih.
+
+935
+01:09:33,965 --> 01:09:37,969
+Putin me zna i ja znam njega.
+Ne ûeli da postanem predsednik.
+
+936
+01:09:38,386 --> 01:09:42,014
+"Rusi ûele da svi u ovoj zemlji
+izgube poverenje u sve.
+
+937
+01:09:42,139 --> 01:09:45,059
+Naredni meseci Êe biti napeti,
+sa Rusima ili bez njih."
+
+938
+01:09:45,184 --> 01:09:47,937
+MART
+
+939
+01:09:48,479 --> 01:09:50,231
+"Vanredna vest.
+
+940
+01:09:50,356 --> 01:09:52,817
+äirenje koronavirusa sada je
+postalo globalna pandemija.
+
+941
+01:09:52,942 --> 01:09:57,446
+Sve zemlje su pogoene. Pogoeni
+su svi aspekti naöe svakodnevice.
+
+942
+01:09:57,572 --> 01:10:01,367
+BiÊe joö sluËajeva i
+situacija Êe se pogoröati."
+
+943
+01:10:04,078 --> 01:10:08,833
+Koronavirus je promenio
+takmiËenje za svetsku moÊ.
+
+944
+01:10:09,500 --> 01:10:14,005
+Zbog toga nije Ëudno öto je
+promenio i sajber snage.
+
+945
+01:10:14,130 --> 01:10:18,759
+"Laûne informacije se sada öire
+internetom brûe od samog virusa.
+
+946
+01:10:18,885 --> 01:10:22,388
+Sajber struËnjaci i
+zdravstveni sluûbenici upozoravaju
+
+947
+01:10:22,471 --> 01:10:26,767
+da je tzv. infodemija
+opasna i da je treba obuzdati."
+
+948
+01:10:27,935 --> 01:10:32,732
+Usred pandemije
+dezinformacije postaju napumpane.
+
+949
+01:10:33,441 --> 01:10:39,447
+Vidimo kako se to odvija u omiljenoj
+ruskoj Petrijevoj öolji, Ukrajini.
+
+950
+01:10:39,572 --> 01:10:42,992
+NOVI SANDéARI, UKRAJINA
+
+951
+01:10:48,456 --> 01:10:51,125
+Kako je koronavirus
+poËeo da se öiri po svetu,
+
+952
+01:10:51,250 --> 01:10:54,629
+Ukrajina je brzo poËela da povlaËi
+svoje graane iz Vuhana
+
+953
+01:10:54,712 --> 01:11:02,011
+kako bi proveli 14 dana u samoizolaciji
+u gradiÊu u srediönjoj Ukrajini.
+
+954
+01:11:03,596 --> 01:11:09,310
+Ti ljudi nisu bili zaraûeni, ali ljudi
+na druötvenim mreûama su poËeli
+
+955
+01:11:09,435 --> 01:11:14,899
+da öire dezinformacije da su Ukrajinci
+koji se vraÊaju iz Vuhana zaraûeni.
+
+956
+01:11:16,067 --> 01:11:20,071
+Ljudi su poËeli da se meusobno
+upozoravaju koristeÊi Vajber,
+
+957
+01:11:20,238 --> 01:11:23,282
+Instagram i Fejsbuk.
+
+958
+01:11:23,825 --> 01:11:27,161
+Neke poruke su iöle
+i dalje i govorile su
+
+959
+01:11:27,286 --> 01:11:30,164
+da ljudi treba da izau
+na ulicu i da protestuju
+
+960
+01:11:30,331 --> 01:11:33,668
+da bi spreËili dolazak autobusa
+kako bi zaötitili svoju decu
+
+961
+01:11:33,751 --> 01:11:37,505
+jer Êe ujutro svi biti mrtvi.
+
+962
+01:11:38,297 --> 01:11:42,885
+Te dezinformacije su pokrenule
+stvarne uliËne proteste.
+
+963
+01:11:53,604 --> 01:11:57,024
+Izaöla je policija. Doölo je do sukoba.
+
+964
+01:11:59,318 --> 01:12:03,239
+Kada se tako neöto dogodi,
+pogotovo u Ukrajini,
+
+965
+01:12:03,448 --> 01:12:06,909
+prstom se uvek prvo upire u Rusiju.
+
+966
+01:12:07,535 --> 01:12:11,789
+Postoje tragovi koji upuÊuju na Rusiju,
+
+967
+01:12:12,540 --> 01:12:16,169
+ali u tim grupama postoje
+stvarni ljudi koje sam intervjuisao
+
+968
+01:12:16,252 --> 01:12:20,423
+i koji su rekli: "I ja sam delio poruke
+u grupi da idemo da protestujemo
+
+969
+01:12:20,673 --> 01:12:22,967
+kako bih zaötitio
+sebe i svoju porodicu."
+
+970
+01:12:23,092 --> 01:12:26,471
+To je za samo nekoliko
+sati izmaklo kontroli.
+
+971
+01:12:28,598 --> 01:12:31,768
+Postoji lekcija u tome
+öta se dogodilo u Ukrajini.
+
+972
+01:12:31,893 --> 01:12:35,354
+Rusi veÊ menjaju pravila igre.
+
+973
+01:12:35,521 --> 01:12:40,318
+Ciljaju ljude koji su
+podloûni poruci i zaveri,
+
+974
+01:12:40,735 --> 01:12:43,738
+pa ih onda sami ponavljaju.
+
+975
+01:12:44,155 --> 01:12:46,491
+I to nisu samo Rusi.
+
+976
+01:12:46,574 --> 01:12:49,410
+Pandemija postaje viöe
+od zdravstvene krize.
+
+977
+01:12:49,535 --> 01:12:55,291
+Pretvara se u veliki diplomatski okröaj
+oko krivice za nastanak virusa."
+
+978
+01:12:55,500 --> 01:13:02,590
+ZapoËeo bih vaûnim vestima u
+naöem ratu protiv kineskog virusa.
+
+979
+01:13:03,132 --> 01:13:06,260
+"Meunarodna zajednica,
+ukljuËujuÊi ljude u SAD,
+
+980
+01:13:06,344 --> 01:13:09,597
+ima razliËito miöljenje
+o nastanku virusa."
+
+981
+01:13:09,680 --> 01:13:13,768
+Kinezi su 2020. genijalno
+koristili dezinformacije
+
+982
+01:13:13,893 --> 01:13:18,106
+kad su ih ljudi okrivili za COVID-19.
+
+983
+01:13:19,148 --> 01:13:23,111
+Proöirila se priËa da virus
+nije krenuo sa pijace u Vuhanu,
+
+984
+01:13:23,277 --> 01:13:28,866
+nego sa veûbom ameriËke vojske u Kini.
+
+985
+01:13:29,784 --> 01:13:32,328
+Nema nikakvih dokaza za to,
+
+986
+01:13:32,578 --> 01:13:38,501
+ali Kinezi su videli koliko su dobro
+Rusi usadili dezinformacije
+
+987
+01:13:38,876 --> 01:13:45,299
+i gledali kako se prirodno öire
+meu teoretiËarima zavere i drugima.
+
+988
+01:13:47,844 --> 01:13:51,055
+PEKING, KINA
+
+989
+01:13:52,181 --> 01:13:55,059
+Mislim da su nam kao
+zemlji odvratili paûnju
+
+990
+01:13:55,143 --> 01:13:58,104
+kada smo se usredsredili
+samo na Ruse od 2016.
+
+991
+01:13:58,229 --> 01:14:02,608
+DugoroËno Êe nam globalni
+strateöki izazov biti Kina.
+
+992
+01:14:03,860 --> 01:14:06,738
+Ruska spoljna politika
+jeste uniötenje drugih
+
+993
+01:14:06,863 --> 01:14:09,574
+i uzrokovanje problema u sistemu.
+
+994
+01:14:09,782 --> 01:14:13,995
+Kina ima drugaËije prioritete. éele
+da rade unutar sistema i da ga preuzmu.
+
+995
+01:14:14,120 --> 01:14:15,955
+Ne zanima ih haos.
+
+996
+01:14:16,080 --> 01:14:18,124
+Kod njih se sve svodi na krau,
+
+997
+01:14:18,249 --> 01:14:20,209
+primarno krau
+intelektualnog vlasniötva
+
+998
+01:14:20,293 --> 01:14:23,004
+koje moûe da se iskoristi za
+poboljöanje kineske ekonomije.
+
+999
+01:14:25,173 --> 01:14:29,802
+Jednom su nas pozvali u firmu koja
+se bavila satelitskom komunikacijom.
+
+1000
+01:14:31,095 --> 01:14:36,976
+Otkrili su hakovanje i traûili da ga
+analiziramo i pomognemo im u zaötiti.
+
+1001
+01:14:38,186 --> 01:14:42,315
+Videli smo da se iznova koristi
+e-adresa za registraciju infrastrukture
+
+1002
+01:14:42,398 --> 01:14:46,444
+sa domena "gmail".
+
+1003
+01:14:47,820 --> 01:14:49,906
+Povezali smo je s pojedincem u Kini
+
+1004
+01:14:50,198 --> 01:14:54,285
+koji je imao personu na druötvenim
+mreûama i album "Pikasa"
+
+1005
+01:14:54,410 --> 01:14:57,538
+koji je tada bio fotoalbum na Guglu.
+
+1006
+01:14:58,331 --> 01:15:01,167
+Fotoalbum je bio otvoren i u
+njemu su bile njegove fotografije,
+
+1007
+01:15:01,250 --> 01:15:03,878
+fotografije njegove devojke i porodice.
+
+1008
+01:15:10,635 --> 01:15:14,430
+Imao je fotografije
+svoje sobe u domu.
+
+1009
+01:15:16,432 --> 01:15:19,519
+U uglu sobe videli smo kapu.
+
+1010
+01:15:22,689 --> 01:15:26,943
+Analizirali smo sliku i
+primetili da je to vojna kapa.
+
+1011
+01:15:28,820 --> 01:15:32,490
+Pomislili smo da je to zanimljivo i
+da je moûda neko iz kineske vojske
+
+1012
+01:15:32,907 --> 01:15:35,702
+odgovoran za te napade.
+
+1013
+01:15:38,997 --> 01:15:43,084
+Naöli smo druge slike koje je
+objavio pod oznakom "kancelarija".
+
+1014
+01:15:44,043 --> 01:15:47,839
+To je bila slika velike bele zgrade
+sa velikim satelitskim antenama.
+
+1015
+01:15:48,089 --> 01:15:54,095
+Prozori su imali reflektivni sloj za
+spreËavanje presretanja signala.
+
+1016
+01:15:55,638 --> 01:15:59,434
+ZapoËeli smo analizu satelitskih
+snimaka da bismo locirali tu zgradu.
+
+1017
+01:15:59,934 --> 01:16:04,772
+Naöli smo je u äangaju.
+
+1018
+01:16:05,023 --> 01:16:09,402
+Gledali smo snimke i videli da se
+oko zgrade nalaze vojni ulazi.
+
+1019
+01:16:09,819 --> 01:16:14,407
+Naöli smo adresu te zgrade i
+proverili materijale kineske vlade.
+
+1020
+01:16:16,159 --> 01:16:23,416
+Otkrili smo sediöte 12. kancelarije
+Odeljenja NarodnooslobodilaËke vojske.
+
+1021
+01:16:24,375 --> 01:16:28,796
+Zbog toga smo bili priliËno sigurni da
+je hakovanje sprovela kineska vojska.
+
+1022
+01:16:34,093 --> 01:16:37,055
+To je zapravo deo plana.
+
+1023
+01:16:37,680 --> 01:16:42,518
+Prave petogodiönje planove
+za tehnologiju koju ûele da steknu.
+
+1024
+01:16:42,685 --> 01:16:49,025
+Ako mogu da je stvore, odliËno.
+Ako ne, jer je ûele brzo, ukraöÊe je.
+
+1025
+01:16:52,403 --> 01:16:57,575
+"Samo je Kina odgovorna za hakovanje
+gotovo 700 javnih i privatnih meta
+
+1026
+01:16:57,700 --> 01:17:01,162
+u SAD u proteklih pet godina."
+
+1027
+01:17:02,080 --> 01:17:05,083
+Jedan od razloga zaöto
+najsofisticiraniji kineski avion
+
+1028
+01:17:05,208 --> 01:17:11,506
+izgleda kao F-35 jeste taj öto
+su ukrali deo njegove tehnologije.
+
+1029
+01:17:11,673 --> 01:17:15,093
+Kada vidite slike,
+izgleda veoma poznato.
+
+1030
+01:17:15,551 --> 01:17:18,846
+A to je samo vrh ledenog
+brega sa kineske strane.
+
+1031
+01:17:19,013 --> 01:17:21,724
+"Gugl kaûe da su
+jedna od barem 20 kompanija
+
+1032
+01:17:21,808 --> 01:17:24,644
+koje su ûrtve ciljanih
+sajber napada iz Kine.
+
+1033
+01:17:24,811 --> 01:17:27,105
+Sofisticirani sajber napad
+
+1034
+01:17:27,188 --> 01:17:28,856
+na zdravstvenu osiguravajuÊu
+kuÊu 'Antem'.
+
+1035
+01:17:28,982 --> 01:17:33,736
+Ovo je joö jedan prodor öpijunskih
+grupa iz Kine koje finansira drûava."
+
+1036
+01:17:35,405 --> 01:17:37,740
+A onda su Kinezi eskalirali.
+
+1037
+01:17:37,865 --> 01:17:41,244
+Proveli su godinu dana u
+Kancelariji kadrovske uprave,
+
+1038
+01:17:41,411 --> 01:17:44,330
+najdosadnije birokratije u Americi.
+
+1039
+01:17:44,789 --> 01:17:50,128
+Ukrali su 22 miliona dokumenata
+tajnih sigurnosnih odobrenja.
+
+1040
+01:17:50,795 --> 01:17:53,339
+To je obaveötajna noÊna mora.
+
+1041
+01:17:53,464 --> 01:17:57,802
+Kinezi sada imaju svakakve detaljne
+informacije o Ëlanovima vaöe porodice
+
+1042
+01:17:57,969 --> 01:18:00,388
+i vaöim inostranim prijateljima
+
+1043
+01:18:00,513 --> 01:18:04,767
+koje mogu da iskoriste za
+regrutovanje u buduÊnosti.
+
+1044
+01:18:07,437 --> 01:18:11,774
+2020. su se vratili
+na sofisticiraniji naËin.
+
+1045
+01:18:12,066 --> 01:18:14,777
+"FBI i savezni agenti za
+sajber bezbednost upozoravaju
+
+1046
+01:18:14,861 --> 01:18:17,906
+da hakeri povezani sa
+kineskom vladom pokuöavaju
+
+1047
+01:18:17,989 --> 01:18:22,243
+da ukradu istraûivanje o leËenju
+i vakcini protiv koronavirusa."
+
+1048
+01:18:22,994 --> 01:18:27,290
+Ono öto su dizajni borbenih
+aviona bili pre deset godina,
+
+1049
+01:18:27,415 --> 01:18:31,336
+danas je koronavirus. Sveti gral.
+
+1050
+01:18:32,754 --> 01:18:38,426
+Zemlja koja pobedi u trci za
+vakcinom i u leËenju COVID-a 19,
+
+1051
+01:18:39,427 --> 01:18:45,516
+postaÊe nova sila koja Êe
+moÊi da öiri tu vakcinu öirom sveta.
+
+1052
+01:18:49,062 --> 01:18:51,397
+Na kraju, a moûda i najvaûnije,
+
+1053
+01:18:51,856 --> 01:18:56,402
+kako Kina öiri svoje
+ekonomske krake po svetu,
+
+1054
+01:18:56,736 --> 01:19:01,699
+spoznala je da joj mreûe koje prodaje
+svima putem optiËkih kablova
+
+1055
+01:19:01,783 --> 01:19:05,536
+i 5G tehnologije
+daju element kontrole
+
+1056
+01:19:05,620 --> 01:19:11,876
+koji pre nekoliko godina
+nije mogla ni da zamisli.
+
+1057
+01:19:13,586 --> 01:19:17,131
+Moûete da vidite buduÊnost u kojoj je
+svaki ureaj koji moûete da zamislite
+
+1058
+01:19:17,257 --> 01:19:20,635
+spojen na internet na 5G mobilnu mreûu.
+
+1059
+01:19:21,594 --> 01:19:24,681
+5G je poput prelaska
+sa radija na televiziju
+
+1060
+01:19:24,764 --> 01:19:27,517
+u smislu koriöÊenja
+telekomunikacijskog sistema.
+
+1061
+01:19:27,642 --> 01:19:32,188
+Ako razmiöljamo o vozilima bez
+vozaËa, spajanju friûidera na internet
+
+1062
+01:19:32,313 --> 01:19:35,733
+i svim moguÊnostima u
+potpuno spojenom svetu,
+
+1063
+01:19:35,859 --> 01:19:38,444
+sve se to zasniva na 5G mreûi.
+
+1064
+01:19:38,570 --> 01:19:42,240
+Izuzetno je vaûno ko
+kontroliöe tu mreûu.
+
+1065
+01:19:42,323 --> 01:19:45,952
+SuoËeni smo sa Kinom koja
+ima nacionalnog öampiona
+
+1066
+01:19:46,077 --> 01:19:51,374
+u svojoj firmi Huawei koja je
+dugoroËna bezbednosna pretnja.
+
+1067
+01:19:52,917 --> 01:19:56,838
+Kompanija Huawei je najveÊi
+dobavljaË 5G opreme.
+
+1068
+01:19:57,046 --> 01:20:03,803
+Oni prave antene, oni grade
+sisteme koji sele podatke.
+
+1069
+01:20:05,930 --> 01:20:11,394
+Stav Sjedinjenih Drûava je da svaka
+informacija koja moûe da se prenese
+
+1070
+01:20:11,477 --> 01:20:15,273
+preko tehnologije kompanije Huawei
+
+1071
+01:20:15,481 --> 01:20:19,485
+na kraju Êe biti
+dostupna kineskoj vladi.
+
+1072
+01:20:19,903 --> 01:20:25,325
+A najveÊe je pitanje öta Êe kineska
+vlada uËiniti sa tom informacijom.
+
+1073
+01:20:36,377 --> 01:20:38,713
+Hvala.
+
+1074
+01:20:40,131 --> 01:20:45,470
+PoËinjemo, Oklahoma!
+Hvala, Oklahoma!
+
+1075
+01:20:45,720 --> 01:20:49,516
+Hvala potpredsedniku Majku Pensu.
+
+1076
+01:20:49,641 --> 01:20:53,436
+PoËinjemo s kampanjom.
+
+1077
+01:21:13,790 --> 01:21:18,545
+Proteklu godinu sam proveo
+predviajuÊi izbore 2020,
+
+1078
+01:21:19,170 --> 01:21:22,841
+pokuöavajuÊi da otkrijem
+öta Êe biti sledeÊe.
+
+1079
+01:21:25,051 --> 01:21:27,929
+Scenario iz noÊne more
+je ucenjivaËki softver,
+
+1080
+01:21:28,054 --> 01:21:30,974
+da Êe neko preko
+ucenjivaËkog softvera
+
+1081
+01:21:31,057 --> 01:21:34,060
+zakljuËati bazu podataka
+o registraciji biraËa i reÊi:
+
+1082
+01:21:34,144 --> 01:21:37,480
+"Izborni zvaniËnici,
+zakljuËao sam bazu podataka.
+
+1083
+01:21:37,814 --> 01:21:42,318
+VratiÊu vam je ako mi
+date tri miliona dolara."
+
+1084
+01:21:43,653 --> 01:21:47,198
+O tome razmiöljam kada
+ustanem i pre spavanja.
+
+1085
+01:21:47,323 --> 01:21:49,367
+Budim se noÊu i razmiöljam o tome.
+
+1086
+01:21:49,451 --> 01:21:52,871
+Razmiöljam o tome dok öetam
+psa. U mojoj glavi je pravi pakao.
+
+1087
+01:21:55,039 --> 01:22:01,463
+Kada vlast ima neko ko je
+neöto duûan Vladimiru Putinu,
+
+1088
+01:22:01,921 --> 01:22:09,220
+nemate mnogo poverenja da Êe vlada
+zaötititi integritet naöih izbora.
+
+1089
+01:22:10,930 --> 01:22:14,893
+Smatram da je Putin
+trebalo da plati cenu.
+
+1090
+01:22:15,185 --> 01:22:21,399
+Ne znam hoÊemo li saznati za
+pretnju dok opet ne bude prekasno.
+
+1091
+01:22:24,652 --> 01:22:29,073
+2020. vratili su se Rusi,
+ali tu su i Kinezi.
+
+1092
+01:22:29,574 --> 01:22:33,536
+I Iranci. I Severnokorejci.
+
+1093
+01:22:35,330 --> 01:22:40,710
+Sve te zemlje eksperimentiöu
+stvarima koje su nauËili od Rusa.
+
+1094
+01:22:41,044 --> 01:22:46,883
+Shvatili su da mogu da nam nanesu
+ötetu samo produbljujuÊi razdore
+
+1095
+01:22:46,966 --> 01:22:50,845
+koji veÊ postoje u ameriËkom druötvu.
+
+1096
+01:22:58,728 --> 01:23:02,899
+Ako Êe se neka drûava
+uplitati u izbore 2020,
+
+1097
+01:23:04,192 --> 01:23:09,197
+to Êe verovatno biti
+Severnokorejci ili Iranci.
+
+1098
+01:23:10,156 --> 01:23:17,038
+Iranski napad bi samo trebalo da uniöti
+jednu stvar u jednoj drûavi ili okrugu
+
+1099
+01:23:17,163 --> 01:23:22,085
+u sprezi sa informacijskom
+operacijom koja bi rekla:
+
+1100
+01:23:22,710 --> 01:23:27,924
+"Mi smo sveti borci Irana i
+uspeöno smo zakljuËali ovaj server."
+
+1101
+01:23:28,133 --> 01:23:30,885
+Mediji bi to propratili,
+bilo bi mnogo pitanja,
+
+1102
+01:23:31,010 --> 01:23:33,847
+a Amerika bi bila zbunjena.
+
+1103
+01:23:34,097 --> 01:23:38,476
+Istovremeno bi to mogli da
+iskoriste odreeni politiËki lideri.
+
+1104
+01:23:42,147 --> 01:23:45,400
+Poslednje pitanje. Naöe
+obaveötajne agencije su rekle
+
+1105
+01:23:45,483 --> 01:23:50,822
+da je vaöa zemlja meu onima koje
+pokuöavaju da se meöaju u naöe izbore.
+
+1106
+01:23:50,947 --> 01:23:54,409
+Ne meöamo se u unutraönje
+poslove druge zemlje,
+
+1107
+01:23:54,743 --> 01:23:59,664
+ali odvija se sajber rat.
+Sjedinjene Drûave su zapoËele taj rat.
+
+1108
+01:23:59,998 --> 01:24:02,167
+SeÊate se Staksneta?
+
+1109
+01:24:02,417 --> 01:24:07,547
+Svaki rat koji Sjedinjene Drûave
+zapoËnu, neÊe moÊi da se zavröi.
+
+1110
+01:24:23,438 --> 01:24:27,442
+Prevod MEDIATRANSLATIONS
+Obrada za HD metalcamp
+
+1111
+01:24:28,305 --> 01:25:28,872
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/7w8ar
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

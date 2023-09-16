@@ -1,0 +1,291 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.73,0:00:13.77,Default,,0000,0000,0000,,Vi ljudi...
+Dialogue: 0,0:00:14.33,0:00:15.50,Default,,0000,0000,0000,,Da li si dobro?
+Dialogue: 0,0:00:15.63,0:00:16.30,Default,,0000,0000,0000,,Jeah...
+Dialogue: 0,0:00:16.87,0:00:18.50,Default,,0000,0000,0000,,Ali zašto si ti ovde?
+Dialogue: 0,0:00:18.53,0:00:20.17,Default,,0000,0000,0000,,I ti si bio zabrinut za Hotaru?
+Dialogue: 0,0:00:20.20,0:00:23.27,Default,,0000,0000,0000,,Da baš. To je bila èista koincidencija.\N
+Dialogue: 0,0:00:24.10,0:00:27.17,Default,,0000,0000,0000,,Ali...ovi momci nisu ovde zbog Hotaru.
+Dialogue: 0,0:00:27.53,0:00:28.67,Default,,0000,0000,0000,,Kako to misliš?
+Dialogue: 0,0:00:29.13,0:00:30.93,Default,,0000,0000,0000,,I ko su ovi momci?
+Dialogue: 0,0:00:38.63,0:00:39.57,Default,,0000,0000,0000,,{\i1}Ta maska...{\i0}
+Dialogue: 0,0:00:41.93,0:00:44.27,Default,,0000,0000,0000,,{\i1}Razumem... Znaèi njihova meta je...{\i0}
+Dialogue: 0,0:00:45.00,0:00:46.43,Default,,0000,0000,0000,,Uèitelju!
+Dialogue: 0,0:00:51.60,0:00:53.10,Default,,0000,0000,0000,,Zašto je selo pod Lišæem ovde?
+Dialogue: 0,0:00:57.30,0:00:59.03,Default,,0000,0000,0000,,Molim vas oslobodite tu devojku.
+Dialogue: 0,0:00:59.60,0:01:00.50,Default,,0000,0000,0000,,Ne!
+Dialogue: 0,0:01:02.87,0:01:05.27,Default,,0000,0000,0000,,U tom sluèaju! Mi æemo je uzeti od vas...
+Dialogue: 0,0:01:05.37,0:01:07.47,Default,,0000,0000,0000,,silom!
+Dialogue: 0,0:01:07.67,0:01:08.90,Default,,0000,0000,0000,,Veština Senke Klona!
+Dialogue: 0,0:01:16.03,0:01:16.90,Default,,0000,0000,0000,,Nindža Umetnost!
+Dialogue: 0,0:01:17.20,0:01:18.37,Default,,0000,0000,0000,,Super Beast Svitak!
+Dialogue: 0,0:01:29.77,0:01:31.40,Default,,0000,0000,0000,,Ja æu preuzeti onog u sredini.
+Dialogue: 0,0:01:31.67,0:01:35.03,Default,,0000,0000,0000,,Ti preuzmi one oko njega.\NNapašæemo zajedno.
+Dialogue: 0,0:01:35.43,0:01:37.70,Default,,0000,0000,0000,,Razumem. Ali...ovi specijalci su...
+Dialogue: 0,0:01:40.03,0:01:41.20,Default,,0000,0000,0000,,Hajde da vidimo kako æe se razviti \Nsituacija...
+Dialogue: 0,0:01:42.30,0:01:44.80,Default,,0000,0000,0000,,{\i1}Moramo da saznamo šta je \Nnjihova namera.\N{\i0}
+Dialogue: 0,0:01:51.73,0:01:52.67,Default,,0000,0000,0000,,Uèitelju...
+Dialogue: 0,0:01:56.17,0:01:57.50,Default,,0000,0000,0000,,Skrivena Veština: Kirisame!
+Dialogue: 0,0:02:08.60,0:02:09.93,Default,,0000,0000,0000,,Kakva je ovo kiša?!
+Dialogue: 0,0:02:10.97,0:02:13.70,Default,,0000,0000,0000,,To je veština koja polako jede èakru\Ns kojom doðe u kontakt.
+Dialogue: 0,0:02:13.73,0:02:15.03,Default,,0000,0000,0000,,Naziv joj je Kirisame Veština!
+Dialogue: 0,0:02:15.77,0:02:16.70,Default,,0000,0000,0000,,Zašto ti...!
+Dialogue: 0,0:02:18.03,0:02:18.63,Default,,0000,0000,0000,,Kreni!
+Dialogue: 0,0:02:21.53,0:02:23.03,Default,,0000,0000,0000,,Stani! Ne budi brzoplet!
+Dialogue: 0,0:02:23.43,0:02:24.33,Default,,0000,0000,0000,,Idemo!
+Dialogue: 0,0:02:24.70,0:02:25.70,Default,,0000,0000,0000,,Vodeni Biè!
+Dialogue: 0,0:02:35.07,0:02:36.17,Default,,0000,0000,0000,,Drveni Stil!
+Dialogue: 0,0:02:48.77,0:02:49.50,Default,,0000,0000,0000,,Uèitelju!
+Dialogue: 0,0:03:05.97,0:03:07.90,Default,,0000,0000,0000,,Treba mi da budeš tiha neko vreme.
+Dialogue: 0,0:03:12.07,0:03:13.57,Default,,0000,0000,0000,,Šta ti radiš doðavola?!
+Dialogue: 0,0:03:13.60,0:03:14.37,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:03:15.60,0:03:16.37,Default,,0000,0000,0000,,Èekaj.
+Dialogue: 0,0:03:17.50,0:03:21.30,Default,,0000,0000,0000,,Mi imamo misiju da zaštitimo tu devojku.
+Dialogue: 0,0:03:21.90,0:03:23.23,Default,,0000,0000,0000,,Molim vas vratite nam je.
+Dialogue: 0,0:03:25.60,0:03:27.37,Default,,0000,0000,0000,,Jeah! Vrati je nazad, ti!
+Dialogue: 0,0:03:28.23,0:03:31.80,Default,,0000,0000,0000,,Vi ste ANBU Black Ops iz sela u Magli,
+Dialogue: 0,0:03:32.37,0:03:34.37,Default,,0000,0000,0000,,i osobu koju tražite je ovaj èovek, taèno?\N
+Dialogue: 0,0:03:35.07,0:03:38.37,Default,,0000,0000,0000,,Huh? ANBU Black Ops...\Niz sela Skrivenog u Magli?
+Dialogue: 0,0:03:44.03,0:03:45.27,Default,,0000,0000,0000,,{\i1}Shvatam sad...{\i0}
+Dialogue: 0,0:03:45.67,0:03:47.60,Default,,0000,0000,0000,,{\i1}Onda to znaèi on je ...{\i0}
+Dialogue: 0,0:03:48.00,0:03:51.27,Default,,0000,0000,0000,,Utakata je odbegli nindža iz sela u Magli\N
+Dialogue: 0,0:03:51.30,0:03:52.77,Default,,0000,0000,0000,,i nalazi se u knjizi traženih.
+Dialogue: 0,0:03:53.37,0:03:55.37,Default,,0000,0000,0000,,Ovi ljudi traže njega.
+Dialogue: 0,0:03:56.30,0:04:01.13,Default,,0000,0000,0000,,Znaèi ovi momci...\Nnisu nindže koji jure nju?
+Dialogue: 0,0:04:01.77,0:04:03.00,Default,,0000,0000,0000,,Oni traže Utakata?
+Dialogue: 0,0:04:06.07,0:04:09.07,Default,,0000,0000,0000,,Ona nema nikakve veze sa vama.\NMolim vas oslobodite je.
+Dialogue: 0,0:04:09.53,0:04:12.70,Default,,0000,0000,0000,,Onda æemo razmenuti nju za njega.
+Dialogue: 0,0:04:17.57,0:04:18.43,Default,,0000,0000,0000,,Ne.
+Dialogue: 0,0:04:19.40,0:04:20.77,Default,,0000,0000,0000,,To, ne možemo da uradimo.
+Dialogue: 0,0:04:21.27,0:04:22.03,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:04:22.60,0:04:25.37,Default,,0000,0000,0000,,Ta devojka je izgleda veoma \Nprivržena njemu.
+Dialogue: 0,0:04:25.40,0:04:29.53,Default,,0000,0000,0000,,Ako ga predamo vama,\Nbez sumnje, ona æe želeti da ide za vama.
+Dialogue: 0,0:04:30.23,0:04:32.10,Default,,0000,0000,0000,,Onda æemo mi imati problem.
+Dialogue: 0,0:04:32.67,0:04:34.47,Default,,0000,0000,0000,,Zbog toga ga ne možemo predati.
+Dialogue: 0,0:04:34.87,0:04:36.90,Default,,0000,0000,0000,,Onda...ne možemo ni mi...
+Dialogue: 0,0:04:38.43,0:04:40.37,Default,,0000,0000,0000,,Ako se odluèimo za borbu,
+Dialogue: 0,0:04:40.53,0:04:42.97,Default,,0000,0000,0000,,to može imati posledice\Nvan ovoga mesta,
+Dialogue: 0,0:04:43.00,0:04:44.43,Default,,0000,0000,0000,,i proširi se u rat velikih razmera.
+Dialogue: 0,0:04:44.57,0:04:45.97,Default,,0000,0000,0000,,Da li si spreman da ideš tako daleko?
+Dialogue: 0,0:04:55.90,0:04:57.07,Default,,0000,0000,0000,,<iSelo u Magli?
+Dialogue: 0,0:05:04.63,0:05:05.60,Default,,0000,0000,0000,,Kapetan Yamato.
+Dialogue: 0,0:05:14.23,0:05:15.80,Default,,0000,0000,0000,,Ljudi iz sela pod Lišæem...
+Dialogue: 0,0:05:21.73,0:05:25.13,Default,,0000,0000,0000,,Ja komandujem ovom jedinicom \Nsa skrivene pozicije.
+Dialogue: 0,0:05:26.53,0:05:29.43,Default,,0000,0000,0000,,Ja sam Tsurugi, voða\N ANBU Black Ops iz sela u Magli.
+Dialogue: 0,0:05:30.80,0:05:33.50,Default,,0000,0000,0000,,Sigurno je da nije naša želja da\Neskaliramo ovo
+Dialogue: 0,0:05:33.53,0:05:35.60,Default,,0000,0000,0000,,u rat izmeðu naših nacija.
+Dialogue: 0,0:05:36.37,0:05:38.80,Default,,0000,0000,0000,,Sigurno, još uvek možemo pregovarati?
+Dialogue: 0,0:05:39.70,0:05:41.07,Default,,0000,0000,0000,,Da, slažem se.
+Dialogue: 0,0:05:49.83,0:05:50.97,Default,,0000,0000,0000,,Ti si...
+Dialogue: 0,0:05:52.37,0:05:56.53,Default,,0000,0000,0000,,Sastanimo se. Samo ti i ja...
+Dialogue: 0,0:06:00.63,0:06:02.27,Default,,0000,0000,0000,,I Utakata.
+Dialogue: 0,0:06:03.17,0:06:04.33,Default,,0000,0000,0000,,Razumem.
+Dialogue: 0,0:06:07.63,0:06:09.13,Default,,0000,0000,0000,,Vas dvoje ostanite ovde.
+Dialogue: 0,0:06:11.13,0:06:18.13,Default,,0000,0000,0000,,Ovo izdanje nije za prodaju ili iznajmljivanje!\NOVO JE BESPLATAN FANSUB!\Nhttp://www.anime-overdose.com
+Dialogue: 0,0:07:53.40,0:07:58.23,Default,,0000,0000,0000,,{\i1}"PROŠLOST ODBEGLOG NINDŽE"\N\N{\i0}
+Dialogue: 0,0:08:01.53,0:08:04.13,Default,,0000,0000,0000,,Onda dok ne završite vašu misiju,
+Dialogue: 0,0:08:04.17,0:08:07.43,Default,,0000,0000,0000,,mi æemo odložiti zarobljavanje Utakata.
+Dialogue: 0,0:08:08.17,0:08:10.57,Default,,0000,0000,0000,,Èim njena bezbednost bude osigurana,
+Dialogue: 0,0:08:10.60,0:08:12.03,Default,,0000,0000,0000,,ja æu vas obavestiti.
+Dialogue: 0,0:08:13.13,0:08:17.73,Default,,0000,0000,0000,,Molim vas imajte na umu\Nako se ne budete držali dogovora,
+Dialogue: 0,0:08:17.77,0:08:20.50,Default,,0000,0000,0000,,rat izmeðu naših nacija biæe \Nmožda neizbežan.
+Dialogue: 0,0:08:21.57,0:08:22.63,Default,,0000,0000,0000,,Razumem to.
+Dialogue: 0,0:08:26.67,0:08:27.50,Default,,0000,0000,0000,,Hmm...
+Dialogue: 0,0:08:28.43,0:08:33.07,Default,,0000,0000,0000,,Vi momci ste preterali.\NJa æu da radim stvari kako ja želim.
+Dialogue: 0,0:08:34.03,0:08:35.03,Default,,0000,0000,0000,,Ne bih rekao.
+Dialogue: 0,0:08:35.73,0:08:39.37,Default,,0000,0000,0000,,Dok se naša misija ne završi,\Nti æeš ostati sa nama.
+Dialogue: 0,0:08:40.17,0:08:44.13,Default,,0000,0000,0000,,Posle toga, sve ostalo je izmeðu \Ntebe i sela u Magli.\N
+Dialogue: 0,0:08:45.57,0:08:46.37,Default,,0000,0000,0000,,U redu.
+Dialogue: 0,0:08:46.97,0:08:48.00,Default,,0000,0000,0000,,Reci mi...
+Dialogue: 0,0:08:48.87,0:08:50.90,Default,,0000,0000,0000,,Šta si ti to uradio u selu u Magli?
+Dialogue: 0,0:08:52.30,0:08:54.47,Default,,0000,0000,0000,,To...nije vaša briga.
+Dialogue: 0,0:08:56.53,0:08:57.37,Default,,0000,0000,0000,,Moje izvinjenje.
+Dialogue: 0,0:08:58.43,0:09:00.00,Default,,0000,0000,0000,,Želim da prièam s njim nasamo.
+Dialogue: 0,0:09:01.50,0:09:02.93,Default,,0000,0000,0000,,Saèekaæu tamo.
+Dialogue: 0,0:09:25.93,0:09:26.93,Default,,0000,0000,0000,,Kapetane Yamato!
+Dialogue: 0,0:09:27.50,0:09:28.63,Default,,0000,0000,0000,,Kako su vaši razgovori prošli?
+Dialogue: 0,0:09:30.63,0:09:32.43,Default,,0000,0000,0000,,Oh, dobro je prošlo.
+Dialogue: 0,0:09:35.13,0:09:35.93,Default,,0000,0000,0000,,Gde su to dvoje?
+Dialogue: 0,0:09:36.63,0:09:38.07,Default,,0000,0000,0000,,Imaju razgovor.
+Dialogue: 0,0:09:39.10,0:09:43.37,Default,,0000,0000,0000,,Da li je istina...\Nda je Utakata odbegli nindža?
+Dialogue: 0,0:09:44.27,0:09:45.00,Default,,0000,0000,0000,,Jeah...
+Dialogue: 0,0:09:51.40,0:09:55.93,Default,,0000,0000,0000,,Nemoj nam praviti probleme.\NVrati se u selo u Magli.
+Dialogue: 0,0:09:57.17,0:09:59.67,Default,,0000,0000,0000,,Humph! Ne hvala!
+Dialogue: 0,0:10:00.13,0:10:01.87,Default,,0000,0000,0000,,Zašto bi se vratio nazad, \Nsamo da bi me ubili...?
+Dialogue: 0,0:10:02.70,0:10:04.10,Default,,0000,0000,0000,,Selo se promenilo.
+Dialogue: 0,0:10:04.83,0:10:09.30,Default,,0000,0000,0000,,Više ne radimo na taj naèin\Nzbog koga smo dobili onaj nadimak,
+Dialogue: 0,0:10:09.33,0:10:10.93,Default,,0000,0000,0000,,"Krvavo Selo u Magli."
+Dialogue: 0,0:10:11.73,0:10:13.97,Default,,0000,0000,0000,,Iako stvari možda izgledaju mirne,
+Dialogue: 0,0:10:14.00,0:10:16.53,Default,,0000,0000,0000,,sveje to zbog delikatnog balansa moæi\Nizmeðu pet velikih nacija.
+Dialogue: 0,0:10:17.13,0:10:20.37,Default,,0000,0000,0000,,Važnost onoga što ti poseduješ\Npoveæava se svake godine,
+Dialogue: 0,0:10:20.77,0:10:23.13,Default,,0000,0000,0000,,i istraživanje za njegovo korišæenje\Nse isto poveæalo.
+Dialogue: 0,0:10:24.00,0:10:29.57,Default,,0000,0000,0000,,Selu je potrebna ta moæ,\Nšto znaæi da ti sigurno neæeš biti ubijen.
+Dialogue: 0,0:10:30.83,0:10:33.07,Default,,0000,0000,0000,,Ja ne verujem više nikome.
+Dialogue: 0,0:10:44.80,0:10:48.17,Default,,0000,0000,0000,,{\i1}Uèitelju... Molim vas stanite, Uèitelju!{\i0}
+Dialogue: 0,0:11:06.97,0:11:10.27,Default,,0000,0000,0000,,Moj Uèitelj...je pokušao da me ubije...
+Dialogue: 0,0:11:11.00,0:11:13.57,Default,,0000,0000,0000,,zajedno sa tom stvari što je u meni.
+Dialogue: 0,0:11:29.07,0:11:32.27,Default,,0000,0000,0000,,Ja sam žrtvovao sebe za dobro \Nnašeg sela.
+Dialogue: 0,0:11:33.23,0:11:37.43,Default,,0000,0000,0000,,Verovao sam u reèi mog uèitelja...\Ni radio kako je on želeo.
+Dialogue: 0,0:11:38.43,0:11:40.73,Default,,0000,0000,0000,,A on je izdao moje poverenje...
+Dialogue: 0,0:11:40.77,0:11:42.53,Default,,0000,0000,0000,,pokušao je da me ubije!
+Dialogue: 0,0:11:47.13,0:11:48.30,Default,,0000,0000,0000,,{\i1}Šta?!{\i0}
+Dialogue: 0,0:11:52.80,0:11:56.47,Default,,0000,0000,0000,,{\i1}T-Ta...moæ...{\i0}
+Dialogue: 0,0:11:57.27,0:11:58.20,Default,,0000,0000,0000,,{\i1}Èekaj!{\i0}
+Dialogue: 0,0:11:58.23,0:12:00.93,Default,,0000,0000,0000,,{\i1}Stani! Stani!{\i0}
+Dialogue: 0,0:12:10.17,0:12:12.90,Default,,0000,0000,0000,,Ne, Utakata! On nije...
+Dialogue: 0,0:12:13.60,0:12:16.47,Default,,0000,0000,0000,,Harusame nije pokušao da te ubije.
+Dialogue: 0,0:12:17.13,0:12:18.30,Default,,0000,0000,0000,,Nije bilo tako.
+Dialogue: 0,0:12:19.40,0:12:23.13,Default,,0000,0000,0000,,Taj prokleti peèat koji je izveo \Nna tebi...
+Dialogue: 0,0:12:23.87,0:12:25.70,Default,,0000,0000,0000,,Pokušavao je da odvoji to od tebe.
+Dialogue: 0,0:12:26.47,0:12:27.90,Default,,0000,0000,0000,,On je pokušavao da tebe spase.
+Dialogue: 0,0:12:28.70,0:12:31.73,Default,,0000,0000,0000,,Kao da bi poverovao u takvu prièu...
+Dialogue: 0,0:12:32.67,0:12:34.70,Default,,0000,0000,0000,,Postao si senilan.
+Dialogue: 0,0:12:35.73,0:12:37.00,Default,,0000,0000,0000,,Ja govorim istinu...
+Dialogue: 0,0:12:37.33,0:12:42.63,Default,,0000,0000,0000,,Moj uèitelj... Ne, taj èovek iskoristio me je\Ni pokušao je, da me ubije.
+Dialogue: 0,0:12:43.03,0:12:46.90,Default,,0000,0000,0000,,I posle tog pokušaja...on je umro.
+Dialogue: 0,0:12:47.93,0:12:51.80,Default,,0000,0000,0000,,Ako pitaš seljane,\Noni æe reæi da sam ga ja ubio.
+Dialogue: 0,0:12:52.47,0:12:55.13,Default,,0000,0000,0000,,Utakata... Vrati se u selo.
+Dialogue: 0,0:12:55.67,0:12:59.00,Default,,0000,0000,0000,,Onda æeš saznati da te ja ne lažem.\N
+Dialogue: 0,0:12:59.40,0:13:00.53,Default,,0000,0000,0000,,Ne hvala.
+Dialogue: 0,0:13:00.63,0:13:03.47,Default,,0000,0000,0000,,Onda, mi neæemo imati izbora \Nnego da te ubijemo.
+Dialogue: 0,0:13:04.57,0:13:05.73,Default,,0000,0000,0000,,Kako vi želite.
+Dialogue: 0,0:13:06.27,0:13:08.53,Default,,0000,0000,0000,,A ja æu uraditi kako ja želim.
+Dialogue: 0,0:13:21.50,0:13:22.53,Default,,0000,0000,0000,,Uèitelju!
+Dialogue: 0,0:13:25.90,0:13:26.83,Default,,0000,0000,0000,,Oslobodite je.
+Dialogue: 0,0:13:28.00,0:13:28.53,Default,,0000,0000,0000,,Da, sir!
+Dialogue: 0,0:13:34.53,0:13:35.43,Default,,0000,0000,0000,,Uèitelju!
+Dialogue: 0,0:13:35.83,0:13:36.70,Default,,0000,0000,0000,,Dosta!
+Dialogue: 0,0:13:39.20,0:13:41.43,Default,,0000,0000,0000,,Nikad me više nemoj nazvati tako.
+Dialogue: 0,0:13:49.83,0:13:50.77,Default,,0000,0000,0000,,Razumeš?
+Dialogue: 0,0:13:53.40,0:13:57.63,Default,,0000,0000,0000,,Ljudi iz sela pod Lišæem, po dogovoru,\Nmi æemo se povuæi za sada.
+Dialogue: 0,0:13:58.43,0:14:01.50,Default,,0000,0000,0000,,Molimo se da obe naše misije \Nbudu uspešne.\N
+Dialogue: 0,0:14:02.23,0:14:06.37,Default,,0000,0000,0000,,Ipak, mi æemo nastaviti da vas pratimo \Ni nadgledamo.
+Dialogue: 0,0:14:07.30,0:14:08.27,Default,,0000,0000,0000,,Razumem.
+Dialogue: 0,0:14:08.63,0:14:09.40,Default,,0000,0000,0000,,Doviðenja.
+Dialogue: 0,0:14:10.57,0:14:11.33,Default,,0000,0000,0000,,Raziðite se!
+Dialogue: 0,0:14:16.33,0:14:17.77,Default,,0000,0000,0000,,Oh bože...
+Dialogue: 0,0:14:26.37,0:14:28.47,Default,,0000,0000,0000,,A sada, kuda da krenemo odavde?\N
+Dialogue: 0,0:14:29.37,0:14:32.93,Default,,0000,0000,0000,,Najbolje je da se ne vraæamo\Nu Tsuchigumo selo.
+Dialogue: 0,0:14:33.37,0:14:34.80,Default,,0000,0000,0000,,Da, u pravu si.
+Dialogue: 0,0:14:35.00,0:14:37.90,Default,,0000,0000,0000,,Ako više nije obezbeðeno kao jedno\Nnindža selo,
+Dialogue: 0,0:14:37.93,0:14:39.83,Default,,0000,0000,0000,,njena bezbednost je ugrožena.
+Dialogue: 0,0:14:40.97,0:14:43.33,Default,,0000,0000,0000,,Onda bi možda bilo bolje da se vratimo\Nna planinu Katsuragi
+Dialogue: 0,0:14:43.37,0:14:45.80,Default,,0000,0000,0000,,i razmislimo o našem sledeæem potezu.
+Dialogue: 0,0:14:46.70,0:14:48.07,Default,,0000,0000,0000,,I ja želim da se vratim tamo.
+Dialogue: 0,0:14:48.73,0:14:50.70,Default,,0000,0000,0000,,Želim da se uverim da je Tonbei dobro.
+Dialogue: 0,0:14:51.83,0:14:54.30,Default,,0000,0000,0000,,Iako, osobe koje žele \NZabranjenu Veštinu
+Dialogue: 0,0:14:54.33,0:14:58.20,Default,,0000,0000,0000,,mogu isto da se vrate na planinu Katsuragi,\Npa možda ni tamo neæe biti bezbedno.
+Dialogue: 0,0:14:58.37,0:15:00.90,Default,,0000,0000,0000,,Hajde da se vratimo do Tonbeia i Sakure,
+Dialogue: 0,0:15:00.93,0:15:02.43,Default,,0000,0000,0000,,a onda æemo odluèiti šta æemo \Ndalje uraditi.
+Dialogue: 0,0:15:04.67,0:15:07.10,Default,,0000,0000,0000,,Utakata, i ti isto.
+Dialogue: 0,0:15:28.70,0:15:29.73,Default,,0000,0000,0000,,Da li si dobro?
+Dialogue: 0,0:15:30.53,0:15:31.33,Default,,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:15:32.93,0:15:35.60,Default,,0000,0000,0000,,Pitam se zašto on ne želi \Nda ga ja zovem "Uèitelj."
+Dialogue: 0,0:15:40.83,0:15:43.80,Default,,0000,0000,0000,,{\i1}Utakata je okrutni kriminalac\Nkoji je ubio svog uèitelja{\i0}
+Dialogue: 0,0:15:43.83,0:15:45.43,Default,,0000,0000,0000,,{\i1}i pobegao iz svog sela.{\i0}
+Dialogue: 0,0:15:47.10,0:15:51.13,Default,,0000,0000,0000,,{\i1}Šta se u stvari desilo izmeðu...\NSir Utakata i njegovog uèitelja?{\i0}
+Dialogue: 0,0:15:52.93,0:15:55.20,Default,,0000,0000,0000,,Mi neznamo kakav je odnos\N
+Dialogue: 0,0:15:55.23,0:15:56.70,Default,,0000,0000,0000,,izmeðu Utakata i sela u Magli.\N
+Dialogue: 0,0:15:57.27,0:15:59.57,Default,,0000,0000,0000,,Ali to nije važno.
+Dialogue: 0,0:16:00.00,0:16:02.67,Default,,0000,0000,0000,,Ako si ti veæ odluèila da budeš \Nnjegov uèenik,\N
+Dialogue: 0,0:16:02.70,0:16:03.87,Default,,0000,0000,0000,,onda koga je briga?
+Dialogue: 0,0:16:03.93,0:16:06.30,Default,,0000,0000,0000,,Važno je.\NJa želim da postanem snažna.
+Dialogue: 0,0:16:06.43,0:16:08.07,Default,,0000,0000,0000,,Da bih povratila èast mome klanu.
+Dialogue: 0,0:16:08.73,0:16:10.23,Default,,0000,0000,0000,,Zato želim da uèim od njega.\N
+Dialogue: 0,0:16:11.90,0:16:16.00,Default,,0000,0000,0000,,Primetio sam. Ti želiš da te on \Npoduèava i rukama, zar ne?\N
+Dialogue: 0,0:16:16.60,0:16:18.30,Default,,0000,0000,0000,,Nije baš tako...
+Dialogue: 0,0:16:19.47,0:16:21.73,Default,,0000,0000,0000,,Pa, i ja sam se tako oseæao.
+Dialogue: 0,0:16:25.40,0:16:27.70,Default,,0000,0000,0000,,Ja nemam nikakvog seæanja na \Nmoje roditelje.
+Dialogue: 0,0:16:28.70,0:16:29.43,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:30.37,0:16:34.43,Default,,0000,0000,0000,,Zato možda zbog toga...\Nkada sam putovao sa Perveznim Sejdžom...
+Dialogue: 0,0:16:35.17,0:16:39.00,Default,,0000,0000,0000,,Pitao sam se da li tako izgleda i oseæa \Nimati roditelja.\N
+Dialogue: 0,0:16:39.77,0:16:43.27,Default,,0000,0000,0000,,Pa bi se ponašao ponekad \Nrazmaženo kada sam s njima.\N
+Dialogue: 0,0:16:44.07,0:16:47.53,Default,,0000,0000,0000,,Ali treniranje nije tako lako.
+Dialogue: 0,0:16:48.20,0:16:50.20,Default,,0000,0000,0000,,Moraš da promisliš dok vežbaš sam,\N
+Dialogue: 0,0:16:50.23,0:16:52.00,Default,,0000,0000,0000,,i nauèiš veštine sam lièno.
+Dialogue: 0,0:16:52.60,0:16:55.20,Default,,0000,0000,0000,,Drugaèije, nikad neæeš napredovati.
+Dialogue: 0,0:16:58.77,0:17:01.47,Default,,0000,0000,0000,,Da Pervezni Sejdž nije bio samnom tada,
+Dialogue: 0,0:17:01.50,0:17:03.90,Default,,0000,0000,0000,,ne bih uspeo shvatiti ni nešto \Ntako osnovno.\N
+Dialogue: 0,0:17:04.53,0:17:05.53,Default,,0000,0000,0000,,Mi nismo sami...
+Dialogue: 0,0:17:06.40,0:17:08.20,Default,,0000,0000,0000,,Sama pomisao da je neko u blizini,\N
+Dialogue: 0,0:17:08.23,0:17:09.90,Default,,0000,0000,0000,,i pazi na nas...
+Dialogue: 0,0:17:09.93,0:17:11.60,Default,,0000,0000,0000,,to nas èini snažnim.
+Dialogue: 0,0:17:13.07,0:17:17.30,Default,,0000,0000,0000,,Razumem kako se oseæaš.\NZavidim ti, Naruto.
+Dialogue: 0,0:17:18.50,0:17:24.07,Default,,0000,0000,0000,,Isto kao ti, i ja æu da mislim o\NSir Utakata kao o mom uèitelju i...
+Dialogue: 0,0:17:25.70,0:17:27.77,Default,,0000,0000,0000,,Hej...izgledaš veoma bledo...
+Dialogue: 0,0:17:29.90,0:17:30.90,Default,,0000,0000,0000,,Ja sam...okej...
+Dialogue: 0,0:17:32.53,0:17:33.37,Default,,0000,0000,0000,,Hej!
+Dialogue: 0,0:17:35.20,0:17:36.43,Default,,0000,0000,0000,,Ti goriš...
+Dialogue: 0,0:17:37.63,0:17:39.03,Default,,0000,0000,0000,,Povreðen si!
+Dialogue: 0,0:17:40.23,0:17:41.20,Default,,0000,0000,0000,,Da li je to od te borbe?!
+Dialogue: 0,0:17:45.90,0:17:46.97,Default,,0000,0000,0000,,Kapetane Yamato!
+Dialogue: 0,0:17:49.30,0:17:50.33,Default,,0000,0000,0000,,Ja æu se pobrinuti za nju.
+Dialogue: 0,0:17:55.63,0:17:58.30,Default,,0000,0000,0000,,Možeš li otiæi i nabaviti neke \Nlekovite biljke?
+Dialogue: 0,0:17:58.80,0:18:02.07,Default,,0000,0000,0000,,Dokudami biljka bi trebala da bude \Nsvuda u okolini
+Dialogue: 0,0:18:02.10,0:18:03.93,Default,,0000,0000,0000,,u celom ovom podruèju.
+Dialogue: 0,0:18:04.90,0:18:07.93,Default,,0000,0000,0000,,Ima listove u obliku srca koji su \Nljubièasti sa donje strane.\N
+Dialogue: 0,0:18:08.83,0:18:10.93,Default,,0000,0000,0000,,Listovi su ljubièasti sa donje \Nstrane, jel tako?
+Dialogue: 0,0:18:11.10,0:18:11.90,Default,,0000,0000,0000,,Da.
+Dialogue: 0,0:18:12.73,0:18:13.53,Default,,0000,0000,0000,,U redu!
+Dialogue: 0,0:18:17.90,0:18:18.83,Default,,0000,0000,0000,,Šta nije dobro?
+Dialogue: 0,0:18:20.40,0:18:21.63,Default,,0000,0000,0000,,Hotaru je povreðena...
+Dialogue: 0,0:18:22.90,0:18:24.03,Default,,0000,0000,0000,,Ostavite nas.
+Dialogue: 0,0:18:25.50,0:18:26.37,Default,,0000,0000,0000,,U redu...
+Dialogue: 0,0:18:34.73,0:18:37.23,Default,,0000,0000,0000,,Veæina podruèja...
+Dialogue: 0,0:18:37.27,0:18:39.63,Default,,0000,0000,0000,,Mislim da bi trebao da potražim \Nu blizini obala reke!
+Dialogue: 0,0:18:41.37,0:18:44.37,Default,,0000,0000,0000,,Eno! To mora da je to.
+Dialogue: 0,0:18:50.33,0:18:54.43,Default,,0000,0000,0000,,Huh? Šta doðavola?!\NOvo je kameleon biljka!
+Dialogue: 0,0:18:54.47,0:18:57.43,Default,,0000,0000,0000,,A èoveèe, bilo ih je mnogo na \Nputu dovde!\N
+Dialogue: 0,0:18:59.13,0:19:00.10,Default,,0000,0000,0000,,Doðavola!
+Dialogue: 0,0:19:00.13,0:19:01.97,Default,,0000,0000,0000,,Potrošio sam mnogo vremena!
+Dialogue: 0,0:19:13.03,0:19:13.97,Default,,0000,0000,0000,,Šta to...?
+Dialogue: 0,0:19:19.47,0:19:21.40,Default,,0000,0000,0000,,Šta je to doðavola...?
+Dialogue: 0,0:19:23.03,0:19:25.80,Default,,0000,0000,0000,,Zabranjena Veština Tsuchigumo Klana
+Dialogue: 0,0:19:25.90,0:19:29.70,Default,,0000,0000,0000,,Ona je stopljena... u telo ovog deteta.
+Dialogue: 0,0:19:31.30,0:19:32.67,Default,,0000,0000,0000,,Kako su mogli uraditi tako nešto?
+Dialogue: 0,0:19:33.27,0:19:36.47,Default,,0000,0000,0000,,Doðavola sa Zabranjenom Veštinom...\NDoðavola s tim klanom...
+Dialogue: 0,0:19:36.83,0:19:38.03,Default,,0000,0000,0000,,Doðavola sa takvim uèiteljem!
+Dialogue: 0,0:19:38.77,0:19:41.73,Default,,0000,0000,0000,,I svim sebiènim tipovima koji\Nrade te užasne stvari
+Dialogue: 0,0:19:41.77,0:19:44.47,Default,,0000,0000,0000,,onima koji ih služe, \Nbez trunke kajanja.\N
+Dialogue: 0,0:19:45.80,0:19:49.70,Default,,0000,0000,0000,,Oni misle o nama...kao o alatu.
+Dialogue: 0,0:19:51.20,0:19:53.37,Default,,0000,0000,0000,,Alatu..koji ne govori.
+Dialogue: 0,0:20:00.23,0:20:01.37,Default,,0000,0000,0000,,Hotaru...
+Dialogue: 0,0:21:36.63,0:21:38.67,Default,,0000,0000,0000,,Šta je ovo, Tonbei?\N\N
+Dialogue: 0,0:21:38.77,0:21:42.67,Default,,0000,0000,0000,,Znaèi En no Gyoja ostavio je iza sebe\Ntaèan naèin da se izvuèe Zabranjena Veština.\N\N
+Dialogue: 0,0:21:42.83,0:21:45.67,Default,,0000,0000,0000,,Oèigledno je da naš klan\Nnema više snagu \N\N
+Dialogue: 0,0:21:45.70,0:21:47.40,Default,,0000,0000,0000,,da saèuva Zabranjenu Veštinu.\N\N
+Dialogue: 0,0:21:47.80,0:21:49.57,Default,,0000,0000,0000,,Da bi spreèili da padne u \Npogrešne ruke,\N\N
+Dialogue: 0,0:21:49.60,0:21:52.20,Default,,0000,0000,0000,,nemamo drugog izbora nego \Nda uništimo tu veštinu.\N\N
+Dialogue: 0,0:21:52.57,0:21:56.00,Default,,0000,0000,0000,,Uništite?\NŠta æe se dogoditi s Hotaru onda?!\N\N
+Dialogue: 0,0:21:56.67,0:21:59.97,Default,,0000,0000,0000,,Sledeæa epizoda:\N"NASLEDNIK TAME"\N\N
+Dialogue: 0,0:22:01.53,0:22:03.70,Default,,0000,0000,0000,,Prokletstvo! Zar ne postoji \Ndrugi naèin?!
+Dialogue: 0,0:22:07.20,0:22:08.30,Default,,0000,0000,0000,,Vidim...
+Dialogue: 0,0:22:08.37,0:22:11.33,Default,,0000,0000,0000,,Znaèi ponekad, ruèno napravljeni \Npoklon je veoma efikasan.
+Dialogue: 0,0:22:13.50,0:22:14.70,Default,,0000,0000,0000,,Hej, Sai!
+Dialogue: 0,0:22:14.90,0:22:15.53,Default,,0000,0000,0000,,Æao.
+Dialogue: 0,0:22:15.83,0:22:18.37,Default,,0000,0000,0000,,Da li se nešto desilo?\NPozvao si me tek tako iznenada.
+Dialogue: 0,0:22:18.43,0:22:20.10,Default,,0000,0000,0000,,Nije ništa posebno...
+Dialogue: 0,0:22:20.67,0:22:22.07,Default,,0000,0000,0000,,Onda me nemoj zvati.
+Dialogue: 0,0:22:22.33,0:22:27.23,Default,,0000,0000,0000,,Ali ja sam ovo nacrtao za tebe.\NHoèeš li ovo prihvatiti?
+Dialogue: 0,0:22:28.20,0:22:29.07,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:22:29.17,0:22:30.03,Default,,0000,0000,0000,,Zar ti se ne sviða?
+Dialogue: 0,0:22:30.23,0:22:32.93,Default,,0000,0000,0000,,Ne, ne radi se o tome...\NPa, ustvari radi se o...
+Dialogue: 0,0:22:33.20,0:22:36.53,Default,,0000,0000,0000,,Ali u redu uzeæu je ako insistiraš.
+Dialogue: 0,0:22:37.80,0:22:39.93,Default,,0000,0000,0000,,Napravio je za mene,\Npa æu je okaèiti negde.
+Dialogue: 0,0:22:41.30,0:22:43.67,Default,,0000,0000,0000,,Huh? Š-Šta je to?! Hej!
+Dialogue: 0,0:22:47.27,0:22:50.03,Default,,0000,0000,0000,,Hej! Prekini, hoæeš li?!
+Dialogue: 0,0:22:56.83,0:23:00.67,Default,,0000,0000,0000,,Taj Sai...\Npreterao ga je ovog puta!
+Dialogue: 0,0:23:01.70,0:23:04.00,Default,,0000,0000,0000,,Pitam se da li se Narutu svidelo?
+Dialogue: 0,0:23:04.67,0:23:07.30,Default,,0000,0000,0000,,Prevod i obrada:\NANUBISBUCA\N\N

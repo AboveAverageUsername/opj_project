@@ -1,0 +1,291 @@
+{1}{1}25.000
+{26}{176}-== [ www.OpenSubtitles.org ] ==-
+{270}{305}Zovem se Alice.
+{325}{394}Radila sam za Umbrella korporaciju.
+{392}{483}NajveÊi komercijalni entitet na svijetu.
+{497}{537}Bila sam öef osiguranja
+{538}{639}U sofisticiranoj ustanovi|zvanoj Hive.
+{657}{818}Dolje su bili laboratoriji|u kojima se istraûivalo eksperimentalno bio naoruûanje.
+{819}{936}Dogodio se incident, virus je osloboen,|i svi su poginuli.
+{980}{1071}Nevolja je bila u tome|öto nisu ostali mrtvi.
+{1116}{1195}T-virus je reanimirao|njihova tijela.
+{1281}{1385}Preûivjela sam, ja i joö|jedan znanstvenik zvani Mat.
+{1399}{1474}Kad smo izaöli doËekali|su nas Umbrellini znanstvenici.
+{1479}{1548}Mat i ja smo bili razdvojeni.|-Mutira.
+{1551}{1594}HoÊu ga u programu|Nemesis.
+{1591}{1629}Mat!
+{1698}{1811}Vodite je u Racoon City,|i sastavite tim.
+{1811}{1918}Otvaramo Hive, hoÊu|znati öto se dolje degodilo.
+{1941}{1992}Mislili smo da smo|preûivjeli uûas.
+{2093}{2134}Nismo bili u pravu.
+{2189}{2326}NASTANJENO ZLO|APOKALIPSA
+{2472}{2612}Sada je 6:10 ujutru a vani je veÊ|92 stupnja farenheita.
+{2600}{2681}Nastavlja se|razvedravati.
+{2672}{2773}Vedro nebo u Racoon Cityju|i povjetarac koji ide sa zapada...
+{2793}{3081}Imamo i bonus za astmatiËare|pritisak je danas odgovarajuÊi.
+{3048}{3136}Sve u svemu, izgleda|kao da Êe biti joö jedan divan dan.
+{3132}{3250}Ostanite sa nama, poslije|Êemo gledati mjesta za odmore.
+{3940}{3996}Time, nastavi.
+{4408}{4460}O jebote...
+{5468}{5542}Oprostite gospoo,|dogodio se incident.
+{6043}{6094}Oprostite gospodine,|dogodio se incident.
+{6145}{6205}Koliko je loöe?|-Morate poÊi sa nama.
+{6209}{6314}Moram otiÊi po kÊer.|-Sreeno je gopsodine. -äto radiö to?
+{6308}{6364}Ne razumijete, otiöla|je u ökolu!
+{7436}{7564}Imamo potvrdu, evakuacija zavröena, ali|smo izgubili kontakt sa gamom 12.
+{8379}{8458}Traûimo potporu!
+{8475}{8634}Joö uvijek nema objaönjenja za|ubojstva koja se deöavaju po gradu...
+{8751}{8841}Treba nam potpora, odmah!
+{9500}{9560}Ne pucajte, naöa je!|-Valentine!
+{9556}{9636}Zaraûeni su.|-Ako je zaraûena, skidaj je sa mene!
+{9652}{9699}Rekla sam ti|pucaj im u glavu.
+{9704}{9763}Molim vas, nek je netko ubije!
+{9817}{9877}Ne, ne mene!
+{9882}{9941}Idemo iz grada, savetujem|ti da ti uradiö isto.
+{10016}{10087}Zatvorite sva vrata i prozore...
+{10402}{10503}Projekt Alice, aktivacija poËela.|Automatsko gaöenje anestetika.
+{12412}{12464}Smirite se zbog|vlastite sigurnosti...
+{12535}{12676}Grad je blokiran,naöe trupe su sve zatvorile,| jedini izlaz je preko mosta.
+{12661}{12751}Svi moraju proÊi|skeniranje.
+{12742}{12770}Gospodine!
+{12779}{12814}Doite vidjeti ovo!
+{13229}{13280}Ne gurajte se, drûite liniju!
+{13313}{13370}Treba nam pojaËanje dolje!
+{13398}{13553}Dolaze pojaËanja preko mosta.
+{13543}{13590}Prijem bazo|idemo.
+{14962}{15030}Djevojka je u nevolji,|spuötaj nas!
+{15032}{15113}Ne moûemo, imamo|nareenje!
+{15144}{15247}Ubit Êe je, spuötaj nas!|-Imamo nareenja!
+{15337}{15398}Jebeö nareenja!
+{15418}{15461}Nicholai, odveûi me!
+{15514}{15558}»ekaj!
+{15915}{15958}Sad!
+{16105}{16214}Spusti nas niûe,|odmah!
+{16352}{16401}Hej, jesi li dobro?
+{16434}{16490}Udalji se od ruba,|i prii mi.
+{16511}{16572}Sve je u redu.|-Nije.
+{16620}{16705}Vidjela sam öto se|dogaa kad te ugrizu.
+{16700}{16769}Moûemo ti pomoÊi.|-Nema vraÊanja nazad.
+{16787}{16835}Ne!
+{17310}{17363}Hej!|-Valentine!
+{17366}{17430}Hej, Valentine!
+{17486}{17551}Hej, drago mi je öto|si doöla, treba nam pomoÊ.
+{17675}{17739}Ima slabo srce!|-Bjeûi od njega!
+{17741}{17782}Svi se udaljite!
+{17798}{17847}Tata!|-Bjeûi od njega!
+{17865}{17901}Bjeûi od njega!
+{17997}{18023}Tata!
+{18027}{18065}U redu je, imam te.
+{18374}{18434}Ovdje je, stiglo|je do vrata.
+{18517}{18623}Zaöto si ovdje?|Trebao si da izaeö dok si imao priliku.
+{18621}{18668}Ovo su sve ljudi.
+{18725}{18807}Zatvaraj.|-Gospodine? -Zatvaraj vrata!
+{18814}{18852}Ne razumijem...|-Samo to uradi.
+{19504}{19599}Ovo je barijera|karantene.
+{19596}{19717}Vi ste moguÊi zaraûeni|i ne moûete izaÊi iz karantene!
+{19735}{19827}äto se dogaa?|-Sve mjere su poduzete.
+{19830}{19962}Situacija je pod kontrolom,|molimo vas da se vratite kuÊama.
+{20281}{20390}Imate pet sekundi da se|okrenete i vratite u vaö grad.
+{20462}{20504}Uradi to!
+{20508}{20593}Odobreno je|koriötenje bojne municije.
+{20640}{20727}5... 4...
+{20755}{20826}3...2....|-Nazad!
+{20834}{20902}1...|-Nazad!
+{21815}{21909}Idemo u sektor 0-1|izvröavamo zadatak.
+{22463}{22487}Granata!
+{22662}{22726}Ekipe 3-7|se povlaËe.
+{22762}{22826}Ne gospodine,|mjere suzbijanja nisu uspijele.
+{22830}{22949}Ne moûemo je zadrûati,|infekcija se öiri brûe nego öto smo mislili.
+{22961}{23069}Doktore Ashford,|zar ne biste trebali da ste u helikopteru?
+{23060}{23094}Ne idem.
+{23106}{23200}ReËeno mi je da izbavim|znanstvenike iz vruÊe zone.
+{23201}{23264}Previöe ste vaûni za Umbrellu|da bi risirali.
+{23258}{23330}Ne idem bez kÊeri.
+{23369}{23441}éao mi je, stvarno,|ali grad je zatvoren.
+{23451}{23536}Moûda je preûivjela|sudar, ali je nismo mogli naÊi.
+{23545}{23697}I da je ûiva nisam je mogao|naÊi, rizik infekcije je preveliki.
+{23691}{23727}Morate razumjeti.
+{23741}{23855}Ti znaö öto moraö da uËiniö.|Ja ostajem.
+{24685}{24731}PRISTUP ODBA»EN
+{24903}{24947}PRSITUP ODBA»EN
+{25065}{25200}PRISTUP ODOBREN
+{25352}{25443}PRONALAZAK OSOBLJA.|META: ANGELA
+{25462}{25563}TRAéIM ANGELU ASHFORD
+{25576}{25624}NA–ENA:GIMNAZIJA|KAMERA
+{25871}{25921}Netko je morao ostati|ûiv.
+{26071}{26110}NA–ENA|KAMERA
+{27449}{27513}Odvedite je u ustanovu|Racoon City.
+{27526}{27615}HoÊu je u karantenu|drûite je na oku.
+{27721}{27788}Spremite je za|izlaganje.
+{27929}{27992}Zaustavite dozu.
+{27991}{28045}Samo to uradite!
+{28425}{28464}NA–ENA|CRKVA RAVENS GATE
+{28575}{28598}Unutra.
+{28625}{28667}Da te pokrijemo.
+{29383}{29502}Izaite, ovo je moje|mjesto, ja se krijem ovdje!
+{29486}{29559}Mislim da je dovoljno veliko|za sve nas.
+{29551}{29581}Ok, smiri se!
+{29593}{29637}Spusti taj piötolj.
+{29725}{29783}Spusti piötolj.
+{29828}{29890}A ti se smiri.
+{29940}{30087}Dakle, da li policija RS ima|komentar öto su one stvari?
+{30127}{30165}äto ti je to?
+{30180}{30296}Moj Emi,|ako preûivimo.
+{31715}{31759}Jeste li dobro?
+{32014}{32043}äto to radiö?
+{32083}{32128}äto mu je?
+{32138}{32244}To je moja sestra, nije joj dobro.|-Moûda mogu pomoÊi?
+{32234}{32266}Ne...|-Skloni mi se sa puta!
+{32330}{32362}Samo izaite!
+{32527}{32598}Hraniö je?|Ti si bolestan!
+{32644}{32686}Samo nas ostavite|na miru.
+{32727}{32763}Ne!
+{32908}{32939}Bjeûim odavde!
+{32944}{32988}Hej! Hej!
+{32997}{33041}Hej, nemoj!
+{33036}{33074}O moj boûe!
+{33231}{33261}Pomozite!
+{33962}{33988}Tamo!
+{34126}{34155}Isuse!
+{34180}{34209}äto je ono jebote?!
+{34216}{34268}äto to radiö?|VraÊaj se!
+{37775}{37828}Budalo!
+{37930}{37963}Znam.
+{37980}{38010}Ima ih 3.
+{38035}{38077}Imaju nas u kutu.
+{38100}{38137}äto Êemo uËiniti?
+{38144}{38172}Idemo!
+{38699}{38735}Isuse!
+{38746}{38816}Trebat Êe nam joö|streljiva, ja nemam.
+{39126}{39171}Sranje, o ne...
+{39684}{39714}Pokret!
+{41393}{41430}Tko si ti?
+{41600}{41652}Jipi öta je pederu!
+{41726}{41762}10 poena!
+{42713}{42735}Skini ga!
+{42820}{42865}Jurij, jesi li dobro?
+{42926}{42948}Pazi ovo!
+{43329}{43357}Jesi li dobro?
+{43356}{43388}Jesam.
+{43868}{43919}Nazad, nazad!
+{44248}{44284}Idemo!
+{44362}{44467}Ovdje je Pharrell,|opkoljeni smo, traûimo evakuaciju helikopterom.
+{45229}{45286}Moramo naÊi neko|mjesto da stanemo za tren.
+{45291}{45341}Mislim da to nije dobra ideja.
+{45351}{45427}Moûda bude joö|onih stvorova.
+{45427}{45470}Da ih ima joö|veÊ bi smo ih vidjeli.
+{45492}{45557}Znaö öta su?|-Biooruûja.
+{45554}{45605}Napravljeni su|u laboratorijama ispod grada.
+{45606}{45660}Kako znaö toliko|o Umbrelli?
+{45679}{45710}Radila sam za njih.
+{45743}{45814}Dovraga!|-Stoj!
+{45852}{45890}äto to radiö?
+{45898}{45956}Ranjen je, infekcija|se öiri.
+{45966}{46004}Dobro sam.
+{46026}{46072}Sada bi trebalo da|se pobrinemo za njega.
+{46092}{46149}Bit Êe mu mnogo|teûe kasnije.
+{46161}{46207}Znaö to.
+{46226}{46256}Ne.
+{46271}{46377}Ako doe do toga,|sama Êu se za to pobrinuti.
+{46511}{46546}Kako hoÊeö.
+{46590}{46685}Niöta osobno, ali za sat, moûda dva|Êeö biti mrtav.
+{46711}{46781}A poslije nekoliko minuta|Êeö postati jedan od njih.
+{46786}{46900}Ugrozit Êeö prijatelje,|pokuöat Êeö ih ubiti, vjerojatno Êeö uspjeti.
+{46965}{47037}éao mi je. Tako je kako je.
+{48554}{48587}Previöe ih je!
+{48619}{48660}Bjeûimo odavde, ovuda!
+{49012}{49099}Gospodine, T-virus je|dostigao kritiËne nivoe.
+{49181}{49248}Ovo predstavlja pravu|priliku.
+{49265}{49404}Snimaj sve postupke, aktiviraj|program Nemesis, sad!
+{50292}{50337}Hej, ovamo!
+{50340}{50374}Dolje smo, hej!
+{50438}{50518}Gdje Êe?|-SlijeÊu tamo kod Jurija, idemo!
+{50548}{50596}Ajde Juri, idemo.
+{50605}{50648}Sredit Êemo te, idemo!
+{51080}{51147}»ekaj, joö malo|smo stigli.
+{51196}{51234}Ne, ne!
+{51229}{51255}Ne, ne idi!
+{51269}{51365}Ovdje smo, vratite se!|-Bacili su neöto u bolnicu. Jesi li vidio?
+{51356}{51430}Moûda radio koji radi,|uzmi Jurija.
+{51710}{51761}Pazi se Jurij.
+{52784}{52834}Ok, ovdje se odmaraj.
+{52941}{52998}äto je ovo?
+{53021}{53099}Izgledaju kao|kutije za oruûja.
+{53097}{53175}Ne trebaju nam oruûja,|treba nam evakuacija!
+{53201}{53255}Ovo nije za nas.
+{53813}{53870}Ima dosta za sve!
+{54361}{54412}Ne pucaj!
+{54505}{54563}Sredio sam je!|-Hvala!
+{54567}{54617}Dugujem ti ËovjeËe!
+{54713}{54746}Sranje!
+{54821}{54877}Sad sam bio vani,|zar mi ne prepoznajete lice?
+{54943}{55041}MamojebaË molim te,|moja sranje je domaÊe.
+{55323}{55385}äto je ono jebote?
+{55694}{55725}Sranje...
+{55954}{56007}Padaö kurvin sine!
+{56345}{56410}Idemo na poloûaje,|skinite ga!
+{56508}{56606}Ovo je ludo, kako Êete|na njega, a ima zolju?
+{56633}{56723}äto imamo?|-Tucet naoruûanih ljudi, organizirani su.
+{56910}{57072}Iznenadna posjeta.|-To su STARS, specijalna jedinica.
+{57078}{57125}Najbolji su.
+{57132}{57177}Pali!
+{57471}{57509}Nazad!
+{57552}{57611}Da vidimo koliko|su dobri.
+{57617}{57703}Aktiviram protokole.|-UBIJ »LANOVE STARS
+{58144}{58183}STARS
+{58349}{58381}Sranje...
+{58564}{58602}Respekt!
+{58695}{58753}Naoruûani civil
+{58770}{58845}Ne-borben.
+{59162}{59296}Dobri su ti potezi,|dobra sam, ali ne toliko.
+{59303}{59360}Budi zahvalna zbog toga.|-Kako to misliö?
+{59448}{59498}Neöto su mi uradili.
+{59507}{59554}Jedva se osjeÊam|ljudsko.
+{59633}{59718}Trebali bi krenuti
+{59967}{60011}Nastavite!
+{60340}{60402}Halo?|-Pomislio sam da se neÊeö javiti.
+{60425}{60501}Tko je to?|-Mogu da vas izbavim iz grada.
+{60523}{60561}Svih Ëetvoro.
+{60578}{60647}Prvo moramo da se|dogovorimo.
+{60645}{60685}Jeste li spremni da se|dogovorimo?
+{60712}{60801}Imamo li izbora?|-Ne ako sutra ûelite ûiviti.
+{60850}{61004}Zove se Ashford i radi?|-U naprednim istraûivanjima u Umbrelli.
+{60996}{61069}äto hoÊe od nas?|-Njegovu kÊer, Angelu.
+{61066}{61185}Zarobljena je u gradu,|trebali su da je evakuiraju ali nisu uspjeli.
+{61174}{61216}Krije se u ökoli.
+{61215}{61284}Moramo je naÊi, da bi|nam pomogao da izaemo.
+{61295}{61473}Nema dogovora. NaÊi Êemo najËvröÊu|zgradu, i zabarakadirati Êemo se.
+{61459}{61502}Samo Êemo Ëekati,|i stiÊi Êe nam pomoÊ.
+{61500}{61542}NeÊe biti pomoÊi.
+{61552}{61629}Prema Ashfordu, Umbrella ne|zna kako da zadrûi infekciju.
+{61624}{61743}Do jutra Êe grad biti saniran.
+{61796}{61851}Kako to misliö ''saniran''?
+{61860}{61916}Precizna taktiËka|nuklearka.
+{61912}{61968}Koje snage?|-Pet kilotona.
+{62016}{62068}Jebeö me...|-äto to znaËi?
+{62082}{62237}ZnaËi da Êe uniötiti infekciju,|a i nas ostale.
+{62263}{62327}Sranje, to je sranje!
+{62338}{62387}Nema öanse da se izvuku sa time!
+{62397}{62437}Bit Êe na vijestima!
+{62448}{62524}Lagati Êe, to je veÊ|spremljeno.
+{62521}{62639}Okrivti Êe nuklearnu elektranu.|-TragiËna nesreÊa.
+{62640}{62725}Nitko nije sposoban za ovo.|-Nesposoban? Bio si tamo.
+{62775}{62880}Na mostu, vidjeo si dokle|Umbrella ide.
+{62986}{63041}äto sad da radimo?
+{63065}{63119}Mislim da bi trebali biti van |ovoga do zore.
+{63291}{63440}äto ako nema izlaza, i gleda|nas na kamerama, kao da je ovo bolesna igra?
+{63489}{63538}äto je to?|-äto se dogaa?
+{63540}{63618}»ekaj.|-Zora neÊe Ëekati!
+{63663}{63711}Dolje je neöto.
+{63715}{63766}Gdje?
+{63776}{63811}Tamo.
+{63820}{63906}Ne vidim niöta.|-To ne mjenja Ëinjenicu da je neöto tamo.
+{63911}{64000}Neöto je dolje.|-Muka mi je od ovog sranja.
+{64254}{64329}Locirao je joö|dva Ëlana STARS-a.
+{64405}{64484}Nemesis.. bjeûi!
+{64486}{64532}Samo bjeûi!
+{64624}{64646}PRIJETNJA
+{64741}{64778}Primarna meta identificirana.
+{64802}{64893}Gospodo, na ovo Ëekamo.
+{64920}{65036}Potvrdi öifre, Nemesis|program je sada u potpunosti aktiviran.
+{65061}{66561}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/42h7v|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

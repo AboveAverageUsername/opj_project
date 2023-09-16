@@ -1,0 +1,322 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.00,Default,,0000,0000,0000,,Ovo izdanje nije za prodaju ili iznajmljivanje!\NOVO JE BESPLATAN FANSUB!\Nhttp://www.anime-overdose.com
+Dialogue: 0,0:01:30.47,0:01:33.50,Default,,0000,0000,0000,,{\i1}"RAZDVAJANJE"\N\N{\i0}
+Dialogue: 0,0:01:44.17,0:01:45.20,Default,,0000,0000,0000,,To mora da je to.
+Dialogue: 0,0:01:46.43,0:01:47.83,Default,,0000,0000,0000,,Konaèno sam ga našao.
+Dialogue: 0,0:01:49.03,0:01:50.30,Default,,0000,0000,0000,,{\i1}Budi strpljiva, Hotaru.{\i0}
+Dialogue: 0,0:01:50.30,0:01:52.73,Default,,0000,0000,0000,,{\i1}Vraæam se nazad sa\NShiranamijem uskoro!{\i0}
+Dialogue: 0,0:02:07.13,0:02:08.27,Default,,0000,0000,0000,,Gospodin...Shiranami?
+Dialogue: 0,0:02:09.27,0:02:10.73,Default,,0000,0000,0000,,Pronašao sam te.
+Dialogue: 0,0:02:11.03,0:02:12.23,Default,,0000,0000,0000,,Da li si ti Shiranami?
+Dialogue: 0,0:02:13.53,0:02:14.53,Default,,0000,0000,0000,,Naseo si.
+Dialogue: 0,0:02:28.53,0:02:30.27,Default,,0000,0000,0000,,{\i1}Kako si mogao otiæi bez reèi?{\i0}
+Dialogue: 0,0:02:30.57,0:02:32.67,Default,,0000,0000,0000,,{\i1}Sir Utakata, ja još uvek...{\i0}
+Dialogue: 0,0:02:38.67,0:02:42.73,Default,,0000,0000,0000,,Predpostavljam da si ti Lady Hotaru\Nunuka od En no Gyoja?
+Dialogue: 0,0:02:43.10,0:02:44.27,Default,,0000,0000,0000,,K-Ko si ti?!
+Dialogue: 0,0:02:45.60,0:02:48.47,Default,,0000,0000,0000,,Moje ime je...Shiranami.
+Dialogue: 0,0:02:49.23,0:02:50.07,Default,,0000,0000,0000,,Shiranami?!
+Dialogue: 0,0:02:50.57,0:02:51.53,Default,,0000,0000,0000,,Oslobaðanje!
+Dialogue: 0,0:02:53.23,0:02:56.30,Default,,0000,0000,0000,,Konaèno smo se sreli, Lady Hotaru.
+Dialogue: 0,0:02:58.07,0:02:58.97,Default,,0000,0000,0000,,To je...
+Dialogue: 0,0:03:02.27,0:03:04.60,Default,,0000,0000,0000,,Taj simbol se daje samo onima\Nkoji su uèeni
+Dialogue: 0,0:03:04.63,0:03:06.53,Default,,0000,0000,0000,,kako da koriste Zabranjenu Veštinu.
+Dialogue: 0,0:03:07.23,0:03:09.77,Default,,0000,0000,0000,,Da li si ti stvarno...Sir Shiranami?
+Dialogue: 0,0:03:10.60,0:03:12.43,Default,,0000,0000,0000,,Ne krivim te što si tako iznenaðena.
+Dialogue: 0,0:03:12.50,0:03:15.67,Default,,0000,0000,0000,,Došao sam jer me je Naruto obavestio.
+Dialogue: 0,0:03:16.53,0:03:17.53,Default,,0000,0000,0000,,Naruto?!
+Dialogue: 0,0:03:18.40,0:03:20.23,Default,,0000,0000,0000,,Onda si ti stvarno Sir Shiranami!
+Dialogue: 0,0:03:21.27,0:03:24.37,Default,,0000,0000,0000,,Gde je Naruto? Moram da mu \Nse zahvalim...
+Dialogue: 0,0:03:26.07,0:03:28.53,Default,,0000,0000,0000,,On više nije ovde.
+Dialogue: 0,0:03:30.20,0:03:32.80,Default,,0000,0000,0000,,Tražio je od mene da se pobrinem \Nza ostalo, i otišao.\N
+Dialogue: 0,0:03:34.50,0:03:36.97,Default,,0000,0000,0000,,Vidim... Naruto isto...
+Dialogue: 0,0:03:38.20,0:03:42.20,Default,,0000,0000,0000,,Naruto mi je rekao da...\Nti želiš da oživiš klan.
+Dialogue: 0,0:03:43.60,0:03:44.63,Default,,0000,0000,0000,,Huh? Oh...da.
+Dialogue: 0,0:03:45.00,0:03:46.70,Default,,0000,0000,0000,,Ako si stvarno ozbiljna,
+Dialogue: 0,0:03:46.80,0:03:49.60,Default,,0000,0000,0000,,onda da li bi saslušala šta ja imam\Nda ti kažem?
+Dialogue: 0,0:03:50.93,0:03:52.13,Default,,0000,0000,0000,,Sir Shiranami?
+Dialogue: 0,0:03:57.73,0:03:59.83,Default,,0000,0000,0000,,Reèeno mi je da je Tonbei \Nživ i zdrav...
+Dialogue: 0,0:04:00.77,0:04:02.17,Default,,0000,0000,0000,,i da planira da koristi
+Dialogue: 0,0:04:02.20,0:04:04.07,Default,,0000,0000,0000,,Diremption Veštinu da uništi\NZabranjenu Veštinu.
+Dialogue: 0,0:04:04.37,0:04:05.77,Default,,0000,0000,0000,,I ti znaš Tonbeija isto?
+Dialogue: 0,0:04:06.47,0:04:08.30,Default,,0000,0000,0000,,Trenirali smo zajedno neko vreme.
+Dialogue: 0,0:04:08.93,0:04:12.37,Default,,0000,0000,0000,,Ipak, ja se protivim Tonbeijevoj nameri.
+Dialogue: 0,0:04:12.90,0:04:13.60,Default,,0000,0000,0000,,Zašto?
+Dialogue: 0,0:04:14.43,0:04:18.23,Default,,0000,0000,0000,,Mnogo davno...mom ocu\Nje Lord En no Gyoja naredio da
+Dialogue: 0,0:04:18.27,0:04:20.40,Default,,0000,0000,0000,,da zaštiti Zabranjenu Veštinu.
+Dialogue: 0,0:04:21.57,0:04:24.70,Default,,0000,0000,0000,,Moj otac je bio heroj koji je zaštitio\Nèast Tsuchigumo klana
+Dialogue: 0,0:04:24.73,0:04:26.70,Default,,0000,0000,0000,,kao i Zabranjenu Veštinu.
+Dialogue: 0,0:04:29.87,0:04:33.57,Default,,0000,0000,0000,,Bilo je tako, dok nije ubijen od osobe\Nkoja je želela Zabranjenu Veštinu.
+Dialogue: 0,0:04:35.37,0:04:38.07,Default,,0000,0000,0000,,Smrt moga oca motivisala je\NLord En no Gyoja
+Dialogue: 0,0:04:38.10,0:04:41.07,Default,,0000,0000,0000,,da premesti Zabranjenu Veštinu\Nu utvrðenje na planini Katsuragi,
+Dialogue: 0,0:04:41.10,0:04:43.10,Default,,0000,0000,0000,,a meni je dozvolio da odem iz zemlje.
+Dialogue: 0,0:04:44.73,0:04:46.57,Default,,0000,0000,0000,,Obeæao sam sebi da æu jednog dana,
+Dialogue: 0,0:04:46.60,0:04:50.03,Default,,0000,0000,0000,,vratiti se u selo za dobro\N Tsuchigumo Klana!
+Dialogue: 0,0:04:51.40,0:04:52.47,Default,,0000,0000,0000,,Sir Shiranami...
+Dialogue: 0,0:04:53.53,0:04:54.43,Default,,0000,0000,0000,,Lady Hotaru.
+Dialogue: 0,0:04:54.97,0:04:58.30,Default,,0000,0000,0000,,Moj otac je ubijen i ja sam bio \Nprisiljen da odem\N
+Dialogue: 0,0:04:58.33,0:05:00.50,Default,,0000,0000,0000,,zato što smo bili jedina dva preživela\N
+Dialogue: 0,0:05:00.53,0:05:03.17,Default,,0000,0000,0000,,koji su znali da koriste \NZabranjenu Veštinu.
+Dialogue: 0,0:05:04.57,0:05:06.87,Default,,0000,0000,0000,,{\i1}On je prošao kroz iste teškoæe...{\i0}
+Dialogue: 0,0:05:07.63,0:05:10.30,Default,,0000,0000,0000,,Ali sad sam postao jak\Ni sad sam se vratio.
+Dialogue: 0,0:05:10.93,0:05:15.63,Default,,0000,0000,0000,,Ako udružimo snage, možemo da \Nobnovimo Zabranjenu Veštinu!
+Dialogue: 0,0:05:16.13,0:05:18.03,Default,,0000,0000,0000,,Nema potrebe da uništimo \NZabranjenu Veštinu!
+Dialogue: 0,0:05:18.67,0:05:21.93,Default,,0000,0000,0000,,Obnavljanje Tsuchigumo Klana\Nje moja iskrena želja!
+Dialogue: 0,0:05:22.97,0:05:26.20,Default,,0000,0000,0000,,Ispunimo snove moga oca \Ni Lord En no Gyoja!
+Dialogue: 0,0:05:29.13,0:05:29.90,Default,,0000,0000,0000,,Ali...
+Dialogue: 0,0:05:31.43,0:05:34.67,Default,,0000,0000,0000,,Iza ovih planina je moje \Ntajno skrovište.
+Dialogue: 0,0:05:35.63,0:05:36.43,Default,,0000,0000,0000,,Lady Hotaru!
+Dialogue: 0,0:05:41.17,0:05:41.97,Default,,0000,0000,0000,,Razumem.
+Dialogue: 0,0:05:43.47,0:05:45.00,Default,,0000,0000,0000,,Hotaru je nestala?
+Dialogue: 0,0:05:45.63,0:05:48.70,Default,,0000,0000,0000,,Pretražio sam celu okolinu utvrðenja.
+Dialogue: 0,0:05:50.50,0:05:54.83,Default,,0000,0000,0000,,Ja sam preneo Narutovu poruku\Nda je on "pronašao Shiranami."
+Dialogue: 0,0:05:56.27,0:05:59.80,Default,,0000,0000,0000,,{\i1}Mora da je otišla za Utakataom...\NDa li je stvarno tako?{\i0}
+Dialogue: 0,0:06:00.73,0:06:03.27,Default,,0000,0000,0000,,U redu, odložiæemo za sada \Npripreme za ritual.
+Dialogue: 0,0:06:03.67,0:06:05.73,Default,,0000,0000,0000,,Pronaæi Hotaru je naš glavni prioritet.
+Dialogue: 0,0:06:06.70,0:06:09.77,Default,,0000,0000,0000,,Sai, pošalji u okolinu što više \Nmiševa tragaèa.
+Dialogue: 0,0:06:10.70,0:06:11.23,Default,,0000,0000,0000,,Idemo.
+Dialogue: 0,0:06:11.50,0:06:12.03,Default,,0000,0000,0000,,Da, sir.
+Dialogue: 0,0:06:12.93,0:06:14.80,Default,,0000,0000,0000,,Nindža Umetnost: Super Životinski Svitak!
+Dialogue: 0,0:06:17.33,0:06:18.47,Default,,0000,0000,0000,,Da li je to za Tonbeija?
+Dialogue: 0,0:06:19.03,0:06:22.50,Default,,0000,0000,0000,,Huh? Oh, da...\NJa moram da ga obavestim.
+Dialogue: 0,0:06:23.33,0:06:26.43,Default,,0000,0000,0000,,{\i1}Barem kratka poruka za Sir Utakata...{\i0}
+Dialogue: 0,0:06:34.33,0:06:35.20,Default,,0000,0000,0000,,I sada kreni...
+Dialogue: 0,0:06:36.10,0:06:37.90,Default,,0000,0000,0000,,Idemo, Sir Shiranami.
+Dialogue: 0,0:06:40.57,0:06:42.03,Default,,0000,0000,0000,,Sada si samo sve otežala...
+Dialogue: 0,0:06:42.60,0:06:43.10,Default,,0000,0000,0000,,Šta?
+Dialogue: 0,0:06:43.33,0:06:43.93,Default,,0000,0000,0000,,UNIŠTITI
+Dialogue: 0,0:06:44.50,0:06:45.13,Default,,0000,0000,0000,,Kreni.
+Dialogue: 0,0:06:46.07,0:06:46.70,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:47.77,0:06:48.70,Default,,0000,0000,0000,,Šta...?
+Dialogue: 0,0:06:49.67,0:06:52.03,Default,,0000,0000,0000,,Ako radiš kao što želiš...!
+Dialogue: 0,0:06:56.30,0:06:58.87,Default,,0000,0000,0000,,{\i1}Mislio sam da sam se pomirio s tim...{\i0}
+Dialogue: 0,0:06:59.50,0:07:01.73,Default,,0000,0000,0000,,{\i1}Zašto onda sada mislim o mom uèitelju?\N{\i0}
+Dialogue: 0,0:07:03.50,0:07:04.40,Default,,0000,0000,0000,,Šta je to?
+Dialogue: 0,0:07:06.30,0:07:08.03,Default,,0000,0000,0000,,Poruka manipulisana èakrom?
+Dialogue: 0,0:07:21.37,0:07:22.67,Default,,0000,0000,0000,,Golub pismonoša?
+Dialogue: 0,0:07:26.10,0:07:27.00,Default,,0000,0000,0000,,Od Hotaru?!
+Dialogue: 0,0:07:28.63,0:07:30.20,Default,,0000,0000,0000,,{\i1}Za Sir Utakata,{\i0}
+Dialogue: 0,0:07:30.80,0:07:35.27,Default,,0000,0000,0000,,{\i1}Ja æu raditi da obnovim Tsuchigumo Klan\Nsa Sir Shiranamijem.{\i0}
+Dialogue: 0,0:07:36.73,0:07:39.00,Default,,0000,0000,0000,,{\i1}Hvala za sve što si uradio za mene.{\i0}
+Dialogue: 0,0:07:40.37,0:07:41.20,Default,,0000,0000,0000,,{\i1}Zbogom.{\i0}
+Dialogue: 0,0:07:42.23,0:07:44.10,Default,,0000,0000,0000,,{\i1}Od tvog uèenika, Hotaru.{\i0}
+Dialogue: 0,0:07:45.93,0:07:46.57,Default,,0000,0000,0000,,Hotaru...
+Dialogue: 0,0:07:50.03,0:07:51.50,Default,,0000,0000,0000,,{\i1}Znaèi srela se sa Shiranamijem...{\i0}
+Dialogue: 0,0:07:52.33,0:07:55.40,Default,,0000,0000,0000,,{\i1}To znaèi da sam se konaèno \Noslobodio nje.{\i0}
+Dialogue: 0,0:08:05.03,0:08:06.50,Default,,0000,0000,0000,,Ko ste vi momci?!
+Dialogue: 0,0:08:06.70,0:08:07.93,Default,,0000,0000,0000,,Nemojte mi reæi da ste vi uhvatili \NShiranamija!
+Dialogue: 0,0:08:09.97,0:08:11.47,Default,,0000,0000,0000,,Kakav praznoglavac.
+Dialogue: 0,0:08:11.57,0:08:14.10,Default,,0000,0000,0000,,On je zabrinut za gazdu Shiranamija.
+Dialogue: 0,0:08:15.33,0:08:17.97,Default,,0000,0000,0000,,Ako ti dozvolimo da vidiš devojku \Nsa Zabranjenom Veštinom,\N
+Dialogue: 0,0:08:18.00,0:08:20.40,Default,,0000,0000,0000,,svi naši planovi æe biti upropašæeni.
+Dialogue: 0,0:08:20.73,0:08:22.73,Default,,0000,0000,0000,,Govoriš previše.
+Dialogue: 0,0:08:23.30,0:08:25.13,Default,,0000,0000,0000,,Nema razloga za brigu.
+Dialogue: 0,0:08:25.63,0:08:27.70,Default,,0000,0000,0000,,Ovo je gazdina specijalna barijera,
+Dialogue: 0,0:08:27.73,0:08:30.47,Default,,0000,0000,0000,,koja uklanja neprijateljevu èakru!
+Dialogue: 0,0:08:30.93,0:08:33.60,Default,,0000,0000,0000,,Jednostavno, nikome unutar barijere\Nnije moguæe da pruži otpor.
+Dialogue: 0,0:08:33.73,0:08:34.77,Default,,0000,0000,0000,,Š-Šta?!
+Dialogue: 0,0:08:35.23,0:08:36.77,Default,,0000,0000,0000,,P-Prokleti bili...!
+Dialogue: 0,0:08:37.33,0:08:37.93,Default,,0000,0000,0000,,Hvataj ga!
+Dialogue: 0,0:08:46.30,0:08:48.00,Default,,0000,0000,0000,,On je...snažan.
+Dialogue: 0,0:08:48.50,0:08:49.33,Default,,0000,0000,0000,,Ne panièi!
+Dialogue: 0,0:08:49.53,0:08:51.77,Default,,0000,0000,0000,,Samo se držite gazdine strategije\Ni iskoristite sledeæu veštinu!
+Dialogue: 0,0:08:52.90,0:08:55.00,Default,,0000,0000,0000,,Multi Mugenhouyo!
+Dialogue: 0,0:09:02.00,0:09:03.83,Default,,0000,0000,0000,,{\i1}Hajde da te vidimo da se \Noslobodiš iz ovoga...\N{\i0}
+Dialogue: 0,0:09:04.77,0:09:05.53,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:09:06.77,0:09:08.47,Default,,0000,0000,0000,,Ovo je...
+Dialogue: 0,0:09:09.33,0:09:11.57,Default,,0000,0000,0000,,ništa!
+Dialogue: 0,0:09:11.87,0:09:12.70,Default,,0000,0000,0000,,Doðavola...
+Dialogue: 0,0:09:23.60,0:09:26.23,Default,,0000,0000,0000,,Ne mogu da verujem da se još pomera \Niako je izgubio mnogo èakre!\N
+Dialogue: 0,0:09:26.70,0:09:28.47,Default,,0000,0000,0000,,Nema vremena za divljenje.
+Dialogue: 0,0:09:28.73,0:09:30.30,Default,,0000,0000,0000,,Završimo sa ovim!
+Dialogue: 0,0:09:34.03,0:09:34.83,Default,,0000,0000,0000,,Šta je bilo?
+Dialogue: 0,0:09:40.70,0:09:41.50,Default,,0000,0000,0000,,Ti si...
+Dialogue: 0,0:09:44.77,0:09:47.47,Default,,0000,0000,0000,,Nisam mogao a da ne èujem \Nšta si govorio.\N
+Dialogue: 0,0:09:47.73,0:09:50.63,Default,,0000,0000,0000,,Znaèi voða bandita je Shiranami.
+Dialogue: 0,0:09:51.57,0:09:54.67,Default,,0000,0000,0000,,Gde ste doðavola odveli Hotaru?!
+Dialogue: 0,0:10:00.17,0:10:01.37,Default,,0000,0000,0000,,Š-Šta je s ovim momkom?
+Dialogue: 0,0:10:01.90,0:10:03.37,Default,,0000,0000,0000,,Ovo je loše, Akaboshi.
+Dialogue: 0,0:10:04.73,0:10:06.50,Default,,0000,0000,0000,,Gazda je trebao biti u selu do sada.
+Dialogue: 0,0:10:06.90,0:10:08.03,Default,,0000,0000,0000,,Vreme je i za nas da krenemo!
+Dialogue: 0,0:10:08.13,0:10:09.00,Default,,0000,0000,0000,,- U redu!\N- U redu!
+Dialogue: 0,0:10:18.53,0:10:21.43,Default,,0000,0000,0000,,Ovo je...selo Tsuchigumo Klana?
+Dialogue: 0,0:10:22.03,0:10:24.30,Default,,0000,0000,0000,,Da li si budna, Lady Hotaru?
+Dialogue: 0,0:10:26.37,0:10:27.70,Default,,0000,0000,0000,,Sir...Shiranami?
+Dialogue: 0,0:10:28.77,0:10:30.03,Default,,0000,0000,0000,,Izaðite napolje, svi.
+Dialogue: 0,0:10:30.30,0:10:32.40,Default,,0000,0000,0000,,Lady Hotaru se vratila kuæi.
+Dialogue: 0,0:10:36.30,0:10:37.53,Default,,0000,0000,0000,,Ovi ljudi su...
+Dialogue: 0,0:10:38.50,0:10:40.57,Default,,0000,0000,0000,,Da li se nešto desilo sa seljanima?
+Dialogue: 0,0:10:40.90,0:10:45.17,Default,,0000,0000,0000,,Koristio sam veštinu da postanu\Nposlušni, to je sve.
+Dialogue: 0,0:10:45.53,0:10:46.07,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:10:46.40,0:10:51.73,Default,,0000,0000,0000,,Nisam imao izbora. Sve je zbog toga \Nda bi došao do Zabranjene Veštine.
+Dialogue: 0,0:10:52.47,0:10:55.63,Default,,0000,0000,0000,,Sir Shiranami! Da li ste me vi prevarili?!
+Dialogue: 0,0:10:55.67,0:10:59.07,Default,,0000,0000,0000,,Nisam te prevario.\NSve što sam ti rekao ranije je istina.
+Dialogue: 0,0:10:59.23,0:11:01.30,Default,,0000,0000,0000,,Iako bih trebao da dodam\Nda je moj stari,
+Dialogue: 0,0:11:01.33,0:11:06.17,Default,,0000,0000,0000,,koji je umro štiteæi Zabranjenu Veštinu,\Nustvari bio ubijen od mene!
+Dialogue: 0,0:11:06.40,0:11:08.67,Default,,0000,0000,0000,,Ja sam ubio mog oca nakon što \Nsam pokušao
+Dialogue: 0,0:11:08.70,0:11:10.83,Default,,0000,0000,0000,,da uzmem Zabranjenu Veštinu \Nod njega!
+Dialogue: 0,0:11:11.20,0:11:12.57,Default,,0000,0000,0000,,Lady Hotaru!
+Dialogue: 0,0:11:12.67,0:11:14.00,Default,,0000,0000,0000,,KONTROLA
+Dialogue: 0,0:11:15.27,0:11:19.27,Default,,0000,0000,0000,,Uzaludno je.\NTi si veæ pod mojom veštinom.
+Dialogue: 0,0:11:21.70,0:11:22.83,Default,,0000,0000,0000,,Zabranjena Veština...
+Dialogue: 0,0:11:24.33,0:11:27.03,Default,,0000,0000,0000,,Zabranjena Veština je konaèno\Nna dohvat mojih ruku!
+Dialogue: 0,0:11:32.00,0:11:33.40,Default,,0000,0000,0000,,To je samo isušena grana.
+Dialogue: 0,0:11:34.47,0:11:36.33,Default,,0000,0000,0000,,Bolje nego da pratim tragove na zemlji,\N
+Dialogue: 0,0:11:36.37,0:11:39.43,Default,,0000,0000,0000,,zar nebi bilo brže ako koristim \Nmoju Multi Senku Klona Veštinu?
+Dialogue: 0,0:11:40.03,0:11:44.07,Default,,0000,0000,0000,,I uništiš sve tragove koji vode \Ndo Hotaru?
+Dialogue: 0,0:11:45.87,0:11:47.63,Default,,0000,0000,0000,,{\i1}Gledajuæi na ovaj otisak...{\i0}
+Dialogue: 0,0:11:48.13,0:11:49.17,Default,,0000,0000,0000,,{\i1}Nema sumnje u vezi ovog.{\i0}
+Dialogue: 0,0:11:49.37,0:11:51.98,Default,,0000,0000,0000,,{\i1}To su otisci stopala nekog ko je \Nnosio telo u svojim rukama.\N{\i0}
+Dialogue: 0,0:11:52.37,0:11:52.90,Default,,0000,0000,0000,,Ovim putem.
+Dialogue: 0,0:11:53.57,0:11:55.00,Default,,0000,0000,0000,,Hej! Da li si siguran?
+Dialogue: 0,0:11:55.80,0:11:58.23,Default,,0000,0000,0000,,Svaka potraga poèinje analizom \Nsvih tragova koji su na vidiku. \N
+Dialogue: 0,0:11:58.27,0:12:00.07,Default,,0000,0000,0000,,To je jedan od osnovnih pravila \Nza nindžu.
+Dialogue: 0,0:12:00.67,0:12:03.40,Default,,0000,0000,0000,,Za nekog ko se hvališe za svog uèitelja,
+Dialogue: 0,0:12:03.43,0:12:06.13,Default,,0000,0000,0000,,ni ti ni Hotaru niste dobili pravilan trening \Nod vaših uèitelja, zar ne?
+Dialogue: 0,0:12:07.57,0:12:08.73,Default,,0000,0000,0000,,To nije istina!
+Dialogue: 0,0:12:14.03,0:12:16.63,Default,,0000,0000,0000,,Ozbiljno... To je ono što se desi\Nkada je neko opsednut
+Dialogue: 0,0:12:16.67,0:12:18.73,Default,,0000,0000,0000,,oko neèeg tako glupog \Nkao što je uèitelj.
+Dialogue: 0,0:12:19.10,0:12:22.00,Default,,0000,0000,0000,,H-Hej! Saèekaj malo!
+Dialogue: 0,0:12:23.30,0:12:24.73,Default,,0000,0000,0000,,Ne postoji ništa glupo u vezi toga!
+Dialogue: 0,0:12:25.77,0:12:28.73,Default,,0000,0000,0000,,Nauèio sam mnoge stvari od \NPerveznog Mudraca.
+Dialogue: 0,0:12:29.20,0:12:31.17,Default,,0000,0000,0000,,Taijutsu...ninjutsu...\NTo se raèuna a da i ne pominjem.
+Dialogue: 0,0:12:31.20,0:12:32.63,Default,,0000,0000,0000,,mislim, stvarno dobre veštine.
+Dialogue: 0,0:12:33.23,0:12:35.90,Default,,0000,0000,0000,,Ali on nije bio samo strog...
+Dialogue: 0,0:12:36.13,0:12:38.73,Default,,0000,0000,0000,,On me je nauèio šta je najvažnije \Nza jednog nindžu...\N
+Dialogue: 0,0:12:38.77,0:12:40.17,Default,,0000,0000,0000,,Odluènost da se nikad ne preda.
+Dialogue: 0,0:12:44.83,0:12:48.10,Default,,0000,0000,0000,,Ono što sam dobio od mog uèitelja\Nje bilo vredno.
+Dialogue: 0,0:12:48.13,0:12:49.87,Default,,0000,0000,0000,,Nije bilo glupo ili beskorisno.
+Dialogue: 0,0:12:50.27,0:12:52.10,Default,,0000,0000,0000,,I ti si imao uèitelja, zar nisi?
+Dialogue: 0,0:12:53.97,0:12:56.80,Default,,0000,0000,0000,,{\i1}Seæanja na mog uèitelja...{\i0}
+Dialogue: 0,0:12:59.60,0:13:01.03,Default,,0000,0000,0000,,Misija završena!
+Dialogue: 0,0:13:02.20,0:13:05.37,Default,,0000,0000,0000,,Nindža mora svoju misiju da izvrši brzo.
+Dialogue: 0,0:13:05.73,0:13:07.00,Default,,0000,0000,0000,,Zar ne, Uèitelju?
+Dialogue: 0,0:13:07.80,0:13:09.17,Default,,0000,0000,0000,,Ti budalo!
+Dialogue: 0,0:13:09.80,0:13:10.37,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:10.90,0:13:14.40,Default,,0000,0000,0000,,Tvoja misija je bila da naðeš\Nizgubljeni svitak!
+Dialogue: 0,0:13:14.70,0:13:17.20,Default,,0000,0000,0000,,Ko ti je rekao da ga vratiš nazad?!
+Dialogue: 0,0:13:17.70,0:13:21.50,Default,,0000,0000,0000,,Tvoj život je dragocen!\NNe reskiraj uzalud svoj život!
+Dialogue: 0,0:13:23.00,0:13:26.47,Default,,0000,0000,0000,,Nindža nikad ne beži od borbe \Nu kojoj mora da se bori.
+Dialogue: 0,0:13:26.57,0:13:30.50,Default,,0000,0000,0000,,Ipak, nindža nikad ne bije \Nbespotrebne bitke!
+Dialogue: 0,0:13:32.77,0:13:33.53,Default,,0000,0000,0000,,Ipak...
+Dialogue: 0,0:13:36.33,0:13:38.63,Default,,0000,0000,0000,,Meni je drago da si ti dobro.
+Dialogue: 0,0:13:40.03,0:13:41.03,Default,,0000,0000,0000,,Uèitelju...
+Dialogue: 0,0:13:42.00,0:13:45.70,Default,,0000,0000,0000,,{\i1}Bilo mu je stalo do mene...\NTo je ono što sam mislio.{\i0}
+Dialogue: 0,0:13:46.67,0:13:47.30,Default,,0000,0000,0000,,{\i1}Ali...{\i0}
+Dialogue: 0,0:13:50.80,0:13:55.23,Default,,0000,0000,0000,,{\i1}Ta moæ...je prevelika za tebe\Nda bi joj bio nosilac.{\i0}
+Dialogue: 0,0:13:55.70,0:13:58.20,Default,,0000,0000,0000,,{\i1}S-Stani!{\i0}
+Dialogue: 0,0:14:01.67,0:14:03.73,Default,,0000,0000,0000,,{\i1}Nisam bio ja taj za kog ga je \Nbilo briga...{\i0}
+Dialogue: 0,0:14:04.70,0:14:06.40,Default,,0000,0000,0000,,{\i1}nego za tu "moæ" unutar mene.{\i0}
+Dialogue: 0,0:14:11.23,0:14:13.83,Default,,0000,0000,0000,,{\i1}On me je samo video kao \Nnosioca za to.{\i0}
+Dialogue: 0,0:14:14.77,0:14:17.93,Default,,0000,0000,0000,,{\i1}Ali...ako je to što je Tsurugi rekao, \Nistina...{\i0}
+Dialogue: 0,0:14:20.80,0:14:22.10,Default,,0000,0000,0000,,Hej! Da li je ovo to?!
+Dialogue: 0,0:14:22.80,0:14:24.17,Default,,0000,0000,0000,,Huh? Oh, jeah...
+Dialogue: 0,0:14:31.23,0:14:33.97,Default,,0000,0000,0000,,Hej, ovo je selo Tsuchigumo Klana!
+Dialogue: 0,0:14:34.30,0:14:35.23,Default,,0000,0000,0000,,Da li je?
+Dialogue: 0,0:14:36.07,0:14:38.87,Default,,0000,0000,0000,,Ali svi tragovi su vodili do \Novog mesta.
+Dialogue: 0,0:14:39.43,0:14:40.50,Default,,0000,0000,0000,,Pitam se da li se nešto dogodilo?
+Dialogue: 0,0:14:41.43,0:14:44.77,Default,,0000,0000,0000,,Banditi su napali Hotaru ovde.
+Dialogue: 0,0:14:45.27,0:14:45.97,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:14:48.93,0:14:51.83,Default,,0000,0000,0000,,I seljani ovde ne misle lepo \No Hotaru.
+Dialogue: 0,0:14:52.60,0:14:56.13,Default,,0000,0000,0000,,Èinjenica da je Zabranjena Veština\Nizbegavana u ovom selu
+Dialogue: 0,0:14:56.17,0:14:57.33,Default,,0000,0000,0000,,veoma je oèigledna.
+Dialogue: 0,0:14:58.17,0:14:58.80,Default,,0000,0000,0000,,Jeah.
+Dialogue: 0,0:14:59.37,0:15:01.90,Default,,0000,0000,0000,,I ako je Hotaru napadnuta\Nu ovom selu...
+Dialogue: 0,0:15:02.83,0:15:05.17,Default,,0000,0000,0000,,to znaèi banditi i selo su povezani ,
+Dialogue: 0,0:15:05.20,0:15:07.27,Default,,0000,0000,0000,,ili je selo odluèilo da okrene glavu\Ni ne vidi ništa.
+Dialogue: 0,0:15:08.17,0:15:12.40,Default,,0000,0000,0000,,Bilo kako, banditi koriste selo\Nkao svoje sklonište.
+Dialogue: 0,0:15:13.60,0:15:16.13,Default,,0000,0000,0000,,Isto, otisci stopala koji su \Nostali iza njih...
+Dialogue: 0,0:15:16.50,0:15:18.00,Default,,0000,0000,0000,,Oni mi ne izgledaju prirodno.
+Dialogue: 0,0:15:18.63,0:15:22.47,Default,,0000,0000,0000,,Možda je postao presiguran u sebe \Njer se domogao Zabranjene Veštine...
+Dialogue: 0,0:15:23.33,0:15:26.10,Default,,0000,0000,0000,,Ili možda planira da nam \Nnamesti zasedu.
+Dialogue: 0,0:15:26.47,0:15:27.53,Default,,0000,0000,0000,,Ti misliš na, zamku?!
+Dialogue: 0,0:15:28.17,0:15:32.30,Default,,0000,0000,0000,,Nisam siguran. Ali ovo praæenje\Nje išlo previše glatko.
+Dialogue: 0,0:15:32.90,0:15:35.00,Default,,0000,0000,0000,,"Budi oprezan kada potera \Nizgleda veoma lako."
+Dialogue: 0,0:15:35.03,0:15:35.93,Default,,0000,0000,0000,,To je ono što me je moj Uèitelj...
+Dialogue: 0,0:15:37.40,0:15:38.77,Default,,0000,0000,0000,,U svakom sluèaju, budimo oprezni.
+Dialogue: 0,0:15:39.37,0:15:39.97,Default,,0000,0000,0000,,Jeah.
+Dialogue: 0,0:15:40.80,0:15:43.87,Default,,0000,0000,0000,,{\i1}Izgleda da ti jesi nauèio nešto\Nod tvog uèitelja.{\i0}
+Dialogue: 0,0:15:46.53,0:15:49.83,Default,,0000,0000,0000,,Kada spasimo Hotaru,\Ntrebao bi je nauèiti nešto od toga.
+Dialogue: 0,0:15:51.20,0:15:52.00,Default,,0000,0000,0000,,Idemo!
+Dialogue: 0,0:15:59.07,0:16:00.10,Default,,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:16:01.03,0:16:02.93,Default,,0000,0000,0000,,Da li si siguran da je ovo to mesto?
+Dialogue: 0,0:16:03.70,0:16:05.07,Default,,0000,0000,0000,,Mislim da jeste.
+Dialogue: 0,0:16:19.03,0:16:20.40,Default,,0000,0000,0000,,Hvala ti.
+Dialogue: 0,0:16:20.93,0:16:21.47,Default,,0000,0000,0000,,U redu je.
+Dialogue: 0,0:16:21.77,0:16:23.73,Default,,0000,0000,0000,,Samo za to, ovde!
+Dialogue: 0,0:16:31.83,0:16:32.93,Default,,0000,0000,0000,,Šta se dogaða?!
+Dialogue: 0,0:16:34.93,0:16:35.77,Default,,0000,0000,0000,,Evo ih dolaze.
+Dialogue: 0,0:16:39.43,0:16:41.10,Default,,0000,0000,0000,,Šta? Ovi ljudi...
+Dialogue: 0,0:16:41.57,0:16:43.90,Default,,0000,0000,0000,,Oni su se udružili s banditima\Nda bi napali nas?
+Dialogue: 0,0:16:44.30,0:16:44.93,Default,,0000,0000,0000,,Ali...
+Dialogue: 0,0:16:45.53,0:16:49.17,Default,,0000,0000,0000,,Jeah, ovo je drugaèije.\NOni su kontrolisani.
+Dialogue: 0,0:16:49.40,0:16:50.03,Default,,0000,0000,0000,,Šta?!
+Dialogue: 0,0:16:52.83,0:16:55.03,Default,,0000,0000,0000,,Kako pokvareno...
+Dialogue: 0,0:16:56.87,0:16:57.60,Default,,0000,0000,0000,,Evo ih stižu!
+Dialogue: 0,0:17:12.00,0:17:12.83,Default,,0000,0000,0000,,Doðavola!
+Dialogue: 0,0:17:21.90,0:17:24.87,Default,,0000,0000,0000,,Mi ne možemo nastaviti dalje a da \Nne povredimo seljane. \N
+Dialogue: 0,0:17:25.40,0:17:28.23,Default,,0000,0000,0000,,Pa, šta predlažeš da uradimo?!
+Dialogue: 0,0:17:31.80,0:17:34.13,Default,,0000,0000,0000,,Šta se desilo tvom ranijem entuzijazmu?
+Dialogue: 0,0:17:34.37,0:17:35.83,Default,,0000,0000,0000,,Ovo je beznadežno, eh?
+Dialogue: 0,0:17:36.40,0:17:39.27,Default,,0000,0000,0000,,Ovi momci kontrolišu seljane...\N
+Dialogue: 0,0:17:39.57,0:17:42.63,Default,,0000,0000,0000,,Sredite ih, momci! Ne dajte im\Nni trenutka odmora!
+Dialogue: 0,0:17:51.03,0:17:51.67,Default,,0000,0000,0000,,Šta?
+Dialogue: 0,0:18:01.60,0:18:02.30,Default,,0000,0000,0000,,Sai!
+Dialogue: 0,0:18:10.27,0:18:11.47,Default,,0000,0000,0000,,Kapetan Yamato!
+Dialogue: 0,0:18:12.30,0:18:13.07,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:18:14.37,0:18:15.20,Default,,0000,0000,0000,,Sakura!
+Dialogue: 0,0:18:16.33,0:18:18.33,Default,,0000,0000,0000,,Naru...to!
+Dialogue: 0,0:18:22.03,0:18:24.97,Default,,0000,0000,0000,,Ti idiote! Prestani da odlaziš na svoju \Nruku u probleme kao što je ovaj!
+Dialogue: 0,0:18:25.47,0:18:27.43,Default,,0000,0000,0000,,Ž-Žao mi je...\NAli kako da ste vi ovde?
+Dialogue: 0,0:18:27.90,0:18:29.40,Default,,0000,0000,0000,,Tražili smo Lady Hotaru,
+Dialogue: 0,0:18:29.43,0:18:31.10,Default,,0000,0000,0000,,koja je nestala s planine Katsuragi.
+Dialogue: 0,0:18:31.47,0:18:33.20,Default,,0000,0000,0000,,Naterali smo Saija da se potrudi.
+Dialogue: 0,0:18:34.13,0:18:36.67,Default,,0000,0000,0000,,Ja stvarno nisam dobar za fizièki rad.
+Dialogue: 0,0:18:37.50,0:18:39.57,Default,,0000,0000,0000,,Nisam oèekivao da æu toliko mnogo\Nkoristiti èakru.
+Dialogue: 0,0:18:39.70,0:18:41.13,Default,,0000,0000,0000,,Evo, uzmi ovu energetsku pilulu.
+Dialogue: 0,0:18:41.97,0:18:42.93,Default,,0000,0000,0000,,Ja æu uzeti jednu kasnije.
+Dialogue: 0,0:18:44.07,0:18:45.23,Default,,0000,0000,0000,,O èemu ti to govoriš?
+Dialogue: 0,0:18:45.57,0:18:48.23,Default,,0000,0000,0000,,Šta ako ti se nešto dogodi?
+Dialogue: 0,0:18:48.87,0:18:52.17,Default,,0000,0000,0000,,To je moja specijalna energetska pilula.\NZato obnovi energiju!
+Dialogue: 0,0:18:53.23,0:18:55.50,Default,,0000,0000,0000,,Ti znaš, ta stvar ima užasan ukus...
+Dialogue: 0,0:18:56.00,0:18:57.80,Default,,0000,0000,0000,,Prestanite s druženjem!
+Dialogue: 0,0:19:11.90,0:19:12.70,Default,,0000,0000,0000,,Pucaj!
+Dialogue: 0,0:19:17.90,0:19:20.27,Default,,0000,0000,0000,,Neæemo vam dozvoliti da \Nproðete dalje.
+Dialogue: 0,0:19:20.67,0:19:23.20,Default,,0000,0000,0000,,Ne smete se mešati u gazdin ritual.
+Dialogue: 0,0:19:33.60,0:19:34.83,Default,,0000,0000,0000,,Vezivanjereèi Veština.
+Dialogue: 0,0:19:40.07,0:19:44.30,Default,,0000,0000,0000,,Godine mukotrpnih priprema \Nkonaèno æe da mi se isplate.
+Dialogue: 0,0:19:45.13,0:19:48.87,Default,,0000,0000,0000,,Tvoje srce se isto raduje zbog \Noslobaðanja Zabranjene Veštine.
+Dialogue: 0,0:19:53.53,0:19:54.30,Default,,0000,0000,0000,,Šta je to?!
+Dialogue: 0,0:19:55.37,0:19:56.70,Default,,0000,0000,0000,,Sai! Sakura!
+Dialogue: 0,0:20:03.53,0:20:04.57,Default,,0000,0000,0000,,Kapetane Yamato!
+Dialogue: 0,0:20:07.30,0:20:08.37,Default,,0000,0000,0000,,Drveni Stil!
+Dialogue: 0,0:20:20.13,0:20:21.27,Default,,0000,0000,0000,,Kapetane Yamato!
+Dialogue: 0,0:20:22.50,0:20:23.73,Default,,0000,0000,0000,,Vas dvoje, nastavite dalje!
+Dialogue: 0,0:20:26.17,0:20:26.80,Default,,0000,0000,0000,,Ali!
+Dialogue: 0,0:20:27.37,0:20:29.53,Default,,0000,0000,0000,,Prepusti ovo nama, Naruto!
+Dialogue: 0,0:20:29.80,0:20:31.03,Default,,0000,0000,0000,,Idi, Naruto!
+Dialogue: 0,0:20:31.67,0:20:33.27,Default,,0000,0000,0000,,Moraš spasiti Hotaru!
+Dialogue: 0,0:20:35.97,0:20:37.73,Default,,0000,0000,0000,,Društvo, raèunam na vas!
+Dialogue: 0,0:20:56.10,0:20:59.00,Default,,0000,0000,0000,,Spasiæemo te odmah, Hotaru!
+Dialogue: 0,0:22:36.60,0:22:40.10,Default,,0000,0000,0000,,Hej! Šta misliš pod time èakra biva \Nsakupljana oko nas?\N\N
+Dialogue: 0,0:22:40.23,0:22:43.07,Default,,0000,0000,0000,,Èakra koja postoji unutar atmosfere\Ni okolnog terena\N\N
+Dialogue: 0,0:22:43.10,0:22:44.43,Default,,0000,0000,0000,,biva privlaèena prema jednom\Npravcu!\N\N
+Dialogue: 0,0:22:44.87,0:22:46.23,Default,,0000,0000,0000,,Hotaru mora da je isto tamo!\N\N
+Dialogue: 0,0:22:46.33,0:22:48.60,Default,,0000,0000,0000,,Doðavola... Ne shvatam!\N\N
+Dialogue: 0,0:22:48.87,0:22:51.27,Default,,0000,0000,0000,,Šta Shiranami planira da uradi?!\N\N
+Dialogue: 0,0:22:51.40,0:22:52.87,Default,,0000,0000,0000,,Vreme nam istièe!\N\N
+Dialogue: 0,0:22:53.20,0:22:55.67,Default,,0000,0000,0000,,Ako imaš vremena za prièu,\Nonda nastavi da se kreæeš!\N\N
+Dialogue: 0,0:22:56.13,0:22:59.57,Default,,0000,0000,0000,,Sledeæa epizoda:\N"Oslobaðanje Zabranjene Veštine"\N\N
+Dialogue: 0,0:23:00.37,0:23:02.77,Default,,0000,0000,0000,,Mi stižemo, Hotaru!
+Dialogue: 0,0:23:04.77,0:23:06.90,Default,,0000,0000,0000,,Prevod i obrada:\NANUBISBUCA\N\N

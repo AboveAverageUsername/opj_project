@@ -1,0 +1,3217 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:01:02,869 --> 00:01:06,869
+www.titlovi.com
+
+3
+00:01:09,869 --> 00:01:11,437
+Na kojeg ideö, druûe?
+
+4
+00:01:13,206 --> 00:01:15,174
+Bijelog?
+Sa naoËalama?
+
+5
+00:01:21,114 --> 00:01:24,083
+PokazaÊu ti kako da
+doeö do njega. Ok?
+
+6
+00:01:28,388 --> 00:01:30,622
+Ok, pratiÊeö...
+
+7
+00:01:32,358 --> 00:01:34,526
+ovu liniju
+dok ne doe do...
+
+8
+00:01:36,129 --> 00:01:39,098
+Dok ne doe
+do ovog kruga, ok?
+
+9
+00:01:39,100 --> 00:01:41,733
+Kad doe do tog kruga,
+pritisni dugme.
+
+10
+00:01:41,735 --> 00:01:44,203
+Onda Êeö pratiti
+ovu liniju prema dole...
+
+11
+00:01:44,205 --> 00:01:46,738
+dok ne doe
+do ovog kruga.
+
+12
+00:01:46,740 --> 00:01:49,274
+Onda Êeö pritisnuti
+dugme, ok? Jesi li shvatio?
+
+13
+00:01:49,276 --> 00:01:51,777
+Imaö li para?
+
+14
+00:01:51,779 --> 00:01:53,779
+U redu, evo ti $1.
+
+15
+00:01:55,748 --> 00:01:56,949
+Sretno.
+
+16
+00:05:22,322 --> 00:05:23,488
+Hej.
+
+17
+00:05:26,993 --> 00:05:30,162
+Nomad se vratio.
+Opet se zeza s nama.
+
+18
+00:05:39,872 --> 00:05:41,073
+äta je rekao?
+
+19
+00:05:41,273 --> 00:05:42,273
+<i>Zdravo.</i>
+
+20
+00:05:42,842 --> 00:05:47,512
+"Vaö upad u MIT
+servere je bio legalan."
+
+21
+00:05:50,684 --> 00:05:51,683
+To je bilo brzo.
+
+22
+00:05:51,883 --> 00:05:52,616
+<i>Jeste li uzrujani?</i>
+
+23
+00:05:52,618 --> 00:05:55,620
+äta je to?
+
+24
+00:05:55,622 --> 00:05:58,357
+"Svalili su to
+sranje na nas."
+
+25
+00:05:58,359 --> 00:06:01,727
+"Zamalo smo
+izbaËeni."
+
+26
+00:06:06,745 --> 00:06:08,980
+Mit, kao novoroenËad. Ako
+poete za mnom, posjedujem vas Vibre.
+
+27
+00:06:09,869 --> 00:06:10,936
+"Vibracije."
+
+28
+00:06:12,705 --> 00:06:16,575
+Ko su te Vibracije?
+u redu.
+
+29
+00:06:16,577 --> 00:06:19,044
+"Razotkriti Êemo
+te na Defconu..."
+
+30
+00:06:19,046 --> 00:06:21,213
+"pa bolje pazi lea."
+
+31
+00:06:25,918 --> 00:06:27,119
+»ovjeËe, öta je to?
+
+32
+00:06:32,692 --> 00:06:34,226
+Koji k...
+
+33
+00:06:47,940 --> 00:06:49,975
+<i>Idi u zgradu.</i>
+
+34
+00:06:55,581 --> 00:06:57,549
+Donesi Pwnie.
+
+35
+00:06:57,551 --> 00:06:59,584
+U redu, uradimo to.
+
+36
+00:06:59,586 --> 00:07:01,753
+Otvori Linux terminal i
+pokreni Nmap.
+
+37
+00:07:01,755 --> 00:07:04,923
+- Haley Êe morati sutra da vozi.
+- Hej, fokusiraj se.
+
+38
+00:07:04,925 --> 00:07:08,360
+O tome ti i govorim. Ja neÊu
+moÊi. TehniËki, ona se seli...
+
+39
+00:07:08,362 --> 00:07:12,030
+pa tehniËki, ona bi trebala da vozi.
+- Je li otvoreno veÊ?
+
+40
+00:07:12,032 --> 00:07:15,300
+Za sekundu.
+Ok, spreman sam. Ok.
+
+41
+00:07:22,809 --> 00:07:26,178
+- Ok, napiöi neöto.
+- Pokuöavam smisliti neöto smijeöno.
+
+42
+00:07:26,646 --> 00:07:28,113
+Prokletstvo.
+
+43
+00:07:28,115 --> 00:07:31,850
+"Da li androidi kenjaju
+elektriËna govna?"
+
+44
+00:07:33,152 --> 00:07:34,219
+Glup si.
+
+45
+00:07:36,322 --> 00:07:39,224
+Ok, isËitaj mi IPove
+na C&C serverima.
+
+46
+00:07:39,226 --> 00:07:44,663
+"192. 236. 19. 147."
+
+47
+00:07:44,665 --> 00:07:46,665
+147. PoËni da
+provaljujeö konekciju.
+
+48
+00:07:46,667 --> 00:07:49,134
+Razumio.
+PokreÊem "Sluöaoce".
+
+49
+00:07:50,269 --> 00:07:51,336
+U redu,
+ovaj tip je gotov.
+
+50
+00:07:56,676 --> 00:07:59,978
+Nevada.
+Mi idemo baö kroz Nevadu.
+
+51
+00:08:02,114 --> 00:08:04,149
+- Imamo ga.
+- Imamo ga!
+
+52
+00:08:10,857 --> 00:08:12,824
+Vi to ozbiljno?
+
+53
+00:08:16,195 --> 00:08:18,830
+Ti voziö ujutro...
+
+54
+00:08:19,432 --> 00:08:20,699
+pa laku noÊ.
+
+55
+00:08:23,135 --> 00:08:27,372
+Volio bih vidjeti kako Êeö me
+natjerati, ti Caltech otpadniËe.
+
+56
+00:08:46,225 --> 00:08:49,861
+- Haley, iz ovog akvarija neöto curi.
+- To je voda, Jonah.
+
+57
+00:08:49,863 --> 00:08:51,363
+- Odvratno je.
+- Uöuti.
+
+58
+00:08:52,498 --> 00:08:56,301
+- Vi Caltech otpadnici.
+- Moûeö li prestati da to govoriö?
+
+59
+00:09:00,373 --> 00:09:04,309
+- Signal je ovdje sranje.
+- U pravu si. Stvarno jeste.
+
+60
+00:09:04,311 --> 00:09:07,546
+Hej, hoÊeö jednu? - Ne, dobar
+sam. - HoÊeö li ti?
+
+61
+00:09:15,588 --> 00:09:16,721
+»ovjeËe.
+
+62
+00:09:19,425 --> 00:09:21,426
+- äta je?
+- Vidi ovo.
+
+63
+00:09:23,396 --> 00:09:26,164
+Koji vrag?
+Zaöto to ne radi?
+
+64
+00:09:28,100 --> 00:09:30,936
+- Je li to moj auto?
+- Aha. To je prometna kamera.
+
+65
+00:09:30,938 --> 00:09:33,738
+- Ovaj tip je stvarno izazovan.
+- Kako ima sliku mog auta?
+
+66
+00:09:33,740 --> 00:09:35,607
+PriËekaj sekundu.
+
+67
+00:09:35,609 --> 00:09:38,577
+Zaöto bi se ovaj lik toliko
+namuËio da hakuje MIT...
+
+68
+00:09:38,579 --> 00:09:40,912
+i onda nam se
+samo ruga ovako?
+
+69
+00:09:40,914 --> 00:09:43,582
+Iz istog razloga öto bilo ko
+radi bilo öta. Priznanje.
+
+70
+00:09:43,584 --> 00:09:45,350
+"Bolji sam od tebe, bolji si
+od mene" kako god.
+
+71
+00:09:45,352 --> 00:09:47,586
+Evo, ne mogu da ga otkljuËam.
+Probaj ti.
+
+72
+00:09:52,058 --> 00:09:54,526
+Trebali bi da prestanete
+da ga provocirate.
+
+73
+00:09:56,462 --> 00:09:59,497
+Najvjerovatnije je
+samo neki klinac.
+
+74
+00:10:01,100 --> 00:10:03,201
+Nic, hoÊemo li ili ne?
+
+75
+00:10:03,869 --> 00:10:07,105
+- Ne mogu, ËovjeËe.
+- Kako misliö ne moûeö?
+
+76
+00:10:10,476 --> 00:10:13,244
+Jednostavno ne mogu sada.
+
+77
+00:10:13,246 --> 00:10:16,205
+Gledaj, shvatam da moramo
+odvesti Haley u Californiu.
+
+78
+00:10:17,283 --> 00:10:20,485
+Ali nema razloga zaöto
+ne bismo i ovo uradili.
+
+79
+00:10:20,487 --> 00:10:24,756
+Nomadovo hakovanje u MIT je jedna stvar,
+ali u Haleyin Kompjuter?
+
+80
+00:10:24,758 --> 00:10:27,592
+Ludo ne iÊi
+za ovim tipom.
+
+81
+00:10:27,594 --> 00:10:30,562
+- Jonah, koliki je porez na promet?
+- Tako smo blizu. 6.3.
+
+82
+00:10:31,430 --> 00:10:33,264
+Na putu je.
+
+83
+00:10:33,266 --> 00:10:35,467
+$14.74.
+Zadrûite kusur.
+
+84
+00:11:14,306 --> 00:11:16,508
+- HoÊete li neöto?
+- Aha.
+
+85
+00:11:18,377 --> 00:11:20,735
+- Kafu?
+- Da, volio bih kafu.
+
+86
+00:11:20,935 --> 00:11:21,735
+- Crnu?
+- Evo ti.
+
+87
+00:11:22,682 --> 00:11:24,082
+Da, molim te.
+
+88
+00:11:38,631 --> 00:11:39,564
+äta?
+
+89
+00:11:42,134 --> 00:11:44,869
+Da li ti je Nic iöta
+govorio o mom preseljenju?
+
+90
+00:11:45,971 --> 00:11:47,072
+Ne.
+
+91
+00:11:49,075 --> 00:11:50,975
+Niöta?
+
+92
+00:11:50,977 --> 00:11:54,446
+Ne. OËigledno je shrvan
+öto te neÊe biti godinu dana.
+
+93
+00:12:01,053 --> 00:12:04,689
+Izgleda mi kao da se
+ûeli distancirati od mene.
+
+94
+00:12:04,691 --> 00:12:07,492
+Gledaj, vi ste mi
+najbolji prijatelji...
+
+95
+00:12:08,928 --> 00:12:12,597
+i ja sam... Ja sam najgora osoba
+koju moûeö to da pitaö.
+
+96
+00:12:17,002 --> 00:12:18,169
+Aha.
+
+97
+00:12:20,740 --> 00:12:22,240
+Oh, sranje.
+
+98
+00:12:24,777 --> 00:12:25,944
+Hej.
+
+99
+00:12:27,613 --> 00:12:31,516
+- Jesi li dobro, druûe?
+- Dobro sam. - Da?
+
+100
+00:12:31,518 --> 00:12:33,251
+Dobro sam.
+Dobro sam.
+
+101
+00:12:34,086 --> 00:12:35,653
+DonijeÊu joö kafe.
+
+102
+00:12:42,595 --> 00:12:44,429
+Ja Êu pomjeriti auto.
+
+103
+00:13:02,047 --> 00:13:03,448
+Najbolji prijatelji!
+
+104
+00:13:07,486 --> 00:13:09,687
+- Je li ova moja?
+- Aha.
+
+105
+00:13:10,456 --> 00:13:12,290
+VeÊ sam stavio
+dvije unutra.
+
+106
+00:13:14,660 --> 00:13:15,827
+Mogusam.
+
+107
+00:13:20,399 --> 00:13:23,168
+Nic, ponudila sam ti pomoÊ
+ne zato öto mislim da ti treba...
+
+108
+00:13:23,170 --> 00:13:25,436
+veÊ jer znam
+da ti ne treba.
+
+109
+00:13:25,438 --> 00:13:29,040
+E pa uskoro neÊeö viöe morati
+da se brineö za to, zar ne?
+
+110
+00:13:32,111 --> 00:13:33,311
+Ok.
+
+111
+00:13:43,189 --> 00:13:44,522
+Hvala, druûe.
+
+112
+00:13:46,859 --> 00:13:50,161
+Nismo baö tako daleko
+od ovog tipa, zar ne?
+
+113
+00:13:50,163 --> 00:13:52,430
+290 km, manje-viöe.
+
+114
+00:13:55,601 --> 00:13:56,734
+U redu, ËovjeËe.
+Uradimo to.
+
+115
+00:13:58,137 --> 00:14:00,305
+Idemo.
+
+116
+00:14:00,307 --> 00:14:03,174
+Vidiö, ovo je Nicholas
+Eastman kakvog volim.
+
+117
+00:14:03,176 --> 00:14:06,377
+Znaö, odluËan, nemilosrdan,
+takmiËarskog duha.
+
+118
+00:14:07,213 --> 00:14:08,546
+Oh, i voli kofein.
+
+119
+00:14:12,952 --> 00:14:14,385
+Gdje je Haley?
+
+120
+00:14:15,955 --> 00:14:17,522
+Ne znam.
+Otiöla je...
+
+121
+00:14:20,559 --> 00:14:21,893
+Onuda.
+
+122
+00:14:43,382 --> 00:14:47,719
+Haley, vidi, ûao mi je.
+Samo sam bio rastrojen.
+
+123
+00:14:47,721 --> 00:14:49,487
+Mislim da se spremaö odrûati
+veliki govor.
+
+124
+00:14:49,489 --> 00:14:52,891
+Mislim da je cijeli ovaj put
+da se spremiö za njega.
+
+125
+00:14:52,893 --> 00:14:55,660
+O Ëemu priËaö?
+NeÊu odrûati govor.
+
+126
+00:14:56,562 --> 00:14:57,762
+Prestani.
+
+127
+00:15:15,381 --> 00:15:19,784
+Haley, znaö li koliko sam puta
+ovo odvrtio u svojoj glavi?
+
+128
+00:15:19,786 --> 00:15:22,620
+Dva puta nedeljno
+zakazano kod doktora.
+
+129
+00:15:22,622 --> 00:15:24,756
+Ko zna koliko
+MR-i i testova.
+
+130
+00:15:25,591 --> 00:15:28,559
+Na kraju invalidska kolica.
+
+131
+00:15:28,561 --> 00:15:30,428
+Cijelo ovo vrijeme se pitam
+hoÊeö li raskinuti sa mnom.
+
+132
+00:15:30,430 --> 00:15:32,196
+- Prestani.
+- Kada Êe ti dosaditi to sranje.
+
+133
+00:15:32,198 --> 00:15:33,865
+Nije fer da me praviö
+loöom bez mog uÊeöÊa.
+
+134
+00:15:33,867 --> 00:15:35,433
+Haley, nisam ti
+to govorio.
+
+135
+00:15:35,435 --> 00:15:38,770
+Samo kaûem da neÊu biti
+neko ko te sputava.
+
+136
+00:15:43,375 --> 00:15:44,909
+Super. Onda...
+
+137
+00:15:46,879 --> 00:15:48,646
+Ja odem na godinu...
+
+138
+00:15:50,149 --> 00:15:53,451
+i zato öto se bojiö
+öta Êe se desiti...
+
+139
+00:15:53,453 --> 00:15:55,620
+odmah
+pribjegavaö raskidu?
+
+140
+00:15:56,789 --> 00:16:00,458
+Samo kaûem... Samo kaûem
+da trebam da se zaötitim.
+
+141
+00:16:00,460 --> 00:16:01,693
+Od Ëega?
+
+142
+00:16:03,929 --> 00:16:06,631
+- Govori li tvoje srce ili glava?
+- Ja govorim.
+
+143
+00:16:08,300 --> 00:16:09,500
+Ti si mi uvijek govorio
+
+144
+00:16:09,502 --> 00:16:12,437
+da idem prema neËemu
+a ne da bjeûim.
+
+145
+00:16:12,439 --> 00:16:15,039
+E pa, to je bilo
+prije svog ovog sranja.
+
+146
+00:16:29,621 --> 00:16:31,222
+äta to radiö?
+
+147
+00:16:36,996 --> 00:16:39,831
+Zadrûi svoja obeÊanja.
+Ne ûelim ih.
+
+148
+00:16:50,709 --> 00:16:51,743
+Haley.
+
+149
+00:16:56,648 --> 00:17:00,051
+Ovdje skreni lijevo.
+Joö 20-ak kilometara.
+
+150
+00:17:01,620 --> 00:17:04,055
+Moûda bi prvo trebali
+odvesti Haley.
+
+151
+00:17:04,057 --> 00:17:06,591
+Moûete li da ne priËate
+o meni kao da nisam u autu?
+
+152
+00:17:10,562 --> 00:17:12,096
+Haley, ne moraö
+sa nama.
+
+153
+00:17:13,165 --> 00:17:15,266
+Ne, hoÊu
+da upoznam tog öupak.
+
+154
+00:17:16,135 --> 00:17:17,235
+I ja.
+
+155
+00:17:29,715 --> 00:17:32,250
+Nastavi da ideö.
+Imamo joö oko 400m.
+
+156
+00:17:53,906 --> 00:17:57,775
+- Stani, stani. Proöli smo ga.
+- äta? - Da, vrati se.
+
+157
+00:18:08,620 --> 00:18:09,854
+Oko 6-7 metara.
+
+158
+00:18:11,723 --> 00:18:12,824
+Stani, stani.
+
+159
+00:18:16,296 --> 00:18:18,296
+- Mislim da je ovdje.
+- Ozbiljno?
+
+160
+00:18:19,631 --> 00:18:22,033
+Ovdje je.
+Ovdje je.
+
+161
+00:18:24,604 --> 00:18:27,505
+- Nemoj nas zaglaviti. Molim te, Nic.
+- Dobro smo.
+
+162
+00:18:28,574 --> 00:18:30,108
+Ovdje je.
+
+163
+00:18:35,714 --> 00:18:36,647
+Trebao bi ugasiti farove.
+
+164
+00:18:39,718 --> 00:18:41,886
+- Jeste li sigurni da ûelite to uraditi?
+- NeÊu da laûem.
+
+165
+00:18:42,888 --> 00:18:44,889
+Ovo mi se
+ne Ëini ispravnim.
+
+166
+00:18:45,591 --> 00:18:47,225
+äta ti misliö?
+
+167
+00:18:50,395 --> 00:18:53,798
+NeÊemo znati
+sjedeÊi u autu.
+
+168
+00:18:53,800 --> 00:18:56,234
+Hajde, idemo.
+Uzmi kameru.
+
+169
+00:18:57,936 --> 00:19:00,404
+Haley, ostani unutra
+i zakljuËaj vrata, ok?
+
+170
+00:19:02,007 --> 00:19:02,907
+Nic.
+
+171
+00:19:04,143 --> 00:19:06,344
+Znaö da je sve
+ovo glupost, zar ne?
+
+172
+00:19:14,953 --> 00:19:18,122
+- Gdje misliö da smo pogrijeöili?
+- O Ëemu priËaö?
+
+173
+00:19:18,124 --> 00:19:21,025
+Znaö, mora da je
+nasumiËna IP alokacija.
+
+174
+00:19:21,027 --> 00:19:23,461
+Koliko znamo, mogli bi
+biti i u Georgia-i.
+
+175
+00:19:23,463 --> 00:19:26,697
+- Georgia-i u Evropi.
+- äuti.
+
+176
+00:19:31,336 --> 00:19:34,172
+Ili moûda koriste
+ovo kao prijenosnu taËku.
+
+177
+00:19:36,942 --> 00:19:39,010
+Velika mama
+je sjedila na toj stolici.
+
+178
+00:19:46,185 --> 00:19:48,853
+Moram reÊi da ovdje
+nema nikoga, Nic.
+
+179
+00:19:58,697 --> 00:20:01,966
+»ovjeËe, Nomad nije ovdje.
+- Pogledajmo. - Nije ovdje.
+
+180
+00:20:01,968 --> 00:20:04,669
+BaciÊemo pogled
+i idemo.
+
+181
+00:20:04,671 --> 00:20:06,971
+Naimo ga.
+
+182
+00:20:06,973 --> 00:20:08,906
+Ovdje ûivi seljaËina.
+
+183
+00:20:11,009 --> 00:20:13,411
+Ovaj tip ima dijete?
+
+184
+00:20:48,347 --> 00:20:49,614
+Jonah?
+
+185
+00:20:53,185 --> 00:20:53,985
+Jonah?
+
+186
+00:21:04,229 --> 00:21:05,496
+Jonah?
+
+187
+00:21:06,965 --> 00:21:10,601
+»ovjeËe, vidim te. äta
+to radiö? Hej!
+
+188
+00:21:17,477 --> 00:21:19,543
+»ovjeËe, baö si
+öupËina!
+
+189
+00:21:21,713 --> 00:21:24,282
+Zar nije zabavna
+ova mala stolica?
+
+190
+00:21:24,284 --> 00:21:26,817
+Stvarno je ovako bila
+okrenuta prema zidu.
+
+191
+00:21:26,819 --> 00:21:28,819
+Hajde. Evo podruma.
+
+192
+00:21:30,823 --> 00:21:32,556
+Baö si budaletina.
+
+193
+00:21:36,461 --> 00:21:40,164
+- Sii dole.
+- Jebeö to. Ti sii.
+
+194
+00:21:42,668 --> 00:21:43,534
+Budi paûljiv.
+
+195
+00:21:57,082 --> 00:21:58,816
+Kakvo je ovo mjesto?
+
+196
+00:22:02,087 --> 00:22:03,721
+Vidi ovo, ËovjeËe.
+
+197
+00:22:07,359 --> 00:22:10,928
+- äta je to?
+- Regali servera.
+
+198
+00:22:11,463 --> 00:22:12,563
+To je Ëudno.
+
+199
+00:22:20,138 --> 00:22:21,272
+Oh, Ëekaj. Haley!
+
+200
+00:22:23,475 --> 00:22:26,077
+Haley! Haley! Haley!
+
+201
+00:22:28,113 --> 00:22:29,880
+Haley!
+
+202
+00:22:36,021 --> 00:22:37,555
+Koji vrag?
+
+203
+00:22:38,891 --> 00:22:40,491
+- Kakav je to bio zvuk?
+- Ne znam.
+
+204
+00:22:40,493 --> 00:22:43,861
+- Zaöto su vrata od auta otvorena?
+- Ne znam!
+
+205
+00:22:43,863 --> 00:22:45,129
+Haley!
+
+206
+00:22:53,472 --> 00:22:54,472
+Haley!
+
+207
+00:22:55,574 --> 00:22:56,907
+Sluöaj.
+
+208
+00:23:06,351 --> 00:23:07,651
+Oh, moj Boûe.
+
+209
+00:23:08,888 --> 00:23:10,321
+Haley!
+Haley!
+
+210
+00:23:11,490 --> 00:23:12,656
+Haley!
+
+211
+00:24:55,427 --> 00:24:57,661
+Moûeö li da govoriö?
+
+212
+00:25:00,031 --> 00:25:01,866
+Gdje sam?
+
+213
+00:25:03,635 --> 00:25:05,269
+Ne mogu da se pomjerim.
+
+214
+00:25:07,305 --> 00:25:08,405
+Moûeö li mi reÊi
+kako se zoveö?
+
+215
+00:25:10,775 --> 00:25:13,110
+Nicholas Eastman.
+
+216
+00:25:13,112 --> 00:25:15,479
+Ja sam Damon.
+Dr. Wallace Damon.
+
+217
+00:25:15,481 --> 00:25:19,950
+Vodim tranzicijski tim
+koji Êe ti pomoÊi...
+
+218
+00:25:19,952 --> 00:25:25,089
+pomoÊi svima nama da shvatimo
+kroz öta si taËno proöao.
+
+219
+00:25:26,358 --> 00:25:28,092
+O Ëemu priËate?
+
+220
+00:25:30,495 --> 00:25:33,898
+Moûeö li se sjetiti kada si
+se prvi put susreo sa signalom?
+
+221
+00:25:34,966 --> 00:25:36,367
+»ime?
+
+222
+00:25:39,237 --> 00:25:40,738
+Zaöto se ne mogu
+pomjeriti?
+
+223
+00:25:42,674 --> 00:25:44,241
+äta nam se je desilo?
+
+224
+00:25:44,243 --> 00:25:47,478
+S obzirom na okolnosti
+koje okruûuju tvoje stanje...
+
+225
+00:25:47,480 --> 00:25:52,216
+bojim se da su naöe
+informacije ekstremno ograniËene.
+
+226
+00:25:53,084 --> 00:25:55,686
+»ekajte, kakvo mi je stanje?
+
+227
+00:25:55,688 --> 00:25:59,089
+Ono öto Êu ti reÊi, Nic,
+biÊe ti malo uznemiravajuÊe.
+
+228
+00:26:00,759 --> 00:26:03,761
+Ostvario si kontakt
+sa V.B.E.
+
+229
+00:26:05,263 --> 00:26:07,164
+V.B.E.?
+
+230
+00:26:07,166 --> 00:26:09,400
+Vanzemaljski
+Bioloöki Entitet.
+
+231
+00:26:10,101 --> 00:26:11,302
+V.B.E.
+
+232
+00:26:14,773 --> 00:26:16,674
+HoÊu da priËam
+sa svojim roditeljima.
+
+233
+00:26:19,911 --> 00:26:23,847
+- éao mi je, to nije moguÊe.
+- O Ëemu priËate?
+
+234
+00:26:23,849 --> 00:26:25,516
+Gdje su Haley i Jonah?
+
+235
+00:26:26,785 --> 00:26:28,319
+äta nam se desilo?
+
+236
+00:26:29,888 --> 00:26:32,423
+Zaöto sam u
+invalidskim kolicima?
+
+237
+00:26:38,029 --> 00:26:41,632
+Zaöto... Zaöto
+nosite ta odjela?
+
+238
+00:26:44,269 --> 00:26:48,806
+Nismo 100% sigurni
+sa Ëime imamo ovdje posla.
+
+239
+00:26:48,808 --> 00:26:53,377
+Velika je vjerovatnoÊa
+za vanzemaljsku kontaminaciju.
+
+240
+00:26:53,379 --> 00:26:55,079
+Kad kaûete
+"vanzemaljska kontaminacija"...
+
+241
+00:26:55,081 --> 00:26:59,116
+da li mislite na mikrobioloöku
+kontaminaciju?
+
+242
+00:27:00,118 --> 00:27:01,385
+Budi miran.
+
+243
+00:27:24,743 --> 00:27:26,310
+To je samo krv.
+
+244
+00:27:28,780 --> 00:27:29,613
+<i>To je samo krv.</i>
+
+245
+00:27:33,318 --> 00:27:35,419
+Mislim da je dosta
+za danas.
+
+246
+00:28:47,992 --> 00:28:54,732
+<i>Vrijednosti kontakta
+u 9-8-47-91-72.</i>
+
+247
+00:29:01,439 --> 00:29:03,907
+<i>12. nivo
+Znamo li trenutnu vrijednost?</i>
+
+248
+00:29:38,977 --> 00:29:43,447
+Stanite! HoÊete li stati?
+Stanite! Vratite se!
+
+249
+00:29:44,449 --> 00:29:46,049
+Moûete li se vratiti?
+
+250
+00:29:56,261 --> 00:29:58,028
+äta nije u redu sa Haley?
+
+251
+00:30:01,065 --> 00:30:04,268
+Iako napredni
+kao öto jesmo...
+
+252
+00:30:04,270 --> 00:30:09,873
+nevjerovatno je da jednostavna
+alatka kao olovka joö ima svoju primjenu.
+
+253
+00:30:13,011 --> 00:30:14,411
+Eto ga.
+
+254
+00:30:16,347 --> 00:30:20,050
+éelim da priËam sa Haley.
+Molim vas.
+
+255
+00:30:21,419 --> 00:30:23,520
+Bojim se da je to
+trenutno nemoguÊe.
+
+256
+00:30:24,022 --> 00:30:25,589
+Zaöto?
+
+257
+00:30:25,591 --> 00:30:28,292
+U dobrim je rukama,
+Nic. ObeÊavam ti.
+
+258
+00:30:28,294 --> 00:30:30,861
+Najbolje öto sada moûeö da
+uradiö je da nam pomogneö.
+
+259
+00:30:30,863 --> 00:30:33,697
+Sada, hoÊeö li molim te
+suraivati sa mnom?
+
+260
+00:30:38,436 --> 00:30:39,770
+Ok.
+Dobro.
+
+261
+00:30:42,707 --> 00:30:45,943
+Prvo Êu da ti postavim jednostavna
+kontrolna pitanja.
+
+262
+00:30:47,445 --> 00:30:49,613
+Imaö li deset
+prstiju?
+
+263
+00:30:55,854 --> 00:30:56,954
+Da.
+
+264
+00:31:00,892 --> 00:31:02,593
+Jesi li sa Zemlje?
+
+265
+00:31:08,333 --> 00:31:11,702
+- Da, sa Zemlje sam.
+- Dobro, hvala ti.
+
+266
+00:31:13,805 --> 00:31:16,406
+Sada, ovaj signal koji ste
+ti i tvoji prijatelji pratili...
+
+267
+00:31:16,408 --> 00:31:19,710
+Kad ste ga prvi put susreli?
+- Mislite Nomada.  - Da.
+
+268
+00:31:20,645 --> 00:31:22,479
+MIT.
+
+269
+00:31:22,481 --> 00:31:25,482
+Upao je u sigurnonosnu mreûu naöe ökole
+i upropastio neke od glavnih servera..
+
+270
+00:31:25,484 --> 00:31:26,783
+ukljuËujuÊi i naöe liËne.
+
+271
+00:31:33,091 --> 00:31:35,592
+Nic, hoÊu da
+neöto pogledaö.
+
+272
+00:31:47,773 --> 00:31:49,640
+<i>Velika mama je
+sjedila na stolici.</i>
+
+273
+00:32:18,436 --> 00:32:21,104
+Definitivno niste
+pratili hakera.
+
+274
+00:32:44,128 --> 00:32:45,462
+Hej.
+
+275
+00:32:50,935 --> 00:32:52,302
+Hej.
+
+276
+00:32:54,272 --> 00:32:56,673
+- Jonah?
+- Nic.
+
+277
+00:32:57,809 --> 00:32:59,676
+- Jonah!
+- Nic!
+
+278
+00:33:01,512 --> 00:33:03,180
+Oh, moj Boûe! Jonah,
+gdje si?
+
+279
+00:33:03,182 --> 00:33:06,416
+Ne znam, zakljuËan
+sam. U sobi sam.
+
+280
+00:33:06,418 --> 00:33:10,153
+I ja. U zakljuËanoj sam
+sobi. Gdje smo?
+
+281
+00:33:10,155 --> 00:33:12,089
+»uo sam da nam nije dozvoljeno
+iÊi iznad povröine...
+
+282
+00:33:12,091 --> 00:33:14,291
+jer smo bili
+kontaminirani.
+
+283
+00:33:14,293 --> 00:33:17,027
+Koji je vrag bio Nomad?
+äta su ti rekli?
+
+284
+00:33:17,029 --> 00:33:19,129
+Ne puno.
+
+285
+00:33:19,131 --> 00:33:23,200
+Vidio sam Haley.
+U komi je ili neöto tako.
+
+286
+00:33:23,202 --> 00:33:26,203
+Nic, rade neka Ëudna
+sranja ovdje, ËovjeËe.
+
+287
+00:33:27,438 --> 00:33:29,373
+Moje tijelo se ne osjeÊa dobro.
+
+288
+00:33:30,842 --> 00:33:34,011
+- Nic, moram da idem.
+- äta? Gdje?
+
+289
+00:33:34,013 --> 00:33:35,779
+Ovo mjesto
+je tempirano.
+
+290
+00:33:35,781 --> 00:33:38,448
+Ne mogu da vjerujem
+da si u ventilaciji!
+
+291
+00:33:38,450 --> 00:33:40,617
+äta? »ovjeËe,
+nisam u ventilaciji.
+
+292
+00:33:40,619 --> 00:33:43,520
+- Nisam u ventilaciji!
+- Jonah! Jonah!
+
+293
+00:33:48,693 --> 00:33:52,662
+- Zaöto nemate ni jedan ispravan sat?
+- Ispravan sat?
+
+294
+00:33:52,664 --> 00:33:55,699
+- Aha. Onaj u hodniku je stao na 12:30.
+- Kojem hodniku?
+
+295
+00:33:55,701 --> 00:33:57,334
+Sedam prozora nazad.
+Lijevo skretanje.
+
+296
+00:33:57,336 --> 00:33:59,302
+»etiri prozora, desno skretanje.
+Dva prozora nadesno.
+
+297
+00:33:59,304 --> 00:34:02,239
+Pored zahoda sa znakom okrenutim
+naopako. Stao je na 12:30.
+
+298
+00:34:03,141 --> 00:34:04,941
+Nic, to je pokvaren sat.
+
+299
+00:34:06,344 --> 00:34:09,146
+Hvala öto si me
+obavjestio.
+
+300
+00:34:09,148 --> 00:34:12,582
+Moûemo li nastaviti
+sa oblicima i bojama?
+
+301
+00:34:13,518 --> 00:34:15,585
+Jebeö ovo.
+Ovo je glupo.
+
+302
+00:34:15,587 --> 00:34:19,322
+- äta je bilo, Nic? Moûeö li to?
+- Ne, odluËio sam da to ne uradim.
+
+303
+00:34:19,324 --> 00:34:20,891
+OdluËio?
+OdluËio si da to ne uradiö?
+
+304
+00:34:22,593 --> 00:34:24,361
+ZvuËi kao da ponos
+priËa iz tebe.
+
+305
+00:34:24,363 --> 00:34:26,663
+Laûni i glupi ponos.
+To je sve.
+
+306
+00:34:34,539 --> 00:34:36,773
+Piramida, ûuto.
+
+307
+00:34:36,775 --> 00:34:39,876
+- I... - Kocka, plavo.
+Sfera, zeleno.
+
+308
+00:34:39,878 --> 00:34:43,180
+Plava ploËica ovdje na kojoj piöe
+"Nula" poklapa se sa zelenom kockom.
+
+309
+00:34:43,182 --> 00:34:44,881
+éuta ploËica ovdje na kojoj
+piöe "äest" ide sa kockom.
+
+310
+00:34:44,883 --> 00:34:47,217
+Zelena ploËica ovdje na kojoj
+piöe "Pet" ide sa ûutom piramidom.
+
+311
+00:34:47,219 --> 00:34:49,519
+Zeleno "Kocka" ide
+sa plavom kockom.
+
+312
+00:34:49,521 --> 00:34:51,354
+éuto napisano "Sfera" ide sa
+zelenom sferom.
+
+313
+00:34:51,356 --> 00:34:53,290
+Plavo napisano "Piramida" ide sa
+ûutom piramidom.
+
+314
+00:34:53,292 --> 00:34:55,025
+"Plavo" napisano ûutim,
+"éuto" zelenim...
+
+315
+00:34:55,027 --> 00:34:57,194
+odgovara vidljivim bojama i oblicima
+bolje nego pisane rijeËi...
+
+316
+00:34:57,196 --> 00:35:00,063
+jer je spektralni kvalitet svjetla
+viöe objektivan, tako reÊi...
+
+317
+00:35:00,065 --> 00:35:02,332
+nego pisana engleska
+rijeË tih boja.
+
+318
+00:35:04,569 --> 00:35:07,804
+- Vidim.
+- Vidite?  Kako to mislite "vidim"?
+
+319
+00:35:07,806 --> 00:35:10,140
+Tebe, Nic.
+
+320
+00:35:10,142 --> 00:35:13,910
+Vidim da ti i ja mislimo da poËinjemo
+shvatati neöto viöe o tebi...
+
+321
+00:35:13,912 --> 00:35:15,479
+Shvatati öta?
+
+322
+00:35:16,948 --> 00:35:19,950
+Boje, oblici,
+oni utiËu na tebe.
+
+323
+00:35:19,952 --> 00:35:21,918
+Rekao bih da je to bio
+emocionalni uticaj, zar ne?
+
+324
+00:35:21,920 --> 00:35:23,553
+Boli me briga za
+oblike i boje...
+
+325
+00:35:23,555 --> 00:35:25,422
+ne znaËe mi niöta.
+Zaboli me za njih!
+
+326
+00:35:25,424 --> 00:35:27,991
+Ti si taj koji
+me iritira, nadriljekaru!
+
+327
+00:35:29,594 --> 00:35:30,961
+"Nadriljekar."
+
+328
+00:35:31,996 --> 00:35:33,130
+"Nadriljekar."
+
+329
+00:35:34,165 --> 00:35:37,501
+HoÊu da vidim Haley...
+
+330
+00:35:37,503 --> 00:35:41,004
+i neÊu viöe reÊi ni rijeË
+dok je ne vidim.
+
+331
+00:35:43,274 --> 00:35:44,741
+Ok, Nic.
+
+332
+00:35:54,152 --> 00:35:57,921
+- Nema niöta na njemu.
+- Ona je u komi, Nic.
+
+333
+00:35:59,423 --> 00:36:02,559
+Niöta se ne moûe uraditi
+za nju trenutno.
+
+334
+00:36:03,828 --> 00:36:05,328
+ObeÊavam, Ëim se probudi...
+
+335
+00:36:05,330 --> 00:36:07,931
+ti Êeö biti prvi
+koji Êe je vidjeti.
+
+336
+00:36:07,933 --> 00:36:11,001
+Trenutno radimo sve öto
+je u naöoj moguÊnosti.
+
+337
+00:36:50,308 --> 00:36:52,709
+<i>Nic, ovo mjesto
+je ludo.</i>
+
+338
+00:36:52,711 --> 00:36:55,145
+<i>Da, znam.
+Sluöaj, bio si u pravu.</i>
+
+339
+00:36:55,147 --> 00:36:58,982
+<i>Ovo mjesto je tempirano.</i>
+Sluöaj, trebam tvoju pomoÊ.
+
+340
+00:36:58,984 --> 00:37:00,817
+»uvao sam neke
+sekvence dogaaja...
+
+341
+00:37:00,819 --> 00:37:03,920
+Nic, bilo je teöko
+sve ovo shvatiti...
+
+342
+00:37:03,922 --> 00:37:07,157
+ali mislim da smo
+bolesni ili zaraûeni.
+
+343
+00:37:07,159 --> 00:37:10,093
+Hej, Jonah, prestani da razmiöljaö
+tako, ËovjeËe. Ozbiljno.
+
+344
+00:37:10,095 --> 00:37:13,163
+Ne, öta god da je u nama oni
+pokuöavaju da sprijeËe da metastazira.
+
+345
+00:37:13,165 --> 00:37:16,666
+Jonah, prestani.
+Niöta ne metastazira, ok?
+
+346
+00:37:16,668 --> 00:37:18,535
+- Dobro smo. BiÊemo dobro.
+- Ne, ja nisam.
+
+347
+00:37:18,537 --> 00:37:20,904
+- Samo mi vjeruj ovo.
+- Ne, moje tijelo nije.
+
+348
+00:37:22,506 --> 00:37:23,340
+Moramo otiÊi odavde.
+
+349
+00:37:25,509 --> 00:37:28,078
+Da, znam.
+OtiÊi Êemo.
+
+350
+00:37:28,080 --> 00:37:30,380
+Ok, imam variable na tastaturi.
+
+351
+00:37:30,382 --> 00:37:33,049
+Sada vrati za
+pola sekvence, ok?
+
+352
+00:37:33,051 --> 00:37:35,518
+Aha. PomoÊi Êu.
+Ok.
+
+353
+00:37:35,520 --> 00:37:38,355
+Iako su mi naoËale
+slomljene.
+
+354
+00:37:38,357 --> 00:37:40,190
+Hej, biÊe u redu.
+
+355
+00:37:40,192 --> 00:37:43,526
+BiÊe u redu.
+Ne brini za naoËale.
+
+356
+00:37:43,528 --> 00:37:44,961
+Ok, daÊu ti
+prostorno.
+
+357
+00:37:44,963 --> 00:37:46,930
+Tri puta tri, telefonski stil.
+Ok, jesi li spreman?
+
+358
+00:37:47,698 --> 00:37:50,133
+Aha.
+Ok.
+
+359
+00:37:50,135 --> 00:37:55,105
+Gornji-srednji, srednji-srednji,
+gornji-lijevi, donji-lijevi.
+
+360
+00:37:55,906 --> 00:37:58,875
+2-5-1-7.
+Imaö li ga?
+
+361
+00:37:58,877 --> 00:38:00,744
+Dole-lijevo prvo.
+
+362
+00:38:00,746 --> 00:38:04,481
+Srednji-srednji drugo.
+Gornji-srednji treÊe.
+
+363
+00:38:05,950 --> 00:38:07,150
+Gornji-lijevi zadnji.
+
+364
+00:38:11,489 --> 00:38:14,491
+Nic, teöko mi je
+ovo izvesti.
+
+365
+00:38:14,493 --> 00:38:17,627
+Neki dan su me natjerali
+da popijem neku Ëudnu stvar...
+
+366
+00:38:17,629 --> 00:38:20,196
+i stvarno nisam
+osjeÊao ruke.
+
+367
+00:38:22,266 --> 00:38:25,635
+Ruke?
+äta? Kako to misliö?
+
+368
+00:38:26,437 --> 00:38:28,405
+Oh, Boûe!
+
+369
+00:38:31,242 --> 00:38:34,077
+- Druûe, ko je?
+- Moram da idem.
+
+370
+00:38:34,079 --> 00:38:36,079
+Jonah, priËekaj sekund.
+
+371
+00:38:37,415 --> 00:38:39,716
+Jonah! Jonah!
+
+372
+00:38:41,419 --> 00:38:42,752
+Jonah!
+
+373
+00:39:13,384 --> 00:39:14,551
+Uzrujan.
+
+374
+00:39:46,351 --> 00:39:47,317
+<i>Svi napolje.</i>
+
+375
+00:39:49,086 --> 00:39:51,254
+<i>Tim za popravku
+na 14. nivo.</i>
+
+376
+00:39:51,856 --> 00:39:55,225
+- <i>Subjekt se probio.
+- Subjekt je pobjegao.</i>
+
+377
+00:40:09,006 --> 00:40:12,342
+Oh, ûao mi je.
+Samo sam traûio da se napijem vode.
+
+378
+00:40:25,423 --> 00:40:27,090
+<i>Tim za popravku
+na 14. nivo.</i>
+
+379
+00:40:29,260 --> 00:40:31,628
+<i>Subjekt se probio.
+Pobjegao.</i>
+
+380
+00:40:52,883 --> 00:40:55,452
+<i>Moûeö li
+podiÊi ruku?</i>
+
+381
+00:40:55,454 --> 00:40:56,319
+<i>äta se desilo
+u hodniku?</i>
+
+382
+00:41:03,761 --> 00:41:04,961
+Dobro.
+
+383
+00:41:05,896 --> 00:41:08,164
+Joö ne osjeÊaö noge?
+
+384
+00:41:08,166 --> 00:41:11,501
+äta se desilo Jonahu?
+
+385
+00:41:11,503 --> 00:41:14,571
+Gledajte, znam da znate da
+mogu priËati sa njim kroz ventilaciju.
+
+386
+00:41:14,573 --> 00:41:16,239
+äta ste mu koji
+vrag uradili?
+
+387
+00:41:16,241 --> 00:41:18,741
+Da, Nic, sluöali
+smo vas...
+
+388
+00:41:18,743 --> 00:41:20,343
+ali istina je u tome...
+
+389
+00:41:20,345 --> 00:41:23,146
+Istina je u tome da je ovo
+totalno Miki Maus operacija.
+
+390
+00:41:23,148 --> 00:41:27,083
+Zastarjele metodologije,
+dinosaurusi od vladine donacije.
+
+391
+00:41:27,085 --> 00:41:29,519
+Cijela zgrada sagraena
+tokom prvog vala Velike Nauke...
+
+392
+00:41:29,521 --> 00:41:33,256
+je zastarjela, ali joj je dozvoljeno da
+nastavi raditi pretvarajuÊi se da si vaûan.
+
+393
+00:41:33,258 --> 00:41:35,425
+- éao mi je zbog vas. PatetiËno je.
+- Nic.
+
+394
+00:41:35,427 --> 00:41:37,260
+"Istina je u tome."
+
+395
+00:41:38,429 --> 00:41:42,165
+äta je istina ovdje? Jedinu stvar
+koju znam sa sigurnoöÊu je...
+
+396
+00:41:42,167 --> 00:41:43,933
+da vi nemate pojma
+sa Ëime imate posla.
+
+397
+00:41:43,935 --> 00:41:45,802
+BiÊete povuËeni iz ove
+male posrane straÊare...
+
+398
+00:41:45,804 --> 00:41:47,704
+koju zovete istraûivaËkim
+objektom tako brzo...
+
+399
+00:41:47,706 --> 00:41:49,672
+da Êe jedina stvar koja Êe biti
+relevantna da se prikaûe bilo öta od ovog...
+
+400
+00:41:49,674 --> 00:41:51,941
+je naËin na koji je sve izloûeno,
+razruöeno, i zaboravljeno.
+
+401
+00:41:51,943 --> 00:41:55,044
+Nemate pojma! Zar ne?
+
+402
+00:41:55,046 --> 00:41:58,047
+Imate li uopöte pojma koliko brzo glupa,
+izgubljena djeËica kao ja, Jonah ili Nomad...
+
+403
+00:41:58,049 --> 00:41:59,649
+mogu sruöiti
+ovo mjesto?
+
+404
+00:41:59,651 --> 00:42:02,118
+Zaustavili kao
+kameni toËak?
+
+405
+00:42:02,120 --> 00:42:04,187
+Vi ste zakon na Divljem Zapadu
+koji nema pojma.
+
+406
+00:42:04,189 --> 00:42:08,157
+Vi ste relikvija koja ötiti ruöevine.
+PatetiËni ste.
+
+407
+00:42:08,159 --> 00:42:12,161
+Istina je u tome da sam ja
+jedini ovdje razuman.
+
+408
+00:42:16,700 --> 00:42:18,268
+Tvoj prijatelj Jonah...
+
+409
+00:42:20,538 --> 00:42:23,339
+nikad nije bio ovdje, Nic.
+Nikada ga nismo naöli.
+
+410
+00:42:23,341 --> 00:42:24,274
+Sranje!
+
+411
+00:42:25,976 --> 00:42:29,812
+- Cijelo vrijeme sam priËao sa njim kroz
+ventilaciju. - Jesi li stvarno?
+
+412
+00:42:32,483 --> 00:42:34,417
+Kroz ventilaciju, Nic?
+
+413
+00:43:50,427 --> 00:43:54,464
+Tri, Ëetiri, pet,
+öest, sedam...
+
+414
+00:44:07,745 --> 00:44:09,078
+Sranje.
+
+415
+00:44:58,562 --> 00:44:59,796
+Sranje!
+
+416
+00:45:15,179 --> 00:45:16,412
+Prokletstvo!
+
+417
+00:46:56,346 --> 00:46:57,647
+Nic.
+
+418
+00:47:06,790 --> 00:47:08,191
+Hej.
+
+419
+00:47:10,661 --> 00:47:11,894
+Kako se osjeÊaö?
+
+420
+00:47:13,864 --> 00:47:15,531
+Bolje.
+
+421
+00:47:40,858 --> 00:47:42,592
+Imala sam prelijep san.
+
+422
+00:47:44,127 --> 00:47:45,728
+Oh, da?
+
+423
+00:47:47,130 --> 00:47:48,431
+Ti...
+
+424
+00:47:50,234 --> 00:47:51,934
+Ti...
+
+425
+00:47:54,671 --> 00:47:56,706
+Pobjedio si na regionalnom.
+
+426
+00:48:03,347 --> 00:48:06,883
+Hay, probudi se.
+Probudi se.
+
+427
+00:48:07,317 --> 00:48:08,384
+Haley.
+
+428
+00:48:12,322 --> 00:48:14,690
+Prestani, skloni se od mene!
+Skloni se od mene!
+
+429
+00:48:14,692 --> 00:48:17,260
+äta to radiö?
+Pusti me! Haley!
+
+430
+00:48:17,262 --> 00:48:19,095
+Haley, probudi se!
+
+431
+00:48:19,097 --> 00:48:21,364
+Hej, pustite me! Prestanite! Koji
+vrag to radite?
+
+432
+00:48:21,366 --> 00:48:23,933
+Haley, probudi se! Haley!
+Probudi se!
+
+433
+00:48:43,254 --> 00:48:45,655
+Holy... Holy...
+
+434
+00:49:00,203 --> 00:49:02,505
+Ne! Koji vrag?
+
+435
+00:49:04,975 --> 00:49:07,109
+Damon!
+
+436
+00:49:07,111 --> 00:49:09,245
+<i>äta ste mi uradili
+sa nogama?</i>
+
+437
+00:49:53,190 --> 00:49:57,827
+<i>Nic, treba
+da se smiriö.</i>
+
+438
+00:50:00,297 --> 00:50:05,301
+<i>Sada shvataö zaöto smo
+toliko zainteresovani za tebe.</i>
+
+439
+00:50:05,303 --> 00:50:09,005
+<i>Kao öto vidiö, okolnosti
+su neobiËne.</i>
+
+440
+00:50:12,876 --> 00:50:15,711
+I vjeruj mi, nismo
+te htjeli öokirati sa ovim.
+
+441
+00:51:13,070 --> 00:51:18,441
+<i>Siguran sam da do sada
+znaö na öta mislimo.</i>
+
+442
+00:51:18,443 --> 00:51:22,611
+<i>Sada, zbog tvoje
+sigurnosti, a i naöe...</i>
+
+443
+00:51:22,613 --> 00:51:27,550
+<i>trebaÊe mi da se prikljuËiö
+na tu infuziju.</i>
+
+444
+00:51:27,552 --> 00:51:29,618
+Tamo.
+
+445
+00:52:04,588 --> 00:52:08,357
+Nic.
+Treba da...
+
+446
+00:52:09,493 --> 00:52:11,794
+se smiriö.
+
+447
+00:52:23,940 --> 00:52:24,840
+<i> Nic.</i>
+
+448
+00:53:38,715 --> 00:53:39,882
+Nic.
+
+449
+00:53:45,355 --> 00:53:46,722
+Ne radi to.
+
+450
+00:53:48,892 --> 00:53:52,695
+Zaöto... Zaöto mi niste
+rekli öta mi se desilo sa nogama?
+
+451
+00:53:52,697 --> 00:53:56,498
+Kako bi?
+Upravo smo te naöli.
+
+452
+00:53:56,500 --> 00:53:59,068
+Sada me sluöaj.
+
+453
+00:53:59,070 --> 00:54:03,339
+Gore je veoma
+opasno za tebe.
+
+454
+00:54:04,774 --> 00:54:08,711
+Mogu da te ötitim
+od njih samo ovdje dole.
+
+455
+00:54:08,713 --> 00:54:10,479
+»uvate me od koga?
+
+456
+00:55:42,605 --> 00:55:46,208
+Jesi li dobro?
+Osjetiö li noge?
+
+457
+00:55:47,610 --> 00:55:51,046
+Hajde, moramo da idemo.
+Moramo da idemo.
+
+458
+00:55:52,882 --> 00:55:56,452
+Jesi li dobro? - äta se
+deöava? - Hajde, idemo.
+
+459
+00:56:37,994 --> 00:56:41,530
+Izvinite öto smetam, koliko ima
+do sljedeÊe benzinske pumpe?
+
+460
+00:56:41,532 --> 00:56:45,401
+Tu je gore uz put.
+
+461
+00:56:45,403 --> 00:56:50,072
+Ok. Hvala vam.
+A gdje smo taËno?
+
+462
+00:56:50,074 --> 00:56:52,408
+Kad nam se auto pokvario,
+malo smo bili izgubljeni.
+
+463
+00:56:52,410 --> 00:56:54,610
+U redu je.
+
+464
+00:56:54,612 --> 00:56:57,346
+Dogaa se mnogim ljudima
+u ovim krajevima.
+
+465
+00:56:57,348 --> 00:57:00,249
+- Da.
+- Uvijek kaûem ljudima...
+
+466
+00:57:00,251 --> 00:57:02,684
+da bi trebali
+naÊi utjehu u tome...
+
+467
+00:57:02,686 --> 00:57:04,787
+da oni uvijek
+paze na nas.
+
+468
+00:57:13,964 --> 00:57:16,365
+- Jesi li Ëuo?
+- »uo öta?
+
+469
+00:57:18,101 --> 00:57:22,304
+Sluöaj, sa ustima
+ovako otvorenim.
+
+470
+00:57:23,940 --> 00:57:25,374
+Oprostite?
+
+471
+00:57:32,282 --> 00:57:35,284
+Njihove trube uvijek
+paze na nas.
+
+472
+00:57:40,790 --> 00:57:43,826
+- Izvinite, ko nas Ëuva?
+- Mali Boûiji aneli.
+
+473
+00:57:47,397 --> 00:57:48,797
+Ko drugi?
+
+474
+00:58:19,128 --> 00:58:20,996
+Opet vam hvala
+na voûnji.
+
+475
+00:58:20,998 --> 00:58:24,132
+Ugodan vam
+ostatak dana.
+
+476
+00:58:24,134 --> 00:58:26,735
+Gurni iznutra
+prema vani.
+
+477
+00:58:30,106 --> 00:58:31,173
+∆ao.
+
+478
+00:58:36,112 --> 00:58:38,046
+- ∆ao.
+- ∆ao.
+
+479
+00:58:40,350 --> 00:58:42,551
+- Iznutra prema vani, ne zaboravi.
+- Ok, hvala.
+
+480
+00:58:47,824 --> 00:58:50,225
+Odoh da telefoniram, ok?
+
+481
+00:58:50,227 --> 00:58:52,661
+DoveöÊu nam pomoÊ.
+Ostani tu.
+
+482
+00:58:52,663 --> 00:58:54,296
+Ne mrdaj.
+
+483
+00:58:56,399 --> 00:58:57,633
+Haley!
+
+484
+00:58:57,635 --> 00:59:00,669
+Haley, sjedi.
+Sjedi.
+
+485
+00:59:00,671 --> 00:59:02,170
+Ozbiljan sam, ok?
+
+486
+00:59:02,172 --> 00:59:04,873
+Ozbiljan sam.
+Ne mrdaj.
+
+487
+00:59:04,875 --> 00:59:08,210
+- IzbaviÊu nas odavde, ok?
+- Aha, ok.
+
+488
+00:59:42,946 --> 00:59:46,682
+<i>Mreûa je trenutno
+nedostupna.</i>
+
+489
+00:59:46,684 --> 00:59:48,317
+<i> Molimo vas, pokuöajte
+ponovo kasnije.</i>
+
+490
+00:59:49,352 --> 00:59:52,187
+<i>Mreûa je trenutno
+nedostupna.</i>
+
+491
+00:59:52,189 --> 00:59:55,257
+<i>Molimo vas, pokuöajte
+ponovo kasnije.</i>
+
+492
+00:59:55,259 --> 00:59:57,726
+<i>Dva subjekta, moguÊe
+zaraûena...</i>
+
+493
+00:59:57,728 --> 01:00:00,429
+<i> su pobjegla iz mrdicinskog
+istraûivaËkog objekta.</i>
+
+494
+01:00:00,431 --> 01:00:03,031
+<i> Nicholas Eastman
+i Haley Peterson...</i>
+
+495
+01:00:03,033 --> 01:00:05,968
+<i>vjeruje se da idu pjeöke i
+ne treba im prilaziti.</i>
+
+496
+01:00:05,970 --> 01:00:09,404
+<i>Molimo vas obavjestite svoje
+lokalne vlasti. Hvala vam.</i>
+
+497
+01:00:09,406 --> 01:00:11,473
+<i>Sada se vraÊamo na
+redovnu programsku öemu.</i>
+
+498
+01:00:16,779 --> 01:00:18,113
+Haley!
+
+499
+01:00:25,421 --> 01:00:26,488
+Hej!
+
+500
+01:00:28,558 --> 01:00:31,526
+Hej!
+Hej!
+
+501
+01:00:32,795 --> 01:00:35,063
+Haley!
+
+502
+01:00:35,065 --> 01:00:38,333
+- Zaustavi kamion!
+- Kriste. Koji vrag radiö?
+
+503
+01:00:40,103 --> 01:00:41,970
+Odmakni se!
+Odmakni se odmah!
+
+504
+01:00:44,073 --> 01:00:47,743
+- Zaustavi kamion! Zaustavi ga!
+- Silazi mi sa kamiona! - Zaustavi kamion!
+
+505
+01:00:48,978 --> 01:00:52,314
+- Haley!
+- Silazi sa prokletog kamiona!
+
+506
+01:01:29,719 --> 01:01:33,422
+Skloni se! - Haley!
+- Koji ti je vrag?
+
+507
+01:01:51,641 --> 01:01:55,444
+- Mali, öta se deöava sa tvojom nogom?
+- Hajde.
+
+508
+01:01:56,979 --> 01:01:58,847
+NeÊeö otiÊi daleko.
+
+509
+01:02:39,355 --> 01:02:41,389
+Nic.
+
+510
+01:02:41,391 --> 01:02:44,392
+Nic, öta ti se
+desilo sa nogama?
+
+511
+01:02:44,394 --> 01:02:47,129
+Haley, veÊ sam
+ti objasnio.
+
+512
+01:02:48,631 --> 01:02:50,699
+OsjeÊaö li se
+dobro?
+
+513
+01:02:51,734 --> 01:02:53,301
+Aha.
+
+514
+01:02:54,137 --> 01:02:56,471
+Aha, dobro sam.
+
+515
+01:02:56,473 --> 01:02:58,140
+BiÊemo dobro.
+
+516
+01:02:58,142 --> 01:03:02,778
+Samo...
+Samo se pokuöaj opustiti.
+
+517
+01:03:09,786 --> 01:03:10,619
+Oh, sranje.
+
+518
+01:03:31,440 --> 01:03:34,576
+Neöto nije u redu, pozorniËe?
+Da li ovdje ima kakvih nevolja?
+
+519
+01:03:35,478 --> 01:03:39,314
+Ne uopöte, go.
+Nema uopöte.
+
+520
+01:03:40,316 --> 01:03:41,650
+Molim vas.
+
+521
+01:03:44,921 --> 01:03:48,657
+- HoÊete li mi praviti druötvo?
+- Naravno.
+
+522
+01:04:09,145 --> 01:04:10,579
+Ovo nema
+nikakvog smisla.
+
+523
+01:04:13,983 --> 01:04:16,551
+Gdje je
+ostatak puta?
+
+524
+01:04:19,488 --> 01:04:24,359
+<i>Mirabelle, jeste li imali kontakt
+sa ikakvim strancima u zadnje vrijeme?</i>
+
+525
+01:04:28,831 --> 01:04:31,399
+Oh, da.
+
+526
+01:04:32,468 --> 01:04:36,037
+PriËali smo o puno
+divnih stvari.
+
+527
+01:04:36,039 --> 01:04:39,074
+Ali gdje ste
+ih odveli, Mirabelle?
+
+528
+01:04:39,076 --> 01:04:41,076
+Koliko ste im
+blizu bili?
+
+529
+01:04:42,646 --> 01:04:45,580
+Tako je lako naÊi.
+
+530
+01:04:45,582 --> 01:04:50,485
+<i> Uvijek tako divan komadiÊ boje
+protiv tamnih noÊi.</i>
+
+531
+01:04:50,487 --> 01:04:52,320
+<i> Tamnih noÊi,
+tamnih noÊi.</i>
+
+532
+01:04:52,322 --> 01:04:55,223
+<i>Tamnih noÊi,</i>
+tamnih noÊi.
+
+533
+01:04:55,225 --> 01:04:58,093
+Tamnih noÊi,
+noÊi...
+
+534
+01:05:01,597 --> 01:05:03,932
+Mogli bi
+imati piknik.
+
+535
+01:05:04,867 --> 01:05:08,436
+Piknik.
+<i>Piknik.</i>
+
+536
+01:05:08,438 --> 01:05:09,905
+<i>Imajmo piknik.</i>
+
+537
+01:05:11,041 --> 01:05:13,942
+<i>U...</i>
+U...
+
+538
+01:05:13,944 --> 01:05:16,244
+<i>U...
+Na...</i>
+
+539
+01:05:16,246 --> 01:05:17,312
+<i>Na...</i>
+
+540
+01:05:21,951 --> 01:05:24,586
+<i>Dolazimo
+po tebe.</i>
+
+541
+01:05:50,212 --> 01:05:52,647
+Je li to
+isti kanjon?
+
+542
+01:05:52,649 --> 01:05:55,283
+Ne znam. Mislio sam da smo
+ga veÊ proöli. Ranije.
+
+543
+01:05:56,218 --> 01:05:57,819
+Moûda smo iöli ukrug?
+
+544
+01:06:00,756 --> 01:06:02,057
+Da, moûda. Ne znam.
+
+545
+01:06:03,726 --> 01:06:04,893
+Izgleda napuöteno.
+
+546
+01:06:12,301 --> 01:06:14,669
+äta traûiö?
+
+547
+01:06:14,671 --> 01:06:19,007
+Piötolj, telefon, kartu
+ili neöto ovdje.
+
+548
+01:06:23,279 --> 01:06:24,846
+éeliö li da
+to obuËeö?
+
+549
+01:06:41,597 --> 01:06:43,231
+Hajde, provjerimo.
+
+550
+01:06:53,109 --> 01:06:55,410
+<i> Mreûa je trenutno
+nedostupna.</i>
+
+551
+01:07:07,123 --> 01:07:09,257
+Haley, jesi li
+iöta naöla?
+
+552
+01:07:11,060 --> 01:07:14,729
+Haley?
+Hej.
+
+553
+01:07:16,632 --> 01:07:20,702
+Da, naöla sam kartu, ali nema
+puno informacija na njoj.
+
+554
+01:07:21,337 --> 01:07:23,138
+"Ovdje ste."
+
+555
+01:07:25,141 --> 01:07:27,308
+Ali ne moûemo biti.
+
+556
+01:07:28,044 --> 01:07:29,744
+Vozili smo se
+dole, je li tako?
+
+557
+01:07:29,746 --> 01:07:32,380
+Zar nije to isti tjesnac
+odakle smo sad doöli?
+
+558
+01:07:32,382 --> 01:07:35,415
+Onda taj grad, Good Springs, bi
+trebao biti ovdje dole, je li tako?
+
+559
+01:07:35,518 --> 01:07:37,518
+Pretpostavljam.
+
+560
+01:07:37,686 --> 01:07:40,088
+Ne shvatam.
+
+561
+01:08:19,795 --> 01:08:21,963
+äta ti misliö
+da je taj zvuk?
+
+562
+01:08:25,935 --> 01:08:27,769
+Ne Ëujem niöta, Hay.
+
+563
+01:08:29,038 --> 01:08:30,705
+Koji zvuk?
+
+564
+01:08:32,942 --> 01:08:34,209
+Eto.
+
+565
+01:08:39,782 --> 01:08:42,884
+Mislim da bismo
+trebali ovdje prenoÊiti.
+
+566
+01:08:46,388 --> 01:08:47,822
+Je li ovo moja greöka?
+
+567
+01:08:49,058 --> 01:08:50,692
+äta? Ne.
+
+568
+01:08:51,927 --> 01:08:54,329
+Ako iöta, onda je moja.
+
+569
+01:08:54,331 --> 01:08:57,165
+Ja sam taj koji je
+htio pratiti Nomada.
+
+570
+01:08:57,167 --> 01:08:59,134
+Ne sjeÊam se.
+
+571
+01:09:09,845 --> 01:09:11,513
+Bole li te?
+
+572
+01:09:14,250 --> 01:09:15,884
+U redu je.
+
+573
+01:09:20,856 --> 01:09:22,323
+Tako je öiroko.
+
+574
+01:09:23,492 --> 01:09:25,760
+Nadam se da Êemo
+uspjeti da preemo.
+
+575
+01:09:42,444 --> 01:09:44,212
+Haley. Hej, hej.
+
+576
+01:09:45,515 --> 01:09:47,782
+Trebali bi uÊi unutra.
+
+577
+01:10:39,669 --> 01:10:41,336
+Jonah!
+
+578
+01:10:41,338 --> 01:10:44,706
+Jonah! Jonah!
+Ne, Jonah! Jonah! Ja sam!
+
+579
+01:10:44,708 --> 01:10:49,043
+Jonah, Jonah, Jonah!
+Hej, Nic je! Hey! Nic je!
+
+580
+01:10:49,045 --> 01:10:52,080
+Jonah, hej. Hej, druûe, ja sam.
+Ja sam.
+
+581
+01:10:53,082 --> 01:10:54,015
+Sranje.
+
+582
+01:10:55,584 --> 01:10:58,786
+Halo, James.
+Odavno se nismo vidjeli.
+
+583
+01:10:58,788 --> 01:11:00,088
+"Halo, James."
+
+584
+01:11:02,025 --> 01:11:06,761
+Pokuöavam locirati tri osobe.
+Dva muökarca, jedna ûena.
+
+585
+01:11:06,763 --> 01:11:09,364
+Svi ekstremno
+zarazni.
+
+586
+01:11:09,366 --> 01:11:11,799
+Jesi li imao ikakav
+kontakt sa njima, James?
+
+587
+01:11:15,971 --> 01:11:18,906
+äta radite
+u mojoj kuÊi?
+
+588
+01:11:18,908 --> 01:11:22,944
+Drago mi je da ti je udobno ovdje,
+ali da li je ovo tvoja kuÊa?
+
+589
+01:11:23,879 --> 01:11:25,647
+Pripada mojoj mami.
+
+590
+01:11:27,883 --> 01:11:30,585
+- Moj brat spava tamo.
+- Da?
+
+591
+01:11:30,587 --> 01:11:33,721
+Ja spavam tamo
+i imamo malu macu.
+
+592
+01:11:33,723 --> 01:11:37,458
+- Tvoji brat, mama i maca.
+- Aha.
+
+593
+01:11:37,460 --> 01:11:39,160
+SjeÊaö li se njihovih
+imena, James?
+
+594
+01:11:44,566 --> 01:11:48,636
+Nejvjerovatno, tvoja volja
+za preûivljavanjem...
+
+595
+01:11:48,638 --> 01:11:52,073
+podstaknuta tvojim bjesom,
+strahom, samoÊom, frustraciom.
+
+596
+01:11:57,246 --> 01:12:00,148
+- Divim ti se.
+- Ne shvatam.
+
+597
+01:12:02,918 --> 01:12:04,652
+U redu je, James.
+
+598
+01:13:10,185 --> 01:13:12,320
+<i>éao mi je.
+Ostavio sam vas tamo.</i>
+
+599
+01:13:13,422 --> 01:13:16,858
+Kunem se da mi je neko pomagao,
+iako ne mogu da se saberem.
+
+600
+01:13:16,860 --> 01:13:20,661
+- Jonah, to mjesto je bilo...
+- To mjesto, ovo mjesto! Sve je isto, Nic.
+
+601
+01:13:22,698 --> 01:13:26,434
+- Sve je isto.
+- O Ëemu priËaö?
+
+602
+01:13:26,436 --> 01:13:28,102
+Pogledaj ti noge,
+ËovjeËe.
+
+603
+01:13:29,538 --> 01:13:32,240
+Pogledaj ti noge.
+Vidi nas.
+
+604
+01:13:32,242 --> 01:13:33,908
+Potraûi brojeve.
+
+605
+01:13:34,676 --> 01:13:37,111
+Tetovaûu.
+
+606
+01:13:38,280 --> 01:13:40,114
+Imaö li tetovaûu?
+
+607
+01:13:46,588 --> 01:13:48,489
+Ovo nije identifikacijski broj?
+
+608
+01:13:49,391 --> 01:13:51,159
+Jeste identifikacijski broj...
+
+609
+01:13:52,961 --> 01:13:55,129
+ali ne samo tvoj.
+
+610
+01:13:56,298 --> 01:13:58,933
+To je identifikacijski
+broj za cijelu oblast, Nic.
+
+611
+01:14:00,903 --> 01:14:04,672
+Dva, plus tri,
+plus pet, plus 41.
+
+612
+01:14:06,608 --> 01:14:07,942
+51.
+
+613
+01:14:08,944 --> 01:14:11,312
+Oblast 51, Nic.
+Mi smo u oblasti 51.
+
+614
+01:14:11,314 --> 01:14:14,782
+Jonah, Nisam siguran...
+- Ne, pogledaj svoje noge! - Gledam ih!
+
+615
+01:14:15,751 --> 01:14:19,153
+Gledaj. Prazno.
+
+616
+01:14:21,957 --> 01:14:25,293
+Sve je prazno.
+Testiraju nas, Nic.
+
+617
+01:14:26,462 --> 01:14:28,162
+Mi smo kao
+mali miöevi.
+
+618
+01:14:29,665 --> 01:14:32,567
+Sada, jesi li
+vidio karte?
+
+619
+01:14:32,569 --> 01:14:34,435
+O Ëemu priËaö, karte?
+
+620
+01:14:34,437 --> 01:14:36,904
+Kaûeö mi da nije stvarno?
+
+621
+01:14:36,906 --> 01:14:38,506
+Naravno da je stvarno.
+
+622
+01:14:38,508 --> 01:14:41,142
+Postoje putevi, autoputevi,
+gradovi na ovim kartama.
+
+623
+01:14:42,744 --> 01:14:44,345
+Oni ne postoje.
+
+624
+01:14:45,948 --> 01:14:49,317
+Zarobljeni smo u velikoj
+vladinoj nadogradnji.
+
+625
+01:14:49,319 --> 01:14:52,386
+Da li si sreo ikoga od öarmantnog
+lokalnog stanovniötva? - Jonah.
+
+626
+01:14:53,755 --> 01:14:55,523
+Jonah, sluöaj me.
+
+627
+01:15:00,929 --> 01:15:02,597
+Sluöaj me.
+
+628
+01:15:02,599 --> 01:15:05,766
+Haley je stvarno,
+stvarno bolesna.
+
+629
+01:15:05,768 --> 01:15:08,870
+Ok, moramo reÊi nekome.
+Moramo reÊi nekome.
+
+630
+01:15:08,872 --> 01:15:12,340
+- Moramo razotkriti ovo.
+- I ja sam bolestan.
+
+631
+01:15:14,943 --> 01:15:17,578
+Teöko je to objasniti,
+ali neöto je u meni.
+
+632
+01:15:20,148 --> 01:15:23,684
+Ima neöto kao da...
+Kao da su neöto uzeli od mene, Nic.
+
+633
+01:15:25,287 --> 01:15:26,521
+Uzeli öta?
+
+634
+01:15:28,857 --> 01:15:30,124
+OsjeÊam se kao...
+
+635
+01:15:31,727 --> 01:15:33,427
+OsjeÊam se kao da
+sam pun...
+
+636
+01:15:38,634 --> 01:15:40,234
+- Praznina?
+- Da.
+
+637
+01:15:41,803 --> 01:15:43,871
+To je taËno to.
+
+638
+01:15:43,873 --> 01:15:47,008
+Mislim, ne baö, ali
+veoma blizu tome.
+
+639
+01:15:47,010 --> 01:15:50,878
+- Znaö na öta mislim?
+- Jonah, Ëija je to krv?
+
+640
+01:15:52,381 --> 01:15:53,814
+Je li tvoja?
+
+641
+01:16:01,056 --> 01:16:03,391
+Pokuöao sam da
+ih skinem.
+
+642
+01:16:06,061 --> 01:16:08,429
+Pokuöao sam da
+ih skinem.
+
+643
+01:16:14,269 --> 01:16:18,005
+Hej, druûe. OtiÊi Êemo negdje
+gdje Êe nas vidjeti öto...
+
+644
+01:16:18,007 --> 01:16:21,876
+je moguÊe viöe ljudi, ok?
+To je jedini naËin da budemo sigurni.
+
+645
+01:16:21,878 --> 01:16:23,311
+NeÊe da spadnu.
+
+646
+01:16:25,948 --> 01:16:28,282
+Ali kako Êemo to
+da uradimo?
+
+647
+01:16:29,785 --> 01:16:32,920
+Koliko sam vidio, ovdje
+postoji samo jedan put.
+
+648
+01:16:35,023 --> 01:16:37,358
+Tim Êemo i da idemo.
+
+649
+01:17:17,299 --> 01:17:19,200
+Ok, dobri smo.
+Dobri smo.
+
+650
+01:17:40,455 --> 01:17:41,856
+<i> Stani tu. »ekaj.</i>
+
+651
+01:17:46,995 --> 01:17:49,530
+Hej, öefe. Imamo
+dozvolu za prolaz.
+
+652
+01:17:52,834 --> 01:17:53,734
+<i>Provjeri. Idemo.</i>
+
+653
+01:18:13,522 --> 01:18:15,156
+<i>Izaite iz vozila,
+gospodine.</i>
+
+654
+01:18:15,158 --> 01:18:17,525
+Ne. U redu je.
+
+655
+01:18:18,527 --> 01:18:20,761
+Vrijeme je da se ide!
+- <i> Blokiraj ga. Blokiraj ga.</i>
+
+656
+01:18:23,533 --> 01:18:24,632
+Sranje! Hajde!
+
+657
+01:18:28,503 --> 01:18:29,570
+Sranje!
+
+658
+01:18:33,508 --> 01:18:35,309
+Zaboga, Nic!
+Ostani u kamionu!
+
+659
+01:18:35,311 --> 01:18:39,513
+TrËi, Nic!
+
+660
+01:18:39,515 --> 01:18:40,748
+Jonah, öta to radiö?
+
+661
+01:19:25,594 --> 01:19:27,428
+Ne tipka, jebemu!
+
+662
+01:20:36,531 --> 01:20:39,333
+Jonah!
+
+663
+01:20:41,469 --> 01:20:43,103
+Jonah!
+
+664
+01:20:49,212 --> 01:20:51,078
+Jonah, hajde,
+idemo! Ulazi u kamion!
+
+665
+01:20:51,880 --> 01:20:55,015
+- Hajde! Vrati se unutra!
+- Jonah, ulazi u kamion!
+
+666
+01:20:55,017 --> 01:20:56,684
+Gotov sam.
+Gotov sam.
+
+667
+01:21:01,223 --> 01:21:02,957
+Samo ui
+u kamion.
+
+668
+01:21:02,959 --> 01:21:06,427
+Nic, nastavi.
+
+669
+01:21:09,464 --> 01:21:10,931
+Ui u kamion.
+
+670
+01:21:13,068 --> 01:21:16,804
+Namjesti to sranje na ubrzanje.
+Idi kad viknem "idi."
+
+671
+01:21:18,073 --> 01:21:19,640
+Idi, Nic.
+
+672
+01:21:21,243 --> 01:21:22,776
+Ok, Nic?
+
+673
+01:21:26,848 --> 01:21:28,482
+Treba mi da ideö.
+
+674
+01:21:30,652 --> 01:21:32,953
+Treba mi da ideö.
+Molim te.
+
+675
+01:24:34,002 --> 01:24:35,803
+ZakopËaj pojas.
+
+676
+01:24:44,045 --> 01:24:45,746
+- Nic, mislim da bi trebali samo...
+- Drûi se.
+
+677
+01:25:00,796 --> 01:25:02,096
+Nic, stani!
+
+678
+01:25:30,959 --> 01:25:32,192
+<i> éao mi je.</i>
+
+679
+01:25:47,609 --> 01:25:48,976
+Volim te.
+
+680
+01:26:30,485 --> 01:26:32,252
+Haley!
+
+681
+01:27:40,521 --> 01:27:42,256
+Ni ne pomiöljaj na to, Nic.
+
+682
+01:27:43,591 --> 01:27:45,092
+Ne moûeö do nje.
+
+683
+01:27:53,868 --> 01:27:54,935
+<i>Na mojoj strani.</i>
+
+684
+01:27:59,407 --> 01:28:01,475
+Pogledaj se, Nic.
+
+685
+01:28:03,244 --> 01:28:05,812
+Savröena integracija
+ljudske volje...
+
+686
+01:28:06,920 --> 01:28:11,018
+i vanzemaljske tehnologije.
+
+687
+01:28:13,288 --> 01:28:14,988
+Naöe najveÊe
+ostvarenje.
+
+688
+01:28:21,829 --> 01:28:23,130
+Nomad?
+
+689
+01:28:26,334 --> 01:28:28,068
+Nomad!
+
+690
+01:28:28,070 --> 01:28:32,773
+Nomad, da.
+Ja sam te doveo ovdje.
+
+691
+01:28:32,775 --> 01:28:37,144
+Ali zapamti, Nic, ti si
+doöao da me traûiö.
+
+692
+01:28:37,146 --> 01:28:40,113
+Pa bi mogao da
+se zapitaö...
+
+693
+01:28:40,115 --> 01:28:43,417
+"Da li sam naöao ono
+öto sam traûio?"
+
+694
+01:32:58,888 --> 01:33:03,888
+Subtitle
+by fAzazel
+
+695
+01:33:06,888 --> 01:33:10,888
+Preuzeto sa www.titlovi.com
+
+696
+01:33:11,305 --> 01:34:11,490
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/544br
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

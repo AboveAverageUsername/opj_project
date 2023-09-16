@@ -1,0 +1,2842 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:08.66,00:00:12.75
+" I ngonyama[br]nengw' enambala "
+
+00:00:12.84,00:00:16.42
+" I ngonyama nengw' enambala "
+
+00:00:16.51,00:00:21.09
+- " I ngonyama nengw' enambala "
+
+00:00:21.18,00:00:24.93
+- " I ngonyama nengw' enambala "
+
+00:00:25.01,00:00:26.93
+" Noæ,"
+
+00:00:28.56,00:00:32.73
+"I duh života..."
+
+00:00:32.81,00:00:35.07
+-" Zove..."[br]- " Oh, oh, io "
+
+00:00:36.65,00:00:39.15
+- " Mamela "[br]- " Oh, oh, io "
+
+00:00:41.41,00:00:45.83
+" Uhukhosibo khokho[br]We ndodanaye sizwe sonke"
+
+00:00:45.91,00:00:48.66
+" Èekaj,"
+
+00:00:48.75,00:00:52.79
+" Nijedna planina nije previsoka,"
+
+00:00:52.92,00:00:56.92
+-" Poslušaj reèi i imaj vere."[br]- " Oh, oh, io "
+
+00:00:57.00,00:01:00.84
+-" Oh, oh"[br]- " Oh, oh, io "
+
+00:01:00.97,00:01:04.60
+-" Imaj vere."[br]- " Hela, hej mamela "
+
+00:01:04.68,00:01:09.77
+" Hela, hej mamela[br]Hela, hej mamela, hela, hej mamela "
+
+00:01:09.85,00:01:13.65
+-" On živi u tebi,"[br]- " Hela, hej mamela "
+
+00:01:13.73,00:01:17.61
+-" On živi u meni,"[br]- " Hela, hej mamela "
+
+00:01:17.69,00:01:21.86
+-" On gleda,"[br]- " Hela, hej mamela "
+
+00:01:21.99,00:01:25.70
+-" Sve što vidimo mi,"[br]- " Hela, hej mamela "
+
+00:01:25.78,00:01:30.29
+-" U vodi,"[br]- " Hela, hej mamela "
+
+00:01:30.37,00:01:34.13
+-" U istini"[br]- " Hela, hej mamela "
+
+00:01:34.21,00:01:38.55
+-" U tvom odrazu,"[br]- " Hela, hej mamela "
+
+00:01:38.67,00:01:44.47
+-" On živi u tebi."[br]- " I ngonyama nengw' enambala "
+
+00:01:44.55,00:01:47.64
+" I ngonyama[br]nengw' enambala "
+
+00:02:03.95,00:02:09.74
+-" On živi u tebi."
+
+00:02:09.83,00:02:13.75
+-" Hej, oh, jeah"[br]-" On živi u tebi."
+
+00:02:13.87,00:02:16.33
+" Hela, hej mamela "
+
+00:02:16.42,00:02:20.17
+-" On živi u meni."[br]- " Hela, hej mamela "
+
+00:02:20.25,00:02:23.84
+-" On gleda,"
+
+00:02:23.92,00:02:28.60
+-" Sve što vidimo mi,"[br]- " Hela, hej mamela "
+
+00:02:28.68,00:02:32.43
+-" U vodi,"[br]- " Hela, hej mamela "
+
+00:02:32.56,00:02:36.94
+-" U drveæu,"[br]- " Hela, hej mamela "
+
+00:02:37.06,00:02:40.77
+" U tvom odrazu, "
+
+00:02:40.82,00:02:43.53
+" On živi u tebi "
+
+00:02:43.61,00:02:47.20
+" I ngonyama[br]nengw' enambala "
+
+00:02:47.28,00:02:51.62
+- " I ngonyama nengw' enambala "[br]-" On živi u tebi."
+
+00:02:54.71,00:02:57.21
+Ah, Pumbaa, pogledaj[br]tog mališu!
+
+00:02:57.29,00:02:59.54
+Iver ne pada daleko od klade!
+
+00:02:59.63,00:03:01.75
+I znaš ko[br]æe ga odgajati.
+
+00:03:01.84,00:03:05.01
+- Njegovi roditelji?[br]- OK, naravno. Budi tehnièan.
+
+00:03:05.13,00:03:07.97
+Ali ko æe ga uèiti[br]stvarno važnim stvarima?
+
+00:03:08.09,00:03:10.35
+Kako podrignuti, na primer.
+
+00:03:10.47,00:03:12.26
+I iskopati gusenice.
+
+00:03:12.43,00:03:16.06
+Kažem ti, drugar,[br]biæe kao u stara vremena...
+
+00:03:16.14,00:03:18.56
+Ti, ja, i mali deèko.
+
+00:03:18.65,00:03:22.78
+- Devojèica je.[br]- Devojèica.
+
+00:03:22.90,00:03:24.78
+- Devojèica? Oh.[br]- Devojèica? Oh.
+
+00:03:41.96,00:03:44.59
+Opa!
+
+00:03:44.71,00:03:47.38
+- Jupi.
+
+00:03:48.88,00:03:52.43
+- Gde si ti krenula[br]u takvoj žurbi?
+
+00:03:52.56,00:03:57.27
+Tata! Pusti me.
+
+00:03:57.39,00:03:59.44
+Pa, samo želim[br]da budeš pažljiva.
+
+00:04:02.15,00:04:06.07
+Kiara, slušaš li?[br]Nesreæe se dešavaju.
+
+00:04:06.15,00:04:11.99
+- Možeš se lako povrediti-[br]- " Povrediti, biti zgažena,[br]ili se izgubiti."
+
+00:04:12.07,00:04:14.08
+I zapamti...
+
+00:04:14.16,00:04:16.58
+- Želim da stalno budeš vidljiva[br]sa Stene Ponosa. - "...stalno."
+
+00:04:16.66,00:04:20.79
+Znam. "I ako vidim neke strance,[br]da ne prièam sa njima.
+
+00:04:20.92,00:04:25.09
+Doðem pravo kuæi."[br]Ok, ok. Mogu li da idem sada?
+
+00:04:25.17,00:04:27.09
+- Molim te?[br]- Mm-hmm.
+
+00:04:27.17,00:04:31.26
+- Jako smešno.[br]- Pusti tatu, Kiara.
+
+00:04:31.34,00:04:35.18
+- Da, mama.[br]- I drži se dalje od tuðe zemlje.
+
+00:04:35.26,00:04:40.19
+Nièeg nema tamo osim[br]ubica iz tuðe zemlje.
+
+00:04:40.27,00:04:43.77
+Zazu je u pravu.[br]Ne smeš im okrenuti ledja.
+
+00:04:43.86,00:04:46.11
+Stvarno?[br]Zašto?
+
+00:04:46.19,00:04:49.95
+Nije važno. Idi trèi sad.
+
+00:04:50.03,00:04:53.62
+- Ali, tata, ja...[br]- Razumeæeš jednog dana. Idi.
+
+00:04:53.70,00:04:56.95
+- Tata!
+
+00:05:00.87,00:05:03.63
+I ostani na putu[br]koji sam obeležio za tebe.
+
+00:05:03.71,00:05:08.13
+Simba. Na koga te podseæa, hmm?
+
+00:05:08.21,00:05:11.80
+A? Šta? Koga?
+
+00:05:11.88,00:05:14.47
+Ista je kao ti[br]kada si bio mlad.
+
+00:05:14.55,00:05:18.39
+Upravo! Shvataè li u kakve[br]smo se opasnosti upuštali?
+
+00:05:18.52,00:05:21.69
+- Uh![br]- Misliš opasnosti u koje si nas ti uvlaèio.
+
+00:05:24.81,00:05:26.82
+Hmm.
+
+00:05:26.90,00:05:29.53
+Biæe ona u redu.
+
+00:05:34.91,00:05:36.91
+Hej, Timon! Pumbaa! Doðite ovde.
+
+00:05:38.29,00:05:40.25
+Dobro jutro, kapetane!
+
+00:05:40.37,00:05:42.67
+Hoæu da dobro[br]pazite Kiaru.
+
+00:05:42.75,00:05:45.08
+Znate da joj je[br]zabranjeno da trèi.
+
+00:05:45.17,00:05:48.09
+Ne brini, Simba, pratimo je[br]kao smrad bradavièastu svinju.
+
+00:05:48.17,00:05:50.59
+- Hej![br]- To je živa istina, Pumbaa.[br]Pomiri se sa tim.
+
+00:05:50.71,00:05:52.88
+Momci, raèunam na vas.
+
+00:05:52.93,00:05:56.43
+Opasnost može vrebati[br]iza svakog kamena.
+
+00:05:56.55,00:05:59.72
+- Aha![br]- Hm! Hm! Hmm.
+
+00:06:04.69,00:06:07.73
+Hej! Èekaj! Vrati se.
+
+00:06:07.86,00:06:11.24
+Samo želim da se igram.
+
+00:06:15.24,00:06:17.12
+Moæni lovac...
+
+00:06:17.24,00:06:20.24
+je uhvatio svoju lovinu u æošku.
+
+00:06:23.96,00:06:26.79
+A?
+
+00:06:29.09,00:06:32.97
+Opa! Strava.
+
+00:06:33.09,00:06:34.97
+Tuða zemlja.
+
+00:06:36.80,00:06:38.76
+Pitam se šta ima tamo.
+
+00:06:59.16,00:07:03.00
+Oh, ne brini, Kiara.[br]Èika Pumbaa stiže.
+
+00:07:03.12,00:07:06.29
+Oh, ne! Oh! Uh, uh...
+
+00:07:06.33,00:07:10.59
+Da vidimo. "Uh, Simba, dobra vest[br]je da smo našli tvoju æerku.
+
+00:07:10.67,00:07:13.09
+Loša vest je da smo[br]ispustili bradavièastu svinju na nju.
+
+00:07:13.17,00:07:15.13
+Ima li problema sa tim?"
+
+00:07:15.17,00:07:17.47
+- Kiara? Kiara?
+
+00:07:17.51,00:07:21.60
+Pumbaa![br]Pusti me da definišem "èuvanje beba."
+
+00:07:26.94,00:07:28.85
+Izvini.
+
+00:07:28.94,00:07:32.61
+Sad, Princezo Kiara,[br]kao Simbina kæer,
+
+00:07:32.69,00:07:35.44
+znaš bolje nego da[br]odlutaš sama.
+
+00:07:35.53,00:07:37.86
+- Mogla si da se povrediš.[br]-A... ali...
+
+00:07:37.95,00:07:41.16
+Povredi? Oh, Simba bi nas ubio!
+
+00:07:41.28,00:07:43.20
+- Nisi isèašila zglob, jesi li?[br]- A... ali...
+
+00:07:43.29,00:07:46.71
+- Nazebla? Dobila zanoktice?[br]- Aah! Timon...
+
+00:07:46.79,00:07:48.83
+- Imao sam jednu jednom.[br]- Vrlo bolno.
+
+00:07:48.96,00:07:51.00
+Presudno.
+
+00:07:51.13,00:07:54.05
+Dušo, sa takvim tenom,[br]treba da se držiš dalje od Sunca.
+
+00:07:55.21,00:07:57.34
+Šta? Ne želiš valjda bore?
+
+00:07:57.47,00:07:59.89
+Hoæe li me, molim vas,[br]neko saslušati?
+
+00:07:59.93,00:08:03.14
+Izvini, nisam slušao.[br]Rekla si nešto, princezo?
+
+00:08:03.22,00:08:07.69
+Ja nisam samo princeza, znaš.[br]To je samo pola onoga što jesam.
+
+00:08:07.77,00:08:12.86
+- Oh, uh, ko je druga polovina?[br]- Oh, pa, ja, uh, ovaj...
+
+00:08:12.98,00:08:15.69
+Pa, dok ne saznaš,
+
+00:08:15.78,00:08:17.03
+hajde da jedemo!
+
+00:08:17.15,00:08:21.03
+Evo nas! Larve.
+
+00:08:21.12,00:08:23.62
+Drugo belo meso.
+
+00:08:23.70,00:08:28.04
+- Puno proteina.[br]- Bljak! Užasno!
+
+00:08:28.12,00:08:31.13
+Ne? A ti, veliki deèko?
+
+00:08:31.21,00:08:36.30
+- Ah! Volim larve.[br]- Ne " sviða."
+
+00:08:36.38,00:08:38.30
+- Volim![br]- Volim!
+
+00:08:41.22,00:08:43.39
+Oh! Uvek to uradiš.
+
+00:08:43.47,00:08:47.31
+Gricneš od svake po malo, i[br]onda vratiš nazad. Ide mi na živce.
+
+00:08:47.39,00:08:52.06
+Ali, ne možeš reæi spolja[br]koje su najsluzavije.
+
+00:08:52.15,00:08:55.48
+Sluzave? Pumbaa,[br]moj debeli druže,
+
+00:08:55.57,00:08:57.74
+krckavi su oni[br]koji èine obrok.
+
+00:08:57.82,00:09:00.28
+- Sluzave.[br]- Krckave.
+
+00:09:00.36,00:09:03.99
+- Sluzave! Sluzave! Sluzave![br]- Krckave! Krckave! Krckave!
+
+00:09:04.07,00:09:06.74
+- Sluzave! Sluzave! Manje punjene.[br]- Krckave! Krckave! Ukusne.
+
+00:09:06.83,00:09:09.16
+- Manje punjene. Manje punjene.[br]- Ukusne. Ukusne.
+
+00:09:32.77,00:09:36.36
+Ko si ti? Iz zemlje ponosa?
+
+00:09:42.53,00:09:47.20
+- Šta radiš to?[br]- Moj otac kaže da ne okreæem[br]leða stanovnicima tuðe zemlje.
+
+00:09:47.28,00:09:50.04
+- Uvek radiš ono što ti tata kaže?[br]- Ne!
+
+00:09:50.12,00:09:54.08
+Kladim se da radiš! Kladim se[br]da si tatina mala devojèica. 
+
+00:09:55.79,00:09:58.38
+Stanovniku tuðe zemlje[br]ne treba niko.
+
+00:09:58.46,00:10:00.88
+Ja se sam brinem o sebi
+
+00:10:00.97,00:10:03.59
+- Stvarno?
+
+00:10:03.72,00:10:06.55
+- Strava!
+
+00:10:08.47,00:10:11.06
+-Trèi!
+
+00:10:14.56,00:10:16.48
+Ovuda!
+
+00:10:22.74,00:10:26.07
+- To je bilo blizu.
+
+00:10:26.16,00:10:28.08
+Da.
+
+00:10:32.50,00:10:34.79
+Beži!
+
+00:10:34.83,00:10:37.96
+- Ah![br]- Hej, š... šta sa mnom?
+
+00:10:38.00,00:10:41.67
+Ja... ja æu mu odvuæi pažnju![br]Beži! Uuups!
+
+00:10:43.67,00:10:45.59
+Oh!
+
+00:10:54.10,00:10:56.10
+- Pazi!
+
+00:10:56.19,00:10:59.32
+- Mrdaj!
+
+00:11:03.53,00:11:06.45
+Ah!
+
+00:11:16.79,00:11:21.88
+Uspela sam! Uspela sam!
+
+00:11:22.00,00:11:24.88
+- Ha! 
+
+00:11:24.97,00:11:28.34
+U, èoveèe, jesi li video[br]koliki su im zubi?
+
+00:11:28.39,00:11:30.89
+Kako su samo režali,[br]" Rr, rr, rr, rr."
+
+00:11:31.01,00:11:34.31
+Samo što me nije pojeo tamo,
+
+00:11:34.39,00:11:37.48
+i onda sam mu skoèila na glavu,[br]i tresnula ga tako dobro!
+
+00:11:37.56,00:11:39.81
+Baš smo dobar tim!
+
+00:11:39.90,00:11:44.19
+I ti...[br]Bio si strašno hrabar.
+
+00:11:44.32,00:11:47.57
+Stvarno? I ti si bila prilièno hrabra.
+
+00:11:47.70,00:11:50.87
+- Zovem se Kovu.[br]- Ja sam Kiara.
+
+00:11:54.70,00:11:57.25
+Suga! Ti juriš!
+
+00:11:59.42,00:12:02.42
+Suga! Ti juriš! Ti juriš!
+
+00:12:05.59,00:12:11.01
+'Alo? Ti bežiš, ja jurim.[br]Shvataš?
+
+00:12:11.10,00:12:13.18
+Šta je bilo?[br]Zar ne znaš da se igraš?
+
+00:12:14.60,00:12:17.94
+Oh.
+
+00:12:18.02,00:12:20.69
+- Ah. 
+
+00:12:27.45,00:12:29.86
+- Zira.[br]- Simba.
+
+00:12:35.95,00:12:37.87
+- Nala.[br]- Zira.
+
+00:12:37.96,00:12:42.13
+Timon, Pumbaa. Super![br]Sad kad se svi znamo,
+
+00:12:42.21,00:12:46.63
+- brišite sa naše zemlje ponosa![br]- Vaše zemlje?
+
+00:12:50.26,00:12:53.72
+Ova zemlja pripada Skaru.
+
+00:12:53.80,00:12:56.14
+Proterao sam vas[br]iz zemlje ponosa.
+
+00:12:56.27,00:12:58.93
+Sada, ti i tvoje mladunèe,[br]brišite odavde!
+
+00:13:00.56,00:13:05.07
+Oh, zar nisi upoznao[br]mog sina, Kovu?
+
+00:13:05.15,00:13:10.74
+Izabrao ga je Skar[br]da prati njegove tragove,
+
+00:13:10.82,00:13:13.95
+i postane kralj.
+
+00:13:17.66,00:13:21.42
+Pfft! To nije kralj.[br]To je smušenko.
+
+00:13:21.50,00:13:23.96
+Kovu je poslednji rodjen...
+
+00:13:24.08,00:13:27.59
+pre nego što ste nas[br]proterali u tuðu zemlju,
+
+00:13:27.67,00:13:32.30
+gde imamo malo hrane,[br]manje vode.
+
+00:13:32.43,00:13:35.47
+Znaš koja je kazna[br]za vraæanje u ponosnu zemlju.
+
+00:13:35.60,00:13:37.93
+Ali dete ne zna!
+
+00:13:38.02,00:13:43.31
+Svejedno, ako ti treba[br]kazna od krvi i mesa, evo.
+
+00:13:48.44,00:13:50.65
+Uzmi ga i briši odavde.
+
+00:13:50.78,00:13:52.99
+Završili smo.
+
+00:13:54.87,00:13:57.83
+- Oh![br]- Oh, ne, Simba.
+
+00:13:57.87,00:14:03.00
+Jedva da smo poèeli.
+
+00:14:11.05,00:14:13.51
+Zdravo.
+
+00:14:15.22,00:14:17.18
+Zdravo.
+
+00:14:27.90,00:14:31.19
+- Simba?
+
+00:14:42.75,00:14:46.04
+- Kiara, šta si to[br]mislila da radiš?
+
+00:14:46.08,00:14:48.04
+Mogla si da pogineš danas.
+
+00:14:48.09,00:14:50.55
+Ali, tata, ja... ja[br]nisam mislila da te...
+
+00:14:50.59,00:14:53.59
+Govorim ti ovo[br]zato što te volim.
+
+00:14:53.72,00:14:56.59
+- Ne želim da te izgubim.[br]- Znam. 
+
+00:14:56.72,00:15:00.43
+Ako bi ti se nešto desilo,[br]ne znam šta bih uradio.
+
+00:15:01.60,00:15:03.52
+Jednog dana, ja neæu biti ovde,
+
+00:15:03.60,00:15:06.19
+i ti trebaš[br]da nastaviš na mom mestu.
+
+00:15:06.27,00:15:11.44
+- Ti si deo velikog kruga-[br]- "Kruga života." Znam.
+
+00:15:11.57,00:15:14.40
+Taèno.[br]I moraš biti pažljiva.
+
+00:15:14.45,00:15:17.74
+- Kao buduæa kraljica...[br]- Šta ako ja ne želim da budem kraljica?
+
+00:15:17.78,00:15:19.74
+Nije zabavno.
+
+00:15:19.78,00:15:22.29
+To je kao da si rekla[br]da ne želiš da budes lav.
+
+00:15:22.41,00:15:25.46
+To ti je u krvi, kao i ja.
+
+00:15:25.58,00:15:28.29
+- Mi smo deo jedno drugog.[br]- Hmph.
+
+00:15:29.79,00:15:32.09
+Uf!
+
+00:15:43.31,00:15:46.14
+" Kako budeš išla kroz život[br]videæeš "
+
+00:15:46.27,00:15:49.15
+" da ima toliko toga[br]što mi "
+
+00:15:50.31,00:15:52.44
+" Ne razumemo."
+
+00:15:54.78,00:15:58.07
+"Jedina stvar koju znamo"
+
+00:15:58.16,00:16:02.24
+" je da stvari ne idu uvek"
+
+00:16:02.33,00:16:05.62
+" onako kako smo to želeli."
+
+00:16:05.66,00:16:08.50
+" Ali videæeš svakoga dana "
+
+00:16:08.62,00:16:11.92
+" Da mi nikada ne odustajemo "
+
+00:16:12.00,00:16:16.34
+" I kada ti se bude èinilo da se svi tvoji snovi[br]ruše"
+
+00:16:16.47,00:16:20.47
+-"-" Mi æemo biti uz tebe"
+
+00:16:20.51,00:16:24.64
+-" Ispunjeni nadom[br]i ponosom"
+
+00:16:24.68,00:16:27.94
+" Mi smo više od nas samih "
+
+00:16:28.02,00:16:31.98
+- " Mi smo jedno "[br]-" Jedno"
+
+00:16:32.02,00:16:37.49
+-"-" Mi smo jedno"
+
+00:16:37.53,00:16:44.12
+-"-" Mi smo jedno"
+
+00:16:44.20,00:16:47.54
+" Kada bi mogao da budem[br]mnogo šta "
+
+00:16:47.66,00:16:51.21
+" Ostao bi i dalje ja "
+
+00:16:51.33,00:16:56.05
+- " Ono što jesam "
+
+00:16:56.17,00:16:59.55
+" Mogu li da verujem svom srcu "
+
+00:16:59.68,00:17:03.72
+" Ili sam ja samo deo "
+
+00:17:03.85,00:17:07.48
+-" Nekog velikog plana."
+
+00:17:07.56,00:17:10.06
+" I oni koji su pali "
+
+00:17:10.19,00:17:13.52
+" Su sa nama, kako nastavljamo dalje. "
+
+00:17:13.56,00:17:19.03
+- " Tvoje putovanje tek je poèelo "
+
+00:17:19.07,00:17:22.07
+" Suze bola[br]i suze radosti, "
+
+00:17:22.16,00:17:25.33
+" Jenu stvar koju niko ne može da nam oduzme "
+
+00:17:25.41,00:17:29.71
+-"- " Je ponos u nama. "
+
+00:17:29.75,00:17:31.33
+- " Mi smo jedno. "[br]-" Jedno."
+
+00:17:31.33,00:17:32.75
+- " Mi smo jedno. "[br]-" Jedno."
+
+00:17:36.34,00:17:39.47
+" Mi smo jedno."
+
+00:17:42.55,00:17:47.43
+- " Mi smo jedno."[br]- " Mi smo jedno, ti i ja. "
+
+00:17:47.52,00:17:51.02
+" Mi smo kao nebo i zmelja,"
+
+00:17:51.10,00:17:56.57
+-" Jedna porodica pod suncem,"
+
+00:17:56.69,00:18:00.36
+" Svu mudrost da te vodi, "
+
+00:18:00.44,00:18:04.03
+-"Svu hrabrost koja ti treba,"
+
+00:18:04.12,00:18:07.83
+" Pronaæi æeš[br]Kada budeš video, "
+
+00:18:07.91,00:18:11.37
+- " Da smo mi jedno. "[br]-" Jedno, jedno, jedno"
+
+00:18:19.09,00:18:21.51
+Dokle god živiš ovde,
+
+00:18:21.59,00:18:25.05
+- to æeš biti.
+
+00:18:26.55,00:18:29.47
+Razumeæeš jednog dana.
+
+00:19:21.78,00:19:25.24
+Kovu, Kovu, Kovu.[br]Skar nije ni bio njegov otac.
+
+00:19:25.32,00:19:27.24
+- On ga je samo primio u èopor.
+
+00:19:27.32,00:19:32.29
+Oh, hej, Vitani, gde je[br]mali termit Kovu-
+
+00:19:32.37,00:19:34.29
+"izabrani" ?
+
+00:19:38.29,00:19:40.25
+Nuka, gde je Kovu?
+
+00:19:40.34,00:19:43.17
+Jesi li ga opet pustio[br]samog napolje?
+
+00:19:43.26,00:19:46.09
+Hej! Ovde je svaki[br]lav sam za sebe.
+
+00:19:46.18,00:19:48.59
+- Taj mali termit[br]mora nauèiti da se sam snalazi.
+
+00:19:48.68,00:19:51.93
+Mama æe biti ljuta.[br]Rekla ti je da paziš na njega.
+
+00:19:52.01,00:19:54.73
+Oh, koga je briga?[br]Ja sam trebao biti Izabrani.
+
+00:19:54.81,00:19:57.44
+Ja sam najstariji.[br]Ja sam najjaèi. Ja sam najpametniji...
+
+00:19:57.52,00:20:02.69
+Uh, ovi termiti!
+
+00:20:02.73,00:20:07.15
+Mogao sam biti voða,[br]da mi je samo dala šansu.
+
+00:20:07.24,00:20:10.74
+Da, da.[br]Što joj ne kažeš to?
+
+00:20:10.83,00:20:13.24
+Šta? Misliš da neæu.
+
+00:20:13.33,00:20:16.00
+O, stvarno? Evo ti šanse.
+
+00:20:16.08,00:20:19.17
+- Šta? Oh! Majko. Majko! Zdravo!
+
+00:20:19.25,00:20:22.29
+Majko, uhvatio sam ti[br]neke poljske miševe za veèeru.
+
+00:20:22.38,00:20:25.42
+Ostavio sam ih pored, ovaj...[br]pored - U redu.
+
+00:20:26.92,00:20:28.84
+Hej, Kovu,
+
+00:20:28.93,00:20:32.51
+hoæeš da se bijemo?
+
+00:20:32.60,00:20:35.93
+- Trebalo je da ga èuvaš.
+
+00:20:36.02,00:20:39.44
+Ja... Nije on kriv.[br]Sam sam otišao.
+
+00:20:39.52,00:20:41.61
+- Šta si radio?[br]- Ništa.
+
+00:20:41.69,00:20:44.23
+- Ko nas je proterao?[br]- Simba.
+
+00:20:44.32,00:20:47.11
+- Ko je ubio Skara?[br]- Simba!
+
+00:20:47.19,00:20:51.70
+Šta sam ti rekla[br]o njima?
+
+00:20:51.78,00:20:55.91
+Žao mi je, Majko. Oh, ja...[br]Nije mi se èinila tako lošom.
+
+00:20:56.00,00:20:58.12
+Oh, ja..ja..ja...[br]Mislio sam da bi mogli biti...
+
+00:20:58.21,00:21:03.46
+Prijatelji? Mislio si[br]da æeš doæi do æerke,
+
+00:21:03.54,00:21:06.42
+i da bi te Simba doèekao[br]raširenih ruku?
+
+00:21:06.51,00:21:10.13
+Koja ideja.
+
+00:21:10.22,00:21:13.97
+Koja ideja!
+
+00:21:14.05,00:21:19.81
+- Brilijantno dete.[br]Tako se ponosim tobom.
+
+00:21:19.89,00:21:23.15
+- Imaš tako povlaðivaèku pamet...
+
+00:21:23.23,00:21:26.57
+koja je uèinila Skara tako... moænim.
+
+00:21:26.65,00:21:29.65
+- Uh. Bljak.
+
+00:21:39.71,00:21:42.17
+Pih. "Izabrani."
+
+00:21:51.01,00:21:53.30
+Sada vidim stazu...
+
+00:21:53.39,00:21:57.22
+našeg slavnog povratka...
+
+00:21:57.31,00:21:59.43
+moæi!
+
+00:21:59.52,00:22:01.81
+- Ali ja ne želim...[br]- Tišina!
+
+00:22:01.89,00:22:05.02
+Æuti, mali moj.
+
+00:22:05.11,00:22:09.82
+Mora da si iscrpljen.
+
+00:22:09.90,00:22:13.41
+" Spavaj, mali moj Kovu "
+
+00:22:13.49,00:22:17.03
+" Neka polete tvoji snovi"
+
+00:22:17.12,00:22:21.12
+" Jednog dana kada budeš[br]veliki i jak "
+
+00:22:21.21,00:22:25.63
+" Biæeš kralj! "
+
+00:22:25.71,00:22:28.84
+- Laku noæ.[br]- Laku noæ, moj mali prinèe.
+
+00:22:28.92,00:22:32.51
+Sutra pojaèavamo[br]tvoj trening.
+
+00:22:33.80,00:22:36.22
+" Bila sam izgnana, prognana, "
+
+00:22:36.30,00:22:38.22
+" Ostavljena sama bez zaštite. "
+
+00:22:38.31,00:22:41.14
+" Kada pomislim šta je ta[br]zver uèinila "
+
+00:22:41.23,00:22:43.56
+" Malo se iznerviram. "
+
+00:22:43.64,00:22:46.11
+" Ali sanjam san,[br]tako lep, "
+
+00:22:46.19,00:22:48.73
+" Da se ne oseæam[br]mnogo depresivno, "
+
+00:22:48.82,00:22:51.53
+" Jer mi smiruje[br]unutrašnje stanje, "
+
+00:22:51.61,00:22:53.90
+" I pomaže mi[br]da se malo odmorim. "
+
+00:22:53.99,00:22:56.49
+" Zvuk Simbinog[br]umiruæeg dahtanja,"
+
+00:22:58.58,00:23:01.33
+" Vriska njegove æerke[br]u mojim šapama, "
+
+00:23:01.41,00:23:05.42
+" Njegovog lavovskog[br]žalosnog plaža. "
+
+00:23:05.50,00:23:09.25
+" To je moja uspavanka. "
+
+00:23:09.34,00:23:11.42
+" Ipak, prošlost[br]pokušah zaboraviti, "
+
+00:23:11.51,00:23:14.01
+" I mojim neprijateljima[br]mogu oprostiti, "
+
+00:23:14.09,00:23:16.59
+" Problem je[br]znam da je žalosno "
+
+00:23:16.68,00:23:19.51
+" Ali ne mogu ih[br]ostaviti u životu. "
+
+00:23:19.60,00:23:21.52
+"I tako pronadješ[br]sebi nakoga"
+
+00:23:21.60,00:23:23.93
+" Ko æe doterati Simbu[br]do škripca. "
+
+00:23:24.02,00:23:26.60
+" Oh, bitka[br]može biti krvava, "
+
+00:23:26.69,00:23:29.40
+- " Ali meni to odgovara, "
+
+00:23:29.48,00:23:33.36
+- " Melodija ljutitog režanja "
+
+00:23:33.44,00:23:37.20
+- " Kontrapukt bolnih jauka "
+
+00:23:37.28,00:23:40.45
+" Simfonija smrti[br]O, da, "
+
+00:23:40.53,00:23:43.37
+" To je moja uspavanka. "
+
+00:23:44.91,00:23:49.13
+" Skara više nema[br]Ali Zira je i dalje tu "
+
+00:23:49.21,00:23:52.88
+" Da voli ovog mladiæa, "
+
+00:23:52.96,00:23:56.13
+" Dok ne nauèi[br]da bude ubica, "
+
+00:23:56.22,00:24:00.85
+" Sa žudnjom da[br]postane loš. "
+
+00:24:03.72,00:24:08.77
+" Spavaj, ti mali termitu[br]ovaj, mislim, dragocena mala stvari. "
+
+00:24:08.85,00:24:11.48
+" Jednog dana kada budeš[br]veliki i jak, "
+
+00:24:11.57,00:24:14.07
+" Biæeš kralj!"
+
+00:24:17.07,00:24:20.45
+" Udari[br]ratnih bubnjeva, "
+
+00:24:20.53,00:24:23.08
+" Uzbudjenje od[br]Kovuove moæne rike, "
+
+00:24:23.16,00:24:26.16
+- " Radost osvete. "[br]- Nagoveštenje!
+
+00:24:26.25,00:24:28.25
+" Veæ èujem usklike, "
+
+00:24:28.33,00:24:30.00
+- " Kovu... kakav momak. "[br]- " Kovu... kakav momak. "
+
+00:24:30.08,00:24:31.84
+" Vreme naplate duga je blizu, "
+
+00:24:31.92,00:24:34.84
+" I tada æe se naša zastava vioriti, "
+
+00:24:34.92,00:24:39.34
+" Protiv krvavo crvanog neba. "
+
+00:24:39.43,00:24:45.35
+" To je moja uspavanka! "
+
+00:25:00.28,00:25:05.12
+Oh, Mufasa. Kiara svakim danom[br]sve više odrasta,
+
+00:25:05.24,00:25:10.54
+u kraljicu koja æe nas jednog dana[br]uèiniti ponosnim.
+
+00:25:10.62,00:25:14.21
+Ali ono mladunèe, Kovu,[br]raste sve jaèe,
+
+00:25:14.30,00:25:17.05
+i Zira puni[br]njegovo srce mržnjom.
+
+00:25:17.13,00:25:19.72
+Veoma sam zabrinut, Mufasa.
+
+00:25:19.80,00:25:23.72
+Stvari ne idu baš[br]tako dobro, ne.
+
+00:25:25.22,00:25:28.27
+Hmm? Imaš plan?
+
+00:25:29.98,00:25:32.40
+Šta?
+
+00:25:35.98,00:25:40.45
+Kovu? Kiara?
+
+00:25:40.57,00:25:42.49
+Zajedno?
+
+00:25:42.57,00:25:45.08
+To je plan?
+
+00:25:45.16,00:25:48.00
+Jesi li lud?[br]Ovo nikad neæe uspeti.
+
+00:25:48.12,00:25:51.29
+Oh, Mufasa, suviše dugo si tu gore.[br]Glava ti je u oblacima.
+
+00:25:51.42,00:25:56.92
+- OK, OK, OK.[br]OK, u redu, OK!
+
+00:25:57.00,00:26:00.13
+Mislim da ovo neæe[br]uspeti, ali ti verujem.
+
+00:26:00.26,00:26:03.09
+Samo se nadam da znaš[br]šta radiš!
+
+00:26:12.19,00:26:15.65
+Spreman si!
+
+00:26:15.77,00:26:18.86
+Mm, Fino.
+
+00:26:18.98,00:26:22.11
+Veoma... fino.
+
+00:26:24.20,00:26:28.49
+- Imaš isto crnilo[br]u duši koje je Skar imao.
+
+00:26:28.62,00:26:30.62
+Koja je tvoja sudbina?
+
+00:26:30.70,00:26:33.17
+Osvetiæu Skara.
+
+00:26:33.21,00:26:37.80
+- Uzeæu njegovo mesto u ponosnoj zemlji.[br]- Da! Šta sam te nauèila?
+
+00:26:37.88,00:26:40.01
+Simba je neprijatelj.
+
+00:26:40.13,00:26:43.63
+I šta moraš uraditi?
+
+00:26:43.72,00:26:46.35
+Moram ga ubiti.
+
+00:27:00.94,00:27:05.70
+- Ovo je Kiarin prvi lov.
+
+00:27:05.82,00:27:09.70
+- Evo je![br]- Kiara.
+
+00:27:12.12,00:27:14.54
+- Aha![br]- Možeš ti to.
+
+00:27:14.62,00:27:16.54
+Tvoj je dan
+
+00:27:18.63,00:27:21.38
+Bože, kako si porasla.
+
+00:27:25.05,00:27:28.51
+Hmm. Dobro æeš proæi.
+
+00:27:28.64,00:27:31.97
+Tata? Moraš mi obeæati da[br]æeš me pustiti samu ovaj put.
+
+00:27:32.06,00:27:33.98
+Obeæavaš?
+
+00:27:36.73,00:27:39.90
+U redu. Obeæavam.
+
+00:28:07.30,00:28:09.85
+Postaraj se da se ne povredi.
+
+00:28:09.93,00:28:13.06
+- Ah! Mm.
+
+00:28:33.45,00:28:38.04
+Uh. Ovo mesto je jezivije[br]od kad su hijene pobegle.
+
+00:28:38.12,00:28:40.04
+Oh, Bože.
+
+00:28:40.13,00:28:43.30
+- Ne plašim se, OK?
+
+00:28:46.05,00:28:49.72
+Samo ne znam zašto[br]moramo biti ovde, to je sve.
+
+00:28:49.80,00:28:52.60
+Ako je Kovu tako poseban,[br]što mu mi trebamo?
+
+00:28:52.68,00:28:55.31
+- Nikad nisam dobio šansu!
+
+00:29:01.15,00:29:04.15
+To je to![br]Pa, hajde.
+
+00:29:04.28,00:29:06.90
+Kiara je zapoèela svoj lov.[br]Moramo biti brzi.
+
+00:29:09.74,00:29:12.70
+Ah, vatra!
+
+00:29:19.87,00:29:21.79
+Ah!
+
+00:29:24.21,00:29:26.34
+Op! Op!
+
+00:29:43.48,00:29:45.86
+Tango Charlie Alpha.[br]Koja je tvoja pozicija?
+
+00:29:45.90,00:29:51.41
+Uh... uspravan? Glava malo[br]na levo, rep uzdignut.
+
+00:29:51.53,00:29:54.20
+Što se ja trudim?
+
+00:29:55.87,00:29:58.00
+Aha!
+
+00:29:59.71,00:30:03.54
+- Uh.
+
+00:30:20.35,00:30:23.69
+Ovde se sigurno[br]igraju jeleni i antilope.
+
+00:30:26.57,00:30:30.03
+- Timon, šta radiš ovde?
+
+00:30:30.11,00:30:33.36
+Ah, kupujem![br]Mislili smo, neko krzno za jazbinu,
+
+00:30:33.45,00:30:35.41
+malo jastuka,[br]malo mekših...
+
+00:30:35.53,00:30:39.75
+Moj otac vas je poslao. Obeæao je[br]da æe me pustiti samu i slagao je.
+
+00:30:39.79,00:30:42.62
+Ne. On samo ne želi[br]da se povrediš.
+
+00:30:42.75,00:30:46.29
+Trebalo je da znam[br]da mi neæe dati pravu šansu.
+
+00:30:46.42,00:30:50.30
+Uradiæu ovo sama![br]Daleko od ponosne zemlje.
+
+00:30:50.42,00:30:52.88
+Hej! Èekaj![br]Vrati se! Ah!
+
+00:30:52.97,00:30:56.22
+- Pogledaj iza sebe![br]- Kiara! Vrati se!
+
+00:30:56.30,00:30:58.89
+Ups! Opet je otišla.
+
+00:30:58.97,00:31:02.52
+Neko bi trebalo da[br]nabavi pejdžer ovom detetu.
+
+00:31:12.45,00:31:15.16
+Hajde da upalimo vatru!
+
+00:31:20.91,00:31:25.42
+" Peèena princeza[br]peèena princeza "
+
+00:31:25.50,00:31:28.75
+Hej, je l' ovde toplo,[br]ili samo to samo ja?
+
+00:31:28.84,00:31:31.80
+Vatra!
+
+00:31:31.92,00:31:35.09
+- Hajde.
+
+00:31:43.93,00:31:46.94
+Šta...
+
+00:32:03.20,00:32:06.87
+Plan se razvija. Idi!
+
+00:32:12.63,00:32:16.18
+Ne brini, Simba.[br]Biæe u redu!
+
+00:32:16.30,00:32:18.34
+Šta bi moglo da se desi?
+
+00:32:18.39,00:32:21.68
+Ne! Ne! Kiara!
+
+00:32:21.81,00:32:25.73
+- Zazu! Leti napred! Naði je!
+
+00:32:30.31,00:32:33.65
+Oh!
+
+00:32:44.83,00:32:47.16
+Ne!
+
+00:34:00.36,00:34:03.07
+Moram reæi Simbi!
+
+00:34:13.04,00:34:17.88
+- Gde sam ja?[br]- Na sigurnom. U ponosnoj zemlji.
+
+00:34:17.92,00:34:21.05
+Ponosnoj zemlji? Ne!
+
+00:34:21.09,00:34:23.59
+Što si me doveo ovde?[br]Šta misliš da si ti?
+
+00:34:23.72,00:34:27.06
+Mislim da sam onaj[br]koji ti je upravo spasao život.
+
+00:34:27.10,00:34:29.56
+Vidi, imala sam[br]sve pod kontrolom.
+
+00:34:29.60,00:34:32.65
+- Ne, koliko sam mogao da vidim.[br]- Onda se pomeri niz vetar.
+
+00:34:42.99,00:34:45.07
+Šta radiš?
+
+00:34:46.16,00:34:48.62
+Kovu?
+
+00:34:48.66,00:34:51.96
+Kiara!
+
+00:34:52.00,00:34:54.17
+Kiara, dobro si.
+
+00:34:54.29,00:34:56.17
+Oèe, kako si mogao[br]da prekršiš obeæanje?
+
+00:34:56.29,00:34:58.63
+Dobro je što jesam.[br]Umalo da te izgubim.
+
+00:34:58.67,00:35:00.63
+Nema više lova za tebe.[br]Nikad više.
+
+00:35:00.67,00:35:03.47
+Super mi je išlo![br]Èak i pre nego što je Kovu...
+
+00:35:03.51,00:35:06.76
+- Kovu?
+
+00:35:06.80,00:35:09.10
+- Simba!
+
+00:35:09.14,00:35:11.18
+Hej! Ti!
+
+00:35:11.31,00:35:14.85
+Kako se usuðuješ da spasiš[br]kraljevu æerku?
+
+00:35:14.98,00:35:17.69
+Spasao si je? Zašto?
+
+00:35:17.82,00:35:21.19
+- Ponizno molim da me primite[br]u svoj èopor. - Ne!
+
+00:35:21.32,00:35:23.65
+Bio si proteran[br]sa ostalima iz tuðe zemlje.
+
+00:35:23.70,00:35:26.78
+Ostavio sam ih.[br]Sad sam skitnica.
+
+00:35:26.87,00:35:30.54
+Sada me sudi po onome što sam.
+
+00:35:30.66,00:35:35.12
+Ili me treba kriviti[br]za zloèin koji nisam poèinio?
+
+00:35:38.17,00:35:41.05
+Simba, duguješ mu[br]život svoje kæeri.
+
+00:35:42.67,00:35:45.47
+Hmm, da, gospodaru.[br]Jasno je da smo mu dužni.
+
+00:35:45.51,00:35:48.97
+I kraljevski zapisnici zahtevaju[br]da se dugovi razduže.
+
+00:35:49.01,00:35:51.85
+Mada u ovom sluèaju,[br]možda želite da napravite izuzetak.
+
+00:35:51.89,00:35:54.19
+Hmm.
+
+00:35:56.98,00:35:59.98
+Preovladaæe zakon moga oca.
+
+00:36:00.02,00:36:02.86
+Za sada, uzdržavam se suda.
+
+00:36:02.90,00:36:04.99
+Videæemo ko si zapravo.
+
+00:36:05.07,00:36:07.16
+Hmm.
+
+00:36:08.41,00:36:10.70
+Pih! Ðubre.
+
+00:36:58.75,00:37:02.80
+Hej, ovaj, hvala ti[br]žto si me spasao danas.
+
+00:37:02.92,00:37:06.38
+Kakav si ti to[br]lovac uopšte... Princezo?
+
+00:37:06.42,00:37:08.63
+Zamalo nisi poginula tamo.
+
+00:37:08.76,00:37:12.60
+- Šta?[br]- Ne bi potrajala[br]tri dana sama.
+
+00:37:12.64,00:37:15.98
+Oh, predpostavljam da bi[br]me ti mogao nauèiti?
+
+00:37:16.10,00:37:18.14
+Oh. Da.
+
+00:37:18.27,00:37:21.11
+- Kiara![br]- Idem.
+
+00:37:22.77,00:37:25.90
+U redu! Impresioniraj me.
+
+00:37:25.94,00:37:28.40
+Poèeæemo u zoru.
+
+00:37:30.11,00:37:34.16
+Jedva èekam.
+
+00:37:36.95,00:37:41.08
+Jesi li video to?
+
+00:37:41.13,00:37:44.34
+- Pustio ju je! da sam to bio ja, ja...[br]- Tišina.
+
+00:37:44.46,00:37:46.34
+Spasavanje od vatre[br]je savršeno funkcionisalo,
+
+00:37:46.46,00:37:48.34
+i Simba je naseo.
+
+00:37:48.47,00:37:51.64
+Sad, što bliže Kovu[br]doðe do æerke,
+
+00:37:51.76,00:37:54.85
+bliže æe doæi[br]do Simbe!
+
+00:37:56.64,00:38:00.10
+I kad jednom bude imao Simbu samog...
+
+00:38:10.53,00:38:14.03
+Simba! Simba!
+
+00:38:14.16,00:38:17.87
+- Pomozi mi![br]- Oèe!
+
+00:38:22.37,00:38:25.38
+Ne! Tata!
+
+00:38:25.50,00:38:28.13
+Još samo malo.
+
+00:38:30.22,00:38:32.18
+- Imam te!
+
+00:38:32.22,00:38:37.06
+- Veruj mi.[br]- Simba!
+
+00:38:37.18,00:38:39.64
+Ne!
+
+00:38:39.73,00:38:43.56
+- Skar.
+
+00:38:45.56,00:38:47.53
+- Kovu?[br]- Ha!
+
+00:38:47.57,00:38:52.15
+Ne!
+
+00:39:37.28,00:39:39.45
+Dobro jutro.
+
+00:39:39.58,00:39:43.62
+Spremna sam za prvu lekciju.[br]Iznenadila sam te, a?
+
+00:39:45.08,00:39:48.46
+Hej, hajde. Idemo.
+
+00:39:58.22,00:40:02.22
+- A.
+
+00:40:05.64,00:40:07.61
+A! Ah.
+
+00:40:10.44,00:40:13.28
+Tri, dva, jedan.
+
+00:40:13.32,00:40:16.28
+Imam te!
+
+00:40:16.32,00:40:18.91
+Èuo si me, a?
+
+00:40:18.99,00:40:20.95
+Samo puno.
+
+00:40:22.62,00:40:24.50
+Još uvek dišeš teško.
+
+00:40:24.62,00:40:28.00
+Opusti se. Oseti zemlju[br]pod šapama,
+
+00:40:28.13,00:40:30.59
+da se ne bi pomerala[br]i pravila buku.
+
+00:40:34.47,00:40:39.09
+Pst! Gledaj uèitelja i uèi.
+
+00:40:46.19,00:40:48.15
+Nemoj me pojesti, molim te.
+
+00:40:48.19,00:40:51.52
+Ja... ja... ja nisam ni upoznao tvog tiranina...[br]Mislim, ovaj, Skara. Skara.
+
+00:40:51.65,00:40:53.53
+Oh, strašan tip.[br]Malo zlovoljan, ali...
+
+00:40:53.65,00:40:56.86
+Timon, šta radiš ovde?
+
+00:40:56.99,00:40:59.32
+Kiara! Hvala nebesima!
+
+00:40:59.37,00:41:02.28
+Oh! Hej, prvi put,[br]te ne pratimo.
+
+00:41:02.33,00:41:05.70
+Ovo je samo[br]najbolje mesto za jelo u ponosnoj zemlji.
+
+00:41:05.83,00:41:08.37
+Svuda su bube!
+
+00:41:08.50,00:41:11.38
+Ali, ne zoveš[br]za rezervacije, i... iš!
+
+00:41:11.50,00:41:14.34
+Bežite odavde, vi èistaèi.[br]Hajde! Èibe!
+
+00:41:14.38,00:41:16.55
+- Èibe! Ah!
+
+00:41:16.67,00:41:20.14
+U-ha-ha. Uh!
+
+00:41:26.23,00:41:31.02
+- Uh, Timon! Poèinjem da se umaram.
+
+00:41:31.06,00:41:33.69
+Moram da smršam malo.
+
+00:41:33.82,00:41:35.90
+Iš! Hajde![br]Iš! Iš!
+
+00:41:36.03,00:41:38.65
+- Hej, možda bi on mogao da pomogne.
+
+00:41:38.70,00:41:40.66
+- Misliš?[br]- Iš!
+
+00:41:40.70,00:41:44.24
+Oh, da, to je ideja.[br]Da. Pusti pokvarenog tuðinca...
+
+00:41:44.37,00:41:47.25
+Hej! Èekaj![br]Imam ideju.
+
+00:41:48.54,00:41:50.88
+- Šta ako nam on pomogne?[br]- Šta?
+
+00:41:50.92,00:41:54.17
+Hoæeš da nam pozajmiš[br]glas? A?
+
+00:41:54.21,00:41:57.55
+Grr. Gr...[br]Rièi! Radi sa mnom!
+
+00:41:57.59,00:42:00.68
+- Uh, a?[br]- Ovako. 
+
+00:42:02.97,00:42:05.97
+Jupi! Hajde.[br]Uradi to ponovo. Uradi ponovo.
+
+00:42:06.02,00:42:09.48
+- Ðiha! 
+
+00:42:09.52,00:42:12.90
+Zašto radimo ovo?[br]Koji je cilj ovog treninga?
+
+00:42:12.98,00:42:15.65
+Trening? Ovo je samo zabave radi!
+
+00:42:18.15,00:42:20.11
+- Zabava?
+
+00:42:20.20,00:42:22.49
+Isuse, dete.[br]Moraš èešæe izlaziti.
+
+00:42:22.57,00:42:24.91
+Zabava!
+
+00:42:27.54,00:42:30.00
+Jupi! 
+
+00:42:46.43,00:42:49.06
+- O-o.
+
+00:42:49.18,00:42:51.89
+- Opa!
+
+00:42:58.36,00:43:00.24
+- Aah![br]- Aaah!
+
+00:43:00.36,00:43:02.24
+Hej, nosonjo!
+
+00:43:09.70,00:43:13.08
+- Koja eksplozija![br]- Uh. Izvini.
+
+00:43:13.21,00:43:15.63
+- Aha! Dobar si ti, deèko.
+
+00:43:15.71,00:43:17.71
+- Hej![br]- Dobar si ti.
+
+00:43:17.75,00:43:20.84
+- Deèko.[br]- Izvini. Pardon. Pardon.
+
+00:43:20.92,00:43:24.01
+- Tako. Tako. Tako. Uuh...
+
+00:43:24.09,00:43:27.89
+- Khm.  
+
+00:43:27.97,00:43:33.39
+- Ovaj- I...Izvini. Uh...
+
+00:43:33.44,00:43:36.77
+- Hej, je l' dolazite[br]vas dvoje ili ne?
+
+00:43:42.07,00:43:44.82
+Jesi li videla?[br]Jesi li videla to? Gledaj.
+
+00:43:44.91,00:43:48.53
+- Uh, èoveèe. Vidi ti to.[br]Baš je lepo.[br]- Šta? Oh, da.
+
+00:43:48.62,00:43:51.95
+U pravu si.[br]Oh, pogledaj!
+
+00:43:52.08,00:43:55.62
+Evo jedne koja lièi na[br]malog zeca. Vidiš li paperjast per?
+
+00:43:55.75,00:43:58.25
+Da. Hej!
+
+00:43:58.34,00:44:01.76
+Evo jedne koja lièi na dva lava koja[br]se ubijaju za parèe mesa.
+
+00:44:01.80,00:44:04.59
+Hej, nikad ovo nisam radio pre.
+
+00:44:04.63,00:44:10.01
+Stvarno? Moj otac i ja[br]smo stalno ovo radili.
+
+00:44:10.10,00:44:15.06
+Kaže da su svi najveæi lavovi[br]prošlosti tamo gore. 
+
+00:44:15.14,00:44:17.31
+Misliš li da je i Skar tamo gore?
+
+00:44:24.82,00:44:28.62
+On nije bio moj otac,[br]ali je ipak bio... deo mene.
+
+00:44:30.99,00:44:33.83
+Moj otac kaže[br]da je bilo...
+
+00:44:33.95,00:44:38.38
+tame u Skaru[br]kojoj nije mogao da pobegne.
+
+00:44:38.46,00:44:43.42
+Možda i u meni[br]ima tame.
+
+00:44:52.52,00:44:57.73
+Oèe, izgubljen sam.[br]Kovu je jedan od njih.
+
+00:44:57.81,00:45:00.15
+Skarov naslednik.
+
+00:45:00.19,00:45:02.86
+- Kako da ga prihvatim?[br]- Simba?
+
+00:45:06.32,00:45:09.37
+Tražio sam savet[br]od velikih kraljeva.
+
+00:45:09.49,00:45:11.87
+- Jesu li pomogli?
+
+00:45:11.99,00:45:14.87
+Tihi kao zvezde. Moj otac nikad ne bi...
+
+00:45:15.00,00:45:16.87
+Oh, moj Simba.
+
+00:45:17.00,00:45:20.33
+Toliko želiš da ideš putem[br]koji se oèekuje od tebe.
+
+00:45:20.38,00:45:24.17
+- Možda Kovu ne želi.[br]- Šta? Kako znaš...
+
+00:45:24.21,00:45:29.34
+Vidim ih dole[br]lako kao i ti.
+
+00:45:29.43,00:45:31.68
+Upoznaj ga i vidi.
+
+00:45:43.86,00:45:46.40
+- Šta nije u redu?
+
+00:45:46.53,00:45:49.03
+Ništa.
+
+00:45:49.11,00:45:52.95
+- Kovu...[br]- Ceo život sam treniran da...
+
+00:45:53.03,00:45:54.95
+Ništa.
+
+00:45:55.04,00:45:57.91
+- Moram iæi.[br]- Kovu, èekaj.
+
+00:46:04.42,00:46:06.51
+A gde ti ideš?
+
+00:46:06.59,00:46:09.13
+N...nigde.
+
+00:46:09.22,00:46:11.84
+Ha! To ti misliš!
+
+00:46:13.30,00:46:16.72
+- Ko je to?[br]- Uh, porodièni prijatelj.
+
+00:46:16.77,00:46:19.48
+Mm. Mm-hmm.[br]Mm-hmm. Mm-hmm. Hajde!
+
+00:46:19.56,00:46:24.15
+Prati starog Rafikia.[br]On zna put. 
+
+00:46:24.23,00:46:28.61
+- Put gde?[br]- Prati! Videæeš!
+
+00:46:29.74,00:46:32.57
+Požuri!
+
+00:46:32.62,00:46:35.79
+Kovu, hajde!
+
+00:46:38.25,00:46:41.29
+Gde nas vodi?
+
+00:46:41.42,00:46:46.80
+Mesto u tvom srcu[br]koje se zove Upendi.
+
+00:46:57.81,00:46:59.77
+" Ima jedno mesto[br]gde ludi mesec "
+
+00:46:59.81,00:47:02.52
+" Tera majmune da pevaju[br]a babune da se udvaraju,"
+
+00:47:02.60,00:47:05.02
+" I sparan miris[br]lotosovog cveta, "
+
+00:47:05.11,00:47:07.86
+-" Odneæe vas dalje,"
+
+00:47:07.94,00:47:10.32
+" Dok se hipici ljuljaju[br]od vina džungle, "
+
+00:47:10.44,00:47:13.28
+" I rimba nosorozi[br]u ritmu konge, "
+
+00:47:13.32,00:47:15.78
+" Svi ružièasti flamingosi[br]su prepleteni,"
+
+00:47:15.87,00:47:18.12
+"I zvezde dolaze da igraju[br]Uhh."
+
+00:47:18.20,00:47:23.33
+" U Upendiju gde[br]voæe strasti raste slatko."
+
+00:47:23.46,00:47:26.63
+" Toliko je božanstveno[br]da gubiš razum, "
+
+00:47:26.71,00:47:30.13
+" I da obara te[br]s nogu "
+
+00:47:30.17,00:47:34.47
+" U Upendiju[br]bez zabrinutosti ili brige, "
+
+00:47:34.51,00:47:37.30
+" Potrebno je samo dvoje[br]da bi postalo istina. "
+
+00:47:37.35,00:47:39.85
+- " Tvoje srce æe te voditi tamo, "
+
+00:47:39.97,00:47:42.35
+- Gde je to?[br]-" U Upendiju"
+
+00:47:42.48,00:47:44.52
+- Mesto koje ne moraš da nosiš sa sobom.[br]-" U Upendiju."
+
+00:47:46.65,00:47:49.02
+" Bolje pazi kako ideš[br]jer staza je strma, "
+
+00:47:49.15,00:47:51.65
+" Bolje zadrži dah[br]jer duboka je voda."
+
+00:47:51.74,00:47:54.66
+" Dugaèak je put do dole[br]preko Ljubavnog Skoka, "
+
+00:47:54.74,00:47:56.70
+" Ali padanje je polovina zabave, "
+
+00:47:56.82,00:47:59.79
+- " U Upendiju."
+
+00:47:59.87,00:48:02.66
+" Gde voæe strasti[br]raste slatko,"
+
+00:48:02.71,00:48:05.50
+"Toliko je božanstveno[br]da gubiš razum,"
+
+00:48:05.54,00:48:07.54
+"I da obara te[br]s nogu."
+
+00:48:07.67,00:48:13.38
+" U Upendiju[br]bez zabrinutosti ili brige, "
+
+00:48:13.51,00:48:15.93
+" Potrebno je samo dvoje[br]da bi postalo istina."
+
+00:48:16.01,00:48:18.35
+" Tvoje srce æe te[br]voditi tamo."
+
+00:48:20.06,00:48:22.60
+" Možete udariti brigu na veselje[br]kao da sutra ne postoji, "
+
+00:48:22.68,00:48:25.69
+" Od Tanjganjike[br]do Kilimandžara,"
+
+00:48:25.73,00:48:27.86
+" aLI Upendi æe te naæi[br]gde god da ste. "
+
+00:48:27.94,00:48:31.69
+- " Oh, underneath the sun "[br]- Upendi. It means love, doesn't it?
+
+00:48:31.73,00:48:34.90
+" Welcome to Upendi "
+
+00:48:35.03,00:48:39.99
+-" ln Upendi"[br]-" Where the passion fruit grows sweet"
+
+00:48:40.08,00:48:42.87
+" Oh, it's so divine[br]that you'll lose your mind "
+
+00:48:42.91,00:48:45.58
+"As its weeps you[br]offyour feet"
+
+00:48:45.71,00:48:50.54
+" ln Upendi[br]withouta worry ora care"
+
+00:48:50.63,00:48:53.30
+" lt just takes two[br]to make it true"
+
+00:48:53.38,00:48:57.43
+-" Your heart"[br]-" Heart"
+
+00:48:57.55,00:49:01.39
+" Will take you there"
+
+00:49:01.43,00:49:04.23
+" Upendi "
+
+00:49:04.31,00:49:09.61
+-" Down in Upendi, way down in Upendi"
+
+00:49:09.73,00:49:14.28
+" Down in Upendi, way down in Upendi"[br]- " In Upendi, in Upendi "
+
+00:49:14.40,00:49:18.78
+-" Down in Upendi, way down in Upendi"[br]- " In Upendi, in Upendi "
+
+00:49:20.91,00:49:23.41
+-" ln Upendi"
+
+00:49:23.49,00:49:27.58
+" In Upendi, in Upendi "
+
+00:49:31.59,00:49:34.42
+- Laku noæ.[br]- Laku noæ.
+
+00:50:05.33,00:50:08.79
+Malo je hladno veèeras, a?[br]Hajde unutra.
+
+00:50:15.00,00:50:17.92
+Uhvati ga!
+
+00:50:18.01,00:50:21.47
+Šta èekaš?[br]Kovu, uhvati ga!
+
+00:50:27.60,00:50:31.15
+- Siguran si?[br]- Potvrdno. Video sam svojim oèima.
+
+00:50:31.23,00:50:35.07
+Ne. Kovu nas ne može izdati.
+
+00:50:43.24,00:50:46.16
+Ok, moram joj[br]reæi danas.
+
+00:50:46.24,00:50:49.50
+Oh, gde da poènem?
+
+00:50:49.58,00:50:53.50
+" Kiara, Zira je smislila zaveru,[br]i ja sam deo nje,
+
+00:50:53.58,00:50:57.05
+ali ja ne želim da budem jer...
+
+00:50:57.13,00:50:59.63
+jer te volim."
+
+00:50:59.76,00:51:02.51
+Ah, nikad mi neæe poverovati.
+
+00:51:03.97,00:51:05.97
+Ali moram pokušati.
+
+00:51:06.06,00:51:09.39
+Kiara, Moram...[br]moram prièati sa tobom.
+
+00:51:09.52,00:51:11.89
+- Kiara, ne želim da[br]prièaš sa njim.
+
+00:51:13.35,00:51:15.23
+Ja želim da prièam sa njim.
+
+00:51:32.75,00:51:35.67
+Skar nije mogao[br]da se oslobodi svoje mržnje,
+
+00:51:35.75,00:51:37.71
+i na kraju ga je uništila.
+
+00:51:37.75,00:51:41.05
+Nikad nisam èuo[br]prièu o Skaru na taj naèin.
+
+00:51:41.13,00:51:43.05
+Zaista je bio ubica.
+
+00:51:44.80,00:51:47.22
+Vatra je ubica.
+
+00:51:47.35,00:51:51.23
+Ponekad ono što je ostavljeno iza,[br]može biti bolje od prethodne generacije...
+
+00:51:53.19,00:51:56.23
+ako mu se da šansa.
+
+00:52:01.86,00:52:05.87
+Oh, ne. Ne!
+
+00:52:05.99,00:52:10.24
+- Pa, Simba.[br]- Zira.
+
+00:52:10.37,00:52:14.75
+Šta tražiš ovde...[br]i to tako sam?
+
+00:52:19.00,00:52:20.92
+Vrlo dobro, Kovu.
+
+00:52:21.01,00:52:23.26
+Kao što smo i planirali.
+
+00:52:23.38,00:52:26.93
+- Ti![br]- Ne! Nisam ništa[br]imao sa ovim!
+
+00:52:27.05,00:52:29.93
+- Napad!
+
+00:52:30.06,00:52:34.94
+- Ne!
+
+00:52:44.24,00:52:47.74
+Da! Imamo ga!
+
+00:52:47.87,00:52:50.12
+- Seti se treninga!
+
+00:52:50.24,00:52:53.70
+Kao skup!
+
+00:53:06.97,00:53:09.64
+- Simba![br]- Uhvati ga, Kovu! Uhvati ga!
+
+00:53:09.76,00:53:12.06
+Odmah!
+
+00:53:12.14,00:53:15.48
+Ja æu to uraditi za tebe, mama!
+
+00:53:15.60,00:53:18.81
+Uf!
+
+00:53:18.94,00:53:20.90
+Majko, gledaš li?
+
+00:53:20.98,00:53:24.40
+Radim to za tebe,[br]i za sebe. 
+
+00:53:24.49,00:53:26.40
+- Uh!
+
+00:53:26.49,00:53:31.16
+- Ovo je moj trenutak slave!
+
+00:53:31.28,00:53:33.24
+- Šta? Ne![br]- Ne!
+
+00:53:33.33,00:53:35.25
+- Ah!
+
+00:53:38.46,00:53:41.67
+- Uh...
+
+00:54:03.19,00:54:07.28
+- Nuka![br]- Žao mi je, majko.
+
+00:54:07.36,00:54:09.28
+Pokušao sam.
+
+00:54:09.36,00:54:12.03
+- Pst!
+
+00:54:16.66,00:54:20.29
+- Nuka.
+
+00:54:26.01,00:54:27.88
+Oèe?
+
+00:54:28.01,00:54:30.13
+Oèe! Zazu, idi po pomoæ!
+
+00:54:30.22,00:54:32.55
+Oh, da! Pomoæ![br]Odmah! Naravno!
+
+00:54:34.56,00:54:37.31
+- Oše!
+
+00:54:39.14,00:54:42.65
+Simba, prièaj sa mnom![br]Šta se desilo?
+
+00:54:42.73,00:54:47.49
+Kovu... Zaseda. 
+
+00:54:47.57,00:54:51.32
+Ne.
+
+00:54:51.45,00:54:53.99
+U redu je, druže.[br]Tu smo za tebe.
+
+00:54:58.62,00:55:03.00
+Skar, pazi mog jadnog Nuka.
+
+00:55:05.46,00:55:09.01
+- Ti!
+
+00:55:15.30,00:55:18.02
+Šta si uradio?
+
+00:55:18.14,00:55:20.43
+Nisam...[br]Nisam hteo.
+
+00:55:20.52,00:55:23.44
+Nisam ja kriv. Ja...
+
+00:55:23.48,00:55:25.44
+Ništa nisam uradio.
+
+00:55:25.48,00:55:30.69
+Taèno! I ne radeæi ništa,[br]izdao si svoj ponos...
+
+00:55:30.82,00:55:33.20
+Izdao Skara!
+
+00:55:33.32,00:55:35.53
+Ne želim ništa više[br]da imam sa njim!
+
+00:55:35.66,00:55:40.08
+Ne možeš pobeæi.[br]Nuka je mrtav zbog tebe!
+
+00:55:40.16,00:55:43.46
+- Ne.[br]- Ubio si svog brata!
+
+00:55:43.50,00:55:47.09
+- Ne!
+
+00:55:47.17,00:55:51.72
+Pusti ga.[br]Simba me je poslednji put povredio.
+
+00:55:51.84,00:55:54.14
+Sad je iskvario Kovu!
+
+00:55:54.18,00:55:58.06
+Slušajte me.[br]Simba je povreðen i slab.
+
+00:55:58.18,00:56:00.72
+Sad je vreme da napadnemo!
+
+00:56:00.85,00:56:03.81
+Uzeæemo[br]celo njegovo kraljevstvo...
+
+00:56:03.85,00:56:07.48
+... na silu!
+
+00:56:16.20,00:56:19.16
+- Tata, to ne može biti istina.[br]- To je Kovu!
+
+00:56:19.20,00:56:21.75
+- Hej![br]-  To je Kovu!
+
+00:56:21.87,00:56:25.83
+- Kovu!
+
+00:56:32.38,00:56:35.68
+Oh! Pa, sad æu te...[br]Pusti me na njega! Pusti me!
+
+00:56:35.72,00:56:37.68
+- Drži. Drži me.[br]- OK.
+
+00:56:37.72,00:56:40.26
+- Pusti me! Pusti me na njega![br]- OK.
+
+00:56:40.39,00:56:44.31
+- Mislim da ne shvata poentu.[br]- Oh.
+
+00:56:44.39,00:56:46.35
+Šta to radi?
+
+00:56:46.40,00:56:48.36
+Pogledaj taj ožiljak[br]na njegovom licu.
+
+00:56:50.57,00:56:55.53
+- Zašto si se vratio?[br]- Simba, nisam ništa imao sa...
+
+00:56:55.57,00:56:59.62
+- Ti ne pripadaš ovde.[br]- Molim te. Tražim tvoj oproštaj.
+
+00:56:59.74,00:57:02.37
+Tata, molim te![br]Slušaj ga!
+
+00:57:02.41,00:57:06.46
+Tišina! Kada si došao ovde[br]prvi put, tražio si sud.
+
+00:57:06.58,00:57:11.46
+- I sad æu ga izreæi!
+
+00:57:11.59,00:57:13.63
+- Prognanstvo![br]- Ne!
+
+00:57:25.43,00:57:27.39
+- Ne!
+
+00:57:27.48,00:57:31.32
+- Kovu!
+
+00:57:36.99,00:57:39.24
+" Deception"
+
+00:57:39.28,00:57:41.83
+" Disgrace"
+
+00:57:41.95,00:57:46.25
+" Evil asplain[br]as the scaron his face"
+
+00:57:46.29,00:57:48.67
+- " Deception "[br]- " An outrage "
+
+00:57:48.79,00:57:51.09
+- " Disgrace "[br]- " For shame "
+
+00:57:51.13,00:57:55.59
+" He asked for trouble[br]the moment he came "
+
+00:57:55.63,00:57:58.18
+- " Deception "[br]- " An outrage "
+
+00:57:58.30,00:58:00.68
+-" Disgrace"[br]-" Forshame"
+
+00:58:00.80,00:58:05.18
+" Evil as plain[br]as the scaron his face"
+
+00:58:05.31,00:58:07.60
+-" Deception"[br]-"An outrage"
+
+00:58:07.69,00:58:10.02
+-" Disgrace"[br]-" Forshame"
+
+00:58:10.15,00:58:12.52
+" He asked for trouble[br]the momenthe came"
+
+00:58:12.65,00:58:14.69
+"See ya later, agitator"
+
+00:58:14.82,00:58:19.03
+" Born in grief[br]Raisedin hate"
+
+00:58:19.16,00:58:25.45
+" Helpless to defy his fate"
+
+00:58:25.58,00:58:28.58
+" Let him run, let him live"
+
+00:58:28.66,00:58:35.00
+" But do not forget[br]what we never forgive"
+
+00:58:35.13,00:58:38.34
+" He is not"
+
+00:58:38.47,00:58:40.97
+" One of us"
+
+00:58:41.09,00:58:45.43
+" He has never been[br]one of us"
+
+00:58:45.51,00:58:50.19
+" He is not one of us"
+
+00:58:50.31,00:58:54.86
+" Not our kind"
+
+00:58:54.98,00:58:59.28
+"Someone once lied to us"
+
+00:58:59.36,00:59:03.87
+" Now we're not so blind"
+
+00:59:03.99,00:59:08.87
+" For we knew he would do[br]what he's done"
+
+00:59:09.00,00:59:11.04
+"And we know that[br]he'llneverbe"
+
+00:59:11.17,00:59:13.71
+" One of us"
+
+00:59:13.83,00:59:18.30
+" He is not one of us"
+
+00:59:22.72,00:59:25.05
+" Deception "
+
+00:59:25.18,00:59:27.81
+" Disgrace "
+
+00:59:30.64,00:59:34.52
+" Mmm-mm, deception"
+
+00:59:34.56,00:59:36.86
+" Disgrace"
+
+00:59:41.15,00:59:45.07
+" Deception"
+
+00:59:47.66,00:59:50.08
+Uh.
+
+00:59:53.87,00:59:56.42
+- Oèe, molim te ponovo razmotri.[br]- Nigde više ne ideš...
+
+00:59:56.54,00:59:58.42
+bez pratnje, od sada.
+
+00:59:58.55,01:00:01.42
+- Ne! To nije...[br]- Iskoristio te je da doðe do mene.
+
+01:00:01.55,01:00:06.43
+- Ne! On me voli.. zbog mene![br]- Zato što si moja kæer.
+
+01:00:06.55,01:00:09.10
+Neæeš napustiti Stenu Ponosa.
+
+01:00:09.22,01:00:12.60
+Ostaæeš tamo gde te mogu[br]držati na oku... daleko od njega.
+
+01:00:12.73,01:00:17.36
+- Ne znaš ga![br]- Znam da ide Skarovim tragovima.
+
+01:00:17.44,01:00:21.94
+- I ja moram iæi po oèevim.[br]- Nikad neæeš biti Mufasa.
+
+01:00:54.77,01:00:56.65
+Kovu?
+
+01:01:03.49,01:01:05.49
+Kovu?
+
+01:01:16.67,01:01:18.58
+Kovu?
+
+01:01:33.56,01:01:37.60
+" ln a perfect world"
+
+01:01:37.73,01:01:42.27
+" One we've never known"
+
+01:01:42.36,01:01:45.53
+" We would never need"
+
+01:01:45.61,01:01:49.03
+" To face the world alone"
+
+01:01:50.45,01:01:54.33
+" They can have the world"
+
+01:01:54.41,01:01:59.46
+" We'll create our own"
+
+01:01:59.58,01:02:03.71
+" l may not be brave[br]orstrong or smart"
+
+01:02:03.80,01:02:07.68
+" But some where[br]in my secret heart"
+
+01:02:07.76,01:02:09.80
+" l know"
+
+01:02:09.93,01:02:13.68
+" Love will find a way"
+
+01:02:13.76,01:02:16.68
+"Anywhere l go"
+
+01:02:16.77,01:02:19.02
+" I'm home"
+
+01:02:19.10,01:02:22.65
+" lf you are there beside me"
+
+01:02:22.73,01:02:28.15
+" Like dark turning into day"
+
+01:02:28.28,01:02:31.74
+"Somehow we'll come through"
+
+01:02:31.82,01:02:35.58
+" Now that I've found you"
+
+01:02:35.66,01:02:41.17
+" Love will find a way"
+
+01:02:43.92,01:02:47.72
+" I was so afraid"
+
+01:02:47.80,01:02:51.84
+" Nowlrealize"
+
+01:02:51.93,01:02:55.01
+" Love is never wrong"
+
+01:02:55.14,01:02:59.39
+"And so itneverdies"
+
+01:02:59.48,01:03:03.02
+" There's aperfect world"
+
+01:03:03.15,01:03:06.78
+"Shining in your eyes"
+
+01:03:08.78,01:03:12.07
+"Andifonly they could feel it too"
+
+01:03:12.16,01:03:15.70
+" The happiness[br]I feel with you"
+
+01:03:15.83,01:03:18.00
+" They'dknow"
+
+01:03:18.08,01:03:21.50
+" Love will finda way"
+
+01:03:21.58,01:03:26.75
+"Anywhere we go we're home"
+
+01:03:26.84,01:03:31.01
+" lf we are there together"
+
+01:03:31.09,01:03:36.93
+" Like dark turning into day"
+
+01:03:37.01,01:03:40.64
+"Somehow we'll come through"
+
+01:03:40.73,01:03:44.52
+" Now that I've found you"
+
+01:03:44.61,01:03:48.48
+" Love will find a way"
+
+01:03:48.57,01:03:50.86
+" l know"
+
+01:03:50.95,01:03:54.62
+" Love will find"
+
+01:03:54.70,01:03:59.25
+"A way"
+
+01:04:10.42,01:04:12.34
+Hej!
+
+01:04:20.98,01:04:22.85
+Uh, hej.
+
+01:04:26.65,01:04:28.52
+Hej, vidi.
+
+01:04:28.65,01:04:32.19
+Mi smo jedno.
+
+01:04:32.32,01:04:34.20
+Šta?
+
+01:04:34.32,01:04:37.53
+Hajdemo odavde.[br]Pobeæi æemo zajedno!
+
+01:04:37.66,01:04:40.45
+I osnovati naš èopor sami.
+
+01:04:40.49,01:04:42.79
+Kovu,
+
+01:04:42.83,01:04:44.79
+moramo da se vratimo.
+
+01:04:44.83,01:04:47.21
+Šališ se.[br]Ali konaèno smo zajedno.
+
+01:04:47.33,01:04:50.30
+Naše mesto je uz èopor.
+
+01:04:50.34,01:04:53.47
+Ako pobegnemo,
+
+01:04:53.51,01:04:55.55
+biæe zauvek podeljeni.
+
+01:05:22.16,01:05:24.16
+Ne mogu da verujem[br]da smo je opet izgubili.
+
+01:05:24.29,01:05:26.21
+Ovo je 8.000-ti put!
+
+01:05:26.29,01:05:28.25
+- Mislio sam da æeš je paziti!
+
+01:05:28.33,01:05:30.42
+- Ja? Ti si je trebao paziti![br]- Mislio sam da je ti èuvaš!
+
+01:05:30.50,01:05:32.42
+- Ne, ti si je trebao èuvati![br]- Ti si trebao!
+
+01:05:32.51,01:05:37.01
+- E, gledaj ovo![br]- Evo ti, ti jezivi vepru!
+
+01:05:37.13,01:05:40.43
+- Reci! Reci!
+
+01:05:40.51,01:05:42.77
+- Šta radite?[br]- Uh...
+
+01:05:42.85,01:05:45.35
+Dobro pitanje.[br]Uh, da te pitam jedno.
+
+01:05:45.48,01:05:48.27
+- " Hipotetièki."[br]- Vrlo hipotetièki.
+
+01:05:48.35,01:05:50.27
+- Ima jedan tip...[br]- Ali nije lav.
+
+01:05:50.36,01:05:52.36
+Ne! Ne,[br]nije lav.
+
+01:05:52.48,01:05:54.90
+Bože! Definitivno nije lav!
+
+01:05:54.99,01:05:57.03
+I uh, uh,[br]njegova æerka, uh,
+
+01:05:57.11,01:05:59.07
+je recimo... nestala.
+
+01:05:59.16,01:06:03.08
+- Kiara je otišla?[br]- Gospodaru, tuðinci napadaju!
+
+01:06:03.16,01:06:05.58
+Idu u ovom pravcu![br]Rat je!
+
+01:06:05.66,01:06:10.46
+Zazu, naði Kiaru. Skupiæemo[br]lavove. Mrdaj. Odmah!
+
+01:06:53.50,01:06:55.55
+" Na-na-na na-na-na "
+
+01:06:55.63,01:06:58.47
+Gotovo je, Simba.
+
+01:06:58.55,01:07:02.72
+Godinama sam samo ovo sanjala.
+
+01:07:02.85,01:07:04.76
+Bože, baš joj treba hobi.
+
+01:07:04.85,01:07:07.06
+Poslednja sanša, Zira. Idi kuæi.
+
+01:07:07.18,01:07:10.10
+Ja jesam kod kuæe.
+
+01:07:10.19,01:07:13.40
+- Napad!
+
+01:07:26.83,01:07:29.41
+- Ciljajte na oèi!
+
+01:07:29.54,01:07:33.92
+- Razbi mu vilicu! Udari ga nisko!
+
+01:07:34.00,01:07:37.46
+Uhvatite ih![br]Radite šta morate!
+
+01:07:48.02,01:07:49.93
+Šta da radimo?[br]Šta da radimo?
+
+01:07:50.02,01:07:52.23
+Postoji samo jedna stvar[br]koju možemo da uradimo, Pumbaa.
+
+01:07:52.31,01:07:56.44
+"Kad postane vruæe,[br]èisti se." To je naš moto!
+
+01:07:56.57,01:07:59.61
+Mislio sam da nam je moto,[br]"Hakuna matata. "
+
+01:07:59.74,01:08:01.78
+Pumbaa, prestani da živiš u prošlosti.
+
+01:08:01.86,01:08:05.78
+- Treba nam novi moto. Iii-haa!
+
+01:08:09.54,01:08:12.79
+Kao što rekoh,[br]èistimo se!
+
+01:08:22.22,01:08:25.80
+- Gde ti je æerka, Nala?[br]- Vitani!
+
+01:08:29.47,01:08:32.85
+Pazi! Ah!
+
+01:08:35.94,01:08:39.98
+- A?
+
+01:08:42.61,01:08:44.74
+- Da se niko nije mrdnuo!
+
+01:08:44.82,01:08:47.49
+Ova stvar je napunjena.[br]Daæu vam malo!
+
+01:08:47.62,01:08:50.33
+- To! Da!
+
+01:08:52.46,01:08:55.88
+- Ha! Prièaj mi o tvojim vetrovima rata!
+
+01:08:55.96,01:08:58.84
+- Simba!
+
+01:09:00.55,01:09:02.84
+Moj si!
+
+01:09:28.32,01:09:31.54
+- Kiara?[br]- Kovu!
+
+01:09:32.66,01:09:37.08
+- Mrdaj.[br]- Pomeri se.
+
+01:09:37.17,01:09:39.21
+Tata, ovo mora prestati.
+
+01:09:41.00,01:09:44.72
+Slabiji si nego što sam mislila.[br]Beži s puta!
+
+01:09:44.80,01:09:50.39
+Nikad neæeš povrediti Kiaru ni Simbu.[br]Ne dok sam ja ovde.
+
+01:09:50.47,01:09:53.22
+- Ha![br]- Ne mešaj se.
+
+01:09:53.31,01:09:58.19
+Mudri kralj mi je jednom rekao,[br]"Mi smo jedno."
+
+01:09:58.27,01:10:00.69
+Nisam ga razumela tada.
+
+01:10:00.77,01:10:02.73
+Sada razumem.
+
+01:10:02.82,01:10:07.49
+- Ali oni...[br] "Oni" ? Mi! Pogledaj ih.
+
+01:10:07.57,01:10:12.74
+Oni su mi.[br]Koju razliku vidiš?
+
+01:10:36.52,01:10:38.77
+Vitani... sada!
+
+01:10:38.85,01:10:41.44
+Ne, majko.
+
+01:10:42.52,01:10:45.32
+Kiara je u pravu.
+
+01:10:48.20,01:10:50.11
+Dosta.
+
+01:10:51.70,01:10:54.45
+Ako se ti neæeš boriti,
+
+01:10:54.58,01:10:57.62
+onda æeš i ti umreti.
+
+01:11:00.62,01:11:03.79
+Šta? Gde...[br]Gde idete?
+
+01:11:03.92,01:11:05.84
+Vratite se ovamo!
+
+01:11:05.92,01:11:09.84
+Pusti, Zira. Vreme je da ostavimo[br]prošlost za sobom.
+
+01:11:09.93,01:11:12.55
+Nikad neæu odustati!
+
+01:11:14.97,01:11:19.06
+Skar, ovo je za tebe!
+
+01:11:19.14,01:11:22.65
+- Kiara!
+
+01:11:24.44,01:11:27.82
+Kiara!
+
+01:11:27.90,01:11:32.24
+- Kiara!
+
+01:11:41.33,01:11:44.08
+- Drži se, Kiara!
+
+01:11:50.13,01:11:53.55
+Simba! Simba, reka!
+
+01:12:04.31,01:12:07.27
+Zira, daj mi svoju šapu.
+
+01:12:14.20,01:12:16.28
+Zira, hajde!
+
+01:12:18.87,01:12:21.04
+- Pomoæi æu ti.[br]- Uh!
+
+01:12:45.86,01:12:49.07
+- Kiara?
+
+01:12:49.19,01:12:51.74
+Tata!
+
+01:12:51.86,01:12:53.57
+Pokušala sam.
+
+01:12:55.82,01:12:57.99
+Kiara!
+
+01:12:58.08,01:13:01.00
+- Opa! To je baš bilo hrabro!
+
+01:13:03.12,01:13:05.88
+- Kovu.[br]- Oh, Kiara.
+
+01:13:05.96,01:13:08.54
+Kovu?
+
+01:13:10.71,01:13:13.72
+Pogrešio sam.[br]Ti pripadaš ovde.
+
+01:13:19.76,01:13:21.64
+Hajdemo kuæi.
+
+01:13:23.48,01:13:25.23
+Svi.
+
+01:13:56.01,01:13:59.60
+- Volim ovakve momente![br]- Da.
+
+01:13:59.68,01:14:02.26
+Volim! Ne " sviða mi se"
+
+01:14:02.35,01:14:06.02
+Volim!
+
+01:15:00.87,01:15:04.58
+Odlièan posao, sine moj.
+
+01:15:13.54,01:15:15.75
+Mi smo jedno.
+
+01:16:31.33,01:16:35.96
+" Ooh, ooh"
+
+01:16:42.09,01:16:45.89
+" ln a perfect world"
+
+01:16:45.97,01:16:49.97
+" One we've never known"
+
+01:16:50.06,01:16:53.31
+" We would never need"
+
+01:16:53.39,01:16:57.02
+" To face the world alone"
+
+01:16:58.32,01:17:02.24
+" They can have their world"
+
+01:17:02.32,01:17:07.28
+" We'll create our own"
+
+01:17:07.32,01:17:11.79
+" l may not be brave[br]orstrong or smart"
+
+01:17:11.87,01:17:15.67
+" Butsomewhere[br]in my secrethe art"
+
+01:17:15.75,01:17:17.96
+" l know"
+
+01:17:18.04,01:17:22.01
+" Love will find a way"
+
+01:17:22.05,01:17:27.85
+"Anywhere l go[br]I'm home"
+
+01:17:27.89,01:17:32.06
+" lf you are there[br]beside of me"
+
+01:17:32.14,01:17:34.27
+" Like dark"
+
+01:17:34.35,01:17:38.36
+" Turning into day"
+
+01:17:38.44,01:17:42.32
+"Somehow we'll come through"
+
+01:17:42.36,01:17:46.41
+" Now that I found you"
+
+01:17:46.49,01:17:52.33
+" Love will find a way"
+
+01:17:55.62,01:17:59.34
+" I was so afraid"
+
+01:17:59.38,01:18:03.55
+" Nowlrealize"
+
+01:18:03.63,01:18:06.55
+" Love is never wrong"
+
+01:18:06.63,01:18:11.18
+"And so, it never dies"
+
+01:18:11.26,01:18:15.35
+" Mmm, there's aperfect world"
+
+01:18:15.43,01:18:20.69
+"Shining in your eyes"
+
+01:18:20.73,01:18:24.86
+"Andi fonly they[br]could feel it too"
+
+01:18:24.94,01:18:29.12
+" The happiness[br]I feel with you"
+
+01:18:29.20,01:18:31.24
+" They'd know"
+
+01:18:31.33,01:18:35.25
+" Love will find a way"
+
+01:18:35.33,01:18:41.21
+"Anywhere we go[br]we're home"
+
+01:18:41.25,01:18:45.38
+" lf we are there together"
+
+01:18:45.46,01:18:47.47
+" Like dark"
+
+01:18:47.55,01:18:51.47
+" Turning into day"
+
+01:18:51.55,01:18:55.56
+"Somehow we'll come through"
+
+01:18:55.64,01:18:59.69
+" Now that I found you"
+
+01:18:59.77,01:19:05.82
+" Love will find a way"
+
+01:19:10.78,01:19:13.78
+" Oh, yeah"
+
+01:19:32.39,01:19:36.27
+" l know"
+
+01:19:36.31,01:19:40.27
+-" Love will find a way"[br]-" Oh, yes, it will"
+
+01:19:40.31,01:19:45.52
+-"Anywhere we go I'm home"[br]-" I'm home, right there"
+
+01:19:45.61,01:19:50.49
+" lf we are there together"
+
+01:19:50.57,01:19:52.62
+" Like dark"
+
+01:19:52.70,01:19:56.70
+" Turning into day"
+
+01:19:56.79,01:20:00.75
+"Somehow we'll come through"
+
+01:20:00.83,01:20:04.88
+" Now that I found you"
+
+01:20:04.96,01:20:09.92
+" Love will find a way"
+
+01:20:10.01,01:20:14.14
+" I know love will find"
+
+01:20:14.22,01:20:16.26
+"A way"
+
+01:20:16.35,01:20:20.35
+" l know"
+
+01:20:21.52,01:20:25.48
+" Love will find"
+
+01:20:25.56,01:20:29.86
+"A"
+
+01:20:29.90,01:20:34.91
+" Way"

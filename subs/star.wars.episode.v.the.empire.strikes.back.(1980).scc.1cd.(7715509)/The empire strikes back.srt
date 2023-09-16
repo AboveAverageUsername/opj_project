@@ -1,0 +1,889 @@
+{1}{1}25.000
+{26}{176}-== [ www.OpenSubtitles.org ] ==-
+{500}{650}<b>Nekada davno, u dalekoj,|dalekoj galaksiji...</b>
+{730}{830}<b>ZVEZDANI  RATOVI</b>
+{920}{1090}<b>EPIZODA V|IMPERIJA UZVRA∆A UDARAC</b>
+{1100}{1200}<b>Doölo je teöko vreme|za pobunjenike.</b>
+{1205}{1300}<b>Iako je Zvezda Smrti uniötena,|imperijalne trupe su proterale</b>
+{1305}{1400}<b>pobunjeniËke snage iz|njihove tajne baze</b>
+{1405}{1500}<b>i stale da ih progone|po Ëitavoj galaksiji.</b>
+{1505}{1600}<b>IzbegavajuÊi imperijalnu|zvezdanu flotu, grupa</b>
+{1605}{1700}<b>boraca za slobodu predvoena|Lukom Skajvokerom,</b>
+{1705}{1800}<b>oformila je novu tajnu bazu na|na zabaËenoj, ledenoj planeti Hot.</b>
+{1805}{1900}<b>Zli Dart Vejder, opsednut|ûeljom da pronae</b>
+{1905}{2000}<b>mladog Skajvokera, poslao|je na hiljade öpijunskih sondi</b>
+{2005}{2120}<b>u najudaljenije krajeve svemira...</b>
+{5132}{5232}Eho 3 zove Eho 7. |Han, prijatelju, Ëujeö li me?
+{5232}{5288}OdliËno, mali. äta ima?
+{5288}{5363}Pa, zavröio sam obilazak. |Nisam naöao nikakve znake ûivota.
+{5363}{5496}Na ovoj kocki leda nema dovoljno|ûivota da stane na svemirsku krstaricu.|Senzori su na mestu. Idem nazad.
+{5496}{5574}Dobro. Vidimo se brzo.|Ovde u blizini je pao meteor.
+{5574}{5658}HoÊu da ga pogledam. |NeÊe dugo trajati.
+{5658}{5765}Mirna, mirna curo.|äta je bilo? Neöto si nanjuöila?
+{6752}{6777}»ui!
+{6795}{6808}»ui!
+{6868}{6896}»ui!
+{6946}{7071}U redu, ne nerviraj se.|Odmah se vraÊam da ti pomognem.
+{7549}{7580}Solo?
+{7580}{7648}Nema traga ûivotu, Generale.|Senzori su na mestu.
+{7648}{7680}ZnaÊete ako neöto naide.
+{7680}{7717}Da li se Komandant Skajvoker vratio?
+{7717}{7794}Ne. Proverava|meteor koji je pao blizu njega.
+{7794}{7875}Sa tolikom aktivnoöÊu meteora ovde,|biÊe teöko primetiti bilo kakav brod.
+{7875}{7936}Generale, moram da idem.|Viöe nemogu ostati.
+{7936}{7961}éao mi je öto to Ëujem.
+{7961}{7990}Glava mi je ucenjena.
+{7990}{8052}Ako ne isplatim Dûaba Hata,|mrtav sam Ëovek.
+{8052}{8140}Nije lako ûiveti sa smrtnom presudom nad glavom.
+{8140}{8199}Ti si dobar borac, Solo.|Mrzim öto te gubimo.
+{8199}{8292}Hvala vam, Generale.
+{8426}{8497}Dakle, Vaöa Visosti, pretpostavljam da je to to.
+{8497}{8591}Tako je.
+{8591}{8718}Pa sad, nemojte mi se mrötiti. |Zbogom, Princezo.
+{8718}{8786}Han!
+{8786}{8837}Da, Vaöa Visosti?
+{8837}{8878}Mislila sam da si odluËio da ostaneö.
+{8878}{8938}Lovac na ucene Ord Mantelu|me je naterao da promenim miöljenje.
+{8938}{8997}Han, trebaö nam!
+{8997}{9060}Nama? |-Da.
+{9060}{9084}Oh, misliö tebi trebam?
+{9084}{9173}Ti mi trebaö? Nemam pojma o Ëemu priËaö.
+{9173}{9221}Pretpostavljam da nemaö.
+{9221}{9262}I öta taËno ja treba da znam?
+{9262}{9342}Ma daj! éeliö da ostanem |zbog tvojih oseÊanja prema meni.
+{9342}{9410}Da. Ti si nam od velike pomoci. |Ti si roeni voa...
+{9410}{9571}Ne! To nije to. Ma daj.
+{9571}{9601}Ti izmiöljaö stvari.
+{9601}{9646}Stvarno? A zaöto onda ti pratiö mene?
+{9646}{9697}Bojiö se da Êu otiÊi,a da ti |ne dam poljubac za oproötaj?
+{9697}{9728}Pre bih poljubila Vukija.
+{9728}{9841}Mogu ti to srediti.|Trebao bi ti dobar poljubac!
+{9846}{9913}Ne pokuöavaj mene da kriviö.|Nisam traûio od tebe da ukljuËiö termalni grejaË.
+{9913}{10003}Samo sam primetio da je|hladno u princezinim odajama.
+{10003}{10075}Pa i treba da je hladno.|Kako bi inaËe osuöili njenu odeÊu?
+{10075}{10112}Stvarno ne znam.
+{10112}{10154}Oh, ugasi se.
+{10154}{10186}Zaöto si ovo sad rastavio?
+{10186}{10226}Pokuöavam da nas izbavim odavde|a ti iöËupaö oboje.
+{10226}{10253}Oprostite, sir.
+{10253}{10280}Odmah ih sastavi.
+{10280}{10310}Mogu li molim vas, razgovarati| sa vama?
+{10310}{10338}äta ûeliö?
+{10338}{10389}Pa, Princeza Lea, sir. Pokuöavala je da|vas dobije na komunikator.
+{10389}{10499}Ugasio sam ga, ne ûelim da priËam sa njom.|Princeza Lea se brine za gospodara Luka.
+{10499}{10537}Joö se nije vratio.|Ona ne zna gde je on.
+{10537}{10596}Ja ne znam gde je on.| Niko ne zna gde je on.
+{10596}{10650}Kako to misliö, "niko ne zna"?|- Pa, uh, vidite...
+{10650}{10688}Oficiru palube. Oficiru palube!
+{10688}{10730}Oprostite, sir. Mogu li va-...
+{10730}{10757}Da, sir?
+{10757}{10782}Znaö li gde je Komandant Skajvoker?
+{10782}{10807}Nisam ga video.
+{10807}{10850}MoguÊe je da je uöao na|juûni ulaz.
+{10850}{10932}MoguÊe je? Zaöto to ne proveriö?|Postaje sve mraËnije.
+{10932}{10977}Da, sir.
+{10977}{11027}Oprostite, sir. Mogu li vas pitati|öta se deöava?
+{11027}{11065}Zaöto ne?
+{11065}{11140}Neverovatan Ëovek. Hajde, Artu,|naimo Princezu Leu.
+{11140}{11237}Izmeu nas, mislim da je |gospodar Luk u opasnosti.
+{11446}{11505}Sir, komandant Skajvoker nije uöao|na juûni ulaz.
+{11505}{11530}Moûda je zaboravio da se prijavi.
+{11530}{11562}Sumnjam. Da li su brzinci spremni?
+{11562}{11617}Joö ne. Imamo problema|da ih priviknemo da hladnoÊu.
+{11617}{11648}Onda moramo iÊi na Tauntaunsima.
+{11648}{11685}Sir, temperatura prebrzo opada.
+{11685}{11730}Tako je. I moj prijatelj je napolju.
+{11730}{11795}Ja Êu pokriti sektor 12.|Neka kom-kontrola stavi ekran Alfa.
+{11864}{11923}Vaö Tauntun Êe se smrznuti|pre jutra.
+{11923}{12018}Onda se vidimo u paklu!
+{15265}{15314}Moraö doÊi sad, Artu.
+{15314}{15437}Nemamo viöe öta uraditi.|A i moji se spojevi smrzavaju.
+{15437}{15539}Ne govori to! Naravno|da Êemo videti gospodara Luka opet.
+{15539}{15659}On Êe biti dobro, videÊeö.|Glupi mali kratki spoj.
+{17076}{17180}Sir, sve patrole su tu.
+{17180}{17262}Joö nema kontakta sa|Skajvokerom i Solom.
+{17262}{17344}Gospodarice Lea, Artu kaûe|da nije mogao niöta primetiti.
+{17344}{17434}Premda on priznaje da mu je domet|premalen da bi izgubili svu nadu.
+{17434}{17491}Vaöa Visosti, viöe niöta nemoûemo|uraditi veËeras.
+{17491}{17591}Moramo zatvoriti vrata.
+{17591}{17681}Zatvorite vrata.|- U redu, sir.
+{17681}{17825}Artu kaûe da su öanse za opstanak|775... naprema 1.
+{18045}{18257}Mada, Artu je poznat po tome da greöi|...s vremena na vreme.
+{18257}{18443}Ne brini za gospodara Luka.| Siguran sam da Êe biti dobro.
+{18443}{18534}On je jako pametan, znaö...|za Ëoveka.
+{18888}{19046}Luk...Luk.
+{19186}{19232}Ben?
+{19232}{19299}OtiÊi Êeö u Degoba sistem.
+{19299}{19352}Degoba sistem?
+{19352}{19543}Tamo Êeö uËiti od Jode, |Dûedaj uËitelja koji je mene uËio.
+{19543}{19660}Ben...Ben.
+{19718}{20133}Luk! Luk! Ne radi to, Luk.|Hajde, daj mi znak.
+{20608}{20649}Nema puno vremena.
+{20649}{20776}Ben...Ben...
+{20831}{20901}Drûi se, momak.
+{20901}{20930}Degoba sistem...
+{20952}{20982}Degoba...
+{20982}{21009}Ovo Êe smrdeti, momak...
+{21009}{21083}Joda...
+{21083}{21222}...ali Êe te ugrejati...|dok ne napravim skloniöte.
+{21327}{21455}A mislio sam da spolja smrde!
+{22470}{22630}Eho Baza...Imam neöto!|Ne puno, ali bi mogao biti oblik ûivota.
+{22750}{22974}Ovde Roudû 2. Ovde Roudû 2. |Kapetane Solo, Ëujete li?
+{23063}{23215}Komandante Skajvoker, Ëujete li?|Ovde Roudû 2.
+{23215}{23298}Dobro jutro. Lepo od vas öto ste svratili.
+{23298}{23448}Eho Baza...ovde Roudû 2.|Naöao sam ih. Ponavljam, naöao sam ih.
+{24142}{24316}Gospodaru Luk,| drago mi je da ste ponovo|u funkciji. Artu je takoe drago.
+{24316}{24405}Kako se oseÊaö, momak?|Fino izgledaö.
+{24405}{24475}Ustvari, izgledaö kao da bi|mogao iöËupati uöi Gundarku.
+{24475}{24527}ZahvaljujuÊi tebi.
+{24527}{24586}To su dve usluge koje |mi dugujeö mali.
+{24586}{24686}Dakle vaöe VeliËanstvo, izgleda|da ste me uspeli zadrûati.
+{24686}{24847}Nisam imala niöta sa tim. General Rajken|misli da je opasno napustiti sistem|bez energetskog ötita.
+{24847}{24988}Dobra fora. Ipak mislim da nemoûeö podneti|da pustiö ovakog lepotana iz vida.
+{24988}{25142}Nemam pojma odakle ti|te vizije, glupko.
+{25142}{25279}Samo se ti smej.|Nisi nas video same u juûnom prolazu.
+{25279}{25324}Potpuno mi se emocionalno predala.
+{25324}{25529}Ti snobovski,...glupi,|...öljampavi... Ëobane!
+{25529}{25593}Ko je öljampav?
+{25651}{25745}Mora da sam je pogodio u ûicu|Ëim se ovako nakostreöila?
+{25814}{25904}äta, misliö da znaö sve|o ûenama?
+{26181}{26250}GlavnokomandujuÊe osoblje, |javite se u komandni centar.
+{26250}{26297}Polako.
+{26297}{26329}Izvinite nas, molim.
+{26413}{26484}Princezo...imamo uljeza.
+{26484}{26544}Pronaöli smo neöto izvan|baze u zoni 12, kreÊe se ka istoku.
+{26544}{26578}Od metala je.
+{26578}{26609}Onda nije jedno od onih|zveri öto su napali Luka.
+{26609}{26643}Da nije naö brzinac.
+{26643}{26781}Ne. »ekajte  neöto |slabo se Ëuje.
+{26841}{26904}Sir, poznajem 6 miliona formi|komunikacije.
+{26904}{27029}Ovaj signal ne koristi Alijansa.|Mogao bi biti Imperijin kod.
+{27136}{27281}Nije prijateljski, Ëiji god da je.|»ui, hajde da vidimo öta je.
+{28133}{28168}Bojim se da ga nije puno ostalo.
+{28168}{28198}äta je bilo?
+{28198}{28273}Neka vrsta droida. Nisam ga|pogodio jako. Imao je samouniötenje.
+{28273}{28335}Imperijin droid.
+{28335}{28386}Kladim se da Imperija zna gde smo.
+{28386}{28466}Bolje da poËnemo sa evakuacijom.
+{29520}{29552}Admirale.
+{29552}{29618}Da, Kapetane.
+{29618}{29659}Mislim da imamo neöto, sir.
+{29659}{29760}Fragment od droida u Hot sistemu,| ali je najbolji trag koji imamo.
+{29760}{29839}Imamo hiljade droida|koji pretraûuju galaksiju.
+{29839}{29870}éelim dokaz, ne tragove!
+{29870}{29907}Snimci pokazuju znakove ûivota.
+{29907}{29966}To moûe biti bilo öta.|Kada bi pratili svaki trag...
+{29966}{30036}Ali, sir, Hot sistem bi trebao|biti bez ljudskih oblika.
+{30036}{30071}Naöli ste neöto?
+{30071}{30131}Da, Gospodaru.
+{30154}{30230}To je to. Pobunjenici su tu.
+{30230}{30328}Gospodaru, postoji mnogo naseobina.
+{30328}{30356}Mogli bi biti krijumËari, mogli...
+{30356}{30458}To je taj sistem.|I siguran sam da je Skajvoker sa njima.
+{30458}{30636}Odredite kurs za Hot sistem.|Generale Vers, pripremite ljude.
+{30790}{30844}Grupe 7 i 10 Êe ostati|da voze brzince.
+{30844}{30927}»im se transport zavröi, |daÊemo znak za lansiranje.
+{30927}{30979}U redu, sir.
+{31037}{31291}Dobro, to je to. Probaj...Gasi! |Ugasi! Ugasi! Gasi!
+{31291}{31373}Sir, potrajaÊe dok se evakuiraju|T-47-ce. Zaboravite na teöku opremu.
+{31373}{31455}Imamo dovoljno vremena|da lasniramo manje module za transport.
+{31455}{31527}»uvajte se, sir. |- Hvala.
+{31593}{31711}»ui, Ëuvaj se, dobro?
+{31825}{31935}Hej, momak. Mora da ima razlog za to.|Pogledaj na drugom kraju.
+{31935}{32007}»ekaj momenat. Jesi li u redu?
+{32007}{32083}Da.
+{32212}{32260}»uvaj se.
+{32260}{32329}I, ti.
+{32451}{32552}Generale, flota Zvezdanih Razaraca|izlazi iz hipersvemira u sektoru 4.
+{32552}{32644}Premosti svu energiju u ötitove.
+{32644}{32765}Moramo ih zadrûati dok transport|ne proe. Pripremite se za kopneni napad.
+{33088}{33129}äta je, Generale?
+{33129}{33172}Gospodaru, flota je izaöla|iz brzine svetlosti.
+{33172}{33287}Radar je otkrio polje energije koje ötiti|prostor oko öeste planete Hot sistema.
+{33287}{33348}Polje je dovoljno jako da odbije |bombardovanje bilo koje vrste.
+{33348}{33414}Pobunjenici znaju za nas.
+{33414}{33495}Admiral Ozel je izaûao iz brzine svetlosti|preblizu sistemu.
+{33495}{33548}Mislio je da je pametnije iznenaditi...
+{33548}{33684}On je smotan koliko je glup. |Generale, spremite trupe za napad na povröinu.
+{33684}{33754}Da, gospodaru.
+{33899}{34028}Gospodaru Vejder, flota je izaöla iz|brzine svetlosti i spremamo se...
+{34028}{34150}Zadnji put si me izneverio,Admirale.| Kapetane Pit.
+{34150}{34195}Da, Gospodaru.
+{34195}{34259}Spremi se da iskrcaö trupe iza|energetskog polja i
+{34259}{34337}postavi flotu tako da niöta|ne napusti taj sistem.
+{34337}{34413}Sada si ti glavni, Admirale Pit.
+{34413}{34474}Hvala vam, Gospodaru Vejder.
+{34491}{34571}Neka se svi nosaËi grupiöu|na juûnom ulazu.
+{34571}{34633}Veliki transportni brodovi ce otiÊi|Ëim budu utovareni.
+{34633}{34761}Samo dva lovca u pratnji broda.|Energetski ötit ce biti otvoren jako kratko,
+{34761}{34826}tako da morate ostati blizu transporta.
+{34826}{34881}Dva lovca protiv Zvezdanih RazaraËa?
+{34881}{35011}Jonski top ce ispaliti par hitaca da|odvrati neprijateljske brodove sa vaöeg kursa.
+{35011}{35147}Kada izadete iz polja,|nastavite do taËke sastanka. Jasno?
+{35147}{35228}U redu. Dobro.|- SreÊno!
+{35228}{35287}Svi na poloûaje.|Idemo!
+{35677}{35808}Njihov primarni cilj ce biti energija.| Pripremite se da otvorite ötit.
+{35943}{35988}Sir, PobunjeniËki brodovi|ulaze u naö sektor.
+{35988}{36057}Dobro. Naö prvi ulov danas.
+{36095}{36195}Spremni, jonska kontrola....Pali!
+{36560}{36733}Prvi transport je proöao.
+{36851}{36906}Da li ste dobro, sir?
+{36906}{36948}Kao nov, Dek. Ti?
+{36948}{37022}Sad se oseÊam kao da bih|sam mogao poraziti Imperiju.
+{37022}{37108}Znam na öta misliö.
+{37523}{37557}Eho Stanica 3-T-8.
+{37557}{37603}Vidimo Imperijine hodaËe!
+{37603}{37648}Imperijini hodaËi na severnom horizontu.
+{38173}{38246}Eho stanica zove 5-7. Na putu smo.
+{38373}{38432}U redu momci, drûite se sad.
+{38432}{38471}Luk, nemam vektor prilaza. Nisam podeöen.
+{38471}{38560}Mirno, Dek. NapadaËka formacija Delta. Idemo!
+{38640}{38683}U redu, dolazim.
+{38792}{38832}Hobi, jesi li joö sa mnom?
+{39369}{39419}Taj oklop je prejak za  lasere.
+{39473}{39551}Roudû Grupo, koristite harpune i sajle.|Idite na noge.
+{39551}{39587}To nam je jedina öansa da ih zaustavimo.
+{39633}{39675}U redu, budi spreman, Dek.
+{39675}{39782}Luk, imamo kvar u kontroli pucanja.|MoraÊemo koristiti pomoÊni.
+{39782}{39896}Samo se drûi. Drûi se, Dek.|Spremi se da ispaliö tu sajlu.
+{40030}{40091}Dek? Dek!
+{40639}{40710}Da, Gospodaru Vejder.|Doöli smo do glavnog generatora.
+{40710}{40779}ätit Êe biti spuöten svaki Ëas.|Moûete poËeti sa sletanjem.
+{40906}{40939}Roudû 3.
+{40939}{40972}Sluöam, Roudû Voo.
+{40972}{41055}Vedû, izgubio sam niöandûiju.|Ti moraö ovo pogoditi.
+{41055}{41159}Ja Êu te pokrivati. Podesi harpun.|Prati me na sledeÊem prolazu.
+{41186}{41256}Dolazim, Roudû Voo.
+{41287}{41330}Mirno, Roudû 2.
+{41353}{41378}Aktiviraj harpun.
+{41453}{41483}Dobar pogodak, Dûonsone.
+{41621}{41658}Joö jedan prolaz.
+{41658}{41695}Prilazim. Joö jedan. Joö jedan.
+{41819}{41853}Sajla spremna! Otpusti je!
+{41868}{41912}Oslobodi sajlu.
+{41915}{41959}Sajla osloboena.
+{42142}{42175}Hajde!
+{42338}{42382}To ih je sredilo!
+{42382}{42431}Vidim, Vedûe. Dobar posao.
+{42431}{42480}Mislim da nemoûemo zaötititi|dva transporta u isto vreme.
+{42480}{42601}Riskantno je, nemamo izbora.|Nemoûemo viöe idrûati.
+{42601}{42696}Lansiraj patrole.|- Evakuiraj ostatak zemljanog osoblja.
+{42724}{42871}Ne, ne! Ne! Ovo ide ovde,|ovaj ide tamo. Shvataö?
+{42876}{42995}Artu, dobro Ëuvaj gospodara Luka.
+{42995}{43070}»uvaj se.
+{43753}{43801}Sve trupe Êe spreËiti zemljani napad.
+{43801}{43870}Spremite se da gaate glavni generator.
+{43957}{43986}Roudû 2, jesi li u redu?
+{43986}{44045}Da. S tobom sam, Roudû Voo.
+{44045}{44098}PodesiÊu harpun. PokrivaÊu te.
+{44130}{44160}Prilazim.
+{44160}{44204}Pazite na unakrsnu vatru, momci.
+{44230}{44269}Postavi poziciju 3. Mirno.
+{44307}{44348}Drûite se blizu i nisko.
+{44503}{44568}Hobi, pogoen sam!
+{45617}{45651}Jesi li dobro?
+{45649}{45689}Zaöto ste joö ovde?
+{45689}{45723}»uo sam da je komandni centar pogoen.
+{45723}{45767}Imaö odobrenje da odeö.
+{45767}{45839}Ne brini otiÊi Êu.|Prvo Êu te otpratiti do broda.
+{45839}{45916}Vaöa Visosti, moramo uzeti ovaj zadnji transport.|To nam je zadnja nada.
+{45916}{46021}Poöalji sve trupe u sektor 12 prema|juûnom frontu da zaötite lovce.
+{46041}{46119}Imperijine trupe su uöli u bazu.
+{46119}{46177}Hajde...to je to.
+{46177}{46330}Daj signal za evakuaciju.|I idi u trasporter! »ekajte mene!
+{47839}{47941}Jesu li ono generatori?
+{48133}{48212}Niöani! Laser na maksimalnu snagu.
+{48802}{48945}Transport, ovde Solo.Uzletite, nemogu |doÊi do vas, ja cu odvesti princezu u Sokolu.
+{48992}{49064}Gd... Gde Êeö?|Vrati se!
+{49495}{49623}»e... »ekajte mene!|Stanite! TipiËno. Hajde!
+{49713}{49775}Poûuri, zlatko, ili Êeö|ostati ovde zauvek!
+{49775}{49841}Stanite! Stanite!
+{50263}{50306}Kako je ovo?
+{50317}{50388}Da li bi pomoglo ako bi| izaöla i pogurala? Moglo bi.
+{50434}{50484}Kapetane Solo, Kapetane Solo...sir,|mogu li predloûiti...
+{50523}{50552}Moûe Ëekati.
+{50651}{50691}Sa ovom konzervom nikad neÊemo|proÊi tu blokadu.
+{50691}{50766}Ovo luËe krije joö iznenadenja,srce.
+{50970}{51083}Hajde! Hajde! Prebaci se. |Nadajmo se da neÊemo izgoriti.
+{51144}{51225}Vidiö? Jednom kad ne budeö|u pravu nadam se da Êu biti tu.
+{51275}{51298}Nagazi!
+{51737}{51843}Artu! Spemi se za poletanje.
+{51906}{51971}SreÊno, Luk. Vidimo se na taËki sastanka.
+{52034}{52096}Ne brini, Artu. Polazimo.
+{52395}{52493}Sve je u redu, Artu.|Samo stavljam novi kurs.
+{52562}{52606}NeÊemo se sastati sa ostalima.
+{52624}{52669}Idemo u Degoba sistem.
+{52713}{52755}Da, Artu?
+{52813}{52904}Sve je u redu. UpravljaÊu|ruËno jedno vreme.
+{53292}{53367}Video sam ih! Video sam ih! |Koje?
+{53367}{53410}Zvezdani RazaraËi, njih dva, |idu na nas.
+{53410}{53494}Sir, sir! Mogu li predloûiti... |UÊutkaj ga ili ga ugasi!|proveri ötit za odrûavanje!
+{53604}{53665}Oh, sjajno.|Mislim da ih ipak moûemo izbeÊi.
+{53770}{53810}Preduzmi akciju izbegavanja!
+{54105}{54173}Pripremite se za brzinu svetlosti.|- Ali, sir!
+{54193}{54287}Sve su bliûe!|- O da? Vidi ovo.
+{54359}{54401}Koje?
+{54434}{54467}Mislim da smo u nevolji.
+{54467}{54634}Ako mogu reÊi, sir, primetio sam da je|hipersvemir motor oöteÊen.|NemoguÊe je iÊi brzinom svetlosti!
+{54593}{54660}U nevolji smo!
+{54742}{54786}Horizontalni potiskivaËi...!
+{54815}{54863}Aluvialni damperi...!
+{54903}{55017}To nije to. Donesi mi|hidrospanere!
+{55093}{55144}Kako Êemo se izvuÊi iz ovoga.
+{55179}{55247}Aj! »ui!
+{55341}{55393}To nije od lasera!|Neöto nas je udarilo.
+{55393}{55438}Han, dolazi ovamo!
+{55454}{55498}Hajde, »ui!
+{55566}{55674}O, ne! »ui, podesi 2-7-1.
+{55683}{55778}äta radiö?|Ne ideö valjda u|polje asteroida?
+{55778}{55858}Bili bi ludi da nas prate,|zar ne?
+{55918}{55956}Ne moraö ovo raditi,|da bi me impresionirao.
+{55956}{56074}Sir, moguÊnost|leta u polju asteroida je 3720:1!
+{56074}{56134}Nikad mi ne govori öanse!
+{56785}{56849}Rekla si da bi volela gledati kad|pravim greöku, duöo, ovo bi moglo biti to.
+{56849}{56974}PovlaËim to. BiÊemo razneseni|ako ovde ostanemo.
+{56974}{57015}Neu debatovati o tome.
+{57015}{57049}Razneseni?
+{57049}{57075}ProbaÊu da letim bliûe velikim.
+{57075}{57150}Bliûe?|- Bliûe?!
+{57760}{57826}Oh, to je samoubistvo!
+{57826}{57881}Tamo, izgleda dobro.
+{57881}{57966}äta izgleda dobro? |- Da. To Êe biti taman.
+{57966}{58058}Oprostite, gde idemo?
+{58297}{58404}Nadam se da znaö öta radiö.|- Da, i ja.
+{58572}{58650}Da, to je to. Degoba.
+{58698}{58770}Ne, neÊu se predomisliti.
+{58770}{58895}Ne oËitavam ni gradove ni tehnologijju.|Ali ima mnogo znakova ûivota.
+{58914}{58985}Neöto je ûivo dole...
+{58996}{59082}Da, siguran sam da je sigurno za droide.
+{59245}{59303}Znam, znam! Sva optika je mrtva.
+{59303}{59462}Ne vidim niöta! Drûi se sleÊem...
+{60726}{60804}Ne, Artu, ostani tu.|PogledaÊu okolo.
+{60907}{60947}Artu?
+{60956}{61064}Artu! Gde si?
+{61350}{61393}Artu! Budi paûljiviji.
+{61463}{61552}Artu -- tamo!
+{62189}{62231}Artu!
+{62949}{63156}Oh, ne! Jesi li u redu?
+{63164}{63209}Jesi li neöto slomio?
+{63278}{63408}Ako kaûeö da je dolazak ovde|bio loöa ideja,slaûem se.
+{63412}{63725}Oh, Artu, öta radim ovde?|Kao da je bio san, neznam. Moûda ludim.
+{64488}{64528}Da, Admirale?
+{64528}{64581}Naöi brodovi su spazili|Milenijumskog Sokola, Gospodaru.
+{64581}{64639}Ali...Uöao je u polje asteroida|i mi nemoûemo rizikovati...
+{64639}{64799}Asteroidi me ne brinu, Admirale.|éelim taj brod a ne izlike.
+{64799}{64861}Da, Gospodaru.
+{64962}{65031}UgasiÊu sve |osim osnovnih sistema napajanja.
+{65031}{65121}Sir, skoro se bojim da pitam,ali |da li to znaËi da Êete i mene iskljuËiti?
+{65121}{65242}Ne, moraö priËati sa glavnim kompjuterom,|saznaj öta fali hiperpotisku.
+{65422}{65506}Sir, moguÊe je da ovaj asteroid|nije skroz stabilan.
+{65506}{65605}Nije skroz stabilan?|drago mi je da te imamo da nam to kaûeö.
+{65605}{65700}»ui, odvedi profesora iza|i ukljuËi ga u hiperpotisak.
+{65700}{65771}Nekad ne razumem|ponaöanje ljudi.
+{65771}{65876}Samo pokuöavam da radim svoj posao...
+{65939}{65982}Pusti me.
+{66012}{66084}Pusti me, molim te.|- Ne uzbuuj se.
+{66084}{66165}Kapetane, to öto me drûite|nije dovoljno da se uzbudim.
+{66168}{66297}Izvini, srce.|Nemam vremena nizaöta drugo.
+{67125}{67428}Spremni za malo energije? |Dobro. Da vidimo. Stavi to tu. Tako.
+{67451}{67580}Sve öto trebam da uradim|je da nadem Jodu ... ako on postoji.
+{67946}{68187}Ipak, ovo mesto mi je|poznato. Kao da je...neznam...
+{68187}{68240}Kao öta?
+{68240}{68293}Kao da nas neko posmatra!
+{68293}{68390}Skloni oruûje! Ne ûelim vam zlo.
+{68390}{68488}Pitam se, zaöto ste ovde?
+{68488}{68533}Traûim nekoga.
+{68533}{68655}Traûiö? Rekao bih da,|si naöao nekog?
+{68655}{68722}Da.
+{68722}{68803}PomoÊi ti mogu. Da.
+{68803}{68901}Ipak ne.|Ja traûim velikog ratnika.
+{68901}{69131}Velikog ratnika.|Ratovi ne prave nikog velikim.
+{69303}{69424}Spusti to. Hej! To mi je veËera.
+{69458}{69527}Kako si tako narastao,|hraneÊi se ovakvom hranom?
+{69527}{69632}Sluöaj prijatelju,|nismo mislili sletiti u baru,|i kad bi mogli izvuÊi brod mi bi otiöli.
+{69632}{69706}Ali nemoûete izvuÊi brod?
+{69706}{69968}Hej, mogao si ovo slomiti.|Ne radi to.
+{70137}{70321}Praviö nered.|Hej, Daj mi to!
+{70321}{70396}Moje! Ili ti neÊu pomoci.
+{70396}{70486}Ne ûelim tvoju pomoÊ.|éelim svoju lampu. Treba mi da odem odavde.
+{70486}{70583}Ne svia ti se moj dom.
+{70655}{70719}Artu, pusti mu.
+{70780}{70856}Artu!
+{70913}{70971}HoÊeö li se sad skloniti, mali?|Imamo posla.
+{70971}{71107}Ne! Ne, ne! OstaÊu i pomoÊi Êu ja.|Naöao prijatelja, a?
+{71107}{71193}Ne traûim prijatelja,|traûim Dûedaj uËitelja.
+{71193}{71338}Dûedaj uËitelja. Joda.|Traûiö Jodu.
+{71338}{71370}Znaö ga?
+{71370}{71634}Odvesti Êu te do njega. Da, da.|Ali sad jedi. Doi. Dobra hrana.
+{71853}{71914}Doi, doi.
+{71984}{72064}Artu, ostani ovde i pazi na kamp.
+{72360}{72421}Gde je Artu kad mi treba?
+{72421}{72639}Sir, vaö brod ima jedinstven dijalekt.|Mislim da kaûe da se ima problem sa |polarizatorom enegrije.
+{72639}{72710}Bojim se da Êete ga morati zameniti.
+{72710}{72787}Pa, naravno da Êu ga morati zameniti.
+{72790}{72856}Evo! I »ui,
+{72886}{72974}mislim da je bolje da zameniö|spoj negativne struje.
+{73480}{73560}Hej, Vaöa Visosti, samo pokuöavam da pomognem.
+{73560}{73616}HoÊeö li molim te prestati tako da me zoveö?
+{73616}{73691}Naravno, Lea.
+{73691}{73827}Ti sve oteûavaö ponekad.|Znam, stvarno. Mogla bi biti finija.
+{73827}{73919}Hajde, priznaj.|Nekad misliö da sam u redu.
+{73952}{74068}Moûda ponekad...Kad se ne|ponaöaö kao ubre.
+{74068}{74263}?ubre? ?ubre?|Svia mi se kako to zvuËi.
+{74263}{74332}Prestani. |- Sa Ëim?
+{74332}{74394}Prestani! Ruke su mi prljave.
+{74394}{74451}I moje su.|»ega se bojiö?
+{74451}{74489}Bojim?
+{74489}{74600}Drhtiö.|- Ne drhtim.
+{74600}{74667}Voliö me zato öto sam ?ubre.
+{74667}{74727}Nema dovoljno ubradi|u tvom ûivotu.
+{74727}{74783}Ja volim samo fine muökarce.
+{74783}{74820}Ja sam fin muökarac.
+{74820}{74874}Ne, nisi. Ti si...
+{74920}{75021}Sir, sir! Izolirao sam|spoj na obrnutoj energiji.
+{75057}{75116}Hvala. Hvala puno.
+{75116}{75201}Oh nema na Ëemu, sir.
+{75315}{75456}I to je Gospodaru Vejder, bio zadnji put|da smo ih videli. Mislim|da su uniöteni s obzirom na naöu ötetu.
+{75456}{75682}Ne, Kapetane, ûivi su.Neka svaki brod|pretraûuje polje asteroida dok ih ne naete.
+{75746}{75798}Gospodaru Vejder.
+{75798}{75842}Da, Admirale, öta je?
+{75828}{75881}Imperator je naredio da ga kontaktirate.
+{75881}{75997}Izadite iz polja asteroida|da bi imali Ëistiji prenos.
+{75997}{76054}Da, Gospodaru.
+{76465}{76574}Koja je zapoved, Gospodaru?
+{76574}{76656}Velika je smetnja u Sili.
+{76656}{76699}Osetio sam je.
+{76699}{76822}Imamo novog neprijatelja|Luka Skajvokera.
+{76822}{76875}Da, Gospodaru
+{77293}{77353}On bi nas mogao uniötiti.
+{77353}{77474}On je samo deËak.|Obi-Van mu viöe nemoûe pomoÊi.
+{77474}{77665}Sila je jaka sa njim.|Sin Skajvokera nesme postati Dûedaj.
+{77665}{77788}Ako bi ga preobratili,|postao bi moÊan saveznik.
+{77788}{77997}Da. Da. Bio bi od velike pomoÊi.|Moûe li se to uraditi?
+{77997}{78114}Ili Êe nam se pridruûiti|ili Êe umreti, Gospodaru.
+{78505}{78594}Vidi, siguran sam da je izvrsno. |Ne razumem zaöto nemogu videti Jodu sada.
+{78594}{78826}Strpljenja! Za Dûedaja je vreme|da se jede. Jedi, jedi.
+{78850}{79115}VruÊe. Dobra hrana? Dobra?
+{79115}{79193}Koliko daleko je Joda?|Da li Êe nam puno trebati da doemo?
+{79193}{79340}Ne daleko. Joda ne daleko.|Strpljenja. Uskoro Êeö biti sa njim.
+{79370}{79571}Rutlef, kuvam.|Zaöto ûeliö postati Dûedaj?
+{79571}{79648}Najviöe zbog mog oca, mislim.
+{79648}{79806}Ah, tvoj otac. On je bio moÊan Dûedaj.
+{79806}{79988}Kako znaö mog oca? Neznaö ni ko sam ja.|äta ja radim ovde, samo troöim vreme.
+{80000}{80116}Ne mogu ga uËiti. Momak nema strpljenja.
+{80116}{80185}NauËiÊe strpljenje.
+{80185}{80407}Puno je besa u njemu,|kao kod njegovog oca.
+{80407}{80530}Kad si mene uËio,|zar sam ja bio drugaËiji?
+{80530}{80614}On nije spreman.
+{80614}{80845}Joda! Spreman sam. Ben!|Mogu biti Dûedaj. Ben, reci mu.
+{80845}{81152}Spreman si? äta ti znaö o tome? 800 godina|uËim Dûedaje. Moja je odluka koga Êu uËiti!
+{81175}{81365}Dûedaj mora imati najjaËu odluku,|i najveÊu ozbiljnost.
+{81365}{81537}Ovoga gledam dugo vremena.|Nikad mu misli nisu sa njim.
+{81750}{82056}äta je radio. Avanture. Uzbuenja.|Dûedaj ne ûudi za tim. Ti si bezobziran!
+{82056}{82141}I ja sam bio, ako se seÊaö.
+{82141}{82288}Prestar je. Da, Prestar da poËne s treningom.
+{82288}{82363}Ali ja sam toliko naucio.
+{82518}{82565}Da li Êe zavröiti ono öto poËne?
+{82565}{82711}NeÊu te izneveriti. Ne bojim se.
+{82711}{82943}BojaÊeö se. I te kako.
+{83941}{83984}Sir, ako mogu ponuditi miöljenje...
+{83984}{84026}Ne interesuje me|tvoje miöljenje, Tripio.
+{84026}{84075}Neöto je tamo.
+{84075}{84160}Gde?|- Napolju, u peÊini.
+{84160}{84208}Evo ga. Sluöaj! Sluöaj!
+{84208}{84251}Izlazim tamo.|- Jesi li lud?!
+{84251}{84331}Taman sam sastavio ovu kantu.|Ne ûelim da je sada neöto razvali.
+{84331}{84403}Onda idem sa tobom.
+{84403}{84526}Mislim da je bolje da ostanem i|Ëuvam brod.
+{84871}{85023}Ovo tlo je Ëudno.|Ne Ëini se da je kameno.
+{85114}{85180}Straöno je vlaûno ovde.
+{85180}{85283}Neznam. Imam loö predoseÊaj.
+{85246}{85306}Da.
+{85306}{85360}Pazi!
+{85419}{85568}Da, to sam i mislio. Minok. »ui, proveri|ostatak broda da se joö koji nije zakaËio.
+{85568}{85625}Oni ûvacu kablove.
+{85625}{85653}Minoksi?
+{85653}{85760}Udite unutra sastrugaÊemo ih|ako ih joö ima.
+{85901}{86023}Odlazi! Odlazi! Zveri.|Iö! Iö!
+{86129}{86243}Samo momenat...
+{86714}{86761}»ui, gubimo se odavde!
+{86761}{86809}Imperija je joö gore.|Mislim da nije mudro...
+{86809}{86870}Nema vremena|za raspravu.
+{86870}{86951}Ja ...
+{87068}{87121}Nemoûeö iÊi brzinom svetlosti|u polju asteroida...
+{87121}{87197}Sedi, srce. PoleÊemo!
+{87291}{87332}Vidi! |- Vidim, vidim.
+{87332}{87395}Gotovi smo!|- PeÊina se zatvara.
+{87395}{87489}Ovo nije peÊina.|- äta?
+{88235}{88476}TrËi! Da. Dûedajeva snaga teËe iz Sile.Ali pazi|se tamne strane. Bes...strah...agresivnost.
+{88476}{88615}Oni su tamna strana Sile.|Lako teku i brzo ti se pridruûe u borbi.
+{88615}{88838}Jednom kreni|tamnim putem i veËno Êe dominirati tvojom|sudbinom, kao kod Obi-Van-ovog naslednika.
+{88838}{88910}Vejder. Da li je tamna strana jaËa?
+{88910}{89062}Ne...ne...ne. Brûa, laköa, zavodljivija.
+{89062}{89116}Kako da razlikujem dobro od loöeg?
+{89116}{89307}ZnaÊi Êeö. Kada si miran.|Pasivan.
+{89307}{89457}Dûedaj koristi Silu za znanje|i odbranu,nikad za napad.
+{89457}{89611}Ali reci mi zaöto nemogu...|Ne, ne nema viöe to je sve za danas.
+{89611}{89797}OËisti misli od pitanja.
+{90200}{90269}Neöto nije u redu ovde.
+{90352}{90426}OseÊam hladnoÊu, smrt.
+{90426}{90555}To mesto...je|puno mraËne strane Sile.
+{90555}{90706}To je baza zla. Tu moraö uÊi.
+{90706}{90790}äta je unutra?
+{90799}{90884}Samo ono öto poneseö unutra.
+{90951}{91076}Tvoje oruûje...neÊe ti biti potrebno.
+{94837}{94897}Lovci na ucene. Ne treba nam taj oloö.
+{94897}{94939}Da, sir.
+{94939}{95010}Ti Pobunjenici nam neÊe pobeÊi.
+{95120}{95183}Sir, imamo prioritetni signal od|Zvezdanog RazaraËa Avendûera.
+{95245}{95299}U redu.
+{95299}{95432}...nagrada je za svakog|ko nae Milenijumskog Sokola.
+{95432}{95622}Moûete koristiti sve metode,|ali ûelim ih ûive. Bez dezintegracija.
+{95622}{95788}Kako ûelite.|Gospodaru Vejder! Gospodaru, imamo ih.
+{95876}{95984}Hvala Bogu da izlazimo|iz polja asteroida.
+{96073}{96254}Beûimo odavde.|Spremni za brzinu svetlosti? 1...2...3!
+{96377}{96440}Nije fer!
+{96487}{96547}Sva kola za prenos rade.|Nije moja greöka!
+{96547}{96634}Nema brzine svetlosti?|Nije moja greöka.
+{96729}{96841}Sir, upravo smo izgubili glavni zadnji ötit.|Joö jedan pogodak i gotovi smo.
+{96841}{96879}Okreni ga.
+{96879}{96949}Rekao sam okreni ga!|StaviÊu svu energiju napred.
+{96949}{97045}Napaöceö ih?!|Sir, izgledi za preûivljavanje napada|na Imperijski Zvezdani RazaraË...
+{97045}{97121}Zaveûi!
+{97253}{97405}Spremaju se za napad.|Digni ötitove!
+{97527}{97651}Prati ih. Mogu se vratiti joö jednom.|Kapetane Nida, viöe ih ne vidimo.
+{97651}{97753}Nisu mogli nestati.|Nijedan tako mali brod nema ureaj za nevidljivost.
+{97753}{97790}Nema im traga, sir.
+{97790}{97895}Kapetane, Gospodar Vejder|traûi izvjeötaj o poteri.
+{97910}{98108}Spremi öatl. PreuzeÊu odgovornost i|izvinuti se Gospodaru Vejderu.|Nastavite pretraûivati podruËje.
+{98108}{98160}Da, Kapetane Nida.
+{98249}{98357}Koristi Silu. Da...
+{98465}{98653}Sada...Kamen. Oseti ga.
+{98921}{98997}Koncentriöi se!
+{99335}{99402}O, ne. Nikad ga neÊemo izvaditi.
+{99402}{99648}Tako si siguran.|Uvek misliö da se neöto nemoûe uraditi.
+{99648}{99707}Zar me ne sluöaö?
+{99707}{99798}Gospodaru, pomerati kamenje je jedno.|Ovo je drugaËije.
+{99798}{99897}Isto je!|Samo je drugaËije u tvojoj glavi.
+{99897}{100003}Moraö zaboraviti öto si nauËio dosad.
+{100010}{100053}U redu, probaÊu.
+{100053}{100254}Ne! Ne probati. Uraditi.| Ili ne. Nema probati.
+{101379}{101460}Ne mogu. Prevelik je.
+{101460}{101649}VeliËina nije bitna. Vidi mene. |Sudiö o meni prema veliËini?
+{101649}{101996}Ne bi trebao. Moj saveznik je Sila.|I to je moÊan saveznik.|éivot je stvara i uz njega raste.
+{101996}{102332}Nas okruûuje energija i veûe nas.|Mi nismo jednostavni po prirodi.|Moraö osetiti Silu oko tebe.
+{102332}{102747}Ovde, izmeu tebe...|mene...drveta...kamena...svuda!|Da, Ëak izmeu zemlje i broda!
+{102778}{102865}Ti ûeliö nemogue.
+{105404}{105523}Ja ne...Ne mogu da verujem.
+{105523}{105610}Zato nisi ni uspeo.
+{106027}{106143}Izvinjenje prihvaÊeno,|Kapetane Nida.
+{106315}{106398}Gospodaru Vejder, naöi brodovi su|zavröili skeniranje i nisu niöta naöli.
+{106398}{106484}Da je Milenijumski Soko otiöao brzinom svetlosti,|bili bi na drugom kraju galaksije dosad.
+{106484}{106640}Javite svim komandama. IzraËunajte svaku|destinaciju tokom njihove zadnje putanje.
+{106640}{106685}Da, Gospodaru. NacûÊi Êemo ih.
+{106685}{106817}Nemojte me ponovo izneveriti, Admirale.
+{106851}{106946}Uzbuna svim komandama. Raöirite flotu.
+{107279}{107358}Kapetane Solo, ovaj put ste otiöli predaleko.
+{107358}{107448}Ne, neÊu Ëuteti, »ubaka.|Zaöto me niko ne sluöa?
+{107448}{107500}Flota se razdvaja.
+{107500}{107586}Idi nazad i stani pored ruËnog|prekidaËa za kandûu za prilepljivanje.
+{107616}{107780}Ne vidim kako ovo moûe pomoÊi. U |ovakvim prilikama predaja je sasvim prihvatljiva.
+{107780}{107803}Imperija moûe biti velikoduöna...
+{107803}{107837}Hvala.
+{107837}{108014}äta si mislio|kao sledeÊi potez? Imperija obiËno izbaci|otpad pre nego öto ue u brzinu svetlosti.
+{108014}{108081}Samo otplovimo sa smeÊem. äta onda?
+{108081}{108201}Onda samo naemo sigurnu luku|negde ovde. Ideje?
+{108201}{108258}Ne. Gde smo mi?|Anot sistem.
+{108258}{108327}Anot sistem. Nema toga puno.
+{108327}{108425}Ne. »ekaj. Ovo je interesantno. Lendo.
+{108425}{108485}Lendo sistem?
+{108485}{108574}Lendo nije sistem, to je Ëovek.|Lendo Kalrizijan.
+{108574}{108664}Kartaroö, kockar, ubre.|SvideÊeti se.
+{108664}{108704}Hvala.
+{108704}{108770}Bespin. Daleko je,|ali mislim da moûemo uspeti.
+{108786}{108818}Rudarska kolonija?
+{108818}{108932}Da, Tibana rudnik gasa.|Lendo je nekoga prevario za njega.
+{108932}{109029}Lendo i ja se znamo odavno.
+{109029}{109063}Moûe li mu se verovati?
+{109063}{109189}Ne. Ali ne voli Imperiju,|to ti mogu reÊi.
+{109194}{109288}Idemo, »ui. Spreman. OtkaËi!
+{109440}{109565}Imaö svojih momenata.|Ne puno, ali ih imaö.
+{110387}{110887}Koncentriöi se...|Oseti Silu kako teËe. Da. Dobro. Mirno.
+{110887}{111132}Kroz Silu, videÊeö stvari.|Druga mesta. BuduÊnost...Proölost.|Prijatelje kojih nema.
+{111132}{111236}Han! Lea!
+{111284}{111447}Kontrola, kontrola. Moraö nauËiti kontrolu.
+{111492}{111588}Video sam... grad u oblacima.
+{111588}{111688}Tamo imaö prijatelje.
+{111695}{111748}Bili su u mukama.
+{111748}{111816}To je buduÊnost koju vidiö.
+{111816}{112116}BuduÊnost? HoÊe li oni umreti?
+{112162}{112297}Teöko je to videti.|BuduÊnost se stalno menja.
+{112339}{112410}Moram iÊi kod njih.
+{112418}{112496}Moraö odluËiti kako|da im najbolje pomogneö.
+{112496}{112601}Ako odeö sad, moûeö im pomoÊi.
+{112601}{112748}Ali Êeö uniötiti sve za öta|su se borili i patili.
+{112999}{113178}Ne, nemam dozvolu za sletanje.|Treba mi Lendo Kalrizijan.
+{113178}{113227}Stani! Da ti objasnim.
+{113227}{113275}OstaÊete na|vaöem sadaönjem kursu.
+{113275}{113314}Malo su nervozni, zar ne?
+{113314}{113383}Mislila sam da znaö ovu osobu.
+{113418}{113506}To je bilo davno.|Siguran sam da je zaboravio.
+{113701}{113771}Imate dozvolu da sletite|na Platformu 3-2-7.
+{113771}{113817}Hvala.
+{113824}{113909}Nema razloga za brigu.|Lendo i ja se znamo odavno.
+{113909}{113992}Ko se brine?
+{115074}{115169}Niko nas nije doËekao.
+{115177}{115241}Ne svia mi se ovo.
+{115241}{115315}äta bi ti htela?|Ipak su nam dopustili da sletimo.
+{115315}{115424}Vidi, ne brini.|Sve Êe biti u redu, veruj mi.
+{115521}{115758}Vidiö? Moj prijatelj.|Budi na oprezu, dobro?
+{115835}{115947}Ti ljigavi, prevrtljivi,prevarante!
+{115947}{116062}Imaö hrabrosti|da doeö ovde, nakon svega.
+{116303}{116420}Kako si, stari gusaru?|Drago mi je da te vidim! Mislio sam da te|neÊu videti nikad? Gde si bio?
+{116420}{116533}Izgleda prijateljski.|Da...veoma prijateljski.
+{116533}{116573}äta radiö ovde?
+{116573}{116627}Popravke. Mislio sam da mi moûeö pomoÊi.
+{116627}{116665}äta si mi uradio od broda?
+{116665}{116764}Tvog broda? Hej, seÊaö se,|poöteno si ga izgubio.
+{116764}{116896}Kako si, »ubaka.|Joö si s ovim gubitnikom?
+{116981}{117181}Zdravo. äta to imamo ovde? Dobrodoöli.|Ja sam Lendo Kalrizijan. Ko ste vi?
+{117181}{117222}Lea.
+{117222}{117330}Dobrodoöli, Lea.
+{117330}{117406}U redu, u redu, stari zavodniËe.
+{117406}{117543}Zdravo, sir. Ja sam Si-Tripio,|ljudsko-kiborgski odnosi.|Moji usluge su vama na...
+{117543}{117573}Dobro!
+{117573}{117620}äta je Sokolu?|- Hiperpotisak.
+{117620}{117669}Reci cu ljudima da ga poprave.|Dobro.
+{117669}{117801}Znaö, taj brod mi je spasio ûivot dosta puta.|Najbrûe smeÊe u galaksiji.
+{117816}{117877}Kako rudnik? Da li se isplati?
+{117877}{118096}Ne onoliko koliko bi ja hteo.|Mi smo mala stanica ne toliko uspeöna stanica.|Imamo mnogo probema.
+{118096}{118143}äta je smeöno?
+{118143}{118255}Ti. Sluöaj se|zvuËiö kao biznismen, odgovorni voa.
+{118255}{118296}Ko bi to mislio, ha?
+{118296}{118372}Znaö, vraÊaö mi neke uspomene.
+{118372}{118409}Da.
+{118409}{118566}Da, sada sam odgovoran.|to je cena uspeha.
+{118599}{118666}Fino je videti nekoga poznatog.
+{118666}{118720}Kako nepristojno!
+{118829}{118923}Zdravo? Interesantno.
+{118923}{118977}Ko ste vi?
+{118977}{119106}Jako mi je ûao.|Nisam mislio da smetam.|Molim vas ne ustajte!
+{119503}{119593}Luk! Moraö zavröiti obuku.
+{119593}{119658}Nemogu zaboraviti viziju.|Moram pomoÊi prijateljima.
+{119658}{119717}Nesmeö otiÊi!
+{119717}{119758}Ali Han i Lea Êe|umreti ako ostanem.
+{119758}{119847}Ti to neznaö.
+{119851}{119924}Ni Joda nemoûe|videti njihovu sudbinu.
+{119924}{119994}Ali ja im mogu pomoÊi! OseÊam Silu!
+{119994}{120186}Ali je nemoûeö kontrolisati.|Ovo je opasno vreme u kojem Êeö biti|na iskuöenju od tamne strane Sile.
+{120186}{120380}Da, da. Sluöaj Obi-Vana. PeÊina.|Seti se peÊine!
+{120380}{120541}Ali toliko sam odtad nauËio. Gospodaru Joda,|imate moju reË da cu zavröiti zapoËeto.
+{120541}{120700}Vladar ûeli tebe i tvoje moguÊnosti.|Zato Êe tvoji prijatelji patiti.
+{120700}{120761}Baö zato moram otiÊi.
+{120761}{120886}Luk, ne ûelim da te Imperator otme|kao öto je oteo Vejdera.
+{120890}{120930}NeÊe.
+{120950}{121204}Moraju biti spreËeni.|Samo pravi Dûedaj sa silom uz sebe Êe|poraziti Vejdera i Imperatora.
+{121204}{121424}Ako sad zavröiö trening, i odabereö|laköi put, kao Veder, postaÊeö agent zla.
+{121424}{121470}Strpljenja.
+{121470}{121519}Da ûrtvujem Hana i Leu?
+{121519}{121613}Ako poötujeö njihovu borbu...da!
+{121613}{121768}Ako se suprotstaviö Vejderu,|Moraö to sam uraditi. Ja se nemogu meöati.
+{121779}{122053}Razumem. Artu, upali motore.
+{122085}{122264}Luk, ne predaj se mrûnji|to vodi u tamnu stranu.
+{122264}{122377}Jak je Vejder.|Ovo öto si nauËio te moûe spasiti.
+{122377}{122512}U redu. I obeÊavam da Êu se vratiti.
+{122648}{122811}Rekao sam ti.|Bezobziran je. To je najgore.
+{122811}{122863}Taj momak je naöa zadnja nada.
+{122863}{122982}Ne. Ima joö jedan.
+{123702}{123785}Brod je skoro gotov.|dve ili tri stvari i super smo.
+{123785}{123883}äto pre to bolje. Neöto nije u redu.|Niko nezna niöta o Tripiu.
+{123883}{123943}Predugo ga nema da bi bio izgubljen.
+{123943}{124059}Opusti se. PriËaÊu sa Lendom i videti|öta mogu saznati.
+{124059}{124130}Ne verujem Lendu.
+{124130}{124207}Ni ja mu ne verujem.|Ali on mi je prijatelj.
+{124207}{124296}Uostalom, idemo uskoro.
+{124316}{124420}Ti jedva Ëekaö da odeö,|zar ne?
+{125196}{125240}äta je bilo?
+{125258}{125374}Gde? Naöao si ga na otpadu?
+{125374}{125486}Kakav nered.|»ui, moûeö li ga popraviti?
+{125489}{125544}Lendo ima ljude koji ga mogu popraviti.
+{125544}{125590}Ne, hvala.
+{125618}{125672}éao mi je. Da li prekidam neöto?
+{125672}{125745}Ne.
+{125789}{125931}Prekrasno izgledaö.|Sasvim pripadaö ovde meu oblacima.
+{125931}{125972}Hvala.
+{125972}{126033}Hoceö li mi se|priduûiti uz osveûenje?
+{126033}{126114}Svi su pozvani, naravno.
+{126116}{126158}Imate problema sa vaöim droidom?
+{126158}{126247}Ne. Nema problema. Zaöto?
+{126435}{126570}Vidiö, mi smo mala operacija,|i ne spadamo pod nadleûnost Imperije.
+{126570}{126608}Onda ste deo rudarskog udruûenja ?
+{126608}{126860}Ne. Premali smo da nas primete,|öto je dobro jer naöe muöterije|ne vole da budu primeÊene.
+{126860}{126952}Zar se ne bojiö da ce Imperija|saznati za vas i zatvoriti vas?
+{126952}{127090}Ta opasnost nam stalno visi|nad glavom. Ali razvili smo sigurnost.
+{127090}{127190}Upravo smo postigli dogovor koji|Êe Imperiju zauvek drûati dalje od nas.
+{127426}{127517}Bila bi nam Ëast|da nam se pridruûite.
+{127643}{127772}Nisam imao izbora.|Stigli su pre vas. éao mi je.
+{127850}{127913}I meni je ûao.
+{128241}{128305}Ne, Tripio je s njima.
+{128305}{128380}Drûi se. Skoro smo tu.
+{129748}{129796}Skidaj ovo!
+{129796}{129992}Nisam mislio da smetam.|Ne, ne...Molim vas ne ustajte. Ne!
+{129992}{130198}Olujni juriönici? Ovde? U opasnosti smo.|Moram reÊi ostalima. O, ne! Pogoen sam!
+{130838}{130884}Gospodaru Vejder.
+{130884}{130993}Moûeö odvesti Kapetana Sola Dûabi Hutu|nakon öto ja uhvatim Skajvokera.
+{130993}{131057}On mi ne vredi mrtav.
+{131057}{131167}NeÊe biti trajno oöteÊen.
+{131173}{131251}Gospodaru Vejder, öta Êemo sa Lejom i Vukijem?
+{131251}{131318}Nesmeju nikada napustiti ovaj grad.
+{131318}{131393}To nije bio uslov dogovora,|kao ni predaja Hana ovom lovcu na ucene!
+{131393}{131551}Moûda misliö da se prema|tebi nije fer postupalo.
+{131551}{131589}Ne.
+{131589}{131704}Dobro. Bilo bi loöe ako bi|morao ostaviti garnizon ovde.
+{131729}{131791}Ovaj dogovor postaje sve gori.
+{131817}{132078}O, da, to je veoma dobro. Svia mi se.|Neöto nije u redu jer sad ne vidim.
+{132078}{132180}Stani. Stani! öta si uradio?
+{132180}{132349}Naopako sam ti vreÊo krznena.|Samo si ti dovoljno glup...
+{132677}{132732}OseÊam se uûasno.
+{133096}{133156}Zaöto ovo rade?
+{133202}{133298}Niöta me nisu pitali.
+{133378}{133424}Lendo.
+{133492}{133524}Beûi odavde, Lendo!
+{133524}{133619}Zaveûi i sluöaj! Vejder je pristao|da preda Leu i »uia meni. Tebi?
+{133619}{133670}MoraÊe ostati ovde,|ali bar Êe biti sigurni.
+{133670}{133726}A Han?|- Vejder ga daje lovcu na ucene.
+{133726}{133863}Vejder nas ûeli mrtve. On vas|uopöte ne ûeli. On ûeli nekog Skajvokera.
+{133863}{133908}Luka?| Vejder je postavio zamku za njega.
+{133908}{133964}A mi smo mamac.|On je na putu ovde.
+{133964}{134098}Savröeno. Dobro si nam smestio,|Prijatelju!
+{134150}{134331}Stani! Uradio sam sve öto mogu.|éao mi je ali imam ja svojih problema.
+{134331}{134476}Da, ti si pravi heroj.
+{134663}{134744}Baö znaö sa ljudima.
+{135068}{135251}Ovo postrojenje je grubo, ali|Êe biti dovoljno da smrzne|Skajvokera za put Impreatoru.
+{135251}{135328}Gospodaru Vejder, brod dolazi. X-krila klase.
+{135328}{135430}Dobro. Pratite Skajvokera|i pustite ga da sleti.
+{135436}{135555}Gospodaru Vejder, ovo |koristimo samo za karbonsko smrzavanje.|Ako ga stavite unutra moûe umreti.
+{135555}{135729}Ne ûelim Imperatorovu nagradu oöteÊenu.|TestiraÊemo ga na Kapetanu Solu.
+{136282}{136375}Da si mi spojio noge ,|Ne bih bio u ovoj uûasnoj poziciji.
+{136375}{136523}SeÊaö se, »ubaka, odgovaraö|za mene, ne radi niöta glupo.
+{136825}{136896}äta se deöava...druûe?
+{136896}{136950}Stavljaju te u karbonsko zamrzavanje.
+{136950}{137040}äta ako ne preûivi?|Puno mi vredi.
+{137040}{137168}Imperija ce ti nadoknaditi njegovu smrt.|Stavite ga unutra!
+{137196}{137260}O, ne! Ne, ne, ne! Stani, »ubaka, stani...!
+{137260}{137325}Stani, »ui, stani! »ujeö li? Stani!
+{137325}{137422}Da, stani, molim te! Nisam spreman da umrem.
+{137422}{137496}»ui! »ui, to mi ne pomaûe!
+{137496}{137585}ätedi snagu. BiÊe prilike.
+{137585}{137811}Princeza - pazi na nju.|»ujeö li?
+{138114}{138156}Volim te!
+{138156}{138241}Znam.
+{138885}{138996}äta...se deöava? Okreni se,|»ubaka, ne vidim.
+{140391}{140548}Oh...zarobili su ga u karbonitu.|Trebao bi biti zaötiÊen ako preûivi.
+{140548}{140746}Pa, Kalrizijane, hoÊe li preûiveti?|- Da, ûiv je. Savröena hibernacija.
+{140746}{140883}Tvoj je.|Podesite sobu za Skajvokera.
+{140919}{140965}Skajvoker je sletio, Gospodaru.
+{140965}{141089}Dobro. Pobrini se da nas nae.
+{141162}{141259}Kalrizijan, odvedi princezu i|Vukija na moj brod.
+{141259}{141318}Rekao si da Êe ostati u|gradu pod mojom nadzorom.
+{141318}{141443}Menjam dogovor.|Moli se da ga joö viöe ne promenim.
+{143768}{143916}Luk! Luk, ne -- to je zamka!|To je zamka!
+{145000}{145189}Sila je s tobom, mladi Skajvokeru.|Ali joö nisi Dûedaj.
+{146651}{146870}OdliËno. »uvaj ih u tornju|i budi tih.
+{146971}{147031}äta to radiö?|Idemo odavde.
+{147031}{147081}Odmah sam znao da je to greöka.
+{147081}{147183}Misliö da Êemo ti|verovati nakon svega?
+{147183}{147259}Nisam imao izbora...|äta radiö? Veruj mu, veruj mu!
+{147259}{147330}Mi razumemo, zar ne, »ui?|Nije imao izbora.
+{147330}{147384}Samo hoÊu da pomognem...
+{147384}{147509}Ne treba nam tvoja pomoÊ.
+{147555}{147598}äta?
+{147598}{147636}ZvuËi kao Han.
+{147636}{147815}Han se joö moûe spasiti...Mislim,|na IstoËnoj Platformi...
+{147815}{147882}»ui.
+{147910}{148020}éao mi je zbog ovog.|Uostalom, on je Vuki.
+{148020}{148118}Stavite Kapetana Sola u teretni deo.
+{148452}{148526}Artu! Artu! Gde si bio?
+{148526}{148678}Okreni se, ti...! poûuri!|Pokuöavamo da spasimo Hana od lovca na ucene.
+{148712}{148844}Bar si u jednom komadu!|Vidi öta se meni desilo!
+{149493}{149547}NauËio si mnogo, mladiÊu.
+{149547}{149634}VideÊeö da sam pun iznenaenja.
+{149876}{150034}Tvoja sudbina je kod mene, Skajvokeru.|Obi-Van zna da je ovo istina.
+{150034}{150078}Ne!
+{150235}{150475}Prelako je.|Moûda nisi jak kao öto je Imperator mislio.
+{150525}{150657}Impresivno...jako impresivno.
+{150818}{151064}Obi-Van te je dobro nauËio.|Savladao si strah...|sad oslobodi bes.
+{151064}{151162}Samo tvoja mrûnja me moûe uniötiti.
+{154273}{154323}Promenili su sigurnosnu öifru!
+{154323}{154441}Artu, reci kompjuteru|da zaobie sigurnosni sistem.
+{154524}{154749}Paûnja! Govori Lendo Kalrizijan.|Imperija je zauzela grad. Neka svi napuste grad.
+{154883}{154922}Ovuda.
+{154922}{155046}Ne krivite mene. Ja sam samo prevodilac.|Nerazumem se u kompjuterske terminale.
+{155541}{155666}O Ëemu priËaö?|Ne interesuje nas hiperpotisak na|Milenijumskom Sokolu. Popravljen je!
+{155736}{155820}Samo otvori vrata, glupa konzervo.
+{156024}{156099}Nisam sumnjao u tebe ni na sekund.|Krasno!
+{156630}{156746}To je bolelo! Sagni se,|glupane!
+{156862}{156936}Lea! Hajde!
+{157086}{157213}Mislio sam da Êe mi ona zver doÊi glave.|Naravno da sam, izgledao bolje.
+{158513}{158699}Poraûen si. Ne opiri se.|Nemoj dopustiti da te uniötim kao Obi-Vana.
+{159056}{159202}Nema bega. Nemoj me terati da te uniötim.
+{159252}{159407}Ne shvataö koliko si vaûan.|Tek otkrivaö svoje moÊi.
+{159407}{159686}Pridruûi mi se i zavröi trening.|Zajedno moûemo okonËati sve|ovo i dovesti galaksiju u red.
+{159686}{159739}Nikad ti se neÊu pridruûiti!
+{159739}{159849}Kad bi samo znao moÊ tamne strane.
+{159849}{159958}Obi-Van ti nije rekao|öta se desilo tvom ocu.
+{159958}{160098}Rekao mi je dovoljno!|Rekao mi je da si ga ti ubio.
+{160098}{160204}Ne. Ja sam tvoj otac.
+{160294}{160506}Ne. Ne. To nije istina!|To je nemoguÊe!
+{160506}{160624}Potraûi oseÊaje.|Znaö da je istina.
+{160624}{160757}Ne! Ne!
+{160768}{160900}Luk. Moûeö uniötiti Imperatora.|On je ovo predvideo.
+{160900}{161123}To je tvoja sudbina. Pridruûi mi|se da vladamo galaksijom kao otac i sin.
+{161374}{161497}Poi sa mnom. To je jedini put.
+{163369}{163592}Lea...
+{163841}{163945}»uj me! Lea!
+{163945}{164073}Luk...Moramo se vratiti.
+{164073}{164128}äta?|- Znam gde je Luk.
+{164128}{164178}A oni lovci?
+{164178}{164215}»ui, samo to uradi.
+{164215}{164305}A Vejder?|U redu, u redu, u redu.
+{164817}{164861}Vidi, neko je tamo.
+{164913}{164997}To je Luk. »ui, uspori.|Uspori i doi ispod njega.
+{164997}{165058}Lendo, otvori gornji poklopac.
+{165429}{165526}Dobro. Polako, »ui.
+{166012}{166080}Lendo?|- Dobr, idemo.
+{166473}{166533}Lea.
+{166538}{166620}U redu, »ui idemo.
+{167419}{167457}VratiÊu se.
+{167605}{167651}Zvezdani RazaraËi.
+{167757}{167827}U redu, »ui sremi se za brzinu svetlosti.
+{167827}{167930}Ako su tvoji ljudi popravili  .|Sad ili nikad, koordinate su tu.
+{167930}{167981}Nagazi!
+{168227}{168404}Rekli su mi da su popravili.|Nije moja greöka, verovao sam im!
+{168522}{168581}Za momenat Êe biti u dometu|privlaËnog zraka, Gospodaru.
+{168581}{168686}Da li su tvoji ljudi deaktivirali|hiperpotisak na Milenijumskom Sokolu?
+{168686}{168825}Da, Gospodaru.|- Dobro. Pripremite doËek i|stavite oruûje na omamljivanje.
+{168825}{168906}Da, Gospodaru. NaredniËe!|- Da, sir.
+{168923}{169011}Glasna zver. Zaöto jednostavno|ne uemo u brzinu svetlosti?
+{169011}{169153}Ne moûemo?|Kako znaö da hiperpotisak ne radi?
+{169192}{169412}Glavni gradski kompjuter ti je rekao?|Artu-Ditu, znaö ti i bolje nego|da verujeö nekom kompjuteru.
+{169675}{169710}Luk.
+{169713}{169744}OËe.
+{169786}{169861}Sine, poi sa mnom.
+{169899}{170016}Ben, zaöto mi nisi rekao?
+{170157}{170213}»ui!
+{170451}{170494}To je Vejder.
+{170623}{170744}Luk...to je tvoja sudbina.
+{170815}{170950}Ben, zaöto mi nisi rekao?
+{171102}{171205}Uzbuna svim komandama.|Spremite privlaËni zrak.
+{171281}{171418}Artu, odmah se vrati!|Nisi joö zavröio! Ne znaö popraviti hiperpotisak.|»ubaka Êe to uraditi.
+{171418}{171535}Stojim ovde u komadima,|a ti misliö da si heroj!
+{171610}{171669}Oh, uspeo si!
+{173017}{173076}Luk, spremni smo za poletanje.
+{173076}{173221}SreÊno, Lendo.|Kada naem Dûaba Hata i onog lovca na ucene,|kontaktiraÊu vas.
+{173221}{173287}SreöÊemo se na taËki sastanka na Tatuinu.
+{173287}{173373}Princezo, naÊi cemo Hana. ObeÊavam.
+{173373}{173450}»ui, Ëekam tvoj signal.
+{173450}{173558}»uvajte se vas dvoje. Neka Sila bude s vama.
+{173600}{173700}by: enab011
+{173725}{175225}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/76q9u|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ
