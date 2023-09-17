@@ -1,0 +1,995 @@
+{0}{100}{y:i}prevod i obrada|Gaca62
+{144}{335}{y:i}PODRUM
+{337}{371}{y:i}MEDICINA
+{373}{419}{y:i}TROTOAR
+{420}{469}{y:i}VLADA
+{470}{506}{y:i}KIäNI MANTIL
+{508}{550}{y:i}OTKAZ
+{552}{593}{y:i}GADAN KAäALJ
+{594}{631}{y:i}ISPLATA
+{633}{671}{y:i}DETE
+{673}{704}{y:i}URADILO
+{705}{743}{y:i}KAD
+{744}{777}{y:i}OPET
+{779}{815}{y:i}PROLAZ
+{817}{859}{y:i}NOV PRIJATELJ
+{860}{908}{y:i}KAPA OD RAKUNOVOG KRZNA
+{909}{956}SVINJAC
+{958}{1003}{y:i}NOV»ANICE OD $20
+{1004}{1064}{y:i}DESET
+{1065}{1241}{y:i}BRZE NOGE
+{1243}{1281}{y:i}CRNI DIM
+{1283}{1318}{y:i}ZAGREVANJE
+{1319}{1366}{y:i}KREVET
+{1368}{1400}{y:i}IONAKO
+{1401}{1432}{y:i}MNOGI KAéU
+{1434}{1469}{y:i}MORA DA SE HAPSI
+{1470}{1531}{y:i}OKRUéNI TUéILAC
+{1533}{1571}{y:i}PAZI!
+{1573}{1610}{y:i}NIJE VAéNO
+{1612}{1651}{y:i}NA VRHOVIMA PRSTIJU
+{1653}{1701}{y:i}NEMA DOZE
+{1703}{1734}{y:i}OVE
+{1735}{1766}{y:i}VATROGASNO CREVO
+{1768}{1811}{y:i}»IST NOS
+{1813}{1860}{y:i}OBI»NO ODELO
+{1861}{1986}{y:i}VETAR DUVA
+{1988}{2127}{y:i}OZDRAVI
+{2129}{2210}{y:i}TEäKO JE
+{2211}{2263}{y:i}PIäI BRAJEM
+{2264}{2335}{y:i}IDI U ZATVOR
+{2336}{2411}{y:i}NEUSPEH
+{2413}{2461}{y:i}PAZI!
+{2463}{2509}{y:i}EVO DOLAZE!
+{2510}{2541}{y:i}NARKOMANI
+{2543}{2583}{y:i}VARALICE
+{2584}{2629}{y:i}POZORIäTA
+{2635}{2665}{y:i}VIR
+{2678}{2716}{y:i}NOVA BUDALA
+{2718}{2751}{y:i}VO–E???
+{2753}{2815}{y:i}PAVKING METAV
+{2864}{3024}{y:i}RODI SE
+{3025}{3106}{y:i}DE»JA LJUBAV
+{3108}{3151}{y:i}BUDI BLAGOSLOVEN
+{3153}{3199}{y:i}USPEH
+{3200}{3251}{y:i}ZADOVOLJI NJEGA, ZADOVOLJI NJU
+{3253}{3307}{y:i}NE DIéI
+{3309}{3370}{y:i}DNEVNA SMENA
+{3371}{3416}{y:i}POGLEDAJ SE
+{3418}{3467}{y:i}SKROVIäTE
+{3469}{3540}{y:i}VELIKA RUPA
+{3541}{3616}{y:i}SKANDALI
+{3643}{3699}{y:i}PROPALICA
+{3700}{3752}{y:i}éVAKA, NE
+{3754}{3810}{y:i}VANDALI SU ODNELI RU»KE
+{3811}{3868}{y:i}äTA???
+{3893}{4043}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{4906}{4990}Jeste li videli moj ötap?|-Da, tamo je.
+{4991}{5048}Nema ga.
+{5139}{5180}Da ga nisi ti video?|-äta?
+{5181}{5230}Moj ötap.
+{5261}{5320}Sranje.|-Nestao je.
+{5321}{5402}Nije tu?|-Nije, ovde sam ga ostavio.
+{5404}{5460}Kada? Danas?
+{5695}{5772}Evo ga, iza vrata.|-Naöao ga je.
+{5774}{5836}Bio je iza ovih vrata, ËoveËe.
+{5868}{5936}Jeste li zapamtili?
+{8074}{8123}Smem li ovde da zapalim?
+{8572}{8651}Bili ste ovde i pre dve godine?|-Da, tako je.
+{8652}{8727}äta se u meuvremenu promenilo?
+{8728}{8794}äta vi mislite, Ëemu moûete da|zahvalite na ovolikom uspehu?
+{8795}{8888}Nemam predstavu.|Nisam ni znao za to.
+{8890}{8965}Ja sam mislio da je sve isto|kao proöli put.
+{9584}{9646}äta se ovde deöava?
+{9689}{9751}äta Êemo da radimo?
+{9752}{9846}Koliko dugo niste bili u Londonu?
+{9847}{9899}Godinu dana?|-Oko godinu dana.
+{9900}{9996}Za öta Êe vam ta sijalica?|-äta Êe mi sijalica?
+{9997}{10057}Pretpostavio sam da Êete|me to pitati.
+{10059}{10135}Ne, navikao sam da sa|sobom nosim sijalicu.
+{10136}{10205}Neko mi je poklonio.
+{10232}{10297}Izvinite, nisam Ëuo öta|ste rekli.
+{10299}{10366}Dobio sam je na poklon od,|veoma dragog prijatelja.
+{10367}{10422}Shvatam.
+{10424}{10471}Svirate folk?
+{10472}{10512}Da li sviram folk?|-Da.
+{10514}{10605}Ne, ne, ne. Ne ja.|Ne sviram folk.
+{10606}{10675}Koja je vaöa prava poruka?
+{10676}{10741}Moja prava poruka?
+{10742}{10816}Mislite svojom glavom i|nosite sijalice.
+{10859}{10950}ja sam moju ukljuËio u struju|i kuÊa je eksplodirala.
+{10951}{11037}Mislite li da mladi ljudi|koji kupuju vaöe ploËe...
+{11039}{11122}shvataju iöta od onoga öto|vi pevate?
+{11124}{11182}Naravno.|-D ali to znaËi 'da'?
+{11184}{11216}Da.
+{11217}{11285}Kako moûete da kaûete 'da'?|Na osnovu Ëega ste tako sigurni?
+{11286}{11376}Vaö pesme su priliËno komplikovane, zar ne?
+{11377}{11455}Jesu, ali... ali oni ih razumeju.
+{11456}{11535}Kako znate da ih razumeju?|Jesu li vam oni rekli?
+{11536}{11671}Naravno da su mi rekli. Zar niste Ëuli|onu pesmu ,'Ona kaûe da...'
+{11672}{11731}äta kaûe?|-Ne shvataju.
+{11732}{11833}Mislite da vas ne razumem|zato öto vas ne vidim?
+{11835}{11930}Da li biste rekli da prvenstveno|brinete o ljudima?
+{11931}{12078}Da, ali znate... mi imamo sopstvene|definicije za sve te reËi.
+{12080}{12143}'Briga' i 'ljudi' i...
+{12145}{12222}OËigledno, mi znamo ko su ti ljudi.
+{12224}{12286}Ovaj... stvarno?
+{12287}{12335}U vaöim pesmama se oseÊa ljutnja...
+{12336}{12487}da li vi protestujete protiv stvari|zbog kojih ste ljudi?
+{12489}{12538}Ja nisam ljut.
+{12571}{12667}Ja sam pun ûivota.|-Shvatam.
+{12669}{12715}Mnogo vam hvala.|-Nema na Ëemu.
+{12741}{12800}Da li ste ikada Ëitali Bibliju?
+{12801}{12867}äta sa Biblijom?
+{12869}{12937}Jeste li ikad Ëitali Bibliju?
+{12984}{13040}Nisam.|-Nikad je niste Ëitali?
+{13041}{13107}Samo na preskoke.
+{13109}{13192}Zato öto... mnoge stvari o|kojima pevate...
+{13194}{13272}Samo sam je prelistavao,|nikad je nisam Ëitao.
+{13274}{13325}Stavi ruke ispred lica.
+{13326}{13364}Ovako?
+{13366}{13457}Kao da hoÊu neöto da kaûem...
+{13459}{13551}Ja ne umem da poziram.|-Ne morate da pozirate.
+{13552}{13617}Vi samo sedite i ja Êu|da slikam.
+{13619}{13671}Joö jednom.|-Molim?
+{13672}{13775}Uozbiljite se.|-Ne mogu.
+{13952}{14027}Ovo Êemo da objavimo, da znate.
+{14055}{14123}Neverovatni ste, znate.
+{14162}{14210}Kako se zovete, molim vas.|-Joan Baez.
+{14211}{14276}Joan...
+{14277}{14331}B-A-E-Z.
+{14332}{14383}Pobogu!
+{14385}{14485}Nisam vas prepoznao, izvinite.|-U redu je.
+{14517}{14623}Drago mi je öto vas vidim.|Ceo dan vas traûim.
+{14649}{14756}Ovo je period... ovo je period|kad niöta ne piöem.
+{14776}{14835}Niöta, znate... ja neÊu...
+{14836}{14929}Sve öto se sada deöava ja,|jednostavno zapamtim.
+{14931}{15016}Kad ûivim svojim normalnim ûivotom,
+{15017}{15167}kad radim ono öto radim, nikad|oko mene nema ovoliko ljudi.
+{15198}{15292}Mislim, ja prihvatam sve,|ja prihvatam ovo...
+{15293}{15324}Zaöto?
+{15326}{15403}Zato öto je to stvarno, zato|öto je ovde, postoji...
+{15405}{15539}kao recimo... kao öto recimo i autobusi|napolju postoje.
+{15541}{15687}Mislim, ne mogu da pobegnem od toga,|zato öto ako pokuöam da se borim...
+{15688}{15832}samo Êu da poludim mnogo ranije|nego öto Êu, inaËe poludeti.
+{15856}{15913}Ako stvarno poludim...
+{15915}{15993}kad za to doe vreme...
+{15995}{16061}mislim, stvarno Êu poludeti.
+{16243}{16362}PaleÊi jednu na drugu popuöi|80 cigareta dnevno.
+{16396}{16441}Drago mi je da to nisam ja.
+{16957}{17038}Znaö tu pesmu, Sally?|-Znam, svia mi se.
+{17040}{17114}Donovan. Ko je ovaj Donovan?
+{17213}{17272}Daj da mi okaËimo sliku ovde.
+{17273}{17358}OËigledno da je dobar momak.|-Voleo bih da ga upoznam.
+{17360}{17443}On je mladi ökotski...|-Tip je mrak.
+{17458}{17527}To sam i ja hteo da kaûem, ali nisam|znao da li Êeö me razumeti.
+{17531}{17622}Tip je mrak. -Tip je mrak.|-Mrak. Kao bljak!
+{17628}{17818}Peva folk muziku, bolji je od tebe i jako|dobro svira gitaru. Straöan je gitarista.
+{17820}{17869}Bolji je od tebe.|-Da.
+{17871}{17933}U redu?|-Evo, veÊ ga mrzim.
+{17935}{18054}Dobar je on, meni se svia.|Nije prevarant. U redu je.
+{18056}{18154}VeÊ smo ga stavili na zid, znaö...|-Gde? Gde? Gde?
+{18156}{18191}Eno ga tamo.
+{18192}{18304}'Da li je Donovan izneverio svoje oboûavaoce?'|Pa, on se pojavio pre samo tri meseca.
+{18358}{18415}E, to ja zovem gubitnikom.
+{18871}{18989}Ne, ozbiljan sam... Sasluöaj me...
+{18991}{19120}Na jugu su uspeli.|-U Londonu su uspeli. London ...
+{19121}{19204}To je smeöno öto govoriö.|Toliko su uradili...
+{19206}{19349}Za kratko vreme. Da, ali u Americi,|o ovde priËamo o Engleskoj.
+{19351}{19507}Kad je Abraham rekao da smo svi jednaki?|Zar ne piöe tako u Deklaraciji?
+{19508}{19613}Pre 200 godina.|-On je tako rekao, je l'da?
+{19615}{19736}Jeste rekao, ali nikad niöta nije uradio.|-Niko niöta ne moûe da uËini bez glasova.
+{19737}{19832}...poËeo je da radi pre 26 godina...
+{19833}{19908}Gde idemo? U CBS?
+{19910}{20001}On nije sa nama.|-Stvarno nije sa nama.
+{20002}{20061}Mi smo svi mröavi, a on...
+{20062}{20149}Imam nagradu za njega za...
+{20180}{20233}najveÊu umetniËku nadu godine...
+{20235}{20321}i za najbolje prodavani folk album|'Freewheelin''.
+{20322}{20397}Ne, ne ûelim je...|-Da neÊeö da ti poöalju poötom?
+{20398}{20478}Ne ûelim, ni da ih vidim.|-U redu.
+{20517}{20584}Reci im da je daju Donovanu.
+{21116}{21171}Sjajno, ËoveËe.
+{21726}{21775}Donovan.
+{21777}{21839}Donovan, sledeÊa meta.
+{21894}{21971}On je sutraönja meta.
+{22103}{22212}Mi smo iz AfriËkog servisa BBC-ja,|gospodine Dylan.
+{22213}{22358}Snimamo za sluöaoce Zapadne Afrike|i ovo Êemo veËeras emitovati.
+{22359}{22465}Imam taËno Ëetiri pitanja za vas,|ni manje-ni viöe.
+{22467}{22531}éelim prvo da ih pogledate i da mi|dozvolite da vam ih postavim.
+{22532}{22609}Prvo je jedno uopöteno,|sveobuhvatno pitanje...
+{22611}{22738}samo kako ste poËeli da se bavite|muzikom, öta vas je pokrenulo?
+{22771}{22904}Gde vidite da se umetnost folk muzike|nalazi u danaönjem svetu?
+{22906}{22994}Da li ona ima neki vaûniji|druötveni uticaj?
+{22996}{23085}I neöto öto Êe, svakako interesovati|naöe sluöaoce u Africi, Bobe,
+{23089}{23216}je vaö izrazito human stav|u mnogim bitnim stvarima.
+{23217}{23336}Na primer, izjavili ste, 'Ljudi priËaju o|crncima kao da su stvari.'
+{23362}{23432}Da li ste zbog ovakvog|saoseÊanja,
+{23437}{23534}vi, liËno, imali ikakvih|problema u Americi?
+{23561}{23594}U redu.
+{23596}{23728}Uzgred, uËestvovali ste u jednoj predstavi,|ovde u Britaniji pre izvesnog vremena...
+{23729}{23810}koju je napisao ökolski drug,|Evan Jones. -Da.
+{23812}{23913}Evan i ja smo, na Jamajci|iöli zajedno u ökolu.
+{23946}{24004}Predstava se zvala 'Ulica Zamka'|je l' tako?
+{24006}{24099}Da, 'Ludnica u ulici Zamka'.|-Da.
+{24156}{24248}PoËeÊemo za, otprilike pet sekundi.
+{24249}{24388}Ovo je intervju sa gospodinom Bobom Dylanom|za AfriËki servis BBC-ja.
+{24389}{24454}Producenti intervjua su|Pete Myers i Colin Wilde...
+{24456}{24514}i poËinjemo za pet sekundi.
+{24582}{24671}Kako je sve ovo poËelo, Bobe?|äta vas je, zapravo pokrenulo?
+{30752}{30803}ReËenica.
+{30804}{30902}'On viöe propoveda nego öto peva'.
+{30983}{31176}Dve taËke, 'Njegova tragedija je, moûda u|tome öto je publika zaokupljena pesmom.'
+{31234}{31352}Novi red. 'Tako bradati momci...
+{31354}{31445}i dugokose devojke,
+{31447}{31539}sa senkama za oËi i|prenaglaöenom öminkom,
+{31625}{31770}aplaudiraju pesmama, verovatno|ne shvatajuÊi propoved,
+{31772}{31855}iako su, nazovi tu...
+{31857}{31935}iako su uz njega.' Nova reËenica.
+{31937}{32108}'Ali, koliko su oni, zapravo daleko od...|demonstracija, ötrajkova i protesta...
+{32109}{32197}i ûivota.' Novi red.
+{32198}{32304}''Vremena se menjaju', peva Dylan.
+{32385}{32496}VeËeras je pesnik a ne pop pevaË|napunio dvoranu'.
+{32498}{32580}Da li ste svesni da ste veËeras|u City Hallu imali...
+{32582}{32692}viöe publike nego bilo ko drugi|u poslednjih nekoliko godina?
+{32694}{32806}I mnogo viöe razumevanje nego bilo ko,|mislim aplauz je bio fantastiËan.
+{32808}{32896}Odavno nisam Ëuo da publika nekom|toliko aplaudira.
+{32898}{33066}To me jako raduje, znate...|Baö me raduje.
+{33068}{33137}Da li ste religiozni?
+{33139}{33214}Pa, ne znam öta vam to znaËi?|Religiozan?
+{33215}{33358}äta to znaËi? Imati nekog idola, ili iÊi|u crkvu svake nedelje?
+{33359}{33409}Ne, ne...|-Verovati u neöto.
+{33410}{33526}Verujete li u...|-Verujem u sve i svaöta.
+{33528}{33608}Ne vidim niöta u öta bi|trebalo verovati.
+{33609}{33671}Zar ne mislite da ste... ciniËni?
+{33673}{33784}Ne, nisam ciniËan, samo ne vidim nikoga,|ne vidim niöta u öta bih...
+{33785}{33888}mogao da verujem, da imam poverenja.|Ne vidim niöta sveto.
+{33889}{33959}Koje ovde glavni?|-Glavni, za öta?
+{33960}{34015}Ko je glavni u ovoj prostoriji?
+{34017}{34143}Kako to mislite ko je glavni? Ovo je iznajmio|Bob Dylan. Kako mislite, ko je glavni?
+{34144}{34186}Jeste li vi menadûer Boba Dylana?
+{34190}{34291}Jesam, ja sam menadûer Boba Dylana,|ali ja nisam glavni u ovoj sobi.
+{34293}{34362}Vi ste odgovorni samo za Boba Dylana?|-Ne, nisam odgovoran za Boba Dylana.
+{34364}{34474}Dobili smo ûalbe od naöih gostiju|sa sprata iznad, sa sprata ispod...
+{34475}{34579}Jako nam je ûao. PokuöaÊemo|da ne pravimo buku.
+{34580}{34706}Kakvu... kakvu buku? -Ako se ne utiöati|biÊu primoran da vas zamolim da odete.
+{34708}{34788}Zaöto ne biste, molim vas pozvali|policiju? -I hoÊu.
+{34789}{34866}Molim vas, pozovite ih zato öto|ovde niko nije pravio nikakvu buku.
+{34868}{34984}VI ste jedan najobiËniji öupak i najgluplja|budala sa kojom sam ikad razgovarao.
+{35060}{35170}Da smo negde drugde, zviznuo bih|vas pravo preko jebenog nosa.
+{35171}{35234}Glupa budalo.
+{35235}{35324}Mi smo iznajmili ovu sobu i zamolio|bih vas da izaete.
+{35325}{35438}Ovde imamo nekih vrednosti i ne bih|ûeleo da se muvate ovuda.
+{35439}{35483}Zar nije sjajan?
+{35484}{35531}HoÊete li da izaete iz sobe?
+{35533}{35607}I vi, takoe, izaite iz sobe.
+{35644}{35704}Poöaljite mi svog direktora.
+{35719}{35831}»im odemo iz grada... Evo, ovde|piöe neöto. Jesi li proËitala?
+{35833}{35951}'AmeriËki folk pevaË Bob Dylan sedeo je|sinoÊ namrgoen u hotelskoj fotelji.
+{35955}{36010}U ruci je drûao iris.
+{36011}{36130}Bob, koji je stigao 90 minuta pre poËetka|britanske turneje u sheffieldsku veÊnicu...
+{36134}{36175}rekao je ûeli malo da se odmori.
+{36176}{36239}Kad je zamoljen da zauzme neku|opuöteniju pozu za slikanje,
+{36243}{36333}izvadio je cvet iz vaze i rekao,|'Ja volim ovako da se opuötam.
+{36334}{36408}VeÊ sam sve ovo proöao|u Americi.'
+{36409}{36560}Svojim tvrdim, grubim glasom i samosvojnim...|samosvojnim gitarskim stilom...
+{36561}{36671}pesnik Dylan poËeo je koncert pesmom|'Vremena se menjaju', u öta nema nikakve sumnje.
+{36673}{36814}To je ono öto moj 17-ogodiönji sin i svi oni koji|su nekada vriötali za Beatlesima danas oboûavaju.
+{36815}{36934}A ako je Dylan samo moda, a ne kult,|roditelji nemaju razloga za zabrinutost.
+{36935}{37045}Njegova turneja je poËela u|rasprodatoj sali od 2700 mesta...
+{37046}{37195}bez ijednog jedinog vriska i sa nepodeljenom|paûnjom do poslednje reËi. Bilo je impresivno.
+{37196}{37326}Dylan sam, samo sa svojom gitarom i usnom |harmonikom, za sat i po zaradio je £2.000...
+{37328}{37424}i ovacije na nogama.'|To je sve.
+{37565}{37653}Gde Êeö veËeras prespavati?|-U hotelu.
+{37654}{37764}Gde?|-U blizini dvorane.
+{37765}{37809}U hotelu?
+{37840}{37940}I ti Êeö u hotel?|-Ne budi tako liËna.
+{38008}{38080}Je l' to on?|-Nije.
+{38331}{38419}Zar nije divan?|-Baö je sladak.
+{38475}{38525}Uötini me. Uötini me.
+{38526}{38576}Sii dole.
+{38623}{38697}San mi se ostvario.
+{38775}{38941}HoÊeö li pevati 'Vremena se menjaju'?|-Ti bi volela da je pevam?
+{38943}{39016}Stvarno ti se svia ta pesma?|-FantastiËna je.
+{39018}{39156}Koja se tebi svia? -Samo... Ne svia mi se|samo 'Bluz nostalgije za podzemljem'.
+{39158}{39276}ZnaËi, ti si jedna od...|Sad mi je sve jasno.
+{39278}{39376}To nisi ti. Samo ne zvuËi kao ti,|niöta drugo. ZvuËi kao...
+{39378}{39479}Ali, moji prijatelji sa mnom|sviraju tu pesmu.
+{39480}{39569}Znaö, moram malo da|zaposlim i prijatelje.
+{39570}{39635}Nemaö niöta protiv toga, zar ne?
+{39665}{39821}Nemaö niöta protiv ako mi sviraju gitaru,|bubnjeve i te stvari, je l' da?
+{39823}{39947}Samo nije u tvom stilu, niöta drugo.|Deluje kao da si je snimio zabave radi.
+{39949}{40047}Pa, zar ne ûeliö da se i ja,|ponekad lepo zabavim?
+{40049}{40160}Moûda neko to shvati ozbiljno i pomisli...|da si krenuo da se komercijalizujeö.
+{40161}{40219}Ti znaö da to nije tako, zar ne?
+{40220}{40252}Da.
+{40254}{40422}Kad znate ne morate da brinete za|druge ljude. Neka svako vodi raËuna o sebi.
+{40489}{40575}Imaö li brata ili sestru?|-Molim.
+{40576}{40639}Imaö li brata ili sestru?
+{40640}{40702}Gospode, nemam pojma.
+{40806}{40900}Imam gomilu braÊe i sestara.
+{40901}{40957}Gomilu.
+{41016}{41107}Moja mlaa sestra je luda za tobom.
+{41109}{41161}Ovaj grad se zove Merseyside?
+{41163}{41214}Da.
+{42004}{42107}äta je ovo, koji moj sa ovim mikrofonom?|Niöta ga ne Ëujem.
+{42136}{42179}äta se, do avola deöava?
+{42180}{42267}Uopöte se ne Ëuje!|-U redu.
+{42337}{42437}Sve je ukljuËeno, osim ovog ovde.
+{42511}{42573}Za Boga, miloga.
+{42696}{42758}Je l' tu dole?
+{42792}{42855}Je l' tu dole?
+{43222}{43284}I ovo je bilo iskljuËeno.
+{43770}{43896}{y:i}Na 16. mestu je Bob Dylan sa pesmom|{y:i}koju je sam i komponovao...
+{43897}{44005}{y:i}'Vremena se menjaju'.|{y:i}Oboûavaoci iz Caroline...
+{44006}{44076}Koje mesto je bila ona druga?|-Molim?
+{44077}{44173}Koje mesto je bila ona druga?|-31.
+{44175}{44272}Na listi za februar..|{y:i}-...Caroline majice,  putne torbe...
+{44654}{44716}Pravo ispred.
+{50506}{50552}Sviramo...
+{50553}{50662}izmeu 20 i 30 tvojih pesama.|-Stvarno?
+{50663}{50738}Preanranûirali smo ih kao za|veliki orkestar.
+{50772}{50877}Verovatno... verovatno misliö da smo ti|upropastili pesme...
+{50878}{50996}ali, mi to radimo zato öto smo tvoji|veliki oboûavaoci.
+{50997}{51100}Uvek pokuöavamo... -Hvala.|Je l' svirate negde?
+{51101}{51207}Kad sviramo, pokuöavamo publici da skrenemo|paûnju da obrate reËi na tekstove.
+{51208}{51309}Imate ritam i elektriËnu gitaru?|-Da, imamo i elektriËnu gitaru.
+{51311}{51483}Zapravo je jako teöko naterati ljude da|sluöaju tekstove, oni ûele samo da Ëuju...
+{51485}{51566}Ne znam... to je van mojih...
+{51567}{51717}Ja, jednostavno izaem na|binu i pevam, i ako ljudi...
+{51742}{51847}Ako su me zvali da sviram,|ja prosto izaem i pevam.
+{51848}{51933}Nikad nikog nisam prisiljavao|da me sluöa.
+{52050}{52106}Stani malo.
+{52107}{52162}Blagosloven da si.
+{52163}{52258}Napravite mu prolaz.|Tako je.
+{52260}{52332}Do vienja.
+{52333}{52367}Vidimo se.
+{52368}{52420}Vidimo se kasnije.
+{52448}{52492}Boûe moj!
+{52522}{52647}Pazi, pazi! -Neka ûenska se penje sa|zadnje strane auta.
+{52685}{52850}Neki tip je u automobilu. Izbaci ga napolje.|-Drûi nju! Drûi je!
+{52851}{52967}Bobby, reci tipu da stane.|-PovrediÊe se.
+{52968}{53008}To je devojka.
+{53010}{53069}Skinite tu devojku sa auta, molim vas.
+{53071}{53147}HoÊete li, molim vas da je|skinete sa kola?
+{53148}{53235}Moramo da je skinemo. Hej, moûete li|da skinete tu devojku sa auta?
+{53262}{53317}Otiöla je. Otiöla je.
+{53318}{53373}Kako ste?
+{53375}{53456}Vidimo se kasnije. Do vienja.
+{58867}{58929}Ne seÊam se te pesme.
+{58998}{59092}Ja sam je napisao, je l' da?
+{60299}{60397}SeÊaö li se joö neËega?|-Ne, nikad je nisam zavröio.
+{60398}{60505}Boûe. Moûeö da je zavröiö na|osam razliËitih naËina. -Da.
+{60536}{60618}Dobra je to pesma.|-Predivna je.
+{60649}{60746}Ako je zavröiö, pevaÊu je,|moûda je i snimim.
+{60752}{60818}Moga bih... mogao bih|da je zavröim.
+{60906}{61028}Jeste li Ëuli nekad pesmu 'Umrla je od|ljubavi u 3 ujutro'?
+{61066}{61091}Napisao je Bill Anderson.
+{61093}{61235}To je sjajna pesma. A seÊaö se one|'Senke toplog crvenog vina'?
+{61307}{61369}Da, to je ta.
+{63730}{63820}Ima joö jednu strofu. 'Ja sam skitnica'.|-Tako je.
+{64760}{64812}A öta mislite o...
+{65473}{65528}Dobrodoöao kuÊi.
+{65529}{65714}Koliko se ja seÊam, ovo je prvi put da| soba nije prepuna kojekakvih ludaka.
+{65715}{65815}Bobby je bio toliko fini da nije|ni primeÊivao.
+{65817}{65925}Da, ovo je prvi put da je ovde|sasvim kul.
+{65927}{66020}Boûe. Baö mi se spava.|Gotova sam.
+{66022}{66116}Da ti kaûem neöto, sestro,|odavno si ti gotova.
+{66118}{66163}U pravu si.
+{66164}{66285}Bila si gotova pre nego öto si|i pomislila da si gotova.
+{66287}{66349}O moj Boûe, evo je - gotova.
+{66388}{66491}Gotova, pa ti nosiö te|providne bluze?
+{66493}{66640}Obukla je jednu od onih providnih bluza|koje ti nisi hteo ni da pogledaö.
+{66670}{66770}äta te muËi, Baez? -NeÊeö, valjda|da mi oötetiö gitaru?
+{66803}{66891}Izvini.|-Nisam hteo da te povredim.
+{67656}{67726}{y:i}DYLAN KOPIRA DONOVANA!
+{68010}{68123}Imaö li neöto gde bih mogao da|prepiöem ove stvari?
+{68124}{68205}Traûiö papir?|-Da, ako imaö.
+{68206}{68325}MoraÊeö da daö sve od sebe?|-Stvarno? Imamo joö?
+{68326}{68476}Misliö da Êe to sve stati na jedan papir?|-Ovde sam napisao sve pesme.
+{68478}{68547}NapisaÊu sitnije.
+{68846}{68914}Jesi li zavröila sa ovim?
+{69008}{69123}{y:i}GRADSKA HALA BIRMINGHAM CITYJA|{y:i}SUBOTA, 8. MAJ...
+{69141}{69215}{y:i}DO–ITE DA »UJETE IZAZOVE|{y:i}ONIH KOJI PROU»AVAJU BIBLIJU
+{69628}{69690}Daj viöe!
+{69845}{69902}Nastavljamo sa Kraljicom Lucy.
+{69939}{70005}Promaöila si mesto, duöo.
+{70039}{70140}Moja Êerka je krunisana|kraljica ovog festivala.
+{70156}{70254}Jeste li videli onog tipa kad se popeo na binu,|kad je krenuo rukom ka dûepu...
+{70255}{70368}izvadio svoj govor i rekao,|'Drago nam je öto ste ovde'.
+{70561}{70609}HoÊete li sad?
+{70610}{70666}Da, koncert.
+{70718}{70780}Znao sam da nismo dûabe doöli.
+{70825}{70874}Video sam ja da ovo nije hotel.
+{70961}{71024}Kuda sad?
+{71410}{71507}äta  misliö, koliko para?|Dokle bismo mogli da idemo?
+{71509}{71649}ReÊi Êu ti, kad se radilo o Grenadi,|dogovarali smo se za 1.200, £1.300.
+{71650}{71777}Moûemo da uzmemo 1.500. Znam.|-Misliö da ne moûe bolje?
+{71779}{71887}MoguÊe, ali ja znam da ponuda od|1.200, 1.300 funti...
+{71889}{71945}A da traûimo 2.000?
+{71946}{72065}»udno, tako nekako sam i ja razmiöljao.|-Onda smo se dogovorili.
+{72066}{72111}OdliËno.
+{72113}{72180}Sad da saËekamo njihov odgovor.|-U redu.
+{72181}{72301}Reci im samo da moram prvo da porazgovaram|sa Bobom pre konaËnog dogovora...
+{72303}{72396}i da Êu im se javiti do sutra.|-U redu.
+{72398}{72549}RazgovaraÊu sa Johnnyjem iz Granade...|Drugi su Red Difussion, ali je to isto...
+{72550}{72661}Treba mi Johnny, hitno. Molim te,|duöo, pronai mi ga  odmah.
+{72663}{72811}{y:i}Trenutno je u studiju, ali sekretarica kaûe|{y:i}ako ûelite da Êe vam prebaciti vezu.
+{72813}{72893}Samo reci 'Bob Dylan' i biÊe|mu sve jasno.
+{72894}{73001}Dve hiljade, Johnny.|Da, za ekskluzivu.
+{73003}{73149}I biÊe vrhunska ekskluziva.|NeÊe raditi niöta viöe. Da.
+{73150}{73234}HoÊeö malo da razmisliö, Johne?
+{73235}{73266}Halo.|{y:i}-Halo.
+{73268}{73342}Da?|{y:i}-Ovde Chris, Stuartov pomoÊnik.
+{73344}{73447}Reci, Chris?|{y:i}-On, trenutno nije ovde.
+{73449}{73549}{y:i}Trenutno je u dvorani, jako je zauzet.|{y:i}Mogu li ja da vam pomognem.
+{73550}{73671}Moûda se pojavi u dogledno vreme pa mu reci|da je ovo poziv koji je oËekivao...
+{73675}{73705}u vezi sa Bobom Dylanom.
+{73706}{73754}{y:i}Bob Dylan?|-Da.
+{73755}{73875}{y:i}Kad sam vam rekao da je zauzet,|{y:i}ozbiljno sam mislio. Nisam se öalio.
+{73876}{73938}Znam da je zauzet... konopcem.
+{73940}{73971}Je l' tako?
+{73973}{74061}{y:i}Nr, ne, pripremamo|{y:i}novu predstavu.
+{74062}{74177}Nemoj da se ljutiö. Nemoj da se|ljutiö, samo se öalim.
+{74179}{74235}{y:i}Dobro... pokuöaÊu da ga naem.
+{74236}{74410}Chrise, reci mu, molim te da je sa mnom|i gospodin Grossman, Bobov menadûer.
+{74411}{74459}{y:i}U redu.|-Dobro. Do vienja.
+{74509}{74587}äta mislite? Verovatno Êe|odmah da se javi.
+{74589}{74651}äta misliö, Stuarte?
+{74774}{74817}O, Boûe.
+{74819}{74881}A sad, za dve...
+{75025}{75145}Meni je to u redu. Toliko zaradim za|nedelju dana. Ja nemam niöta protiv.
+{75187}{75345}Stuart, odmah Êu to proveriti sa Albertom pa|Êu ti se javiti da ne gubiö dûabe vreme.
+{75346}{75427}Odmah Êu ti se javiti, vaûi?|Bog te blagoslovio.
+{75429}{75524}£1.250. Verovatno moûe da se|rastegne na £1.500.
+{75525}{75632}Evo öta sam ja mislio...|Ako bi BBC...
+{75634}{75708}Za jedan koncert moûe,|ali ne za dva.
+{75710}{75847}Mislim da Êe Granada izaÊi sa joö boljom|ponudom. To su veÊ radili ranije.
+{75849}{75941}Tako su ponudili i Peteru, Paulu i Mary|za dve emisije na BBC-ju. 
+{75945}{76032}Za dve emisije. Izgleda da im|je to... krajnja ponuda.
+{76066}{76128}Ja mislim da bi najbolje bilo...
+{76130}{76288}Ako ga pozovete, dajte ga  meni|da porazgovaram sa njim.
+{76319}{76350}Sa zadovoljstvom.
+{76351}{76434}Zato... zato öto je on mene|zvao u Ameriku, znate...
+{76435}{76492}Ko? Stuart ili Johnny?|-Stuart.
+{76494}{76556}Stuarte?
+{76557}{76662}Vidi, Stuarte, gospodin Grossman ûeli|da razgovara sa tobom. SaËekaj.
+{76664}{76736}Razgovarao sam sa vama dok sam|bio u New Yorku, je l' tako?
+{76737}{76800}To je broj, da.
+{76801}{76998}U to vreme... kada sam vam rekao koliki|novac traûimo za Boba...
+{77000}{77171}i kad mi je Tito rekao da ste zainteresovani|pretpostavio sam da smo se dogovorili.
+{77172}{77310}Sad sam bio, priliËno iznenaen|cifrom koju ste nam ponudili.
+{77311}{77486}I  ma koliko ûeleli da uradimo emisiju za BBC,|mislim da ne moûemo prihvatiti vaöu ponudu...
+{77487}{77632}zato öto nije ni pribliûna ponudama|koje veÊ imamo.
+{77711}{77907}Jedino o Ëemu moûemo da razgovaramo|je ta cifra za pola sata.
+{77940}{78035}Ne, ne, to ne bih prihvatio.|1.250 za svakih pola sata.
+{78142}{78205}Dobro...
+{78247}{78310}Mnogo vam hvala. Do vienja.
+{78394}{78521}Rekao je da Êe preneti dalje moju poruku|ali da je, skoro siguran...
+{78562}{78711}Mislim da Êe, na kraju prihvatiti 2.000...|za dva nastupa.
+{78712}{78775}Ili niöta od koncerta.
+{78776}{78913}Onda je to najbolja ponuda za|jedan koncert, je l' tako?
+{78915}{78977}Ne znam ni sam.
+{79150}{79268}Da li bi... bilo u redu...
+{79270}{79442}da pozovemo Johnnyja i da mu kaûemo|da imamo bolju ponudu?
+{79444}{79487}Ja Êu mu reÊi.
+{79489}{79519}Ne?
+{79521}{79656}Albert... Ako, dozvoljavate, da odemo zajedno,|ja znam Johnnyja... Johnny je dobar momak.
+{79657}{79752}Johnny ne razmiöljao o tome|kako da uötedi novac.
+{79754}{79872}Naravno, mi smo traûili 2.000. Sigurno se|neÊe vratiti sa veÊom ponudom.
+{79874}{79989}Sigurno se neÊe vratiti i reÊi, 'OdluËili smo|da vam damo viöe nego öto ste traûili.'
+{79991}{80117}Evo öta mi moûemo. Ako ûelite da saËekate|do jutra, Johnny Êe se javiti.
+{80119}{80233}Ako izae sa 2.000, a onda se i oni|predomisle, reÊi Êemo im, 'Zaboravite'.
+{80235}{80304}Ako nam drugi daju 2.000, reÊi Êu...
+{80308}{80368}'Vidi, Johnny, kao prijatelj|hteo sam da radim sa tobom,
+{80370}{80445}i nisam hteo da te odbijem dok|ne Ëujem i njihovu ponudu.
+{80449}{80502}Poöteno Êu ti reÊi|öta se desilo.
+{80503}{80575}Bili smo spremni da radimo sa tobom za 2.000,
+{80579}{80685}ali su oni iz BBC-ja poludeli i|izjednaËili tvoju ponudu, 
+{80689}{80732}zato sad ti moraö da pojaËaö svoju.'
+{80883}{81021}Alberte... Stuarte, za par trenutaka|Êu se naÊi sa Albertom...
+{81025}{81206}preneÊu mu ponudu i, apsolutno sam siguran|da Êe on jako brzo doneti odluku.
+{81292}{81369}Stani, Stuarte, da ti kaûem neöto...
+{81416}{81519}Da. Stuarte, dozvoli mi|da ti kaûem neöto....
+{81521}{81718}Iskreno, joö pre dva meseca Granada je|dolazila ovamo, kad su Ëuli da dolazi.
+{81720}{81810}A ti ih znaö... Znaö da plaÊaju...
+{81811}{81906}Oni plaÊaju i taksi, ako shvataö|öta hoÊu da ti kaûem.
+{81907}{81988}I oni su poËeli, straöno da|pritiskaju.
+{81990}{82076}Stoga Albert mora da donese|priliËno teöku odluku.
+{82077}{82143}Da, a jesi li video danaönju|top-listu?
+{82145}{82250}Dylan je na öestom mestu sa|'Bluzom nostalgije za podzemljem'.
+{82251}{82334}Da, skoËio je, negde sa 45-og|na mesto broj 6.
+{82336}{82428}Albert dolazi za, od prilike 10 minuta.
+{82684}{82727}Koju?|-Evo, ovu ovde.
+{82753}{82816}Pogledaj samo kakva gitara.
+{82875}{82970}U Americi nemamo ovakve gitare.
+{83026}{83112}Neverovatno, koötaju 20.000?!
+{86111}{86173}Evo ga, dolazi.
+{86402}{86541}Ne znam. -Ima kosu do ovde.|I malo duûe zulufe.
+{86556}{86708}Misliö da meni smeta ako se ne sviam ljudima?|-Ne, ali nekim ljudima bi smetalo.
+{86710}{86787}Ne, ne. Ja imam svoje prijatelje.
+{86788}{86878}Mislim... ja... dobro sam|situiran.
+{86880}{86978}A öta pre nego öto si imao prijatelje?|Da li te je to brinulo?
+{86980}{87136}Ne, nisam. Uopöte nisam brinuo.|Ja sam imao sreÊe, a ti?
+{87137}{87218}Kako je tebi bilo pre nego öto|si naöao prijatelje?
+{87225}{87288}Ne seÊam se da sam ikad|bio bez prijatelja.
+{87289}{87372}A sad imaö puno prijatelja?|-Ne.
+{87373}{87518}Ne, zato öto sam doöao do te taËke kad|shvatam öta je pravi prijatelj...
+{87522}{87564}i sad ih imam samo nekoliko.
+{87574}{87634}Pre toga nisam shvatao öta je|pravi prijatelj.
+{87638}{87672}Jesi li razgovarao sa|svojim prijateljima?
+{87673}{87776}Tada nisam ni znao ko su mi prijatelji.|-A sad znaö ko su ti prijatelji?
+{87777}{87874}Da postoji par ljudi sa kojima verujem|da mogu da razgovaram.
+{87876}{87989}Zato su ti prijatelji, zato öto moûeö|da razgovaraö sa njima?
+{87991}{88096}Mislim da je prijatelj prijatelj zato...|-äto imaö dobru komunikaciju sa njim?
+{88097}{88183}U neku ruku. Oni me razumeju bolje|od bilo koga drugog.
+{88195}{88261}Mi smo drugaËiji.|DrugaËiji smo.
+{88265}{88336}Dolazimo iz dva razliËita sveta.|Ti si Englez, a ja Amerikanac.
+{88340}{88516}Da, istina, ali smo ipak ljudska biÊa...|i meu nama postoji neka veza.
+{88558}{88643}Ne, ja sam samo gitarista.|Niöta viöe.
+{88644}{88706}»oveËe, pokuöavaö da me|dokusuriö.
+{88707}{88789}Ne pokuöavam, veruj mi.|Zaöto bih to radio?
+{88866}{88979}Kad neko doe da te intervjuiöeö|kakav stav zauzmeö?
+{88981}{89096}Jesi li proËitao one intervjue koji su|se pojavili kad smo tek stigli ovamo?
+{89097}{89168}Da.|-Nisu bili dobri.
+{89169}{89322}Znaö to, je l' da? Znaö da su sve to... laûi.|-Otkud znam?
+{89323}{89390}Laûi i izmiöljotine. Znaö.
+{89392}{89480}ProËitao sam samo par|prvih reËenica.
+{89482}{89613}Ne znam ni zaöto sam doöao ovamo.|Da dobijem svu ovu...
+{89614}{89728}Ideö li na koncert?|-Da, doÊi Êu da gledam.
+{89729}{89839}Zato sam i doöao ovamo da...|-Sluöaj ovo. Sluöaj.
+{89841}{89969}Zato sam i doöao da vidim koncert, pa sam|pomislio da prvo razgovaram sa tobom.
+{89971}{90088}Kakav je tvoj stav o ûivotu? Mislim, kad|upoznaö nekog, kakav je tvoj stav?
+{90089}{90175}Ne volim ga.|-Ne voliö ga?
+{90198}{90274}Mislim, danas sam ja doöao,|öta misliö o meni?
+{90276}{90418}Uopöte ne razmiöljam o tebi. Zaöto bih|razmiöljao o tebi kad te ne poznajem?
+{90419}{90528}Ne, mislim öta bi mislio kad bi me znao,|kad bi hteo da me znaö?
+{90529}{90638}Zaöto bih ûeleo da te znam?|-Otkud ja znam? Zato te i pitam.
+{90639}{90766}Ne znam ni ja, pitaj me|neöto drugo.
+{90767}{90848}Daj mi neki razlog zaöto bih|voleo da te znam?
+{90878}{90975}Moûda sam vredan toga.|-Zaöto?
+{90977}{91074}Reci mi zaöto? Reci mi öta ja imam|od toga öto Êu te upoznati?
+{91076}{91123}Reci mi jednu stvar koju|time dobijam?
+{91125}{91215}Pa, mogao bi da nauËiö neöto o mojim|ûivotnim stavovima.
+{91217}{91322}A koji su tvoji ûivotni stavovi?|-Ne mogu da ti objasnim u dva minuta.
+{91323}{91494}Zaöto? A od mene si, malo pre traûio|da ti ispriËam svoje u dva minuta.
+{91496}{91573}Ti si umetnik. Trebalo bi da|moûeö da objasniö u dva minuta.
+{91574}{91609}Stvarno?|-Da.
+{91611}{91691}A öta je sa tobom? Zar ti nisi|umetnik? -Nisam.
+{91692}{91769}A öta si ti?|-Studiram nauku.
+{91771}{91893}Da Ëujemo joö jednom. äta si ti?|äta studiraö? -Nauku.
+{91894}{92045}äta to znaËi? äta znaËi? äta radiö?|Koja je tvoja uloga u ovom svetu?
+{92047}{92120}Koja je moja uloga?|-Da.
+{92122}{92237}Da... Znaö... äta radiö na ovom svetu?|-éivim svoj ûivot, pretpostavljam.
+{92238}{92318}Kao i svi ostali.|-Kao ja.
+{92350}{92402}ZnaËi, ipak imamo neöto zajedniËko.|-Valjda.
+{92403}{92548}Ipak nismo dva razliËita sveta.|-Ti si bio u krivu, a ja u pravu.
+{92549}{92611}Sve vreme.
+{92634}{92675}Ali, ovo je interesantno...
+{92677}{92780}kad idem da intervjuiöem|neku grupu...
+{92782}{92931}kad sam, recimo intervjuisao Alana i bend,|izgledalo je kao da ih je baö briga za mene.
+{92933}{93050}I od onda... od onda ne prestajeö|da se pitaö zaöto?
+{93118}{93198}Sigurno postoji neki razlog, zar ne?
+{93199}{93353}Ali to nema nikakve veze sa mnom, zato öto|nisu ûeleli da me znaju dok nisam uöao.
+{93354}{93428}Pre nego öto sam uöao, nisam ih|poznavao... -äta si ti hteo?
+{93429}{93496}Zar nisi ûeleo da piöeö o njima?
+{93498}{93645}Ne ja o sebi ne razmiöljam kao o...|-A öta misliö, da si nauËnik?
+{93647}{93718}Ja sam samo osoba, znaö.|-Pa, öta?
+{93719}{93829}Postoji milion hiljada, milijardu...|koliko hoÊeö ljudi na ovom svetu.
+{93830}{93910}Da, sasvim se slaûem.|-Ne moûeö ih sve upoznati, zar ne?
+{93912}{94022}Ne, ali ako nekoga upoznam i|kad popriËam sa njim par minuta...
+{94023}{94098}pomislim, 'Od ovog tipa bih|mogao neöto da dobijem'.
+{94099}{94149}E, pa... oho!
+{94337}{94474}Sad sam shvatio. Da.|äta je to öto ti hoÊeö?
+{94475}{94553}Svako... Svako gleda öta|moûe da dobije.
+{94554}{94709}Moûda mogu da dobijem neöto... materijalno.|-Moûda ûeliö neku ûensku?
+{94710}{94783}Traûiö ûensku, je l' da?
+{94784}{94903}Nemoj. Ne ûelim to.|Ne umem da sviram.
+{94904}{95004}Ne zna ni on. -äta Êe mi kad|ne znam da sviram?
+{95057}{95153}Moûda ûeli da mi da neöto materijalno,|ali ja nisam zainteresovan.
+{95154}{95258}A öta podrazumevaö pod duhovnim?|-Mogao bih neöto da nauËim.
+{95259}{95443}äta? äta ûeliö da znaö? -Ne znam ni sam|dok ne probam da saznam öta.
+{95444}{95516}Zaöto sad ne pokuöaö?
+{95518}{95590}Zar ti nikad... nikad ne Êutiö?
+{95592}{95648}Niöta ne govoriö?|-∆utim.
+{95649}{95725}Zar nikad samo ne posmatraö|bez ijedne reËi?
+{95769}{95874}Da, a ono öto me najviöe muËi u|vezi sa tobom, i u vezi sa Alenom...
+{95875}{95956}je Ëinjenica da me maltretirate|od onog trenutka kad se pojavim.
+{95958}{96007}Maltretiramo?|-Da.
+{96008}{96118}Ja mislim da ti jednostavno ne znaö kad|se nekom sviaö, u tome je stvar.
+{96119}{96218}Da hoÊemo da te maltretiramo,|maltretirali bismo te.
+{96278}{96400}Da, ali, evo, malo pre je rekao da|ja stalno priËam gluposti.
+{96402}{96483}Nisam tako rekao. IzvrÊeö|moje reËi.
+{96484}{96568}Ne izvrÊem tvoje reËi.|Interpretiram te.
+{96569}{96688}Interpretiraö ga na... na svoj naËin,|je l' tako?
+{96689}{96828}Prema svojim sopstvenim pravilima, svojim|idejama. -Moram nekako da mu  odgovorim.
+{96858}{96941}Zaöto? Zaöto moraö da|odgovoriö?
+{96943}{97031}Da bih tebe zadovoljio.|-Ne moraö mene da zadovoljavaö.
+{97033}{97090}ätaviöe, to je nemoguÊe.
+{97115}{97178}Da si rekao da ne ûeliö nikakav odgovor,|ne bih ti odgovorio.
+{97179}{97260}Da li pokuöavaö svakoga da|zadovoljiö? -Ne.
+{97262}{97319}Pokuöavaö tu i tamo?
+{97320}{97430}Pokuöavaö tu i tamo nekoga da zadovoljiö?|-Nekoga da, ne svakoga.
+{97432}{97535}Samo odabrane? -Neke ljude je nemoguÊe|zadovoljiti jer su, jednostavno takvi.
+{97537}{97675}Ma koliko ja pokuöavao, prosto je|nemoguÊe. -Kako znaö?
+{97677}{97801}Pa, mislim ako nekoga znaö neko vreme,|onda moûeö da naslutiö...
+{97803}{97943}Da li imaö i prijatelje koje ne moûeö|da zadovoljiö?
+{97944}{97998}Da.
+{97999}{98082}Viöe poznanike ne prave prijatelje.|-Prijatelje sa kojima moûeö da razgovaraö.
+{98083}{98176}Uvek traûiö prijatelje sa kojima moûeö da|komuniciraö. -Kakvi su ti to bliski prijatelji?
+{98178}{98281}Neko sa kim si na, gotovo istoj|talasnoj duûini.... -Samo to?
+{98283}{98360}I sa kim moûeö jako dobro|da komuniciraö.
+{98362}{98445}Neko ko je... ko je isti kao ti?
+{98447}{98486}Ne|-Izgleda kao ti?
+{98488}{98530}Ne.|-Ne?
+{98532}{98642}Kad priËa kao ti?|-Ne, kad razmiöljamo sliËno.
+{98644}{98769}Kako znaö da ti se neko svia? Kad razmiölja|kao ti? -Kad razmiölja isto kao ja!
+{98773}{98827}äta na primer? Kad obojica imate|zelena vrata.
+{98829}{98944}Kad smo na istoj talasnoj duûini.|-äta to znaËi, na istoj talasnoj duûini?
+{98945}{99050}I kad se razumemo meusobno...|kad znamo öta onaj drugi misli.
+{99052}{99134}Hajde da probamo da se|razumemo, vaûi?
+{99135}{99210}Ne bi bilo loöe.
+{99212}{99321}Ne bi bilo loöe.|A kako Êemo da se razumemo?
+{99323}{99420}Moûeö prvi da mi postaviö pitanje.|Moûeö prvi da mi postaviö pitanje!
+{99440}{99477}Ako imaö neöto da me pitaö, pitaj.
+{99479}{99560}Nemam.|-Nemaö nikakvo pitanje?
+{99562}{99634}Ali, ja nisam...|-Mislim da te neko traûi.
+{99635}{99745}HoÊete da odem? Dobro, idem.|-Ne moraö da ideö.
+{99747}{99914}Nisam doöao ovamo da...  Mislim vi me tretirate|kao novinara, ali ja nisam novinar.
+{99915}{100001}»oveËe, öerifova ûena ûeli|da te vidi.
+{100003}{100065}Kakva öerifova ûena?
+{100124}{100173}Otkud ja znam?
+{100174}{100238}Da li ti liËim na Robina Hooda?
+{100239}{100303}Jeb'o te, koji öerif?
+{100334}{100454}Koji öerif? Kakav öerif?|-éena se zove Sarah Lee.
+{100455}{100521}Gde je ta dama?|-Mislim da je ona bitna.
+{100523}{100592}Odmah u sobi pored.
+{100594}{100674}Je l' to ûena Jima Clarka?
+{100675}{100766}Jim Clarke je öerif iz Nottinghama?
+{100811}{100875}Jadan ti sam.
+{100893}{100967}Obuj Ëizme.|-Samo hoÊe da te pozdravi.
+{100969}{101080}äto da obuvam Ëizme? -Ko je ona?|-Rekao sam ti öta mi je reËeno.
+{101081}{101241}äerifova ûena. Ko zna, moûda, na kraju|negde zaglaviö sa öerifovom ûenom?
+{101420}{101571}Ja sam öerifova ûena i doöla sam samo da vam|kaûem koliko smo svi sreÊni öto ste ovde...
+{101573}{101715}da vam poûelim dobar i uspeöan koncert. Ovde|vas svi vole. Ispred su hiljade oboûavalaca.
+{101716}{101856}A ovo su moja tri sina,|David, Stephen i Stephen.
+{101858}{101997}Oni vas toliko vole da su ostavili|ispite koje su spremali...
+{101999}{102075}sve su ostavili samo da bi|doöli na vaö koncert.
+{102076}{102171}Onda moram da se potrudim.|-Ne treba da se potrudite.
+{102173}{102314}Mislim da vi i ne moûete drugaËije.|Stvarno smo jako uzbueni öto ste sa nama.
+{102315}{102459}Ako opet doete posle maja, pozivam vas|da budete gosti u mojoj kuÊi.
+{102460}{102565}Tada Êe ova dama biti gradonaËelnik.|-Posle maja.
+{102566}{102701}Ova dama Êe biti prva ûena gradonaËelnik.|-Ja mislim da su vaöe pesme predivne.
+{102703}{102798}I vi ponekad napiöete neku pesmu?|-Ja sam napisao sve pesme.
+{102799}{102896}Stvarno? Pune su oseÊanja|i stvarno su sjajne.
+{102898}{103021}I mislim... stvarno tako mislim, vi ste|izvanredan primer omladini.
+{103023}{103091}Hvala.|-ZnaËi, ako se vratite ovamo...
+{103093}{103206}uËiniÊete mi zadovoljstvo da budete|gosti u mojoj kuÊi.
+{103208}{103321}Ovo je moj prijatelj i ûeleo bi neöto|da vam pokloni. -Kako ste?
+{103323}{103394}To je harmonika.|-Izvolite.
+{103395}{103529}Divno. Je l' to vaöa?|Mnogo vam hvala, baö lepo od vas.
+{103530}{103659}Vi ste njegov prijatelj, sad sam pozvala vaöeg|prijatelja, ako doete opet posle maja...
+{103660}{103754}da doete sa njim i da budete|gosti u mojoj kuÊi.
+{103755}{103901}To je jedna predivna kuÊa, a posle maja, uz boûiju|pomoÊ, ja Êu biti gradonaËelnik ovog gradiÊa.
+{103903}{103977}Naravno, vratiÊemo se.|-Ozbiljno sam mislila.
+{103979}{104129}I ûelela bih da svi znaju koliko je ovo lep|gradiÊ i koliko smo gostoljubivi...
+{104130}{104293}a takoe ûelim da znate koliko smo oduöevljeni|öto ste ovde. Hvala vam. Dovienja.
+{104308}{104370}Sad je pola osam? Jebi ga.
+{104663}{104724}Koja je to pesma?|-'George Formby'.
+{104725}{104827}Je l' on peva, 'Gospoo Brown,|imate divnu Êerku'?
+{104829}{104903}Da, to su 'Herman & The Hermits'.
+{105091}{105170}Jesi li gledao na televiziji?|Dave Berry.
+{105171}{105274}Pomera se sasvim polako, kao da|ga mrzi da ûivi.
+{105275}{105337}Ide ovako...
+{105543}{105687}Super je. A voli da baci mikrofon|da mu visi preko lea.
+{106663}{106749}Je l' 'Animals'-i,i dalje traûe pijanistu?
+{106750}{106947}Da, jedan moj dobar prijatelj mi je rekao da|sutra ide na poslednju audiciju.
+{106949}{107011}Ti neÊeö viöe da sviraö sa njima?
+{107013}{107110}Raziöli smo se.|Takve stvari se deöavaju.
+{107812}{107867}King size krevet!
+{109489}{109567}O, ËoveËe, baö mi nije do pevanja.
+{109569}{109605}ProÊi Êe te na bini.
+{109606}{109670}Dva akorda ili jedan, ËoveËe?
+{109770}{109836}Moûda samo jedan... Znaö...
+{109837}{109900}Moûda. I ja bih voleo da|odsviram jedan.
+{109901}{110005}Kome sam dao öibice?|-U redu.
+{110006}{110075}Evo ih. Tu su.
+{110209}{110327}Ima li ovde malo ruma?|-Nemam pojma öta se ovde deöava.
+{110431}{110506}A ja mislio ti radiö na|nekoj pesmi.
+{110559}{110645}Je l' ti upalo staklo?|-Da, i drvo.
+{114067}{114123}Molim?|-Nastavi da sviraö.
+{114125}{114191}Zaöto to radiö?
+{114242}{114325}Gde si? PriËam sa tobom, a ne...
+{114326}{114461}Samo nastavi da sviraö.|-Jesi li tu?
+{114462}{114512}Jesam.|-U redu.
+{114553}{114626}Gde su vrata?|-Niz stepenice.
+{114627}{114753}Gde, ËoveËe?|-Sii stepenicama.
+{114810}{114851}Izvini.
+{115033}{115097}Samo pravo?|-Da.
+{115210}{115259}Popni se stepenicama.
+{115425}{115478}Izvinite.
+{116126}{116183}Upadaj u taksi, Pete! Hajde!
+{116185}{116249}Pete! Pete! Upadaj u taksi!
+{116251}{116333}Gde je on? Gde je?
+{116363}{116426}KreÊi!
+{116427}{116491}Doi ovamo.|-Doi, brzo.
+{117001}{117063}HoÊu da znam ko je bacio Ëaöu|na ulicu?
+{117065}{117134}Da, ovo je... -Ko je bacio?|Recite mi!
+{117136}{117260}Ako mi ne kaûete ko je bacio svi|letite odavde  i viöe se ne vraÊate.
+{117261}{117376}Ko je bacio? Baö me briga ko je bacio|samo hoÊu da znam.
+{117377}{117460}Ja sam pijan, ali nisam bacio.
+{117461}{117526}Bio sam u kupatilu.
+{117527}{117611}Hej, ne govori mi kako si se|naöljemao, ËoveËe.
+{117612}{117689}Ne govori mi kako si se naöljemao,|jer me se to, uopöte ne tiËe.
+{117691}{117771}Ko je bacio Ëaöu na ulicu?|-Ja nisam.
+{117772}{117876}A ko jeste? Bio si tamo.|Ko je bacio?
+{117877}{117915}Je l' znaö ko je?
+{117917}{117976}Da, mislim da znam.
+{117977}{118049}U redu, mene ne interesuje ko je bacio.
+{118051}{118138}Ako ti znaö, reci mu da ode...
+{118140}{118213}i da kaûe pandurima koji su se|raspitivali ko je to uradio...
+{118215}{118272}ko je bacio Ëaöu.
+{118273}{118386}Ja neÊu da preuzimam odgovornost za ljude|koje uopöte ne poznajem, ËoveËe.
+{118387}{118482}Imam veÊ veliku odgovornost za svoje|prijatelje i za svoje ljude.
+{118483}{118539}Znam, kapiram te.|-Hajde, onda, reci.
+{118541}{118621}Ja sam bio tamo...|-Baö me briga ko je bio...
+{118622}{118742}Ne trebaju mi nikakva proseravanja.|Samo ne ûelim staklo po ulici.
+{118743}{118823}Ne proseravam se.|-Zaöto si to uradio?
+{118825}{118897}Zaöto si bacio Ëaöu na ulicu?|-Nisam ja.
+{118898}{118991}Reci mi  koj bacio. Ako mi ne budeö rekao|dok izbrojim do deset...
+{118992}{119059}tebe Êu smatrati odgovornim.
+{119061}{119204}Dobro. Jedan, dva, tri, Ëetiri, pet, öest,|sedam, osam, devet, deset. Je l' taj ovde?
+{119206}{119309}Ne znam. -»oveËe,|ne zajebavam se.
+{119311}{119417}Odlazim odavde.  -Ideö da|oËistiö ono staklo, ËoveËe.
+{119418}{119539}Ja Êu ga oËistiti. OËistiÊu tvoju srËu.|-PomoÊi Êu ti, ËoveËe.
+{119596}{119726}Ja ne bih Ëistio tvoje.... -Mislim da je|on u redu. Verujem da je u redu.
+{119727}{119774}U redu. Mislim...|-Sluöaj...
+{119776}{119873}Prestani da mi priËaö istu priËu.|»uo sam je veÊ hiljadu puta...
+{119874}{119982}Sluöaj, ja odoh. -Znam ja hiljadu|tipova takvih kao ti, ËoveËe.
+{119983}{120050}»ak i priËaju kao ti.|-Odjebi.
+{120052}{120122}Vidi, vidi...|-Uûasan si daveû. Znaö?
+{120123}{120207}Znam, ËoveËe.|-Uûasan daveû.
+{120208}{120296}Nisam veÊi daveû od tebe.|-Ja uopöte nisam daveû.
+{120300}{120343}Sjajno.|-Ja sam sitna riba.
+{120347}{120386}Tako je.
+{120387}{120516}Vidi, da sam ja bacio tu jebenu Ëaöu...|-Ono si öto ti kaûeö da jesi, ËoveËe.
+{120517}{120603}Ja sam niöta. -Zar nisi rekao da|si sitna.... Verujem ti.
+{120604}{120673}Niöta!|-Verujem ti, ËoveËe.
+{120674}{120712}Momci...|-Sluöaj Bobby Dylane...
+{120713}{120828}Ti si jedan veliki, meunarodni daveû.|-Moûemo li da dobijemo neko piÊence?
+{120829}{120989}Ja sam niöta, ali nisam bacio nikakvu|jebenu Ëaöu na ulicu, ËoveËe.
+{120991}{121081}Da jesam i kad bi ti ûeleo|da mi verujeö...
+{121082}{121215}A ko je bacio, ËoveËe?|-I kad bi hteo da poeö sa mnom...
+{121219}{121268}da pokupim to jebeno staklo...
+{121269}{121324}Znaö...|-Samo malo.
+{121326}{121448}Ja bi' te zviznuo.|-U redu, ËoveËe. Smiri se.
+{121449}{121633}Idem ja... ja Êu siÊi i pokupiÊu sve. -Ne.|Ne treba ti da ideö, mi Êemo siÊi i pokupiti.
+{121634}{121728}PokupiÊu staklo.|-UËiniÊeö to zbog mene?
+{121729}{121839}Ne moraö to da radiö zbog mene.|To radiö zbog nekog drugog.
+{121841}{121931}Ovde je neki gospodin koji|se raspituje za Ëaöu.
+{121932}{121968}Da.
+{122053}{122119}Ostali mogu da ostanu ovde....
+{122121}{122178}ali onaj koji je bacio Ëaöu...
+{122179}{122247}Auto nam je upropaöÊen.
+{122248}{122313}Sad imamo problem, zar ne?
+{122314}{122381}NaÊi Êemo ko je to radio.
+{122382}{122458}Bolje Êe biti da ne istraûujemo to danas. |Jako mi je ûao.
+{122459}{122537}Nekad sam nosio kaubojski |öeöir, kao Jack.
+{122538}{122608}Snimio sam i ploËu gde sam |koristio Jackove pesme.
+{122609}{122704}Imam jednu koja se zove 'Kauboji'. |-Zezaö?
+{122706}{122787}'Kauboji', kao i... |-'Lutalice'?
+{122788}{122858}'Lutalice' i 'Kauboji'.
+{122859}{122954}Voleo bih da se naemo kad se |istrezniö, ËoveËe.
+{122956}{122997}Nadam se da niko |nije povreen.
+{122998}{123084}Nadam se da se niko nije povredio |na ono staklo.
+{123086}{123160}I ja se nadam. |-U redu.
+{123162}{123289}Sluöaj, ËoveËe, zaöto se ne naemo |da ti ispriËam neke stvari?
+{123333}{123364}Vaûi.
+{123379}{123514}Ima li ovde neki pesnik kao öto je |Allen Ginsberg? -Ne. Ne, nema.
+{123516}{123606}Dominic Behan? |-Ne, ne, ja...
+{123607}{123705}Nikad Ëuo ni za koga po |imenu Dominic Behan.
+{123707}{123813}Dominic Behan je moj prijatelj. |-To je u redu, ËoveËe.
+{123814}{123913}Mada, nikad nisam Ëuo za njega. |-U redu.
+{123914}{123959}Svira kao Jack, ËoveËe.
+{123961}{124027}Tako je, ËoveËe.
+{124967}{125031}Hej, to je baö dobra pesma.
+{125033}{125079}Pevaj, Bobe.
+{127124}{127170}Svaka Ëast!
+{127215}{127319}Odsviraj joö neöto.  -HoÊu da odsviram |'Sve je gotovo, Baby Blue'.
+{127320}{127373}Hajde, Bobe. |-Da.
+{127443}{127599}Malo sam zategao ûice. |Naötimovao sam je.
+{131170}{131247}Sjajno, Bobe. |-Ta ti je dobra, Bobe.
+{131249}{131330}Nekad sam... -HoÊete da Ëujete |joö jednu pesmu?
+{131552}{131624}Da li su to straûnja vrata?
+{131625}{131679}Da, molim.
+{131680}{131770}Baö me briga öta oni vide.
+{131772}{131913}Javljamo vam se iz hotela Savoy, biÊemo kod vas |za desetak minuta sa gospodinom Bobom Dylanom.
+{131914}{131965}HoÊete li nas sprovesti?
+{131967}{132108}Na straûnja vrata? Tamo nema puno |klinaca? Hvala vam. Do vienja.
+{132109}{132174}OËigledno da ih je tamo samo |nekoliko, pa...
+{132175}{132294}{y:i}SVA SEDE∆A I STAJA∆A MESTA|{y:i}ZA KONCERTE BOBA DYLANA...
+{132295}{132440}{y:i}VE»ERAS I SUTRA UVE»E|{y:i}RASPRODATA SU
+{132442}{132560}Predivan dan, ËoveËe. -Jutros, od 10|nisam pomolio nos iz kancelarije.
+{132562}{132635}Organizovao sam drugu turneju.
+{132637}{132746}Sa drugim folk pevaËem.|-Da, sa Donovanom, drugim folk pevaËem.
+{132748}{132820}Kako ide ta turneja?|-Ne baö najbolje.
+{132844}{132976}Rekao mi je, 'äta misliö da rezerviöemo|salu u Scarboroughu za nedelju...
+{132978}{133107}i to samo za Donovana?' Rekao sam mu,|'Znaö, on ne moûe da svira dva sata.'
+{133109}{133309}Onda je rekao, 'A da naemo joö jednog umetnika?'|Rekao sam mu,' Trebaju nam joö Ëetvorica.'
+{133754}{133834}Ovo mora da je neka jako|stara dvorana.
+{133835}{134016}Jeste, Viktorija je umrla 1894. -Kraljica|Viktorija je izgradila za prvog muûa.
+{134366}{134462}Doi ovamo da se malo upoznaö|sa realnoöÊu.
+{134654}{134732}Pogledaj one loûe!
+{134773}{134819}Boûe!
+{134841}{134890}Halo?
+{135158}{135256}Ima li ih?|-Svuda.
+{135574}{135671}SviraÊu je, ËoveËe.|SviraÊu.
+{135875}{135971}Dobro, da li je proba zavröena?
+{135973}{136095}ZavröiÊemo je na pozornici.|-Dobro. U redu.
+{137320}{137464}Dobro, sviraÊu je. Moûe da proe.|äteta öto nemam novu.
+{137931}{138036}HoÊete li doÊi veËeras na koncert?|OdsluöaÊete ga?
+{138038}{138143}Dobro, gledajte i sluöajte|jer Êe se sve biti jako brzo.
+{138145}{138270}NeÊete sve shvatiti, Ëak Êete i neke|reËi pogreöno razumeti.
+{138271}{138396}Posle toga viöe nema razgovora jer ja nemam|öta da kaûem o onome öto sam napisao.
+{138398}{138440}Prosto, napisao sam ih.
+{138441}{138574}Nemam viöe öta da kaûem. Nisam ih napisao ni|sa kakvim razlogom. Nema tu velike poruke.
+{138575}{138700}Ako ûelite to prenesete svojim Ëitaocima,|samo izvolite.
+{138701}{138762}Ali, ja ne moram na to|da vam odgovorim.
+{138764}{138870}A onda Êe oni pomisliti, 'äta ovaj 'Time'|pokuöava da nam kaûe'?
+{138871}{138947}Ali, ni time nam neÊete naökoditi.
+{138949}{139050}Vi ne poznajete svoje Ëitaoce.
+{139051}{139193}Jer, ja nikad nisam izaöao u 'Time'-u|a ovu dvoranu sam dva puta napunio.
+{139195}{139311}Nikad nisam bio u 'Time'-u...|meni 'Time' nije potreban.
+{139364}{139481}I ne mislim da sam folk pevaË, i mada Êete|me vi, verovatno tako zvati, 
+{139483}{139532}ljudi to mnogo bolje znaju.
+{139534}{139657}Jer nije obavezno da ljudi koji kupuju|moje ploËe Ëitaju 'Time'.
+{139659}{139742}Kakva je ËitalaËka publika|koja je pretplaÊena na 'Time'?
+{139744}{139841}Publika koja... ljudi koji ûele da znaju|öta se deöava u svetu...
+{139842}{140026}iz nedelje u nedelju, ljudi koji rade po ceo dan a|onda ûele da proËitaju mali, koncizni Ëlanak...
+{140027}{140082}ilustrovan slikama.
+{140084}{140204}Ti ljudi, mislim na tu, odreenu|klasu ljudi, jer to je klasa ljudi...
+{140205}{140266}koja Ëasopis shvata ozbiljno.
+{140267}{140390}I ja ga Ëitam... Ëitam ga u avionu,|ali ga ja ne shvatam ozbiljno.
+{140391}{140472}Ako ûelim neöto da saznam|ja ne Ëitam 'Time...
+{140474}{140571}ne Ëitam ni 'Newsweek' niti bilo koji|drugi sliËan Ëasopis...
+{140572}{140660}zato öto oni mogu mnogo da izgube|ako napiöu istinu.
+{140661}{140746}I vi to znate.|-Na kakve istine mislite?
+{140747}{140821}Na bilo kakve. äirom sveta|poznate istine.
+{140822}{140923}Sutradan bi prestali da se ötampaju onog|dana kad bi odötampali pravu istinu.
+{140925}{141041}Kakvu pravu istinu?|-Prava istina je prosta slika.
+{141042}{141197}Slika Ëega?|-Slika... prosta slika...
+{141229}{141324}Recimo, na primer....
+{141325}{141396}slika skitnice koja povraÊa|u kanalizaciju.
+{141397}{141570}I zatim... na sledeÊoj slika...|gospodina Rockefellera...
+{141571}{141713}ili gospodina C.W. Jonesa koji ide|na metroom na posao.
+{141769}{141915}Bilo kakve slike. Samo da napravite kolaû|razliËitih slika, öto nikad ne radite.
+{141916}{142036}U 'Time'-u nema nikakvih ideja,|samo gole Ëinjenice.
+{142037}{142166}Jer to nije... Ëak ni ovaj Ëlanaka koji vi piöete i|koji mislite da objavite...
+{142167}{142224}ne moûe biti dobar Ëlanak.
+{142225}{142380}Zato öto Ëovek koji piöe Ëlanak sedi za svojim|stolom u New Yorku ni ne izlazeÊi napolje.
+{142381}{142527}On Êe poslati 15 reportera i vi Êete mu|poslati svoje izveötaje.
+{142529}{142609}Razumete?|-To, jednostavno nije istina.
+{142610}{142712}On ne vara samo sebe veÊ|vara i svoje Ëitaoce...
+{142714}{142811}a sledeÊe nedelje dobiÊe|opet svoj prostor u Ëasopisu.
+{142812}{142883}I to je sve. To nikome drugom|viöe niöta ne znaËi.
+{142885}{142981}Ali, ja ne ûelim da vas kritikujem jer ti ljudi|koji rade tamo moraju da jedu i da ûive.
+{142982}{143024}Znate.
+{143025}{143115}Ali, ako niöta, mogli biste|bar da budete iskreni u vezi toga.
+{143116}{143200}Evo, znate... znate...|-Ja ne mislim...
+{143201}{143350}Ja znam viöe o onome Ëime se vi bavite|a da ne moram da pitam ni kako ni zaöto,
+{143351}{143412}samo posmatranjem,
+{143414}{143491}nego öto Êete vi ikad|znati o meni... ikad.
+{143492}{143622}Mislim, mogu da vam kaûem... da vam kaûem da|nisam folk pevaË i da vam objasnim i zaöto...
+{143624}{143691}ali vi to neÊete razumeti.
+{143692}{143817}Vi moûete samo da klimate glavom...|-Mogli biste bar da pokuöate.
+{143819}{143928}Ne, nemam volje ni da pokuöam,|zato öto bi to bilo...
+{143930}{144065}zato öto postoje neke stvari... Svaka reË|ima velika i mala slova.
+{144066}{144117}Vaö prijatelj ima pravu reË za to,|fah.
+{144119}{144195}Ne, nije to fah. Nije to.
+{144196}{144303}Svaka reË moûe da se napiöe velikim ili|malim slovima kao reË 'know*'. (*znati)
+{144305}{144360}ReË 'know', K-N-O-W.
+{144361}{144492}U redu, reË  'know',|veliko K-n-o-w.
+{144494}{144591}Da. -Kao na primer,|niko od nas niöta ne zna...
+{144592}{144663}ali svi mislimo da znamo svaöta.
+{144665}{144712}Ali, ne znamo niöta.
+{144714}{144816}Kao öto vi kaûete da znate viöe o|mom poslu... -Ne, rekao sam...
+{144817}{144947}Ja samo kaûem da Êete umreti, nestati sa|lica zemlje, biti mrtvi...
+{144949}{145062}to moûe da bude za 20 godina,|moûe sutra... isto kao i ja.
+{145064}{145152}Mi Êemo umreti, a svet Êe nastaviti|da se okreÊe i bez nas.
+{145154}{145278}Sad, u tom smislu vi radite svoj posao i|koliko ozbiljno Êete sebe shvatati...
+{145280}{145348}zavisi samo kako sami odluËite.
+{145350}{145418}U redu? A ja Êu odluËiti za sebe.
+{145420}{145545}Vi mene ne moûete oneraspoloûiti|time öto Êete pisati loöe o meni...
+{145546}{145653}ili tako neËim, znate...|Vi mene ne moûete uvrediti.
+{145655}{145717}Znam da vi znate da ni ja vas|ne mogu uvrediti.
+{145750}{145793}Zato...
+{145844}{145936}jedino öto mogu da se nadam|da Êete uraditi...
+{145937}{145997}je da Êete ideje koje imate u glavi...
+{145998}{146045}ma kakve one bile...
+{146184}{146270}Da li vam je stalo|do toga öto pevate?
+{146271}{146368}Kako da vam odgovorim na to kad imate|petlju da me tako neöto pitate?
+{146370}{146447}Baö imate petlju kad me pitate|tako neöto.
+{146448}{146516}Ja moram...|-Jeste li pitali to Beatles-e?
+{146517}{146600}Moram da vas pitam jer vi|imate petlju da me pitate...
+{146601}{146691}Ja vas niöta ne pitam jer ne oËekujem|nikakav odgovor.
+{146692}{146821}äta mislite da li bi iko iöao ikoga da gleda|ako ne misli da Êe se zabaviti?
+{146822}{146912}Naravno da ne bi.|-Ko ûeli da bude biËevan?
+{146913}{147040}I ako ûelite da budete biËevani|da li Êete se zabaviti?
+{147041}{147141}NeÊete? U redu. Mislite da iko|dolazi da me gleda...
+{147142}{147232}iz bilo kog drugog razloga|osim da se zabavi?
+{147233}{147296}Oni Êe vam reÊi da dolaze iz|razliËitih razloga.
+{147326}{147471}Koga briga öta Êe vam oni reÊi?|-Oni misle da znaju zaöto dolaze.
+{147472}{147543}Da li vi znate zaöto dolaze?|-Znam da neki...
+{147545}{147604}Ljudi svaöta priËaju.
+{147606}{147675}Mi moramo da ih razluËimo.|Moûete li vi da ih razluËite?
+{147676}{147731}Ja ne znam kako da ih|razluËim.
+{147732}{147867}E, pa, znate, moraÊete da nauËite.|Ja ne umem da vam pokaûem.
+{147868}{147977}Nisam rekao da ne bih mogao,|samo sam rekao da ne znam kako.
+{148115}{148243}Znate... ja stvarno ne znam.|Ja Ëak nisam ni pop pevaË.
+{148245}{148369}HoÊe li tako zauvek i ostati?|-Ne znam. Nemam predstavu.
+{148371}{148472}Svi pevaËi ponekad postanu|pop pevaËi, Ëak je i Caruso....
+{148473}{148586}apelovao na svoju publiku...|-On jeste pop pevaË.
+{148587}{148742}Da, ja pevam isto kao Caruso.|Jeste li me Ëuli nekad kako pevam?
+{148743}{148817}Jeste li me Ëuli kako pevam?|-Viöe mi se svia Caruso.
+{148818}{148924}E pa sad... sad imamo jedno|malo neslaganje.
+{148926}{149012}Ja sam dobar kao on... dobar pevaË.
+{149013}{149072}Ako paûljivije posluöate...
+{149103}{149160}i ako izuzmete sve te note...
+{149192}{149301}ako hoÊu ja mogu tri puta duûe|da zadrûim vazduh.
+{150567}{150619}Je l' kreÊemo na vreme?
+{150650}{150738}Je l' kreÊemo na vreme?|Da se nije neöto promenilo?
+{150740}{150807}Kad poËinjemo, u sedam?
+{150808}{150871}U pola osam.|-To je to.
+{150995}{151073}Je l' Donovan tamo?|-Ne znam, nisam ga video.
+{151075}{151143}Ne poËinji dok ne stigne, Bobe.|-U redu.
+{151145}{151277}Ljudi koji vole Donovana...|vole svakoga.
+{151315}{151379}Stavili smo dodatne zvuËnike na svaki...
+{151437}{151503}U svakom sluËaju, karte su|rasprodate.
+{151896}{151981}Ideö li sa nama?|-Da, idem.
+{152056}{152120}Hej, i Beatles-i su ovde.
+{152709}{152804}Ovo Êe biti bezvezno mesto,|ne znam da li Êu Ëuti sebe.
+{152806}{152904}»uÊeö.|-Idemo.
+{152906}{152962}Ne mrdaj odavde.
+{153093}{153147}Joö oko dva minuta.
+{153148}{153210}Minut i po.
+{153271}{153342}SledeÊi put kad uem|vreme je za pokret.
+{153343}{153405}Budite spremni.
+{154162}{154231}VeÊ?|-Ponesi harmoniku.
+{154271}{154333}Hodnik je mraËan. Pazi.
+{154517}{154579}Idemo.
+{158602}{158748}SledeÊa pesma je  'U redu je, mama|(ja samo krvarim, ho, ho, ho)'.
+{164583}{164674}Zavesa se spuöta, svetla se pale| kreÊe himna.
+{165384}{165463}U stvari, aplauz je|najobiËnija glupost.
+{165532}{165645}Bolje bi ti bilo da radiö neöto|nego öto sediö tu i Ëekaö.
+{168665}{168741}Vidimo se!
+{168796}{168858}Vozi, öefe, vozi!
+{168859}{168935}Vozi.
+{168936}{169032}Bilo je sjajno, ËoveËe.|-Jako dobar koncert.
+{169060}{169110}Sjajan koncert!
+{169111}{169166}Prelepo.
+{169168}{169232}Svi su ovde, ËoveËe.
+{169253}{169295}Svi.
+{169325}{169387}Do avola!
+{169465}{169534}Amerikanac koji nestaje.|-Da.
+{169535}{169659}Imam oseÊaj kao da sam doûiveo|neöto posebno, ËoveËe.
+{169690}{169726}I jesi.
+{169728}{169852}Znam, mislim, u ovom je bilo|neöto posebno, ËoveËe.
+{169854}{169940}PoËeli su da te nazivaju|anarhistom. -Ko?
+{169941}{170034}Novine. To je najnovija reË.|-Anarhista.
+{170035}{170105}Da. -Zezaö me?|U kojim to novinama?
+{170106}{170148}U par njih.
+{170149}{170292}U danaönjim novinama.|Zato öto ne nudiö nikakvo reöenje.
+{170294}{170386}Zezaö?|-Naravno.
+{170423}{170482}Anarhista?|-Da.
+{170559}{170665}Daj mi cigaretu. Daj anarhisti|cigaretu.
+{170781}{170856}Anarhista!
+{170876}{170947}PevaË poput mene!
+{170949}{171040}Da, i s‚m sam se iznenadio kad|sam proËitao, ali tako piöe.
+{171041}{171110}Trebalo im je vremena da|smisle to.
+{171111}{171254}Mogli su da me nazovu i komunistom.|-Zar nisu juËe?
+{171255}{171355}U Engleskoj komunisti,|zapravo nisu...
+{171356}{171436}Sve je kul.|-Da.
+{171438}{171514}Ne mislim da je kul biti anarhista.
+{171515}{171625}Nema sumnje. -Nadam se da nije.|Mislim da nije.
+{172306}{172606}{y:i}zgaca62@yahoo.com
+{172631}{174131}-== [ www.OpenSubtitles.org ] ==-

@@ -1,0 +1,5503 @@
+1
+00:00:06,000 --> 00:00:12,074
+-== [ www.OpenSubtitles.com ] ==-
+
+2
+00:01:12,950 --> 00:01:14,133
+Kako ide?
+
+3
+00:01:14,220 --> 00:01:15,642
+Sastavili smo
+najnoviju telemetriju
+
+4
+00:01:15,796 --> 00:01:18,583
+gdje se vidi da je na oko
+96% od optimalnog.
+
+5
+00:01:20,173 --> 00:01:21,856
+OdliËno.
+
+6
+00:01:22,712 --> 00:01:26,068
+Patel, kako Ëujem ponovo si
+kalibrisao senzore.
+
+7
+00:01:26,170 --> 00:01:27,785
+Da, jesam.
+
+8
+00:01:29,235 --> 00:01:31,317
+Pokaûi mi poslednji prenos.
+
+9
+00:01:32,914 --> 00:01:35,064
+Sada dobijamo mnogo
+taËnije podatke.
+
+10
+00:02:16,122 --> 00:02:18,113
+Izgubili smo signal
+sa sonde.
+
+11
+00:02:18,881 --> 00:02:21,463
+PustiÊu podatke sa pomoÊnih
+senzora
+
+12
+00:02:21,543 --> 00:02:23,363
+da vidim gdje je problem.
+
+13
+00:02:30,832 --> 00:02:32,618
+CME?
+
+14
+00:02:32,714 --> 00:02:35,000
+Moûda smo zauvijek
+izgubili sondu.
+
+15
+00:02:36,918 --> 00:02:38,601
+äta do avola?
+
+16
+00:02:39,982 --> 00:02:43,338
+Ali nismo imali nikakvih
+ranijih upozorenja na koronarnu aktivnost.
+
+17
+00:02:44,273 --> 00:02:47,561
+Jutros, milijarder
+Dr. Lucas Foster,
+
+18
+00:02:47,644 --> 00:02:52,160
+troöi skoro 100 miliona dolara
+svog novca za lansiranje Galilea,
+
+19
+00:02:52,240 --> 00:02:56,529
+nauËno-istraûivaËko vozilo sa ljudskom
+posadom takoe poznato i kao MAV
+
+20
+00:02:56,610 --> 00:02:58,430
+za koje se nada da Êe
+pomoÊi ËovjeËanstvu
+
+21
+00:02:58,501 --> 00:03:01,254
+da preûivi ono öto on zove
+"nesigurnu buduÊnost",
+
+22
+00:03:01,338 --> 00:03:04,284
+a öto kritiËari zovu
+"Lucasova revija".
+
+23
+00:03:05,987 --> 00:03:08,171
+Ostanite sa nama
+jer slijedi konferecija za ötampu
+
+24
+00:03:08,263 --> 00:03:10,914
+a poslije nje i lansiranje ovdje
+u Foster Aeronautics-u.
+
+25
+00:03:13,648 --> 00:03:15,593
+Ne interesuje me öta Êeö
+raditi gore, Joe.
+
+26
+00:03:15,697 --> 00:03:16,777
+Samo donesi...
+
+27
+00:03:16,931 --> 00:03:20,879
+∆vrste dokaze koji Êe
+uvjeriti ove genije.
+
+28
+00:03:26,475 --> 00:03:28,090
+Bolje da se penjem.
+
+29
+00:03:28,883 --> 00:03:30,965
+éelim ti avolski
+dobru voûnju.
+
+30
+00:03:31,729 --> 00:03:32,980
+BiÊe.
+
+31
+00:04:23,037 --> 00:04:25,517
+Hej, Jim, provjeri Q7.
+∆ini mi se da je malo previsoko.
+
+32
+00:04:25,612 --> 00:04:27,500
+Da, cijelo jutro je nestabilna.
+
+33
+00:04:27,590 --> 00:04:30,047
+Ne brini, ipak je u okviru
+operativnih parametara.
+
+34
+00:04:32,100 --> 00:04:34,250
+RazgovaraÊeö sa leöinarima?
+
+35
+00:04:35,033 --> 00:04:37,115
+Leöinari su tako
+prljava rijeË, Jim.
+
+36
+00:04:37,221 --> 00:04:38,643
+Ponovi ovo za mnom.
+
+37
+00:04:38,710 --> 00:04:41,099
+Mediji su naö prijatelj.
+
+38
+00:04:44,883 --> 00:04:46,635
+Zaista hoÊeö da to kaûem?
+
+39
+00:04:46,765 --> 00:04:48,221
+Da.
+
+40
+00:04:48,779 --> 00:04:51,600
+Mediji su naö prijatelj.
+Samo sam se öalio, Jim.
+
+41
+00:04:52,238 --> 00:04:53,751
+Moraö da se opustiö.
+
+42
+00:04:53,849 --> 00:04:55,305
+Da. Da se opustim.
+
+43
+00:04:55,390 --> 00:04:57,142
+Danas se niöta bitno
+ne deöava ovdje, zar ne?
+
+44
+00:04:57,272 --> 00:04:58,728
+Nikako.
+
+45
+00:05:01,387 --> 00:05:03,105
+Dobro jutro svima!
+
+46
+00:05:10,187 --> 00:05:12,735
+Bojim se da Êe moji
+komentari biti neöto kraÊi
+
+47
+00:05:12,805 --> 00:05:14,921
+jer je lansiranje u orbitu
+veoma sloûen posao.
+
+48
+00:05:14,989 --> 00:05:17,002
+Pogotovo kada moram
+voditi raËuna o svakom peniju,
+
+49
+00:05:17,104 --> 00:05:19,993
+za razliku od mojih bivöih
+poslodavaca iz javnog sektora.
+
+50
+00:05:20,073 --> 00:05:22,189
+Ali potanje koje svi
+imate na umu je:
+
+51
+00:05:22,270 --> 00:05:25,660
+Zaöto bi neko bilo tolika budala da potroöi
+
+52
+00:05:25,728 --> 00:05:30,119
+100 miliona kako bi lansirao vozilo u zemljinu
+orbitu kako bi prouËavala gasove staklene baöte?
+
+53
+00:05:30,456 --> 00:05:33,937
+Svi znamo kako zagaenje nastalo ljudskim
+aktivnostima utiËe na zemljinu atmosferu,
+
+54
+00:05:34,037 --> 00:05:35,925
+i kako se ove smrtonosne emisije
+
+55
+00:05:36,016 --> 00:05:39,668
+poveÊavaju veÊim
+sagorijevanjem fosilnih goriva.
+
+56
+00:05:39,912 --> 00:05:42,631
+Ono öto ne znate da je
+samo proöle godine
+
+57
+00:05:42,726 --> 00:05:45,240
+koncentracija metana
+u atmosferi utrostruËena
+
+58
+00:05:45,341 --> 00:05:48,765
+sa potencijalno katastrofalnim
+poslijedicama po okolinu.
+
+59
+00:05:49,676 --> 00:05:51,223
+Moramo da uradimo neöto.
+
+60
+00:05:51,339 --> 00:05:54,024
+Problem je da ne znamo öta.
+
+61
+00:05:54,359 --> 00:05:57,908
+Moj pilot, Joe Johnson Êe
+pilotirati Galileom koji Êe prikupiti podatke
+
+62
+00:05:57,984 --> 00:06:00,202
+kako bi pronaöli taj odgovor.
+
+63
+00:06:00,269 --> 00:06:03,955
+Ima li pitanja?
+Da, vaö stari öef, Bradley Stamp,
+
+64
+00:06:04,025 --> 00:06:07,677
+je za ovo lansiranje rekao
+da je Ëista ludost.
+
+65
+00:06:07,747 --> 00:06:09,294
+Je li u pravu?
+
+66
+00:06:09,376 --> 00:06:12,300
+Nije prvi put da on neku
+moju ideju nazove ludom.
+
+67
+00:06:12,387 --> 00:06:13,638
+Mislim da je Brad joö
+uvijek ljut
+
+68
+00:06:13,710 --> 00:06:17,430
+jer mu nisam dao da investira u moju
+kompaniju prije izlaska u javnost.
+
+69
+00:06:17,509 --> 00:06:19,192
+Urnebesno.
+
+70
+00:06:19,269 --> 00:06:24,161
+Moûete li objasniti zaöto koristite
+rusku letjelicu umjesto ameriËke?
+
+71
+00:06:24,304 --> 00:06:25,657
+Bila je jeftinija.
+
+72
+00:06:25,748 --> 00:06:29,172
+Ali MAV-u kojim Êe Joe pilotirati
+ne nedostaje kvalitet ni bezbjednost.
+
+73
+00:06:29,251 --> 00:06:32,675
+Ruski proizvodi su isto tako dobri kao i
+bilo öta öto proizvodimo mi na zapadu.
+
+74
+00:06:32,745 --> 00:06:35,464
+éao mi je öto ovo moramo
+skratiti, ali vrijeme je novac a...
+
+75
+00:06:35,547 --> 00:06:37,196
+ja moram da idem
+i zapalim oboje.
+
+76
+00:06:37,307 --> 00:06:38,786
+Hvala.
+Hvala.
+
+77
+00:06:38,881 --> 00:06:39,961
+∆ovjek je maioniËar.
+
+78
+00:06:40,033 --> 00:06:41,079
+Bio je to Lucas Foster...
+
+79
+00:06:41,202 --> 00:06:44,558
+Jer Êe Lucas upravo
+zapaliti 98 miliona dolara.
+
+80
+00:06:54,117 --> 00:06:55,129
+<i>Kontrola, ovdje osa 1.</i>
+
+81
+00:06:55,256 --> 00:06:58,271
+<i>Traûlm dozvolu za uzlljetanje.</i>
+
+82
+00:07:01,473 --> 00:07:03,361
+<i>Gallleo?</i>
+<i>Kako Ide?</i>
+
+83
+00:07:03,434 --> 00:07:05,288
+Za sada je dobro.
+
+84
+00:07:05,675 --> 00:07:07,620
+<i>Kakoje u poreenju</i>
+<i>sa slmulatorom?</i>
+
+85
+00:07:07,776 --> 00:07:10,961
+Pokuöavam da se sjetim koliko
+sam puta pao na probnom lansiranju.
+
+86
+00:07:11,051 --> 00:07:13,440
+<i>Lucas, kad tl slljedeÊl put</i>
+<i>Rusl ponude neöto,</i>
+
+87
+00:07:13,512 --> 00:07:17,164
+<i>postaraj se da je pravljeno</i>
+<i>za ljude, ne ölmpanze.</i>
+
+88
+00:07:17,320 --> 00:07:19,777
+U tvom sluËaju, mislim
+da moûe doÊi do zabune.
+
+89
+00:07:33,256 --> 00:07:35,542
+Odakle je ovo stiglo?
+
+90
+00:07:36,101 --> 00:07:38,615
+Radio spektrometar
+Bruny ostrva.
+
+91
+00:07:40,173 --> 00:07:42,027
+Ovo je ogromno.
+
+92
+00:07:42,099 --> 00:07:45,284
+Da. Preveliko.
+Mora da je greöka.
+
+93
+00:07:45,373 --> 00:07:47,318
+Bruny ne grijeöi.
+
+94
+00:07:48,184 --> 00:07:51,836
+Misliö da je sonda
+bila na direktnom udaru ovog CME-a?
+
+95
+00:07:52,387 --> 00:07:56,335
+Patel, normalni CME je izbacivanje Ëestica
+
+96
+00:07:56,406 --> 00:07:57,794
+sa sunËeve povröine.
+
+97
+00:07:57,947 --> 00:08:01,496
+Ako je ovo taËno, a to nije samo
+izbacivanje coronarne mase,
+
+98
+00:08:01,593 --> 00:08:05,108
+to je solarna eksplozija
+i to do sada nevienih razmjera.
+
+99
+00:08:05,205 --> 00:08:06,194
+Provjeri baze podataka.
+
+100
+00:08:06,352 --> 00:08:09,401
+Za svojih 12 godina ovdje,
+da li si ikada ovamo veliki CME?
+
+101
+00:08:09,496 --> 00:08:11,077
+Ne, ne brzajmo sa zakljuËcima.
+
+102
+00:08:11,171 --> 00:08:13,457
+Ne brzam, joö.
+
+103
+00:08:13,794 --> 00:08:16,115
+NSO iz Japana nam je
+obeÊao poslati podatke,
+
+104
+00:08:16,187 --> 00:08:17,870
+kao i Anchorage i Chile, tako...
+
+105
+00:08:18,149 --> 00:08:21,232
+Sonda je skinuta
+prije 46 sati,
+
+106
+00:08:21,312 --> 00:08:24,361
+a ovo je upravo stiglo iz Brunyja.
+
+107
+00:08:24,896 --> 00:08:26,284
+Ako je ovo taËno...
+
+108
+00:08:26,369 --> 00:08:28,883
+Izgleda da je ta
+stvar krenula pravo na nas.
+
+109
+00:08:29,726 --> 00:08:31,774
+NeÊu sjediti skrötenih
+ruku i Ëekati.
+
+110
+00:08:32,229 --> 00:08:34,277
+Moramo ponovo razgovarati
+sa evropejcima,
+
+111
+00:08:34,690 --> 00:08:38,740
+i zovi NSO i pitaj öta je sa podacima
+koje su mi obeÊali prije nekoliko sati.
+
+112
+00:08:53,292 --> 00:08:55,647
+<i>Gospodo, ova ptlca je u letu.</i>
+
+113
+00:08:56,420 --> 00:08:58,342
+<i>U 10.15 po Istonom</i>
+<i>standardnom vremenu,</i>
+
+114
+00:08:58,413 --> 00:09:02,270
+<i>je lanslrana MAV letjellca</i>
+<i>Lucasa Fostera.</i>
+
+115
+00:09:02,331 --> 00:09:03,684
+<i>Kako se vldl na snlmku,</i>
+
+116
+00:09:03,766 --> 00:09:07,884
+<i>MAV-a nosl lzmljenjenl 727,</i>
+
+117
+00:09:07,963 --> 00:09:11,080
+<i>kojl Êe se popetl na vlslnu od</i>
+<i>12000 m</i>
+
+118
+00:09:11,217 --> 00:09:14,106
+gdje Êe se Galileo razdvojiti
+od aviona-nosaËa.
+
+119
+00:09:14,191 --> 00:09:15,840
+<i>Zatlm Êe aktlvlratl</i>
+<i>svoje rakete</i>
+
+120
+00:09:15,939 --> 00:09:18,521
+<i>pomoÊu kojlh Êe stlÊl</i>
+<i>do gornje atmosfere</i>
+
+121
+00:09:18,597 --> 00:09:21,111
+<i>u cllju lzvröenja</i>...
+<i>Svaka ast, Lucas</i>.
+
+122
+00:09:21,186 --> 00:09:23,768
+<i>Prema Dr. Fosteru,</i>
+<i>cllj ove mlslje Êe bltl</i>
+
+123
+00:09:23,845 --> 00:09:26,769
+<i>mjerenje metana u</i>
+<i>termosferl</i>.
+
+124
+00:09:26,853 --> 00:09:30,607
+Galileo Êe doprijeti do
+podruËja za koja Dr. Foster vjeruje
+
+125
+00:09:30,692 --> 00:09:33,377
+da sadrûe velike koncentracije
+ovih smrtonosnih gasova,
+
+126
+00:09:33,465 --> 00:09:37,947
+kako bi jednom zauvijek dokazao...
+Da je egocentriËni ludak.
+
+127
+00:09:41,651 --> 00:09:43,699
+NosaË 1 se popeo
+na lansirnu visinu.
+
+128
+00:09:43,785 --> 00:09:47,039
+<i>MAV, nalazlte se</i>
+<i>na vlslnl od 12000 m</i>
+
+129
+00:09:47,108 --> 00:09:50,327
+i zapoËinjem odbrojavanje
+za T-10.
+
+130
+00:09:50,396 --> 00:09:51,442
+<i>9</i>.
+
+131
+00:09:51,516 --> 00:09:54,030
+<i>8, 7</i>...
+
+132
+00:09:54,122 --> 00:09:56,602
+<i>6, 5</i>...
+
+133
+00:09:56,684 --> 00:09:59,107
+<i>4, 3</i>...
+
+134
+00:09:59,172 --> 00:10:01,561
+<i>2, 1</i>...
+
+135
+00:10:03,794 --> 00:10:07,742
+NosaË 1, zapoËinje odvajanje.
+Nebo je vaöe, Galileo.
+
+136
+00:10:07,818 --> 00:10:09,433
+Primljeno.
+
+137
+00:10:11,140 --> 00:10:14,064
+Odvajanje uspijeöno.
+Aktiviram rakete.
+
+138
+00:10:24,574 --> 00:10:26,428
+Imamo MAV paljenje.
+
+139
+00:10:26,498 --> 00:10:28,318
+Svaka Ëast, Joe.
+
+140
+00:10:29,086 --> 00:10:32,738
+Svi sistemi su u okviru
+radnih parametara.
+
+141
+00:10:34,019 --> 00:10:34,974
+<i>Prokletstvo!</i>
+
+142
+00:10:35,068 --> 00:10:37,252
+–avolski dobra voûnja, Lucas!
+
+143
+00:10:37,902 --> 00:10:40,689
+Ovdje je uvijek brljao
+u simulatoru leta.
+
+144
+00:10:41,574 --> 00:10:44,623
+äta je ono s desne strane?
+
+145
+00:10:44,724 --> 00:10:47,773
+<i>Vidim u retrovizoru,,</i>
+<i>brzo ide na mene.</i>
+
+146
+00:10:47,871 --> 00:10:50,795
+<i>Toje pollclja. Mora da sam</i>
+<i>prekoralo brzlnu</i>.
+
+147
+00:10:54,273 --> 00:10:58,221
+Galileo je van vizuelnog dometa.
+Prelazimo na ureaj za praÊenje.
+
+148
+00:10:58,681 --> 00:11:00,865
+Telemetrija praÊenja operativna.
+
+149
+00:11:04,873 --> 00:11:06,921
+Na visini sam od oko 128 km.
+
+150
+00:11:16,627 --> 00:11:18,879
+Blizu je prvoj
+provjeri metana.
+
+151
+00:11:18,970 --> 00:11:20,585
+Treba da stogne za...
+
+152
+00:11:20,666 --> 00:11:22,247
+6.3 sekunde.
+Tako je.
+
+153
+00:11:23,238 --> 00:11:24,250
+Joe, kako si?
+
+154
+00:11:24,392 --> 00:11:26,974
+<i>Dobro, sprema se za ukljuenje</i>
+<i>senzora I opreme za praÊenje</i>.
+
+155
+00:11:27,050 --> 00:11:30,406
+Larry, imamo alarm
+u sektoru 3.
+
+156
+00:11:30,479 --> 00:11:33,903
+Moûda je kvar.
+Daj mi punu dijagnostiku.
+
+157
+00:11:36,040 --> 00:11:38,725
+Joe, Ëujeö li me?
+Lmamo alarm u sektoru 3.
+
+158
+00:11:38,804 --> 00:11:40,522
+Daj mi svoj status.
+
+159
+00:11:51,888 --> 00:11:53,105
+Izgubili smo telemetriju.
+
+160
+00:11:53,182 --> 00:11:56,470
+Joe?
+
+161
+00:11:56,611 --> 00:11:58,158
+Joe! Gdje je?
+
+162
+00:11:58,290 --> 00:11:59,746
+Ne znam.
+
+163
+00:11:59,865 --> 00:12:01,719
+Vrati ga, Jim.
+
+164
+00:12:02,173 --> 00:12:05,028
+Ovdje Galileo.
+Kontrola, javi se.
+
+165
+00:12:05,093 --> 00:12:07,914
+Nestanak struje?
+Kako je to moguÊe?
+
+166
+00:12:07,978 --> 00:12:10,492
+Mora da je kvar ureaja.
+
+167
+00:12:10,568 --> 00:12:12,889
+Svih ureaja? Nema öanse.
+
+168
+00:12:12,982 --> 00:12:15,371
+Uspostavite radio komunikaciju, odmah.
+
+169
+00:12:22,638 --> 00:12:25,755
+Ovdje Galileo.
+Kontrola, javi se.
+
+170
+00:12:30,927 --> 00:12:33,714
+Telemetrija je vraÊena.
+Primamo signal.
+
+171
+00:12:34,076 --> 00:12:35,828
+Joe, Ëujeö li me?
+
+172
+00:12:35,966 --> 00:12:37,547
+<i>Gallleo, javl se</i>.
+
+173
+00:12:37,644 --> 00:12:41,159
+äta se desilo, Lucas?
+Lmao sam pad cijelog sistema.
+
+174
+00:12:41,248 --> 00:12:43,364
+Izgubili smo te ovdje.
+Jednostavno si...
+
+175
+00:12:43,451 --> 00:12:45,032
+nestao sa ekrana za praÊenje.
+
+176
+00:12:45,131 --> 00:12:46,211
+<i>äta se deöava?</i>
+
+177
+00:12:46,355 --> 00:12:48,903
+Ne znam.
+Sve se jednostavno ugasilo.
+
+178
+00:12:48,977 --> 00:12:52,925
+Svi instrumenti, sistemi za
+odrûavanje ûivota, rakete, sve.
+
+179
+00:12:53,491 --> 00:12:55,539
+To nije moguÊe.
+
+180
+00:12:57,584 --> 00:12:59,267
+<i>Recl ml da je sve</i>
+<i>pod kontrolom</i>.
+
+181
+00:12:59,350 --> 00:13:00,999
+Radimo na tome, Joe.
+∆im...
+
+182
+00:13:03,671 --> 00:13:06,151
+Joe? Joe?!
+
+183
+00:13:07,134 --> 00:13:09,182
+Joe?
+
+184
+00:13:10,702 --> 00:13:11,885
+Galileo zove bazu.
+
+185
+00:13:11,961 --> 00:13:14,247
+Galileo zove bazu.
+∆ujete li me?
+
+186
+00:13:34,840 --> 00:13:36,592
+Joe!
+
+187
+00:13:37,253 --> 00:13:39,642
+<i>Slgnal je lzgubljen</i>.
+<i>Emamo telemetrlju</i>.
+
+188
+00:13:41,031 --> 00:13:44,046
+<i>Larry, provjerl</i>
+<i>frekvenclju za sluaj opasnostl</i>.
+
+189
+00:13:47,643 --> 00:13:49,326
+<i>Löta</i>.
+
+190
+00:13:49,427 --> 00:13:53,181
+<i>Satelltsko praÊenje ukazuje</i>
+<i>na vlöe meta na Galllejevoj stazl</i>.
+
+191
+00:14:05,483 --> 00:14:09,237
+<i>Imamo potvrdu da je svemlrska letjellca</i>
+<i>Lucasa Fostera traglno zavrölla</i>.
+
+192
+00:14:09,366 --> 00:14:10,378
+<i>Pola sata nakon lanslranja</i>
+
+193
+00:14:10,521 --> 00:14:14,571
+<i>su snlmljenl ovl snlmcl nad Callfornljom</i>
+<i>öto ukazuje na neuspjelu mlslju</i>.
+
+194
+00:14:14,648 --> 00:14:18,129
+Foster Aeronautics ne ûeli da
+komentariöe status pilota Joe Johnsona
+
+195
+00:14:18,217 --> 00:14:19,900
+i da li se bezbjedno katapultirao...
+
+196
+00:14:20,001 --> 00:14:22,287
+Boûe! äta se desilo?
+
+197
+00:14:22,380 --> 00:14:25,895
+Lucas je izgubio MAV, Joanna.
+Eksplozija.
+
+198
+00:14:25,984 --> 00:14:27,337
+äta je sa Joeom?
+
+199
+00:14:27,417 --> 00:14:30,841
+Ne znam.
+Nema traga od kapisle za katapultiranje.
+
+200
+00:14:31,338 --> 00:14:33,090
+<i>Evo ga</i>.
+<i>Evo ga</i>.
+
+201
+00:14:35,824 --> 00:14:37,177
+Nemam komentara.
+
+202
+00:14:39,015 --> 00:14:40,767
+<i>äta se desllo sa MAV-om,</i>
+<i>Dr. Foster?</i>
+
+203
+00:14:40,844 --> 00:14:42,562
+U ovom trenutku
+nemam komentara.
+
+204
+00:15:08,166 --> 00:15:09,713
+Lucas?
+
+205
+00:15:09,844 --> 00:15:10,924
+Zdravo, Joanna.
+
+206
+00:15:10,997 --> 00:15:14,285
+Lucas, upravo sam Ëula.
+Zaista mi je ûao.
+
+207
+00:15:14,354 --> 00:15:17,141
+Je li se Joe izvukao?
+Lma li ikakve öanse da se katapultirao?
+
+208
+00:15:17,918 --> 00:15:20,842
+∆ini se da nije.
+Pretpostavljamo najgore.
+
+209
+00:15:21,170 --> 00:15:24,253
+Postoji li iöta öto mogu uËiniti...
+
+210
+00:15:24,351 --> 00:15:27,434
+Hvala, ali za sada, ne postoji.
+
+211
+00:15:28,824 --> 00:15:31,839
+Lucas, samo ti pokuöavam pomoÊi.
+Molim te.
+
+212
+00:15:33,543 --> 00:15:34,828
+äta ti treba?
+
+213
+00:15:34,907 --> 00:15:39,799
+Pristup svim podacima koje imaö,
+praÊenje, dnevnik leta...
+
+214
+00:15:39,869 --> 00:15:41,018
+U redu.
+
+215
+00:15:41,093 --> 00:15:45,553
+Neposredno pred eksploziju
+se desio kratak nestanak struje.
+
+216
+00:15:45,638 --> 00:15:46,536
+Nestanak struje?
+
+217
+00:15:46,650 --> 00:15:49,335
+Ne znam öta ga je izazvalo
+i sa Ëime je povezano,
+
+218
+00:15:49,412 --> 00:15:51,528
+jednostavno je nestalo
+na nekoliko sekundi.
+
+219
+00:15:51,614 --> 00:15:53,127
+Joanna?
+Da.
+
+220
+00:15:53,363 --> 00:15:55,649
+Brad nema veze s ovim, je li tako?
+
+221
+00:15:57,033 --> 00:15:59,149
+Ti ûeliö da znaö?
+
+222
+00:15:59,217 --> 00:16:01,230
+Da, Lucas, ja.
+
+223
+00:16:01,332 --> 00:16:03,277
+I zaista mi je ûao.
+
+224
+00:16:04,372 --> 00:16:06,021
+Hvala.
+
+225
+00:16:13,285 --> 00:16:15,970
+Grozno vrijeme
+za neöto ovako.
+
+226
+00:16:16,047 --> 00:16:18,698
+Rusi dobro grade letjelice.
+
+227
+00:16:19,157 --> 00:16:21,842
+∆uda Ëine predsjednikovom
+nivou stresa.
+
+228
+00:16:26,498 --> 00:16:28,921
+Oprostite, admirale,
+ali ne vidim vezu.
+
+229
+00:16:29,015 --> 00:16:32,530
+Ruska podmorniËka flota
+izvodi manevre u blizini Grenlandske obale.
+
+230
+00:16:32,616 --> 00:16:33,901
+PukovniËe Alby.
+
+231
+00:16:34,049 --> 00:16:36,734
+IMaju 12 podmornica u vodi.
+
+232
+00:16:40,341 --> 00:16:42,696
+To je vjeûba koju je odobrio
+Savjet bezbjednosti, admirale.
+
+233
+00:16:42,787 --> 00:16:44,607
+Vjeûba, naravno.
+
+234
+00:16:45,374 --> 00:16:48,059
+Vidiö, stvarje u tome
+da ne ûelimo da se vrate u komunizam,
+
+235
+00:16:48,135 --> 00:16:49,921
+pa kaûemo, "Naravno,
+samo izvolite, zabavite se."
+
+236
+00:16:49,988 --> 00:16:52,912
+I dalje ne vidim kakve to veze
+ima sa eksplozijom MAV-a.
+
+237
+00:16:53,448 --> 00:16:56,770
+Ako su preöli samo centimetar
+preko dozvoljene granice,
+
+238
+00:16:56,839 --> 00:16:58,761
+hoÊu da znam za to.
+
+239
+00:16:59,320 --> 00:17:00,708
+∆ujete li me?
+Da, gospodine.
+
+240
+00:17:00,788 --> 00:17:05,373
+HoÊu da znam jer predsjednik
+oËekuje od mene da znam.
+
+241
+00:17:06,136 --> 00:17:10,391
+Ove vjeûbe nisu neprijateljske,
+ali imamo razloga da sumnjamo
+
+242
+00:17:10,471 --> 00:17:13,122
+da tri njihove podmornice
+nose nuklearno oruûje.
+
+243
+00:17:13,581 --> 00:17:19,065
+Ako svemirka letjelica
+ruske proizvodnje eksplodira u vazduhu,
+
+244
+00:17:19,139 --> 00:17:25,624
+pukovniËe, hoÊete li vjerovati
+ruskim podmornicama sa nuklearnim raketama?
+
+245
+00:17:26,060 --> 00:17:28,642
+Razumijem öta ste mislili
+pod nivoom stresa, admirale.
+
+246
+00:17:30,570 --> 00:17:32,720
+Lucas! Svuda te traûim.
+
+247
+00:17:32,807 --> 00:17:34,957
+Moraö ovo da vidiö.
+
+248
+00:17:35,183 --> 00:17:36,047
+äta?
+
+249
+00:17:36,127 --> 00:17:38,175
+Upravo smo dobili
+podatke sa MAV-a,
+
+250
+00:17:38,259 --> 00:17:40,250
+koncentracija metana
+je nemjerljiva.
+
+251
+00:17:40,321 --> 00:17:42,903
+Senzori su vjerovatno registrovali
+eksploziju. Ovo je nemoguÊe.
+
+252
+00:17:42,978 --> 00:17:45,629
+Ali pogledaj sve ostale podatke.
+
+253
+00:17:48,396 --> 00:17:50,580
+Ovo je ludo.
+Ovo je nemoguÊe.
+
+254
+00:18:07,691 --> 00:18:10,683
+JOanna, ovo je upravo
+stiglo iz Japana.
+
+255
+00:18:10,767 --> 00:18:13,315
+Ovo su njihovi najsvjeûiji
+podaci.
+
+256
+00:18:13,406 --> 00:18:15,920
+Ovo je iz juûne opservatorije
+u ∆ileu.
+
+257
+00:18:16,010 --> 00:18:18,262
+A ovo je iz Anchoragea.
+
+258
+00:18:18,806 --> 00:18:23,357
+Ova fotografija je, vjerujemo, snimak
+CME-a koji je uniötio solarnu sondu.
+
+259
+00:18:23,455 --> 00:18:26,208
+Prema proraËunima,
+masa iz ove emanacije
+
+260
+00:18:26,286 --> 00:18:28,299
+bi udarila zemljinu atmosferu...
+
+261
+00:18:28,401 --> 00:18:30,392
+Onda kada je Lucas izgubio svoj MAV.
+
+262
+00:18:30,481 --> 00:18:31,561
+Da.
+
+263
+00:18:36,633 --> 00:18:41,184
+Ovaj snimak pokazuje da Sunce emituje viöestruke
+CME-ove u kratkom vremenskom razmaku.
+
+264
+00:18:41,281 --> 00:18:43,932
+Sunce nije radilo
+nikad niöta sliËno ovome.
+
+265
+00:18:44,008 --> 00:18:46,954
+Bar ne od kad
+postoje praÊenja.
+
+266
+00:18:47,049 --> 00:18:48,971
+Koliko ova aktivnost traje?
+
+267
+00:18:49,041 --> 00:18:50,224
+72 sata.
+
+268
+00:18:50,370 --> 00:18:53,988
+Ukoliko su ove kalkulacije
+kretanja taËne,
+
+269
+00:18:54,075 --> 00:18:57,363
+onda je CME grupa na ekliptici
+ka sektoru 12.
+
+270
+00:18:57,448 --> 00:19:00,702
+äto znaËi da je Zemlja
+direktno na liniji vatre.
+
+271
+00:19:00,786 --> 00:19:02,174
+Da.
+
+272
+00:19:03,583 --> 00:19:05,062
+Joanna?
+
+273
+00:19:05,155 --> 00:19:07,806
+Svuda te traûim.
+
+274
+00:19:07,882 --> 00:19:09,827
+Brad, imamo veliki problem.
+
+275
+00:19:13,020 --> 00:19:14,567
+Koliko veliki?
+
+276
+00:19:18,892 --> 00:19:21,440
+Odakle ti ovo?
+Zaöto ovo mi nismo imali?
+
+277
+00:19:21,514 --> 00:19:23,835
+Jedan moj prijatelj iz Sul opservatorije
+je Ëuo za MAV
+
+278
+00:19:23,926 --> 00:19:27,578
+i pomislio da Êe nas ovo moûda
+zaintrigirati, kako je rekao.
+
+279
+00:19:29,064 --> 00:19:31,544
+Ovo je ogromno.
+Kao...
+
+280
+00:19:31,615 --> 00:19:34,368
+Kao da se sunce ljuöti?
+
+281
+00:19:34,463 --> 00:19:37,216
+Da. Ali zaöto Joanna...
+
+282
+00:19:39,655 --> 00:19:41,839
+Ona bi znala za ovo.
+
+283
+00:19:44,059 --> 00:19:46,744
+Jesi li siguran da je ovo taËno?
+Da, taËno je.
+
+284
+00:19:46,891 --> 00:19:48,836
+Pusti ponovo.
+
+285
+00:20:26,109 --> 00:20:30,500
+Lucas. äta radiö ovdje?
+Na smrt si me uplaöio.
+
+286
+00:20:31,114 --> 00:20:34,038
+Niöta ne brini. UradiÊu
+to ponovo.
+
+287
+00:20:34,784 --> 00:20:36,832
+Zaöto mi nidi rekla za CME-ove?
+
+288
+00:20:37,509 --> 00:20:38,168
+Kada?
+
+289
+00:20:38,243 --> 00:20:42,600
+Novinari su ti zgradu
+pretvorili u tvravu u koju se ne moûe uÊi,
+
+290
+00:20:42,681 --> 00:20:45,332
+viö e se ne javljaö na mobilni,
+a tvoja sekretarica...
+
+291
+00:20:45,407 --> 00:20:48,160
+Oprosti, sekretarice,
+svih Ëetiri,
+
+292
+00:20:48,237 --> 00:20:49,886
+misle da si van zemlje,
+
+293
+00:20:49,984 --> 00:20:53,499
+iako drûiö konferenciju za
+ötampu u istoj zgradi.
+
+294
+00:20:54,806 --> 00:20:56,455
+Jesi li znala?
+
+295
+00:20:56,588 --> 00:20:58,510
+Reci mi da nisi znala.
+
+296
+00:20:58,579 --> 00:21:01,798
+Saznala sam prije nekih sat vremena.
+
+297
+00:21:02,668 --> 00:21:04,249
+Sluöaj, Lucas.
+
+298
+00:21:04,346 --> 00:21:07,736
+Ovo je moralo izazvati
+sestanak struje u MAVu.
+
+299
+00:21:07,805 --> 00:21:11,229
+CME je udario u isto to podruËje.
+To je jedino objaönjenje.
+
+300
+00:21:11,299 --> 00:21:14,553
+CME nije izazvao sam nestanak struje
+v eÊ i uniötio MAV.
+
+301
+00:21:14,619 --> 00:21:19,613
+To je nemoguÊe. Ovi solarni dogaaju
+ne izazivaju eksplozije.
+
+302
+00:21:19,686 --> 00:21:20,766
+CME nije izazvao eksploziju,
+
+303
+00:21:20,909 --> 00:21:23,059
+v eÊ je zapalio metan
+u gornjoj atmosferi.
+
+304
+00:21:23,145 --> 00:21:24,965
+I to je izazvalo eksploziju MAV-a.
+
+305
+00:21:25,101 --> 00:21:27,422
+Ne, ne.
+Nisi doöao ovamo
+
+306
+00:21:27,513 --> 00:21:29,993
+samo da bi ponovo
+poËeo istu priËu, Lucas.
+
+307
+00:21:30,064 --> 00:21:32,146
+Joanna, prije nego je MAV eksplodirao,
+
+308
+00:21:32,230 --> 00:21:34,585
+registrovao je nemjerljivu
+koncentraciju metana.
+
+309
+00:21:34,675 --> 00:21:36,495
+U atmosferi se deöavaju promjene
+
+310
+00:21:36,563 --> 00:21:38,451
+kakve mi nismo vidjeli.
+
+311
+00:21:38,519 --> 00:21:40,999
+Dodaj tome ovaj solarni dogaaj
+
+312
+00:21:41,070 --> 00:21:42,253
+i dobiÊeö recept za...
+
+313
+00:21:42,399 --> 00:21:47,393
+Za uniötenje, da. ZNam, Lucas,
+öest godina sam sluöala te teorije.
+
+314
+00:21:47,466 --> 00:21:49,115
+Joanna, ako je moja teorija taËna,
+
+315
+00:21:49,212 --> 00:21:51,498
+ovaj dogaaj nije
+recept za uniötenje.
+
+316
+00:21:52,042 --> 00:21:54,328
+Ovo je recept za izumiranje.
+
+317
+00:21:54,664 --> 00:21:56,712
+Lucas, ono öto se
+juËe desilo je bila tragedija.
+
+318
+00:21:56,865 --> 00:22:01,859
+Uûasna nesreÊa, ali
+MAVje bio van D-7 pojasa.
+
+319
+00:22:02,316 --> 00:22:04,796
+Bio je iznad ozona,
+ranjiv.
+
+320
+00:22:04,867 --> 00:22:06,687
+Ali mi nismo!
+
+321
+00:22:07,347 --> 00:22:09,963
+CME-ovi koje sam vidio
+je neöto sa Ëim se do sada nismo sreli.
+
+322
+00:22:10,055 --> 00:22:12,637
+Ne samo da moûe da uniöti sve
+öto se nalazi u spoljnoj atmosferi,
+
+323
+00:22:12,729 --> 00:22:14,617
+veÊ je dovoljne jaËine
+da se probije kroz ozon
+
+324
+00:22:14,686 --> 00:22:17,268
+posebno sa ovim slatkim
+"rupicama" koje stalno stvaramo.
+
+325
+00:22:17,342 --> 00:22:18,991
+Dosta mi je ovoga.
+
+326
+00:22:19,089 --> 00:22:20,943
+Ovo je nepotvrena veza.
+
+327
+00:22:21,010 --> 00:22:22,796
+Naravno da je nepotvrena!
+
+328
+00:22:22,862 --> 00:22:26,184
+MAVje uniöten prije nego sam
+skupio podatke koji to dokazuju.
+
+329
+00:22:26,322 --> 00:22:29,268
+Joanna! Ne budemo li odmah reagovali
+
+330
+00:22:29,362 --> 00:22:31,944
+neÊe nas biti dovoljno dugo
+da bih te pitao, "äta sam ti rekao?"
+
+331
+00:22:32,820 --> 00:22:35,607
+Lucas, tvoje teorije
+su me uvijek interesovale,
+
+332
+00:22:35,686 --> 00:22:38,439
+ali mi se bavimo Ëvrstim
+Ëinjenicama i stvarnöÊu.
+
+333
+00:22:38,517 --> 00:22:40,337
+To je naö posao.
+
+334
+00:22:41,207 --> 00:22:43,255
+Predugo radiö ovdje, Joanna.
+
+335
+00:22:43,339 --> 00:22:45,352
+ZvuËiö baö kao Stamp.
+
+336
+00:22:46,659 --> 00:22:50,083
+Pa, moram da idem. Danas su
+mi ruke pune medijske noÊne more,
+
+337
+00:22:50,154 --> 00:22:51,667
+kao öto to odliËno znaö.
+
+338
+00:22:51,796 --> 00:22:55,311
+A to öto me je bilo teöko dobiti
+ovih dana,
+
+339
+00:22:55,569 --> 00:22:58,254
+kada si me zvala na moj mobilni juËe
+odmah nakon uniötenja MAV-a
+
+340
+00:22:58,329 --> 00:23:00,786
+kada sam bio u totalnoj krizi,
+
+341
+00:23:02,488 --> 00:23:04,536
+javio sam se na prvo zvono.
+
+342
+00:23:30,163 --> 00:23:31,118
+Zdravo.
+Zdravo.
+
+343
+00:23:31,210 --> 00:23:33,155
+Moûe li jedan hot-dog?
+U redu.
+
+344
+00:23:33,239 --> 00:23:34,957
+Sa dosta luka.
+
+345
+00:24:09,055 --> 00:24:10,704
+Lucas!
+
+346
+00:24:13,143 --> 00:24:14,326
+Ponovo se desilo!
+
+347
+00:24:14,400 --> 00:24:16,948
+äta?
+
+348
+00:24:17,022 --> 00:24:20,537
+Stari meteoroloöki satelit se upravo
+sruöio u sred Detroita.
+
+349
+00:24:20,620 --> 00:24:23,771
+Njegova orbita se naöla na
+direktnoj putanji CME-a.
+
+350
+00:24:23,870 --> 00:24:26,327
+VeÊ se zna za osam ûrtava,
+
+351
+00:24:26,404 --> 00:24:28,793
+17 ranjenih
+i joö nestalih.
+
+352
+00:24:28,868 --> 00:24:31,655
+Izlazim sa tvojom teorijom pred Stampa.
+
+353
+00:24:32,012 --> 00:24:34,060
+Mislim da bi i ti trebao biti tamo.
+
+354
+00:24:36,206 --> 00:24:37,628
+U redu.
+
+355
+00:24:37,778 --> 00:24:40,667
+MoraÊemo ponovo pogledati
+sve öto imaö o CME-u.
+
+356
+00:24:40,748 --> 00:24:43,205
+Sve najsvjeûije podatke.
+
+357
+00:24:44,802 --> 00:24:48,317
+Ove CME-ove je pratila evropska
+solarna sonda.
+
+358
+00:24:51,826 --> 00:24:54,715
+Moûeö li nam pokazati
+najbliûi, Patel, molim te?
+
+359
+00:25:00,316 --> 00:25:02,364
+Pogledaj kolika je ta stvar.
+
+360
+00:25:02,623 --> 00:25:06,377
+Da, daleko najveÊi do
+sada snimljeni CME.
+
+361
+00:25:07,864 --> 00:25:10,788
+Prikaûi nam putanju.
+
+362
+00:25:11,953 --> 00:25:13,534
+äta mu je na putu?
+
+363
+00:25:13,629 --> 00:25:15,881
+Satelit.
+Ruski satelit.
+
+364
+00:25:15,970 --> 00:25:18,222
+Ne obiËni satelit, Joanna.
+
+365
+00:25:18,348 --> 00:25:21,237
+To je primarni ruski
+komunikacijski satelit.
+
+366
+00:25:21,318 --> 00:25:24,173
+Sva vojna komunikacija
+se odvija preko njega.
+
+367
+00:25:27,363 --> 00:25:29,684
+Koliko ste joö CME-ova registrovali?
+
+368
+00:25:29,774 --> 00:25:32,493
+Na desetine, viöe nego
+je ikada registrovano.
+
+369
+00:25:32,586 --> 00:25:35,271
+Ali pravi problem je to
+öto nas zemljina orbita
+
+370
+00:25:35,364 --> 00:25:38,015
+direktno vodi na njihovu putanju.
+
+371
+00:25:38,579 --> 00:25:41,366
+Tokom slijedeÊih 48 sati Êemo
+trpiti stalne udare.
+
+372
+00:25:43,401 --> 00:25:45,790
+äta moûe biti uzrok ovome?
+
+373
+00:25:46,336 --> 00:25:47,849
+Ne znamo.
+
+374
+00:25:47,943 --> 00:25:49,456
+Niko ne zna.
+
+375
+00:25:51,158 --> 00:25:55,208
+»emu da zahvalimo
+vaöe prisustvo, Dr. Foster?
+
+376
+00:25:55,456 --> 00:25:57,606
+Danas nije dan zahvalnosti
+bivöim radnicima?
+
+377
+00:25:57,694 --> 00:25:59,207
+Ne. Mislim da je...
+
+378
+00:25:59,335 --> 00:26:02,327
+Dan kada obezbjeenje udaljava
+sve koji su ovdje bez dozvole.
+
+379
+00:26:02,410 --> 00:26:05,356
+Nije loöe. PriliËno duhovito
+s obzirom da je od tebe, Stamp.
+
+380
+00:26:05,449 --> 00:26:07,098
+Sluöaj, Lucas, ja...
+
+381
+00:26:07,197 --> 00:26:09,051
+znam da si proöao kroz mnogo
+toga u poslednjih par dana
+
+382
+00:26:09,189 --> 00:26:11,976
+te sam voljan uzeto to u obzir, ali...
+
+383
+00:26:12,054 --> 00:26:13,339
+Molim te, moraÊeö nas izviniti.
+
+384
+00:26:13,487 --> 00:26:15,409
+U stvari, ja sam ga pozvala.
+
+385
+00:26:15,479 --> 00:26:18,061
+Vjerujem da ima teoriju
+koju treba ispitati.
+
+386
+00:26:18,135 --> 00:26:19,750
+Nemaö ovlaötenje da to uradiö.
+
+387
+00:26:19,882 --> 00:26:23,602
+Ne bih da prekidam ovu fascinantnu
+nauËnu raspravu,
+
+388
+00:26:23,691 --> 00:26:28,446
+ali predsjednik SAD-a je
+na video-vezi.
+
+389
+00:26:28,897 --> 00:26:30,216
+Da ga spojim?
+
+390
+00:26:30,365 --> 00:26:33,584
+Ne, drûi ga par minuta na liniji,
+oboûava to.
+
+391
+00:26:33,650 --> 00:26:34,935
+Lucas!
+
+392
+00:26:35,606 --> 00:26:37,255
+SaËekajte.
+
+393
+00:26:46,613 --> 00:26:48,262
+Brad.
+
+394
+00:26:49,338 --> 00:26:51,989
+Milion dolara sam
+prebacio agenciji.
+
+395
+00:26:52,065 --> 00:26:54,386
+Nadao sam se da Êu time
+kupiti ako niöta drugo
+
+396
+00:26:54,475 --> 00:26:57,490
+a ono bar ranije upozorenje
+da Êe nam satelit pasti na glavu.
+
+397
+00:26:57,620 --> 00:27:00,407
+G. PredsedniËe, obeÊavam
+vam da radimo na ovome.
+
+398
+00:27:00,486 --> 00:27:03,432
+Na raspolaganju su vam
+sva naöa sredstva.
+
+399
+00:27:03,526 --> 00:27:05,414
+OdliËno.
+
+400
+00:27:05,482 --> 00:27:08,804
+PoËnimo sa jednostavnim
+objaönjenjem.
+
+401
+00:27:08,871 --> 00:27:09,951
+Ovdje moûda ima ljudi
+
+402
+00:27:10,094 --> 00:27:14,554
+koji ne znaju razliku
+izmeu CME-a i BLT-a.
+
+403
+00:27:14,636 --> 00:27:16,149
+BLT, gospodine?
+
+404
+00:27:16,279 --> 00:27:18,827
+To je sendviË, Stamp.
+Da.
+
+405
+00:27:18,901 --> 00:27:22,723
+Izbacivanje koronarne mase ili CME-ovi
+su eksplozije na suncu
+
+406
+00:27:22,814 --> 00:27:23,860
+tokom kojih se
+
+407
+00:27:23,933 --> 00:27:26,151
+veoma naelektrisane solarne Ëestice
+
+408
+00:27:26,221 --> 00:27:28,269
+izbacuju u svemir
+kolosalnom brzinom, gospodine!
+
+409
+00:27:28,370 --> 00:27:31,294
+ZnaËi te eksplozije
+su veoma moÊne?
+
+410
+00:27:31,375 --> 00:27:36,369
+Mogu biti jaËine od
+100 megatona TNT-a, moûda i viöe.
+
+411
+00:27:36,443 --> 00:27:37,728
+Koliko ih je?
+
+412
+00:27:37,979 --> 00:27:41,062
+Registrovali smo nekoliko
+njih, gospodine, ali...
+
+413
+00:27:41,159 --> 00:27:44,208
+sve drûimo pod kontrolom.
+Nema razloga za brigu.
+
+414
+00:27:44,304 --> 00:27:46,625
+Gospodine PredsjedniËe,
+ako mi dozvolite.
+
+415
+00:27:46,715 --> 00:27:48,068
+Dr. Parks.
+
+416
+00:27:48,148 --> 00:27:51,766
+Jedan od ovih CME-ova se trenutno kreÊe ka
+primarnom ruskom komunikacionom satelitu.
+
+417
+00:27:51,853 --> 00:27:53,309
+I to nije jedini sluËaj
+ovog fenomena, ima ih joö mnogo,
+
+418
+00:27:53,390 --> 00:27:55,711
+i svi su veÊi od iËega
+öto smo do sada vidjeli.
+
+419
+00:27:55,800 --> 00:28:00,590
+Naöi najnoviji proraËuni pokazuju
+da Êe neki od njih udariti Zemlju.
+
+420
+00:28:01,147 --> 00:28:05,834
+Ali zar nas ozonski
+omotaË ne ötiti od takvih stvari?
+
+421
+00:28:06,389 --> 00:28:07,902
+Pa, teöko je reÊi.
+
+422
+00:28:07,996 --> 00:28:09,509
+Teoretski, da.
+
+423
+00:28:09,638 --> 00:28:12,118
+Ali problem je öto
+su svi naöi sateliti
+
+424
+00:28:12,212 --> 00:28:14,362
+daleko iza ozonske barijere.
+
+425
+00:28:14,460 --> 00:28:18,146
+Koja je procjena
+potencijalne ötete?
+
+426
+00:28:18,234 --> 00:28:20,657
+Gospodine, potencijalna energija
+samo jednog ovog CME-a
+
+427
+00:28:20,732 --> 00:28:23,212
+moûe uniötiti svaki satelit koji
+joj se nae na putu.
+
+428
+00:28:23,292 --> 00:28:25,749
+Moûemo se suoËiti sa velikim
+prekidima u komunikaciji,
+
+429
+00:28:25,817 --> 00:28:28,138
+cijela hemisfera
+moûe zavröiti u mraku.
+
+430
+00:28:28,227 --> 00:28:29,216
+Molim vas da oprostite na ovome.
+
+431
+00:28:29,346 --> 00:28:31,769
+Moja saradnica
+preuveliËava sve ovo.
+
+432
+00:28:31,861 --> 00:28:34,079
+Moûda izgubimo
+dio satelitske komunikacije,
+
+433
+00:28:34,150 --> 00:28:36,334
+i moûda se pojavi
+krËanje u radio vezama,
+
+434
+00:28:36,475 --> 00:28:39,160
+ali sve Êe biti u redu.
+Ozon Êe izdrûati.
+
+435
+00:28:40,143 --> 00:28:41,599
+Oprostite.
+
+436
+00:28:42,241 --> 00:28:43,629
+Lucas?
+
+437
+00:28:43,707 --> 00:28:46,028
+Gospodine PredsjedniËe?
+äta radiö tamo?
+
+438
+00:28:46,118 --> 00:28:48,234
+Pokuöavam da izbjegnem
+joö ûrtava, gospodine.
+
+439
+00:28:48,320 --> 00:28:53,110
+G. PredsjedniËe, ono öto vam nije reËeno
+je da ovo jeste scenario katastrofe.
+
+440
+00:28:53,177 --> 00:28:56,726
+Gospodine, kao öto svi znamo
+
+441
+00:28:56,812 --> 00:28:59,428
+hemikalije nastale ljudskim faktorom
+kao öto su hloroformkarbonati
+
+442
+00:28:59,527 --> 00:29:01,279
+su zavröili u gornje
+atmosferske slojeve
+
+443
+00:29:01,354 --> 00:29:03,140
+i oslabili ozon.
+
+444
+00:29:03,206 --> 00:29:05,254
+Napravili rupe u njemu.
+
+445
+00:29:05,932 --> 00:29:09,015
+Energija koju ovu CME-ovi
+nose moûe i hoÊe
+
+446
+00:29:09,111 --> 00:29:12,194
+prodrijeti u ozon u
+ovim slabim taËkama.
+
+447
+00:29:13,584 --> 00:29:15,506
+Ali to je samo poËetak.
+
+448
+00:29:15,576 --> 00:29:20,468
+Naöa atmosfera je oduvijek smjeöa
+nitrogena i oksigena i 2% ostalih gasova.
+
+449
+00:29:20,538 --> 00:29:23,189
+Tih 2% se u poslednjih 10 godina
+poveÊalo na 5%.
+
+450
+00:29:23,263 --> 00:29:25,549
+VeÊi dio toga je metan.
+
+451
+00:29:25,639 --> 00:29:27,925
+Veoma nestalan i
+zapaljiv.
+
+452
+00:29:28,889 --> 00:29:31,471
+Gospodine, kada ovi CMe-ovi
+prodru kroz ozon
+
+453
+00:29:32,349 --> 00:29:35,238
+zapaliÊe dûepove metana
+i bukvano
+
+454
+00:29:38,114 --> 00:29:40,503
+cijelo nebo.
+
+455
+00:29:41,888 --> 00:29:45,938
+Ta vatra Êe svjetske zalihe kiseonika
+progutati za nekoliko sati.
+
+456
+00:29:46,011 --> 00:29:50,471
+Sva ûiva biÊa Êe se
+bukvalno uguöiti.
+
+457
+00:29:56,040 --> 00:29:57,894
+G. PredsjedniËe, uz svo
+duûno poötovanje,
+
+458
+00:29:57,962 --> 00:30:00,442
+tvrdnje Dr. Fostera
+
+459
+00:30:00,526 --> 00:30:03,040
+se u potpunosti zasnivaju
+na öpekulacijama.
+
+460
+00:30:05,894 --> 00:30:07,942
+Pa...
+
+461
+00:30:08,515 --> 00:30:12,030
+svi se slaûemo da te stvari
+idu na nas, je li tako?
+
+462
+00:30:13,126 --> 00:30:14,946
+Da, tako je.
+
+463
+00:30:15,014 --> 00:30:17,062
+Koliko vremena imamo?
+
+464
+00:30:17,950 --> 00:30:19,963
+Pa, prvi CME-ovi su veÊ
+poËeli sa udarima
+
+465
+00:30:20,046 --> 00:30:23,265
+i u slijedeÊih 48 sati
+Êe doÊi do znaËajnog pogoröanja.
+
+466
+00:30:25,078 --> 00:30:26,898
+Sve Êu ovo uzeti u razmatranje.
+
+467
+00:30:26,965 --> 00:30:31,220
+Odmah me obavijestite
+doete li do joö nekih informacija.
+
+468
+00:30:31,296 --> 00:30:32,752
+Da, gospodine.
+
+469
+00:30:32,835 --> 00:30:34,257
+Hvala na vremenu.
+
+470
+00:30:34,338 --> 00:30:36,056
+Gospodine.
+
+471
+00:30:36,714 --> 00:30:39,194
+Koristiö ovu agenciju
+i njenu reputaciju
+
+472
+00:30:39,277 --> 00:30:41,199
+za svoju propagandu "Armagedona"?
+
+473
+00:30:41,280 --> 00:30:43,168
+Bradly?
+Njegova teorija je validna.
+
+474
+00:30:43,248 --> 00:30:45,603
+HoÊu da odeö iz ove zgrade.
+
+475
+00:30:46,881 --> 00:30:49,167
+Hvala, Dr. Foster.
+
+476
+00:30:53,382 --> 00:30:55,600
+Ovo Êe biti loöe.
+Kako to mislite, admirale?
+
+477
+00:30:55,671 --> 00:30:58,253
+Jesi li ikad prije vidio
+uplaöenog nauËnika?
+
+478
+00:30:58,335 --> 00:31:00,883
+Pa, ako Êe se ovo nastaviti
+u naredna dva dana,
+
+479
+00:31:01,138 --> 00:31:04,562
+onda Detroit ne moûe biti
+izolovani incident.
+
+480
+00:31:04,633 --> 00:31:05,918
+Ne mogu se viöe sloûiti sa vama, gdine.
+
+481
+00:31:06,066 --> 00:31:07,749
+Ako je samo jedan CME oborio
+onaj satelit
+
+482
+00:31:07,830 --> 00:31:09,878
+zamislite öta moûe da
+uËini cijeli stampedo.
+
+483
+00:31:09,980 --> 00:31:11,333
+TaËno tako.
+
+484
+00:31:11,412 --> 00:31:14,529
+Mobiliöite F-15,
+pokrijte nebo.
+
+485
+00:31:16,339 --> 00:31:17,419
+Gdje Êete, gospodine?
+
+486
+00:31:17,492 --> 00:31:19,642
+Da vidim öta smjeraju
+one ruske podmornice.
+
+487
+00:31:19,728 --> 00:31:20,808
+Ako gubimo satelite,
+
+488
+00:31:20,952 --> 00:31:23,876
+hoÊu da sam u moguÊnosti pratiti ih,
+na staromodni naËin.
+
+489
+00:32:04,454 --> 00:32:07,469
+Kapetane, ovo je upravo stiglo.
+
+490
+00:32:13,681 --> 00:32:15,933
+PoruËniËe Troiska?
+Da, gdine?
+
+491
+00:32:16,022 --> 00:32:17,535
+Podesite nove koordinate:
+
+492
+00:32:17,665 --> 00:32:20,122
+Deset stepeni jug,
+pet stepeni zapad,
+
+493
+00:32:20,215 --> 00:32:22,137
+poveÊajte brzinu za pet Ëvorova
+
+494
+00:32:22,276 --> 00:32:25,393
+i spustite nas na 300 metara.
+
+495
+00:32:26,470 --> 00:32:30,827
+Kapetane, pribliûiÊemo
+se meunarodnim granicama.
+
+496
+00:32:30,909 --> 00:32:33,025
+Zako je, poruËniËe.
+
+497
+00:32:34,961 --> 00:32:36,644
+Da, gospodine.
+
+498
+00:32:36,744 --> 00:32:39,429
+Deset stepeni jug,
+pet stepeni zapad,
+
+499
+00:32:39,503 --> 00:32:42,154
+ubrzanje pet Ëvorova,
+dubina 300 metara.
+
+500
+00:32:45,759 --> 00:32:48,683
+Kapetane, öta se deöava?
+
+501
+00:32:50,266 --> 00:32:53,485
+ZvaniËno?
+Niöta.
+
+502
+00:32:54,145 --> 00:32:56,193
+NezvaniËno?
+
+503
+00:32:57,919 --> 00:33:03,243
+PokazaÊemo svijetu
+da se Rusija ne moûe zaplaöiti.
+
+504
+00:33:17,521 --> 00:33:19,034
+Je li ti ko povjerovao?
+
+505
+00:33:19,129 --> 00:33:20,642
+Ne znam.
+
+506
+00:33:20,772 --> 00:33:23,127
+Bar predsjednik nije Ëuo
+samo Stampovu verziju.
+
+507
+00:33:23,217 --> 00:33:25,367
+Gdje si ga izgubio?
+
+508
+00:33:25,908 --> 00:33:28,331
+Kod dijela gdje
+se nebo pali.
+
+509
+00:33:28,406 --> 00:33:30,795
+Teûak dio, zaista.
+äta Êemo sada
+
+510
+00:33:31,674 --> 00:33:34,529
+Ja sam bogati lajavac
+koji nas uvaljuje u neprilike, Jim.
+
+511
+00:33:34,608 --> 00:33:38,328
+Tebe plaÊam da naeö odgovore
+koji Êe nas izvuÊi iz neprilika.
+
+512
+00:33:38,418 --> 00:33:40,431
+Onda smo u velikoj nevolji.
+
+513
+00:33:43,834 --> 00:33:46,018
+Moûemo mi to uraditi, Jim.
+Hajde.
+
+514
+00:33:54,212 --> 00:33:56,692
+Yuri, moji nam struËnjaci kaûu
+da se ogromni solarni naleti
+
+515
+00:33:56,763 --> 00:33:59,709
+kreÊu ka vaöem glavnom
+komunikacionom satelitu.
+
+516
+00:33:59,803 --> 00:34:01,452
+Kada se budu sudarili
+
+517
+00:34:01,549 --> 00:34:04,404
+vaö satelit Êe biti uniöten.
+
+518
+00:34:04,486 --> 00:34:08,138
+Naöi nauËnici nisu mogli
+da potvrde ove tvrdnje.
+
+519
+00:34:08,783 --> 00:34:11,331
+Imate sve podatke koje imamo mi, Yuri.
+äta joö hoÊete?
+
+520
+00:34:11,404 --> 00:34:14,191
+I naöi sateliti mogu takoe biti uniöteni.
+Znate li öta Êe se tada desiti?
+
+521
+00:34:14,269 --> 00:34:16,726
+Svi Êemo biti u mraku.
+
+522
+00:34:18,743 --> 00:34:20,859
+Ne moram vam reÊi
+öta se moûe desiti kada
+
+523
+00:34:20,944 --> 00:34:24,163
+naöe dvije flotile
+rade veoma blizu jedna drugoj,
+
+524
+00:34:24,229 --> 00:34:28,051
+a bez moguÊnosti
+direktne komande od nas?
+
+525
+00:34:29,643 --> 00:34:31,691
+Slaûem se.
+
+526
+00:34:32,055 --> 00:34:36,207
+Opozovite vaöu flotilu
+i mi Êemo uËiniti isto.
+
+527
+00:34:36,284 --> 00:34:37,114
+Naprotiv, Yuri,
+
+528
+00:34:37,191 --> 00:34:39,978
+vi ste ti Ëije se naoruûane podmornice
+nalaze blizu meunarodnih granica.
+
+529
+00:34:40,058 --> 00:34:42,879
+Vi se morate prvo povuÊi.
+
+530
+00:34:42,957 --> 00:34:46,040
+Imam punu dozvolu ostalih Ëlanova
+Savijeta bezbjednosti
+
+531
+00:34:46,138 --> 00:34:47,924
+za ove vjeûbe.
+
+532
+00:34:47,989 --> 00:34:52,312
+Ako i kada budemo uvjereni
+u autentiËnost ove prijetnje
+
+533
+00:34:52,375 --> 00:34:56,664
+pridruûiÊemo vam se u
+preduzimanju odgovarajuÊih mjera.
+
+534
+00:34:57,005 --> 00:34:59,018
+AutentiËnost, Yuri,
+
+535
+00:34:59,102 --> 00:35:02,720
+prije Ëetiri sata je jedan
+satelit pao u centar Detrota.
+
+536
+00:35:02,805 --> 00:35:06,389
+Ako ûelite da Ëujete broj ûrtava,
+svi kanali izvjeötavaju.
+
+537
+00:35:06,474 --> 00:35:09,489
+Zaista mi je ûao zbog
+tragedije u Detroitu.
+
+538
+00:35:09,584 --> 00:35:13,372
+Ali moja prva odgovornostje
+prema mojoj zemlji.
+
+539
+00:35:13,462 --> 00:35:18,980
+Yuri, ima jedna stara izreka,
+"Nakon ponosa slijedi poraz."
+
+540
+00:35:19,054 --> 00:35:21,875
+Zaöto i jedni i drugi ne ostavimo
+ponos po strani
+
+541
+00:35:21,955 --> 00:35:25,379
+i radimo zajedno na sprijeËavanju
+daljih ûrtava, öta kaûete?
+
+542
+00:35:25,448 --> 00:35:28,906
+U redu, Ryan, narediÊu
+svojim podmornicama povlaËenje.
+
+543
+00:35:28,977 --> 00:35:32,401
+Vjerujem da Êete vi
+uraditi isto sa svojom flotilom.
+
+544
+00:35:32,472 --> 00:35:35,418
+IMate moju rijeË, Yuri.
+BiÊe zavröeno.
+
+545
+00:35:35,512 --> 00:35:37,127
+Hvala, Yuri.
+
+546
+00:35:40,194 --> 00:35:44,654
+PukovniËe, postoji li ikakav
+naËin da se sprijeËi obaranje satelita?
+
+547
+00:35:44,738 --> 00:35:46,194
+Ne, gospodine.
+
+548
+00:35:46,274 --> 00:35:49,061
+Nalazi se na direktnoj putanji CME-a.
+
+549
+00:35:49,140 --> 00:35:51,859
+Admirale Lawrence,
+öta vi mislite?
+
+550
+00:35:51,936 --> 00:35:55,360
+Stacioniramo li se
+u Sjevernom Antlatiku
+
+551
+00:35:55,430 --> 00:35:56,749
+naöe podmornice mogu
+da prate
+
+552
+00:35:56,838 --> 00:35:59,420
+svaki proboj u meunarodne vode
+od strane njihovih podmornica
+
+553
+00:35:59,518 --> 00:36:01,770
+tokom prekida komunikacija.
+
+554
+00:36:02,314 --> 00:36:03,599
+Uradite to, onda.
+
+555
+00:36:03,677 --> 00:36:04,894
+Ali upozorite komandante
+
+556
+00:36:09,373 --> 00:36:11,261
+Da, gospodine.
+
+557
+00:36:11,329 --> 00:36:14,014
+NeÊu da kompulsivne idiote tamo.
+
+558
+00:36:16,152 --> 00:36:18,200
+Niko nam neÊe vjerovati.
+
+559
+00:36:18,562 --> 00:36:20,382
+Ni rijeË.
+Da.
+
+560
+00:36:20,449 --> 00:36:23,668
+Niko mi viöe nikada neÊe
+dati ni cent za buduÊe projekte.
+
+561
+00:36:23,733 --> 00:36:24,984
+Da.
+
+562
+00:36:25,063 --> 00:36:27,520
+Ti Êeö prodavati brzu hranu
+do kraja ûivota.
+
+563
+00:36:27,613 --> 00:36:29,126
+Da.
+
+564
+00:36:36,489 --> 00:36:38,605
+Misliö da postoji neku
+drugi naËin?
+
+565
+00:36:38,689 --> 00:36:43,877
+Ne, kada CME prodre kroz ozon,
+metan Êe se zapaliti.
+
+566
+00:36:43,965 --> 00:36:46,320
+NeÊe biti doboljno vremena
+da se izbaci.
+
+567
+00:36:47,286 --> 00:36:48,969
+Slaûem se.
+
+568
+00:36:49,069 --> 00:36:52,084
+Moûda 24 sata
+prije potpunog paljenja.
+
+569
+00:36:55,252 --> 00:36:58,540
+Bolje da idemo.
+Gdje?
+
+570
+00:36:58,607 --> 00:37:00,086
+Natrag u svemirsku agenciju.
+
+571
+00:37:00,180 --> 00:37:02,967
+Da ubacimo ovu matricu
+u prave simulacije.
+
+572
+00:37:03,044 --> 00:37:05,057
+Ovdje nemamo
+toliko moÊne procesore.
+
+573
+00:37:05,211 --> 00:37:07,327
+Lucas, upravo su te
+izbacili odande.
+
+574
+00:37:07,412 --> 00:37:11,132
+Jim, to je svemirska agencija,
+nije Kremlj.
+
+575
+00:37:11,221 --> 00:37:12,734
+Hajde.
+
+576
+00:37:22,403 --> 00:37:24,155
+Joanna, mi smo ovdje tim.
+
+577
+00:37:24,221 --> 00:37:25,506
+Svi mi.
+
+578
+00:37:25,652 --> 00:37:27,768
+Dio jednog velikog tima.
+
+579
+00:37:27,855 --> 00:37:30,744
+Jedan Ëlan tog tima
+poËne da vriöti
+
+580
+00:37:30,825 --> 00:37:33,077
+kao pile da se nebo raspada
+
+581
+00:37:33,148 --> 00:37:35,332
+i onda Êe cijeli tim da izgubi.
+
+582
+00:37:35,402 --> 00:37:37,916
+A to mogu da budu milioni
+dolara finansiranja.
+
+583
+00:37:38,005 --> 00:37:40,485
+Ne mogu da vjerujem da priËaö o finansiranju.
+
+584
+00:37:40,574 --> 00:37:43,498
+Jesi li vidio podatke?
+Lmamo obavezu...
+
+585
+00:37:43,579 --> 00:37:48,266
+Prvo i najvaûnije prema
+svom poslu, kolegama,
+
+586
+00:37:48,331 --> 00:37:49,582
+ljudima koji ti daju platu,
+
+587
+00:37:49,658 --> 00:37:52,013
+ne prema nekom ludaku
+koji misli da je vaûan
+
+588
+00:37:52,106 --> 00:37:53,994
+samo zato öto misli da ima para.
+
+589
+00:37:54,062 --> 00:37:55,882
+Ne prema nekom pseudo-nauËniku,
+
+590
+00:37:55,948 --> 00:37:59,896
+i ne prema bivöem muûu prema kojem
+moûda joö uvijek gajiö neka osjeÊanja.
+
+591
+00:37:59,967 --> 00:38:02,390
+Kako se usuujeö reÊi da
+bih dozvolila sebi da moja veza
+
+592
+00:38:02,483 --> 00:38:06,374
+sa Lucasom utiËe
+na moje miöljenje ili postupke.
+
+593
+00:38:06,467 --> 00:38:08,549
+Znaö öta, Brad?
+äta?
+
+594
+00:38:08,633 --> 00:38:11,488
+Zaslijepljen si ljubomorom.
+
+595
+00:38:11,568 --> 00:38:15,288
+Jedino je tvoje rasuivanje
+ovdje kompromitovano.
+
+596
+00:38:15,378 --> 00:38:17,027
+Dr. Parks, mnogo ste...
+Oprostite.
+
+597
+00:38:17,123 --> 00:38:19,546
+SlijedeÊi CME-ovi su poËeli
+da udaraju.
+
+598
+00:38:19,639 --> 00:38:24,326
+Mislim da Êe ruski primarni
+kom satelit biti uniöten.
+
+599
+00:38:41,549 --> 00:38:44,768
+NeÊe ostati gore,
+previöe je.
+
+600
+00:38:54,654 --> 00:38:56,599
+MoraÊemo zvati NORAD.
+
+601
+00:38:56,750 --> 00:38:58,798
+Ovaj satelit pada.
+
+602
+00:39:05,346 --> 00:39:10,238
+NORAD potvruje vjerovatnu
+taËku udara istoËno od jezera Iri.
+
+603
+00:39:10,377 --> 00:39:13,392
+Primljeno.
+PresreöÊe ga dva F-15 aviona.
+
+604
+00:39:16,352 --> 00:39:17,569
+Ovdje Delta patrola.
+
+605
+00:39:17,715 --> 00:39:20,934
+OblaËno je, ali
+objekat mi je na radaru.
+
+606
+00:39:21,700 --> 00:39:24,692
+Vidimo. Moûeö li presresti?
+Mislim da mogu.
+
+607
+00:39:24,774 --> 00:39:27,720
+Ako ne moûeö, izgubiÊemo
+dio centra Buffaloa.
+
+608
+00:39:27,814 --> 00:39:30,362
+Uradimo to, Delta-2.
+Razumio.
+
+609
+00:39:38,052 --> 00:39:40,737
+Objekat na 16 km od Buffaloa.
+
+610
+00:39:43,608 --> 00:39:47,260
+Nalazim se na visini
+od öest km i penjem se.
+
+611
+00:39:50,527 --> 00:39:52,916
+Satelit na 12 km.
+
+612
+00:40:01,116 --> 00:40:03,402
+Satelit na 10 km.
+
+613
+00:40:03,736 --> 00:40:06,216
+Primljeno. Mi smo
+na visini od 8 km.
+
+614
+00:40:13,275 --> 00:40:16,199
+Satelit na 9 km.
+Pucajte.
+
+615
+00:40:17,992 --> 00:40:20,278
+Imam vizuelni kontakt.
+
+616
+00:40:21,032 --> 00:40:22,784
+Ciljam.
+
+617
+00:40:25,122 --> 00:40:27,067
+Projektil lansiran.
+
+618
+00:40:30,782 --> 00:40:33,205
+Nije Ëist pogodak.
+Moramo ponoviti.
+
+619
+00:40:33,280 --> 00:40:35,669
+Moramo ponoviti.
+Delta-2, interveniöi.
+
+620
+00:40:35,743 --> 00:40:37,563
+Razumio.
+
+621
+00:40:40,844 --> 00:40:43,358
+U oblacima je,
+ali imam signal.
+
+622
+00:40:43,448 --> 00:40:45,962
+Primljeno, Delta-2.
+Satelit 25-3.
+
+623
+00:40:50,594 --> 00:40:52,642
+Pratim metu.
+
+624
+00:40:57,304 --> 00:40:59,249
+Projektil lansiran.
+
+625
+00:41:02,650 --> 00:41:06,404
+Nemam pogodak.
+Ponavljam, nemam pogodak.
+
+626
+00:41:06,738 --> 00:41:09,127
+Hajde, gospodo.
+Moûete vi to.
+
+627
+00:41:18,375 --> 00:41:20,423
+Imate samo jednu priliku
+da to uradite.
+
+628
+00:41:20,506 --> 00:41:22,622
+Satelit u 7-4.
+
+629
+00:41:26,445 --> 00:41:27,992
+Imam vizuelni kontakt.
+
+630
+00:41:28,542 --> 00:41:30,487
+Projektil lansiran.
+
+631
+00:41:34,517 --> 00:41:36,872
+Da!
+Pogodio je!
+
+632
+00:41:36,964 --> 00:41:38,886
+Da!
+
+633
+00:41:43,010 --> 00:41:46,958
+Ovo je drugi satelit
+koga je uniötio CME, Brad.
+
+634
+00:41:47,517 --> 00:41:49,530
+Prokletstvo!
+Nema naËina da se sazna
+
+635
+00:41:49,613 --> 00:41:53,128
+koliko Êe se joö njih
+naÊi na udaru CME-ova.
+
+636
+00:41:53,492 --> 00:41:55,414
+Moramo se bolje informisati.
+
+637
+00:41:55,483 --> 00:41:58,998
+HoÊu direktno informisanje od svih
+opservatorija Ëije podatke moûete dobiti.
+
+638
+00:41:59,083 --> 00:42:01,597
+I hoÊu ih ovdje öto je prije moguÊe.
+
+639
+00:42:01,669 --> 00:42:04,149
+Anchorage? Norikura?
+Las Campanas?
+
+640
+00:42:04,289 --> 00:42:07,076
+I da je moj neÊak u dvoriötu
+sa dvogledom.
+
+641
+00:42:07,155 --> 00:42:08,611
+HoÊu sve da ih pratim.
+
+642
+00:42:08,692 --> 00:42:11,707
+HoÊu da znam
+ako i vatromet eksplodira.
+
+643
+00:42:12,781 --> 00:42:14,533
+U redu.
+
+644
+00:42:14,877 --> 00:42:16,629
+Anchorage.
+
+645
+00:42:26,263 --> 00:42:27,844
+Nikada nas neÊe pustiti
+unutra.
+
+646
+00:42:30,100 --> 00:42:32,557
+Imam Anchorage na liniji 3.
+
+647
+00:42:32,622 --> 00:42:33,941
+Daj ih na mikrofon.
+
+648
+00:42:35,480 --> 00:42:37,994
+<i>Propuötate avolskl</i>
+<i>lajt-öou ovamo</i>.
+
+649
+00:42:38,067 --> 00:42:40,854
+∆uo sam. Koliko
+brzo moûemo dobiti i sliku?
+
+650
+00:42:40,944 --> 00:42:42,195
+<i>Joö uvljek radlmo na tome</i>.
+
+651
+00:42:42,279 --> 00:42:45,703
+<i>Pokuöavamo da vam poöaljemo sllku,</i>
+<i>all naö satellt je oboren</i>.
+
+652
+00:42:47,534 --> 00:42:48,398
+Anchorage?
+
+653
+00:42:48,452 --> 00:42:51,671
+<i>Halo?</i>
+<i>»ujete II me?</i>
+
+654
+00:42:52,541 --> 00:42:54,793
+<i>Cljelo nebo se sjajl</i>.
+
+655
+00:42:54,883 --> 00:42:57,067
+Anchorage.
+Anchorage!
+
+656
+00:42:57,155 --> 00:42:59,339
+äta to Ëujem o bljeötavom nebu?
+
+657
+00:43:01,244 --> 00:43:02,927
+Zdravo, Lucas.
+
+658
+00:43:03,026 --> 00:43:06,280
+Oprostite, gospodine. Nisam ih mogao zaustaviti.
+Trebao si pucati u njih.
+
+659
+00:43:06,364 --> 00:43:09,583
+Daj mi potvrdu o Anchorageu.
+Moram öto hitnije da znam öta se desilo tamo.
+
+660
+00:43:09,667 --> 00:43:11,055
+Brad, ne moram ti govoriti da je ovo loöe,
+
+661
+00:43:11,205 --> 00:43:12,888
+i obojica znamo da Êe biti i gore.
+
+662
+00:43:12,989 --> 00:43:16,004
+Ozon neÊe izdrûati i moramo
+se spremiti za to.
+
+663
+00:43:17,181 --> 00:43:18,364
+U redu.
+
+664
+00:43:18,440 --> 00:43:20,897
+Hvala. Gdje smo?
+
+665
+00:43:20,958 --> 00:43:23,745
+Upravo smo izgubili Anchorage.
+
+666
+00:43:24,835 --> 00:43:27,417
+Opservatorij ili cijeli grad?
+
+667
+00:43:27,492 --> 00:43:29,312
+Ne znamo joö.
+
+668
+00:43:32,490 --> 00:43:34,674
+Pokaûi mi to.
+
+669
+00:43:41,821 --> 00:43:43,743
+Admirale, öta je bilo?
+
+670
+00:43:43,814 --> 00:43:48,171
+Rusi su rekli da Êe poniötiti
+borbeni status svojih podmornica.
+
+671
+00:43:48,253 --> 00:43:51,336
+A nisu?
+Ne baö.
+
+672
+00:43:51,993 --> 00:43:55,417
+Njihov satelitje oboren prije nego su
+uspjeli kontaktirati poslednju podmornicu.
+
+673
+00:43:56,711 --> 00:43:59,498
+ZnaËi ta podmornica
+nema kontakta sa svojim komandantom.
+
+674
+00:43:59,577 --> 00:44:01,397
+To nije sve.
+
+675
+00:44:02,582 --> 00:44:06,632
+Nareenje za povlaËenje naöih podmornica
+u bezbjedne vode je bilo u prenosu.
+
+676
+00:44:06,706 --> 00:44:08,719
+Sada su naöi sateliti oboreni,
+
+677
+00:44:08,874 --> 00:44:11,763
+nisu sve podmornice
+primile instrukcije.
+
+678
+00:44:11,843 --> 00:44:14,232
+Ne sve?
+Koliko?
+
+679
+00:44:14,325 --> 00:44:16,543
+Dvije.
+Ocala,
+
+680
+00:44:16,633 --> 00:44:19,215
+je sjeverno od
+Osoris ostrva.
+
+681
+00:44:20,094 --> 00:44:23,313
+USS Lansing je kod Grenlanda
+
+682
+00:44:23,378 --> 00:44:26,563
+nadgleda manevre
+ruske flote.
+
+683
+00:44:26,909 --> 00:44:28,627
+ZnaËi naöe dvije podmornice
+su tamo negdje
+
+684
+00:44:28,725 --> 00:44:32,445
+Ëekaju da rusi preu granicu.
+
+685
+00:44:33,095 --> 00:44:38,818
+Molim Boga da su ti ljudi, i njihovi i naöi,
+sposobni za zdravo rasuivanje.
+
+686
+00:44:56,058 --> 00:44:58,845
+Ima li öta?
+Ne, gospodine, niöta nemamo.
+
+687
+00:44:58,924 --> 00:45:00,277
+Nije kvar na opremi?
+
+688
+00:45:00,356 --> 00:45:02,301
+Ne, gospodine. ∆ini se da
+sve savröeno funkcioniöe.
+
+689
+00:45:02,382 --> 00:45:04,395
+Sve sem naöeg satelita.
+
+690
+00:45:04,865 --> 00:45:08,915
+Nemamo komunikaciju sa spoljnim svijetom,
+samo ono öto dobijamo iz bliza.
+
+691
+00:45:08,989 --> 00:45:10,445
+äta je sa sonarom i radarom?
+
+692
+00:45:10,527 --> 00:45:13,314
+Operativni su, ali
+postoje veÊe smetnje.
+
+693
+00:45:15,455 --> 00:45:17,935
+Oteûava oËitavanje.
+
+694
+00:45:31,183 --> 00:45:34,664
+<i>Aunlcl kaûu da je ova</i>
+<i>ogromna sjeverna svjetlost</i>
+
+695
+00:45:34,748 --> 00:45:40,368
+<i>vldljlvl pokazatelj bombardovanja</i>
+<i>super-naelektrlsanlh sunevlh estlca</i>.
+
+696
+00:45:40,445 --> 00:45:44,267
+<i>Ove estlce lzazlvaju</i>
+<i>kratkl spoj u kollma satellta</i>
+
+697
+00:45:44,342 --> 00:45:48,130
+<i>I uzrokuje nestanak energlje</i>
+<i>u dalekovodlma</i>.
+
+698
+00:45:48,205 --> 00:45:50,594
+<i>Zbog gubltaka satellta</i>
+
+699
+00:45:50,684 --> 00:45:54,939
+<i>vladlne agenclje su</i>
+<i>se odlulle na korak bez presedana,</i>
+
+700
+00:45:55,020 --> 00:45:59,241
+<i>upotrebu komunlkaclonlh kablova</i>
+<i>u okeanlma,</i>
+
+701
+00:45:59,318 --> 00:46:01,104
+<i>a kojl su zaötlÊenl od smetnjl</i>
+
+702
+00:46:01,171 --> 00:46:04,561
+<i>kako bl se omoguÊlo</i>
+<i>nastavak komunlkaclja</i>
+
+703
+00:46:04,645 --> 00:46:08,160
+<i>dok se ova svjetska krlza prddubljava</i>.
+
+704
+00:46:08,404 --> 00:46:09,268
+Gospodine?
+Da.
+
+705
+00:46:09,350 --> 00:46:11,705
+Kina je upravo u mraku.
+
+706
+00:46:11,797 --> 00:46:12,980
+Kako?
+
+707
+00:46:13,123 --> 00:46:14,306
+Nismo joö uvijek 100% sigurni.
+
+708
+00:46:18,366 --> 00:46:19,583
+Pokuöavamo dobiti joö neke podatke
+
+709
+00:46:19,731 --> 00:46:23,781
+ali poöto su nam sateliti oboreni,
+to vam je kao da gluv juri slijepog.
+
+710
+00:46:23,854 --> 00:46:29,110
+<i>Moû ovlh snlmaka lz</i>
+<i>Istone Evropejejasna</i>.
+
+711
+00:46:29,202 --> 00:46:30,282
+G. PredsjedniËe?
+Da.
+
+712
+00:46:30,423 --> 00:46:31,708
+Morate ovo da vidite.
+
+713
+00:46:31,789 --> 00:46:33,643
+...<i>super-naelektrlsane</i>
+<i>polarne svjetlostl</i>...
+
+714
+00:46:33,710 --> 00:46:37,168
+<i>je dovelo do poveÊanja</i>
+<i>nemlra</i>.
+
+715
+00:46:37,241 --> 00:46:40,392
+<i>U Berllnu su protestantl</i>
+<i>zapallll zgrade vlade</i>
+
+716
+00:46:40,460 --> 00:46:42,815
+<i>zahtljevajuÊl akclju</i>.
+
+717
+00:46:42,902 --> 00:46:46,827
+<i>Masovne demonstraclje zbog</i>
+<i>solarne krlze</i>
+
+718
+00:46:46,887 --> 00:46:52,610
+<i>takoe uz vojno III pollcljsko</i>
+<i>reagovanje u POljskoj, Rumunljl</i>...
+
+719
+00:46:57,687 --> 00:47:01,737
+Kapetane, joö uvijek nema odgovora.
+Nikoga ne mogu da dobijem.
+
+720
+00:47:01,811 --> 00:47:04,928
+Mora da je kvar opreme.
+
+721
+00:47:05,027 --> 00:47:07,416
+Dva puta sam izvröio
+provjeru.
+
+722
+00:47:07,491 --> 00:47:10,710
+Sa naöim sistemom je sve u redu.
+
+723
+00:47:10,803 --> 00:47:14,022
+Mora da je kvar.
+Provjeri ponovo.
+
+724
+00:47:14,672 --> 00:47:15,684
+Da, gospodine.
+
+725
+00:47:15,826 --> 00:47:18,977
+Sve stanice
+stanje pune uzbune.
+
+726
+00:47:19,058 --> 00:47:22,175
+Ne ûelim da nas
+uhvate na prepad.
+
+727
+00:47:22,746 --> 00:47:24,600
+PoruËniËe Troiska?
+Da, gdine.
+
+728
+00:47:24,739 --> 00:47:27,025
+Diûite nas na dubinu od 100 m.
+
+729
+00:47:27,359 --> 00:47:29,748
+Ali naöa nareenja nisu takva, gospodine.
+
+730
+00:47:30,505 --> 00:47:32,188
+Znam to.
+
+731
+00:47:32,286 --> 00:47:37,076
+Ali Êemo moûda imati
+bolje veze na manjoj dubini.
+
+732
+00:47:40,991 --> 00:47:43,778
+100 metara, poruËniËe.
+
+733
+00:47:43,857 --> 00:47:45,472
+Da, gdine.
+
+734
+00:47:45,551 --> 00:47:47,132
+100 metara.
+
+735
+00:47:51,056 --> 00:47:54,139
+<i>G. Predsjednle, ovl</i>
+<i>CME-ovl kojl su oborlll</i>
+
+736
+00:47:54,237 --> 00:47:55,693
+<i>komunlkaclone slsteme</i>
+
+737
+00:47:55,775 --> 00:47:57,197
+<i>su nlöta u poreenju sa</i>
+<i>nekollko poslednjlh</i>
+
+738
+00:47:57,451 --> 00:47:59,999
+<i>kojl Êe udarltl juûnu I sjevernu hemlsferu</i>.
+
+739
+00:48:00,074 --> 00:48:02,861
+Uvjeren sam da Êe ovi SME-ovi
+probiti naö ozon.
+
+740
+00:48:03,849 --> 00:48:06,500
+A efekti?
+Koliko katastrofalni?
+
+741
+00:48:06,574 --> 00:48:08,360
+<i>Mnogo gore od katastrofalnlh, gdlne</i>.
+
+742
+00:48:08,444 --> 00:48:10,196
+<i>Paljenje metana u stratlsferl</i>
+
+743
+00:48:10,348 --> 00:48:12,464
+<i>Êe dovestl dojaanja</i>
+
+744
+00:48:12,550 --> 00:48:14,472
+dok ne doe do taËke totalnog paljenja
+
+745
+00:48:14,542 --> 00:48:17,864
+öto Êe dovesti do
+potpune konzumacije kiseonika.
+
+746
+00:48:17,933 --> 00:48:21,858
+Kako mi to nauËnici zovemo, E.L.E.
+
+747
+00:48:22,616 --> 00:48:26,040
+Dogaaj nivoa istrebljenja.
+
+748
+00:48:26,600 --> 00:48:29,489
+To su loöe vijesti, gdine.
+Dobre vijesti su
+
+749
+00:48:29,569 --> 00:48:31,582
+to öto vjerujemo
+da postoji izlaz.
+
+750
+00:48:31,670 --> 00:48:33,183
+Jim?
+
+751
+00:48:39,603 --> 00:48:41,719
+Pa, gospodine...
+
+752
+00:48:41,805 --> 00:48:44,888
+<i>G. Predsjednle, ako se</i>
+<i>veÊ suoavamo sa najveÊlm svjetsklm poûarom,</i>
+
+753
+00:48:44,985 --> 00:48:48,375
+onda nam treba najveÊi
+aparat za gaöenje poûara.
+
+754
+00:48:49,564 --> 00:48:52,988
+Najvjerovatnija taËka prodora
+
+755
+00:48:53,338 --> 00:48:56,023
+je tamo gdje je ozon najslabiji,
+a to je nad polovima.
+
+756
+00:48:56,101 --> 00:48:58,092
+To je dobra stvar.
+
+757
+00:48:58,162 --> 00:49:00,949
+IzraËunali smo da nuklearka
+jaËine 20 megatona
+
+758
+00:49:01,028 --> 00:49:03,576
+<i>koja Êe detonlratl najbllûe</i>
+<i>mjestu ulaska CME-a</i>
+
+759
+00:49:03,667 --> 00:49:06,181
+Êe uzrokovati dovoljno
+isparenja vode u atmosferu
+
+760
+00:49:06,270 --> 00:49:08,886
+da ugasi plamen.
+
+761
+00:49:08,962 --> 00:49:10,077
+Stani malo,
+vi to ozbiljno?
+
+762
+00:49:13,820 --> 00:49:15,640
+Jeste li poludili?
+
+763
+00:49:15,881 --> 00:49:18,167
+Jedino taj scenario
+moûe da uspije.
+
+764
+00:49:20,180 --> 00:49:23,434
+Dr. Parks?
+äta vi mislite o ovoj teoriji?
+
+765
+00:49:23,518 --> 00:49:26,772
+Gospodine, ukoliko ozonski
+omotaË ne izdrûi,
+
+766
+00:49:27,205 --> 00:49:31,153
+predloûeno rjeöenje
+je moguÊe.
+
+767
+00:49:31,714 --> 00:49:32,726
+Stamp?
+
+768
+00:49:32,868 --> 00:49:35,814
+Gospodine, ovo nije moj scenario, niti
+
+769
+00:49:35,908 --> 00:49:40,060
+moje rjeöenje, ali s obzirom
+s Ëim se suoËavamo,
+
+770
+00:49:40,137 --> 00:49:42,150
+trebali bi sve sasluöati, gospodine.
+
+771
+00:49:42,234 --> 00:49:44,225
+U redu.
+
+772
+00:49:44,296 --> 00:49:46,719
+Recimo da ovo odobrim,
+
+773
+00:49:46,813 --> 00:49:50,635
+da li to znaËi da treba naredim ICBM
+napad na ledeni pokrivaË na polu?
+
+774
+00:49:50,729 --> 00:49:52,242
+Ne, gospodine.
+
+775
+00:49:52,370 --> 00:49:54,850
+Zato öto nam je spoljna atmosfera
+nestabilna,
+
+776
+00:49:54,921 --> 00:49:57,310
+ICBM neÊe uspjeti.
+Mora da leti previsoko.
+
+777
+00:49:57,403 --> 00:50:00,987
+Trebali bi lansirati iz podmornice
+i sa male udaljenosti.
+
+778
+00:50:01,073 --> 00:50:05,430
+Naöe podmornice koje su na toj
+udaljenosti nemaju to naoruûanje.
+
+779
+00:50:05,511 --> 00:50:08,059
+Ali znamo za rusku podmornicu
+u tom podruËju,
+
+780
+00:50:08,133 --> 00:50:10,988
+Voznesensk,
+i naoruûana je.
+
+781
+00:50:11,069 --> 00:50:12,616
+<i>Voznesensk?</i>
+
+782
+00:50:12,712 --> 00:50:15,294
+Moûemo uspjeti, gospodine.
+Moramo doÊi do te podmornice.
+
+783
+00:50:15,367 --> 00:50:18,291
+∆ak i ako postupimo
+u skladu sa ovom fantazijom,
+
+784
+00:50:18,364 --> 00:50:21,219
+<i>ne moûemo kontaktlratl</i>
+<i>nl naöe podmornlce,</i>
+
+785
+00:50:21,292 --> 00:50:22,475
+<i>a kamoll ruske</i>.
+
+786
+00:50:22,568 --> 00:50:24,149
+<i>Kakoje admlral Lawrence Istakao,</i>
+
+787
+00:50:24,244 --> 00:50:26,724
+<i>postoje odreene poteökoÊe</i>
+<i>sa tvojlm prljedlogom, Lucas</i>.
+
+788
+00:50:26,797 --> 00:50:27,843
+<i>U redu, sluöaj</i>.
+
+789
+00:50:27,915 --> 00:50:30,861
+MoraÊemo razmotriti sve ovo
+i javiÊemo vam se.
+
+790
+00:50:30,938 --> 00:50:33,520
+G. PredsjedniËe,
+upravo je vrijeme to Ëega nemamo.
+
+791
+00:50:33,603 --> 00:50:36,151
+<i>Moramo odmah krenutl</i>
+<i>sa sprovoenjem ovog plana</i>.
+
+792
+00:50:36,232 --> 00:50:38,985
+Budemo li Ëekali,
+biÊe prekasno, gospodine.
+
+793
+00:50:40,184 --> 00:50:43,608
+Lucas, ono öto predlaûeö
+je veoma riziËno.
+
+794
+00:50:43,680 --> 00:50:46,865
+IzvagaÊemo sve opcije
+i javiÊemo se.
+
+795
+00:50:52,556 --> 00:50:54,808
+NeÊe to uraditi.
+
+796
+00:50:54,896 --> 00:50:56,249
+Kriviö ga?
+
+797
+00:50:56,329 --> 00:50:58,012
+HoÊu kada svi umremo.
+
+798
+00:50:58,094 --> 00:50:59,709
+Ti si odradio svoje.
+
+799
+00:50:59,790 --> 00:51:01,940
+Predsjednik ima sve informacije.
+
+800
+00:51:02,027 --> 00:51:04,177
+On ne shvata
+da nemamo vremena.
+
+801
+00:51:08,179 --> 00:51:09,931
+Izvini.
+
+802
+00:51:14,994 --> 00:51:17,781
+Lucas, gdje Êeö?
+U Voznesensk.
+
+803
+00:51:17,859 --> 00:51:19,645
+äta?
+
+804
+00:51:19,714 --> 00:51:23,935
+Sluöaj, znam tog ruskog
+komandanta, Joanna.
+
+805
+00:51:24,011 --> 00:51:28,698
+Prije uzlijetanja MAV-a, izvröeno je testiranje
+spuötanja u vode Sjevernog Atlantika.
+
+806
+00:51:28,765 --> 00:51:32,451
+∆ovjek zaduûen za testiranje je bio
+ruski kapetan po imenu GrigoroviË.
+
+807
+00:51:32,539 --> 00:51:33,437
+Nakon poslednjeg testa
+
+808
+00:51:33,553 --> 00:51:36,875
+je rasporeen na podmornicu
+koja rutinski patrolira Arktikom.
+
+809
+00:51:36,943 --> 00:51:39,161
+Ako je to on, postoji öansa,
+koliko god ona bila mala,
+
+810
+00:51:39,249 --> 00:51:41,035
+da Êu uÊi u tu podmornicu.
+
+811
+00:51:41,104 --> 00:51:44,153
+Sluöaj. Znam da tamo imaö vezu,
+
+812
+00:51:44,249 --> 00:51:46,672
+ali nema te uzbune koja Êe
+natjerati ruskog komandanta
+
+813
+00:51:46,765 --> 00:51:49,017
+da dozvoli jednom Amerikancu da
+se ukrca u njegovu podmornicu!
+
+814
+00:51:49,106 --> 00:51:51,119
+To je jedina öansa koju imamo!
+
+815
+00:51:52,007 --> 00:51:55,329
+Nemamo mnogo vremena
+prije udara najveÊeg CME-a.
+
+816
+00:51:55,468 --> 00:51:56,890
+Pravi posao je na vama.
+
+817
+00:51:57,038 --> 00:51:58,960
+Koordinate za lansiranje bombi
+ne moûemo znati
+
+818
+00:51:59,032 --> 00:52:02,251
+dok ne budemo znali taËno mjesto
+prodora tog CME-a,
+
+819
+00:52:02,319 --> 00:52:04,401
+njegovu brzinu i putanju.
+
+820
+00:52:04,484 --> 00:52:07,999
+Jim, radiÊeö sa Joannom
+na otkrivanju te lokacije.
+
+821
+00:52:08,085 --> 00:52:10,599
+ImaÊemo samo jednu öansu.
+
+822
+00:52:10,670 --> 00:52:13,889
+Zaista misliö da Êe te pustiti
+da ueö u rusku podmornicu.
+
+823
+00:52:13,956 --> 00:52:15,742
+PokuöaÊu.
+
+824
+00:52:15,808 --> 00:52:18,493
+SaznaÊu njeihove poslednje koordinate,
+svojim mlaznjakom Êu otiÊi na Island,
+
+825
+00:52:18,570 --> 00:52:21,562
+i tamo iznajmiti helikopter.
+
+826
+00:52:23,777 --> 00:52:25,825
+U redu.
+
+827
+00:53:24,421 --> 00:53:26,070
+Razumijem.
+
+828
+00:53:26,728 --> 00:53:28,582
+Ne, hvala vama, gospodine.
+
+829
+00:53:36,799 --> 00:53:40,314
+Upravo sam pimio fragmentarnu
+komunikaciju, nisam baö siguran...
+
+830
+00:53:41,309 --> 00:53:42,526
+Brad, öta je bilo?
+
+831
+00:53:42,673 --> 00:53:46,325
+Mislim da je Novi Zeland upravo
+uniöten u vatrenoj oluji.
+
+832
+00:53:57,255 --> 00:54:00,839
+<i>Imamo nepotvrene</i>
+<i>lzvjeötaje lz Sldneja, Australlja,</i>
+
+833
+00:54:00,908 --> 00:54:04,457
+<i>da je nebo na jugolstoku,</i>
+<i>u pravcu ovog Zelanda</i>
+
+834
+00:54:04,527 --> 00:54:06,950
+<i>gorllo u plamenu</i>.
+
+835
+00:54:07,011 --> 00:54:08,831
+<i>Komunlkaclja sa ovlm Zelandom,</i>
+
+836
+00:54:08,898 --> 00:54:11,583
+<i>ukljuujuÊl okeanske kablove</i>
+<i>je u prekldu</i>.
+
+837
+00:54:11,660 --> 00:54:13,844
+<i>Aunlcl ukazuju na to da je</i>
+
+838
+00:54:13,932 --> 00:54:16,048
+<i>CME moûda problo ozon</i>
+
+839
+00:54:16,134 --> 00:54:18,591
+<i>lzalvajuÊl nepredvldlvu ötetu</i>.
+<i>Boûe</i>.
+
+840
+00:54:18,654 --> 00:54:21,202
+Ono öto je sigurno za sada...
+Stvarno se deöava.
+
+841
+00:54:21,277 --> 00:54:24,701
+Je da je ljudski faktor u ovoj
+solarnoj oluji najnepredvidiviji.
+
+842
+00:54:24,773 --> 00:54:28,664
+<i>Potpunl graanskl nemlrl</i>
+<i>su lzblll u nekollko zemalja,</i>
+
+843
+00:54:28,757 --> 00:54:32,011
+<i>ötoje dovelo do</i>
+<i>zavoenja reda</i>.
+
+844
+00:54:32,081 --> 00:54:35,539
+<i>All, sudeÊl prema dogaajlma</i>
+<i>u Republlcl Georgljl I Juûnoj Afrlcl,</i>
+
+845
+00:54:35,629 --> 00:54:39,053
+<i>ak je I pollcljskl as zaveden</i>
+<i>od strane vojske neeflkasan</i>
+
+846
+00:54:39,144 --> 00:54:43,262
+<i>protlv hlsterlnom ölrenju</i>
+<i>panlke I nasllja</i>
+
+847
+00:54:43,357 --> 00:54:47,475
+<i>dok lkudl mlsle da jeje doöao</i>
+<i>sudnjl as</i>.
+
+848
+00:54:56,732 --> 00:54:58,745
+G. PredsjedniËe?
+Da.
+
+849
+00:54:58,830 --> 00:55:01,754
+Imamo apsolutnu potvrdu
+da je Novi Zeland uniöten.
+
+850
+00:55:02,606 --> 00:55:05,655
+Fosterje bio u pravu.
+Ozon je probijen.
+
+851
+00:55:05,753 --> 00:55:09,701
+Znaö, Frank, Lucasa Fostera
+poznajem viöe od 20 godina
+
+852
+00:55:09,774 --> 00:55:12,527
+i bio je u pravu mnogo puta.
+
+853
+00:55:16,872 --> 00:55:18,692
+Gospodine?
+
+854
+00:55:18,761 --> 00:55:21,650
+Lucas Fosterje pretjerao.
+
+855
+00:55:21,733 --> 00:55:22,665
+O Ëemu to priËaö?
+
+856
+00:55:22,747 --> 00:55:25,830
+Dobio sam vijest da se pokuöava
+povezati sa ruskom podmornicom.
+
+857
+00:55:25,929 --> 00:55:29,854
+Ne misliö da onu podmornicu
+u blizini obala Grenlanda?
+
+858
+00:55:29,916 --> 00:55:31,201
+Da, gospodine, mislim.
+
+859
+00:55:31,348 --> 00:55:34,272
+Takoe sam dobio potvrdu
+da je ta ruska podmornica
+
+860
+00:55:34,341 --> 00:55:36,263
+naoruûana nuklearnim bombama.
+
+861
+00:55:37,014 --> 00:55:38,561
+Gdje je on sada?
+
+862
+00:56:00,721 --> 00:56:02,837
+Kapetane, morate ovo da vidite.
+
+863
+00:56:02,906 --> 00:56:04,988
+Imamo ogromne smetnje na sonaru.
+
+864
+00:56:08,063 --> 00:56:09,610
+äta do avola?
+
+865
+00:56:15,931 --> 00:56:17,876
+Gubimo napajanje, gospodine.
+
+866
+00:56:20,441 --> 00:56:22,454
+Osposobite mi taj sonar.
+
+867
+00:56:22,539 --> 00:56:24,825
+I prokleti radio!
+Da, gospodine.
+
+868
+00:56:25,791 --> 00:56:27,440
+Dajte mi strojarnicu.
+
+869
+00:56:27,575 --> 00:56:29,623
+Moram da znam öta
+je sa napajanjem.
+
+870
+00:57:19,814 --> 00:57:22,931
+Zovem rusku vojnu
+podmornicu "Voznesensk".
+
+871
+00:57:23,275 --> 00:57:24,754
+Ovdje Lucas Foster.
+
+872
+00:57:24,850 --> 00:57:27,535
+Ja sam u civilnom helikopteru.
+∆ujete li me?
+
+873
+00:57:35,550 --> 00:57:37,029
+Zovem Voznesensk.
+
+874
+00:57:37,123 --> 00:57:39,307
+Ovdje Lucas Foster.
+∆ujete li me?
+
+875
+00:57:50,235 --> 00:57:54,057
+Zovem rusku vojnu
+podmornicu Voznesensk.
+
+876
+00:57:54,151 --> 00:57:55,197
+Ovdje Lucas Foster.
+
+877
+00:57:55,271 --> 00:57:58,388
+Ja sam u civilnom helikopteru.
+∆ujete li me?
+
+878
+00:58:06,390 --> 00:58:11,077
+Kapetane! Pribliûava nam se letjelica.
+Vjerujem da je helikopter.
+
+879
+00:58:13,104 --> 00:58:15,026
+Helikopter?
+
+880
+00:58:15,096 --> 00:58:18,315
+∆ak ovdje?
+Jesi li siguran?
+
+881
+00:58:18,383 --> 00:58:21,568
+Da. ∆ujem ga,
+helikopterje.
+
+882
+00:58:24,328 --> 00:58:26,250
+PoruËniËe Trojska.
+Da, gospodine.
+
+883
+00:58:26,321 --> 00:58:30,712
+Odmah nas diûite na periskopsku dubinu.
+Treba nam vizuelna potvrda.
+
+884
+00:58:36,497 --> 00:58:37,816
+Zovem Voznesensk.
+
+885
+00:58:37,964 --> 00:58:41,183
+Ovdje Lucas Foster.
+∆ujete li me, Voznesensk?
+
+886
+00:58:43,105 --> 00:58:46,825
+Kapetane, ovdje radio-operator.
+Primamo radio prenos.
+
+887
+00:58:51,392 --> 00:58:53,872
+Emituje se na kratkim talasima, gospodine.
+
+888
+00:59:01,776 --> 00:59:04,165
+Kapetane, na
+periskopskoj smo dubini.
+
+889
+00:59:24,540 --> 00:59:26,485
+PoruËniËe Trojska,
+
+890
+00:59:27,792 --> 00:59:29,646
+morate ovo da vidite.
+
+891
+00:59:32,827 --> 00:59:34,579
+<i>»ujete II me?</i>
+
+892
+00:59:55,275 --> 00:59:57,323
+äta se deöava gore?
+
+893
+01:00:03,143 --> 01:00:06,465
+Zovem rusku vojnu podmornicu
+Voznesensk.
+
+894
+01:00:09,752 --> 01:00:11,572
+Gospodine, mora da je neka zamka.
+
+895
+01:00:11,639 --> 01:00:13,994
+Amerikanci su onemoguÊili
+naöe komunikacije
+
+896
+01:00:14,086 --> 01:00:16,441
+a ovo je samo naËin
+da nas izvuku na povröinu.
+
+897
+01:00:21,395 --> 01:00:24,478
+<i>Zovem rusku vojnu podmornlcu</i>
+<i>Voznesensk</i>.
+
+898
+01:00:24,577 --> 01:00:26,829
+Ovo je civilni helikopter.
+
+899
+01:00:27,689 --> 01:00:30,078
+<i>Ovdje Lucas Foster</i>.
+
+900
+01:00:30,732 --> 01:00:33,053
+<i>Mlsha, ako me ujeö,</i>
+
+901
+01:00:33,144 --> 01:00:37,194
+<i>ponlo sam tvoju omlljenu kubansku clgaru</i>
+<i>koju je zamotao Castro llno</i>.
+
+902
+01:00:38,284 --> 01:00:39,569
+Diûi nas.
+
+903
+01:00:39,648 --> 01:00:41,502
+Kapetane, molim vas,
+razmislite.
+
+904
+01:00:41,608 --> 01:00:43,656
+Ovo je protivno vojnom protokolu.
+
+905
+01:00:43,809 --> 01:00:45,857
+<i>»ujete II me, Voznesensk?</i>
+
+906
+01:00:45,940 --> 01:00:47,953
+U pravu ste, poruËniËe.
+
+907
+01:00:49,051 --> 01:00:52,134
+Isplovite na povröinu, odmah.
+
+908
+01:00:52,230 --> 01:00:55,279
+NeÊu ponavljati nareenje.
+
+909
+01:00:55,374 --> 01:00:56,272
+Da, gospodine.
+
+910
+01:00:56,387 --> 01:00:58,639
+Ima li koga?
+Isplovljavanje na povröinu.
+
+911
+01:00:58,727 --> 01:01:01,184
+<i>»ujete II me, Voznesensk?</i>
+
+912
+01:01:03,619 --> 01:01:06,907
+<i>Lucas, prljatelju,</i>
+<i>ujemo te</i>.
+
+913
+01:01:06,974 --> 01:01:09,761
+<i>Izdao sam nareenje</i>
+<i>la Isplovljavanje</i>.
+
+914
+01:01:20,808 --> 01:01:22,753
+Da.
+
+915
+01:01:26,992 --> 01:01:29,779
+Misha?
+Divan si prizor.
+
+916
+01:01:30,660 --> 01:01:33,049
+Hajde da se spustimo.
+Da.
+
+917
+01:01:37,369 --> 01:01:42,056
+Admirale, Intel
+hvata razgovore öirom planete.
+
+918
+01:01:42,504 --> 01:01:47,294
+U nekoliko regija u sjevernoj hemisferi
+se pojavila vatra na nebu.
+
+919
+01:01:47,361 --> 01:01:49,818
+Oblaci se spontano pale.
+
+920
+01:01:51,413 --> 01:01:54,405
+Znate li je li se Foster
+ukrcao na rusku podmornicu?
+
+921
+01:01:54,488 --> 01:01:55,876
+Ne.
+
+922
+01:01:56,654 --> 01:02:01,774
+Pa, moramo se
+spremiti za pakao na Zemlji.
+
+923
+01:02:30,089 --> 01:02:31,738
+Kapetane.
+
+924
+01:02:31,871 --> 01:02:33,725
+Lucas.
+
+925
+01:02:35,433 --> 01:02:37,116
+Nadam se da razumijeö.
+
+926
+01:02:37,216 --> 01:02:41,164
+Tvojim ulaskom u podmornicu
+sam prekröio stroga nareenja.
+
+927
+01:02:41,234 --> 01:02:42,952
+Uvjeravam vas, kapetane,
+da je sa dobrim razlogom.
+
+928
+01:02:43,085 --> 01:02:47,476
+Osim toga, niste u moguÊnosti da
+komunicirate sa vaöom komandom, zar ne?
+
+929
+01:02:48,640 --> 01:02:50,028
+Odakle to znaö?
+
+930
+01:02:50,107 --> 01:02:52,792
+Zato öto je vaö glavni COMSAT
+pao sa neba.
+
+931
+01:02:56,396 --> 01:02:58,250
+äta se deöava gore?
+
+932
+01:02:58,318 --> 01:03:00,138
+Komunikacije, nebo...
+
+933
+01:03:00,275 --> 01:03:02,527
+Na udaru smo ogromne
+solarne oluje.
+
+934
+01:03:02,615 --> 01:03:04,833
+Nemam vremena za detaljna objaönjenja,
+
+935
+01:03:04,921 --> 01:03:07,207
+ali je loöe.
+Veoma loöe.
+
+936
+01:03:07,298 --> 01:03:10,313
+I trebaÊe mi vaöa pomoÊ
+i povjerenje ako Êemo to zaustaviti.
+
+937
+01:03:16,519 --> 01:03:17,702
+Joanna Parks.
+
+938
+01:03:17,778 --> 01:03:20,133
+Nestaje nam vremena.
+Jesi li se Ëula sa Lucasom?
+
+939
+01:03:20,224 --> 01:03:21,737
+Ne joö.
+
+940
+01:03:21,866 --> 01:03:24,551
+Ne ali ne brini, zvaÊe on.
+
+941
+01:03:24,626 --> 01:03:26,241
+Nadam se.
+
+942
+01:03:26,372 --> 01:03:28,055
+Upravo sam dobio konaËnu putanju.
+
+943
+01:03:30,286 --> 01:03:31,469
+SaËekaj.
+
+944
+01:03:31,561 --> 01:03:32,744
+U redu.
+
+945
+01:03:41,675 --> 01:03:45,930
+Da nuklearnim projektilima
+gaamo pol?
+
+946
+01:03:46,601 --> 01:03:48,546
+Kapetane, nebo kakvo ste ga
+videli je samo letimiËan pogled
+
+947
+01:03:48,628 --> 01:03:51,051
+na uniötenje koje
+je u toku öirom svijeta.
+
+948
+01:03:51,143 --> 01:03:52,929
+Zaöto ne ameriËka podmornica?
+
+949
+01:03:52,994 --> 01:03:55,576
+Vi ste najbliûa naoruûana
+podmornica meti.
+
+950
+01:03:55,650 --> 01:03:58,403
+Ne moûete da lansirate iz SAD-a?
+
+951
+01:03:58,481 --> 01:03:59,937
+Ne.
+
+952
+01:04:00,017 --> 01:04:03,168
+ICBM lansirani iz SAD-a
+Êe morati izaÊi iz atmosfere.
+
+953
+01:04:03,267 --> 01:04:07,419
+Kad ti urade, njihovi sistemi navoenja
+Êe biti uniöteni solarnom olujom.
+
+954
+01:04:07,493 --> 01:04:10,644
+Moraju se lansirati na maloj visini
+i iz blizine.
+
+955
+01:04:10,742 --> 01:04:12,562
+Tu vi nastupate, gospodine.
+
+956
+01:04:15,633 --> 01:04:18,682
+Kapetane, ovo je jedina
+öansa koju imamo.
+
+957
+01:04:18,761 --> 01:04:21,776
+Ova katastrofa se ubrzava
+ka taËki paljenja.
+
+958
+01:04:21,853 --> 01:04:23,866
+Ako je ne zaustavimo sada, gospodine...
+
+959
+01:04:24,962 --> 01:04:27,112
+viöe se neËe moËi zaustaviti
+
+960
+01:04:30,622 --> 01:04:34,137
+Ja ovako neöto ne mogu ovlastiti.
+
+961
+01:04:35,339 --> 01:04:38,354
+Ne bez odobrenja mog komandanta.
+
+962
+01:04:38,587 --> 01:04:41,476
+Kapetane, kako bilo da razgovarate
+direktno sa predsjednikom llyshinom?
+
+963
+01:04:41,558 --> 01:04:43,776
+HoÊe li to biti dovoljno?
+
+964
+01:04:43,863 --> 01:04:45,581
+Kako?
+
+965
+01:04:50,536 --> 01:04:52,288
+Kapetane...
+
+966
+01:04:54,310 --> 01:04:57,131
+mi smo otprilike ovdje.
+
+967
+01:04:57,227 --> 01:04:59,980
+Ako stignemo ovdje...
+
+968
+01:05:00,075 --> 01:05:01,656
+do transantlantskih kablova
+
+969
+01:05:01,751 --> 01:05:04,231
+moûemo se nakaËiti na njih
+i pozvati Kremlj.
+
+970
+01:05:16,529 --> 01:05:18,781
+Sastavili smo podatke dobijene
+iz opservatorija
+
+971
+01:05:18,870 --> 01:05:20,417
+prije nego mo ih izgubili
+
+972
+01:05:20,513 --> 01:05:23,732
+u simulaciju öablona
+paljenja metana.
+
+973
+01:05:24,705 --> 01:05:26,753
+Prebaci na ekran.
+
+974
+01:05:42,838 --> 01:05:48,458
+Kabl je na dubini od
+oko 800 metara.
+
+975
+01:05:48,532 --> 01:05:50,784
+2500 stopa otprilike.
+
+976
+01:05:52,375 --> 01:05:55,299
+To je veoma duboko za
+podmornicu naöe klase.
+
+977
+01:05:55,415 --> 01:05:57,997
+Kapetane, to je najbliûa
+i najpliÊa taËka kabla.
+
+978
+01:05:58,070 --> 01:06:01,995
+Kapetane, spustite li se
+ispod 700n metara,
+
+979
+01:06:02,122 --> 01:06:05,239
+postoji velika vjerovatnoÊa
+da Êe se podmornica smrviti od pritiska.
+
+980
+01:06:06,525 --> 01:06:11,041
+Kada se vatra na nebu pojaËa,
+iscrpiÊe kiseonik?
+
+981
+01:06:11,136 --> 01:06:14,958
+Sav ûivot na ovoj planeti
+Êe se uguöiti za samo nekoliko sati.
+
+982
+01:06:15,049 --> 01:06:16,971
+MOramo odmah djelovati.
+
+983
+01:06:18,054 --> 01:06:22,070
+PoruËniËe, podesite
+kur na ove koordinate.
+
+984
+01:06:22,143 --> 01:06:25,260
+ZapoËnite sve mjere opreza
+za plovidbu na velikoj dubini.
+
+985
+01:06:27,173 --> 01:06:30,188
+Odmah, poruËniËe?
+Da, gospodine.
+
+986
+01:06:30,526 --> 01:06:32,915
+ZapoËinjem mjere opreza.
+
+987
+01:06:34,509 --> 01:06:37,455
+Gospodine, uhvatio sam
+joö jednu podmornicu. AmeriËka je.
+
+988
+01:06:37,548 --> 01:06:40,472
+Kapetane, uspostavimo li kontakt sa njima,
+neÊemo imati vremena za objaönjavanja.
+
+989
+01:06:44,082 --> 01:06:46,539
+Da, gospodine.
+
+990
+01:07:14,757 --> 01:07:16,805
+Boûe!
+
+991
+01:07:24,715 --> 01:07:26,660
+Ide na nas!
+
+992
+01:07:55,006 --> 01:07:57,486
+450 metara.
+
+993
+01:08:10,936 --> 01:08:14,155
+Kapetane, ameriËka
+podmornica se pribliûava.
+
+994
+01:08:14,290 --> 01:08:17,942
+8 stepeni juûno,
+30 stepeni zapadno od naöe pozicije.
+
+995
+01:08:22,256 --> 01:08:24,838
+Kapetane, hoÊemo li nastaviti?
+
+996
+01:08:24,912 --> 01:08:27,267
+Na kojoj su oni dubini?
+
+997
+01:08:27,811 --> 01:08:30,393
+275 metara.
+
+998
+01:08:31,060 --> 01:08:33,574
+Dovoljno blizu da zagalame.
+
+999
+01:08:33,663 --> 01:08:36,143
+Ali nas nisu Ëuli, je li tako?
+
+1000
+01:08:42,065 --> 01:08:43,612
+Nastavite sa poniranjem.
+
+1001
+01:08:43,742 --> 01:08:46,734
+Veoma glatko i tiho.
+
+1002
+01:08:46,817 --> 01:08:48,273
+Da, gospodine.
+
+1003
+01:08:48,354 --> 01:08:50,208
+Nastavite sa poniranjem.
+
+1004
+01:09:37,301 --> 01:09:39,246
+700 metara.
+
+1005
+01:09:56,691 --> 01:10:00,013
+Kapetane! Mislim da neÊe
+moÊi izdrûati viöe pritiska.
+
+1006
+01:10:10,736 --> 01:10:12,590
+MoraÊe.
+
+1007
+01:10:15,033 --> 01:10:16,978
+I izdrûaÊe.
+
+1008
+01:10:20,379 --> 01:10:22,131
+Imamo curenje u nivou 3.
+
+1009
+01:10:22,265 --> 01:10:24,551
+Torpeda u tom sektoru su poplavljena.
+
+1010
+01:10:25,514 --> 01:10:27,368
+Izolujte ga.
+
+1011
+01:10:27,716 --> 01:10:30,196
+Da, gospodine.
+Izolujte ga.
+
+1012
+01:10:41,131 --> 01:10:43,520
+800 metara.
+
+1013
+01:11:06,392 --> 01:11:07,711
+Stgli smo do mete.
+
+1014
+01:11:07,858 --> 01:11:10,144
+Zaustavite nas.
+
+1015
+01:11:34,689 --> 01:11:36,543
+Ne.
+
+1016
+01:11:43,286 --> 01:11:45,231
+Ne, ne.
+
+1017
+01:12:06,658 --> 01:12:10,082
+Molim te, molim te proradi.
+Hvala Bogu.
+
+1018
+01:12:16,615 --> 01:12:18,037
+äta se desilo gore?
+
+1019
+01:12:18,118 --> 01:12:19,198
+Pogoeni smo.
+
+1020
+01:12:19,340 --> 01:12:21,353
+Program i dalje radi.
+
+1021
+01:12:21,436 --> 01:12:24,758
+Da, radi. Neöto manje od 11 minuta.
+
+1022
+01:12:32,755 --> 01:12:36,179
+G. PredsjedniËe?
+Voznesenk je na liniji.
+
+1023
+01:12:37,368 --> 01:12:39,950
+PredsjedniËe llyushin,
+ovdje Lucas Foster.
+
+1024
+01:12:40,024 --> 01:12:41,844
+Treba mi vaöa pomoÊ, gospodine.
+
+1025
+01:12:41,909 --> 01:12:43,092
+G. Foster.
+
+1026
+01:12:43,237 --> 01:12:45,057
+Vjerujem da znam
+zaöto zovete.
+
+1027
+01:12:45,124 --> 01:12:47,410
+Razgovarao sam sa
+predsjednikom Gordonom.
+
+1028
+01:12:47,639 --> 01:12:51,461
+OdobriÊemo vaö plan.
+Moja podmornica vam stoji na raspolaganju.
+
+1029
+01:12:51,552 --> 01:12:53,008
+OdliËne vijesti, g. PredsjedniËe.
+
+1030
+01:12:53,089 --> 01:12:57,446
+Mogu li vas spojiti sa kapetanom
+GrigoroviËem, komandantom Voznesenka?
+
+1031
+01:12:57,526 --> 01:12:58,879
+Molim vas.
+
+1032
+01:12:58,958 --> 01:13:00,607
+Hvala, gospodine.
+
+1033
+01:13:00,741 --> 01:13:02,493
+Kapetane?
+
+1034
+01:13:05,038 --> 01:13:06,756
+Dr. Parks, ne moûete dole.
+Ned.
+
+1035
+01:13:06,854 --> 01:13:08,572
+Nije bezbjedno.
+Zidovi se ruöe.
+
+1036
+01:13:08,706 --> 01:13:10,128
+Ned, moraÊu da rizikujem.
+
+1037
+01:13:10,209 --> 01:13:11,824
+Dr. Parks!
+
+1038
+01:13:34,699 --> 01:13:36,417
+Lucas. U podmornici je.
+
+1039
+01:13:36,516 --> 01:13:38,131
+Hvala Bogu.
+
+1040
+01:13:40,255 --> 01:13:41,802
+Lucas?
+
+1041
+01:13:41,932 --> 01:13:44,287
+Joanna, dobro je Ëuti tvoj glas.
+Tvoj takoe.
+
+1042
+01:13:44,377 --> 01:13:45,992
+Imaö li koordinate lansiranja?
+
+1043
+01:13:46,124 --> 01:13:48,911
+Da. Idemo.
+
+1044
+01:13:49,792 --> 01:13:55,310
+<i>älrlna, 86 stepenl, 43 mlnute,</i>
+<i>17 sekundl, sjever</i>.
+
+1045
+01:13:55,382 --> 01:14:00,866
+<i>Duûlna, 41 stepen, 19 mlnuta,</i>
+<i>4 sekunde, zapad</i>.
+
+1046
+01:14:01,217 --> 01:14:03,902
+Joanna, dobar posao.
+
+1047
+01:14:24,485 --> 01:14:26,737
+Ovo nije trebalo da se desi.
+
+1048
+01:14:26,825 --> 01:14:29,077
+Joö ima vremena da se zaustavi.
+
+1049
+01:14:29,831 --> 01:14:32,220
+Prenijela sam koordinate
+Lucasu u podmornici.
+
+1050
+01:14:48,172 --> 01:14:50,493
+PoruËniËe, kakva je
+situacija sa komunikacimama?
+
+1051
+01:14:50,565 --> 01:14:52,817
+Radio i sonar i dalje ne rade,
+kao ni satelit.
+
+1052
+01:14:52,889 --> 01:14:56,108
+Znam da ne rade, poruËniËe. HoÊu da znam
+kada Êe veze ponovo biti uspostavljene.
+
+1053
+01:14:56,173 --> 01:14:57,561
+Volio bih kada bih znao, gospodine,
+
+1054
+01:14:57,711 --> 01:15:01,226
+ali sve ukazuje na to
+da je ovo vanjski problem.
+
+1055
+01:15:01,309 --> 01:15:02,355
+Vanjski?
+
+1056
+01:15:02,427 --> 01:15:04,782
+Problem nije u naöoj
+opremi
+
+1057
+01:15:04,872 --> 01:15:06,794
+veÊ u izvoru
+
+1058
+01:15:07,772 --> 01:15:09,763
+HoÊeö da kaûeö da je najveÊa sila na svijetu
+
+1059
+01:15:09,824 --> 01:15:11,712
+izgubila svoj komunikacijski satelit?
+
+1060
+01:15:11,790 --> 01:15:13,246
+Moûda je neki test?
+
+1061
+01:15:13,328 --> 01:15:16,445
+Bio bih unaprijed obavijeöten
+o bilo kakvim testovima.
+
+1062
+01:15:17,939 --> 01:15:20,521
+U svakom sluËaju bi imali komunikaciju.
+
+1063
+01:15:21,188 --> 01:15:23,873
+äto znaËi da je jedini razlog zbog
+koga nas ötab nije kontaktirao
+
+1064
+01:15:23,948 --> 01:15:26,200
+problem kod njih.
+
+1065
+01:15:26,534 --> 01:15:29,185
+HoÊete da kaûete
+da smo napadnuti?
+
+1066
+01:15:29,258 --> 01:15:31,112
+Gospodine, imali smo
+problema sa nestankom struje
+
+1067
+01:15:31,181 --> 01:15:33,729
+stalnim smetnjama sa
+nuklearnim EMP.
+
+1068
+01:15:34,708 --> 01:15:37,188
+Kapetane, moûda hvatamo
+joö jednu podmornicu.
+
+1069
+01:15:37,260 --> 01:15:39,273
+Moûda hvatamo joö jednu podmornicu?
+
+1070
+01:15:39,356 --> 01:15:41,904
+HoÊu potvrdu toga
+i to odmah.
+
+1071
+01:15:41,976 --> 01:15:43,694
+Da, gospodine.
+
+1072
+01:15:56,929 --> 01:15:59,944
+100 metara od lansirne dubine, gdine.
+
+1073
+01:16:02,169 --> 01:16:04,649
+Ubacite koordinate, poruËniËe.
+
+1074
+01:16:28,268 --> 01:16:30,316
+Koordinate lansiranja
+podeöene, kapetane.
+
+1075
+01:16:32,565 --> 01:16:34,920
+Koliko joö do lansirne pozicije?
+
+1076
+01:16:35,010 --> 01:16:37,296
+Za 15 sekundi, gospodine.
+
+1077
+01:16:37,387 --> 01:16:39,969
+OtkljuËajte nosaËe projektila.
+
+1078
+01:16:47,658 --> 01:16:50,240
+Gospodine, hvata rusku podmornicu.
+
+1079
+01:16:51,662 --> 01:16:54,051
+Jesi li siguran?
+Da, gospodine.
+
+1080
+01:16:57,846 --> 01:16:59,598
+Koja im je pozicija?
+
+1081
+01:16:59,838 --> 01:17:02,056
+Gospodine, preöli su granicu
+
+1082
+01:17:02,125 --> 01:17:03,911
+u islandske teritorijalne vode.
+
+1083
+01:17:11,580 --> 01:17:13,332
+Na moj znak.
+
+1084
+01:17:16,299 --> 01:17:18,551
+Tri, dva, jedan.
+
+1085
+01:17:18,640 --> 01:17:20,562
+Moûe.
+
+1086
+01:17:24,686 --> 01:17:26,631
+Ubacite koordinate za lansiranje.
+
+1087
+01:17:48,064 --> 01:17:50,248
+Topovi su naoruûani, gospodine.
+
+1088
+01:17:51,419 --> 01:17:53,467
+Spremite se za gaanje.
+
+1089
+01:18:07,564 --> 01:18:11,716
+Kapetane! Amerikanci!
+Locirali su nas.
+
+1090
+01:18:17,209 --> 01:18:19,996
+Gospodine, amerikanci nam öalju poruku
+
+1091
+01:18:20,075 --> 01:18:21,360
+na kratkim talasima.
+
+1092
+01:18:21,507 --> 01:18:23,930
+Kaûu da smo skrenuli sa kursa
+
+1093
+01:18:24,024 --> 01:18:27,539
+da smo povrijedili islandske
+teritorijalne vode
+
+1094
+01:18:27,624 --> 01:18:31,105
+i nareuju nam da odmah isplovimo
+na povröinu.
+
+1095
+01:18:31,572 --> 01:18:34,689
+Reci Amerikancima da djelujemo po
+direktnim nareenjima
+
+1096
+01:18:34,822 --> 01:18:38,576
+predsjednika llyushina
+i predsjednika Gordona.
+
+1097
+01:18:38,807 --> 01:18:42,026
+Gospodine, kaûu da djeluju prema
+direktnim nareenjima
+
+1098
+01:18:42,091 --> 01:18:45,913
+predsjednika llyushina
+i predsjednika Gordona.
+
+1099
+01:18:48,346 --> 01:18:50,394
+Kakvu to igru igraju?
+
+1100
+01:18:54,322 --> 01:18:56,711
+Nalaze se na dubini za
+lansiranje projektila, gospodine.
+
+1101
+01:18:59,355 --> 01:19:01,812
+Reci im da ne moûemo provjeriti
+njihove tvrdnje
+
+1102
+01:19:01,905 --> 01:19:03,156
+i da moraju odmah isploviti.
+
+1103
+01:19:03,233 --> 01:19:06,851
+Nepovinovanje Êe se smatrati
+agresijom.
+
+1104
+01:19:06,938 --> 01:19:08,326
+Da, gospodine.
+
+1105
+01:19:09,314 --> 01:19:11,134
+Dali su nam jedan minut
+da isplovimo
+
+1106
+01:19:11,202 --> 01:19:13,887
+i potvrdimo autentiËnost
+naöih nareenja.
+
+1107
+01:19:14,661 --> 01:19:16,379
+Isplovimo li sada,
+biÊe prekasno.
+
+1108
+01:19:16,478 --> 01:19:18,400
+Skoro da nam je nestalo vremena.
+
+1109
+01:19:18,487 --> 01:19:20,375
+Ovo moramo uraditi sada, gospodine!
+
+1110
+01:19:20,461 --> 01:19:22,474
+Poöalji joö jednu poruku.
+
+1111
+01:19:23,466 --> 01:19:27,084
+Reci amerikancima da smo u
+vremenski ograniËenoj misiji
+
+1112
+01:19:27,170 --> 01:19:30,628
+i da ne predstavljamo nikakvu
+prijetnju. Poöalji to.
+
+1113
+01:19:30,701 --> 01:19:34,489
+Da, gospodine. AmeriËka podmornice,
+mi smo u vremenski ograniËenoj misiji
+
+1114
+01:19:34,563 --> 01:19:38,317
+<i>I naöa operaclja ne predstavlja</i>
+<i>nlkakvu prljetnju vaöoj podmornlcl</i>.
+
+1115
+01:19:38,390 --> 01:19:39,971
+Dajte im do znanja da smo ozbiljni.
+
+1116
+01:19:40,068 --> 01:19:42,081
+Da, gospodine.
+
+1117
+01:19:45,377 --> 01:19:47,060
+Na moj znak.
+
+1118
+01:19:47,160 --> 01:19:49,845
+Kapetane, otvaraju
+torpedna vrata.
+
+1119
+01:19:53,975 --> 01:19:55,556
+PoruËniËe Trojska.
+
+1120
+01:19:55,653 --> 01:19:58,042
+Ja neÊu izvröiti lansiranje, gospodine.
+
+1121
+01:20:03,621 --> 01:20:05,805
+Ne mogu to da uradim.
+
+1122
+01:20:07,604 --> 01:20:09,754
+Ovo je samoubistvo.
+
+1123
+01:20:09,840 --> 01:20:11,228
+PoruËniËe.
+
+1124
+01:20:14,208 --> 01:20:16,153
+Nemoj!
+
+1125
+01:20:18,087 --> 01:20:20,874
+ZakljuËajte poruËnika
+Troisku u njegovu sobu.
+
+1126
+01:20:20,953 --> 01:20:22,568
+Da, gospodine.
+
+1127
+01:20:26,999 --> 01:20:29,047
+Zatvorite ga.
+
+1128
+01:20:35,176 --> 01:20:36,461
+Sada, kapetane.
+
+1129
+01:20:36,540 --> 01:20:38,929
+Lansiranje pet projektila.
+
+1130
+01:20:47,757 --> 01:20:49,702
+Gospodine, Rusi su
+upravo lansirali pet projektila.
+
+1131
+01:20:49,783 --> 01:20:51,796
+Zaboga miloga!
+
+1132
+01:20:59,394 --> 01:21:01,442
+Gospodine, Ëekamo vaöa nareenja.
+
+1133
+01:21:02,958 --> 01:21:05,813
+Spremite se za gaanje.
+
+1134
+01:21:05,894 --> 01:21:08,681
+Da, gospodine.
+Spremi za gaanje.
+
+1135
+01:21:10,297 --> 01:21:13,289
+Poöalji joö jednu poruku.
+Reci im da isplovljavamo.
+
+1136
+01:21:13,374 --> 01:21:15,092
+Gaajte Ëim budete spremni.
+
+1137
+01:21:15,224 --> 01:21:17,272
+Gaajte Ëim budete spremni.
+
+1138
+01:21:18,998 --> 01:21:21,785
+Prekasno je.
+Torpeda su u vodi.
+
+1139
+01:21:28,434 --> 01:21:30,823
+Spremite se za protivmjere.
+
+1140
+01:21:33,887 --> 01:21:35,707
+Punom snagom naprijed.
+
+1141
+01:21:35,772 --> 01:21:38,696
+Poniranje pod pravim uglom
+za 45 stepeni.
+
+1142
+01:21:47,410 --> 01:21:51,665
+Ispalite protivmjere.
+
+1143
+01:21:57,475 --> 01:21:58,988
+Gospodine, Rusi su ispalili
+protivmjere
+
+1144
+01:21:59,081 --> 01:22:01,333
+i udaljavaju se
+punom brzinom.
+
+1145
+01:22:01,772 --> 01:22:03,251
+Spremite se za ponovno gaanje.
+
+1146
+01:22:03,345 --> 01:22:06,360
+Da, gospodine.
+Spremite se za gaanje.
+
+1147
+01:22:22,949 --> 01:22:25,338
+Protivmjere uspjeöne.
+
+1148
+01:22:28,402 --> 01:22:29,585
+Ispalite protivmjere.
+
+1149
+01:22:29,659 --> 01:22:31,513
+Gaajte Ëim budete spremni.
+
+1150
+01:22:35,529 --> 01:22:38,111
+Kapetane, Amerikanci
+su ispalili joö dva torpeda.
+
+1151
+01:22:38,187 --> 01:22:40,644
+Svi na stanice
+za kontrolu ötete.
+
+1152
+01:22:43,393 --> 01:22:46,612
+Ispalite protivmjere.
+Na moj znak.
+
+1153
+01:22:46,678 --> 01:22:49,863
+A zatim skrenite za 90 stepeni.
+
+1154
+01:22:51,047 --> 01:22:53,095
+800 metara.
+
+1155
+01:22:56,603 --> 01:22:59,618
+700 metara.
+Ne joö.
+
+1156
+01:23:01,949 --> 01:23:04,429
+600 metara.
+
+1157
+01:23:07,820 --> 01:23:09,833
+500 metara.
+
+1158
+01:23:09,918 --> 01:23:12,432
+Ispalite protivmjere.
+
+1159
+01:23:12,521 --> 01:23:15,035
+ZapoËnite skretanje.
+
+1160
+01:23:18,934 --> 01:23:20,879
+JaËe.
+
+1161
+01:23:22,394 --> 01:23:24,874
+Joö malo.
+
+1162
+01:23:26,272 --> 01:23:28,752
+Neka nam je Bog na pomoÊi.
+
+1163
+01:23:40,531 --> 01:23:42,681
+Gospodine, torpeda
+su promaöila metu.
+
+1164
+01:23:42,767 --> 01:23:44,883
+Nema povratne vatre.
+
+1165
+01:23:45,247 --> 01:23:47,465
+Spremite torpeda.
+
+1166
+01:23:47,554 --> 01:23:50,136
+Spremite se za ponovnu paljbu.
+
+1167
+01:23:51,434 --> 01:23:52,549
+Izvjeötaj ötete.
+
+1168
+01:23:52,692 --> 01:23:56,207
+Podnivo jedan ima manji
+prodor u crpnoj stanici.
+
+1169
+01:23:56,290 --> 01:23:58,508
+Izoluj i evakuiöi.
+Da, gospodine.
+
+1170
+01:23:58,598 --> 01:24:00,714
+Dajte mi radio.
+
+1171
+01:24:05,691 --> 01:24:08,171
+Komandante ameriËke podmornice.
+Ovdje Lucas Foster.
+
+1172
+01:24:08,242 --> 01:24:10,995
+Ja sam u ruskoj podmornici
+Voznesensk.
+
+1173
+01:24:11,073 --> 01:24:12,153
+Ne pucajte.
+
+1174
+01:24:12,296 --> 01:24:13,194
+Gospodine, posluöajte ovo.
+
+1175
+01:24:13,275 --> 01:24:15,391
+<i>E pucajte!</i>
+
+1176
+01:24:16,491 --> 01:24:18,539
+<i>Ovdje Lucas Foster</i>.
+
+1177
+01:24:44,587 --> 01:24:46,339
+Nije uspio.
+
+1178
+01:24:47,522 --> 01:24:49,205
+To joö ne znamo.
+
+1179
+01:24:49,287 --> 01:24:50,902
+Priznaj, Joanna.
+
+1180
+01:24:50,982 --> 01:24:54,304
+Moûda su proraËuni bili netaËni
+ili neka ljudks agreöka.
+
+1181
+01:24:54,371 --> 01:24:55,451
+Moûda nisu ispalili projektile.
+
+1182
+01:24:55,595 --> 01:24:57,916
+Jesu.
+
+1183
+01:24:58,005 --> 01:24:59,950
+Znam da jesu.
+
+1184
+01:25:14,675 --> 01:25:18,395
+<i>Gospodlne Foster, vaöe prlsustvo</i>
+<i>zalsta umanjuje osjeÊaj neprljateljstva</i>.
+
+1185
+01:25:18,484 --> 01:25:22,500
+<i>Meutlm, morate upozorltl ruskog</i>
+<i>kapetana da odrûl neutralan stav</i>
+
+1186
+01:25:22,572 --> 01:25:25,029
+<i>da os+dmah Isplovl</i>
+<i>I da se preda</i>.
+
+1187
+01:25:26,521 --> 01:25:28,671
+Zahtijeva vaöu trenutnu predaju.
+
+1188
+01:25:28,759 --> 01:25:30,408
+Nikada.
+
+1189
+01:25:30,505 --> 01:25:33,292
+Kapetane, ovo je samo formalnost.
+
+1190
+01:25:39,102 --> 01:25:41,957
+POöaljite im ponruku.
+
+1191
+01:25:42,020 --> 01:25:44,807
+Recite im da pristajemo.
+
+1192
+01:25:44,903 --> 01:25:46,086
+Ali, gospodine...
+
+1193
+01:25:46,231 --> 01:25:48,916
+Neko mora da vrati
+gospodina Fostera kuÊi.
+
+1194
+01:26:21,351 --> 01:26:23,342
+Uspio je.
+Da!
+
+1195
+01:26:23,431 --> 01:26:25,422
+Stvarno je uspio.
+
+1196
+01:26:37,183 --> 01:26:39,128
+Da!
+
+1197
+01:26:39,384 --> 01:26:40,863
+G. PredsjedniËe!
+
+1198
+01:26:40,956 --> 01:26:43,880
+Uspjelo je.
+Lucas je to uradio.
+
+1199
+01:26:46,724 --> 01:26:49,045
+Da!
+
+1200
+01:26:49,135 --> 01:26:51,786
+Kapetane, dugujem vam uslugu.
+
+1201
+01:26:51,860 --> 01:26:54,112
+Ako ikada budem neöto
+mogao uËiniti za vas...
+
+1202
+01:26:54,201 --> 01:26:57,455
+Ne budi takav stranas, Lucas Foster.
+
+1203
+01:26:57,522 --> 01:27:02,312
+Kada slijedeÊi put budeö
+u komöiluku, svrati.
+
+1204
+01:27:03,707 --> 01:27:06,289
+<i>I</i>...
+
+1205
+01:27:07,273 --> 01:27:09,218
+vjerujem da je ovo tvoje.
+
+1206
+01:27:09,298 --> 01:27:13,018
+Hvala.
+
+1207
+01:27:30,861 --> 01:27:32,283
+Lucas!
+
+1208
+01:27:32,431 --> 01:27:35,650
+Hej! Hajde!
+
+1209
+01:27:44,488 --> 01:27:46,103
+Tako mi je drago öto si se vratio.
+
+1210
+01:27:46,202 --> 01:27:48,215
+Hvala. OdliËan posao.
+Hvala.
+
+1211
+01:27:51,094 --> 01:27:52,709
+Dobro doöao natrag.
+
+1212
+01:27:52,807 --> 01:27:54,092
+Hvala.
+
+1213
+01:27:54,239 --> 01:27:58,130
+Pa, gdje je ostatak
+odbora za doËek?
+
+1214
+01:27:58,223 --> 01:28:01,738
+RuËaÊemo sa predsjednikom,
+Lucas. äta joö hoÊeö?
+
+1215
+01:28:01,823 --> 01:28:04,178
+Ne znam. Parada bi bila fina.
+
+1216
+01:28:06,295 --> 01:28:09,719
+Da, idemo odavde.
+
+1217
+01:28:36,200 --> 01:28:42,423
+* * *  K R A J  * * * 
+www.svefilm.cjb.net
+.....................
+
+1218
+01:28:43,305 --> 01:29:43,233
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/3u36f
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

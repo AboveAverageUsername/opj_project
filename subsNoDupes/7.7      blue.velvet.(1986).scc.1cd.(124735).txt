@@ -1,0 +1,2267 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:21.50,00:00:23.79
+film: DEJVIDA LINÈA
+
+00:00:25.42,00:00:31.13
+PLAVI SOMOT
+
+00:00:32.30,00:00:34.51
+u glavnim ulogama:
+
+00:00:42.10,00:00:50.98
+u ostalim ulogama:
+
+00:01:25.89,00:01:28.31
+scenario: DEJVID LINÈ
+
+00:01:32.73,00:01:34.98
+režija: DEJVID LINÈ
+
+00:01:42.99,00:01:49.66
+PLAVI SOMOT...
+
+00:01:50.04,00:01:57.42
+NOSILA JE PLAVI SOMOT...
+
+00:01:57.80,00:02:03.30
+OD SOMOTA JE PLAVLJA[br]BILA NOÆ...
+
+00:02:03.47,00:02:08.81
+A SVETLOST ZVEZDA[br]MEKŠA OD SATENA...
+
+00:02:12.69,00:02:19.94
+NOSILA JE PLAVI SOMOT...
+
+00:02:20.86,00:02:26.37
+OD SOMOTA PLAVLJE[br]BEHU NJENE OÈI...
+
+00:02:26.62,00:02:31.70
+TOPLIJI NJENI NEŽNI UZDASI...
+
+00:02:32.21,00:02:37.79
+LJUBAV BEŠE NAŠA...
+
+00:02:39.54,00:02:43.42
+LJUBAV KOJU SAM[br]DRŽALA ÈVRSTO.
+
+00:02:43.76,00:02:48.35
+OSEÆAM DA ZANOS RASTE...
+
+00:02:49.85,00:02:55.85
+KO PLAMEN ŠTO SJAJNO GORI.
+
+00:02:56.02,00:03:01.53
+ALI KAD ONA ODE,[br]NESTADE I SJAJ...
+
+00:03:02.23,00:03:06.07
+PLAVOG SOMOTA.
+
+00:03:46.78,00:03:52.45
+DOBRODOŠLI U LAMBERTON
+
+00:04:00.50,00:04:03.63
+SUNÈAN JE DAN[br]ZA DRVARE U LAMBERTONU,
+
+00:04:03.79,00:04:05.42
+PA NEKA TESTERE RADE.
+
+00:04:05.63,00:04:09.34
+OVO JE STANICA Š.U.M.A.,[br]MUZIÈKI GLAS LAMBERTONA.
+
+00:04:09.55,00:04:12.18
+NA ZNAK STABLO KOJE PADA,
+
+00:04:13.18,00:04:15.47
+BIÆE TAÈNO 9:30.
+
+00:04:15.64,00:04:19.52
+ÈEKAJU NAS SILNE ŠUME,[br]PA DA KRENEMO.
+
+00:04:45.21,00:04:47.17
+Gospodin Bomon?
+
+00:04:47.38,00:04:49.29
+Došao je vaš sin Džefri.
+
+00:05:01.52,00:05:03.43
+Zdravo, æale.
+
+00:06:58.88,00:07:01.55
+Da li ovde još radi[br]detektiv Vilijams?
+
+00:07:01.71,00:07:06.97
+Da. Gore je u sobi 221. Onuda.[br]-Hvala.
+
+00:07:23.07,00:07:24.86
+Detektiv Vilijams?
+
+00:07:30.41,00:07:31.66
+Da?
+
+00:07:31.91,00:07:34.45
+Ja sam Džefri Bomon.[br]Stanujem u susedstvu.
+
+00:07:34.66,00:07:37.50
+Znate mog oca, Toma Bomona?[br]Bomonova gvožðara?
+
+00:07:37.71,00:07:41.17
+Svakako. Èujem da je u bolnici.[br]Kako je?
+
+00:07:41.38,00:07:44.17
+Dobro je... valjda...[br]Nadam se.
+
+00:07:44.38,00:07:46.80
+Zbog njega sam došao kuæi.
+
+00:07:47.01,00:07:50.59
+Bio sam u bolnici i na putu ka kuæi,[br]tamo kod nas,
+
+00:07:50.80,00:07:52.60
+odmah iza Viste...
+
+00:07:52.80,00:07:58.68
+ja... našao sam ovo.[br]-Stvarno? Ljudsko uvo?
+
+00:07:58.93,00:08:04.23
+Doneo sam ga vama.[br]-Taèno. Da vidim.
+
+00:08:09.03,00:08:12.24
+Da, to je ljudsko uvo.
+
+00:08:12.45,00:08:15.28
+Odneæemo sudskom lekaru,[br]da on to vidi.
+
+00:08:15.45,00:08:19.04
+Pokazaæeš mi gde si našao.[br]-U redu.
+
+00:08:22.58,00:08:26.50
+Ne seæam se nikakvog leša[br]bez uva.
+
+00:08:26.71,00:08:29.63
+Ta osoba je negde još živa.
+
+00:08:29.84,00:08:35.14
+Šta može da se sazna po uvetu?[br]-Kad ispitamo, svašta.
+
+00:08:35.34,00:08:39.64
+Pol, krvna grupa...[br]da li je uvo mrtve osobe...
+
+00:08:39.85,00:08:44.10
+Izgleda da je uvo[br]odseèeno makazama.
+
+00:08:45.73,00:08:47.56
+ZABRANJEN PROLAZ[br]POLICIJA
+
+00:09:13.96,00:09:18.59
+Izlazim. -Hoæeš li kola?[br]-Ne, prošetaæu okolo.
+
+00:09:19.30,00:09:21.68
+Da neæeš ulicom Linkoln?
+
+00:09:21.89,00:09:27.10
+Ne, prošetaæu po okolini.[br]Bez brige. -Dobro, dušo.
+
+00:10:41.72,00:10:45.14
+Ja sam Džefri Bomon.[br]Je li tu detektiv Vilijams?
+
+00:10:45.34,00:10:49.06
+Da... da, Džefri. Uði.[br]-Hvala.
+
+00:10:55.52,00:10:59.32
+Džefri, našao si nešto[br]što nas veoma zanima.
+
+00:11:00.86,00:11:03.90
+Znam da si radoznao[br]da saznaš još više.
+
+00:11:04.07,00:11:08.03
+Moliæu te da nikome ne kažeš[br]šta si našao,
+
+00:11:08.24,00:11:11.37
+ali ni da se raspituješ o sluèaju.
+
+00:11:11.62,00:11:16.54
+Kad jednom sredimo sve,[br]isprièaæu ti detalje.
+
+00:11:16.75,00:11:23.80
+Trenutno ne mogu.[br]-Shvatam. Zaista sam radoznao.
+
+00:11:24.13,00:11:27.22
+I ja sam bio u tvojim godinama.
+
+00:11:28.18,00:11:32.01
+Zato sam i došao u policiju.[br]-Mora da je sjajno.
+
+00:11:32.85,00:11:34.98
+Ali je i užasno.
+
+00:11:36.19,00:11:39.15
+Žalim, Džefri, tako je.
+
+00:11:39.56,00:11:43.90
+Znam da ti shvataš.[br]-Naravno.
+
+00:11:48.15,00:11:53.28
+Hvala. -Milo mi je[br]što smo se upoznali. -I meni.
+
+00:11:57.41,00:12:00.96
+Pozdravite Sendi.[br]-Hoæemo. -Dobro.
+
+00:12:01.67,00:12:04.50
+Laku noæ, Džefri.[br]-Laku noæ, detektive Vilijams.
+
+00:12:17.18,00:12:19.39
+Ti si našao uvo?
+
+00:12:38.79,00:12:41.12
+Otkud si znala?
+
+00:12:44.75,00:12:50.80
+Znam. Seæam te se iz škole.[br]-Stvarno.
+
+00:12:50.97,00:12:56.51
+Viši razredi? -Da.[br]-Kako škola? -Užasno, dosadno.
+
+00:12:56.68,00:13:00.56
+Dakle, sve po starom.[br]-Šta sada radiš?
+
+00:13:00.85,00:13:05.35
+Došao sam zbog oèeve bolesti.[br]-Žao mi je.
+
+00:13:05.85,00:13:10.03
+Šta znaš o uvetu? -Zar ti moj tata[br]nije rekao da æutiš?
+
+00:13:10.19,00:13:13.20
+Da, ali ti si pomenula.[br]Znaš li nešto?
+
+00:13:13.36,00:13:15.70
+Znam samo ponešto.
+
+00:13:15.91,00:13:18.58
+Èujem koješta.[br]-Da?
+
+00:13:18.87,00:13:23.04
+Moja soba je iznad[br]tatine kancelarije. -Kancelarije?
+
+00:13:23.50,00:13:27.71
+Èula sam ponešto o uvetu.[br]-Da... i?
+
+00:13:28.50,00:13:31.42
+Pomešala sam nekoliko sluèajeva.
+
+00:13:31.63,00:13:34.55
+Stalno se pominje ime te pevaèice.
+
+00:13:34.80,00:13:37.80
+Živi u zgradi nedaleko od tebe.
+
+00:13:38.01,00:13:41.10
+Nije daleko od poljane[br]na kojoj si našao uvo.
+
+00:13:41.26,00:13:44.56
+Èudan svet, zar ne?[br]-Jeste.
+
+00:13:44.72,00:13:49.19
+Znaš li u kojoj kuæi ona živi?[br]-Blizu je. Jezivo.
+
+00:13:49.40,00:13:54.78
+Pratili su je neko vreme,[br]ali to nije tatin sluèaj.
+
+00:13:56.61,00:14:00.03
+Dakle, treba brzo[br]da se vratiš kuæi?
+
+00:14:00.24,00:14:03.20
+Baš i ne. Zašto?[br]-Pa...
+
+00:14:04.08,00:14:07.04
+Hoæeš da vidiš zgradu?[br]-Da.
+
+00:14:07.46,00:14:10.71
+Hajde, pokazaæu ti.[br]-Dobro.
+
+00:14:13.38,00:14:15.46
+Hej, luèe!
+
+00:14:18.30,00:14:23.18
+To je njena zgrada.[br]Stanuje na sedmom spratu.
+
+00:14:30.14,00:14:31.40
+Hajde.
+
+00:14:47.99,00:14:50.83
+Šta æeš da radiš sad,[br]kad si kod kuæe?
+
+00:14:51.00,00:14:56.17
+Pomagaæu u oèevoj gvožðari.[br]Klizno radno vreme.
+
+00:14:59.55,00:15:04.63
+Poznavao sam jednog deèka[br]sa najdužim jezikom.
+
+00:15:06.64,00:15:08.43
+Šta je bilo s njim?
+
+00:15:09.64,00:15:15.65
+Ne znam. Odselio se.[br]Nema više starih drugara.
+
+00:15:21.40,00:15:24.49
+Znaš li pileæi hod?[br]-Šta je to?
+
+00:15:30.49,00:15:32.45
+Zanimljivo je.
+
+00:15:53.06,00:15:55.60
+Vreme je za kafu.[br]-Da.
+
+00:15:55.81,00:15:58.44
+Dupli Ede...[br]gde su radna odela?
+
+00:15:58.69,00:16:03.19
+Na donjoj polici,[br]gde su uvek bila.
+
+00:16:03.73,00:16:08.91
+Ede, koliko prstiju?[br]-Èetiri.
+
+00:16:09.32,00:16:11.49
+Još ne znam kako to radiš.
+
+00:16:12.32,00:16:16.12
+Sigurno vam nisam potreban[br]neko vreme?
+
+00:16:16.33,00:16:20.79
+Ako radiš dezinsekciju,[br]to se nas ne tièe.
+
+00:16:21.00,00:16:25.17
+Važi, Dupli Ede.[br]-Milo mi je što si tu.
+
+00:16:47.32,00:16:49.61
+Gladna? Žedna? Ili oboje?
+
+00:16:50.57,00:16:55.12
+Ne znam. -Želeo bih[br]da razgovaramo o neèemu.
+
+00:16:55.45,00:16:57.16
+Saèekaj malo...
+
+00:16:59.25,00:17:03.04
+Ni reèi Majku o ovome. Važi?[br]-Svakako.
+
+00:17:03.21,00:17:06.59
+Nije ono što mislite.[br]-Važi. Obeæavamo.
+
+00:17:11.13,00:17:14.63
+Neæu da ti pravim neprilike.[br]-Tu sam, zar ne?
+
+00:17:14.93,00:17:16.89
+Zgodan dasa.
+
+00:17:21.27,00:17:24.94
+Odlazila si kod Arlin?[br]-Jesam.
+
+00:17:38.45,00:17:40.95
+Dakle, zašto smo ovde?
+
+00:17:46.37,00:17:52.05
+Postoje šanse za sticanje saznanja[br]i iskustava.
+
+00:17:52.30,00:17:55.26
+Ponekad treba rizikovati.
+
+00:17:56.38,00:18:00.89
+Puno bismo saznali[br]kad bismo ušli u njen stan.
+
+00:18:01.10,00:18:07.60
+Uðeš, posmatraš.[br]-U njen stan? -Da.
+
+00:18:07.85,00:18:12.61
+Jesi li lud? Ona je možda[br]umešana u ubistvo?
+
+00:18:13.07,00:18:19.49
+Hvata me jeza. -Smiri se.[br]Možda æe moj plan da uspe.
+
+00:18:19.70,00:18:22.37
+Nemaš mnogo da radiš,[br]ali mi treba tvoja pomoæ.
+
+00:18:22.53,00:18:24.79
+Neæeš ni da èuješ plan?
+
+00:18:25.95,00:18:30.67
+Sve što mi budeš rekao,[br]ostaje meðu nama.
+
+00:18:30.92,00:18:34.29
+Sendi, nemoj tako.
+
+00:18:37.97,00:18:43.39
+Moram da uðem u njen stan[br]i otvorim jedan prozor.
+
+00:18:43.59,00:18:50.06
+Kako? -U kolima mi je[br]pribor za dezinsekciju.
+
+00:18:50.31,00:18:54.77
+Poæi æu u njen stan[br]kao radi dezinsekcije.
+
+00:18:55.02,00:19:01.32
+Onda æeš ti da pokucaš,[br]kako bih ja otvorio prozor.
+
+00:19:01.53,00:19:06.07
+A šta ja da joj kažem?[br]-Biæeš Jehovin svedok.
+
+00:19:06.45,00:19:09.70
+Daæu ti neke publikacije.
+
+00:19:10.00,00:19:13.67
+Treba mi samo nekoliko sekundi.
+
+00:19:13.87,00:19:17.71
+Šta misliš?[br]-Ne znam.
+
+00:19:17.96,00:19:21.21
+Izgleda kao dobra fantazija, ali...
+
+00:19:21.42,00:19:26.18
+suviše je uvrnuto[br]i suviše opasno.
+
+00:19:26.43,00:19:29.81
+Sendi, pokušajmo prvi deo.
+
+00:19:32.98,00:19:39.02
+Niko neæe verovati[br]da smo toliko ludi.
+
+00:19:40.77,00:19:43.44
+Tu si u pravu.
+
+00:19:54.62,00:19:57.33
+Kad uðem,[br]daj mi bar tri minuta.
+
+00:19:57.54,00:20:01.00
+Treba mi vremena[br]da naðem dobar prozor.
+
+00:20:01.21,00:20:05.34
+U redu.[br]-Idemo.
+
+00:20:18.94,00:20:20.40
+Odoh.
+
+00:20:21.73,00:20:25.61
+Èekaj. Kako se zove?[br]-Zaboga, Džefri...
+
+00:20:26.53,00:20:28.99
+Doroti Valens, VII sprat...
+
+00:20:30.32,00:20:33.12
+Pogledaj njen broj[br]na poštanskom sanduèetu.
+
+00:20:35.16,00:20:36.54
+Hvala.
+
+00:20:37.75,00:20:44.34
+Doroti Valens, VII sprat.[br]U redu. Sreæno.
+
+00:20:44.50,00:20:46.05
+Sreæno i tebi.
+
+00:20:47.63,00:20:50.34
+Tri minuta. Nikako ranije.
+
+00:21:20.83,00:21:24.12
+LIFT NE RADI[br]KORISTITE STEPENICE
+
+00:22:37.15,00:22:41.45
+Da, šta je?[br]-Dezinsekcija vašeg stana.
+
+00:22:44.54,00:22:49.75
+To smrdi. -Novi preparat[br]ne zaudara. -Dobro.
+
+00:23:03.85,00:23:06.14
+Samo æu raditi kuhinju.
+
+00:23:34.21,00:23:36.58
+Promet kao na stanici.
+
+00:23:49.10,00:23:51.39
+Èovek za dezinsekciju.
+
+00:24:19.00,00:24:20.96
+To bi bilo dovoljno.[br]-Da.
+
+00:24:29.55,00:24:31.68
+Jesi li dobro?[br]-Šta se desilo?
+
+00:24:31.89,00:24:34.43
+Krenula sam,[br]kad je onaj tip naišao.
+
+00:24:34.64,00:24:37.56
+Bilo je u redu?[br]-I da i ne. Prepoznala si ga?
+
+00:24:37.77,00:24:41.65
+Videla sam ga s leða.[br]Izašao je preko hodnika.
+
+00:24:41.86,00:24:45.32
+Nisam ga dobro video,[br]ali on je mene gledao.
+
+00:24:45.53,00:24:48.45
+Nisam našao prozor,[br]ali sam uzeo kljuèeve.
+
+00:24:48.65,00:24:52.45
+Lukavo.[br]-Da, ako otvore bravu.
+
+00:25:10.55,00:25:15.39
+Pa, šta je sad?[br]-Jesi li za dalje?
+
+00:25:15.60,00:25:22.98
+Pa, ovo sam zabrljala.[br]-Nisi. Duguješ uslugu.
+
+00:25:28.73,00:25:31.49
+Ušunjaæu se veèeras.
+
+00:25:32.74,00:25:39.12
+Petak je. Imaš li sudar?[br]-Da, imam.
+
+00:25:46.79,00:25:49.84
+Dakle, onda otpada.
+
+00:26:02.56,00:26:05.06
+Zaista želiš da uèiniš to?
+
+00:26:05.23,00:26:09.73
+Neæu tebe da mešam.[br]Hoæu... ali, ako zabrljam...
+
+00:26:09.94,00:26:13.40
+Rekla si da su možda umešani[br]u ubistvo.
+
+00:26:18.32,00:26:21.49
+Dobro... reæi æu Majku[br]da sam bolesna.
+
+00:26:22.62,00:26:25.87
+Samo, da se razumemo...
+
+00:26:26.16,00:26:28.12
+Ja volim Majka.
+
+00:26:30.50,00:26:33.34
+Šta želiš da uradim?
+
+00:26:35.67,00:26:39.13
+Pa, prvo æemo dobro[br]da veèeramo.
+
+00:26:39.34,00:26:42.47
+Saznaj gde peva Doroti Valens.[br]-To veæ znam.
+
+00:26:42.64,00:26:46.64
+Slou klub na autoputu 7.[br]-Sjajno. Èekam te u 8.
+
+00:26:46.89,00:26:50.23
+Nemoj da dolaziš po mene,[br]da tata ne posumnja.
+
+00:26:50.40,00:26:54.23
+Biæu u 8 pred tvojom kuæom.[br]Važi? -Važi.
+
+00:26:54.44,00:26:57.24
+Izaði, da nas neko ne vidi.
+
+00:27:04.99,00:27:07.33
+Videæemo se!
+
+00:27:34.44,00:27:38.69
+Za zanimljivo iskustvo.[br]-Nazdraviæu tome.
+
+00:27:45.32,00:27:48.66
+Baš volim pivo Hajneken.[br]Da li se tebi sviða?
+
+00:27:48.87,00:27:53.21
+Nikad ga nisam pila.[br]-Nikad nisi pila Hajneken?
+
+00:27:53.37,00:27:55.75
+Tata pije Badvajzer.
+
+00:27:56.67,00:27:58.42
+Kralj piva!
+
+00:27:58.92,00:28:04.63
+Dame i gospodo,[br]dama u plavom, g-ðica Valens.
+
+00:28:22.03,00:28:30.83
+NOSILA JE... NOSILA... JE...
+
+00:28:31.37,00:28:37.58
+PLAVI SOMOT.
+
+00:28:39.33,00:28:46.26
+PLAVLJA OD SOMOTA[br]BILA JE NOÆ...
+
+00:28:46.72,00:28:57.14
+A SVETLOST ZVEZDA[br]MEKŠA OD SATENA...
+
+00:29:00.69,00:29:09.49
+NOSILA JE PLAVI SOMOT...
+
+00:29:10.57,00:29:18.00
+PLAVLJE OD SOMOTA[br]BEHU NJENE OÈI...
+
+00:29:21.58,00:29:28.13
+OH... TAKO PLAVE...
+
+00:29:29.63,00:29:41.10
+USAMLJENA POPUT[br]PLAVE ZVEZDE...
+
+00:30:06.21,00:30:09.59
+Džefri, to ne bi trebalo da radiš.[br]-Zašto da ne?
+
+00:30:10.00,00:30:14.17
+Jer je suludo... i opasno.
+
+00:30:15.38,00:30:18.64
+Nije trebalo da ti kažem.[br]-Ne brini za mene.
+
+00:30:18.76,00:30:21.31
+Ipak, treba da odeš kuæi.
+
+00:30:21.47,00:30:26.35
+Umeš da voziš ova kola?[br]-Da, ali... -Uzeæu ih.
+
+00:30:27.73,00:30:32.11
+Dobro...[br]-Sutra æu ti reæi kako je bilo.
+
+00:30:33.19,00:30:40.41
+Sutra se neæemo videti.[br]Dolazi Majk. -Zvaæu te.
+
+00:30:41.74,00:30:47.12
+Da, zovi.[br]Nadam se da æeš se izvuæi.
+
+00:30:50.88,00:30:54.00
+Saèekaæu da ona doðe.[br]-Sendi...
+
+00:30:54.25,00:31:04.43
+Sviraæu èetiri puta[br]da znaš da dolazi. -Važi.
+
+00:31:07.93,00:31:11.35
+Ne znam da li si detektiv[br]ili perverznjak.
+
+00:31:12.65,00:31:16.61
+To ja znam,[br]a ti treba da saznaš.
+
+00:31:30.54,00:31:32.37
+Videæemo se.
+
+00:33:56.14,00:33:57.10
+Hajneken.
+
+00:34:22.79,00:34:24.21
+Jedan... dva...
+
+00:34:24.41,00:34:26.88
+Nadam se da si dobro, Džefri.
+
+00:34:44.18,00:34:49.69
+Hvala, Džimi. Do viðenja.[br]-Laku noæ. -Laku noæ.
+
+00:35:16.46,00:35:22.22
+Halo? Da, gospodine.[br]Frenk, daj mi ga.
+
+00:35:22.43,00:35:25.47
+Molim, Frenk, gospodine.
+
+00:35:27.93,00:35:30.73
+Volim da pevam PLAVI SOMOT.
+
+00:35:31.65,00:35:38.65
+Done? U redu je, ne brini.[br]Done, èuješ li me?
+
+00:35:38.90,00:35:41.40
+Da li je mali Doni dobro?
+
+00:35:42.32,00:35:44.78
+Je li on tu s tobom?
+
+00:35:46.37,00:35:47.83
+Done?
+
+00:35:50.87,00:35:53.67
+Misliš na Zelenom putu?
+
+00:35:53.88,00:35:55.88
+Frenk... Šta je s njim?!
+
+00:35:58.59,00:36:01.34
+Znam. Biæu zlatna.
+
+00:36:03.55,00:36:05.51
+Mamica te voli...
+
+00:36:07.76,00:36:11.35
+U redu, Frenk... gospodine.
+
+00:38:18.89,00:38:20.89
+Napolje odavde. Napolje.
+
+00:38:21.06,00:38:24.02
+Ruke uvis. Iznad glave. Hajde.
+
+00:38:24.56,00:38:29.02
+Na kolena. Hajde.[br]Šta to radiš?
+
+00:38:29.44,00:38:32.49
+Ko si? Kako se zoveš?[br]Kako se zoveš?
+
+00:38:32.65,00:38:35.91
+Džefri. -Džefri kako?[br]-Džefri nikako.
+
+00:38:38.03,00:38:40.54
+Daj mi novèanik! Daj!
+
+00:38:47.63,00:38:51.55
+Džefri Bomon. Šta radiš[br]u mom stanu, Džefri Bomon?
+
+00:38:52.25,00:38:55.63
+Želeo sam da vas vidim.[br]-Šališ se?
+
+00:38:55.84,00:39:00.01
+Ko te šalje? -Niko.[br]-Znam te od ranije.
+
+00:39:00.47,00:39:05.06
+Dezinsekcija. Uzeo sam kljuè[br]da bih vas video.
+
+00:39:05.93,00:39:09.65
+Šta si tražio? Veèeras. Kaži.
+
+00:39:10.15,00:39:12.65
+Ušli ste... telefonirali...
+
+00:39:12.82,00:39:15.94
+I šta još?[br]-Svukli ste se.
+
+00:39:17.86,00:39:21.12
+Uvlaèiš se u stanove[br]da vidiš svlaèenje?
+
+00:39:21.78,00:39:27.12
+Ne, nikad ranije.[br]-Svlaèi se. Da te vidim.
+
+00:39:27.37,00:39:32.17
+Izvinite. Pustite me.[br]-Ne! Hoæu da se svuèeš!
+
+00:39:49.73,00:39:51.39
+Ustaj.
+
+00:40:05.95,00:40:07.74
+Doði bliže.
+
+00:40:16.92,00:40:18.30
+Bliže.
+
+00:40:27.89,00:40:29.76
+Šta želiš?
+
+00:40:32.18,00:40:33.64
+Ne znam.
+
+00:40:46.66,00:40:50.45
+Ne mièi se. Ne gledaj me.
+
+00:41:02.80,00:41:05.97
+Sviða ti se to?[br]-Da.
+
+00:41:06.97,00:41:09.72
+Ne dodiruj me... ili æu te ubiti.
+
+00:41:11.81,00:41:15.52
+Voliš takav razgovor?[br]-Ne.
+
+00:41:18.60,00:41:20.90
+Doði ovamo na kauè.
+
+00:41:26.65,00:41:28.40
+Lezi.
+
+00:41:46.80,00:41:49.55
+Ni reèi. Vrati se u plakar.
+
+00:41:49.72,00:41:52.64
+Ni reè, ili æu te ubiti.
+
+00:42:24.79,00:42:26.75
+Æao, luèe.[br]-Zaèepi!
+
+00:42:27.09,00:42:29.92
+Ovo je tatica, seronjo![br]Gde je moj viski?
+
+00:42:33.55,00:42:36.68
+Zar se nièega ne setiš?
+
+00:42:50.69,00:42:52.40
+Sad je mrak.
+
+00:43:00.28,00:43:01.83
+Raširi noge.
+
+00:43:13.21,00:43:14.55
+Šire.
+
+00:43:17.38,00:43:19.39
+Sad mi je pokaži.
+
+00:43:39.82,00:43:41.95
+Ne gledaj u mene.
+
+00:44:10.89,00:44:12.27
+Mamice...
+
+00:44:20.36,00:44:22.99
+Mamice, mamice...
+
+00:44:24.66,00:44:27.87
+Mamice.[br]-Mamica te voli, Frenk.
+
+00:44:28.04,00:44:30.54
+Bebica bi da ševi.
+
+00:44:33.42,00:44:38.13
+U redu, spremi se za tucanje![br]Ti tuculjo... Tuculjo...
+
+00:44:39.59,00:44:43.80
+Ne gledaj me, da ti...
+
+00:44:59.23,00:45:02.07
+Bebica bi plavi somot.
+
+00:45:24.96,00:45:28.72
+Ne gledaj me.[br]Ne gledaj, kad ti kažem.
+
+00:45:33.26,00:45:36.73
+Dobro je. Evo tatice...
+
+00:45:39.65,00:45:41.48
+Evo tatice...
+
+00:45:43.94,00:45:46.03
+Ne gledaj me, da te...
+
+00:45:49.28,00:45:51.03
+Tatica je kod kuæe.
+
+00:45:54.79,00:45:57.20
+Tatica dolazi kuæi.
+
+00:45:59.29,00:46:02.00
+Ja dolazim kuæi.
+
+00:46:28.19,00:46:30.28
+Ne gledaj me, da te...
+
+00:46:31.57,00:46:35.45
+Ne gledaj me, tuculjo!
+
+00:46:54.05,00:46:55.84
+Sada je mrak.
+
+00:47:09.06,00:47:11.02
+Samo tako, bebice.
+
+00:47:13.07,00:47:15.82
+Uèini to za Van Goga.
+
+00:47:50.02,00:47:52.61
+Zašto ne legnete?
+
+00:47:54.90,00:47:56.65
+Doðite, pomoæi æu vam.
+
+00:48:04.91,00:48:09.71
+To mi se ne sviða. Šta želiš?[br]-Ništa.
+
+00:48:11.79,00:48:13.88
+Jeste li dobro?
+
+00:48:18.38,00:48:19.76
+Da, dobro sam.
+
+00:48:21.47,00:48:24.35
+Dobro sam.[br]-Odoh ja.
+
+00:48:26.39,00:48:29.23
+Done? Oh, Done?[br]-Ne.
+
+00:48:29.93,00:48:36.40
+Done, zagrli me.[br]Plašim se. Plašim.
+
+00:48:38.03,00:48:41.82
+Plašim se.[br]-U redu je...
+
+00:48:42.86,00:48:48.99
+Done? Jesi li se vratio?
+
+00:48:59.30,00:49:01.55
+Da li ti se sviðam?
+
+00:49:05.30,00:49:09.85
+Da li ti se sviðam?[br]-Sviðate mi se.
+
+00:49:16.69,00:49:20.69
+Sviðaju ti se moja oseæanja?[br]-Da.
+
+00:49:28.41,00:49:30.49
+Pogledaj moje grudi.
+
+00:49:33.24,00:49:34.79
+Pipni ih.
+
+00:49:38.42,00:49:42.34
+Moja bradavica...[br]ukrutila se...
+
+00:49:43.76,00:49:45.21
+Pipni je.
+
+00:49:51.39,00:49:53.60
+Možeš da je pipneš.
+
+00:49:55.39,00:50:00.31
+Sviða ti se šta oseæam?[br]-Da.
+
+00:50:03.15,00:50:04.73
+Pipni me.
+
+00:50:09.95,00:50:11.49
+Udari me.
+
+00:50:13.45,00:50:15.04
+Nemojte. Prestanite.
+
+00:50:15.49,00:50:19.46
+Udari me! Udari me! Udari!
+
+00:50:58.54,00:51:00.37
+Sada odlazim.
+
+00:51:02.37,00:51:07.00
+Nemoj... nemoj...
+
+00:51:10.21,00:51:11.88
+Pomozi mi.
+
+00:51:36.15,00:51:44.70
+Bože moj. Udata je.[br]Do ðavola.
+
+00:51:54.63,00:51:56.30
+Pomozi mi.
+
+00:52:40.09,00:52:44.51
+Sad je mrak.[br]-Udari me, udari.
+
+00:52:53.81,00:52:55.65
+Sto mu gromova.
+
+00:53:01.69,00:53:04.49
+Sendi, možemo li da prièamo?[br]-Majk je tu.
+
+00:53:04.70,00:53:07.16
+Dobro, razgovaraæemo kasnije.
+
+00:53:07.37,00:53:11.29
+Pa, kako je bilo?[br]-U redu. Prièaæu ti.
+
+00:53:11.50,00:53:13.08
+Dolazim po tebe u osam.
+
+00:53:13.33,00:53:22.34
+Nova sekira, 48721.[br]-22,95.
+
+00:53:24.63,00:53:27.47
+Videæemo se.[br]-Važi.
+
+00:54:07.59,00:54:09.22
+Dakle?
+
+00:54:09.63,00:54:13.06
+Zar neæeš da mi prièaš?
+
+00:54:13.64,00:54:15.77
+U redu.
+
+00:54:20.23,00:54:23.02
+Svet je èudan, Sendi.
+
+00:54:27.90,00:54:31.66
+Doroti Valens je udata[br]za nekog Dona.
+
+00:54:32.41,00:54:33.99
+Imaju sina.
+
+00:54:36.29,00:54:40.16
+Mislim da je sina i muža[br]oteo izvesni Frenk.
+
+00:54:40.79,00:54:45.59
+Frenk je to uèinio[br]kako bi pokorio Doroti.
+
+00:54:46.38,00:54:48.55
+Mislim da ona želi da umre.
+
+00:54:50.97,00:54:54.30
+Mislim da je Frenk[br]odsekao uvo njenom mužu...
+
+00:54:58.47,00:55:00.39
+Frenk je...
+
+00:55:02.98,00:55:05.15
+veoma opasan èovek.
+
+00:55:06.73,00:55:11.99
+Gospode.[br]Da kažem to mom ocu?
+
+00:55:12.32,00:55:14.20
+Ne, to ne mogu.
+
+00:55:14.86,00:55:19.54
+Nemam dokaza.[br]Sve sam to ilegalno saznao.
+
+00:55:19.79,00:55:22.54
+Mogu da imam neprilika.
+
+00:55:23.71,00:55:26.08
+Sve si to video za jednu noæ?
+
+00:55:29.59,00:55:31.67
+Èudan je svet.
+
+00:55:38.43,00:55:44.56
+Zašto postoje ljudi poput Frenka?[br]Èemu te nevolje?
+
+00:55:45.52,00:55:47.31
+Ne znam.
+
+00:55:53.03,00:55:55.61
+Sanjala sam nešto.
+
+00:55:58.99,00:56:01.87
+One noæi kad sam te srela.
+
+00:56:08.50,00:56:16.47
+U snu je naš svet bio mraèan,[br]bez crvendaæa.
+
+00:56:16.67,00:56:20.72
+Crvendaæi znaèe ljubav.
+
+00:56:22.93,00:56:28.19
+Uglavnom je bio samo mrak.
+
+00:56:29.02,00:56:37.82
+Onda je osloboðeno[br]na stotine crvendaæa.
+
+00:56:38.11,00:56:43.20
+Poleteli su[br]i doneli svetlost ljubavi.
+
+00:56:43.49,00:56:45.37
+I kao da je ta ljubav...
+
+00:56:45.70,00:56:49.54
+jedina stvar koja je bitna...
+
+00:56:49.87,00:56:52.38
+i tako je i bilo.
+
+00:57:00.17,00:57:02.38
+Mislim da to znaèi...
+
+00:57:04.05,00:57:07.89
+da ima nevolja[br]dok ne doðu crvendaæi.
+
+00:57:09.47,00:57:15.11
+Ti si fina devojka.[br]-I ti si.
+
+00:57:17.07,00:57:19.23
+Mislim, fin si momak.
+
+00:57:27.12,00:57:33.12
+Bolje da krenemo.[br]-Da, bolje.
+
+00:57:59.98,00:58:04.03
+Zdravo. Mogu li da uðem?[br]-Da.
+
+00:58:07.36,00:58:08.61
+Požuri.
+
+00:58:16.62,00:58:19.17
+Jesi li dobro?
+
+00:58:19.33,00:58:21.04
+Ne, nisam.
+
+00:58:22.59,00:58:29.51
+Zašto si ovde? Šta želiš?[br]-Ne znam.
+
+00:58:29.63,00:58:32.43
+Sinoæ sam te tražila u plakaru.
+
+00:58:34.76,00:58:36.93
+To je suludo, znaš.
+
+00:58:37.10,00:58:41.90
+Ne znam odakle dolaziš,[br]ali mi se dopadaš.
+
+00:58:42.77,00:58:47.78
+Nije suludo.[br]I ti se meni dopadaš.
+
+00:58:51.11,00:58:56.74
+Bilo mi je lepo s tobom.[br]-Meni takoðe.
+
+00:59:01.08,00:59:04.83
+Molim te, budi sa mnom.[br]Budi sa mnom.
+
+00:59:09.38,00:59:14.43
+...K`O PLAMEN[br]ŠTO JASNO GORI...
+
+00:59:15.18,00:59:22.77
+AL` KAD JE OTIŠLA,[br]SJAJ JE NESTAO...
+
+00:59:25.35,00:59:31.36
+PLAVI SOMOT...
+
+00:59:33.57,00:59:40.08
+ALI U MOM SRCU[br]UVEK ÆE OSTATI...
+
+00:59:40.79,00:59:46.92
+DRAGOCENE, TOPLE USPOMENE...
+
+00:59:48.29,00:59:52.05
+GODINE PROLAZE...
+
+00:59:55.30,01:00:11.65
+A JA JOŠ UVEK VIDIM...[br]PLAVI SOMOT...
+
+01:02:06.13,01:02:08.47
+OVO JE LAMBERTON U S.A.D.
+
+01:02:08.68,01:02:11.51
+NA ZNAK STABLA KOJE PADA
+
+01:02:12.14,01:02:13.77
+BIÆE 1:30.
+
+01:02:13.98,01:02:15.81
+OVO JE MOÆNI GLAS[br]LAMBERTONA,
+
+01:02:16.06,01:02:19.31
+GRADA DRVOSEÈA...
+
+01:02:31.49,01:02:32.83
+Nastavi.
+
+01:02:40.00,01:02:45.00
+Sjajno. Zakasnio si.[br]-Izvini.
+
+01:02:45.88,01:02:49.34
+Šta sad da radim?[br]-Hoæeš da razgovaraš s njim?
+
+01:02:49.59,01:02:50.93
+Da, ali...
+
+01:02:51.18,01:02:52.97
+mislim da neæe pomoæi...
+
+01:02:53.47,01:02:56.31
+Idemo. Pokušaæu kasnije[br]da razgovaram s njim.
+
+01:03:05.44,01:03:10.03
+Vidiš li taj sat na zidu?[br]-Da.
+
+01:03:11.49,01:03:15.20
+Kroz 5 minuta[br]ništa neæeš da mi veruješ.
+
+01:03:20.25,01:03:21.96
+Pod jedan...
+
+01:03:23.21,01:03:27.05
+danas sam uhodio[br]Frenkovu kuæu kamerom.
+
+01:03:27.30,01:03:29.80
+Još jedan èovek je[br]u sve to umešan.
+
+01:03:30.09,01:03:32.67
+Nazvaæu ga Žuæa.
+
+01:03:33.22,01:03:36.60
+Onomad si ga videla[br]u Dorotinom stanu.
+
+01:03:36.85,01:03:40.22
+Danas sam video Žuæu[br]kako nasmejan ulazi
+
+01:03:40.43,01:03:42.81
+u Frenkovu zgradu.
+
+01:03:43.02,01:03:47.36
+Šta sve to dokazuje?[br]-Zapravo, ništa.
+
+01:03:48.32,01:03:49.82
+Ali, zanimljivo je.
+
+01:03:51.90,01:03:53.78
+Pod dva.
+
+01:03:54.32,01:03:58.37
+Video sam Žuæu[br]sa dobro odevenim èovekom,
+
+01:03:58.53,01:04:01.49
+koji nosi torbu od krokodila.
+
+01:04:14.84,01:04:18.72
+Ušli su u fabrièku zgradu[br]u predgraðu i zastali...
+
+01:04:18.93,01:04:20.97
+gledali su u daljinu.
+
+01:04:23.72,01:04:28.56
+Zamisli, u tom pravcu[br]dogodilo se ubistvo.
+
+01:04:28.94,01:04:33.03
+Diler droge je ubijen,[br]a ženi polomljene noge.
+
+01:04:37.65,01:04:43.37
+Ova dvojica kažu da u stanu[br]ubijenog ima puno droge.
+
+01:04:43.58,01:04:46.04
+Neverovatno šta si sve otkrio.
+
+01:04:48.08,01:04:52.17
+Hoæeš li da nastaviš?[br]-Da.
+
+01:04:54.21,01:04:59.01
+Dokle? Šta æeš s tim?[br]-Ne znam.
+
+01:05:01.39,01:05:06.02
+Neæeš valja opet u njen stan?[br]-Hoæu.
+
+01:05:07.98,01:05:09.98
+Džefri, zašto?
+
+01:05:12.85,01:05:17.36
+Vidim nešto što je bilo skriveno.
+
+01:05:18.15,01:05:22.28
+Nalazim se[br]u samom centru misterije.
+
+01:05:22.45,01:05:24.78
+I sve je tajno.
+
+01:05:25.70,01:05:29.95
+Toliko voliš misterije?[br]-Da.
+
+01:05:33.12,01:05:40.84
+Ti si misterija.[br]Veoma si mi draga.
+
+01:06:00.65,01:06:04.11
+Džefri, nemoj... molim te.
+
+01:06:12.04,01:06:14.87
+Zaista brineš za mene?
+
+01:06:16.58,01:06:18.63
+Zar te to èudi?
+
+01:06:19.59,01:06:22.63
+Da, puno brinem.
+
+01:06:24.51,01:06:26.88
+Ja sam te u ovo uvukla.
+
+01:07:36.28,01:07:38.95
+Doði u moju spavaæu sobu.
+
+01:07:55.39,01:07:57.26
+Šta hoæeš da radiš?
+
+01:07:57.64,01:07:59.10
+Veæ to radim.
+
+01:07:59.97,01:08:01.85
+Jesi li nevaljali deèko?
+
+01:08:02.81,01:08:07.23
+Kako to misliš?[br]-Hoæeš da radiš nevaljale stvari?
+
+01:08:08.06,01:08:11.65
+Bilo šta. Bilo šta.
+
+01:08:14.28,01:08:16.03
+Šta ti želiš?
+
+01:08:17.03,01:08:19.70
+Da mi nanosiš bol.[br]-Ne!
+
+01:08:20.41,01:08:23.45
+Ne želim da ti nanosim bol,[br]veæ da ti pomognem.
+
+01:08:23.66,01:08:26.58
+Doroti, znam nešto[br]od onog što se zbiva.
+
+01:08:26.79,01:08:30.04
+Frenk drži tvog muža[br]i tvog sina, zar ne?
+
+01:08:30.54,01:08:33.26
+Moraš nešto da uèiniš.[br]Poði u policiju.
+
+01:08:35.38,01:08:39.05
+Ne u policiju! Ne!
+
+01:08:40.35,01:08:43.02
+Udari me.[br]-Ne, ne!
+
+01:08:43.52,01:08:46.94
+Odlazi iz mog kreveta![br]Dalje odavde!
+
+01:09:14.75,01:09:17.05
+Sad je tvoja bolest u meni.
+
+01:09:42.36,01:09:44.49
+To me je zasmejavalo.
+
+01:09:45.91,01:09:47.58
+Žao mi je, Doroti.
+
+01:09:50.16,01:09:53.62
+Treba da odem.[br]-Pretpostavljam.
+
+01:09:59.42,01:10:01.59
+Misliš da sam luda, zar ne?
+
+01:10:02.55,01:10:08.26
+Ostani. Nemoj da me mrziš.[br]-Svakako te ne mrzim.
+
+01:10:08.97,01:10:10.60
+Nisam luda.
+
+01:10:11.60,01:10:14.69
+Znam šta je dobro, a šta zlo.
+
+01:10:15.27,01:10:16.81
+Dobro.
+
+01:10:19.07,01:10:21.07
+Ti si mi izuzetan prijatelj.
+
+01:10:24.86,01:10:27.07
+Još si u meni.
+
+01:10:28.45,01:10:30.03
+To mi pomaže.
+
+01:10:31.20,01:10:32.79
+Potreban si mi.
+
+01:10:34.79,01:10:37.50
+Pozvaæu te.[br]-Dobro.
+
+01:10:38.96,01:10:41.38
+Uskoro?[br]-Da.
+
+01:10:43.84,01:10:47.43
+Lažeš li me?[br]-Ne.
+
+01:10:47.59,01:10:49.30
+Sigurno?[br]-Hej!
+
+01:10:52.14,01:10:56.64
+Æao, mili.[br]-Ko je taj kulov?
+
+01:10:57.27,01:11:00.44
+Prijatelj. Iz susedstva.
+
+01:11:01.31,01:11:02.90
+Razgovarali smo.
+
+01:11:06.32,01:11:10.11
+Iz susedstva si?[br]-Da.
+
+01:11:10.74,01:11:12.28
+Ti si sused?
+
+01:11:14.16,01:11:17.29
+Kako se zoveš, susede?[br]-Džefri.
+
+01:11:18.37,01:11:20.79
+On je dobar deèko, Frenk.
+
+01:11:21.33,01:11:23.84
+Æuti, droljo.
+
+01:11:27.13,01:11:30.18
+Hoæeš da se provozaš?[br]-Ne, hvala.
+
+01:11:31.26,01:11:33.85
+Ne, hvala? Šta to znaèi?
+
+01:11:34.39,01:11:37.60
+Neæu da idem. -Kuda?[br]-Da se provozam.
+
+01:11:37.85,01:11:43.23
+Da se provozaš?[br]Dobra ideja. Idemo.
+
+01:11:46.77,01:11:50.99
+Idemo! Ne drkaj, hajde.[br]Rajmonde.
+
+01:11:51.32,01:11:54.87
+Hajde, idemo da se[br]veselo provozamo. -Veselo?
+
+01:12:08.50,01:12:10.67
+Dakle, kuda bi da idemo?
+
+01:12:12.01,01:12:17.22
+Znam. Idemo kod Bena.[br]-Posetiæemo Bena.
+
+01:12:18.14,01:12:23.31
+Treba, treba, treba...[br]-Možda nas sve ubije.
+
+01:12:26.35,01:12:30.73
+On je pizda, Frenk.[br]-On je pizda. -Naša pizda.
+
+01:12:30.94,01:12:33.94
+Zar ne, momci?[br]-Picoraj!
+
+01:12:34.19,01:12:36.91
+Jesi li bio u Picoraju?
+
+01:12:37.41,01:12:42.33
+Ne, ne. -Šta reèe?[br]-Ne, nije bio tamo.
+
+01:12:44.91,01:12:47.92
+Policija... 81585...
+
+01:12:48.13,01:12:49.96
+Policijski razgovori.
+
+01:12:51.38,01:12:54.05
+To... je... ono...
+
+01:12:56.13,01:12:58.72
+Rejmonde?
+
+01:12:59.34,01:13:00.89
+Hvala, Rejmonde.
+
+01:13:09.23,01:13:11.11
+Frenk je stigao.
+
+01:13:14.03,01:13:15.61
+Doði.
+
+01:13:16.32,01:13:20.99
+Upoznaæeš moje prijatelje.[br]Ima li dosta piva?
+
+01:13:21.82,01:13:24.87
+Koje pivo voliš?[br]-Hajneken.
+
+01:13:25.08,01:13:29.08
+Koješta! Tabstovo!
+
+01:13:33.84,01:13:36.42
+Doveo sam prijatelje.[br]Doneo sam pivo.
+
+01:13:36.55,01:13:38.51
+Kako si, Frenk?
+
+01:13:48.64,01:13:51.81
+Iznenadio si me.[br]Doveo si prijatelje.
+
+01:13:53.19,01:13:56.11
+Volim iznenaðenja.[br]Izvoli, sedi.
+
+01:13:57.57,01:14:02.49
+Baš fino.[br]Fini si ti drkadžija.
+
+01:14:04.07,01:14:08.49
+Hoæeš pivo?[br]-Naravno, Frenk. Darling?
+
+01:14:11.54,01:14:17.29
+Darling, donesi èaše[br]da zajedno pijemo pivo.
+
+01:14:17.75,01:14:20.13
+Sedite, molim vas.
+
+01:14:22.34,01:14:28.35
+Ne seri. kako si?[br]-Sjajno. A kako si ti?
+
+01:14:28.55,01:14:32.23
+Da ga jebeš, dobro sam.
+
+01:14:32.85,01:14:35.23
+Danas jesi...
+
+01:14:37.02,01:14:38.81
+sutra nisi.
+
+01:14:45.32,01:14:47.32
+Mene to ne plaši.
+
+01:14:52.16,01:14:55.66
+Ja sam Pol, a ti?[br]-Džefri.
+
+01:15:07.55,01:15:09.34
+Gde su èaše?
+
+01:15:09.55,01:15:15.10
+Zagrejaæe se pivo,[br]a toplo pivo me nervira.
+
+01:15:15.27,01:15:18.14
+Dobro je.[br]Darling, gde su èaše?
+
+01:15:18.85,01:15:23.57
+Frenk, stižu èaše. Evo èaša.
+
+01:15:23.82,01:15:26.78
+Rejmonde, gde je to jebeno pivo?
+
+01:15:27.28,01:15:29.28
+Tu je, Frenk.
+
+01:15:30.78,01:15:34.08
+Hoæeš da ga sipam?[br]-Hoæu da ga tucaš.
+
+01:15:34.24,01:15:37.12
+Sipaj to posrano pivo.
+
+01:15:44.46,01:15:47.42
+Hvala.[br]-Pijmo.
+
+01:15:47.63,01:15:50.88
+U tvoje zdravlje, Frenk.[br]-Pijmo za nešto drugo.
+
+01:15:52.43,01:15:54.39
+Pijmo za tucanje.
+
+01:15:56.89,01:15:59.77
+Nazdravi mi za tucanje.
+
+01:15:59.98,01:16:05.11
+Ako baš hoæeš.[br]Za tvoje tucanje! Nazdravlje!
+
+01:16:06.90,01:16:13.82
+Nazdravlje. To je fino.[br]Jebeš ga što si fin.
+
+01:16:16.49,01:16:20.79
+Volimo Bena. -Volimo Bena.[br]-Za Bena!
+
+01:16:25.71,01:16:27.04
+Za Bena!
+
+01:16:29.09,01:16:31.34
+Za Bena![br]-Budi uètiv.
+
+01:16:33.26,01:16:34.80
+Za Bena!
+
+01:16:37.89,01:16:40.60
+Vidiš li, Bene?
+
+01:16:41.43,01:16:45.52
+Teram ga da radi štogod hoæu.
+
+01:16:50.32,01:16:54.15
+Hvala za zdravicu.[br]Baš lepo, susede.
+
+01:16:54.78,01:16:57.36
+On ti je povredio lice?
+
+01:17:01.03,01:17:03.33
+Je li sad bolje?
+
+01:17:06.00,01:17:08.67
+Frenk, imam nešto za tebe.
+
+01:17:09.46,01:17:14.96
+Izvinite nas za trenutak.[br]-Izvinite, moliæu lepo.
+
+01:17:15.42,01:17:18.01
+Rejmonde, budi Bejbisiter.
+
+01:17:24.68,01:17:27.14
+Ja sam Pol.
+
+01:17:44.41,01:17:49.25
+Gordon je otišao usred bela dana.[br]Èovek i po.
+
+01:17:49.41,01:17:53.50
+Uzeo je svu drogu.[br]Bilo je vraški divno.
+
+01:17:53.71,01:17:58.71
+Klovn sladak ko bombona,[br]zvani Sendmen!
+
+01:18:00.84,01:18:04.76
+Neka Sisata vidi svoje dete.
+
+01:18:17.61,01:18:21.61
+Klovn sladak ko bombona,[br]zvani Sendmen.
+
+01:18:21.78,01:18:23.57
+Doni! Doni!
+
+01:18:25.11,01:18:34.08
+Ne, Doni. Mama te voli.[br]Ne... ne...
+
+01:20:14.39,01:20:16.26
+Sve je u redu.
+
+01:20:16.51,01:20:19.68
+Jebi ga, pa da krenemo.[br]Provozaæemo suseda.
+
+01:20:21.14,01:20:26.27
+Hoæe li iko da se provoza s nama?[br]Hoæeš ti?
+
+01:20:30.19,01:20:32.70
+Nema smeška za Frenka?
+
+01:20:35.20,01:20:37.95
+Dobro, jebi ga. Idemo.
+
+01:20:38.03,01:20:39.41
+Hoæeš s Rajmondom? Idemo.
+
+01:20:46.25,01:20:50.21
+Videæemo se u utorak, Frenk.[br]-U redu, Bene.
+
+01:20:53.05,01:20:54.76
+Sada je mrak.
+
+01:20:58.26,01:21:04.10
+Hajde da se tucamo![br]Pojebaæu sve što se kreæe!
+
+01:21:22.08,01:21:27.21
+Kuda æemo, Frenk?[br]-Vodim tvog suseda u prirodu.
+
+01:21:29.33,01:21:32.75
+Voliš li da pešaèiš?[br]Pitam tebe, govnaru?
+
+01:21:32.92,01:21:36.17
+Šta?[br]-Rekao je 'šta'?
+
+01:21:38.47,01:21:39.84
+Šta.
+
+01:21:46.77,01:21:49.27
+Kakve veze ima taj kulov[br]sa bilo èime?
+
+01:21:49.64,01:21:51.10
+Prokletstvo!
+
+01:21:59.07,01:22:02.91
+Drkadžijo! Šta gledaš?
+
+01:22:04.07,01:22:05.24
+Ništa.
+
+01:22:05.95,01:22:07.95
+Ne gledaj me, drkadžijo!
+
+01:22:09.71,01:22:12.67
+Pucam kad vidim beonjaèu.
+
+01:22:35.77,01:22:37.82
+Ti si nalik na mene.
+
+01:22:43.82,01:22:48.03
+Pogledajmo ih.[br]Šta je sad to?
+
+01:22:48.45,01:22:52.16
+Frenk, molim te... idemo...[br]-Ne govori 'molim', govno.
+
+01:22:55.33,01:22:59.13
+Bebica bi želela da ih štrpne.
+
+01:23:01.17,01:23:04.59
+Šta je sad? Vrati mi ih.
+
+01:23:05.05,01:23:10.60
+Daj mi ih... da ih osetim...[br]Doði ovamo...
+
+01:23:10.76,01:23:12.27
+Ostavi je na miru!
+
+01:23:20.82,01:23:22.15
+Prokletstvo.
+
+01:23:22.40,01:23:25.03
+Sledeæi.[br]Napolje iz kola, drkadžijo!
+
+01:23:26.11,01:23:28.28
+Izvuci ga iz kola, Rejmonde!
+
+01:23:30.37,01:23:32.28
+Frenk, nije on ništa mislio.[br]-Umukni!
+
+01:23:48.93,01:23:52.14
+Lepo, lepo, lepo...
+
+01:23:55.64,01:23:59.94
+Frenk, ostavi ga na miru![br]Frenk... Frenk...
+
+01:24:04.44,01:24:05.90
+Pole...
+
+01:24:06.15,01:24:08.19
+Klovn ko bombona.
+
+01:24:10.90,01:24:13.03
+Budi sreæan što si živ.
+
+01:24:17.45,01:24:19.20
+Pogledaj me.
+
+01:24:26.63,01:24:29.63
+Klovn ko bombona.
+
+01:24:38.85,01:24:41.98
+Ne budi joj dobar sused...
+
+01:24:42.89,01:24:46.06
+da ti ne pošaljem ljubavno pismo.
+
+01:24:46.27,01:24:48.98
+Pravo iz mog srca, drkadžijo.
+
+01:24:49.78,01:24:52.28
+Znaš šta je ljubavno pismo?
+
+01:24:52.53,01:24:55.78
+To je metak[br]iz mog jebenog pištolja.
+
+01:24:56.66,01:25:01.29
+Shvataš li, drkadžijo?
+
+01:25:07.71,01:25:10.55
+Poslaæu te pravo u pakao, jebaèu.
+
+01:25:12.71,01:25:17.93
+'U snovima...[br]koraèaæu s tobom.'
+
+01:25:20.43,01:25:24.64
+'U snovima...[br]razgovaraæu s tobom.'
+
+01:25:27.65,01:25:31.40
+'U snovima si moja!'
+
+01:25:33.61,01:25:39.12
+'Svo vreme!'
+
+01:25:40.37,01:25:43.95
+'Zauvek u snovima!'
+
+01:26:12.56,01:26:15.90
+Oseæaš li moje mišiæe?[br]Pipni ih.
+
+01:26:17.03,01:26:18.78
+Sviða ti se to?
+
+01:26:20.57,01:26:22.66
+Držite mi ga èvrsto.
+
+01:26:25.33,01:26:26.99
+Frenk, prestani!
+
+01:26:28.87,01:26:30.71
+Frenk, prestani!
+
+01:26:37.21,01:26:39.59
+Prestani, Frenk!
+
+01:27:44.19,01:27:45.61
+Udari me.
+
+01:28:10.64,01:28:12.89
+Ne, Doni, mama te voli.
+
+01:28:33.37,01:28:36.53
+Džefri, kako to misliš[br]da si sreæan
+
+01:28:36.70,01:28:38.24
+što možeš da me pozoveš?
+
+01:28:38.45,01:28:40.08
+Stvari su izmakle kontroli.
+
+01:28:40.25,01:28:41.96
+Znam neke stvari...
+
+01:28:42.17,01:28:45.63
+koje bi pomogle tvom ocu,[br]ali ti bi imala neprilika.
+
+01:28:45.88,01:28:49.05
+Zaboravi na mene,[br]moraš da mu kažeš.
+
+01:28:49.21,01:28:53.05
+Obeæavam, neæu te pominjati.
+
+01:28:53.26,01:28:56.89
+Džefri, stvarno... nema veze.
+
+01:28:58.10,01:29:01.35
+Dobro. Videæemo se u petak,[br]ako ne i ranije. -Dobro.
+
+01:29:01.60,01:29:03.60
+Zdravo, Sendi.[br]-Do viðenja.
+
+01:29:20.37,01:29:22.41
+Neæu da razgovaram o tome.[br]-Ali...
+
+01:29:22.66,01:29:26.92
+Sve je... sad je u redu.[br]Neæu o tome da govorim.
+
+01:29:27.12,01:29:29.71
+Ponekad je dobro porazgovarati.
+
+01:29:29.92,01:29:33.67
+Na primer, mnogi brakovi su...[br]-Tetka Barbara!
+
+01:29:34.26,01:29:36.84
+Volim te, ali skini mi se.
+
+01:30:08.42,01:30:12.84
+Gordon je pošao k njima[br]usred bela dana...
+
+01:30:13.09,01:30:18.72
+Odneo je svu drogu i...[br]to je bilo divno.
+
+01:30:51.58,01:30:52.83
+Ja æu.
+
+01:30:55.88,01:30:59.13
+Džefri. Uði.[br]-Džefri?
+
+01:31:00.88,01:31:03.59
+Zdrao, Sendi.[br]-Zdravo, Džefri.
+
+01:31:03.97,01:31:06.76
+Moram da razgovaram s vama.[br]-Važi.
+
+01:31:07.43,01:31:10.10
+Menjali su ti lièni opis?[br]-Da.
+
+01:31:10.35,01:31:12.52
+Doði u moju radnu sobu.
+
+01:31:17.19,01:31:20.48
+Reæi æu vam nešto[br]o fotografijama koje imam.
+
+01:31:24.66,01:31:26.37
+Ovo je prva slika.
+
+01:31:28.20,01:31:29.99
+To je Frenk But.
+
+01:31:31.20,01:31:34.46
+Bolestan je i opasan.
+
+01:31:39.92,01:31:44.01
+Ovde Frenk i još jedan èovek[br]ulaze kod Frenka.
+
+01:32:01.40,01:32:05.32
+Onda se taj èovek sreo[br]s treæim èovekom.
+
+01:32:05.69,01:32:08.61
+To je taj na fotografiji.
+
+01:32:13.33,01:32:17.08
+Doroti Valens ima problema[br]s tim ljudima.
+
+01:32:17.83,01:32:22.54
+Frenk je kidnapovao njenog[br]muža i sina. Nemam dokaza.
+
+01:32:25.17,01:32:28.55
+Je li Sendi umešana?[br]-Ne, ne...
+
+01:32:31.76,01:32:37.27
+Ko još zna za te snimke?[br]-Vi i fotograf.
+
+01:32:37.73,01:32:41.31
+Završio si posao?[br]-Jesam.
+
+01:32:45.27,01:32:55.49
+I bolje. Sendi sigurno[br]nije umešana? -Ne.
+
+01:32:55.70,01:32:59.25
+Budi spreman[br]na dodatna ispitivanja.
+
+01:32:59.45,01:33:01.16
+Da, gospodine.
+
+01:33:10.26,01:33:13.18
+Sve je u redu?[br]-Da.
+
+01:33:13.43,01:33:17.30
+Ostaje dogovor za petak?[br]-Nisi rekao za mene? -Ne.
+
+01:33:18.81,01:33:24.56
+Zašto li sam te uvukla u to?
+
+01:33:26.10,01:33:30.94
+Naravno, petak ostaje.[br]-Sjajno. Videæemo se.
+
+01:33:31.11,01:33:34.40
+Laku noæ, detektive Vilijamse.
+
+01:33:38.24,01:33:41.58
+Laku noæ, Sendi.[br]-Laku noæ, Džefri.
+
+01:33:50.50,01:33:57.93
+Šta nije u redu?[br]-Nadam se da je sve u redu.
+
+01:34:55.19,01:34:59.94
+Ovo mi smeta. -Ja æu. Ohmah.[br]-Hvala.
+
+01:35:03.28,01:35:05.91
+Dobro veèe, Džefri. Uði.[br]-Hvala, g-ðo Vilijams.
+
+01:35:06.08,01:35:08.04
+Ona je spremna.[br]-Dobro.
+
+01:35:09.87,01:35:11.46
+Izgledaš sjajno.
+
+01:35:13.46,01:35:15.63
+Detektive Vilijams.[br]-Zdravo, Džefri.
+
+01:35:16.38,01:35:18.25
+Spremna si?[br]-Skoro.
+
+01:35:18.80,01:35:21.13
+Džone, požuri.
+
+01:35:26.97,01:35:28.60
+Samo trenutak, Tome.
+
+01:35:30.27,01:35:31.98
+Polako, Džefri.
+
+01:35:34.02,01:35:38.19
+Èuvaj se.[br]Nemoj da zezneš stvar.
+
+01:35:39.11,01:35:41.69
+Džone, burazeru, hajde.
+
+01:35:42.07,01:35:45.28
+Do viðenja, Džefri,[br]Lepo se provedite.
+
+01:35:46.41,01:35:52.16
+Šta je? -Oèinski savet.[br]-Tako je, Džefri.
+
+01:35:52.75,01:35:55.87
+Hajdemo.[br]-Zbogom, tata.
+
+01:35:56.83,01:36:00.09
+Laku noæ, mama.[br]-Lepo se provedi.
+
+01:36:01.04,01:36:03.46
+Laku noæ, Sendi.[br]-Laku noæ, Tome.
+
+01:36:09.84,01:36:14.14
+Džefri, o èemu je reè?[br]-Nije ništa.
+
+01:36:17.23,01:36:20.15
+Stvarno.
+
+01:36:20.31,01:36:23.32
+Milo mi je što te vidim.[br]-Milo mi je što te vidim.
+
+01:36:28.15,01:36:30.61
+Izgledaš lepo.
+
+01:37:08.65,01:37:10.19
+Odmah se vraæam.
+
+01:37:10.40,01:37:12.45
+Sreðeno je.[br]-Dobro.
+
+01:37:12.61,01:37:14.53
+Želiš nešto da popiješ?
+
+01:37:15.78,01:37:20.04
+Hoæeš da igraš?[br]-Da.
+
+01:38:25.73,01:38:27.39
+Volim te, Džefri.
+
+01:38:31.48,01:38:33.52
+I ja tebe volim.
+
+01:39:13.52,01:39:15.90
+U redu... videæemo se kasnije.
+
+01:39:59.48,01:40:01.69
+Šta se to zbiva?[br]-Šta je?
+
+01:40:04.03,01:40:05.32
+Udariæe nas.
+
+01:40:07.11,01:40:09.16
+Zaboga! Šta je?[br]-To je Frenk.
+
+01:40:17.00,01:40:19.63
+Sklanjaj se. Drži se.
+
+01:40:23.92,01:40:25.84
+Ne mogu da mu pobegnem.
+
+01:40:26.05,01:40:29.93
+Moj tata ima revolver kod kuæe.[br]-Nemoj. -Opasan je.
+
+01:40:35.06,01:40:37.98
+To je Majk, Džefri.[br]To je Majk. Zaboga.
+
+01:40:46.99,01:40:50.20
+Izlazi iz kola. Hajde.
+
+01:40:51.24,01:40:54.12
+Ukrao si mi curu.[br]Prebiæu te...
+
+01:40:55.95,01:40:58.58
+Pred roðenom kuæom. Izlazi...
+
+01:40:58.87,01:41:01.42
+Majk, prestani.[br]-Ti umukni, èuješ?!
+
+01:41:01.79,01:41:03.63
+Tebe niko nije pitao.
+
+01:41:04.34,01:41:06.96
+Majk, èuješ...[br]ne želim probleme...
+
+01:41:08.67,01:41:10.93
+Je li to tvoja mama, Džefri?
+
+01:41:13.18,01:41:18.22
+Moram se brinuti o povreðenoj,[br]ako nisi zapazio.
+
+01:41:18.43,01:41:20.14
+Doroti Valens?
+
+01:41:25.69,01:41:27.19
+Doði.
+
+01:41:36.49,01:41:39.58
+Stvarno, ja... žalim...
+
+01:41:41.83,01:41:45.00
+Nisam znao...[br]zaista mi je žao.
+
+01:41:45.21,01:41:47.00
+U redu je, u redu.
+
+01:41:47.21,01:41:48.92
+Mislio sam da æeš ga ubiti.
+
+01:41:49.30,01:41:53.34
+Vodimo je odavde.[br]-Moj otac æe zvati hitnu pomoæ.
+
+01:41:53.76,01:41:58.26
+Njegov ortak neæe biti tamo?[br]-Zašto? -Tako.
+
+01:42:09.77,01:42:12.61
+Džefri... Džefri...
+
+01:42:19.87,01:42:23.95
+Tata! Mama![br]-Tu sam, dušo.
+
+01:42:24.20,01:42:27.17
+Mama![br]-Evo me odmah.
+
+01:42:27.67,01:42:35.46
+Tata je tu? -Nije.[br]-Zovi ga. Pozovi hitnu pomoæ.
+
+01:42:35.67,01:42:40.14
+Gde si bio? Bože moj...
+
+01:42:40.43,01:42:46.43
+Zaboga, povredili su ga.[br]Džefri, zagrli me èvrsto.
+
+01:42:53.48,01:42:55.69
+Moja tajna ljubavi.
+
+01:42:57.86,01:43:00.78
+Dolaze i hitna pomoæ i policija.
+
+01:43:01.03,01:43:03.28
+Nemojte zvati policiju!
+
+01:43:03.91,01:43:09.12
+Prestani! Volim te... voli me.
+
+01:43:12.04,01:43:15.42
+Stavio je svoju bolest u mene.
+
+01:43:15.67,01:43:19.63
+Je li u redu što sam ti se otkrila?
+
+01:43:19.84,01:43:22.97
+Reci da je u redu.[br]-Sendi, molim te.
+
+01:43:24.30,01:43:26.60
+Ogrnuæu je kaputom.
+
+01:43:30.14,01:43:35.27
+Džefri, šta se tu zbiva?[br]-Reæi æu ti.
+
+01:43:38.19,01:43:41.95
+Povredili su mu glavu.[br]-Ko, Doroti?
+
+01:43:42.86,01:43:46.45
+Donu. Pomozi mu.
+
+01:43:47.95,01:43:54.29
+Pomozi mu! Pomozi mu!
+
+01:44:04.13,01:44:07.26
+Stavio je svoju boljku u mene.
+
+01:44:25.74,01:44:29.45
+Hoæete s nama?[br]-Odmah dolazim.
+
+01:44:37.83,01:44:41.50
+Moram da idem. -Idi.[br]-Sendi?
+
+01:44:50.55,01:44:53.01
+Drži me! Padam!
+
+01:44:53.26,01:44:55.60
+Padam! Drži me!
+
+01:45:02.69,01:45:09.78
+Lagao si me.[br]-Sendi, oprosti mi. Volim te.
+
+01:45:10.95,01:45:12.99
+Opraštam ti, Džefri.
+
+01:45:18.75,01:45:21.21
+Volim te.
+
+01:45:25.09,01:45:26.50
+Volim te...
+
+01:45:29.01,01:45:33.34
+ali...[br]to nisam mogla da gledam.
+
+01:45:38.93,01:45:41.64
+Je li ona dobro?[br]-Dobro je.
+
+01:45:42.10,01:45:46.02
+Naði oca. Neka pošalje ljude[br]u Dorotin stan.
+
+01:45:46.23,01:45:48.32
+Neka požuri. Ja odoh.
+
+01:45:48.90,01:45:52.95
+Nemoj, Džefri.[br]-Moram. Volim te.
+
+01:45:53.28,01:45:56.45
+Zaboga. Budi oprezan.[br]-Hoæu. Veruj mi.
+
+01:46:12.97,01:46:15.30
+Gde je moj san?
+
+01:46:29.23,01:46:35.57
+Hitno je. Neko je povreðen.[br]Traži hitno detektiva.
+
+01:46:36.24,01:46:39.87
+Ne znamo gde je.[br]-Pronaðite ga.
+
+01:48:38.65,01:48:40.86
+Vrati se... i sakrij se.
+
+01:48:44.40,01:48:46.45
+On ide u stan 26.
+
+01:48:48.28,01:48:51.83
+Mi smo u Frenkovom stanu.[br]Racija je poèela.
+
+01:48:54.54,01:48:57.79
+Ostanite na svojim mestima.
+
+01:49:04.55,01:49:07.38
+Broj 25 je prazan.[br]Možete tuda da proðete.
+
+01:49:31.20,01:49:33.95
+Neka vas oni sami naðu.
+
+01:51:36.28,01:51:38.53
+Detektive Vilijams!
+
+01:51:39.07,01:51:41.24
+Ovde detektiv Vilijams.[br]To si ti, Džefri?
+
+01:51:41.53,01:51:44.58
+Èujte, krijem se[br]u stanu Doroti Valens.
+
+01:51:44.78,01:51:47.37
+Frenk dolazi prerušen[br]u elegantnog èoveka.
+
+01:51:47.58,01:51:51.83
+Nemam izlaza... on ima radio.
+
+01:51:58.76,01:52:04.51
+Detektive Vilijams,[br]krijem se u spavaæoj sobi. Brže.
+
+01:52:17.90,01:52:25.03
+Susede, zaboravio si[br]da imam policijski radio.
+
+01:52:28.33,01:52:33.66
+Elegantan èovek zna[br]gde se kriješ, govnaru.
+
+01:52:35.62,01:52:38.29
+Gluperdo izdrkana.
+
+01:52:39.25,01:52:40.80
+Ti me zezaš?
+
+01:52:51.93,01:52:57.35
+Evo me... bio spreman ili ne.
+
+01:53:02.32,01:53:08.07
+Èujem tvoj radio, drkadžijo!
+
+01:53:09.45,01:53:12.28
+Živeæeš još jednu sekundu!
+
+01:53:24.88,01:53:29.18
+Hej, lepotane... lepi...
+
+01:53:36.72,01:53:39.94
+Gde si drkadžijo? Gde si?
+
+01:54:48.42,01:54:50.34
+Oh, Džefri.
+
+01:54:58.59,01:55:00.30
+Gotovo je, Džefri.
+
+01:56:37.27,01:56:40.73
+Džefri, ruèak je gotov.[br]-Dobro.
+
+01:56:52.00,01:56:57.75
+Kako ste vas dvojica?[br]-Meni je bolje, Džefe.
+
+01:56:58.29,01:57:00.04
+Sjajno, tata.
+
+01:57:01.55,01:57:03.88
+Sendi, pogledaj.
+
+01:57:09.30,01:57:13.10
+Ruèak. -Dobro, Džefri.[br]-Lepo zvuèi.
+
+01:57:13.39,01:57:14.85
+Džefri, doði da vidiš.
+
+01:57:20.15,01:57:26.69
+Video sam ga napolju.[br]Crvendaæi su stigli.
+
+01:57:27.40,01:57:32.95
+Kako oni to mogu?[br]Ne bih mogla da pojedem bubu.
+
+01:57:35.50,01:57:39.87
+Èudan svet, zar ne?
+
+01:58:38.00,01:58:55.87
+JOŠ VIDIM PLAVI SOMOT[br]KROZ MOJE SUZE...

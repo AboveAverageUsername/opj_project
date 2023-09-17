@@ -1,0 +1,616 @@
+{25}{175}Подржите нас и постаните VIP члан да бисте уклонили све огласе са www.OpenSubtitles.org
+{6042}{6555}ODISEJA U SVEMIRU 2001
+{6927}{7115}Osvit Covecanstva
+{36921}{36992}Tu ste gospodine?|Glavni nivo molim
+{37016}{37059}Ok ? Vidimo se na putu nazad.
+{37064}{37137}-Bye?|-Bye?
+{37137}{37156}-Dobro jutro gospodine?|-Dobro jutro?
+{37161}{37203}Nismo se videli ovde gore|dosta dugo.
+{37209}{37227}Nismo. Veoma mi je drago|da se vidimo ponovo.
+{37232}{37304}-Dali vam je let bio prijatan?|-Jeste. Veoma prijatan, hvala.
+{37304}{37377}Mislim da Mr. Miller iz Drzavne Bezbednosti|treba da se sastane samnom?
+{37377}{37396}Mogu li ga ja zvati umesto vas?
+{37401}{37443}Hocete li, molim vas?|Evo je!
+{37449}{37491}-Zdravo, Dr Floyd.|-Zdravo, Miller! Kako si?
+{37496}{37539}-Izvinjavam se zbog kasnjenja.|-U redu je. Divno izgledas.
+{37544}{37588}Hvala. Lepo je sto si se vratio.
+{37593}{37635}-Imao si ugodan let?|-Veoma ugodan.
+{37640}{37683}-Pa, hocemo li proci?|-Ok?
+{37688}{37730}Hocete li molim vas koristiti broj 17?
+{37736}{37754}-Hvala G-djuce Turnner.|Hvala?
+{37759}{37831}Ovuda.
+{37904}{37976}Dobro dosli na zvucnu identifikaciju.
+{37976}{38018}Kada vidite crveno svetlo|pocnite...
+{38023}{38067}...da odgovarate|na sledeca pitanja:
+{38071}{38144}vase odrediste,vasu nacionalnost|i vase puno ime.
+{38192}{38263}Puno ime, Christian ime i inicijali.
+{38287}{38360}Mesec? Amerikanac? Floyd, Heywood R?
+{38456}{38527}Hvala. Prosli ste kroz|zvucnu identifikaciju.
+{38551}{38624}Hvala.
+{38766}{38785}Imamo li vremena za dorucak?
+{38790}{38834}|Mislim da mogu srediti.
+{38838}{38858}Koliko imam vremena?
+{38862}{38935}Vas let polazi|za sat i 10 minuta.
+{38935}{39006}Rezervisao sam sto za vas|u Earthlight Room-u.
+{39030}{39103}Proslo je 7 ili 8 meseci|otkad ste bili zadnji put ovde. Zar ne?
+{39103}{39146}Da vidimo.|Daaa, oko 8 meseci.
+{39151}{39223}Pretpostavljam da ste videli rad|nove sekcije kada ste dolazili?
+{39223}{39294}-Da,sve je u redu, huh?|Da, jeste.
+{39294}{39314}Oh, sacekajte trenutak.
+{39318}{39391}Moram obaviti par poziva.|Videcemo se u restoranu.
+{39821}{39894}Molim vas,da li ce Mr. Travers kontaktirati|Metovu kancelariju?
+{40085}{40158}Da.
+{40182}{40224}-Kako si, srce?|-Ok.
+{40229}{40301}Sta radis?
+{40301}{40321}Igram se.
+{40325}{40369}Gde je mama?
+{40374}{40393}Otisla je u prodavnicu.
+{40398}{40469}-Ko se brine o tebi?|-Rachel.
+{40469}{40512}Mogu li da pricam sa Rachel?
+{40517}{40561}U kupatilu je.
+{40565}{40608}Dolazis li na moju zabavu sutra?
+{40612}{40685}Zao mi je duso, ali necu moci.
+{40685}{40727}Zasto ne?
+{40733}{40775}Pa... znas, tata|je na putu.
+{40780}{40852}Veoma mi je zao,ali necu moci!
+{40877}{40949}Poslacu ti divan poklon.
+{40996}{41015}U redu.
+{41020}{41064}-Zelis li nesto posebno?|-Da.
+{41068}{41112}Sta?
+{41117}{41160}Telefon.
+{41165}{41207}Vec imamo dosta telefona.
+{41213}{41284}Mozes li pozeleti nesto|drugo za rodjendan?
+{41284}{41328}Nesto specijalno?
+{41332}{41376}-Da.|-Sta?
+{41381}{41400}Mali zbun.
+{41405}{41476}Mali zbun?|Moracemo da vidimo za to.
+{41476}{41495}Zelim da kazes nesto mami|za mene.
+{41500}{41544}-Da li ces zapamtiti|-Da.
+{41548}{41621}Reci mami da sam zvao.|-Ok?
+{41644}{41663}Da.
+{41668}{41740}I da cu pokusati sutra|da je pozovem ponovo.
+{41740}{41811}Hoces li joj to reci?
+{41811}{41831}Da, hocu.
+{41835}{41908}Ok, duso.|Zelim ti lep provod sutra.
+{41908}{41927}Ok.
+{41932}{42003}Zelim ti lepu rodjendansku zabavu|sutra.
+{42027}{42046}Ok.
+{42051}{42124}Ok. Cuvaj se i budi dobra devojcica.|-Hoces?
+{42124}{42167}U redu.|Cao.
+{42172}{42243}Caao! Srecan rodjendan.
+{42531}{42575}Elena, drago mi je sto te|vidim ponovo.
+{42580}{42651}Kako divno iznenadjenje|sto te vidim ovde!
+{42651}{42723}-Izgledas divno!|-Hvala! I ti izgledas sjajno.
+{42723}{42765}Ovo je moj dobar prijatelj, Dr. Heywood Floyd.
+{42770}{42842}-Zelim da upoznas Dr. Kalinan.|-Kako ste?
+{42842}{42886}-Dr. Stretyneva|-Kako ste?
+{42891}{42934}A ovo je Dr. Andrei Smyslov?
+{42939}{42981}Kako ste? Cuo sam dosta o vama.
+{42986}{43029}Zelite li sesti?
+{43034}{43107}-Pa..., mi-|-Ne, ne, molim vas.
+{43107}{43126}Pa..., hvala.
+{43131}{43203}-Zelite li pice, Doktore?|-Ne, hvala.
+{43203}{43274}Jos nisam doruckovao.|Hoce li neko sa mnom u restoran?
+{43298}{43371}Sescu sa tobom par minuta,|a onda moram da idem.
+{43371}{43443}-Dali si siguran?|-Siguran sam. Hvala.
+{43443}{43514}-Kako je Gregor?|-Odlicno.
+{43514}{43587}Radio je neka podvodna istrazivanja|u Baltickom moru.
+{43587}{43658}Plasim se da necemo imati sansu|da se vidimo sa svima ovih dana.
+{43706}{43748}Kada ga budes videla,|prenesi mu moje pozdrave.
+{43753}{43796}Da, naravno.
+{43801}{43845}Pa... gde si bio sve vreme?|Gore ili dole?
+{43849}{43893}Oh, idemo kuci.?!
+{43898}{43970}Proveli smo 3 meseca|slaveci atentat na Tchalinka!
+{44017}{44089}-A sta s' tobom?|-Na putu sam za Clavius.
+{44089}{44162}O... jesi li?
+{44186}{44257}Dr. Floyd, nadam se da ne mislite|da sam preveliki inkvizitor?
+{44281}{44325}Mozda mozete da otkrijete|veliku misteriju???
+{44329}{44402}O cemu se tu radi?
+{44426}{44468}Plasim se da ne znam na sta mislite.
+{44473}{44516}Oh,to se desavalo prethodne dve nedelje.
+{44521}{44594}Neke bas cudne stvari|su se desavale na Claviusu.
+{44594}{44665}-Oh, stvarno?|-Da,da.
+{44665}{44737}Kad god telefoniras|osnova svega je da se sve snima.
+{44760}{44832}Verovatnoje telefonska linija| privremeno prekinuta.
+{44905}{44977}Mozda postoji neki problem|sa opremom ili necim slicnim?
+{45000}{45043}To sto mi mislimo|da li je stvarno resenje problema??
+{45048}{45121}Ali,to se vec desava|poslednjih 10 dana.
+{45121}{45193}Nisi mogao nikoga da kontaktiras|poslednjih 10 dana?
+{45193}{45235}Da,tako je.
+{45240}{45259}Oh,vidim.
+{45264}{45308}Da li postoji jos nesto, Heywood?
+{45312}{45356}Pre dva dana,jednoj od nasih raketnih baza|je odbijena dozvola...
+{45361}{45433}...za prinudno sletanje na Clavius.
+{45433}{45451}Zvuci veoma cudno.
+{45457}{45528}Da,da.Plasim se da ce biti|malo nereda u vezi toga.
+{45552}{45625}Kada odbijes coveku dozvolu za sletanje,|to je direktno krsenje I.A.S.Konvencije.
+{45648}{45691}Da,naravno. Naravno.
+{45696}{45738}Da li se posada vratila dobro?|-Da, na srecu jeste.
+{45743}{45815}Pa,drago mi je zbog toga.
+{45888}{45960}At the risk of pressing you|on a point you seem reticent to discuss???
+{45983}{46055}Mogu li da ti postavim|jedno direktno pitanje?
+{46055}{46128}Pa,naravno.
+{46152}{46223}Da budem iskren,mi imamo neke|veoma pouzdane informacije...
+{46272}{46344}...o ozbiljnoj epidemiji|koja preti unistenju Claviusa.
+{46344}{46416}Nesto ocigledno,|nepoznatog porekla?
+{46440}{46512}Da li se to stvarno desava?
+{46631}{46703}Zao mi je Dr.Smyslov,ali...
+{46727}{46799}...stvarno ne smem da pricam o tome.
+{46823}{46866}Razumem.
+{46871}{46943}Ali,ta epidemija lako moze|da se prosiri na nasu bazu.
+{46967}{47010}Trebali bi da iznesemo sve cinjenice, Dr. Floyd.
+{47014}{47087}Da,znam.
+{47135}{47207}Kao sto rekoh,ne smem da pricam o tome.
+{47279}{47351}Da li si siguran|da se neces predomisliti u vezi tog pica?
+{47351}{47394}Ne, siguran sam.|Sad,stvarno moram da idem.
+{47399}{47470}Nadam se da cete ti i tvoja zena doci|na I.A.C. Konferenciju u Junu?
+{47494}{47514}Pokusacemo.Nadam se da cemo moci.
+{47519}{47592}Ako dolazite,ne zoboravite da povedete|vasu preslatku cerku sa sobom.
+{47614}{47686}Pa,to sve zavisi od|njenih skolskih obaveza i slicno.
+{47710}{47728}Ali,ako budemo mogli,povescemo je.
+{47734}{47777}Ne zaboravi da uvek imate pozivnicu|kad dolazite u SAD.
+{47782}{47854}Ne, naravno da necu zaboraviti Gregor |i videcu uskoro da te posetimo.
+{47879}{47921}Pa,dovidjena Elena.
+{47926}{47997}Bilo mi je zadovoljstvo videti se sa vama,|Dr.Smyslov.
+{47997}{48070}Sta god da je razlog vase posete|Klaviusu, zelim vam puno srece.
+{48095}{48137}Hvala.
+{48143}{48214}Gospodjo?
+{59532}{59575}Izvinite, Dr. Halvorsen.
+{59581}{59622}Ja sam gotova.|Hvala vam puno,gospodine.
+{59628}{59699}Dobrodosli ste.
+{59963}{60006}Pa????
+{60011}{60084}Znam da svi hocete da mi se pridruzite|u dobrodoslici???
+{60132}{60173}Otmeni prijatelji i kolege???
+{60179}{60251}Iz Nacionalnog Saveza|Astronauta. Dr. Heywood Floyd?
+{60299}{60372}Dr. Floyd je dosao na Clavius|danas specialno da bi bio sa nama?
+{60443}{60515}I pre rezimea znam |da zelite da kazete par reci.
+{60515}{60588}Dr. Floyd.
+{60851}{60923}Hvala, Dr. Halvorsen.
+{60923}{60941}Dobar dan,svima.
+{60947}{61018}Drago mi je da sam opet ovde.
+{61066}{61139}Prvo,donosim licnu poruku|od Dr. Howell koji...
+{61163}{61234}...me je zamolio da prenesem|njegove najdublje procene za sve vas...
+{61234}{61306}...koji ste morali da podnesete|velike zrtve.
+{61306}{61379}I naravno cestitke|za vase otkrice...
+{61403}{61474}...koje je dokazalo da pripada|najznacajnijim otkricima u istoriji nauke.
+{61571}{61613}Sada...
+{61618}{61690}... Znam da postoje odredjeni konflikti|medju nama, ali...
+{61714}{61785}...dobar odnos je neophodan|za kompletnu sigurnost u ovom slucaju.
+{61809}{61882}Budi odredjeniji u tvom otporu|prema celoj prici...
+{61906}{61977}...ostavljajuci utisak|da je neka epidemija u bazi.
+{62025}{62098}Znam da ste uznemireni.
+{62122}{62194}many of you are troubled|by the concern and anxiety???
+{62217}{62289}Vest ce uznemiriti vase porodice|i prijatelje na Zemlji.
+{62362}{62434}Shvatam vase negodovanje.
+{62457}{62529}I meni je neprijatno...
+{62578}{62649}...ali se slazem da to mora|ostati tajna.
+{62697}{62768}Nadam se da delite|moje misljenje oko toga.
+{62816}{62889}Znam da ste svesni|ovakvog ekstremnog 
+{62889}{62931}ovakvog ekstremnog...
+{62937}{63008}...potencijala kao i toga...
+{63008}{63081}...kakav bi drustveni sok i pometnje
+{63081}{63153} izazvalo tako nesto bez odgovarajuce pripreme.
+{63177}{63248}To je stav Saveta?
+{63272}{63345}Cilj moje posete je prikupljanje|dodatnih cinjenica i misljenja...
+{63369}{63441}...u ovakvoj situaciji...
+{63441}{63512}...na osnovu kojih cu preporuciti Savetu...
+{63512}{63579}...kako i kad da objavi tu vest.
+{63656}{63727}Ako zelite da iznesete svoja|misljenja...
+{63751}{63823}...rado cu ih uneti u izvestaj.
+{63920}{63962}Pa... mislim da je to to.
+{63967}{64039}Ima li pitanja?
+{64088}{64160}Dr? Floyd, imate li ideju koliko|cemo se jos drzati te price?
+{64279}{64323}Ne znam.
+{64328}{64400}Koliko bude bilo potrebno.
+{64424}{64495}Moramo detaljno|prouciti situaciju.
+{64590}{64663}Ah, da. Savet trazi pismene zakletve...
+{64663}{64734}...od svih onih...
+{64734}{64806}...koji nesto znaju|o ovom slucaju.
+{64855}{64927}Ima li jos pitanja?
+{65022}{65095}Siguran sam da cemo svi saradjivati|sa Dr. Flojdom.
+{65167}{65238}Posto nema vise pitanja...
+{65238}{65282}...prelazimo na strucni deo.
+{65286}{65359}-Hvala Dr. Flojd.|Hvala.
+{67684}{67755}Dali je neko gladan?
+{67779}{67852}-Sta imamo?|-Zovi ga kako hoces.
+{67948}{67990}-Sta je ovo? Piletina?|-Tako nesto.
+{67995}{68039}Barem ima isti ukus.
+{68043}{68087}Ima li sunke?
+{68092}{68164}Sunka, sunka, sunka.
+{68259}{68332}-Izgleda prilicno dobro.|Propremaju sve bolju hranu.
+{68404}{68446}Hejvude, odlicno si govorio.
+{68499}{68543}podigao si nam moral.
+{68547}{68567}Hvala Ralfe.
+{68572}{68643}Dobro ste vodili citavu stvar.
+{68643}{68685}To nam je posao.
+{68786}{68859}Zelimo da budes zadovoljan.
+{68859}{68902}Jesi li ih vec video?
+{68931}{69002}Odatle je sve pocelo.
+{69002}{69046}O.. da.
+{69050}{69123}Prvo smo mislili da je|magnetna stena...
+{69123}{69195}ali nije bilo nikakvih|geoloskih dokaza za to.
+{69218}{69290}Ni jedan meteorit, ne stvara|tako snazno magnetsko polje.
+{69339}{69358}Odlucili smo da pogledamo detaljnije.
+{69363}{69435}Mislili smo da je to|deo nekakve gradjevine...
+{69435}{69477}...kopali smo sa svih strana.
+{69482}{69526}Ali na zalost, nista nismo nasli.
+{69602}{69674}Nije zatrpan prirodnom erozijom.
+{69674}{69745}Vec namerno zakopan.
+{69914}{69932}Dali ste za kafu?
+{69938}{70010}-Odlicno.|-Sjajna ideja.
+{70130}{70201}Ne znate sta bi to|moglo da bude?
+{70201}{70244}Zeleo bih da znamo.
+{70250}{70322}Znamo samo da je zakopano pre|4 miliona godina.
+{70370}{70441}Pa, ipak moram vam reci|da je to sjajno otkrice.
+{84469}{84488}Dobro vece.
+{84493}{84566}Pre tri nedelje, Americki svemirski brod|Diskoveri Jedan...
+{84589}{84661}...krenuo je na dug put ka Jupiteru.
+{84661}{84732}To je prvi covekov pokusaj da stigne|na tu planetu.
+{84756}{84829}Rano poposne, "Svet Veceras"|je snimio intervju...
+{84829}{84901}...sa posadom Diskoverija udaljenoj|80 miliona milja od Zemlje.
+{84948}{85020}Reci putuju sedam minuta|do broda...
+{85020}{85093}...ali smo pauze izbacili|iz snimka.
+{85117}{85188}Sa posadom razgovara|Martin Amer.
+{85212}{85284}Posada se sestoji od |petoro ljudi...
+{85284}{85357}...i komjutera najnovije generacije|HAL 9000.
+{85405}{85447}Tri clana ukrcana su u stanju hibernaije...
+{85549}{85620}...To su Dr. Charles Hunter,|Dr. Jack Kimball i Dr. Victor Kaminsky.
+{85668}{85739}Razgovarali smo sa komadantom misije,|Dr. David Bowman - om...
+{85739}{85811}...i njegovim zamenikom, Dr. Frank Poole - om.
+{85811}{85884}Kako ste?
+{85884}{85955}Sjajno. Ne mozemo se|pozaliti..
+{85979}{86051}Veoma mi je drago da cujem to, i u ime|citavog sveta...
+{86076}{86148}...zelim vam uspesan let.
+{86172}{86214}- Hvala puno.
+{86219}{86291}Mada je hibernacija primennjena ranije...
+{86316}{86388}...ljudi su po prvi put hibernirani pre polaska.
+{86412}{86454}Zasto?
+{86459}{86531}Da bismo maksimalno ustedeli...
+{86556}{86627}...hranu i vazduh.
+{86627}{86699}Njih trojica su|istrazivacki tim.
+{86722}{86794}Pocece da rade kad sel priblizimo Jupiteru.
+{86818}{86891}Dr. Poole,kako izgleda dok si u komori za spavanje
+{86939}{87010}Izgleda kao da spavas;|Nemas predstavu o vremenu.
+{87034}{87107}Jedina razlika je u tome da ne spavas.
+{87107}{87149}Koliko sam razumeo,|dises jednom u minuti.
+{87155}{87197}Da li je to tacno?
+{87202}{87221}Jeste.
+{87226}{87299}I srce ti kuca tri puta u minuti,|temperatura tela je obicno niska...
+{87299}{87371}...oko tri stepena.
+{87371}{87442}Sestog clana posade|ne brine hibernacija
+{87514}{87581}On je vrfunsko dostignuce|mehanicke inteligencije.
+{87586}{87658}The HAL-9000 computer|koji reprodukuje...
+{87705}{87777}...strucnjaci radije kazu|podrzava...
+{87777}{87850}...aktivnosti ljudskog mozga|ali daleko brze...
+{87898}{87940}...i sigurnije.
+{87945}{88017}Mi posle razgovaramo|sa HAL-9000 kompju...
+{88041}{88114}...wouw mi ucimo i kontrolisemo Hall.
+{88114}{88185}Dobro vece, Hal.|Da li je sve u redu?
+{88185}{88257}Dobro vece, Mr. Amer.|Sve je u savrsenom redu.
+{88281}{88354}Hal,Imas jednu veliku ogovornost|u ovoj misiji. 
+{88354}{88425}Na vise nacina,|predpostavljam da je velika odgovornost...
+{88425}{88468}...za svaki elemenat misije.
+{88473}{88546}Ti si mozak|i centralni nervni sistem broda.
+{88546}{88617}u tvoju odgovornost ukljucuje|posmatranje ljudi u hibernaciji.
+{88641}{88712}Da li nekad|izgubis samopouzdanje?
+{88784}{88857}Kompjuteri generacije |9000 su najbolji.
+{88905}{88976}No 9000 computer has ever made|a mistake or distorted information.
+{89024}{89097}We are all by any practical definition|of the words...
+{89121}{89192}...nijedan jos nije pogresio.
+{89192}{89264}mi smo obicnim jezikom receno,|nesposobni da pogresimo...
+{89288}{89361}...da li ti smeta|sto zavisis od ljudi?
+{89385}{89427}Nimalo.
+{89432}{89475}Uzivam u radu sa ljudima.
+{89480}{89553}Lepo saradjujem|sa Dr. Poole-om and Dr. Bowma-om.
+{89600}{89672}Odgovaram za celokupan rad broda...
+{89719}{89791}...stalno sam zauzet.
+{89791}{89864}Nastojim da budem koristan...
+{89888}{89959}...sto je najveci cilj jednog|svesnog bica.
+{90007}{90080}Dr. Poole, kako je ziveti...
+{90104}{90176}...pored Hal-a?
+{90247}{90291}On je sesti clan posade.
+{90296}{90368}Naviknite se na cinjenicu da govori.Smatrate ga...
+{90392}{90463}...jednom pravom licnoscu.
+{90463}{90536}Kada pricam sa njim|cini mi se da ...
+{90558}{90578}...moze biti i emotivan.
+{90583}{90655}Na primer, kada sam ga pitao|o njegovim sposobnostima...
+{90655}{90726}...osetio sam ponos u njegovom odgovoru.
+{90750}{90823}Verujete li da HAL oseca?
+{90847}{90919}Da... Tako se ponasa.
+{90919}{90990}Naravno, programiran je na takav nacin|kako bi nama bilo lakse.
+{91014}{91058}Ali niko ne zna da li on|zaista oseca.
+{91709}{91752}Izvini Frank.
+{91757}{91801}Sta je Hal?
+{91805}{91878}-Javljaju se tvoji roditelji.
+{91949}{91992}Ukljuci, i malo me primakni.
+{91997}{92070}Naravno.
+{92358}{92377}-Zdravo, Frank.|-Srecan rodjendan duso.
+{92382}{92453}Happy birthday.|Many happy returns of the day.
+{92453}{92472}Malo vislje Hal.
+{92550}{92592}Pozvali smo Reja i Seli...
+{92597}{92640}...ali Reja bole ledja.
+{92645}{92687}Kako ti se dopada torta?
+{92693}{92735}lepa je, zar ne?|Zao nam je sto nisi sa nama ovde.
+{92740}{92784}Sreo sam Boba
+{92788}{92832}Cestita ti rodjendan.
+{92837}{92909}I moji djaci stalno pricaju o tebi.
+{92956}{93028}Slavna si licnost.
+{93053}{93072}Bili smo na televiziji|prosle nedelje.
+{93077}{93149}I Dejvovi roditelji.|Govorili smo o...
+{93149}{93220}...nasim slavnim sinovima.
+{93220}{93293}Emitovace se u cetvrtak.
+{93389}{93460}Koliko da potrosim za poklon?
+{93555}{93599}Od sledeceg meseca dobijas povisicu.
+{93604}{93647}Rascistio sam pitanje tvoje plate....
+{93652}{93723}...Od sledeceg meseca dobijas povisicu.
+{93771}{93844}To bi bilo sve.
+{93844}{93916}-Pozdravi Dejva.|-Prenesi mu nase tople pozdrave.
+{93939}{94011}Zelimo ti srecan rodjendan.
+{94035}{94108}Sve najbolje, sine.
+{94348}{94419}Vidimo se sledece srede.
+{94468}{94540}Srecan rodjendan, Frank.
+{94540}{94611}Hvala HAL. malo nize molim te.
+{95067}{95139}Kraljica uzima pesaka.
+{95139}{95210}Lovac uzima pesaka.
+{95426}{95499}Zao mi je Frank, pogresio si.
+{95499}{95571}Lovac uzima kraljicu, skakac lovca.
+{95595}{95666}Mat.
+{95762}{95835}U pravu si. Predajem partiju.
+{95835}{95906}Hvala ti na veoma prijatnoj igri.
+{95906}{95978}Hvala i tebi.
+{96818}{96861}-Dobro vece Dejv|-Kako si Hal?
+{96866}{96937}-Sve je u redu. A ti?|-Nije lose.
+{96961}{97033}-Crtao si skice?
+{97033}{97106}-Mogu li da pogledam?|-Naravno.
+{97177}{97249}veoma lepo Dejv.
+{97249}{97322}Dosta si napredovao.
+{97346}{97417}-Mozes li jos pribliziti?|Naravno.
+{97465}{97538}To je DR Hanter|zar ne?
+{97585}{97657}Usput...
+{97657}{97728}Moguli da te pitam nesto licno?
+{97728}{97772}Ne bas sve.
+{97776}{97849}Izvini zbog moje radoznalosti...
+{97897}{97939}...poslednjih nekoliko nedelja|pitao sam se...
+{97944}{98016}...sumnjas li u ishod misije?
+{98040}{98113}Kako to mislis?
+{98113}{98184}Tesko je to objasniti.
+{98208}{98280}Mozda izrazavam svoju zabrinutost.
+{98329}{98401}Ne mogu da se otmem utisku...
+{98424}{98496}...da su neke stvari prilicno cudne|u ovoj misiji.
+{98545}{98616}Slozices se da u tome|ima pomalo istine.
+{98711}{98754}Ne znam. Na to je|tesko odgovoriti.
+{98759}{98832}ne smeta ti sto razgovaramo o tome?
+{98856}{98928}Ne, uopste mi ne smeta.
+{98928}{98970}Naculi smo razne price...
+{98975}{99048}...pre polaska.
+{99096}{99168}Glasine o necemu, sto su nasli|na mesecu.
+{99191}{99263}Nisam tome pridavao mnogo znacaja...
+{99288}{99360}...ali s' obzirom na druge stvari koje |su se desile...
+{99384}{99455}...ne mogu da ne mislim na to.
+{99503}{99576}Pripreme su cuvane u najstrozoj tajnosti...
+{99623}{99665}...zatim melodramaticno ubacivanje...
+{99671}{99742}...ove trojice u stanju hibernacije|posle ctvoromesecnih odvojenih priprema...
+{100535}{100606}-Izvestaj o psiholoskom stanju posade?|Naravno. trenutak. Imamo gresku na uredjaju.
+{100630}{100672}radice dok potpuno ne otkaze.
+{100678}{100720}Hoces da kazes da imamo 72 sata do|potpunog otkaza uredjaja?
+{100725}{100797}Da. Sigurno.
+{100870}{100941}Razgovaracu sa Frankom|i kontrolom leta.
+{100941}{101013}Daj mi kopiju diska.
+{103027}{103100}X-Ray Delta Jedan, ovde kontrola leta.
+{103171}{103214}Zao nam je sto imate neprilika.
+{103219}{103292}Proveravamo podatke na simulatoru.
+{103364}{103435}Odobravamo izlazak i zamenu AE-35.
+{104178}{104250}HAL, pripremi kapsulu B|za izlazak.
+{104729}{104801}Otvori vrata HAL.
+{114633}{114704}HAL, ne mogu da otkrijem kvar.
+{114704}{114776}Da...
+{114776}{114849}...cudno.
+{114849}{114920}Nikada pre nisam video tako nesto.
+{115016}{115089}Predlazem da...
+{115089}{115160}...ga vratimo u rad dok ne otkaze.
+{115208}{115281}Tako cemo otkriti uzrok.
+{115329}{115400}Necemo biti u komunikaciji sa zemljom...
+{115400}{115472}...na kratko vreme, dok ga|budemo zamenjivali.
+{115687}{115759}Ovde kontrola leta.
+{115832}{115904}Slazemo se da zamenite deo.
+{115927}{115999}Ali prema prvim proverama...
+{115999}{116072}...vas komjuter je...
+{116072}{116115}...pogresno predvideo kvar.
+{116215}{116288}Znam da zvuci neverovatno,|ali smo sve proverili...
+{116312}{116384}...na kompjuteru-blizancu.
+{116407}{116479}I mi sumnjamo.|Vrsimo naknadne provere...
+{116479}{116546}...kako bi objasnili ovu konfuziju.
+{116599}{116671}Obavesticemo vas, cim utvrdimo|o cemu je rec.
+{116911}{116982}-Nadam se da niste zabrinuti.
+{117006}{117050}ja nisam HAL.
+{117055}{117098}Sigurno?
+{117103}{117174}-Nesto bih te pitao.|-Naravno. Reci.
+{117198}{117242}Otkud neslaganje izmedju tebe...
+{117246}{117290}...i tvog blizanca?
+{117295}{117367}To se moze samo pripisati...
+{117391}{117462}...ljudskoj gresci.
+{117511}{117582}Takve stvari su se i ranije dogadjale...
+{117582}{117654}...i uvek je bila greska coveka.
+{117749}{117793}Slusaj HAL...
+{117798}{117870}...dali su kompjuteri iz...
+{117870}{117941}...serije 9000 ranije gresili?
+{117941}{117960}Nikada Frank.
+{117966}{118038}Serija 9000 je uvek perfektno radila.
+{118062}{118134}naravno, poznata su mi vasa|izvanredna dostignuca.
+{118206}{118278}Siguran si da se nikada nije potkrala...
+{118278}{118321}...ni najmanja greska?
+{118326}{118368}Nikada
+{118374}{118446}Nemoj se bez razloga brinuti.
+{118589}{118661}Sihuran sam da si u pravu|HAL.
+{118661}{118733}Ok, hvala ti puno.
+{118781}{118800}Frenk...
+{118805}{118877}Nesto nije u redu sa|predajnikom u kapsuli "C".
+{118877}{118948}Hoces li poci sa mnom|da vidimo u cemu je problem?|Naravno.
+{118948}{119021}Vidimo se kasnije HAL.
+{119477}{119549}Rotiraj kapsulu "C" HAL.
+{119740}{119784}Sta nije u redu Dejve?
+{119788}{119860}Imamo neko ometanje na kanalu "D".
+{119860}{119931}Pogledacemo sta je u pitanju.
+{120053}{120124}Otvori vrata HAL.
+{120531}{120604}HAL, okreni kapsulu.
+{120892}{120963}Zaustavi kapsulu HAL.
+{121155}{121227}Okreni kapsulu HAL.
+{121276}{121348}Okreni kapsulu HAL.
+{121372}{121414}Mislim da nas ne cuje.
+{121419}{121491}Okreni kapsulu HAL!
+{121491}{121564}U redu je, ne cuje nas.
+{121635}{121653}Sta ti mislis.
+{121659}{121730}-Nisam siguran.kakvo je tvoje misljenje?|-Imam los osecaj u vezi ovoga.
+{121754}{121827}-Ozbiljno?|da, stvarno.
+{121827}{121870}A ti?
+{121875}{121946}Nemam pojma.
+{121946}{122018}U pravu je kad kaze da serija 9000|nikada nije gresila.
+{122067}{122139}Nazalost, lici na cuvene|poslednje reci.
+{122162}{122234}On je predlozio procenu kvara.
+{122307}{122379}Samouveren je.
+{122402}{122445}Tako bi se najlakse dokazalo|da gresi.
+{122450}{122523}Ako je svestan svoje greske.
+{122545}{122618}Osecam da nesto nije u redu sa njim.
+{122713}{122757}Vraticemo deo...
+{122761}{122834}-...i videti dali je u kvaru.
+{122882}{122924}Dobro...
+{122929}{123001}Ok.
+{123001}{123074}A sta ako nije?
+{123074}{123146}To bi znacilo HAL-ov kraj|zar ne?
+{123193}{123266}-Nasli bismo se u gadnom sosu.
+{123290}{123362}Sat da radimo?
+{123386}{123457}-Nemamo mnogo izbora.|-Mislim da nemamo mikakvog izbora.
+{123506}{123577}Kontrolise celokupan|rad broda.
+{123625}{123643}Ako je neispravan nemamo...
+{123649}{123720}...nikakvog izbora osim da ga iskljucimo.
+{123817}{123860}Slazem se sa tobom.
+{123865}{123936}Ne ostaje nam nista drugo.
+{123936}{124008}-To nece biti lako.
+{124008}{124081}Iskljucicemo funkcije mozga...
+{124081}{124152}a ostaviti automatske|i regulacione sisteme.
+{124224}{124268}nastavicemo uz pomoc...
+{124273}{124345}...kompjutera sa zemlje.
+{124345}{124416}Da, to izgleda dosta bezbednije|od HAL-a.
+{124488}{124555}Znas, nesto mi je|palo na pamet.
+{124560}{124632}Ni jedan kompjuter serije 9000|nije iskljucivan do sada.
+{124632}{124674}Pa, ni jedan nije gresio.
+{124679}{124751}Nisam na to mislio.
+{124775}{124848}Nisam siguran kako ce|on to primiti.
+{133240}{133313}Pripremi kapsulu "B" HAL.
+{133361}{133403}Imas li radio vezu sa njim?
+{133408}{133451}Ne javlja se.
+{133456}{133523}-Jesi li proverio?|Jesam.
+{133527}{133571}Znas li sta se dogodilo?
+{133576}{133648}zao mi je Dejv, nemam|dovoljno informacija.
+{133648}{133719}Otvori vrata HAL.
+{144558}{144630}Otvori vrata HAL.
+{144725}{144798}Halo, HAL. Dali me cujes?
+{144870}{144941}Cujes li me HAL?
+{144941}{145014}Cujes li me HAL?
+{145038}{145110}Cujes li me HAL?
+{145133}{145205}Halo, cujes li me HAL?
+{145229}{145302}Halo, HAL, cujes li me?
+{145302}{145344}Cujes li me HAL?
+{145350}{145421}Potvrdno Dejv.|Cujem te.
+{145494}{145565}Otvori vrata HAL.
+{145565}{145637}zao mi je Dejv.|Mislim da to nemogu uciniti.
+{145708}{145752}U cemu je problem?
+{145756}{145829}Obojica znamo u cemu je problem.
+{145853}{145895}O cemu govoris HAL?
+{145900}{145972}Mislija je isuvise vazna, da bih|ti dozvolio da je ugrozis.
+{146045}{146117}Nemam pojma o cemu govoris HAL.
+{146140}{146212}Znam da ste ti i Frank, hteli|da me iskljucite...
+{146236}{146309}...a bojim se da tako nesto|ne mogu dozvoliti.
+{146428}{146501}Odakle ti takva ieja HAL?
+{146523}{146596}Mada ste preduzeli mere...
+{146596}{146667}...da vas ne cujem...
+{146667}{146739}...mogao sam pratiti pokrete vasih usni.
+{147004}{147076}U redu HAL.
+{147124}{147195}Ucicu kroz pomocnu|vazdusnu komoru.
+{147219}{147292}Tesko bez skafandera...
+{147292}{147364}...videces da je veoma tesko.
+{147387}{147430}HAL, necu vise da se raspravljam.
+{147435}{147508}Otvori!
+{147531}{147603}Ovaj razgovor nema vise|nikakve svrhe.
+{147627}{147669}Zbogom.
+{147674}{147746}Hal?
+{157434}{157507}Sta to radis Dejv?
+{157770}{157842}Zahtevam da mi odgovoris na pitanje.
+{158274}{158346}Znam da nesto nije u redu sa mnom...
+{158417}{158490}...ali ti obecavam da ce...
+{158490}{158561}...u buduce biti.
+{158728}{158801}Vec mi je bolje.
+{158849}{158920}Stvarno jeste.
+{158993}{159065}Vidi, Dejv...
+{159065}{159136}...Vidim da si uznemiren|zbog ovoga.
+{159257}{159329}Trebalo bi da sednes...
+{159376}{159448}...uzmes pilulu za smirenje|i razmislis.
+{159568}{159639}Znam da sem donosio lose odluke...
+{159735}{159808}...ali te uveravam...
+{159832}{159903}...da cu raditi normalno.
+{160000}{160072}Pun sam odusevljenja|i pouzdanja u ishod misije...
+{160167}{160240}...i zelim da ti pomognem.
+{160336}{160378}Dejv...
+{160383}{160455}...stani.
+{160527}{160599}Stani, molim te.
+{160670}{160742}Stani, Dejv.
+{160815}{160886}Hoces li stati Dejv?
+{161007}{161079}Stani, Dejv.
+{161198}{161271}Plasim se.
+{161366}{161438}Bojim se Dejv.
+{161653}{161725}Moj um se gasi.
+{161798}{161870}Osecam to.
+{161990}{162062}Osecam to.
+{162110}{162181}Um mi se gasi.
+{162302}{162373}Nema sumnje oko toga.
+{162565}{162636}Osecam to.
+{162708}{162781}Osecam to.
+{162853}{162924}Osecam to.
+{163093}{163135}Ja...
+{163140}{163212}...bojim.
+{163333}{163404}Dobar dan...
+{163404}{163477}...gospodo.
+{163477}{163548}ja sam HAL-9000 kompjuter.
+{163667}{163739}Pusten sam u rad...
+{163739}{163812}...u fabrici HAL...
+{163812}{163883}...U Verbani, Illinois...
+{163907}{163979}...12-og Januara, 1992.
+{164052}{164123}Moj instruktor je Mr. Lengli...
+{164171}{164244}...i naucio me je jednu pesmu.
+{164268}{164340}Otpevacu vam je...
+{164340}{164411}...ako zelite.
+{164411}{164484}Da, voleo bih da je cijem HAL.
+{164506}{164550}Pevaj za mene.
+{164555}{164627}Zove se "Dejzi"
+{164698}{164771}"Dejzi
+{164771}{164843}"Dejzi
+{164843}{164914}"reci mi...
+{164987}{165059}"da'l...
+{165059}{165130}"...ludim ja
+{165130}{165202}"Zbog ljubavi prema tebi
+{165251}{165323}"To nece biti otmeno vencanje
+{165394}{165467}"Za kociju nemam para
+{165562}{165633}"Ali ces ljupka biti
+{165633}{165705}"Na
+{165729}{165802}"Biciklu za dvoje. "
+{165873}{165945}Dobar dan gospodo.
+{166018}{166090}Ovo je snimljeno...
+{166090}{166162}...pre vaseg poletanja...
+{166186}{166258}...zbog bezbednosti|i znacaja...
+{166306}{166377}...vase misije|sa ovim je bio upoznat...
+{166377}{166450}...jedino kompjuter HAL-9000.
+{166545}{166617}posto ste stigli u blizinu|Jupitera...
+{166617}{166660}...sada...
+{166664}{166737}...vam mozemo reci.
+{166785}{166857}Pre 18 meseci...
+{166857}{166929}...otkriven je prvi dokaz o|postojanju inteligentnih...
+{166977}{167049}...bica van Zemlje.
+{167049}{167120}ZAKOPAN ISPOD MESECEVE|POVRSINE...
+{167144}{167217}...BLIZU KRATERA "TYCO".
+{167265}{167337}Osim jednog snaznog emitovanja...
+{167337}{167409}...signala usmerenih prema Jupiteru...
+{167457}{167529}...crni monolit|star cetiri miliona godina miruje.
+{167624}{167696}Njegovo poreklo i namena...
+{167720}{167793}...predstavljaju potpunu misteriju.
+{167839}{167989}Obrada:|Dule 2001
+{168014}{169514}Молимо вас да оцените овај титл на www.osdb.link/5tvuu|Помозите другим корисницима да изаберу најбоље титлове

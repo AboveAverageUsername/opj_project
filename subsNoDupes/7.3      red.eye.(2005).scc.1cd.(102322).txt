@@ -1,0 +1,694 @@
+{1}{1}23.976
+{100}{600}{C:$0000FF}{y:bi}Obrada: DivX Genius ©2005
+{625}{775}ÐŸÐ¾Ð´Ñ€Ð¶Ð¸Ñ‚Ðµ Ð½Ð°Ñ Ð¸ Ð¿Ð¾ÑÑ‚Ð°Ð½Ð¸Ñ‚Ðµ VIP Ñ‡Ð»Ð°Ð½ Ð´Ð° Ð±Ð¸ÑÑ‚Ðµ ÑƒÐºÐ»Ð¾Ð½Ð¸Ð»Ð¸ ÑÐ²Ðµ Ð¾Ð³Ð»Ð°ÑÐµ ÑÐ° www.OpenSubtitles.org
+{922}{1011}Gde je moj poklon za roðendan?|Rekao je, da æe se odmah vratiti.
+{1114}{1250}Spava li ti se?|Zapevaæu ti uspavanku.
+{1253}{1394}Spavaj, dete...|Spavaj, dete...
+{1397}{1461}Bako, probudi se!
+{1771}{1845}{Y:i}Iskopavanje i rekonstrukcija tela|posle nesreæe za praznik
+{1848}{1898}{Y:i}...je poèelo.|Našli su mnogo deèijih leševa.
+{1901}{1985}{Y:i}Mnogo ljudi je bilo unesreæeno.
+{3320}{3440}{y:b}>> CRVENOOKI <<
+{3727}{3785}Stvarno mi je žao.
+{3787}{3859}Ma hajde, dali stvarno|moraš raditi ceo dan?
+{3862}{3907}Ništa mi ne govoriš...
+{3910}{3965}Mislim, da ako to danas ne završim,|neæu imati druge prilike.
+{3982}{4032}Hajde, samo još ovaj put.
+{4034}{4111}Pada li kod vas kiša?|Ovde lije!
+{4114}{4169}Ne menjaj temu.|Samo to zapamti.
+{4171}{4226}Nije mi svejedno za tebe|i najviše te volim...
+{4229}{4298}-Znaš, da si jedina...|-Da, znam.
+{4301}{4389}Ups, zakasnila sam. Kasnije|æu ti reæi sve o tome, dobro?
+{5078}{5149}Kako æeš prodati sve to?
+{5164}{5235}Ti nisi Ju-hi?
+{5322}{5357}Pozdravljam.
+{5394}{5461}Menjala sam smenu sa Ju-hi.
+{5516}{5600}Ja sam Oh Mi-sun.|Upravo sam završila orijentaciju.
+{5602}{5650}Znaèi to je tvoj prvi dan?
+{5667}{5753}Da, drago mi je, da smo se upoznali.
+{5782}{5883}Al teško æeš prodati sve to.|To je više prazna okolina.
+{5907}{5984}Al imam odreðen minimum prodaje.
+{5986}{6043}Pa, onda dopusti, da ti robu isèupaju.
+{6046}{6077}To je ko istiskanje krvi iz kamena.
+{6293}{6333}-Zar te to nisu nauèili na orijentaciji?|-Èega?
+{6365}{6408}Ako žališ saèuvati ravnotežu,
+{6410}{6456}moraš se prepustiti struji.
+{6458}{6516}Opusti se.
+{6518}{6573}Ako budeš napeta, okliznuæe ti se.
+{6619}{6648}To æe biti to.
+{6662}{6729}Dame i gospodo,
+{6732}{6841}voz u 11:50 za Yeosu uskoro æe krenuti.
+{6844}{6890}-Svi sa kartama...|-Hej! Hej! Hej! Doði ovamo!
+{6892}{6981}...molim ukrcajte se na voz.
+{7038}{7077}Kakav èudnovat dan!
+{7142}{7192}Kladim se, da su plaže omamljive.
+{7202}{7288}Ovih dana nebo i zemlja|izgledaju kao jedno.
+{7290}{7343}Mogu li vas zamoliti za sliku?
+{7346}{7417}Molim, uzmi kartu sa sobom.|Inaèe se neæeš moæi ukrcati.
+{7420}{7468}-Ja æu.|-Hvala.
+{7470}{7530}-Na stanici...|-Zašto, šta nije u redu?
+{7559}{7635}-Dame i gospodo,...|-Dobro, svi stanite zajedno!
+{7638}{7724}...voz u 11:50 za 'Yeosu' uskoro kreæe.
+{7726}{7779}Molim vas, ukrcavajte se.
+{7861}{7935}-Bože, zašto je moralo poèeti kišiti?|-Oh, Bože. Vidi moju kosu.
+{7962}{8000}-Hej, gde idemo?|-Pogledaj broj.
+{8010}{8057}Sedišta 45 i 47.
+{8465}{8524}Rekla sam ti, da smo|trebali uzeti taksi.
+{8602}{8640}Šta sad?
+{8731}{8777}Šta æemo reæi tvojoj majci?
+{8779}{8827}Tvojoj majci?
+{8830}{8892}Moja mati je tvoja mati i gotovo.
+{8894}{8949}Tvoja mati?|Tvoja mati?
+{9168}{9258}Vidiš? Reko sam ti, da æe biti taèan.|Idemo!
+{9438}{9626}{Y:i}SEOUL - YEOSU
+{9772}{9827}Bako, hoæeš li mi kupiti ovo?
+{9830}{9861}-Šta želite?|-Dva piva.
+{9863}{9913}-Dame i gospodo...|-Dva piva?
+{9916}{9966}-Hvala, što ste izabrali ovaj voz.|-Tu imate, hvala.
+{9969}{10062}Putovanje na 'Yeosu'...
+{10064}{10134}trajaæe oko...|-Hvala vam i prijatna vožnja.
+{10136}{10186}...6 sati i 35 minuta.|Oprostite.
+{10189}{10227}Nadam se...|Mogu li dobiti današnje novine?
+{10230}{10261}-Prijatna vožnja..|-1000 molim.
+{10263}{10304}...sa nama.|Hvala.
+{10314}{10474}Dame i gospodo, hvala|što ste se nam pridružili
+{10530}{10618}na zadnjem putu voza Šaronine ruže.
+{10621}{10700}Hvala vam za svu podršku u prošlosti
+{10722}{10802}i nadam se, da æe te|uživati u putovanju.
+{10942}{11021}Kako se oseæate na vašoj|poslednjoj objavi?
+{11023}{11061}Malo sam nervozan.
+{11622}{11651}Oprostite.
+{11692}{11718}Da?
+{11721}{11809}O, pogledaj to!
+{11824}{11903}-Hoæete li pivo?|-Pivo i suvu èašu.
+{11913}{12021}-Jeste li èuli?|-Dobro.
+{12023}{12090}Želim, da mi nabaviš njen broj,|pre nego izaðemo iz voza.
+{12093}{12210}-Jesi li èula to?|-Šta? Neznam...
+{12230}{12299}Šta? Da li oseæam malo|nekooperativnosti?
+{12302}{12342}Ne, gospodine. Mislim,da gospodine.|Nabaviæu broj.
+{12387}{12457}-Jako pada kiša, zar ne?|-Istina je.
+{12466}{12543}Ako me uhvate da bežim, mrtva sam.
+{12546}{12601}Da li smo ludi ili šta?
+{12603}{12658}Da li sad imaš hladne tabane?
+{12661}{12761}Ne, nije to.|Samo im ne verujem.
+{12771}{12821}Tu ne možeš ništa uèiniti.
+{12824}{12925}Samo kažem, da je to sve, kozo.
+{12927}{12975}-Jeli to sve, što imaš od odeæe?|-Zar nije lepo?
+{12978}{13045}Staromodno, izgleda ko nešto,|što bi obukla tvoja mama.
+{13054}{13124}-O, ne...|-Žao mi je, žao mi je.
+{13126}{13177}Jeli sve u redu?
+{13234}{13265}-Jesi li videla njeno lice?|-Da.
+{13658}{13694}Ta na meni...
+{13843}{13937}Mi-sun, napravi patrolu.|Biæe zabava.
+{13951}{13982}Dobro.
+{14082}{14145}Deca u ovim vremenima ne|vole slatke torte od pasulja.
+{14190}{14221}Slatko, zar ne?
+{14253}{14308}Sa Ju-hi smo prvi dan zapoèeli|sa nekim formalnostima,
+{14310}{14375}možemo i mi?|U redu.
+{14421}{14449}Da.
+{14714}{14742}Hvala.
+{14881}{14938}Ja sam moja najbolja stranka.
+{14965}{15032}Kakva je zabava?
+{15034}{15104}Zabava za odlazak u penziju g. Songa.
+{15106}{15147}A tako?
+{15159}{15238}I moj roðendan je.|Kakva prijatna sluèajnost.
+{15241}{15320}Stvarno? Zašto si menjala smenu,|da bi radila na roðendan?
+{15349}{15428}Imam svoje razloge.
+{15512}{15590}-Da li si znala, kad si se odluèila|to uèiniti? -Znala šta?
+{15619}{15643}Šta znala?
+{15646}{15719}Da su neke vagone iz|one strašne nesreæe lani
+{15722}{15797}prikljuèili ovom vozu.
+{15818}{15893}Puno ljudi tvrdi, da je|voz uklet. Puno ljudi.
+{15938}{16015}Ne veruješ mi?
+{16037}{16161}Govore, da ti duhovi|od putnika nemaju lica.
+{16270}{16303}Jesi li to videla? Tvoje lice|postaje neprepoznatljivo.
+{16305}{16327}Prestani!
+{16394}{16453}Jesi li se konaèno prepala?
+{16482}{16511}Nije smešno.
+{16545}{16593}Ne šalim se.
+{16756}{16797}Samo te želim držati u pripravnosti.
+{16826}{16854}Tamo su!
+{17061}{17099}-Èestitamo.|-Èestitamo.
+{17121}{17176}Ugasiti morate sveæe.
+{17178}{17223}Sve?
+{17226}{17281}Toliko ih je, koliko je|vaših radnih godina.
+{17298}{17377}Simbol novog poèetka. Ugasite ih.
+{17379}{17417}Hvala svima.
+{17430}{17559}Kad ne bi bilo vas,|mene ne bi bilo ovde.
+{17619}{17744}Sad æemo ja i ovaj voz postati prošlost.
+{17828}{17898}Vi svi imate još mnogo dana pred sobom.
+{17900}{17938}Potrudiæu se šta više mognem.
+{17955}{17988}Dajte, gospodine.
+{17990}{18050}G. Park, drago mi je bilo.
+{18067}{18113}Ne volim da vidim da odlazite.
+{18125}{18201}Mi æemo možda biti ovde,|al naše æe misli biti sa vama.
+{18262}{18302}Umorna sam.
+{18305}{18353}Dobro, dobro.
+{18444}{18487}-Èestitke.|-Èestitke.
+{18810}{18839}Hvala.
+{18849}{18892}Jeste li prvi put ovde?
+{18921}{19029}Da, stvarno sam se radovala.
+{19072}{19101}Nepbièno je, zar ne?
+{19122}{19168}Dajte mi nešto...
+{19178}{19230}O, da, hvala.
+{19418}{19468}ako ste ljubomorni, ostarite.
+{20151}{20213}Vreme je grozno...
+{20226}{20276}Moramo pogledati to sranje.
+{20402}{20477}Bodi u pripravnosti. Dobro?
+{20479}{20505}Da, gospodine.
+{22038}{22124}Na taj voz sam išao, jer idem na|godišnjicu mojih roditelja svake godine.
+{22136}{22215}I duh u belom me nije prestao pratiti...
+{22218}{22273}Sakrio sam se u WC-u.
+{22275}{22335}Bio sam stvarno prestrašen,
+{22338}{22397}pa još imam i slabo srce.
+{22470}{22546}Kad sam se probudio, ugledao sam ga.
+{22549}{22611}Zatim sam pogledao na sve strane,
+{22628}{22672}ali ga nisam mogo videti.
+{22673}{22721}Doðavola!|Lice je bilo neprepoznatljivo.
+{22724}{22774}Samo bela senka.|Mislio sam, da æu poludeti.
+{22776}{22836}Tako sam bio prestrašen.
+{22838}{22903}Vražije prestrašen.|Moje srce je slabo.
+{22906}{22939}Doðavola! Doðavola!
+{22975}{23136}To je voz, za koji ljudi|govore, da je uklet.
+{23148}{23189}Na godišnjicu nesreæe
+{23215}{23282}viðeni su ljudi i èudne stvari.
+{23306}{23333}Završeno.
+{23426}{23457}Saèekajte.
+{23542}{23601}Nešto nisam spomeno.
+{23603}{23658}Bilo je taèno pre tri godine.
+{23670}{23725}Bila je kišna noæ.
+{23778}{23869}Pušio sam u hodniku i kad sam se vratio,
+{23913}{23956}opazio sam, da me neko prati.
+{23999}{24052}Kad sam seo,
+{24054}{24126}neko je seo pored mene.
+{24155}{24270}Imao je kofer. Podseæao me je na|moga srednješolskog uèitelja.
+{24273}{24392}Hteo sam zapoèeti razgovor.
+{24423}{24452}-Pažljivo.|-Oprostite.
+{24454}{24562}Nije ga više bilo.|Èovek je ispario.
+{24582}{24617}Šta bi to moglo da bude?
+{24639}{24697}Bio je duh.
+{24699}{24785}Sav sam se naježio.|Mislio sam, da æu poludeti.
+{24814}{24905}Te prièe nisam rekao niti svojoj ženi.
+{24908}{24968}-To je bila ta stolica! Ovde!|-Saèekajte malo.
+{24980}{25050}Zašto?|Šta je?
+{25074}{25117}Jeli šta tamo?
+{25143}{25197}Šta je tamo?|Previše je bledo, da bi videla.
+{25224}{25262}Još neznam.
+{25270}{25358}Da.|Dobra si.
+{25361}{25411}Al smo bar svi zajedno.
+{25414}{25440}Zadnji put sam bio sam.|Mislio sam, da æe proæi.
+{25442}{25507}Oprostite, možete li|me propustiti, molim?
+{25538}{25574}Ona devojka tamo...
+{25586}{25653}Sedamnaest godina je stara|i može da vidi duhove.
+{25843}{25884}Molim vas, sklonite se.
+{25886}{25939}-Oprostite.|-Hej, makni se, pusti je da proðe.
+{26003}{26087}Ostanite tu i pozovite|nas, ako šta vidite.
+{26090}{26125}Samo mi?
+{26769}{26835}Jesi li sam?
+{26850}{26931}Mama je rekla, da æe me|saèekati na zadnjoj stanici.
+{26933}{26957}A tako.
+{26960}{27061}-Kako ti je ime?|-Hvang Jun-ki.
+{27466}{27514}Jesi li ti to nacrtao?
+{27583}{27631}Mogu li da vidim?
+{27792}{27862}Jeli to tvoja mati?
+{27876}{27926}Èeka me na zadnjoj stanici.
+{28082}{28166}Pažljivo pogledaj.|Mama je na toj slici.
+{28236}{28265}Ko...
+{28308}{28344}Ko je nacrtao ovo?
+{28386}{28439}To nisi ti nacrtao,
+{28480}{28516}jeli tako?
+{31863}{31933}88 olimpijaca je sa bakljama poèelo...
+{32666}{32688}Šta doðavola...?
+{32690}{32748}Ta devojka...|Na smrt me je prestrašila.
+{32786}{32829}Kakva zbrka.
+{33017}{33060}Znaš li, èije je to?
+{33062}{33093}To je moje.
+{33424}{33467}Gde si dobila to.
+{33474}{33525}Izgleda, kao da sam je kupila?
+{33551}{33618}-Nije tvoja, zar ne?|-Moja je.
+{33621}{33654}Koza luda.
+{33702}{33745}Pomoæi æu ti.
+{33765}{33829}-Hvala.|-Nema problema.
+{33894}{33933}Usput...
+{34033}{34071}Oh, nije važno.
+{34083}{34129}Kako ti je ime?
+{34148}{34213}So-hi. Jun So-hi.
+{34232}{34278}Da pogaðam,
+{34328}{34388}ti si Oh Mi-sun.|Jeli tako?
+{34515}{34546}Mi-sun!
+{34676}{34724}Želela bi te videti u baru.
+{35028}{35074}Jesi li se prepala perike?
+{35285}{35332}So-hi...
+{35381}{35500}Da li stvarno možeš da vidiš mrtve?
+{35525}{35581}Nije zapisano u kamenu, ko|može i ko ne može da vidi.
+{35596}{35637}Svako može da vidi.
+{35639}{35711}Stvar je u tome, da li veruješ ili ne.
+{35714}{35781}Nemoj da budeš tako prestrašena.
+{36191}{36232}Šta je sa tobom?
+{36246}{36347}Stvaraš takav nemir i to pred putnicima.
+{36350}{36387}I kolica si ostavila bez pratioca.
+{36390}{36452}Zar nemaš nikakve brige za putnike?
+{36493}{36528}Žao mi je.
+{36555}{36608}Noæne smene su još posebno napete.
+{36618}{36661}Razumeš, o èemu govorim?
+{36663}{36711}Da.
+{36759}{36843}-Ali...|-Njen prvi dan je, pusti je na miru.
+{36855}{36949}Zar se ne seæaš svoga?|Dala si pogrešnu objavu.
+{37026}{37066}Ostavljam je na miru.
+{37342}{37394}Malo se odmori.
+{37397}{37468}Tvoje zdravlje je tvoja odgovornost.
+{37471}{37545}Idi malo i odremaj u sobi za odmore.
+{37548}{37598}Ne, biæe sve u redu..
+{37601}{37653}Hajde.|Prihvati moj savet, Mi-sun.
+{37730}{37759}Dobro.
+{37927}{37977}Pogledaj taj naliv.
+{38020}{38070}Bože, ovaj voz je napušten.
+{38073}{38125}Uveren sam, da su ljudi|u drugim vagonima.
+{38296}{38392}Svejedno, malo je strašno.
+{38524}{38574}Vidi, tamo je jedan.
+{38594}{38644}Ko je tamo?
+{38816}{38849}Saèekaj minut.
+{38984}{39097}-Da, gospodine.|-Ko je?
+{39099}{39154}Jung-ho je, Li Jung-ho.
+{39171}{39248}A, tako, Jung-ho.
+{39250}{39289}O, lepo te je opet videti.
+{39298}{39380}To je moja žena.|Prošle sedmice smo se venèali.
+{39382}{39425}-Pozdravljam.|-Pozdravljam.
+{39428}{39534}Brak je put ka zrelosti.
+{39536}{39566}Èestitam.
+{39576}{39650}Da.|Na putu smo ka mojim roditeljima.
+{39653}{39715}-Stvarno?|-Kuda æe te vi?
+{39718}{39837}Na putu sam, da pretstavim|moju disertaciju i veæ kasnim.
+{39850}{39878}Disertaciju?
+{39890}{39941}Rad moje žene.
+{39958}{40080}Zbog žene sam preživeo|toliko žalosnih godina.
+{40082}{40142}Zato je bolje da dobro|èuvate taj kovèeg.
+{40145}{40240}Naravno.|Tu unutra je moj život.
+{40581}{40626}Nije loše.
+{42247}{42297}Mama. Ladno je ovde.
+{42317}{42364}Hladno.
+{42576}{42624}Previše hladno je tu.
+{42998}{43060}Previše hladno.
+{45007}{45036}Su-jin!
+{45184}{45227}Gde si doðavola?
+{45347}{45381}Pa...
+{45390}{45477}Oprosti.|Da li si je videla?
+{45501}{45546}Tu je sedela.
+{45604}{45647}Ne. Mislim da nisam.
+{45688}{45779}-Jesi li joj probala telefonirati?|-Ne diže slušalicu.
+{45801}{45851}Možda je izašla pred tebe.
+{45861}{45906}Ne bi rekla.
+{45945}{45982}Al njena tašna je još uvek ovde.
+{45985}{46092}Reci poslužiteljima.|Pomoæi æe ti.
+{46105}{46176}Ako je ne možeš naæi,|proglasiæe je za nestalu.
+{46855}{46893}Ti si to zapoèeo.
+{46896}{46939}Da, da, bilo šta.
+{46961}{47001}Sad si na svom.
+{47033}{47076}Ako izaðeš, sve je gotovo.
+{47350}{47385}Su-in...
+{47424}{47467}Doði te.
+{50142}{50226}Mi-sun! Požuri.|Voz æe otiæi.
+{52118}{52183}Jesi li dobro?
+{52308}{52374}Možda æe te misliti da sam luda,
+{52401}{52520}al još uvek viðam stvari.|-Stvarno?
+{52562}{52667}Noæne smene te ponekad umore|i poèneš zamišljati stvari.
+{52770}{52876}Pitao si me, zašto sam izabrala|moj roðendan za rad na tom vozu.
+{52902}{52993}Reko si, da je na tom vozu|nekoliko vagona iz one nesreæe.
+{53013}{53068}Moj otac je bio
+{53111}{53177}na tom vozu.
+{53194}{53254}Misliš na konduktera Oh Jong-hjuna?
+{53269}{53362}Da li ga poznaješ?
+{53403}{53489}U stvari znam za tebe veæ od pre.
+{53516}{53612}Znaš, da je to zadnja vožnja|ovog voza, jeli tako?
+{53658}{53691}Da.
+{53763}{53828}Jedina stvar, koju je ostavio za sobom,|je ostavština tragiènog gubitka.
+{53850}{53949}Uvek sam ga videla samo kao konduktera,|koji je bio kriv za tu nesreæu.
+{53952}{54009}To su pogrešni podaci.
+{54019}{54067}Niko
+{54132}{54180}ne bi razumeo.
+{54276}{54408}Ali celi život veæ živim u sramoti.
+{54485}{54604}Danas sam došla ovamo,|da poènem iz poèetka.
+{54691}{54744}Da završim tragediju i poènem ponovo.
+{54765}{54882}Mislim, da bi ti bio otac zahvalan,
+{54885}{54930}što ga još nisi zaboravila.
+{55765}{55796}Draga moja...
+{56005}{56064}Taj kreten nema ni dostojnog upaljaèa.
+{56378}{56445}Šta doðavola...?
+{58009}{58064}Ustani, Jung-ho! Probudi se!
+{58143}{58232}-Jesi li to èuo?|-Šta èuo?
+{58251}{58299}Zar ne oseæaš, da se noæas nešto dogaða?
+{58302}{58376}Jesi li pod stresom, jer idemo|posetiti moje roditelje?
+{58378}{58467}Ne, nije to.|Sad smo venèani.
+{58484}{58553}Dobro sam.
+{58556}{58688}Tako je, onda se prestani|uznemiravati i malo odspavaj.
+{58913}{59011}-Jeli to za vašu devojèicu?|-Da.
+{59033}{59100}Da, zadnje vreme sam puno van kuæe.
+{59102}{59186}Reko sam joj, da sluša tu pesmu,|ako se bude oseæala usamljeno.
+{59210}{59253}Koliko je stara?
+{59282}{59371}Upravo je napunila pet godina.|Samo malo...
+{59426}{59469}O...
+{59484}{59550}Lepotica je! Buduæa Mis Koreje.
+{59579}{59613}I to je ideja.
+{59639}{59701}Tu je moj ponos i radost,
+{59742}{59795}moja žena.
+{59886}{59970}O, prava kraljica lepote.
+{59999}{60028}Hvala.
+{60062}{60189}Kad sam se vratio iz moje prve radne|noæi, tresao sam se od glave do pete.
+{60201}{60270}Tvoj otac mi je kupio|tanjir rakove supe.
+{60273}{60382}Još uvek se toga seæam.
+{60421}{60459}Hvala.
+{60495}{60524}Za šta?
+{60555}{60591}Za sve.
+{60625}{60696}Ovaj put sam ja na redu za rakovu supu!
+{60932}{61006}Vidi, neko je pušio.
+{61368}{61389}Da, gospodine.
+{61392}{61442}Vratiæu se sa detaljima, gospodine.
+{61543}{61625}Policija æe uæi na sledeæoj stanici.|Nek niko ne napušta voz.
+{61627}{61668}Ne uznemirujte putnike.
+{63308}{63409}{Y:i}NOVODOLAZEÆA PORUKA.
+{64118}{64181}Bila je jedna od putnika.
+{64183}{64219}Molim vas, ne èinite to iz radoznalosti.
+{64222}{64269}Ne, nije to.
+{64291}{64325}Jeli ima nešto unutra?
+{64334}{64410}-Doði, idemo.|-Zašto?
+{64413}{64441}Doði.
+{64701}{64722}{Y:i}MOLIM TE, ODGOVORI. ŠTA SE DESILO?|PRESTANI SE LJUTITI I JAVI SE NA TELEFON.
+{64725}{64832}{Y:i}MOLIM TE, DIGNI SLUŠALICU. BEŽI.|NEŠTO JE U VOZU. IZGLEDA ÈUDNO.
+{64842}{64863}{Y:i}TELEFONSKI POZIV.|MOJA DRAGA...
+{66533}{66566}Jeli tu?
+{66607}{66660}Oh Jong-hjun, jeli tako?
+{66696}{66748}Nedostaje li ti tvoj tata?
+{66762}{66803}Uskoro æeš ga videti.
+{66882}{66930}Zašto bi ga htela sresti?
+{66971}{67009}Došla si na ovaj voz, zar nije tako?
+{67103}{67137}Šta želiš da kažeš?
+{67173}{67201}Umreæeš.
+{67238}{67295}Svi æete umreti!
+{67334}{67372}Ne, ne, ne!
+{67468}{67506}Šta to radiš?
+{67523}{67596}Idi!|Molim te, pusti me na miru.
+{67618}{67654}Prestani!
+{67738}{67812}Hoæeš li se prestati tako ponašati?
+{67894}{67923}Umreæemo.
+{67942}{67983}Svi æemo umreti.
+{67995}{68053}Mi-sun! Prestani!
+{68062}{68110}Hoæeš li da izgubiš posao?
+{68736}{68801}Seæaš li se?|Upravo si prošla test.
+{68887}{68985}Zašto sam ja jedina, koja vidi prošlost.
+{69138}{69234}Ko je Jung Jin-suk?
+{69366}{69493}Imala je spisak, koji sam joj proèitala.
+{69527}{69621}Ti je poznaješ od pre.
+{69650}{69683}Reci mi.
+{69700}{69753}Zašto...
+{69810}{69865}želi, da umremo?
+{69949}{69977}Bio sam...
+{70021}{70068}tamo ono veèe na vozu.
+{70141}{70198}Video sam je kako umire.
+{70270}{70321}Ali kako možeš da vidiš u prošlost?
+{70338}{70383}Zar ja nebi trebo viðati te stvari?
+{70386}{70426}Ne veruješ mi?
+{70453}{70529}Svejedno.
+{70558}{70664}Al nešto se dogaða.
+{70771}{70807}Onda,
+{70829}{70869}šta æeš uèiniti?
+{70910}{70946}Moram se sastati sa nekim.
+{71237}{71301}Ne, saèekaj malo,|gde je moja disertacija?
+{71304}{71397}Moja disertacija...|Moji papiri...
+{71831}{71865}-Gospodine.|-Profesore.
+{71966}{71999}Moji papiri...
+{72656}{72697}Verujem ti.
+{72735}{72785}Po zadnjem snimku
+{72819}{72881}sam ovde osetila stanje duha.
+{72891}{72970}Ali nisam mogla doæi
+{73004}{73078}pre blizu druge mrtve ženske.|-Ona je...
+{73117}{73154}Unutra?
+{73193}{73236}Ako je tako, to je znak.
+{73238}{73286}Kad umremo, duša se rascepi.
+{73294}{73344}Ako se duša izgubi i bludi
+{73411}{73445}ne znamo, šta može da se desi.
+{73447}{73533}Za to nije kriv èovek, jeli tako?
+{73536}{73601}-Mislim da.|-Ali kako æemo znati?
+{73603}{73644}Nikad ne možemo zasigurno znati.
+{73668}{73733}Možeš li nam pomoæi?
+{73764}{73800}Ne mogu.
+{73802}{73874}Kako to misliš?|Ti si naša jedina nada.
+{73877}{73931}Nisi li ti onaj, koji ih mora gledati.
+{73934}{74034}Tako je strašno.
+{74087}{74176}U pravu si.|Ne možeš se tako sa tim pomiriti.
+{74193}{74248}Samo se nadam, da se neæe ništa desiti.
+{74250}{74279}Ali...
+{74330}{74365}ako se šta desi...
+{74565}{74653}Šta æu sama?|Ti idiote, gde si sad?
+{74727}{74792}Zašto je tu otvoreno?
+{74905}{74938}-Gospodine...|-Šta se dešava?
+{74941}{74993}-Šta se dešava?|-Neznam.
+{75015}{75056}Idemo opet iz poèetka.
+{75363}{75449}Jesi li dobro, So-hi?
+{75471}{75556}Mežeš li me uvesti unutra?
+{76162}{76202}Žao mi je, So-hi.
+{76262}{76315}Sve æe biti u redu samnom.
+{76367}{76403}Doneæu ti neki lek.
+{77051}{77085}Kad se voz
+{77106}{77182}zaleteo, nisam bila baš|nimalo prestrašena.
+{77185}{77254}Mislim, da me je mati štitila.
+{77319}{77420}Trebala bi umreti sa njom, jeli tako?
+{77422}{77463}Život je kao vožnja sa vozom.
+{77518}{77609}Naša zadnja stanica je smrt.
+{77641}{77744}Prvi auto ide tamo i|tako sve do poslednjega.
+{77833}{77871}Zaboravi na to, Hi-ju.
+{77900}{77954}Dosta je bilo èekanja za danas.
+{78034}{78067}Volim te.
+{78810}{78846}Zašto ja ne mogu da znam?
+{82436}{82546}{Y:i}VOZ SE JE SUDARIO. 250 MRTVIH.
+{82558}{82608}{Y:i}ÈLANOVI OŠTEÆENIH PORODICA|OPLAKUJU SMRT NJIHOVIH BLIŽNJIH.
+{82621}{82707}{Y:i}ZAŠTO JE BIO MAŠINOVOÐA|OH JONG-HYUN U KONTROLNOJ SOBI?
+{83297}{83325}{Y:i}VOZ, KOJI JE BIO UNIŠTEN, OPET VOZI.
+{83328}{83366}{Y:i}VREMA ODLASKA POMERENO|SA 12:00 NA 11:50.
+{83402}{83505}Seæaš li se, šta nam je rekla So-hi.
+{83508}{83560}Kako je pala i
+{83613}{83665}èudan oseæaj,
+{83740}{83800}kad se voz zaustavio, dok nismo odvezli.
+{83826}{83949}Stajali smo 10 minuta,
+{83968}{84004}jeli tako?
+{84052}{84097}Uskoro æemo biti na sledeæoj stanici.
+{84110}{84143}Možda...
+{84201}{84246}Voz duhova
+{84325}{84377}i mi...
+{84411}{84464}stopljeni sa vremenom.
+{84769}{84821}Pitala si me o Jin-suk.
+{84898}{84944}Bili smo...
+{84973}{85020}Viðali smo se.
+{85083}{85135}Te noæi smo se jako posvaðali.
+{85207}{85250}Tada sam je zadnji put video.
+{85330}{85394}Kad je bila ugrabljena...
+{85533}{85579}Neæu da mislim na to.
+{85605}{85656}Po današnjoj noæi taj|voz neæe više voziti.
+{85682}{85752}Voz moramo sad zaustaviti.|So-hi je nestala.
+{85754}{85785}Mi-sun!
+{85810}{85872}Skoro smo veæ tamo.|Smiri se.
+{85874}{85919}Ne razmišljaš dobro.
+{85948}{85993}Sve te vizije te zavode.
+{86085}{86118}Da.
+{86140}{86181}Želim u sebi,
+{86214}{86257}da sam sve to izmislila.
+{86296}{86344}Stvarno si...
+{87267}{87308}So-hi, jeli sve u redu?
+{87573}{87660}Molim te, otvori oèi.
+{87706}{87756}Molim!
+{89065}{89097}Mi-sun
+{89125}{89170}Jesi li dobro?
+{89192}{89228}Šta se dogodilo?
+{89271}{89305}Duh ju je...
+{89389}{89441}odneo sa sobom.
+{89509}{89561}Bojim se, šta æe uraditi.
+{90029}{90124}Dobro dete ne krade.
+{90137}{90266}Ako kradeš, dobiješ po guzi.
+{90288}{90331}Ne boj se.
+{90410}{90477}Na taj voz si se ukrcala zbog oca.
+{90506}{90544}Pošalji ih nazad.
+{90576}{90657}Nek idu na... toplije mesto.
+{90679}{90719}Kako...
+{92036}{92086}Zašto to imaš?
+{92134}{92211}-Zašto bi to uradila?|-Uradila šta?
+{92245}{92288}Zašto bi je ubila?
+{92597}{92640}Ne boj se.
+{92669}{92724}Iæi æemo svi zajedno.
+{92726}{92817}Šta nameravaš?
+{92846}{92935}Ne pravi se da ne znaš.|Znaš o èemu govorim.
+{93012}{93041}Hi-ju,
+{93306}{93356}jesi li tamo?
+{93400}{93486}Znam, ko si.
+{93496}{93516}Obodvoje su.
+{93806}{93897}Poèni moliti, da bi išli|negde gde je bolje.
+{94323}{94371}Dame i gospodo,
+{94393}{94476}voz æe uskoro stiæi na sledeæu stanicu.
+{94493}{94585}Zbog posebnih okolnosti prispeæemo...
+{94587}{94659}-Gospodine, nešto nije u redu.|-Šta?
+{94661}{94725}Približavamo se stanici,|a voz ne usporava.
+{95006}{95049}Kontrolna soba!|Kontrolna soba!
+{95071}{95109}Mašinovoða! Seo Tae-Jong!
+{95133}{95162}Šta se dogaða?
+{95172}{95208}Ustavite voz!
+{95359}{95424}-Šta za Boga...|-Neznam.
+{95469}{95503}Centrala!|Centrala!
+{95584}{95620}Molim, javite se, završeno.
+{95639}{95689}To je broj 487, jeste li primili?
+{95761}{95891}Gospodine. Udariæemo.
+{95961}{96011}Evakuišite putnike u zadnji deo voza.
+{96244}{96275}Mi-sun...
+{96334}{96394}je možda bila u pravu.
+{96533}{96593}-Šta se dogaða?|-Rekli su nam, da se pomaknemo nazad.
+{96596}{96658}Zašto se doðavola pomièemo?
+{96661}{96723}Mašinovoða je objavio,|molim, da me pratite.
+{96725}{96805}Hej drži to, ti blento.
+{96807}{96886}Prestani mi govoriti, šta da uradim.
+{96965}{97013}Gospoðo!|Pomeriti se morate, gospoðo.
+{97016}{97073}To je moja stanica.|Tu moram izaæi.
+{97076}{97149}I ja isto ne znam.|Odmah se morate pomeriti.
+{97169}{97204}-Zašto, zašto, zašto?|-Ne znam.
+{97236}{97281}Zaslužujemo da znamo, šta se dešava.
+{97327}{97380}Šta se doðavola dešava?
+{97397}{97425}Bože.
+{98505}{98588}Draga, iæi æu.
+{98677}{98715}Sad,
+{98756}{98811}kad sam te video,
+{98845}{98883}uzeæu ih sa sobom.
+{98909}{99008}Kad budu stigli, svi æe znati,
+{99027}{99070}da su svi mrtvi.
+{99137}{99173}Mi-sun!
+{99176}{99265}Probudi se!
+{99332}{99382}-To boli.|-Zašto me guraš?
+{99385}{99444}-Bože!|-To nije to, nismo nikakvi...
+{99528}{99612}Ne znamo ni šta se dešava, taj|klinac je sebi priuštio da spava.
+{99621}{99672}Hej, probudi se!|Probudi se, kad kažem!
+{99713}{99744}Hej!
+{99811}{99854}Sigurno je pijan.
+{100027}{100056}Kyu-sik!
+{100130}{100221}Prestani se zezati.
+{101309}{101377}-Šta se dogodilo?|-Nisam siguran.
+{101379}{101410}O èemu govoriš?
+{101413}{101444}Neko je tamo...
+{101540}{101569}Napred!
+{101901}{101930}Pomièite se napred!|Idemo.
+{102065}{102103}-Šta je to?|-Idemo.
+{102499}{102573}Gospodine, pomozite mi!|Gospodine!
+{102590}{102662}Hej!|Poguraj! Poguraj!
+{102684}{102717}Jesam li ti rekao, da smo|trebali iæi sa autobusom.
+{102719}{102805}Mislio si, da æemo u vozu uhvatiti|kakvu žensku. Vidi nas sada!
+{102815}{102865}Uæuti doðavola i trèi.
+{102949}{102978}Trèi! Trèi!
+{102981}{103057}-Trèi! Požuri!|-Trèite samnom, gospodine!
+{103060}{103096}Uæuti, ti idiote!
+{103120}{103158}Duh?
+{103266}{103316}Ju-mi, Ju-mi!
+{103393}{103470}-Èujem bebu.|-Prestani, Ju-mi.
+{103485}{103539}-Beba plaèe.|-Ju-mi...
+{103541}{103604}-Tu nema nikakve bebe, Ju-mi.|-Beba plaèe.
+{103606}{103637}Ju-mi...
+{104493}{104532}To je voz duhova.
+{104592}{104647}Na kraju se razotkrio.
+{106388}{106433}Kako æemo ga ustaviti?
+{106505}{106537}Mi...
+{106585}{106683}Moramo se voziti na mesto nesreæe.
+{106783}{106838}To mesto je veæ godinama zapeèaæeno.
+{107448}{107479}Ko je?
+{109421}{109452}Jin-suk...
+{109565}{109605}Tu æu biti.
+{109627}{109675}Žao mi je, da te nisam mogao spasiti.
+{109706}{109747}Ostaæu sa tobom.
+{109793}{109831}Ovde sam...
+{109845}{109884}...za tebe.
+{112607}{112667}Mama je mnogo volela tu pesmu.
+{112698}{112734}Da li se još seæaš?
+{112737}{112796}Lepa je bila tog dana.
+{112799}{112912}Još nikada do tog dana|je nisam videla lepše.
+{112950}{113063}Rekla mi je, da more diše.
+{113108}{113175}More nije životinja, kako može da diše?
+{113177}{113247}Ne, istina je. More diše.
+{113249}{113377}Kad izdahne, valovi postanu viši od kuæe
+{113413}{113511}i kad udahne,
+{113547}{113607}talas posisa nazad u more.
+{114240}{114369}Stvarno želiš pobiti sve te ljude?|Uskoro æemo se sudariti.
+{114868}{114928}-Prestani!|-Prestani!
+{114959}{115029}-Ustavi voz.|-Zaboravi.
+{115031}{115091}Znam, šta pokušavate uraditi.
+{115149}{115196}Zar ti nije jasno?
+{115199}{115235}Prestani.
+{115568}{115601}Ti!
+{115623}{115652}Ustani!
+{115779}{115832}Gledaj sa svojim oèima.
+{115861}{115899}Ubrzo æeš osetiti.
+{115911}{115981}Ubrzo æeš osetiti, da|se raspadaš na komade.
+{116333}{116371}Brate...
+{116431}{116462}Krvarim.
+{116676}{116709}Pogledaj.
+{116757}{116853}To je od nesreæe.
+{116990}{117090}Zar ne znate?
+{117220}{117270}Vi niste...
+{117282}{117322}Vidi ovo izgoreno.
+{117353}{117414}Moja Hi-ju zbog toga nije mogla|nositi majice s kratkim rukavima.
+{117453}{117565}Nikada neæeš znati, kako to boli.
+{117613}{117642}Još jednom pogledaj,
+{117666}{117736}nema ni jedne ogrebotine.
+{117774}{117817}Da li je nema?
+{117820}{117908}Zar ne vidite, da to nisu vaša tela?
+{117937}{118020}Nema nijedne ogrebotine.
+{118023}{118109}Stvarno si grozna.
+{118181}{118234}Kako možeš to govoriti,|kad gledaš tu ogrebotinu?
+{118778}{118819}Baš sada...
+{118872}{118939}ste u telima drugih ljudi.
+{118980}{119025}Zar ne znate?
+{119066}{119107}Pre 15 godina
+{119143}{119210}...su umrli.
+{119395}{119445}Kad su bili tako veseli, što|idu na porodièno putovanje.
+{119448}{119543}Vaši roditelji su mislili,|da je kraj života.
+{119555}{119649}Bilo je putovanje za|rad na samoubistvima.
+{119661}{119692}I...
+{119694}{119771}flaša sa otrovom je se|razbila posle nesreæe.
+{119785}{119898}Vaš otac je mislio,|da nema više nade.
+{119963}{119997}I zatim...
+{120021}{120076}se je sve desilo tako brzo.
+{120298}{120348}Uništenje voza
+{120363}{120416}neæe ništa promeniti.
+{120605}{120709}Hoæemo li stvarno na plaži
+{120711}{120781}opet videti mamu i tatu?
+{120797}{120853}Naravno.
+{120903}{120937}Hi-ju...
+{120973}{121077}Seti se, kako te je èvrsto zagrlila.
+{121169}{121221}Èeka na nas.
+{121262}{121329}To još ništa ne znaèi.
+{121406}{121492}Vaših roditelja nema više ovde.
+{121533}{121565}Ne!
+{121579}{121646}Ne, ne!
+{121646}{121733}Ne! Ne!
+{122008}{122051}Blizu smo, Hi-ju.
+{122145}{122180}Skoro smo veæ tamo.
+{122644}{122679}Brate...
+{122708}{122756}Želim iæi na plažu.
+{122782}{122823}Samo još malo.
+{122861}{122948}Uspeæemo!
+{123969}{124003}Tata!
+{125981}{126038}Draga, iæi æu.
+{126069}{126105}Uzeæu ih sa sobom.
+{128201}{128247}Oèe...
+{128273}{128328}Gde si bio tako dugo?
+{128443}{128563}Tako dugo sam èekala.
+{128604}{128640}Žao mi je, devojèice.
+{128820}{128858}Žao mi je.
+{129939}{129968}Draga!
+{130783}{130821}Hoæemo li
+{130944}{131013}od sada pa nadalje zajedno?
+{131107}{131138}Naravno.
+{131330}{131443}Žao mi je, tata kasni.
+{131725}{131769}Tata...
+{133154}{133192}Mi-Sun...
+{133351}{133399}Žao mi je, što ti nisam verovao.
+{133977}{134065}Jesi li u redu?
+{135897}{135979}Rekla sam ti, da bi morali uzeti taksi.
+{136070}{136147}Šta æemo reæi tvojoj mami?
+{136149}{136202}Tvojoj mami?
+{136205}{136283}Moja mati je tvoja mati i taèka.
+{136525}{136614}Vidiš? Jesam li ti rekao, da je taèan.
+{136650}{136686}Požurimo.
+{137995}{138495}{C:$0000FF}{y:bi}Obrada: DivX Genius ©2005
+{138520}{140020}ÐœÐ¾Ð»Ð¸Ð¼Ð¾ Ð²Ð°Ñ Ð´Ð° Ð¾Ñ†ÐµÐ½Ð¸Ñ‚Ðµ Ð¾Ð²Ð°Ñ˜ Ñ‚Ð¸Ñ‚Ð» Ð½Ð° www.osdb.link/88bff|ÐŸÐ¾Ð¼Ð¾Ð·Ð¸Ñ‚Ðµ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ ÐºÐ¾Ñ€Ð¸ÑÐ½Ð¸Ñ†Ð¸Ð¼Ð° Ð´Ð° Ð¸Ð·Ð°Ð±ÐµÑ€Ñƒ Ð½Ð°Ñ˜Ð±Ð¾Ñ™Ðµ Ñ‚Ð¸Ñ‚Ð»Ð¾Ð²Ðµ

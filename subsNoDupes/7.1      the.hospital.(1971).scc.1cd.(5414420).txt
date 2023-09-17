@@ -1,0 +1,1360 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{325}{475}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{774}{834}{Y:i}U ponedeljak ujutru,|pacijent po imenu Gernsi...
+{838}{945}{Y:i}muökarac, srednjih 70-ih, primljen je u|bolnicu jer se ûalio na bol u grudima.
+{961}{1006}{Y:i}Poslali su ga ovamo iz|staraËkog doma...
+{1010}{1104}{Y:i}gde je doktor njegovo stanje|dijagnosticirao kao anginu pektoris.
+{1134}{1174}{Y:i}To je veÊ aksiom...
+{1178}{1245}{Y:i}da lekari iz staraËkih domova|uvek greöe.
+{1269}{1332}{Y:i}Staûista koji je primio gospodina|Gernsija je, ipak...
+{1337}{1397}{Y:i}prihvatio tu dijagnozu i|prepisao mu morfijum...
+{1401}{1496}{Y:i}lek koji odgovara angini ali uopöte|ne odgovara emfizemu...
+{1500}{1570}{Y:i}koji je na ûalost ovaj starac|zapravo imao.
+{1585}{1658}{Y:i}U roku od sat vremena pacijent|je obamro i okupan znojem...
+{1662}{1746}{Y:i}odmah je prebaËen na intenzivnu|negu sa nepravilnim pulsom 150...
+{1750}{1834}{Y:i}pritiskom 90 sa 60 i ubrzanog|i isprekidanog disanja.
+{1855}{1926}{Y:i}Specijalizant na intenzivnoj nezi|joö viöe pogoröava greöku...
+{1930}{1990}{Y:i}leËeÊi starca od|pluÊnog edema.
+{1995}{2065}{Y:i}Dao mu je digitalis,|diuretik i kiseonik.
+{2081}{2122}{Y:i}Ovim je uspeo starcu da|povrati boju...
+{2126}{2182}{Y:i}te je isti vraÊen u svoju sobu,|u krilo Holi...
+{2186}{2242}{Y:i}rumenih obraza i|mirno spavajuÊi.
+{2454}{2555}{Y:i}Ali pacijent se veÊ nalazio u CO2 narkozi|i umro je te veËeri u 7:30.
+{2571}{2682}{Y:i}Ovo pominjem samo da bih objasnio|odakle slobodan krevet u sobi 806.
+{2754}{2845}{Y:i}Staûista iz ove priËe je jedan osion|mladiÊ po imenu äefer...
+{2850}{2958}{Y:i}koji se zabavljao sa tehniËarkom|iz hematoloöke laboratorije.
+{2964}{3027}{Y:i}Kao i u svakoj modernoj|bolniËkoj romansi...
+{3031}{3087}{Y:i}doktor äefer je zaskakao|ovu devojku...
+{3091}{3162}{Y:i}na invalidskim kolicima, nosilima,|policama u ostavi...
+{3172}{3252}{Y:i}u kuhinji, u mrtvaËnici, po mraËnim|bolniËkim budûacima,
+{3256}{3304}{Y:i}stojeÊi, sedeÊi...
+{3319}{3414}{Y:i}Zato moûete  misliti koliko mu je|znaËi slobodan krevet.
+{3449}{3510}Hej, äila, Hauard ovde.
+{3522}{3609}Sluöaj, za veËeras sam nam obezbedio|krevet. Pravi, bogom dani krevet.
+{5725}{5762}Doktore äefer...
+{6833}{6915}Jesi li ti znala da je doktor äefer u|sobi 806 zato öti je mrtav?
+{6919}{6944}äta?
+{6949}{7017}Samo sam ti rekla da je|doktor äefer mrtav.
+{7121}{7190}äta hoÊeö, Perezova?|-Ne znam u Ëemu je ötos...
+{7194}{7270}ali doktor äefer  leûi u sobi 806|prikljuËen na infuziju i mrtav.
+{7274}{7371}Nisam znala ni da je bolestan.|-äta priËaö gluposti?
+{7381}{7438}Znaö ti öta priËa?|-Ne.
+{7442}{7489}Moûda sam poËela da ludim.|Ne znam.
+{7498}{7551}Zar se pacijent iz sobe|806 ne zove Gernsi?
+{7556}{7617}Moûda se desilo neöto|öto ja ne znam?
+{7621}{7671}Perezova, nemam pojma|o Ëemu govoriö.
+{7675}{7711}Ovo je najËudnija stvar koju|sam ikad videla.
+{7715}{7764}Doktor äefer je u sobi 806,|mrtav.
+{7768}{7815}Koji doktor äefer?|Naö doktor äefer?
+{7819}{7896}Naö doktor äefer. Onaj koji svaku|ötipka za straûnjicu.
+{7900}{7955}Da li ti znaö öta priËa?|-Ne.
+{7959}{8003}Nemam pojma o Ëemu|govoriö.
+{8007}{8066}Kako to misliö, 'Doktor äefer je|u sobi 806, mrtav'?
+{8070}{8155}Mislim da leûi na daljem krevetu,|skroz mrtav sa infuzijom.
+{8159}{8249}I ako mi ne verujete, a vi lepo ustanite|i idite tamo da se same uverite.
+{8615}{8677}Dobro, moûda bi najbolje bilo da|pozovemo gospou Kristi.
+{9467}{9505}Doktor Bok.
+{9558}{9610}Da, gospoo Kristi,|recite?
+{9674}{9769}U redu je. Ionako je trebalo|svaki Ëas da ustanem.
+{9866}{9946}Izvinite, nisam Ëuo. Moûete li|da mi ponovite, molim vas?
+{10024}{10057}Znam.
+{10170}{10264}äefer, pastuv sa naoËarima,|oboûava sve sestre.
+{10352}{10422}Bojim se da vas ne razumem.|Kako to mislite?
+{10538}{10570}Je l' bio bolestan?
+{10648}{10679}Mislim...
+{10823}{10873}äta je uzrok smrti?
+{10974}{11044}Da li je bio na leËenju?|Mislim, ne shvatam.
+{11140}{11210}äta je radio u krevetu?|Rekoste...
+{11315}{11396}Gospoo Kristi, jeste li|zvali kancelariju?
+{11455}{11490}Dobro, ja Êu...
+{11518}{11559}Ne, ne, u redu je.
+{11615}{11691}Ionako bi mi svakog Ëasa zazvonio|telefon, naruËio sam buenje.
+{11780}{11803}Ljudi!
+{12555}{12590}äta kaûeö, Sandstrome?
+{12594}{12658}äta misliö dokle Êe prolaziti tvoja|monopolistiËka,
+{12662}{12707}iskljuËiva i rasistiËka politika?
+{12794}{12829}Oslobodite nadu!
+{12843}{12877}Stani.
+{12929}{13005}Herbe! Drago mi je öto sam|naleteo na tebe.
+{13034}{13069}äta ima?
+{13075}{13120}Jedan od mojih staûista je|jutros naen mrtav.
+{13124}{13169}Stvarno? éao mi je öto|to Ëujem.
+{13182}{13255}Jesi li se ti to preselio|u hotel? -Da.
+{13269}{13364}Stvari sa Filis tako loöe stoje?|-Tako stoje veÊ 24 godine.
+{13368}{13414}Opet Êeö da mi popujeö?|-Da.
+{13434}{13458}Boûe.
+{13470}{13527}Sluöaj. Ja sam te doveo|u ovu bolnicu....
+{13531}{13596}pa mislim da mogu da preskoËim|diplomatske uvode.
+{13602}{13666}Marti me juËe presreo u hodniku,|bio je veoma neraspoloûen.
+{13670}{13750}Upravo je zavröio ruËak sa tobom.|Rekao je da zvuËiö suicidalno.
+{13754}{13833}Marti voli da pretera,|ali nije jedini.
+{13853}{13922}Dûek Singer mi je pomenuo da|mnogo cirkaö.
+{13926}{13984}SuoËimo se sa tim,|nisi se skinuo.
+{13988}{14042}Koliko Ëujem, Ëak viöe ni|ne ideö ni u vizite.
+{14046}{14089}Danas Êu iÊi u vizitu.
+{14204}{14267}HoÊeö par slobodnih dana?|-Ne.
+{14273}{14346}Da odeö u Montigo Bej, da se napijeö,|potucaö neöto, uhvatiö  malo sunca?
+{14350}{14423}Zaboga, imam 53 godine sa svim|propratnim strahovima.
+{14427}{14470}Upravo sam napustio ûenu,|posle 24 godine.
+{14474}{14525}Standardan sluËaj melanholije|usled menopauze.
+{14529}{14614}HoÊeö da razgovaraö sa Ajnhornom?|-Ne treba mi psihijatar, ne brini.
+{14618}{14713}Samo treba da se vratim na posao i|biÊu dobro. éao mi je öto brineö.
+{14719}{14786}Sid je zvao iz Svetog Luke, kaûe da|tamoönji demonstranti...
+{14790}{14840}planiraju da dou i da se pridruûe|ovima ovde. -Boûe.
+{14844}{14895}Jesi li zvao policiju?|-Naravno.
+{15195}{15264}Svi su u sobi 806, doktore.|-äta se desilo?
+{15271}{15342}Mislim da Êu prepustiti gospoi|Kristi da vam objasni.
+{15711}{15749}»oveËe!|-äta se desilo?
+{15755}{15818}Video sam svakakvih guûvi,|ali ova...
+{15822}{15870}Ova ima odreenu draû.
+{15874}{15937}Jedna od noÊnih sestara je|mislila da je pacijent...
+{15941}{16002}pa ga je prikljuËila na infuziju.|äefer je bio öeÊeraö.
+{16006}{16054}Kako to misliö, prikljuËila|ga na infuziju?
+{16058}{16106}Stvarno zeznuta priËa,|doktore.
+{16110}{16164}Tu smo imali jednog starca|koji je sinoÊ umro.
+{16168}{16250}Tako je krevet ostao slobodan.|Znate äefera. Pravi pastuv.
+{16254}{16307}Nagovorio je neku sestru|da doe u krevet?
+{16311}{16367}Neku devojku sa hematologije|da kojom se muva.
+{16371}{16461}Boûe, prava rimska farsa. -UËinilo mi|se da Ëujem vaö glas, doktore.
+{16517}{16559}Predlaûem da to odmah|uradite.
+{16568}{16612}Straöno mi je ûao.
+{16753}{16788}Koliko sam ja shvatio...
+{16792}{16856}jedna od sestara je nenamerno|äefera prikljuËila na infuziju.
+{16860}{16890}Kako je to moguÊe?
+{16894}{16985}Ovo treba da raspravimo negde|drugde. -OdliËna ideja.
+{17028}{17067}Boûe, kakva zbrka.
+{17334}{17423}Takve stvari se deöavaju.|-Najbolje da pozovem patologa.
+{17427}{17472}I dalje ne razumem|öta se desilo.
+{17476}{17532}Nama je tebalo sat vremena|da sve shvatimo.
+{17536}{17598}Izgleda da je pacijent po imenu Gernsi|je umro sinoÊ u sobi 806,
+{17602}{17699}ali to niko nije preneo noÊnim sestrama.|Takve stvari se deöavaju.
+{17726}{17774}U svakom sluËaju,|sudeÊi po kartonu....
+{17778}{17868}pacijent Gernsi, je dobio|25 miligrama Sparina, taËno u 6.
+{17872}{17954}Gospoa Riardon je poslala sestru Perez|da mu u 12 da sledeÊu injekciju.
+{17958}{18033}U meuvremenu, doktor äefer je|uzurpirao baö taj krevet....
+{18037}{18072}za svoje liËne potrebe.
+{18079}{18130}Doktor Brubaker tvrdi da je to bio|ljubavni sastanak...
+{18134}{18180}i neke stvari potkrepljuju|tu hipotezu...
+{18184}{18262}kao na primer, Ëinjenica da je doktor|äefer bio go. -Shvatio sam.
+{18266}{18334}Drugim reËima, sestra Perez je uöla|i dala injekciju doktoru äeferu...
+{18338}{18408}misleÊi od njega da je pacijent Gernsi.|Boûe, ali ja stvarno ne shvatam...
+{18412}{18443}Mogu li da zavröim,|molim vas?
+{18447}{18549}Poöto mu je dala injekciju, Perezova je|primetila da je infuzija otkaËena.
+{18566}{18610}To je prijavila gospoi Riardon...
+{18614}{18694}koja je poslala sestru Rivers da je|ponovo prikljuËi.
+{18699}{18785}Riversova je na zameni. Nije upoznala|joö ni osoblje sa sprata.
+{18790}{18897}Niko nije znao ni kako pacijent izgleda|s obzirom da je tek jutros primljen.
+{18920}{18981}I onda mu je prikaËila|infuziju. -Da.
+{19012}{19053}Koliko?|-Litar.
+{19094}{19164}Petoprocentni rastvor glukoze|ne bi nikoga ubio.
+{19206}{19274}Da li je bio dehidriran?|Da li je bio bolestan?
+{19278}{19347}Zar se niko nije potrudio da|ga obie u toku noÊi?
+{19351}{19422}Niko nije pomislio da je|obiËan pacijent?
+{19426}{19474}Da li je bio hipersmolaran?|Da li je imao loöe srce?
+{19478}{19542}Sigurno je imao neku|vrstu tromboze.
+{19605}{19671}HoÊu da se ovo zakljuËi,|gospodine HiËkok.
+{19686}{19727}Vi i ja, gospoo Kristi, Êemo morati|da popriËamo o...
+{19731}{19766}preteranom zapoöljavanju|sestara na zameni.
+{19770}{19824}Imam skoro hiljadu sestara|u ovoj bolnici...
+{19828}{19915}Svaka od njih kad dobije pauzu|nestane na tri dana.
+{19919}{19994}Doktori se ûale da ne mogu da pronau|istu sestru na istom spratu...
+{19998}{20020}dva dana za redom.
+{20024}{20086}I öta sad, pobogu ja da kaûem|äeferovim roditeljima?
+{20102}{20152}Da ga je ubila sestra na zameni?
+{20156}{20228}Zato öto ne razlikuje ko je doktor,|a ko pacijent na ovom spratu?
+{20232}{20260}Boûe moj!
+{20270}{20339}Ovde je i nesposobnost|zarazna!
+{20425}{20492}Dve sestre ulaze u sobu,|zabadaju igle u Ëoveka...
+{20496}{20576}od kojih je jedna Jelko 18-ica,| stave mu stezaË oko ruke,
+{20580}{20635}uËvrste jadnikovu ruku|lepljivom trakom...
+{20639}{20691}i sve to pogreönom|kuËkinom sinu.
+{20718}{20827}Pobogu... gde obuËavate svoje sestre,|gospoo Kristi? U Dahauu?
+{20938}{20969}U redu.
+{21026}{21070}Spakujte ga i nosite ga|na patologiju.
+{21074}{21130}Posebno me interesuje njegov|öeÊer u krvi.
+{21134}{21235}Litar glukoze nikad nikog nije ubio.|Ko zna öta su mu vaöe dame uradile.
+{21263}{21327}Joö neöto, doktore?|-Ne.
+{21385}{21468}Pre nego öto pozovete porodicu, voleo bih|da o ovome popriËate sa doktorom Midom.
+{21472}{21539}Naravno, voleli bismo da|izbegnemo parnicu.
+{21939}{22023}Pristiglo je nekoliko stvari.|HoÊete da pogledate?
+{22178}{22204}Na brzinu.
+{22219}{22287}Doktor Esterhazi ûeli da|zaposli honorarce...
+{22291}{22334}dok traju letnji odmori.
+{22338}{22394}Kaûe i da su neke|proölogodiönje zamene...
+{22398}{22461}morale da Ëekaju öest meseci|da dobiju platu.
+{22465}{22556}Pita se da li moûete da uËinite neöto|da ovi ljudi budu brûe isplaÊivani.
+{22601}{22703}Doktor AroniviÊi se ûali da laboratorijske|analize presporo dolaze na urgentno.
+{22711}{22789}Zbog toga sam pozvala doktora Imelmana|i on mi je rekao da su tri mikroskopa...
+{22793}{22866}ukradena iz laboratorije u|poslednja dva meseca.
+{22870}{22942}I »arli Volters se ûali|na potkradanja.
+{22949}{23013}Sve to sam vam posebno|izdvojila.
+{23033}{23069}Kao öto znate...
+{23073}{23138}sloûili smo se da preuzmemo lokalne|ambulantne sluËajeve...
+{23142}{23221}kao dokaz bolniËke posveÊenosti|ovdaönjoj zajednici....
+{23235}{23303}i zbog toga je na prijemnom|ogromna guûva.
+{23327}{23406}Ne znam zaöto je ovo prebaËeno nama|u krilo, ali izgleda da misle da...
+{23410}{23461}Proverite da li je doktor Ajnhorn|u svojoj kancelariji.
+{23474}{23513}Koji doktor Ajnhorn?
+{23522}{23614}Oftalmolog ili psihijatar? -Psihijatar.|Nema veze, proveriÊu sam.
+{24062}{24092}Je l' tu?
+{24138}{24193}Imaö li minut, Dûo?|-Naravno.
+{24313}{24395}U poslednje vreme imam periode|akutne depresije.
+{24437}{24530}OËigledno da to postaje vidljivo.|Mnogi ljudi su veÊ primetili.
+{24570}{24666}Dûon Sandstrom je rekao da ne bi bilo loöe|da o tome porazgovaram sa tobom.
+{24680}{24775}HoÊeö da sedneö? -NeÊu.|Nisam dobar u ispovedanju.
+{24875}{24917}äta da ti kaûem?
+{24977}{25050}U poslednjih godinu dana, dve, tri...|Izgleda da to traje odavno...
+{25054}{25130}seÊam se da sam joö na fakultetu|razmiöljao o samoubistvu.
+{25159}{25194}U svakom sluËaju...
+{25218}{25292}oduvek sam mislio da je ûivot|previöe zahtevan.
+{25354}{25427}Ja sam jedino dete u porodici|srednje klase.
+{25458}{25537}Bio sam ponos svojih roditelja.|'Moj sin, doktor'. Znaö.
+{25558}{25664}Bio sam uvek najbolji u klasi.|Stipendija za Harvard. Mali genije.
+{25687}{25734}Brilijantni ekscentrik....
+{25773}{25868}koji se plaöio ûena, a za|sport bio nespretan.
+{25916}{25974}Boûe, kako da nastavim?
+{25985}{26051}Koliko sam shvatio, nedavno|si se rastavio od ûene.
+{26055}{26102}Napuötao sam je veÊ deset puta.
+{26110}{26150}I ona je mene napuötala|deset puta.
+{26184}{26302}Stalno smo se nalazili u procesu trvenja.|OËigledno, sadomazohistiËka zavisnost.
+{26345}{26378}Moja kuÊa je pakao.
+{26394}{26493}Imamo sina od 23 godine, kojeg sam|proöle godine izbacio iz kuÊe.
+{26516}{26560}Jedan razbaruöeni maoist.
+{26587}{26630}Ne znam gde je sad.
+{26644}{26749}Verovatno pravi bombu u nekom podrumu|kao pristupnicu univerzalnom bratstvu.
+{26796}{26899}Imamo i 17-ogodiönju Êerku koja je|dva puta abortirala u dve godine,
+{26910}{27005}i koja je proöle nedelje uhapöena zbog|rasturanja droge na rok festivalu.
+{27013}{27050}Pustili su je.
+{27095}{27157}TipiËna bogata ameriËka|porodica.
+{27231}{27293}Nije mi lako zbog|svega toga.
+{27334}{27409}Sebe krivim za ta dva mlada,|beskorisna ûivota.
+{27427}{27513}Nikad nisam koristio svoj roditeljski|autoritet. Ne umem ja to.
+{27544}{27598}O, Boûe, ne umem ni ovo.
+{27602}{27674}Dûo, daj da zaboravimo sve ovo.|Izvini öto sam te ugnjavio.
+{27684}{27760}Koliko ozbiljno razmatraö|samoubistvo, Herb?
+{27826}{27870}Zabavljam se razmiöljajuÊi|o raznim naËinima...
+{27874}{27925}kako da se ubijem a da to|ne liËi na samoubistvo.
+{27929}{27989}Ne bih voleo da porodicu|liöim osiguranja.
+{27993}{28055}Od digitalisa bi dobio|aritmiju.
+{28082}{28141}Dobar toksikolog bi|pronaöao tragove.
+{28157}{28245}Kalijum je mnogo bolji.|60 miliekvivalenata. Trenutno.
+{28254}{28319}Mada si onda u problemu|kako da se reöiö igle.
+{28323}{28418}40 miliekvivalenata ti daje dovoljno|vremena da se reöiö dokaza.
+{28422}{28507}Izgled da si jako dobro|razmislio o svemu.
+{28522}{28606}Trebalo bi da znaö da Ëovek koji stalno|priËa o tome nikad to ne uradi.
+{28610}{28681}Ne znam. Ja vidim jednog|iscrpljenog Ëoveka...
+{28695}{28776}emotivno ispraûnjenog,|optereÊenog krivicom...
+{28804}{28894}koji se sistematski oslobaa|ûene, dece, prijatelja...
+{28898}{28955}i pokuöava da se izoluje|od ovog sveta.
+{28976}{29053}Jesi li impotentan?|-PeriodiËno.
+{29067}{29150}äta to znaËi? -Toliko dugo nisam|probao da ne znam ni sam.
+{29234}{29325}Hajde da sve lepo zaboravimo, Dûo.|OseÊam se poniûeno i glupo.
+{29343}{29423}Moram samo da se saberem i|da se vratim na posao.
+{29427}{29516}Izvini na smetnji. »uvaj se.|Vidimo se kasnije.
+{29600}{29644}Spasite naöe domove!
+{29648}{29689}Siromaöni smo!
+{29693}{29738}Ne okreÊite glavu!|Ne ruöite domove!
+{31421}{31461}Sve spremno?|-Da, gospodine.
+{31652}{31702}Kakva je ono egzotiËna grupa?|-Pojma nemam.
+{31706}{31806}Ovde su veÊ sat vremena. -Mislim da|imaju veze sa starcem iz 806.
+{31819}{31895}Doktor Peri reËe da je za danas izabrao|tuberkulozu i ËvoriÊe na jetri.
+{31899}{31964}Da, gospodine. -Dobro je zato|öto sam to i ja prouËavao.
+{31968}{32014}Gadan sluËaj.|-Da, gospodine.
+{32264}{32335}Dobro, ko je prezenter.|-Ja, gospodine. Da poËnem?
+{32362}{32396}Gospodin Hemings!
+{32494}{32569}Ima li nekoga da mi se|nije prijavio?
+{32573}{32678}Ima li nekoga ko mi nije dao broj|svog zdravstvenog osiguranja?
+{32767}{32803}Urgentni.
+{32839}{32892}Ne znam, Sibil.|Kako se zove?
+{32898}{32953}Samo malo, molim vas.|Telefoniram.
+{32957}{33003}Zar ne vidite da telefoniram?
+{33010}{33058}Jesam, Sibil. Traûim.
+{33117}{33169}Naravno da ne.|Da li ikad urade?
+{33246}{33291}Izvinite, molim vas.|Oprostite.
+{33300}{33332}Tridesetdva?
+{33337}{33403}Ne znam öta da radim.|Svuda me prate.
+{33407}{33502}Tri ogromna crnca. Goli, sve im|se vidi, na sred ulice.
+{33518}{33587}Vise im do kolena.|Odvratno!
+{33617}{33701}Jesi li ti zvala gore da im kaûeö da prime|pacijenta po imenu Mitgang?
+{33705}{33742}To je onaj sa potresom?|-Ne znam.
+{33746}{33793}Sad su me zvali da kaûu da|nisi popunila karton.
+{33797}{33878}I kako moûeö bilo koga da öaljeö gore|na prijem ako se ja nisam sloûila?
+{33882}{33941}Sali, hoÊeö li, molim te,|da nestaneö odavde?
+{33954}{33987}Pacijent je u  Ëekaonici.
+{33991}{34065}Ako ûeliö da znaö njegov broj|osiguranja, idi pa ga pitaj.
+{34106}{34209}Doktore Spizio, izvinite,|imate li par minuta?
+{34221}{34301}Doktore, molim vas, da li|je ovo vaö rukopis?
+{34329}{34378}Kako mislite da proËitam ovo?
+{34402}{34497}äta je ovo, uganuÊe, lom zgloba?|Kako da proËitam te ökrabotine?
+{34510}{34553}Mislim, moram da poöaljem|raËune tim ljudima.
+{34559}{34604}Znam da se vi doktori|brinete za pacijente...
+{34608}{34687}a da sam ja samo kuËka iz raËunovodstva,|ali i ja moram da obavim svoj posao,
+{34691}{34732}mislim, ako nemate niöta|protiv, doktore.
+{34736}{34800}Mali je imao gadan prelom, pa smo|ga poslali na ortopediju,
+{34804}{34854}pre toga smo mu sve sredili|i stavili smo privremeni gips.
+{34858}{34953}A jeste li mu stavili zavoj?|Sigurno ste ga slali na rentgen.
+{34966}{35033}Kako mislite da naplatim|sve to?
+{35242}{35317}Vi ste Mitgang?|-Ja sam Mitgang.
+{35445}{35545}Da li nosite sa sobom zdravstvenu|knjiûicu, gospodine Mitgang?
+{35601}{35655}Da li vam je tu?
+{35678}{35724}Da li bar znate broj osiguranja?
+{35756}{35846}NeÊete otiÊi odavde dok ne saznam broj|vaöeg osiguranja. -Pusti ga na miru.
+{35910}{36008}Da li imaö neöto protiv da zamolim ovog|gospodina da ispunimo njegov karton?
+{36202}{36269}Izvinite, koji je broj vaûe polise|osiguranja, gospodine?
+{36322}{36393}Da li nosite zdravstvenu|knjiûicu sa sobom?
+{36557}{36589}Doktore Specio!
+{36612}{36683}Mislim da je jedan od vaöih|pacijenata upravo umro.
+{36692}{36738}Otkud vam ta ideja,|gospoo Kuöing?
+{36743}{36819}Zato öto nije hteo da mi da|broj svoje knjiûice.
+{37094}{37117}Isuse!
+{37138}{37191}Koliko dugo ovaj Ëovek|leûi ovde?
+{37195}{37245}Je l' to onaj doktor koji je|stigao ovamo oko 9?
+{37257}{37356}'Pobogu', rekoh, 'ovo je bolnica.|Jedna od naöih voica se pokvarila.'
+{37374}{37425}Imali smo sreÊe öto smo |odmah primetili.
+{37442}{37473}Jesmo li sad sve pokrili?
+{37477}{37555}Doktor Kiö me dovodi do ludila|sa rasporedom za ortopediju.
+{37559}{37618}Trebalo je sa mnom za to|da se dogovori.
+{37645}{37724}Pozvali su nas sa urgentnog. Jedan|doktor je umro od srËanog udara.
+{37728}{37781}Neko od naöih?|-Izgleda.
+{37850}{37909}Tome, moûeö li da sieö do|urgentnog...
+{37913}{37960}jedan od naöih doktora je umro.|-Joö jedan?
+{37964}{38046}Da, vidi öta je bilo. Ja Êu biti|i osmici i odmah se vraÊam.
+{38060}{38148}Ovo viöe nije potkradanje.|Ovo je veÊ otimaËina.
+{38161}{38258}TreÊi mikroskop ovog meseca.|-Je l' moûemo kasnije o tome?
+{38262}{38319}Moûe li u 13:00?|-13:00 je sasvim u redu.
+{38323}{38356}Vaö brat je u svojoj sobi.
+{38360}{38402}A to je?|-806.
+{38594}{38666}Za boga miloga, biÊeö u bolnici|samo dva vaöljiva dana.
+{38670}{38745}»emu sva ta galama?|-Ti si ovde kao neka budûa.
+{38749}{38787}Privatne sobe su popunjene.
+{38791}{38879}Da donesu Isusa Hrista tek skinutog sa|krsta, ne bih mogao da mu naem sobu.
+{38883}{38966}E pa ja ne ostajem u sobi sa Ëovekom|na umoru. -Nije na umoru.
+{38970}{39033}Samo je na ispitivanju.|NeÊeö ni znati da je ovde.
+{39037}{39113}Ako hoÊeö zasebnu sobu, idi kuÊi.|JaviÊu ti kad budemo imali slobodnu.
+{39117}{39184}Ali, za ovo si ti mene zvao, u panici.|Vi idete na odmor.
+{39188}{39236}Zaboga, Vili, sutra Êe ti|srediti taj polip.
+{39240}{39294}U Ëetvrtak Êeö biti kod kuÊe,|a u petak na Majamiju.
+{39298}{39395}Moûeö li da urazumiö ovog ludaka?|-Sam si rekao. Jeste ludak.
+{39403}{39469}Budûa! Ne moûe ni zasebnu|sobu da mi obezbedi.
+{39482}{39519}DaÊu ti ja neöto za|smirenje.
+{39527}{39579}'Pet. Ceo...
+{39625}{39653}stomak'...
+{39700}{39750}Ostatak se troöi negde drugde.
+{39758}{39803}'äest. Ascites'...
+{39842}{39898}koji sadrûi viöe od|4 grama belanËevina.
+{39906}{39960}Neobjaönjiva anemija,|leukopenija.
+{39974}{40042}Neobjaönjivo poveÊanje nivoa|gama globulina.
+{40046}{40142}Posebno Ëudni flokulacioni testovi|i naravno, pozitivan PPD.
+{40152}{40261}Sve ovi nalazi su posebno|znaËajni za crnce.
+{40290}{40350}Ovo se preporuËuje za|mnoge stvari.
+{40354}{40429}PreporuËljivo je i za groznicu|koliko se ja seÊam.
+{40434}{40503}Osoblje ovog sprata je|zasluûilo aplauz.
+{40514}{40567}U redu, idemo da pogledamo|devojku.
+{40571}{40638}Ovaj sluËaj se mora prijaviti, Brubakeru.|Ja Êu im pisati.
+{40704}{40729}Sestro...
+{40745}{40801}ko je najstariji staûista|na ovom spratu?
+{40806}{40917}Doktor Brubaker. Ali, trenutno se|sa öefom nalazi u viziti.
+{40926}{40963}To je tamo?
+{41034}{41144}Pitam se, da li postoji neka korelacija|izmeu tuberkuloze jetre i narkomanije.
+{41157}{41226}Pretpostavljam da ste prvo|razmatrali SBE?
+{41230}{41324}Da, gospodine. Ali smo iskljuËili poöto|su testovi krvi bili negativni.
+{41330}{41383}Ti si, Ambler. Je l' tako, Ambler?|-Da, gospodine.
+{41387}{41444}äta se joö traûi u bakterijskom|endokarditisu?
+{41577}{41652}Doktor Brubaker, imate li jedan|minut, molim vas?
+{41808}{41886}Joö je pomalo ûuÊkasta.|Kod koga je oftalmoskop?
+{42006}{42056}Da li je iko primetio|Rotove pege?
+{42114}{42178}Niöta ne brinite. Nema ih.
+{42187}{42261}Ambler, ti si bio glavni|za SBE.
+{42265}{42342}Kakva joj je lateksna fiksacija?|-Nismo je uradili, gospodine.
+{42435}{42522}Zar ne misliö da je to bitno da bi se|ustanovilo da li je SBE ili tuberkuloza?
+{42526}{42576}Ne ti, Bugelmane.|Ambler.
+{42587}{42675}Postoji Ëak 70% moguÊnosti da pokaûe|laûno pozitivan lateks u SBE.
+{42690}{42730}Vidim da si Ëitao o tome.
+{42734}{42777}Da je dijagnoza bila SBE....
+{42785}{42849}da li bi pozitivni lateks ikako|uticao na terapiju?
+{42853}{42918}OËekivali smo da lateks|bude negativan. -Ako...
+{42922}{42985}Ako terapija antibioticima|bude uspeöna.
+{42990}{43067}Jesi li se ovde prijavio za internistu?|-Nisam joö siguran.
+{43074}{43146}Doi posle kod mene. Moûete li|da sednete, molim vas?
+{43457}{43519}Ovde imamo mali problem,|doktore.
+{43572}{43640}Ona tamo devojka je Êerka|pacijenta iz 806.
+{43644}{43737}On je trenutno bez svesti, hrani se|intravenozno i na lekovima je.
+{43742}{43807}Problem je öto Êerka ûeli da|izvede oca iz bolnice...
+{43811}{43861}i da ga vrati u Meksiko,|gde ûive.
+{43865}{43945}Pacijent se zove Dramond. OËigledno|da je metodistiËki misionar.
+{43949}{44034}∆erka i on vode nekakvu religioznu|misiju meu ApaËima.
+{44054}{44098}Sestra kaûe da je zavröila za|medicinsku sestru....
+{44102}{44157}tako da moûe da mu daje injekcije|i potrebnu terapiju.
+{44161}{44219}Po mom miöljenju, on ne bi smeo|da bude otpuöten iz bolnice.
+{44223}{44278}Njegov lekar, onaj tamo Ëovek u|braon odelu se slaûe.
+{44282}{44339}Stani, da razmislim joö|jednom o svemu.
+{44351}{44406}Zapravo, to je sluËaj|doktora Bigelmana.
+{44410}{44485}Batali sad profesionalnu etiku.|äta se desilo?
+{44509}{44608}Ne znam zaöto pokrivam onog kurvinog|sina sa odeljenja Farkis.
+{44617}{44701}Pacijent, muökarac od 56 godina,|primljen je pre deset dana u bolnicu...
+{44705}{44765}dobrog zdravlja, samo na kontrolu.|Bez vidljivih problema.
+{44769}{44862}Obavili smo obavezne preglede.|Krv, stolica, bris grla, EKG...
+{44866}{44956}Sve negativno. Ipak, pojavili su se|dokazi proteina i mokraÊi.
+{44960}{45028}Ne znam kako je taj skot sa|odeljenja Farkis to otkrio.
+{45032}{45098}Moûda je imao dogovor sa nekom|od devojaka iz laboratorije.
+{45102}{45138}Kako god, pojavio se sutradan...
+{45142}{45212}nagovarajuÊi pacijenta da|potpiöe dozvolu za biopsiju.
+{45216}{45294}Koji je to 'skot sa odeljenja Farkis'?|-Neki postdiplomac po imenu Ajvs.
+{45298}{45383}Elroj Ajvs. Nikad ga nisam video. Radi na|imunoloökim istraûivaËkim programima.
+{45387}{45453}HoÊeö da kaûeö da se pojavio neki|postdiplomac i da radi biopsije?
+{45457}{45508}Da, gospodine. I Bigelmana|je uhvatio na tu priËu...
+{45512}{45550}BelanËevine u mokraÊi?
+{45554}{45613}I uradio je biopsiju?|-I zasekao je sud.
+{45617}{45702}Bigelmana su probudili u 2 ujutru,|kad je pacijent bio veÊ u öoku.
+{45706}{45763}Bigelman je zvao urologe|da se konsultuje.
+{45767}{45838}Ali, öta su imali da vide? Pacijent|je bio u bolovima i krvario je.
+{45842}{45877}Onda je priËao sa onim|Satklifom.
+{45881}{45932}A on nas je uputio  na hirurgu|po imenu Velbek. -Velbek?
+{45936}{45982}Na onog berberina?|-To je tek poËetak.
+{45986}{46042}KonaËno smo oko 4 ujutru|pronaöli Velbeka.
+{46046}{46104}Rekao je da nastave, pa su|zakazali operaciju za 8.
+{46108}{46139}Velbek se pojavio polupijan,
+{46143}{46189}naredio intravenoznu pijelografiju,|pobrinuo se za alergije...
+{46193}{46254}Bez pravog testiranja i|pacijent je zapao u öok.
+{46258}{46322}I dobio cevastu nekrozu. Izvadili su|bubreg koji je krvario...
+{46326}{46383}vratili ga nazad u sobu i|Ëekali mokraÊu.
+{46387}{46488}Temperatura muje naglo porasla, uremija,|povraÊanje. Uredili smo sve za dijalizu.
+{46492}{46539}Sad mu je mokraÊa dobra...
+{46543}{46632}ali je neka sestra zeznula poslednji|tretman. Neku skretnicu, tako neöto.
+{46640}{46694}Krvni pritisak mu je pao.|Odveli su ga na intenzivnu...
+{46698}{46787}i dali mu dve jedinice krvi. Svi vitalni|znaci su mu u redu ali je i dalje u komi.
+{46791}{46850}To je bilo pre dva dana.|-U kratko...
+{46864}{46936}Ëovek doe u ovu bolnicu|savröeno zdrav...
+{46945}{47021}i u roku od nedelju dana,|izvadimo mu jedan bubreg...
+{47025}{47097}drugi mu oötetimo, bacimo ga u|komu, i zamalo da ga ubijemo.
+{47101}{47124}Da, gospodine.
+{47171}{47213}Znaö, Brubakeru...
+{47236}{47335}sinoÊ sam sedeo u svojoj hotelskoj sobi,|gledajuÊi ruöevine sopstvenog ûivota...
+{47349}{47396}i razmiöljajuÊi o|samoubistvu.
+{47419}{47525}Rekao sam, 'Ne, Bok, ne radi to.|Ti si doktor, iscelitelj.
+{47538}{47620}Ti si öef svih lekara u jednoj od|najveÊih bolnica na svetu.
+{47624}{47705}Potreban si ljudima.|Tvoj ûivot ima smisla'.
+{47727}{47820}Onda sam danas uöao ovamo i saznao|da su jednog od mojih doktora...
+{47824}{47895}ubile dve seste koje su od njega|mislile da je pacijent...
+{47899}{47961}zato öto je tucao tehniËarku iz|nefroloöke laboratorije.
+{47965}{48010}Hematoloöke...|-A sad mi ti dolaziö...
+{48014}{48117}sa ovom gotskom horor priËom u kojoj se|cela maöinerija moderne medicine...
+{48124}{48205}oËigledno zaverila da upropasti|jednog bezveznog pacijenta.
+{48238}{48345}Kako da obuzdam svoj oseÊaj da je sve|to besmisleno, kad Ëujem celu priËu.
+{48385}{48431}ReÊi Êu ti neöto.
+{48474}{48580}Da ovde postoji neka rerna,|sad bih nabio glavu unutra.
+{48626}{48693}Kako reËe da se zove taj tip|sa odeljenja Farkis?
+{48697}{48747}Ajvs, gospodine.|Elroj Ajvs.
+{48751}{48822}Neko mora dupe da mu pomeri.|-Ja Êu mu dupe pomeriti.
+{48826}{48907}I Velbeku Êu slomiti kiËmu.|RaskrinkaÊu ta dva ljudoûdera.
+{48911}{48998}Viöe nikad neÊe raditi u ovoj bolnici.|Pazi öta sam ti rekao.
+{49002}{49067}äta Êemo sa devojkom? Kaûe da|ne moûemo da je spreËimo...
+{49071}{49154}da odvede oca odavde.|Spremna je i ûalbu da uloûi.
+{49158}{49194}Pusti ga...
+{49221}{49256}pre nego öto ga ubijemo.
+{49350}{49415}Naite mi doktora Gilija.|Moramo odmah da razgovaramo.
+{49419}{49452}Ako treba, pustite mu poruku.
+{49456}{49530}Baö me briga ako operiöe.|I naite mi majmuna po imenu Ajvs.
+{49534}{49623}A-J-V-S. Ime, Elroj.|U paviljonu Farkis je.
+{49627}{49700}Moramo da razgovaramo, Dûo.|Doi u moju kancelariju, molim te.
+{49709}{49785}Da li imaö neku propalicu po imenu Ajvs|koja je trenutno u tvom odeljenju?
+{49790}{49876}Pored toga, hteo sam da pitam,|kakva to dijalizu radiö....
+{49891}{49919}Izvini.
+{49938}{49982}Gili? Bok je.
+{50005}{50055}Zar mi nisi pre nekoliko|meseci rekao...
+{50059}{50136}da Êeö onom kasapinu Velbeku|ukinuti sve privilegije?
+{50141}{50224}Da, Velbeku! Upravo je iskasapio|joö jednog mog pacijenta.
+{50234}{50268}Taj Ëovek je gusar.
+{50272}{50339}HoÊu da ga izvedem pred|Medicinski odbor.
+{50346}{50441}U tvom je odeljenju, ne u mom.|On je valjda neki hirurg!
+{50458}{50489}DoÊi Êu.
+{50508}{50592}Mislim da bi trebalo da znaö da u svom|odeljenju imaö nekog istraûivaËa...
+{50596}{50656}po imenu Ajvs, koji radi jako|sumnjive biopsije.
+{50660}{50710}Imamo veÊ dovoljno problema|da iskamËimo subvencije...
+{50714}{50793}od Niksonove administracije...|-Ajvs je mrtav. Zato sam ovde.
+{50839}{50885}Kako to misliö?|-Lepo, mrtav.
+{50889}{50957}Imao je srËani udar na|urgentnom.
+{50974}{51034}Imao je srËani udar na|urgentnom?
+{51061}{51118}äta je vo, koji moj? Kuga?|I gde je sad?
+{51122}{51168}Upravo ga nose na patologiju.
+{51187}{51242}...sledeÊe öto svi znaju je|da je tri sata kasnije....
+{51246}{51316}gospoa Kuöing iz raËunovodstva doöla i|rekla da u Ëekaonici leûi mrtav Ëovek.
+{51320}{51399}Ne nalaziö niöta groteskno|u svemu tome?
+{51403}{51482}Kako to misliö?|-Mislim, jutros u 8:30...
+{51486}{51546}naöli smo se kod doktora koji|je ubijen intravenozno...
+{51550}{51615}a sad, Ëetiri sata kasnije,|priËamo o drugom doktoru....
+{51619}{51678}koji je umro od infarkta u|Ëekaonici na urgentnom.
+{51682}{51724}äta hoÊeö da kaûeö?
+{51728}{51800}Misliö da imamo ludog ubicu koji|vreba u bolniËkim hodnicima?
+{51804}{51892}Pretpostavimo da je doktor Ajvs umro od|infarkta a äefer u dijabetskoj komi.
+{51896}{51948}Ljudi umiru od toga.
+{51952}{52022}Moûe biti da je sluËajnost, ali ne bih|rekao da je groteskno.
+{52026}{52097}Koliko Êe se joö baviti äeferom?
+{52275}{52361}Pretpostavljam da nemaö ûelju da|pozoveö najbliûu rodbinu? -Ne, hvala.
+{52392}{52427}Boûe, moram neöto|da popijem.
+{53974}{54004}Gospodine Mid?
+{54054}{54105}Vreme je za injekciju.
+{54714}{54773}äta se, pobogu ovde dogaa?
+{55882}{56007}Duöo, u sobi 806 imamo vraËa|i mislim da treba da odeö tamo.
+{56013}{56098}Znaö onog Indijanca koji je celu noÊi|presedeo u 806? Joö je tamo.
+{56102}{56195}I devojka je tamo i izvode|neke vudu vradûbine.
+{56201}{56276}A ja se ne öalim.|-äta to priËaö?
+{56297}{56397}Kaûem da je tamo onaj Indijanac,|i da polugo öeta...
+{56404}{56441}öeta sa nekom vreÊicom.
+{56445}{56497}Bolje da odeö tamo,|gospoo Dan.
+{56901}{56977}HoÊeö da vidiö neöto, duöo?|Hajde sa nama.
+{57022}{57121}To je sasvim bezopasna ceremonija.|Nema razloga za uzbuenje.
+{57125}{57170}Ionako Êe sve biti gotovo|za par minuta.
+{57174}{57262}Gospodin Blektri je öaman koji svoju|snagu crpi iz groma...
+{57266}{57364}i najbitnije je da svoj ritual zavröi|dok napolju joö besni oluja.
+{57368}{57430}Vreme posete je zavröeno|joö u 9 sati.
+{57437}{57508}Ovo öto se ovde deöava, doktore je|najobiËnija apaËka molitva...
+{57512}{57552}za ozdravljenje moga oca.
+{58387}{58464}Znaci koje je nacrtao|na rukama moga oca...
+{58469}{58510}nacrtani su polenom|biljke tule.
+{58514}{58598}GranËice nemaju veliki znaËaj|osim öto ih je udario grom....
+{58602}{58674}i öto neprestano prizivaju|duh groma.
+{58678}{58777}Sve je apsolutno bezopasno, doktore.|Religiozna ceremonija, a ne medicinska.
+{58783}{58869}Ne verujete valjda da Êe ga|to mrmljanje izleËiti?
+{58878}{58939}Sa druge strane, neÊe ga|ni ubiti, doktore.
+{58952}{58987}Dobro. Nastavite.|-Hvala.
+{58991}{59085}Joö uvek mislite da odvedete oca?|-Da, samo da naem ambulantna kola.
+{59089}{59154}Mogu li odavde da telefoniram?|-Moûete iz moje kancelarije.
+{59158}{59189}Hvala.
+{61812}{61868}Halo. Trebaju mi jedna|ambulantna kola.
+{61872}{61956}Trebaju mi jedna ambulantna kola|za sutra u 1:30 popodne.
+{61960}{62025}Dramond. Ime, Barbara.|PlatiÊu gotovinom.
+{62068}{62145}Ne. Treba da pokupite mog oca,|Edvarda Dramonda...
+{62158}{62260}u Medicinskom Centru Menhetn,|krilo Holi, soba 806.
+{62288}{62377}To je sluËaj za nosila. Pretpostavljam|da vi obezbeujete nosila.
+{62426}{62490}Treba da se odnese na izlaz|Amerikan Erlajnsa...
+{62494}{62581}na aerodromu Kenedi,|let 729 za Jumu, Arizona.
+{62607}{62677}Ja Êu pratiti pacijenta.|Hvala.
+{62944}{63033}Verujete li u vradûbine, gospoice|Dramond? -Ja verujem u sve.
+{63124}{63169}Jeste li za piÊe?|-Da.
+{63354}{63452}Trebalo bi da znate, moj otac je bio|izuzetno uspeöan doktor u Bostonu.
+{63470}{63535}Radio je na Medicinskom Fakultetu|na Harvardu.
+{63545}{63604}Udovac je a ja sam mu|jedino dete.
+{63613}{63686}Nije preterano religiozan, recimo,|trezveni Metodista.
+{63690}{63730}Jedne veËeri, pre|sedam godina...
+{63734}{63802}otiöao je na sastanak|pentakostalaca na Harvardu...
+{63806}{63857}i otkrio da govori mnogo|jezika.
+{63861}{63956}U straûnjem delu sobe pao je na kolena|i poËeo teËno da govori...
+{63962}{64022}na nekom jeziku koji niko|nikad ranije nije ni Ëuo.
+{64026}{64096}Takve stvari koje se Ëesto deöavaju na|skupovima pentakostalaca...
+{64100}{64158}poËele su redovno da se|deöavaju i mom ocu.
+{64162}{64257}Nije bilo neobiËno da se vratim kuÊi i|da zateknem oca u kancelariji...
+{64261}{64374}apsolutno smirenog, kako sam sa sobom|priËa na tom Ëudnom, stranom jeziku.
+{64398}{64450}U to vreme sam imala|20 godina...
+{64458}{64522}i imala sam obavezan rad o|manjinskim grupama.
+{64526}{64592}Ja liËno sam radila o jednom Hopi|Indijancu, postdiplomcu sa Harvarda...
+{64596}{64686}koji je radio doktorat o domorodaËkim|jezicima na Jugozapadu.
+{64702}{64780}Jednog dana dovela sam tog|Indijanca kuÊi...
+{64786}{64891}baö kad je otac u predsoblju pao na|kolena u jednom od svojih transeva.
+{64895}{65006}Indijanac zaviri u svoje radove|i reËe, 'Neka sam proklet!'
+{65030}{65109}Moj otac je govorio neki|apaËki dijalekt...
+{65115}{65157}nerazumni dijalekt...
+{65161}{65242}kojim je govorila samo neznatna|grupa tvrdoglavih Indijanaca...
+{65246}{65335}koji su proterani iz rezervata i koja|je otiöla da ûivi u totalnoj izolaciji...
+{65339}{65401}u planinama Sijera Madre u|severnom Meksiku.
+{65405}{65448}äta kaûete na to, doktore?
+{65486}{65550}A öta bi trebalo da kaûem,|gospoice Dramond?
+{65589}{65649}Sedim ovde i pijem, a onda vi|doete i ispriËate mi...
+{65653}{65727}neku suludu priËu o religioznom|preobraûaju vaöeg oca.
+{65731}{65815}Propustili ste suötinu. Nije se|preobratio moj otac, veÊ ja.
+{65829}{65920}Znate, to je bio jako teûak|period u mom ûivotu.
+{65924}{66027}Imala sam nekoliko manjih emocionalnih|problema, par samoubilaËkih kriza...
+{66031}{66120}ali niöta nije toliko uticalo na mene|kao taj Ëudni apaËki dijalekt.
+{66124}{66167}Pomislila sa, 'Au, ËoveËe!'
+{66171}{66242}Preda mnom je bilo jedno|pravo, ûivo nadahnuÊe.
+{66254}{66332}U narednih sedam dana moj otac je|zatvorio ordinaciju na Bikon Hilu...
+{66336}{66398}i spremio se da krene na misiju|u meksiËke planine.
+{66402}{66495}Ja sam vratila svoju SDS karticu, svoju|zaötitnu kacigu i krenula sa njim.
+{66502}{66559}Bila je to prava katastrofa,|bar öto se mene tiËe.
+{66563}{66634}Moj otac je spoznao|otkrovenje ali ne i ja.
+{66641}{66711}Stajao je onako mröav na padini|planine i propovedao apokalipsu...
+{66715}{66763}öto je neverovatno zabavljalo|Indijance.
+{66767}{66828}Ja sam mnogo masturbirala.|éiveli smo u vigvamu od trave...
+{66832}{66914}jeli ûive zeËeve i neko mrvljeno|zrnevlje. Bilo je uûasno.
+{66923}{66966}Posle dva meseca, vratila|sam se u Boston.
+{66970}{67067}Prazna ljuötura, razoËarana u sve,|oöamuÊena groznicom.
+{67099}{67189}Okrenula sam se asketizmu, Ëeöljala kosu|u pletenice i upisala ökolu za sestre.
+{67193}{67242}Bila sam unezverena, stalno|u pokretu...
+{67253}{67334}sa besramno incestuoznim|snovima o svom ocu.
+{67354}{67427}Radila sam to sa nekim starijim ljudima|koji su tamo radili. Jedan od njih...
+{67431}{67474}onako, naoËit psihijatar,|objasnio je..
+{67478}{67549}da me pokreÊe generisana|poûuda za mojim ocem.
+{67580}{67609}Pukla sam.
+{67614}{67717}Jednog jutra, pronaöli su me kako|öetam gola i viËem gadosti.
+{67741}{67787}Bilo je nekih predloga da me|strpaju u ludnicu.
+{67791}{67906}Zato sam se spakovala i vratila se|svom ocu u planine Sjera Madre.
+{67910}{67976}Od onda sam tamo. To je|sad tri godine.
+{67989}{68054}Moj otac je, naravno,|lud kao öeöirdûija.
+{68058}{68133}Pazila sam ga i moja radoznalost|je bila zadovoljena.
+{68178}{68235}Zato, vidite, u sve verujem.
+{68300}{68346}»emu cela ova priËa?
+{68373}{68420}Ja sam mislila da je|jasno kao dan.
+{68440}{68513}Pokuöavam da vam kaûem da sam|slaba na sredoveËne muökarce.
+{68524}{68566}Divim se vaöoj iskrenosti.
+{68588}{68655}Ne divite se samo tome.
+{68736}{68771}Samo gubite vreme.
+{68804}{68857}Godinama sam veÊ impotentan.
+{68886}{68915}Gluposti.
+{68938}{69006}äta ne valja u tome öto|je neko impotentan?
+{69070}{69150}Klinci su navuËeniji na seks|od Viktorijanaca.
+{69178}{69252}Imam sina od 23 godine. Proöle|godine sam ga izbacio iz kuÊe.
+{69256}{69302}Poboûni, mali prevarant.
+{69344}{69424}Propoveda univerzalnu ljubav|a mrzi sve ûivo.
+{69442}{69537}OseÊa neskriveni prezir prema srednjoj|klasi, Ëak i prema njenoj pristojnosti.
+{69543}{69631}Mrzeo je moju majku zato öto je|imala malo burûoaskog ponosa...
+{69635}{69675}na svog sina, doktora.
+{69709}{69823}Ne umem da vam kaûem koliko je bezobzirno|ignorisao tu izuzetno dobru ûenu.
+{69878}{69953}Kad je umrla, ni na sahranu|joj nije doöao.
+{69962}{70038}Mislio je da je opelo|najobiËnije licemerje.
+{70098}{70154}Rekao mi je da njegova generacija|neÊe da ûivi sa laûima.
+{70158}{70245}Rekao sam mu, 'Sluöaj,|svi ûive sa laûima'.
+{70337}{70389}Uhvatio sam ga za ponËo...
+{70418}{70472}pa sam ga vukao duû svih...
+{70485}{70546}sedam soba naöeg,|bezobrazno bogatog...
+{70550}{70637}naöeg stana srednje klase a onda|sam ga izbacio... napolje.
+{70771}{70818}Od onda ga viöe|nisam video.
+{70899}{70954}Znate öta mi je rekao?
+{70991}{71074}Stajao je na podestu na|ivici suza.
+{71107}{71146}Doviknuo mi je,
+{71202}{71237}'Matori prevarante!
+{71294}{71349}Viöe ne moûe ni da ti se digne!'
+{71414}{71456}To je bilo to, shvatate.
+{71478}{71529}To je bila njegova prava|revolucija.
+{71570}{71609}Nije se borio ni protiv|rasizma...
+{71628}{71698}ni protiv tlaËenja siromaönih,|ni protiv rata u Vijetnamu.
+{71775}{71873}Najrasprostranjenija ameriËka|druötvena bolest...
+{71882}{71929}je bila mlitavo sokoÊalo.
+{71970}{71994}Boûe moj!
+{72078}{72174}Ako u ovoj zemlji postoji prezrena,|neshvaÊena manjina...
+{72178}{72277}onda smo to mi, jadni, impotentni skotovi.|Impotentan sam i ponosan sam na to.
+{72287}{72351}Impotencija je predivna, luËe!
+{72378}{72455}Vlast impotentnima!|Odmah, luËe! -Odmah!
+{72522}{72550}Znate...
+{72603}{72700}kad kaûem impotentan,|ne mislim malko meköi.
+{72746}{72853}Koliko god to bilo neprijatno za ûenu,|muökarac moûe da usmeri svoju poûudu...
+{72907}{72984}na neke druge stvari koje su manje|prolazne od erekcije.
+{72994}{73056}Na neke prave vrednosti.
+{73066}{73144}Meni je to bila medicina,|razlog mog postojanja.
+{73274}{73312}Kad sam imao 34 godine...
+{73338}{73417}predstavio sam svoj rad na|godiönjoj konvenciji...
+{73421}{73468}Druötva KliniËkih Istraûivanja...
+{73472}{73535}kojim je otvoreno celo jedno novo|jebeno polje u imunologiji.
+{73539}{73569}Pravi proboj.
+{73580}{73627}Moje ime je u svim|udûbenicima.
+{73642}{73695}SluËajno, postao sam|poznat Ëovek.
+{73738}{73826}I znate öta joö?|Zabole me za to.
+{73909}{73953}Kad kaûem 'impotentan'...
+{74002}{74077}mislim da sam Ëak izgubio i|volju za poslom.
+{74128}{74206}A to mi je mnogo veÊa strast|nego seks.
+{74234}{74287}Izgubio sam razlog|za ûivot.
+{74297}{74326}Svoju svrhu.
+{74388}{74445}Jedino öto sam ikad voleo.
+{74609}{74656}Sve su to gluposti, zar ne?
+{74752}{74837}Transplantacije, antitela...
+{74897}{74939}Mi proizvodimo gene.
+{74966}{75028}Moûemo da zaËnemo bebu|vantelesno.
+{75050}{75123}PraktiËno, moûemo da kloniramo|ljude kao öargarepe...
+{75148}{75253}a polovina dece iz ovdaönjeg geta nije|vakcinisana na deËiju paralizu!
+{75280}{75381}Stvorili smo najveÊi...
+{75427}{75502}medicinski sistem koji se|moûe zamisliti...
+{75507}{75562}a ljudi su bolesniji nego ikad.
+{75596}{75641}Niöta mi ne leËimo!
+{75670}{75722}Niöta mi ne leËimo!
+{75795}{75874}Ceo ovaj prokleti, bedni svet...
+{75976}{76038}davi se pred naöim oËima.
+{76140}{76204}Na to ja mislim kad kaûem|'impotentan'.
+{76266}{76332}Nemate predstavu o Ëemu|govorim, je l' da?
+{76336}{76370}Naravno da imam.
+{76413}{76492}Umoran sam. Straöno sam umoran,|gospoice Dramond.
+{76539}{76571}I povreen.
+{76606}{76690}Viöe nemam zaöto da ûivim.|Moûete li to da shvatite?
+{76698}{76734}Naravno.
+{76754}{76802}A moûete li da shvatite i...
+{76829}{76900}da je smrt jedina prihvatljiva|stvar koja mi je ostala?
+{76977}{77052}Meni to zvuËi kao poznat sluËaj|morbidne menopauze.
+{77056}{77079}Hriste.
+{77110}{77162}Teöko mi je da ozbiljno|shvatim vaö oËaj.
+{77166}{77240}OËigledno da previöe uûivate|u njemu. -Odjebite!
+{77280}{77334}Samo mi je to sad trebalo,|ciniËno podsmevanje.
+{77338}{77405}Tamo neka 25-ogodiönja kurolovka,|usijane glave Êe...
+{77410}{77479}je naöla meni da priËa o|menopauzi!
+{77558}{77633}Voleo bih da budem sam.|Moûete li da odete?
+{77677}{77759}Kad budete izlazili ugasite|svetlo i zatvorite vrata.
+{77939}{78005}Gospodin Blektri ne odobrava|moju mini suknju...
+{78009}{78080}ali to je jedino öto sam imala|da obuËem za grad.
+{78102}{78167}U plemenu nosim jelensku|koûu do gleûanja.
+{78178}{78269}Sjajno. Zatvorite vrata i|ugasite svetlo.
+{81034}{81077}Kava vam je to injekcija?
+{81203}{81239}Ostavite me na miru.
+{81414}{81445}Kalijum.
+{81463}{81534}Ako ubrizgate dovoljno ovoga,|ubiÊe vas.
+{81540}{81610}Pomislila sam da sam vas pogreöno|procenila i da ste stvarno suicidalni...
+{81615}{81645}pa sam se vratila.
+{81687}{81722}Ko vas je zvao?
+{81880}{81951}Ostavite me na miru. Moûete li|samo da me ostavite na miru?
+{82073}{82105}Ostavite me na miru.
+{82182}{82232}Zaöto me ne pustite da|zavröim sa tim?
+{83059}{83100}Vidimo se.
+{83962}{84012}Da nemate öibicu, doktore?
+{84690}{84732}Jesam vas probudio?
+{84751}{84804}Koliko je sati?|-Joö malo, pa sedam.
+{84882}{84961}Doneo sam vam ovo iz garderobe|za bolniËarke.
+{84966}{85054}NadoknadiÊu vam suknju. Bojim se da je|toliko pocepana da se ne da zaöiti.
+{85058}{85161}Ili da vam kupim novu, ili da mi date|broj pa da vam je poöaljem.
+{85172}{85215}Nego, moramo da porazgovaramo.
+{85219}{85296}Da porazgovaramo? O Ëemu?|-O vaöom ocu.
+{85335}{85404}Mislim da u ovom stanju ne biste|smela da ga vodite odavde.
+{85408}{85442}Upravo sam pogledao|njegov karton.
+{85446}{85504}Nema razloga da se pretpostavlja|oöteÊenje mozga.
+{85508}{85563}Znate jako dobro, kao i ja da se u ovom|stadijumu ne moûe niöta predvideti...
+{85567}{85640}ali bi mogao svakog trena|da izae iz kome.
+{85656}{85731}Mislim da biste morala da ga ostavite|ovde. LiËno Êu se starati o njemu.
+{85735}{85840}Je l' to vaö naËin da mi kaûete da biste|voleli da ostanem u gradu joö par dana?
+{85844}{85890}I to bi bilo lepo.
+{85913}{85961}äta kaûete, gospoice Dramond?
+{85965}{86009}Mislim da moûete da me|zoveö Barbara...
+{86013}{86078}s obzirom da ste me sinoÊ tri puta|napastvovali.
+{86082}{86164}Tri puta? -Pazi ga samo kako|se pravi da nije brojao.
+{86176}{86235}Navaljivali ste kao besomuËni.
+{86239}{86325}Probuöili ste par rupa u svom krstaökom|pohodu za opötu impotenciju, zar ne?
+{86329}{86407}Mislim da Êemo od sad biti na 'ti',|i zato Êu vas zvati Herb.
+{86447}{86511}Barbara, nek otac ostane ovde joö|nedelju dana. äta kaûeö?
+{86546}{86611}Ne ûelim da moj otac ostane|u ovoj bolnici.
+{86627}{86685}Sanjala sam ovu bolnicu.
+{86693}{86735}Sanjala sam ovu ogromnu,
+{86739}{86832}krutu zgradu u belim ploËicama kako|iznenada eruptira, kao vulkan...
+{86857}{86936}i kako svi pacijenti, doktori, sestre,|posluûitelji, bolniËari...
+{86940}{87032}celo usluûno osoblje, ljudi zaduûeni za|ishranu, stari, Êopavi...
+{87036}{87089}i ti, taËno u sredini...
+{87093}{87193}utrËavate kao jedna grozna, vriöteÊa,|suicidalna masa, pravo u more.
+{87253}{87337}Vodim svog oca odavde i to|öto je pre moguÊe.
+{87437}{87497}Stvarno si blesava,|znaö li to?
+{87546}{87617}Recimo to ovako, Herb.|Volim te.
+{87649}{87759}Sviaö mi se od trenutka kad sam te videla|kako se nezgrapno penjeö ovamo.
+{87783}{87872}Rekla sam gospodinu Blektriju, 'Ko je|ovaj trapavi medved od Ëoveka?'
+{87909}{87972}ApaËi straöno poötuju|medvede.
+{87976}{88036}Nikad ne bi pojeli ili|odrali medveda.
+{88040}{88137}Medvede smatraju i bezazlenim i zlim|ali pri tom jako moÊnim.
+{88158}{88264}Ljudi koji imaju snagu medveda duboko su|poötovani i slove kao veliki iscelitelji.
+{88268}{88346}'Ovaj Ëovek', rekla sam, 'crpi|svoju snagu od medveda'.
+{88368}{88411}Sjajno. Sluöaj sad.
+{88446}{88525}Ako nemaö sobu u hotelu,|odnosno nikakav smeötaj...
+{88529}{88600}moûeö da ostaneö...|-Recimo to ovako.
+{88611}{88672}Moj otac i ja prihvatamo|smrt kao neumitnost.
+{88676}{88717}Ako umre, umro je.
+{88742}{88823}Vadim ga odavde i vodim da|u Meksiko taËno u 13:00.
+{88843}{88937}éelim da i ti poeö sa nama zato|öto te volim i ûelim decu.
+{89015}{89088}Bojim se da mi je Meksiko|malo predaleko.
+{89100}{89205}Tamo bi nam jako dobro doöao. Imamo|priliËno raöirenu tuberkulozu.
+{89222}{89268}Opet bi bio doktor.
+{89278}{89325}Opet bio nekom bio|potreban.
+{89341}{89401}Ako me voliö, ne vidim|drugi izbor.
+{89405}{89484}Kako to misliö, ako te volim? Silovao|sam te u samoubilaËkom besu.
+{89488}{89537}Kakve to, iznenada ima veze|sa ljubavlju i sa decom?
+{89541}{89596}Pobogu, valjda znam da li me|muökarac voli ili ne.
+{89600}{89674}Mislim, sinoÊ si mi bar pedeset|puta rekao da me voliö.
+{89678}{89711}Mrmljao si i vikao.
+{89715}{89797}Jednom si Ëak otvorio prozor|i prodrao se na ulicu.
+{89801}{89866}Verujem da je to pre zahvalnost|nego ljubav.
+{89870}{89901}Zahvalnost?|Za öta?
+{89905}{89986}Pobogu, zato öto si mi probudila ûivotne|oseÊaje za koje sam mislio da su mrtvi.
+{89990}{90032}Zaboga, a öta je po|tebi ljubav?
+{90036}{90104}Dobro, volim te!|I ti voliö mene!
+{90145}{90225}Ne mogu da se prepirem sa tako|neizleËivim romantiËarem.
+{90260}{90340}S obzirom da se meu nama|probudila strast...
+{90352}{90433}zaöto ti ne bi ostala u Njujorku joö|jednu nedelju ili deset dana?
+{90437}{90480}Sad je veÊ deset dana.
+{90484}{90553}Samo dok se stanje tvoga oca|ne poboljöa. -Ne.
+{90571}{90635}Sedam noÊi veÊ sanjam|ovaj proroËki san.
+{90639}{90682}Sedam je zlokoban broj.
+{90686}{90781}ZnaËenje ovih snova je sasvim jasno,|kao i znaËenje broja sedam.
+{90793}{90892}IzveöÊu i tebe i svog oca odavde|pre nego öto svi izginemo.
+{90908}{90949}Nisi normalna.
+{90953}{91016}Pola vremena si savröeno|inteligentna mlada ûena...
+{91020}{91083}a onda, sasvim iznenada|pretvoriö se u kabalistu...
+{91087}{91164}koja veruje u snove, vradûbine|i snagu medveda.
+{91168}{91238}Ne svia mi se kako si ceo moj ûivot|okarakterisala kao nesvrsishodan.
+{91242}{91291}IzleËio sam dosta ljudi, ovde|na Menhetnu.
+{91295}{91369}Ne moram zbog toga da idem u Meksiko.|Pored toga ovde i predajem.
+{91373}{91446}Svake godine poöaljem u|svet 80 doktora...
+{91451}{91512}Ëesto nadahnutih, ako niöta|bar struËnih.
+{91526}{91601}Izgradio sam jedno od najboljih|medicinskih odeljenja na svetu.
+{91605}{91695}Imamo izvanrednu srËanu jedinicu,|imamo izvanrednu grupu za bubrege.
+{91699}{91779}Mnogi ljudi dolaze ovamo|sa velikim problemima...
+{91783}{91888}a izlaze mnogo bolje, sa novim iskustvima,|zato nemoj da govoriö da sam beskoristan.
+{91898}{91996}Zaöto si onda pokuöao da se ubijeö|prekomernom dozom kalijuma?
+{92000}{92069}Gde si poöla? -U hotel.|Idem da se odjavim.
+{92073}{92132}Gospodin Blektri ne govori|engleski.
+{92136}{92201}VratiÊeö se, naravno?|-Naravno.
+{92205}{92270}Moram da platim raËun,|da spakujem oca...
+{92274}{92356}Mislim i da tebi treba nekoliko|sati da doneseö odluku.
+{92360}{92396}Kakvu odluku?
+{92401}{92460}Ti si jedan veoma umoran,|veoma povreen Ëovek.
+{92464}{92549}Imao si grozan brak, i pretpostavljam|nekoliko neuspeönih, usputnih veza.
+{92553}{92627}Sasvim je razumljivo öto si neodluËan|i öto ne ûeliö ponovo da se veûeö.
+{92631}{92691}I onda se pojavim ja sa svojom|besmislenom idejom...
+{92695}{92796}da sve odbaciö i da kreneö sa mnom u|neke jalove meksiËke planine.
+{92806}{92882}Apsolutno suludo, znam.|A sa druge strane...
+{92905}{93019}i ti ovaj svet smatraö otuenim kao i ja.|SinoÊ si pokuöao da se ubijeö.
+{93034}{93069}To je to, Herb.
+{93080}{93164}Ili ja i planine,|ili flaöica kalijuma.
+{93190}{93278}VratiÊu se za sat i malo jaËe.|BiÊu u oËevoj sobi.
+{93965}{94009}U redu, volim te!
+{94046}{94084}Boûe moj!
+{94211}{94307}Ponavljam, molim vas da|mirno izaete.
+{94329}{94419}Te zgrade su zagaene i nisu|pogodne za ûivot.
+{94447}{94529}Pri tom ste se, svi vi,|ilegalno uselili...
+{94547}{94597}i time prekröili zakon.
+{94610}{94672}Molim vas da mirno izaete.
+{94701}{94761}Bolnica je na sebe preuzela|odgovornost...
+{94765}{94850}da pronae 400 stambenih jedinica|u odgovarajuÊim zgradama.
+{94863}{94978}Bolnica ûeli da istakne da je ovaj|niz zgrada na Prvoj Aveniji...
+{94982}{95078}grad predvideo za ruöenje pre nego|öto su postale vlasniötvo bolnice,
+{95082}{95105}i to tek poöto su...
+{95109}{95217}odgovorni lideri ove zajednice...
+{95221}{95303}prihvatili izgradnju naöeg novog centra|za rehabilitaciju od narkomanije.
+{95314}{95417}Doavola. Desetak uglednih ljudi ove|zajednice me Ëeka u biblioteci.
+{95421}{95510}VeÊ dve godine pokuöavamo da|pronaemo pregovaraËku formulu...
+{95514}{95604}bez ikakve pomoÊi vas iz UrbanistiËkog|zavoda, ako smem da primetim.
+{95653}{95724}Ne... neÊu sve to da|pustim niz vodu...
+{95728}{95781}zato öto je neka bezvezna|grupa aktivista...
+{95785}{95852}reöila da laprda pred|TV-kamerama.
+{95864}{95953}Isterajte te ljude iz tih zgrada pre|nego öto se zidovi obruöe...
+{95957}{96057}ili izbije neki poûar jer Êemo se|onda suoËiti i sa nemirima.
+{96082}{96107}U redu.
+{96209}{96248}Imate problema?
+{96255}{96333}NeÊu vas dugo zadrûavati.|Ja sam Velbek.
+{96340}{96414}U ovoj bolnici sam veÊ|öest godina...
+{96418}{96481}i juËe popodne me je pozvao|doktor Gili...
+{96485}{96553}da mi kaûe kako se ukidaju sve moje|dosadaönje bolniËke privilegije.
+{96557}{96632}Da li znate neöto o tome?|-To su novosti za mene.
+{96636}{96723}Meni je rekao da je poslao izveötaj.|-Verovatno Êu ga sutra dobiti.
+{96727}{96785}Pretpostavljam...|-Kakav izveötaj?
+{96810}{96862}Ni s‚m nisam siguran.
+{96888}{96952}Pre sedam dana sam obavio|jednu nefrektomiju.
+{96956}{97031}Urgentni me je zvao oko 4 ujutru|poöto je Ëovek krvario...
+{97035}{97117}Stvarno mi je ûao. Moram|da idem na sastanak.
+{97128}{97182}U svakom sluËaju, ja tu niöta|ne mogu da uradim.
+{97186}{97248}Ako Gili... BiÊu u|biblioteci.
+{97253}{97311}Ako Gili ûeli da vam uskrati|vaöe privilegije...
+{97319}{97381}on je öef hirurgije i|to je njegovo pravo.
+{97385}{97423}MoraÊete na sasluöanje.
+{97427}{97526}Imam zakazanu laparotomiju za danas.|Nadam se da Êu moÊi da je obavim.
+{97530}{97602}Povezan sam sa ovom bolnicom|veÊ öest godina.
+{97606}{97690}Stanite, Ëini mi se da sam veÊ zbog|neËega naleteo na vaöe ime.
+{97733}{97769}SaËekajte malo.
+{97773}{97806}Vi ste momak...
+{97831}{97897}koji se bavi raznorodnim|medicinskim poslovima...
+{97901}{97991}koje ste objedinili i predstavili|javnosti. Ili tako neöto?
+{97995}{98045}Milton Mid mi je priËao|o vama.
+{98049}{98096}Vi ste pravi medicinki|konglomerat.
+{98100}{98185}Imate usluûnu fabriku, kompjuterizovani|servis za naplatu...
+{98189}{98265}delom ste vlasnik nekoliko bolnica|i nekoliko staraËkih domova.
+{98272}{98367}Pobogu, VelbeËe, pa vas ne treba izvoditi|pred komisiju za obiËne doktore.
+{98371}{98448}Vas bi trebalo malo da proËeölja|Komisija za Papire.
+{98452}{98545}MoraÊete na sasluöanje.|Ne mogu vam nikako pomoÊi.
+{98602}{98641}...zanemarivanjem crne|zajednice.
+{98645}{98731}Odbacujemo burûoaske, crnaËke|izdajnike srednje klase...
+{98735}{98789}koji prodaju crnce proletere...
+{98793}{98890}ekspazionistiËkim, rasistiËkim...|-Hajde da preemo na abortus.
+{98894}{98988}äta muöki establiöment uopöte|zna o abortusu?
+{98992}{99057}Ko je uopöte potegao temu|o kontroli raanja?
+{99065}{99129}Trenutno raspravljamo o|suzbijanju narkomanije...
+{99133}{99189}u naöoj zajednici,i|posebno u getu.
+{99193}{99288}Ne ûelimo prokleti abortus.|-Hajde da preemo na suötinu stvari.
+{99305}{99417}Poenta je da ova bolnica|poseduje te zgrade...
+{99421}{99462}i umesto öto ûeli da ih sruöi...
+{99466}{99554}i da izgradi imperijalistiËki produûetak|medicinskog establiömenta...
+{99558}{99620}ova bolnica bi morala da|da obnovi te stanove...
+{99624}{99680}i omoguÊi ovim ljudima pristojan|ûivot... -Molim vas.
+{99773}{99849}Znate... sinoÊ sam|halucinirao.
+{99891}{99997}Halucinirao sam da vidim Indijanca|koji je igrao ratniËki ples.
+{100021}{100081}Niste halucinirali,|gospodine Mid.
+{100085}{100160}Ovde je sinoÊ stvarno bio|Indijanac. -Jeste?
+{100187}{100245}Dobro.|Idemo u operacionu salu.
+{100521}{100565}Doktor Noris je rekao za|pola sata.
+{100569}{100621}Dobro. Meni sasvim odgovara.|-Pola sata.
+{100658}{100696}SaËekajte malo ovde.|-Gospoice äirli...
+{100700}{100752}to je samo cista na jajniku.
+{100769}{100842}U redu. Idite gore|u Holi 6...
+{100861}{100917}Na duplo. Idite.
+{100943}{101009}Ko je to? Je l' to|Manafrani?
+{101024}{101064}Da. Broj 3.
+{101097}{101139}Dobro jutro, doktore.
+{101246}{101317}Sada je legalno da doktor|ulaûe u Njujork, zar ne?
+{101321}{101349}Od proölog septembra.
+{101353}{101440}Da sam ja mogao u vaöim godinama|do sad bih uötedeo par miliona.
+{101444}{101500}Otvara vam mnogobrojne|moguÊnosti zarade.
+{101504}{101553}Recimo, deljenje profita.
+{101559}{101632}Recimo da je danas 31. oktobar,|vaö fiskalni rok.
+{101645}{101705}Prijavili ste bonus koji dospeva|za naplatu '71.
+{101722}{101808}ObraËunatu stavku glavni|deoniËar mora da plati...
+{101812}{101915}u roku od dva i po meseca od kraja godine|da bi dobio povraÊaj iz prethodne godine.
+{101919}{101979}Ali vaöa korporacija ne plaÊa|taj porez...
+{101983}{102069}jer smo bonus oslobodili|oporezivog prihoda.
+{102073}{102145}Sa dve oporezive stavke moûete|da ubijete mnogo troökova.
+{102149}{102208}Halo, ovde Velbek.|Ima li poruka za mene?
+{102240}{102308}U bolnici sam. Za par minuta moram|da otvorim nekog tipa.
+{102312}{102410}ProbaÊu da zavröim öto pre budem mogao.|äta je rekao, koliko je hitno?
+{102454}{102530}Doktor Hogan je napravio te aranûmane|sa pokroviteljima.
+{102534}{102637}Izjava o registraciji je zajedno sa SEC-om|popunjena joö pre godinu dana.
+{102659}{102708}Ako ponovo pozove,|javite mi ovde.
+{102943}{102992}Manafrani, je l' tako?|-Tako je.
+{103004}{103086}äta kaûete? Kao da mu slika|visi u Luvru?
+{103108}{103148}Nema pulsa,doktore.
+{103152}{103220}Koliko je pritisak?|-Nema ni pritiska.
+{103224}{103278}Nema pulsa. Intubirajte je|i dajte EKG.
+{103424}{103488}äta se desilo?|-Ja ovde niöta ne oseÊam.
+{103492}{103554}Doavola, öta se desilo?|-Nemam pojma.
+{103637}{103728}Sigurno je imala emboliju.|Bila je u redu, sve do sad.
+{103764}{103821}Jeste li proverili gasove?|-Jesam.
+{103834}{103889}Jedini put kad sam video|neöto ovakvo...
+{103893}{103963}bilo je kad je neka budala zamenila|dovode kiseonika i azota.
+{103967}{104007}Dajte prokleti defibrilator.
+{104011}{104075}Zaboga miloga, öta je sad?
+{104087}{104142}Mlada je ûena.|Da joj otvorimo grudni koö?
+{104146}{104218}Ima 53 godine, tupane.|-Bikarbonat.
+{104324}{104388}Isuse Hriste.
+{104463}{104501}Stanite na trenutak.
+{104535}{104605}Ventrikularna fibrilacija.|-Dajte mi lopatice.
+{104768}{104861}Moûda sam ja lud, doktore, ali mislim|da ovo nije vaö pacijent.
+{104909}{104969}Doavola, öto priËate gluposti?
+{105185}{105248}Ne ûelim da ulazim u detalje.
+{105252}{105294}Ovdaönje greöke pri leËenju|su ogromne.
+{105298}{105373}Kao öto vidite, öeÊer u krvi|doktora äefera bio je 23.
+{105379}{105461}Ni jedan rastvor glukoze ne bi mogao to|da uradi. To bi moglo da mu napravi...
+{105465}{105527}jedino 50 jedinica insulina,|moûda Ëak i viöe.
+{105531}{105646}Moramo da pretpostavimo da mu je jedna|od sestara dala 50 jedinica insulina...
+{105651}{105734}ili injekcijom ili intravenozno, mada|kako pobogu takva stvar..
+{105738}{105769}Izvinite, doktore.
+{105773}{105829}Mogu li da telefoniram?|-Naravno.
+{105913}{105973}Da li ste traûili od glavne sestre|sa osmog da vam javi...
+{105977}{106027}kad stigne gospoica|Dramond? -Jesam.
+{106031}{106093}Upravo je stigla.|-Bolje da odmah siem.
+{106097}{106141}Jeste li pozvali OOD?
+{106145}{106218}Onda pozovite doktora Gilija.|I pozovite gospodina Slouna.
+{106241}{106282}Da, silazim odmah.
+{106304}{106381}Jako mi je ûao, doktore. Neöto se|iskomplikovalo u operacionoj sali.
+{106390}{106459}Upravo su operisali pogreönog|pacijenta.
+{106553}{106616}Ne shvatam. Da li je|vraÊena u svoju sobu?
+{106620}{106704}Kad je vraÊena u sobu?|Ko je vratio?
+{106709}{106739}VraÊena je u svoju sobu.
+{106743}{106785}Ko?|-Gospoa Manafrani....
+{106789}{106847}ûena koja bi trebalo da je|na operaciji.
+{106851}{106920}Da li joö uvek operiöu|ûenu u trojci? -Da.
+{106924}{107002}éao mi je, gospoo Frid,|moûete li da ponovite?
+{107025}{107081}Niko odavde je nije|vratio nazad.
+{107116}{107188}Dobro, gospoo Frid.|JaviÊu vam se.
+{107245}{107320}Da li je iko od vas ûenskog pacijenta|po imenu Manafrani...
+{107324}{107409}izveo iz Ëekaonice i vratio|u Holi, oko deset sati?
+{107413}{107474}äta se desilo?|-Ne znam öta se desilo.
+{107482}{107569}Pacijentkinji Manafrani je po rasporedu|trebala da se uradi histerektomija,
+{107573}{107616}u deset sati. Doktor Malori.
+{107620}{107724}PriËala sam sa Silvijom iz Ëekaonice,|koja je primila. ZnaËi bila je ovde.
+{107728}{107817}A sad priËam sa gospoom Frid|iz petice...
+{107826}{107884}i ona kaûe da je bolniËar|gospou Manafrani...
+{107888}{107943}pre otprilike 20 minuta|vratio u njenu sobu.
+{107961}{108017}Gospoa Manafrani je sad u|svojoj sobi i spava.
+{108021}{108082}A ko je onda ûena u operacionoj|sali? -Ne znam.
+{108086}{108112}Je l' mrtva?
+{108131}{108201}Morali su da je otvore|a to nije dobro.
+{108281}{108325}Bolje da pozovem gospodina Mida.
+{108333}{108409}Sada ne moûemo da ispravimo|nepravde...
+{108413}{108475}sutraönjeg sveta, ali zato|moûemo li sada...
+{108479}{108563}samo da izvuËemo ljude iz|tih zgrada?
+{108577}{108657}HoÊete li me, molim vas sasluöati?|HoÊete li uÊutati?
+{108690}{108757}HoÊete li, molim vas uÊutati|i sasluöati me?
+{108762}{108808}Hajde da prekinemo|sa ovom...
+{108812}{108873}nazovi demokratijom...
+{108877}{108953}i da se usredsredimo na|trenutni problem.
+{108958}{109000}Kada se to desilo?|-Pre pola sata.
+{109004}{109038}Jeste li pozvali mrtvozornika?|-Nismo joö.
+{109042}{109125}Bolje ga odmah pozovite.|Pozovite i policijsku stanicu.
+{109197}{109226}Dobro jutro.
+{109256}{109297}Zanimljiv sluËaj, je l' da?
+{109301}{109361}UËinilo mi se da izgleda|drugaËije kad su je doveli.
+{109365}{109448}Rekao sam jednoj od sestara,|'Bez veötaka izgleda mlae'.
+{109452}{109494}Ja sam sa njom priËao|pre pola sata.
+{109498}{109569}Da li iko zna ko je ovo?|äta piöe u njenom kartonu?
+{109573}{109659}Njen karton i njena narukvica|kaûu 'Manafrani'.
+{109668}{109745}Jedino öto ta ûena nije|Manafrani.
+{109749}{109809}Isuse Hriste!
+{109853}{109929}VeÊ 30 godina vadim po|3 materice dnevno...
+{109933}{109991}i zar je previöe öto oËekujem|da mi ovde dovedete...
+{109995}{110075}pravu, prokletu matericu?
+{110093}{110144}PriËao sam sa njom u Ëekaonici.
+{110148}{110212}Bila je sasvim u redu.|Samo malo pospana.
+{110216}{110300}Kad su je doneli, pomislio sam da|je Ëudno öto je tako hladna.
+{110367}{110473}MoraÊemo da ostanemo ovde dok ne doe|gospodin Mid ili se ne vrati neko iz OOD-a.
+{110477}{110527}E pa ja neÊu da ispadnem|ûrtveno jagnje.
+{110531}{110618}VeÊ me Ëeka jedna tuûba zbog pogreönog|leËenja. NeÊu da dobijem joö jednu.
+{110777}{110817}Ne ideö.
+{110836}{110900}Volim te i neÊu te pustiti|da odeö.
+{110907}{111002}Hajde da raspakujemo i oca.|Ostaje ovde.
+{111023}{111053}PronaÊi Êu ti neki stan.
+{111057}{111135}Ja ûivim u prljavoj hotelskoj sobi.|Ne moûemo tamo.
+{111139}{111196}Ne mogu ja da ûivim ovde.|PuÊi Êi.
+{111200}{111273}Svoj zdrav razum mogu da povratim|samo u jednostavnom druötvu.
+{111285}{111331}Barbara, ne moûeö oËekivati|od mene...
+{111335}{111394}da ûivim u kolibi od trave i da|lovim zeËeve za veËeru.
+{111398}{111464}Budimo razumni, za boga miloga.|-Ja i jesam razumna.
+{111468}{111545}äta to ne smeö da ostaviö ovde?|Svoj plastiËni dom?
+{111549}{111636}Svoj rashlaeni vazduh? Svoju sintetiËku|odeÊu? Svoju instant hranu?
+{111640}{111706}Nudim ti zelenu tiöinu|i samoÊu.
+{111710}{111760}Prirodan poredak stvari.
+{111769}{111864}Iznad svega, nudim ti sebe.|Mislim da smo predivni, Herbe.
+{111904}{111963}Kad tako kaûeö zvuËi|sasvim prihvatljivo.
+{111970}{112059}Ne znam zaöto oklevaö.|äta te ovde zadrûava?
+{112078}{112116}Tvoja ûena?
+{112181}{112219}Ne, sa tim je gotovo.
+{112229}{112333}»ini mi se, ako sam ikad bio oûenjen, onda|je to bilo za bolnicu. Tako je oduvek.
+{112347}{112408}Ne mogu samo da odem odavde,|kao da to nije niöta.
+{112412}{112457}Ja sam srednja klasa.
+{112461}{112543}Meu nama, pripadnicima srednje klase,|ljubav nije ta koja pobeuje sve...
+{112549}{112588}nego je to odgovornost.
+{112599}{112698}Ne traûi od mene da ostanem ovde jer te|volim, zato öto Êu onda ostati.
+{112702}{112749}I oboje Êemo propasti.
+{112839}{112915}Moram joö da odem da|platim raËun.
+{112932}{112973}Idem i ja sa tobom.
+{113067}{113126}Herb, rekoöe mi da ûeliö da|znaö ime sestre sa dijalize.
+{113130}{113155}Kakve sestre sa dijalize?
+{113160}{113233}One koja je zabrljala sa onim tvojim|pacijentom, Dramondom.
+{113237}{113327}Zove se Tereza Kampanela.|Ovo neÊeö verovati.
+{113331}{113415}Umrla je na operacionom stolu u sali|broj tri pre sat vremena.
+{113425}{113494}äta to govoriö?|-»uo si za guûvu u trojci.
+{113498}{113564}Misliö, ona je ta? -To je ta.|Sad sam je identifikovao.
+{113568}{113593}Doavola, öta se ovde deöava?
+{113597}{113680}kad god pokuöam nekome da uem u trag|on umre ili od srËanog udara...
+{113684}{113729}ili u operacionoj sali od|anestezioloökog öoka
+{113733}{113825}Sluöaj, sad idem iz operacione sale.|Pokuöavaju da pronau doktora äefera.
+{113829}{113872}Imaö li nekog klinca po imenu|äefer meu svojim ljudima?
+{113876}{113966}Imao sam. JuËe je umro od prekomerne|doze insulina. Zaöto?
+{113970}{114059}Sestra reËe da je videla doktora|äefera kako se muva po Ëekaonici.
+{114063}{114103}BiÊe da to nije tvoj äefer.
+{114107}{114161}Sestra reËe da je neko od starijih,|sredoveËan muökarac.
+{114165}{114210}Takav ne postoji u ovoj|bolnici.
+{114214}{114317}Rekao sam im. Rekao sam im, 'Ne znam|nikoga od starijih po imenu äefer'.
+{114321}{114401}Poslali su ovamo i detektive.|Prava, velika istraga.
+{114405}{114479}Kako je sestra znala njegovo ime?|-Po ploËici sa imenom.
+{116014}{116105}Lud sam za Hristom i|Paraklitom iz Kaborke.
+{116133}{116177}Pobogu, tata.
+{116188}{116227}äta se ovde deöava?
+{116231}{116313}Mi smo mislili da ti je duöa u nosu.|Zaöto si ustao iz kreveta?
+{116317}{116345}äta se desilo?
+{116349}{116431}äta ti je uradio?|Je l' ti rekao neöto?
+{116449}{116490}Pravo da ti kaûem...
+{116494}{116592}rekao je, 'Lud sam za Hristom i|Paraklitom iz Kaborke'.
+{116613}{116673}Bolje zatvori ta vrata, jer ako svakome|ko bude uöao bude rekao...
+{116677}{116767}da je lud za Hristom i Paraklitom iz|Kaborke, svi Êemo u ludnicu.
+{116771}{116814}VeÊ je ubio dva doktora i|jednu sestru.
+{116818}{116893}Ja sam gnev jagnjeta i aneo|ponora bez dna.
+{116897}{116946}Kako to misliö, ubio je dva doktora|i jednu sestru?
+{116951}{117010}Mislim, ubio je dva doktora|i jednu sestru.
+{117025}{117071}Upravo je pokuöao i mene|da ubije.
+{117075}{117132}Ima neöto protiv doktora.
+{117153}{117259}Nekako je doöao do insulina koji je sipao|u äeferov intravenozni rastvor.
+{117271}{117335}Nekako je sredio i da doktor Ajvs|umre od infarkta...
+{117339}{117385}u sred Ëekaonice na|prijemnom odelenju.
+{117389}{117442}A nekako je uspeo da i sestra sa|dijalize, po imenu Kampanela...
+{117446}{117509}umre od anestezioloökog öoka|na operacionom stolu.
+{117513}{117619}Skita se po celoj bolnici u|mantilu doktora äefera.
+{117623}{117721}A svuda naokolo traje potera za|misterioznim doktorom äeferom.
+{117725}{117775}Neverovatno ti je, koliko i meni,|ali je oËigledno...
+{117779}{117829}da tvoj otac nije ni bespomoÊan,|ni komatozan.
+{117833}{117913}I ne gledaj me kao da sam ja lud.|Pitaj svog ludog oca.
+{117921}{117972}Ja sam samo instrument|Boûiji.
+{117988}{118025}Nikoga nisam ubio.
+{118038}{118102}Svo troje su umrli od|sopstvene ruke.
+{118109}{118177}Ritualne ûrtve svojih|sopstvenih institucija...
+{118189}{118228}ubijene ironijom.
+{118259}{118305}Oko za oko.
+{118341}{118383}Biblijska odmazda.
+{118406}{118477}äefer je bio prvi zato|öto je ubio Boga.
+{118501}{118569}U ponedeljak je u ovu bolnicu|primljen Bog...
+{118573}{118615}pod imenom Gernsi.
+{118629}{118697}{Y:i}Odmah sam bio svestan njegovog|boûanskog prisustva.
+{118703}{118797}{Y:i}Bio sam ubeen da je taj starac od|porcelana zapravo Gospodov aneo,
+{118814}{118864}{Y:i}moûda Ëak i Sam Hrist.
+{118886}{118951}{Y:i}Naö spasitelj je patio|od emfizema.
+{118976}{119050}{Y:i}Nemilosrdno je podvrgnut blagodetima|moderne medicine...
+{119054}{119107}{Y:i}te je umro u 7 sati uveËe.
+{119118}{119198}{Y:i}Nekoliko sati kasnije, pojavio|mi se kao otkrovenje.
+{119224}{119274}Ustani, Dramonde.
+{119305}{119380}Mrtav si, a sad si se|ponovo vratio.
+{119417}{119501}Oni koji su ubili tebe i|oni koji ubiöe mene...
+{119505}{119551}umreÊe umesto nas.
+{119603}{119665}Ti si Paraklit iz Kaborke.
+{119697}{119741}Gnev jagnjeta.
+{119784}{119817}Aneo...
+{119832}{119907}ponora bez dna.
+{120033}{120136}{Y:i}Nije baö bilo kao goruÊi grm, ali je za|mene bilo dovoljno podsticajno.
+{120155}{120242}{Y:i}Odreen sam da osvetim Boûiju smrt,|i svoje sopstveno sakaÊenje.
+{120246}{120332}{Y:i}Odreen sam da ubijem doktore|äefera, Ajvsa i Velbeka...
+{120340}{120397}{Y:i}i  sestru sa dijalize,|gospoicu Kampanela...
+{120401}{120458}{Y:i}Ëiji je nemar prouzrokovao|moju komu.
+{120464}{120561}{Y:i}»ekao sam znak od Boga koji mi se|i ukazao neöto kasnije te veËeri.
+{120565}{120641}{Y:i}Doktor äefer je ugovorio|sastanak...
+{120645}{120720}{Y:i}sa äejlom, devojkom iz|hematoloöke laboratorije.
+{120761}{120818}»oveËe, nadam se da|niko neÊe uÊi.
+{120906}{120961}A öta je sa njim?|-Taj je obamro.
+{120981}{121037}äta ima novo?|-Niöta.
+{121214}{121304}äta ti je ovo? -Moj insulin.|Zaboravio sam da ga vratim.
+{121329}{121396}äta Êe ti insulin? Nisam znala|da si dijabetiËar.
+{121400}{121457}Nisam zarazan, niöta ne brini.
+{121465}{121556}{Y:i}I onda ste uzeli insulin iz äeferovog|dûepa i stavili gau rastvor za infuziju.
+{121561}{121585}{Y:i}Da.
+{121591}{121632}{Y:i}Onda je uöla sestra...
+{121636}{121704}{Y:i}i prikaËila äefera na infuziju.
+{121741}{121811}Bog je oËigledno uneo u sve|odreenu dozu ironije.
+{121837}{121897}Bolnica je ubijala za mene.
+{121901}{122012}Moje je bilo samo da sredim da doktori|u svojoj bolnici postanu pacijenti.
+{122043}{122145}Zato sam sledeÊeg jutra iz apoteke|ukrao malo digoksina...
+{122165}{122224}i vreÊicu sa peskom za|usluûnih kolica...
+{122241}{122308}pa sam potraûio laboratoriju|doktora Ajvsa.
+{122331}{122403}Udario sam ga onom|vreÊicom peska...
+{122421}{122488}a onda sam mu ubrizgao|ogromnu dozu digoksina.
+{122502}{122590}Tako je odmah zapao u stanje|srËane aritmije.
+{122606}{122656}SaËekao sam da se|osvesti..
+{122669}{122740}a onda sam ga odveo na|prijemno odeljenje.
+{122756}{122817}{Y:i}Tada mu je ostalo joö, moûda|sat vremena ûivota.
+{122827}{122877}{Y:i}Da su mu odmah ukazali|pomoÊ ostao bi ûiv.
+{122881}{122945}Iznenada mu je pozlilo.|Odmah sam ga doveo ovamo.
+{122949}{123027}{Y:i}Kao ovdaönji doktor primljen|je bez ikakvih priprema.
+{123031}{123105}{Y:i}Izvröeni su osnovni pregledi.|Elektrokardiogram...
+{123109}{123200}{Y:i}je pokazao povremene prevremene|srËane kontrakcije.
+{123213}{123293}{Y:i}Internista je uzeo njegov|karton, a onda je...
+{123297}{123348}{Y:i}ubrzo, prosto...
+{123373}{123414}{Y:i}zaboravljen na srmt.
+{123436}{123472}{Y:i}Jednostavno zagubljen.
+{123493}{123547}{Y:i}Zagubljen meu slomljenim|zglobovima...
+{123551}{123626}{Y:i}bolovima u grudima,|razderanim glavama...
+{123637}{123713}{Y:i}jednog muökarca kojem su vrata|taksija priËepila prste...
+{123717}{123823}{Y:i}deteta koje je imalo osip na koûi,|deteta koje je udario auto...
+{123841}{123940}{Y:i}stare dame opljaËkane u metrou,|propalice koju su mornari pretukli,
+{123961}{124042}{Y:i}tinejdûera samoubice,|paranoika...
+{124046}{124135}{Y:i}pijandura, astmatiËara, silovanih,|septiËnih abortusa,
+{124139}{124179}{Y:i}predoziranih zavisnika...
+{124183}{124298}{Y:i}fraktura, srËanih udara, krvarenja,|potresa, opekotina, ojeda...
+{124305}{124373}{Y:i}raka debelih creva,|srËanih zastoja,
+{124389}{124482}{Y:i}i svih ostalih suludih rana|naöeg doba.
+{124660}{124748}Ko je broj 7680202-S?
+{124765}{124831}Da li neko ima taj broj?
+{124904}{124939}{Y:i}Tako mi je...
+{124949}{125037}{Y:i}otkriven naËin na koji Êe umreti|sestra Kampanela.
+{125055}{125124}{Y:i}UmreÊe od velike|ameriËke poöasti,
+{125141}{125181}{Y:i}zamene identiteta.
+{125205}{125299}Tako sam sinoÊ vreÊicom sa peskom|onesvestio gospoicu Kapmanelu,
+{125323}{125405}uspavao je Torazinom,|obrijao je i pripremio...
+{125420}{125498}a onda je ostavio, na pet sati  u|hodniku radiologije.
+{125502}{125559}Zaöto tamo?|-Na odeljenju radiologije...
+{125563}{125637}omamljeno telo koje leûi a da ga|niko pet sati ne obie...
+{125641}{125685}nije niöta neobiËno.|-Naravno.
+{125689}{125745}Njena operacija, zapravo...
+{125753}{125860}operacija gospoe Manafrani nije|trebalo da poËne pre 9:30.
+{125877}{125947}Zato sam jutros u 9:15 pozvonio|svojoj sestri.
+{125953}{125982}Pozvonili ste svojoj sestri?
+{125986}{126061}Da obezbedim joö jedan sat|niËim prekinute privatnosti.
+{126092}{126205}Ustao sam, odvezao gospoicu Kampanelu|do operacionih sala...
+{126228}{126313}i zamenio njen i krevet|gospoe Manafrani.
+{126330}{126413}Zamenio sam i kartone i|identifikacione narukvice.
+{126425}{126489}Ona je zvaniËno umrla od|anestezioloökog öoka.
+{126522}{126616}A zapravo je umrla jer je preuzela|identitet druge ûene.
+{126620}{126659}Boûe, öta Êemo sad|da radimo?
+{126709}{126753}Herbe, pusti da ga|vratim u Meksiko.
+{126757}{126816}Tamo je svet jednostavnije.|Tamo tata funkcioniöe.
+{126820}{126851}Ako ga prijaviö...
+{126855}{126940}strapaÊe ga u Rokland Stejt, bolnicu|za mentalno bolesne zloËince.
+{126944}{127014}Pusti me da ga odvedem.|-äaliö se?
+{127054}{127119}Oboje Êemo ga odvesti.|Idem sa vama.
+{127137}{127161}Obuci ga.
+{127165}{127233}Vodimo ga odavde pre nego öto nas|policija sve strpa u u Rokland Stejt.
+{127237}{127336}Nisam joö zavröio svoj zadatak.|Moram joö da se reöim Velbeka.
+{127357}{127456}Ja sam aneo ponora bez dna|i gnev jagnjeta.
+{127577}{127631}Opet ima otkrovenje.
+{127713}{127790}Ambulantna kola su sigurno veÊ stigla.|Idi dole i zadrûi ih.
+{127794}{127904}Ja Êu mu dati nekakvu injekciju.|Na aerodrom Êemo ambulantnim kolima.
+{128115}{128164}Opet halucinirate.
+{128497}{128539}Pauel se uopöte nije pojavio.
+{128543}{128605}Uûasno sam tanka s ljudima.|Ostale smo samo Alis i ja.
+{128609}{128704}Kao da je nedelja. Nigde nikoga.|-BiÊu unutra kod onoga öto krvari.
+{128709}{128759}Moraö da mi poöaljeö nekoga.
+{128809}{128846}BiÊemo u 806.
+{128895}{128929}I öta je onda rekla?
+{128933}{129005}Ja sam doktor Velbek. Na ovom spratu|se nalazi moj pacijent, Dramond.
+{129009}{129050}Voleo bih da vidim|njegov karton.
+{129065}{129134}Doktore Blok, moûete li odvojiti|par minuta za mene?
+{129138}{129237}Doktor Gili mi reËe da ste vi inicirali|ovaj postupak protiv mene.
+{129249}{129321}Zauzet sam, VelbeËe. -éelim da|znam öta imate protiv mene?
+{129370}{129459}Pre osam dana, doöli ste polupijani|na najobiËniju nefrektomiju...
+{129463}{129535}zabrljali ste, gadno ste omanuli|i zamalo ubili pacijenta.
+{129539}{129623}Onda, napravivöi pauzu samo da|poöaljete raËun a onda ste odleteli,
+{129627}{129679}na ostrvo sunca u Montigo Beju.
+{129683}{129765}Pvo je treÊi put u dve godine da moramo|da krpimo vaöe pacijente.
+{129769}{129804}Prethodna dva su umrla.
+{129808}{129879}Vi ste pohlepni, bezoseÊajni,|nesposobni, indiferentni...
+{129884}{129948}samohvalisavi profiter|bez trunke savesti.
+{129952}{130001}Osim toga, nemam niöta|protiv vas.
+{130005}{130088}Siguran sam da fantastiËno igrate golf.|äta joö ûelite da znate?
+{130092}{130142}Koliko zaraujete godiönje, Brok?
+{130149}{130220}Za Ëoveka koji zarauje|piöljivih 40-50.000...
+{130401}{130462}Doktor Velbek ovde.|Traûili ste me.
+{130493}{130554}Da, znam da celo jutro|pokuöavate da me naete.
+{130558}{130606}Kaûem ti Miltone, iöËupa|ûice i cevi...
+{130610}{130713}ustane, obuËe doktorski mantil i|ide da ubija doktore.
+{130717}{130777}Izaöao je odavde 10 sekundi pre nego|öto ste uöli. -Dobro. Smiri se.
+{130781}{130837}I da ti kaûem joö neöto o ovoj|tvojoj ludnici.
+{130841}{130909}JuËe uveËe je ovde bio neki go Indijanac|koji je izvodio ratniËki ples.
+{130913}{130977}Eto ti, kakvom ludnicom ti|upravljaö, Miltone.
+{130981}{131045}Vadi me odavde, ako Boga znaö.|Ovo je ludnica.
+{131049}{131078}Sluöaj me.
+{131082}{131170}SinoÊ kad sam se probudio ovde je bio|Indijanac, go Indijanac.
+{131174}{131245}Kakva je ovo bolnica?|-Ovde Mid, jeste li me traûili?
+{131249}{131317}Nekoliko sati kasnije kad sam se probudio|tip je ustao iz tog kreveta.
+{131321}{131371}Je l' policija joö u zgradi?|Poöalji je ovamo.
+{131375}{131416}Ceo dan je leûao kao da|je mrtav.
+{131420}{131507}A onda, usred noÊi ustade iz kreveta.|Mislio sam da sam lud.
+{131512}{131564}I znaö öta mi je rekao?|Rekao je, 'Halucinirate'.
+{131568}{131639}Samo sam... sluöaj. Video sam golog|Indijanca, a sad vidim duha.
+{131643}{131687}Izgleda da je u pravu,|haluciniram, zar ne?
+{131691}{131751}Silazim odmah. NesreÊa|nikad ne ide sama.
+{131755}{131805}U jednoj od onih zgrada|izbio je poûar.
+{131809}{131873}Bespravno naseljeni su istrËali napolje.|Policija je pokuöala da ih pohapsi.
+{131877}{131943}Sad je situacija eskalirala|u nemire.
+{131947}{132029}Sigurno se pitaö o Ëemu se radi, Herbe.|-Ne ostavljaj me samog ovde!
+{132033}{132111}Gospodin HiËkok Êe ostati sa tobom.|Bolje pozovi pandure, Tome.
+{132143}{132174}Sad nemam vremena.
+{132178}{132266}NeÊu ni pokuöavati da ti ispriËam|suludu priËu koju mi je brat ispriËao.
+{132270}{132317}PrepriËaÊu ti jednom uz ruËak.
+{132321}{132373}SaËekajte!|-Kola su stigla.
+{132377}{132443}Ali tvog oca nema.|Nestao je.
+{132447}{132518}Obukao je äeferov mantili i krenuo|da obavi misiju od Boga...
+{132522}{132570}pretpostavljam da ubije|doktora Velbeka.
+{132574}{132671}A onaj tip koji telefonira je doktor|Velbek. -O Boûe, o Ëemu vi to?
+{132680}{132783}Povrh svega, drugi pacijent iz sobe|tvoga oca se upravo ispovedio...
+{132787}{132859}i sve istrtljao upravniku bolnice.|PozvaÊe pandure ovamo.
+{132863}{132917}O, moj Boûe!|A ko drûi tapiju?
+{132965}{133030}Da li su ûiranti veÊ Ëuli za to?
+{133050}{133145}Pobogu, pa öta Ëekaö? Uhapsi|kurvinog sina. Privedi ga.
+{133175}{133203}O, moj Boûe! Kad?
+{133247}{133353}Naravno, odmah me pozovi, ja sam u krilu|Holi, na osmom spratu. Samo poûuri.
+{133358}{133417}Jeste li dobro?|-Jesam li dobro?
+{133421}{133493}Taj kurvin sin pokuöava da me|opeljeöi. Moj partner.
+{133497}{133559}Eminentni ortopedski hirurg,|doktor Noel Hogan...
+{133563}{133633}je najobiËniji lopov koji|pokuöava da me opeljeöi.
+{133637}{133679}Dramondov karton, doktore.|-äta? Da...
+{133683}{133727}U kojoj je sobi?|-806.
+{133731}{133823}OËekujem telefonski poziv.|Prosledite mi ga u tu sobu.
+{133845}{133897}KuËkin sin cedi kompaniju...
+{133901}{133964}laûnim narudûbinama za|drugu kompaniju...
+{133968}{134058}u kojoj je, kako se sad ispostavilo,|njegova ûena glavni deoniËar.
+{134065}{134145}Providna prevara.|PoslaÊu ga na 20 godina.
+{134181}{134256}Pa, Dramonde, uopöte|ne izgledate tako loöe.
+{134271}{134346}Molim vas, moûete li da priËate sa drugog|telefona, oËekujem vaûan poziv.
+{134350}{134413}äta je ovo? Ko je ovaj? -BiÊu za pultom|deûurne sestre, naredniËe.
+{134417}{134446}Imate malu temperaturu,|Dramonde...
+{134450}{134515}ali oporavak dobro ide.|-Ja nisam Dramond, majmune.
+{134519}{134583}Dramond je u drugom kreveti.|-Ovo je za mene.
+{134598}{134653}Halo, ovde Velbek. Reci.
+{134657}{134723}Odoh ja iz ove ludnice.|-Samo polako.
+{134727}{134778}Doöao sam samo da izvadim|jebene polipe.
+{134782}{134870}Boûe, kako to misliö?|Koliko je tu bilo transakcija?
+{134894}{134960}Pozajmio sam a nisam morao.
+{134964}{135026}Ja sam bolestan Ëovek.|Meni treba mir i tiöina.
+{135030}{135077}Kako to misliö, Brazil?
+{135129}{135202}JuËe sam razgovarao sa Hoganovom|kancelarijom i oni....
+{135222}{135257}Opeljeöen sam.
+{135266}{135334}SEC je suspendovao trgovinu|mojim akcijama.
+{135636}{135679}SrËani zastoj. Holi 8.
+{135710}{135758}Ovde imamo hitan sluËaj.
+{135813}{135856}{Y:i}Holi 8, molimo raöËistite|sve hodnike.
+{136029}{136062}Daj mu veötaËko disanje.
+{136169}{136222}Gde je »endler?|-Otiöao je na ruËak.
+{136226}{136267}Sklonite taj krevet.
+{136330}{136373}Dajte mi Ambu-vreÊicu i pumpu.
+{136377}{136419}äta se deöava?
+{136855}{136891}Ovde?|-Da.
+{136931}{137009}Ko je to? -Neki pacijent ima|srËani zastoj
+{137027}{137069}Totalni srËani zastoj.
+{137215}{137259}Koliko dugo je veÊ ovakav?|-Oko minut.
+{137263}{137335}Nema pulsa, nema otkucaja, nema|disanja. -Ja Êu ga preuzeti.
+{137339}{137407}Imamo joö jednu uzbunu u 823.|-Endotrahinalnu cev.
+{137411}{137483}Je l' to Dramond?|-A ko drugi?
+{137608}{137689}Dobro, ko je ovaj pacijent?|äta znate o pacijentu?
+{137711}{137789}Je l' ovo njegov karton, doktore Bok?|Kako se zove? Dramond?
+{137826}{137895}Da, zove se Dramond.|To je njegov karton.
+{137909}{137996}Hriste. Jadnom kuËkinom sinu je proöle|nedelje raena nefrektomija.
+{138199}{138231}NakaËite ga na monitor.
+{138253}{138291}Prekinite sa masaûom.
+{138415}{138469}Ventrikularna fibrilacija.|Dajte mi lopatice.
+{138473}{138522}Dajte joö jednu ampulu|bikarbonata.
+{138536}{138572}Namestite na 200.
+{138641}{138737}Nameöteno na 200. -Povucite se.|Jedan, dva, tri!
+{138773}{138844}Nije uspelo. Niöta od toga.
+{138857}{138895}PojaËaÊemo na 400.
+{138958}{139008}Odmaknite se.|-Nameöteno na 400.
+{139018}{139050}Jedan, dva, tri.
+{139085}{139192}Ni ovo nije pomoglo. Dajte mi jedan kubik|adrenalina i interkardijalnu iglu.
+{139297}{139333}Prekinite sa masaûom.
+{139341}{139413}Ventrikularna fibrilacija. Joö jednu|ampulu bikarbonata.
+{139512}{139540}200.
+{139612}{139644}Nameöteno na 200.
+{139829}{139861}Je l' mrtav?
+{139876}{139937}Ne mogu da ga izvuku.|Ne verujem da Êe preûiveti.
+{139941}{139972}Bogu hvala.
+{140028}{140058}Pa, time je sluËaj zatvoren,|naredniËe.
+{140143}{140211}Ne brinite, niko neÊe biti|povreen. Traûimo direktora.
+{140621}{140655}Sad mi je svega dosta.
+{140659}{140749}Ja ne nasedam na ovakve jeftine...|-Sluöaj, ËoveËe.
+{140783}{140827}»ekaj malo.|-Traûimo taoce!
+{140831}{140900}»etrnaest ljudi je uhapöeno zato...|-Gde je kamera?
+{140904}{140953}HoÊeö uÊutati, ËoveËe?
+{140965}{141035}»etrnaest ljudi je uhapöeno samo zato|öto je ûivelo i svojim domovima.
+{141039}{141101}iz kojih ste ih vi|isterali. -Tako je!
+{141105}{141146}Zato sad mi hapsimo vas.
+{141150}{141222}DrûaÊemo vas kao taoca i neÊemo|vas pustiti da odete.
+{141280}{141355}Mi, Ëlanovi Lekarskog|OslobodilaËkog Odbora...
+{141359}{141468}optuûujemo ovu bolnicu za zloËinaËko|zanemarivanje zajednice u kojoj se nalazi.
+{141472}{141545}Zahtevamo raspuötanje upravnog|i izvrönog odbora...
+{141549}{141621}äta Êete da uradite za onih|Ëetrnaestoro ljudi iz geta?
+{141634}{141736}NeÊu da uradim niöta|ni zbog Ëega.
+{141741}{141766}Boga mi, hoÊete.
+{141770}{141849}Pobogu, ako ûelite da preuzmete|bolnicu, preuzmite je.
+{141853}{141898}I hoÊemo.|-Vodite je.
+{141902}{141957}Ja sam zavröio. Dajem ostavku.
+{141979}{142039}Vi je vodite. Vi plaÊajte|raËune.
+{142055}{142088}Vi se borite sa gradom.|-HoÊemo.
+{142092}{142192}Vi se borite sa drûavom. Vi se borite|sa sindikatima. Borite sa zajednicom.
+{142209}{142279}Ako mislite da moûete bolje,|samo izvolite.
+{142284}{142332}Ja sam zavröio.|Podnosim ostavku.
+{142346}{142382}Sve je vaöe.
+{142910}{143004}Dozvolimo svima iz Judeje da|pobegnu u planine.
+{143013}{143065}Era se zavröava.
+{143069}{143171}Nastupa doba sedmog peËata!
+{143181}{143256}Era se zavröava.
+{143281}{143348}Doktor Velbek je mrtav.|Svi misle da si to bio ti.
+{143352}{143380}Znam.
+{143386}{143459}Moramo da sredimo da se njegovo telo|prebaci u moje apaËko selo...
+{143463}{143510}gde Êemo ga sahraniti po svim|plemenskim obiËajima.
+{143514}{143571}Moramo da poûurimo, tata.|-Za dan ili dva neko Êe pitati...
+{143575}{143621}'äta se desilo sa doktorom|Velbekom?'
+{143625}{143695}PretpostaviÊe se da je otputovao u|Brazil da se pridruûi svom partneru,
+{143699}{143777}eminentnom ortopedskom hirurgu,|doktoru Noelu Hoganu.
+{143783}{143841}I Velbek je takoe,|ostao zagubljen,
+{143850}{143918}zaturen, zaboravljen na smrt.
+{143965}{144001}Ja ne idem.
+{144017}{144126}Bolnica se raspada. Ne mogu da|odem dok se raspada.
+{144135}{144187}Neko mora da preuzme|odgovornost.
+{144216}{144293}Svi odlaze,
+{144322}{144381}beûe, beûe u brda.
+{144417}{144485}Neko mora da preuzme|odgovornost.
+{144673}{144749}Aerodrom Kenedi. Treba da|stignu na let u 2:30.
+{145175}{145213}Ideö nazad?
+{145233}{145257}Da.
+{145281}{145342}Ovo je kao piöanje uz vetar,|zar ne, Herb?
+{147893}{148193}{Y:i}zgaca62@yahoo.com
+{148218}{149718}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

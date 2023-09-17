@@ -1,0 +1,1980 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:01.10,00:00:04.55
+Onaj tvoj rob dolazio je svakoga dana.[br]Koliko su brzi bolovi?
+
+00:00:04.97,00:00:06.97
+Oh, ne prestaju.
+
+00:00:07.18,00:00:09.29
+Polako, polako, uzmi gutljaj ovoga.
+
+00:00:09.70,00:00:12.39
+Mogu da se kladim da neæeš da odbiješ[br]moju jabukovaèu ovog puta.
+
+00:00:12.84,00:00:17.22
+Preèasni Dimmesdale je stalno pokušavao da[br]te smesti u biblioteku.
+
+00:00:17.26,00:00:18.34
+Još jednu? Da.
+
+00:00:18.34,00:00:22.15
+U redu,my draga moja, polako sada,[br]diši duboko. Diši duboko.
+
+00:00:22.19,00:00:26.79
+Ovde sam. Uhvati se za mene! Dobra devojka![br]Polako. POlako.
+
+00:00:26.83,00:00:29.39
+Sada pusti me da vidim. Pusti me da vidim.
+
+00:00:29.42,00:00:32.33
+Sve je u redu. Sve je u redu. Blizu je.
+
+00:00:32.36,00:00:34.95
+Vrlo je blizu. Doði, draga moja,[br]vreme je.
+
+00:00:34.99,00:00:38.41
+Opa sedi. Tako je bolje.
+
+00:00:39.15,00:00:41.15
+Pomeri se malo dole. Dobro.
+
+00:00:41.45,00:00:43.85
+Pa ovo dete je spremno da se rodi.
+
+00:00:43.88,00:00:46.28
+Imamo posla! Eto.
+
+00:00:48.46,00:00:50.46
+Nisam mislila da æe me držati[br]ovde ovako dugo.
+
+00:00:52.46,00:00:57.26
+Pa, reæi æu samo ovo, mora da imaš[br]gvozdenu volju.
+
+00:00:57.29,00:00:59.82
+Kada se ti nameraèiš na èoveka,[br]to vodi u smrt!
+
+00:01:01.32,00:01:04.65
+U redu, draga moja, sada,[br]sada diši duboko.
+
+00:01:04.68,00:01:07.66
+Bradu dole i diši duboko.
+
+00:01:07.69,00:01:09.00
+Oh, više i jaèe! Dobra devojka!
+
+00:01:09.00,00:01:11.60
+Dobra devojka! Dobra, tako je. Tako je.
+
+00:01:11.63,00:01:20.56
+Polako. Polako. Polako. Polako.[br]Dobro. Polako.
+
+00:01:24.69,00:01:26.69
+Da li si sigurna da me bog ne kažnjava?
+
+00:01:27.28,00:01:31.85
+Budi sigurna da te kažnjava, ženo.[br]Daje ti dete!
+
+00:01:31.89,00:01:35.05
+Više sada, lagano, lagano.
+
+00:01:35.09,00:01:37.36
+Polako, glava izlazi.
+
+00:01:37.39,00:01:40.43
+Glava je napolju. Dobra devojka!
+
+00:01:40.46,00:01:44.72
+Sada. POlako. POlako. POlako.
+
+00:01:48.21,00:01:52.59
+Evo je!
+
+00:01:52.62,00:01:54.83
+Oh, hvala ti, Bože!
+
+00:02:00.30,00:02:05.07
+Oh, da! Oh, mala Pearl.
+
+00:02:05.10,00:02:09.17
+Da! Da!
+
+00:02:10.51,00:02:13.43
+Harriet, ovde je! Oh, ovde je!
+
+00:02:37.17,00:02:39.17
+Sedite ovde, gospoðo.
+
+00:02:41.17,00:02:43.80
+Nastavite, preèasni.
+
+00:02:56.56,00:03:00.76
+Naložiæu im da ti donesu èistu odeæu[br]za tebe i dete.
+
+00:03:14.26,00:03:16.26
+Donosim dobre vesti.
+
+00:03:16.41,00:03:19.29
+Prevagao sam nad guvernerom.
+
+00:03:19.48,00:03:21.48
+Biæeš osloboðena.
+
+00:03:24.73,00:03:27.93
+Ali po zakonu,
+
+00:03:27.96,00:03:30.77
+biæeš izvedena na [br]gubilište
+
+00:03:31.13,00:03:33.88
+da se pokaješ.
+
+00:03:34.93,00:03:36.93
+Hester.
+
+00:03:36.95,00:03:40.79
+Šta god da je reèeno, molim te
+
+00:03:41.30,00:03:45.43
+ponašaj se pokajano koliko ti savest nalaže.[br]Bebe radi ako ne zbog mene.
+
+00:03:46.55,00:03:51.16
+Molim te, ne razljuæuj ih dalje!
+
+00:03:55.00,00:03:58.20
+Došao sam da krstim bebu.
+
+00:04:17.47,00:04:21.08
+Umirao sam ne viðajuæi te.
+
+00:04:21.11,00:04:23.11
+Dolazio sam svaki dan.
+
+00:04:59.00,00:05:02.53
+Krstim ovo dete
+
+00:05:04.00,00:05:06.00
+Pearl
+
+00:05:07.10,00:05:09.76
+Pearl
+
+00:05:15.97,00:05:18.01
+u ime Oca
+
+00:05:19.81,00:05:21.81
+i Sina
+
+00:05:23.55,00:05:26.33
+I Svetoga Duha.
+
+00:05:28.32,00:05:30.59
+Neka bog blagosilja njega
+
+00:05:31.68,00:05:33.70
+i brine za njega
+
+00:05:34.85,00:05:37.60
+i èuva ga.
+
+00:05:40.51,00:05:42.51
+Amen
+
+00:05:49.50,00:05:55.78
+Oslobaðanje ove žene æe biti poziv[br]svakoj ženi da prkosi svome mužu.
+
+00:05:56.87,00:05:58.46
+Svako dete roditelju!
+
+00:05:58.47,00:06:00.47
+Ne, ne, ne, i neæe biti osloboðena.
+
+00:06:00.71,00:06:02.46
+Šta?
+
+00:06:02.47,00:06:07.01
+Horase, ne stavljaš nju u zatvor,[br]zatvor stavljaš u nju.
+
+00:06:07.04,00:06:12.42
+Kada je god neko pogleda, njen greh[br]æe joj se urezati u dušu nanovo.
+
+00:06:20.99,00:06:23.78
+Lukavo skovano, draga moja.
+
+00:06:26.50,00:06:28.77
+Napravite mesta u ime kralja.
+
+00:06:28.80,00:06:32.52
+Blagoslovena bila pravièna[br]Kolonija Massachusetts
+
+00:06:32.55,00:06:36.32
+gde se greh izvlaèi na[br]svetlost dana!
+
+00:06:36.68,00:06:42.08
+Znajte onda da je ovim skupom [br]gospoði Roger Prynne
+
+00:06:42.12,00:06:46.56
+nareðeno da snosi kaznu,
+
+00:06:46.66,00:06:49.00
+za zloèine bluda[br]i preljube!
+
+00:06:51.97,00:06:56.49
+Bude li se utvrdilo kasnije da je [br]njen muž još uvek živ,
+
+00:06:56.81,00:06:59.94
+Može se suoèiti sa mnogo strožijom [br]kaznom.
+
+00:06:59.97,00:07:02.41
+Koja jeste vešanje o vrat [br]do smrti!
+
+00:07:03.40,00:07:07.21
+Molim vas, tišina za njegovu Ekselenciju[br]Guvernera.
+
+00:07:08.39,00:07:13.89
+Hester Prynne, buduæi da ne pokazuješ[br]skromnost u svojoj pojavi,
+
+00:07:14.60,00:07:18.76
+a još uvek imaš moguænost da [br]okaješ svoje grehe!
+
+00:07:18.79,00:07:21.86
+Da, Hester, pokajanje!
+
+00:07:23.21,00:07:26.82
+Dete, zar ne veruješ da si zgrešila?
+
+00:07:27.94,00:07:30.66
+Verujem da sam zgrešila u vašim oèima,
+
+00:07:32.52,00:07:35.46
+ali ko zna da li [br]Bog deli vaše poglede?
+
+00:07:35.50,00:07:40.07
+Ženo, ne prekoraèuj granice[br]Nebeske milosti!
+
+00:07:40.10,00:07:44.07
+Za ime boga gospodaru Dimmesdale,[br]vi ste njen pastor.
+
+00:07:44.14,00:07:46.14
+Govorite sa njom svih nas radi!
+
+00:07:46.86,00:07:50.86
+Smekšajte je, njenu tvrdoæu, njenu tvrdoglavost!
+
+00:07:54.99,00:07:56.33
+Poslušaj preèasnog.
+
+00:07:56.33,00:07:58.33
+Govori sa ženom, brate moj.
+
+00:07:58.79,00:08:00.79
+Pomozite joj da prizna istinu!
+
+00:08:06.63,00:08:12.55
+Hester Prynne, èula si šta[br]ovi dobri ljudi govore,
+
+00:08:13.13,00:08:16.75
+i vidiš odgovornost koju preuzimam
+
+00:08:18.54,00:08:21.32
+zarad spokoja tvoje duše.
+
+00:08:22.92,00:08:25.29
+Kumim te
+
+00:08:25.32,00:08:30.80
+otkrij nam ime svog sagrešnika.
+
+00:08:34.96,00:08:40.81
+Ne æuti iz nekog pogrešnog sažaljenja[br]ili nežnosti prema njemu.
+
+00:08:40.84,00:08:42.86
+Jer, veruj mi, ako bi mogao da[br]siðe sa svog visokog mesta
+
+00:08:42.96,00:08:45.81
+i stane ovde pored tebe[br]na pijedastal sramote
+
+00:08:46.35,00:08:49.20
+bilo bi bolje
+
+00:08:49.20,00:08:51.79
+nego da nosi krivo srce[br]kroz život.
+
+00:08:54.54,00:08:59.18
+Šta tvoje æutanje može uèiniti za njega,
+
+00:08:59.21,00:09:02.32
+sem kušati ga?
+
+00:09:02.35,00:09:04.43
+Prisili ga kao što i treba
+
+00:09:04.46,00:09:09.13
+da doda licemerja grehu.
+
+00:09:10.58,00:09:13.81
+Govori.
+
+00:09:27.12,00:09:28.91
+Ona neæe progovoriti.
+
+00:09:28.91,00:09:31.02
+Za ime boga, imenuj ga!
+
+00:09:31.34,00:09:37.58
+Imenuj ga!
+
+00:09:37.62,00:09:38.51
+Koje je njegovo ime?
+
+00:09:38.51,00:09:40.51
+Ko može da bude?
+
+00:09:53.23,00:09:54.96
+Vrlo dobro.
+
+00:09:54.96,00:09:56.59
+Beadle!
+
+00:09:56.59,00:09:58.83
+Gospoðo, ako ne otkrijete ime
+
+00:09:59.25,00:10:04.88
+moraæete da nosite na sebi ovaj[br]simbol grešnog bluda.
+
+00:10:17.30,00:10:22.77
+Ne uslišite njegovo zadnje upozorenje i [br]od ovog dana nadalje æete biti izgnanik,
+
+00:10:22.80,00:10:28.18
+odseèena, izbegavana i grðena od strane svakog[br]muškarca, žene i deteta u ovom gradu!
+
+00:10:33.27,00:10:36.09
+Zašto èekate? Stavite ga!
+
+00:10:36.12,00:10:39.03
+Jer to nije znak moje sramote,[br]veæ vaše!
+
+00:10:48.37,00:10:50.77
+Nepokajana kurvo!
+
+00:11:02.07,00:11:04.07
+Sada je sramota javna...
+
+00:11:30.30,00:11:32.30
+Šta hoèete?
+
+00:11:33.31,00:11:35.39
+Zar sam se toliko promenio, moja voljena
+
+00:11:35.48,00:11:39.39
+da bi se ubila iako sam[br]vakrsnuo iz mrtvih?
+
+00:11:44.57,00:11:46.57
+Roger?
+
+00:12:05.02,00:12:07.02
+Hester,
+
+00:12:12.19,00:12:14.91
+Da li sam ikada bio neljubazan prema tebi?
+
+00:12:16.41,00:12:18.81
+Zar te nisam voleo?
+
+00:12:18.84,00:12:21.85
+Zar te nisam postavio iznad celog [br]ženskog roda?
+
+00:12:22.20,00:12:25.05
+Zar nisi vezana za mene svetim zavetom?
+
+00:12:25.34,00:12:29.31
+Ili te ova nova zemlja preobratila [br]u pagana?
+
+00:12:35.01,00:12:38.21
+Krevet æe uvenuti ako legneš u njega, ženo?
+
+00:13:02.62,00:13:04.80
+Moli se za svoje grehe, Hester Prynne.
+
+00:13:05.12,00:13:07.23
+Moli boga da ti oprosti pokvarenost.
+
+00:13:07.36,00:13:11.62
+Moli i ja æu te naèiniti èistom poput[br]belog snega,
+
+00:13:12.06,00:13:27.97
+Belu poput snega, moja ljubavi.[br]Da, belu poput snega.
+
+00:13:28.32,00:13:36.87
+Belu poput snega.
+
+00:13:38.34,00:13:42.43
+Koje je njegovo ime?
+
+00:14:08.13,00:14:10.13
+Arthur!
+
+00:14:16.23,00:14:17.38
+Hester?
+
+00:14:17.38,00:14:19.30
+Oh, hvala bogu, tu si!
+
+00:14:19.30,00:14:20.93
+Hester, zašto ovoliko rizikuješ?
+
+00:14:20.93,00:14:22.21
+Morala sam da te upozorim.
+
+00:14:22.21,00:14:25.13
+Moj muž Arthure, on je živ.
+
+00:14:25.89,00:14:27.89
+Oh, dragi Bože.
+
+00:14:29.83,00:14:31.83
+Živ!
+
+00:14:32.10,00:14:34.34
+Sada æemo visiti zasigurno.
+
+00:14:34.79,00:14:37.80
+Zašto bi se tvoj muž pojavio baš ovog[br]trenutka ako nije
+
+00:14:37.83,00:14:40.42
+mraèni glasnik poslat da nas kazni?
+
+00:14:41.06,00:14:44.04
+Arthuer, moraš otiæi odavde[br]bez nas!
+
+00:14:44.04,00:14:46.98
+Molim te, ne mogu da podnesem da te [br]gledam zarobljenog obvde.
+
+00:14:47.30,00:14:48.93
+Pod njegovim budnim okom.
+
+00:14:48.94,00:14:52.58
+Hester, ne mogu da odem. Moram da ostanem[br]i staram se o tebi i  Pearl.
+
+00:14:52.74,00:14:54.74
+Ne ti ga ne znaš.
+
+00:14:55.08,00:14:58.73
+On æe èekati da izdamo jedno [br]drugog
+
+00:14:58.76,00:15:00.55
+najmanjim pogledom[br]ili sluèajnim pokretom.
+
+00:15:00.55,00:15:02.55
+Molim te, moraš otiæi!
+
+00:15:03.30,00:15:11.05
+Ovo je božja kazna jer smo pokušali[br]da uteknemo njegovoj volji.
+
+00:15:25.48,00:15:28.46
+Neæu reæi zbogom, Hester.
+
+00:15:29.16,00:15:31.59
+Nek te bog èuva.
+
+00:15:33.87,00:15:35.88
+A i ja æu.
+
+00:15:38.51,00:15:41.23
+Poljubi Pearl za mene svake veèeri.
+
+00:16:09.65,00:16:12.46
+Lako je videti šta je [br]nasledila od majke.
+
+00:16:13.23,00:16:15.95
+Pitam se da li prelazi granicu [br]filozofskog istraživanja
+
+00:16:15.98,00:16:19.18
+analiza njene naravi, a analiza[br]njenog kova i karaktera
+
+00:16:19.21,00:16:22.13
+rezultiraæe pronicljivim odgovorom[br]na pitanje oèinstva.
+
+00:16:23.37,00:16:25.37
+Kakva su vaša oèekivanja gospodine?
+
+00:16:25.52,00:16:29.10
+Ne oèekujem da mi se tvoje srce[br]vrati brzo,
+
+00:16:29.55,00:16:34.38
+Ali se nadam da æeš me jednog dana[br]primiti ponovo u najskrovitije kutke svog srca.
+
+00:16:35.63,00:16:38.77
+Bože pomoyi mi, ljubav mi je primorala[br]srce da se otvori drugome.
+
+00:16:38.80,00:16:40.91
+Pazi šta prièaš, ženo!
+
+00:16:40.94,00:16:44.05
+Da li to ovaj fantomski ljubavnik[br]stavlja ove reèi u tvoja usta!
+
+00:16:44.08,00:16:45.45
+Gde je on, ženo?
+
+00:16:45.46,00:16:48.50
+Da li je njgov poljubac i dalje vlažan[br]na tvojim usnama, na tvojim grudima?
+
+00:16:48.53,00:16:49.81
+Zahtevam da znam!
+
+00:16:49.81,00:16:53.78
+Ako sam mogla da provedem 6 meseci u hladnom[br]zatvoru i ne kažem ništa onim gvozdenim ljudima,
+
+00:16:53.81,00:16:55.81
+zašto misliš da æu tebi reæi?
+
+00:16:56.05,00:16:58.77
+Ojaèala sam tokom ovih kušanja[br]gospodine!
+
+00:16:58.80,00:17:00.94
+I nisam više dete koje ste oženili.
+
+00:17:02.16,00:17:05.01
+Zašto se javno ne pokažete[br]i odreknete me se odmah?
+
+00:17:05.04,00:17:07.04
+Ne Ne
+
+00:17:07.95,00:17:10.42
+Ne tražim osvetu nad tobom, dete,
+
+00:17:10.45,00:17:13.01
+veæ nad èovekom koji nam je oboma [br]zgrešio.
+
+00:17:13.75,00:17:17.01
+On ne nosi slovo srama[br]ispisano na njegovoj odeždi,
+
+00:17:17.30,00:17:21.68
+ali æu ga proèitati na njegovom srcu.
+
+00:17:21.75,00:17:26.29
+Šapni mu samo reè o mom pravom identitetu[br]i oboje æe te biti
+
+00:17:26.32,00:17:27.54
+vešani.
+
+00:17:27.54,00:17:31.67
+Ako si dovoljno budalasta da probaš da [br]pobegneš, biæeš lako praæena i naðena.
+
+00:17:31.70,00:17:33.70
+Lako!
+
+00:17:34.55,00:17:39.73
+Od divljaka sam se[br]nauèio strpljenju,
+
+00:17:39.76,00:17:41.76
+Hester Prynne.
+
+00:18:18.33,00:18:20.33
+Goody Gotwick, hvla ti.
+
+00:18:33.02,00:18:36.57
+Preèasni Dimmesdale, dozvoli te mi da[br]vam predstavim našeg najnovijeg podstanara.
+
+00:18:36.60,00:18:37.78
+Doktor Chilling...
+
+00:18:37.78,00:18:39.06
+Chillingworth!
+
+00:18:39.06,00:18:39.64
+"Chillingworth"
+
+00:18:39.64,00:18:41.43
+Da Da[br]871[br]01:28:26,110 --> 01:28:27,042[br]Dobar dan, onda.
+
+00:18:41.43,00:18:42.81
+Dobar dan, onda.
+
+00:18:42.81,00:18:44.81
+Dobar dan, gospodine.
+
+00:18:47.64,00:18:50.42
+Šta vas, dovodi u našu koloniju,[br]Doktore?
+
+00:18:51.26,00:18:56.83
+Ja sam leènik, gospodine, leèiæu[br]bolesti zajednice.
+
+00:19:00.54,00:19:02.54
+Zar sam rekao nešto èudno?
+
+00:19:03.42,00:19:06.33
+ne Umm A
+
+00:19:07.77,00:19:09.77
+Ja sam, ja sam zapanjen.
+
+00:19:11.51,00:19:16.09
+Molili smo se za umešnog leènika.
+
+00:19:18.11,00:19:20.67
+Vidim da prevodite[br]Bibliju na Algonquian.
+
+00:19:22.91,00:19:25.69
+Veooma težak jezik za savladavanje.
+
+00:19:26.04,00:19:28.41
+ako mogu biti od pomoæi, Preèasni.
+
+00:19:29.76,00:19:32.99
+Veoma teèno govorim Algonquian.
+
+00:19:34.08,00:19:35.16
+Teèno?
+
+00:19:35.16,00:19:38.36
+Oh, da bio sam zatoèenik[br]Tarrantina.
+
+00:19:38.81,00:19:43.55
+Kada sam govorio nepravilno bio sam[br]bièevan, da bi mnogo brže uèio.
+
+00:19:45.24,00:19:47.24
+Kako ste zarobljeni?
+
+00:19:48.92,00:19:52.45
+Radio sam na svojoj farmo u Virdžiniji.[br]Oni su došli ...
+
+00:19:52.48,00:19:55.49
+i ubili moju ženu, Eleanor,[br]bog da joj dušu prosti ...
+
+00:19:55.52,00:19:58.17
+i našu bebu - sina .
+
+00:19:58.21,00:20:00.67
+i prodali me u zarobljeništvo.
+
+00:20:04.73,00:20:08.80
+Èudo je da niste prožeti a,[br]ogorèenjem i oèajem.
+
+00:20:08.83,00:20:12.93
+Ne Ne Ne. Istini za volju, gospodine,[br]dugujem indijancima.
+
+00:20:12.99,00:20:16.70
+Neki kažu da su divljaci,[br]ali ja nalazim da pravo divljaštvo
+
+00:20:16.73,00:20:20.16
+leži negde drugde.
+
+00:20:29.82,00:20:31.82
+Gospoðo Roger Prynne.
+
+00:20:33.28,00:20:35.30
+Gospoðo Roger Prynne
+
+00:20:35.58,00:20:37.58
+Obavi svoju dužnost, deèaèe.
+
+00:20:40.03,00:20:42.03
+A šta je tvoja dužnost, deèko?
+
+00:20:42.21,00:20:44.99
+Da vas pratim okolo na svakom[br]javnom mestu, gospoðo.
+
+00:20:45.25,00:20:47.25
+Pa, makar æe mi napraviti mesta.
+
+00:21:15.01,00:21:17.41
+Kurvo! Bog æe te kazniti grešnice!
+
+00:21:18.24,00:21:20.24
+Razvratnice!
+
+00:21:23.78,00:21:25.78
+Odlazi, Hester Prynne!
+
+00:21:34.12,00:21:36.32
+Sapuna, molim vas, tri komada.
+
+00:22:02.79,00:22:05.22
+Iako nije nosio spoljašnji simbol[br]svoje sramote,
+
+00:22:05.67,00:22:09.83
+moj otac je nosio sopstveno slovo sramote[br]na samim nedrima svoje duše.
+
+00:22:11.24,00:22:14.60
+Bol njihovog razdvajanja[br]mora da je uticao na nas sve,
+
+00:22:14.63,00:22:16.78
+jer sam zaista bila problematièno dete.
+
+00:22:18.41,00:22:20.49
+Vapeæi srcem za mojom majkom,
+
+00:22:20.52,00:22:24.26
+moj otac tražio je ispunjenje samoæe[br]u divljini sa Johnijem,
+
+00:22:24.55,00:22:26.92
+dok su se borili da održe u životu[br]njihov san
+
+00:22:26.95,00:22:30.09
+graðenja mosta izmeðu Engleza[br]i Indijanaca.
+
+00:22:30.63,00:22:34.41
+Johnni, zašto su tako blizu gradu?
+
+00:22:35.66,00:22:38.09
+Kažu da se naš narod uspavao,
+
+00:22:38.86,00:22:41.19
+pa oni moraju ostati budni za sve nas.
+
+00:22:44.27,00:22:46.25
+Brinem se , Arthure!
+
+00:22:46.25,00:22:48.25
+Da li rat dolazi?
+
+00:22:48.39,00:22:50.86
+Vliki eksperiment ne uspeva, zar ne?
+
+00:22:59.91,00:23:01.39
+Da u pravu je.
+
+00:23:01.39,00:23:04.78
+Ako doðe do rata, kako da spreèimo[br]naše preobraæene Indijance od
+
+00:23:04.88,00:23:06.28
+pobune i
+
+00:23:06.28,00:23:08.49
+rezanja naših grkljana na spavanju?
+
+00:23:08.52,00:23:10.52
+Vera, Thomase. Vera.
+
+00:23:11.56,00:23:13.32
+Ja znam šta æe ih zaustaviti.
+
+00:23:13.32,00:23:15.56
+Arthurovo prijateljstvo sa [br]Johnny Sassamonom.
+
+00:23:16.14,00:23:18.14
+Johnni nikada ne bi izdao Arthura.
+
+00:23:18.73,00:23:20.62
+On ga obožava.
+
+00:23:20.62,00:23:22.19
+Kao što je Petarobožavao Isusa.
+
+00:23:22.19,00:23:22.83
+Gospodo.
+
+00:23:22.83,00:23:24.83
+Doktore.
+
+00:23:27.37,00:23:30.51
+Ako zaista doðe do rata,[br]nek nam je Bog na pomoæi,
+
+00:23:30.83,00:23:33.58
+jer niti æemo ga mi niti divljaci[br]preživeti.
+
+00:23:38.06,00:23:41.93
+Vidim da Guverner malo ceni[br]predskazanja od vas
+
+00:23:41.97,00:23:43.97
+njegovih Božjih savetnika.
+
+00:23:44.81,00:23:46.86
+Nije uvek lako.
+
+00:23:47.41,00:23:51.15
+Èudno, ista stvar se desila i [br]u Virdžiniji.
+
+00:23:51.79,00:23:53.79
+Pre napada,
+
+00:23:54.38,00:23:56.38
+bilo je znakova koji su prošli neopaženo.
+
+00:23:56.65,00:23:58.96
+Oh? Štat, koja vrsta znakova?
+
+00:23:59.28,00:24:01.74
+Loša zima. Loši usevi.
+
+00:24:02.42,00:24:07.22
+Odviše Quejkera i stranaca[br]u gradu.
+
+00:24:07.76,00:24:11.95
+Nekih manjih elemenata maðija,[br]itd, itd.
+
+00:24:11.98,00:24:13.84
+Taèno! Taèno!
+
+00:24:13.84,00:24:16.21
+Naš prvi znak je bila ta stvar sa
+
+00:24:16.24,00:24:18.77
+Hester Prynne i njenim ženskim[br]poselima.
+
+00:24:18.80,00:24:20.80
+Onda posle toga, oštra zima.
+
+00:24:21.01,00:24:22.70
+Propali usevi.
+
+00:24:22.70,00:24:24.50
+vidite, gospodine,
+
+00:24:24.50,00:24:29.46
+moj kolega se od samog starta pribojavao[br]da su u stvari oko Gospoðe Prynne
+
+00:24:29.49,00:24:31.49
+bile maðije umešane.
+
+00:24:32.08,00:24:36.53
+Zašto onda niste preduzeli potrbne mere[br]da oèistite svoju koloniju?
+
+00:24:37.07,00:24:39.07
+O kojim merama govorite, gospodine?
+
+00:24:40.50,00:24:44.11
+Da li ste pregledali žene prisutne [br]na tim sastancima?
+
+00:24:44.15,00:24:46.19
+Da li ste ispitali babicu
+
+00:24:46.48,00:24:49.75
+ili pregledali dete za veštièje znake?
+
+00:24:55.86,00:24:58.74
+Da, iako hodam dolinom[br]senke smrti....
+
+00:24:58.77,00:25:00.66
+... neæu se plašiti zla ...
+
+00:25:00.66,00:25:02.51
+.. Bog je uz mene.
+
+00:25:02.52,00:25:04.95
+Tvoj štap i stub, me teše.
+
+00:25:04.95,00:25:09.72
+Pripremio sam sto predamnom[br]u prisustvu tvoga neprijatelja.
+
+00:25:09.75,00:25:11.75
+Moja èaša prelivena...
+
+00:25:12.02,00:25:14.52
+Zasigurno dobrota i milost æe[br]pratiti mene
+
+00:25:14.55,00:25:16.55
+svih dana mog života.
+
+00:25:16.63,00:25:19.92
+I will dwell in the[br]Kuæa božja zauvek...
+
+00:25:22.23,00:25:23.64
+Dete je èisto.
+
+00:25:23.64,00:25:24.72
+Za sada.
+
+00:25:24.73,00:25:25.88
+Hester.
+
+00:25:25.88,00:25:27.70
+Ostaviæemo dete sa tobom[br]za sada,
+
+00:25:27.70,00:25:31.06
+ali nas moraš uveriti[br]da æe biti odgajano kao Hrišæanin!
+
+00:25:33.37,00:25:35.00
+Da Da
+
+00:25:35.00,00:25:36.92
+Da Da
+
+00:25:36.92,00:25:38.92
+Da Da
+
+00:25:47.06,00:25:49.06
+Bio sam ti prijatelj danas, dete.
+
+00:25:49.08,00:25:51.08
+Nemogu doveka biti, ne.
+
+00:25:52.73,00:25:57.98
+Jer se oseæam sve jadnijw iz [br]dana u dan.
+
+00:26:05.11,00:26:08.18
+Žudim za tobom toliko,
+
+00:26:09.34,00:26:14.36
+i plašim se da æu moæi da uništim[br]celi svet da bih te vratio.
+
+00:26:38.04,00:26:41.27
+Reci sada staroj Harriet[br]šta te muèi.
+
+00:26:41.82,00:26:47.16
+Nikada nisam mogla ni da zamislim kako okrutna[br]i lukava je njihova kazna.
+
+00:26:50.33,00:26:54.40
+Stonehall i Cheever se zaustavljaju [br]da mi pridikovali na ulici.
+
+00:26:54.84,00:26:58.24
+LJudi upiru i vièu.
+
+00:26:58.27,00:27:00.27
+Èak i deca.
+
+00:27:03.10,00:27:06.65
+I taj strašni deèak sa bubnjem[br]koji me prati svuda.
+
+00:27:09.82,00:27:12.16
+Možda je bilo sve uzalud.
+
+00:27:16.96,00:27:20.45
+Pitam se da li je postojanje kao žena[br]uopšte vredno upšte?
+
+00:27:21.44,00:27:23.58
+Èak i za najsrænije od nas.
+
+00:27:24.57,00:27:26.57
+Hrabrosti dete.
+
+00:27:26.62,00:27:30.69
+"Take heart, barem si saznala[br]šta znaèi voleti.
+
+00:27:30.72,00:27:33.47
+Li šta ako sam odužila tu ljubav[br]uništivši njega?
+
+00:27:34.65,00:27:36.65
+Šta ako ...
+
+00:27:36.70,00:27:40.38
+je sve u šta sam verovala[br]tako jako bila laž?
+
+00:27:42.91,00:27:46.75
+Tašta i sebièna!
+
+00:28:02.34,00:28:05.76
+Prynnina kazna je uspevala[br]u svojoj okrutnoj svrsi.
+
+00:28:06.34,00:28:08.34
+Sezona je išla svojim tokom.
+
+00:28:09.34,00:28:12.23
+Daljina izmeðu njih je bila nepremostiva.
+
+00:28:14.69,00:28:18.18
+Moja majka je preuzela veliki rizik[br]pišuæi mom ocu,
+
+00:28:18.47,00:28:22.50
+da ostane postojan u svojoj ljubavi[br]æutanju.
+
+00:28:22.85,00:28:25.57
+Svestan da mu Prynino suptilno,[br]ali stalno prisustvo
+
+00:28:25.60,00:28:30.15
+izaziva unutršnju patnju [br]koja mu je pretila samoj duši.
+
+00:28:33.38,00:28:37.89
+Što se Prynna tièe, njegova žudnja za osvetom[br]je poèela da se hrani sama sobom.
+
+00:28:38.24,00:28:40.93
+Tako da je hteo više.
+
+00:28:46.72,00:28:49.41
+Dobar dan, Mituba.
+
+00:28:51.68,00:28:53.83
+kakav divan dan za jahanje.
+
+00:28:57.73,00:28:59.73
+Jadna, Mituba.
+
+00:29:00.29,00:29:04.61
+Poznata si u f+gradu po svojoj odanosti[br]svojoj gazdarici, a sada vidim i zašto.
+
+00:29:06.57,00:29:10.76
+Da li je tvoj suvi ruèa prepiska [br]njenog ljubavnika?
+
+00:29:14.73,00:29:19.56
+Znaš, da imam moè da te uhapsim[br]kao sauèesnika u preljubi i
+
+00:29:19.59,00:29:21.70
+izvedem pred sudije na ispitivanje.
+
+00:29:24.17,00:29:28.81
+A pošto si rob,[br]mogli bi i da te išibaju na smrt.
+
+00:29:30.37,00:29:32.37
+Polako.Polako.Polako.
+
+00:29:33.99,00:29:36.90
+Samo hoæu da pomognem onoj koju[br]oboje volimo
+
+00:29:36.94,00:29:39.85
+da se oslobodi iz ruku [br]neprijatelja.
+
+00:29:39.88,00:29:41.77
+Oh, Dragi Bože, to je to!
+
+00:29:41.77,00:29:44.65
+Naterao te je da se skineš pred njim!
+
+00:29:48.39,00:29:50.57
+Totalno skineš!
+
+00:29:51.50,00:29:56.01
+Da li se oseæalo prisustvo u sobi?[br]Misli sada! Misli!
+
+00:29:56.42,00:29:58.70
+Mogao je doæi prerušen u mnoge od[br]svojih likova.
+
+00:29:58.73,00:30:00.73
+Da li je došao kao , kao ptica?
+
+00:30:01.32,00:30:03.32
+Ah, cran ptica!
+
+00:30:03.63,00:30:05.63
+Da li je bila ptica?  Crvena?
+
+00:30:07.34,00:30:08.90
+Oh, Bože, oseæam prisustvo
+
+00:30:08.91,00:30:11.43
+Lucifera. Ne!
+
+00:30:11.47,00:30:12.42
+Spasi se dete
+
+00:30:12.43,00:30:13.86
+pre nego što bude kasno!
+
+00:30:13.87,00:30:15.72
+Gospodo, molim vas Gospodo,[br]molim vas, molim vas!
+
+00:30:15.72,00:30:17.72
+Dosta! Dosta!
+
+00:30:18.28,00:30:20.28
+Dosta!
+
+00:30:22.28,00:30:25.42
+Idi kuæi , Mituba[br]Bila si od velike pomoæi.
+
+00:30:26.60,00:30:29.03
+Preporuèi nas svojoj gospodarici.
+
+00:30:29.64,00:30:31.64
+Idi kuæi.
+
+00:30:32.11,00:30:34.11
+Idi kuæi.
+
+00:30:41.32,00:30:45.64
+Pa izgleda da postoji malignost[br]koja treba biti saseèena ovde.
+
+00:30:46.25,00:30:48.81
+Ali kakav svedok bi bio rob u sudnici?
+
+00:30:49.04,00:30:51.76
+Ptica je, oæigledno, Harriet Hibbons.
+
+00:31:00.88,00:31:02.88
+Šta je bilo, Pearl?
+
+00:31:05.39,00:31:06.32
+Oprosti mi, Hester.
+
+00:31:06.32,00:31:07.37
+Harriet!
+
+00:31:07.37,00:31:09.37
+Tvoja kuæa mi je prva pala napamet[br]gde bi se mogla sakriti.
+
+00:31:09.39,00:31:10.64
+Šta je bilo?
+
+00:31:10.64,00:31:13.07
+Oni su, oni su, oni su,[br]milicija.
+
+00:31:13.81,00:31:16.27
+Oni su upali u našu kuæu.[br]Tražili su me u šumi.
+
+00:31:23.53,00:31:25.52
+Imenovana sam
+
+00:31:25.52,00:31:27.52
+kao veštica!
+
+00:31:29.04,00:31:31.04
+Za ime boga!
+
+00:31:31.12,00:31:33.12
+Pa!
+
+00:31:39.18,00:31:40.27
+èekaj ovde!
+
+00:31:40.27,00:31:42.27
+Da, gospodine!
+
+00:31:47.31,00:31:49.20
+Kakav je reazlog ovog upada,[br]majore?
+
+00:31:49.20,00:31:51.73
+Skloni se u stranu, ženo,[br]znamo da je veštica unutra.
+
+00:31:52.59,00:31:54.19
+Nema nikoga unutra,
+
+00:31:54.19,00:31:56.19
+sem mene i mog deteta[br]i gospoðice Mituba.
+
+00:31:56.53,00:31:58.53
+Pa ako nemate nalog, odlazite.
+
+00:32:00.63,00:32:02.63
+Preèasni Dimmesdale.
+
+00:32:03.25,00:32:05.04
+Šta se dešava, Majore?
+
+00:32:05.04,00:32:07.99
+Izgleda da smo sebi saterali[br]vešticu u æošak.
+
+00:32:09.59,00:32:12.75
+Ovde u brvnari Hester Prynne.
+
+00:32:13.11,00:32:16.08
+Pa, ako postoji veštica[br]u kuæi, majore
+
+00:32:17.62,00:32:19.62
+siguran sam da æu je naæi.
+
+00:32:21.81,00:32:23.81
+U redu.
+
+00:32:25.49,00:32:27.67
+Odstupite. Jedan èovek na vratima.
+
+00:32:55.48,00:32:57.62
+Perl je baš porasla.
+
+00:33:00.15,00:33:03.61
+Ona je vilenjaèki nestašna.
+
+00:33:05.05,00:33:09.49
+Dragi Bože, Hester,
+
+00:33:12.47,00:33:14.65
+tako mnogo je prošlo.
+
+00:33:17.94,00:33:19.94
+Mršav si.
+
+00:33:26.71,00:33:29.21
+Da li krijete nekoga, Hester?
+
+00:33:33.05,00:33:35.05
+Zašto ...
+
+00:33:35.64,00:33:38.49
+Zašto rizikuješ
+
+00:33:38.68,00:33:41.11
+dalji bes gradskih otaca?
+
+00:33:41.14,00:33:43.14
+Jer gospoða Hibbons nije nikakva veštica!
+
+00:33:43.61,00:33:45.95
+I ona ništa nije skrivila sem što je[br]govorila otvoreno!
+
+00:33:45.98,00:33:48.31
+Pa, ako je nedužna
+
+00:33:48.35,00:33:52.31
+uveravam te, nikakvo zlo joj [br]neæe biti nanešeno.
+
+00:33:52.35,00:33:54.35
+Arthure,
+
+00:33:54.43,00:33:59.23
+posle svega što se desilo, kako možeš[br]da im i dalje veruješ?
+
+00:34:00.51,00:34:02.52
+Zar ne vidiš šta se dešava?
+
+00:34:03.29,00:34:05.79
+Prošlog meseca priveli su Sally Short[br]na ispitivanje.
+
+00:34:05.82,00:34:08.47
+Zadržali su je dva dana. Prošle nedelje,[br]je bila Mary Rollins!"
+
+00:34:08.79,00:34:10.87
+Samo su ih ispitivali!
+
+00:34:10.91,00:34:12.76
+Šta, šta je loše u tome?
+
+00:34:12.76,00:34:14.88
+Zloèin u tome je što nisu ništa uradile.
+
+00:34:15.58,00:34:18.40
+Zar ne vidiš da je sve ovo deo neèije[br]zlobe?
+
+00:34:18.68,00:34:19.74
+U šta si se pretvorio?
+
+00:34:19.74,00:34:21.74
+Bože, ženo!
+
+00:34:25.85,00:34:26.81
+Šta ti hoæeš?
+
+00:34:26.81,00:34:28.81
+Odrekao sam se svega što držim svetim!
+
+00:34:30.49,00:34:32.49
+U paklu sam!
+
+00:34:32.92,00:34:35.84
+U oèima neprijelja, tvoj muž,[br]koji me vreba i danju i noæu.
+
+00:34:35.87,00:34:37.50
+U oèima svakog parohijana,
+
+00:34:37.50,00:34:41.41
+koji dolazi da olakša svoju dušu![br]Ja sam zagaðenje, ženo!
+
+00:34:41.66,00:34:42.72
+Ja sam laž!
+
+00:34:42.72,00:34:45.57
+Oni, oni su zagaðenje.
+
+00:34:45.95,00:34:47.77
+Oni su laž!
+
+00:34:47.77,00:34:51.10
+Ali ti im dozvoljavaš da uništa[br]sve što je dobro u tebi!
+
+00:34:51.45,00:34:53.45
+Oh, šta se desilo sa èovekom[br]koga volim?
+
+00:34:53.89,00:34:55.87
+Zar više ne živi u tebi?
+
+00:34:55.87,00:34:58.65
+Naša ljuda, ženo, je ludorija.
+
+00:34:59.20,00:35:00.83
+I glas koji smo èuli
+
+00:35:00.83,00:35:04.41
+jeste glas zbog koga smo pravedno[br]kažnjeni slušajuæi ga!
+
+00:35:31.26,00:35:33.26
+Šta sam postao?
+
+00:36:12.93,00:36:17.32
+Izdati jedinu osobu na zemlji[br]koja je bila ljubazna prema njoj.
+
+00:36:17.70,00:36:19.56
+Koji bi oseæaj bio gori od toga?
+
+00:36:19.56,00:36:20.90
+Mituba?
+
+00:36:20.90,00:36:22.90
+Jadna nema, Mituba.
+
+00:36:23.49,00:36:28.58
+Kada je Prynne pozvao, otišla je da bi[br]popravila zlo koje je možda napravila.
+
+00:36:31.81,00:36:33.70
+Mir u kuæi!
+
+00:36:33.70,00:36:35.70
+Mir, kažem! Mir!
+
+00:36:36.33,00:36:40.42
+Nalazite ovaj postupak smešnim[br]gospoðo?
+
+00:36:42.53,00:36:45.57
+Zaista oèekujete da ga shvatim ozbiljno?
+
+00:36:46.79,00:36:51.69
+Gomila odraslih muškaraca koji njuškaju [br]oko mojih privatnih delova tela tražeæi[br]veštièje znakove!
+
+00:36:54.92,00:36:56.45
+Robinja, Mituba.
+
+00:36:56.45,00:36:58.63
+Mir kažem, mir!
+
+00:36:58.92,00:37:03.53
+Bojim se da je naš svedok, robinja,[br]Mituba, jaðena mrtva.
+
+00:37:07.30,00:37:08.33
+Guverneru, vidite.
+
+00:37:08.33,00:37:10.33
+Rekao sam vam da je veštica!
+
+00:37:10.54,00:37:12.54
+Gospoða Hibbons je veštica!
+
+00:37:12.55,00:37:13.67
+Ona je veštica!
+
+00:37:13.67,00:37:16.87
+Veštica!
+
+00:37:20.52,00:37:22.12
+Da li ste izgubili svoj razum?
+
+00:37:22.12,00:37:22.98
+Ko joj je dao pravo da prièa?
+
+00:37:22.98,00:37:24.98
+Nema ovde nikakvog veštièarenja!
+
+00:37:25.54,00:37:26.98
+Ovo je ubistvo!
+
+00:37:26.99,00:37:28.99
+Straža, obuzdajte ovu ženu!
+
+00:37:32.23,00:37:34.76
+Satanina dela nisu ovde meðu ženama!
+
+00:37:35.05,00:37:39.08
+Ako je veæ ovde, onda je možda[br]na delu ovde meðu vama muškarcima.
+
+00:37:39.11,00:37:41.11
+Slušajte kako Satana govori!
+
+00:37:41.29,00:37:43.40
+Guverberu? Guverberu?
+
+00:37:43.75,00:37:44.71
+Guverberu?
+
+00:37:44.71,00:37:46.86
+Imam dokaze da vam pružim.
+
+00:37:47.18,00:37:52.43
+Kao što znate gospoða Hibbons je bila[br]babica na poroðaju bebe gospoðe Prynne.
+
+00:37:52.46,00:37:54.46
+Pearl.
+
+00:37:59.76,00:38:01.23
+Slatka Pearl.
+
+00:38:01.23,00:38:03.23
+Ðubre!
+
+00:38:06.09,00:38:07.43
+Oh, slatka Pearl!
+
+00:38:07.44,00:38:09.44
+Ne!
+
+00:38:12.91,00:38:15.24
+Da, Pearll voleo bih da si moja devojèica.
+
+00:38:20.11,00:38:22.11
+Jadno dete beoca.
+
+00:38:23.02,00:38:25.02
+Sada. Da li bi volela da nauèiš igru?
+
+00:38:30.57,00:38:33.29
+Da. Sada, radi ono što ja radim.
+
+00:38:33.84,00:38:36.43
+Ako uštinem svoj nos ovako
+
+00:38:36.56,00:38:38.56
+i ti, takoðe. Odlièno , odlièno.
+
+00:38:39.09,00:38:41.09
+Sada.
+
+00:38:42.51,00:38:45.74
+Podignem svoji košulju i pokažem ti [br]svoj stomaèiæ.
+
+00:38:46.03,00:38:48.91
+Sada mi ti pokažeš svoj stomaèiæ.
+
+00:38:49.90,00:38:51.95
+Podigni svoju košulju.
+
+00:39:01.36,00:39:04.98
+Pogledajte veštièji znak!
+
+00:39:05.01,00:39:07.79
+Ne! Ne!
+
+00:39:09.81,00:39:12.85
+Pogledajte Djavolje sopstveno dete!
+
+00:39:13.33,00:39:15.33
+Ne!
+
+00:39:24.37,00:39:30.00
+Pogledajte Djavolje dete! Satana!
+
+00:39:36.08,00:39:38.58
+Dajte mi to dete!
+
+00:39:45.52,00:39:47.15
+Vešajte je!
+
+00:39:47.16,00:39:48.82
+Hibbons je nevina.
+
+00:39:48.82,00:39:50.58
+Ne možemo da pustimo da ova nevina žena[br]bude vešana!
+
+00:39:50.58,00:39:51.76
+Nevina?
+
+00:39:51.76,00:39:53.62
+Od kada si mi prvi put govorio o[br]toj Prynne ženi
+
+00:39:53.62,00:39:55.92
+sve što smo sanjali i radili u ime [br]Božje
+
+00:39:55.96,00:39:57.14
+je dovedeno u pitanje!
+
+00:39:57.14,00:39:57.87
+Gospodine.
+
+00:39:57.88,00:39:59.28
+Dosta sam èuo!
+
+00:39:59.28,00:40:00.72
+Da li ste slušali unutra?
+
+00:40:00.72,00:40:05.14
+Podela! Svaða! Nejedinstvo![br]To je delo Satane!
+
+00:40:08.82,00:40:10.82
+Grad je bio u metežu.
+
+00:40:11.54,00:40:14.71
+I tako je moj otac rizikovao poslednji[br]sastanak sa mopjom majkom.
+
+00:40:15.57,00:40:18.20
+Ubeðen da ako budu vešali Harriet
+
+00:40:18.65,00:40:22.20
+neæe mnogo proæi pre nego što ja [br]i moja majka budemo zatoèene,
+
+00:40:22.52,00:40:24.52
+i vešane kad na nas bude došao red.
+
+00:40:26.84,00:40:28.84
+Morala sam javno da istupim.
+
+00:40:29.59,00:40:31.59
+Ja, ja nisam se mogla obuzdati.
+
+00:40:32.69,00:40:34.69
+Proklet da ti je muž, Hester!
+
+00:40:40.28,00:40:42.90
+Ti i perl se morate sakriti noæas.
+
+00:40:43.29,00:40:45.27
+Ne mogu.
+
+00:40:45.27,00:40:47.27
+Ne mogu da bežim.
+
+00:40:47.38,00:40:49.38
+Šta to govoriš?
+
+00:40:55.99,00:40:58.10
+Oprosti mi.
+
+00:40:59.32,00:41:01.08
+Šta god da se desi,
+
+00:41:01.08,00:41:03.26
+obeæaj mi da æeš voditi raèuna[br]o Pearl.
+
+00:41:04.12,00:41:07.67
+Bože, ženo, koliko ovo daleko misliš[br]da vodiš?
+
+00:41:08.44,00:41:11.29
+Koliko me moja snaga bude nosila.
+
+00:41:13.69,00:41:16.67
+Ako Harriet bude vešana,[br]onda i ja mora zajedno sa njom.
+
+00:41:19.90,00:41:23.10
+Tražiæu od ostalih žena da stanu [br]uz nas.
+
+00:41:23.71,00:41:25.98
+Ne mogu na s sve vešati.
+
+00:41:28.95,00:41:32.51
+Hester, zar nikada neæemo znati za [br]zajednièki život?
+
+00:41:36.09,00:41:38.09
+Volim te.
+
+00:41:39.93,00:41:42.84
+Oh,Bože pomozi mi, volim te i[br]uvek æu.
+
+00:41:43.20,00:41:45.31
+Uvek æu te voleti.
+
+00:41:55.20,00:41:58.56
+Bože gospode, stojimo ovde pred tobom[br]nekada goli,
+
+00:41:59.52,00:42:04.38
+i sada stojimo pred tobom [br]ponovo goli kao porodica.
+
+00:42:04.73,00:42:09.02
+Bože pošto si mi darivao ovo[br]kao poklon
+
+00:42:09.66,00:42:13.50
+ja ga se neæu, odreæi!
+
+00:42:14.62,00:42:18.94
+Ne dok imam snage.
+
+00:42:50.43,00:42:52.43
+Arthure?
+
+00:43:09.83,00:43:11.83
+Arthure?
+
+00:43:34.40,00:43:36.40
+Arthure?
+
+00:44:00.13,00:44:04.13
+'Veèe gospoðo Prynne.[br]Oèekivali ste nekog drugog?
+
+00:44:04.55,00:44:05.99
+Ah, ne, ah"
+
+00:44:05.99,00:44:08.04
+Da li ste doyivali Arthura?
+
+00:44:08.52,00:44:10.53
+Jedinog Artura koga ja znam je Dimmesdale.
+
+00:44:10.57,00:44:13.61
+Mora da ste me pogrešno razumeli.
+
+00:44:14.79,00:44:17.80
+Moga sam ranije da predpostavim.[br]Ti nevaljala devojko.
+
+00:44:17.86,00:44:23.88
+Pa, jebala si se sa propovednikom.
+
+00:44:24.39,00:44:30.34
+Oh moj bože, upravo æu kušati[br]neprocenjivo parèe!
+
+00:44:30.63,00:44:32.63
+Na noge lagane.
+
+00:44:32.90,00:44:36.58
+Šta ti je uradio?[br]Da li ti je lizaoo grudi?
+
+00:44:37.38,00:44:39.38
+Da li te je olizao?
+
+00:44:39.56,00:44:42.12
+Gde te je lizao, Hester?
+
+00:44:42.70,00:44:44.70
+Pokaži mi!
+
+00:44:45.38,00:44:48.20
+Bože, kako sam te želeo kresnuti!
+
+00:44:54.89,00:44:58.15
+Pripremi se da odužiš moje snove!
+
+00:44:58.51,00:45:03.59
+Muèiš mene a sve vreme[br]podaješ se drugome.
+
+00:45:17.39,00:45:19.24
+Prokleta da si, veštice!
+
+00:45:19.24,00:45:21.24
+Izlazi!
+
+00:45:22.57,00:45:25.13
+Digni pantalone i izlazi!
+
+00:45:32.94,00:45:35.98
+Bitango jedna, izlazi!
+
+00:45:36.33,00:45:38.89
+Uživaæu gledajuæi tebe i tvog[br]Preèasnog kako visite!
+
+00:45:52.40,00:45:54.41
+Otvorite, Doctore.
+
+00:45:55.02,00:45:58.48
+Postoje stvari meðu nama o kojima moramo[br]prodiskutovat odmah.
+
+00:46:25.07,00:46:26.73
+Pa, Arthure Dimmesdale.
+
+00:46:26.74,00:46:28.74
+Ubijen je!
+
+00:48:06.29,00:48:13.69
+Pozovi te miliciju![br]Pozovite gardu!
+
+00:48:13.72,00:48:14.65
+To je znak!
+
+00:48:14.65,00:48:17.21
+Bog nam je poslao znak!
+
+00:48:17.24,00:48:18.55
+Uhvatite preobraæene Indijance!
+
+00:48:18.55,00:48:19.13
+Zatvorite ih!
+
+00:48:19.13,00:48:21.13
+Izgubili smo svoj put!
+
+00:48:22.36,00:48:24.70
+Vidite kako na s kažnjava!
+
+00:48:25.69,00:48:29.88
+It's Brewster[br]Ti divljaci su ga ubili!
+
+00:48:29.91,00:48:31.91
+Sine moj!Sine moj!
+
+00:48:35.13,00:48:41.15
+Zatvorite preobraæene Indijance pre nego[br]što nas pobiju u krevetima!
+
+00:48:41.18,00:48:42.68
+Uhvatite preobraæene Indijance!
+
+00:48:42.68,00:48:46.20
+Smestite ih u logor.
+
+00:48:46.23,00:48:47.32
+Ulazite unutra!
+
+00:48:47.32,00:48:52.41
+Mi smo lojalni vama.
+
+00:48:53.98,00:48:57.02
+Otvorite oružarnicu!
+
+00:49:01.69,00:49:06.27
+Gospoðo, po nareðenj Guvernera[br]Massachusetts Bay Kolonije,
+
+00:49:06.30,00:49:09.31
+ovim ste uhapšeni za èin[br]jeresi, i ...
+
+00:49:14.04,00:49:17.24
+Prestanite sa ovim. Jedan od nas[br]je ubio Brewstera.
+
+00:49:19.87,00:49:21.95
+To je bio jedan od nas. Imam dokaze!
+
+00:49:25.76,00:49:27.10
+Ðubre!
+
+00:49:27.10,00:49:30.04
+Johnny, otrèi do Metacometovog mesta[br]pored reke.
+
+00:49:30.08,00:49:31.45
+Video sam ih tamo!
+
+00:49:31.45,00:49:34.24
+Reci Metacommetu da doðe i spase[br]svoj narod.[br]1243[br]02:00:38,170 --> 02:00:39,159[br]Trèi, èoveèe!
+
+00:49:34.49,00:49:36.49
+Trèi, èoveèe!
+
+00:49:39.33,00:49:43.23
+Evo dolaze veštice.
+
+00:49:43.65,00:49:45.76
+Otvorite æelije.
+
+00:49:56.96,00:49:57.89
+Ostavi dete.
+
+00:49:57.89,00:49:59.49
+Pearl?
+
+00:49:59.49,00:50:00.09
+- Ulazi, ženo![br]- Pearl?
+
+00:50:00.10,00:50:01.34
+Ulazi!
+
+00:50:01.34,00:50:04.99
+Ne brinite, gospoðo Prynne, postaraæu se da bude [br]odgajana plašeæi se boga.
+
+00:50:05.02,00:50:07.02
+- Ulazi![br]- Pearl?
+
+00:50:23.87,00:50:27.01
+Otvaraj ubico!
+
+00:50:54.66,00:50:57.12
+Nema ovde nikakvog veštièarenja!
+
+00:50:57.16,00:50:59.16
+Obesite je!
+
+00:50:59.30,00:51:01.54
+Ako obesimo ove žene
+
+00:51:01.96,00:51:04.26
+šta smo onda postali?
+
+00:51:04.80,00:51:06.21
+Ko smo mi
+
+00:51:06.21,00:51:08.58
+da osuðujemo
+
+00:51:08.61,00:51:10.72
+u božje ime?
+
+00:51:18.08,00:51:21.93
+Ja volim ovu ženu.
+
+00:51:23.94,00:51:29.00
+Ja sam otac njenog deteta!
+
+00:51:29.48,00:51:33.41
+I u božjim oèima ja sam njen muž.
+
+00:51:41.03,00:51:45.25
+Sada ako morate vešati nekoga
+
+00:51:45.29,00:51:47.29
+da bi ste udovoljili
+
+00:51:47.30,00:51:50.86
+svom besu i strahu
+
+00:51:53.00,00:51:55.72
+vešajte mene.
+
+00:52:34.70,00:52:36.70
+Vešajte ga!
+
+00:52:36.71,00:52:37.99
+Vešajte ga!
+
+00:52:37.99,00:52:38.99
+Vešajte ga!
+
+00:52:38.99,00:52:40.07
+Vešajte ga!
+
+00:52:40.07,00:52:41.23
+Vešajte ga!
+
+00:52:41.23,00:52:44.20
+Vešajte ga!
+
+00:52:44.30,00:52:45.32
+Vešajte ga!
+
+00:52:45.32,00:52:46.47
+Vešajte ga!
+
+00:52:46.48,00:52:47.63
+Vešajte ga!
+
+00:52:47.63,00:52:48.81
+Vešajte ga!
+
+00:52:48.81,00:52:50.06
+Vešajte ga!
+
+00:52:50.06,00:52:51.27
+Vešajte ga!
+
+00:52:51.28,00:52:52.59
+Vešajte ga!
+
+00:52:52.59,00:52:53.77
+Vešajte ga!
+
+00:52:53.77,00:52:55.02
+Vešajte ga!
+
+00:52:55.02,00:52:56.43
+Vešajte ga!
+
+00:52:56.43,00:52:57.64
+Vešajte ga!
+
+00:52:57.64,00:52:58.86
+Vešajte ga!
+
+00:52:58.86,00:53:00.08
+Vešajte ga!
+
+00:53:00.08,00:53:23.63
+Vešajte ga!!
+
+00:53:37.17,00:53:39.57
+Ðubrad!
+
+00:53:44.05,00:53:45.74
+- Gde je Pearl? [br]- Ona je sa ...
+
+00:53:45.74,00:53:47.74
+Hajde.
+
+00:54:18.42,00:54:20.42
+Hester!
+
+00:54:24.85,00:54:26.32
+Gde mi je dete?
+
+00:54:26.32,00:54:28.05
+Ona je u zbornoj kuæi!
+
+00:54:28.05,00:54:30.05
+Hajde.
+
+00:54:57.52,00:55:01.81
+Slobodni ste, moj narode[br]vrati se Metacometu!
+
+00:55:01.84,00:55:03.84
+Vratite se u šumu!
+
+00:56:15.13,00:56:19.13
+Bellingham bi uradio sve da sakrije[br]ovo ludilo od Engleske.
+
+00:56:20.60,00:56:23.99
+Zakleo mi se da æe ukloniti[br]slovo.
+
+00:56:24.44,00:56:27.19
+I napraviti javno izvinjenje.
+
+00:56:30.30,00:56:32.83
+Kako su blizu ljubav i mržnja.
+
+00:56:33.40,00:56:36.83
+Nismo ništa manje vezani za jedno [br]koliko za drugo.
+
+00:56:40.73,00:56:43.36
+Poèivaj u miru, Rogere Prynne.
+
+00:56:52.54,00:56:54.72
+Ovo slovo je poslužilo svrsi.
+
+00:56:55.77,00:56:58.53
+Ali ne onoj koju su mu oni dali.
+
+00:56:59.49,00:57:01.49
+Zašto bih ostala ovde?
+
+00:57:01.66,00:57:05.69
+Da bih bila prihvaæena od strane njih?[br]Da bih bila zauzdana?
+
+00:57:12.54,00:57:14.27
+Ne postoji savršeni svet, Hester.
+
+00:57:14.27,00:57:16.27
+Ne, ne savršen.
+
+00:57:17.92,00:57:20.48
+Ali smo došli ovde da napravimo novi.
+
+00:57:23.26,00:57:25.26
+I Pearl radi
+
+00:57:27.23,00:57:29.44
+moram to i uèiniti.
+
+00:57:33.02,00:57:35.02
+Hester?
+
+00:57:35.04,00:57:37.15
+Hajdemo, Pearl.
+
+00:57:38.21,00:57:40.21
+Hester!
+
+00:57:41.34,00:57:43.34
+Pogledaj me.
+
+00:57:44.93,00:57:46.93
+Ako te pogledam[br]neæu moæi da odem.
+
+00:57:47.17,00:57:51.11
+Onda idi. Prigrli divljinu!
+
+00:57:58.21,00:58:01.73
+Ali Hester, ja te ne puštam.
+
+00:58:01.76,00:58:04.23
+Tako mi boga, neæeš bez mene.
+
+00:58:15.94,00:58:17.94
+Gledaju nas.
+
+00:58:40.84,00:58:43.75
+U dalekoj Karolini[br]moji roditelji su najzad
+
+00:58:43.78,00:58:49.48
+našli meru sreæe koja im je bila [br]uskraæivana tako dugo.
+
+00:58:50.12,00:58:53.00
+Moj otac je umro pre nego što sam[br]postala tinejdžer.
+
+00:58:53.61,00:58:55.97
+Neki kažu da je to bila kazna.
+
+00:58:57.16,00:59:00.52
+Moja majka se nikada nije preudala,[br]ili volela drugoga.
+
+00:59:01.13,00:59:03.59
+Neki kažu da je to bila kazna.
+
+00:59:04.39,00:59:08.68
+Što se mene tièe ja to ne vidim tako.
+
+00:59:09.19,00:59:12.58
+Moji roditelji su delili ljubav[br]kao ni jednu drugu.
+
+00:59:12.61,00:59:16.33
+Znam da duh te ljubavi živi[br]u meni.
+
+00:59:16.36,00:59:18.70
+I živeæe [br]u mojoj deci zauvek.
+
+00:59:21.10,00:59:25.99
+Ko je taj da kaže[br]šta je greh u oèima Božijim?
+

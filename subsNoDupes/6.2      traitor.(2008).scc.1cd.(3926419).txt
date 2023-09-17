@@ -1,0 +1,3261 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:45.49,00:00:52.21
+IZDAJNIK
+
+00:02:58.58,00:03:01.17
+Idemo sada. Gde ti je prijatelj?
+
+00:03:01.25,00:03:02.67
+Napolju je, piša.
+
+00:03:02.75,00:03:04.34
+Odmah æe doæi.
+
+00:03:04.42,00:03:07.05
+Puška ne valja. Daj mi.
+
+00:03:07.13,00:03:08.26
+Ne. To je vrlo dobra puška.
+
+00:03:08.34,00:03:10.39
+Daj mi svoju pušku.[br]Razumeš?
+
+00:03:10.43,00:03:12.51
+Razumem.[br]Samo ti ne dam svoju pušku.
+
+00:03:15.93,00:03:18.19
+Daj mu pušku, Archer.
+
+00:03:18.27,00:03:20.19
+Šališ se, ne?
+
+00:03:21.61,00:03:24.61
+Svaki dvanaestogodišnjak u ovoj[br]zemlji nosi kalašnjikov.
+
+00:03:24.69,00:03:26.74
+Baš zato tvoja puška ne znaèi ništa.
+
+00:03:26.78,00:03:27.90
+Daj mu je.
+
+00:04:57.87,00:05:02.50
+Ahmedov sam prijatelj.[br]Došao sam poslovno.
+
+00:05:05.21,00:05:07.29
+Ahmed nije ovde.
+
+00:05:07.71,00:05:09.55
+Šta želiš?
+
+00:05:11.88,00:05:13.93
+Tebe ne poznam.
+
+00:05:14.38,00:05:16.05
+Odakle si?
+
+00:05:17.68,00:05:19.35
+Odasvud.
+
+00:05:19.43,00:05:21.10
+Ali roðen sam u Sudanu.
+
+00:05:22.93,00:05:25.44
+Engleski ti je vrlo dobar.
+
+00:05:25.52,00:05:27.23
+Tvoj takoðe.
+
+00:05:28.82,00:05:31.53
+Šta radiš ovde?
+
+00:05:31.57,00:05:33.78
+Ahmed je tražio da doðem.
+
+00:05:36.41,00:05:38.08
+Meni nije rekao.
+
+00:05:45.25,00:05:47.63
+Ne mogu ovako pregovarati.
+
+00:05:48.92,00:05:51.42
+Pregovarati o èemu?
+
+00:05:53.72,00:05:55.84
+Imam 6 sanduka Semtexa,
+
+00:05:55.93,00:05:58.89
+posebno izraðene detonatore,[br]u svom kamionu.
+
+00:05:58.93,00:06:01.01
+Jeste li zainteresovani?
+
+00:06:06.52,00:06:08.02
+Molim te...
+
+00:06:09.82,00:06:11.65
+sedni.
+
+00:06:19.83,00:06:23.12
+Mogu vam pokazati kako da ih koristite,[br]a da se ne raznesete.
+
+00:06:23.16,00:06:24.71
+Nenamerno, dakako.
+
+00:06:24.79,00:06:28.08
+Nenamerno.
+
+00:06:28.13,00:06:29.25
+Smešno.
+
+00:06:29.33,00:06:30.79
+Samir.[br]Ahmed.
+
+00:06:35.22,00:06:36.22
+Upoznao si Omara.
+
+00:06:37.18,00:06:38.09
+Ponudio ti je èaj?
+
+00:06:40.18,00:06:41.18
+Baš je mislio.
+
+00:06:51.19,00:06:52.44
+Šta je to bilo?
+
+00:06:52.52,00:06:54.78
+Kapetan ja impresioniran SIG-om.[br]Rekao sam mu da je može zadržati.
+
+00:06:54.86,00:06:56.19
+- Moju pušku?
+
+00:06:56.28,00:06:57.86
+Dao si mu moju pušku?
+
+00:06:57.95,00:07:01.62
+Mali gest dobre volje[br]puno znaèi u ovom delu sveta.
+
+00:07:01.66,00:07:03.99
+Šukran. Idemo.
+
+00:07:19.68,00:07:21.18
+Hladnoæa u Afganistanu ide do kostiju.
+
+00:07:22.01,00:07:28.19
+Samir je otkrio kako rastaviti one male[br]Sovjetske AP mine i napraviti male grejaèe.
+
+00:07:41.78,00:07:44.28
+Ponekad smo sami sebi skoro razneli prste.
+
+00:07:47.37,00:07:49.71
+Ali bar smo imali vruæeg èaja.
+
+00:07:56.84,00:07:57.96
+Hajde! Hajde!
+
+00:08:50.64,00:08:52.98
+Zdravo, Mr.Horn,[br]Ja sam specijalni Agent Clayton, FBI.
+
+00:08:53.06,00:08:55.11
+- Ovo je Agent Archer.
+
+00:08:56.40,00:08:59.57
+FBI?
+
+00:08:59.65,00:09:02.24
+Otkad FBI radi u Jemenu?
+
+00:09:02.28,00:09:03.99
+Ne radi.[br]Nemamo ovlaštenja ovde.
+
+00:09:04.07,00:09:05.82
+U jemenskom ste pritvoru.
+
+00:09:05.91,00:09:07.28
+Jebeno loše vesti za vas.
+
+00:09:07.33,00:09:10.70
+Ako ste nam voljni pomoæi,[br]možda i mi pomognemo vama.
+
+00:09:10.79,00:09:12.41
+Pomoæi æete mi[br]bez ovlaštenja?
+
+00:09:12.46,00:09:14.79
+Slušaju nas malo više[br]kad je reè o terorizmu.
+
+00:09:14.88,00:09:16.92
+O, a ja sam terorist?
+
+00:09:17.00,00:09:19.13
+Ne znam. Reci ti meni.[br]Prodavao si im eksploziv?
+
+00:09:19.21,00:09:21.17
+Ja prodajem onom[br]koji može kupiti.
+
+00:09:21.26,00:09:22.76
+Kao npr. vlada SAD-a.
+
+00:09:22.84,00:09:24.63
+Samo što naši ne ubijaju[br]nevine ljude.
+
+00:09:24.68,00:09:27.14
+O da, genije, ubijaju.
+
+00:09:27.22,00:09:29.64
+Samo što obièno ti ljudi imaju tamniju kožu.
+
+00:09:29.72,00:09:31.10
+Preskoèimo politièku debatu.
+
+00:09:31.18,00:09:33.44
+Samo želimo znati[br]gde je Semtex išao.
+
+00:09:33.52,00:09:35.98
+Ne znam.[br]Nisam pitao.
+
+00:09:36.06,00:09:37.48
+Ali znaš odakle je došao.
+
+00:09:37.52,00:09:40.15
+Da. Pao je sa kamiona.
+
+00:09:40.23,00:09:42.28
+Odgovori na pitanje.
+
+00:09:42.36,00:09:44.15
+Trebaju ti lekcije[br]od lokalnih ljudi.
+
+00:09:45.66,00:09:47.37
+Ohh!
+
+00:09:47.45,00:09:49.45
+Ja æu poprièati s njim.
+
+00:09:49.53,00:09:52.00
+Oprosti. Sigurno sam zaboravio[br]povelju prava kod kuæe.
+
+00:09:58.54,00:10:01.46
+Jasno mi je[br]da nisi fanatik, Samir.
+
+00:10:01.51,00:10:04.38
+Oportunist možda,[br]ali ne fanatik.
+
+00:10:04.47,00:10:06.51
+Zato smatraj ovo prilikom.
+
+00:10:06.59,00:10:09.76
+Imaš amerièki pasoš,[br]što znaèi da te mogu izvuæi odavde.
+
+00:10:09.85,00:10:12.81
+Ali trebam odgovor.
+
+00:10:17.27,00:10:19.36
+Želiš li provesti ostatak života[br]ovde u Jemenu?
+
+00:10:19.44,00:10:20.48
+Samo daj.
+
+00:10:20.57,00:10:22.28
+Ali oboje znamo[br]da æu ja verovatno biti
+
+00:10:22.36,00:10:25.20
+poslednje prijateljsko lice[br]koje æeš videti za dugo vreme.
+
+00:10:27.82,00:10:31.20
+Nemam ti ništa reæi.
+
+00:10:31.24,00:10:33.66
+Jedina razlika izmeðu[br]tebe i njega
+
+00:10:33.75,00:10:36.46
+je to što on zna da je seronja.
+
+00:10:37.67,00:10:40.38
+Zašto jednostavno ne poðete kuæi,[br]Agente Clayton.
+
+00:10:50.47,00:10:52.31
+- Dobar tip.[br]- Nisi ga trebao udariti.
+
+00:10:52.39,00:10:54.73
+- Zaslužio je.[br]- To nije bitno.
+
+00:10:54.77,00:10:56.98
+Osumnjièenik æe progovoriti[br]ako ti pogodiš njegove taèke,
+
+00:10:57.06,00:10:58.19
+ne ako mu dopustiš da pogodi tvoje.
+
+00:10:58.23,00:11:00.19
+Niko te to nije nauèio?
+
+00:11:33.81,00:11:37.81
+Ti si izdajnik.[br]Prodao si nas.
+
+00:11:37.89,00:11:39.64
+Zašto sam onda ovde s tobom?
+
+00:12:58.72,00:12:59.68
+Šta ti radiš?
+
+00:13:00.18,00:13:02.06
+Molim te, Vadi. Samo jedem svoju hranu
+
+00:13:05.23,00:13:08.53
+Èiju hranu?[br]Izvinjavam se , Vadi... tvoju hranu.
+
+00:13:08.61,00:13:14.74
+Oprosti Vadi. Evo, uzmi je.[br]Slinio si po njoj. Ne želim je.
+
+00:13:36.01,00:13:38.26
+Šta misliš da radiš?
+
+00:13:38.85,00:13:40.43
+Nisam želeo svoju hranu.
+
+00:13:41.52,00:13:47.73
+Onda je ne moraš jesti.[br]Ali ja odluèujem ko jede a ko gladuje.
+
+00:13:48.19,00:13:49.69
+Ko živi, ko umire.
+
+00:13:49.90,00:13:51.90
+Razumeš me?
+
+00:13:52.57,00:13:57.07
+Ne. O životu i smrti odluèuje Bog.
+
+00:13:57.57,00:13:59.08
+Da li me razumeš?
+
+00:14:03.54,00:14:06.08
+Želi nas uèiti o veri.
+
+00:14:07.71,00:14:09.71
+Ah, zaboravi Alaha.
+
+00:15:14.74,00:15:15.86
+Razbili su šifru
+
+00:15:15.94,00:15:17.95
+na onom satelitskom telefonu[br]koji ste našli u Jemenu.
+
+00:15:18.03,00:15:19.82
+Proveri popis poziva.
+
+00:15:19.87,00:15:22.20
+14 poziva u Rim u ranom maju,
+
+00:15:22.28,00:15:24.12
+17 poziva u Berlin u martu,
+
+00:15:24.16,00:15:26.25
+11 u Amsterdam u ranom maju.
+
+00:15:26.33,00:15:29.12
+Poklapa se sa Al-Natir[br]bombaškim napadima.
+
+00:15:29.17,00:15:33.30
+Rim, Berlin, Amsterdam.
+
+00:15:33.38,00:15:34.59
+Gde su pozivi išli?
+
+00:15:34.67,00:15:37.80
+Govornice, veæinom u imigrantskim,[br]muslimanskim èetvrtima.
+
+00:15:40.84,00:15:42.30
+Šta ste našli za Samira Horna?
+
+00:15:42.39,00:15:43.51
+Nema kriminalni dosije.
+
+00:15:43.60,00:15:46.27
+Pretražio sam NCIC,[br]državne i lokalne baze podataka.
+
+00:15:46.35,00:15:47.77
+još ništa.
+
+00:15:51.19,00:15:54.02
+Proveri i vojnu.
+
+00:15:54.11,00:15:57.57
+Sigurno nije nauèio sastavljati[br]detonatore u srednjoj školi.
+
+00:16:45.28,00:16:50.25
+Zdravo, sveti èoveèe. Imaš li[br]šta dati na poklon?
+
+00:16:59.38,00:17:00.97
+Vreme je da završimo[br]šta smo zapoèeli.
+
+00:17:01.05,00:17:02.43
+Veæ je završeno.
+
+00:17:06.05,00:17:09.43
+Drži se dalje. Ili æu ti[br]preseæi grlo.
+
+00:17:11.06,00:17:13.44
+Imam 50 ljudi u ovom zatvoru[br]koji su voljni ubiti za mene.
+
+00:17:14.06,00:17:16.44
+A koliko ih je voljno umreti za tebe?
+
+00:17:16.06,00:17:17.44
+Ko želi umreti prvi?
+
+00:17:22.03,00:17:23.45
+Ti?
+
+00:17:32.83,00:17:35.29
+Stavi ruku na ikog od moje braæe,
+
+00:17:35.33,00:17:37.75
+i to æe ti znaèiti gubitak života.
+
+00:18:09.62,00:18:11.50
+Šukran.
+
+00:18:29.35,00:18:31.60
+Gde si nauèio igrati?
+
+00:18:34.23,00:18:36.69
+Moj otac.
+
+00:18:36.73,00:18:38.40
+Ti?
+
+00:18:38.48,00:18:40.11
+Internat u Švajcarskoj.
+
+00:18:44.61,00:18:47.91
+- Pobedio si.[br]- Želiš ponovo?
+
+00:18:47.99,00:18:50.62
+Nisam imao s kim igrati godinama.
+
+00:18:53.08,00:18:54.87
+Zašto ne igraš s[br]nekim od njih?
+
+00:18:58.25,00:19:01.34
+Oni su vojnici, ne mozgovi.
+
+00:19:05.38,00:19:07.43
+Vojnici ili muèenici?
+
+00:19:15.52,00:19:18.48
+Znaš, bio sam u mnogo bitaka.
+
+00:19:18.56,00:19:22.02
+I možda su tada izgledale[br]ako samoubilaèke misije,
+
+00:19:22.07,00:19:24.40
+ali uvek smo planirali[br]vratiti se kuæi.
+
+00:19:25.78,00:19:28.24
+Moraš biti voljan žrtvovati[br]nekoliko pijuna
+
+00:19:28.32,00:19:30.74
+ako želiš pobediti u igri.
+
+00:19:32.74,00:19:35.66
+- Ne znam.[br]- Mislim da znaš.
+
+00:19:35.75,00:19:39.25
+Riskirao si život da bi[br]podelio hranu sa neznancem.
+
+00:19:39.33,00:19:42.00
+To nije ista stvar.[br]Samo sam èinio svoju dužnost.
+
+00:19:42.09,00:19:46.21
+- Da sam znao da je...[br]- Jihad je isto tvoja dužnost.
+
+00:19:46.26,00:19:49.26
+Ahmed mi je rekao što[br]si napravio u Afganistanu.
+
+00:19:53.26,00:19:55.35
+Taktika se promenila, prijatelju.
+
+00:19:55.43,00:19:57.89
+Taktika se uvek menja.
+
+00:19:57.98,00:20:01.94
+Neæeš pobediti carstvo[br]ako se boriš po njihovim pravilima.
+
+00:20:01.98,00:20:03.52
+Nekada davno,
+
+00:20:03.61,00:20:08.45
+Amerikanci su bili[br]teroristi za Britance.
+
+00:20:08.53,00:20:11.62
+Veæ su zaboravili istoriju.
+
+00:20:48.15,00:20:49.99
+Alahu Akbar.
+
+00:20:56.41,00:20:59.16
+Alahu Akbar.
+
+00:21:09.76,00:21:11.97
+Govno je...
+
+00:21:12.05,00:21:13.34
+Senjor?
+
+00:21:37.37,00:21:40.00
+U redu, nemoj reæi nikome[br]da sam ovo rekao, ali u pravu si.
+
+00:21:40.04,00:21:43.17
+- Vojska je imala dokument o njemu.[br]- Hmm.
+
+00:21:43.25,00:21:46.21
+Narednik Samir Horn.[br]U.S. Army Specijalne jedinice.
+
+00:21:46.25,00:21:48.21
+Obuèen u Fort Braggu.
+
+00:21:48.30,00:21:51.34
+- Inžinjering i eksplozivi.[br]- U redu, preði na sledeæu.
+
+00:21:51.42,00:21:53.63
+Horn je prezime njegove majke.[br]Ona je iz Chicaga.
+
+00:21:53.72,00:21:55.05
+Otac mu je bio Sudanac.
+
+00:21:55.14,00:21:57.80
+Kretao se po èitavom bliskom istoku.[br]Imao je veze s muslimanslim bratstvom.
+
+00:21:57.89,00:21:59.85
+Ubijen autobombom '78.
+
+00:21:59.89,00:22:01.35
+Nije sigurno koja strana je kriva.
+
+00:22:01.39,00:22:03.39
+- Ma nemoj?[br]- I postaje bolje.
+
+00:22:03.44,00:22:06.98
+Vojska je poslala Horna u Pakistan[br]'86 da obuèava Afganistanske pobunjenike.
+
+00:22:07.06,00:22:09.02
+Tamo je došao u dodir[br]sa svojim muslimanskim korenima.
+
+00:22:09.11,00:22:10.94
+Odluèio je da želi sudelovati
+
+00:22:11.03,00:22:12.57
+Kada je završio posao,[br]ostao je,
+
+00:22:12.65,00:22:13.99
+i pridružio se mudžahedinima.
+
+00:22:14.07,00:22:15.32
+Bio je bombaški napad u Španjolskoj.
+
+00:22:15.41,00:22:17.95
+Jedanaest Amerikanaca mrtvo.[br]Uhvatili su bombaša.
+
+00:22:19.03,00:22:20.83
+...amerièki turisti
+
+00:22:20.91,00:22:22.45
+su èini se bili meta napada,
+
+00:22:22.54,00:22:26.08
+Posljednjeg koji je izvršio Nathir,[br]islamski terorist
+
+00:22:26.17,00:22:29.17
+èiji identitet i prebivalište[br]ostaju nepoznanica vlastima.
+
+00:22:43.35,00:22:46.77
+Imaš li ženu?[br]Obitelj?
+
+00:22:46.85,00:22:49.11
+Ne.
+
+00:22:49.19,00:22:53.28
+Ne želiš decu?
+
+00:22:53.36,00:22:55.03
+Nemam ženu.
+
+00:23:06.58,00:23:09.88
+U kojem jeziku sanjaš?
+
+00:23:09.96,00:23:11.80
+Engleskom.
+
+00:23:11.88,00:23:14.42
+Ja isto.
+
+00:23:14.46,00:23:15.67
+Ozbiljno?
+
+00:23:15.76,00:23:18.18
+Znaš , smešno je...
+
+00:23:18.26,00:23:22.51
+Ponekad se ne oseæam kuæi[br]govoreæi svoj jezik.
+
+00:23:22.60,00:23:25.06
+Ja se nigde ne oseæam kuæi
+
+00:23:27.44,00:23:30.19
+Samir. Samir?
+
+00:23:31.98,00:23:34.94
+Želim da nekog upoznaš[br]kad izaðemo odavde.
+
+00:23:35.03,00:23:39.87
+U Jemenskom smo zatvoru zbog terorizma.
+
+00:23:39.95,00:23:42.12
+Ja ne bih pravio nikakve planove.
+
+00:23:53.34,00:23:55.71
+Ovaj tip mora da je[br]u stanju šoka.
+
+00:23:55.80,00:23:58.93
+Planirao se probuditi[br]u raju sa 72 device.
+
+00:23:59.01,00:24:01.85
+Razneseš se da bi ševio.[br]Ovo su nenormalne gluposti.
+
+00:24:01.93,00:24:04.68
+Gde sam ja odrasao, KKK je palio[br]krsteve ispred kuæa ljudi
+
+00:24:04.72,00:24:05.85
+i zvali su to "hrišæanstvo".
+
+00:24:05.93,00:24:07.64
+I onda bi se moj otac[br]i ljudi iz crkve
+
+00:24:07.68,00:24:09.90
+odvezli tamo i ugasili ih.
+
+00:24:09.98,00:24:13.15
+Èini se da svaka religija ima više lica.
+
+00:24:19.49,00:24:21.11
+Kako si?
+
+00:24:25.58,00:24:27.54
+U redu, mislim.
+
+00:24:27.62,00:24:29.58
+Želeo bi biti mrtav,[br]zar ne?
+
+00:24:29.66,00:24:31.04
+Želeo bi da si bio uspešan?
+
+00:24:31.12,00:24:33.04
+Ubio sam deseine nevernika.
+
+00:24:33.09,00:24:35.09
+Ali ti si još uvek živ.
+
+00:24:35.17,00:24:37.51
+A ne doimaš mi se[br]kao kukavica.
+
+00:24:37.59,00:24:39.05
+Naravno da nisam kukavica.
+
+00:24:39.13,00:24:40.84
+Pa, neki æe ljudi pomisliti da[br]si izgubio živce.
+
+00:24:40.93,00:24:42.09
+Nisam.
+
+00:24:42.18,00:24:45.85
+Znaš, sutrašnje novine[br]æe imati tvoje lice na naslovnici
+
+00:24:45.89,00:24:49.18
+sa prièom kako si zarobljen[br]i pomažeš policiji.
+
+00:24:49.23,00:24:51.23
+- To je laž.[br]- Preživeo si eksploziju.
+
+00:24:51.27,00:24:54.06
+Pao si u neprijateljske ruke.[br]Ja mislim da to nije laž.
+
+00:25:00.90,00:25:03.74
+Šta misliš ko æe platiti[br]tvoj neuspeh?
+
+00:25:03.78,00:25:05.53
+Pretpostavljam da æe to biti[br]tvoj roðak, Husein.
+
+00:25:05.58,00:25:08.04
+On te uvukao u sve ovo, zar ne?
+
+00:25:08.08,00:25:10.41
+Ne budi iznenaðen, Zijad.
+
+00:25:10.50,00:25:12.58
+Znamo sve o tebi...
+
+00:25:12.67,00:25:16.88
+Porodica, prijatelji...[br]Posao, telefonski pozivi.
+
+00:25:16.92,00:25:18.76
+Èak znamo što slušaš na svom iPodu.
+
+00:25:18.80,00:25:21.09
+Ostavi me na miru.
+
+00:25:25.22,00:25:27.47
+[br]Postoji izlaz.
+
+00:25:27.56,00:25:30.02
+Ali moraæeš nam dati neke informacije.
+
+00:25:30.10,00:25:31.94
+Niko ne zna da si živ.
+
+00:25:31.98,00:25:34.23
+Ako mi odgovoriš na pitanja,
+
+00:25:34.27,00:25:38.07
+sutrašnja naslovnica bi mogla[br]reæi svetu da si mrtav.
+
+00:25:41.57,00:25:45.37
+Zašto bi Husein patio zbog ovog?
+
+00:25:45.45,00:25:47.41
+Zašto bi iko mislio da si ti kukavica?
+
+00:25:49.58,00:25:52.75
+Hajde, Zijad.
+
+00:25:52.79,00:25:55.42
+Prièaj sada ili prièaj kasnije.
+
+00:25:55.50,00:25:58.55
+Jedina je razlika prièa[br]koju æe svi èuti o tebi.
+
+00:26:16.36,00:26:19.61
+Jeli sve u redu, brate?
+
+00:26:19.65,00:26:20.98
+Imaj vere.
+
+00:26:21.03,00:26:22.61
+I drži se blizu.
+
+00:26:27.37,00:26:28.87
+Ne, ne, ne![br]Ne, ne, ne.
+
+00:26:28.95,00:26:31.33
+Ostani dole.[br]Èekaj, èekaj, èekaj.
+
+00:26:39.88,00:26:41.25
+Sada! Idemo, idemo!
+
+00:27:44.28,00:27:45.99
+- Sranj...[br]- Ne, ne , ne. Èekaj.
+
+00:27:53.66,00:27:55.37
+Idemo! Idemo!
+
+00:28:02.67,00:28:05.34
+Ko je ovo? Ovo je brat Samir.[br]Ide s nama.
+
+00:28:06.01,00:28:11.34
+Rekli su mi 6. Nije mi nareðeno [br]da njega vodim. Sada je.
+
+00:28:20.15,00:28:21.77
+Sve što znam je da sam trebao[br]iæi u Ameriku, ne u Španiju.
+
+00:28:23.44,00:28:25.78
+Natir nas je slao puno.
+
+00:28:25.86,00:28:27.49
+I koliko ih je došlo u SAD?
+
+00:28:27.57,00:28:30.07
+Ne znam... 30, 40.[br]Možda i više.
+
+00:28:30.16,00:28:31.99
+Izdavali su nam studentske vize.
+
+00:28:32.07,00:28:35.08
+I to je sve što...
+
+00:28:35.16,00:28:36.50
+Dobar posao.
+
+00:28:38.96,00:28:40.83
+Priznanje koje smo dobili[br]u Španiji je èisto.
+
+00:28:40.92,00:28:44.75
+Jedini razlog zašto Zijad Hamzi[br]nije došao u SAD
+
+00:28:44.80,00:28:46.51
+je zato što mu je studentska[br]viza bila odbijena.
+
+00:28:46.59,00:28:49.26
+Ali Natir je poslao druge[br]i oni su ovde.
+
+00:28:49.34,00:28:52.72
+Ima li iko drugi[br]nešto o Natiru?
+
+00:28:54.51,00:28:57.97
+Pre 6 meseci presreli smo poruku.
+
+00:28:58.02,00:29:02.56
+Ništa konkretno ali razgovarali su[br]o Al-Natir operaciji
+
+00:29:02.65,00:29:03.81
+kodnog imena "Risala"...
+
+00:29:03.90,00:29:07.23
+Višestruki samoubilaèki napad[br]ovde u SAD-u.
+
+00:29:07.32,00:29:08.19
+Prièekaj malo.
+
+00:29:08.28,00:29:10.70
+Imali ste informacije o napadu i[br]niste ih proslijedili?
+
+00:29:10.78,00:29:12.32
+Bile su neproverene.
+
+00:29:12.41,00:29:14.03
+Pa kako su mogle biti proverene[br]kad ih niste podelili?
+
+00:29:14.12,00:29:16.49
+Dosta. Ne želim više slušati o[br]skupljanju informacija.
+
+00:29:16.58,00:29:17.95
+Ovu æemo pretnju uzeti za ozbiljno.
+
+00:29:17.99,00:29:19.71
+Bela kuæa æe hteti delovanje.
+
+00:29:19.79,00:29:22.75
+Govorim o poteri za ljudima koji[br]odgovaraju profilu.
+
+00:29:22.83,00:29:26.00
+I svi rade zajedno na ovom.
+
+00:29:26.04,00:29:27.71
+- Kelly se prilièno nabrijao.[br]- Pa?
+
+00:29:27.80,00:29:30.47
+Pre nekoliko meseci mi je rekao[br]da si radio
+
+00:29:30.55,00:29:32.18
+na Natiru.
+
+00:29:32.22,00:29:33.59
+To je bilo neslužbeno.
+
+00:29:33.68,00:29:36.22
+Da. Samo kažem da možda...
+
+00:29:36.30,00:29:37.97
+možda tvoj tip nešto zna.
+
+00:29:38.01,00:29:40.14
+Više se ne èuje za njega.
+
+00:29:40.23,00:29:43.56
+Koliko ja znam, prešao[br]je na drugu stranu.
+
+00:29:55.70,00:29:58.54
+Kada brod pristane,[br]imaš izbor.
+
+00:29:58.62,00:30:01.50
+Možeš siæi i otiæi kao slobodan èovek.
+
+00:30:01.54,00:30:03.50
+Naši ljudi æe ti pomoæi[br]da proðeš carinu.
+
+00:30:03.54,00:30:06.54
+I tada si sam.
+
+00:30:06.63,00:30:09.05
+Što ako ostanem?
+
+00:30:10.46,00:30:12.88
+Naš put nije za svakoga.
+
+00:30:16.09,00:30:18.10
+Razumem.
+
+00:30:19.93,00:30:22.48
+Smatram te prijateljem, Samir.
+
+00:30:22.56,00:30:23.98
+Pa æu ti reæi ovo.
+
+00:30:24.06,00:30:26.52
+Ne odluèuj olako.
+
+00:30:42.20,00:30:44.92
+- Bonsoir.[br]- Bonsoir.
+
+00:30:48.84,00:30:53.09
+- Merci beaucoup, mon chérie.
+
+00:30:55.93,00:30:57.59
+Šta je?
+
+00:30:57.64,00:31:01.10
+- To je halal.[br]- Zapravo je Krug '95.
+
+00:31:02.77,00:31:04.48
+Ne budi tako uznemiren, Samir.
+
+00:31:04.56,00:31:07.27
+Brijemo se, pijemo alkohol,
+
+00:31:07.35,00:31:09.11
+i ponekad èak jedemo svinjetinu.
+
+00:31:09.19,00:31:10.77
+Hmm?
+
+00:31:10.86,00:31:13.15
+U Kur'anu, to se zove Takija.
+
+00:31:13.24,00:31:15.45
+"Postani kao svoj neprijatelj[br]da bi ga zavarao."
+
+00:31:15.49,00:31:16.82
+To nije Takija.
+
+00:31:16.91,00:31:18.07
+Molim?
+
+00:31:18.12,00:31:21.16
+Uz svo dužno poštovanje, brate Farid,
+
+00:31:21.24,00:31:24.71
+Hadit kaže da je prorok[br]Muhamed Sal-Alahu Alajhi Va Salam
+
+00:31:24.79,00:31:28.17
+rekao svojim sledbenicima da mogu[br]lagati da nisu muslimani
+
+00:31:28.25,00:31:31.25
+da bi si spasili život[br]ako im preti smrt.
+
+00:31:31.29,00:31:36.51
+- Nije spomenuo...[br]- Zar nam sada ne preti smrt ?
+
+00:31:36.59,00:31:37.97
+Mi smo u ratu.
+
+00:31:38.05,00:31:40.85
+i da bi bio delotvoran,[br]moraš se uklopiti.
+
+00:31:42.31,00:31:44.64
+Niko nas èak ni ne gleda.
+
+00:31:46.69,00:31:49.69
+Rekao sam ti, on nije neki vojnik.
+
+00:31:49.77,00:31:51.44
+Samir je èovek od vere.
+
+00:31:51.52,00:31:54.23
+Vera je dobra.
+
+00:31:54.32,00:31:59.16
+Ali moraš i znati slediti naredbe.
+
+00:32:14.05,00:32:16.72
+U jednoj od najveæih operacija[br]službe narodne sigurnosti do danas,
+
+00:32:16.80,00:32:19.30
+ICS i FBI agenti[br]ispituju strane studente.
+
+00:32:19.38,00:32:21.34
+Ko je gde izvadio vize[br]u zemljama bliskog istoka
+
+00:32:21.39,00:32:22.97
+u zadnje dve godine.
+
+00:32:23.06,00:32:24.85
+U nekim velikim gradovima,[br]gde je veliki broj...
+
+00:32:24.93,00:32:27.39
+Nekoliko amerièkih grupa je[br]protestovalo protiv operacije,
+
+00:32:27.48,00:32:30.10
+tvrdeæi da nepošteno cilja[br]nevine civile
+
+00:32:30.19,00:32:32.31
+i rasno profiluje.
+
+00:32:32.36,00:32:34.94
+Amerièko udruženje za ljudske slobode...
+
+00:32:39.24,00:32:41.87
+...je otkrila da je Amerièka[br]invazija i okupacija Iraka
+
+00:32:41.91,00:32:45.99
+podstakla stvaranje nove generacije[br]islamskog radikalizma.
+
+00:32:50.00,00:32:52.71
+Državna sigurnost...[br]gubitak vremena i resursa.
+
+00:32:52.79,00:32:54.25
+Ovako ih nikad neæemo naæi.
+
+00:32:54.34,00:32:56.59
+U svetu je 1.2 milijarde muslimana.
+
+00:32:56.67,00:32:57.96
+Samo 20% su arapi.
+
+00:32:58.05,00:33:00.18
+Ovi ljudi mogu izgledati kao[br]bilo ko, osim možda kao ti.
+
+00:33:00.26,00:33:02.47
+Šta, ti ne misliš da bismo[br]trebali ispitivati ove ljude?
+
+00:33:02.55,00:33:05.14
+Ja mislim da bismo se trebali[br]usredotoèiti na jednog osumnjièenog
+
+00:33:05.22,00:33:06.64
+kojeg imamo.
+
+00:33:15.77,00:33:19.32
+Uèimo kako ubiti,[br]ali to ne znaèi da volimo nasilje.
+
+00:33:19.40,00:33:23.95
+Koristimo nasilje jedino zato[br]što je ono korišteno protiv nas.
+
+00:33:24.03,00:33:26.74
+Krstaši su nam napali zemlju,
+
+00:33:26.79,00:33:29.04
+bacili bombe na naše ljude,
+
+00:33:29.08,00:33:30.96
+ukrali nam prirodne resurse.
+
+00:33:31.04,00:33:33.38
+Borimo se da prekinemo patnju.
+
+00:33:33.46,00:33:36.42
+Borimo se da prekinemo[br]poniženje i smrt...
+
+00:33:36.46,00:33:38.88
+Amerikanci nas optužuju[br]za ubijanje nedužnih civila.
+
+00:33:39.51,00:33:44.72
+A oni prolivaju krv nedužnih[br]muslimana desetleæima.
+
+00:33:44.76,00:33:46.43
+Zar se naša krv ne raèuna?
+
+00:33:46.51,00:33:47.35
+Alahu Akbar.
+
+00:33:47.43,00:33:49.47
+Istorija nam je pokazala[br]mnogo puta da
+
+00:33:49.56,00:33:53.48
+bez obzira koliko je veliko carstvo,[br]koliko su mali izgledi,
+
+00:33:53.56,00:33:58.44
+èovek koji se ne boji umreti[br]ne može biti poražen.
+
+00:34:00.57,00:34:04.45
+Amerika ima projektile i bombe..[br]ali mi imamo Boga na našoj strani.
+
+00:34:04.61,00:34:05.53
+Alahu Akbar.
+
+00:34:05.62,00:34:07.49
+Alahu Akbar.
+
+00:34:11.91,00:34:13.46
+Hvala.
+
+00:34:16.96,00:34:18.80
+Vaš sin je u velikoj nevolji.
+
+00:34:18.88,00:34:20.96
+Kakvoj nevolji?
+
+00:34:21.05,00:34:23.30
+Uplaten je u[br]teroristièku organizaciju.
+
+00:34:26.47,00:34:29.81
+Verujete li vi u Boga,[br]Detective Clayton?
+
+00:34:29.89,00:34:33.23
+Uh, ne koristimo izraz[br]"Detektiv",gospoðo.
+
+00:34:33.31,00:34:35.23
+Niste mi odgovorili na pitanje.
+
+00:34:37.65,00:34:40.69
+Da, verujem u Boga.[br]Zašto pitate?
+
+00:34:40.78,00:34:45.78
+Zato što nikada neæete razumeti èoveka[br]kao što je Samir ako ne verujete.
+
+00:34:49.08,00:34:51.04
+Biste li ga opisali kao[br]predanog muslimana?
+
+00:34:51.12,00:34:52.29
+On je musliman.
+
+00:34:52.33,00:34:54.37
+Ne verujem da postoji skala.
+
+00:34:54.46,00:34:56.54
+Znate li šta reè musliman znaèi?
+
+00:34:56.63,00:34:57.67
+Pokornost
+
+00:34:57.75,00:35:00.38
+Da. Pokornost.
+
+00:35:00.46,00:35:03.17
+Pokornost Božjoj volji[br]je apsolutna.
+
+00:35:03.26,00:35:07.34
+Mislite li da Samir veruje da je[br]Božja volja da ubija druge?
+
+00:35:09.89,00:35:11.81
+I vi nosite pištolj.
+
+00:35:11.85,00:35:14.69
+Sada vi niste odgovorili[br]na moje pitanje.
+
+00:35:16.10,00:35:21.15
+Moj sin je video dovoljno smrti[br]da bi uvideo vrednost života.
+
+00:35:29.87,00:35:30.95
+Ko je?
+
+00:35:31.03,00:35:33.70
+FBI, gospoðo.[br]Dolazim zbog Samira Horna.
+
+00:35:35.33,00:35:38.83
+Nedeljama mi nije odgovoreno na pisma[br]koja sam poslala.
+
+00:35:38.88,00:35:41.63
+Mislim, ne znam ni u kojem[br]ga zatvoru drže.
+
+00:35:41.71,00:35:43.71
+Više ga ne drže.
+
+00:35:43.80,00:35:45.34
+Pobegao je.
+
+00:35:45.38,00:35:47.93
+Kada?[br]Pre nedelju dana.
+
+00:35:48.01,00:35:51.26
+Beg je organizovala teroristièka[br]grupa s kojom radi.
+
+00:35:51.35,00:35:53.35
+O èemu vi prièate?
+
+00:35:53.43,00:35:55.23
+Sve je ovo greška.
+
+00:35:55.31,00:35:58.35
+Bojim se da nije gospoðo.[br]Imamo dokaze.
+
+00:35:58.44,00:35:59.81
+- Kakve dokaze?[br]- To je poverljivo.
+
+00:35:59.90,00:36:02.23
+- Ne mogu vam to reæi.[br]- Da, naravno.
+
+00:36:05.90,00:36:09.32
+Vi ste ljudi neverovatni.
+
+00:36:09.41,00:36:12.20
+Koliko je prošlo otkad ste[br]ga poslednji put videli?
+
+00:36:12.24,00:36:15.16
+Ne seæam se.
+
+00:36:15.25,00:36:17.71
+Ako mu želite pomoæi,[br]razgovarajte sa mnom.
+
+00:36:17.79,00:36:20.46
+Mislite li vi da je svaki[br]musliman terorista?
+
+00:36:20.54,00:36:22.09
+Naprotiv.
+
+00:36:22.17,00:36:23.71
+Ja tražim one koji to jesu.
+
+00:36:23.80,00:36:25.76
+Ako znate bilo šta o tome[br]u što je ukljuèen,
+
+00:36:25.84,00:36:27.55
+imate obvezu podeliti[br]to sa mnom.
+
+00:36:27.63,00:36:29.47
+Optužujete li me za nešto?
+
+00:36:29.55,00:36:30.59
+Ne.
+
+00:36:30.68,00:36:32.60
+Kada budete imali nešto više[br]od tajnih dokaza,
+
+00:36:32.64,00:36:33.85
+tada æemo razgovarati.
+
+00:36:37.02,00:36:39.94
+Uh, samo su ga otpustili.[br]Bez objašnjenja.
+
+00:36:40.02,00:36:42.69
+Ali, bilo je prilièno oèigledno zašto.
+
+00:36:42.77,00:36:44.65
+Kako je Samir to podneo?
+
+00:36:44.73,00:36:46.23
+A šta mislite?
+
+00:36:46.32,00:36:47.90
+I zašto ste otpustili g.Horna?
+
+00:36:47.94,00:36:50.16
+Isuse, pa to je bilo pre više od[br]godinu dana.
+
+00:36:50.24,00:36:51.91
+Ne seæam se detalja.
+
+00:36:51.95,00:36:55.87
+Informacije koje skupimo[br]za ovakve provere
+
+00:36:55.95,00:36:56.91
+su striktno poverljive.
+
+00:36:57.00,00:36:59.29
+Gledajte, što se mene tièe,
+
+00:36:59.37,00:37:01.29
+èovekova vera je njegova lièna stvar.
+
+00:37:01.33,00:37:05.05
+Ali ako nosite kapicu i molite se[br]Alahu 5 puta na dan,
+
+00:37:05.13,00:37:07.09
+ljudi æe primetiti.
+
+00:37:07.13,00:37:08.76
+Neki naši klijenti su se žalili.
+
+00:37:30.82,00:37:32.66
+Horn Dolazi u Chicago s 12 godina.
+
+00:37:32.70,00:37:35.08
+Upravo je gledao oca kako umire.[br]Stigao je iz Sudana.
+
+00:37:35.16,00:37:37.79
+Prolazi kroz kulturni šok.[br]To je klasièni profil.
+
+00:37:37.87,00:37:39.96
+Uhvaæen je izmeðu treadicionalnog[br]islama i zapada.
+
+00:37:40.00,00:37:41.50
+rezultati testova su izvaredni.
+
+00:37:41.54,00:37:43.54
+Ali piše da je imao nekih[br]problema s ponašanjem.
+
+00:37:43.63,00:37:46.55
+Bio je izbaèen iz srednje škole[br]u 4. godini zbog tuènjave.
+
+00:37:46.63,00:37:47.59
+Oko èega?
+
+00:37:47.67,00:37:49.46
+Tri bela uèenika su uznemiravala[br]crnu uèenicu.
+
+00:37:49.51,00:37:50.67
+Horn je intervenisao.
+
+00:37:50.76,00:37:53.47
+Dva deèaka su bila hospitalizovana.
+
+00:37:53.55,00:37:55.68
+Prijavio se u vojsku odmah posle toga.
+
+00:37:55.76,00:37:57.89
+Vojni dosije je poverljiv.
+
+00:37:57.97,00:37:59.89
+Ali evo kopije.
+
+00:37:59.98,00:38:02.60
+Nakon što je napustio vojsku,[br]Horn se bori u Afganistanu
+
+00:38:02.69,00:38:04.02
+nekoliko godina.
+
+00:38:04.06,00:38:07.77
+Lista ljudi koje je mogao tamo sresti[br]je praktièno svaki islamski terorist,
+
+00:38:07.86,00:38:09.78
+od Abdul Azima[br]do Osama bin Ladena.
+
+00:38:09.86,00:38:12.32
+Sada mu se gubi trag dok se nije[br]pojavio u Bosni
+
+00:38:12.36,00:38:14.66
+gde je sreo Chandru Dawkin,[br]fotografistkinju novina.
+
+00:38:14.74,00:38:16.58
+- Da li je ona špijunka?[br]- Ne.
+
+00:38:16.66,00:38:18.04
+FBI je pokušao da je ispita,
+
+00:38:18.12,00:38:20.58
+ali mi izvor kaže da[br]nije saraðivala.
+
+00:38:20.66,00:38:22.37
+Prošle jeseni se èinilio da[br]se stvari menjaju.
+
+00:38:22.46,00:38:25.42
+Gubi posao, provodi sve[br]više vremena u džamiji.
+
+00:38:25.50,00:38:28.88
+Tada poèinje nestajati na dugim[br]prekomorskim putovanjima.
+
+00:38:28.96,00:38:30.42
+Sa poslednjeg se nije vratio.
+
+00:38:30.51,00:38:32.42
+I negde usput sreæe nekoga
+
+00:38:32.51,00:38:34.55
+ko je povezan s Natirom i bingo!
+
+00:38:34.63,00:38:36.85
+Dobio si teroristu.
+
+00:39:06.71,00:39:08.21
+Bum!
+
+00:39:08.25,00:39:10.46
+Da je ovo prava stvar,[br]mogao je sve razneti.
+
+00:39:10.55,00:39:12.01
+Daj, Omar.[br]Ovaj mali je premlad.
+
+00:39:12.09,00:39:13.42
+Nije spreman.[br]Kažem ti.
+
+00:39:13.51,00:39:15.05
+Oprostite.[br]Dajte da pokušam ponovo.
+
+00:39:15.13,00:39:17.26
+Ne. Nikog nije briga što je tebi žao.
+
+00:39:17.34,00:39:20.22
+Ne možemo imati greške.[br]Ne možemo se igrati okolo s ovim, Omar.
+
+00:39:20.31,00:39:22.10
+Dovedite mi nekoga ko može[br]ovo uèiniti.
+
+00:39:22.18,00:39:25.23
+Molim vas. Ja mogu ovo.[br]Dajte mi priliku.
+
+00:39:25.31,00:39:26.73
+Da li je ova misija važna ili ne?
+
+00:39:26.77,00:39:28.02
+Jer, ako je važna,[br]morate dovesti...
+
+00:39:28.11,00:39:30.23
+Samir.
+
+00:39:30.32,00:39:32.28
+Daj mu da pokuša ponovo.
+
+00:39:36.95,00:39:38.62
+Okreni se.
+
+00:40:25.25,00:40:29.04
+U redu.[br]Da vidimo šta imaš.
+
+00:40:29.12,00:40:31.67
+Kopija transkripta[br]za vas, gospodine.
+
+00:40:31.75,00:40:33.30
+Imam nešto.
+
+00:40:33.34,00:40:35.67
+Ovaj je tip zvao juèe[br]sa telefona u Marseillesu
+
+00:40:35.71,00:40:36.63
+koji smo pratili.
+
+00:40:36.72,00:40:39.30
+Tvrdi da je izabran da postane šahid.
+
+00:40:39.38,00:40:40.68
+Pokupio si malo arapskog?
+
+00:40:40.76,00:40:42.22
+Ah, samo osnovni "Džihadi".
+
+00:40:42.30,00:40:44.51
+Ova je aktivna.
+
+00:40:44.60,00:40:47.18
+Misli da æe biti u raju do kraja nedelje.
+
+00:41:10.58,00:41:14.75
+Braæo, znam kako su svi ponosni na
+
+00:41:14.84,00:41:17.01
+ono šta æemo napraviti.
+
+00:41:17.09,00:41:20.76
+Èast je izvšiti ovakvu misiju.
+
+00:41:21.80,00:41:23.55
+Ali imamo problem.
+
+00:41:25.10,00:41:27.52
+Neko je govorio o njoj.
+
+00:41:49.00,00:41:52.87
+Hej ljudi, žao mi je.
+
+00:41:54.38,00:41:55.59
+To je bio samo moj roðak.
+
+00:41:55.67,00:41:59.26
+Omar, nisam mu rekao[br]nikakve pojedinosti.
+
+00:42:01.47,00:42:05.68
+Samo sam želeo da zna,[br]da kaže mojoj porodici.
+
+00:42:05.76,00:42:09.43
+Omar, može mu se verovati.[br]Kunem se.
+
+00:42:14.60,00:42:16.90
+To nije bila tvoja odluka.
+
+00:42:19.07,00:42:20.74
+U redu. U redu.
+
+00:42:20.82,00:42:22.95
+Neæe se više nikad ponoviti.
+
+00:42:40.30,00:42:43.13
+Omar. Èekaj malo.
+
+00:42:43.22,00:42:45.39
+Nemoj im dati...[br]Ljudi, hej!
+
+00:42:48.18,00:42:50.06
+Bašir!
+
+00:42:55.52,00:42:58.02
+Ne! Laissez-moi!
+
+00:42:58.11,00:42:59.86
+Laissez-moi!
+
+00:43:04.11,00:43:05.49
+Ne!
+
+00:43:12.45,00:43:16.12
+Hej idiote![br]Upravo si upropastio misiju.
+
+00:43:16.21,00:43:17.96
+Koji ti je ðavo?
+
+00:43:18.00,00:43:20.09
+Ti æeš si sad staviti bombu?
+
+00:43:20.17,00:43:22.63
+Slušaj me.
+
+00:43:22.67,00:43:25.97
+Deèaku se nije moglo verovati.
+
+00:43:26.05,00:43:29.93
+Mi to ne dopuštamo.
+
+00:44:01.75,00:44:04.67
+Drage vas volje doèekujemo,[br]ali nije bilo potrebno
+
+00:44:04.72,00:44:07.84
+da dolazite èak ovamo[br]zbog jednog telefonskog poziva.
+
+00:44:07.88,00:44:10.80
+Imamo razloga verovati[br]da je ova govornica
+
+00:44:10.89,00:44:12.85
+bila korištena od strane[br]Natirovih operativaca u prošlosti.
+
+00:44:12.93,00:44:15.64
+Ovo bi lako mogao biti njihov[br]sledeæi bombaš samoubica.
+
+00:44:15.73,00:44:17.77
+Zahvaljujem na iformacijama,[br]gospodine,
+
+00:44:17.85,00:44:20.94
+ali situacija je pod kontrolom,[br]uveravam vas.
+
+00:44:25.24,00:44:28.24
+Nismo došli ovde glumiti turiste.[br]Došli smo spreèiti napad.
+
+00:44:28.32,00:44:31.49
+Možemo li stoga prestati[br]sa sranjima?
+
+00:44:35.20,00:44:36.91
+Ok.
+
+00:44:42.09,00:44:43.88
+Ali Abas Muktar.
+
+00:44:43.96,00:44:45.76
+Roðen je u Marseillesu.
+
+00:44:45.80,00:44:48.55
+Francuski graðanin.[br]17 mu je godina.
+
+00:44:48.59,00:44:51.60
+Ali... više nije pretnja.
+
+00:44:51.68,00:44:53.43
+Zašto?
+
+00:44:58.73,00:45:01.90
+Naðen je mrtav u utorak ujutro.
+
+00:45:14.41,00:45:16.24
+Omar.
+
+00:45:20.54,00:45:23.13
+Natir je ljut.
+
+00:45:23.21,00:45:25.25
+Želeo je da se ovo napravi na vreme.
+
+00:45:25.34,00:45:27.88
+Pa, još uvek možemo.
+
+00:45:27.96,00:45:30.84
+Moramo poèeti iznova.
+
+00:45:30.93,00:45:32.59
+Nova meta, novi bombaš.
+
+00:45:32.64,00:45:34.64
+Nova meta, da.[br]Ali za...
+
+00:45:34.72,00:45:37.89
+- Dobar dan.
+
+00:45:40.73,00:45:42.10
+Razmišljao sam o ovome.
+
+00:45:42.15,00:45:43.61
+Želim iskoristiti daljinski okidaè.
+
+00:45:45.15,00:45:48.19
+Znaš li ti koliko je važna[br]ova misija, Samir?
+
+00:45:48.28,00:45:51.70
+Natir posmatra.[br]Ima plan za tebe.
+
+00:45:51.78,00:45:53.45
+Zna ko sam ja?
+
+00:45:55.95,00:45:58.25
+Reci mi svoju ideju.
+
+00:45:58.33,00:46:00.37
+Amerièki konzulat u Nici.
+
+00:48:50.00,00:48:51.50
+Amerièki konzulat u Nici
+
+00:48:51.59,00:48:55.01
+je pretrpeo veliku štetu u[br]bombaškom napadu ranije danas.
+
+00:48:55.05,00:48:58.88
+Policija još uvek traži telo,[br]pretpostavlja se, bombaša ubice.
+
+00:48:58.97,00:49:02.68
+Ovaj napad ima iste karakteristike kao[br]i eksplozije ranije ove godine
+
+00:49:02.76,00:49:06.43
+koje je izvela grupa[br]naziva Al-natir.
+
+00:49:11.56,00:49:13.02
+Tri ili više bombi
+
+00:49:13.07,00:49:16.40
+velike eksplozivne moæi su postavljene...
+
+00:49:35.88,00:49:37.05
+Samir.
+
+00:49:37.13,00:49:38.80
+- As-Salamu Alaejkum, prijatelju.[br]- Va alejkum asalam.
+
+00:49:38.88,00:49:41.01
+- Dobrodošao natrag.[br]- Hvala.
+
+00:49:41.05,00:49:43.43
+Èestitam, Samir.[br]Dobar posao.
+
+00:49:43.51,00:49:45.14
+Slava pripada Alahu.
+
+00:49:45.22,00:49:46.52
+Gledaj.
+
+00:49:46.60,00:49:48.43
+...Amerièki konzulat ovde u Nici,
+
+00:49:48.52,00:49:51.31
+bio je žrtva teroristièkog napada
+
+00:49:51.40,00:49:52.44
+ranije danas.
+
+00:49:52.52,00:49:57.53
+Potvrðeno je 8 žrtava,[br]i 5 povreðenih.
+
+00:49:57.61,00:49:59.07
+Dobar posao.
+
+00:49:59.15,00:50:00.28
+Šta je bilo?
+
+00:50:00.36,00:50:02.57
+Osam?
+
+00:50:04.95,00:50:07.49
+Mislio sam da æe biti više, mnogo više.
+
+00:50:07.58,00:50:10.21
+Brate, èestitke su u redu.
+
+00:50:10.25,00:50:11.75
+Ono što si napravio je sjajno.
+
+00:50:11.79,00:50:16.00
+Danas smo zadali snažan udarac[br]mitu amerièke moæi.
+
+00:50:16.04,00:50:17.17
+Natir je zadovoljan.
+
+00:50:18.71,00:50:21.22
+Jedino želim služiti njegovoj volji.
+
+00:50:21.30,00:50:23.34
+To mi je drago da èujem,
+
+00:50:23.43,00:50:25.89
+ali veèeras se opusti.
+
+00:50:25.93,00:50:28.31
+Molim te, oseæaj se kao kuæi.
+
+00:50:39.69,00:50:42.11
+Tu si, brate.
+
+00:50:42.20,00:50:44.07
+Dobar pogled, ha?
+
+00:50:44.16,00:50:45.62
+Da.
+
+00:50:45.70,00:50:47.74
+Ono što si napravio, Samir,
+
+00:50:47.78,00:50:49.41
+što mi radimo...
+
+00:50:49.45,00:50:52.25
+to je sve samo da oslobodimo svoje ljude.
+
+00:50:52.33,00:50:54.96
+Èak i ako mi ne doživimo da to vidimo.
+
+00:50:58.09,00:51:00.38
+Ako èovek nije otkrio nešto
+
+00:51:00.46,00:51:02.76
+za što je voljan umreti,
+
+00:51:02.80,00:51:04.84
+tada ne treba ni živeti.
+
+00:51:06.97,00:51:09.81
+Ko je to rekao?
+
+00:51:09.89,00:51:11.60
+Martin Luther King.
+
+00:51:12.64,00:51:14.77
+Ah.
+
+00:51:17.36,00:51:20.32
+Ti si vrlo smešan èovek, Samir.
+
+00:51:20.40,00:51:21.69
+Da.
+
+00:51:50.72,00:51:51.97
+Stigli su rezultati iz labosa.
+
+00:51:52.02,00:51:54.52
+Tragovi PETN-a, RDX.
+
+00:51:54.56,00:51:55.77
+Opet Semtex.
+
+00:51:55.85,00:51:58.27
+Baš kao i drugi Natirovi napadi.
+
+00:51:58.36,00:52:00.32
+Samo što su svi drugi napadi bili[br]bombaši samoubice,
+
+00:52:00.40,00:52:02.36
+a ovo izgleda kao da je[br]iz RF spremnika, hmm?
+
+00:52:02.44,00:52:03.61
+Da.
+
+00:52:03.69,00:52:05.24
+Koristio je male naboje.
+
+00:52:05.32,00:52:07.57
+Jedan...
+
+00:52:07.66,00:52:08.66
+i dva.
+
+00:52:08.74,00:52:11.87
+Ali baš na pravim mestima[br]da sruši zgradu.
+
+00:52:11.95,00:52:14.00
+Ovaj èovek zna šta radi.
+
+00:52:15.54,00:52:17.46
+RF domet obièno[br]nije više od 100 m,
+
+00:52:17.54,00:52:19.33
+pa pogledajmo snimke[br]za sve sigurnosne kamere
+
+00:52:19.42,00:52:21.50
+unutar radijusa od 5 ulica.
+
+00:53:26.36,00:53:27.53
+Niko.[br]Nastavi.
+
+00:53:27.61,00:53:28.57
+- Još.
+
+00:53:33.20,00:53:34.91
+Vrati malo.
+
+00:54:13.41,00:54:14.95
+Šta je bilo?
+
+00:54:15.03,00:54:16.83
+Nije bilo Amerikanaca unutra.
+
+00:54:16.91,00:54:19.00
+Dva zaposlena ambasade su lažna,
+
+00:54:19.08,00:54:20.91
+tela iz mrtvaènice[br]sa lažnim identitetima
+
+00:54:21.00,00:54:21.96
+baš kako smo prièali.
+
+00:54:22.04,00:54:23.50
+Zašto vesti kažu osam ljudi?
+
+00:54:23.58,00:54:26.34
+Bilo je nekog neplaniranog održavanja[br]u delu konzulata
+
+00:54:26.42,00:54:29.38
+koji je trebao biti prazan,[br]u redu?
+
+00:54:29.46,00:54:31.43
+Nisam znao da æe biti tamo.
+
+00:54:31.51,00:54:33.93
+Nismo mogli sve kontrolisati.
+
+00:54:34.01,00:54:36.97
+Niko nije trebao umreti![br]Žao mi je, Samir.
+
+00:54:48.15,00:54:50.32
+Što želiš da kažem?
+
+00:54:50.36,00:54:51.49
+Aktivirali smo bombu.
+
+00:54:51.57,00:54:53.95
+Ne, ja sam je aktivirao.
+
+00:55:06.79,00:55:09.76
+Znam da si platio cenu[br]da doðeš do tu.
+
+00:55:09.84,00:55:11.80
+Ok? Blizu si.
+
+00:55:11.88,00:55:14.93
+Vrlo blizu.
+
+00:55:18.35,00:55:20.85
+Ne znam èoveèe.[br]Reci ti meni.
+
+00:55:22.43,00:55:24.14
+Stajemo li?
+
+00:56:43.85,00:56:46.81
+Šta te nateralo da uèiš arapski?
+
+00:56:46.85,00:56:49.60
+Uzeo sam kolegijum na faksu[br]i zainteresovao se.
+
+00:56:49.69,00:56:52.94
+Èak sam prebacio glavni kolegijum[br]sa religije na Arapsku nauku.
+
+00:56:52.98,00:56:55.61
+Religija ti je bila glavna?
+
+00:56:55.69,00:56:57.40
+Tata mi je baptistièki sveštenik.
+
+00:56:57.49,00:57:00.07
+Deda mi je baptistièki sveštenik.
+
+00:57:00.12,00:57:02.49
+To mi je u krvi.
+
+00:57:02.53,00:57:04.62
+Znaš kada je J. Edgar[br]bio glavni ,
+
+00:57:04.70,00:57:07.37
+nikad te ne bi pustio u FBI.
+
+00:57:07.46,00:57:09.17
+To mi nije bio plan.
+
+00:57:09.21,00:57:13.13
+Ali nema baš puno poslova,[br]za doktora Arapskih nauka.
+
+00:57:13.17,00:57:14.50
+Oh, sad razumem.
+
+00:57:14.59,00:57:17.67
+Bio si intelektualac[br]koji je uvuèen u uliènu tuènjavu.
+
+00:57:19.01,00:57:21.55
+Niko se ne uvuèe u uliènu tuènjavu.
+
+00:57:48.83,00:57:51.33
+Dobrodošao u Toronto, brate Samir.
+
+00:57:51.38,00:57:53.42
+Èast mi je, Emir.
+
+00:57:53.50,00:57:54.84
+Sedni molim te.
+
+00:57:54.92,00:57:56.17
+Hvala.
+
+00:57:59.68,00:58:02.05
+- Èaj?[br]- Da, hvala.
+
+00:58:05.60,00:58:09.27
+Omar mi kaže da igraš šah.
+
+00:58:09.35,00:58:11.10
+Samo malo. Hvala.
+
+00:58:11.19,00:58:13.86
+U šahu i u ratu,[br]kljuè za pobedu
+
+00:58:13.94,00:58:17.11
+je predvideti šta æe[br]napraviti neprijatelj.
+
+00:58:17.19,00:58:19.53
+Misli dva poteza unapred.
+
+00:58:19.57,00:58:21.91
+Umetnost asimetriènog ratovanja
+
+00:58:21.95,00:58:26.87
+je više u izazivanju odgovora[br]nego u pravljenju štete.
+
+00:58:26.91,00:58:29.25
+Terorizam je pozorište.
+
+00:58:29.29,00:58:33.13
+A pozorište postoji zbog publike.
+
+00:58:33.21,00:58:35.96
+Naša je amerièki narod.
+
+00:58:36.04,00:58:42.01
+Ali razbacani smo širom velike zemlje.
+
+00:58:42.09,00:58:44.01
+Pitanje je,
+
+00:58:44.09,00:58:47.81
+kako ih uveriti da nigde nije sigurno.
+
+00:58:49.73,00:58:51.60
+Samir, zamisli bus koji[br]putuje kroz zemlju
+
+00:58:51.69,00:58:53.40
+pun obiènih Amerikanaca.
+
+00:58:53.48,00:58:54.90
+Ljudi iz... odasvud.
+
+00:58:54.98,00:58:57.65
+Iz malih gradova,[br]sa sela.
+
+00:58:57.73,00:58:59.74
+Zamisli kakav bi bio efekt
+
+00:58:59.82,00:59:04.61
+kada bi taj bus odjednom eksplodirao.
+
+00:59:04.66,00:59:07.16
+Sad to pomnoži sa 50.
+
+00:59:07.24,00:59:11.46
+50 buseva u srcu Amerike,
+
+00:59:11.54,00:59:13.25
+svi u isto vreme,
+
+00:59:13.33,00:59:15.83
+na isti dan.
+
+00:59:15.92,00:59:20.55
+Ovu operaciju nazivamo[br]Risala Šukra Al-hiba.
+
+00:59:20.63,00:59:23.09
+Godinama postavljamo ljude meðu njih.
+
+00:59:24.63,00:59:26.64
+Oni èekaju signal,
+
+00:59:26.72,00:59:29.77
+instrukcije, materijal.
+
+00:59:31.10,00:59:35.48
+Trebamo nekoga ko se može kretati[br]kroz zemlju bez da privlaèi pažnju.
+
+00:59:35.56,00:59:38.82
+Nekoga ko se uklapa.
+
+00:59:41.65,00:59:44.24
+Amerièkog glasnika, Samir.
+
+00:59:58.29,01:00:00.96
+On nije sposoban za ovo.
+
+01:00:01.00,01:00:03.63
+Ne sviða se meni  što ti[br]pokazujem ovo, Chandra.
+
+01:00:03.67,01:00:06.64
+Ali moramo ga pronaæi[br]pre nego se ovo ponovi.
+
+01:00:06.72,01:00:11.89
+Samir je uvek govorio da su ovi ljudi[br]najgori neprijatelji islama.
+
+01:00:11.97,01:00:14.52
+Oh, vodio je sveti rat[br]sa ovim ljudima u Afganistanu
+
+01:00:14.60,01:00:16.48
+i onda opet u Bosni.
+
+01:00:16.52,01:00:18.48
+Treniran je da ubija.
+
+01:00:18.52,01:00:21.15
+Bio je vojnik, ne ubica.
+
+01:00:22.73,01:00:26.03
+Verujem da te prevario[br]koliko i ostale.
+
+01:00:29.83,01:00:34.45
+Vera mu je bila izvor snage.
+
+01:00:35.87,01:00:37.25
+Ne ovo.
+
+01:00:56.10,01:00:58.23
+- Dobrodošli u SAD.[br]- Hvala.
+
+01:01:29.01,01:01:30.93
+Ja sam Nasimov prijatelj.
+
+01:01:31.01,01:01:33.35
+Došao sam videti lkbala.
+
+01:01:53.99,01:01:55.70
+Šukran.
+
+01:01:59.21,01:02:02.17
+Prebacili su sredstva za napad[br]u Španiji na bliskoistoèni naèin.
+
+01:02:02.25,01:02:06.05
+Daš 1000 eura[br]nekome u jednom gradu
+
+01:02:06.13,01:02:08.17
+i njihov roðak to uplati...
+
+01:02:08.26,01:02:11.72
+Hvala, Mr.Hayes,[br]znamo što je Hawala mreža.
+
+01:02:11.80,01:02:13.68
+Trag novca završava u Londonu.
+
+01:02:13.76,01:02:16.06
+Pakistanac sa nekim mutnim poslovima
+
+01:02:16.14,01:02:18.77
+je bio izvor novca[br]za operaciju u Španiji.
+
+01:02:18.81,01:02:21.94
+Juèe je prebacio[br]$25,000 u Los Angeles.
+
+01:02:22.02,01:02:23.61
+Jeste li ga identifikovali?
+
+01:02:26.11,01:02:27.23
+Blizu smo.
+
+01:03:01.18,01:03:03.65
+To je šifriran telefon.[br]Možeš me sigurno zvati sa njega.
+
+01:03:03.69,01:03:05.19
+Niko ne može èuti.
+
+01:03:05.27,01:03:07.27
+Ukljuèujuæi FBI?
+
+01:03:07.36,01:03:10.53
+Da. Pogotovo FBI.
+
+01:03:11.57,01:03:14.57
+Kada se možeš ponovo naæi s Natirom?
+
+01:03:14.66,01:03:15.62
+Ne znam.
+
+01:03:15.70,01:03:18.62
+Verovatno ne dok ne napravim[br]Ono što su me poslali da napravim.
+
+01:03:18.70,01:03:20.00
+Tada nastavi.
+
+01:03:20.08,01:03:22.50
+Pa, problem je[br]to što nastaviti znaèi
+
+01:03:22.54,01:03:25.04
+da æu im morati ubrzo u ruke[br]staviti prave bombe.
+
+01:03:25.08,01:03:27.75
+Ako æeš tako zadržati masku.
+
+01:03:33.09,01:03:36.30
+Shvataš li koliko sam daleko otišao[br]da zaštitim tvoj identitet, Samir?
+
+01:03:36.35,01:03:38.93
+Držim te u potpunosti[br]izvan knjiga.
+
+01:03:39.01,01:03:42.48
+Moj šef, njegov šef...[br]niko ne zna da uopšte postojiš.
+
+01:03:42.56,01:03:44.69
+Slušaj, nije me uopšte[br]briga za to, ok?
+
+01:03:44.77,01:03:46.40
+Moramo ponovo razmisliti[br]o nekim stvarima.
+
+01:03:46.48,01:03:50.03
+Ako ne uspeš,[br]možda neæemo dobiti novu priliku.
+
+01:03:52.69,01:03:56.57
+Dokle si voljan iæi?
+
+01:03:56.66,01:03:58.83
+Ruke su nam krvave.
+
+01:03:58.91,01:04:00.33
+Ubili smo nedužne ljude.
+
+01:04:00.41,01:04:03.41
+Da, i ako sad stanemo,[br]umrli su nizašta.
+
+01:04:03.50,01:04:05.33
+Ovo je rat.
+
+01:04:05.42,01:04:07.67
+Radiš što je potrebno da pobediš.
+
+01:04:13.42,01:04:15.51
+Znaš na kog me podseæaš, ne?
+
+01:04:15.59,01:04:16.68
+Mi smo dobri momci, Samir.
+
+01:04:16.76,01:04:18.43
+Oh, znam.
+
+01:04:21.18,01:04:22.43
+Hej!
+
+01:04:22.52,01:04:24.60
+Zapamti kome odgovaraš.
+
+01:04:24.69,01:04:28.44
+Ja odgovaram Bogu.[br]Svi odgovaramo.
+
+01:04:40.83,01:04:42.49
+- Problemi?[br]- Ne.
+
+01:05:07.94,01:05:09.19
+Omar. Omar, Omar![br]Nemoj! Nemoj!
+
+01:05:11.06,01:05:12.57
+Ne može eksplodirati[br]ako nema detonatora.
+
+01:05:12.65,01:05:15.32
+- Ne brini.[br]- Svejedno me èini nervoznim.
+
+01:05:18.45,01:05:21.07
+Moramo razgovarati o tome[br]kako æemo slati ove e-mailove.
+
+01:05:21.16,01:05:23.37
+Kako misliš? Mislio sam da smo[br]odluèili koristiti kodirane mail-ove.
+
+01:05:23.45,01:05:24.58
+Ne, ne, jesmo. Jesmo.
+
+01:05:24.66,01:05:26.33
+Ali problem je što se mail-ove[br]može presresti.
+
+01:05:26.41,01:05:28.92
+Imam bolju ideju.
+
+01:05:29.00,01:05:32.75
+Daæemo svakom našem èoveku[br]korisnièko ime i lozinku. U redu?
+
+01:05:32.79,01:05:35.30
+I onda kada smo spremni,[br]logujemo se na svaki,
+
+01:05:35.38,01:05:37.97
+napišemo instrukcije,[br]ali ih ne šaljemo.
+
+01:05:38.05,01:05:39.43
+Snimimo ih.
+
+01:05:39.51,01:05:43.47
+Iduæe jutro kad se loguju,[br]pogledaju neposlane poruke.
+
+01:05:43.56,01:05:44.51
+Ništa nije poslano.
+
+01:05:44.60,01:05:46.39
+FBI ne može nište presresti.
+
+01:05:46.48,01:05:48.69
+Da, da,da.[br]Sviða mi se.
+
+01:05:48.73,01:05:50.48
+Evo imena.
+
+01:05:52.90,01:05:55.69
+Samo ih je 10.
+
+01:05:55.78,01:05:58.20
+Neæemo rizikovati stavljajuæi ih[br]sve na jednu listu.
+
+01:05:58.24,01:06:00.61
+Niko ni ne zna da ostali postoje.
+
+01:06:00.66,01:06:03.87
+Ah. Sviða mi se.
+
+01:06:25.93,01:06:28.89
+As-Salamu Alejkum, sestro.
+
+01:07:12.60,01:07:14.98
+Oprostite.
+
+01:07:15.06,01:07:16.69
+U redu je.
+
+01:07:16.77,01:07:18.98
+Žele ovo odmah prevedeno.
+
+01:07:19.07,01:07:20.32
+Naravno.
+
+01:07:23.28,01:07:25.24
+Od britanske obaveštajne službe, ha?
+
+01:07:25.28,01:07:26.66
+Da.
+
+01:07:27.45,01:07:29.75
+Laku noæ.[br]Laku noæ.
+
+01:08:40.61,01:08:43.57
+Moraš odmah otiæi.
+
+01:08:43.65,01:08:45.03
+Ne ostavljaj ništa.
+
+01:10:06.57,01:10:09.53
+Stani!
+
+01:10:09.61,01:10:11.20
+Ruke gore!
+
+01:10:11.28,01:10:13.20
+Tamo! Pored zida!
+
+01:10:24.29,01:10:26.13
+Mr. Raman, kako ste?
+
+01:10:26.21,01:10:28.97
+Možda niste imali vremena[br]prouèiti zakone,
+
+01:10:29.01,01:10:31.26
+ali osoba koja se bavi[br]prenosom novca
+
+01:10:31.30,01:10:32.64
+mora biti registrovana u vladi SADa.
+
+01:10:32.68,01:10:34.85
+Nešto što ste zaboravili napraviti,[br]Mr. Raman.
+
+01:10:34.93,01:10:37.14
+Svaki transfer koji prelazi $10,000
+
+01:10:37.22,01:10:38.68
+može biti tretiran kao poseban prekršaj
+
+01:10:38.77,01:10:41.44
+od kojih je svaki kažnjiv sa[br]do 5 godina zatvora.
+
+01:10:41.52,01:10:42.98
+A vi ste prabacili preko 2 miliona.
+
+01:10:43.06,01:10:44.98
+Mislim, vi baratate s novcem.[br]Možete izraèunati.
+
+01:10:45.07,01:10:48.28
+Ako odluèite saraðivati,[br]optužbe protiv vas biæe odbaèene.
+
+01:10:48.36,01:10:50.15
+Izbor je vaš.
+
+01:10:50.24,01:10:52.70
+Daæemo vam 5 minuta[br]da razmislite o tome.
+
+01:10:55.16,01:10:55.99
+Èekajte!
+
+01:11:27.69,01:11:29.94
+Imate nekih problema sa autom?
+
+01:11:29.99,01:11:31.32
+Da, prozvodio je neku[br]èudnu buku.
+
+01:11:31.36,01:11:33.07
+Mislim da se grejaè olabavio.
+
+01:11:34.24,01:11:36.03
+Imam kutiju s alatom.
+
+01:11:47.71,01:11:50.21
+Molio sam se da ovaj dan doðe.
+
+01:11:50.30,01:11:52.22
+Molitve su ti uslišane, brate.
+
+01:11:56.93,01:11:58.85
+Ove idu na okidaèki mehanizam.
+
+01:11:58.89,01:12:02.10
+Sve što trebaš da napraviš je spojiti ga[br]na izvor napona.
+
+01:12:08.32,01:12:11.69
+Ovaj e-mail account ima[br]zadnje instrukcije.
+
+01:13:05.50,01:13:06.96
+Chandra.
+
+01:13:07.04,01:13:08.42
+- Samir![br]- Nemoj, nemoj!
+
+01:13:08.50,01:13:10.34
+Pretvaraj se da ne prièamo.[br]Verovatno te posmatraju.
+
+01:13:10.42,01:13:11.25
+Samo se nastavi istezati.
+
+01:13:11.29,01:13:13.34
+Nastavi se istezati.
+
+01:13:16.05,01:13:18.59
+Samir, šta se dogaða?
+
+01:13:18.68,01:13:21.60
+Žao mi je. Nisam te želeo uplasti u sve ovo.
+
+01:13:21.68,01:13:23.39
+Uplesti u šta?
+
+01:13:23.47,01:13:28.10
+Mislim... Nisi imao ništa sa[br]sa bombardovanjem u Francuskoj, ne?
+
+01:13:36.70,01:13:37.99
+Samo se nastavi istezati.
+
+01:13:44.29,01:13:47.50
+Samir, moram znati istinu.
+
+01:13:47.58,01:13:49.17
+Istina je...
+
+01:13:49.25,01:13:51.00
+Komplikovano je.
+
+01:14:00.22,01:14:02.01
+Sranje.
+
+01:14:02.10,01:14:03.39
+Uzmi radio.
+
+01:14:13.48,01:14:15.15
+Hej.
+
+01:14:22.49,01:14:25.45
+Jesi li...[br]Jesi li napravio ono što su rekli?
+
+01:14:29.96,01:14:31.67
+Da.
+
+01:14:41.22,01:14:44.72
+Onda samo prekini. Ok?
+
+01:14:44.81,01:14:47.39
+Šta god...[br]U šta god si upleten.
+
+01:14:47.47,01:14:48.89
+- Chandra...[br]- Šta god da radiš, samo...
+
+01:14:48.98,01:14:51.65
+Chandra, slušaj me.[br]Ne mogu prestati i ne vraæam se.
+
+01:14:51.73,01:14:54.19
+Moraš me zaboraviti.[br]Samo me zaboravi.
+
+01:14:54.27,01:14:57.82
+- Ne, Samir, slušaj me... Samir...[br]- Pusti me. Pusti me.
+
+01:15:04.78,01:15:06.83
+Na tlu smo.
+
+01:15:06.91,01:15:10.08
+Ne, držite ga na oku,[br]ali ne kreæite još.
+
+01:15:10.16,01:15:11.29
+Na putu smo.
+
+01:16:17.31,01:16:20.44
+Mi smo na 128 South Randolph Avenue.
+
+01:16:20.48,01:16:23.49
+Nastaviti nadzor neopaženi[br]æe biti problem.
+
+01:16:42.76,01:16:44.93
+Mislimo da je ušao u onu zgradu, gospodine.
+
+01:16:45.01,01:16:45.97
+Ko ga je pratio?
+
+01:16:46.05,01:16:48.51
+Èekali smo pojaèanje.
+
+01:16:48.60,01:16:50.22
+Vas dvojica idite iza.[br]Ti idi sa strane.
+
+01:16:50.31,01:16:51.31
+[Archer][br]Hajde. Idemo.
+
+01:17:01.36,01:17:03.74
+U redu je.[br]Nismo ovde zbog vas, momci.
+
+01:17:12.41,01:17:14.29
+- Idem na krov.[br]- Ok.
+
+01:17:47.57,01:17:48.86
+-[br]- Ohh!
+
+01:18:13.18,01:18:15.06
+Agent Clayton.
+
+01:18:15.14,01:18:17.39
+Vi ste uporni[br]kuèkin sin, zar ne?
+
+01:18:17.43,01:18:19.77
+A vi ste težak èovek za hvatanje.
+
+01:18:19.85,01:18:21.31
+Okreni se!
+
+01:18:23.40,01:18:26.86
+Nije prekasno, Samir.[br]Možemo nešto srediti.
+
+01:18:26.94,01:18:30.74
+Reci im da ostanu na mestima.[br]Izlaziš.
+
+01:18:30.82,01:18:32.24
+Podrum je èist.[br]Izlazim napolje.
+
+01:18:32.28,01:18:34.58
+[br]Primljeno.
+
+01:18:34.62,01:18:37.12
+Imamo nešto zajednièko.[br]I moj je otac Božji èovek.
+
+01:18:37.16,01:18:40.46
+Da? Pa mi smo praktièno braæa.
+
+01:18:40.54,01:18:43.00
+Sedni na ruke.
+
+01:18:43.09,01:18:45.05
+Sedni na njih.
+
+01:18:45.13,01:18:47.21
+Èitao sam neka predavanja tvoga oca.
+
+01:18:47.26,01:18:48.72
+On je vrlo pošten èovek.
+
+01:18:51.39,01:18:54.85
+Kako si otišao tako daleko od[br]njegovog naèina razmišljanja?
+
+01:18:58.64,01:19:01.77
+- Tvoj otac je bio propovednik?[br]- O, da.
+
+01:19:01.81,01:19:04.65
+Onda znaš Oèenaš.
+
+01:19:04.73,01:19:06.32
+Moli.
+
+01:19:09.49,01:19:10.90
+Moli.
+
+01:19:16.83,01:19:18.20
+Oèe naš, koji jesi na nebesima,
+
+01:19:18.29,01:19:20.37
+sveti se ime tvoje.
+
+01:19:20.46,01:19:22.33
+Doði kraljevstvo tvoje...
+
+01:19:27.09,01:19:29.63
+Ohh.
+
+01:19:38.56,01:19:40.43
+Otišao je.
+
+01:19:40.48,01:19:42.89
+A svuda smo imali ljude[br]koji su ga tražili.
+
+01:19:42.98,01:19:43.98
+Ali ti podrumski tuneli...
+
+01:19:44.06,01:19:46.23
+Protežu se ispod 5 ulica zgrada.
+
+01:19:46.31,01:19:48.03
+Da. I to je znao.
+
+01:19:48.11,01:19:50.49
+Živeo je tamo.
+
+01:19:50.53,01:19:52.40
+128 South Randolph.
+
+01:19:52.49,01:19:55.95
+Bilo mu je u dosijeu.[br]Nisam se setio.
+
+01:19:56.03,01:19:57.95
+Pitam se zašto te ostavio na životu.
+
+01:19:59.49,01:20:02.46
+Zato što ga nisam[br]pookusio prebiti kao ti.
+
+01:20:14.38,01:20:15.89
+Carter, stavio si mi lokator?
+
+01:20:15.97,01:20:17.30
+- Jesi lud?[br]- FBI te traži.
+
+01:20:17.35,01:20:18.47
+- Na sastanku sam![br]- Doði.
+
+01:20:18.56,01:20:20.43
+- Na sastanku sam, Carter![br]-
+
+01:20:24.44,01:20:27.15
+Sranje. Gurni me. Gurni me!!
+
+01:21:02.27,01:21:03.73
+Idemo!
+
+01:21:27.42,01:21:29.84
+Koji se vrag dogodio?
+
+01:21:29.92,01:21:31.88
+Ko je to bio?[br]Policajac.
+
+01:21:34.09,01:21:37.34
+Bio sam videti ženu.[br]Bivšu devojku.
+
+01:21:37.43,01:21:39.89
+I... oni su je posmatrali,[br]i onda je tip skoèio na mene.
+
+01:21:39.97,01:21:42.43
+Nisam ni znao da je tamo[br]dok nisam došao do...
+
+01:21:45.06,01:21:48.23
+Moramo otiæi iz zemlje veèeras.
+
+01:21:48.31,01:21:50.61
+Kontaktirali smo samo 30 bombaša.
+
+01:21:52.15,01:21:54.28
+Nadaj se da je to dovoljno.
+
+01:21:56.70,01:22:00.37
+A kad se naðemo sa Faridom,[br]daj da ja govorim.
+
+01:22:03.66,01:22:05.95
+Poveži se.
+
+01:22:13.00,01:22:15.13
+Ovo je auto koji je Horn ukrao.
+
+01:22:15.21,01:22:17.97
+Dve èaure imaju njegove otiske.
+
+01:22:18.05,01:22:20.64
+Telo je tamo.
+
+01:22:20.68,01:22:22.39
+Kažete da je iz biroa?
+
+01:22:22.47,01:22:25.97
+Da. Obaveštajac.
+
+01:23:29.08,01:23:32.25
+As-Salamu Alejkum,[br]brate Farid.
+
+01:23:32.33,01:23:34.04
+Wa alejkum asalam, Omar.
+
+01:23:36.38,01:23:37.80
+- As-Salamu Alejkum.[br]- Wa alejkum asalam, Samir.
+
+01:23:39.30,01:23:40.88
+Dobar put?
+
+01:23:40.97,01:23:43.97
+Um... imali smo problem.
+
+01:23:44.05,01:23:46.51
+Samir je napraviio malu pogrešku.
+
+01:23:46.56,01:23:49.06
+- otišao je videti ženu...[br]- Chandra Dawkin?
+
+01:23:52.48,01:23:56.40
+Da, Chandra Dawkin.[br]Slušaj...
+
+01:23:56.48,01:24:00.24
+Da,ali Fareed, bitno je to[br]da je uspešno izvršio misiju.
+
+01:24:00.32,01:24:03.07
+Bitno je to...
+
+01:24:03.11,01:24:05.20
+da je ona saraðivala sa[br]federalnim agentima.
+
+01:24:06.53,01:24:08.99
+Ne. Ne.
+
+01:24:09.08,01:24:11.12
+To je... Žao mi je.[br]Grešiš, brate Farid.
+
+01:24:11.20,01:24:13.87
+Ne grešim.
+
+01:24:13.92,01:24:15.83
+Imamo izvor unutar FBI-a.
+
+01:24:15.92,01:24:17.29
+Tada vaš izvor greši.
+
+01:24:17.38,01:24:20.55
+Ne. Ona to nikad ne bi uèinila.[br]Znam tu ženu godinama.
+
+01:24:26.60,01:24:28.76
+Odvedi Samira u njegovu sobu, molim te.
+
+01:24:31.31,01:24:33.85
+Omar i ja moramo sami razgovarati.
+
+01:24:48.20,01:24:50.66
+Da, ali on je sastavni deo[br]naše misije, Farid.
+
+01:24:50.74,01:24:53.54
+Da. Ali poseta ženi nas je sve ugrozila.
+
+01:24:53.62,01:24:55.37
+Oh, daj èoveèe.
+
+01:24:55.46,01:24:57.38
+Ko od nas nije bio u iskušenju?
+
+01:24:57.46,01:25:00.21
+Nije bitno iskušenje, Omar.
+
+01:25:00.30,01:25:02.13
+Bitna je sigurnost.
+
+01:25:09.26,01:25:10.68
+Stavi na stranu svoje prijateljstvo...
+
+01:25:10.76,01:25:13.02
+na trenutak,[br]brate, i razmisli.
+
+01:25:13.10,01:25:15.77
+Dobro razmisli.
+
+01:25:15.85,01:25:18.27
+Šta ako je to namerno napravio, ha?
+
+01:25:20.90,01:25:24.99
+Nažalost njegova su nas dela[br]ostavila u sumnju.
+
+01:25:25.07,01:25:26.91
+I što to znaèi?
+
+01:25:34.20,01:25:36.37
+Mi eliminišemo sve sumnje.
+
+01:25:38.04,01:25:40.63
+MI5 je spasio neke podatke[br]sa hard diska...
+
+01:25:40.71,01:25:42.88
+iz Natirove kuæe u Londonu.
+
+01:25:42.96,01:25:45.47
+U jednom od njih se spominje operacija...
+
+01:25:45.55,01:25:47.59
+Risala Šukra Al-hiba.
+
+01:25:47.68,01:25:49.22
+Gde sam to ranije èuo?
+
+01:25:49.30,01:25:50.43
+Mi smo presreli telefonski poziv.
+
+01:25:50.51,01:25:52.85
+Vi ste uhvatitli samo prvi deo šifre.
+
+01:25:52.93,01:25:55.73
+Datum napada je u punom imenu. Lejla?
+
+01:25:55.77,01:25:57.10
+"Risala" znaèi "poruka",
+
+01:25:57.19,01:26:00.02
+"Šukra" znaèi "hvala"[br]i "Al-hiba" je dar."
+
+01:26:00.06,01:26:03.36
+Doslovni je prevod[br]"Poruka zahvale za dar".
+
+01:26:03.40,01:26:05.28
+Dan zahvalnosti.
+
+01:26:05.36,01:26:07.40
+Taèno.[br]Tada æe napasti.
+
+01:26:07.49,01:26:09.28
+Za dva dana.
+
+01:26:09.36,01:26:10.70
+Koja je meta?
+
+01:26:10.78,01:26:13.04
+Našli smo tragove Semtexa u vozilu
+
+01:26:13.08,01:26:14.58
+koje je Horn ostavio u Chicagu.
+
+01:26:14.66,01:26:16.62
+Ali kupljeno je u Kaliforniji pre[br]mesec dana.
+
+01:26:16.71,01:26:20.88
+Mogao je raznositi bombe[br]širom zemlje do sad.
+
+01:26:23.92,01:26:25.34
+Diæi æemo nivo pretnje.
+
+01:26:25.42,01:26:28.38
+Udvostruèiti zaštitu na mostovima,[br]vazdušnim lukama, spomenicima, Beloj kuæi.
+
+01:26:28.47,01:26:32.26
+Predložio bih i da stavimo Horna[br]na listu velikih pretnji.
+
+01:26:32.35,01:26:33.85
+Ubio je dobrog èoveka.
+
+01:26:33.93,01:26:36.14
+Mi se neæemo buniti.
+
+01:26:55.41,01:26:58.33
+- Pustio si mi pobedu, Omar.[br]- Ne.
+
+01:26:58.41,01:27:01.71
+Ne, kunem se.
+
+01:27:01.79,01:27:03.00
+Poboljšao si se , prijatelju.
+
+01:27:03.09,01:27:04.67
+Molim te, ne seri.
+
+01:27:04.75,01:27:08.22
+Piobijedio si me dovoljno puta[br]da znam kad mi puštaš.
+
+01:27:16.85,01:27:19.23
+Farid je oluèio.
+
+01:27:22.94,01:27:26.07
+Žao mi je.[br]Nisi ti kriv.
+
+01:27:26.15,01:27:27.73
+Ja sam ovo napravio.
+
+01:27:30.03,01:27:31.86
+Mi smo samo ljudi, prijatelju.
+
+01:27:34.20,01:27:36.49
+Imam devojku u Parizu, Samir.
+
+01:27:36.58,01:27:40.21
+Prekrasna. Prekrasna.
+
+01:27:40.29,01:27:43.25
+Misli da sam muzièki producent.
+
+01:27:43.33,01:27:46.21
+Znaš, istina je što kažu.
+
+01:27:46.29,01:27:48.46
+Ratovanje je manje Sveti rat.
+
+01:27:48.55,01:27:52.80
+da ne podlegneš iskušenju,[br]da živiš pravedno,
+
+01:27:52.88,01:27:55.85
+to je pravi "Sveti rat".
+
+01:27:59.98,01:28:02.35
+A jesmo li mi to radili?
+
+01:28:08.03,01:28:09.99
+Dali se ikad to zapitaš?
+
+01:28:14.20,01:28:16.53
+Ponekad.
+
+01:28:16.62,01:28:18.62
+Ali Natir je voða.
+
+01:28:18.70,01:28:21.25
+A moja je dužnost da ga slušam.
+
+01:28:22.54,01:28:25.21
+Doði, pomolimo se.
+
+01:28:40.39,01:28:43.98
+Dobili smo vest[br]od našeg izvora u Washingtonu.
+
+01:28:44.06,01:28:46.44
+Èini se da si na listi[br]velikih pretnji.
+
+01:28:46.52,01:28:49.40
+Šta je to?[br]Što to znaèi?
+
+01:28:49.48,01:28:51.69
+Znaèi da ti dugujemo izvinjenju, Samir.
+
+01:28:51.74,01:28:54.61
+Znaèi da je amerièka vlada[br]stavila Fatvu na tebe.
+
+01:28:54.70,01:28:57.53
+Žele te mrtvog.
+
+01:29:11.59,01:29:14.97
+Èekaj. Ovo je...[br]Sistem radi sporo.
+
+01:29:17.34,01:29:20.85
+Moramo nastaviti put[br]i biti u Halifaxu do veèeri.
+
+01:29:20.93,01:29:22.68
+Halifax?
+
+01:29:26.65,01:29:29.56
+Posle sutra æe nas bome tražiti.
+
+01:29:29.65,01:29:33.44
+Mi æemo do onda biti na okeanu.
+
+01:29:33.49,01:29:34.70
+Svi.
+
+01:29:48.71,01:29:50.29
+Kompjuter se zakoèio.
+
+01:29:50.38,01:29:51.80
+Šta?
+
+01:29:51.84,01:29:53.55
+Isuse, moram restartovati.
+
+01:29:53.63,01:29:55.47
+- Kako to misliš?[br]- Bože moj.
+
+01:29:55.51,01:29:57.76
+- Moram da si donesem kafu.[br]- Ne, ne. Ostani ovde.
+
+01:29:57.80,01:29:59.14
+Ja æu je doneti.
+
+01:29:59.22,01:30:02.64
+Pobrini se da brojevi budu taèni.
+
+01:30:02.72,01:30:05.56
+Želim svaku osobu[br]na putu u isto vreme.
+
+01:30:05.64,01:30:07.02
+U redu.
+
+01:31:01.37,01:31:04.08
+To je to.
+
+01:31:04.16,01:31:05.70
+- Gotovo?[br]- DA, gotovo.
+
+01:31:05.79,01:31:07.54
+Idemo.
+
+01:31:36.02,01:31:38.57
+Aah.
+
+01:33:46.07,01:33:47.82
+Mora da me zajebavaš.
+
+01:33:47.91,01:33:51.24
+SAD æe biti napadnuta danas[br]a mi smo upravo stigli u èmar Kanade.
+
+01:33:51.33,01:33:52.70
+- Roy Clayton?[br]- Da.
+
+01:33:52.74,01:33:54.41
+ovaj fax je stigao za vas.
+
+01:33:54.50,01:33:56.08
+Šta kaže?
+
+01:33:56.16,01:33:58.42
+Okružni dokumenti za dvojicu[br]zaposlenih State departmenta
+
+01:33:58.50,01:34:00.46
+koji su ubijeni u bombaškom napadu u Nici.
+
+01:34:00.54,01:34:03.42
+Ti su ljudi umrli kao odojèad.
+
+01:34:03.51,01:34:05.72
+Èekaj malo.
+
+01:34:05.80,01:34:07.68
+Ove smrti su lažne.
+
+01:34:07.76,01:34:09.26
+Da.
+
+01:35:50.70,01:35:52.45
+Nekoliko desetina brodova je[br]u luci sada,
+
+01:35:52.49,01:35:54.37
+ali samo ovih 5 je na rasporedu[br]za isplovljavanje danas.
+
+01:35:54.45,01:35:56.28
+U redu, Svi ovi brodovi idu[br]u Amerièke luke..
+
+01:35:56.33,01:35:57.62
+osim ovog...[br]The lvory Star.
+
+01:35:57.66,01:35:59.75
+- Tanker registrovan u Adenu.[br]- Jemen?
+
+01:35:59.83,01:36:01.08
+- Mora biti taj.[br]- Mora biti taj.
+
+01:36:01.16,01:36:04.38
+Ako se želite ukrcati na njega, [br]trebaæemo službeni zahtev FBI-a.
+
+01:36:04.46,01:36:07.00
+Ako idemo preko centrale, informacija[br]æe odmah procuriti.
+
+01:36:07.09,01:36:08.17
+Èekaj minutu.
+
+01:36:08.26,01:36:11.38
+Carinik može pretražiti bilo koji brod[br]ako misli da na njemu ima droge, ne?
+
+01:36:11.47,01:36:12.76
+Imaš kojeg prijatelja u narkoticima?
+
+01:36:12.84,01:36:14.89
+Ubrzo æemo saznati.
+
+01:37:21.20,01:37:23.08
+Drago mi je što te vidim.
+
+01:37:23.16,01:37:25.33
+- Dobrodošao, prijatelju.
+
+01:37:25.42,01:37:26.96
+Ovo æe biti veliki dan.
+
+01:38:11.80,01:38:13.63
+Vreme je skoro došlo.
+
+01:38:24.81,01:38:28.90
+Amerikanci vole prièati o tome kako[br]njihova vlada predstavlja narod.
+
+01:38:28.98,01:38:33.48
+Pa mi trebamo prihvatiti da svaki Amerikanac[br]deli istu odgovornost
+
+01:38:33.57,01:38:36.07
+za zloèine svoje vlade.
+
+01:38:36.15,01:38:39.11
+Niko nije nevin.
+
+01:38:39.20,01:38:40.70
+Uskoro napuštamo luku, Emir.
+
+01:38:40.78,01:38:42.62
+Moraæemo neko vreme ostati ispod palube.
+
+01:38:42.70,01:38:44.79
+Šta ti je?
+
+01:38:44.87,01:38:48.21
+Uh, hvata me morska bolest.
+
+01:38:48.29,01:38:52.17
+Mislim da æu trebati malo svežeg vazduha.[br]Mogu li, Emir?
+
+01:39:00.89,01:39:03.81
+- Ti si šef osiguranja, brate?[br]- Da, gospodine.
+
+01:39:03.85,01:39:05.89
+I koliko ljudi èuva Emira?
+
+01:39:05.97,01:39:08.69
+Sedam èlanova posade.[br]Ne brinite. Sigurni smo.
+
+01:39:54.31,01:39:56.36
+Sranje. Ništa.
+
+01:39:56.44,01:39:58.32
+Mislim da neæemo ništa naæi.
+
+01:39:58.40,01:39:59.49
+To je bio šef luke.
+
+01:39:59.57,01:40:02.20
+Još jedan brod ide u meðunarodne vode danas.
+
+01:40:02.28,01:40:03.74
+Teretnjak na putu za Marsej.
+
+01:40:03.82,01:40:05.03
+Koji je to?
+
+01:40:56.34,01:40:57.46
+Samir?
+
+01:41:03.30,01:41:06.68
+Èekaj brate.[br]Seti se svoje dužnosti...
+
+01:41:08.51,01:41:10.68
+Omar! Omar! Omar!
+
+01:41:10.77,01:41:12.85
+Ne pucaj! Ne pucaj![br]Slušaj me!
+
+01:41:12.93,01:41:14.35
+Šta si napravio, Samir?
+
+01:41:14.44,01:41:17.31
+- Nisam došao ubiti tebe, Omar.[br]- Ti si izdajnik!
+
+01:41:17.40,01:41:19.65
+Ne! Natir je bio izdajnik.
+
+01:41:19.73,01:41:22.11
+Farid je bio izdajnik.[br]Izdali su Islam!
+
+01:41:22.15,01:41:23.61
+Ne! Ne želim te slušati!
+
+01:41:23.65,01:41:26.62
+- Ubiæu te, Samir![br]- Nije važno.
+
+01:41:26.66,01:41:29.03
+Bio sam mrtav u trenutku[br]kad sam zakoraèio na ovaj brod.
+
+01:41:29.12,01:41:31.16
+Ali morao sam ih zaustaviti.[br]Morao sam zaustaviti ovo...
+
+01:41:31.24,01:41:34.75
+Ma o èemu ti do ðavola prièaš?[br]Nisi ništa zaustavio!
+
+01:41:34.83,01:41:37.71
+30 buseva æe eksplodirati!
+
+01:41:50.68,01:41:53.39
+Alahu Akbarl
+
+01:41:53.48,01:41:54.94
+Šta radiš?
+
+01:42:00.07,01:42:00.90
+Ko si ti?
+
+01:42:00.98,01:42:04.40
+- Alahu Akbar, Alahu Akbar.[br]- Zašto smo u istom busu?
+
+01:42:04.49,01:42:05.95
+Što do ðavola radiš?
+
+01:42:22.38,01:42:24.67
+Sve sam ih stavio u isti bus.
+
+01:42:27.76,01:42:31.05
+Ne. Ne, to nije moguæe.
+
+01:42:31.14,01:42:33.35
+Video sam kad si im davao bombe.
+
+01:42:33.43,01:42:34.98
+Video sam e-mailove.
+
+01:42:35.02,01:42:37.56
+Promenio sam ih, Omar.
+
+01:42:42.07,01:42:43.98
+Gotovo je.
+
+01:42:52.37,01:42:54.62
+Verovao sam ti.
+
+01:42:54.70,01:42:57.12
+Smatrao sam te bratom!
+
+01:43:06.42,01:43:08.68
+Omar.
+
+01:43:15.56,01:43:17.85
+Omar.
+
+01:43:23.57,01:43:25.57
+Ja jesam tvoj brat.
+
+01:43:31.74,01:43:34.45
+Iskoristili su te, Omar.
+
+01:43:34.53,01:43:37.08
+I mene isto.[br]Svi oni.
+
+01:43:37.16,01:43:39.00
+Iskoristili su nas zbog naše vere.
+
+01:43:49.09,01:43:50.30
+- Baci oružje![br]-
+
+01:43:50.38,01:43:51.39
+Omar. Omar!
+
+01:43:54.60,01:43:56.93
+Ne pucajte. Ne pucajte!
+
+01:44:04.11,01:44:05.94
+- Samir?[br]-
+
+01:44:08.11,01:44:09.40
+Samir, gde je Natir?
+
+01:44:26.38,01:44:28.46
+Drži se, Samir.
+
+01:44:28.55,01:44:30.59
+Zovite bolnièara.
+
+01:44:33.09,01:44:34.97
+Biæe u redu.
+
+01:45:08.21,01:45:09.76
+Samir.
+
+01:45:13.01,01:45:15.43
+Želiš se provozati i poprièati?
+
+01:45:18.22,01:45:20.56
+Možemo prièati i ovde.
+
+01:45:29.19,01:45:32.03
+Drago mi je što te vidim na nogama.
+
+01:45:32.11,01:45:34.32
+Nisam znao hoæeš li preživeti.
+
+01:45:34.40,01:45:36.07
+Kako rame?
+
+01:45:36.16,01:45:38.70
+Preživeæu.
+
+01:45:38.78,01:45:41.24
+Ne sumnjam da ti je neko ovo rekao,
+
+01:45:41.33,01:45:45.79
+ali zadužio si zemlju.
+
+01:45:45.87,01:45:50.05
+Došao si ovamo samo da mi to kažeš?
+
+01:45:50.13,01:45:51.71
+Daj, Clayton.[br]Idem negde.
+
+01:45:51.80,01:45:53.13
+Šta želiš?
+
+01:45:55.51,01:45:57.72
+Dosije ti je oèišæen.
+
+01:45:57.80,01:45:59.05
+Sve.
+
+01:45:59.14,01:46:01.68
+Napad u Francuskoj,[br]bus, sve.
+
+01:46:01.77,01:46:06.23
+Slobodan si èovek,[br]ali još uvek možeš mnogo napraviti za nas.
+
+01:46:06.31,01:46:08.94
+Slobodan sam?
+
+01:46:09.02,01:46:11.61
+Meni ovo ne izgleda kao sloboda, Clayton.
+
+01:46:11.69,01:46:13.74
+Misliš zato što si pritisnuo[br]"delete" na nekom kompjuteru
+
+01:46:13.82,01:46:15.40
+da je to to, da je sve gotovo?
+
+01:46:15.45,01:46:17.28
+Donosio sam odluke o ljudskim životima.
+
+01:46:17.36,01:46:18.78
+- I moram živeti s tim.[br]- Razumem.
+
+01:46:18.87,01:46:20.66
+- Zauvek, Clayton.[br]- Razumem.
+
+01:46:20.74,01:46:24.12
+Ali oboje znamo[br]da je ova borba daleko od gotove.
+
+01:46:28.67,01:46:31.46
+Znaš, Kur'an kaže[br]da ako ubiješ nevinu osobu,
+
+01:46:31.55,01:46:34.30
+isto je kao da si ubio[br]celo èoveèanstvo?
+
+01:46:38.43,01:46:43.89
+Kaže i da ako si spasio život,[br]kao da si spasio celo èoveèanstvo.
+
+01:46:43.97,01:46:46.27
+Ti si junak, Samir.
+
+01:46:50.19,01:46:53.86
+Kako god me želiš zvati,
+
+01:46:53.94,01:46:55.61
+ja sam završio.
+
+01:46:58.82,01:47:01.16
+Znamo kako da se naðemo.
+
+01:47:04.75,01:47:06.16
+As-Salamu Alejkum.
+
+01:47:09.67,01:47:11.34
+Va alejkum asalam.
+
+01:47:15.80,01:47:18.76
+I trebao bi zapoèeti rezgovor sa tim.
+

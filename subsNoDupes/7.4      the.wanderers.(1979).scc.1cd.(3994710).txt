@@ -1,0 +1,815 @@
+{1}{1}25.000
+{26}{176}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{457}{566}Richie, znaö li öto je prava | ljubav? Znaö li da to znaËi biti
+{576}{680}uz nekoga u teökim vremenima? | - ObeÊavam, neÊu svröiti u tebe.
+{734}{842}Richie, ti samo ûeliö jedno. | A onda Êe biti gotovo.
+{904}{1019}ObeÊavam, molim te. - Ne, | ne joö. - Kako ne? Daj.
+{1056}{1152}Kad, za pola sata, pet godina? | - Ne joö.
+{1184}{1287}Ne, ne joö. Ne joö... - Umrijet | Êu od ovog. éeliö biti odgovorna
+{1297}{1404}za to? - Rukom Êu. - Ne! Ja mogu | rukom.
+{1432}{1540}Moram misliti na svoju reputaciju... | Ti si muöko, ti ne moraö brinuti
+{1549}{1682}za svoju reputaciju. - Ali Despie, | volim te. - Voliö me? I ja volim tebe
+{1729}{1848}Volim te. - Voliö me? | - Despie!
+{1950}{2050}{C:$0000FF}{y:ib} naziv: |{C:$FF0000}{y:b} LUTALICE 
+{4677}{4779}Turkey? Jesi li to ti? | - Da. Da, Joey, ja sam.
+{4786}{4843}äto se desilo? | - O Ëemu priËaö?
+{4850}{4908}äto si to napravio, ËovjeËe? | - äto?
+{4913}{4991}äto... öto ti je? | - O Ëemu ti to?
+{5007}{5087}Obrijao sam glavu, dobro? | Moram razgovarati s onim
+{5094}{5176}tipovima. - Sluöaj me. HoÊeö li | me posluöati?
+{5183}{5251}Mislio sam da si | mi prijatelj. - Prijatelj sam ti.
+{5258}{5341}Ne ûeliö se druûiti s tim tipovima. | Ne trebaö ih. Wanderer si...
+{5348}{5423}Mislim na buduÊnost, Joey. Ne | mogu biti Wanderer nakon mature.
+{5431}{5505}Bit Êu ∆elavac, ∆elavcima je | super!
+{5512}{5594}Pogledaj ih izgledaju kao hrpa | neandertalaca!
+{5601}{5689}Zezaö me? | To su jebeni ∆elavci, Joey!
+{5697}{5805}Briju glave da im kosa ne upada | u oËi kad se tuku. Nitko se ne
+{5810}{5910}zajebava s ∆elavcima! - Izgledaju | kao hrpa kara s uöima.
+{5917}{6003}äto si rekao? - Ne priËam s | tobom. Gubi se!
+{6024}{6151}Smiri se, Joey. Hej, Peewee! Ona | je s ∆elavcima. Ona je s Terrorom.
+{6187}{6294}On je glavni. äta ima, Peewee? | - äto si ono rekao? - Ma niöta.
+{6307}{6416}Ne priËam s tobom. äto si rekao | o karama? - Rekoh, kare s uöima.
+{6438}{6535}Ovaj tip je rekao da izgledamo | ko' hrpa kara s uöima.
+{6544}{6627}Nije to rekao, zar ne Joey? | - A da? äto je rekao?
+{6634}{6743}Nisam to rekao. Nisam rekao da | izgledate kao hrpa kara s uöima.
+{6753}{6856}Rekao sam da izgledate kao hrpa | uöiju bez kara! - Bok Terror!
+{6864}{6923}Zgrabite ih!
+{6933}{7021}»ek' da vas zgrabim! - Pustite | mene, meni ste ok!
+{7192}{7274}Hajde, Turkey!
+{7400}{7457}Idemo!
+{7612}{7672}UpomoÊ!
+{7701}{7765}Sredimo ih, majku im!
+{7770}{7829}Hajde, Terror!
+{7865}{7943}Probajte nas uloviti, pederi!
+{8160}{8219}Hajde, Terror!
+{8429}{8487}Vratite se, ljigavci!
+{8665}{8740}Sranje! - äto je bilo?
+{8782}{8844}Moram iÊi. | - äto?!
+{8859}{8987}Moram iÊi. Izgleda da je Wanderer | u nevolji. Moram iÊi. Oprosti...
+{9199}{9269}Richie, budi oprezan!
+{9522}{9630}Hej, Buddy! Netko je u nevolji! | - ZnaËi, moramo prebiti nekog?
+{9643}{9760}Eto Joeya! Ovdje smo. Ne brini. | Tko te slijedi? - ∆elavci!
+{9777}{9839}∆elavci?! Sranje!
+{10655}{10736}äto si napravio, Joey? äto | si napravio? - Niöta, samo su
+{10743}{10848}me poËeli natjeravati. Doi, | öupËino! - Smiri se, ËovjeËe.
+{10867}{10994}Smiri se, tip nije mislio loöe, | samo je jebeni idiot.
+{11093}{11167}Ostavi malog na miru.
+{11260}{11381}Hej! SeljaËino miËi se! Jesi li | me Ëuo? Govorim ti.
+{11415}{11476}Ostavi malog na miru.
+{11491}{11599}Kome ti to, ËovjeËe? - Gubi se! | Nitko se ne zajebava s ∆elavcima
+{11966}{12025}Ostavi malog na miru.
+{12046}{12102}Kuûim.
+{12307}{12362}Najebali ste!
+{12368}{12449}Gubite se, propalice! | - äuti, Joey, öto ti je.
+{13245}{13323}Bolje pazi öto priËaö mali!
+{13391}{13490}äto? Obrijali su ti glavu? | - Da, obrijali su mu glavu.
+{13551}{13650}Isuse! - Nisam mislio da Êu vidjeti | Terrora kako bjeûi!
+{13665}{13785}Jeste vidjeli kakva je kukavica?! | - Nije kukavica! Samo Ëeka pravi
+{13815}{13919}trenutak. - Zezaö se? Jesi li | vidio öto je ovaj tip napravio?
+{13928}{14046}Hej! Gdje je nestao? - Vrati se! | - Hej! Vrati se!
+{14247}{14312}Kamo je otiöao?
+{14732}{14808}Ostavi malog na miru.
+{14953}{15012}'Ajde, gdje si...?
+{15046}{15165}Ti si. Traûim te posvuda, ËovjeËe! | Kamo si nestao?
+{15240}{15343}Htio sam ti zahvaliti, bio si | sjajan! Zaboravi.
+{15458}{15580}Nisi se trebao petljati s njima. | Ne volim kad veliki deËki
+{15611}{15729}tuku male deËke. | - Hej! Ja se znam brinuti za sebe.
+{15796}{15925}Naravno. - äto radiö ovdje pred | mojim liftom? - Idem doma.
+{15986}{16087}éiviö ovdje? - Da. - U ovoj | zgradi? - Da.
+{16112}{16230}Hej! Koji kat? - »etvrti. - To je | moj kat! Vi ste tek doselili?
+{16254}{16397}Mama mi je rekla. Tko bi rekao, | susjedi smo! Ja sam Joey. - Perry.
+{16497}{16630}Pa gdje je? Vi gadovi na petom | katu, znam öto radite. Seronje!
+{16795}{16852}Oprostite, gospoo.
+{16897}{17001}Hej, Ëuo sam za tvog starog | da je umro. äteta.
+{17017}{17131}Wanderersi su pravo druötvo za | tebe. Imamo odliËan football tim.
+{17139}{17239}Sportaöe, hrpu cura. | Ako nam se pridruûiö,
+{17247}{17308}mogu ti pokazati okolo, dobro?
+{17344}{17462}Da, dobro. Hvala. - OK. Kaûem ti, | moraö uÊi u bandu. Nije sigurno
+{17471}{17595}ako nisi u bandi. Hej, ovo je | moj otac, Emilio. Tata, ovo je...
+{17623}{17724}Rekoh ti da ne razgovaraö | u hodniku.
+{17806}{17908}Perry? Duöo jesi li to ti? | - Da, ja sam.
+{17922}{18040}Duöo, bi li mogao skoknuti do | duÊana i kupiti mi neöto?
+{18052}{18162}Ne brini, duöo, neÊe te traûiti | osobnu, dobro?
+{18445}{18570}OdliËan auto, ËovjeËe. Kasnimo. | Voziö mamin auto svaki dan u ökolu?
+{18619}{18738}Da. Ona ne vozi Ëesto. Ima | nekakav visoki tlak, kuûiö.
+{18751}{18881}äteta. Ti imaö 18? | - Da. Zapravo, 19. Pao sam razred.
+{18950}{19078}Da, da, kuûim. Hej! äta ima? | - Hej, deËki!
+{19099}{19205}JuËer si bio stvarno cool, ËovjeËe, | John Wayne! Hej, Joey! Kako se
+{19212}{19344}zove? Daj, ËovjeËe, samo ga ûelim | upoznati. - Idemo. - Joey!
+{19406}{19458}Skini mi se!
+{19482}{19607}Ovdje ima svakakvih bandi. Ovo | su Executioneri, sirotinja.
+{19646}{19744}Ovo su Pharaohsi, ûidovi. Ovi u | crnom i zelenom, Irci...
+{19787}{19887}Ti si Talijan, ne? - Da. - Onda | moraö uÊi u talijansku bandu,
+{19894}{19993}kao Wanderersi. - Hej, Turkey, | gdje je Natalio? - Hej, öta ima?
+{20061}{20170}Zatim imaö crnaËke bande, | Cavalierse, Pimpse, DB,
+{20207}{20319}ili Del Bomberse, najjaËu crnu | bandu. - Hej, Clinton Stitch!
+{20358}{20483}äta ima? Dobro te vidjeti. On | je njihov voa. - Tko su ovi?
+{20502}{20636}Teddy Wong! 27 tipova s prezimenom | Wong, koji znaju jiujitsu i ubiju
+{20645}{20750}jednim judo zahvatom. Ima li | i kod tebe ovakvih bandi?
+{20755}{20873}Ne, u Jerseyu nema ovoga. | - Sluöaj, ne brini. Budi s nama
+{20894}{21030}i mi Êemo se brinuti za tebe. | Richie, gdje si? Imamo ga!
+{21244}{21360}Richie Gennaro. - Perry Luigardi. | - Kako si?
+{21398}{21519}Htio sam ti zahvaliti öto si nam | pomogao. Javi, ako ti öto treba.
+{21565}{21645}Richie, imam tvoju zadaÊu.
+{21773}{21895}OdliËno obavljeno. »ak liËi | mom rukopisu. Hvala, stari!
+{21924}{21998}Faca si. - Hej, ËovjeËe.
+{22014}{22121}Turkini, skini öeöir i spusti | nogu sa stola, veÊ dovoljno smrdi.
+{22128}{22225}Duhovito, g. Sharp. | - Rekoh, skini öeöir.
+{22400}{22502}äta je? Nikad niste | vidjeli ∆elavca?
+{22674}{22772}G. Sharp, ËovjeËe, jeste li | vidjeli öto je Turkini napravio?
+{22779}{22873}ZaËepi, budalo! | - Natjerat Êeö me, majku ti? 'Ajde.
+{22969}{23068}Svi ljudi su stvoreni jednaki. | - Dobro, dobro! Smirite se!
+{23073}{23174}Obojica ste u kazni. - »ovjeËe! | Kvragu.
+{23184}{23290}G. Sharp, ovi bijeli momci su | postali neposluöni.
+{23332}{23407}Koga ti zoveö neposluönim?
+{23438}{23543}Zna li tko, koji je ovo tjedan? | - Tjedan bratstva. - OdliËno Stitch.
+{23556}{23656}Tko je ovo napisao? | - Vi!
+{23867}{23923}A. Lincoln.
+{24099}{24173}Rasa - Uvjerenje - Boja.
+{24190}{24294}éelim vidjeti koliko razliËitih | rasa, uvjerenja i boja imamo
+{24301}{24404}ovdje u uËionici. | Svi ûidovi, ustanite.
+{24646}{24725}Dobro. Svi Talijani.
+{25091}{25206}Dobro, dosta. Smirite se. | Svi obojeni.
+{25540}{25670}äto je Stitch, nemamo grupu | u koju se uklapaö? - Ne, ja sam Eskim.
+{25844}{25902}Dobro.
+{26028}{26149}Obojeni i Talijani. Ili Obojani | i Italijani?
+{26172}{26230}Jel' tako govori tvoj stari?
+{26285}{26391}A vi, deËki? Kako govorite | poslije ökole? Italijani?
+{26434}{26514}Hajde, ljudi, da Ëujem spiku. | Crno na...
+{26617}{26698}Dobro, da Ëujem spiku. Recite | mi nazive. Hajde.
+{26797}{26870}CrnËuge.
+{27024}{27090}Masnoglavi. | - Tako je, reci im.
+{27095}{27155}Bananoûderi.
+{27166}{27224}Cigani.
+{27246}{27302}Kmice.
+{27321}{27377}Sladoledari.
+{27395}{27454}Crnje. | - Makaroneri.
+{27463}{27514}Uroenici.
+{27521}{27568}DigiÊi.
+{27576}{27633}Pazi se, majmunËino. | - BacaËi koplja.
+{27639}{27702}Majku ti jebem, nabijem ti | koplje u guzicu.
+{27708}{27758}Polako. Ne stignem sve zapisati.
+{27783}{27848}Je li to sve? | To je sve?
+{27855}{27952}Brzo smo potroöili imena. | äto smo danas nauËili?
+{27971}{28082}G. Sharp, bijelci su zaboravili | par naziva. Da vidim, zaboravili
+{28110}{28218}su: Nigeri, kmice i majmunËiÊi.
+{28262}{28326}Napiöite to na ploËu!
+{28354}{28452}Kako ste zaboravili ta imena? | - Vjerojatno mentalna blokada.
+{28467}{28578}G. Sharp, mislim da je to zato öto | su hrpa debilnih, masnoglavih
+{28585}{28708}sladoledara... | - Prokleto crno kopile! - Jebi se!
+{28736}{28809}Jebem ti mater, digiÊku. | - CrnËugo. - Majku ti.
+{28816}{28898}Nemaö majku. - äto si rekao? | - Jebi se!
+{28952}{29055}Smirite se! Smirite se!
+{29402}{29482}Naemo se na French Charlijevom | polju, dobro?
+{29484}{29552}U subotu. - Dogovoreno. | Subota u podne.
+{29557}{29642}Bez noûeva i piötolja, dobro? | - Sluöaj ûelim da se vi okupe
+{29647}{29728}poslije ökole. Svi, razumijeö? | - Sjedni!
+{29768}{29841}Trebao bi objesiti to malo | kopile!
+{29899}{30009}Dosta! Dosta! äto vam je? Niste | nikad Ëuli da su djela veÊa od
+{30016}{30073}rijeËi?
+{30137}{30232}Majku ti! Jebem vam svima | mater!
+{30242}{30350}Sjednite! Sjednite! | éivotinje jedne!
+{30393}{30469}G. Sharp, nema zadaÊe?
+{32760}{32820}Ne ûelimo se ozlijediti.
+{32834}{32891}äto ste vi, kukavice?
+{32896}{32976}Kao prvo, vi ste to zapoËeli! | - äupËino, nismo mi zapoËeli.
+{32983}{33058}Tako smo Ëuli. - Krivo ste | Ëuli. äto joö?
+{33063}{33154}Mi nismo Talijani. - Znam! | Hajde, öto kaûete?
+{33315}{33373}Kaûemo, sretno vam bilo.
+{33420}{33476}Kukavice jebene!
+{33640}{33720}Uz vas smo. Nijedna crnËuga | nema izgleda uz ovo.
+{33727}{33800}äto Êe ti to? Ne trebaju nam, | ËovjeËe. Skloni to.
+{33806}{33892}Zezaö me? Ti Êe tipovi doÊi | s piötoljima. Nemoj im vjerovati.
+{33899}{33975}Moraö biti spreman. - Posluöaj | ga, Richie. - Sluöaj, Clinton i ja
+{33982}{34064}smo se dogovorili. Bez piötolja | i noûeva. - Vjerovat Êeö kmici?
+{34071}{34156}Nemate pojma gdje ûivite. To je | proölost. Ne idemo nikud bez ovog.
+{34163}{34214}Onda ne idete s nama.
+{34220}{34276}Bilo vas je dobro poznavati.
+{34352}{34446}PiËkice. - Ne znam, ËovjeËe. | - Idemo.
+{34509}{34609}Sluöaj, Richie. Pozuvat Êu | frendove ∆elavce. - Koji ti je?
+{34647}{34749}Ti me tipovi vole. Pozvat Êu ih. | Mislim da Êe pristati. S njima
+{34754}{34848}Êe sve bit rijeöeno. - Sluöaj, | neÊu zvati te tipove, imam ponos.
+{34855}{34960}Katkad ti jedino ostaje ponos. | Moraö hodati uspravno.
+{34970}{35076}Gledao sam film u kojem tipa | muËe Japanci, ali nije im niöta
+{35083}{35198}htio reÊi. Svaki put kad su ga | muËili, pjevao je himnu.
+{35301}{35354}äto se dogodilo?
+{35373}{35470}Ubili su ga. - HoÊeö li zaËepiti, | deprimiraö me.
+{35515}{35623}Hej, öto je to? - Niöta, ËovjeËe, | hvata te jeza. Idem piöati.
+{35634}{35733}Ne, ne, mislim da sam neöto Ëuo. | Jeste li Ëuli? - Ne.
+{35745}{35818}»ovjeËe, a ∆elavci bi to sredili.
+{36294}{36417}To su Wongovci!
+{36521}{36601}Hej, Teddy Wong. Kako si?
+{36638}{36736}Mislili smo da Êete doÊi ranije. | - Jesmo. PriËekali smo
+{36742}{36844}s pojavljivanjem. - Visili ste tu | u grmlju? Jezivo.
+{36867}{36983}Sluöali smo. - Pozvao sam vas | veËeras s razlogom. - Znamo zaöto.
+{37013}{37094}HoÊete li nam se pridruûiti? | - Ne.
+{37113}{37216}Da ih napadnemo? - MiËi se. | Ne zajebavaj se s Wongovcima.
+{37295}{37352}Nismo se nikome pridruûili...
+{37358}{37459}joö. - Kako to misliö? - OdluËit | Êemo kad doe vrijeme.
+{37493}{37551}»ekat Êemo i vidjeti.
+{37845}{37925}Kad Êe to biti? | - äto im je to znaËilo? Kamo su
+{37932}{38038}otiöli? - Ne znam. - Hej! Vrati se! | Ne, gubi se odavde ûutoguzi!
+{38066}{38163}ZaËepi! - äto, ne Ëuju me! | Ne zajebavaj se s Wongovcima!
+{38170}{38226}Sranje!
+{38241}{38364}Richie, Ëuo sam da DB dovode | Pimpse, Cavalierse, Mau Mau...
+{38385}{38508}Sranje, ovo je rasni rat. Dovodimo | tipove iz Brooklyna, Guinease ili
+{38518}{38624}Dusterse ili tako neöto? Samo | moramo ostati mirni. Mirni.
+{38643}{38745}Jesi primijetio kako te kmice | imaju hrpu roaka? Treba nam
+{38752}{38857}pomoÊ, zato zovem svoje frendove | ∆elavce. - Jesi lud? Zaboravi.
+{38894}{39003}Pogodi tko je! | - AI Capone. - Ne, ja sam.
+{39037}{39093}Tko bi rekao.
+{39106}{39217}äto radiö, Richie? - Niöta. | - Kakav je to popis? TuÊi Êeö se?
+{39224}{39321}Ne, samo neki posao. Sluöaj, | razgovarat Êemo kasnije, dobro?
+{39328}{39427}Mislila sam da Êemo u kupovinu | ploËa? - Moûda malo kasnije.
+{39434}{39513}Dobro? Volim te, duöo. | - I ja tebe.
+{39540}{39596}Richie? | - Da.
+{39601}{39659}Tata te ûeli vidjeti.
+{39839}{39971}Hej! Kako je? Sluöaj, Ëuo sam | da me Chubby traûio. - Tamo je.
+{40042}{40098}Ovamo, Richie.
+{40273}{40382}Htjeli ste me vidjeti, | g. Golosso? - Da. Ja i moja braÊa
+{40388}{40489}smo te htjeli vidjeti jer smo | Ëuli da imaö problema s obojenima.
+{40502}{40635}Kako ste to doznali? | - Kako smo to doznali? Kako braÊa
+{40644}{40779}Golosso doznaju iöta u ovoj | Ëetvrti? Pitam te zato öto bi
+{40791}{40891}ti moûda trebala pomoÊ. | - Ne, rijeöit Êemo to.
+{40919}{41048}Zapamti, Richie, u ovim vremenima, | u ovoj Ëetvrti, mnogo je naËina
+{41061}{41172}da se neöto rijeöi. Znaö öto | hoÊu reÊi? - Zapravo, ne.
+{41193}{41263}Razmisli. Znaö gdje smo.
+{41279}{41378}Htjeli su da doe Joey, da | zaboravimo na proölost. Poötujem
+{41385}{41461}ih, Richie. Daö im dobru | tuËnjavu i zadovoljni su.
+{41466}{41522}Hej! Gle tko ide!
+{41534}{41664}Hej! Moj najdraûi Wanderer. Da | imam psa s takvim licem,
+{41683}{41788}obrijao bih mu guzicu i nauËio | ga da hoda unatraöke!
+{41826}{41884}Veoma duhovito.
+{41914}{42009}Terror, doöli smo k tebi jer | imamo problema s crnËugama.
+{42016}{42074}Vi deËki, znate Rogera, zar ne?
+{42081}{42178}äto ûelite? - Imamo nekog | privatnog posla.
+{42188}{42297}Vi idete u Tulley High? - Da. | - Moûda znate mog roaka,
+{42307}{42418}Clintona Stitcha. - Naravno, moj | je prijatelj, znamo ga.
+{42450}{42554}Znamo Clintona, svi ga znaju. | - Znaö, mislim da Êemo bolje
+{42561}{42637}razgovarati u parku. - Je li to | öala? - Naravno da je.
+{42644}{42747}Isto kao tvoja öala o karama s | uöima. Ili je to o uöima bez kara.
+{42754}{42921}Pusti me! Pusti me!
+{42931}{43043}Hej, Terror, znao sam da nisi | kukavica. - Turkey, uËini mi uslugu.
+{43052}{43156}Naravno, znaö öto mislim | o vama. - Drûi ovo.
+{43195}{43296}Mislili smo da vas uËinimo | poËasnim Ëlanovima ∆elavaca.
+{43305}{43408}To je odliËno Peewee! - A mislili | smo poËeti tako da vam obrijemo
+{43413}{43485}glave. - Daj, ne kosu!
+{43501}{43625}Moûda vam neÊemo dirati kosu. | Ali Êemo vam skinuti neöto drugo.
+{43672}{43778}Spustite hlaËe. - Naravno, Terror, | kako god ti kaûeö. - Ne ti.
+{43785}{43889}Ti Êeö nam pomoÊi. SkoËi preko. | - Zaöto nam samo ne obrijete glave.
+{43914}{44029}Naöi su osjeÊaji delikatni. Vi | mislite da ste predobri za nas.
+{44050}{44160}Vi ste hrpa pederËina! - Eto ti | ga na. Opet nas vrijeaö.
+{44176}{44303}Zaveûite im ruke. Turkey, ûelim | da zaveûeö jedan kraj uûeta tamo.
+{44336}{44420}Isuse, Terror. | - Turkey, ËovjeËe, nemoj.
+{44427}{44511}Turkey, to je samo mali test za | ulazak u ∆elavce. Da vidimo.
+{44516}{44619}Koliko si hrabar. Znam da ste | Ëuli za rock'n'roll,
+{44626}{44706}ali jeste li ikad Ëuli | za rock'n'kita?!
+{44712}{44804}A za kita'n'roll, pederi. | - Turkey, napravi izviaËki Ëvor.
+{44839}{44922}Nemoj, Turkey! Nemoj, | ti si Wanderer!
+{44932}{45015}Turkey, jebena pederËino! | - Nemoj me ljutiti, Joey.
+{45076}{45181}Dobro, podigni oba kamena. Imate | neöto za reÊi svojim kitama?
+{45191}{45281}Recite bokiÊ kite, bilo vas je | zadovoljstvo upoznati!
+{45314}{45408}Turkey, baci kamenje. - éao | mi je deËki!
+{45557}{45661}Kvragu, izgleda da moramo | otiÊi po kraÊu öpagu!
+{45754}{45887}Nemojte otiÊi, odmah se vraÊamo. | Hajde, Turkey, drag si mi.
+{45999}{46105}äto Êemo sad? Nitko nam neÊe | pomoÊi. Ostavili su nas da umremo
+{46112}{46212}od hladnoÊe. - Nemojte se | zajebavati s ∆elavcima! Ovo je
+{46220}{46278}samo upozorenje!
+{46329}{46448}Drago mi je da si nam konaËno | doöao, Richie. Realan si.
+{46470}{46585}PomoÊi Êemo ti s obojenima. | Kako se osjeÊaö? Kako kuglaËka
+{46594}{46694}ruka? Spreman si? - Da, naravno, | uvijek smo spremni.
+{46699}{46800}Da, naravno, uvijek smo spremni. | Niste bili proöli tjedan protiv
+{46806}{46906}onih tipova s Long Islanda. To | me podsjetilo, jeste li vidjeli
+{46911}{47014}tko je veËeras na kuglanju? - Ne. | - Pogledaj.
+{47066}{47156}Sranje. To su tipovi s Long Islanda.
+{47256}{47357}Tako je. Znaö li zaöto su | veËeras tu? - Nemam pojma.
+{47364}{47463}Doöli su na revanö. G. Golosso, | ti tipovi su predobri. Razvalili
+{47470}{47523}su nas proöli tjedan.
+{47563}{47665}Znaö, Richie, nedostaje ti | samopouzdanja.
+{47758}{47813}Drugi neka priËeka ovdje.
+{47879}{47988}VeËeras Êete pobijediti. - Zezaö | me? Ovi kao da su profiÊi.
+{48003}{48120}Jesu. Chubby ih je provjerio. | Idu u razne kuglane, navlaËe ljude.
+{48213}{48317}Pohlepni deËki. - äto Êe sad | Chubby? - On zna raditi Ëuda.
+{48395}{48453}äto Êemo?
+{48645}{48713}äto je ovo? | - Pet somova.
+{48719}{48813}Nemamo toliko. | Ne? A koliko imate?
+{48931}{49008}Dva i pol soma. | - Dva i pol soma.
+{49020}{49106}To Êe posluûiti. | Ostavit Êemo novac tamo.
+{49115}{49211}»ek, Ëek, kompa. Mi biramo | stazu, je li tako? - Kako god!
+{49218}{49305}HoÊete li igrati ili ne. Dosta | sranja. éelite li brojati?
+{49310}{49392}Hajde! Ja sam glupi digiÊ, öto | ja znam?
+{49409}{49495}äto se mene tiËe, moûda | ste i profiÊi.
+{49515}{49616}Hej! O Ëemu vi to? - Govorimo | o tome da ste stvarno dobri.
+{49911}{50001}Hej, Ëek malo! äto se dogaa? | Kamo svi idu?
+{50011}{50091}Zatvaramo nakratko, za malo | privatnosti.
+{50389}{50474}Hej! Kamo ideö? - »ekaj malo, | molim te!
+{51007}{51116}äto radite? - Toliko ste dobri, | ne bi bilo u redu da igrate
+{51123}{51221}bez hendikepa. - 20 Ëunjeva. | - 20 Ëunjeva? Nisam to tako
+{51228}{51334}zamiöljao. - 50 Ëunjeva. - NeÊe iÊi. | Ja sam mislio na pravi hendikep.
+{51976}{52081}Vidio sam to u svom najdraûem | filmu. Jesi gledao "Hustlera"?
+{52093}{52185}Ako je mogao Paul Newman, | moûeö i ti.
+{52456}{52564}Gdje smo ono stali? Da, doöli | ste nam s problemom.
+{52589}{52719}Rijeöit Êemo to. Ali zapamtite, | sportaöi smo i zanima nas oklada.
+{52782}{52852}Nema niöta loöeg u tome, zar ne?
+{52891}{52995}Kako sam shvatio, igrate sa | obojenima u ligi sjevernog Bronxa.
+{53002}{53124}Mislim da bi nam oboma koristilo | da pobijedite, za Golosse, zar ne?
+{53154}{53293}Da. - Znaö, postoje dvije vrste | ljudi. Oni sa zajedniËkim interesima
+{53331}{53457}i öupci poput onih laktaöa. Kod | obojenih sportaöa mi se svia
+{53489}{53600}öto imaju zajedniËki interes. | Nisu svi obojeni öupËine.
+{53639}{53745}äteta je öto klinci mlate jedni | druge. Pogotovo jer nema
+{53752}{53848}ekonomske prednosti tome. | Je li tako, Albert? - Tako je.
+{53854}{53975}Kako je? - Kako je, stari? | - Kako ste? Imat Êemo malu
+{53985}{54125}utakmicu. Drago mi je da su nas | ti deËki uveli u stvar. To im
+{54149}{54254}pruûa moguÊnost da rijeöe | nesuglasice na koristan naËin.
+{54262}{54348}äto kaûete da krenemo prema baru? | - Moûe.
+{55014}{55114}äto je to? | - Radim zastavu. Imamo utakmicu
+{55122}{55232}sa DB-ovima. Trebao bi doÊi, | bit Êe dobra utakmica.
+{55250}{55384}Gledaj me kad mi se obraÊaö. | Kakav je to crteû? Zaöto ne
+{55421}{55529}nacrtaö neöto normalno? Planinsko | jezero, lijepo drvo, ptice...
+{55549}{55652}To je umjetnost. Ne crtaö | normalne ljude. To su nakaze.
+{55685}{55795}»ujeö li me? | - Emilio! Joey, jelo je na stolu.
+{55812}{55940}Nakaze! Hej, odliËno! Moram | smröaviti. Hajde, idemo jesti.
+{56067}{56186}Sluöajte, mi protiv cijeloga | svijeta, dobro? Samo Wanderersi.
+{56213}{56319}Moramo se drûati zajedno. | - Moramo nabiti DB-ovce.
+{56329}{56426}Hej, Joey! Imam foru za tebe. | Tko Êe laköe udariti, dobro?
+{56433}{56519}Dobro. - Hajde, ti prvi. | PriliËno dobro. Ja sam na redu.
+{56526}{56630}Dobro, daj. Isuse! Zaöto si | to napravio? Mislio sam da treba
+{56649}{56730}öto laköe udariti? I treba, | pobijedio si!
+{56788}{56883}Zaljubljen sam! Vidi ti to! | - Volio bih to srediti!
+{56898}{57019}Daj, zaustavi auto! - Znate öto | je danas? Savröen dan za pipanje!
+{57086}{57143}Perry, zaustavi auto.
+{57785}{57871}Pazite kamo idete! | - Ja? - Ljudi viöe ne paze kako
+{57878}{57941}hodaju! Pazi ubuduÊe!
+{58107}{58205}Jesi pipao sise? - Jesam. Dobre! | Nije ni shvatila öto se dogaa.
+{58214}{58314}Tko je sljedeÊi? - Perry, hajde | ti. - Ja? Ne, ne.
+{58347}{58467}äta si se uplaöio? - Zato öto ne | ûelim pipati cure na cesti?
+{58544}{58598}Prekasno!
+{58681}{58808}Prestani me gnjaviti. Gle, nemoj | se bojati, dobro? Pazi sad.
+{58971}{59060}Ide öampion Bronxa u | pipanju sisa.
+{59227}{59291}Hajde, Joey!
+{59771}{59877}Vi deËki ste svinje! Nemate | poötovanja. - Oprostite!
+{60068}{60144}Vi ste svinje! - Da, gospoo.
+{60299}{60382}Nisam ni slutio koliko ovo | moûe biti opasno.
+{60402}{60478}Hej! Neke opipaö, a neke ne.
+{60523}{60619}Nemoj me udarati. - Sve je u | redu. - Gledaj ono!
+{60642}{60737}Richie, tvoj je red. - Ne, ne, | idemo. - Hajde, kukavice!
+{60753}{60816}Hajde, idemo!
+{61174}{61250}Hej! Pazi kuda ideö! | - Jesi dobro uhvatio?
+{61257}{61360}Kako to misliö? - Misliö da je | jako smijeöno. - O Ëemu ti to?
+{61389}{61485}éao mu je öto sam naletio na | tebe. Misliö da se zalijeÊem u
+{61494}{61595}svaku curu na ulici? - Ne u svaku. | Samo onu koju ûeliö ispipati.
+{61613}{61712}Hej! Nisam pokuöavao... | - Nemoj srati. Nisi li malo prestar
+{61719}{61830}za to. Znaö kod mene se to | zove maltretiranje. - Odakle si?
+{61861}{61967}Daj, gubi se! - Ne, u koju ökolu | ideö? - Gle, kako god da se zoveö
+{61974}{62049}Richie. Kako se ti zoveö?
+{62055}{62158}Nina. Ne razgovaram s tipovima | koji me hvataju za sise na ulici.
+{62169}{62224}äto to imaö? äto je to?
+{62236}{62333}Znam tu knjigu, odliËna je. | - Cijela, ili samo prosti dijelovi?
+{62341}{62430}Daj, Nina, nemoj iÊi. Ne moûeö | razgovarati o knjizi
+{62437}{62545}sa zlostavljaËem poput mene? | - Pervertitu! Hej! Ovamo!
+{62604}{62676}Kako je bilo Richie? Hajde!
+{62702}{62818}Prijatelji te zovu. Sve im | govoriö? - Zezaö se? Samo proste
+{62825}{62930}dijelove. Sluöaj, mislim da bi | se trebali opet vidjeti.
+{62968}{63068}Moram iÊi, imala sam naporan dan. | Hej, ûelim da upoznaö mog
+{63077}{63163}prijatelja. Sluöaj, Joey, ovo je | Nina. - Bok Nina.
+{63170}{63270}Ne bi vjerovala, ali sjajan je | umjetnik. Mislim da bi se
+{63277}{63379}dobro slagali. Hajde, daj nam | svoj broj, moûe? - NeÊu.
+{63388}{63474}Hej, moûe malo? | MiËi se s auta, momËino.
+{63484}{63559}Hej, Joey, daj joj svoj broj. | Moûda bi htjela s tobom na tulum.
+{63566}{63670}Moj broj? - Da, 5550564. | - Da, to je moj broj. Jesi Ëula?
+{63719}{63803}Misliö da Êe nazvati? Da Êe | se sjetiti? - Da.
+{63929}{64024}Pravi si Wanderer. - Hej, | ne bi htio da ova umakne.
+{64055}{64117}Idemo, hajde, idemo!
+{64170}{64226}NaÊi Êemo je za tebe, Joey!
+{64313}{64404}Ne daj joj da pobjegne! | Stvarno je posebna.
+{64453}{64565}Richie, sad mislim da znam kad | kaûeö, prava ljubav.
+{64605}{64684}Evo je. Ne daj da ti pobjegne.
+{66522}{66630}Gdje smo, ËovjeËe? Znate ovo | podruËje? Mislio sam da znam,
+{66637}{66740}ali nije to. - Perry, gdje smo? | Kamo nas vodiö? - Ne snalazim se
+{66747}{66838}ovdje, mislio sam da Êete mi | vi reÊi. - Moramo doÊi doma.
+{66845}{66937}Moram na posao. - Ja imam spoj. | Stari Êe me ubiti. - Smirite se.
+{67033}{67134}»ovjeËe. äto je to? | - NaÊi Êemo put odavde.
+{67176}{67235}Pitajmo onu ûenu tamo.
+{67355}{67411}Zaboravi.
+{67525}{67584}Hej, öto je ovo?!
+{67599}{67676}Pazi, evo joö jednog! | - Pazi!
+{67724}{67777}Sranje!
+{67933}{68039}Isuse! Mislim da znam gdje smo. | Teritorij Ducky boysa.
+{68049}{68144}Sranje, to su Ducky boysi! | Idemo odavde!
+{68237}{68290}Gubi se odavde!
+{68311}{68418}Seronjo! - Perry, vrati se! | - äto ti je? Ne znaö govoriti?
+{68601}{68652}Perry, ne!
+{69341}{69406}Uite u auto!
+{69815}{69892}Moramo ga odvesti u bolnicu!
+{70004}{70057}Idemo!
+{70066}{70142}Moramo ga odvesti u bolnicu!
+{70442}{70545}RaËunao sam na tebe za utakmicu. | - NeÊu reÊi niöta svojoj mami.
+{70567}{70658}Da je ne uzrujam, ima visok | krvni tlak.
+{70684}{70790}äto Êemo sad? Idemo gore? | Idem gore vidjeti je li
+{70800}{70918}zrak Ëist, dobro? Stari Êe me | ubiti jer dolazim ovako kasno.
+{71005}{71130}Emilio, hoÊeö li doÊi sutra? | Donesi mi neöto, moûe? Duöo?
+{71468}{71581}Hej, Joe! äto je? äto je bilo? | - Niöta. Sve u redu.
+{71704}{71811}Da, znam, nema razgovora u | hodniku. - Telefon za tebe.
+{71818}{71920}Neka te ûenska zove. ZvuËi | kao knjiûniËarka. Posudio si
+{71927}{72031}knjige? Jebeni naËin za gnjaviti | nekog. - Perry, jesi li to ti?
+{72172}{72285}Halo? - Je li to Joey? - Da. | - Nina je, danas smo se upoznali.
+{72317}{72465}A, da. Da! - Zovem te u vezi onog | tuluma. Tko Êe sve doÊi?
+{72498}{72612}Svi deËki. Richie, kojeg si prvog | upoznala. On Êe biti tamo.
+{72638}{72715}Sjajan momak, ne? Svidio ti se? | - Da.
+{72897}{72999}Hej, zaöto si tako nervozan? | - Nisam. - SkakuÊeö okolo.
+{73008}{73135}Moram piöati. - Sad Êe doÊi. | Da ti neöto kaûem, ta cura ti je
+{73143}{73266}zagarantirana, kuûiö? Nazvala te? | - Da! - Sad Êe nas pokupiti.
+{73309}{73392}Dobro, öto misliö poduzeti? | - Kako to misliö?
+{73402}{73502}äto Êeö poduzeti? Treba ti plan. | Kako Êeö inaËe iöta ubosti?
+{73509}{73594}Znam se brinuti za sebe. A ti | toliko znaö o tome, ha?
+{73601}{73696}Zaboravi. Samo ti ûelim | olaköati. - UËini mi uslugu.
+{73703}{73788}Reci? - ZaËepi, zvuËiö kao moja | majka. - Tvoja majka?
+{73795}{73869}Reci joj da je sinoÊ zaboravila | cipele pod mojim krevetom!
+{73879}{73961}Tvoja majka ima madrac na leima | i to king size! Vidio sam je.
+{73968}{74053}Ne diraj mi kosu! Prestani se | ponaöati kao peder! - Da bar.
+{74058}{74122}Ti znaö! - Aha. - Evo je.
+{74183}{74259}Bok, Nina! | Idi odostraga!
+{74280}{74386}Idemo, veÊ kasnimo. | - Bok, Richie! - Bok, kako si?
+{74444}{74556}Kakvo je to sranje na radiju? | Nemaö neku normalnu glazbu?
+{74620}{74680}To, rock'n'roll!
+{74715}{74767}Hajde, idemo!
+{74774}{74852}Je li to to? | - Da, lijevo na uglu.
+{75110}{75204}Ovdje. Zaustavi ovdje. Iza | ovog auta.
+{75224}{75326}»iji je to auto? - Mojih staraca. | Posude mi ga kad odu nekamo.
+{75405}{75463}Sranje! Dolje!
+{75489}{75587}Ostanite dolje, to su Golossi, | ne ûelimo da nas vide.
+{75595}{75724}Tko su Golossi? - To su Despijini | roditelji. - äto se dogaa?
+{75736}{75840}Chubby ne ûeli da prekidamo | trening. Uloûio je puno love.
+{75868}{75927}Ta haljina je stvarno elegantna.
+{75934}{75986}Idemo?
+{75993}{76051}Imaö lovu?
+{76276}{76351}Richie, mogu li izaÊi, ËovjeËe?
+{76356}{76415}Ne mogu disati!
+{76476}{76561}äto se dogaa? Je li zrak Ëist?
+{76773}{76845}Otiöli su, hajde. Hajde!
+{76892}{76963}Ok, idemo plesati!
+{77207}{77258}Idemo, Popeye!
+{77319}{77384}Kleopatra!
+{77661}{77717}Popeye!
+{77733}{77792}Kleopatra!
+{77979}{78028}Pometite pod!
+{78035}{78099}Hej, gle tko je doöao!
+{78258}{78315}Hej, Buddy, öta ima?
+{78429}{78535}Isuse, öto je to? | - To je ûena koju znam. - éena?
+{78583}{78706}Da su ti hlaËe uûe, vidjeli bi | ti ûile na mudima. - Nisam znao
+{78721}{78849}da gledaö! - Joey, nisam znao | da Purina izrauje sakoe!
+{78894}{78982}Ja nisam znao da Purina | prodaje loö zadah.
+{79320}{79392}Richie! | Doi!
+{79682}{79785}éeliö plesati? - Ne znam dobro | plesati. Moûda na sentiö.
+{80040}{80092}Hvala, ËovjeËe.
+{80341}{80396}Hvala, deËki!
+{80415}{80550}Imam poriv da veËeras... ne znam, | odem van. I razbijem nekog.
+{80654}{80788}Moram, znaö, divljati. Zdrobiti | par glava, kuûiö?
+{80817}{80943}Da, da znam. I ja imam poriv. | Znam gdje Wandereri imaju tulum.
+{80964}{81097}Malecki. - PiËkice! - Moûda da | odemo van. Razbijemo nekog.
+{81135}{81243}Moûda i neöto poöevimo. | Oprosti, Peewee, nisam to mislio.
+{81262}{81365}Samo, imam poriv. - Hej! | éelite se tuÊi? - Da! éelimo!
+{81380}{81485}Mora da se zezaö, stari, tukao | bi se sa nama? - Ne govorim
+{81492}{81595}o sebi, veÊ o najgadnijim | tipovima na svijetu. - O kome ti
+{81601}{81728}to? Nitko nije jaËi od ∆elavaca! | - Uite. Hajde. - Uvijek sam se
+{81767}{81865}pitao koji kurac radiö ovdje, | drkaroöu.
+{81876}{82000}DeËki, imam naËin da se mlatite | i Ëuvate zemlju sigurnom.
+{82061}{82194}Izvolite, gospodo. | Podijelite ih. Izvoli.
+{82269}{82325}Hvala, ËovjeËe.
+{82359}{82435}Idemo cure, pokrenite se!
+{82602}{82677}Buddy, doi duöo!
+{82904}{83032}Ovdje je buËno. Misliö da bi joj | smetalo da odemo gore priËati?
+{83086}{83191}Hej, Richie! Mi idemo gore, | razgovarati.
+{83241}{83340}Samo nemoj ostaviti spermu | na krevetu Golossa, jer Êeö
+{83348}{83469}je jesti ûlicom! Sretno! - Tata Êe | me ubiti, ako naprave nered.
+{83492}{83598}NeÊe, ne brini. Moûda bi i mi | trebali otiÊi gore.
+{83613}{83729}Kunem se kao graanin SAD... | - Kunem se kao graanin SAD...
+{83798}{83928}Da Êu nakon potpisivanja ovog | dokumenta... - Terror, nemoj!
+{83959}{84065}Da Êu sluûiti u marincima... | Da nikad nisam bio Ëlan...
+{84099}{84179}KomunistiËke partije.
+{84281}{84353}Bar vas ne treba öiöati!
+{84363}{84468}Znaö li öto si sad napravio? | Prijavio si se za marinca! Glupi
+{84475}{84583}majmune! | - Znaö öto mislim da smo uËinili?
+{84616}{84719}äto? - Mislim da smo se | prijavili za jebene marince.
+{84784}{84899}»ovjeËe, nadam se da znaö da smo | to napravili kao öalu. - éao mi je.
+{84908}{85026}Kako to misliö, ûao ti je? Ja | nisam punoljetan. - Ne moraö biti.
+{85090}{85191}Dajte, gospodine, pustite ih. | - Takva su pravila.
+{85200}{85293}Moja majka Êe umrijeti bez mene. | - Trebao si na to prije misliti.
+{85302}{85405}äto si rekao o mojoj majci? | - Gubite se.
+{85429}{85548}Ne brinite, marinci Êe vas | dovesti u red. Uûivat Êete
+{85557}{85625}u pravom ratu, gadovi.
+{85686}{85795}Zapamtite, bez nakita, ukosnica | ni iËeg takvog. Obje se Ëarape
+{85804}{85908}broje kao jedna. Mora biti pravi | komad odjeÊe, dobro?
+{85924}{86031}Kako ste se vi uopÊe upoznali? | - Pa, naletjeli smo jedno na drugo.
+{86165}{86259}äto imaö, ËovjeËe? | - Parove dvojki, stari.
+{86282}{86368}Parove dvojki? Mater mu... | - äteta. - Imam par kraljica.
+{86374}{86480}Bolja sam. - Ne tako brzo. Rekoh | parove dvojki, znaËi poker.
+{86488}{86588}»etiri dvojke? Nitko ne dobiva | Ëetiri dvojke.
+{86598}{86686}Skala je kad imaö brojeve | po redu?
+{86696}{86838}Imaö? - Ne, ali sam blizu. 4, 6, | 7, 8 i 10. Fale mi 5 i 9. - äteta.
+{86903}{86962}äteta.
+{87070}{87171}Ja vas uopÊe ne poznajem. | »esto igraö s njima, Despie?
+{87178}{87280}Nisam ovo nikad igrala. Kako | smo uopÊe poËeli s ovim?
+{87285}{87338}Tko dijeli? - Mislim da si ti.
+{87345}{87398}Dame, ulaûete?
+{87470}{87552}Joeyjeva koöuljica. - ZaËepi | seljaËino.
+{87606}{87709}Idemo, hajde. HoÊete li igrati | ili ne? Idemo.
+{88302}{88354}Budalo!
+{89813}{89906}Kakav je to lak za nokte, | Despie? - Sa öljokicama.
+{89914}{89989}äljokicama? | - äljokicama!
+{90086}{90168}Kako znaö da imaö fleö? Kad | su sve crvene?
+{90175}{90282}Moraju biti ista boja, herËevi | ili kare. - Da, da, da. Znala sam.
+{90446}{90544}Imam stvarno dobre karte! | Da vidim, daj mi Ëetiri.
+{90568}{90624}Naravno.
+{90644}{90746}Daj meni dvije. - Ne moûeö | dobiti niöta dok ne uloûiö.
+{90756}{90891}Hajde! - Odustajem. - Tako neÊeö | niöta postiÊi. Ako ûeliö odjeÊu,
+{90902}{91017}moraö je osvojiti. - Kako to da | mi uvijek gubimo? - Tko zna?
+{91035}{91134}Samopouzdanje, sreÊa. | Kolo sreÊe se okreÊe.
+{91477}{91557}Dobro, ali nemojte gledati.
+{92622}{92693}Richie! | - Ha?
+{92899}{92973}Nije fer, pogledali ste.
+{93004}{93089}Igraö, Despie? | - Odustajem.
+{93105}{93199}äto imaö, Joey? Joey! | äto imaö? - Niöta.
+{93220}{93346}äto ti imaö, Nina? | - PriliËno dobro, vidi.
+{93392}{93445}Ne dovoljno dobro.
+{93454}{93555}Ne dovoljno dobro. | Ful! Opet pobjeujem.
+{93640}{93754}»ekaj malo! Neöto tu smrdi. | Uskoro Êemo biti gole, a öto onda?
+{93786}{93891}Ti dijeliö. Onda igramo joö jednu | partiju. - Ja dijelim? - Da.
+{93899}{93976}U öto? | U öto?
+{94153}{94232}Tada radimo öto ûelimo. | - äuti, gade...
+{94245}{94312}Dobro, dosta je!
+{94326}{94400}Idemo natrag na tulum! | - äto, öto...
+{94409}{94468}Moramo nazad na tulum.
+{94474}{94551}Na tulumu smo. O Ëemu priËaö? | Samo se malo zabavljamo.
+{94556}{94626}Hajde, Despie, ne moramo | prestati igrati.
+{94633}{94709}Imali smo sreÊe, to je sve. | Znam da Êe ti se posreÊiti u
+{94716}{94789}sljedeÊoj partiji, znam da Êeö | pobijediti! - To je samo nevina
+{94796}{94872}igra. - Znam kako se osjeÊaö. | - Samo joö jedna partija.
+{94879}{94971}Ionako idemo dolje, daj. Ostani, | hoÊeö li? Zabavljamo se. Daj.
+{95023}{95122}Idi Joey, ti si nas odao! - Ja? | - Da, idi! - Dobro, dobro.
+{95169}{95228}Despie!
+{96465}{96594}Hajde, Terror, upadaj u auto! | - Hajde, öto kaûeö, duöo?
+{96629}{96737}Spusti me, Terror, pijan si. | Znaö da ne valja kad si pijan.
+{96833}{96930}Hajde, ËovjeËe! Idemo! | Hajde, Terror, upadaj!
+{97030}{97100}Doi s nama, duöo.
+{97295}{97348}Ne idi.
+{97419}{97478}Ne idi.
+{97578}{97660}Dobro, idemo podijeliti batine.
+{98258}{98361}Idemo nekamo gdje moûemo | razgovarati. - Gdje?
+{98919}{98975}To je tatin pokal!
+{99048}{99128}Glupi gade, kako Êu doma?
+{99360}{99418}Richie!
+{99442}{99510}Richie!
+{99530}{99635}Ne izlaziö mi iz glave od prvog | trena kad sam te ugledao.
+{99891}{99995}Hajde, idemo unutra! Hajde! | Idemo po, kako ih zovete, pice?
+{100026}{100127}Idi unutra, Turkey, i dovedi | ih ovamo. - Tako je ËovjeËe,
+{100134}{100239}pice za van. Oprostite, öto | ûelite naruËiti? - éelim jednu
+{100247}{100350}sa svime na sebi. Volim ih | sirove! - Brûe, vojniËe!
+{100384}{100482}Dobro, ËovjeËe, idem. VraÊam | se odmah.
+{100810}{100894}Jesi li vidjela Richieja? | Richie?
+{100905}{100984}Richie, traûim te posvuda!
+{101020}{101097}Hajde, duöo! ∆elavci te ûele!
+{101170}{101226}Hej! | - äto, hej?
+{101235}{101318}äto gledaö? Sad gledate ∆elavca, | pederi.
+{101385}{101483}Dobro, gade, pogledaj kroz | prozor. - Terror je vani!
+{101529}{101613}Vani je pederu, razbit | Êe ti dupe!
+{101959}{102054}Terror? Roger? Gdje ste | deËki?
+{102220}{102322}Vidimo se na drugoj strani, | öupËino! Ne ûelim te ovdje!
+{102351}{102401}Odjebi odavde!
+{102532}{102637}Terror, Roger, Ëekajte me! | Kamo idete?
+{102866}{102944}Joey! »ekaj, sluöaj me!
+{102980}{103047}Sluöaj, Joey, doi ovamo.
+{103155}{103232}Sluöaj me, ËovjeËe. | - äti imam sluöati?
+{103242}{103342}Morao sam razgovarati s njom. | Ne ide mi iz glave. Mislim, prvi
+{103351}{103458}sam je upoznao. Zaboga, Joey, | nisam se mogao boriti protiv toga.
+{103476}{103604}Da me nisi dirao! To je samo | ûenska. Nije vaûna.
+{103639}{103713}Ne, nije tako. Posebna je.
+{103850}{103924}Sranje!
+{104006}{104130}Pizdo! äugava, usrana pizdo! | Tako mi vraÊaö jer sam ti dala!
+{104155}{104232}Znala sam da Êe se to dogoditi.
+{105100}{105181}Terror! | ∆elavci!
+{105313}{105437}Jebemu! Sranje! | Terror gdje si?!
+{105461}{105559}ZaËepi, budalo! | Roger, doi ovamo!
+{105603}{105705}Roger! Terror!
+{106376}{106440}Terror!
+{106820}{106953}Hej, mali! Nisam znao da je | netko tu. Izgubio sam se.
+{107083}{107186}Doi ovamo, moram s nekim | razgovarati.
+{107249}{107305}Vani je hladno.
+{107466}{107523}Odakle si?
+{107584}{107658}Ideö ovdje u ökolu?
+{107729}{107788}Ideö u ökolu?
+{107872}{107970}Sve je u redu. Moûemo | otiÊi u park.
+{108051}{108127}Nisam pijan, ozbiljan sam.
+{108245}{108309}UpomoÊ!
+{108444}{108511}Pomozite mi!
+{108522}{108604}Molim vas, pomozite!
+{108856}{108924}Terror!
+{109702}{109751}Terror!
+{110511}{110626}ReÊi Êu vam, nije bio tako loö. | Ne kako mislite.
+{110709}{110788}Nedostajat Êe mi Turkey.
+{110797}{110851}Evo gada.
+{110946}{111021}Hej, Richie, ËovjeËe!
+{111136}{111208}Richie, imam tvoju zadaÊu.
+{111513}{111587}Bok, deËki, kako je?
+{112847}{112956}Predsjednik i gospoa Kennedy, | trenutak prije nego je upucan.
+{113068}{113183}Prema nesluûbenim podacima, | predsjednik je umro. No,
+{113254}{113349}ponavljamo, to joö nije | potvreno.
+{113705}{113818}Kao öto ovdje vidimo, ga. Kennedy | ulazi u auto. Ovdje maöe.
+{114039}{114144}Ovdje predsjednik maöe.
+{115535}{115635}Richie, znaö li öto je to prava | ljubav? - Da.
+{115654}{115757}Znaö li? Da to znaËi da ostajeö | uz voljenu osobu u teökim
+{115764}{115840}vremenima. Znaö li?
+{115911}{115987}Zdravo, oËe. | - Zdravo, oËe.
+{115996}{116106}Znaö li öto joö to znaËi? éena | koja voli, ima dijete Ëovjeka
+{116114}{116240}kojeg voli. A znaö öto je prava | ljubav za muökarca.
+{116318}{116437}Prava ljubav za muökarca znaËi | da ûeli da njegova voljena nosi
+{116449}{116549}njegovo dijete. Zar ne misliö | da je to prava ljubav?
+{116556}{116689}Definitivno. - Richie. Ja osjeÊam | pravu ljubav za tebe. - Dobro.
+{116719}{116823}Voljela bih znati, osjeÊaö li | i ti pravu ljubav za mene?
+{116841}{116944}Naravno. - Ti Êeö biti taj... | - Stvarno to osjeÊam.
+{116988}{117110}äto to? - Stvarno osjeÊam | pravu ljubav za tebe, Despie.
+{117278}{117392}Jer roditelji moraju znati. Kad | sam rekla tati da sam trudna...
+{117475}{117580}äto? | - Richie, moj tata te ûeli vidjeti.
+{117820}{117946}Sluöaj, nisam teûak. I ja sam ih | u tvojim godinama troöio kao lud.
+{117963}{118064}Ali nikad to nisam radio s | neËijom kÊerkom!
+{118083}{118189}Ne samo da si to radio s mojom | kÊeri, veÊ si je i napumpao,
+{118196}{118320}glupi digiÊu! Nemaö niöta ovdje | gore, sve je dolje!
+{118387}{118509}Dobro, nisam teûak, za ples je | potrebno dvoje i ta sranja.
+{118548}{118651}äto se mene tiËe, ona se moûda | praöi od osnovne ökole, a ti si
+{118658}{118736}prvi kojeg sam uhvatio. | - Tata, kako moûeö?
+{118743}{118842}Trebao si joj dati narukvicu i | sprijeËiti je drkajuÊi.
+{118855}{118964}Stvar je u tome, da je trudna, a | sad moraö platiti cijenu
+{118971}{119058}i uËiniti pravu stvar. To je | sportski.
+{119065}{119150}Hej, öto je ovo? Sad se bojiö.
+{119740}{119857}Ustani! | Za mog novog zeta!
+{120031}{120113}Moûete ûivjeti u podrumu, | imamo drvenu oplatu.
+{120120}{120176}Gloria! Sii!
+{120183}{120247}Doi ovamo, lutkice!
+{120286}{120411}Voliö ökoljke? Odvest Êu vas u | grad na ökoljke. Nisam tako teûak.
+{120546}{120614}Koliko je? | - 45 cm.
+{120627}{120729}45 cm. Znaö koliko je bilo | 1940-'41? 43.7 cm. Grk je imao
+{120736}{120822}45 cm. Jesam li ti rekao da sam | ga vidio nekidan? Pretvorio se
+{120829}{120878}u kantu masti.
+{120885}{120965}Popipaj. 45 cm, ondje | gdje je vaûno.
+{120981}{121077}Za kog Êe ovaj put glasati? | - Doem odmah! Da.
+{121090}{121148}Stiöaj se.
+{121188}{121265}Zaöto ne odeö vidjeti | Joeyja kako igra?
+{121272}{121354}Ne ûelim se osramotiti. - Koliko | Ëujem, dobar je. NeÊeö se
+{121361}{121419}osramotiti. Hajde, Emilio.
+{121426}{121477}Ne danas. Imam posla.
+{121677}{121789}Najbolji smo, najjaËi smo...! | - Izgleda da se crnËuge neÊe
+{121803}{121882}pojaviti. Kukavice su, oduvijek.
+{121961}{122017}Hej, öto je to?
+{122889}{122972}Jebote! Izgleda da su | doveli cirkus.
+{124343}{124417}Moramo pobijediti...
+{124516}{124588}Gdje je tvoj usrani deËko?
+{124894}{124992}Dosta! - Znaö zaöto vas zovu | Wanderers (lutalice)?
+{124999}{125082}Nakon ove tekme, lutat Êete | ko muhe bez glave!
+{125089}{125141}Doi, majku ti!
+{125213}{125278}Hej! Igraj!
+{125345}{125404}Hajde, razlaz!
+{128697}{128756}Time out!
+{128892}{128996}Jebena zaötita! - Ostani na svom | mjestu! Petljaö mi se u posao!
+{129023}{129127}Igrate kao pederi! - Jebi se, | ËovjeËe, ne moûeö tako govoriti!
+{129133}{129233}Govorit Êu kako ûelim. Ja sam | voa navale, öupËino! ShvaÊaö?
+{129238}{129294}Koji vam je, deËki?
+{129301}{129400}Moûda neki imaju pravo da me | mrze, ali gledao sam igru
+{129407}{129493}i mislim da bi imali öanse sa | mnom kao voom navale.
+{129498}{129547}Tako mora biti.
+{129556}{129683}Razmiöljao sam i samo ûelim reÊi | Joeyju da mi je ûao i ûelim mu
+{129690}{129765}se ispriËati. äto kaûeö, ha?
+{129854}{129922}To je odliËno, ËovjeËe!
+{129929}{130023}Samo ûelim reÊi, da je sve öto | sam napravio, proölost, dobro?
+{130030}{130111}Sve je zaboravljeno, ok? A sada | moramo dobiti utakmicu,
+{130119}{130202}za Wandererse. äto kaûeö? | Wanderersi zauvijek, ha Joey?
+{130257}{130312}Sredimo ih!
+{130337}{130390}Spremni?
+{130396}{130491}Jako desno krilo, cijela postava | naö specijalitet, spremni?
+{131130}{131229}Jako lijevo krilo, cijela postava | oËajniËki specijalitet.
+{131741}{131820}Eto vam ga na, papci!
+{132094}{132177}»ovjeËe, dobaci mi vraûju loptu!
+{132289}{132353}Tvoja je, stari.
+{132507}{132588}Dobro, gdje je lopta? | - Ne, ËovjeËe, ne idem tamo.
+{132595}{132680}Ako ûeliö loptu, idi po nju sam, | dobro? - Clintone, ustrtarili
+{132687}{132791}ste se? - Vraga. Tamo je neki | seronja sa velikom oötricom, ok?
+{132810}{132870}Da? - Da.
+{132907}{133001}Ja ne vidim niöta. | - Ti ne vidiö niöta, ha?
+{133707}{133790}Ovdje su! | Gledaj, ovdje su!
+{133818}{133896}äto? | - Ducky boy!
+{133914}{134034}Gdje? - »ovjeËe, ne zajebavam se, | vidio sam ga, bio je tamo!
+{134070}{134155}Kvragu, svima se priviaju | stvari. Koji vam je? Idemo
+{134160}{134238}igrati football, ha? Hajde!
+{134365}{134456}Sranje! | - Ducky boysi.
+{134582}{134652}Sranje, öto Êe oni ovdje?
+{134681}{134756}Odakle dolaze?
+{134916}{134968}äto Êemo?
+{134985}{135067}Boriti se! | - Ostanimo.
+{135083}{135159}Neka nitko ne ide.
+{135176}{135234}Sranje, i iza nas su.
+{135241}{135308}Ima ih na stotine!
+{135868}{135977}Mislim da me mama zove. | - éedan sam, idem po sok.
+{136431}{136509}Kurvini sinovi... Doite!
+{136620}{136697}Tko su ti tipovi? | Tvoji prijatelji?
+{136963}{137036}Hajde! Doite!
+{139525}{139583}Joey!
+{139597}{139657}Hajde!
+{140103}{140182}Pobijedili smo!
+{140402}{140460}Jesi li dobro?
+{140483}{140567}Pobijedili smo ih, tata! | Tata!
+{141459}{141574}Rekoh ti, ne idem doma. Ne znam | öto Êu, ali doma ne idem.
+{141593}{141707}éao mi je mame. Toliko godina | hodanja po jajima radi te kretenËine.
+{141723}{141817}Gdje je tvoja mama? | - Ne znam. Izaöla je.
+{141854}{141959}Nema problema, prespavat Êeö. | Ne smeta joj. - äto je bilo?
+{141966}{142022}Niöta.
+{142029}{142098}Uzmi gutljaj.
+{142111}{142220}Ima visok krvni tlak ili tako | neöto? - Ne, niöta nije.
+{142250}{142383}Hej! - Ne stvarno. Nije krvni | tlak. - äto onda jest?
+{142499}{142581}AlkoholiËarka je.
+{142676}{142782}SinoÊ je bilo stvarno gadno. | Jako.
+{142876}{143016}Otiöla je u nekakvu bolnicu. | - Isuse, Perry, ûao mi je.
+{143092}{143224}Ne, nema ti öto biti ûao. Bolje | je tako. VeÊ se to dogaalo.
+{143264}{143347}Ne brini. Bit Êe ona dobro.
+{143497}{143577}Ja odlazim, ËovjeËe. | - Molim?
+{143584}{143675}éele da se vratim u Trent, u | jebeni New Jersey.
+{143683}{143783}Jebeö maturu, ionako sam htio | otiÊi u Kaliforniju.
+{143792}{143936}Kaliforniju? Hej, to je to. Hej, | to je odliËna ideja! Idem i ja.
+{144037}{144147}Ne, ne. Putujem sam. Uostalom | nisam siguran da idem u
+{144154}{144290}Kaliforniju. Moûda odem u Kinu. | Samo sam...
+{144479}{144552}Perry? | - äto?
+{144628}{144713}Bojim se. | - äto tome fali?
+{144743}{144853}Kako to misliö? - Hej, Joey, | uËini mi uslugu. Ako Êemo
+{144862}{144972}putovati zajedno, moraö mi | obeÊati da neÊeö biti seronja.
+{144979}{145085}OtiÊi Êemo nakon momaËke veËeri | za Richieja, moûe? - Da.
+{145166}{145250}Gina? Gina? | - Tko je Gina?
+{145260}{145365}Moja mama. Tko je to? | - Moj tata, Emilio.
+{145394}{145482}Gina! Hej, Gina!
+{145788}{145902}äto nisi rekao majci da si na | kuglanju veËeras? Laûeö joj
+{145909}{145983}ili öto? - Ne prilazi mi.
+{145990}{146093}Daj, o Ëemu priËaö? Samo ûelim | znati zaöto nisi bio na veËeri.
+{146098}{146184}Ne prilazi mi. | - Ostavi malog na miru.
+{146191}{146294}Meni govoriö, mali? | Stari te nije nauËio kulturi?
+{146316}{146397}Ostavi malog na miru. | - Perry, ubit Êe te.
+{146407}{146514}To je nevolja s vama danaönjim | klincima. OËevi se boje urazumiti
+{146521}{146627}vas batinama. A tvoj otac je | sigurno bio neki gubitn...
+{146661}{146768}Nemaö smisla za humor! | Reci, Ëemu sve ovo, ha?
+{146775}{146852}äto mi moûeö? Ha? Pederu?
+{147167}{147265}Nisi to smio napraviti! Otac ti | je i nemoj to zaboraviti!
+{147271}{147392}Mislim da sam ubio gada. Idemo | odavde! Idemo odavde!
+{147453}{147524}Idemo do mog auta.
+{147841}{147961}Richie Gennaro, seksualni | prijestupnik! - äto radite ovdje?
+{147984}{148103}Otpustit Êe me! O Ëemu priËate? | - Reci mi, jesi li spavao s njom?
+{148139}{148228}äto se dogaa? Kamo idemo? | - U nevolji si.
+{148243}{148329}Hajde. - Dobro idem.
+{148416}{148485}PoËeöljaj se. | - Ja Êu!
+{149064}{149169}Svi smo dali neöto. Kupili smo | ti neöto. Izvoli!
+{149299}{149401}Ovo je neöto öto mu je moglo | koristiti na samom poËetku.
+{149432}{149526}Zasluûujeö to, faco! - To je | najmanje öto smo mogli uËiniti.
+{149564}{149649}Moûe to brûe? | Otvori veÊ jednom! - Otvaram!
+{149770}{149879}Moûe joö danas? Gladan sam. | - Pokuöavam. äto je to?
+{150160}{150231}Divno! | - Sranje!
+{150243}{150356}Jedan öugavi kondom! | Hvala vam puno! Jebene budale!
+{150364}{150431}To ti je doûivotna zaliha!
+{150594}{150709}Ne, pa tek sam sad doöao. | Ostanite! Malo hrane, vina.
+{150736}{150838}Zabavit Êemo se, dobro? | - Ne znam. Toliko Talijana.
+{150845}{150902}Daj, ËovjeËe, ne brini se!
+{150909}{151020}Dobro, ostat Êemo malo. | - Uzmite neöto za pojesti.
+{151461}{151517}To je od tipova ondje.
+{151978}{152035}Hej, zete!
+{152108}{152241}Razgovarao sam s braÊom. Pristali | su te primiti. Bit Êe ti dobro.
+{152454}{152512}Lijepa je.
+{152534}{152663}Narast Êeö. Kad oûeniö moju kÊi, | neÊeö viöe nikad prati sue.
+{153005}{153110}Kamo ideö? - Na svjeû zrak. | Odmah se vraÊam.
+{153700}{153758}Hej, Nina!
+{153789}{153863}Nina, hej! »ekaj malo.
+{153918}{154035}Oprosti, mislio sam da si netko | drugi. Oprosti. IspriËaj me.
+{156668}{156751}Hej, deËki kamo idete?
+{156841}{156977}Moramo krenuti. - Krenuti? - Da. | Doöli smo ti poûeljeti sreÊu.
+{156996}{157105}O Ëemu priËate? Joey, öto se | dogaa?
+{157275}{157353}Hej, Peewee, gubi se odatle!
+{157390}{157501}Daj, Joey, pusti me na miru. | - äto radiö, Joey?
+{157579}{157656}Gdje su ti kompiÊi ∆elavci?
+{157720}{157776}Pusti me na miru!
+{157795}{157879}Ozlijedio si me, öupËino velika!
+{157980}{158095}Ne plaËi. Oprosti mi.
+{158188}{158314}Svo sam ovo vrijeme bila s ∆elavcima, | a nijedan mi nije
+{158324}{158461}poslao ni razglednicu. - Ja Êu ti | poslati razglednicu, moûe?
+{158496}{158600}Hej Joey, hajde, idemo! | - Kamo idete?
+{158648}{158761}A kamo Êete vi? Ne moûeö iÊi, | ËovjeËe! - Moram iÊi.
+{158917}{159019}Ako nas ikad budeö trebao, | zazviûdi i doÊi Êemo!
+{159079}{159155}Ne moûeö mi to raditi, ËovjeËe!
+{159195}{159303}Doi. Samo zapamti jednu stvar, | Wanderersi zauvijek.
+{159567}{159633}Ne nasjedaj na drvenu picu!
+{159738}{159823}Vratite se, deËki! Dajte!
+{159959}{160059}Hajde, svi su unutra. Jebemu, | prestani plakati.
+{160081}{160140}Hvala lijepa!
+{160171}{160234}Hvala lijepa!
+{160331}{160417}Je li to on? - To je on! | Slavljenik!
+{160426}{160536}Dame i gospodo, ovaj mladiÊ | se ûeni i ne znam koji savjet
+{160544}{160624}da mu damo. - Ne Ëini to!
+{160635}{160713}Koja ti je najdraûa pjesma? | - Nemam je.
+{160722}{160834}Ali ja imam jednu za tebe. éelim | da mi se pridruûite u pjesmi.
+{163935}{164059}San Francisco, 4735 km. | Imamo li dovoljno benzina?
+{164070}{164169}Joey, uËini mi uslugu. Ako | mislimo putovati zajedno...
+{164176}{164260}Nemoj biti seronja! | Da, da. Znam.
+{164265}{164465}{C:$0000FF}{y:ib} d |{C:$FF0000}{y:b} d 
+{164490}{165990}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/4vrxz|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

@@ -1,0 +1,647 @@
+{6}{130}Film se zasniva na priËi|Bohumila Hrabala
+{150}{224}SVE»ANOST VISIBABA
+{320}{399}Scenario|Dramaturg
+{450}{499}UËestvuju
+{524}{674}-== [ www.OpenSubtitles.org ] ==-
+{1629}{1690}PomoÊnik reûisera|
+{1710}{1774}Kamerman, Asistent kamermana|Svetlo
+{1794}{1876}Asistent dizajnera, äminka|Glavni scenograf
+{1895}{2009}Kostimograf, Garderoba|Asistent öefa produkcije
+{2030}{2139}Uz saranju sa
+{2168}{2281}Muzika,|Izvoenje, Dirigent
+{2301}{2399}Snimatelj zvuka, |Dizajner
+{2480}{2529}äef produkcije
+{2564}{2613}Direktor footgrafije
+{2676}{2750}Reûija
+{3069}{3106}Stoj!
+{3371}{3458}Moramo da ga uhvatimo!|- Preseci mu put!
+{3619}{3672}Moj je!|- Uhvatili su me!
+{3689}{3727}Bori se kroz naöe!
+{3743}{3824}- SaËekaj! SreöÊemo se opet!
+{3839}{3924}Nikad ga viöe nisam videla.
+{3932}{4054}...tvoje usne su bile tako blizu.
+{4087}{4209}Da bliûe nisu mogle biti...
+{4547}{4671}...a odjednom ostadoh sam
+{4704}{4821}i niöta nije bilo kako sam ûeleo...
+{4885}{4950}Valjda ne misliö ozbiljno, Alfred?!
+{5107}{5179}Operacija je zavröena, kapetane.|- OdliËno!
+{5219}{5291}- Koliko je mrtvih?|- 138.
+{5325}{5384}- Bolje nego öto smo oËekivali.
+{5400}{5436}- Kafa?
+{5446}{5490}- Dve kaöike, molim.
+{5503}{5573}- Ovde su mnogi poginuli.
+{5578}{5702}...dugo smo se ljubili...
+{5730}{5783}- Gubici su bili teöki.
+{5785}{5889}138 Indijanaca i 47 konja.
+{5892}{6000}...ali ja sam ûeleo joö...
+{6002}{6101}Pivnica - KOLIBA
+{6121}{6192}Mesec je
+{6194}{6292}iza oblaka
+{6310}{6382}moja draga zamnom
+{6386}{6470}glasno plaËe.
+{6495}{6619}Ona zna da je lovokradica, njen voljeni
+{6645}{6748}dolazi ubrzo
+{6750}{6840}po svoj piötolj.|- Joö jednom!
+{6842}{6943}- Ona zna da je lovokradica, njen voljeni...
+{7130}{7203}...zapoËeli operaciju i|do danas je oËiöÊeno
+{7205}{7291}152 cisterni i 190 teretnih|kola. Ovo znaËi da...
+{7386}{7421}Ko je to?
+{7423}{7507}- Ciganin, crn i garav.|- Lopovi...!
+{7527}{7622}- Pa, momci...|- Gde se pivo toËi
+{7630}{7674}tu se ljudi lepo provode
+{7676}{7782}- Laku noÊ!|-  Gde se pivo toËi
+{7784}{7865}tu se ljudi lepo provode
+{7875}{7954}Idemo tamo da pijemo
+{7961}{8044}dajte da se pije, dajte da se pije...
+{8075}{8117}- Laku noÊ, momci.
+{8119}{8194}...i pijemo... dajte se pije...
+{8202}{8311}...a sada, dragi gledaoci, da vam saopötim|program za veËeras.
+{8322}{8397}Za nekoliko trenutaka poËinje sportski pregled...
+{9855}{9907}Pa, momci?
+{9971}{10035}VozaËi ne bi smeli da piju.
+{10052}{10112}Ako voze auto ili motor.
+{10210}{10264}Tako, prijatelji.
+{10292}{10349}Proöetajte.
+{10385}{10448}Sveû vazduh utiËe na pozitivne misli.
+{11040}{11087}Baö si nas izduvao.
+{11950}{12040}Kao Povratak slepih Bugara.
+{16858}{16914}Beûi!
+{16933}{16978}–ubre jedno!
+{16980}{17026}Nemoj!
+{17150}{17181}BAäTOVANSKI POKLON ZA KERSKO
+{17535}{17579}Ne! Neee!
+{18109}{18164}Kako bi ovde bilo divno,
+{18187}{18250}kad ne bi bilo ovih prokletih osa!
+{18615}{18685}Odustajem!|Opet se usrao!
+{18705}{18784}Traûi noöu, ubre jedno!
+{18786}{18832}Ili Êu te prebiti!
+{18835}{18898}Muka mi je od tebe.|- Gde je, proklet bio?
+{18900}{18960}Jarry, gde si?
+{18978}{19039}Opet öunjaö unaokolo, Pop?
+{19268}{19351}Sibirski iris?|- Oh ne!
+{19353}{19390}- Muökatla?|- Ne.
+{19419}{19488}- Liljani?|- Ne.
+{19532}{19599}- Cvet kukuruza?|- Ne.
+{19622}{19679}- äampinjon?|- Nije.
+{19713}{19773}- Obrok Êe danas kasniti.
+{19775}{19837}- Koji bi to cvet mogao da bude?
+{19851}{19914}Kaûeö najlepöi, i to ovde?
+{19933}{20006}Lozica?|Nije.
+{20008}{20065}Onda, öumska ruûa?|Nije?
+{20067}{20161}Znam!|éuti narcis!
+{20175}{20211}Nije ni to?|BAäTOVANSKI POKLON ZA KERSKO
+{20219}{20261}Koji je onda, doavola?
+{20263}{20352}- Jesi siguran da nije Sibirski iris?
+{20356}{20389}- Nije!
+{20391}{20462}- Koji je onda?|- Krompir!
+{20470}{20536}- Kad nema knedli|ogladnim do dva.
+{20538}{20592}- Krompiri su mi omiljeni.
+{20600}{20676}Krompiri za svinju a prasetina za mene.
+{21075}{21134}Izvedi stoku
+{21136}{21219}inaËe Êeö opet kasno da se vratiö!|»ujeö?!
+{21221}{21287}- Ovde bi bilo divno da...|- äta?
+{21289}{21379}- Jarry, gde si?|S kim sad brbljaö?
+{21388}{21507}Gde si?|- Ovde sam. Uûivam.
+{21515}{21578}- äta?|- Nema te pola sata!
+{21580}{21682}- Petnaest minuta!|- Pola sata!
+{21696}{21756}Bilo bi divno da...
+{21759}{21789}Nema te pola sata,|- Nema te pola sata...
+{21791}{21833}...pa bar, priznaj!|- Progovori!
+{21835}{21859}- Sat neÊe da laûe.|- Zato priznaj!
+{21861}{21891}- Kaûi neöto!
+{21893}{21980}...proklete ose i nemilosrdno|dranje!
+{22001}{22062}- Nema te pola sata!
+{22077}{22137}- Priznajem, kriv sam.
+{23961}{24076}Krompir je jedna orhideja.|»ak i kad daje cveta plod.
+{24216}{24271}Izdanci su puni mleka.
+{24285}{24389}Neûno sadim izdanke
+{24397}{24489}u zemlju kao zrno kafe.
+{24511}{24582}Kad se pojavi prvi izdanak -
+{24585}{24624}kakva je to radost...
+{24631}{24714}Kad krompir procveta,|on ima mali cvet
+{24719}{24786}kao ljubiËica - sa ûutim tuËkom.
+{24821}{24902}Ovim rukama kopam plod
+{24913}{24974}najlepöeg cveta na svetu.
+{25089}{25153}Kladim se da su neki huligani pobegli iz zatvora.
+{25157}{25205}OstaviÊu upaljena svetla.
+{26998}{27115}Bilo je kranje vreme da nas izvedeö!|Da se jednom setiö svoje porodice!
+{27214}{27316}Miriöu peËurke.
+{27920}{28008}Gde ode?!|- Jesi li poludeo, Pop?
+{28010}{28086}- Hej, Jarry!|- Jesi li poludeo?
+{28088}{28122}- Nek si proklet!|- VraÊaj se!
+{28124}{28170}- HoÊemo kuÊi!|- Zar ne idemo na put?
+{28172}{28238}- Opet Êeö da spadneö na prosjaËki ötap!
+{28616}{28705}Hej, starkeljo...!|Sad si prevröio svaku meru!
+{28710}{28811}- VraÊaj se, ludi starËe!|- Oh, sranje...
+{28818}{28881}Hej, starkeljo, izlazi odatle!|- VraÊaj se! Poludeo si!
+{28895}{28951}- On hoÊe da postane|prosjak.
+{28963}{29026}- Nemoj da me nerviraö!
+{29039}{29092}- Dosta mi je njega...
+{29129}{29243}Viöe nigde ne idem s tobom!
+{29591}{29715}Hej! Hej! Hej!...
+{29922}{30011}Kakav pogodak!
+{30040}{30076}- Bravo, öefe!
+{30450}{30519}Zar nije divna ûivotinja?
+{30534}{30606}- U korist LovaËkog druötva|konfiskujemo vam bicikl.
+{30615}{30658}Doi!|Ti vozi,
+{30662}{30706}a mi Êemo da trËimo za tobom.|- Ja ne znam..
+{30708}{30764}da vozim bicikl...|- Penji se i Êuti!
+{30791}{30857}- Jarry, hoÊemo kuÊi!
+{31510}{31559}Jel tvoj otac bio pekar?
+{31572}{31649}- Jeste. Pre nego öto bi zamesio braöno
+{31654}{31727}naloûio bi bukovo drvo,
+{31737}{31774}razbuktao je
+{31779}{31857}i tek onda smestio Boûiji dar.
+{31866}{31947}Ali pre nego öto je poËeo da mesi
+{31954}{31995}testo...
+{31997}{32037}...tes...
+{32039}{32077}Pridrûi mi bicikl!
+{32084}{32174}Tata bi prvo pogledao u nebo
+{32189}{32234}i u zavisnosti od vremena
+{32237}{32283}stavio viöe ili manje
+{32285}{32369}kvasca.
+{32376}{32443}Hlebni kvasac je beskrajan.
+{32447}{32519}Stavivöi kvasac,
+{32539}{32631}tata bi stavio braöno|u malo korito
+{32637}{32680}na pruge.
+{32690}{32759}Dodao bi malo tople vode
+{32761}{32808}i kvasac je rastao
+{32810}{32902}i narastao na hiljade deliÊa
+{32907}{33000}u zavisnosti od potrebe.
+{33002}{33068}»udo jedno.
+{33165}{33279}Ljubomorni ste jer sam uradio Ëitanku
+{33294}{33362}koju deca veÊ 10 godinakoriste u ökoli.
+{33394}{33477}Profesor Jirasek je dolazio ovde
+{33479}{33574}i rekao da je ova mineralna voda|bila najzdravija
+{33576}{33617}u centralnoj Evropi.
+{33627}{33739}- Ima dosta saobraÊaja,|saËekaÊu.
+{33742}{33799}HoÊu da vodim svoju devojku|na ruËak u Podebrady.
+{33801}{33859}- I vi vozite trabanta?|- Da,
+{33870}{33924}pouzdana su to kola.
+{33933}{33988}Jednom sam vozio peËenje prijateljima,
+{33992}{34052}kantica sa masti se prevrnula
+{34054}{34127}pokuöavöi da je okrenema|upao sam u jarak i kola se u se prevrnula
+{34129}{34191}i niöta se nije desilo
+{34213}{34296}osim öto mi je kosa bila puna trunja.
+{34311}{34357}"- Vi se razumete u kola;"
+{34375}{34413}- Kaûu da sam struËnjak.
+{34419}{34480}Na greökama se Ëovek uËi.
+{34499}{34592}Kad je karton sa jajima za mog prijatelja
+{34612}{34649}poËeo da klizi
+{34651}{34733}hteo sam da spasim 20 jaja
+{34741}{34824}i na kraju sam razbio svih dvesta.
+{34857}{34922}Onda smo ceo dan Ëistili kola
+{34930}{35004}svuda su bila ûumanca
+{35009}{35090}sunce je prûilo
+{35100}{35177}a kola su dva meseca smrdela
+{35184}{35242}kao lokalna mineralna voda.
+{35263}{35330}Zato samo svoje drugare mogu da vozim,
+{35332}{35421}jer bi neko nepoznat pomislio|da sam se usrao u gaÊe.
+{35529}{35622}Hej!|Drugari, Ëekajte me!
+{36317}{36354}éedan sam.
+{36430}{36466}Doavola!
+{37168}{37213}Ovo je pleÊka.
+{37226}{37321}Ovaj deo svinje je noga,
+{37325}{37394}i od toga se pravi öunka.
+{37424}{37543}Ovo su rebra,|a mesari ih zovu "rebarca"...
+{37642}{37669}OSNOVNA äKOLA|LOKALNA BIBLIOTEKA
+{37816}{37857}äta je bilo, deco?
+{37973}{38049}...najbolje meso je ono...|Penjite se na stolove!
+{38489}{38535}Pazi!|- Niöani u oko!
+{38537}{38570}- Znam.|- Dobro jutro.
+{39258}{39346}Deco, vratite se na svoja mesta.
+{39510}{39549}Mogu li?|- Naravno.
+{39598}{39649}äta je bilo, deco?|Tiöe!
+{39808}{39838}Sedite, deco.
+{40159}{40224}Gosp. Junek! Majstore!
+{40232}{40280}Moja deca su se potukla
+{40285}{40361}i slomila pozadinu anela.
+{40365}{40453}HoÊete li da je popravite?|- Ja sam akademski slikar, gospoo.
+{40455}{40522}Ne popravljam pozadine.|- NeÊe vas ubiti da opravite
+{40534}{40594}pozadinu anela!
+{40611}{40675}- Ja sam ilistrovao Ëitanku
+{40677}{40731}koju deca koriste veÊ 10 godina.
+{40734}{40811}Ne mogu da popravljam anele!
+{40838}{40899}Ja ûelim da postanem zasluûni umetnik!
+{40970}{41029}Gospodo, ûelim da kao lovci
+{41032}{41103}ispriËate deci neöto|o ovoj ûivotinji!
+{41152}{41242}- Draga deco, ovo je
+{41250}{41292}divlja svinja.
+{41305}{41346}Muûjak je krmak, a ûenka je svinja.
+{41353}{41409}Njuöka se kaûe brnjica.
+{41416}{41476}OËi se kaûu "svetla"
+{41482}{41543}koja su "ugaöena"|fatalnim pogodkom.
+{41564}{41617}Ima krzno.
+{41630}{41672}Njegova krv se naziva "farba".
+{41691}{41730}Mora da sam sklerotiËan.
+{41736}{41841}Zaboravio sam buter.|- Imate sreÊe öto nisam zatvorila.
+{41851}{41883}Sad kad nema nikoga...
+{41885}{41970}∆erka mi se udaje|da nemate neku popravljenu sliku?
+{41972}{42009}Mogla bih da joj dam.
+{42047}{42092}- Kakvu poravljenu sliku?
+{42098}{42154}- Neku koju ste popravili.
+{42160}{42249}- Gospoo, ja ne poravljam slike!
+{42259}{42305}Ja sam akademski slikar!
+{42319}{42378}Ja slikam ono öto mogu!
+{42392}{42429}PlatiÊu!
+{42458}{42519}- Spremila sam vam u kesu...
+{42530}{42566}Dobro,
+{42579}{42691}salama je 27.50
+{42718}{42757}flaöa ruma
+{42787}{42824}dva pakovanja butera...
+{42872}{42931}...pakovanje öibica,| sve zajedno je stotka !
+{42942}{42986}- Mogu da naslikam Ëak i ono öto ne mogu.
+{43006}{43054}Da popravljam slike?
+{43080}{43122}Nema öanse!
+{43887}{43925}Evo ih!
+{44003}{44039}»ekaj!
+{44301}{44379}Porodica divlje svinje je uzbudljiva.
+{44402}{44504}One se vole kao i ljudi.|- Kakva svinja, momci!
+{44506}{44607}- Ova glava Êe doneti prvu nagradu|naöim lovcima
+{44610}{44654}na izloûbi u Budimpeöti!
+{44662}{44699}- Lep dan, ha?
+{44701}{44769}- Ho-ruk!|- SaËekajte!
+{44795}{44868}Ko je ubio divlju svinju?|- Ja!
+{44872}{44968}- Onda su tvoja lovaËka prava,|nagrade i trofeji.
+{44981}{45038}Ostalo je naöe
+{45040}{45117}'jer je ubijen u naöem selu!
+{45176}{45243}- Ubijen je u ökoli koja pripada|za oba sela!
+{45246}{45326}- äkola je zajedniËka|ali lovaËko zemljiöte je naöe!
+{45328}{45367}- Janecek ga je ubio
+{45369}{45460}i spasao naöu decu i uËteljicu.
+{45462}{45559}- To je taËno,|ali zakon je na naöoj strani.
+{45575}{45635}Vepar je naö!|- Da!
+{45729}{45817}- Mi smo pobednici, mi smo jurili
+{45819}{45883}i rizikovali svoje ûivote u uËionici!
+{45901}{45991}- Mi smo se namuËili i izloûili opasnosti!
+{45996}{46042}Ne daö nam da proslavimo?
+{46045}{46120}- To je zdrav razum koji nema veze|sa zakonom!
+{46125}{46202}Vepar je naö!
+{46210}{46259}To morate da priznate!
+{46311}{46417}...tvoja divna brda|sa Ëudesnim poljima.
+{46435}{46559}Sjajni aneli,
+{46583}{46707}i Ëudo svega toga
+{46722}{46839}stvoreno u slavu Boga.
+{46850}{46937}On je tebe stvorio, Bohemia!
+{46939}{47010}- Mi smo ga ubili, jurili ga,|on je naö!
+{47012}{47063}- Vepar pripada onima u Ëijem|je mestu ubijen.
+{47067}{47124}Gde?|U ökoli.
+{47126}{47169}I Ëija je ona?|Naöa!
+{47378}{47414}Prestani!
+{47429}{47465}Ej, ti, prestani!
+{47605}{47652}Sram vas bilo...!
+{47723}{47781}Bijete se zbog divlje svinje...
+{47792}{47833}Kakav primer dajete deci!
+{47893}{48005}Kako sad da objasnim|öta znaËi mir?
+{48044}{48094}Pa, urazumite se...
+{48097}{48209}Zaöto ne odnesete vepra|na neutralnu zemlju, u Kolibu?
+{48231}{48352}Mogu da vam ga spreme|sa lepim sosom!
+{48389}{48446}Proslavite zajedno!
+{48490}{48532}Dogovorite se!
+{48601}{48654}Zar na svetu nije|dovoljno problema...?
+{48745}{48812}Dogovoreno?|Kad?
+{48825}{48907}Ne ove subote, nego sledeÊe|- Oruk!
+{48910}{48964}- ZnaËi dogovoreno je!
+{48966}{49021}- PodeliÊemo troökove!|- Vaûi.
+{49028}{49093}- Ovako bi sukobi trebalo da se reöavaju.
+{49100}{49136}Deco!
+{49148}{49272}- Divna moja Bohemia
+{49293}{49417}ti si hram moje duöe
+{49432}{49534}i visoke planine...|- Bilo bi dobro da pripazim na njih!
+{49546}{49583}»ekajte!
+{49587}{49682}- Da bih to zavröio do kraja
+{49686}{49761}napraviÊu specijalnu Ëorbu od ökembiÊa!
+{49910}{49962}äta da radim sa salamom -
+{49964}{50015}i sa dijetom od povrÊa?
+{50020}{50081}A nemam ni friûider!
+{50096}{50134}A rum?
+{50138}{50245}Sa mojim dijabetesom?!|I dva pakovanja butera?
+{50247}{50314}PokvariÊe se!
+{50319}{50369}- Dobro jutro, gosp. Junek!
+{50387}{50444}Lovci su mi polomili pedalu.
+{50449}{50544}Zar nije divan dan?|Kao kod starog Monea
+{50560}{50606}ili kad vi naslikate.
+{50615}{50666}- Mogu li da vam se pridruûim?
+{51541}{51578}Ovo je veÊ neöto!
+{51593}{51674}Ponosan sam öto sam Ëlan|lovaËkog udruûenja.
+{51682}{51751}BiÊe odliËno!
+{51765}{51802}OdliËno!
+{52504}{52590}The poor wild piggy Daddy...
+{52600}{52657}- Jadna mama divlja svinja, ...
+{52659}{52716}- Bang! U oko!
+{52726}{52771}...Ëeka tatu da doe kuÊi!
+{52808}{52822}Tssss.
+{52836}{52895}I divlji prasiÊi...
+{52900}{52974}I oni Ëekaju tatu.
+{52991}{53058}- Naö tata dve noÊi|nije dolazio kuÊi,
+{53062}{53120}treÊeg dana doöao je taksi.
+{53125}{53202}- Sigurno ti je bilo drago da vidiö svog tatu!
+{53204}{53263}- On je samo poslao taksi iz kafane
+{53267}{53351}da doe po njegovu trubu!
+{53406}{53442}Ajde!
+{53553}{53589}Pazi!
+{53596}{53682}- Joj!|- Koliki komad...
+{53685}{53721}- Nosite ga!
+{53727}{53763}- OdliËno!
+{54166}{54227}Kad sam bio mali bio sam genije.
+{54237}{54329}Kad je naö sveötenik pitao|koji je najveÊi katoliËki praznik
+{54333}{54384}ja sam rekao kad koljemo svinju.
+{54400}{54453}- Moram da kaûem svojoj staroj...
+{54617}{54704}Spasili smo decu u ökoli!
+{54708}{54814}- Smrdiö na rakiju!
+{54819}{54871}»ekaj samo da doemo kuÊi...!|- To je Pernod.
+{54895}{54944}Proslavljali smo pobedu.
+{54947}{54994}Bilo je divno!
+{54996}{55086}- Pope, ako dobijemo upalu pluÊa|dobeÊeö ti svoje!
+{55131}{55219}- Divlji vepar ubijen u uËionici -
+{55226}{55311}to je tema za naöe hroniËare!|- äta radi!
+{55318}{55388}Da se celo Kersko razboli...
+{55529}{55587}SledeÊe nedelje je istorijski sastanak
+{55591}{55674}oba lovaËka udruûenja|u Kolibi.
+{55708}{55769}Da li da kupim nov öeöir?
+{55834}{55896}Sad ponovo to lupetanje!
+{58438}{58464}BAäTENSKI POKLON ZA KERSKO
+{59176}{59216}Znam!
+{61672}{61767}Deru vepra!
+{61779}{61824}Zaöto ne doeö?
+{61854}{61939}- Pope!|Doi ovamo! Doi!
+{62664}{62779}Draga, nemamo viöe mineralne vode.
+{62798}{62882}Da odem do izvora?|- Nemoj da brineö, mi Êemo iÊi!
+{62965}{63065}- Idem da kupim cigarete.|- Imamo dovoljno za nedelju dana!
+{63132}{63214}- Nestalo nam je piva, duöo.
+{63233}{63297}Crno pivo je dobro za krv.
+{63299}{63351}- A öta Êemo sa ovcama?!
+{63353}{63399}- Tebi je sad do kafane.
+{63401}{63462}- Vodi ih na paöu!
+{63545}{63613}Ne vraÊaj se pre sat vremena!
+{63759}{63859}Ajde!
+{63894}{63975}BAäTOVANSKI POKLON ZA KERSKO
+{65188}{65260}...u potrazi za mudrim Ëovekom.
+{65308}{65399}Ljudi u tom Kraljevstvu nisu|bili ni glupi
+{65418}{65522}ni pametni.|Ni kukavice ni hrabri.
+{65541}{65634}Ni kukavice, ni hrabri.
+{65668}{65729}Ali niko nije bio
+{65752}{65819}zaista mudar.
+{66072}{66109}äta je, komöija?
+{66119}{66196}Deru vepra!|Doi i pomozi mi!
+{66210}{66250}Veliki dogovor za posao.
+{66276}{66339}RazmeniÊu ovo za koûu,
+{66351}{66409}koûu za elektriËni motor
+{66423}{66486}a to onda za polovni bicikl.
+{66489}{66589}A bicikl za Ëamac!
+{66592}{66639}- Sram te bilo!|- Dobar dan!
+{66641}{66736}- Imam pritisak u grudima.|U depresiji sam!
+{66776}{66828}- Samo nemoj da se napijeö!
+{66872}{66971}Ovim otvaram sastanak povodom proslave|uspeönog lova na vepra.
+{67088}{67134}Hej!
+{67269}{67339}Najbolji deo divljeg vepra
+{67344}{67454}je straûnjica i nogica u sosu od bedra.
+{67464}{67506}I valjuöci...
+{67508}{67573}- Valjuöci...|- Kuvane u maramici.
+{67583}{67644}- Sa kiselim kupusom je bolje.
+{67646}{67721}- NapraviÊemo sa sosom!
+{67723}{67774}- Sa kiselim kupusom!|- Sa sosom!
+{67778}{67826}- Sa kiselim kupusom!|- Sa sosom!
+{67830}{67866}- Sa kiselim kupusom!|- Sa sosom!
+{67882}{67937}- Gospodo...
+{67959}{68044}moraju li vaöa sela da se svaaju|kad god se sretnu?
+{68063}{68131}éene u poljima motikama
+{68133}{68180}idu jedna na drugu.
+{68202}{68249}Vi ste ko deca!
+{68271}{68366}Onda Êemo po pola. - Pola sa kiselim|kupusom, pola sa sosom.
+{68836}{68959}∆uri-buri-pup.|∆uri-buri-pup.
+{69009}{69111}∆uri-buri-pup.|To je pesma moja.
+{69157}{69217}- A ja Êu za ponoÊ napraviti|malo Ëorbe!
+{69245}{69297}Jel znaö koje je moje drvo?
+{69320}{69380}- Bor.|- Ne.
+{69397}{69440}- Vrba.|- Ne.
+{69459}{69510}- éalosna vrba.|- Nije.
+{69544}{69581}- Jasika.
+{69593}{69683}Prvi znak proleÊa.
+{69770}{69880}Moja nova devojka, pravi je aneo.
+{69932}{69974}YUveri se sam.
+{70163}{70203}Sad pogledaj!
+{70246}{70344}Volim da kupujem lepe a jeftine stvari.
+{70356}{70405}Ponekad polovne,
+{70407}{70484}ali ne mogu da odolim dobroj kupovini...
+{70665}{70738}Dobar je, ha?|DaÊu ti jedan.
+{70760}{70824}Nisu u modi|ali biÊe!
+{70849}{70915}Nema dugmiÊe ni rupice za dugmiÊe
+{70917}{70974}zato öto je krojaË bio pijan...
+{70979}{71069}Ali po toj ceni|nisam mogao da odolim...
+{71082}{71159}Jedan kaput je bio|öest kruna.
+{71163}{71278}Ovo je bila najbolja kupovina.|Jedna Ëizma pet kruna!
+{71298}{71389}Nagovorio sam ih da prodaju.|Ubeivao sam ih
+{71391}{71467}i posle toga su|popustili.
+{71476}{71524}- Zar nisu sve za levu nogu?
+{71537}{71589}- Naravno da jesu!
+{71592}{71652}InaËe ne bi bile tako jeftine!
+{71674}{71716}Uzmi par.
+{71721}{71791}Nisu za trËanje,|ali su dobre kad se radi.
+{71794}{71831}Tople su.
+{71876}{71917}Evo, kofe.
+{71933}{72052}Malo cure|ali ovi flasteri dobro drûe.
+{72064}{72124}Evo, jedna kofa za tebe,
+{72126}{72162}i flaster.
+{72190}{72249}Koötale su me 90 para...!
+{72272}{72321}To je... baö jeftino.
+{72335}{72454}Nemaju tacne, ali za pedeset kruna|nisam mogao da im odolim.
+{72468}{72526}Tanjire sam kupio posebno, jeftino.
+{72580}{72618}Da pustimo malo muzike.
+{72645}{72726}Kupio sam 50 ploËa, svaka po jednu krunu.
+{72755}{72809}Njih 25 sviraju od polovine
+{72825}{72916}do kraja.
+{73195}{73237}Zar nije divna pesma?
+{75326}{75397}Do kraja ûivota sam vezan za ''Pustinjak''-a
+{75399}{75442}od Bedricha Nikodema.
+{75534}{75626}To je moja ûivotna priËa.|Moja pesma, moja ûivotna priËa.
+{75652}{75695}- Tebi Êe biti teöko da umreö.
+{75697}{75762}- äta Êe mi svirati
+{75781}{75817}na sahrani?
+{75827}{75863}- Pustinjak.
+{75906}{75961}od Nikodema.
+{76035}{76094}Dosta! U krevet! Idi kuÊi!
+{76130}{76171}Ne mogu to da podnesem!
+{76187}{76234}Opet ste pijani?
+{76238}{76289}Idite i leËite se!
+{76405}{76459}Moja nova devojka.
+{76470}{76516}Zamenio sam sliku za nju.
+{76543}{76591}Zimski pejsaû.
+{78248}{78324}BAäTOVANSKI POKLON ZA KERSKO
+{80210}{80325}Pravimo 30 salama|od divlje svinje.
+{80327}{80395}- Kupili smo 4 kila teletine.
+{80397}{80479}- HoÊeö da nadgledaö?
+{80490}{80539}Da vidiö kako se dimo?
+{80545}{80601}Ti znaö kako se to meöa.
+{80603}{80641}- Oh, doi.
+{80646}{80683}- Molim te...
+{80790}{80827}Ne znam, prijatelji.
+{80829}{80907}Upozoravam vas, sve Êu pojesti.
+{80911}{81007}Kupujem na sat vremena od moje kuÊe.|Torba mi je puna.
+{81012}{81108}100 gr. ove salame, 100 gr. one,
+{81209}{81242}to volim.
+{81244}{81346}Samo kad vidim neöto u izlogu|odmah mi
+{81348}{81425}zadrhte kolena. Brzo|pokupujem
+{81427}{81470}i ûurim kuÊi.
+{81476}{81531}Tamo sve poûderemo.
+{81533}{81630}Gledamo televiziju|i jedemo
+{81634}{81679}dok se sve sa stola ne isprazni.
+{81683}{81761}"Nema viöe,", kaûem.|Idemo u krevet.
+{81770}{81877}U ponoÊ se probudim od gladi|i borim se sa samim sobom.
+{81882}{81994}Onda kaûem: "Oh sranje!".|IseËem pola salame
+{81998}{82047}i jedem je u krevetu.
+{82054}{82135}Moja ûena mumla:|"Nemoj da izmastiö Ëaröave!"
+{82137}{82184}I onda spavamo.
+{82186}{82251}Posle sat vremena opet se probudim
+{82253}{82331}i moram da ustanem|da uzmem joö salame.
+{82338}{82414}I tako sve do jutra.|A za doruËak imam peËenje.
+{82416}{82473}Prijatelji - bolje ne...
+{82485}{82558}...kosa joj je bila sva kovrdûava|i ona nije mislila ni na öta drugo.
+{82574}{82662}I ona nije mislila ni na öta drugo|je, je, je.
+{82673}{82765}Moram da dodam|je, je, je,
+{82775}{82836}da je volela svoje lokne...
+{82953}{83076}Zar ovo mesto ne bi bilo divno|da ja nisam ovde...
+{83081}{83126}- Gde si, Pope?!
+{83131}{83199}Opet si otiöao!|- VraÊaj se!
+{83206}{83295}- RazboleÊeö se!
+{83297}{83335}- Gde su koze, Pope?
+{83356}{83418}- Beûi od mene... samo beûi!
+{83422}{83477}- »ekaj!|DobiÊeö ti svoje!
+{83485}{83567}- Gde je?|- –ubre je pobeglo!
+{84064}{84135}- Mnogo sam ûedan!|Morao sam da utovarujem ugalj.
+{84137}{84194}ZATVORENO|- Opet je zatvorio.
+{84592}{84639}Pusti nas!
+{84660}{84699}- Smirite se malo.
+{85633}{85702}Zar nije kao Charles, on dimi|salame za mlade.
+{85817}{85898}Nije gotovo? Ja sam gladan!|- Ne mogu da izdrûim!
+{85900}{85950}- ReÊi Êu vam kad bude gotovo!
+{85963}{86015}- Uz salamu nam treba i pivo!
+{86027}{86063}- Sklanjaj se!
+{86075}{86160}Pazi öta radiö, devojko!
+{86213}{86331}Daj nam piva!
+{86365}{86402}éedni smo.
+{86439}{86484}- Nosite se.
+{86511}{86547}- I ti isto.
+{86653}{86699}Ne uvodi nas u iskuöenje, oh Gospode.
+{86828}{86865}Pusti nas!
+{86883}{86944}BiÊemo tihi ko miöevi.
+{87013}{87058}- Pivo je u kolima,|uzmite sami!
+{87078}{87157}Pivo!|- Pivo je ovde!
+{87159}{87234}- Oh dobro.|- KonaËno!
+{87238}{87306}- Tako sam ûedan!|- Doite i pomozite!
+{87394}{87438}äeprtljo!
+{87609}{87645}Spusti ga dole...!
+{87700}{87736}SaËekaj!
+{87816}{87846}Ti to ne moûeö da uradiö, zar ne?|- Oh da, mogu.
+{87848}{87934}- U Ëemu je problem, gospodo?|- Ne moûemo da ga otvorimo.
+{87941}{87990}- Bure nam je ispalo.
+{88007}{88056}- SreÊa vaöa da sam prolazio ovuda.
+{88197}{88222}Dozvolite.
+{88243}{88292}- On je struËnjak!
+{88402}{88442}Poûuri!|- éedan sam!
+{89073}{89120}TehniËki problem.
+{89140}{89216}Na greökama se Ëovek uËi!
+{89234}{89270}- Dajte Ëaöe!
+{89297}{89371}- Dobro je...|- Moûemo da podelimo.
+{89387}{89457}- Momci Êe da popiju naöe.|- Mi smo bili prvi!
+{89470}{89504}Devojke ne podnose pivo!|- Naravno...
+{89552}{89591}- Jel to sve?
+{89865}{89911}Bar Êemo dobiti salamu!|- Da.
+{89919}{89958}- Ura!|- Idemo po nju
+{90005}{90031}- Ja sam gladna!
+{90158}{90265}Bez zamerki, gospodo!
+{90267}{90323}Ja sam vas upozorio!|Rekao sam vam
+{90325}{90371}Sve sam pojeo.
+{90373}{90430}Gospodo, dovienja.
+{90563}{90614}Smazao je Ëetiri salame.
+{90634}{90670}UbiÊu ga!
+{90693}{90782}»etiri salame!
+{90804}{90833}MoraÊu da ga ubijem.
+{90861}{90910}Ne, ja Êu... ja Êu ga zadaviti!
+{90939}{90977}Pojeo je Ëetiri salame!
+{91984}{92031}éiveo lov!|- éiveo lov!
+{92047}{92079}- Zdravo, ljudi.|- Zdravo.
+{92081}{92141}- Zdravo.|- Zdravo...
+{92151}{92187}Tako.
+{92307}{92343}Pa, ûiveli.
+{92823}{92893}Uhh!
+{93229}{93274}Pribliûite se, gospodo!
+{96593}{96644}»orba, gospodo.
+{96871}{96951}Ja Êu da snimam naöu proslavu.
+{96977}{97081}- »orba je ista za sve.|I svinjetina takoe.
+{97701}{97758}Ponaöajte se kao da nisam tu.
+{97775}{97853}Ko ûeli sa sosom
+{97855}{97934}a ko sa kiselim kupusom?|- Sa sosom!
+{97936}{98018}- Sa kiselim kupusom!|- Duplu porciju valjuöaka.
+{98054}{98133}Ja ne mogu da jedem kiseli kupus.|- UÊuti!
+{98146}{98231}Menjao sam ovu kameru|za dva dûaka braöna.
+{99791}{99841}Sklanjaj to!|- Doi i pridruûi nam se!
+{99843}{99905}Nemamo Ëega da se stidimo.|Savest nam je Ëista!
+{99915}{99953}- Nismo niöta ukrali.
+{101144}{101181}Sviraj!
+{102187}{102214}Dobro veËe.
+{102245}{102296}- Dobro veËe.|- Dobro veËe...
+{102568}{102619}Dobro veËe.|- Dobro veËe.
+{102729}{102784}Nego...
+{102861}{102984}...kupio sam vam nove ventile
+{103020}{103091}za vaöe bicikle.
+{103159}{103231}Nadam se da Êete veËeras iÊi peöice.
+{103276}{103314}Hvala.
+{103388}{103463}Da ne bude k'o proöli put.
+{103817}{103873}Ah! Kiseli kupus!
+{103877}{103965}- Sos je najbolji!
+{103969}{104053}- Kiseli kupus!|- Sos!
+{104055}{104111}- Kiseli kupus!|- Sos!
+{104119}{104204}Da nikog ne uvredim, ja Êu uzeti oba!
+{108353}{108432}Idem da se umijem i da spavam.
+{108458}{108514}I neÊu zaboraviti da operem zube.
+{108873}{108928}SviraÊu s vama ako mogu.
+{109214}{109281}Dobro, ja sam kriv.
+{109374}{109419}Idem da se umijem.
+{109479}{109586}NapraviÊu film gospodo, tako da Êe ostati spomen|nekad vas ne bude bilo.
+{109685}{109724}Prestanite!
+{109750}{109799}Snimaju nas!|Snimaju nas!
+{110078}{110114}Pa...
+{110217}{110274}...ajde joö da se zabavljamo.
+{110332}{110451}- Gospodo, sad idem kuÊi
+{110454}{110510}i doneÊu svoju Ëorbu|za ponoÊ.
+{110531}{110576}PonoÊna Ëorba
+{110579}{110677}mora da se meöa dok se ne ohladi
+{110690}{110811}inaËe Êe da se stegne i onda|moûemo da je damo svinjama,
+{110856}{110892}vidiö?
+{112707}{112743}Ja sam!
+{112860}{112937}Ja sam!
+{112943}{113028}Desila se nesreÊa.|Mrtav Ëovek leûi u jarku.
+{113066}{113129}Gosp. Leli...|Gde ste krenuli?
+{113138}{113186}Mogu li da pomognem?
+{113208}{113279}Nosio sam Ëorbu za svoje drugare.
+{113305}{113383}Onda je naiöao autobus,|ja nisam ûeleo da mi se prospe
+{113410}{113453}pa sam drûao kanticu...
+{113470}{113542}Gde vas boli?|Moûete li da diöete?
+{113591}{113688}...sve viöe zelena i zelena.
+{113693}{113785}I zaöto igraËi uûivaju u ûivotu?
+{113789}{113879}U ûivotu, uûivaju u ûivotu.
+{113891}{113980}Moj otac je bio igraË, a i ja sam.
+{113986}{114078}A i ja sam, a i ja sam.
+{114082}{114168}On je ubijao jelene, ali ja ipak volim devojke.
+{114170}{114264}Volim devojke, volim devojke.
+{114273}{114361}Zaöto su öume tako zelene?
+{114371}{114408}Ja idem napred.
+{114748}{114844}Moj otac je bio lovokradica, a i ja sam.
+{114855}{114949}A i ja sam, a i ja sam...
+{114957}{115049}On je ubijao jelene, a ja ipak volim devojke.
+{115053}{115144}Volim devojke, volim devojke...
+{116391}{116456}Drhtite.|ZvaÊemo hitnu pomoÊ.
+{116458}{116539}- Ne, ne! Moram da idem u Kolibu.
+{116565}{116677}Nosim Ëorbu za svoje drugove.|»ekaju me.
+{119006}{119074}»ovek se uËi na greökama.
+{119113}{119150}Pazi
+{119195}{119250}da ne prospeö kanticu!
+{121322}{121400}Vidiö, matora budalo!|äta ti je ovo trebalo?!
+{121451}{121519}Jednog dana neÊemo doÊi po tebe!
+{121524}{121620}- Ej! Joj!
+{121622}{121724}- Tako...|- Zaöto sam popio to ulje za kola.
+{121740}{121864}Uh, joj...|- odgovara ti!
+{124209}{124271}Uradio
+{124275}{124349}3. Dramaturöka i produkcijska grupa|pod vostvom
+{124374}{125874}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/agupu|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

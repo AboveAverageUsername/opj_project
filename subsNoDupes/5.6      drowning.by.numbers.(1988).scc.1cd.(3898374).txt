@@ -1,0 +1,1238 @@
+{1}{1}23.976
+{0}{300}{Y:i}prevod i obrada|Gaca62
+{407}{552}1. Antares, 2. Capella, 3.Canopus,|4. Arcturus, 5. Agreetor...
+{556}{639}6. Anector, 7. Duendin, 8. Algerib,|9. Agena, 10. Lalande,
+{640}{770}11. Vega, 12. Golubin, 13. Spica,|14. Capra, 15. Acrab ...
+{775}{882}16. Deneb, 17. Sappho, 18 Castor,|19. Pollux, 20. Storch,
+{886}{1039}21. Teno, 22. Riga, 23. Course,|24. Hoytan, 25. Lupus...
+{1044}{1166}26. Mackay, 27. Regulus 28. Eridani,|29. Tenna, 30. Rigel,
+{1172}{1310}31. Mirach, 32. Almachar, 33. Altair,|34. Noller, 35. Schredder, 36 ...
+{1422}{1554}41. Ceti, 42. Kruger, 43. Spira,|44. Procyon, 45  ...
+{1677}{1808}51. Mesra, 52. Lapita, 53. Kracklite,|54. Salcido, 55 ...
+{1934}{2094}61. Scheet, 62. Nath, 63. Strat,|64. Diss, 65. Bosch ...
+{2204}{2344}71. Alcano, 72. Spiller, 73. Polka,|74. Hoyten, 75. Luper ...
+{2472}{2609}81. Muriel, 82. Storbart, 83. Gobin,|84. Adnan, 85. Boston ...
+{2721}{2977}... 96. Jonah, 97. Ritback, 98. Rostra,|99. Procyon, 100. Electra.
+{3002}{3152}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{3271}{3310}äta ti radiö budna ovako kasno?
+{3313}{3361}Brojim zvezde.
+{3370}{3424}Stvarno ih znaö poimence?|-Da, znam.
+{3478}{3504}Koliko si ih prebrojala?
+{3508}{3540}Stotinu.
+{3559}{3598}Gore ih ima viöe od sto.
+{3605}{3632}Znam...
+{3650}{3678}Zaöto si prestala?
+{3680}{3718}Sto je dosta.
+{3723}{3824}Kad izbrojite prvu stotinu,|sve sledeÊe su iste.
+{6154}{6195}DevojËice, skini se.
+{6197}{6316}Zovem se Nellie i u ovoj kadi nema|mesta za nas dvoje.
+{6317}{6374}A ko kaûe da oboje ulazimo?
+{6376}{6454}Iznenaena sam da nemaö|normalno kupatilo?
+{6456}{6523}Oboûavam metalne kade.
+{6540}{6585}Sklanjaj tu lampu.
+{6610}{6647}»ega se plaöiö?
+{6654}{6757}Stidiö se öto bih mogao da te vidim u|gaÊama, a? Ili ih ni ne nosiö?
+{7958}{8042}Hladan si! Nemoj!|HoÊu da se okupam.
+{8044}{8161}Idi napolje pa se kupaj ispod|jabukovog drveta
+{8232}{8303}MeseËina je dobra za koûu.
+{11242}{11266}Cissie!
+{11383}{11434}Mi... mi... uzeli smo tvoj sapun.
+{11494}{11593}Danas joj je roendan, pa smo izaöli|malo da proslavimo.
+{11595}{11680}Zaöto joj ne poûeliö|sreÊan roendan, Cissie.
+{11684}{11727}Gola je...
+{11729}{11805}kao novoroenËe.
+{11809}{11855}Ne smeta ti to, je l' da, Cissie?
+{11866}{11924}Ne bi trebali da budeö ovde.
+{11927}{12034}Trebalo bi da igraö karte.
+{12071}{12161}Tavlu, monopol ili vist...
+{12166}{12249}Ili 'dve u redu', 'troje u krevetu',|'Ëetiri u ruci'
+{12251}{12303}ili poker sa pet karata...
+{12307}{12386}zajedno sa onom prijateljicom...
+{12417}{12448}Madgett ...
+{12480}{12581}Donesi joj peökir, Cissie,|previöe je popila.
+{12623}{12718}Ako neÊeö da igraö karte, Cissie,
+{12753}{12866}moûeö da se skineö gola i da|uskoËiö u kadu.
+{12962}{13033}VeÊ sam se lepo istrljao.
+{13038}{13102}Ona me je istrljala. Nancy...
+{13142}{13169}A...
+{13233}{13297}Ali, Cissie, veÊ sam se oprao.
+{13298}{13336}Nancy me je istrljala.
+{13490}{13575}Nancy me je istrljala.|Prestani viöe.
+{13598}{13630}Tri...
+{16950}{16976}Smut!
+{17125}{17188}Digni guzicu i javi se|na telefon!
+{17257}{17327}{Y:i}U igri 'Zamak od karata'...
+{17330}{17367}{Y:i}uzmete 52 karte...
+{17372}{17453}{Y:i}i napravite zamak na nekom|mestu na kom nema promaje.
+{17488}{17566}{Y:i}IgraË moûe da odredi öta Êe|sanjati sledeÊe noÊi,
+{17570}{17641}{Y:i}ako se probudi pre nego|öto se zamak sruöi.
+{17653}{17710}{Y:i}Onaj igraË koji ûeli da|sanja o ljubavi...
+{17712}{17784}{Y:i}mora da sagradi zamak od|sedmica herc.
+{18907}{18965}Baö se nagojio u poslednje vreme.
+{19007}{19056}ProbudiÊeö ga pa Êe|traûiti da jede.
+{19062}{19133}Ne jede samo dok spava.
+{19176}{19211}NeÊe mi biti hladno u ovome?|-NeÊe.
+{19236}{19279}Zvala sam Madgetta,|ali mi nije odgovorio.
+{19281}{19324}äta Êe ti on?
+{19334}{19379}Upravo sam udavila Jakea.
+{19401}{19465}Je l' svi debeli muökarci imaju|mali penis?
+{19485}{19567}Ne znam, mama. Ne znam.|Odakle ti to?
+{19571}{19615}Kad si upoznala Hardyja,|je l' imao brkove?
+{19617}{19652}Kako to misliö, upravo|si udavila Jakea?
+{19661}{19694}Bradu ne podnosim.
+{19697}{19785}Ni ja. Pokuöala sam da ga|ubedim da se obrije.
+{19788}{19836}Kako to misliö, udavila si Jakea?
+{19841}{19908}Da, i potrebna mi je tvoja|pomoÊ da je se reöim.
+{19917}{19995}äta? Koga?|-Nancy.
+{20007}{20030}Koje Nancy?
+{20036}{20075}Nancy Gill, one je sama|sebe prozvala Nel i...
+{20077}{20132}Kakve ona ima veze sa ovim?|Da nisi i nju udavila?
+{20137}{20205}Ovaj baö ne miriöe najbolje, je l' da?
+{20216}{20308}Izgleda kao da je trudan.|Sviaju mi se njegovi nabori.
+{20358}{20408}Najbolje bi bilo da opet|pozovemo Madgetta.
+{20429}{20477}Moûda moûe da nam pomogne.
+{20481}{20516}Nama, mama?
+{20725}{20833}{Y:i}Igra 'Let iz maöte' je igra suprotna|igri 'SkoËi, buvo, skoËi',
+{20846}{20871}{Y:i}se igra tako...
+{20875}{20956}{Y:i}öto takmiËar treba da skoËi|sa najviöe taËke sa koje sme.
+{20979}{21023}{Y:i}Posle svakog uspeönog skoka...
+{21025}{21065}{Y:i}igraË ima pravo da obuËe...
+{21071}{21117}{Y:i}jedan deo odeÊe.
+{21504}{21525}Doavola!
+{21598}{21652}äta Êemo da kaûemo ako|naletimo na nekoga?
+{21657}{21699}Zavisi od toga na koga naletimo.
+{21708}{21824}'Dobro jutro, samo vodimo Nancy kuÊi,|bila je malo na kupanju.'
+{21876}{21916}Moûda malo omröamo.
+{21920}{21977}Izgleda da smo svi deblji|i deblji.
+{21982}{22056}Jake je uporno mislio da svakog|dana sve samo napreduje.
+{22089}{22166}Ja sam imala samo 25 godina|kad je tvoj otac umro.
+{22178}{22218}A bio je u punoj snazi.
+{22264}{22303}Pogledaj joj samo prste.
+{22334}{22420}Ima prste krojaËice, lepo oblikovane.
+{22424}{22459}Da li su Jakea interesovali prsti?
+{22463}{22520}Ne, neöto posebno,|koliko se ja seÊam.
+{22804}{22835}Mama, neÊeö sad da kineö?
+{22837}{22880}Ne, nego oseÊam neki miris.
+{22949}{22980}To je Smut.
+{22982}{23088}Madgett bi morao da prestane da|koristi tu farbu. Pravi straöan krö!
+{23089}{23116}Kakav je to smrad?
+{23123}{23222}To je puder. Sigurno je Smut|neöto slavio.
+{23283}{23321}Joö je mokro!
+{24378}{24431}{Y:i}Ovce su izuzetno osetljive...
+{24441}{24504}{Y:i}u trenutku kad se smenjuju|plima i oseka.
+{24509}{24587}{Y:i}U ovoj igri, devet vezanih|ovËica reaguje...
+{24589}{24618}{Y:i}Odveûu se iz ötale,
+{24623}{24689}{Y:i}tresu stolice i|zveckaju öoljicama za Ëaj.
+{24775}{24847}Madgett, koji Êe ti moj|ovolike ovce?
+{24849}{24893}Zar ne voliö ovce?
+{24909}{24962}Pobij ih ako ih ne voliö.
+{25020}{25080}{Y:i}Opklade se stavljaju na|kombinovanu osetljivost...
+{25081}{25141}{Y:i}bilo koje tri povezane ovce,
+{25142}{25245}{Y:i}uzete vertikalno, horizontalno|ili dijagonalno.
+{25256}{25355}{Y:i}S obzirom da se u normalnim uslovima plima i|oseka smenjuju tri puta dnevno...
+{25357}{25455}{Y:i}po pravilu se u praksi uzima|najbolji od tri rezultata.
+{25469}{25553}{Y:i}Precizni satovi, kalendari i|orarijumi...
+{25555}{25652}{Y:i}koriste se da bi se odredila taËnost|ovËije vremenske prognoze.
+{25729}{25759}Cissie, jesi li se setila?
+{25761}{25856}Da... samo je malko oöteÊena,
+{25862}{25901}zato budi oprezan.
+{25945}{25992}Zaöto se nisi javljao na|telefon, Smute?
+{25993}{26079}Nikad se ne javljam na telefon dok|pevac ne zakukuriËe tri puta.
+{26246}{26309}Baö je lepo videti vas obe,|ovako rano.
+{26329}{26383}Kako je... Hardy?
+{26419}{26450}Dobro je.
+{26473}{26508}äta oni tamo rade?
+{26536}{26593}Igraju 'Ovce i plima'.
+{26595}{26659}Mislim da precenjujemo ovce.|Slaûete se?
+{26661}{26717}Smut i ja ispitujemo|njihovu inteligenciju.
+{26718}{26778}To je igra iz Starog Zaveta.
+{26780}{26816}Ne, nije.
+{26817}{26853}Nije?
+{26882}{26970}Gricni malo srce.|Kako je... Jake?
+{26972}{27032}Ne, hvala, a Jake je dobro.
+{27034}{27095}Mama, to nije istina.
+{27100}{27138}Smute, öta to radiö?
+{27140}{27188}Brojim kuËeÊe dlake.
+{27190}{27252}Pobogu, a zaöto?|-Da znam koliko ih ima!
+{27254}{27319}Madgett, mislim da bi bilo dobro da|doeö da pogledaö Jakea.
+{27427}{27504}Smut, odnesi Gregoryju i|Teiganu öolju Ëaja.
+{27519}{27555}äta Êeö sa ovcama?
+{27584}{27638}Da bi bile od koristi dobro|je da budu ûedne.
+{27676}{27745}Zaöto bi trebalo da poem|da vidim Jakea?
+{27753}{27785}Da nije mrtav?
+{27809}{27848}Gospode, kako si znao?
+{27877}{27909}Nisam.
+{27940}{27972}Loöe se oseÊam.
+{27979}{28027}To je od tih peËuraka!
+{28059}{28092}Moram malo da prilegnem.
+{28093}{28178}Zaboga, Madgett, kako si mogao|sad da se razboliö?
+{28201}{28288}Idem ja da pozovem Cissie. ReÊi Êu joj|da neko treba da obie Nancy.
+{28293}{28370}Madgett, moram da porazgovaram|o Jakeu sa tobom.
+{28379}{28477}Ne, Cissie, ne mogu sad da priËam.|Bolestan sam.
+{28500}{28567}Reci Smutu kad se vrati da mi|donese malo toplog mleka...
+{28569}{28616}limunadu...
+{28637}{28670}i slamËicu.
+{28798}{28849}{Y:i}U igri 'Ovce i plima',
+{28853}{28945}{Y:i}treba prvo odrediti sudiju|kako bi igra bila poötena...
+{28946}{29056}{Y:i}i kako bi se, taËno procenile reakcije|na ostale spoljaönje uslove.
+{29069}{29137}{Y:i}S obzirom da posebne odnose|koje gaje prema ovcama...
+{29144}{29196}{Y:i}pastiri se izuzimaju.
+{29255}{29284}Plima se menja.
+{29285}{29333}Ne, ne joö.
+{29366}{29440}Tri, dva, jedan... sad!
+{29442}{29462}Ne, budalo!
+{29463}{29493}Promaöio si!
+{29497}{29532}Ja igram po pravilima.
+{29533}{29613}Moraö da posmatraö... jako paûljivo.
+{29729}{29757}äta se desilo?
+{29793}{29850}Udavila sam ga u kadi.
+{29869}{29932}Doi da pogledaö, izgleda|sasvim prirodno.
+{29965}{30066}Madgett, moraö da nam pomogneö|pa te molim da se malo sabereö.
+{30078}{30107}Moram?
+{30135}{30181}A öta ja tu dobijam?
+{30185}{30221}Madgett, ti si mrtvozornik!
+{30225}{30321}Za Boga miloga, prestani da me|podseÊaö. A to mi baö prija...
+{30336}{30370}Probaj malo niûe.
+{30374}{30464}Da ja malo proöetam... dok se vas|dvoje dogovorite?
+{30467}{30499}Ne budi glupa!
+{30504}{30556}Nisam nigde naöao limunadu...
+{30563}{30622}pa sam ti doneo puding od Ëokolade.
+{30778}{30851}Cissie, uopöte ne ûurim|da ti pomognem u tvojim zloËinima.
+{30856}{30922}Madgette, u mojoj kuÊi se|nalazi jedan leö.
+{30924}{30961}To je samo tvoj muû.
+{30963}{31002}PoËeo je da mi skuplja muve.
+{31006}{31069}Rasteraj ih... novinama.
+{31073}{31148}Madgett, meni treba legalna pomoÊ|a ne muvolovac.
+{31552}{31645}{Y:i}Straöno mnogo ûivih stvorova, svakodnevno|umire nasilnom smrÊu.
+{31723}{31793}{Y:i}Najbolji dan za nasilnu smrt|je utorak...
+{31797}{31848}{Y:i}to su dani obeleûeni ûutom bojom.
+{31854}{31922}{Y:i}Subota je druga najbolja|ili najgora.
+{31925}{31982}{Y:i}za subote  koristim crvenu boju.
+{31986}{32043}{Y:i}Tako je 'Velika igra smrti'...
+{32045}{32145}{Y:i}u stvari takmiËenje izmeu dana|crvene i dana ûute boje.
+{32228}{32291}{Y:i}Za sad, dani ûute boje...
+{32293}{32373}{Y:i}vode sa 31:29 u leöevima.
+{32427}{32524}{Y:i}Bez obzira koje je boje, svaku nasilnu|smrt proslavim vatrometom.
+{32665}{32692}Mrtav je.
+{32718}{32743}Svaka Ëast, Madgette!
+{32750}{32788}A od Ëega je umro?
+{32824}{32858}Udavio se.
+{32861}{32896}Stvarno?|-Stvarno.
+{32900}{32947}A zaöto je umro?
+{32958}{33005}Ovde se oseÊa jak zadah alkohola.
+{33042}{33067}U pravu si.
+{33088}{33116}Udavio su u kadi...
+{33121}{33162}usled preteranog opijanja?
+{33198}{33269}Teöko. »ak i u onim najteûim|situacijama...
+{33271}{33382}ljudska biÊa imaju ogromnu|nesvesnu ûelju da preûive.
+{33388}{33432}I öta je onda odgovor?
+{33524}{33598}Kakva je nagrada?|-Nagrada? -Da.
+{33604}{33699}äta ja dobijam ako napiöem umrlicu|u kojoj Êe pisati,
+{33701}{33748}'Uzrok smrti: davljenje,
+{33759}{33823}kao posledica srËanog udara|usled preterane koliËine alkohola'?
+{33827}{33857}Uûasnuta sam!
+{33862}{33888}Tako.
+{33913}{33952}äta traûiö, Madgette?
+{33993}{34026}Pa, Cissie, mislio sam da znaö.
+{34028}{34081}Ne znam, reci mi.
+{34102}{34145}Je l' ovde mi treba da|izaemo iz sobe?
+{34149}{34225}Da. Druga kada treba da se isprazni.
+{34622}{34650}A sad?
+{34712}{34766}Za poËetak, dobro bi mi doöla|mala fiziËka uteha...
+{34768}{34824}Madgett, ja imam 61 godinu.|-Pa?
+{34872}{34916}Zar nisam malo prestara za tebe?
+{34917}{34966}Jesi li bila prestara za njega?
+{35046}{35102}Cissie, nemoguÊe da ne znaö|öta oseÊam prema tebi.
+{35105}{35151}Da nije malo prerano za to?
+{35333}{35385}Smut, öta si ti, pogrebnik|ili matematiËar!
+{35387}{35418}Ni jedno, ja sam samo sluûbenik.
+{35420}{35445}Skromno!
+{35458}{35516}Mogao bih ja i da saËekam... joö malo.
+{35521}{35582}MoraÊeö, da predupredimo|moguÊa govorkanja.
+{35586}{35623}Ali, ne predugo.
+{35646}{35689}Ovo je ucena.
+{35704}{35728}Jeste.
+{35882}{35995}{Y:i}Ako igraË u igri 'Uhvati mrtvaca'|sluËajno ispusti keglu...
+{36004}{36090}{Y:i}osuen je na seriju ozbiljnih|nesreÊa.
+{36100}{36120}{Y:i}Prvo,
+{36122}{36172}{Y:i}mora da ga hvata jednom rukom,
+{36174}{36230}{Y:i}onda kleËeÊi na jednom kolenu,
+{36251}{36351}{Y:i}zatim na oba kolena,|pa sa jednim zatvorenim okom.
+{36382}{36482}{Y:i}Ako, na kraju igraËu koji je zatvorio oba oka,|kegla ipak ispadne...
+{36490}{36583}{Y:i}i on ispada iz igre i mora da zauzme|svoje mesto na raöirenom Ëaröavu.
+{36707}{36750}Madgett, kakva ti je ovo igra?
+{36762}{36855}Igra za koju je potrebna veötina.|-Kakva veötina? Ovo je deËija igra.
+{36946}{36988}Ovo je bilo grozno bacanje, Smut!
+{37039}{37091}Prekini da kukaö i igraj|samo jednom rukom.
+{37122}{37215}Madgett, ovo nije trenutak za igranje,|öta Êe ljudi pomisliti?
+{37217}{37254}Neka misle öta god hoÊe.
+{37273}{37312}Cissie, ovo je neprijatno.
+{37320}{37407}Dobra stvar da razmiöljaö o neËemu.|Koleno na zemlju, Bellamy.
+{37408}{37463}Ali, ovo su mi najbolje pantalone,|doöao sam ovde iz poötovanja.
+{37464}{37531}Onda pokaûi svoje poötovanje|i klekni.
+{37572}{37635}NeÊu ceo dan straÊiti na igrarije!
+{37643}{37694}Koliko vredi tvoje vreme, Hardy?
+{37713}{37821}Ja sam bila udata za Jakea 34 godine,|moûeö i ti da mu posvetiö par minuta.
+{37838}{37891}HoÊeö li ga sahraniti ili|kremirati, Cissie?
+{37894}{37918}Kremirati.
+{37923}{37964}A gde Êeö da prospeö pepeo?
+{38000}{38079}Niöta se ti ne sekiraj, naöla sam ja|odgovarajuÊe mesto.
+{38085}{38174}Cissie baö si srca kamenog. -A ti si nikakav|hvataË! Zatvori oËi i bez ruku.
+{38205}{38257}Ideö na Ëaröav, Hardy.|Mrtav si.
+{38260}{38314}Gospode, Smut, baö si morbidan!
+{38319}{38356}Ko ti je otac?
+{38386}{38444}Doavola!|-Bez ruku, Bellamy!
+{38454}{38499}Dobro, dobro! Smute, namerno|si to uradio!
+{38501}{38578}Lezi na taj Ëaröav, Bellamy.|To je samo igra.
+{38579}{38633}Kako Madgett igra, Ëovek bi|pomislio da igra ima smisla.
+{38642}{38671}Naravno da ima.
+{38672}{38715}ZnaËi da si ti grozan hvataË.
+{38724}{38799}Nego, Madgett, öta si presudio?
+{38817}{38859}Smrt nesreÊnim sluËajem, naravno.
+{39000}{39057}Hajde, lezi lepo na Ëaröav, Smut.
+{39203}{39261}Lezi tamo, Madgett!
+{39612}{39659}Otkrila sam joö tri zvezde.
+{39662}{39772}Beta Cygni, Castor Minor i|Groombridge 35.
+{39782}{39883}Tamo na severu, izmeu Blizanaca i|Malog Medveda,
+{39886}{39926}iznad Cissiene kuÊe.
+{39964}{40035}Zaöto skaËeö na ulici?|Imaö viöe mesta?
+{40073}{40142}Jesi li obrezan?|-äta ti to znaËi?
+{40170}{40254}Odseku ti parËe koûe sa okice.|Tako piöe u Bibliji.
+{40284}{40351}Moja mama kaûe da je tako bolje.
+{40539}{40636}Ovo su slike Madgettove igre kad smo|nosili Jakea u pogrebni zavod.
+{40693}{40717}A ko je ovaj?
+{40725}{40794}Cissiein deËko. Zove se Bellamy.
+{40808}{40867}Na samrtnom odru,|premijer Pitt je rekao,
+{40872}{40941}'Mislim da bih slatko pojeo jednu|Bellamyjevu pitu'.
+{41253}{41312}Kad Êeö veÊ jednom prelomiti i|preseliti se kod mene?
+{41348}{41475}UdaÊu se za tebe kad ispuniö|dva uslova. -A to su?
+{41518}{41564}Kad nauËiö da plivaö...
+{41590}{41623}i nikad...
+{41639}{41725}baö nikad, da me ne tucaö spreda.
+{41747}{41783}VeÊ sam ti to rekla.
+{41788}{41820}A öto, doavola, ne spreda?
+{41825}{41929}Ne podnosim kad je neko iznad mene,|klaustrofobiËna sam.
+{41954}{41983}A pored toga,
+{42008}{42051}ne bi valjda, povredio bebu?
+{42058}{42087}Kakvu bebu?
+{42089}{42139}Prepala sam te, je l' da?|-Kakvu bebu?
+{42146}{42259}Nema nikakve bebe, a i da ima|uvek me iznenadi tvoja reakcija.
+{42361}{42440}Neverovatno, vrhunski vodoinstalater|a ne zna da pliva.
+{42454}{42492}Za öta sluûi voda?
+{42494}{42534}Za piÊe, moûda?
+{43102}{43184}Dobro, Cissie, zaöto si|to uradila?
+{43213}{43263}Zato öto je bio neveran.
+{43305}{43383}Cissie, i ranije je bio neveran,|zaöto si do sad Ëekala?
+{43468}{43544}Zato... zato öto je prestao|da pere noge... zato...
+{43559}{43608}öto mu je nos bio previöe crven...
+{43630}{43684}zato öto je imao dlakava lea...
+{43689}{43719}i zato...
+{43747}{43805}Nisam ga ja ubila. S‚m se udavio.
+{43872}{43912}Ja sam ga udavila.
+{43980}{44021}Je l' bilo lako?|-Jeste.
+{44248}{44317}äta je bilo?|äta je to?
+{44337}{44435}Smute, vidi öta si pronaöao!
+{44456}{44502}Koliko godina ima Nancy?
+{44540}{44572}25?
+{44588}{44640}Starija je od mene i|ima veÊe sise.
+{44662}{44703}äta to znaËi?
+{44752}{44831}ZnaËi da je Jake i kod mene|jednom pokuöao.
+{44869}{44899}äta je radio?
+{44944}{44970}I kod mene.
+{45121}{45160}–ubre matoro.
+{45232}{45279}Zaöto mi to sad govorite?
+{45324}{45359}Moûda Êe ti biti laköe.
+{45407}{45445}Nisam ga volela.
+{45448}{45506}Je l' to je dovoljan razlog|da ga udaviö?
+{45510}{45537}Madgett kaûe da jeste.
+{45542}{45619}To je veoma neodgovorno za jednog|mrtvozornika. -Je l' da?
+{45648}{45738}Ako ga lepo zamoliö, moûda bude dovoljno|neodgovoran da i tebi pomogne.
+{45994}{46055}Nekom svane, drugom se smrkne.
+{46081}{46106}Muû.
+{46130}{46176}Moram neöto da vam kaûem...
+{46204}{46284}Bellamy i ja... ili sam samo ja...
+{46301}{46387}odluËila da datum bude|31. ovog meseca.
+{46436}{46472}To je subota.
+{46550}{46617}Pa, ne delujeö mi previöe|uzbueno zbog toga.
+{46629}{46707}Madgettu Êe biti drago zbog mene.|-HoÊe, najmanje od svih.
+{46745}{46775}Moljac?
+{46856}{46913}Da, pogledaj ove.
+{46929}{46975}Slonovski moljac.
+{47029}{47066}éelim dete.
+{47081}{47125}Sa 19 godina?
+{47148}{47187}Cissie, skroz si luda.
+{47236}{47324}Mislila sam da ûeliö da provedeö ûivot|plivajuÊi, a ne gajeÊi decu.
+{47328}{47378}Bellamy ne ume, Ëak ni da pliva.
+{47394}{47484}Mislim da ne bi umeo ni sijalicu da|promeni. -Znam, znam...
+{47498}{47577}Sve öampionke u plivanju mlade|su rodile svoje sinove. -Stvarno?
+{47644}{47715}Kako moûeö biti sigurna da Êeö|roditi deËaka?
+{47722}{47790}Sposobne ûene, obiËno|raaju devojËice.
+{47829}{47886}{Y:i}Draga Cissie ...
+{48578}{48615}äta ti hoÊeö?
+{48636}{48671}VruÊina mi je.
+{48696}{48806}Da li je istina da je u tropskim predelima|poûeljno biti obrezan?
+{48811}{48843}Tako kaûu.
+{48895}{48948}Da li je Samson bio obrezan?|-Jeste.
+{48988}{49024}Boli li to?
+{49035}{49063}Ne seÊam se.
+{49076}{49118}A kako to izgleda?
+{49157}{49211}Niöta posebno, vidi.
+{49293}{49321}A sad, u krevet.
+{49383}{49476}Da li je i Dilajla bila obrezana?|Da li se i ûene obrezuju?
+{49514}{49570}Na neki naËin...|u tropskim predelima.
+{49574}{49629}I ovde je vruÊe.|-Jeste.
+{49841}{49881}Da li su i Cissie to uradili?
+{49912}{49955}Sumnjam.
+{49969}{50027}Da li je Jake bio obrezan?|-äto ne pitaö Cissie?
+{50043}{50091}Da li je obrezivanje varvarski Ëin?
+{50096}{50152}Neki misle da jeste.|Hajde, na spavanje.
+{50156}{50228}Ako te interesuje bilo kakav varvarizam|muökaraca prema ûenama...
+{50231}{50291}slobodno, ujutru pitaj Cissie,|ona je struËnjak.
+{50320}{50349}Sad me pusti da piöem.
+{51520}{51552}Side!
+{51577}{51678}Broj 41. U blizini mosta na|putu za Cattermole.
+{52175}{52202}äta ovaj radi?
+{52236}{52314}Broji pËele. Stalno neöto broji.
+{52329}{52382}PËele bi trebalo pozivati|na sahrane.
+{52387}{52458}Ali, na sahrane dolazi samo|krvno srodstvo, zar ne?
+{52463}{52541}HoÊe li ti ona postati krvni srodnik?|-A ko to?
+{52567}{52630}Cissie, Jakeova udovica.
+{52667}{52711}Gregory, otkud ti ta ideja?
+{52714}{52796}Zar ti nisi potpisao umrlicu,|srËani udar?
+{52800}{52868}Blagi Boûe, Gregory, baö|imaö bujnu maötu!
+{52884}{52955}Ja sve znam. Rekla mi je majka.
+{52977}{53020}Znam, majke su krive za|mnogo toga.
+{53059}{53131}Izvini, to je Smut...|Evo, uzmi ove novine.
+{53186}{53240}Smut, kasniö...|Treba da ideö na plivanje.
+{53265}{53342}Gregory, haje da probamo jednu|novu igru. Hajde i ti, Nancy.
+{53346}{53400}Moram da idem. Zaboravi si|da kaûeö Madgettu...
+{53402}{53475}To se njega ne tiËe, glupaËo.
+{53499}{53566}Dobro, Nancy. Vidimo se kasnije.
+{53639}{53664}Pazi na ovce!
+{53981}{54067}{Y:i}Igra 'PËelice u öumici' je varijacija|na 'MuziËke stolice'...
+{54069}{54152}{Y:i}i najbolje je igrati je uz pogrebnu muziku|na otvorenom prostoru.
+{54157}{54258}{Y:i}Cilj igre je sesti na praznu stolicu|kad muzika utihne.
+{54287}{54355}{Y:i}Ako su stolicu na koju ste seli|prethodno zauzele pËele...
+{54357}{54436}{Y:i}dozvoljeno je uloûiti|zvaniËnu ûalbu.
+{54849}{54890}Vi ste Cissie Colpitt?
+{54894}{54932}Jesam, ali nisam jedina.
+{54937}{54991}Mi smo Bognor!
+{55063}{55120}Ja sam Jonas a ovo je Moses.
+{55124}{55180}Mi smo roaci preminulog.|-Kog preminulog?
+{55185}{55260}Ne pravi se blesava. Mi smo|Jakeovi roaci, naravno.
+{55289}{55365}O, jako mi je drago!|I vi trenirate plivanje?
+{55370}{55438}Treniramo?|-Za Olimpijske Igre.
+{55440}{55480}Ne. A vi?
+{55518}{55559}Da. Ono tamo su moji treneri.
+{55568}{55649}Ona sa crvenom kapicom|trenirala je sa Dawn Fraser.
+{55659}{55722}Druga je plivala sa Esther Williams|u Stockholmu.
+{55806}{55868}Ja sam mislio da je|Esther Williams pevaËica.
+{56018}{56056}Poznajeö li ona dva muökarca?
+{56125}{56198}»ekaj... deluju mi poznati|od nekud.
+{56200}{56243}Oni tebe poznaju.|-Stvarno?
+{56262}{56337}Kaûu da su Jakeovi roaci.|Zovu se Moses i Jonas.
+{56363}{56399}Izgleda da su roaci po vodi.
+{56401}{56468}äta mislite koliko dlake po telu...
+{56470}{56562}utiËu na brzinu jednog plivaËa|gospoice Freilichberg?
+{56594}{56675}Da li mislite da treba cela da se|obrijem, a ne samo noge?
+{56676}{56727}äta mislite, da obrijem glavu?
+{56745}{56783}äta Bellamy i ti radite?
+{56786}{56846}Vi ste nikakvi treneri...
+{56850}{56926}baö onda kad mi je podröka|najpotrebnija.
+{56960}{56985}Izvini.
+{57021}{57051}Kod okreta...
+{57055}{57145}osnovno je da ti miöiÊi karlice...
+{57148}{57236}formiraju ugao od 45∞|sa stomakom.
+{57267}{57312}Johnny Weissmuller je rekao...
+{57323}{57383}Sad je dosta, veÊ je kasno...
+{57448}{57486}Smut, drûi svoj peökir.
+{57561}{57635}U redu je, veÊ sam ih prebrojao.
+{57647}{57672}Pogledajte.
+{57753}{57849}»ovek koga rodi ûena ima|jako malo vremena...
+{57869}{57936}Znate zaöto su ovde podigli|krematorijum, je l' da?
+{57968}{58013}Zemlja je ovde toliko natopljena vodom...
+{58015}{58091}da je nemoguÊe da iskopaö grob|a da ne napraviö jezerce.
+{58112}{58144}Pitaj Sida.
+{58170}{58265}Zbog toga se kremacije vröe za vreme oseke|da voda ne bi ugasila vatru.
+{58312}{58368}Sad nailazi deo koji nikad|nisam volela.
+{58393}{58451}Ugrizi se za usnu i poËni|da brojiö, tri po tri.
+{58463}{58505}3...†6...†9...
+{58506}{58548}12...†15...†18...
+{58729}{58774}äta to rade?
+{58780}{58846}Broje. To Ëesto rade.
+{58852}{58914}Jeste li vi lokalni mrtvozornik?|-Taj sam.
+{58926}{58965}Kako moûe Ëovek od 1.80...
+{58970}{59039}da se udavi u kadi od 1.30?
+{59057}{59093}Umro je od srËanog udara.
+{59098}{59173}Veoma je nezgodno kad Ëovek dobije|srËani udar u kadi, je l' da?
+{59175}{59240}PriliËno je nezgodno dobiti|srËani udar bilo gde.
+{59242}{59338}äta biste rekli, kad bismo vam rekli|da se ne slaûemo sa vaöom procenom?
+{59345}{59424}Rekao bih, onda naite neke dokaze koji|Êe me uveriti u suprotno?
+{59434}{59524}Pa, recimo, öta su tamo radile|dve kade, a, Madgett?
+{59890}{59969}Nedavno mi je Nancy, da tako kaûem,|uloûila ûalbu.
+{59982}{60096}Doöla je da mi se ûali zbog|crvene boje na nogama,
+{60113}{60162}izgubljenih cipela,
+{60168}{60256}i joö nekih, priliËno neprijatnih|izgubljenih stvari.
+{60265}{60296}GaÊica.|-Ma nemoj?
+{60326}{60366}Otkud ti to znaö?
+{60370}{60459}Zato öto mi je platila da odem u|kuhinju i da ih potraûim. -äta?
+{60474}{60533}Pa, nekad mi je predavala veronauku.
+{60538}{60603}UËila me je Deset Boûijih Zapovesti,|da ne laûem...
+{60607}{60660}A da ne Ëiniö preljubu?|-Zaveûi Cissie.
+{60668}{60705}Naöao sam ih ispod starog lavaboa.
+{60710}{60772}Stavio sam ih u dûep i|rekao da nisu tamo,
+{60776}{60819}öto je bila istina, s obzirom|da su bile u mom dûepu.
+{60830}{60905}Evo ih. I to Êe da vas koöta.
+{60910}{60965}KoötaÊe vas 5 funti po glavi|ako ûelite da vam ih dam.
+{60968}{61037}Smut, alal ti vera, baö si|hladnokrvan.
+{61042}{61082}I imaö smisla za biznis.
+{61104}{61148}Dobro, onda je sve sreeno.
+{61152}{61229}Ako mene uhvate,|svi padate sa mnom.
+{61356}{61394}Vidi ko nam je doöao!
+{61401}{61430}Nancy...
+{61451}{61508}I dva plivaËa sa bazena...
+{61519}{61556}I Bellamy.
+{61571}{61626}Ovo bi mogla da bude zavera.|-Zavera?
+{61650}{61706}Zavera vodotornja.
+{61719}{61788}Sa ciljem da tebe, Cissie,|optuûe za davljenje.
+{61792}{61818}Gluposti!
+{62239}{62337}{Y:i}Cilj u igri 'Dûelatov kriket' za|svakog takmiËara je...
+{62340}{62403}{Y:i}da odbrani svojih poËetnih|9 ûivota...
+{62405}{62488}{Y:i}tako öto Êe u trci pobediti|maËku ili slepog miöa,
+{62500}{62588}{Y:i}braneÊi stajnu nogu od|udaraca loptom.
+{62606}{62669}{Y:i}Broj igraËa je neograniËen...
+{62671}{62781}{Y:i}sve dok svako ima svoj lik|koji je odobren od dvojice sudija.
+{62784}{62856}Sad udarajte jaËe i igrajte|bez cipela!
+{62868}{62956}U ovoj tvojoj igri Madgett, nedostaje|samo pop sa bradom!
+{62959}{62991}Hvala vam.
+{62998}{63055}Kad se igra na kopnu,|gospoo Hardy...
+{63059}{63143}{Y:i}Najvaûniji likovi su, Car,
+{63145}{63203}{Y:i}Crvena Kraljica, Udovica,
+{63204}{63239}{Y:i}Debela Dama,
+{63243}{63323}{Y:i}Budala, Sudija, Dûelat,
+{63335}{63359}{Y:i}Kurva...
+{63363}{63403}Hajde vas dvoje... napolje!
+{63446}{63489}Idite, pa bludniËite negde drugde.
+{63490}{63560}To viöe nije bludniËenje.
+{63562}{63633}Sa venËanim listom, to postaje legalno.
+{63635}{63677}Ne na mom kauËu!
+{63694}{63805}Imate tri minuta da se obuËete.|Nego, joö vam nije dosadilo?
+{63807}{63902}Ne, naravno da nije, Hardy!|Tek dva sata smo u braku.
+{63906}{63937}Ma öta mi reËe?
+{63941}{64032}Sve krave i sve livade u okolini znaju|koje ti je bolje guzica, Bellamy!
+{64107}{64142}Kretenu glupi!
+{64222}{64259}äta misliö je l' on ikad tucao?
+{64274}{64312}Pitaj Cissie.
+{64319}{64392}{Y:i}Preljubnik moûe da igra sa kurvom...
+{64397}{64490}{Y:i}kad oboje imaju isti broj ûivota,|veÊi od dvanaest.
+{64593}{64688}Ja sam Marina, Bellamyjeva sestra,|jeste li Madgett? -Jesam.
+{64717}{64798}Ako sam u ûalosti, zaöto moram|hvatam samo jednom rukom?
+{64806}{64854}Bol je hendikep, Marina.
+{64862}{64918}Isto kao kad ne vidiö dobro.
+{64941}{65038}{Y:i}Taöti je dozvoljeno da igra|samo pet puta za redom...
+{65042}{65107}{Y:i}posle Ëega mora da se javi|kod Grobara...
+{65112}{65139}{Y:i}koji moûe da odobri...
+{65141}{65245}{Y:i}broj poteza za svakog igraËa|kojeg je on izbacio, liËno.
+{65292}{65324}Napolje, Hardy!
+{65326}{65364}Nisam pogreöio!|-Napolje!
+{65383}{65466}NeÊu da nastavljam sa ovom patetiËnom|predstavom za neûenje.
+{65470}{65530}Niti da otvaram kupleraj|za mladence.
+{65541}{65622}Ako mi telefon pozvoni,|ili ako neko polomi nogu,
+{65624}{65700}ili ako mislite da poËnete poöteno da|igrate, ja sam u moru, kupam se.
+{65758}{65793}Hardy je upravu.
+{65802}{65870}Ovo je moja svadba. Zaöto ne moûemo|da igramo obiËan kriket?
+{65873}{65895}Preopasno je!
+{65947}{66030}{Y:i}Devojci je dozvoljeno da|bude gledalac...
+{66031}{66087}{Y:i}osim ako se ne udruûi|sa Blizancima.
+{66091}{66168}Dobar dan. SeÊate li nas se?|Mi smo braÊa Bognor.†Jonas...
+{66174}{66213}A ja sam Moses.|-SeÊam se.
+{66228}{66252}Voleli bismo da porazgovaramo|sa vama.
+{66255}{66314}Nasamo, ako je ikako moguÊe.
+{66519}{66616}äta ti, koji moj znaö o kriketu?|Nije niöta opasniji od drugih igara.
+{66631}{66735}1931, Chapman Ridger, iz Australije...
+{66746}{66784}dobio je udarac u grudi.
+{66791}{66897}Posle pedesetjednog trËanja,|12 sati je imao drhtavicu...
+{66902}{66988}poöto mu je rebro probuöilo pluÊa,|kaöljao je krv...
+{66992}{67100}i sutradan umro u krevetu as|plavokosom surferkom Adelaine.
+{67158}{67247}Leto '52. Udarac u vrh glave... koma.
+{67257}{67352}Njegove poslednje reËi su bile,|'Bognore, nosi se!'
+{67374}{67423}Ne, izvini to je bio Edward VII!
+{67432}{67493}Izvinite, prijatelji, nemojte|da se ljutite.
+{67496}{67551}äta je sa Madgettom?|On mrzi kriket.
+{67555}{67585}Pravi se vaûan.
+{67589}{67626}Voli da glumi...
+{67639}{67702}ili samo pokuöava da nam skrene paûnju|sa onoga öto se deöava...
+{67705}{67736}u moru.
+{67938}{68004}{Y:i}Biznismen moûe biti spaöen|ako se pokori...
+{68009}{68039}{Y:i}Crvenoj Kraljici.
+{68041}{68107}{Y:i}Ali, da bi to bilo moguÊe|prvo mora da plati kaznu.
+{68416}{68458}U redu je. Sve je u redu, mama.|Cissie!
+{68512}{68566}Izbaci ih sve odavde|i donesi  mi neke naoËare.
+{68579}{68643}Dobro sam, mama. Pusti me na miru,|samo malo da predahnem.
+{68670}{68753}Ako si ti Dûelat, moraö da|igraö sa Sudijom...
+{68754}{68835}Dok mi budemo shvatili sva tvoja|pravila, paöÊe mrak
+{68842}{68905}Za sve öto je vredno nauËiti|potrebno je neko vreme.
+{68958}{68990}Oöiöaj me.
+{69019}{69059}Bolje Êu se oseÊati.
+{69273}{69321}Previöe jedeö.
+{69839}{69940}{Y:i}Pun ukus igre 'Dûelatov kriket'|najbolje se oseti...
+{69942}{70044}{Y:i}posle nekoliko sati|igranja ove igre.
+{70050}{70160}{Y:i}Dotle, svi igraËi, u potpunosti shvate|mnogobrojna pravila...
+{70164}{70241}{Y:i}i shvate sa kojim likom ûele|sve vreme da igraju.
+{70262}{70326}{Y:i}KonaËno, pronaen je|apsolutni gubitnik...
+{70330}{70396}{Y:i}i on Êe uskoro morati da se|predstavi Dûelatu...
+{70398}{70454}{Y:i}koji je uvek nemilosrdan.
+{71084}{71147}Joö nisam naöao 54.
+{71211}{71304}Nalazi se ispod kestena,|u Nightingale Lane-u.
+{71312}{71361}Tu pored je hidrant za vodu.
+{71436}{71530}Onda je Dilajla Samsonu odsekla kosu...|bar tako mislim.
+{71548}{71653}Na velikoj zabavi, prikupio je|poslednje snage...
+{71658}{71744}povukao dva stuba i|sruöio ceo hram.
+{71752}{71870}Njegove poslednje reËi bile su,|'»uvajte mi, Nellie!'
+{71878}{71909}Ko je Nellie?
+{71923}{71946}Ovo je Nellie,
+{71961}{72037}mada ponekad insistira da je|zovemo Nancy.
+{72038}{72108}To je bio Charles II.|-Ko to?
+{72117}{72198}Njegove poslednje reËi su bile,|'»uvajte  mi, Nellie!'
+{72202}{72231}Ko ti je to rekao?
+{72233}{72314}Moja majka. Kaûe da je oduvek|ûelela da bude Nell Gwyne...
+{72324}{72390}jer bi volela da sluûi|Charlesa II.
+{72582}{72653}Stvarno bi mogla duûe da|skaËeö na ulici...
+{72657}{72708}zato öto onda ne bi konopcem|zakaËinjala stepenik.
+{72721}{72772}Moja mama mi ne d‚|da idem napolje.
+{72774}{72837}Opasno je.|Napolju ima zlih ljudi.
+{72846}{72871}Ne mrdaj.
+{72915}{72980}Dobro. SledeÊa.|Palicu spusti na zemlju.
+{72994}{73040}Palicu u levu ruku.
+{73063}{73097}Levom udaraö.
+{73188}{73239}Nova lopta... teren je mekan.
+{73256}{73285}Bacam je sa spinom.
+{73418}{73447}Prenisko.
+{73512}{73577}Ne mogu da shvatim kako ga je|lopta tu udarila?
+{73678}{73729}Dobro, Tolly Schriker, 1931.
+{73734}{73809}napravio je 58 trËanja sa zatvorenim|jednim okom,
+{73810}{73878}pre nego öto je pao preko|stepenica paviljona.
+{73882}{73969}Umro je u Brisbaneskoj drûavnoj bolnici.|Joö jedan crni krst.
+{74224}{74254}Stani mirno.
+{74366}{74402}Smute, sipaj Cissie öolju Ëaja.
+{74407}{74507}Nemoj da se muËiö. SipaÊu sama,|samo vi igrajte kriket.
+{74569}{74636}Bellamy mi je dao ovu ideju...
+{74644}{74724}da napiöem knjigu|'Smrt na kriketu'.
+{74746}{74811}Utakmice mogu da budu,|izuzetno opasne.
+{74955}{75012}Madgett, trebalo je da popriËaö|sa Cissie.
+{75018}{75050}Zaöto?
+{75077}{75149}Udaja za Bellamyja nije bila|preterano pametna stvar.
+{75158}{75194}Sad je malo kasno.
+{75220}{75286}Zaöto da trpi njegova pridike?
+{75310}{75339}Ti si protiv pridikovanja?
+{75343}{75369}Ne, nisam.
+{75375}{75412}Kako ja to mogu da znam?
+{75437}{75462}Ne moûeö.
+{75902}{75944}Probaj pored one ûivice.
+{76377}{76411}Mogu li da te poljubim?
+{76447}{76526}Ako baö ûeliö... ali samo ovde.
+{76554}{76591}To je baö Ëedno!
+{76610}{76692}Molim te, veruj mi, stvarno|cenim tvoju paûnju...
+{76698}{76760}ali Êeö morati joö malo|da popriËekaö.
+{76776}{76885}I ko zna, moûda ti i öanse porastu?
+{76918}{76975}Cissie je tvojih godina...
+{76994}{77054}ali nemoj da pogreöno da|shvatiö Hardyja.
+{77090}{77134}Ovog puta, ja se ne igram.
+{77137}{77166}Stvarno?
+{77186}{77240}Sa tobom se nikad ne zna.
+{77258}{77322}Ja mislim da ti sam sebe|ne poznajeö.
+{77603}{77697}Mogu li da vidim ono öto sam oduvek|ûeleo da vidim? -A to je?
+{77725}{77799}Tebe... sasvim golu.
+{77829}{77883}Baö Ëudna ûelja.
+{77906}{77989}»udna ti je ovo igra, Madgett.|-Stvarno?
+{78051}{78124}A ovo svakako, nije ni vreme,|ni mesto.
+{78194}{78269}HoÊeö li otiÊi u policiju ako|ne budem saraivala?
+{78298}{78333}Mogao bih.
+{78824}{78921}Na Pulham Market, Ëovek je|umro u svojim kolima.
+{78954}{79007}Bio je bogat... seljak.
+{79050}{79125}Odvezao se kolima u öumu,|u blizini Tomstopa...
+{79131}{79224}ugasio motor, raskomotio se...
+{79248}{79294}i mirno umro.
+{79333}{79430}Nisam mogao da naem|baö niöta sumnjivo.
+{79477}{79555}Sumnjam da je umro od|neuzvraÊene ljubavi.
+{79596}{79662}Je l' to radiö kad ne znaö|ta je pravi uzrok smrti?
+{79681}{79761}Napiöeö, 'Umro od neuzvraÊene|ljubavi'?
+{79769}{79853}U njegovom sluËaju sam napisao,|'Umro usled srËanog udara posle utakmice'.
+{79867}{79914}Verujem ti, Ëim si upetljao|igru u sve to.
+{79986}{80037}Nije ti dugo trebalo?|-Nije.
+{80062}{80089}A gde ti je lampa?
+{80093}{80124}Izgubio sam je.
+{80142}{80202}Kako to misliö?|-DoÊi Êu sutra po nju.
+{80206}{80256}Jesi li uhvatio neöto zanimljivo?
+{80266}{80296}Niöta posebno.
+{80386}{80465}Hajdemo kod mene, napraviÊu|neöto za veËeru.
+{83911}{83988}Kad ûeliö neöto, Hardy,|kako traûiö?
+{83995}{84039}Kaûem, 'molim'.
+{84102}{84180}Molim te Hardy, moûemo li|da se pojebemo?
+{84208}{84294}A ako sam u kancelariji, podignem|sluöalicu i pozovem 9.
+{84838}{84918}Dobila sam policiju, hitnu pomoÊ|ili vatrogasce. Koga ti traûiö?
+{84927}{84958}HoÊeö da priËaö sa njima?|-Ne, hvala.
+{85005}{85104}Izvinjavam se, ovde nema vatre, nesreÊe,|provale, silovanja, ni ubistva...
+{85115}{85139}joö uvek. Hvala.
+{85225}{85290}Nemoj nigde da ideö, mogao bi|da nam zatrebaö.
+{85315}{85390}ObiËno, pozovem 9 i to je dovoljno,
+{85393}{85490}a ako nije, ja napiöem poruku.|-Memorandum?
+{85520}{85570}Pa, pretpostavljam da bih|mogla da pokuöam.
+{86204}{86305}Ako sam zamoljen, znaö jako dobro da|Êu dati sve od sebe da te usluûim.
+{86307}{86370}To je tako lepo od tebe.|-A ti si tako maötovita.
+{86375}{86430}Pa, moram da budem. Za oboje.
+{86886}{86952}Molim te, samo nemoj da|uflekaö sofu.
+{87042}{87079}Pokaûi mi jezik.
+{87118}{87187}Kao öto sam mislila, ûut je.
+{87190}{87217}Zato öto sam bolestan?
+{87223}{87253}A öta ti misliö?
+{87273}{87390}Malo boje ne moûe da ökodi, mada|veötaËka boja moûe biti opasna.
+{87392}{87444}Kao i duga apstinencija.
+{87915}{87961}Sad mi je potrebno da se zagrejem.
+{88071}{88111}Moja majka je govorila...
+{88131}{88195}da topao Ëaj toplog dana...
+{88199}{88259}moûe divno da rashladi telo.
+{88272}{88321}Ti bi sad da kuvaö Ëaj?
+{88342}{88460}Nisam toliko... ûedan.
+{88648}{88694}äta je tvoja majka rekla za plivanje?
+{88743}{88772}»itajuÊi izmeu redova,
+{88773}{88863}mislim da je dala, bar jednu zvaniËnu|izjavu o telima u vodi.
+{88864}{88954}Zaöto sve ûene iz porodice Collpit imaju|problema sa muökarcima? äta ti misliö, zaöto?
+{88961}{89000}OstaviÊu tebi da|razmisliö o tome.
+{89020}{89057}Mnogo bolje razmiöljam|dok se kupam.
+{89076}{89134}Pitam se da li je sa Jakeom|bio isti sluËaj?
+{89147}{89216}Mislim da Jake nije puno|razmiöljao.
+{89247}{89281}Idem malo da plivam.
+{89320}{89353}Nadam se da Êeö se udaviti.
+{89360}{89456}Hvala. OstaviÊu ti|pisaÊu maöinu.
+{89569}{89619}Jeb'la te tvoja pisaÊa maöina!
+{90903}{90955}P.o.l.j.u.b.i.
+{90979}{91010}m.e.
+{91017}{91070}H.a.r.d.y.
+{91749}{91815}Prokleti, glupi idiot!
+{93168}{93197}äta ti je?
+{93200}{93236}Stomak!
+{93361}{93441}Ne zezaj se, samo me vadi odavde!
+{93450}{93526}Upravo sam ti upropastila najdraûu|pisaÊu maöinu! -äta!?
+{93537}{93612}A sad Êu dati sve od sebe|da te udavim.
+{93616}{93667}To vam je u krvi, vama Colpittovima.
+{93802}{93867}Toliko si debeo da ne moûeö|ni da potoneö.
+{93960}{94050}Vadi me odavde, ako Boga znaö!|Vadi me!
+{94062}{94108}äta misliö hoÊu li uspeti?|-äta?
+{94126}{94166}Da te udavim, budalo!
+{94168}{94216}NeÊu ti dozvoliti!
+{94349}{94444}Ono sam samo veûbala, sad ide|pravi pokuöaj!
+{94693}{94752}Sigurno plutaö zbog te|debele stomaËine!
+{94756}{94802}Baö ste tvrdoglavi i ti i stomak!
+{94805}{94878}Moje noge... Ne mogu da|pomerim noge!
+{95265}{95295}UpomoÊ! Pomozite mi!
+{95601}{95632}Ostavite me sad.
+{95701}{95743}éelim da budem sama sa njim.
+{95758}{95783}Ne moûemo da vas ostavimo.
+{95786}{95845}Naravno da moûete,|on je moj muû.
+{95849}{95881}Gde vam je telefon?
+{95957}{96021}U redu je. Ja moram da pozovem|policiju...
+{96077}{96115}ili hitnu pomoÊ...
+{96176}{96224}ili vatrogasce...
+{96296}{96337}i mrtvozornika.
+{96382}{96417}Jeste li sigurni da Êete biti dobro?
+{96421}{96497}Ako vam treba svedok,|mi smo Van Dyke.
+{96663}{96757}Hvala vam, gospodo. Gospodine 70|i 71 Van Dyke.
+{98867}{98909}Smut, idi skuvaj Ëaj.
+{98971}{99033}éene, postale ste pravi|struËnjaci za ovo.
+{99038}{99076}Samo ûelimo da udovoljimo|mrtvozorniku.
+{99080}{99136}Telo je veÊ golo.
+{99140}{99217}Nisam ni mislio da je obuËen|iöao na kupanje.
+{99221}{99271}Samo smo htele da ti olaköamo stvar.
+{99275}{99333}Niöta öto vi uradite meni|ne olaköava stvar.
+{99370}{99405}Morate da prestanete.
+{99437}{99529}Jedan, sasvim je moguÊe,|dva je, priliËno neverovatno.
+{99569}{99628}Nemate vi ekskluzivno pravo|na davljenje.
+{99636}{99696}Kancelarija mrtvozornika je nesvesna!|-Molim?
+{99728}{99775}Nezavisna!|-Naravno da jeste!
+{99779}{99826}Ne budi tako melodramatiËan, Madgett.
+{99828}{99858}Nije mi dobro.
+{99864}{99929}Kako to da ti uvek pozli u|ovakvim trenucima?
+{99933}{99995}Uzbuenje me udari|pravo u stomak.
+{99999}{100069}Ja sam mislila da si to,|do sad veÊ preboleo.
+{100086}{100145}Deöava se samo u posebnim|sluËajevima.
+{100148}{100224}U kakvim specijalnim sluËajevima?|-Davljenja.
+{100228}{100298}Da, pomeöanim sa ûenama.|-éenama?
+{100307}{100389}Da, plus liËna upletenost.
+{100395}{100438}Zar nikad nisi Ëuo za koincidenciju?
+{100443}{100474}»uo sam.
+{100488}{100529}Zar ti ne pada na pamet?
+{100533}{100648}Samo kao pojam, ali ne i za|policijsku istragu.
+{100742}{100779}Cissie, gde se to dogodilo?
+{100786}{100818}Na plaûi.
+{100819}{100880}Moûeö li da mi kaûeö,|gde taËno?
+{100882}{100945}Plima je veÊ sve prekrila.
+{100947}{101010}Smut, nisi valjda poneo|svoju crvenu boju!
+{101011}{101116}Nisam. Danas je utorak.|Danas ide ûuta boja.
+{101167}{101294}Moram da kaûem da bih mogao da probam da|ga oûivim, Ëak i sad. To mora da se zna.
+{101295}{101374}Ne budi blesav, Madgette, i nemoj|sluËajno da si pokuöao!
+{101391}{101455}»ovek se zove Hardy a ne Lazar.
+{101487}{101576}Okrenimo sad na stranu 72. Jovan XI,
+{101580}{101601}stih 23.
+{101654}{101691}'Isus joj reËe:
+{101715}{101758}Brat Êe tvoj ustati.'
+{102535}{102588}Ne bih ja to tako ozbiljno shvatao.
+{102611}{102704}Mnogo je u svetu nasilnih smrti...|svakodnevno.
+{102716}{102747}Pitaj Smuta.
+{102764}{102816}Nije mi neka uteha, Madgett.
+{102827}{102908}Naprotiv, ja bih rekao da je to|veliko olaköanje.
+{102934}{103020}Pa, ja bih radije bila ûiva i sama|nego mrtva u velikom druötvu.
+{103169}{103202}Zaöto to radiö?
+{103203}{103274}Smut... baö je voleo Hardyja.
+{103276}{103348}Kao da je obio fabriku vatrometa.
+{103502}{103532}Joö vode!
+{104159}{104197}Sveta Marijo!
+{104211}{104268}Pobogu, Madgette!|-Cissie!
+{104279}{104327}Pobogu, tu su ona dva|trkaËa sa plaûe.
+{104330}{104358}I Nancy.
+{104363}{104423}Hardyjeva majka i Jakeovi roaci.
+{104429}{104473}Baö me interesuje öta su|sad naumili?
+{104503}{104560}Udarila zavera na zaveru.
+{104572}{104686}Vaöa na njihovu. Vi davite,|oni vas progone.
+{104693}{104786}Doavola, tu je i Bellamy|a on mrzi sahrane!
+{104793}{104826}Idem da vidim öta Êe on ovde.
+{104831}{104866}Ne, nemoj.
+{104873}{104906}Vozi dalje, Madgett...
+{104911}{104998}ne ûelim da se upuötam ni u kakve rasprave|dok nam je voda joö do grla.
+{105236}{105354}A onda mu je ûena sipala Ëiniju öeÊera i|bokal limunade na pisaÊu maöinu.
+{105356}{105433}Otiöao je malo da pliva,|ali poöto je previöe jeo...
+{105435}{105492}dobio je grËeve u stomaku|i udavio se.
+{105499}{105564}Pokuöala je sa disanjem usta na usta|ali nije uspela.
+{105566}{105598}Znala je da neÊe uspeti.
+{105602}{105711}Makazama mu je odsekla svu kosu,|baö kao Dilajla.
+{105722}{105771}Ta igra se zove 'Dûelatov kriket'.
+{105773}{105810}O kakvom dûelatu priËaö?
+{105813}{105894}To je vrsta kriketa...|Za igru je potrebno 75 igraËa...
+{105905}{105971}öest timova po 12|i trojica sudija.
+{106088}{106122}Imaö li joö ovih slika?
+{106124}{106159}Na stotine.
+{106222}{106281}Odakle ti?|-Ja sam ih slikao.
+{106284}{106372}Ti si ih slikao? Ne verujem ti.
+{106619}{106647}äta bi ovo?
+{106652}{106751}Niöta. To je prijatelj moje mame.|VeËeras idem na joö jednu ûurku.
+{106760}{106843}Gde? -U balsku dvoranu koja gleda|na more sa raznobojnim svetlima.
+{106848}{106903}JeöÊemo paötetu od krabe,|sle i ostrige...
+{106905}{106951}a posle Êemo povraÊati u|papirne kese.
+{106956}{107024}A onda Êemo, kao nagradu|dobiti crnog zeca.
+{107111}{107205}Kako neko ko ne zna da pliva moûe da postane|deo zavere 'Vodotoranj', Bellamy? -äta?
+{107224}{107281}Zavera 'Vodotoranj'.
+{107290}{107323}Primetila si?|-Ma, daj.
+{107340}{107380}To je zgodno mesto da se|malo druûimo.
+{107383}{107439}Da li mi treba neka pristupnica?|-Da.
+{107476}{107550}Moraö, kao i svi mi da misliö da ove poslednje smrti|nisu nesreÊni sluËajevi.
+{107552}{107580}Tako sam i mislila.
+{107589}{107627}I öta mislite da preduzmete|po tom pitanju?
+{107634}{107687}Za poËetak da istraûimo|Madgetta.
+{107693}{107789}Pa to deluje jako ozbiljno!|Da neÊete i dozvolu da mu oduzmete?
+{107987}{108017}Jadne krave.
+{108047}{108103}Ovo nije krv! To je crvena boja!
+{108108}{108136}Onaj klinac je veÊ bio ovde.
+{108147}{108187}Ovde smrdi neki barut.
+{108192}{108226}To je miris smrti.
+{108229}{108273}Da nije malo prerano?
+{108278}{108356}Bellamy, u toj vaöoj zaveri...
+{108364}{108415}da li mene smatrate za sauËesnika?
+{108417}{108475}Jer ako me smatrate, moraÊu,|öto pre da te se reöim.
+{108481}{108521}Baö bih voleo to da vidim.
+{108561}{108692}Mislim da ti neÊe dozvoliti da|tucaö ûenu u zatvoru.
+{108697}{108795}Zato ti predlaûem, ako ozbiljno misliö...
+{108799}{108877}mogao bi da iskoristiö|moje vreme na slobodi.
+{108912}{108960}Poljubi me od pozadi!|-NeÊu.
+{108985}{109019}Ne ovde, budalo.
+{109023}{109048}äto da ne?
+{109861}{109918}Dobro, Smute, probaj kod gloga.
+{110469}{110501}Pa, Cissie,
+{110519}{110548}hoÊeö li se udati za mene?
+{110605}{110704}Ne, Madgette, nikad se ne bih|udala za mrtvozornika.
+{110732}{110796}Nikad ne bih bila sigurna|da li je oprao ruke.
+{110852}{110902}I kako bih mogla da verujem|nekom ko igra igrice?
+{110907}{111003}Ovog trenutka, uopöte se|ne igram.
+{111007}{111069}Mnogo si zabavniji kad se|igraö, Madgette.
+{111139}{111220}Pored toga, mnogo si mi korisniji|kao prijatelj...
+{111240}{111269}s obzirom da si mrtvozornik.
+{111271}{111305}A öta misliö...
+{111335}{111368}kao ljubavnik?
+{111481}{111534}Priznajem da sam udavila Hardyja,
+{111558}{111640}moguÊe i zato öto nije mogao da me|zadovolji kao ljubavnik.
+{111692}{111737}Kad bi izgubio koji santimetar, verovatno|bi stao u njegove pantalone...
+{111742}{111823}ali nisam ga udavila da bi ti mogao|da uskoËiö u njegov krevet.
+{111894}{111954}Cissie traûi oËinsku figuru.
+{111988}{112056}Ali, ma koliko da mi se Bellamy ne svia|nemoj da ti padne neöto na pamet...
+{112061}{112103}ne zaboravi, ti si mrtvozornik!
+{112103}{112173}Mrtvozornici viaju|samo leöeve.
+{112190}{112236}Oni te ne odbijaju.
+{112290}{112379}Reci mi, Madgett, da li si se nekad|zaljubio u neki od svojih leöeva?
+{112384}{112440}Da, nekoliko puta.
+{112494}{112527}Jesi li ikad...
+{112563}{112591}uradio neöto?
+{112646}{112744}Jednom sam poljubio jednu|osamdesetdvogodiönju staricu...
+{112757}{112790}u Ëelo.
+{112806}{112850}Bila je duplo starija od mene.
+{112877}{112953}I to je sve? Samo nju?
+{112993}{113076}Nije, ali ti viöe niöta neÊu reÊi.|-Reci, Madgett!
+{113115}{113146}Reci mi!
+{113184}{113230}Jednom sam probdeo celu noÊ,
+{113245}{113346}sa jednom devojkom koju su|pregazile krave.
+{113350}{113442}Na telu nigde ni traga ni od Ëega,|ali joj je lobanja bila slomljena.
+{113459}{113519}Imala je... devetnaest godina,
+{113523}{113615}plavu kosu i svetlo plave oËi.
+{113647}{113690}Kako si joj video boju oËiju|kad je bila mrtva?
+{113694}{113795}U tome i jeste bio problem, nisam mogao|da se nateram da ih zatvorim.
+{113798}{113848}Bile su prelepe.
+{113863}{113889}I öta si uradio?
+{113893}{113962}Seo sam pored nje,|uhvatio je za ruku...
+{113966}{114058}i viöe ti niöta neÊu reÊi,|ali nisam bio pozvan na sahranu.
+{114102}{114169}Da ti kaûem neöto,|na moju slobodno doi...
+{114179}{114243}evo, sad te pozivam.
+{114265}{114370}I, uopöte ti neÊu zameriti ako sebi|dozvoliö neke slobode.
+{114404}{114456}Sve dok nisu previöe nastrane.
+{114482}{114554}U stvari, ako budem jako stara,|verovatno Êu biti polaskana.
+{114570}{114655}Ja bih viöe voleo da mi dozvoliö|da te slobode odmah iskoristim.
+{114678}{114748}Trenutno mi, uopöte|nije do toga.
+{114762}{114895}Cissie, moja reputacija je na klimavim nogama,|zahvaljujuÊi tebi i tvojoj majci,
+{114899}{114989}a ja sam sasvim siguran da Smut|ne bi voleo da oca...
+{114990}{115023}sauËesnika u ubistvu.
+{115051}{115122}Shvatam.|-äta shvataö?
+{115144}{115201}Da su mrtvozornicima potrebni leöevi.
+{115231}{115283}Kao öto su i grobarima|potrebni leöevi.
+{115314}{115386}Da li znaö da naö Sid prati Smuta|naokolo kao crna senka?
+{115392}{115454}Ma jok, Sid ga zna od kad se rodio.
+{115459}{115531}Stvari bi mogle da postanu jako|interesantne kad joö malo odraste.
+{115537}{115625}Da, primetio sam koliko svi|volite da ga ljubite.
+{115694}{115723}Gde je otiöao?
+{115732}{115787}Verovatno je otpeöaËio kuÊi.
+{115834}{115875}IÊi Êemo da beremo kupine.
+{115911}{115949}Mogla bi da poeö sa nama.
+{115967}{116000}Ne, hvala ti.
+{116022}{116052}Smut Êe poËeti da ih broji...
+{116055}{116122}a njegovo brojanje me dovodi do ludila.
+{116303}{116331}Smut, jesi li unutra?
+{116335}{116395}Upaljeno je svetlo. Verovatno spava.
+{116567}{116615}Pitam se da li je iöta uhvatio?
+{116900}{116947}Boûe... Smut!
+{116992}{117038}Sam sebe je obrezao.
+{117156}{117186}Pozovi doktora.
+{117206}{117238}Ne smem ni da pogledam.
+{117388}{117421}»ime si to uradio?
+{117426}{117535}Ne brini, Cissie, sterilisao sam makaze.|-Makaze!?
+{117846}{117873}Nije smeöno.
+{117951}{118068}Prestani da se praÊakaö,|izgledaö kao riba na suvom.
+{118087}{118117}Koristi noge, Bellamy!
+{118119}{118208}Dovela si me ovde samo da bi mi|se smejala. Odoh. -Nemoj!
+{118217}{118265}Doi da probamo neöto drugo.|Skini taj pojas.
+{118266}{118303}Ne, nisam joö spreman.
+{118322}{118399}Naravno da jesi.|Doi ovamo.
+{118665}{118688}Nemoj.
+{118707}{118737}Neko bi mogao da ue.
+{118739}{118829}Rekla si da Êemo biti sami.|Takav je bio dogovor.
+{118835}{118923}Bojiö se da bi neko mogao da te vidi kako|pljuskaö po vodi kao dete?
+{118991}{119016}Doi ovamo.
+{119298}{119371}Svakim danom sve si|hrabriji u vodi.
+{119392}{119432}Skini kupaÊe gaÊe.
+{119448}{119557}Ne brini. ZakljuËala sam vrata,|a kljuË je ovde. Vidi.
+{124400}{124453}Madgett, öta, doavola radiö ovde?
+{124457}{124478}Berem kupine.
+{124481}{124517}Svuda smo te traûile.
+{124521}{124610}E pa... mi smo brali kupine.
+{124625}{124701}Vitamin C je jako dobar za evnuhe.|-Evnuhe?
+{124777}{124813}Ja svoj ne koristim,
+{124817}{124863}a Smut svoj, trenutno|ne moûe da koristi.
+{124868}{124917}Madgett jesi li se napio?
+{124937}{124989}Ne moûeö da se napijeö|kupinama, zar ne?
+{124994}{125040}Smrdiö?|-Smrdim.
+{125081}{125139}Nisam se kupao od ponedeljka.
+{125144}{125190}E pa, to ne bi moglo da se kaûe|i za Bellamyja.
+{125195}{125289}O, da, i on se kupao, je l' da?
+{125325}{125382}Moûda je malo i progutao?
+{125406}{125496}Moûda je progutao malo|hlorisane vode?
+{125515}{125607}Moûda je popio sasvim dovoljno|da ugasi ovu vatru?
+{125617}{125649}Kako si znao?
+{125657}{125740}Davljenja, kao i veÊina drugih stvari,|dolazi u trojkama. -Stvarno?
+{125745}{125846}Baö si morbidan.|-Ja sam morbidan?
+{126002}{126038}Smut! Zaöto sad?
+{126078}{126138}Za skoro sve na ovom polju,|rekao bih.
+{126628}{126734}Evo Jonaha i Mosesa, Jakeovih roaka.|Nisam znala da i oni vole da trËe.
+{126738}{126782}Boûe blagi, tu je i Nancy.
+{126950}{126990}»emu svo to trËanje?
+{126992}{127031}Zaöto si stao?
+{127033}{127108}Zato öto mi je dosta, nema viöe|pomaganja. -Moraö!
+{127112}{127155}Zaöto? Zaöto moram?
+{127157}{127215}Madgett, zato öto si upetljan|do guöe.
+{127442}{127518}Tebi nije trebalo dugo da udaviö|svog muûa, je l' da?
+{127520}{127596}Tri nedelje. Mogu li da|izaem uz kauciju?
+{127609}{127718}S obzirom da si imala samo jednog muûa i da|nemaö viöe koga da udaviö, moûda te i puste.
+{127737}{127872}Da li u zatvoru postoji bazen?|-Ne bih rekla.
+{127915}{127968}Zaöto si ga udavila veÊ posle|tri nedelje?
+{127971}{128012}Bila sam razoËarana.
+{128029}{128143}Stvarno mi nije jasno, öta si to otkrila|öto veÊ nisi znala ranije?
+{128147}{128192}Mljackao je dok jede!
+{128204}{128266}Ne znam zaöto si morala da ga udaviö!
+{128270}{128381}Lojalnost, budalo! Pored toga, dobila|sam öta sam htela. -Lojalnost?
+{128420}{128463}PovratiÊu.
+{128519}{128568}Kako to misliö, dobila si|öta si htela?
+{128581}{128714}Madgett, hoÊeö ovde da popriËamo ili Êeö da|izaemo napolje? -Slobodno priËajte ovde.
+{128751}{128796}Dobili smo dozvolu, reci.
+{128808}{128872}Traûili smo te, pa smo otiöli|do tvoje kuÊe.
+{128895}{128927}I naöli smo ovo.
+{128967}{129059}Onda smo ih naöli joö u kuÊi|na Amsterdam Roudu.
+{129085}{129170}I, da se tako izrazim, dobili smo joö|iz razliËitih izvora.
+{129201}{129255}Moûda bi voleo da nam kaûeö|neöto o tome?
+{129281}{129318}äta hoÊeö da ti kaûem?
+{129324}{129390}ObiËnom oku moglo bi da|bude sumnjivo.
+{129414}{129486}Stvarno? Cissie, pogledaj ovo.
+{129526}{129622}To je Smut. U poslednjih mesec dana|dosta se ugojio.
+{129629}{129677}Ove su baö lepe.
+{129708}{129740}äta ovde radi?
+{129743}{129781}A izveötaj iz bolnice?
+{129810}{129915}Izgleda da je tvoj sin bio u bolnici zbog,|kako tu piöe 'seksualnog sakaÊenja'?
+{129998}{130054}Za to bi trebalo da pitate Smuta.
+{130059}{130131}Bolje da znaö, Madgett, nalaziö|se pod istragom.
+{130158}{130190}Zaöto?
+{130194}{130276}Za öirenje pornografije i|moguÊeg zlostavljanja deteta.
+{130315}{130389}Zaöto ne ubacite i neöto|poput nekrofilije?
+{130391}{130482}Vidiö, Madgett, rekla sam ti,|Smut Êe ti, na kraju, doÊi glave.
+{130484}{130589}Ovde smo da bismo raspravljali o mom muûu|a ne o porodiËnim fotografijama.
+{130875}{130969}Ne bi ti ökodilo da zameniö|ovu neonku.
+{130981}{131033}Evo, moûda ovo pomogne.
+{131194}{131272}Sviaju mi se njegova stopala.|-Hvala, Cissie.
+{131301}{131388}Meni se sviaju njegova ramena.|-Hvala, Cissie.
+{131410}{131437}äta se vama svia?
+{131439}{131480}Meni se svia prirodna smrt.
+{131503}{131547}Da li je ijedna smrt prirodna?
+{131627}{131675}Meni su se sviala njegova jaja.
+{131863}{131939}Mogu li udovice da uËestvuju na|Olimpijskim igrama?
+{132086}{132148}äta Êe ti ovolike ovce?
+{132166}{132213}Za svaki sluËaj.
+{132215}{132263}Za kakav sluËaj?
+{132265}{132302}Besane noÊi.
+{132350}{132386}NoÊu najbolje brojim.
+{132389}{132446}Svi mi najbolje brojimo noÊu.
+{132461}{132566}Prekini, Smute, dosta je.|Nemoj da te otresem sa tog drveta!
+{132579}{132644}äta radi?|-Broji liöÊe.
+{132649}{132751}Zaöto? -Zar se nikad nisi zapitala|koliko ima listova na drvetu?
+{132759}{132906}Nikad. -Riba u moru?|-Ne. -Dlaka na glavi?
+{132972}{133061}U subotu prosipamo pepeo u more,
+{133063}{133109}ili taËnije, u reku.
+{133118}{133170}Madgett, ti Êeö biti svedok.
+{133204}{133226}äta Êe vam svedok?
+{133233}{133286}Da znamo da li to radimo ispravno,|naravno.
+{133311}{133359}Zar to nije nelegalno?|-Ne!
+{133945}{134025}Svi su se okupili, moraÊemo ovo|da obavimo u tajnosti.
+{134027}{134079}Zaöto si, pobogu, izabrala|baö ovo mesto?
+{134082}{134164}Mislila sam da Êemo sa vodotornja|bolje moÊi da ih pazimo.
+{134165}{134191}Ko je sve ove pozvao?
+{134193}{134251}Samo su se pozvali.
+{134253}{134334}Jesi li sigurna da Madgett nije|neöto rekao?
+{134460}{134526}A tu je i naö struËnjak za pirotehniku.
+{134537}{134615}NeÊe da se upali, previöe je|vlaûno.
+{134623}{134715}To me ne iznenauje. Bellamy se|plaöio vode k'o avo krsta.
+{134846}{134886}Kakav je to smrad?
+{135034}{135116}Ovaj Ëovek baö ume da namiriöe leö.|-Njegov sin je bio brûi.
+{135121}{135154}Ko je to?
+{135290}{135347}Znaö öta te oËekuje, je l' da?|-äta?
+{135354}{135424}Poziv da idete na polje|pored Brougha...
+{135426}{135487}Koje je okruûeno gustom ûivicom...
+{135489}{135589}Gde Smut odlazi u lov na moljce i|gde nikad ni jednog nije uhvatio.
+{135632}{135674}Madgett je bezopasan.
+{135678}{135748}Njega stvarno interesuju samo igre|i puding od Ëokolade.
+{135782}{135830}Ne bih imala niöta protiv.
+{135840}{135869}äta ne bi imala protiv?
+{135874}{135932}To bi bilo kao da spavaö|sa roenim ujakom.
+{135969}{136006}Ili kao da podmiÊujeö sudiju.
+{136011}{136072}Krupne reËi!|-On je viöe od sudije.
+{136077}{136192}Jadni Madgett. Ovo je kao priËa|o tri jareta. -O Ëemu se radi?
+{136211}{136305}A Madgett je kao bauk|koji Ëeka ispod mosta.
+{136335}{136413}Misliö da je trava stvarno zelenija|sa druge strane reke?
+{136425}{136473}Bez ikakve sumnje!
+{136524}{136622}Hej, ovo su haringe!|äta misliö, mogu li da se jedu?
+{136674}{136722}Pa, Cisiie, sad si ti na redu.
+{136763}{136809}Sviaju mi se njegove ruke.
+{136819}{136909}Moûda mu dozvolim da me pipka|pa Êu sve da vam ispriËam.
+{136914}{136968}Pa, ti si poslednja u redu.
+{136992}{137037}äta ako ga razoËaram?
+{137065}{137154}Moglo bi sve da propadne.|Bolje da mu ne dopustiö mnogo.
+{137170}{137234}Ako jedna od nas uradi to sa njim,
+{137241}{137299}valjda Êe automatski druge|dve biti iskljuËene?
+{137313}{137398}Sumnjam da bi Madgett mogao|tri puta za jedno popodne.
+{137551}{137609}Madgett, baö priËamo o tebi.
+{137639}{137664}Znam.
+{137746}{137820}Moûe li da ti se digne tri puta|za jedno popodne, Madgett?
+{137866}{137954}Voleo bih da pokuöam.|Zavisi ko pita?
+{137958}{137997}Hej, pogledajte ovo!
+{138010}{138062}Sve ribe su prebrojane. Pogledajte.
+{138066}{138124}Smut, jesi li ti ovo organizovao?
+{138227}{138352}Madgett, hoÊeö li i sa mnom probati|ono öto si probao sa njih dve?
+{138374}{138456}Ne misliö valjda, da se Bellamy udavio|da bi tebi prokrËio put?
+{138496}{138544}Baö Ëudno.|-äta je Ëudno?
+{138583}{138657}Kako je ovo polje postalo sinonim|za moje neuspehe.
+{138669}{138698}Gde je Smut?
+{138702}{138742}NeÊe viöe da dolazi.
+{138745}{138780}Ne krivim ga.
+{138859}{138966}Tri korpe na istom mestu.|To mora da je rekord!
+{138970}{139051}Meni zvuËi da ti treba malo|viöe maötovitosti.
+{139113}{139171}Madgett, ni ti ne umeö da|plivaö, je l' da?
+{139182}{139256}Pored toga, premlada sam ja za tebe.
+{139289}{139357}Mada, pretpostavljam da bi|mogao da nas ucenjujeö.
+{139387}{139454}Kad bi hteo, mogao bi sve tri|da nas strpaö u zatvor.
+{139463}{139519}To je poslednja stvar|koju bih uËinio.
+{139539}{139574}Verujem ti.
+{139644}{139710}S obzirom da sa druge dve|nisi imao sreÊe...
+{139766}{139820}ja Êu da te pustim malËice.
+{139885}{139923}To je kao kompenzacija?
+{139957}{139995}Stavi ruku ovde.
+{140081}{140131}Primetila sam da me gledaö.
+{140157}{140217}Primetila sam da nas|sve gledaö.
+{140259}{140313}Misliö da smo sve|jedna ûena?
+{140335}{140373}Ponekad mi se tako Ëini.
+{140399}{140482}Samo zato öto se isto zovemo?|-Ne, ne...
+{140510}{140536}Zaöto, onda?
+{140616}{140715}Zbog vaöeg drugarstva.|-»ega?
+{140733}{140792}Vaöeg meusobnog prijateljstva.
+{140817}{140861}Znaö li da sam trudna?
+{140931}{140976}Tri nedelje su vam bile dovoljne?
+{140979}{141031}Ne pravi se tako nevinaöce!
+{141041}{141105}Tri nedelje je dovoljno da|sve bude legitimno.
+{141195}{141243}Moûeö ovde da me poljubiö.
+{141340}{141378}HoÊe li mi neöto iscureti?
+{141391}{141429}Ne joö, budalËino.
+{141480}{141516}Skini i ostalo.
+{141539}{141625}Ne, Madgette, udovica sam|tek 48 sati. -Pa?
+{141633}{141675}Madgette, sad je dosta!
+{141693}{141802}Vidi, moraö se zadovoljiti malim|uslugama, tu i tamo.
+{141811}{141837}Moram li?
+{141874}{141944}Da li je spaöavanje od zatvora|mala usluga?
+{141957}{141994}To je bila smrt nesreÊnim|sluËajem.
+{141998}{142096}Stvarno? Mnogi ljudi ovde, uopöte|ne misle tako.
+{142100}{142149}Svi ostali nek se nose!
+{142153}{142186}Namerno me provociraö.
+{142190}{142215}Stvarno?
+{142234}{142311}Madgett! Hvala ti öto si mi|razjasnio stvari.
+{142315}{142360}Kakve stvari?|-O Bellamyju.
+{142365}{142401}To nije bila moja,|veÊ Cissina ideja.
+{142405}{142451}Ali, ti si sve omoguÊio.
+{142460}{142538}Ma nemoj? -Kad sam se udala za|Bellamyja, znala sam...
+{142542}{142641}da Êu, kad doe vreme moÊi da|ga udavim, dok si ti tu.
+{142719}{142777}Madgett, zar ovo nije|pokuöaj silovanja?
+{142793}{142822}Vi, Colpittove ste me iskoristile.
+{142825}{142883}Ja sam mislila da si ti bezopasan!
+{142895}{142930}Upropastile ste me!
+{142934}{142979}Ne budi melodramatiËan!
+{143374}{143472}Najbolji dan za nasilnu smrt je|utorak popodne.
+{143480}{143578}A najbezbednije vreme je|petak uveËe... zapravo, veËeras.
+{143589}{143635}Ideö li danas na ûurku?
+{143643}{143770}Da, na brod. JeöÊemo ananas,|voÊnu salatu, sir i orahe...
+{143774}{143812}a ja Êu plesati.
+{143851}{143906}Elsie... volim te.
+{143928}{143988}Uradio sam ono öto si traûila.|-äta to?
+{143996}{144064}Obrezao sam se.|HoÊeö da vidiö?
+{144068}{144108}Ne, hvala. Ne danas.
+{144199}{144237}Smut, ulazi unutra.
+{144342}{144466}1. Antares, 2. Capella, 3.Canopus,|4. Arcturus, 5. Agreetor...
+{144475}{144612}6. Anector, 7. Duendin, 8. Algerib,|9. Agena, 10. Lalande,
+{144617}{144745}11. Vega, 12. Golubin, 13. Spica,|14. Capra, 15. Acrab ...
+{144750}{144792}16. Deneb, 17. Saph...
+{146387}{146461}äta se danas igra?|-NadvlaËenje konopca.
+{146494}{146594}Nadam se da si danas bolje. Nemoj da|si tuûan, to je samo provokacija.
+{146604}{146633}Ko Êe igrati?
+{146644}{146685}Dobro i zlo.
+{146693}{146728}Ko je dobar a ko zao?
+{146730}{146771}Zavisi kako gledaö.
+{146772}{146807}A u öta se igra?
+{146809}{146886}U mene i u ono öto je ostalo od|moje reputacije.
+{146889}{146935}Kao muökarca ili kao mrtvozornika?
+{146936}{147025}Oboje, ako oni pobede,|ja se predajem.
+{147031}{147064}Ko ako pobedi?
+{147222}{147288}Boûe mili, nisi valjda njih|pozvao?
+{147429}{147486}Baö umeju da namiriöu sahranu.
+{147490}{147536}Ima ih sedmoro.
+{147543}{147589}Onda nemamo na öta da se poûalimo.
+{147618}{147659}Madgette, öta si naumio?
+{147708}{147746}Trebalo bi da svi budu ovde, zar ne?
+{147748}{147838}Ne ûelite, valjda da vas neko optuûi|sa tajne sahrane?
+{147842}{147937}A s obzirom da moja pomoÊ, oËigledno|nije niËim nagraena...
+{147939}{147993}ja sam pomislio, öto je dosta,|dosta je.
+{148005}{148113}I kao rezultat svega toga smislio sam ovu|igru koja je spoj pameti i snage.
+{148117}{148178}Daj, Madgette, nikad ih neÊeö|naterati da igraju.
+{148182}{148238}Ako je ulog dovoljno|veliki, igraÊe.
+{148243}{148304}Mi ti neÊemo dozvoliti da se|izvuËeö tako lako.
+{148306}{148338}Mene neÊete pustiti?
+{148350}{148419}Ako ja padnem, padate i vi.
+{148435}{148472}To je ulog.
+{148483}{148539}Madgett, neÊemo u tome|uËestvovati.
+{148557}{148594}Tvoja igra, tvoja stvar.
+{148597}{148687}Ovo viöe nije igra. Dosta mi je igara.|Stvar je ozbiljna.
+{148723}{148766}Pored toga, vi ste bolje u|igrama od mene i...
+{148768}{148826}Ova igra je, izuzetno opasna.
+{148830}{148896}VeÊ sam vam rekao,|sve igre su opasne.
+{148899}{148990}Kakve igre? Ja sam mislio da smo se|okupili da razbacamo pepeo.
+{148992}{149038}Video sam da je grobar|stigao sa vama.
+{149040}{149122}Sid Êe veslati i to je sve,|pepeo ide u reku.
+{149123}{149157}Ovo je provokacija!
+{149168}{149256}Kao odgovarajuÊi oproötaj, mislio sam|da odigramo jednu igru.
+{149261}{149306}Igru?|-Kakvu igru?
+{149307}{149350}Pazite se, on stalno|izmiölja nekakve igre.
+{149352}{149395}Niöta se ne sekiraj, Nancy,|mi Êemo paziti na tebe.
+{149397}{149442}Pazi kako se obraÊaö mojoj sestri!|-Zaveûi!
+{149459}{149520}Mislim da vam dugujemo objaönjenje.|-Zaveûi, Madgett!
+{149525}{149614}Objaönjenje? Dugujete nam mnogo viöe|od jebenog objaönjenja.
+{149615}{149670}Dobro, igraÊemo vaöu igru.
+{149672}{149766}PobediÊemo bez problema a onda Êemo ti|staviti konopac oko vrata, Madgett.
+{149781}{149882}Ako pobedite, dobiÊete|svoje objaönjenje.
+{149899}{149924}U redu.
+{150046}{150140}{Y:i}Igru 'NadvlaËenje konopca'|igra onoliko ljudi...
+{150141}{150197}{Y:i}koliko moûe da se|uhvati duû konopca.
+{150210}{150300}{Y:i}Na obe strane treba da bude rasporeena,|od prilike ista kilaûa i snaga...
+{150302}{150360}{Y:i}kako bi igra bila öto zanimljivija.
+{150366}{150411}Jedan, dva, tri, vuci!
+{150451}{150481}{Y:i}Na ugovoreni signal...
+{150494}{150576}{Y:i}obe strane se trude da navuku|protivniËki tim do odreenog znaka...
+{150582}{150640}{Y:i}ili, ranije dogovorenog prostora.
+{150666}{150767}{Y:i}Po sedam igraËa je idealan broj|za igranje 'NadvlaËenja konopca.'
+{151170}{151194}Smut!
+{151235}{151265}Smuuut!
+{151366}{151411}Smute, prodao si nas!
+{151416}{151459}Idemo, brzo u Ëamac!
+{151460}{151496}Pobedili smo!
+{151518}{151628}U Ëamac! U Ëamac! -Side, Gregory,|ubacite Madgetta u Ëamac!
+{153029}{153072}Dolazi oluja, Madgett.
+{153074}{153117}Umeö li da plivaö?
+{153158}{153199}Koliko ja znam, ne.
+{153346}{153463}{Y:i}Cilj ove igre je da se usudiö da|skoËiö sa omËom oko vrata...
+{153470}{153542}{Y:i}sa mesta dovoljno visokog...
+{153551}{153600}{Y:i}da se obesiö pri padu.
+{153911}{153997}{Y:i}Cilj ove igre je da|kazniö one...
+{154006}{154059}{Y:i}koji su prouzrokovali tvoju nesreÊu...
+{154104}{154150}{Y:i}svojim sebiËnim postupcima.
+{154466}{154515}{Y:i}Ovo je najbolja od svih igara,
+{154535}{154623}{Y:i}zato öto je pobednik,|istovremeno i gubitnik...
+{154630}{154742}{Y:i}a sudijska odluka je uvek|konaËna.
+{157906}{158001}äta Smut sad slavi?|Mi smo izgubili.
+{158015}{158105}Priredio je mali spektakl za|razbacivanje pepela.
+{158108}{158142}Baö lepo od njega.
+{158350}{158427}Pa, Madgett, öta sam misliö|o svemu ovome?
+{158483}{158511}Kao i ranije.
+{158540}{158586}Kao öto rekoh, izgubili smo.
+{158613}{158648}Dosta mi je.
+{158693}{158762}Madgett, mi nismo izgubile...
+{158765}{158842}i, ni jedna od nas uopöte|ne razmiölja o predaji.
+{158849}{158888}I öta Êete sad da uradite?
+{158912}{159008}Nailazi oluja. Mislim da je najbolje|da se pripremim.
+{159050}{159102}HoÊeö li i ti da se skineö, Madgett?
+{159143}{159197}Tako moûemo da sredimo da sve|izgleda kao prava nesreÊa.
+{159202}{159308}Hajde, Madgett, skini se.|PrirediÊemo ti pravi kraj.
+{159317}{159388}Kakva lepa prilika,|s‚m na Ëamcu...
+{159389}{159478}sa ûenom koju voliö i koja|te moli da se skineö!
+{159605}{159693}Ne brini za Smuta. BiÊe dobro.
+{160530}{160602}Prvo, sahrana!
+{160755}{160833}U znak seÊanja na baötovana.
+{160958}{161051}U znak seÊanja na|poslovnog Ëoveka.
+{161171}{161196}U znak...
+{161370}{161459}U znak seÊanja na nezaposlenog...
+{161460}{161498}neplivaËa.
+{170372}{170672}{Y:i}zgaca62@yahoo.com
+{170697}{172197}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/5vzdy|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

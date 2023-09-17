@@ -1,0 +1,2924 @@
+1
+00:00:06,000 --> 00:00:12,074
+–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+
+2
+00:00:14,480 --> 00:00:18,480
+www.titlovi.com
+
+3
+00:00:21,480 --> 00:00:23,835
+U glavnim ulogama:
+
+4
+00:00:46,200 --> 00:00:50,273
+Bolje kreni. - Niöta od
+poljupca za sreÊu, kapetane?
+
+5
+00:00:51,280 --> 00:00:53,316
+Ulazim u istoriju.
+
+6
+00:01:02,120 --> 00:01:06,113
+Znam da to ûeliö, Ris.
+- Ja znam da ti ûeliö.
+
+7
+00:01:06,320 --> 00:01:11,633
+Mislim da bi duûe izdrûali
+kao prijatelji. - Nisi odbila.
+
+8
+00:01:13,080 --> 00:01:17,232
+Poput deteta si. Moûda
+si me u trenu razoruûao.
+
+9
+00:01:19,800 --> 00:01:23,395
+PoËinjeö da me podseÊaö
+na nekoga koga sam poznavala.
+
+10
+00:01:23,600 --> 00:01:26,831
+To onda nije loöe?
+- Nisam sigurna.
+
+11
+00:01:29,920 --> 00:01:34,152
+KABINA
+
+12
+00:01:40,680 --> 00:01:43,148
+U ostalim ulogama:
+
+13
+00:01:55,280 --> 00:01:57,430
+Zasluûili smo nagradu.
+
+14
+00:02:01,360 --> 00:02:03,316
+Pazi ovo.
+
+15
+00:02:06,200 --> 00:02:10,876
+Corbet Aviation i prvi 100%
+automatizovani avion.
+
+16
+00:02:11,800 --> 00:02:14,109
+Svaka Ëast, ljudi.
+
+17
+00:02:15,120 --> 00:02:16,997
+I hvala vam.
+
+18
+00:02:25,920 --> 00:02:27,478
+Pij, Temi.
+
+19
+00:02:29,280 --> 00:02:32,352
+Popij neöto, Gabriel.
+Zasluûio si.
+
+20
+00:02:49,400 --> 00:02:51,356
+Dûenisis, izvolite.
+
+21
+00:02:52,360 --> 00:02:55,989
+Redosled poletanja.
+Toranj Sietla? - Primljeno.
+
+22
+00:03:12,080 --> 00:03:16,517
+Jesi li poneo neku knjigu?
+- Ako ovo radi, letimo s posla.
+
+23
+00:03:23,800 --> 00:03:26,030
+Provera gotova. Sve u redu.
+
+24
+00:03:52,160 --> 00:03:54,196
+Sistemi rade.
+
+25
+00:03:56,240 --> 00:04:01,633
+U vazduhu smo. - Uspeo sam.
+»oveËe, uspeo sam.
+
+26
+00:04:01,920 --> 00:04:05,913
+Bravo, g. Korbet.
+- ZahvaljujuÊi tebi. - »estitam.
+
+27
+00:04:11,440 --> 00:04:15,956
+Kao na simulaciji.
+Ovde sam pilot i putnik.
+
+28
+00:04:18,480 --> 00:04:20,357
+Dûimi, pogledaj sisteme.
+
+29
+00:04:26,920 --> 00:04:31,232
+Bazo, imamo problema.
+- äta se deöava? - Ne znam.
+
+30
+00:04:32,680 --> 00:04:37,800
+Ceo sistem se iskljuËio.
+- NemoguÊe. IskljuËite raËunar.
+
+31
+00:04:38,200 --> 00:04:42,591
+VeÊ jesam. - Restartuj ga.
+Kad se pokrene, digni program.
+
+32
+00:04:42,800 --> 00:04:46,236
+Temi, pokreni pomoÊni
+sistem, ja Êu krenuti ruËno.
+
+33
+00:04:50,160 --> 00:04:53,675
+Dûimi, niöta ne radi!
+Ne moûemo da upravljamo!
+
+34
+00:04:54,240 --> 00:04:57,073
+Isuse, padamo. Gotovo je.
+
+35
+00:04:59,320 --> 00:05:01,390
+Visina pada.
+
+36
+00:05:04,440 --> 00:05:06,908
+SruöiÊemo se! - Dûenisis.
+
+37
+00:05:08,280 --> 00:05:12,319
+Ne moûemo upravljati. Niöta
+ne radi. - SruöiÊemo se.
+
+38
+00:05:36,720 --> 00:05:39,234
+Scenario:
+
+39
+00:05:51,280 --> 00:05:53,669
+Reûija:
+
+40
+00:06:13,320 --> 00:06:18,155
+Doavola, Vingfilde, rekao si
+da smo spremni. - I bili smo.
+
+41
+00:06:18,440 --> 00:06:23,719
+Joö je prerano za nagaanja...
+- RaËunar je upravljao.
+
+42
+00:06:24,240 --> 00:06:29,189
+Nije greöka pilota. Piloti
+nisu znali öta se deöava.
+
+43
+00:06:29,520 --> 00:06:34,275
+Nisu niöta mogli. - Tako znaËi.
+Vidljiv sam samo kod problema.
+
+44
+00:06:34,680 --> 00:06:38,593
+Ne budi paranoiËan. Dva su
+Ëoveka upravo poginula.
+
+45
+00:06:38,800 --> 00:06:42,839
+Ja jesam napravio sistem,
+ali vi ste odgovorni.
+
+46
+00:06:43,040 --> 00:06:47,875
+Vi ste sve sami uspeli.
+- Gubi se. Otpuöten si.
+
+47
+00:06:48,160 --> 00:06:53,359
+Imam ugovor. - Raskidam ga.
+Budi sreÊan öto te neÊu tuûiti
+
+48
+00:06:53,480 --> 00:06:55,835
+koliko si dug i öirok.
+
+49
+00:06:57,280 --> 00:07:01,592
+Prokleti gade. Nisi svestan
+koliko me ovaj posao koötao!
+
+50
+00:07:02,520 --> 00:07:05,830
+Na tvom mestu bih
+potraûio drugu vrstu posla!
+
+51
+00:07:06,000 --> 00:07:11,233
+Drûi se ovaca iz piËkovca
+u kom sam te pronaöao!
+
+52
+00:07:11,440 --> 00:07:13,351
+Skloni se! - Polako!
+
+53
+00:07:14,000 --> 00:07:18,516
+G. Korbet. Oprostite,
+imam nekoliko pitanja za vas.
+
+54
+00:07:32,360 --> 00:07:34,999
+Ne serem. Pilot sam.
+
+55
+00:07:38,280 --> 00:07:42,068
+Zaöto mi ne verujeö?
+PovrediÊu se.
+
+56
+00:07:49,400 --> 00:07:51,038
+PiÊe?
+
+57
+00:07:52,640 --> 00:07:54,790
+Novac ti se svia?
+
+58
+00:07:55,640 --> 00:07:57,631
+HoÊe piÊe?
+
+59
+00:07:59,000 --> 00:08:01,594
+Idem da se reöim tereta.
+
+60
+00:08:10,160 --> 00:08:15,996
+Dûin, straviËan prizor
+na polju u predgrau Sietla.
+
+61
+00:08:17,280 --> 00:08:22,274
+Poznavali ste pilota
+i kopilota? - Bili smo kolege.
+
+62
+00:08:24,920 --> 00:08:30,790
+Joö sam u öoku. - Znate li öta
+je poölo po zlu, kapetanice?
+
+63
+00:08:34,360 --> 00:08:36,316
+Ne.
+
+64
+00:09:19,520 --> 00:09:21,954
+6 MESECI KASNIJE
+
+65
+00:09:45,920 --> 00:09:47,319
+Hardvej.
+
+66
+00:09:48,520 --> 00:09:51,876
+Naemo se kod severnog
+ulaza. PriËekaj me.
+
+67
+00:10:31,040 --> 00:10:35,716
+Stari, znamo da si ovde.
+Ustani polako i podigni ruke.
+
+68
+00:10:36,120 --> 00:10:37,758
+U redu.
+
+69
+00:10:39,640 --> 00:10:41,517
+Nemojte pucati.
+
+70
+00:10:44,480 --> 00:10:48,792
+Isuse, Marfi.
+PtiËar Djumont? - Nede?
+
+71
+00:10:50,080 --> 00:10:51,433
+Ti si?
+
+72
+00:10:53,840 --> 00:10:58,231
+»uo sam da si dobio lepo
+odelo od Korbeta, ali...
+
+73
+00:10:58,480 --> 00:11:03,952
+Sjajno izgledaö, öefe
+osiguranja. - Znam ovog ludaka.
+
+74
+00:11:04,800 --> 00:11:09,476
+Ne mogu da verujem.
+- Pogledaj ti njega. Isuse.
+
+75
+00:11:09,680 --> 00:11:14,310
+äta radiö ovde, Pit? Nisam
+te video od... Zaljiva '91. g.
+
+76
+00:11:15,040 --> 00:11:17,110
+Bio sam svuda.
+
+77
+00:11:18,720 --> 00:11:21,359
+äta je u kutijama? - Kûutijama?
+
+78
+00:11:29,680 --> 00:11:33,992
+Opa. Sjajno.
+- Svia ti se? Izvoli.
+
+79
+00:11:34,240 --> 00:11:38,916
+Kako si uöao? Osiguranje je
+dobro. - Vrata su otvorena.
+
+80
+00:11:41,400 --> 00:11:45,598
+Rekao sam da Êeö leteti ako
+joö jednom zaboraviö vrata.
+
+81
+00:11:45,800 --> 00:11:49,873
+Nisam, Nede. Ovaj...
+- Hejde Êuti.
+
+82
+00:11:50,160 --> 00:11:52,469
+äta moja sestra vidi u tebi?
+
+83
+00:11:54,480 --> 00:12:00,271
+Vidi... - Ne bih te razoËarao,
+ali ako Êeö ovo prodavati...
+
+84
+00:12:02,160 --> 00:12:06,950
+Ne prodajem ih. To su pokloni
+mojim novim strankama.
+
+85
+00:12:07,200 --> 00:12:11,557
+Pazi ovo,
+Sunce i pesak Ëarteri.
+
+86
+00:12:12,000 --> 00:12:16,710
+Prva firma s popustom
+na popust za letovanja.
+
+87
+00:12:16,960 --> 00:12:20,270
+äaliö se? PtiËar i Ëarteri?
+
+88
+00:12:20,600 --> 00:12:25,549
+ZnaËi, joö letiö? - Ne.
+Nisam leteo veÊ dve godine.
+
+89
+00:12:26,600 --> 00:12:31,230
+Uzeli su mi dozvolu kad sam
+rekao da bolje letim pijan.
+
+90
+00:12:31,480 --> 00:12:36,759
+Takvi su. - Ipak se trudim oko
+ovoga. Ali sada imam partnera
+
+91
+00:12:37,040 --> 00:12:40,874
+koji ima novac i imam
+vezu za jedan 737.
+
+92
+00:12:41,760 --> 00:12:46,117
+Sada mi treba suvo
+mesto za ove koöulje
+
+93
+00:12:46,360 --> 00:12:50,876
+dok ne dobijem kljuËeve od
+ofisa. - Ne znam baö, PtiËaru.
+
+94
+00:12:51,160 --> 00:12:55,312
+Hangar je privatan, a Korbet
+je gadan. - Dolazim s dna,
+
+95
+00:12:55,520 --> 00:13:00,036
+liËnog i poslovnog,
+ali vraÊam se. - U redu.
+
+96
+00:13:00,520 --> 00:13:05,833
+Dan-dva najviöe. - Dogovoreno.
+Volim te, ËoveËe. Super si.
+
+97
+00:13:06,040 --> 00:13:08,270
+Idemo ovo da odloûimo
+
+98
+00:13:10,000 --> 00:13:14,676
+Dobar si ti. - Nemaö niöta
+protiv da pomognem prijatelju?
+
+99
+00:13:14,880 --> 00:13:18,839
+Nemam. Imate sluËajno
+ovo u XL veliËini?
+
+100
+00:13:20,760 --> 00:13:22,193
+Za tebe...
+
+101
+00:13:24,200 --> 00:13:26,077
+Imam XXXL.
+
+102
+00:13:28,560 --> 00:13:32,473
+Neverovatno.
+Dobro izgledaö. - I ti.
+
+103
+00:14:06,240 --> 00:14:08,470
+Drago mi je da vas sve vidim.
+
+104
+00:14:08,760 --> 00:14:11,115
+Samo moj upravni odbor.
+
+105
+00:14:13,960 --> 00:14:18,750
+Hvala vam na poverenju. Pre
+6 m. Mnogi su ljudi iz medija
+
+106
+00:14:18,960 --> 00:14:23,033
+i naöih avio-kompanija
+mislili da sam gotov.
+
+107
+00:14:23,240 --> 00:14:27,279
+Mislili su da Corbet Aviation
+viöe nikad neÊe poleteti.
+
+108
+00:14:27,480 --> 00:14:31,598
+Svima njima, i vama
+koji ste tako mislili,
+
+109
+00:14:32,600 --> 00:14:34,591
+predstavljam Genisis II...
+
+110
+00:14:40,000 --> 00:14:44,312
+Kaûu da svaki pad nosi vaûnu
+lekciju onima koji ûele uËiti.
+
+111
+00:14:44,520 --> 00:14:49,355
+Lekcija koju sam nauËio
+tragedijom Genisisa I. Je...
+
+112
+00:14:50,160 --> 00:14:52,196
+Nemoj odustati.
+
+113
+00:14:53,080 --> 00:14:58,313
+BraÊa Rajt su to znala. Prvi
+neuspeh ih nije pokolebao,
+
+114
+00:14:58,800 --> 00:15:02,554
+NASA je nastavila nakon
+»elendûera 1986.
+
+115
+00:15:02,760 --> 00:15:07,880
+I tako dalje. Svaki napredak
+u istoriji vazduhoplovstva
+
+116
+00:15:08,000 --> 00:15:10,434
+napravili su hrabri ljudi.
+
+117
+00:15:11,480 --> 00:15:13,675
+Samodopadljivi pavijan.
+
+118
+00:15:15,760 --> 00:15:20,993
+Za one koji je ne poznaju,
+ûeleo bih da vam predstavim
+
+119
+00:15:21,160 --> 00:15:23,628
+svoju ljupku Êerku Brendi.
+
+120
+00:15:23,880 --> 00:15:28,749
+Brendi, da li bi
+ti i moj buduÊi unuk ustali?
+
+121
+00:15:32,120 --> 00:15:36,875
+I Ëovek koji ju je usreÊio,
+moj zet, Dejvid Kulfild.
+
+122
+00:15:37,280 --> 00:15:41,273
+On je jedan od najboljih
+pravnika zapadne obale
+
+123
+00:15:41,480 --> 00:15:46,508
+i sin mog dragog prijatelja
+senatora Kulfilda.
+
+124
+00:15:49,480 --> 00:15:55,271
+Senator koji pokuöava da pojaËa
+razvoj privatnih avio kompanija?
+
+125
+00:15:55,680 --> 00:15:59,309
+Korbet nije budala.
+- Novi program koji smo razvili
+
+126
+00:15:59,600 --> 00:16:07,075
+daje nam savröen raËunarski
+sistem upravljanja avionom,
+
+127
+00:16:07,840 --> 00:16:10,274
+prvi takav u svetu.
+
+128
+00:16:12,320 --> 00:16:16,791
+SreÊan sam öto mogu
+da najavim da za 18 sati
+
+129
+00:16:17,000 --> 00:16:22,279
+ovaj vaûni trio uÊi Êe sa mnom
+na Genisis II. Na prvi let
+
+130
+00:16:22,480 --> 00:16:25,756
+od Sietla do Los Anelesa.
+
+131
+00:16:27,920 --> 00:16:31,993
+I na kraju, znam da
+ûelite da upoznate pilota
+
+132
+00:16:32,200 --> 00:16:36,478
+sutraönjeg istorijskog leta.
+Kapetan Ris Robinson.
+
+133
+00:16:43,480 --> 00:16:45,675
+Ris, samo izvoli.
+
+134
+00:16:49,400 --> 00:16:53,109
+Ne znam koliko i tehniËari
+koji su programirali sistem,
+
+135
+00:16:53,320 --> 00:16:56,392
+ali daÊu sve od sebe
+da odgovorim na sva pitanja.
+
+136
+00:16:56,600 --> 00:17:00,513
+Kako ovo radi? - Sjajno.
+Sve sam dobro ispitala.
+
+137
+00:17:00,720 --> 00:17:04,315
+Spremni smo. - Mislila sam,
+na kom principu radi?
+
+138
+00:17:04,520 --> 00:17:10,789
+Uzeli smo 320 struËnih ekipa
+koji su pristupili terminalima
+
+139
+00:17:11,000 --> 00:17:14,754
+i 3-dimenzionalnom
+interaktivnom sistemu i dobili
+
+140
+00:17:14,880 --> 00:17:19,829
+savröenstvo letenja.
+- Rekao sam vam.
+
+141
+00:17:23,200 --> 00:17:25,350
+Mogu da pojednostavim.
+
+142
+00:17:25,560 --> 00:17:30,554
+Genisis II. Je mlaznjak koji
+poleÊe, leti i sleÊe sam.
+
+143
+00:17:33,400 --> 00:17:35,277
+Ja imam pitanje.
+
+144
+00:17:38,280 --> 00:17:43,957
+Kako se moûete smatrati
+pilotom, kada Ëip upravlja?
+
+145
+00:17:46,000 --> 00:17:51,199
+Verujte, imam dugogodiönje
+iskustvo i zaista sam pilot.
+
+146
+00:17:53,400 --> 00:17:55,277
+Lepo reËeno, kapetane.
+
+147
+00:17:56,640 --> 00:18:01,270
+Ovo je 21. vek. Pravi se
+piloti mogu prilagoditi,
+
+148
+00:18:01,480 --> 00:18:05,473
+nadograditi svoju veötinu
+novom, dostupnom tehnologijom.
+
+149
+00:18:05,720 --> 00:18:10,589
+Pilot koji se ne prilagodi
+novoj tehnologiji, nije pilot,
+
+150
+00:18:11,840 --> 00:18:14,115
+veÊ zastareli pilot.
+
+151
+00:18:18,400 --> 00:18:23,713
+To bi bilo sve. Ako ûelite
+da fotografiöete letelicu,
+
+152
+00:18:23,880 --> 00:18:29,318
+slobodno priite. Kasnije Êu
+vam pokazati kabinu. Hvala.
+
+153
+00:18:40,640 --> 00:18:44,872
+Znaö li ko je seronja
+u koûnij jakni? - Ne.
+
+154
+00:19:27,640 --> 00:19:29,471
+Ne, ne. »ekaj, Ëekaj.
+
+155
+00:19:31,280 --> 00:19:33,191
+éeliö li Ëokoladu, devojËice?
+
+156
+00:19:43,760 --> 00:19:45,637
+Nema na Ëemu!
+
+157
+00:19:47,640 --> 00:19:49,631
+Nema na Ëemu!
+
+158
+00:20:25,040 --> 00:20:27,315
+ISTORIJU STVARAJU HRABRI
+
+159
+00:21:10,040 --> 00:21:14,875
+Zdravo. Nisam te Ëuo. - Vi ste
+zvali za ADSL prikljuËak?
+
+160
+00:21:39,360 --> 00:21:40,429
+Zdravo.
+
+161
+00:21:42,760 --> 00:21:45,638
+Joö se ljutiö? - Seronjo.
+
+162
+00:21:47,760 --> 00:21:51,833
+I ti si meni nedostajala,
+duöo. - Viöe nismo u braku.
+
+163
+00:21:53,200 --> 00:21:54,474
+Dobro.
+
+164
+00:21:57,320 --> 00:21:59,436
+Za tebe. - Daj, molim te.
+
+165
+00:22:01,760 --> 00:22:05,833
+éao mi je öto sam ti danas
+spustio, ali... - Nije ti ûao.
+
+166
+00:22:07,800 --> 00:22:12,999
+Dobro, nije mi ûao. Nisam
+mislio da Êeö uÊi u ovo.
+
+167
+00:22:13,200 --> 00:22:15,395
+Mislio sam da si pravi pilot.
+
+168
+00:22:15,880 --> 00:22:17,836
+Ja bar joö letim.
+
+169
+00:22:20,720 --> 00:22:22,631
+To sam zasluûio.
+
+170
+00:22:24,720 --> 00:22:26,676
+Moûda sam samo ljubomoran.
+
+171
+00:22:28,200 --> 00:22:29,679
+Ljubomoran...
+
+172
+00:22:30,760 --> 00:22:32,716
+I veoma ponosan.
+
+173
+00:22:36,320 --> 00:22:38,436
+Nimalo ti nisam nedostajao?
+
+174
+00:23:57,000 --> 00:23:59,150
+äta radiö ovde, Piter?
+
+175
+00:24:00,960 --> 00:24:02,712
+U Sietlu.
+
+176
+00:24:04,080 --> 00:24:08,835
+Pokuöavam da sredim ûivot.
+Prestao sam da pijem. - Je li?
+
+177
+00:24:09,800 --> 00:24:12,360
+Kada? - Nedeljama ne pijem.
+
+178
+00:24:12,880 --> 00:24:16,919
+Dobro, dve nedelje.
+- I kako je?
+
+179
+00:24:19,320 --> 00:24:21,197
+Zna da bude stvarno teöko.
+
+180
+00:24:22,800 --> 00:24:26,395
+Ovo Êe te zanimati.
+Pokuöavam da pokrenem posao.
+
+181
+00:24:27,000 --> 00:24:28,911
+»arter letovi do Havaja.
+
+182
+00:24:30,360 --> 00:24:34,592
+Super, ha? - ZnaËi, vratili
+su ti dozvolu? - Joö nisu.
+
+183
+00:24:36,880 --> 00:24:39,030
+Jesi li je traûio?
+
+184
+00:24:44,120 --> 00:24:47,112
+Stvarno ti ûelim
+svu sreÊu, Piter.
+
+185
+00:24:49,480 --> 00:24:51,436
+Uskoro Êu je traûiti.
+
+186
+00:24:56,600 --> 00:25:01,720
+Mogli bi da izaemo na veËeru.
+Normalno da razgovaramo.
+
+187
+00:25:08,480 --> 00:25:10,072
+Umorna sam.
+
+188
+00:25:12,400 --> 00:25:15,198
+Onda moûemo da naruËimo hranu.
+
+189
+00:25:16,880 --> 00:25:20,998
+Moûda neöto zaËinjeno,
+da ponovo pokrenemo vatru.
+
+190
+00:25:21,280 --> 00:25:25,353
+Vatra nam nikad nije bila
+problem. - Tu se slaûemo.
+
+191
+00:25:26,920 --> 00:25:31,550
+Gotovo je, Piter. Ne mogu
+viöe onako. To je iza mene.
+
+192
+00:25:35,920 --> 00:25:40,835
+Bar sam pokuöao oûiveti neöto
+öto je bilo stvarno dobro.
+
+193
+00:25:45,600 --> 00:25:48,637
+Moram za sutra
+da pripremim plan leta.
+
+194
+00:25:50,640 --> 00:25:52,915
+Idem da se istuöiram. - Dobro.
+
+195
+00:26:37,120 --> 00:26:38,678
+Hardvej.
+
+196
+00:26:39,320 --> 00:26:43,438
+Nede, PtiËar je. - Ono danas
+ti je stvarno bilo zgodno.
+
+197
+00:26:43,720 --> 00:26:47,713
+Koji ti je avo bio?
+- Samo sam se malo zabavio.
+
+198
+00:26:48,000 --> 00:26:50,309
+Nede... - äta je?
+
+199
+00:26:51,600 --> 00:26:54,319
+Dobro bi mi doöao prijatelj,
+
+200
+00:26:54,600 --> 00:26:58,832
+a lako bih mogao da zavröim
+pod öankom. - Gde si?
+
+201
+00:26:59,040 --> 00:27:01,713
+Na parkingu uz nevolje.
+
+202
+00:27:04,080 --> 00:27:09,313
+U redu. Zapiöi adresu.
+1652 Oakmont, br 27.
+
+203
+00:27:09,520 --> 00:27:12,318
+Doi za pola sata?
+- Vidimo se.
+
+204
+00:27:24,280 --> 00:27:26,271
+Jesu li svi seli?
+
+205
+00:27:28,480 --> 00:27:32,234
+Moûemo li poËeti?
+Dobro doöli...
+
+206
+00:27:38,360 --> 00:27:39,839
+Sedi.
+
+207
+00:27:43,040 --> 00:27:45,235
+ZapoËnimo molitvom spokoja.
+
+208
+00:27:49,720 --> 00:27:54,475
+Daruj mi spokoj da prihvatim
+stvari koje ne mogu menjati,
+
+209
+00:27:54,720 --> 00:27:57,598
+hrabrost da menjam stvari
+koje mogu promeniti
+
+210
+00:27:57,760 --> 00:28:01,116
+i mudrost da umem
+razlikovati prvo od drugoga.
+
+211
+00:28:01,280 --> 00:28:05,068
+Vidim da danas imamo
+novog gosta. Dobrodoöao.
+
+212
+00:29:51,640 --> 00:29:56,714
+I Cezarov duh osvete ûeljan
+uz Ata doe ravno iz pakla,
+
+213
+00:29:57,160 --> 00:30:03,269
+treba li kriknuti vladarskim
+glasom i pustiti pse rata.
+
+214
+00:30:25,200 --> 00:30:29,113
+Da pogodim, zaboravio si alat?
+- Baö i nisam.
+
+215
+00:30:34,960 --> 00:30:36,632
+Kako bih rekao...
+
+216
+00:30:37,040 --> 00:30:41,113
+Vidiö, haker prepoznaje
+hakera. - Haker?
+
+217
+00:30:42,560 --> 00:30:46,712
+Ne znam koga muljaö, ali
+znam da je veliko. - Misliö?
+
+218
+00:30:47,720 --> 00:30:50,678
+Naravno. - Dobro, i...?
+
+219
+00:30:51,320 --> 00:30:56,314
+Ne volim da se hvalim ali nisam
+loö. Mogli bi da se udruûimo.
+
+220
+00:30:58,960 --> 00:31:03,829
+Zanimljivo. Zar ne bi
+trebao da si joö na poslu?
+
+221
+00:31:04,040 --> 00:31:06,270
+Odjavio sam se pre 1 h.
+
+222
+00:31:07,440 --> 00:31:09,874
+Smem? - Naravno. Samo izvoli.
+
+223
+00:31:22,360 --> 00:31:24,590
+HoÊeö pivo? - Moûe.
+
+224
+00:31:31,720 --> 00:31:35,190
+Sranje. Ovo je stvarno veliko.
+
+225
+00:31:37,600 --> 00:31:39,909
+Hvala. Laskaö mi.
+
+226
+00:33:13,280 --> 00:33:15,077
+Za mene?
+
+227
+00:33:20,760 --> 00:33:22,512
+Lepo je.
+
+228
+00:33:25,960 --> 00:33:28,315
+éeliö da ueö? - U redu.
+
+229
+00:34:00,960 --> 00:34:05,954
+Ris. - Hvala. - Kako je
+u LA-u? - SunËano, 21 stepen.
+
+230
+00:34:06,960 --> 00:34:10,919
+RuËaÊemo na plaûi.
+- Meni odgovara. Kako ste vi?
+
+231
+00:34:11,120 --> 00:34:15,477
+Ide. - Super nam je.
+- Sjajno. - Super nam je?
+
+232
+00:34:16,400 --> 00:34:20,154
+Dobro jutro, senatore
+Kulfild. - Dobro jutro.
+
+233
+00:34:34,200 --> 00:34:38,113
+Jako lepo, Ti. Ovo mi se
+viöe svia od predsedniËkog.
+
+234
+00:34:38,720 --> 00:34:42,713
+Predsednik ipak ima malo
+lepöi dom od mog.
+
+235
+00:34:44,520 --> 00:34:46,112
+Ne puno.
+
+236
+00:34:54,120 --> 00:34:56,236
+Piter, da me bar sada vidiö.
+
+237
+00:35:18,400 --> 00:35:22,632
+Onda, kako ti se za sada
+svia? - Veoma mi se svia.
+
+238
+00:35:46,640 --> 00:35:49,029
+äta radiö? - Moram u WC.
+
+239
+00:35:53,280 --> 00:35:54,952
+Ova vrata.
+
+240
+00:36:08,720 --> 00:36:10,915
+Povezani smo. UËitavam.
+
+241
+00:36:29,480 --> 00:36:33,598
+Svia ti se moja igrica?
+- Smem li da se igram?
+
+242
+00:36:33,920 --> 00:36:39,836
+Moûda kasnije. Mogla bi otiÊi
+kuÊi da se mama ne brine.
+
+243
+00:36:41,240 --> 00:36:43,151
+Ozbiljno. Hajde.
+
+244
+00:37:04,040 --> 00:37:07,669
+ZAPO»INJEM PREUZIMANJE
+UPRAVLJANJA AVIONOM
+
+245
+00:37:38,640 --> 00:37:40,949
+Gde si bila? - Dole.
+
+246
+00:37:43,160 --> 00:37:45,276
+Nisi iöla napolje?
+
+247
+00:37:47,200 --> 00:37:49,589
+Znaö da napolju nije sigurno.
+
+248
+00:37:58,200 --> 00:37:59,758
+Hvala.
+
+249
+00:38:02,600 --> 00:38:04,909
+Jesi li gladna? - Nisam.
+
+250
+00:38:06,600 --> 00:38:11,230
+Dobro, mama ide da spava.
+Gledaj TV, moûe?
+
+251
+00:38:22,960 --> 00:38:26,589
+Dobro jutro, dame i gospodo.
+Govori vam kopilot.
+
+252
+00:38:26,800 --> 00:38:31,157
+Nadam se da svi uûivate.
+»ekamo odobrenje iz Tornja.
+
+253
+00:38:31,360 --> 00:38:35,672
+Genisis II., moûete poleteti.
+Pista 34 desno. - Primljeno.
+
+254
+00:38:35,960 --> 00:38:39,794
+Moûemo poleteti. Pista
+34 desno. Hvala, Sietl.
+
+255
+00:38:40,280 --> 00:38:44,159
+Genisis baza, Ëujemo se?
+- Ovde smo. Prijatan let.
+
+256
+00:38:48,400 --> 00:38:50,311
+Ovo Êe biti uzbudljivo.
+
+257
+00:38:52,800 --> 00:38:54,153
+Uzbudljivo?
+
+258
+00:38:55,520 --> 00:38:57,351
+Ni ne znaö koliko.
+
+259
+00:38:59,960 --> 00:39:04,112
+Pista 34 je slobodna.
+- Primljeno. Hvala, Sietl.
+
+260
+00:40:02,480 --> 00:40:04,755
+SUNCE I PESAK
+
+261
+00:40:24,360 --> 00:40:28,876
+Sad sam ja stjuardesa.
+Viski, Dûone? - Moûe.
+
+262
+00:40:29,080 --> 00:40:32,197
+Dejvide? - Meni je prerano
+za to, ali hvala.
+
+263
+00:40:32,920 --> 00:40:38,199
+Ti neÊeö niöta. - SkuvaÊu
+kafu. - Samo ti sedi. Ja Êu.
+
+264
+00:40:38,800 --> 00:40:42,315
+U redu. - Ako je kao naö.
+
+265
+00:40:52,960 --> 00:40:57,715
+Tako. Samo se vi opustite.
+Zabava samo öto nije poËela.
+
+266
+00:41:01,600 --> 00:41:03,670
+Ja preuzimam, kapetane.
+
+267
+00:41:05,720 --> 00:41:08,996
+Sietl u LA, neÊe moÊi.
+
+268
+00:41:12,040 --> 00:41:14,952
+Da vidimo, gde Êemo danas?
+
+269
+00:41:17,360 --> 00:41:20,591
+Znam, znam. äta kaûete...
+
+270
+00:41:22,720 --> 00:41:25,109
+Nigde i to brzo.
+
+271
+00:41:29,600 --> 00:41:34,310
+Genisis, ovde Sietl,
+skreÊete levo. - Ponovite.
+
+272
+00:41:34,640 --> 00:41:39,998
+Vidimo da skreÊete levo.
+Zaboravili ste put za LA?
+
+273
+00:41:40,760 --> 00:41:45,151
+Potvrujem okret. RaËunar
+kaûe da letimo ravno.
+
+274
+00:41:47,080 --> 00:41:52,200
+Plan nam je nestao. Pokazuje
+neko kruûenje oko Sietla.
+
+275
+00:41:53,000 --> 00:41:58,313
+äta se deöava? - I ja se
+pitam. Bazo, moûete li pomoÊi?
+
+276
+00:41:58,760 --> 00:42:02,514
+Radimo na tomu, Ris. Sigurno
+greöka u navigacijskoj bazi.
+
+277
+00:42:02,760 --> 00:42:06,753
+Da prebacim na ruËno? - Ne.
+U pravo pregledamo postavke.
+
+278
+00:42:06,960 --> 00:42:11,192
+Ovde Sietl, premeötamo
+saobraÊaj s vaöe visine.
+
+279
+00:42:19,840 --> 00:42:24,118
+Sunce i pesak, izvolite.
+Zdravo, »ak.
+
+280
+00:42:24,840 --> 00:42:29,755
+»uj, naiöao sam na oglas
+u Sietl Tribjunu.
+
+281
+00:42:30,000 --> 00:42:33,879
+Piöe da se mogu dobiti
+nedelje za pristojnu...
+
+282
+00:42:34,920 --> 00:42:36,512
+Molim?
+
+283
+00:42:40,440 --> 00:42:42,829
+Zar se nismo dogovorili?
+
+284
+00:42:43,600 --> 00:42:45,636
+Dogovorio sam 737!
+
+285
+00:42:49,360 --> 00:42:51,510
+Znam da je novac tvoj.
+
+286
+00:42:53,200 --> 00:42:55,111
+Znam.
+
+287
+00:42:56,040 --> 00:43:01,068
+Dobro, zaboravi. Da sam konj,
+ni ja ne bih uloûio u sebe.
+
+288
+00:43:02,080 --> 00:43:03,752
+»ujemo se.
+
+289
+00:43:10,400 --> 00:43:11,992
+»oveËe.
+
+290
+00:43:15,560 --> 00:43:19,633
+Ni ne znaö koliko sam
+ti zahvalan za podröku.
+
+291
+00:43:20,760 --> 00:43:25,276
+Uz troökove pada i prepravke
+programa za avion,
+
+292
+00:43:25,640 --> 00:43:30,953
+stvarno je bilo kritiËno.
+- Nema pravila kod lobiranja.
+
+293
+00:43:31,320 --> 00:43:33,629
+Senatore je teöko proËitati.
+
+294
+00:43:33,880 --> 00:43:37,634
+Ali dali smo sve od sebe.
+- Znam da jesi, Dûone.
+
+295
+00:43:37,840 --> 00:43:43,392
+Genijalno si se setio ubaciti
+vojsku u ovu tehnologiju.
+
+296
+00:43:44,000 --> 00:43:46,309
+Deonice su napokon skoËile.
+
+297
+00:43:48,400 --> 00:43:52,598
+Hvala ti. Bespilotne ratne
+letelice uvek dobro prolaze
+
+298
+00:43:52,840 --> 00:43:55,115
+kod ameriËkih majki.
+
+299
+00:44:49,640 --> 00:44:52,791
+Kako si uöla?
+- Vrata su bila otvorena.
+
+300
+00:44:57,600 --> 00:45:00,797
+U redu je.
+Samo si me iznenadila.
+
+301
+00:45:13,320 --> 00:45:14,878
+Svia ti se?
+
+302
+00:45:23,520 --> 00:45:28,196
+Genisis baza, reöili
+ste problem? - Nismo, Ris.
+
+303
+00:45:28,520 --> 00:45:34,038
+éao mi je. - BiÊe sranja,
+ali moram reÊi g. Korbetu.
+
+304
+00:45:35,680 --> 00:45:39,514
+Ima pravo. Korbet
+mora da zna öta se deöava.
+
+305
+00:45:39,720 --> 00:45:43,759
+JaviÊu joö nekome.
+- Ljudima senatora Kolfilda?
+
+306
+00:45:44,440 --> 00:45:46,476
+TrebaÊe i njima javiti.
+
+307
+00:46:04,120 --> 00:46:09,638
+Dobili ste Sunce i pesak.
+Propali smo, ali... - Ned je.
+
+308
+00:46:11,960 --> 00:46:17,353
+Zakasnio si. - Ne znam öta je,
+ali doi u Genisis bazu.
+
+309
+00:46:18,680 --> 00:46:23,674
+Imamo nevolje sa avionom.
+- äta? Stiûem.
+
+310
+00:46:26,080 --> 00:46:31,518
+Zar niko ne zna kako
+je jedan rutinski let
+
+311
+00:46:32,080 --> 00:46:37,598
+koji je Ris uËitala mutirao
+u 45-minutno kruûenje gradom?
+
+312
+00:46:38,000 --> 00:46:43,074
+A öta da kaûem? To se ne sme
+desiti. LogiËki je nemoguÊe.
+
+313
+00:46:43,400 --> 00:46:48,520
+Ali ipak se deöava. GlupaËa.
+Najbolji i najpametniji.
+
+314
+00:46:49,880 --> 00:46:51,871
+Ima li neöto na...?
+
+315
+00:46:56,720 --> 00:46:58,358
+äta?
+
+316
+00:47:03,200 --> 00:47:05,350
+HoÊeö se igrati? - Moûe.
+
+317
+00:47:07,440 --> 00:47:09,715
+Super je, zar ne?
+
+318
+00:47:16,560 --> 00:47:18,312
+Pritisni ovo.
+
+319
+00:47:19,960 --> 00:47:24,750
+Imate joö 10 minuta i onda
+Êemo iskljuËiti raËunar
+
+320
+00:47:24,960 --> 00:47:27,952
+i sleteti na stari naËin.
+Dobro me sluöajte.
+
+321
+00:47:28,160 --> 00:47:32,517
+Ne volim javno sramoÊenje.
+Bolje da do toga ne doe.
+
+322
+00:47:33,000 --> 00:47:36,549
+Razumemo, g. Korbet.
+- Genisis, ovde Sietl.
+
+323
+00:47:36,760 --> 00:47:40,639
+Proverite svoju visinu.
+Spuötate se prema saobraÊaju.
+
+324
+00:47:40,880 --> 00:47:45,396
+Trebali bi da smo na 230.
+- äto se ovde deöava?
+
+325
+00:47:50,160 --> 00:47:54,312
+Jesam li ti rekao
+da i ja imam Êerku? Stvarno.
+
+326
+00:47:55,080 --> 00:47:58,550
+Nije starija od tebe.
+- Gde je?
+
+327
+00:48:01,160 --> 00:48:03,594
+Ne znam. Negde.
+
+328
+00:48:05,280 --> 00:48:06,998
+S majkom.
+
+329
+00:48:08,360 --> 00:48:12,035
+Bler! - Idi. Brzo. Brzo.
+
+330
+00:48:22,760 --> 00:48:26,878
+Bler? - Neka ovo ostane
+naöa tajna. - Jesi li dole?
+
+331
+00:48:28,400 --> 00:48:30,277
+Bler? - Stiûem.
+
+332
+00:48:47,040 --> 00:48:50,874
+Sietl, Genisis se
+nekontrolisano spuöta.
+
+333
+00:48:53,880 --> 00:48:58,476
+Ne moûemo ih viöe Ëekati.
+Ovo je veÊ opasno.
+
+334
+00:48:59,480 --> 00:49:04,508
+Doavola. U redu. Prei na
+ruËno upravljanje i vrati nas.
+
+335
+00:49:06,640 --> 00:49:09,074
+Ne radi. Ne mogu da prebacim.
+
+336
+00:49:10,000 --> 00:49:13,515
+Sietl, Genisis
+objavljuje stanje uzbune.
+
+337
+00:49:19,320 --> 00:49:21,356
+Izravnali smo se.
+
+338
+00:49:23,000 --> 00:49:28,154
+äta se deöava? - Ne moûete uÊi.
+- U redu je. Ja sam Risin deËko.
+
+339
+00:49:29,720 --> 00:49:33,235
+Samo bez panike.
+Problemi s raËunarom.
+
+340
+00:49:33,440 --> 00:49:36,955
+Bolje nam je bilo kad su
+piloti upravljali avionom.
+
+341
+00:49:37,240 --> 00:49:40,198
+Pio si. - Uspeo sam
+da popijem samo jednu.
+
+342
+00:49:40,400 --> 00:49:45,076
+Trebao si da doneseö flaöu.
+I meni treba. - äta se deöava?
+
+343
+00:49:45,360 --> 00:49:47,635
+Izravnali su se na 4.500 m.
+
+344
+00:49:49,840 --> 00:49:53,913
+UkljuËili ste oznaku za
+pojaseve. Je li sve u redu?
+
+345
+00:49:54,640 --> 00:49:56,949
+Sve je super. - Loöe vreme.
+
+346
+00:49:58,080 --> 00:50:01,834
+Spustite se smesta!
+- äta sad!
+
+347
+00:50:02,040 --> 00:50:05,919
+Genisis! Avion je
+ispred vas!
+
+348
+00:50:07,480 --> 00:50:09,436
+Isuse.
+
+349
+00:50:10,440 --> 00:50:14,638
+Ne mogu niöta s ovim Ëudom.
+- Prerano je za uniötenje.
+
+350
+00:50:24,640 --> 00:50:26,437
+Dejvide!
+
+351
+00:50:27,320 --> 00:50:29,595
+Okrenimo ga. Polako.
+
+352
+00:50:35,600 --> 00:50:40,390
+Spasla si nam ûivote, Ris.
+- Nisam ja. - Ko je onda?
+
+353
+00:50:40,840 --> 00:50:42,193
+Ja.
+
+354
+00:50:44,640 --> 00:50:47,029
+äta se deöava, Ti? - Ne znam.
+
+355
+00:50:47,880 --> 00:50:53,034
+Dejvid je povreen. Mora u
+bolnicu. Koliko joö od LA-a?
+
+356
+00:50:53,360 --> 00:50:57,558
+Ne idemo u LA. Nalazimo se
+iznad Sietla. - äta?
+
+357
+00:51:02,200 --> 00:51:05,510
+Genisis II., Ëujete li me?
+Genisis II.?
+
+358
+00:51:06,320 --> 00:51:11,394
+Genisis bazo, Ëujete li nas
+barem vi? - »ujemo vas.
+
+359
+00:51:11,600 --> 00:51:15,559
+Prijavljen je bliski susret
+s Genisisom pre 4 min.
+
+360
+00:51:15,760 --> 00:51:20,436
+Na radaru ih vidimo, ali
+ne javljaju se. - Primljeno.
+
+361
+00:51:20,640 --> 00:51:25,316
+Ni mi nemamo vezu. Neöto im
+izaziva smetnje. - Ili neko.
+
+362
+00:51:25,800 --> 00:51:30,590
+Primam deliÊe prenosa prema
+avionu. - Koja frekvencija?
+
+363
+00:51:30,800 --> 00:51:36,318
+Ne mogu da odredim. - Pusti me.
+- äta radite? - Samo ga pusti.
+
+364
+00:51:36,840 --> 00:51:40,833
+Bio je najbolji vezista
+vazduönih snaga u Kuvajtu.
+
+365
+00:51:42,280 --> 00:51:47,479
+Traûimo ËiöÊenje saobraÊaja
+za Genisls. - VeÊ je reöeno.
+
+366
+00:52:17,160 --> 00:52:23,110
+Imam te. - NeÊu valjda sada
+odustati jer se neko udario?
+
+367
+00:52:23,640 --> 00:52:27,394
+äto je to? - Prenos
+prema Genisisu II...
+
+368
+00:52:27,640 --> 00:52:31,758
+Tip je preuzeo jednu
+od naöih veza. - Ko je on?
+
+369
+00:52:32,000 --> 00:52:34,468
+Ne znam. Kamuflirao je glas.
+
+370
+00:52:35,200 --> 00:52:40,479
+Ne moûemo veËno ovako.
+- Zaöto? - NestaÊe nam goriva.
+
+371
+00:52:41,120 --> 00:52:45,671
+Pametna devojËica.
+- SruöiÊe ih. - Dosta je.
+
+372
+00:52:45,960 --> 00:52:49,714
+Moramo pokrenuti potragu
+i pronaÊi tog tipa.
+
+373
+00:52:49,920 --> 00:52:53,708
+Ne znam kako, ali uspeo
+je da ih preuzme sa zemlje.
+
+374
+00:52:53,960 --> 00:52:57,236
+Ko si ti?
+Zaöto nam ovo Ëiniö?
+
+375
+00:52:58,040 --> 00:53:01,794
+MuÊni malo glavom, Korbet.
+MuÊni malo glavom.
+
+376
+00:53:02,920 --> 00:53:05,514
+Zaöto bi neko ovo ûeleo?
+
+377
+00:53:38,800 --> 00:53:42,873
+Nisam sigurna, ali mislim
+da ima frakturu. - Boûe.
+
+378
+00:53:44,520 --> 00:53:49,674
+Samo se moûemo nadati
+da nema unutraönjeg krvarenja.
+
+379
+00:53:50,560 --> 00:53:52,790
+Dirljivo. Srce mi se lomi.
+
+380
+00:53:54,280 --> 00:53:58,637
+Vidi nas. KuËkin sin
+nas moûe videti.
+
+381
+00:54:05,280 --> 00:54:10,434
+Ni u ludilu. Takneö li koju
+od kamera, neÊe vas viöe biti.
+
+382
+00:54:10,640 --> 00:54:14,952
+Ionako Êeö nas pobiti.
+- Ne ûeliö joö malo da ûiviö?
+
+383
+00:54:15,960 --> 00:54:19,077
+Jebi se ti i tvoje igrice.
+
+384
+00:54:20,000 --> 00:54:24,551
+Jedan, dva, tri, Ëetiri, pet.
+Petoro vas je ovde.
+
+385
+00:54:25,000 --> 00:54:30,393
+Ko upravlja avionom?
+- Ti, seronjo. - Sigurno?
+
+386
+00:54:51,720 --> 00:54:54,871
+2.250 m, 2. 100 m...
+
+387
+00:54:56,280 --> 00:54:59,636
+1.950 m, 1.800 m...
+
+388
+00:54:59,840 --> 00:55:02,115
+Prestani. I sami vidimo.
+
+389
+00:55:26,840 --> 00:55:30,913
+Izgleda se da ipak ja upravljam
+avionom. Moja pogreöka.
+
+390
+00:55:43,160 --> 00:55:48,029
+Ne mogu ovako, Ti. Sin
+mi moûda umire. - Ne, Dûon.
+
+391
+00:55:48,240 --> 00:55:50,515
+Niko ovde neÊe umreti.
+
+392
+00:56:12,600 --> 00:56:16,559
+Doavola. - äta je?
+- Ne moûemo da ga pronaemo.
+
+393
+00:56:16,800 --> 00:56:19,075
+Ima neku snaûnu jeku.
+
+394
+00:56:20,320 --> 00:56:24,836
+äta to znaËi? - Sve öto öalje
+ide preko nekakve zaötite
+
+395
+00:56:25,040 --> 00:56:29,113
+koja ih razbaca na milione
+lokacija. Raspröivanje.
+
+396
+00:56:30,000 --> 00:56:35,552
+To bih ja njemu uradio.
+- Sistemom koji samo on zna
+
+397
+00:56:35,760 --> 00:56:39,389
+sve se öalje
+u Genisis II. I tamo slaûe.
+
+398
+00:56:39,600 --> 00:56:43,229
+Moûe biti bilo gde?
+- Bilo gde na planeti.
+
+399
+00:56:44,400 --> 00:56:48,712
+Upravo se Sietl javio. Ljudi
+senatora su ukljuËili FBI.
+
+400
+00:56:49,040 --> 00:56:54,956
+Agenti su u kontrolnom tornju.
+- Samo su nam joö oni trebali.
+
+401
+00:56:55,320 --> 00:56:59,279
+Znam. PokuöaÊu da ih zadrûim.
+- äta Êemo sada?
+
+402
+00:56:59,480 --> 00:57:04,270
+Nadati se da Êe ekipa otkriti
+kako je preuzeo avion
+
+403
+00:57:05,080 --> 00:57:07,469
+da bi ga mogli iskljuËiti.
+
+404
+00:57:10,920 --> 00:57:14,117
+Druötvo, to je
+naöa mala tajna.
+
+405
+00:57:40,680 --> 00:57:43,274
+Bler! Duöo, öta ti je?
+
+406
+00:57:44,080 --> 00:57:48,471
+Daj, duöo, öta ti je?
+Reci neöto mami!
+
+407
+00:57:50,360 --> 00:57:52,555
+Pomozite mi!
+
+408
+00:58:19,560 --> 00:58:24,315
+äta je djevojËici? - Ne znam.
+Mama kaûe da se samo sruöila.
+
+409
+00:58:33,080 --> 00:58:35,640
+Imam pitanje za tebe! Hej!
+
+410
+00:58:36,960 --> 00:58:41,397
+»ujeö li nas?
+- Malo sam razmiöljala.
+
+411
+00:58:42,080 --> 00:58:45,709
+Mogao nas je oteti jedino...
+- Moûda je varka.
+
+412
+00:58:46,320 --> 00:58:48,356
+Imaö pravo. Nije prva.
+
+413
+00:59:01,200 --> 00:59:06,194
+Da bi ovo izveo, morao je
+smisliti simulator koji
+
+414
+00:59:06,280 --> 00:59:11,559
+povezuje naöe raËunare. - Da.
+- Nekako mi se ubacio u laptop.
+
+415
+00:59:11,760 --> 00:59:15,719
+Sigurno sam poslala preko
+njega plan leta u avion.
+
+416
+00:59:15,920 --> 00:59:21,313
+I sada on svime upravlja.
+- Sve je pod nadzorom raËunara.
+
+417
+00:59:21,640 --> 00:59:26,589
+Samo ne moûe upravljati
+WC-om, a moûda i moûe.
+
+418
+00:59:27,000 --> 00:59:29,275
+ZnaËi, najebali smo.
+
+419
+01:00:01,240 --> 01:00:05,279
+Laptop mi je joö spojen.
+Ako ponovno podignem programe,
+
+420
+01:00:05,560 --> 01:00:11,032
+moûda to uniöti njegov program
+i uspem da preem na ruËno.
+
+421
+01:00:11,680 --> 01:00:14,194
+Tako bi bar trebalo. - Dobro.
+
+422
+01:00:20,640 --> 01:00:25,794
+Korbet, vraûe jedan. Tucaö
+pilota na 4.500 metara?
+
+423
+01:00:25,960 --> 01:00:30,317
+Bilo je sjajno. äteta öto si
+sve propustio. Imaö cigaretu?
+
+424
+01:00:30,640 --> 01:00:32,756
+NedostajaÊete mi.
+
+425
+01:00:33,960 --> 01:00:36,428
+äteta öto ti meni neÊeö.
+
+426
+01:00:43,240 --> 01:00:47,995
+Sve u redu? - Mislila si da Êu
+neöto prepustiti sluËaju?
+
+427
+01:00:50,080 --> 01:00:54,790
+To je, znaËi, to? Nemam pojma
+s kakvom budalom imamo posla.
+
+428
+01:01:01,720 --> 01:01:06,840
+Ja sam, Korbet. Javljam
+ti se iz svog piËkovca.
+
+429
+01:01:07,040 --> 01:01:10,112
+Isuse. - Gabriel Vingfild?
+
+430
+01:01:10,400 --> 01:01:13,631
+Ko je sad to? - Bivöi
+zaposleni. - Malo je pukao.
+
+431
+01:01:13,840 --> 01:01:18,470
+Ostali smo zateËeni?
+Ovo Êe vas malo trgnuti.
+
+432
+01:01:19,120 --> 01:01:21,395
+Proverite oËitanje goriva.
+
+433
+01:01:24,240 --> 01:01:27,949
+OËitavanje je palo na 6.000.
+Malopre je bilo 10.000.
+
+434
+01:01:28,200 --> 01:01:33,797
+Nije. Malo sam ga podesio
+da vam ne naspu puno.
+
+435
+01:01:36,960 --> 01:01:42,159
+Po mojoj proceni, ostalo vam
+je joö za dva sata. Tik-tak.
+
+436
+01:02:02,280 --> 01:02:05,989
+Zaboga. - Mislim da joj
+je pauk izaöao iz rukava.
+
+437
+01:02:12,280 --> 01:02:15,750
+Verovatno nije vaûno, ali
+bolje da saznamo koji je.
+
+438
+01:02:16,040 --> 01:02:19,919
+Javite da poöalju öto
+pre nekoga sa univerziteta.
+
+439
+01:02:24,480 --> 01:02:29,395
+Ne radi to. Mene mrziö,
+ali ne zaboravi da je ovde
+
+440
+01:02:29,600 --> 01:02:33,752
+joö Ëetvoro neduûnih ljudi.
+Dve ûene. Jedna je trudna.
+
+441
+01:02:33,880 --> 01:02:38,556
+A joö ljudi na tlu. Desetine
+su u opasnosti. - Stotine.
+
+442
+01:02:38,800 --> 01:02:41,917
+Molim te.
+DaÊu ti sve öto ûeliö.
+
+443
+01:02:47,760 --> 01:02:49,990
+VratiÊeö mi karijeru?
+
+444
+01:02:50,840 --> 01:02:53,115
+Ugled?
+
+445
+01:02:56,720 --> 01:02:58,631
+Moûda porodicu?
+
+446
+01:03:00,120 --> 01:03:04,796
+I zgubio sam porodicu radeÊi
+za tebe. Imao sam Êerku.
+
+447
+01:03:08,520 --> 01:03:12,752
+To ti sve ne mogu vratiti,
+ali mogu ti ublaûiti gubitak.
+
+448
+01:03:13,040 --> 01:03:19,878
+Reci iznos. Milion dolara?
+Dva? - äta kaûeö na deset?
+
+449
+01:03:23,600 --> 01:03:29,311
+Ako toliko ûeliö.
+- 20? - Reci koliko traûiö!
+
+450
+01:03:30,080 --> 01:03:32,640
+éelim sve, Kûorbet! Sve!
+
+451
+01:03:34,360 --> 01:03:38,797
+Ali 20 miliona je lepa
+brojka. Moûeö toliko da skupiö?
+
+452
+01:03:40,440 --> 01:03:44,558
+Zaboga, moûeö. Sve öto treba.
+- Kako Êemo javiti mojima?
+
+453
+01:03:44,720 --> 01:03:48,793
+Za to se ne brini. Trebalo
+im je vremena, ali sve znaju.
+
+454
+01:03:51,200 --> 01:03:54,351
+Zdravo, jesam li vam
+nedostajao? - Gabriele?
+
+455
+01:03:54,560 --> 01:03:59,350
+Dobar ti je sistem, Tami.
+Sjajan, ali moj je bolji.
+
+456
+01:03:59,520 --> 01:04:03,479
+Ugasio je smetnje.
+- Ris? - Piter?
+
+457
+01:04:03,680 --> 01:04:09,277
+Drûi se. - Izvini, ko god ti
+bio, ali ovo je moj trenutak.
+
+458
+01:04:09,600 --> 01:04:15,436
+KuËkin sine... - Osetljivi smo.
+Dosta priËe, skupljajte novac.
+
+459
+01:04:17,480 --> 01:04:22,793
+Ponovno nas ometa. - éelim 20
+mil. U 2 velika siva kovËega.
+
+460
+01:04:23,400 --> 01:04:27,234
+Ako nisu sivi, dogovor
+otpada. - Kakve veze boja ima?
+
+461
+01:04:27,520 --> 01:04:29,397
+Ostavite novac na uglu...
+
+462
+01:04:33,120 --> 01:04:34,519
+Ne.
+
+463
+01:04:38,480 --> 01:04:42,632
+Ostavite novac na polju
+gde se Genisis I. Sruöio.
+
+464
+01:04:45,440 --> 01:04:47,510
+Prikladno je, zar ne?
+
+465
+01:04:49,280 --> 01:04:52,636
+Jedan od mojih...
+Kako se kaûe?
+
+466
+01:04:54,360 --> 01:04:59,559
+Kolega. Jedan od mojih kolega
+podiÊiÊe novac umesto mene.
+
+467
+01:05:01,080 --> 01:05:03,514
+Imate sat vremena od sada.
+
+468
+01:05:05,840 --> 01:05:10,038
+Javi kontrolnom tornju. Neka
+FBI ovo Ëuje. Oni Êe preuzeti.
+
+469
+01:05:11,560 --> 01:05:15,633
+PtiËaru, sve Êe biti u redu.
+- Ako ti tako kaûeö.
+
+470
+01:05:27,160 --> 01:05:29,310
+Svi Êemo se izvuÊi, duöo.
+
+471
+01:05:30,480 --> 01:05:32,232
+Svi.
+
+472
+01:05:57,600 --> 01:06:02,754
+Kruûi u sve veÊim krugovima.
+Soko ne Ëuje sokolara.
+
+473
+01:06:05,160 --> 01:06:09,199
+Stvari se raspadaju.
+Srediöte neÊe izdrûati.
+
+474
+01:06:15,680 --> 01:06:20,231
+Anarhija je krenula
+i sama nevinost je zatrta.
+
+475
+01:06:36,280 --> 01:06:39,511
+Go Abot, razgovarala sam
+s Ëovekom sa univerziteta.
+
+476
+01:06:39,720 --> 01:06:44,669
+Pauk je "sidnejski maljavi"
+Iz Australije i veoma otrovan.
+
+477
+01:06:45,320 --> 01:06:49,552
+Joö Ëekamo nalaz krvi,
+ali mislim da ju je ugrizao.
+
+478
+01:06:49,840 --> 01:06:54,356
+Kako? - Ne znam. Moûda ste
+ga doneli s pijace.
+
+479
+01:06:55,200 --> 01:06:59,796
+Nije ni vaûno. Najbliûi je
+protivotrov u San Francisku.
+
+480
+01:06:59,920 --> 01:07:03,993
+PoslaÊe nam ga mlaznjakom,
+ali stiÊi Êe za sat vremena.
+
+481
+01:07:04,320 --> 01:07:06,515
+Moramo je odrûati do tada.
+
+482
+01:07:08,320 --> 01:07:12,359
+Bler, u redu je. Mama je
+ovde. - Go Abot, molim vas.
+
+483
+01:07:13,760 --> 01:07:18,436
+Pomozite joj!
+- U redu je, duöo. - Drûi se.
+
+484
+01:07:20,200 --> 01:07:23,078
+Poûurite. U redu je, duöo.
+
+485
+01:08:11,600 --> 01:08:16,071
+Niko nije doöao po novac,
+ali ti si to i oËekivao.
+
+486
+01:08:16,320 --> 01:08:21,519
+Imao sam predoseÊaj. Sranja
+sa sivim kovËezima. - Da.
+
+487
+01:08:22,960 --> 01:08:27,556
+I da ostavimo kovËege na
+polju koje je lako nadgledati.
+
+488
+01:08:27,920 --> 01:08:32,914
+Gubitak vremena. Ovde se radi
+o osveti. - Koliko joö vremena?
+
+489
+01:08:34,480 --> 01:08:36,596
+Sat vremena. Jedva.
+
+490
+01:08:39,840 --> 01:08:44,038
+Mislio sam da sam doöao do
+pakla u Honoluluu pre 6 m.
+
+491
+01:08:44,440 --> 01:08:46,396
+Ovo je joö gore.
+
+492
+01:08:48,840 --> 01:08:50,796
+NauËio sam je da leti.
+
+493
+01:08:52,160 --> 01:08:57,314
+Svemu sam je nauËio i sada je
+gore, a ja ovde bespomoÊan.
+
+494
+01:08:57,840 --> 01:09:03,915
+Ljudi u bazi su dobri. PronaÊi
+Êe ga. - NeÊe. Predobar je.
+
+495
+01:09:04,680 --> 01:09:10,357
+Za sat vremena Êe s nekog
+krova gledati pad aviona.
+
+496
+01:09:12,080 --> 01:09:14,435
+Doavola. Imaö pravo!
+
+497
+01:09:15,600 --> 01:09:19,115
+äta je? - Ovde je u Sietlu.
+
+498
+01:09:19,880 --> 01:09:24,715
+Takav tip ûeli da bude u prvom
+redu. - I neÊe ga propustiti.
+
+499
+01:09:25,440 --> 01:09:29,956
+Zar je vaûno? Imamo stog,
+ali gde traûiti iglu?
+
+500
+01:09:33,680 --> 01:09:39,073
+Gde Êeö? - Ne mogu mirno da
+sedim! Moram neöto da radim!
+
+501
+01:09:40,520 --> 01:09:42,954
+Makar da se vozikam gradom.
+
+502
+01:09:44,160 --> 01:09:48,517
+Ako ima Boga, moûda me poöalje
+u pravu ulicu. - PtiËaru!
+
+503
+01:09:48,720 --> 01:09:51,871
+Drûi se s nama. Sranje.
+
+504
+01:09:54,800 --> 01:09:59,157
+Kako misliö, nema dogovora?
+- Recimo da sam se predomislio.
+
+505
+01:09:59,640 --> 01:10:05,351
+Dobio si öto ûeliö. - To ste vi
+mislili. Samo sam prihvatio.
+
+506
+01:10:06,000 --> 01:10:10,118
+Bolesni gade. - Bolestan?
+Ne bih rekao, öeÊeru.
+
+507
+01:10:10,400 --> 01:10:14,837
+Ja sam usredotoËen.
+Nikad se nije radilo o novcu.
+
+508
+01:10:15,040 --> 01:10:19,830
+Radi se o poötovanju.
+- Veoma te poötujem. Genije si.
+
+509
+01:10:20,040 --> 01:10:24,397
+Daj da okonËamo ovo.
+- To je bilo jadno, Korbet.
+
+510
+01:10:24,600 --> 01:10:28,752
+Bahatost i sarkazam koje
+Ëujem neÊe te napustiti
+
+511
+01:10:29,040 --> 01:10:32,999
+dok se avion ne zaleti
+u zemlju brzinom od 650 km/h.
+
+512
+01:10:33,200 --> 01:10:35,350
+Tada Êeö me poötovati.
+
+513
+01:10:36,440 --> 01:10:41,719
+Ovo je ludost. Zaboga,
+morate. - Ona niöta ne moûe.
+
+514
+01:10:42,920 --> 01:10:44,592
+On je kriv.
+
+515
+01:10:59,680 --> 01:11:01,671
+Pokuöajmo joö jednom.
+
+516
+01:11:06,920 --> 01:11:10,230
+Dajte, ljudi. Mora
+postojati neki naËin.
+
+517
+01:11:13,040 --> 01:11:14,792
+45 minuta.
+
+518
+01:11:26,360 --> 01:11:28,874
+Ovde sam. - Gde je 'ovde'?
+
+519
+01:11:30,480 --> 01:11:35,270
+Ne zvuËiö dobro. Pio si?
+- Imaö veÊih briga od mene.
+
+520
+01:11:36,080 --> 01:11:39,914
+Slaûem se. - Zaboga, dopusti
+mu da sleti. Nije problem.
+
+521
+01:11:40,120 --> 01:11:42,714
+»ekaj malo. äta je? - Toranj.
+
+522
+01:11:43,400 --> 01:11:47,029
+FBI je naredio da
+preusmjere sve avione.
+
+523
+01:11:47,240 --> 01:11:52,314
+To je razumno. - Stiûe mlaznjak
+s hitnom poöiljkom za bolnicu.
+
+524
+01:11:52,920 --> 01:11:57,277
+DevojËicu je ugrizao otrovni
+pauk. UmreÊe bez leka.
+
+525
+01:11:57,560 --> 01:12:02,350
+DevojËica je u avionu?
+- Protivotrov. Ona je ovde.
+
+526
+01:12:04,720 --> 01:12:10,397
+Pit... - Australija. - äta?
+- Taj pauk ûivi u Australiji.
+
+527
+01:12:10,600 --> 01:12:15,469
+Kao i Gabriel? Teöko.
+- Znam, ali i to je neöto.
+
+528
+01:12:15,800 --> 01:12:20,430
+Saznaj u kojoj je bolnici
+mala, pa mi javi. - Moûe.
+
+529
+01:12:53,720 --> 01:12:56,109
+Dobar dan. Ga Abot? - Da.
+
+530
+01:12:57,160 --> 01:13:02,280
+∆erku vam je ugrizao pauk? - Da.
+Niste valjda lekar. - Nisam.
+
+531
+01:13:02,840 --> 01:13:07,960
+Ministarstvo zdravstva. Treba
+mi vaöa adresa. - Ko ste vi?
+
+532
+01:13:08,280 --> 01:13:12,432
+Iz ministarstva zdravstva
+sam i... - Zovi osiguranje.
+
+533
+01:13:12,840 --> 01:13:17,675
+Molim vas. éivoti su
+u pitanju. - Morate otiÊi.
+
+534
+01:13:20,720 --> 01:13:24,793
+Ulica Klarens 2649.
+Stan 34. - Hvala vam.
+
+535
+01:13:25,800 --> 01:13:28,030
+Bez brige. Sve Êe biti u redu.
+
+536
+01:13:32,160 --> 01:13:33,718
+Znam.
+
+537
+01:15:04,480 --> 01:15:09,156
+Trebam ti ovde. - Ne. Budi
+pozadi s Brendi i senatorom.
+
+538
+01:15:26,880 --> 01:15:32,796
+Odjebi. Imam posla. - Imam
+dostavu za ljude iznad vas,
+
+539
+01:15:33,040 --> 01:15:37,238
+ali nema nikoga, pa ako biste
+mogli... - Ne bih mogao.
+
+540
+01:15:37,400 --> 01:15:42,110
+Sigurno? Uötedeli biste mi
+put, ali izgleda da je vaûno.
+
+541
+01:15:48,800 --> 01:15:50,074
+Ustani.
+
+542
+01:15:54,520 --> 01:15:56,078
+Sedi.
+
+543
+01:15:56,840 --> 01:16:02,119
+OtkljuËaj, razveûi öta treba
+da mogu ponovno da upravljam.
+
+544
+01:16:05,160 --> 01:16:09,472
+Tebi je ovo smeöno?
+- Udari, ako ti je tako laköe.
+
+545
+01:16:12,480 --> 01:16:17,554
+Sranje, pogreöni rod konjice.
+Zamisli. Pravi ludit.
+
+546
+01:16:19,080 --> 01:16:21,071
+Pravi si komedijaö.
+
+547
+01:16:30,240 --> 01:16:34,631
+Baö je cica, ha? - Jeste.
+Daj da razgovaram s njom.
+
+548
+01:16:34,840 --> 01:16:39,470
+Znam ko si! Onaj osetljivi.
+- ZaËepi, seronjo.
+
+549
+01:16:39,720 --> 01:16:42,188
+Spoji me. - Zaöto ne.
+
+550
+01:16:42,840 --> 01:16:48,517
+Ali poûuri ako ûeliö da je
+izvedeö. - Ris, Pit je.
+
+551
+01:16:48,720 --> 01:16:53,157
+äta radiö tamo? - Duga
+i Ëudna priËa. PriËaÊu ti.
+
+552
+01:16:53,360 --> 01:16:58,195
+Ko je s tobom? - Gabriel.
+Drûi se. PomoÊ stiûe.
+
+553
+01:16:58,560 --> 01:17:00,551
+Dobro je znati.
+
+554
+01:17:47,160 --> 01:17:48,673
+Sranje.
+
+555
+01:17:58,280 --> 01:18:00,635
+Tik-tak.
+
+556
+01:18:10,800 --> 01:18:13,109
+Ris! - Jesi li dobro?
+
+557
+01:18:15,240 --> 01:18:19,631
+Jesam. Gabriel je mrtav.
+Ostao sam ti samo ja.
+
+558
+01:18:20,200 --> 01:18:22,668
+Ne omalovaûavaj se.
+
+559
+01:18:23,600 --> 01:18:27,593
+Bilo bi sjajno da se
+bar malo razumeö u raËunare.
+
+560
+01:18:28,680 --> 01:18:31,035
+Sutra ujutro upisujem kurs.
+
+561
+01:18:35,440 --> 01:18:38,637
+Ej, gorivo ne izgleda loöe.
+
+562
+01:18:40,160 --> 01:18:45,029
+15, 20 minuta? - Dobar pokuöaj.
+Najviöe sedam minuta.
+
+563
+01:18:48,760 --> 01:18:50,990
+Ne pucajte. U redu je.
+
+564
+01:18:52,000 --> 01:18:53,797
+Hvala Bogu.
+
+565
+01:18:55,160 --> 01:18:58,914
+Ris, sve Êe biti u redu.
+PomoÊ je stigla.
+
+566
+01:19:01,920 --> 01:19:06,152
+Ljudi, Gabriel je uklonjen.
+Eki pa Genisisa je na poloûaju.
+
+567
+01:19:06,560 --> 01:19:09,632
+PrebaciÊe upravljanje
+na nas. To je dobra vest.
+
+568
+01:19:09,840 --> 01:19:14,789
+Ponestaje nam goriva. BiÊe
+grbavo, pa se svi ve ûite.
+
+569
+01:19:15,320 --> 01:19:19,472
+Brendi, daÊu sve od sebe
+da David ne poskakuje previöe.
+
+570
+01:19:24,840 --> 01:19:29,038
+Vreme je. Vratite mi
+upravljanje avionom.
+
+571
+01:19:30,760 --> 01:19:34,548
+Ne mogu da verujem. - äta je?
+- Gad ima i drugu zaötitu.
+
+572
+01:19:34,760 --> 01:19:38,639
+Kako to misliö? - Verovatno
+ju je ugradio kada i kamere.
+
+573
+01:19:38,840 --> 01:19:42,310
+O Ëemu govoriö? - Prepravio je
+veÊinu sistema aviona.
+
+574
+01:19:42,520 --> 01:19:45,990
+Ako iskljuËimo raËunar,
+moÊi Êe upravljati, ali bez
+
+575
+01:19:46,200 --> 01:19:50,159
+ikakvih raËunarskih pomoÊnih
+sistema i bez hidraulike.
+
+576
+01:19:50,360 --> 01:19:53,989
+Veoma teöko za upravljanje.
+Nema krilca, ni stajni trap.
+
+577
+01:19:54,280 --> 01:19:58,512
+Moûeö prepraviti? - Odavde ne.
+Mogu ih navoditi, ali...
+
+578
+01:19:58,720 --> 01:20:02,508
+Ne moûeö. Nema vremena.
+- Ima pravo. IskljuËi ga.
+
+579
+01:20:02,720 --> 01:20:07,236
+Ne moûeö sleteti bez tih
+sistema. To je samoubistvo.
+
+580
+01:20:07,520 --> 01:20:11,479
+A öta Êeö drugo? PriËekati
+da im nestane goriva.
+
+581
+01:20:11,720 --> 01:20:16,794
+Mora postojati neki ruËni
+sistem za toËkove. - Postoji.
+
+582
+01:20:17,080 --> 01:20:21,870
+IskljuËi ga ili Êu ja.
+- IskljuËi nas sa raËunara!
+
+583
+01:20:22,400 --> 01:20:24,709
+Tami... - U redu.
+
+584
+01:20:29,880 --> 01:20:34,192
+Kad ovo obavim, prepuöteni ste
+sami sebi. Vidimo se na pisti.
+
+585
+01:20:34,640 --> 01:20:40,909
+Trenutak. Ris... - Da si bar
+ovde. Dobro bi mi doöao.
+
+586
+01:20:41,560 --> 01:20:45,155
+I ja bih voleo,
+ali moûeö ti to.
+
+587
+01:20:45,360 --> 01:20:48,716
+Samo leti prema oseÊaju
+kako sam te uËio. - SeÊam se.
+
+588
+01:20:48,960 --> 01:20:51,349
+Budi avion. - Tako je.
+
+589
+01:20:51,560 --> 01:20:55,917
+Budi avion. Izravnaj
+krila. Podesi brzinu.
+
+590
+01:20:56,160 --> 01:21:00,790
+Neka se smiri i drûi ga ravno.
+- Mogu ja to. - Znam da moûeö.
+
+591
+01:21:02,000 --> 01:21:05,037
+Ris, ne zaboravi...
+
+592
+01:21:06,880 --> 01:21:09,189
+Volim te. - I ja tebe volim.
+
+593
+01:21:16,320 --> 01:21:18,436
+Ris, moûeö upravljati.
+
+594
+01:21:21,440 --> 01:21:22,998
+To!
+
+595
+01:21:25,320 --> 01:21:29,950
+Sietl, ovde Genisis II...
+- Napustili ste smer leta.
+
+596
+01:21:30,280 --> 01:21:34,637
+TaËno. Nameravam direktno da
+sletim na pistu 34.
+
+597
+01:21:42,200 --> 01:21:44,316
+Doavola. Opasnost!
+
+598
+01:21:44,800 --> 01:21:49,078
+Genisis objavljuje uzbunu.
+Ugasila su se oba motora.
+
+599
+01:21:49,360 --> 01:21:53,353
+Joö planirate pistu 34?
+- Mislim da imamo visinu.
+
+600
+01:21:56,960 --> 01:22:01,272
+PokuöaÊu ruËno spustiti
+toËkove, ali nemam navigaciju.
+
+601
+01:22:19,280 --> 01:22:21,191
+Stvarno je tiho.
+
+602
+01:22:22,480 --> 01:22:24,436
+Valjda je tako pticama.
+
+603
+01:22:35,440 --> 01:22:38,398
+Ovom se mlaznjaku baö ûuri.
+
+604
+01:22:40,760 --> 01:22:45,709
+Joö malo. Zauzmite poloûaj.
+Glava dole i ne diûite se.
+
+605
+01:23:01,360 --> 01:23:03,828
+Daj, Ris, previsoko si.
+
+606
+01:23:04,080 --> 01:23:08,756
+Sranje. - äta je? - Previsoko
+smo i prebrzi. PrebaciÊemo.
+
+607
+01:23:09,000 --> 01:23:11,992
+Pistu 34? - Sve piste.
+
+608
+01:23:21,400 --> 01:23:24,153
+Sietl, kako nas vidite?
+
+609
+01:23:24,520 --> 01:23:29,799
+Joö 3 km, visina 1. 200 m.
+- Sve Êemo promaöiti.
+
+610
+01:23:30,120 --> 01:23:32,270
+Moramo negde da sletimo.
+
+611
+01:23:34,040 --> 01:23:39,034
+NagnuÊu nos i kliznuti.
+UleteÊemo velikom brzinom.
+
+612
+01:23:39,240 --> 01:23:44,314
+Ako bude sreÊe, staÊemo
+na pisti. - Kako ûelite.
+
+613
+01:23:46,440 --> 01:23:51,389
+Dajte neöto bolje.
+- Primljeno. Sve vam je Ëisto.
+
+614
+01:23:51,600 --> 01:23:56,230
+Ako ne uspete, postoji
+pista u jugozapadnom uglu.
+
+615
+01:23:56,480 --> 01:23:59,756
+Onda ciljam to.
+- Primljeno i sreÊno.
+
+616
+01:24:06,440 --> 01:24:11,275
+Genisis II., vetar vam je
+300, 15. - 300 st., 15 Ëv.
+
+617
+01:24:12,600 --> 01:24:14,511
+Moûeö ti to, Ris.
+
+618
+01:24:16,040 --> 01:24:20,511
+Izgleda dobro, kapetane.
+- Visina je dobra za cilj.
+
+619
+01:24:21,280 --> 01:24:24,477
+Brzina, u redu.
+Proveri boËni vetar.
+
+620
+01:24:25,480 --> 01:24:29,712
+Izravnaj ga. Leti ravno.
+Budi avion.
+
+621
+01:24:30,480 --> 01:24:32,471
+Isuse, toËkovi!
+
+622
+01:24:40,360 --> 01:24:45,388
+Zadnji su u redu, prednji
+ne izlazi. - BiÊe sranja!
+
+623
+01:24:45,640 --> 01:24:47,870
+Prestani da brbljaö i pomozi!
+
+624
+01:24:51,080 --> 01:24:53,389
+Hajde, ubre jedno.
+
+625
+01:25:01,920 --> 01:25:03,831
+Prednji toËak spuöten.
+
+626
+01:26:51,360 --> 01:26:53,635
+Dobro je. Sve Êe biti u redu.
+
+627
+01:27:20,560 --> 01:27:25,236
+I ja bih je rado poljubio.
+Sjajno nas je izvukla.
+
+628
+01:27:25,600 --> 01:27:29,115
+Znam. - Imala sam
+dobrog uËitelja.
+
+629
+01:27:30,600 --> 01:27:35,390
+Ovome te nisam uËio.
+Mogla bi te mene da poduËiö.
+
+630
+01:27:38,390 --> 01:27:42,390
+Preuzeto sa www.titlovi.com
+
+631
+01:27:43,305 --> 01:28:43,302
+–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/9ugxf
+–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

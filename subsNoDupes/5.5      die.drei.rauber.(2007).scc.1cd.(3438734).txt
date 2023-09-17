@@ -1,0 +1,864 @@
+{1}{1}25.000
+{92}{209}A-ni-ma...|äta je to, te reËi na ekranu?
+{217}{321}To su svi ljudi koji|koji su dali novac za film.
+{329}{376}Pominju se njihova imena.
+{384}{435}- Ko si ti ?|- Tifani. A ti?
+{443}{506}Zla nastojnica !
+{516}{556}Ne izgledaö zlo.
+{564}{669}Ustvari, glumim zlu nastojnicu.|Ja sam komiËar.
+{729}{757}Lepa haljina...
+{766}{869}Izabrala sam je meu kostimima|Od prave Ëipke.
+{877}{925}- Paûnja !|- PoËinje film.
+{934}{982}- Od treÊeg zvona.|- Na mesta !
+{990}{1023}Dobro, dobro, stiûem.
+{1032}{1072}- Tomi nas Ëeka.|- Ko ?
+{1081}{1155}Tomi Ungerer, pripovedaË.
+{1190}{1228}PoËinje !
+{1311}{1421}{Y:i}Bila jednom|trojica opasnih razbojnika
+{1430}{1578}{Y:i}odeveni u ogromne crne mantile|i visoke crne kape.
+{1594}{1670}{Y:i}Jedne noÊi, pod meseËevom svetloöÊu
+{1678}{1777}{Y:i}napraviöe zasedu pored puta.
+{1791}{1900}{Y:i}Prvi je imao prangiju
+{1917}{1962}{Y:i}Drugi...
+{1971}{2071}{Y:i}meh - koji je ozbacivao biber.
+{2089}{2135}{Y:i}TreÊi...
+{2144}{2213}{Y:i}je imao ogromnu crvenu sekiru.
+{2256}{2304}{Y:i}Kad su se pojavili,
+{2316}{2408}{Y:i}ûena se onesvestila od straha.
+{2417}{2526}{Y:i}»ak je i hrabriji muökarac pobegao.
+{2552}{2654}www.crtaci.info|Vam predstavljaju:
+{2665}{2744}{Y:i}TRI RAZBOJNIKA
+{2758}{2861}{Y:i}ObuËeni u crna odela, ËuËali smo u senu
+{2869}{2911}{Y:i}Kao pacovi u noÊi
+{2920}{3021}{Y:i}Zlato i novac su, kao öto je planirano,|nestali bez buke
+{3029}{3130}{Y:i}Samo je mesec odgovorio zagonetnim osmehom|kada je piötolj opalio.
+{3139}{3244}{Y:i}OpstaÊete, ako se oduprete|vaöem uËmalom ûivotu
+{3253}{3350}{Y:i}PljaËka je stara deËija igra|igra u kojoj se zarauje
+{3358}{3460}{Y:i}Prangija puca, a meh zaËini|njuöke snaûnih konja
+{3469}{3568}{Y:i}Caruje onda smrtna tiöina|koja najavljuje rasplet
+{3577}{3676}{Y:i}A sekira onda u treptaju oka|lomi toËkove na pola
+{3684}{3775}{Y:i}Baboum baboum, vas spreËava|da nam se suprotstavite
+{3784}{3884}{Y:i}Jer taj oötar Ëelik, baö|proboöÊe srce k'o od öale.
+{3892}{3986}{Y:i}Baboum baboum, vas spreËava|ostavite nam vaöe blago
+{4005}{4065}{Y:i}Jer taj oötar Ëelik, baö
+{4146}{4197}{Y:i}PreseÊi Êe vas na pola.
+{4206}{4302}{Y:i}Pljujem na ovaj jadni grad|öto je k'o pacovska rupa
+{4311}{4404}{Y:i}U naöim öumama mi smo zakon|i sve ide po kratkom postupku
+{4413}{4532}{Y:i}Rugamo se policiji|»ak nas se i kraljevska vojska plaöi
+{4541}{4634}{Y:i}Za nas su kese uvek pune|dok ima bucmastih bogataöa
+{4643}{4732}{Y:i}Mi ne moûemo protiv opakih|Uzmite öta god ûelite
+{4740}{4828}{Y:i}Oprostite nam|I uzmite naö novac
+{4837}{4913}{Y:i}I tako Êe naöi ûivoti biti spaöeni...
+{5023}{5051}äteta !
+{5116}{5250}{Y:i}U ûivotu moûe biti jako|zabavno kada vas je troje
+{5261}{5368}{Y:i}Ali ima ljudi koji su sami.
+{5376}{5461}{Y:i}Razumete ?|Potpuno sami.
+{5563}{5623}Draga mama, dragi tata,
+{5632}{5708}koËija je doöla po mene.
+{5717}{5804}éelela bih da vam kaûem zbogom joö jednom.
+{5814}{5856}Puno mi nedostajete.
+{5870}{5962}Svake veËeri, svakog jutra i svakog dana.
+{5971}{6059}Ostaje samo da Ëekamo tren|kada Êemo opet biti zajedno!
+{6080}{6108}Volim vas puno.
+{6117}{6233}Uvek bdite nadamnom,|Ëak i ako ste na Nebu, vaûi ?
+{6242}{6318}A ja, ja Êu bdeti nad tobom, Pimpanela.
+{6490}{6536}Reci zbogom, Tifani.
+{6554}{6591}KoËija Ëeka.
+{6600}{6647}Dobro, dobro.
+{6672}{6822}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{7390}{7470}- DevojËica ima papire ?|- Naravno !
+{7478}{7560}Ona je sada u rukama sirotiöta.
+{7568}{7642}Ne ûelim da idem u sirotiöte !
+{7650}{7729}Ne ûelim, ne ûelim, ne ûelim !
+{7738}{7798}PomoÊ! UpomoÊ!
+{7807}{7848}PomoÊ ! Policija !
+{7857}{7902}HoÊu moju mamu i mog tatu !
+{7911}{7944}UpomoÊ !
+{7976}{8014}Maler !
+{8024}{8065}Napravila si zbrku!
+{8082}{8157}Tifani,|deca koja nemaju roditelje
+{8166}{8225}idu u sirotiöte.
+{8242}{8300}Ne ûelim da idem.|Pimpanela joö manje.
+{8310}{8331}Dosta !
+{8357}{8401}Pusti me da siem !
+{8415}{8481}Ej, ne ûelimo u sirotiöte.
+{8489}{8541}Ej ! Da li me Ëujete ?
+{8550}{8589}PomoÊ !|HoÊu da siem!
+{8598}{8674}Zbogom, mala Tifani.|SreÊno.
+{8682}{8760}Otvorite mi !|HoÊu da siem !
+{8769}{8835}Pustite me da siem,|kaûem vam !
+{8879}{8949}UpomoÊ,|hoÊu da ostanem sa policajcem!
+{8957}{9076}HoÊu da ostanem pored svojih roditelja !|HoÊu da siem !
+{9116}{9168}Nije lak... ûivot policajca.
+{9177}{9307}I oni prokleti razbojnici,|veÊ 30 godina nam prave probleme !
+{9316}{9355}VeËeras je mirno.
+{9504}{9617}Kakva hrabra devojËica !|Ali, eno je na putu za sirotiöte.
+{9638}{9691}Zavröio sam svoje putovanje.
+{10042}{10073}Maler !
+{10082}{10108}ZakljuËano je.
+{10121}{10197}Niko ne moûe uÊi,|gospoice Pimpanela.
+{10218}{10282}Bezbedno je u koËiji.
+{10314}{10419}Ali ako se plaöite,|sedite do mene.
+{10427}{10530}StaviÊu Vam ruku na rame,|da bi ste se oseÊali bezbedno.
+{10614}{10684}VeÊ je bolje, zar ne ?
+{10933}{11005}To je samo sova, ludice !
+{11174}{11240}Pimpanela,|öta traûite tamo dole ?
+{11248}{11350}UprljaÊete Vaöu lepu haljinu.
+{11359}{11412}Pimpanella,|nije moguÊe !
+{11428}{11466}Eto, tako je bolje.
+{11475}{11541}Ne plaöi se , ja Êu da te Ëuvam.
+{11601}{11729}{Y:i}U tom trenutku,|u dubini öume,
+{11742}{11788}{Y:i}trojica mraËnih drugova
+{11845}{11894}{Y:i}spremaju se za posao.
+{13189}{13255}Tako, udobno se smesti.
+{13263}{13360}ProËitaÊu ti neöto iz moje knjige priËa.
+{13378}{13417}Dakle...
+{13453}{13587}Bio jednom jedan mahara..ra..dûa...
+{13596}{13646}ma-ha-dûa...
+{13684}{13758}ma-ha-ra-dûa...
+{13766}{13842}koji je ûiveo u palati od zlata.
+{13855}{13960}Dakle, ûiveo je u toj ... palati i ...
+{13969}{14066}Ta palata je bila u Indiji|i bila je sva od zlata...
+{14074}{14105}Savröeno.
+{14114}{14219}Bio je neverovatno bogat,|taj maharadûa.
+{14228}{14322}I ûiveo je tamo u Indiji,|toj dalekoj zemlji,
+{14331}{14388}u svojoj palati od Ëistog zlata.
+{14397}{14483}I neverovatno,|veruj mi ako ûeliö,
+{14491}{14530}bila je tamo jedna soba - trezor .
+{14539}{14596}Ta soba je bila skroz neobiËna !
+{14604}{14696}Bila je do vrha popunjena biserima,
+{14704}{14821}smaragdima i dijamantima,
+{14830}{14918}zlatom, novcem,|prstenjem, ogrlicama, krunama,
+{14926}{15004}broöevima, narukvicama|i sve je bilo od zlata.
+{15012}{15111}Ali joö veÊi trezor|bio je u deËijoj sobi.
+{15119}{15185}Bila je ta devojËica.
+{15193}{15238}I bila je mnogo lepa
+{15246}{15340}i hrabra kao niko na svetu.
+{15368}{15434}Maharadûa je mnogo voleo svoju kÊer
+{15442}{15512}i udovoljavao je svim njenim ûeljama
+{15520}{15575}Jednog dana, dobri maharadûa
+{15584}{15666}ponudio je svojoj lepoj kÊeri sirotiöte.
+{15688}{15745}Bilo je jako udaljeno,
+{15754}{15841}najmodernije sirotiöte koje je Indija ikada imala.
+{15894}{15947}Pozdravio je uzvikom radosti.
+{15977}{16045}Na svetu nije bilo indijske princeze
+{16054}{16095}sreÊnije od nje.
+{16110}{16140}Ali iznenada...
+{16681}{16710}äta se deöava ?
+{16719}{16766}Da, öta se deöava, Valenta ?
+{16778}{16854}Nema niËeg u koËiji.|Samo jedna mala devojËica.
+{16863}{16900}DevojËica?
+{16927}{16966}Dobro veËe.
+{17259}{17304}Maler !
+{17365}{17408}Pazi na koËijaöa.
+{17588}{17658}Gledajte... torbica.
+{17720}{17765}Moja je,
+{17774}{17798}bando razbojniËka !
+{17816}{17847}Nema niËega.
+{17856}{17878}Maler !
+{17893}{17940}- Niöta.
+{17948}{17977}Nema zlata.
+{17992}{18023}OËerupanih mu sova !
+{18097}{18128}Marschimaculo !
+{18137}{18196}Stavi svoj plen na sigurno, Jakobe !
+{18205}{18252}Ne nerviraj se, Valenta.
+{18265}{18360}Doi, Flin ! Nema niËeg ovde.|Na put !
+{18371}{18441}Marschimaculo !|Kakva ispala danas...
+{18450}{18489}Mi smo vezane vreÊe.
+{18498}{18582}A u jednoj jedinoj koËiji koja je proöla,|samo dete !
+{18590}{18641}Da li zaista zasluûujem ovo ?
+{18673}{18710}Hej, lopovi! Stanite!
+{18718}{18781}NeÊete me valjda ostaviti samu !
+{18789}{18863}Nismo mi lopovi,|mi smo razbojnici !
+{18872}{18917}Razbojnici !
+{18936}{19010}SaËekajte, kaûem vam !|Povedite me!
+{19050}{19105}Nakon svega, ja sam ipak vaö plen!
+{19186}{19258}Ja sam zamena za vaöe zlato!
+{19305}{19354}Recite, gospoice Pimpanela,
+{19375}{19410}Ëini se da ovi razbojnici
+{19418}{19510}veÊ imaju dovoljno zlata !
+{19529}{19549}Zlato ?
+{19633}{19666}Zlato ?
+{19693}{19769}PriËala si neöto o zlatu ?
+{19790}{19858}Nisam video zlato.|Samo dete.
+{19868}{19913}Deca nemaju zlato.
+{19922}{19944}Ali ako se ispostavi
+{19953}{20040}da je moj otac bogati maharadûa.
+{20049}{20125}On ima toliko zlata kao...|kao...
+{20134}{20175}Laûeö !
+{20214}{20308}Moûete me zameniti za zlato mog oca.
+{20319}{20389}Tako Êete dobiti otkupninu u zlatu.
+{20435}{20501}äta mislite ?|Vremena su teöka.
+{20510}{20553}Zasigurno, teöka su !
+{20562}{20620}Valjalo bi probati.
+{20664}{20724}Sluöaj dobro, mala !
+{20737}{20780}Sada si naö zatoËenik.
+{20788}{20846}I bekstvo je nemoguÊe.
+{20855}{20910}Svaki otpor je uzaludan.
+{20992}{21016}To !
+{21045}{21073}Napred !
+{23127}{23180}Putovanje je zavröeno, braÊo.
+{23361}{23431}Stavite devojËicu u neki ugao.
+{23460}{23517}Ali ona spava u njegovom naruËju.
+{23526}{23573}Ako je ostavimo, onda...
+{23581}{23610}U naö krevet ?
+{23619}{23685}Nikada!|Samo preko mene mrtvog !
+{24042}{24132}{Y:i}Bila je to prva noÊ...
+{24346}{24436}Idemo konji...
+{24556}{24650}Ozbiljno, idemo konji ...
+{25189}{25228}Hladno mi je.
+{25751}{25817}Moja deco !
+{25838}{25912}Moji dragi mali siroËiÊi !
+{25921}{25999}Toliko vas volim...
+{26013}{26083}Imam jednu tuûnu vest.
+{26156}{26224}Gregori, probudi se !
+{26242}{26339}Nastojnica je ponovo u ûalosti|a mi ponovo kasnimo !
+{26350}{26378}Poûuri !
+{26386}{26412}»ujeö li me ?
+{26420}{26492}Slamaö mi srce i plaöiö me.
+{26512}{26551}Probudi se !
+{26630}{26720}Kako moûeö tako da muËiö|svog najboljeg prijatelja
+{26728}{26777}u ovo doba noÊi ?
+{26879}{26940}äta je zlatno pravilo ?
+{26997}{27023}Ti !
+{27031}{27098}Bez repe, nema ljubavi.
+{27106}{27174}Ne Ëujem te dobro.
+{27182}{27250}Bez repe, nema ljubavi.
+{27259}{27291}TaËno tako !
+{27299}{27325}Ponovite. Svi !
+{27334}{27418}Bez repe, nema ljubavi.
+{27426}{27494}Tako je jednostavno deco.|Zar ne ?
+{27503}{27562}Ali neko moûda razmiölja.
+{27570}{27641}Koliko öeÊerne repe vidiö ?
+{27715}{27774}Zar je to sve öto vam ja predstavljam?
+{27783}{27832}Niöta viöe ?
+{27867}{27957}Kad tako stoje stvari,|kako mogu da vas volim,
+{27978}{28054}moji dragi maliöani ?
+{28119}{28157}Dobro jutro !
+{28224}{28240}Tako dakle.
+{28249}{28333}Gospoda je napokon|reöila da ustane iz kreveta ?
+{28378}{28444}Nadam se da ste se naspavali.
+{28672}{28729}äta ste se tu poreali sada?
+{28767}{28801}Gde je devojËica?
+{28829}{28898}Razbojnici, gospoo.|Desetine njih !
+{28912}{28956}Odveli su malu.
+{28970}{29070}Borio sam se kao lav,|ali bilo ih je previöe.
+{29078}{29114}Baö ih je bilo puno.
+{29129}{29194}Ali sam saËuvao koËiju.
+{29202}{29294}Oteli su devojËicu !
+{29302}{29373}Kakva öteta !
+{29402}{29509}Znao si da Êeö me razoËarati zbog toga ?
+{29565}{29614}Izgubio je.
+{29623}{29694}Nije je doveo !
+{29702}{29766}Evo ti ! Evo!
+{29774}{29819}Nadam se da te boli !
+{29838}{29866}Robe !
+{29874}{29917}Dobar si niËemu !
+{29945}{29996}Nai mi drugi prut !
+{30163}{30222}Pokaûite mi sada siroËiÊi
+{30231}{30284}koliko me volite !
+{30292}{30397}éelim da vidim puno malih, lepih repa.
+{30411}{30507}Bez repe, nema ljubavi!
+{30521}{30547}Na posao !
+{30633}{30661}Vas dvojica, ostanite ovde.
+{30670}{30750}Pa, moja dva posebna prijatelja.
+{30758}{30803}Samo za vas...
+{30954}{31009}Kotao !
+{31054}{31127}Ne, milost, nemojte kotao!
+{31135}{31211}Moûe li mi neko objasniti|jednom kakav je to kotao.
+{31673}{31726}VeÊ spavaju.
+{32212}{32292}Slepi miöevi me neÊe zaplaöiti.
+{32372}{32419}Zdravo, pauËe !
+{34449}{34512}Gledaj, Pimpanela...
+{34522}{34595}kako je svet lep !
+{35428}{35501}Pogledaj, teleskop !
+{35802}{35856}Ovo je uûasno !
+{35887}{35926}Nije moguÊe !
+{35934}{35989}Jadna deca !
+{36032}{36098}To mora da je sirotiöte.
+{36138}{36214}SreÊa, pa nismo zavröili tamo !
+{36505}{36581}Gospodine ûandarme,|Ëini mi se da ne razumete
+{36589}{36630}ozbiljnost situacije.
+{36638}{36684}Znate li koliko ja patim
+{36692}{36774}{Y:i}zato öto nemam tu malu u svom naruËju ?
+{36782}{36864}{Y:i}Ovde u mom malom, prijatnom sirotiötu.
+{36873}{36895}Gospoo, ja...
+{36903}{36983}{Y:i}Ne znate kakve mi neprilke stvarate.
+{36991}{37079}{Y:i}Ako ta balavica ne bude u mojim rukama do sutra,
+{37087}{37194}{Y:i}naparaviÊu od vaöeg bednog|ûandarmskog ûivota pakao.
+{37202}{37222}Kako ûelite, gospoo.
+{37231}{37321}{Y:i}Pronaite mi to dete,|i to brzo.
+{37354}{37382}Razumem!
+{37411}{37491}Idem da odötampam|sve öto znamo do sada.
+{37512}{37587}Koliko posla ovog lepog jutra.
+{37615}{37712}Kafa miriöe dobro!|»estitam ti, Pimpanela.
+{39233}{39261}Dobro jutro, razbojnici !
+{39283}{39301}Ovo je lepo.
+{39309}{39359}I miriöe dobro !
+{39409}{39506}Tvoje zlato, kako ga moûemo imati, mlada damo?
+{39561}{39625}Ustvari, veoma je lako.
+{39649}{39714}Pismo u kome Êete traûiti otkup.
+{39740}{39778}Tako da moj tata zna
+{39786}{39831}da Êete me osloboditi.
+{39877}{39919}- Pismo ?|- Od nas ?
+{39927}{39978}Da, da bi on poslao zlato.
+{39986}{40036}I onda Êete me osloboditi.
+{40078}{40155}ZvuËi mi dobro.|Prokleto pametno.
+{40178}{40208}Ali postoji jedan problem...
+{40217}{40263}Kakav problem?
+{40271}{40319}To öto je moj tata jako daleko.
+{40327}{40378}On je jako, jako, daleko.
+{40394}{40481}PotrajaÊe malo dok ne stigne zlato.
+{40489}{40528}Koliko je to malo ?
+{40536}{40614}Pa recimo...|1 do 2...
+{40622}{40645}Minuta?
+{40653}{40678}Sata ?
+{40686}{40711}Dana ?
+{40736}{40759}Nedelje.
+{40803}{40836}Toliko ?
+{40844}{40940}A gde je tvoj tata ?
+{40949}{40999}U... u... u... u Indiji.
+{41007}{41064}To je u-u-u Indiji ?
+{41072}{41111}U Indiji, glupane !
+{41119}{41183}U tome je caka !|U-u-u Indiji !
+{41191}{41255}Moûda bi trebalo da razmislimo joö malo?
+{41293}{41339}O Ëemu razmiöljaö, Valenta ?
+{41347}{41381}O tome kako da dobijemo
+{41389}{41456}naöe zlato !
+{41468}{41517}PomoÊu pisma. Rekla sam vam.
+{41525}{41598}- Pa da, pismo.|- Tiöina !
+{41606}{41646}Doavola !
+{41659}{41707}Caka je u tome...
+{41715}{41751}äta je to caka?
+{41759}{41818}- On ne ume da piöe.|- A bogami ni ti.
+{41826}{41865}Ja umem da piöem !
+{41911}{41953}Dve nedelje, Valenta.
+{41961}{42006}Mala nam neÊe smetati.
+{42014}{42070}I ume da pravi dobru kafu.
+{42078}{42135}Kafu je napravila gospoica Pimpanela.
+{42156}{42202}TaËno tako . Je l', Valenta ?
+{42266}{42347}Momci, treba mi mastila i papira !
+{42831}{42879}I dalje je blokirano.
+{42938}{43002}Niöta nije gore od kotla.
+{43010}{43070}Tu se kuva repa !
+{43395}{43487}Gregori, ukusno je|da ne poverujeö !
+{43563}{43598}Ludilo !
+{43606}{43656}äta bi to moglo biti ?
+{43664}{43756}Nemam pojma.|Ali to dolazi od repe i ...
+{43787}{43838}stvarno je ukusno !
+{43846}{43926}To je sirup.|äeÊer iz repe.
+{43934}{44017}Zaöto nam ovo nikada|ne daju za jelo ?
+{44025}{44103}Zato öto je öeÊer zabranjen deci.
+{44111}{44148}Loöe utiËe na zdravlje,
+{44156}{44228}na zube, na ûeludac ...
+{44336}{44377}Nadrljali ste !
+{44527}{44622}Piöi :|"Dragi gospodine, Maharadûa..."
+{44630}{44673}"Dragi"- neÊe moÊi.
+{44681}{44771}Ovo je ucenjivaËko pismo,|nije obiËno.
+{44779}{44856}Ja sam razbojnik,|a ne ucenjivaË !
+{44901}{44997}Onda piöi :|"Poötovani gospodine Maharadûa..."
+{45005}{45057}Ne, isuviöe uËtivo.
+{45072}{45130}NapisaÊu samo : "Maharadûa."
+{45237}{45307}Kako si lepo to napisala !
+{45350}{45421}Piöi : "Maharadûa...
+{45429}{45489}"oteli smo tvoju kÊer..."
+{45497}{45525}Ne, ne, ne, ne , ne...
+{45533}{45590}"Kidnapovali smo tvoju kÊer..."
+{45598}{45637}"Oteli..."
+{45677}{45751}Ne, Ëekaj..."Oteli tvoju kÊer..."
+{45776}{45839}Ne, oteli... kidnapovali...
+{45855}{45924}Piöi "oteli".|itd., itd... Bla bla bla...
+{45936}{45975}"I ni reËi policiji !"
+{45991}{46014}Razumeö ?
+{46074}{46123}A öta beöe pre toga ?
+{46142}{46178}"Maharadûa...
+{46201}{46238}"Maharadûa...
+{46284}{46375}"Maharadûa,|oteli smo tvoju kÊer..."
+{46383}{46467}Ne, ne, ne.|"Kidnapovali smo tvoju kÊer."
+{46493}{46523}"Oteli..."
+{46566}{46629}Ma, neka bude : "kidnapovali."
+{46658}{46688}Ne, oteli !
+{46725}{46768}Kidnapovali.|Piöi, oteli.
+{46830}{46872}"I ni reËi policiji !"
+{46881}{46961}- Razumeö ?|- "Po-li-ci-ji."
+{46985}{47013}Gotovo !
+{47312}{47381}Dosta mi je svega. PobeÊi Êu !
+{47397}{47458}- äta?|- SpasiÊemo se. Zajedno.
+{47482}{47542}Nastojnica je rekla da ne smemo da beûimo.
+{47550}{47636}Ili Êemo proÊi isto kao tri brata.
+{47647}{47699}Rastrgli su ih vukovi.
+{47707}{47784}Kada je pun mesec, Ëujem ih kako vriöte.
+{47792}{47852}Ako verujeö u to, onda si stvarno glup !
+{47884}{47969}Idemo, Nikolas.|»aröave, brzo !
+{48053}{48101}Aj, tvoje stopalo !
+{48208}{48267}Pokuöaj bekstva.
+{48294}{48319}Kako su draûesni !
+{48327}{48393}Isuviöe su mali za spoljaönji svet.
+{48420}{48472}VratiÊe se oni.
+{48526}{48563}Poûuri !
+{48961}{49047}Reci mi Tifani, ko te nauËio da piöeö?
+{49061}{49117}Mama mi je pokazala.
+{49145}{49232}I ja bih voleo da znam da piöem.
+{49240}{49288}Mogu ti pokazati !
+{49302}{49357}Meni ? Sa ovakvim prstima?
+{49365}{49386}Naravno !
+{49394}{49455}Ne bi bilo loöe da znam.
+{49473}{49564}- Mogao bih da napiöem svoje "Mamoire".|- Jakobe...
+{49572}{49616}"Memoari."
+{49712}{49794}"Moj razbojniËki ûivot|ili Jakobovi memoari."
+{50135}{50162}Stop !
+{50185}{50218}Poötansko sanduËe.
+{50381}{50425}Poöalji ga.
+{50487}{50524}Da li Êe ga neko pronaÊi ?
+{50532}{50619}Naravno !|Svi ovde prolaze.
+{50820}{50858}Moja uzviöena maöino za poslastice
+{50866}{50919}od öeÊerne repe.
+{50982}{51036}äta ûelite ?
+{51044}{51091}Krempitu ?
+{51115}{51197}Ne.|Mentol bombone ?
+{51217}{51301}Ne, ne, ne. äeÊernu lulu.
+{51325}{51395}äeÊernu lulu, öeÊernu lulu...
+{51453}{51511}A za desert,
+{51519}{51618}tortu sa marmeladom, na tri sprata..
+{52493}{52548}O, da ! Desert !
+{52783}{52836}Zavröeno, u sanduËetu je !
+{52854}{52923}Za dve nedelje, imaÊemo naöe zlato.
+{52955}{53032}A ja Êu biti slobodna.|Jedva Ëekam da odem.
+{53040}{53075}Jupi !
+{53083}{53138}Da ...|Zar nije to divno ?
+{53146}{53177}VratiÊeö se kuÊi
+{53185}{53263}i pronaÊi svog tatu|u U-u-u Indiji.
+{53272}{53344}Da, biÊe super.|Napokon kod kuÊe.
+{53352}{53428}U naöoj palati od zlata.
+{53505}{53573}Sa moja tri brata.
+{53581}{53631}- äta ?|- Imaö braÊu ?
+{53639}{53671}- Trojicu?|- Da.
+{53679}{53725}Super braÊu !
+{53756}{53875}Prvi uvek igra émurke sa mnom|Koliko god ja ûelim.
+{54192}{54252}Drugi mi pokazuje maioniËarske trikove,
+{54260}{54310}sa slonovima.
+{54318}{54351}Abracadabra !
+{54444}{54470}A treÊi,
+{54478}{54573}me vozi na leteÊem Êilimu.
+{54590}{54643}I dok letimo, ono öto najviöe...
+{54651}{54743}Dosta je bilo, prekini to tvoje blablabla !|Trebalo bi da se radi.
+{54755}{54796}A, da.. posao...
+{54804}{54833}Doite, moja braÊo.
+{54841}{54912}DoneÊemo ti neki poklon.
+{55076}{55178}Kakva divna noÊ !
+{55361}{55402}Jakobe !
+{55462}{55510}SreÊno, i bogat plen!
+{55597}{55648}- Tifani...|- Da ?
+{55677}{55722}Ostani u svojoj kuÊi.
+{55730}{55816}U pravu je.|OseÊaj se kao u svojoj kuÊi.
+{55839}{55886}LeteÊi Êilim...
+{55964}{56001}Gladan sam !
+{56140}{56196}»ujeö li ?|äta je to ?
+{56204}{56265}∆uti, niöta ne Ëujem.
+{56519}{56594}Moûda su samo bili svici.
+{57143}{57182}Pazite...
+{59784}{59812}Drûite se...
+{60035}{60067}Zamalo.
+{60075}{60131}{Y:i}Mali medo, mali medo, ti si izaöao
+{60139}{60221}{Y:i}Mali medo, mali medo, vrati se u brlog
+{60229}{60296}{Y:i}Mali medo, mali medo, samo se okreni
+{60304}{60380}{Y:i}Mali medo, mali medo, nemoj da lutaö
+{60388}{60462}{Y:i}Mali medo, mali medo, koliko godina imaö?
+{60470}{60496}105 godina !
+{60539}{60594}1, 2, 3...
+{60602}{60642}4, 5...
+{60650}{60681}6...
+{60782}{60862}Ja sam mala indijska princeza.
+{61070}{61116}Pravi mali razbojnik.
+{61161}{61219}Sada imate zlato !
+{61311}{61357}äta Êete da uradite sa svim ovim ?
+{61365}{61383}OpljaËkaÊemo ga.
+{61391}{61420}Zaöto ?
+{61476}{61492}A posle ?
+{61500}{61590}Kad opljaËkate,|öta Êete da radite ?
+{61712}{61754}Kako to, öta Êemo da radimo ?
+{61766}{61803}Nemam pojma.
+{61814}{61864}Ostaje na gomili.
+{61872}{61910}U naöoj peÊini.
+{61920}{61977}Mi smo ga ovde stavili.
+{62008}{62091}Da ti pokaûem neöto,|princezo.
+{62099}{62143}Poklon.
+{62163}{62217}Ali moraö da paziö da ga ne polomiö !
+{62254}{62282}Veoma ste ljubazni.
+{62322}{62388}Ali ja ne umem da sviram klavir.
+{62398}{62442}éurka, braÊo !
+{62453}{62506}- Vaöe instrumente !|- Da !
+{62537}{62630}I ja, i ja hoÊu instrument !|Flin, molim te!
+{62639}{62668}Uzmi ovo.
+{62682}{62730}Ulaziö posle treÊeg puta.
+{63210}{63235}Sad ?
+{63253}{63282}Ne, ne.
+{63485}{63502}Sad.
+{64933}{65003}Bolje je hiljadu puta u öumi
+{65011}{65050}nego li u sirotiötu.
+{65062}{65098}Zar ne,  Nikolas ?
+{65130}{65187}Sutra Êemo sakupiti dovoljno drva
+{65195}{65246}da bismo zapalili vatru tokom noÊi.
+{65254}{65287}Aha.
+{65318}{65347}Aj !
+{65357}{65440}- Laku noÊ, Nikolas.|- Laku noÊ, Gregori.
+{65878}{65933}Spavajte...
+{65945}{66076}Spavajte, moji slatki maliöani...
+{66104}{66202}Sutra vas Ëeka nova repa.
+{66213}{66320}Morate biti u dobroj formi.
+{66328}{66388}Imajte lepe snove.
+{66481}{66576}Bez repe, nema ljubavi.
+{66592}{66635}Spavajte...
+{66644}{66690}Spavajte...
+{66700}{66757}...Ëvrsto.
+{66927}{67024}{Y:i}Ovo je druga noÊ...
+{68251}{68299}Gospodine. Piver, sad je dosta.
+{68307}{68342}Upozorio sam Vas.
+{68350}{68431}Galamim tokom dana.
+{68442}{68567}KazniÊete me zbog galame..
+{68583}{68610}Vaöe ime ?
+{68635}{68689}Dobar dan, moji dragi razbojnici !
+{68697}{68766}- Dobar dan, princezo.|- Dobar dan, Tifani.
+{68784}{68859}Za danas,|Ëas iz Ëitanja i pisanja.
+{68867}{68910}- To !|- Cool !
+{68918}{68958}Spremni smo.
+{68974}{69054}NauËiÊu vas A-B-C.
+{69173}{69217}Neverovatno !
+{69238}{69277}Genijalno!
+{69306}{69339}Vau !
+{69548}{69623}To je to, umem da piöem !|Gledajte !
+{69744}{69792}A ja, ja umem da Ëitam !
+{69800}{69836}Bravo !
+{70059}{70181}"Stoga, na viöe naËina, u potpunosti je evidentno
+{70189}{70226}"da su ljudi jednaki.
+{70238}{70323}"Kao i njihov Stvoritelj, imaju
+{70338}{70425}"odreena neotuiva prava,
+{70433}{70517}"ukljuËujuÊi ûivot, slobodu
+{70530}{70590}"i teûnju ka sreÊi."
+{70598}{70666}Momci, Ëista desetka !
+{71867}{71967}Ti ne moûeö da hodaö.|Ti Ëak i ne postojiö.
+{71975}{72080}Ti si samo plod moje maöte.
+{72191}{72241}Zaista sam gladan.
+{72257}{72317}Tamo, pogledaj !|Divlje voÊe !
+{72821}{72881}Pire od repe !
+{72893}{72935}Odvratno !
+{73151}{73210}KolaË od belanaca,
+{73218}{73279}karamela,|sa jagodama i ölagom !
+{73294}{73333}Kakva gozba !
+{73553}{73652}Gospoo, gospodine, nema sumnje u prirodu...
+{73686}{73768}vaöih aktivnosti.|Ugroûavanje javnog morala ...
+{73888}{73964}Primoravate me da vas kaznim...
+{73996}{74029}Gde su nestali ?
+{74077}{74153}Pogledajte.|Zar ono nije policajac?
+{74161}{74210}On niöta ne vidi, niöta ne Ëuje.
+{74218}{74281}Moûemo na miru da pljaËkamo.
+{74308}{74358}Sigurno kaûnjava puûeve.
+{74406}{74467}Zbog prekoraËenja brzine !
+{74643}{74689}Kakav imbecil !
+{74719}{74756}Uja, Tifani !
+{74851}{74874}äta ?
+{74893}{74945}Marschimaculo !
+{74969}{75012}Pretpostavljao sam.
+{75052}{75101}Izgleda kao Tifani.
+{75187}{75226}Sada moûete da proËitate.
+{75236}{75262}Samo proËitajte !
+{75294}{75393}"Ti-fa-ni..."
+{75415}{75443}Tifani !
+{75451}{75483}Poternica.
+{75491}{75571}Moûda ima sestru bliznakinju.
+{75579}{75661}Naravno...|I isto se zove Tifani !
+{75670}{75710}Da, zaöto da ne.
+{75718}{75763}"Tra-ûi se."
+{75779}{75877}Traûe je.|Tifani traûe, kao i nas.
+{75895}{75935}Da, traûe je.
+{75943}{76032}"Malo siroËe, Tifani."
+{76043}{76110}- Malo siroËe ?|- SiroËe ?
+{76139}{76199}Dakle, ona nema roditelje.
+{76207}{76285}I nema nikakvog maharadûe.
+{76293}{76359}Ni slonova, ni braÊe.
+{76367}{76431}Ni jednog jedinog grama zlata !
+{76720}{76761}Dobro veËe, moji dragi razbojnici.
+{76769}{76822}Je l' ima bogatog plena danas ?
+{76846}{76890}äta ovde piöe ?
+{76898}{76937}Piöe : "Traûi se.
+{76945}{77018}"Malo siroËe... Tifani."
+{77040}{77088}Moûeö li da ponoviö ?
+{77100}{77217}"Traûi se...|malo siroËe... Tifani..."
+{77233}{77253}Shvataö da
+{77261}{77325}da ûiviö ovde kao bubreg u loju ?
+{77427}{77470}Htela sam da postanem razbojnik.
+{77478}{77520}Smatraö da smo imbecili ?
+{77528}{77586}Glupi razbojnici,
+{77599}{77688}Kojima moûe komandovati jedno siroËe ?
+{77696}{77718}Valenta...
+{77787}{77817}Istina je...
+{77825}{77885}Ja sam siroËe.
+{77898}{77980}Ne vredim ni gram zlata.|A sada,
+{77988}{78030}idem u sirotiöte.
+{78071}{78141}Tamo je siroËiÊima mesto.
+{78353}{78393}Tifani, ne moraö da...
+{78401}{78449}Zbogom, Jakobe.
+{78457}{78533}Hvala vam öto ste me pustili|da spavam u vaöem krevetu.
+{78541}{78599}Valenta, za ime Boga,
+{78607}{78650}mala odlazi !
+{78669}{78697}U sirotiöte.
+{78705}{78791}Valenta, Tifani ide u sirotiöte !
+{79138}{79208}Boûanska... ova tiöina !
+{79267}{79360}Grozna tiöina.|Tiöina kao u grobu.
+{79588}{79634}- Jakobe...|- äta ?
+{79642}{79667}A, da...
+{79790}{79879}Valenta, mala Tifani je potpuno sama u öumi.
+{79887}{79923}Nema svoju lutku.
+{79930}{80007}Da li je veÊ stigla u sirotiöte ?
+{80015}{80112}Ostavi me na miru !|Sad je gluvo doba noÊi.
+{80119}{80184}äta ja da radim toj maloj laûljivici.
+{80208}{80289}Istina je. Imaö pravo, Valenta.
+{80297}{80399}Na kraju,|to su samo siroËiÊi.
+{80407}{80509}Ej, Valenta...|"Bez repe, nema ljubavi !"
+{80517}{80590}Prekini, hiljadu mu gromova !
+{80613}{80665}Marschimaculo !
+{81081}{81158}Sjaj svitaca, Nikolas,|niöta viöe.
+{81165}{81271}Okruûeni smo samo sjajem svitaca.
+{81295}{81320}Dobro veËe...
+{81435}{81468}DevojËica !
+{81475}{81539}ObiËna devojËica.
+{81546}{81610}Verujem da je siroËe.
+{81617}{81688}Da.|Kako si znao ?
+{81703}{81734}Zato öto je prekjuËe,
+{81741}{81812}jedna devojËica oteta.
+{81864}{81945}I mi smo siroËiÊi poput tebe.|Spasili smo se.
+{81981}{82046}- Zovem se Gregori.|- Ja, Nikolas.
+{82054}{82088}A ti?
+{82165}{82192}Tifani.
+{82539}{82628}{Y:i}Bila je to treÊa noÊ...
+{82784}{82824}Bili smo u sirotiötu.
+{82831}{82916}Sada smo slobodni i hoÊemo da vidimo svet.
+{82924}{82990}Svet nas oËekuje !
+{82997}{83045}Mene niko ne Ëeka.
+{83052}{83143}A svet me ne interesuje,|veÊ ga poznajem.
+{83166}{83262}ProÊi Êe je. Nakon nekog vremena,|neÊe viöe biti tuûna.
+{83293}{83330}Izvolite. Poklon.
+{83342}{83423}Ne mogu da verujem !|Ukrala si to nekom ?
+{83430}{83505}Svaöta.|Nisam lopov.
+{83513}{83563}Ne mogu da verujem svojim oËima !
+{83571}{83636}Bogati smo !|Kakav ûivot !
+{83643}{83718}KupiÊemo kuÊu.|Ne, brod.
+{83726}{83776}I ploviÊemo.
+{83783}{83839}Ili koËiju sa konjima.
+{83846}{83933}Joö bolje :|KoËiju i brod.
+{83957}{84044}Zlato, zlato, zlato...|Muka mi je od tog prokletog zlata !
+{84051}{84155}Razbojnici su me oteli da bi ga imali joö viöe.
+{84162}{84187}Razbojnici ?
+{84195}{84282}Ispostavilo se da sam siroËe.
+{84290}{84369}Ne znaju kako je to biti sam.
+{84376}{84418}Kuda ideö ?
+{84449}{84534}- U sirotiöte.|- Tifani, luda si !
+{84542}{84613}Deca koja viöe nemaju roditelje idu tamo.
+{84620}{84657}Tako je to.
+{84668}{84685}SaËekaj !
+{84693}{84780}- Ostanimo zajedno.|- Mi te neÊemo ostaviti samu !
+{84788}{84879}HoÊeö da te zlostavlja ona uûasna ûena ?
+{84887}{84962}Pogledaj ga dobro.|Stvarno hoÊeö tamo da ideö ?
+{84970}{85061}Tamo bar ima drugih siroËiÊa.|Poput nas.
+{85081}{85179}Bez one aûdaje,|nije tako loöe sa drugima.
+{85190}{85225}Koliko ima dece ?
+{85232}{85290}Bar 20.|Moûda Ëak i 80.
+{85297}{85312}Svaöta !
+{85319}{85421}Ima ih bar 300.|Moûda i 765 !
+{85429}{85497}- I samo jedna nastojnica?|- Jedna.
+{85504}{85538}Jedna jedina nastojnica...
+{85588}{85642}Ali je veoma, veoma opasna.
+{85649}{85695}éivi na vrhu tornja.
+{85702}{85760}Samo –avo zna, öta pravi tamo gore.
+{85815}{85847}Idemo !
+{85924}{85974}Vidim je !
+{85981}{86056}Ide pravo u sirotiöte.
+{86080}{86138}Joö dvojica su sa njom.
+{86145}{86193}Moramo da odemo, Valenta !
+{86201}{86274}Ja... ne mogu, braÊo moja.
+{86298}{86344}Samo ne u sirotiöte, ne.
+{86367}{86431}Kod zle nastojnice.
+{86455}{86495}Nemam hrabrosti.
+{86537}{86614}Plaöim se.
+{86636}{86727}Zajedno Êemo.|To radimo za Tifani.
+{86734}{86774}Zar ne, Jakobe ?
+{86781}{86858}Flin ima pravo, brate.|Hajde, idemo !
+{86943}{86993}Idemo !
+{87060}{87139}äööö, tiho !|Ne bi trebalo da nas Ëuju.
+{87154}{87200}Sva deca spavaju.
+{87208}{87279}Iscrpljeni su od berbe repe.
+{87286}{87332}Nastojnica je uvek budna.
+{87339}{87393}»ak je i noÊu u obilasku
+{87401}{87447}i Ëuju se Ëudni zvuci.
+{87454}{87504}Poput "gnark, gnark..."
+{87512}{87585}- »uvaj se koËijaöa.|- Zaöto ?
+{87592}{87650}Uvek se skriva u nekom uglu.
+{87657}{87740}I uvek se pojavi kad se najmanje nadaö.
+{87774}{87842}Pravac - soba nastojnice !|Za mnom !
+{87849}{87917}Radije bismo ostali napolju...
+{87924}{87982}- »uvaÊemo straûu.|- Kukavice !
+{87997}{88063}- Vidimo se.|- Vidimo se.
+{88808}{88862}Mala pralinica...
+{88989}{89064}I ponovo pralinica...
+{89176}{89212}äta je to ?
+{89245}{89301}Koga to vidim !
+{89772}{89834}Ne mogu da verujem !
+{90015}{90083}Mora da sanjam, ovo je neverovatno !
+{90264}{90345}Dobro mi doöli, draga publiko...
+{90356}{90396}na naöu predstavu :
+{90404}{90504}"Dva siroËeta,|najgluplja na svetu."
+{90517}{90561}Dragi moj Nikolas...
+{90569}{90648}Moj omiljeni Gregori...
+{90661}{90760}Vi ste, dakle, kandidati za glavne uloge ?
+{90817}{90855}Izvrsno.
+{90865}{90967}I ..jeste li barem dovoljno glupi ?
+{91047}{91128}To je ono öto Êemo videti.|ZabaviÊemo se.
+{91145}{91178}Ja pevam... a vi igrate.
+{91245}{91272}Idemo !
+{91303}{91396}{Y:i}äuma je za razbojnike
+{91404}{91452}{Y:i}Hali... Halo...
+{91768}{91831}Ko je to uradEo ?
+{91902}{91997}Ima ovoga joö puno ovde gore !|Gomila kolaËa !
+{92004}{92056}Sve do plafona !
+{92063}{92109}Kako se usuujeö ?
+{92132}{92178}Brûe, Tifani, spaöavaj se !
+{92217}{92238}Ona dolazi !
+{92630}{92686}Pusti me, zla veötice !
+{92694}{92731}Pusti me !
+{92747}{92814}Zlotvoru mali !
+{93055}{93078}Uhvati ih !
+{93420}{93511}Tri razbojnika...|u mom zamku !
+{93518}{93564}UpomoÊ !
+{93585}{93666}Nemate öta da radite ovde u mom kraljevstvu !
+{93674}{93742}Napolje iz mog sirotiöta !
+{93749}{93822}Ili Êu zvati policiju !
+{93904}{93974}ZadrûaÊu vas !
+{93981}{94070}UhapsiÊu vas zbog prekoraËenje brz...
+{94090}{94128}Otiöli su.
+{94396}{94433}Ne vidim ko je to !
+{94440}{94492}O, to je Valenta, mali pametnjakoviÊ
+{94499}{94547}sa svoja dva brata...
+{94555}{94611}Jakobom, glupanom.
+{94618}{94662}I Flinom, tikvanom.
+{94670}{94776}Dakle, moji mali begunci,|porasli ste.
+{94783}{94819}Proölo je veÊ 30 godina.
+{94826}{94903}Doöli smo da ti donesemo lutku,|Tifani.
+{94914}{95005}Pimpanela.|Zaboravila si je kod nas, Tifani.
+{95227}{95285}Joö neöto..|HoÊemo da te pitamo...
+{95293}{95310}da li bi ûelela...
+{95318}{95347}äta ?
+{95355}{95424}Da li bi ûelela da se vratiö kod nas.
+{95431}{95483}Puno nam nedostajeö.
+{95490}{95569}éivot ima mnogo viöe boja
+{95576}{95601}kada si ti tu.
+{95643}{95734}I tvoj smeh Ëini dobro
+{95742}{95784}naöim razbojniËkim uöima.
+{95963}{96013}Valenta !
+{96052}{96073}Ne tako brzo !
+{96081}{96193}I ja imam da kaûem neöto.
+{96266}{96386}IzriËito je propisano,|u pravilniku sirotiöta,
+{96401}{96464}da je mesto za decu bez roditelja
+{96471}{96550}uvek bilo i biÊe siro...
+{96602}{96627}TouchÈ.
+{96736}{96770}Razumem !
+{96777}{96866}U ovom filmu nema mesta za pokvarenjake.
+{96873}{96952}U tom sluËaju, mogu da odem ?|Je l' tako ?
+{96966}{97002}Da odem !
+{97190}{97252}Tako mi se zahvaljujete ?
+{97259}{97315}Nikada me viöe neÊete videti.
+{97323}{97363}Za kaznu.
+{97397}{97517}I za sam kraj, poËastiÊu sebe|sa velikim zadovoljstvom, bombom...
+{97525}{97612}äta to priËam...|bombonom...
+{98055}{98093}Kako je dobro...
+{98163}{98201}Golica...
+{98217}{98261}Sve mi je smeöno...
+{98270}{98320}Vrti mi se u glavi...
+{98329}{98408}Zbogom, bando malih nezahvalnika !
+{99446}{99484}äta se to tamo deöava ?
+{99629}{99700}RazbojniËke kape !
+{99708}{99781}Ako su tu kape, tu su i razbojnici !
+{99788}{99846}Sluöajte me svi !
+{99857}{99909}Razbojnici, izaite napolje !
+{99932}{100007}Nema razbojnika ovde.|Samo siroËiÊa.
+{100113}{100182}A gde je stara nastojnica ?
+{100189}{100241}- Na odmoru.|- Da, na ledu.
+{100303}{100337}Kod Eskima !
+{100344}{100379}Prava misterija .
+{100386}{100430}Savröeno se ''sledila''.
+{100437}{100479}U svakom sluËaju, '' 'ladno '' je otiöla.
+{100564}{100624}Sada mi upravljamo ovom kuÊom !
+{100631}{100667}Mala ispravka :
+{100674}{100743}ovo je i dalje javna imovina.
+{100750}{100821}I ja sam odgovoran za nju.
+{100850}{100877}Onda je kupujemo !
+{100889}{100933}Nikolas, zlatnik.
+{101336}{101433}Veoma ljubazno od vas, deco,
+{101440}{101521}ali verujem da to nije dovoljno.
+{101613}{101696}{Y:i}Onda su razbojnici doneli malo zlata
+{101704}{101787}{Y:i}i deci kuÊu kupili
+{101799}{101880}{Y:i}PriËa se menja za taj dvorac stari ...
+{101888}{101969}{Y:i}koji se nagledao mnogih loöih stvari
+{102018}{102109}{Y:i}Jednog dana su naöli|dete na pred vratima
+{102117}{102194}{Y:i}I prihvatili su ga bez pitanja
+{102210}{102299}{Y:i}I onda je dece bilo sve viöe
+{102306}{102381}{Y:i}I nosili su crvene kape
+{102432}{102513}{Y:i}U daljini su se Ëuli vriska i smeh
+{102521}{102600}{Y:i}kako odzvanjaju celom kuÊom
+{102607}{102708}{Y:i}Svi ti mali crveni razbojnici|ûiveli su u zadovoljstvu i radosti
+{102715}{102788}{Y:i}U tom sreÊnom sirotiötu
+{102931}{103016}{Y:i}Sve se lepo zavröilo|za tu veselu decu
+{103024}{103097}{Y:i}jer su porasli veliki i lepi
+{103112}{103195}{Y:i}VenËaöe se tad|a vi pogaate öta je dalje bilo
+{103203}{103288}{Y:i}Imali su svoju divnu decu.
+{103323}{103425}{Y:i}Onda su sagradili svoje kuÊe u blizini sirotiöta.
+{103434}{103497}{Y:i}Uskoro je to postalo malo naselje
+{103504}{103562}{Y:i}u kome su svi stanovnici nosili crvene öeöire
+{103569}{103619}{Y:i}i crvene mantile
+{103681}{103743}{Y:i}Na kraju su napravili zid
+{103750}{103796}{Y:i}sa tri velelepne kule.
+{103812}{103880}{Y:i}Po jedna za svakog od razbojnika.
+{103891}{103959}{Y:i}U znak zahvalnosti.
+{104058}{104155}{Y:i}ObuËeni u crna odela, ËuËali smo u senu
+{104162}{104206}{Y:i}Kao pacovi u noÊi
+{104213}{104315}{Y:i}Zlato i novac su, kao öto je planirano,|nestali bez buke
+{104322}{104424}{Y:i}Samo je mesec odgovorio zagonetnim osmehom|kada je piötolj opalio.
+{104432}{104534}{Y:i}OpstaÊete, ako se oduprete|vaöem uËmalom ûivotu
+{104541}{104640}{Y:i}PljaËka je stara deËija igra|igra u kojoj se zarauje
+{104647}{104753}{Y:i}Prangija puca, a meh zaËini|njuöke snaûnih konja
+{104760}{104851}{Y:i}Caruje onda smrtna tiöina|koja najavljuje rasplet
+{104859}{104961}{Y:i}A sekira onda u treptaju oka|lomi toËkove na pola
+{105016}{105056}Neko Êe ga ovde pronaÊi ?
+{105064}{105160}Naravno !|Svi ovde prolaze.
+{106521}{106619}{Y:i}PljaËka je stara deËija igra,|igra u kojoj se zarauje
+{106626}{106730}{Y:i}Prangija puca, a meh zaËini|njuöke snaûnih konja
+{106738}{106838}{Y:i}Caruje onda smrtna tiöina|koja najavljuje rasplet
+{106845}{106949}{Y:i}A sekira onda u treptaju oka|lomi toËkove na pola
+{106957}{107057}{Y:i}Baboum baboum, vas spreËava|da nam se suprotstavite
+{107064}{107166}{Y:i}Jer taj oötar Ëelik, baö|proboöÊe srce k'o od öale.
+{107174}{107276}{Y:i}Baboum baboum, vas spreËava|ostavite nam vaöe blago
+{107284}{107353}{Y:i}Jer taj oötar Ëelik, baö
+{107428}{107478}{Y:i}PreseÊi Êe vas na pola.
+{107492}{107604}{Y:i}Svoji smo na svome, skriveni u öumi
+{107721}{107825}{Y:i}Ruke u vis, da nisi mrdn'o|Iznenadni to je napad
+{107833}{107883}{Y:i}Spremni smo na sve|Niko nije poöteen
+{107890}{107940}{Y:i}Star ili mlad|biÊe opljaËkan
+{107947}{108044}{Y:i}Baboum baboum, vas spreËava|da nam se suprotstavite
+{108051}{108155}{Y:i}Jer taj oötar Ëelik, baö|proboöÊe srce k'o od öale
+{108162}{108264}{Y:i}Baboum baboum, vas spreËava|ostavite nam vaöe blago
+{108271}{108327}{Y:i}Jer taj oötar Ëelik, baö
+{108335}{108389}{Y:i}PreseÊi Êe vas na pola
+{108573}{108669}{Y:i}Pljujem na ovaj jadni grad|öto je k'o pacovska rupa
+{108676}{108780}{Y:i}U naöim öumama mi smo zakon|i sve ide po kratkom postupku
+{108788}{108898}{Y:i}Rugamo se policiji|»ak nas se i kraljevska vojska plaöi
+{108905}{109006}{Y:i}Za nas su kese uvek pune|dok ima bucmastih bogataöa
+{109013}{109112}{Y:i}Mi ne moûemo protiv opakih|Uzmite öta god ûelite
+{109119}{109235}{Y:i}Oprostite nam i uzmite naö novac|I tako Êe naöi ûivoti biti spaöeni...
+{109646}{109683}Marschimaculo !
+{109690}{109744}äta znaËi to,|Marschimaculo ?
+{109752}{109817}ZnaËi...|To je jedna dugaËka reË...
+{109824}{109849}ZnaËi...
+{109856}{109893}ZnaËi ''sranje''...
+{109900}{109948}Da, tako je.
+{109983}{110029}Marschimaculo !
+{110282}{111173}Prevod sa francuskog jezika :|myladh
+{111198}{112698}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

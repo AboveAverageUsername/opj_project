@@ -1,0 +1,902 @@
+{00001}{00001}25000
+{26}{176}ĞŸĞ¾Ğ´Ñ€Ğ¶Ğ¸Ñ‚Ğµ Ğ½Ğ°Ñ Ğ¸ Ğ¿Ğ¾ÑÑ‚Ğ°Ğ½Ğ¸Ñ‚Ğµ VIP Ñ‡Ğ»Ğ°Ğ½ Ğ´Ğ° Ğ±Ğ¸ÑÑ‚Ğµ ÑƒĞºĞ»Ğ¾Ğ½Ğ¸Ğ»Ğ¸ ÑĞ²Ğµ Ğ¾Ğ³Ğ»Ğ°ÑĞµ ÑĞ° www.OpenSubtitles.org
+{00500}{00555}- Jesi li video novost?
+{00560}{00630}Brigada iz Sen Tropea æe|predstavljati Francusku
+{00632}{00707}na meğunarodnom kongresu|andarmerije u Njujorku.
+{00798}{00858}- Pourite! Hajde!|Tako!
+{00896}{00966}Berliko! Bre to!
+{01010}{01072}Trikar, šipka!|- Da, šefe!|- Šipka!
+{01072}{01132}Gospoğo Merlo, pomozite mu!|- Da, šefe!
+{01240}{01330}Vidi Fugasa! Vidi ti|samo šta on radi!
+{01322}{01402}Fugas! Jeste li zatvorili vaš sanduk?|- Ne znam šta mu je, šefe!
+{01502}{01562}Eto tako! Gotovo! Najzad!
+{01566}{01606}Mirno!
+{01922}{01972}Ustanite!|- Ne mogu, šefe!
+{01977}{02028}Ustanite! Izvinite, ağutante.|Ustajte!
+{02130}{02180}Eto! Mirno! Mirno!
+{02455}{02505}- Jeste li dobro, šefe?|Dobro je.
+{02685}{02740}- Gde je moravka?|- Gore u ormaru.
+{02755}{02830}Šta si uradio? Udario si se?|- Šta si mislila, da æu da je pijem?
+{02840}{02890}- Sedi, ja æu da ti sredim to.
+{02900}{02975}- A ti bi mogla da se razvedriš malo|danas kad kreæemo na tako dalek put.
+{02992}{03035}Ovde, ovde!|Polako, polako!
+{03050}{03110}Ti misliš da je meni lako što te|ostavljam ovde samu.
+{03115}{03165}- Što onda ne ostaneš?
+{03165}{03225}Uostalom, da stvarno hoæeš,|ti bi da me poveo.
+{03228}{03254}- Kako? Èak ni ağutant|ne moe da povede
+{03256}{03288}Nareğenje je nareğenje!
+{03290}{03338}- Imamo neku ušteğevinu...|Mogli bismo da putujemo
+{03342}{03380}odvojeno i onda da se nağemo tamo.
+{03414}{03474}Odavno imam elju da|posetim Sjedinjene Drave, tata.
+{03495}{03565}- Ali ne sama u Njujorku na milost|i nemilost prvom milijarederu koji naiğe.
+{03575}{03635}- A šta ako bude mlad i lep?|- Vidim da krišom èitaš bajke.
+{03640}{03710}- Tata, hoæu jednom u ivotu da vidim Ameriku.|- Dobro, iæi æeš drugi put.
+{03730}{03765}- Znam, nikad neæu otiæi.
+{03765}{03815}- Uostalom, idem u Njujork,|to nije Amerika.
+{03833}{03893}Tako piše u vodièima, a|proèitao sam ih dvanaest.
+{03910}{03985}- I tako mi zahvaljuješ što|sam ti javila za ovo.
+{04020}{04070}- Ali ja æu otiæi i taèka!
+{04820}{04870}Luj de Fines
+{04895}{04970}u filmu ana iroa
+{04970}{05120}ANDAR U NjujorkU
+{07620}{07720}- Zdravo, Nikol! Slavimo, a?|- Ne svi.
+{07730}{07788}- Neæe ti biti dosadno, sama kod kuæe?|- Moeš misliti.
+{07790}{07870}- Treba da odvezem ocu kola u Dovil.|Hoæeš sa mnom?
+{07900}{08045}- Je l' Dovil odmah pored Avra?|- Ako treba da idemo tamo, princezo, idemo.
+{08055}{08095}- Saèekaj me, vraæam se za pet minuta.
+{08420}{08550}- Leva! Leva! Leva!
+{08850}{08980}- Gospodo, nije valjda da se plašite! Hajde!|- Da, šefe.
+{09102}{09170}- Ovo mi je prvi put, ağutante...|- Penjite se! Nareğujem vam!
+{09210}{09295}- Jeste li videli ovo?|Hajde, izvolite.
+{09298}{09345}- Ne, posle vas. Izvolite.
+{09970}{10120}- Leva! Leva! Leva!
+{10200}{10250}- A ja?|- Izvinite, šefe.
+{10340}{10380}- Vrata!
+{10575}{10695}- Leva! Leva! Leva!|Hajde!|
+{11145}{11368}Leva! Leva! Leva! Stoj! Na levo!|Pozdrav!
+{11395}{11565}Na desno! Napred marš!|Leva! Leva! Leva!
+{11907}{11970}- Evo. Imaš petlju, sviğa mi se to.|- Tata je izgleda nema.
+{12020}{12070}- Sreæno!
+{13135}{13195}- Njujork je moj!|Bar se nadam...
+{13525}{13625}- Hej, deèaci, krenuli smo!|- Kako sam uzbuğen! Ovo je kao u bajci!
+{13634}{13688}- Krenuli smo! Videæemo oblakodere!
+{13705}{13795}- A kad u pet sati iz njih poteèe reka|daktilografkinja svuda po gradu...
+{13820}{13888}Jesi razumeo? ivela Francuska!
+{13938}{13998}- Šta je bre to? Prestanite! Prestanite!
+{14042}{14140}- Svi vas gledaju! Ne zaboravite da|vas Novi svet netremice gleda.
+{14168}{14242}Hajde, svi u kabine!|Jen' dva! Jen' dva!
+{14295}{14395}- Koliko liftova! Skroz smo se izgubli.|- Sigurni ste da niste pogrešili?
+{14450}{14570}- Èekajte. A, vidite, eno.|Evo, ağutante, pogledajte plan.
+{14570}{14745}Mi smo ovde.|- Da? I?|- Znaèi ovuda.
+{14795}{14945}Èekajte. Da, to je pravo.|Ne moemo promašiti.
+{15110}{15220}Da, evo...Èekajte... Da, evo, ovde...|A, ne, ovo je kabina.
+{15225}{15285}Sad treba da skrenemo. Evo, vidite.
+{15445}{15525}Evo, kad nağemo orijentir,|prosto je k'o pasulj.
+{15550}{15658}Ovde? Ne... A, evo, vidite...|Eto...
+{16000}{16030}A, evo, ovuda.
+{16037}{16105}- Krušo! Ne bih da vam smetam,|ali mislim da se vrtimo u krug.
+{16115}{16245}- Ne nikako, moj ağutante. Sad idemo na|palubu za šetnju, zvanu šetnja-dek...
+{16255}{16345}A mi smo sad... Èekajte, mi smo...|- Dobro gde smo?
+{16355}{16405}- Zet iz z kuestjon. A?
+{16410}{16460}- A ti kao prièaš engleski, a?|- Ne, šefe.
+{16475}{16545}- Ovaj brod je lavirint.|- Ne, nikako, ağutante. Prosto je. Videæete.
+{16552}{16618}Znaèi, bili smo na san-deku,|a onda smo krenuli
+{16620}{16678}palubom za utovar s desne strane...
+{16695}{16828}Onda smo bili na dek terasi,|a onda smo prošli biblioteku...
+{16825}{17015}A sad smo... Sad smo na levoj strani,|na gornjem deku, to je gore, ne...
+{17030}{17200}Ne, pogrešio sam, ağutante. Gore|je dek, i ovo je dek, a tamo je lift...
+{17375}{17430}- Bazen!
+{17478}{17568}- Šta kaete da sednemo i popijemo nešto?|- Sklanjajte mi se s oèiju!
+{17670}{17720}- Hvala.|- Izvinte, da vas pitam nešto.
+{17735}{17805}Je li taèno da putnik moe da|spava na lealjki napolju?
+{17810}{17845}Naravno.
+{17900}{17955}Ali mislim da vam je|kabina mnogo udobnija.
+{17945}{18020}- Naravno, ali taj vazduh na puèini!
+{18270}{18395}- Sedite, ağutante. Znate, u stvari,|vrlo je jednostavno.
+{18400}{18460}- Dobro, dosta više. Brod je|velièanstven, ali je velik.
+{18475}{18525}A kad idemo za vama,|postane ogroman.
+{18530}{18700}- Šta æete popiti? Viski sa sodom, pivo,|koka-kola, martini Reks, a ne, Roks...
+{18700}{18760}- A, odlièno, odlièno.
+{18767}{18875}Kad smo vec kod toga, iskoristicemo vaše|znanje Šekspirovog jezika,
+{18875}{18950}jer se tamo vrlo lako|moemo osetiti izolovani.
+{18950}{19050}- Da, ali samo nekoliko reèi.|Inaèe æe se momci zablokirati.
+{19075}{19170}- Trikar! Hajde!|- Mi iz...|- Ustanite! Ustanite! Molim vas!
+{19175}{19295}- Mi tajlor iz...|- Ne! My tailor is rich.
+{19360}{19425}- Berliko! Sad vi!|- Mjaj tejlor...
+{19425}{19525}- Ne mjaj! Maj!|- My tailor is not rich.
+{19530}{19625}- Not! Vidite razliku? My tailor is rich.|My tailor is not rich.
+{19645}{19710}Prevod! Hajde vi!|- Ustanite! Molim vas!
+{19730}{19780}- Moj šešir je...|- Ne.
+{19840}{19905}- Moj krojaè je bogat!|- Ko je šapnuo?|- Niko!
+{19910}{19940}- Neko je šapnuo!|- Ja sam...
+{19945}{19995}- Ja sam!|- A, vi ste, ağutante...
+{20030}{20145}Baš ste zabavni. Evo, sad vi, ağutante.|Hajde! Ne, sedite! Sedite!
+{20155}{20270}- My flowers are beautiful.|- Vrlo dobro, ağutante! Sad vi.
+{20280}{20345}Your flowers are not beautiful.|- Not beautiful!
+{20345}{20395}Shvatate smisao negacije?
+{20495}{20540}- Trajdekšn!
+{20545}{20628}Ne, sedite!|- Moje cveæe je lepo.
+{20645}{20710}- Vi?|- Vaše cveæe nije lepo.|- Tako!
+{21020}{21080}- Vaše flovers je glupo!|- Merlo!
+{21120}{21195}- Izlazite! Vidi ti njega,|odgovara ağutantu!
+{21220}{21300}Ağutante moj, ağutante...|- Your attitude is not pravedan.
+{21345}{21395}Ko je to rekao?
+{21520}{21605}Šta ste rekli?|- Your attitude is not pravedan.
+{21610}{21695}- Izağite!|- Ali, šefe..|- Nema tu šefe! Izağite!
+{21695}{21827}A sad æemo vebati svakodnevni...|Svakodnevni govor!
+{21845}{21945}Pitaæete prolaznika gde se|nalazi hotel "Amerikana".
+{21950}{22020}Ja sam prolaznik, ja æu glumiti|prolaznika, a vi pitajte.
+{22220}{22270}- Kako?|- Šta elite?|- Šta elim? A, da!
+{22495}{22550}- Ne tako! Jezik izmedu zuba!
+{22600}{22695}- Recite vi. Jezik izmedu zuba!
+{22850}{22945}- Šefe, recite vi!|Odlièno! E tako treba.
+{22955}{23060}- To je mrmljanje.|- Izadite! Napisacete mi|sto puta: 'Glup sam i agresivan'.
+{23070}{23145}- Vi se šalite?|- Dvesta puta.
+{23148}{23220}- I vi izağite!|- Ali ja nisam ništa...|- Nervirate me. Izağite!
+{23270}{23420}A sad kao nagrada za mog|najistrajnijeg uèenika jedna lepa prièa.
+{23430}{23545}Uzmite svesku i pišite.|Nekada davno ...
+{23548}{23698}Bio jednom jedan mali vilin konjic...|poleteo je mali lepi zmaj ...
+{23770}{23795}- It iz so šarming.
+{23795}{23845}- Panja! Panja!|- Šta je to, ağutante?
+{23845}{23885}- Veba spasavanja!
+{23895}{23945}- Spasavanje?|- To je samo veba, nije uzbuna.
+{23950}{23990}- Èekajte!
+{24170}{24230}andari iz Italije su veæ spremni!
+{24240}{24275}Šta radite to?
+{24275}{24325}- Pišemo po kazni.
+{24325}{24425}- Daæu ja vama kaznu ako za 30 sekundi|ne stavite prsluke za spašavanje!
+{24425}{24500}Italijani su vec spremni! Bre!|Gde je Merlo?
+{24500}{24560}- Otišao je po cigarete?|- Cigarete?
+{24600}{24700}- Izvinite, gde se nalazim?
+{24750}{24800}Ja... Gde...
+{25250}{25325}- Ne izigravajte klovna!|- Nisam ja klovn, šefe, umrsio sam se.
+{25325}{25375}- Razmrsite se! Brzo!|- Da, šefe!
+{25475}{25615}- Krušo!|Vrlo sam nezadovoljan!
+{25617}{25645}Italijani su u punom sastavu|i smeju nam se.
+{25645}{25720}Mi imamo dva komièara,|a jedan momak nam fali.
+{25795}{25870}- Znate... Pribliite se.
+{25940}{26010}Mrzim vas!|- Da, šefe.|- Neæete nikom reæi?|- Ne, ne.
+{26025}{26095}- Hvala, baš ste fini.|- Molim, šefe.
+{26670}{26825}- Panja! Panja! Veba|spašavanja je završena.
+{26850}{26940}Hvala vam što ste|uèestvovali u vebi.
+{27050}{27135}- Ja æu samo èorbu i voæe.|Izgubio sam apetit.
+{27140}{27190}Znate i zašto, Krušo.
+{27195}{27272}- Slušajte, ağutante, ako se ne pojavi za|pet minuta, serviraæu ga kao desert.
+{27276}{27322}Vi æete mi platiti umesto njega.
+{27322}{27387}- Gospodine?|- Ne, ništa, završio sam. Nisam gladan.
+{27372}{27470}- Moda je upao u vodu?|- To mu je jedina šansa da ne ode na vojni sud.
+{27470}{27570}- Šta je to èiken sup?|- Nije to ništa. Dajte mu jaje na oko.
+{27700}{27770}Znate šta sam vam rekao?|I dalje vai.
+{27920}{28020}- Berliko!|- O, drugari! Drugari!|O, ağutante tu ste!
+{28025}{28125}Da vas poljubim!|- Mirno!
+{28150}{28250}- Je l' bolje vašem kolegi? U pravu|je što i dalje nosi prsluk.
+{28255}{28325}- Nije mu bolje, još ima temperaturu.|- Nemam!
+{28330}{28385}- Da, imate temperaturu!|- Nemam!|- Imate!
+{28385}{28473}- Ništa nisam jeo od jutros.|- Briga me! Kako moete da kaete tako nešto?
+{28475}{28550}Hajde! Smešite se!
+{28745}{28870}- Gotovo!|- Krušo!|- Bravo, kolega!
+{28920}{28995}Revanš?|- Ne, ne. Dovoljno je.|Hvala, hvala lepo.
+{29020}{29095}- 17:0! Krušo, vi ste jedna cediljka.
+{29100}{29170}- Ali, šefe, brod se ljulja...
+{29620}{29664}- Hvala! Doviğenja! Æao!
+{29725}{29800}- Bravo!|Udavismo se u podsmehu!
+{29800}{29840}- Gospodo, vi ste obiène cediljke!
+{29840}{29905}- Imali smo igraèa manje.|Fugasu se vrti u glavi.
+{29918}{30000}- Da, šefe. Nikad nisam mogao da podnesem.
+{30015}{30120}Prvo se sav nadujem, a onda...|O, nije mi dobro!
+{30125}{30200}- Dobro. Vodite ga.|- Hvala, šefe.
+{30225}{30325}- To je morska bolest. Brzo æe proæi.|- Ali to ne spreèava Italijane da nam se smeju.
+{30325}{30400}- Strpite se, ağutante.|Revanširaæemo se!
+{30400}{30475}- Da, ali samo ako se brod ne ljulja!
+{30770}{30870}- Moja kapa! Mirno! Šta je vama?|Napred marš!
+{31020}{31145}- Hoæete li doæi da plešete veèeras?|- Milsim da neæu. Rano leem.
+{31145}{31220}- Ali zašto? elim da plešem s vama.|Istina je, kunem vam se.
+{31226}{31310}- Ima i drugih ena na brodu.|Sve su vredne panje.
+{31315}{31385}Imate odlièan izbor.|- Druge me ne zanimaju.
+{31390}{31495}Znate èesto su mi govorili da mi Italijani|stalno jurimo za enama i to je taèno.
+{31510}{31605}- Vi ste bar iskreni.|- Ali kad sretnem lepu|devojku, to je onda nešto drugo.
+{31720}{31770}- Izvinite, drugarica me èeka.
+{32020}{32070}- Evo, san-dek, ağutante.|- Da, da.
+{32270}{32425}Jeste li videli dimnjak?|- Pogledajte gore. Pogledajte. Ogroman je!
+{32500}{32545}- Šta je ovo?|- Èamci za spasavanje.
+{32545}{32595}- Na sve su mislili.
+{32645}{32745}Kako lepo putovanje!|- Pogledajte, pogledajte samo, ağutante!
+{32760}{32855}- Hteo sam da povedem enu, ali za|to je trebalo prekršiti nareğenja.
+{32860}{32945}A ako mi nismo discipliniovani,|ko æe biti?
+{32950}{33095}Mi smo u zvaniènoj misiji i najmanja|greška moe imati ozbiljne posledice.
+{33100}{33245}Zato smo slobodniji u kretanju kad ne|brinemo o našim enama i æerkama.
+{33245}{33295}- Zar ne?|- Da, da.
+{33295}{33345}- Hajde da popijemo neki aperitiv.
+{33395}{33460}- Ağutante, da li je moguæe?|- Moguæe je, ponudio sam vam aperitiv.
+{33460}{33520}Šta je bilo?|- Ja sanjam!
+{33570}{33645}- Krušo! Nemojte i vi kao Fugas!|Šta vam je?
+{33650}{33745}- Mislim da sam video moju æerku.|- Mislite da ste videli æerku? A gde?
+{33845}{33870}- Ne!|- Šta?
+{33930}{33970}Dakle?
+{33970}{34030}- Pomislio sam... Imam...
+{34053}{34103}- Krušo, pazite malo!
+{34130}{34245}- Idem da se malo... Moram da|ruèam, ništa nisam jeo jer...
+{34645}{34750}Nikol! Nikol!
+{35075}{35170}- Dakle, doktore?|- Teško je dati dijagnozu, zar ne?
+{35175}{35290}Imao je jaku groznicu, puls mu je bio normalan,|ali njegovo opšte stanje je dobro.
+{35295}{35355}Jedino bi kompletnijim|pregledom saznali nešto više.
+{35360}{35430}- Moemo li ga iskrcati?|- Da, kola hitne pomoci æe ga odvesti do naše klinike.
+{35440}{35545}Hajde, ne brinite se, prijatelju. Za dva-tri|dana biæete kao novi. Prijatno!
+{35640}{35770}- Drugari, ne ostavljajte me.|Hoæu da vidim Njujork!
+{38795}{38845}- Vašu izlaznu kartu molim, gospodice.
+{38845}{38945}- Moja izlazna karta?|- Da.
+{39020}{39100}- ao mi je, bila|je tu pre pet minuta.
+{39170}{39220}- U redu, znam.|Podite za mnom.
+{39345}{39445}- Nemate ni pasoš, ni kartu, ni vizu.
+{39470}{39520}Vi ste slepi putnik?
+{39615}{39665}Moramo obavestiti vašu ambasadu.
+{39745}{39845}- Hej, Heri, ima li nešto za mene?|- Samo jedna lepa Francuskinja.
+{39870}{39920}- Mogu li da poprièam sa njom?|- Izvoli.
+{39995}{40095}- Zdravo! Ja sam Frenk Dejvis, novinar.
+{40095}{40195}Došao sam da vidim da li je bilo|neèeg uzbudljivog tokom putovanja.
+{40195}{40245}Ali ništa osim andara.
+{40260}{40310}Interesuje me vaša prièa.
+{40360}{40460}Zašto ste došli ovde?|Kako se zovete?
+{40500}{40555}Nadam se da niste nemi.
+{40565}{40640}- Nikol.|- A prezime?
+{40640}{40685}- Samo Nikol.
+{40715}{40815}- OK, Nikol. Recite mi sve.|Vaši roditelji znaju da ste vi ovde?
+{40820}{40895}- Ja... Ja sam siroèe.
+{40895}{40947}Oduvek sam htela da|vidim Sjedinjene Drave.
+{40953}{41045}To je tako velika zemlja,|tako oèaravajuca...
+{41045}{41170}- Savršeno! Mala Francuskinja|sirotica koja eli da vidi Njujork.
+{41195}{41320}Odlièna si za moj newspaper.|Nikol, ja æu sve srediti. Ne brini.
+{42070}{42160}- Hajde da pitamo gde su nam|sobe, pa da se prošetamo.
+{42160}{42220}Ukoèili smo se malo.|- Tamo.
+{42370}{42495}- Dobro jutro, gospodine.|Z rums for frenc delegasjon.
+{42495}{42670}- Imamo 4 sobe, ali pošto jedan vaš andar|u bolnici, neko od vas æe biti sam.
+{42670}{42745}- Šta kae?|- Kae... Kae... Šta kae?
+{42845}{42945}- Kad vam se kolega vrati iz bolnice nek|doğe kod mene. Ništa ne brinite.
+{42948}{42998}- Da, da, moje cveæe je lepo.
+{43070}{43120}Pobrini se za njih.
+{43670}{43770}- Idite u vašu sobu. Sutra vas|èeka nešto predivno na televiziji.
+{43770}{43830}- O, nemojte, molim vas.|To nikog ne zanima.
+{43835}{43895}- Ne budite smešni. Mi u|Americi oboavamo bajke.
+{43895}{43945}Sneana je naša najveæa zvezda.
+{43945}{44045}- Jedva da govorim engleski.|- Èuo sam vas kako pevate u taksiju. Oèaravajuæe.
+{44045}{44145}- Hvala, ali samo sam pevušila.|Imam samo ovaj komplet...
+{44145}{44230}- Ne brinite. Odvešæu vas u prodavnice|da kupite sve što elite.
+{44345}{44520}- Tempo nam se ubrzava, a?|- Preğite ispred! Poseta Njujorku! Marš!
+{49105}{49195}- Izvinite, ja sam Èak Beri,|sa amerièke televizije.
+{49205}{49355}Voleli bismo da andari iz Sen Tropea|uèestvuju u našem programu.
+{49355}{49455}- A! To je amerièka televizija!|Èast nam je.
+{49455}{49535}Prihvatamo, gospodine, ali danas je|sveèano otvaranje kongresa.
+{49540}{49630}Da li vam odgovara sutra?|- Sutra? OK. Hvala.
+{50730}{50780}ao mi je, mislim da sam iscrpeo|svoje znanje stranih jezika.
+{50790}{50855}Sreæan sam što mogu da vam danas|kaem dobro došli u Njujork.
+{50855}{50930}Siguran sam da æemo zajedno|uraditi vrlo dobar posao.
+{50930}{51060}Uporeğujuæi medusobno svoje metode,|uspehe, neuspehe,
+{51110}{51260}uvek moemo nauèiti dosta toga|korisnog za buduænost...
+{51355}{51455}- Na kraju krajeva, policajca ne treba da|gledaju samo kao èuvara zatvora.
+{51630}{51780}- Jedini nam je zadatak danas da se|upoznamo sa programom rada.
+{51780}{51855}Pravi rad nas èeka tek sutra.
+{52130}{52230}- Otkad smo kupili Menhetn|od Indijanaca za 24$.
+{52355}{52455}I na kraju ovog prvog sastanka,|hteo bih da ponovim naše elje
+{52455}{52505}da æe vam biti prijatno sa nama.
+{52530}{52680}To ce biti simbol meğunarodne|saradnje i mira koga svi elimo.
+{52700}{52805}Ne bih voleo da ovo shvatimo kao|obièan sastanak
+{52830}{53030}veæ kao viši stepenik ka saradnji svih...
+{53205}{53310}- O, ne! Još? Ne! Dobro sam!|Odlièno mi je!
+{53400}{53500}Ne mogu više! Ne!|Pustite me! Dosta mi je toga!
+{53530}{53610}Neæu! Pustite me!|Hoæu da telefoniram!
+{53640}{53695}- Koga biste vi da zovete?
+{53705}{53855}- Dobro, doktore. Tako je.|Dajte mi ga.
+{53930}{54030}Halo? Fugas!|Izgleda da vam je bolje?
+{54030}{54110}- Neæu više boce, ağutante!|Toliko su me izboli da ne mogu da sedim.
+{54110}{54205}- Fugas, mali moj, urazumite se!|U dobrim ste rukama!
+{54210}{54300}- Uspeli su da me razbole, ağutante!|Je l' me razumete?
+{54320}{54480}Halo! Ağutante!|Opet poèinju! U pomoæ! Drugari!
+{54555}{54580}- Hej! Taksi!
+{54655}{54685}Televizija.
+{54730}{54780}- U televiziju!
+{55005}{55080}- Hvala! A sad nešto za vas, dame,|naroèito za vas.
+{55100}{55190}Nešto sasvim novo!|Neophodno u vašoj kuhinji!
+{55200}{55255}Sada moete napraviti|salatu za sekund!
+{55255}{55305}Pogledajte samo! Hajde, Petsi!
+{55430}{55580}Daj ga meni. Huri! Hurej!|Hurikej! Sad zajedno!
+{55680}{55755}- Dame i gospodo, poelimo|dobrodošlicu gospoğici Nikol!
+{55780}{55830}Muzika, gospodo!
+{56030}{56160}Kad sam daleko od moje zemlje,|ništa mi nije po volji.
+{56210}{56360}Bio to Don ili Pjer,|mladiæi su fini.
+{56407}{56557}Jedan oprezno, drugi na kolenima,|svako na svoj naèin.
+{56590}{56740}Izbrišite granice|izmeğu mog srca i njega.
+{56770}{56850}Vode me da posetim|ogroman grad
+{56860}{56920}u kojem se oseæam|izgubljenom.
+{57000}{57060}Da vidim najlepše muzeje,|crkve i ulice
+{57070}{57150}A uveèe me vode na ples,|na ples, na ples.
+{57245}{57375}Kad sam daleko od moje zemlje,|nemam problema.
+{57430}{57560}Kad misle da su voljeni,|mladiæi su fini.
+{57925}{58025}- Program je u toku. Ne moete uæi sada.
+{58040}{58120}Svi ovi ljudi idu pre vas.|Znaèi vi æete za oko pet minuta.
+{58505}{58565}- Šta radite to? Nikad niste videli televizor?|- Video sam moju æerku.
+{58570}{58620}- Opet? A gde?|- Unutra!|- Unutra?
+{58605}{58655}- Uobrazili ste to!
+{58660}{58705}Krušo! Molim vas!
+{58805}{58855}Jeste li poludeli?
+{58930}{59005}- Ode! Eno je ode! Pustite me,|ağutante! Pobee!
+{59205}{59255}- Zaustavite ga!
+{59305}{59355}- Šta vam je?|- Pustite me!
+{59360}{59410}- Jedan snimak sa francuskim|andarima! Divno!
+{59420}{59480}- Èekam vas dole!
+{60880}{60915}Taksi!
+{61175}{61245}- Otkud vi ovde, dete moje?|Kakvo iznenağenje!
+{61255}{61325}- O, sestro! Kako je svet mali!
+{61365}{61420}- Ovde sam na kongresu o prièesti.|A vi?
+{61430}{61500}- Da, da. Ja sam na kongresu...|Slušajte, imam hitan slucaj i...
+{61570}{61625}Slušajte, sestro. Strašno se urim.
+{61630}{61695}- Izvinite što vas prekidam, ako mogu|negde da vas odvezem.
+{61700}{61770}Idem na Brodvej.|- A, ne, ne!
+{61780}{61870}Zbogom, sestro!|- S mirom, dete moje.
+{61880}{61920}- Taksi!
+{62595}{62695}- Gospoğo, da li govorite engleski?|- Naravno!
+{62695}{62870}- Recite mi, ova devojka... Njena soba...|Broj njene room?
+{62870}{62935}- Gospodine, ne dozvoljavamo muškarcima|da ulaze u ovaj hotel!
+{62940}{62995}Ovaj hotel je samo za ene!
+{63000}{63050}- Samo za dame!
+{63055}{63195}- Ja nisam gospoğa, ja sam otac...Father...|Recite mi... Neka sam æu.
+{63200}{63245}- Gospodine! Gospodine!
+{63295}{63345}Policija! U pomoæ! Policija!
+{63820}{63945}- Dobro! Dobro! Traim moju æerku.|Ja sam otac! Eto!
+{63955}{63995}- Francuz! Francuz!
+{64000}{64100}- O, Francuz!|- Eno ga!
+{64145}{64195}Eno ga!
+{65350}{65430}- Francuz?|- Sen Trope?|- A, èuli ste za Sen Trope!
+{65470}{65560}- Dame?|- Dame su prelepe.|- Hajde!
+{65565}{65625}- Èekajte! Vidite! Ja sam...
+{65670}{65750}- Znate, "enska pomoæ" je vrlo popularna|organizacija u ovoj zemlji.
+{65770}{65820}Èak iako je polovinu èine ludaèe.
+{65820}{65890}Ne elimo nikakve gluposti|sa njima, razumete?
+{65900}{65950}Zato pazite šta radite.
+{65960}{66025}- Poruènik kae da je siguran da niste|hteli da pravite skandal,
+{66030}{66170}ali neæe ni on. Moli vas da budete fini i|da vam se ne ponove ovakve stvari.
+{66170}{66220}- Jeste li razumeli, Krušo?|- Da, ağutante.
+{66220}{66295}- Sve ovo vam je potpuno jasno?|- Da, ağutante.
+{66295}{66395}- Recite poruèniku da æu se lièno pobrinuti|da se ovako nešto ne ponovi.
+{66395}{66520}I da mu se zahvaljujem|na razumevanju.
+{66570}{66670}- eli da vas uveri da...|- Da, da, OK|- Izvinite.
+{66920}{66995}- Krušo! Saèekajte me ispred.
+{67145}{67270}- Sve u redu?|- Samo mali nesporazum.
+{67320}{67395}- Krušo! Mislite da je vreme za šalu?
+{67395}{67515}Zovu me u komesarijat zbog vaše gluposti.|Mirno! Napred marš!
+{67520}{67588}- Ovuda?|- Da, ovuda.
+{67595}{67645}- Mirno!|- Napred marš!
+{68070}{68160}- Bio sam rtva neverovatne|sliènosti i samo sam išao dalje...
+{68165}{68220}- Pa ne idite više! Za vaše dobro!
+{68227}{68285}Znate li šta mi je poruènik savetovao?
+{68295}{68345}Da vas odvedem na psihoanalizu!
+{68320}{68380}- Mene?|- Da, vas.
+{68380}{68445}Da, psihoanaliza je nova stvar.
+{68445}{68545}- Ne brinite se za mene, ağutante.|Ona devojka je ionako mnogo mlağa od Nikol.
+{68545}{68645}Ne znam kako sam mogao da se prevarim.
+{68645}{68720}- I bolje je tako. Inaèe bi ovo bio dokaz|da ste prekršili nareğenje.
+{68720}{68820}A za jednog andara to je više nego ozbiljno.|- Naravno.
+{68820}{68845}- Znate?
+{68845}{68895}Vrlo ozbiljno!|- Da, vrlo ozbiljno.
+{68895}{68955}- Zeleno svetlo, hajdemo.|- Izvinite.
+{69320}{69400}- Hej! To sam ja!|- Opet vi.
+{69400}{69475}- Da, sudbina, verujte mi.|Gde idete? Otpratiæu vas.
+{69475}{69545}- Traim neki hotel daleko od centra,|gde nema mnogo buke.
+{69545}{69645}Stvarno? Imam vrlo fine roğake u|italijanskoj èetvrti. Prave odliène špagete.
+{69670}{69770}Imaju lepu gostinjsku sobu.|Biæe vam kao kod kuæe.
+{69795}{69845}A mama æe vas oboavati.|Doğite.
+{69845}{69895}- Šta vam pada na pamet?|Vratite mi torbu.
+{69895}{69945}- Zašto? Ne, ispratiæu vas.
+{70045}{70120}- Moja æerka! Tamo!|- Gotovo! Opet ga to hvata!
+{70120}{70195}- Tamo! Na trotoaru preko puta!|Gledajte!
+{70220}{70360}- Krušo, mali moj, smirite se,|dete moje! Ne udarajte me!
+{70495}{70645}- A ta mala Doroteja kojoj ste|nosili torbu posle škole
+{70645}{70745}nije htela da podeli sa vama uinu?
+{70745}{70895}- Da, uvek je davala èokoladu|debelom Lali, mrzim ga...
+{70920}{70970}- I vi ste eleli da se osvetite?
+{70970}{71055}- Da, sve se lepo namestilo.|Pritisao sam ga na raskrsnici.
+{71070}{71170}Nije imao brisaèe, farovi su mu bili prljavi,|uvredio je jednog policajca.
+{71170}{71220}I kaznio sam ga 52 000 franaka.
+{71220}{71345}- Kompleks usled|prepubertetske frustacije.
+{71445}{71485}- Šta?|- Ne, ništa...
+{71490}{71560}- Neemotivna sentimentalna|osoba drugog stepena.
+{71595}{71695}Najzahtevnija u ljubavi.|Pravo malo èudovište.
+{71695}{71770}- Barbara, to bi bilo sve.|Dajte mi tu knjigu i izağite.
+{71870}{71945}O èemu mislite?|- O debelom Lali.
+{72045}{72095}- Gledajte me u oèi! Ovde!
+{72145}{72195}Debeli Lala malo sutra!
+{72370}{72470}Neko daleko oseæanje|afektivne frustracije
+{72495}{72595}utièe da prenosite na vašu æerku|preterano oseæanje
+{72600}{72700}oèinske odgovornosti|opsesivnog karaktera
+{72710}{72820}što moe stvoriti kratkotrajne|ciklotimiène simptome
+{72820}{72960}uz moguænost paralelnog ogranièenog|širenja podsvesne prirode.
+{72970}{73070}- Pa, da. Nego, da li biste mogli da mi|zapišete sve to? Za mog ağutanta.
+{73095}{73170}- Molim vas, ne gnjavite me!|- Izvinite.
+{73545}{73620}Operisaæete me?|- Gledajte ovaj plamen!
+{73645}{73745}Ne ispuštajte ga iz vida!|Ne napreite se! Opustite se!
+{73770}{73820}- Plašite li se vatre?|- Ne.
+{73825}{73875}Jeste li se plašili kad ste bili mali?
+{73845}{73940}- Kad sam bio mali palio|sam roğendansku tortu.
+{73945}{74040}- Vrlo zanimljivo!|Rana piromanija!
+{74070}{74130}- Uzmite.|- Ne...|- Uzmite! Opustite se!
+{74135}{74270}Usredsredite se na plamen,|ispunite se njegovom toplotom.
+{74270}{74320}Opustite se!|- Da, da...
+{74345}{74420}- Prestanite da mislite na vašu æerku.|Ona je tako daleko!
+{74420}{74545}Mislite na plamen koji vas proèišæava,|na lepotu ove vatre,
+{74570}{74695}koja umiruje vaše strahove.|- Dobro sam, smiren sam.
+{74695}{74770}Ja sam daleko, prepuštam se.|O, kako je dobro.
+{74820}{74870}- Izleèeni ste.|- Stvarno?
+{74870}{74920}Dovoljna je samo jedna seansa.
+{74945}{74995}Èestitam vam! To bi bilo 100$.|- Je l'?
+{74995}{75020}- Barbara?
+{75095}{75195}- Izvinite, izvinite!|Imam vrlo vaan sastanak.
+{75270}{75345}- Vrlo vam je zanimljiv naèin|zaustavljanja lopova u crkvama.
+{75345}{75430}- To nije ništa u poredenju s vašom|metodom zaustavljanja nudista.
+{75470}{75520}- Glavna zasluga pripada|našem vodniku Krušou.
+{75520}{75620}Voleo bih da je ovde, ali desila|mu se mala neprijatnost.
+{75620}{75770}- Vaši ljudi su kao sportska kola,|lako pobegnu i lako se lome.
+{75920}{75970}- Hajde da se presvuèemo.
+{76095}{76295}- Šta je to? Vatra! Šibice!|- Pa kako ste? Reklo bi se da ste runo sanjali.
+{76320}{76445}- Kako ste, šefe?|- Nije to ništa, samo košmar.
+{76445}{76495}Šta se dešava? Vatra!
+{76495}{76570}- Gde?|- Tamo! Šibice!
+{76570}{76670}- Nema, šefe.|- Gledajte tamo! Šibice!
+{76695}{76795}Šibice! Šibice!|Ovo nije šibica! Je l' ovo šibica?
+{76800}{76870}- Šefe, to je samo odsjaj sunca na piksli.
+{76895}{77020}- Doğite, moj mali Krušo!|Hajde, odmorite se još malkice.
+{77045}{77120}- Ne, gotovo je, sad sam dobro.
+{77120}{77195}- Sad ste OK?|- Da, potpuno OK.
+{77195}{77245}- Šta æemo jesti?|- Pa...
+{77245}{77345}- Prvo uina. Ako nağemo nešto za jelo.
+{77345}{77445}- Nije da im je loša ova amerièka hrana,|ali ja svake noæi sanjam biftek.
+{77445}{77520}- I pomfrit!|- Da, i pomfrit kao što|ga vaša æerka pravi.
+{77520}{77630}- Ne! Šibica! Šibica!|Moja æerka nije tu, daleko je!
+{77634}{77745}Nisam je video 8 dana.|Ona je daleko, vrlo daleko!
+{77745}{77820}Vrlo daleko! Daleko!|Gde je ona? Daleko! Eto!
+{77820}{77945}Nervira me! Ne, oni su donekle|u pravu, ağutante.
+{77945}{78045}Moja cerka je odlièna kuvarica.|- Da, vrlo je nadarena.
+{78045}{78120}Ali, znate šta? Kotlet de Bersi koji|pravi moja ena nije za bacanje.
+{78120}{78170}Ja sam je nauèio da ga spremi.
+{78170}{78270}- Izvinite, ne bih da vas naljutim,|hteo bih da vidim to i da probam.
+{78270}{78345}- Hoæete da vidite? Videæete, videæete.
+{78345}{78445}Pod uslovom da mi neko nabavi meso|koje nema ukus celofana.
+{78455}{78545}Da ne miriše na mrcinu, ako smem|reci tako.|- Ja! Ja æu!
+{78545}{78595}- Idem ja!|- Ne! Šta je to?! Mirno!
+{78610}{78695}Mirno! Vi biste da probate|biftek na Brodveju!
+{78710}{78770}Šta vam je?|Kakav je to naèin?
+{78795}{78895}Vi pripremite sve, ağutante,|a ja æu da odem da kupim.
+{78920}{79095}Uzmite ga za primer, gospodo. Treba pokušati|nemoguæe da bi se postiglo više.
+{81270}{81420}- U redu, momci. Vrlo dobro!|Ova je najbolja.
+{81420}{81545}- Da, najbolje. Uvalili ste me u prièu da|biste izigravali brinu majku
+{81545}{81620}i bacate me u naruèje prvom koji naiğe.|- Vrlo je fin, zar ne? Hajde, Nikol!
+{81620}{81720}Romansa male Francuskinje i|zgodnog andara iz Italije je lepa.
+{81720}{81820}Ali to je samo za publiku.|Niko vas ne tera da ga volite.
+{81820}{81870}- To vam se ne bi dopalo.
+{81870}{82025}- Znate, mislim da ste prelepi.|Ali ja sam oenjen, imam dva klinca.
+{82030}{82070}A ovo mi je posao.
+{82070}{82135}Ja sam vam pomogao,|vi ste meni pomogli. U redu?
+{82140}{82200}- Ljubav na prvoj strani, a?
+{82445}{82495}- U, skote! Moj kotlet!
+{82945}{82995}- Hajde! Hajde!
+{83120}{83170}- Hvataj!
+{83220}{83270}- Hajde, Francuz!
+{83895}{83995}- Ovamo!|- Hvataj!
+{87320}{87375}- Hvala, Marija, hvala.
+{87445}{87545}- I hoæu da vam se zahvalim za|dobar posao koji ste obavili.
+{87545}{87620}Bili ste nam od velike pomoæi i|nikad to neæemo zaboraviti.
+{87620}{87720}- Poruènik odaje pohvalu dobrom|njuhu francuske policije.
+{87720}{87795}Ovog momka trae veæ šest meseci.|Èestitaju vam.
+{88095}{88170}Izvinite, ali moramo da jedemo.|To je sve. Hvala.
+{88170}{88220}Upravo tako, da jedemo.
+{88445}{88520}Ne pourujte me.|Luk!
+{88645}{88695}Senf!|- Puter?|- Ne još.
+{88820}{88870}- Puter?|- Ne to!
+{88895}{88995}So! Moramo pouriti.|Inaèe ce biti prekasno.
+{89025}{89085}Ne još!
+{89200}{89295}Treba dobro paziti jer|sad je najvaniji trenutak...
+{89320}{89405}Zaæini! Ne puter!|- Piše "seleri", moda je...
+{89420}{89520}- Slušajte! Ne idite mi po ivcima!|- Dosta!
+{89620}{89695}Puter. Puter!|- Hajde!
+{89770}{89820}- Tako?|- Da.
+{89900}{90020}Nema tu pa-pa, tu se taèno zna.
+{90095}{90195}Ovo je dovoljno. Vino!|- Vino!
+{90245}{90345}- Trikar!|Trikar?!
+{90495}{90545}- Pa, kako vam se èini?
+{90570}{90650}Recite.|- Baršunasto... Stvarno...
+{90670}{90770}- Što se tièe peèenja,|niste promašili.
+{90770}{90870}- Što se tièe senfa,|vi baš volite ljuto.
+{90880}{90980}- A to æe proæi. U interesu mu je|nas ne pusti u Njujork. Biæe gusto.
+{91045}{91095}- Polako!
+{91120}{91195}- To vino košta pet njegovih plata.
+{91195}{91261}- Hajde, sipajte! Ovo zvuèi uzbudljivo.
+{91445}{91520}- Hej! Šta æe vaše cipele|na mom krevetu?!
+{91520}{91595}- Budite milosrdni, ne valja|kad je èovek sebièan.
+{91595}{91655}- Ovo je moj krevet!|- Izvinite, malo sam neraspoloen.
+{91657}{91697}- Šta me briga!
+{91670}{91745}- Kako da vam kaem to je...|- Nemojte molim vas sad...
+{91745}{91820}- A, ne to, ono što mi|nedostaje je disciplina.
+{91840}{91920}- U pravu je, šefe. Opustili smo se.|ivimo kao civili.
+{91925}{92070}- Uveèe bih se èesto pitao:|Šta se desilo sa tvojim smislom ivota?
+{92120}{92195}- Kad samo pomislim,|grağani nas zadirkuju,
+{92195}{92320}ene nas psuju, šefovi nas tlaèe,|plašimo se kazni.
+{92320}{92380}Boe, kako je sve to daleko!
+{92390}{92450}- Znate li da sve to i nije tako daleko?
+{92470}{92590}- Mirno! Na moju komandu!|Jen' dva! Jen' dva!
+{92600}{92760}Stani! Na desno! Napred!|Jen' dva! Stoj! Voljno!
+{92820}{92930}- Mirno! Voljno!|- Mirno! Na levo ravnaj s'!
+{92930}{92970}Na mestu voljno! Mirno!
+{92995}{93095}- Eto vam naèina da se dovedete u red!|Hoæete 4 dana kazne?
+{93120}{93220}- To dugme je otšiveno!|Zar se tako ide na smotru?
+{93220}{93270}- Na desno!|Na levo ravnaj s'!
+{93295}{93395}Lezi dole!|Puzi!
+{93545}{93595}- Izvinite, ağutante...|- Da, izvolite.|- Voljno!
+{93745}{93820}- Da, ko to govori? Ovde vodnik Krušo.|Ko govori?
+{93820}{93900}Ništa ne razumem. A! Fugas!|Daæu vam ga.
+{93908}{93948}Za vas, ağutante.
+{93960}{94020}- Halo, ağutante. Morate me izvuæi odavde.
+{94020}{94120}Ne mogu više! Poludeæu skroz!
+{94170}{94270}Ne znaju šta mi je.|Zbunjeni su.
+{94285}{94355}- Budite strpljivi, Fugas.|Ako su vam zabranili posete,
+{94358}{94438}imaju razloga za to.|Moda imate nešto zarazno.
+{94470}{94560}Upravo smo svi zajedno|veèerali u sobi.
+{94560}{94710}- Još jedete i francusku hranu!|Kako ste bezobrazni! Dosta mi je svega!
+{94715}{94795}Šta ste dovraga veèerali?|- Bunca. Evo vam ga.
+{94795}{94895}- Halo? Ovde Krušo. Èekajte. Da.|Jeli smo fine kotlete,
+{94895}{94995}i jedan lepi Kamamber.|Da, mali moj.
+{95020}{95070}Šta? Hteo bi da pomiriše|hranu preko telefona.
+{95070}{95145}- Donesite mu ostatke,|ne treba da mu se protivimo.
+{95220}{95295}- Oh, kao da sam ga|dodirnuo, ağutante.
+{95345}{95445}Sir je divan. O, šefe, hoæu|da se vratim u Francusku.
+{95445}{95620}Kako lepa zemlja! Sunce na obali!|Lepote Provanse!
+{95620}{95820}Velièanstvena Bretanja! Ponos Severa!|Venci Voa!
+{95830}{95900}Nikad vaši neæe biti|Alzas i Lorena.
+{95910}{95970}Vama u prkos|ostaæemo Francuzi.
+{96020}{96080}Nikad neæete imati|srce kao što je naše.
+{96170}{96230}- Danas imamo lakši program
+{96240}{96320}uvod u bejzbol pre podne,|a zatim poseta muzeju.
+{96395}{96470}- Ko zna da ste bili u Firenci?|- Bravo, Ludovik!
+{96470}{96530}- Dosta, Trikar!|- Piše u novinama!
+{96530}{96590}- Vaša fotografija!|- Na naslovnoj strani!
+{96585}{96635}- Nemoguæe! Evo me!
+{96638}{96715}Evo me!|- A! A mene su isekli!
+{96695}{96785}- Ništa strašno. Evo mene. Vidite?|- Da, vidim. Mene su isekli.
+{96795}{96870}Èestitam. Samo ste vi vani za štampu.
+{96920}{96970}Ljubav, veèna ljubav
+{96995}{97045}- Dajte mi to!|- Šta je bilo?
+{97045}{97120}- Isekli su vas! Sad æu da im pokaem!|Obièna krpetina!
+{97122}{97177}- Nije to tako strašno.|- Isekli su vas! Jeste strašno!
+{97180}{97230}- Ağutante Krušo, èestitam!|- Ne, ne, isekli su ga...
+{97235}{97298}- Pogledajte!|- Dajte mi to! I ovde su vas isekli!
+{97300}{97388}Svuda su vas isekli! Za mene je i te kako|strašno! To je pitanje...
+{97445}{97570}Dajte mi to! Bez publiciteta!|Grozim se publiciteta!
+{97570}{97645}Saèekajte me, ağutante,|da spalim sve ovo!
+{97670}{97745}- Jeste li videli, gospodo? Samo pravi|heroji ostaju anonimni.
+{97920}{98020}- Gospodine, moete li mi prevesti ovo?|- "Romansa dana"?|- Da, to.
+{98040}{98165}- "Junakinja dana, Nikol..."|- Ha! Ništa, nastavite.
+{98170}{98260}- " Nikol, mala sirotica iz Francuske..."|- Šta kae?
+{98265}{98415}- " Siroèe! Došla je u Njujork|kao slepi putnik,
+{98420}{98485}bez vize, pasoša, ni izlazne karte...
+{98488}{98595}- Gospode!|- ...Doivela je pravu bajku|zahvaljujuæi našim novinama.
+{98595}{98655}- Pa, da, bajka, a meni æe da|se obije o glavu. Èitaj dalje!
+{98660}{98745}- "Izgleda da je našla svoju ljubav..."
+{98745}{98845}"U mladom zavodniku, andaru iz Italije..."
+{98845}{98945}- Dobro, dosta. Nastavak mi je poznat.|Spalite mi ovo ovim!
+{98960}{99010}Gde su Italijani?
+{99045}{99095}Gde su Italijani?|Gde su Italijani?
+{99100}{99160}- Šta æe vam oni?|- Nešto privatno.
+{99170}{99255}- Odoše na bejzbol. Pitao sam na|recepciji da li je potrebno
+{99260}{99320}uèiti sport koji se nikad ne igra!
+{99320}{99395}- Što moe što Italijan,|moe i jedan Francuz!
+{99395}{99455}Ja se ne predajem!|- Na usluzi! Ovaj... Napred!
+{99460}{99520}Hajde! Napred!
+{99545}{99610}- Kad samo pomislim da su me|drali 4 dana da bi otkrili
+{99612}{99672}da sam alergièan na|morske ptice!
+{99675}{99765}Smešno! Zadrite ostatak.|Videæu ja Njujork!
+{99770}{99870}Zar nisu divne ove zgrade, ova svetlost,|ovaj kikiriki? Drugari, stiem!
+{100295}{100345}Polomio sam nogu, drugari!
+{101045}{101145}- Mora se priznati da su Italijani nadareni|za mnoge stvari, naroèito ovaj lepi mladiæ.
+{101145}{101195}- Ma kakvi lep, smiriæu ga ja!|- Ne, slušajte!
+{101195}{101270}Moramo da igramo. Skoncentrišite se.|Krušo, biæe gadno.
+{101270}{101370}- Za njega! Za njega æe|biti vrlo, vrlo gadno!
+{103195}{103245}- Druga je prièa kad se boæamo.
+{103495}{103545}- Uništiæete me!|- Ne još. Moda posle.
+{103590}{103625}- Dobro ste?|- Da.
+{103625}{103720}- Izgleda da flertujete sa jednom|lepom Francuskinjom.
+{103720}{103820}- Jedva da je poznajem, ali nadam se.|- I hrabri ste.
+{103870}{103945}- Tako lepo devojèe ne treba ostavljati|samo. Morate otiæi po nju.
+{104008}{104145}- Da... Moji roğaci je dobro èuvaju.|La mama je pazi.
+{104145}{104270}- Dobro napredujete, mali moj. Vidi ovo?|Zabavno je, a?
+{104295}{104355}- Znaèi imate roğake u Njujorku.|- Da.
+{104357}{104395}- Stvarno?
+{104395}{104445}A gde su?
+{104450}{104520}- Znate, Mote su generacijama trgovci.
+{104520}{104620}- Šta me briga za to. Gde su?|- Odmah pored kineske èetvrti.
+{104620}{104720}- Gde taèno?|- Mota street br. 204.
+{104720}{104770}- Motstrit br. 204?|- Da.
+{104770}{104820}Evo ti lopta. Hvataj!
+{104820}{104895}Motstrit br. 204!
+{104915}{104955}- Dosta više!
+{105180}{105230}- Nije on kriv!
+{105300}{105350}- Tišina! Prekinite!
+{105940}{106040}- Vidi šta si uradio!
+{106040}{106140}- Odšteta... Evo, za štetu...
+{106165}{106240}Dubua, reporter Franspresa.
+{106240}{106340}Zbog male Francuskinje.|- Ništa ne razumem ovaj francuski.
+{106365}{106465}- Mala Nikol...|- A, ne, ne znamo.
+{106500}{106613}- O, kakva lepotica!|- Ja?|- O, kakav lepotan!
+{106865}{106915}Fotografija sa malom Nikol.
+{106915}{106990}- Nikol, Nikol!|- A, ne, otišla je!
+{106990}{107115}- Ma nije otišla! Ovo je nam je prijatelj.|Nikol! Nikol!
+{107190}{107290}Dodi, Niko, nasmeši se.
+{107340}{107415}Bravo, Nikol. Kako prijatan èovek.|Nasmeši se.
+{107440}{107535}- Momenat! Ne ovde nije dobro.|Èekajte. Ovde je dobro.
+{107540}{107715}Ne, ni ovde.|- Dobro je, dobro je.|- Ovde je dobro. Nije dobro.
+{107715}{107815}Sad æeš da vidiš! Sad æeš da vidiš!|Hajde! Polazi! Ovuda!
+{107815}{107890}- Kakav grubijan!|Ğulio! Marcelino! 
+{107990}{108040}- Hoæeš šamar?
+{108040}{108090}- Tata, Sicilijanci!
+{108740}{108815}- Gde li su otišli?|- Otkud znam?
+{109480}{109530}- Daj mi taj kišobran.Tako.
+{109540}{109590}- Hajde! Govori!|- Tata, ao mi je...
+{109590}{109665}- Ne zanima me! Šta još?|- Znaš, ukazala mi se prilika...
+{109665}{109740}- Videæeš ti!|- A posle na brodu, bilo je kasno...
+{109740}{109775}Pravo vrzino kolo!
+{109775}{109865}- Vrzino kolo koje moe da|nas upropasti! Oboje!
+{109865}{109965}Zbog tebe su me veæ proglasili ludim!|A sad æe biti još gore ako te neko vidi!
+{110015}{110065}- Zar nemam pravo da putujem?|- Nemaš!
+{110065}{110115}- Nisam u vojsci!|- Ja jesam!
+{110115}{110165}- Osim toga dosta smo putovali!
+{110165}{110240}Ako se sazna da si ovde uprkos|nareğenju, obesiæe me!
+{110250}{110355}A ako saznaju kako si došla ovde,|obesiæe me na najvišu krušku!
+{110355}{110405}- Šta prièaš? Nisam u toku.|Ne razumem.
+{110410}{110515}Znaš šta je ağutant rekao? Da sam lud i da|moram da zaboravim sopstvenu æerku.
+{110615}{110645}- Krušo!
+{110665}{110740}- Ne! Tamo!
+{110840}{110890}- Krušo!
+{111115}{111170}- Izvinite, gospoğo. Mora da|sam pogrešio sobu.
+{111170}{111215}- Naravno, ağutante.
+{111215}{111315}- Krušo! Zašto izigravate Kineza?|- Gospoğo... Gospodine ağutante...
+{111320}{111390}Kupio sam ovo u Kineskoj èetvrti.|Kako mi stoji?
+{111390}{111465}- K'o piletu sise!|-A, baš fino. Izvolite, ağutante.
+{111465}{111540}- Iskreno, zašto izigravate Kineza?|- Ne znam ni sam, ağutante.
+{111540}{111590}Malo Boolea?
+{111590}{111640}- Moe, Boole moe.
+{111690}{111740}Ko je to?
+{111740}{111790}- Ima nekog.|- Gde?
+{111790}{111840}- Ne tu, tamo.|- Tamo?
+{111840}{111915}- A, da, to je metro, ventilacije... vibracije.
+{111915}{112040}- Vibracije na 104. spratu?|- Da, metalna armatura upija...
+{112065}{112140}- Da nije neka Kineskinja?|- Ne, ağutante.
+{112140}{112240}- Ovo mi je jedina èista uniforma!|- Doneæu vam toplu vodu.
+{112240}{112278}- Ne, pustite, sam æu.
+{112278}{112328}Pustite me!
+{112328}{112390}Dosta!|Budalo!
+{112465}{112525}- O, ne! Ağutante, sve æu vam reæi.
+{112530}{112590}- Nema potrebe. Gde je sapun?
+{112590}{112640}- Šta?|- Gde ste ostavili sapun? Nağite ga!
+{112640}{112690}- Joj!|- Šta je bilo?
+{112690}{112790}- Sapun mi je pao na glavu.|- Kaplje vam tuš.
+{112805}{112840}- Šta kaplje?|- Tuš vam kaplje.
+{112840}{112915}- A, moj tuš kaplje.|- Da, zatvrnite slavinu.
+{112915}{113015}- Ne, prestaæe. Vidite.
+{113015}{113065}- Da, prestalo je.|- Slušajte, ağutante.
+{113065}{113115}Idemo sad.|- Šta? Šta?
+{113115}{113190}Idemo! Do viğenja, ağutante!
+{113190}{113240}- Moja kapa!|- U, jaka stvar!
+{113240}{113340}- Ne moe tako!|- Ne moete tamo! Ne dam!
+{113390}{113440}- Ovog puta sam siguran.|- Šta je bilo?
+{113440}{113470}Kaplje vam tuš!
+{113470}{113520}- Ne!|- Da!
+{113545}{113605}- Ağuatante, hoæu da odem|u penziju pre roka.
+{113670}{113765}- Iz kojih razloga?|- Tako... Pap!... Sapun...
+{113775}{113840}- Ne znam šta ste radili pre podne.
+{113840}{113915}Vaš privatni ivot me se ne tièe,|ali vidim da ste vrlo nervozni.
+{113915}{114040}- Izvinite što sam vas uznemirio.|- Dobro. Idem. Ostavljam vas.
+{114090}{114165}Sad vam ozbiljno kaem. Dole za pola|sata biæe oproštajni koktel.
+{114165}{114240}- Veæ?|- Da, malo su ubrzali,|da bi ljudi mogli da se spakuju.
+{114240}{114340}- Biæu tamo, ağutante.|- Ludi Krušo!
+{114390}{114415}- Moroncina.
+{114465}{114515}Nikol!|- Ovde sam.
+{114515}{114590}- Tu si?|- Pouri.
+{114665}{114740}- Još jedan minut i ugušila bih se.|- Sad æeš na sve vazduh.
+{114740}{114840}Hajde, brzo! urimo se!|Bre, nevaljalice jedna!
+{114840}{114890}- Moja cipela!|- Briga me!
+{114915}{114990}Veèeras su me pritisli. Imam oproštajni|koktel. Ti ideš sutra.
+{114990}{115090}- Koju haljinu da obuèem?|Jedina koju imam ostala je kod Mote.
+{115090}{115165}- Onda nemoj ništa da obuèeš.
+{115190}{115240}- Tata!
+{115330}{115390}- Aldo! Tragedija! Desila se|uasna tragedija!
+{115390}{115465}- Došao je neki s fotoaparatom.|Mora da je ukrao devojku!
+{115465}{115540}- Marcelino i Ğulio su ih jurili,|ali su ono dvoje pobegli.
+{115540}{115590}- Ako ga nağem,|ubicu ga svojim rukama!
+{115615}{115700}- Htela sam da zovem policiju, ali pomislih,|èovek na tvom poloaju
+{115705}{115765}to moe i sam.|- Siguran sam da æeš ga naæi.
+{115790}{115865}- Pomozi nam, Bogorodice!|Tako je lepa, tako nena.
+{115865}{115915}- Ako ga vidim, ubiæu ga!
+{116515}{116665}- Krušo! Šta radite s tim koferom?|- Ja... Ništa...
+{116665}{116715}- Šta je s vama?|- Ništa, ağutante.
+{116715}{116750}- Hajde, brzo, kasnimo!
+{117740}{117815}- Baš su smešni!
+{117840}{117940}- Molim vas, Merlo, takve reèi nisu umesne.|Ovi ljudi su vrlo fini.
+{117940}{118015}- To je taèno, ağutante.|I znaju kako da ugoste.
+{118015}{118065}- Paljivi su.|Svima su dali poklone.
+{118090}{118165}- Amerièka uniforma po|meri za uspomenu.
+{118165}{118235}Znaèajan gest, zar ne, Krušo?
+{118245}{118295}Ma, gde ode sad?
+{118315}{118385}- Razumete? Nağite je!|- Šta je bilo?
+{118385}{118445}Mala Francuskinja je nestala. Kidnapovana.|- Nemoguæe!
+{118450}{118500}- Da, daæu svima njene fotografije|i naæi æemo je.
+{118500}{118560}- Ne!|- Da!
+{118570}{118615}- Uzmite! Fotografije!
+{118640}{118715}- Hajde pravo u krevet!|Pravo u krevet!
+{118715}{118790}- Je l' biste mogli da razlikujte|ovaj sendviè od kravate?
+{118790}{118865}- Ağutante, nesposobni su da zatvore|prtljag i propustiæemo avion.
+{118865}{118915}U krevet!|- Ali ovde nam je lepo.
+{118915}{118975}- Upravo to, suviše vam je lepo.|- U pravu ste, Krušo.
+{118980}{119040}Bolje spreèiti nego leèiti.|Idite da spakujete prtljag!
+{119040}{119140}- Ağutante...|- Gospodo, ne primoravajte|me da primenim autoritet.
+{119140}{119190}- Šteta, baš smo se lepo zabavljali.
+{119215}{119240}- Eno ga opet.|- Ko?
+{119240}{119308}- Niko. Vidite onu prodavnicu tamo?|- Šta s njom?
+{119310}{119390}- Voleo bih da mi pomognete da kupim|haljinu kao poklon za moju æerku.
+{119390}{119490}Vi imate dobar ukus.|- Za vašu æerku? Opet poèinjete!
+{119490}{119590}- Da, hajedmo tamo jer prodavnica...|- Zašto? Nisam završio piæe.
+{119590}{119640}- Kupiæemo ga u prodavnici.|- Ali gde?
+{119690}{119790}- Frenk! Mala je nestala, kidnapovana.|- O, ne!
+{119790}{119840}- Da, u kuæi mojih roğaka.|- Uas!
+{119840}{119890}- Uèini nešto. Zovi policiju.
+{120140}{120190}- Dobro veèe, gospodo.|Mogu li vam pomoæi?
+{120265}{120390}- Haljinu za moju æerku.|- A, da. Znate li velièinu?
+{120415}{120490}- Velièina, velièina.|Èekajte da vidimo.
+{120540}{120665}Mnogo visoka. Stanite vi ovde,|a ja æu da vidim.
+{120665}{120740}- Je l' dobro ovako?|- Mislim da æu moæi.
+{120890}{120990}- Krušo! Šta se dešava?|- Vrti mi se u glavi.
+{120990}{121065}- Kasno je, prijatelju,|moramo da se pakujemo.
+{121090}{121215}Gotovo je s tim. Haljine, molim vas.
+{121215}{121365}- Da vidimo. Da li vam se sviğa ovo?|- Ne... Suviše je...
+{121365}{121415}- Razumem.|A ovo?
+{121465}{121590}- A! Ovo je vrlo elegantno.|Šta kaete?
+{121590}{121665}- Ko? Odlièno, odlièno.
+{121715}{121790}- Šta ste sad smislili?|- Ništa, ağutante.
+{121790}{121850}Otiæi æi sutra rano na aerodrom|kao izvidnica
+{121855}{121915}da obavim sve one formalnosti.|Tako æete moæi
+{121915}{121965}da odspavate malo due.|- Vrlo lepo od vas.
+{122002}{122115}- Halo, šefe. Ovde Frenk. Slušaj, vrlo je vano.|Kidnapovali su Francuskinju.
+{122115}{122265}Da, znam, policija zna, trae je. Znam da je ovo|neprijatno za vas, za mene, za nas.
+{122265}{122385}Šta da radim sada?|- Moli se da je nağu!|Jer ako izbije skandal...!
+{122387}{122465}Ne zaboravi da je ovo bila tvoja|ideja,tvoja glupa ideja!
+{122540}{122615}- Dobro, dobro.
+{122665}{122740}Je l' dobro? Imaš dovoljno vazduha?|Da napravim još rupa?
+{122740}{122865}- Ne, dobro je.|- Dva udarca za "dobro", za "OK"!
+{122865}{122940}Koliko puta da ti ponovim?|U sluèaju nude...
+{122940}{123015}- Kako da ne! Kad budem bila u avionu,|neæu uvek moæi da lupam.
+{123015}{123100}- Izvini, imam para da platim samo|za prtljag, ne i za tebe. Izvini.
+{123115}{123200}Treba da bude diskretno.|- Ovde baš nije udobno,|mogla sam da ostanem u krevetu.
+{123210}{123340}- Èekaj. Gledaj me ove. Ovde.|Urazumi se. Policija te trai.
+{123340}{123415}Lepo ti kaem.|Imaš biskvite?
+{123415}{123490}- Da, evo.|- Ima dva pakovanja. Naoèari?
+{123490}{123540}- Evo ih.|- Termos?
+{123540}{123590}- Evo, termos.|- Dobro.
+{123590}{123690}- Ne znam šta æu ako oednim...|- Dobro, to je samo 8 sati.
+{124065}{124155}- Pazite!|- Ne brinite, ja sam najbolji|vozaè na svetu.
+{124160}{124240}Sve je sigurno sa mnom.|- Ništa ne razumem.
+{124515}{124590}- Polako, molim vas, lakše.
+{125440}{125540}- Malena moja, nisi se povredila? Hej!|- Ispravi me, tata!
+{125540}{125590}- Èekaj, èekaj.
+{125665}{125728}- Naopaèke sam.|- Otvoriæu ti.
+{126065}{126115}- Nisam kriv,|ništa ja nisam uradio.
+{126165}{126215}- Moemo li vam pomoæi, gospodine?|- Ne.
+{126215}{126290}- Prtljag polomljen?|- Ne, u redu je, odlièno.
+{126290}{126390}- Ver gud. Sve je ol rajt. Odlièno.
+{126390}{126490}- Gde idete? Na aerodrom?|- Da, aerodrom. Imam dosta vremena.
+{126490}{126590}- Kasni. Hajde, Heri, pomozi mi.|- Ne.
+{126615}{126665}Ne, èekajte malo...
+{126715}{126785}Ne, ne, unutra, molim vas.|Insajd!
+{126830}{126940}- Sindikat ne dozvoljava sanduke unutra.|- Izvinite?|- Sindikat!
+{126965}{127040}- Promenite vaš sindikat ili|æu ja promeniti taksi.
+{127040}{127140}- Sindikat nije zadovoljan.|- Hajde, hajde!
+{127465}{127525}Strpi se, malena, ja sam tu.
+{127535}{127628}- Gospode! Èovek prièa s koferom.|Ovo još nisam video.
+{127628}{127715}- Mora da se brava zaglavila od|udarca. Kako si, mila moja?
+{127715}{127790}- Izvadi me odavde, tata.|Izgrebala sam se, svuda me boli.
+{127790}{127865}- Gospode!|- Stop! Stanite, molim vas.
+{127865}{127900}- Da, gospodine.
+{128065}{128140}- Hajde, brzo, izağite! Stigli smo. Brzo!
+{128140}{128240}Dajte mi to. Hajde, Brzo.|Briga me.
+{128290}{128315}Polako!
+{128378}{128490}- Prvi put u ivotu vidim ovako nešto.|Ovaj èovek je lud.
+{128540}{128590}- Glavu gore, stiemo.
+{128765}{128815}Evo, otvaram te.
+{128915}{128940}Tako!
+{128990}{129040}- Kako si?|- Slušaj...
+{129040}{129100}- Kako si, malena?|- Neæu moæi da hodam više.
+{129115}{129190}Vidi, sva krvarim.|- Nije to ništa.
+{129190}{129255}Izdri još samo do aerodroma,|a posle æemo videti.
+{129257}{129314}Hajde, još malo.|Budi hrabra. Hajde!
+{129315}{129390}Tako. Glavu dole. Hop! Tako!
+{129465}{129525}Brava ne radi, polomljena je.|Neko æe se moda pojaviti...
+{129555}{129620}- Gde ceš?|- Da nadem neka kola, taksi, bilo šta.
+{129625}{129665}Ti ostani tu i ne izlazi odatle!
+{130265}{130340}- Stanite! Stanite!
+{130765}{130815}- Ti!|- Ne.
+{130815}{130900}- Da, vi ste.|- Nisam ja onaj. Ti èekaj ovde.
+{130965}{131015}- Nikol!|- Da, ja æu da te èekam...
+{131090}{131140}- Nikol! Gde li je otišla?
+{131415}{131515}- Krv! Krv!
+{131570}{131610}Grob!
+{131715}{131765}- Stoj!|- Nemojte da me ubijete!
+{131840}{131905}- Ostani ovde!|- Ne uzimajte mi kljuèeve!
+{132015}{132090}- Nikol!
+{132240}{132290}- Hej, vi!|- Ja?
+{132290}{132415}- Da, vi, pourite.|Šta ste stali tako?
+{132465}{132540}- Idemo u novu zgradu.|Hajde, treba nam pomoæ.
+{132740}{132890}- Tom, šta kaeš? Bolje je traiti lepu|devojku nego juriti kriminalce.
+{132890}{132965}- Moda je ona opasnija od njih.|- Da, ja traim opasnost.
+{132965}{133015}- Moda je ruski špijun?
+{133015}{133075}- Šta ti misliš, æale?|- Da, šta ti misliš o tome?
+{133140}{133190}Šta si rekao?|Šta je rekao?
+{133790}{133890}- Hej, ti! Šta stojiš tu! Idi na strau!|I ne daj devojci da pobegne!
+{134065}{134115}- Nikol!
+{134115}{134190}- Hajde, pourite!|Vi, momci, idite s one strane!
+{134665}{134695}- Nikol!
+{135165}{135215}- Uhvatio sam je!
+{135440}{135490}- Tata!|- Šta bi?
+{135565}{135690}- Eno je! Hajde!|Pokret! Napred!
+{135890}{135990}- Brzo, brzo!|Tamo, tamo!
+{136640}{136715}- Aerodrom!|- Ti neæeš sa mnom?
+{136715}{136815}- Samo što su prošli. Ako su me videli u|ovome, gotov sam. Na aerodrom...
+{137290}{137340}- Ne!
+{137365}{137415}- Gde li je? Hej!
+{137415}{137490}- Ne! Uzmite kola!|Ne stavljajte me u sanduk!
+{137490}{137565}- Aerodrom, aerodrom. Brzo!
+{137565}{137615}Hajde, brzo!
+{138065}{138135}- Pa, Fugas, vraæamo se|na rodno ognjište!
+{138140}{138210}- Da, ağutante. Uzalud sam govorio|da æu videti Njujork.
+{138540}{138620}GARDEROBA ZA STJUARDESE
+{138740}{138840}- Evo! Vaše karte. Nemojte ih|izgubiti jer... Evo i za vas.
+{138890}{138965}- Stiete poslednji, šefe?|- Kad ste vi došli?
+{139015}{139065}- Taksi se pokvario.
+{139065}{139105}- Taksi se pokvario?|- Da.
+{139110}{139175}Zamislite, video sam jednog amerièkog|policajca i mislio sam da ste to vi.
+{139175}{139225}Pljunuti vi!
+{139245}{139330}- Moram da odem da kupim dinje.|- Dinje?|- Ne, cigare.
+{139390}{139440}- Otkad on puši?
+{139590}{139702}- Molim vas, gospoğice. Šta je bre to?|- Mogao bi da mi èestitaš.
+{139702}{139840}- Sad æu da ti pokaem. Ovamo!|Sedi tu!
+{139880}{140040}- Gde si to zdrpila?|- Ne zašto bi samo|ti imao pravo da se prerušavaš.
+{140040}{140090}- Šta æeš da radiš?|- Da letim avionom.
+{140090}{140190}- Obuèena kao stjuardesa?|- Da! Sve stjuardese se ne poznaju meğusobno.
+{140190}{140275}- Ne znam. Šta me briga! I?|- Uzeæu tranzitni let i uæi æu u 017.
+{140280}{140365}- Šta æeš da radiš u 017?|- Biæu stjuardesa.
+{140365}{140415}- Samo što...|- Šta "samo"?
+{140415}{140515}- 017 je vaš avion.|- Naš avion? Nemoguæe!
+{140515}{140590}- Vano je da se vratim kuæi, zar ne?|- Ali ne našim avionom!
+{140590}{140640}- Mogli biste da zakasnite.|- Kako?
+{140665}{140740}- Hajde, ti si na potezu, tatice.|Vidimo se brzo!
+{140740}{140815}- Brzo? A gde?|- Pa u Sen Tropeu!
+{141115}{141215}Poslednji poziv za "Er Frans" let 017 za...
+{141215}{141290}- Krušo! Još niste našli naš prtljag?|- Ne. Èekam da se pojavi.
+{141290}{141340}- A moj sanduk?|- Ne znam. Èekam.
+{141340}{141390}- Propusticemo ga. Ovo je|poslednji poziv!|- Da.
+{141390}{141490}- Treba da vidimo ko je odgovoran za ovo!|- Da, tako je, ağutante, tako je.
+{141590}{141665}- Hej! Jeste li videli moj prtljag?|- Ne, gospodine.
+{141665}{141740}- Pourite! Avion samo|što nije poleteo!
+{141740}{141790}Nağite ga! Nağite!
+{141965}{142065}- Krušo! Krušo!
+{142065}{142140}Znate li koga sam upravo video?|Vašu æerku!
+{142140}{142190}- Gde?|- U avionu!
+{142315}{142415}- Usredsredite se na taj plamen.|Ispunite se njegovom toplotom.
+{142415}{142540}Ne mislite više na moju æerku.|Ona je daleko.
+{142540}{142665}- Dobro sam, smiren sam. Ne mislm ni na šta.|Prepuštam se. Kako je dobro!
+{142665}{142750}- Gotovo, šefe! Propustili smo ga!|Jedva smo uspeli da iznesemo Fugasa.
+{142795}{142885}- Èudno! Oseæam se smireno!|- I ja.
+{143690}{143765}- Tata! Kako je bilo u Njujorku?
+{143790}{143820}- Divno, šefe, zar ne?
+{143965}{144040}- Krušo! Krušo!|Ta haljina!
+{144065}{144115}- Gde?|- Ovde, vidite!
+{144115}{144190}- Znaèi ono u Njujorku je bila vaša æerka!|- O èemu prièate?
+{144190}{144265}- I još ste me psihoanalizirali!|- Koga?
+{144265}{144365}- Koga?! Skupo æete mi platiti ovo!
+{144390}{144540}- Mirno! Mirno! Glavu gore!|U samoj luci da nas otkrije!
+{144540}{144590}Skupo æete mi platiti ovo!|- Da, šefe.
+{144590}{144665}Panja! Napred! Marš!
+{144690}{146190}ĞœĞ¾Ğ»Ğ¸Ğ¼Ğ¾ Ğ²Ğ°Ñ Ğ´Ğ° Ğ¾Ñ†ĞµĞ½Ğ¸Ñ‚Ğµ Ğ¾Ğ²Ğ°Ñ˜ Ñ‚Ğ¸Ñ‚Ğ» Ğ½Ğ° www.osdb.link/3qpz2|ĞŸĞ¾Ğ¼Ğ¾Ğ·Ğ¸Ñ‚Ğµ Ğ´Ñ€ÑƒĞ³Ğ¸Ğ¼ ĞºĞ¾Ñ€Ğ¸ÑĞ½Ğ¸Ñ†Ğ¸Ğ¼Ğ° Ğ´Ğ° Ğ¸Ğ·Ğ°Ğ±ĞµÑ€Ñƒ Ğ½Ğ°Ñ˜Ğ±Ğ¾Ñ™Ğµ Ñ‚Ğ¸Ñ‚Ğ»Ğ¾Ğ²Ğµ

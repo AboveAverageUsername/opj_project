@@ -1,0 +1,4801 @@
+1
+00:00:10,035 --> 00:00:17,035
+
+2
+00:00:19,000 --> 00:00:25,074
+-== [ www.OpenSubtitles.org ] ==-
+
+3
+00:00:27,036 --> 00:00:31,951
+Do 2000. g. prenaselili smo i
+zagaivali planetu brûe nego öto...
+
+4
+00:00:32,356 --> 00:00:34,233
+...smo je mogli
+oËistiti.
+
+5
+00:00:34,436 --> 00:00:38,907
+Ignorisali smo to koliko smo mogli,
+ali zavaravali smo se.
+
+6
+00:00:39,156 --> 00:00:41,876
+Godine 2025. bili smo
+svesni problema.
+
+7
+00:00:42,077 --> 00:00:46,389
+PoËeli smo oËajniËki traûiti
+novi dom. Mars.
+
+8
+00:00:46,637 --> 00:00:50,346
+Poslednjih 20 godina slali smo
+sonde s algama...
+
+9
+00:00:50,557 --> 00:00:53,549
+...preraenima tako
+da stvaraju kiseonik.
+
+10
+00:00:53,757 --> 00:00:56,635
+IzgradiÊemo
+pogodnu atmosferu.
+
+11
+00:00:56,917 --> 00:01:01,513
+I 20 godina Ëinilo se da je sve u redu
+i da smo uspeli.
+
+12
+00:01:01,717 --> 00:01:05,346
+Ali iznenada je koliËina
+kiseonika poËela opadati.
+
+13
+00:01:05,557 --> 00:01:07,276
+Ne znamo zaöto.
+
+14
+00:01:08,478 --> 00:01:15,031
+CRVENA PLANETA
+
+15
+00:01:22,958 --> 00:01:26,667
+Meunarodna zajednica
+dala nam je svu potporu.
+
+16
+00:01:26,878 --> 00:01:30,348
+Ovo je najveÊi poduhvat
+öto ga je Ëovek preduzeo.
+
+17
+00:01:30,558 --> 00:01:34,518
+Mars-1 je prevelik
+da bi uzleteo sa Zemlje.
+
+18
+00:01:34,759 --> 00:01:37,432
+Prebacili smo se na
+svemirsku stanicu...
+
+19
+00:01:37,719 --> 00:01:41,109
+...odakle Êemo krenuti
+na 6-meseËno putovanje.
+
+20
+00:01:42,599 --> 00:01:44,476
+Prvi let na Mars
+s ljudskom posadom.
+
+21
+00:01:45,879 --> 00:01:48,791
+»oveËanstvo je sve nade
+polagalo u nas.
+
+22
+00:01:55,879 --> 00:01:57,631
+Ali ja znam da Êemo
+reöiti problem.
+
+23
+00:01:57,879 --> 00:02:01,714
+Jer najbolji umovi idu gore
+da bi reöili problem.
+
+24
+00:02:01,920 --> 00:02:03,592
+A ja sam voa misije.
+
+25
+00:02:03,800 --> 00:02:06,519
+Ja sam Bowman,
+pilot i komandir.
+
+26
+00:02:07,320 --> 00:02:11,029
+Chantilas, nauËni
+oficir i duöa posade.
+
+27
+00:02:12,280 --> 00:02:15,875
+Santen, usijana glava,
+ali sjajan kopilot.
+
+28
+00:02:17,520 --> 00:02:20,796
+Gallagher, inûenjer
+zaduûen za odrûavanje.
+
+29
+00:02:21,000 --> 00:02:22,831
+Iskreno, nije bio
+moj prvi izbor.
+
+30
+00:02:28,281 --> 00:02:30,317
+Dva civila u
+posadi jesu:
+
+31
+00:02:30,841 --> 00:02:35,756
+Burchenal, jeda od vodeÊih bioinûenjera
+u svetu i sam svoj junak.
+
+32
+00:02:36,801 --> 00:02:37,711
+Pettengill...
+
+33
+00:02:37,921 --> 00:02:42,039
+...struËnjak za teraformiranje.
+U poslednji je Ëas uöao u tim.
+
+34
+00:02:42,361 --> 00:02:45,080
+I u svojoj kutiji: SKII.
+
+35
+00:02:45,281 --> 00:02:47,920
+Samostalno kartiranje
+istraûivanje i izbegavanje.
+
+36
+00:02:48,121 --> 00:02:50,431
+Viöenamenski robot
+pozajmljen od marinaca.
+
+37
+00:02:50,722 --> 00:02:53,919
+Drugim reËima, naö
+navigator na Marsu.
+
+38
+00:02:54,282 --> 00:02:56,352
+Prvi smo putnici
+na drugu planetu.
+
+39
+00:02:56,602 --> 00:02:58,718
+To je joö jedan veliki
+korak za ËoveËanstvo.
+
+40
+00:02:58,922 --> 00:03:03,040
+A ako ne otkrijemo problem
+na Marsu, moûda i zadnji.
+
+41
+00:03:23,523 --> 00:03:25,036
+Mach indikator.
+
+42
+00:03:25,243 --> 00:03:26,961
+- Radi.
+- Potvreno.
+
+43
+00:03:27,243 --> 00:03:30,280
+Obavljena primarna
+provera sistema.
+
+44
+00:03:30,483 --> 00:03:31,916
+- Hvala, Lucille.
+- Nema na Ëemu.
+
+45
+00:03:32,243 --> 00:03:33,471
+Gospodo. . .
+
+46
+00:03:33,803 --> 00:03:35,156
+. . .preuzmite.
+
+47
+00:03:35,523 --> 00:03:38,242
+- Zaista ovo radimo?
+- Samo Ëitaj uputstva.
+
+48
+00:03:38,443 --> 00:03:42,072
+Sekundarni sistemi.
+Provera radara.
+
+49
+00:03:42,844 --> 00:03:44,072
+- U redu je.
+- Potvreno.
+
+50
+00:03:44,284 --> 00:03:47,560
+- OptiËko poravnanje.
+- Poravnanje 19.
+
+51
+00:03:48,524 --> 00:03:51,322
+Koliko si imao poseta
+web-stranici?
+
+52
+00:03:51,564 --> 00:03:54,283
+- Ja 500.000.
+- Sjajno.
+
+53
+00:03:54,604 --> 00:03:55,798
+A ti?
+
+54
+00:03:58,324 --> 00:04:00,076
+832.
+
+55
+00:04:01,564 --> 00:04:03,361
+Sve tvoja majka?
+
+56
+00:04:06,044 --> 00:04:10,118
+MARS-1 , 93. DAN
+
+57
+00:04:13,165 --> 00:04:15,918
+»udno. Nestala je.
+
+58
+00:04:16,285 --> 00:04:19,721
+JuËe sam je video.
+Danas je viöe nije bilo.
+
+59
+00:04:19,925 --> 00:04:22,917
+Pa? Misliö da je
+nestala zauvek?
+
+60
+00:04:23,125 --> 00:04:25,958
+- »udno je öto je ne mogu videti.
+- Pa?
+
+61
+00:04:26,565 --> 00:04:28,396
+NaviknuÊeö se. Ili neÊeö.
+
+62
+00:04:30,645 --> 00:04:33,318
+Nisam to oËekivao.
+
+63
+00:04:37,966 --> 00:04:40,400
+Jesi li za par krugova?
+
+64
+00:04:46,606 --> 00:04:49,325
+Kao malog deda me
+nauËio jedrenje.
+
+65
+00:04:49,646 --> 00:04:51,557
+Navigaciju
+uz pomoÊ zvezda.
+
+66
+00:04:52,366 --> 00:04:56,200
+Za sluËaj da svi sateliti
+padnu sa neba.
+
+67
+00:04:56,886 --> 00:04:59,400
+Rekao je da je onaj
+ko poveri ûivot. . .
+
+68
+00:04:59,606 --> 00:05:02,485
+. . .skupu baterija,
+obiËan idiot.
+
+69
+00:05:03,247 --> 00:05:04,965
+Pravi Jenki.
+
+70
+00:05:05,167 --> 00:05:07,727
+Nije voleo niöta öto sam
+nije mogao napraviti.
+
+71
+00:05:07,967 --> 00:05:11,039
+- Ne bi odobravao ovo.
+- Put na Mars?
+
+72
+00:05:11,287 --> 00:05:14,245
+Rekao bi da nas
+Ëekaju nevolje.
+
+73
+00:05:14,447 --> 00:05:16,403
+äta ako ne pokuöamo?
+
+74
+00:05:17,367 --> 00:05:19,358
+Otrovali smo Zemlju.
+
+75
+00:05:19,567 --> 00:05:22,001
+Za 100 godina
+svi bi bili mrtvi.
+
+76
+00:05:22,207 --> 00:05:24,846
+äta je bio smisao svega?
+
+77
+00:05:25,047 --> 00:05:26,561
+Umetnost, lepota,
+sve bi nestalo.
+
+78
+00:05:26,808 --> 00:05:29,242
+Grci, Ustav.
+
+79
+00:05:29,968 --> 00:05:33,085
+Umirali smo za
+slobode, ideje.
+
+80
+00:05:33,648 --> 00:05:35,559
+To nije
+niöta znaËilo?
+
+81
+00:05:35,928 --> 00:05:40,080
+A vera?
+Da se odreknemo i Boga?
+
+82
+00:05:40,568 --> 00:05:44,083
+Zar si se odrekao toga
+da budeö nauËnik?
+
+83
+00:05:45,688 --> 00:05:47,565
+Shvatio sam
+da nauka. . .
+
+84
+00:05:47,768 --> 00:05:51,443
+. . .ne moûe odgovoriti
+na zanimljiva pitanja.
+
+85
+00:05:51,648 --> 00:05:53,685
+Okrenuo sam se filozofiji.
+
+86
+00:05:54,369 --> 00:05:56,929
+Sve otad traûim Boga.
+
+87
+00:05:59,489 --> 00:06:03,767
+MARS-1 , 144. DAN
+
+88
+00:06:10,649 --> 00:06:14,437
+Razgovaraö s 2. razredom
+iz Ajove. U 14:30.
+
+89
+00:06:14,649 --> 00:06:16,367
+Ti si na redu za decu.
+
+90
+00:06:16,569 --> 00:06:19,960
+Ne, ti si. Znaö to.
+
+91
+00:06:20,250 --> 00:06:23,367
+Ja imam viöi Ëin.
+Mogu ti narediti.
+
+92
+00:06:23,610 --> 00:06:25,919
+U Mornarici
+brûe napreduju.
+
+93
+00:06:26,490 --> 00:06:29,926
+Svakako, saraujeö
+s najboljim ljudima.
+
+94
+00:06:31,170 --> 00:06:34,162
+U 14:30, sa smeökom.
+
+95
+00:06:34,370 --> 00:06:36,486
+»inom Êeö doÊi
+prva do tuöa?
+
+96
+00:06:36,730 --> 00:06:38,209
+Ne Ëinom.
+
+97
+00:06:38,490 --> 00:06:41,209
+Polom. Dame
+imaju prednost.
+
+98
+00:06:54,491 --> 00:06:57,051
+Moûeö mi dodati peökir?
+
+99
+00:07:00,851 --> 00:07:03,046
+Svakako. Oprosti.
+
+100
+00:07:03,331 --> 00:07:06,209
+Pretvaraj se
+da sam ti sestra.
+
+101
+00:07:09,411 --> 00:07:12,927
+Imam dve.
+Nisu izgledale kao ti.
+
+102
+00:07:13,412 --> 00:07:16,290
+IÊi Êe samo ako oboje znamo
+da nije vaûno.
+
+103
+00:07:17,172 --> 00:07:21,131
+- Da se pretvaram da si Burchenal?
+- Vaûnije je.
+
+104
+00:07:22,412 --> 00:07:24,846
+Veûbajmo.
+Vrati se gola pod tuö.
+
+105
+00:07:25,052 --> 00:07:28,647
+Izai, a ja Êu se pretvarati
+da nije bitno.
+
+106
+00:07:33,012 --> 00:07:35,572
+Idi neöto popraviti.
+
+107
+00:07:36,853 --> 00:07:38,571
+Da, gospodine.
+Gospodo.
+
+108
+00:07:47,053 --> 00:07:49,044
+- Vozilo provereno.
+- Na mostu sam.
+
+109
+00:07:49,253 --> 00:07:51,483
+- Svakako.
+- 500.000.
+
+110
+00:07:51,693 --> 00:07:54,127
+832. Napni miöiÊe.
+
+111
+00:07:55,293 --> 00:07:56,851
+Spremite se, momci.
+
+112
+00:07:58,133 --> 00:07:59,930
+Mrzim ga. Ovo je
+kao u gimnaziji.
+
+113
+00:08:00,133 --> 00:08:02,807
+Sportisti i mi.
+»uvajmo si lea.
+
+114
+00:08:03,214 --> 00:08:04,693
+PomoÊi Êeö sa SKII?
+
+115
+00:08:04,934 --> 00:08:07,004
+Moram ga proveriti.
+
+116
+00:08:09,854 --> 00:08:12,322
+Koga foliraö?
+Ti si sportista.
+
+117
+00:08:12,854 --> 00:08:14,572
+Vozio si
+auto-trke, zar ne?
+
+118
+00:08:15,374 --> 00:08:18,127
+Popravljao sam motore.
+Nisam pravi sportista.
+
+119
+00:08:18,494 --> 00:08:20,644
+- Teûak je.
+- Uöi mi joö zvone.
+
+120
+00:08:22,174 --> 00:08:24,130
+äta mu daje pogon?
+
+121
+00:08:24,334 --> 00:08:25,653
+Helijeva
+atomska baterija.
+
+122
+00:08:25,854 --> 00:08:28,688
+VeliËine konzerve,
+daje snagu 8 meseci.
+
+123
+00:08:39,695 --> 00:08:40,650
+Zdravo, duöo.
+
+124
+00:08:40,895 --> 00:08:43,455
+Ona je navigator ili je tvoja devojka?
+
+125
+00:08:43,655 --> 00:08:45,964
+- Let je dug.
+- To svakako.
+
+126
+00:08:46,175 --> 00:08:48,131
+Dobro je. Proverimo
+ti instrumente.
+
+127
+00:08:52,655 --> 00:08:56,046
+NAVIGACIJSKO DELOVANJE
+
+128
+00:08:59,816 --> 00:09:01,044
+Stisni!
+
+129
+00:09:03,656 --> 00:09:05,965
+Vojska joj je
+uklonila reflekse?
+
+130
+00:09:06,296 --> 00:09:08,093
+To je tvoj tip devojke.
+
+131
+00:09:13,216 --> 00:09:14,888
+Otvori ga kao ribu.
+
+132
+00:09:18,256 --> 00:09:19,848
+VOJNO DELOVANJE
+
+133
+00:09:22,937 --> 00:09:24,211
+Ubij ga.
+
+134
+00:09:32,537 --> 00:09:34,687
+To je cura za mene.
+
+135
+00:09:35,697 --> 00:09:37,130
+Jako smeöno.
+
+136
+00:09:37,337 --> 00:09:40,454
+- Zabranjeno. Prekinite.
+- Mogla me ubiti.
+
+137
+00:09:40,657 --> 00:09:44,172
+Uzeli su joj noû, ali u duöi je
+Zelena beretka.
+
+138
+00:09:44,617 --> 00:09:46,848
+SvideÊe ti se Mars.
+
+139
+00:09:48,698 --> 00:09:49,653
+MARS-1 , 168. DAN
+
+140
+00:09:49,898 --> 00:09:51,411
+Uûivajte.
+
+141
+00:09:51,618 --> 00:09:54,735
+Vidimo se uskoro
+na Zemlji. SreÊno.
+
+142
+00:09:54,938 --> 00:09:56,212
+Nedostajete nam.
+
+143
+00:09:56,818 --> 00:09:57,933
+Zdravo.
+
+144
+00:09:58,138 --> 00:10:00,174
+Joö 209 poruka.
+
+145
+00:10:00,378 --> 00:10:01,697
+Teddy, seÊaö se?
+
+146
+00:10:01,898 --> 00:10:03,536
+Nadam se da nisi
+zaboravio...
+
+147
+00:10:03,738 --> 00:10:05,729
+...prijatelje sada kad si
+faca astronaut.
+
+148
+00:10:06,018 --> 00:10:08,407
+Samo da znaö da
+mislim na tebe.
+
+149
+00:10:14,019 --> 00:10:16,374
+OseÊam pogreönu
+meöavinu vlage.
+
+150
+00:10:25,819 --> 00:10:26,774
+Kako si?
+
+151
+00:10:27,179 --> 00:10:29,898
+Dobro. Samo da mi
+neko objasni. . .
+
+152
+00:10:30,099 --> 00:10:34,251
+. . .zaöto je na pokazivaËu
+temperatura poviöena?
+
+153
+00:10:34,819 --> 00:10:36,138
+Oko 10 stepeni.
+
+154
+00:10:36,979 --> 00:10:38,732
+Farenhajta
+ili Celzijusa?
+
+155
+00:10:44,620 --> 00:10:46,178
+UËi me
+biologiji.
+
+156
+00:10:46,380 --> 00:10:49,133
+- Zanimam se za. . .
+- Fermentaciju?
+
+157
+00:10:50,580 --> 00:10:54,698
+Misija koöta milijardu,
+a labaratorija ti sluûi kao destilerija alkohola?
+
+158
+00:10:54,900 --> 00:10:56,458
+Ne, ja. . .
+
+159
+00:10:57,340 --> 00:10:59,012
+Steriliöem.
+
+160
+00:11:00,140 --> 00:11:04,373
+A kako da objasnim Houstonu. . .
+
+161
+00:11:09,421 --> 00:11:13,096
+. . .da su mi dva Ëlana posade
+oslepela od loöe votke?
+
+162
+00:11:15,181 --> 00:11:16,330
+Obzirno?
+
+163
+00:11:24,501 --> 00:11:27,857
+äta je? Ovde
+ne posluûujete ûene?
+
+164
+00:11:29,581 --> 00:11:31,174
+Dopusti.
+
+165
+00:11:33,502 --> 00:11:35,333
+Komandante Bowman.
+
+166
+00:11:42,622 --> 00:11:44,453
+NauËila sam da pijem
+u Mornarici.
+
+167
+00:11:49,302 --> 00:11:52,180
+Chantilas, kad si bio mali,
+bilo je ûaba?
+
+168
+00:11:52,382 --> 00:11:53,337
+Mnogo.
+
+169
+00:11:53,582 --> 00:11:56,620
+I onda smo ih ubili, baö sve.
+
+170
+00:11:56,983 --> 00:12:00,737
+BuduÊi da ûabe
+diöu kroz koûu. . .
+
+171
+00:12:00,943 --> 00:12:04,777
+. . .brûe reaguju na
+otrove u okolini.
+
+172
+00:12:04,983 --> 00:12:07,975
+Nije li to trebalo
+biti upozorenje?
+
+173
+00:12:09,823 --> 00:12:10,812
+äta ûeliö da kaûeö?
+
+174
+00:12:11,263 --> 00:12:15,654
+»oveku je bitna zabava.
+Dok uûiva, drugo je nebitno.
+
+175
+00:12:16,103 --> 00:12:17,855
+To se neÊe
+promeniti.
+
+176
+00:12:18,783 --> 00:12:22,538
+Osim ako ne postoje
+viöe sile od biologije.
+
+177
+00:12:24,224 --> 00:12:28,342
+Sad Êemo o Bogu?
+Onda moram joö da pijem.
+
+178
+00:12:29,024 --> 00:12:30,218
+Ne o Bogu.
+
+179
+00:12:30,424 --> 00:12:31,334
+O veri.
+
+180
+00:12:31,624 --> 00:12:35,663
+Vera. Imao sam devojku Veru.
+Prevarila me s Nevinom.
+
+181
+00:12:38,544 --> 00:12:42,901
+Ne biste putovali
+309 miliona kilometara. . .
+
+182
+00:12:43,144 --> 00:12:45,180
+. . .u svemir i nazad. . .
+
+183
+00:12:45,424 --> 00:12:49,020
+. . .u raketi koju nisu
+isprobali kako treba. . .
+
+184
+00:12:49,425 --> 00:12:51,336
+. . .bez malo vere.
+
+185
+00:12:55,505 --> 00:12:58,975
+Zaboravimo hipoteze.
+
+186
+00:13:01,345 --> 00:13:04,098
+Doavola ËoveËanstvo.
+Komandante Bowman.
+
+187
+00:13:05,425 --> 00:13:08,656
+Kad doemo na Mars,
+zauzeÊemo ga!
+
+188
+00:13:09,305 --> 00:13:11,341
+UzeÊemo ga za sebe.
+
+189
+00:13:12,185 --> 00:13:14,859
+Javiti na Zemlju
+da ne moraju doÊi?
+
+190
+00:13:15,066 --> 00:13:17,864
+Da. Sve da
+ne doe öljam.
+
+191
+00:13:18,106 --> 00:13:19,505
+Ti moûeö biti
+verski voa.
+
+192
+00:13:19,746 --> 00:13:23,295
+Gallaghere, ti sreuj
+svemirski WC.
+
+193
+00:13:23,506 --> 00:13:25,656
+Pettengill je
+u nesvesti.
+
+194
+00:13:25,946 --> 00:13:29,416
+A ja mogu obaviti
+gotovo sve ostalo.
+
+195
+00:13:29,906 --> 00:13:30,895
+Kralj.
+
+196
+00:13:31,506 --> 00:13:32,905
+A ja?
+
+197
+00:13:36,266 --> 00:13:38,097
+Ti Êeö biti
+moja kraljica.
+
+198
+00:13:42,307 --> 00:13:44,457
+Produûenje vrste.
+
+199
+00:13:55,867 --> 00:13:57,141
+To je samo. . .
+
+200
+00:13:57,947 --> 00:14:01,656
+äalim se. Komndante
+Bowman, to je bila. . .
+
+201
+00:14:03,507 --> 00:14:07,979
+Predlaûem da se uz to
+povuËemo na poËinak.
+
+202
+00:14:09,588 --> 00:14:11,180
+MARS-1 , 182. DAN
+5. Februar 2057.
+
+203
+00:14:11,388 --> 00:14:14,460
+Mars-1 , ovde Huston.
+Uöli ste u orbitu.
+
+204
+00:14:14,788 --> 00:14:17,746
+»estitke za 182 dana
+dobrog leta.
+
+205
+00:14:17,948 --> 00:14:20,667
+Dobro doöli na Mars.
+ Gotovo.
+
+206
+00:14:55,269 --> 00:14:56,668
+Naöla si
+dobar parking?
+
+207
+00:14:57,149 --> 00:14:59,903
+Izmeu Fobosa i Demosa.
+
+208
+00:15:02,470 --> 00:15:04,506
+Meni je draûi
+jedan mesec.
+
+209
+00:15:04,870 --> 00:15:07,384
+Tada znaö kako ga trebaö zvati.
+
+210
+00:15:08,630 --> 00:15:10,780
+Opet podsetnikovi
+ludi komentari.
+
+211
+00:15:11,230 --> 00:15:15,109
+TaËan je naziv
+''inûenjer sistema'' .
+
+212
+00:15:15,390 --> 00:15:18,427
+- Moûe i svemirski podsetnik.
+- Dosta Êaskanja.
+
+213
+00:15:18,630 --> 00:15:22,589
+Posle 6 meseci ûelim izaÊi
+iz ovoga kaveza. Bowman?
+
+214
+00:15:23,110 --> 00:15:26,228
+Lucille, zapoËni
+proveru sistema.
+
+215
+00:15:26,431 --> 00:15:27,580
+- Da, komandante.
+- Napokon.
+
+216
+00:15:28,871 --> 00:15:30,145
+VeËeraÊemo
+na Marsu.
+
+217
+00:15:30,591 --> 00:15:32,183
+Nemam niöta protiv.
+
+218
+00:15:38,991 --> 00:15:41,630
+Lansiranje Marsovog
+modula za dva sata.
+
+219
+00:15:41,951 --> 00:15:43,066
+3-D model ukljuËen.
+
+220
+00:15:43,271 --> 00:15:45,148
+BiÊe lepo
+ûiveti na tlu.
+
+221
+00:15:45,351 --> 00:15:48,661
+Iako menjamo
+kavez za kavez.
+
+222
+00:15:48,871 --> 00:15:51,830
+Ako je sve u redu,
+biljke rastu 6 meseci.
+
+223
+00:15:52,032 --> 00:15:53,431
+VeËeras
+sveû paradajz.
+
+224
+00:15:54,152 --> 00:15:56,029
+To mi treba
+u kuÊi snova.
+
+225
+00:15:56,232 --> 00:15:58,746
+I bela drvena ograda?
+
+226
+00:15:58,952 --> 00:16:00,271
+Zaöto da ne?
+
+227
+00:16:00,512 --> 00:16:03,470
+- Lucille, moûemo videti novi dom?
+- Dobro.
+
+228
+00:16:08,752 --> 00:16:10,504
+Spajam se.
+
+229
+00:16:10,712 --> 00:16:12,509
+Zona spuötanja 56.
+
+230
+00:16:13,272 --> 00:16:14,705
+Zaista je pusto.
+
+231
+00:16:17,793 --> 00:16:21,103
+- Gama zraci.
+- IskljuËi elektroniku. PrestaÊe.
+
+232
+00:16:21,313 --> 00:16:22,189
+SpaliÊe Ëipove.
+
+233
+00:16:22,393 --> 00:16:23,269
+IskljuËuj!
+
+234
+00:16:23,473 --> 00:16:25,350
+Gasi program okoline.
+SunËeva eksplozija!
+
+235
+00:16:25,553 --> 00:16:27,669
+Radijacijska
+uzbuna 5. stepena.
+
+236
+00:16:33,193 --> 00:16:35,104
+RADIJACIJSKA UZBUNA
+
+237
+00:16:37,193 --> 00:16:39,866
+Radijacijska uzbuna.
+Idemo u skloniöta!
+
+238
+00:16:44,194 --> 00:16:45,832
+- I ti, poruËniËe.
+- NeÊu nigde.
+
+239
+00:16:46,114 --> 00:16:48,503
+- Trebate me tu.
+- Idi odmah!
+
+240
+00:16:50,554 --> 00:16:51,703
+Odmah, poruËniËe.
+
+241
+00:16:52,114 --> 00:16:54,184
+Veliki prodor
+gama-zraka.
+
+242
+00:17:32,395 --> 00:17:35,468
+SunËeva eksplozija je proöla.
+
+243
+00:17:43,476 --> 00:17:46,627
+Visina snage ispod
+operativnog minimuma.
+
+244
+00:17:48,796 --> 00:17:50,309
+KVAR SISTEMA
+GAäENJE
+
+245
+00:17:50,516 --> 00:17:51,631
+Sranje!
+
+246
+00:17:52,236 --> 00:17:54,306
+»uli smo. Sve je u redu.
+
+247
+00:17:54,756 --> 00:17:56,155
+äteta?
+
+248
+00:17:56,836 --> 00:17:59,430
+- Nepokretni smo.
+- Glavni pogon iskljuËen.
+
+249
+00:17:59,636 --> 00:18:02,470
+Drûi se, ali samo
+öto se ne raspadne.
+
+250
+00:18:02,677 --> 00:18:05,191
+PomoÊni pogon ne radi.
+Visina snage pada.
+
+251
+00:18:05,437 --> 00:18:08,156
+Gaöenje primarnih
+sistema za 6 minuta.
+
+252
+00:18:08,357 --> 00:18:12,191
+Promena plana.
+Lansiranje. Odela.
+
+253
+00:18:12,757 --> 00:18:13,746
+SrediÊu brod.
+
+254
+00:18:13,957 --> 00:18:17,506
+UkljuËiti viöe sistema
+i onda vam se pridruûiti.
+
+255
+00:18:19,557 --> 00:18:21,787
+Chantilas,
+glas u odelu ukljuËen.
+
+256
+00:18:22,917 --> 00:18:25,112
+Gallagher,
+glas u odelu ukljuËen.
+
+257
+00:18:26,518 --> 00:18:27,951
+Visina snage
+i dalje pada.
+
+258
+00:18:29,718 --> 00:18:32,471
+Gaöenje primarnih
+sistema za 5 minuta.
+
+259
+00:18:32,998 --> 00:18:36,957
+RaËunar odela radi.
+Svi sistemi rade 100%..
+
+260
+00:18:43,078 --> 00:18:44,716
+Poloûaj za
+lansiranje.
+
+261
+00:18:54,839 --> 00:18:56,238
+Provera
+sistema modula.
+
+262
+00:18:56,719 --> 00:18:59,552
+VeötaËka gravitacija.
+Motor za apogej.
+
+263
+00:18:59,759 --> 00:19:02,432
+UkljuËujem
+antiinercijske potisnike.
+
+264
+00:19:07,999 --> 00:19:10,672
+UkljuËen program
+lansiranja. Palim.
+
+265
+00:19:10,879 --> 00:19:13,837
+Sat opet ukljuËen.
+Inercijska merenja.
+
+266
+00:19:14,279 --> 00:19:16,474
+Kontrolni modul ne radi.
+MeraË brzine pada.
+
+267
+00:19:17,719 --> 00:19:20,553
+- Lansirni sistem ne reaguje.
+- Nije dobro.
+
+268
+00:19:20,760 --> 00:19:23,274
+- Ne, nije.
+- Pokuöajmo neöto drugo.
+
+269
+00:19:23,480 --> 00:19:25,675
+Lansirni sistem
+ne reaguje.
+
+270
+00:19:28,600 --> 00:19:30,511
+- Nije se ukljuËilo.
+- Ma daj!
+
+271
+00:19:30,800 --> 00:19:32,358
+Lansirni sistem
+ne reaguje.
+
+272
+00:19:32,600 --> 00:19:35,637
+Odelo zatvoreno.
+Kiseonik na 100%..
+
+273
+00:19:36,240 --> 00:19:37,639
+Paljenje
+ukljuËeno.
+
+274
+00:19:39,200 --> 00:19:40,428
+Provera sistema.
+
+275
+00:19:45,081 --> 00:19:48,073
+éalim.
+Lansirni sistem ne reaguje.
+
+276
+00:19:49,361 --> 00:19:50,589
+Sluöajte.
+
+277
+00:19:51,161 --> 00:19:52,992
+Lansirni sistem
+nema snage.
+
+278
+00:19:53,241 --> 00:19:55,835
+Moram ostati i
+ukljuËiti ga ruËno.
+
+279
+00:19:58,121 --> 00:20:00,999
+Komandante,
+ne odazimo bez vas.
+
+280
+00:20:01,841 --> 00:20:03,035
+Nema razgovora.
+
+281
+00:20:03,601 --> 00:20:05,751
+IskljuËi samonavoenje
+i ponovi.
+
+282
+00:20:06,121 --> 00:20:08,112
+Nemamo vremena.
+
+283
+00:20:08,321 --> 00:20:09,470
+Ti komandujeö.
+
+284
+00:20:09,681 --> 00:20:12,480
+Moûda ti se svidi.
+Zatvorite, gospodo.
+
+285
+00:20:12,682 --> 00:20:15,640
+Lansirni sistemi
+spremni. Zapovedite.
+
+286
+00:20:15,842 --> 00:20:17,833
+- Posada vezana?
+- Jeste.
+
+287
+00:20:18,282 --> 00:20:20,193
+Osigurano.
+
+288
+00:20:22,002 --> 00:20:22,957
+Osigurano.
+
+289
+00:20:23,242 --> 00:20:26,439
+Sistemi navoenja traûe
+odaöiljaË naseobine.
+
+290
+00:20:26,642 --> 00:20:28,121
+UkljuËen
+lansirni sistem.
+
+291
+00:20:28,362 --> 00:20:29,636
+Sve spremno.
+
+292
+00:20:29,842 --> 00:20:32,879
+Potisnici ukljuËeni.
+Spajam spremnike.
+
+293
+00:20:33,962 --> 00:20:35,111
+Nadam se da
+Ëe uspeti.
+
+294
+00:20:36,563 --> 00:20:40,522
+IskljuËenje primarnih
+sistema za 50 sekundi.
+
+295
+00:20:46,763 --> 00:20:47,718
+Lansiranje.
+
+296
+00:21:13,564 --> 00:21:14,713
+KVAR SISTEMA
+SAMONAVO–ENJA
+
+297
+00:21:14,924 --> 00:21:17,358
+Samonavoenje ne radi.
+Erupcija je spalila Ëip.
+
+298
+00:21:17,564 --> 00:21:18,963
+Mislio sam da je
+modul zaötiËen.
+
+299
+00:21:19,164 --> 00:21:21,917
+éali se posle.
+Prelazim na ruËno.
+
+300
+00:21:38,565 --> 00:21:40,044
+Komandire,
+pet sekunda.
+
+301
+00:21:43,245 --> 00:21:45,201
+IskljuËivanje
+primarnog sistema.
+
+302
+00:21:51,245 --> 00:21:53,713
+Kvar veötaËke
+gravitacije.
+
+303
+00:21:54,245 --> 00:21:55,156
+Sranje.
+
+304
+00:21:55,366 --> 00:21:57,926
+Poûar u
+pristupnoj cevi 4.
+
+305
+00:21:58,166 --> 00:22:00,555
+Dimni alarm u 6. kugli.
+
+306
+00:22:12,246 --> 00:22:15,397
+SunËeva radijacija
+je oötetila gasilice.
+
+307
+00:22:19,726 --> 00:22:21,445
+- Oprez, komandante.
+- Posle, Lucille.
+
+308
+00:22:30,447 --> 00:22:33,644
+Vatra na nultoj gravitaciji.
+Pokuöala sam.
+
+309
+00:22:35,447 --> 00:22:37,278
+Otvaram padobrane.
+
+310
+00:22:42,887 --> 00:22:45,162
+Dimni alarm
+u 6. kugli.
+
+311
+00:22:45,607 --> 00:22:46,927
+Sad se drûite.
+
+312
+00:22:51,448 --> 00:22:55,157
+Dodatni poûari
+u 3. i 5. kugli.
+
+313
+00:22:58,368 --> 00:23:00,120
+Promaöili smo cilj.
+Teren je gadan.
+
+314
+00:23:00,488 --> 00:23:02,558
+- Izbacujem opremu.
+- A SKII?
+
+315
+00:23:02,768 --> 00:23:03,644
+Nemam izbora.
+
+316
+00:23:19,209 --> 00:23:22,326
+Poûari u 3.,
+7. i 8. kugli.
+
+317
+00:23:27,049 --> 00:23:28,243
+UkljuËujem vreÊe.
+
+318
+00:23:35,609 --> 00:23:38,841
+Biosistemi pokazuju
+poviöenu otrovnost zraka.
+
+319
+00:25:04,773 --> 00:25:07,003
+Poûari proûdiru
+80%. broda.
+
+320
+00:25:07,253 --> 00:25:10,848
+Viöe nego öto naöi aparati
+mogu ugasiti.
+
+321
+00:26:09,895 --> 00:26:11,613
+Svi poûari ugaöeni.
+
+322
+00:26:11,815 --> 00:26:13,806
+Kiseonik na 0%..
+
+323
+00:27:08,778 --> 00:27:11,372
+Polako s njim.
+
+324
+00:27:12,138 --> 00:27:13,253
+Pomozi mu.
+
+325
+00:27:14,058 --> 00:27:15,286
+Sedni.
+
+326
+00:27:15,498 --> 00:27:16,613
+Polako.
+
+327
+00:27:18,938 --> 00:27:20,132
+Tako.
+
+328
+00:27:23,338 --> 00:27:27,331
+UkljuËujem itinerar.
+Prikupljam podatke.
+
+329
+00:27:27,538 --> 00:27:29,608
+»ini se da nema lomova.
+
+330
+00:27:30,538 --> 00:27:32,335
+Nisi niöta slomio.
+
+331
+00:27:38,179 --> 00:27:40,010
+Rezervne snage slabe.
+
+332
+00:27:40,259 --> 00:27:42,409
+PomoËni pogon na 20%..
+
+333
+00:27:42,619 --> 00:27:45,611
+Prespoji glavni pogon na B-Ëip.
+
+334
+00:27:45,819 --> 00:27:47,730
+Protivno je
+operativnim parametrima.
+
+335
+00:27:48,819 --> 00:27:51,891
+Nema odbijanja. Jasno?
+
+336
+00:27:52,139 --> 00:27:53,538
+UËini to!
+Smesta!
+
+337
+00:27:53,899 --> 00:27:58,576
+Razumem. Alfa iskljuËena.
+Snaga na Beti.
+
+338
+00:28:00,700 --> 00:28:03,294
+Glavni pogon na 15%..
+
+339
+00:28:06,180 --> 00:28:09,650
+Glavni pogon sreen.
+Sjajno, komandante.
+
+340
+00:28:22,300 --> 00:28:25,771
+- VeötaËka gravitacija popravljena.
+- Sereö.
+
+341
+00:28:26,861 --> 00:28:29,898
+VeötaËka atmosfera popravljena.
+
+342
+00:28:30,101 --> 00:28:32,296
+Kiseonik na 2%. i raste.
+
+343
+00:28:33,461 --> 00:28:34,655
+A naseobina?
+
+344
+00:28:34,861 --> 00:28:36,533
+Znali bismo da nisi
+bacio navigatora.
+
+345
+00:28:36,741 --> 00:28:39,460
+Ne vidim SKII-ja, ali
+moûda popravim radio.
+
+346
+00:28:39,661 --> 00:28:40,810
+Za koliko?
+
+347
+00:28:41,061 --> 00:28:43,177
+Ne znam. Ovo traje.
+
+348
+00:28:43,381 --> 00:28:45,337
+I istraûivaËka je
+oprema u komi.
+
+349
+00:28:45,541 --> 00:28:49,693
+- Propade naöa misija.
+- Joö nije zavröena.
+
+350
+00:28:49,941 --> 00:28:52,934
+Neöto si propustio?
+Oprema je nestala.
+
+351
+00:28:53,182 --> 00:28:55,412
+- Ne moûemo obaviti posao.
+- Ne cvili.
+
+352
+00:28:56,902 --> 00:28:58,620
+Spustio si nas na stene.
+
+353
+00:28:58,822 --> 00:29:00,540
+Znao si da ima rizika.
+
+354
+00:29:00,742 --> 00:29:03,973
+Najvaûnije je pronaËi naseobinu.
+
+355
+00:29:04,662 --> 00:29:06,618
+PokazivaË spoljne
+atmosfere u kvaru.
+
+356
+00:29:06,822 --> 00:29:09,973
+- Okrenuti smo od naseobine.
+- IzraËunavam putanju.
+
+357
+00:29:10,382 --> 00:29:12,452
+Prema zadnjim podacima. . .
+
+358
+00:29:12,662 --> 00:29:15,813
+. . .negde smo 
+unutar ove elipse.
+
+359
+00:29:16,262 --> 00:29:20,893
+Svi su podaci ovde.
+Smanjimo varijabile.
+
+360
+00:29:21,103 --> 00:29:22,297
+Matematika.
+
+361
+00:29:23,103 --> 00:29:25,663
+O ovomu su nam
+govorili u ökoli.
+
+362
+00:29:25,863 --> 00:29:28,093
+Da Êe nam matematika
+spasiti ûivot.
+
+363
+00:29:29,383 --> 00:29:30,259
+Kuö.
+
+364
+00:29:30,663 --> 00:29:31,778
+Oprosti.
+
+365
+00:29:32,743 --> 00:29:35,177
+Pozor, SKII se ne javlja.
+
+366
+00:29:35,503 --> 00:29:37,858
+Komunikacija neuspeöna.
+
+367
+00:29:41,863 --> 00:29:44,537
+- OäTE∆ENA SLEZENA
+- Slikam.
+
+368
+00:30:00,184 --> 00:30:01,537
+»oveËe!
+
+369
+00:30:06,144 --> 00:30:08,978
+Memorijo, panoramsku
+sliku naseobine.
+
+370
+00:30:09,185 --> 00:30:10,584
+Panoramski
+pogled.
+
+371
+00:30:10,905 --> 00:30:11,701
+Okreni.
+
+372
+00:30:12,105 --> 00:30:13,618
+Punim.
+
+373
+00:30:17,345 --> 00:30:18,744
+Pogledajte.
+
+374
+00:30:18,945 --> 00:30:20,219
+äta?
+
+375
+00:30:20,425 --> 00:30:23,656
+Nije bitna matematika nego slika.
+
+376
+00:30:23,865 --> 00:30:24,900
+Koja?
+
+377
+00:30:25,145 --> 00:30:26,260
+Ova.
+
+378
+00:30:26,465 --> 00:30:30,378
+Da smo u njoj, znali bismo
+gde je naseobina.
+
+379
+00:30:30,585 --> 00:30:35,421
+Da, ali da je stena to, u
+dometu je od 30 stepeni. . .
+
+380
+00:30:35,626 --> 00:30:38,698
+. . .vidi ova dva vrha,
+ali kao na drugoj strani.
+
+381
+00:30:38,906 --> 00:30:41,215
+Sa suprotne strane
+vidi ova dva.
+
+382
+00:30:41,426 --> 00:30:43,735
+äto znaËi da smo
+negde ovde.
+
+383
+00:30:44,346 --> 00:30:46,940
+äto znaËi da je
+naseobina ovde.
+
+384
+00:30:48,826 --> 00:30:50,225
+Ima pravo.
+
+385
+00:30:51,866 --> 00:30:53,458
+Sjajno,
+svemirski podsetniËe.
+
+386
+00:30:54,466 --> 00:30:56,661
+Imamo vazduha
+za 7,5 sati.
+
+387
+00:30:57,626 --> 00:30:58,900
+Pokret.
+
+388
+00:31:25,387 --> 00:31:27,265
+Shvatio sam
+da nauka...
+
+389
+00:31:27,468 --> 00:31:31,097
+. . .ne moûe odgovoriti
+na zanimljiva pitanja.
+
+390
+00:31:31,428 --> 00:31:33,339
+Okrenuo sam
+se filozofiji.
+
+391
+00:31:34,148 --> 00:31:36,503
+Otad sam u
+potrazi za Bogom.
+
+392
+00:31:36,908 --> 00:31:38,227
+Ko zna?
+
+393
+00:31:38,468 --> 00:31:41,699
+Moûda dignem kamen,
+a dole piöe: ''Boûje delo. ''
+
+394
+00:31:41,948 --> 00:31:44,667
+Svemir je pun iznenaenja.
+
+395
+00:31:45,348 --> 00:31:46,906
+To bi bilo veliko.
+
+396
+00:31:52,028 --> 00:31:53,018
+Spremni?
+
+397
+00:31:55,629 --> 00:31:58,097
+Naûalost, ostajem ovde.
+
+398
+00:31:58,309 --> 00:31:59,219
+äto?
+
+399
+00:31:59,869 --> 00:32:03,225
+Slezena mi je povreena.
+Unutraönje krvarenje.
+
+400
+00:32:03,429 --> 00:32:04,828
+Ne bih
+daleko stigao.
+
+401
+00:32:05,029 --> 00:32:08,658
+U naseobini je oprema.
+Moûemo iskljuËiti nerve.
+
+402
+00:32:08,989 --> 00:32:10,945
+Ti Êeö voditi
+operaciju.
+
+403
+00:32:11,189 --> 00:32:15,341
+UsporiÊu vas i svi Êete
+ostati bez kiseonika.
+
+404
+00:32:15,549 --> 00:32:18,222
+Nije tren za junaËenje.
+
+405
+00:32:18,429 --> 00:32:19,624
+NeÊu dopustiti da
+umreö ovde.
+
+406
+00:32:20,270 --> 00:32:22,943
+Vaûnije je zaöto
+smo doöli ovamo.
+
+407
+00:32:23,830 --> 00:32:26,549
+Vas Ëetvero
+nastavite misiju.
+
+408
+00:32:26,950 --> 00:32:29,828
+NeÊe biti lako,
+ali znam da moûete.
+
+409
+00:32:31,950 --> 00:32:33,224
+Krenite.
+
+410
+00:32:38,190 --> 00:32:39,703
+»uli ste.
+
+411
+00:32:56,391 --> 00:32:58,268
+Video sam Mars.
+
+412
+00:33:38,433 --> 00:33:40,708
+Daj mi crveno.
+Daj mi snagu.
+
+413
+00:33:40,913 --> 00:33:45,623
+Ne radi to meni i ekipi.
+Daj crveno svetlo.
+
+414
+00:33:45,873 --> 00:33:47,943
+Komunikacije ukljuËene.
+
+415
+00:33:48,233 --> 00:33:50,224
+Trebala ti je
+promena stava.
+
+416
+00:33:50,433 --> 00:33:51,786
+Hvala, komandante.
+
+417
+00:33:52,913 --> 00:33:56,144
+Mars, ovde Mars- 1.
+»ujete li me?
+
+418
+00:33:58,913 --> 00:34:02,223
+Mars, ovde Mars- 1.
+»ujete li me?
+
+419
+00:34:06,314 --> 00:34:09,112
+Sken niöta ne javlja.
+Nema tragova ûivota.
+
+420
+00:34:09,514 --> 00:34:11,584
+»udno. NiËega nema.
+
+421
+00:34:12,194 --> 00:34:13,422
+Ovo je Mars.
+
+422
+00:34:13,954 --> 00:34:16,991
+Ne, nema algi öto smo ih poslali.
+
+423
+00:34:17,194 --> 00:34:21,187
+I da su sve uginule,
+treba biti tragova.
+
+424
+00:34:21,514 --> 00:34:23,311
+Da, nisu samo mrtve,
+nestale su.
+
+425
+00:34:23,514 --> 00:34:27,143
+Kao da su sprane.
+Kao da ih nije ni bilo. NemoguÊe.
+
+426
+00:34:27,954 --> 00:34:30,549
+Moûda u ovoj dolini
+niËega nije bilo.
+
+427
+00:34:31,555 --> 00:34:33,546
+Ako smo onde
+gde mislimo da jesmo. . .
+
+428
+00:34:33,755 --> 00:34:36,667
+. . .ovde su proöli mesec
+bile modre alge.
+
+429
+00:34:37,755 --> 00:34:40,508
+Dolina pre trebala je biti
+puna kloroflektika.
+
+430
+00:34:40,715 --> 00:34:42,592
+Razgovorom troöimo
+kiseonik. Idemo dalje.
+
+431
+00:34:42,795 --> 00:34:45,707
+Znamo öta je s kiseonikom.
+Tu ga niöta ne stvara.
+
+432
+00:34:45,915 --> 00:34:46,711
+Gotovo?
+
+433
+00:34:47,795 --> 00:34:49,513
+Pokret, rekoh.
+
+434
+00:35:13,636 --> 00:35:17,390
+äaljem bespilotnu u
+potragu za posadom.
+
+435
+00:35:26,917 --> 00:35:29,192
+10 min do izlaska
+s dnevne strane.
+
+436
+00:35:29,437 --> 00:35:31,393
+Gde su momci?
+
+437
+00:35:32,037 --> 00:35:33,436
+Pretraûujem.
+
+438
+00:35:37,357 --> 00:35:39,075
+- Momci, gde ste?
+- Topografija sletiöta.
+
+439
+00:35:39,277 --> 00:35:41,950
+Pretraûujem
+6 stepeni, 3 min.
+
+440
+00:35:42,197 --> 00:35:43,471
+Traûim ekipu.
+
+441
+00:35:44,117 --> 00:35:45,835
+Sletiöte modula. 56.
+
+442
+00:35:46,037 --> 00:35:47,869
+Zaöto niste na sletiötu?
+
+443
+00:36:11,918 --> 00:36:15,275
+Za 5 minuta napuötamo dnevnu
+stranu i viöe neÊemo videti.
+
+444
+00:36:15,479 --> 00:36:17,197
+144 juûno.
+
+445
+00:36:17,599 --> 00:36:19,078
+Azimut 4,99.
+
+446
+00:36:19,279 --> 00:36:20,598
+Momci, gde ste?
+
+447
+00:36:20,799 --> 00:36:22,471
+Modul u vidokrugu.
+
+448
+00:36:25,959 --> 00:36:27,028
+Sranje.
+
+449
+00:36:28,799 --> 00:36:30,790
+Lucille,
+pronai mi naseobinu.
+
+450
+00:36:43,640 --> 00:36:44,709
+Eno je!
+
+451
+00:36:44,960 --> 00:36:48,111
+- Uspeli smo!
+- 26 meseci hrane i vode!
+
+452
+00:36:48,320 --> 00:36:49,230
+Uspeli smo!
+
+453
+00:36:49,440 --> 00:36:50,634
+Hrana!
+
+454
+00:37:22,521 --> 00:37:24,193
+Neka nam
+Bog pomogne.
+
+455
+00:37:38,082 --> 00:37:39,640
+Sve je rastureno.
+
+456
+00:37:42,962 --> 00:37:44,281
+äta se dogodilo?
+
+457
+00:37:45,122 --> 00:37:48,239
+- Nije od ledene oluje.
+- Ni govora.
+
+458
+00:37:48,482 --> 00:37:51,679
+Svaka naseobina podnela je
+tornado snage 5.
+
+459
+00:37:52,282 --> 00:37:53,431
+Ovo nema veze
+s vremenom.
+
+460
+00:37:53,642 --> 00:37:55,394
+äta Êemo preduzeti?
+
+461
+00:37:56,282 --> 00:37:58,114
+PoËnite traûiti kiseonik.
+
+462
+00:38:03,483 --> 00:38:05,997
+Hjustone, ovde Mars- 1.
+
+463
+00:38:06,203 --> 00:38:10,435
+SunËeva oluja poremetila je
+protonsko polje.
+
+464
+00:38:11,203 --> 00:38:15,879
+Sistemi su ispod 70%,
+poûari su poremetili orbitu.
+
+465
+00:38:16,043 --> 00:38:17,761
+Motori ne rade.
+
+466
+00:38:26,604 --> 00:38:29,676
+Modul krenuo s pet ljudi.
+Vidim mesto pada.
+
+467
+00:38:29,924 --> 00:38:33,883
+Jedna je osoba stradala.
+Nemam radio-vezu.
+
+468
+00:38:34,084 --> 00:38:37,633
+Vidim da je naseobina
+potpuno uniötena.
+
+469
+00:38:37,884 --> 00:38:40,034
+Ponavljam,
+naseobina uniötena.
+
+470
+00:38:47,844 --> 00:38:51,679
+Ako su ostali iz ekipe
+ûivi, neÊe preûiveti.
+
+471
+00:38:52,805 --> 00:38:56,480
+äaljem vam telemetriju
+i video snimke.
+
+472
+00:39:00,085 --> 00:39:01,962
+Podaci poslani.
+
+473
+00:39:10,245 --> 00:39:11,280
+Niöta ne vidim.
+
+474
+00:39:11,805 --> 00:39:14,114
+Nema hrane, vazduha, vode.
+
+475
+00:39:15,846 --> 00:39:18,235
+- äta Êemo?
+- Niöta ne moûemo.
+
+476
+00:39:18,926 --> 00:39:19,836
+Nemamo vremena.
+
+477
+00:39:20,046 --> 00:39:21,843
+Ni vremena ni vazduha.
+
+478
+00:39:22,046 --> 00:39:23,764
+Imam za 16 minuta.
+ Ti?
+
+479
+00:39:23,966 --> 00:39:25,319
+Neöto manje.
+
+480
+00:39:26,406 --> 00:39:28,840
+Kakav kraj biografije.
+
+481
+00:39:29,566 --> 00:39:34,082
+''RazoËarao 12 milijardi ljudi,
+ne raËunajuÊi bivöe ûene. ''
+
+482
+00:40:12,848 --> 00:40:14,759
+Nadam se da je
+Bowmanica ûiva.
+
+483
+00:40:18,008 --> 00:40:21,239
+Znaö, palio sam se na nju.
+
+484
+00:40:22,608 --> 00:40:24,166
+Od poËetka.
+
+485
+00:40:24,368 --> 00:40:28,156
+Ja sam mislio da su me
+izabrali jer sam samac.
+
+486
+00:40:28,928 --> 00:40:30,566
+Za sluËaj
+da poginem.
+
+487
+00:40:35,529 --> 00:40:37,599
+Ostalo nam je vrlo malo.
+
+488
+00:40:39,889 --> 00:40:42,198
+Dugo Êemo Ëekati.
+
+489
+00:40:53,169 --> 00:40:55,444
+Boûe, zaista je
+divno, zar ne?
+
+490
+00:41:03,290 --> 00:41:06,282
+Hteo sam se veriti
+kad se vratim.
+
+491
+00:41:09,010 --> 00:41:11,604
+NedostajaÊe mi
+mnogo ûena.
+
+492
+00:41:12,490 --> 00:41:14,401
+I ja Êu mnogima
+nedostajati.
+
+493
+00:41:17,450 --> 00:41:19,600
+Nisam trebao biti ovde.
+
+494
+00:41:20,130 --> 00:41:22,803
+Samo sam bio iduÊi
+sreÊnik na popisu.
+
+495
+00:41:24,611 --> 00:41:27,569
+Moje letaËke sposobnosti
+sad nisu bitne.
+
+496
+00:41:28,091 --> 00:41:31,208
+Naseobina je uniötena
+ma gde mi sleteli.
+
+497
+00:41:31,451 --> 00:41:32,645
+Izmotavaö se.
+
+498
+00:41:32,891 --> 00:41:36,930
+Nemam zaöto.
+Nebitno je. Nema uticaja.
+
+499
+00:41:38,211 --> 00:41:40,566
+- Chantilas?
+- Nebitno.
+
+500
+00:41:41,611 --> 00:41:43,681
+Ionako bi umro tu.
+
+501
+00:41:44,491 --> 00:41:46,083
+Kao i mi.
+
+502
+00:41:48,691 --> 00:41:50,762
+»udesni ste, g. Santen.
+
+503
+00:41:51,132 --> 00:41:54,522
+éivot ti je pri kraju,
+a joö ne priznajeö poraz.
+
+504
+00:41:55,092 --> 00:41:59,688
+Smatraju me prostim, znam.
+Ali tehniËki. . .
+
+505
+00:42:00,332 --> 00:42:02,084
+. . .nisam pogreöio.
+
+506
+00:42:05,812 --> 00:42:07,803
+äta je bilo, bilo je.
+
+507
+00:42:10,412 --> 00:42:13,848
+- Doöao sam ti oprostiti.
+- Je li? Jebi se.
+
+508
+00:42:14,052 --> 00:42:16,931
+Ne treba mi oproötaj
+od piËkice poput tebe.
+
+509
+00:42:21,213 --> 00:42:22,771
+Gubi se.
+
+510
+00:42:25,093 --> 00:42:27,891
+Idi i umri kao Ëovek
+ako moûeö.
+
+511
+00:42:31,653 --> 00:42:33,006
+O, Boûe!
+
+512
+00:42:47,374 --> 00:42:51,890
+Polarni led Marsa je od CO2.
+
+513
+00:42:52,254 --> 00:42:57,169
+Malim atomskim eksplozijama
+moûemo razbiti led.
+
+514
+00:42:58,334 --> 00:42:59,608
+To Êe oslobodi CO2.
+
+515
+00:43:00,414 --> 00:43:04,771
+Koncentracija CO2
+stvara efekat staklene baöte.
+
+516
+00:43:06,094 --> 00:43:07,607
+Mars se
+poËne grejati.
+
+517
+00:43:08,014 --> 00:43:09,892
+Kad postane
+dovoljno toplo. . .
+
+518
+00:43:10,135 --> 00:43:13,366
+. . .posadimo alge.
+
+519
+00:43:13,815 --> 00:43:17,967
+Alge rastu i daju nam kiseonik.
+
+520
+00:43:24,935 --> 00:43:28,484
+éelite da umrem i pustim vas
+da umrete u tiöini?
+
+521
+00:43:30,575 --> 00:43:32,167
+Ne, ovo nas smiruje.
+
+522
+00:43:33,255 --> 00:43:37,249
+U redu.
+Poslali su nas ovamo. . .
+
+523
+00:43:37,456 --> 00:43:42,291
+. . .da otkrijemo
+öta se dogodilo s kiseonikom.
+
+524
+00:43:42,496 --> 00:43:44,214
+Pitanje je. . .
+
+525
+00:43:45,456 --> 00:43:47,890
+. . .öta je bilo s algama?
+
+526
+00:43:48,936 --> 00:43:49,891
+Znaö?
+
+527
+00:43:59,216 --> 00:44:00,775
+Santen je mrtav.
+
+528
+00:44:01,577 --> 00:44:03,329
+Bacio se s litice.
+
+529
+00:44:05,577 --> 00:44:07,215
+Pokuöao sam
+ga zaustaviti.
+
+530
+00:44:17,537 --> 00:44:20,256
+Gallagheru, zameni
+rezervoar s kiseonikom.
+
+531
+00:44:20,457 --> 00:44:22,015
+Ispod minute.
+
+532
+00:44:24,457 --> 00:44:26,175
+Kako Êe biti?
+
+533
+00:44:27,778 --> 00:44:29,257
+Hipoksija?
+
+534
+00:44:30,898 --> 00:44:33,890
+VrteÊe ti se.
+
+535
+00:44:34,538 --> 00:44:36,210
+Vid slabi.
+
+536
+00:44:36,498 --> 00:44:38,568
+äok, grËevi.
+
+537
+00:44:39,138 --> 00:44:40,696
+Acidoza.
+
+538
+00:44:41,658 --> 00:44:43,330
+BoleÊe?
+
+539
+00:44:45,218 --> 00:44:46,173
+HoÊe.
+
+540
+00:44:50,098 --> 00:44:53,136
+Idem. . .
+Idem. . .
+
+541
+00:44:53,379 --> 00:44:55,370
+Onamo. Proöetati.
+
+542
+00:44:57,579 --> 00:44:59,570
+Gallagher, kiseonik potroöen.
+
+543
+00:45:35,740 --> 00:45:40,131
+Burchenal,
+odmah uzmi novi kiseonik.
+
+544
+00:46:02,461 --> 00:46:05,692
+Pettengill,
+odmah uzmi sveûi kiseonik.
+
+545
+00:46:22,782 --> 00:46:24,181
+Mogu da diöem.
+
+546
+00:46:24,462 --> 00:46:25,815
+Mogu da diöem.
+
+547
+00:46:30,022 --> 00:46:31,899
+Kao da sam
+na velikoj visini.
+
+548
+00:46:32,102 --> 00:46:35,060
+Ne znam zaöto moûemo
+disati, ali moûemo.
+
+549
+00:46:42,103 --> 00:46:43,775
+Moûemo disati!
+
+550
+00:46:46,503 --> 00:46:48,539
+Ne znam koji je ovo kur..!
+
+551
+00:46:49,223 --> 00:46:50,702
+Ali prihvatam!
+
+552
+00:46:59,503 --> 00:47:00,777
+Mogu disati.
+
+553
+00:47:05,064 --> 00:47:06,895
+Ovo nije moguÊe.
+
+554
+00:47:08,744 --> 00:47:10,894
+Koji se kur..
+ovde dogaa?
+
+555
+00:47:12,264 --> 00:47:14,983
+Da je Santen
+joö malo Ëekao. . .
+
+556
+00:47:15,184 --> 00:47:16,253
+Moûemo disati.
+
+557
+00:47:17,504 --> 00:47:19,062
+Moûemo disati.
+
+558
+00:47:23,944 --> 00:47:26,412
+Komandante,
+dolazi poruka.
+
+559
+00:47:26,624 --> 00:47:30,334
+Ovde Hjuston.
+Drago nam je öto smo vas Ëuli.
+
+560
+00:47:30,625 --> 00:47:32,581
+Analiza vaöe
+telemetrije...
+
+561
+00:47:32,785 --> 00:47:35,583
+...pokazuje da Êete za 31 h
+pasti iz orbite.
+
+562
+00:47:35,825 --> 00:47:38,055
+Dobra je vest da Êemo
+vas dotad izvuÊi.
+
+563
+00:47:38,265 --> 00:47:41,223
+Moûemo osposobiti
+motor za paljenje...
+
+564
+00:47:41,425 --> 00:47:43,575
+...i izlazak iz
+orbite oko Marsa.
+
+565
+00:47:43,825 --> 00:47:47,704
+Smatramo da je posada
+na povröini mrtva. Kraj.
+
+566
+00:47:51,305 --> 00:47:56,016
+Teraformiranje nije bilo ni blizu
+da ovde stvori vazduh.
+
+567
+00:47:56,226 --> 00:47:57,181
+Ne?
+
+568
+00:47:58,466 --> 00:48:01,219
+Visina kiseonika je padala
+kad su senzori crkli.
+
+569
+00:48:01,426 --> 00:48:04,543
+Kako sada ima viöe kiseonika nego pre?
+
+570
+00:48:05,386 --> 00:48:07,502
+A nema algi
+da ga stvaraju?
+
+571
+00:48:12,946 --> 00:48:16,655
+éalim, komandante.
+Paljenje ne reaguje.
+
+572
+00:48:22,947 --> 00:48:24,824
+Hjustone,
+ovde Mars- 1.
+
+573
+00:48:25,067 --> 00:48:27,376
+Sve sam pokuöala,
+ali motori ne pale.
+
+574
+00:48:27,587 --> 00:48:31,466
+»ak sam udarala konzolu.
+äta sad?
+
+575
+00:48:31,667 --> 00:48:35,376
+Da bar odgovor ne moram
+Ëekati 40 min.
+
+576
+00:48:36,307 --> 00:48:38,775
+Momci, radio.
+
+577
+00:48:40,307 --> 00:48:42,423
+Ovime neÊemo
+dozvati Bowmanicu.
+
+578
+00:48:44,387 --> 00:48:45,581
+»ekajte.
+
+579
+00:48:46,107 --> 00:48:49,657
+Neöto sam video dok smo
+traûili naseobinu.
+
+580
+00:48:50,548 --> 00:48:53,142
+Onaj mali izviaË
+poslan je ovamo '97.
+
+581
+00:48:53,348 --> 00:48:55,100
+Sigurno je imao radio.
+
+582
+00:48:55,308 --> 00:48:56,821
+- Da.
+- »ekaj.
+
+583
+00:48:57,668 --> 00:48:59,420
+Do tamo ima 4 km.
+
+584
+00:49:01,188 --> 00:49:03,065
+Vrlo skoro biÊe mrak.
+
+585
+00:49:03,348 --> 00:49:04,781
+I prehladno.
+
+586
+00:49:05,108 --> 00:49:06,621
+KreÊemo Ëim svane.
+
+587
+00:49:08,788 --> 00:49:11,541
+Imam dovoljno raketnoga
+goriva da se grejemo.
+
+588
+00:49:11,908 --> 00:49:13,979
+Logorska vatra
+za milijardu dolara.
+
+589
+00:49:16,069 --> 00:49:18,105
+Bar nekakva
+korist od nje.
+
+590
+00:49:40,990 --> 00:49:43,220
+Ako radio na
+izviaËu radi. . .
+
+591
+00:49:44,310 --> 00:49:45,789
+. . .moûemo zvati
+Bowmanicu. . .
+
+592
+00:49:47,350 --> 00:49:49,739
+. . .javiti da se
+ovde moûe disati.
+
+593
+00:49:52,910 --> 00:49:55,105
+Ali to nam neÊe pomoÊi?
+
+594
+00:49:58,950 --> 00:50:01,862
+Bilo je teöko gledati Santena?
+
+595
+00:50:04,991 --> 00:50:06,470
+Bilo je.
+
+596
+00:50:09,191 --> 00:50:10,510
+Mogu misliti.
+
+597
+00:50:21,871 --> 00:50:23,543
+Tvoja cura.
+Izvukla se.
+
+598
+00:50:23,751 --> 00:50:26,390
+SKII, mislio sam da si mrtva.
+
+599
+00:50:26,631 --> 00:50:28,940
+Duöo, drago mi je
+öto te vidim.
+
+600
+00:50:29,151 --> 00:50:31,268
+Malo si izudarana.
+
+601
+00:50:31,472 --> 00:50:33,064
+Znao sam da
+Êeö se izvuÊi.
+
+602
+00:50:33,592 --> 00:50:37,267
+Nisi u formi?
+Premet za mene.
+
+603
+00:50:47,192 --> 00:50:49,148
+Procesor je oöteÊen.
+
+604
+00:50:49,352 --> 00:50:52,344
+- Moûe raditi kao navigator?
+- Da, dok se ne raspadne.
+
+605
+00:50:52,552 --> 00:50:54,543
+»ekamo to i
+pad bespilotne.
+
+606
+00:50:54,832 --> 00:50:56,983
+Izvucimo sistem
+navigacije na Marsu.
+
+607
+00:50:57,193 --> 00:51:00,105
+Disk je modularan,
+s vlastitim pogonom.
+
+608
+00:51:00,313 --> 00:51:03,464
+Moûemo laptopom.
+Vladali bismo bespilotnom.
+
+609
+00:51:03,673 --> 00:51:06,471
+Ali ubili bismo nju.
+
+610
+00:51:06,873 --> 00:51:09,182
+Da? HoÊeö da ja to?
+
+611
+00:51:10,033 --> 00:51:11,671
+Ne, ja Êu.
+
+612
+00:51:37,074 --> 00:51:38,029
+Sranje!
+
+613
+00:51:54,235 --> 00:51:55,270
+Ne!
+
+614
+00:51:55,675 --> 00:51:56,824
+Ne!
+
+615
+00:52:21,956 --> 00:52:23,150
+äta je ovo?
+
+616
+00:52:23,356 --> 00:52:25,745
+Vojno delovanje.
+Od pada je skrenula.
+
+617
+00:52:25,956 --> 00:52:29,107
+- Zaöto je nas napala?
+- Hteli smo je ubiti.
+
+618
+00:52:30,556 --> 00:52:32,228
+Smatra nas
+neprijateljima.
+
+619
+00:52:32,436 --> 00:52:34,028
+- Dobro si?
+- Prespoji je.
+
+620
+00:52:34,236 --> 00:52:36,113
+Pokuöao sam.
+Ne reaguje.
+
+621
+00:52:39,956 --> 00:52:40,867
+OäTE∆ENA REBRA.
+
+622
+00:52:41,117 --> 00:52:42,311
+Povreda rebara.
+
+623
+00:52:43,237 --> 00:52:46,035
+Zaöto nas je
+ostavila u ûivotu?
+
+624
+00:52:46,637 --> 00:52:49,151
+Igra ratne igre.
+Gerilska taktika.
+
+625
+00:52:49,357 --> 00:52:51,712
+Stari trik.
+Rani jednoga.
+
+626
+00:52:51,957 --> 00:52:54,027
+Drugi moraju pomoÊi.
+To ih usporava.
+
+627
+00:52:57,237 --> 00:53:00,229
+Uskoro Êe igrati
+''potraûi i uniöti'' .
+
+628
+00:53:01,277 --> 00:53:02,392
+Tada Êe nas ubiti.
+
+629
+00:53:02,837 --> 00:53:04,111
+Jednog po jednog.
+
+630
+00:53:05,917 --> 00:53:07,112
+Dobro si?
+
+631
+00:53:29,878 --> 00:53:32,996
+SKII ometa odaöiljaËe
+tako da ne znamo gde je.
+
+632
+00:53:43,759 --> 00:53:44,908
+Dobro si?
+
+633
+00:53:48,639 --> 00:53:50,709
+Boli samo kad diöem.
+
+634
+00:53:54,839 --> 00:53:56,636
+Sunce Êe
+uskoro izaÊi.
+
+635
+00:53:58,039 --> 00:54:01,032
+Mogli bismo krenuti. Pomozi.
+
+636
+00:54:29,681 --> 00:54:33,071
+Slaba gravitacija pa
+dobijeö visoki luk.
+
+637
+00:54:37,201 --> 00:54:40,273
+Gledaö, SKII?
+Prvo piöanje na Marsu.
+
+638
+00:54:49,281 --> 00:54:50,874
+Potisnici spremni.
+
+639
+00:54:57,122 --> 00:54:58,919
+Alfa Mach indikator
+potvren.
+
+640
+00:55:19,363 --> 00:55:21,638
+Paljenje radi.
+»ekam uputstva.
+
+641
+00:55:21,843 --> 00:55:23,993
+Hjustone, dopustite
+paljenje motora.
+
+642
+00:55:24,283 --> 00:55:26,797
+Ponavljam. Spremna
+za paljenje motora.
+
+643
+00:55:28,403 --> 00:55:29,836
+Hvala, momci.
+
+644
+00:55:30,323 --> 00:55:32,393
+Hvala öto ste
+se potrudili.
+
+645
+00:55:36,603 --> 00:55:38,798
+Imam vremena
+do paljenja.
+
+646
+00:55:39,003 --> 00:55:41,278
+PotraûiÊu posadu
+u svitanje.
+
+647
+00:55:41,843 --> 00:55:44,517
+Znam da su otpisani,
+ali moram to.
+
+648
+00:55:44,724 --> 00:55:45,918
+Gotovo.
+
+649
+00:55:46,324 --> 00:55:47,518
+Poslano.
+
+650
+00:55:50,684 --> 00:55:54,199
+- Znaö öta radiö?
+- Uvek znam.
+
+651
+00:56:07,444 --> 00:56:08,593
+äarmantno.
+
+652
+00:56:08,965 --> 00:56:11,274
+To je 50 g. stari modem.
+
+653
+00:56:11,605 --> 00:56:14,403
+Radio na frekvenciji
+koju ovde ne koristimo.
+
+654
+00:56:14,645 --> 00:56:16,397
+Ali bolje to nego
+vikati u pomoÊ.
+
+655
+00:56:23,085 --> 00:56:24,518
+Jesam.
+
+656
+00:56:35,086 --> 00:56:39,876
+Sinkrono. L-2,3. Traûenje.
+
+657
+00:56:40,286 --> 00:56:42,197
+144. juûno.
+
+658
+00:56:43,246 --> 00:56:44,838
+Zaustavljeno.
+
+659
+00:56:51,686 --> 00:56:53,483
+Hjustone,
+ovde Mars- 1.
+
+660
+00:56:54,006 --> 00:56:56,804
+Konfiguriöem brod za
+izbacivanje u orbitu.
+
+661
+00:56:57,046 --> 00:56:58,957
+I vraÊam se na Zemlju.
+
+662
+00:57:00,166 --> 00:57:01,282
+Preneto.
+
+663
+00:57:06,007 --> 00:57:07,326
+Obavimo to.
+
+664
+00:57:22,887 --> 00:57:24,081
+Provera.
+
+665
+00:57:24,487 --> 00:57:25,602
+Radi li?
+
+666
+00:57:25,807 --> 00:57:27,764
+Ne znam.
+Zeleno svetlo gori.
+
+667
+00:57:28,448 --> 00:57:32,043
+Hjustone, Mars- 1.
+EliptiËna orbita.
+
+668
+00:57:32,288 --> 00:57:36,201
+PoËinjem redosled paljenja
+za povratak na Zemlju.
+
+669
+00:57:38,968 --> 00:57:41,436
+Ovde posada
+Marsa- 1. »ujete?
+
+670
+00:57:41,648 --> 00:57:44,446
+Ovde posada
+Marsa- 1. »ujete?
+
+671
+00:57:44,648 --> 00:57:46,400
+Ovde posada
+Marsa- 1.
+
+672
+00:57:46,608 --> 00:57:49,042
+»ujete?
+
+673
+00:57:49,328 --> 00:57:50,920
+Mi smo momci
+na Marsu.
+
+674
+00:57:51,888 --> 00:57:53,208
+Neka nam
+neko odgovori.
+
+675
+00:57:53,689 --> 00:57:54,599
+Prokuöaj opet.
+
+676
+00:57:54,809 --> 00:57:57,607
+Ovde posada
+Marsa- 1. »ujete?
+
+677
+00:57:58,049 --> 00:58:00,768
+Ovde posada
+Marsa- 1. »ujete?
+
+678
+00:58:00,969 --> 00:58:03,688
+Moûda Êe nas Ëuti 1997. godine.
+
+679
+00:58:10,089 --> 00:58:11,886
+Proöla su dva sata.
+
+680
+00:58:13,289 --> 00:58:15,245
+PO»INJEM
+PALJENJE MOTORA
+
+681
+00:58:15,849 --> 00:58:17,567
+Mars-1 ,
+ovde Hjuston.
+
+682
+00:58:17,769 --> 00:58:21,365
+Radio-teleskop uperen
+prema vama neöto je uhvatio.
+
+683
+00:58:21,570 --> 00:58:22,685
+NeÊete
+verovati.
+
+684
+00:58:22,890 --> 00:58:26,485
+Idite na frekvenciju
+koju ne koristimo 50 godina.
+
+685
+00:58:26,690 --> 00:58:28,089
+Pa. . .
+
+686
+00:58:28,890 --> 00:58:30,448
+Vredelo je.
+
+687
+00:58:41,250 --> 00:58:43,764
+Posada na Marsu, ovde
+Mars-1 , Ëujete li me?
+
+688
+00:58:44,891 --> 00:58:46,802
+Posada na Marsu,
+ovde Mars- 1.
+
+689
+00:58:47,011 --> 00:58:47,966
+Bowman!
+
+690
+00:58:49,251 --> 00:58:50,320
+Gallagheru?
+
+691
+00:58:53,771 --> 00:58:54,886
+éiv si.
+
+692
+00:58:55,251 --> 00:58:56,400
+Jesam.
+
+693
+00:58:56,891 --> 00:58:58,882
+Jebem ti,
+i ti si uspela.
+
+694
+00:58:59,491 --> 00:59:02,244
+Znam da je naseobina
+uniötena. Kako ste vi?
+
+695
+00:59:02,451 --> 00:59:06,364
+Kod malog sam vozila s
+Burchenalom i Pettengillom.
+
+696
+00:59:07,251 --> 00:59:10,004
+Nemamo hrane ni vode,
+SKII je poöandrcao. . .
+
+697
+00:59:10,251 --> 00:59:12,720
+. . .i moûemo disati.
+
+698
+00:59:14,612 --> 00:59:18,446
+Kako? Visina kiseonika je. . .
+NemoguÊe.
+
+699
+00:59:18,652 --> 00:59:19,562
+Ne znam.
+
+700
+00:59:19,772 --> 00:59:20,807
+Ali diöemo.
+
+701
+00:59:21,052 --> 00:59:23,566
+Videla sam telo
+kod modula.
+
+702
+00:59:23,772 --> 00:59:27,242
+To je Chantilas.
+I Santen je otiöao.
+
+703
+00:59:27,452 --> 00:59:28,362
+Kako?
+
+704
+00:59:28,572 --> 00:59:30,927
+Pettenegill kaûe
+da se bacio.
+
+705
+00:59:31,492 --> 00:59:33,562
+To su novosti.
+
+706
+00:59:34,732 --> 00:59:35,960
+Ne moûemo joö dugo.
+
+707
+00:59:36,732 --> 00:59:40,009
+Imate kakvu ideju?
+Jer nama ih ponestaje.
+
+708
+00:59:40,373 --> 00:59:43,683
+RazmisliÊu i javiti vam se.
+
+709
+00:59:44,573 --> 00:59:46,962
+Nadam se da ima
+Ëarobni ötapiÊ.
+
+710
+00:59:49,053 --> 00:59:53,046
+Hjustone, imamo
+trojicu ûivih na Marsu.
+
+711
+00:59:54,213 --> 00:59:56,169
+Vratimo ih kuÊi.
+
+712
+00:59:57,533 --> 00:59:59,489
+Ne moûeö shvatiti?
+
+713
+01:00:00,293 --> 01:00:03,525
+Ne mogu shvatiti
+ovo s algama i kiseonikom.
+
+714
+01:00:03,774 --> 01:00:05,002
+Mrziö
+kad ne znaö.
+
+715
+01:00:05,294 --> 01:00:09,287
+- Veruj, uskoro Êu znati.
+- Moûda.
+
+716
+01:00:10,254 --> 01:00:13,564
+Moûda je ûivot veÊa tajna
+nego öto misliö.
+
+717
+01:00:15,854 --> 01:00:18,049
+Previöe si se druûio
+s Chantilasom.
+
+718
+01:00:18,254 --> 01:00:20,484
+Ali ako ûeliö Boûjim putem. . .
+
+719
+01:00:20,694 --> 01:00:23,003
+. . .laköim putem, samo izvoli.
+
+720
+01:00:23,254 --> 01:00:25,688
+Duhovni ûivot nije baö lak.
+
+721
+01:00:25,894 --> 01:00:29,604
+To je teûe nego samo
+biti inteligentan.
+
+722
+01:00:30,575 --> 01:00:32,452
+Zanemarujeö Ëinjenice.
+
+723
+01:00:33,055 --> 01:00:36,252
+Kladim se da nisi
+bio zabavan za BoûiÊ.
+
+724
+01:00:36,455 --> 01:00:38,844
+Mama ti je rekla da
+zubna vila ne postoji.
+
+725
+01:00:39,055 --> 01:00:41,569
+GenetiËar sam.
+Piöem kodove.
+
+726
+01:00:41,775 --> 01:00:44,767
+A, G, T i P u
+raznim kombinacijama.
+
+727
+01:00:44,975 --> 01:00:47,045
+Menjam ljudski genom.
+
+728
+01:00:47,335 --> 01:00:49,053
+Biram öta i gde.
+
+729
+01:00:49,295 --> 01:00:53,447
+HoÊe li ti bubrezi raditi
+ili Êeö imati 6 prstiju!
+
+730
+01:00:54,295 --> 01:00:56,207
+Ugledaö li Boga. . .
+
+731
+01:00:56,736 --> 01:00:59,887
+. . .javi mi. Do tada
+verujem doktoratima.
+
+732
+01:01:09,776 --> 01:01:12,415
+»iniÊe se ludo, ali
+to vam je jedini izbor.
+
+733
+01:01:12,616 --> 01:01:15,574
+Idemo peöke do 100 km
+udaljene ruske sonde.
+
+734
+01:01:15,776 --> 01:01:18,495
+Nije uspela uzleteti.
+Pokuöajmo je pokrenuti.
+
+735
+01:01:19,936 --> 01:01:21,609
+Zar nisi mogla
+smisliti neöto teöko?
+
+736
+01:01:22,337 --> 01:01:26,728
+Zove se Kosmos.
+Naöli su konstruktora. Borokovski.
+
+737
+01:01:26,977 --> 01:01:28,854
+Ima duÊan
+u Brooklynu.
+
+738
+01:01:29,057 --> 01:01:32,447
+Lansirni redosled moûete
+pokrenuti na prizoriötu.
+
+739
+01:01:32,657 --> 01:01:35,967
+Bivöi struËnjak za rakete
+koji se sad bavi. . .
+
+740
+01:01:36,217 --> 01:01:39,289
+. . .pripremom sendviËa. Lepota.
+
+741
+01:01:39,497 --> 01:01:40,816
+Ovo je problem.
+
+742
+01:01:41,337 --> 01:01:43,976
+Imate manje od 19 sati
+da sve to obavite.
+
+743
+01:01:44,217 --> 01:01:47,415
+Onda povlaËim ono o teûini.
+
+744
+01:01:47,618 --> 01:01:51,816
+OdbaciÊu spremnik B i
+drûati se u orbiti na A.
+
+745
+01:01:52,018 --> 01:01:56,011
+Posle viöe neÊu moÊi,
+neÊe biti goriva za povratak.
+
+746
+01:01:56,218 --> 01:01:58,095
+Treba mi smer.
+Kuda da idem?
+
+747
+01:02:00,098 --> 01:02:03,568
+Kreni na jugoistok.
+
+748
+01:02:06,378 --> 01:02:08,369
+- Tako.
+- Spremni smo.
+
+749
+01:02:08,578 --> 01:02:11,536
+Imam posla, a onda sam
+na tamnoj strani.
+
+750
+01:02:11,778 --> 01:02:13,212
+ZvaÊu kad
+se vratim.
+
+751
+01:02:14,819 --> 01:02:15,888
+Primljeno.
+
+752
+01:02:16,099 --> 01:02:17,327
+éao mi je öto nisam
+mogla viöe.
+
+753
+01:02:17,539 --> 01:02:18,972
+I ovo je neöto.
+
+754
+01:02:19,659 --> 01:02:20,648
+Pomozi mi.
+
+755
+01:02:21,099 --> 01:02:23,010
+Lepo je znati
+da si joö gore.
+
+756
+01:02:23,259 --> 01:02:25,978
+Umiranje mi ne smeta,
+ali ne volim biti sama.
+
+757
+01:02:26,219 --> 01:02:28,972
+Zato se vucite gore.
+»ujemo se.
+
+758
+01:02:29,419 --> 01:02:32,809
+Hvala. Kao da mi je
+rebro probilo pluÊa.
+
+759
+01:02:33,299 --> 01:02:34,573
+Gallagheru,
+öta misliö?
+
+760
+01:02:34,819 --> 01:02:39,211
+Nezgodno je videti
+kako izlaziö iz tuöa.
+
+761
+01:02:39,420 --> 01:02:41,809
+Otada zakljuËavam vrata.
+
+762
+01:02:42,020 --> 01:02:43,419
+Ma ne.
+
+763
+01:02:44,180 --> 01:02:45,613
+- Ma da.
+- Ma ne.
+
+764
+01:03:01,540 --> 01:03:02,814
+Laku noÊ.
+
+765
+01:03:38,982 --> 01:03:39,937
+äta je to?
+
+766
+01:03:40,742 --> 01:03:42,061
+Onde.
+
+767
+01:03:43,342 --> 01:03:44,934
+Kao da se tlo miËe.
+
+768
+01:03:45,182 --> 01:03:46,695
+Niöta nisam video.
+
+769
+01:03:48,902 --> 01:03:52,611
+Sad je nestalo, ali video sam.
+
+770
+01:04:03,703 --> 01:04:06,854
+Bowmanice?
+Provera smera!
+
+771
+01:04:07,063 --> 01:04:09,782
+Idete taËno.
+Moramo razgovarati.
+
+772
+01:04:12,503 --> 01:04:14,698
+Sami smo. äta je?
+
+773
+01:04:17,903 --> 01:04:21,896
+Na Kosmosu ima mesta
+samo u sanduku za uzorke.
+
+774
+01:04:22,463 --> 01:04:23,863
+Komforno.
+
+775
+01:04:24,184 --> 01:04:25,776
+Veoma je malen.
+
+776
+01:04:26,584 --> 01:04:28,461
+U Hjustonu...
+
+777
+01:04:28,664 --> 01:04:32,942
+. . .smiöljaju kako smestiti trojicu.
+
+778
+01:04:34,304 --> 01:04:36,260
+Ima mesta
+za dvojicu.
+
+779
+01:04:36,904 --> 01:04:38,383
+I to jedva.
+
+780
+01:04:40,184 --> 01:04:41,333
+Kako ide?
+
+781
+01:04:41,544 --> 01:04:42,863
+Sjajno.
+
+782
+01:04:43,984 --> 01:04:45,337
+éao mi je.
+
+783
+01:04:47,704 --> 01:04:50,219
+»ujemo se posle.
+
+784
+01:04:58,425 --> 01:05:01,861
+Da te zakrpimo.
+Manje Êe boleti.
+
+785
+01:05:05,065 --> 01:05:08,614
+Jedva diöem!
+Vazduh je preredak!
+
+786
+01:05:09,465 --> 01:05:10,864
+BiÊeö dobro.
+
+787
+01:05:12,465 --> 01:05:13,659
+Prebaci ruku.
+
+788
+01:05:13,865 --> 01:05:16,096
+Pa levu nogu.
+
+789
+01:05:16,346 --> 01:05:18,098
+Desno.
+
+790
+01:05:18,426 --> 01:05:20,337
+SkaËi kao zec.
+
+791
+01:05:28,026 --> 01:05:29,300
+äta to radiö?
+
+792
+01:05:29,506 --> 01:05:32,339
+To je moj deda pevao. Stonesi.
+
+793
+01:05:32,546 --> 01:05:34,423
+Pevaj.
+
+794
+01:06:07,188 --> 01:06:08,098
+Komandante.
+
+795
+01:06:08,348 --> 01:06:11,226
+Posadi se pribliûava
+veliki ciklon.
+
+796
+01:06:11,708 --> 01:06:14,984
+Pritisak je 820 milibara.
+
+797
+01:06:16,308 --> 01:06:18,617
+Dolazi vam ledena oluja.
+
+798
+01:06:18,828 --> 01:06:21,547
+VeliËine Montane
+i veoma je brza.
+
+799
+01:06:21,748 --> 01:06:23,625
+Prekidam vezu.
+
+800
+01:06:23,828 --> 01:06:26,342
+Smesta naite zaklon.
+
+801
+01:06:29,908 --> 01:06:31,944
+Gde da ovde
+naemo zaklon?
+
+802
+01:06:33,069 --> 01:06:35,663
+Ovamo! Otvor!
+
+803
+01:06:37,749 --> 01:06:41,628
+NajjaËi udari vetra
+su 170 km h.
+
+804
+01:06:41,869 --> 01:06:44,588
+Temperatura
+-60 stepeni.
+
+805
+01:06:52,589 --> 01:06:53,817
+Brûe!
+
+806
+01:07:03,510 --> 01:07:04,704
+Sranje.
+
+807
+01:07:04,910 --> 01:07:06,662
+Hjustone,
+ovde Mars- 1.
+
+808
+01:07:21,750 --> 01:07:26,666
+-51 stepeni
+vetar JZ 178 kmh
+
+809
+01:07:29,711 --> 01:07:31,827
+Koliko ima do Kosmosa?
+
+810
+01:07:33,791 --> 01:07:34,780
+Molim?
+
+811
+01:07:35,351 --> 01:07:36,750
+Kosmos?
+
+812
+01:07:37,911 --> 01:07:39,629
+Koliko je udaljen?
+
+813
+01:07:39,951 --> 01:07:41,623
+Oko 6 sati.
+
+814
+01:07:42,231 --> 01:07:43,664
+Moûda 5.
+
+815
+01:07:44,751 --> 01:07:47,584
+Ostaje nam 4 h za
+pokuöaj lansiranja.
+
+816
+01:07:47,791 --> 01:07:51,102
+Ne raËunajuÊi
+ovo zaustavljanje.
+
+817
+01:07:52,032 --> 01:07:54,500
+Nadam se da Rus
+dobro pamti.
+
+818
+01:07:56,392 --> 01:07:58,428
+NeÊe biti vremena
+za plan B.
+
+819
+01:08:12,192 --> 01:08:13,341
+O»ITAVAM TOPLINU
+
+820
+01:08:35,313 --> 01:08:37,668
+Na Kosmosu ima mesta
+samo za dvojicu.
+
+821
+01:08:41,073 --> 01:08:42,222
+Molim?
+
+822
+01:08:43,314 --> 01:08:45,874
+Na Kosmosu ima mesta
+samo za dvojicu.
+
+823
+01:08:48,434 --> 01:08:50,265
+Idete vas dvojica.
+
+824
+01:08:51,274 --> 01:08:53,424
+Nastavite misiju.
+
+825
+01:08:53,634 --> 01:08:56,387
+Recite ljudima öta
+trebaju znati o ovome.
+
+826
+01:08:57,394 --> 01:09:00,511
+PomoÊi Êu vam da sredite
+Kosmos i onda. . .
+
+827
+01:09:01,434 --> 01:09:02,833
+OprostiÊemo se.
+
+828
+01:09:10,115 --> 01:09:13,266
+NeÊe uzleteti.
+Ipak je ruski.
+
+829
+01:09:13,475 --> 01:09:17,070
+RazleteÊe se 3 m
+iznad tla. éiveÊu duûe.
+
+830
+01:09:24,435 --> 01:09:25,948
+Malo je ljudi
+poput tebe.
+
+831
+01:09:28,515 --> 01:09:30,585
+Ali ja to baö
+i ne verujem.
+
+832
+01:09:31,315 --> 01:09:32,828
+O Ëemu ti to?
+
+833
+01:09:34,035 --> 01:09:36,596
+Drûi me odgovornim
+za Santenovu smrt.
+
+834
+01:09:38,916 --> 01:09:40,588
+äta misliö,
+Gallagheru?
+
+835
+01:09:44,116 --> 01:09:45,549
+Verujeö mi?
+
+836
+01:09:48,316 --> 01:09:49,431
+Je li?
+
+837
+01:09:51,916 --> 01:09:54,032
+»uvam ti lea,
+ti Êeö meni?
+
+838
+01:09:57,556 --> 01:09:59,194
+Znam da ti ja
+ne verujem.
+
+839
+01:10:06,317 --> 01:10:09,832
+A ostaviÊeö drugara tu. . .
+
+840
+01:10:10,277 --> 01:10:11,949
+. . .i odleteti
+sa mnom?
+
+841
+01:10:14,317 --> 01:10:15,716
+Da, to. . .
+
+842
+01:10:16,557 --> 01:10:18,468
+To Êe uËiniti.
+
+843
+01:10:27,198 --> 01:10:28,756
+Mars-1 ,
+ovde Hjuston.
+
+844
+01:10:29,598 --> 01:10:33,511
+Ne znam za vaö sat, ali po naöemu
+nemamo vremena.
+
+845
+01:10:33,758 --> 01:10:36,477
+Tvoja ekipa
+ne javlja se 3 sata.
+
+846
+01:10:36,998 --> 01:10:39,034
+Do sada su bili sjajni.
+
+847
+01:10:39,238 --> 01:10:41,991
+Ali ovo je oluja koju niko
+ne moûe preûiveti.
+
+848
+01:10:42,238 --> 01:10:43,717
+Evo na Ëemu smo:
+
+849
+01:10:43,918 --> 01:10:46,671
+Ako se posada ne javi
+kad primite ovu poruku...
+
+850
+01:10:46,878 --> 01:10:48,869
+... vraÊajte se.
+To je naredba.
+
+851
+01:10:49,718 --> 01:10:51,037
+Hjuston se
+odjavljuje.
+
+852
+01:10:53,679 --> 01:10:55,476
+Gallagheru, javi se.
+
+853
+01:10:57,039 --> 01:10:59,507
+Gallagheru, Ëujeö li me?
+
+854
+01:11:12,199 --> 01:11:13,712
+Sranje!
+
+855
+01:11:16,359 --> 01:11:17,678
+- Nestao je.
+- Molim?
+
+856
+01:11:17,879 --> 01:11:19,472
+Uzeo je radio.
+
+857
+01:11:20,440 --> 01:11:22,954
+Sranje!
+
+858
+01:11:30,480 --> 01:11:31,708
+To je SKII.
+
+859
+01:11:33,160 --> 01:11:34,479
+éeli da gledamo.
+
+860
+01:12:24,562 --> 01:12:25,551
+Uhvatila ga je.
+
+861
+01:12:35,762 --> 01:12:39,915
+Bojao se da Êemo ga ostaviti.
+Obistinilo se.
+
+862
+01:12:41,603 --> 01:12:44,720
+Moramo do radija
+ili smo i mi mrtvi.
+
+863
+01:12:49,683 --> 01:12:50,957
+Izgubili smo 3 sata.
+
+864
+01:12:51,163 --> 01:12:53,677
+Bar Pettengill ide
+u pravom smeru.
+
+865
+01:12:53,883 --> 01:12:58,161
+- Odakle znaö?
+- Odredio sam smer pre oluje.
+
+866
+01:12:58,923 --> 01:13:00,595
+I uskladio ga
+sa zvezdama.
+
+867
+01:13:00,843 --> 01:13:02,162
+Sve je u redu.
+
+868
+01:13:22,844 --> 01:13:23,754
+»ekaj.
+
+869
+01:13:33,005 --> 01:13:33,960
+Ovo su alge.
+
+870
+01:13:34,965 --> 01:13:36,444
+Ovde ima algi.
+
+871
+01:13:38,205 --> 01:13:40,116
+Zaöto su tu i
+nigde drugde?
+
+872
+01:13:45,845 --> 01:13:47,483
+Nemamo sad
+vremena za to.
+
+873
+01:13:48,045 --> 01:13:49,160
+Eno Pettengilla.
+
+874
+01:14:09,086 --> 01:14:11,475
+Bar nije pustio
+prokleti radio.
+
+875
+01:14:14,206 --> 01:14:16,162
+SKII ga je
+zaista rastrgla.
+
+876
+01:14:24,167 --> 01:14:28,877
+Govno malo drûi ga kao
+da mu o tome ûivot zavisi.
+
+877
+01:14:32,327 --> 01:14:33,806
+PozvaÊu Bowmanicu.
+
+878
+01:14:34,207 --> 01:14:36,004
+Zaöto je zatvorio vizir?
+
+879
+01:14:36,327 --> 01:14:38,204
+Viöe nije imao vazduha.
+
+880
+01:14:54,208 --> 01:14:56,961
+Gallagher ovde.
+Jesi li gore?
+
+881
+01:14:58,008 --> 01:15:00,203
+Bowmanice,
+Gallagher je.
+
+882
+01:15:04,848 --> 01:15:06,884
+Joö je na tamnoj strani.
+
+883
+01:15:16,049 --> 01:15:17,448
+Isuse!
+
+884
+01:15:27,209 --> 01:15:28,927
+Nekakvi crvi.
+
+885
+01:15:29,129 --> 01:15:30,960
+Iskre su ih potaknule.
+
+886
+01:15:31,329 --> 01:15:32,921
+Hrane se algama.
+
+887
+01:15:34,449 --> 01:15:37,646
+Tu su nestale.
+Hrane se algama.
+
+888
+01:15:38,049 --> 01:15:39,642
+Doi.
+Jebem ti.....
+
+889
+01:15:39,850 --> 01:15:41,078
+Jesam.
+
+890
+01:15:43,330 --> 01:15:46,083
+- Mislio si da tu nema ûivota.
+- Pogreöio sam.
+
+891
+01:15:46,890 --> 01:15:49,040
+Uz vodu i vazduh ide ûivot.
+
+892
+01:15:49,250 --> 01:15:52,287
+Misliö da je pametno poneti ih?
+
+893
+01:15:52,530 --> 01:15:55,727
+- Ne shvataö koliko je ovo vaûno.
+- Ja sam istraûivaË.
+
+894
+01:15:55,970 --> 01:15:58,882
+Zemlja gubi kiseonik.
+Video si ove?
+
+895
+01:15:59,090 --> 01:16:00,808
+Jedu alge i
+stvaraju kiseonik.
+
+896
+01:16:01,010 --> 01:16:04,320
+Napokon shvatam.
+Rekoh ti da Êu to reöiti.
+
+897
+01:16:04,890 --> 01:16:06,085
+Zaöto su crvi tu?
+
+898
+01:16:06,291 --> 01:16:08,805
+Ostalo je hrane.
+
+899
+01:16:15,891 --> 01:16:17,006
+»ekaj.
+
+900
+01:16:22,371 --> 01:16:25,443
+Ovakva zelena polja
+nisam video od detinjstva.
+
+901
+01:17:11,093 --> 01:17:12,811
+Progrizaju
+mi odelo.
+
+902
+01:17:14,373 --> 01:17:15,522
+Ostani onde!
+
+903
+01:17:17,653 --> 01:17:20,121
+TrebaÊeö moj vazduh.
+Za lansiranje!
+
+904
+01:17:21,533 --> 01:17:23,525
+Odnesi ovo na Zemlju.
+
+905
+01:17:25,254 --> 01:17:26,926
+Obavi zadatak.
+
+906
+01:17:27,334 --> 01:17:28,528
+Sve je u
+tvojim rukama.
+
+907
+01:17:29,134 --> 01:17:30,886
+Stavi kacigu.
+
+908
+01:17:31,214 --> 01:17:33,569
+NeÊu umreti
+kao Pettengill.
+
+909
+01:17:46,094 --> 01:17:49,724
+Komandante, poremeÊaj
+na Marsovoj povröini.
+
+910
+01:17:55,535 --> 01:17:56,934
+Boûe!
+
+911
+01:17:57,775 --> 01:18:01,529
+Posado, ovde
+Mars-1 . »ujete li me?
+
+912
+01:18:01,775 --> 01:18:05,734
+Posado, ovde
+Mars-1 . »ujete li me?
+
+913
+01:18:05,935 --> 01:18:08,733
+Gallaghere,
+öta se dogaa?
+
+914
+01:18:09,455 --> 01:18:13,243
+Posado, ovde
+Mars-1 . »ujete li me?
+
+915
+01:18:21,016 --> 01:18:23,052
+Ne mogu nazad.
+
+916
+01:18:23,576 --> 01:18:25,009
+Doölo je do poûara.
+
+917
+01:18:26,536 --> 01:18:28,049
+Kao aparat za varenje.
+
+918
+01:18:28,856 --> 01:18:30,209
+Burchenal je mrtav.
+
+919
+01:18:31,176 --> 01:18:33,132
+értvovao se.
+
+920
+01:18:33,416 --> 01:18:35,372
+Gde su ostali?
+
+921
+01:18:35,616 --> 01:18:37,095
+Moram se odmoriti.
+
+922
+01:18:39,096 --> 01:18:40,324
+Gde su ostali?
+
+923
+01:18:42,817 --> 01:18:44,045
+Mrtvi.
+
+924
+01:18:46,417 --> 01:18:47,372
+Svi su mrtvi.
+
+925
+01:18:48,297 --> 01:18:51,892
+- Samo sam ja ostao.
+- Stani i sluöaj.
+
+926
+01:18:52,857 --> 01:18:54,210
+Gotovo je.
+
+927
+01:18:54,417 --> 01:18:56,647
+Ne znam öta se
+veËeras dogodilo. . .
+
+928
+01:18:57,897 --> 01:19:00,809
+. . .ali doöao si predaleko
+da odustaneö.
+
+929
+01:19:02,097 --> 01:19:05,169
+ObaviÊeö zadatak.
+
+930
+01:19:05,617 --> 01:19:06,891
+Ne mogu.
+
+931
+01:19:07,098 --> 01:19:11,137
+Burchenal se ûrtvovao za tebe.
+Nemoj da bude uzalud.
+
+932
+01:19:11,778 --> 01:19:15,054
+Ustani i poËni hodati.
+
+933
+01:19:17,458 --> 01:19:20,097
+Ako ne moûeö za njega...
+
+934
+01:19:21,138 --> 01:19:22,412
+Ne mogu.
+
+935
+01:19:24,658 --> 01:19:26,091
+UËini to za mene.
+
+936
+01:19:28,018 --> 01:19:29,610
+Moraö nastaviti.
+
+937
+01:19:29,818 --> 01:19:31,046
+Dobro.
+
+938
+01:19:58,779 --> 01:20:02,409
+55 minuta do napuötanja orbite.
+
+939
+01:20:08,980 --> 01:20:11,369
+- Vreme?
+- 52 minuta.
+
+940
+01:20:11,940 --> 01:20:12,929
+Trebao sam stiÊi.
+
+941
+01:20:14,100 --> 01:20:15,089
+Joö malo.
+
+942
+01:20:15,620 --> 01:20:17,611
+Moûda sam se
+loöe orijentisao.
+
+943
+01:20:18,060 --> 01:20:20,130
+- Idem u pogreönom smeru.
+- Veruj mi.
+
+944
+01:20:22,660 --> 01:20:25,459
+- Moûda sam ga proöao.
+- ∆uti i idi dalje.
+
+945
+01:20:43,341 --> 01:20:44,694
+Pronaöao sam ga.
+
+946
+01:20:56,982 --> 01:20:59,701
+äta sad?
+
+947
+01:20:59,902 --> 01:21:01,813
+Baci sud
+za uzorke.
+
+948
+01:21:13,102 --> 01:21:14,899
+äta dalje?
+
+949
+01:21:15,622 --> 01:21:18,421
+Potraûi IC ulaz za odrûavanje.
+OznaËen je.
+
+950
+01:21:19,863 --> 01:21:21,615
+OznaËen.
+
+951
+01:21:21,943 --> 01:21:23,376
+Na ruskom.
+
+952
+01:21:26,423 --> 01:21:27,378
+Dobro.
+
+953
+01:21:27,863 --> 01:21:29,137
+Pronaöao sam.
+
+954
+01:21:29,463 --> 01:21:30,452
+äta sad?
+
+955
+01:21:30,703 --> 01:21:32,773
+Spoji radio s Kosmosom.
+
+956
+01:21:33,303 --> 01:21:35,897
+Ostalo Êu ti
+poslati modemom.
+
+957
+01:21:48,304 --> 01:21:49,259
+Joö radi.
+
+958
+01:21:57,744 --> 01:21:58,574
+Daj.
+
+959
+01:22:04,304 --> 01:22:06,420
+Sad obavi dijagnostiku.
+
+960
+01:22:16,705 --> 01:22:17,933
+Sve je zeleno.
+
+961
+01:22:18,145 --> 01:22:20,784
+Ima samo
+''ukljuËeno'' i ''iskljuËeno'' .
+
+962
+01:22:21,905 --> 01:22:24,100
+''UkljuËeno'' ga
+vraÊa na Zemlju.
+
+963
+01:22:24,305 --> 01:22:26,819
+Loöe, jer nemaö vazduha,
+hrane ni vode.
+
+964
+01:22:27,025 --> 01:22:31,018
+Treba ti snaga za orbitu.
+PreraËunala sam ti.
+
+965
+01:22:31,225 --> 01:22:35,424
+Izbaci 2 I iz svakog
+spremnika. Pumpom.
+
+966
+01:22:37,266 --> 01:22:38,904
+Rusi nisu mogli
+staviti pokazivaË?
+
+967
+01:22:39,546 --> 01:22:42,583
+Uskoro Êe se veze prekinuti.
+Joö 49 min.
+
+968
+01:22:42,786 --> 01:22:44,663
+∆uti i radi.
+
+969
+01:22:54,626 --> 01:22:56,344
+äta sad?
+
+970
+01:22:56,586 --> 01:22:59,544
+Provera. Ne diraj
+gde piöe ''paljenje'' .
+
+971
+01:23:22,027 --> 01:23:23,540
+Akumulator
+je crko.
+
+972
+01:23:28,828 --> 01:23:30,819
+Nedovoljno snage.
+
+973
+01:23:32,868 --> 01:23:34,267
+Nema snage.
+
+974
+01:23:34,628 --> 01:23:37,461
+- Postoji li joö neöto?
+- Ne znam.
+
+975
+01:23:37,708 --> 01:23:41,098
+PogledaÊu. Moûda
+naem izvor struje.
+
+976
+01:23:41,308 --> 01:23:42,457
+Nema.
+
+977
+01:23:43,068 --> 01:23:44,581
+Samo stene.
+
+978
+01:23:51,068 --> 01:23:53,264
+UmreÊu na
+ovoj planeti.
+
+979
+01:23:53,989 --> 01:23:56,981
+OstaÊu tu i
+smisliÊemo neöto.
+
+980
+01:23:57,189 --> 01:23:59,749
+PotroöiÊeö gorivo
+da ostaneö u orbiti.
+
+981
+01:24:01,469 --> 01:24:02,902
+Moraö krenuti.
+
+982
+01:24:09,309 --> 01:24:10,662
+Koliko ima
+do prekida?
+
+983
+01:24:12,229 --> 01:24:13,457
+Oko minut.
+
+984
+01:24:14,109 --> 01:24:17,146
+Neöto ti moram reÊi.
+
+985
+01:24:17,669 --> 01:24:19,102
+Na Marsu
+ima ûivota.
+
+986
+01:24:19,670 --> 01:24:23,060
+Nisu shvatili odakle,
+ali pojeli su alge.
+
+987
+01:24:23,870 --> 01:24:25,462
+I naseobinu.
+
+988
+01:24:26,750 --> 01:24:27,944
+Bitno je...
+
+989
+01:24:28,630 --> 01:24:31,827
+. . .da stvaraju kiseonik.
+
+990
+01:24:32,030 --> 01:24:33,622
+Ne znam kako.
+
+991
+01:24:34,750 --> 01:24:38,060
+Ali Burchenal reËe da
+bi mogli spasiti Zemlju.
+
+992
+01:24:38,270 --> 01:24:42,707
+Poöalji brzo nekoga.
+Samo neka se Ëuvaju.
+
+993
+01:24:46,231 --> 01:24:47,823
+Jedu sve.
+
+994
+01:24:50,791 --> 01:24:52,941
+30 sekundi.
+
+995
+01:24:55,071 --> 01:24:57,824
+To je sve.
+
+996
+01:24:59,351 --> 01:25:01,103
+Zaista mrzim
+ovu planetu.
+
+997
+01:25:03,591 --> 01:25:05,263
+Nedostaje mi Zemlja.
+
+998
+01:25:07,711 --> 01:25:09,588
+Nedostaje mi
+mnogo stvari.
+
+999
+01:25:17,272 --> 01:25:18,705
+NedostajaÊeö mi ti.
+
+1000
+01:25:25,112 --> 01:25:26,750
+NeÊeö niöta reÊi?
+
+1001
+01:25:35,352 --> 01:25:37,104
+Trebao sam
+te poljubiti.
+
+1002
+01:25:40,313 --> 01:25:42,429
+Da, trebao si.
+
+1003
+01:25:49,673 --> 01:25:52,141
+Veza izgubljena.
+
+1004
+01:26:05,314 --> 01:26:06,747
+Zbogom.
+
+1005
+01:27:03,116 --> 01:27:05,869
+Alternativni izvor energije.
+
+1006
+01:27:07,156 --> 01:27:08,794
+Doi po mene.
+
+1007
+01:27:10,476 --> 01:27:12,671
+UkraöÊu ti baterije.
+
+1008
+01:29:35,082 --> 01:29:36,481
+'–enja, duöo.
+
+1009
+01:30:11,283 --> 01:30:13,080
+UKLJU»UJEM
+SAMOUNIäTENJE
+
+1010
+01:30:48,764 --> 01:30:50,357
+Idem kuÊi.
+
+1011
+01:31:06,125 --> 01:31:07,717
+Jebeö ovu planetu.
+
+1012
+01:31:07,925 --> 01:31:09,802
+Zalihe kiseonika niske.
+
+1013
+01:31:55,487 --> 01:31:57,478
+Pozor!
+Predmet na putu.
+
+1014
+01:31:57,687 --> 01:31:59,359
+Boûe! Gallagher!
+
+1015
+01:32:01,087 --> 01:32:02,076
+Prekini!
+
+1016
+01:32:02,327 --> 01:32:05,125
+Preusmeri manevre.
+Treba mi nagib!
+
+1017
+01:32:05,847 --> 01:32:07,281
+Izbacuj
+po 10 mm!
+
+1018
+01:32:40,129 --> 01:32:41,881
+Zatvori ovaj nivo.
+
+1019
+01:32:43,129 --> 01:32:44,528
+Zatvoreno.
+
+1020
+01:32:48,329 --> 01:32:49,239
+Otvori hangar.
+
+1021
+01:33:05,890 --> 01:33:08,404
+Cilj na 0,3 km.
+
+1022
+01:33:08,610 --> 01:33:11,602
+Imamo samo 5 min
+do izlaska iz orbite.
+
+1023
+01:33:11,810 --> 01:33:13,687
+ZakaËi me!
+
+1024
+01:33:15,930 --> 01:33:17,966
+Otpusti!
+Punom brzinom!
+
+1025
+01:33:41,571 --> 01:33:42,526
+Gallagheru!
+
+1026
+01:33:52,612 --> 01:33:54,091
+Uvuci.
+
+1027
+01:34:10,532 --> 01:34:12,363
+Po 90 mm!
+
+1028
+01:34:32,493 --> 01:34:35,371
+Zatvaraj!
+Hitno atmosferu!
+
+1029
+01:34:38,293 --> 01:34:40,204
+Atmosfera obnovljena.
+
+1030
+01:34:59,334 --> 01:35:00,653
+Spajam s raËunarom.
+
+1031
+01:35:00,854 --> 01:35:02,731
+Ne daje
+znakove ûivota.
+
+1032
+01:35:02,934 --> 01:35:05,209
+Sken pokazuje zastoj srca.
+
+1033
+01:35:25,215 --> 01:35:26,409
+Daj!
+
+1034
+01:35:31,335 --> 01:35:32,893
+Daj!
+
+1035
+01:35:38,216 --> 01:35:39,934
+Uspravite ga.
+
+1036
+01:35:40,136 --> 01:35:41,364
+Daj.
+
+1037
+01:36:02,457 --> 01:36:03,810
+»oveËe!
+
+1038
+01:36:05,497 --> 01:36:07,328
+Video sam Elvisa.
+
+1039
+01:36:15,057 --> 01:36:16,934
+KuÊi, Lucille.
+
+1040
+01:36:32,178 --> 01:36:35,375
+Skeniram organizam.
+Mapiram DNK.
+
+1041
+01:36:37,218 --> 01:36:39,527
+Ko bi rekao da
+su dobri momci.
+
+1042
+01:36:40,218 --> 01:36:42,209
+Misliö da je vredelo?
+
+1043
+01:36:44,298 --> 01:36:46,050
+Hjuston tako misli.
+
+1044
+01:36:46,258 --> 01:36:49,489
+Na Zemlji si junak.
+
+1045
+01:36:50,618 --> 01:36:53,372
+Tajanstveni su
+putevi Gospodnji.
+
+1046
+01:36:56,219 --> 01:36:57,732
+Uspomena?
+
+1047
+01:36:59,299 --> 01:37:01,893
+Za Chantilasovu unuku.
+
+1048
+01:37:05,979 --> 01:37:07,571
+Imao je vere.
+
+1049
+01:37:18,699 --> 01:37:21,772
+Nisam mislila da si takav.
+
+1050
+01:37:32,380 --> 01:37:34,940
+Niöta nije proölo
+kao öto je trebalo.
+
+1051
+01:37:35,260 --> 01:37:39,219
+Ali ekipa, najbolje i
+najgore od ËoveËanstva...
+
+1052
+01:37:39,420 --> 01:37:41,297
+...obavila je zadatak.
+
+1053
+01:37:43,980 --> 01:37:48,736
+Moûda je Chantilas pogodio.
+Moûda nije sve u nauci.
+
+1054
+01:37:48,981 --> 01:37:50,414
+Zaista ne znam.
+
+1055
+01:37:50,661 --> 01:37:53,733
+Ali kakve god sile delovale,
+pobedili smo.
+
+1056
+01:37:54,861 --> 01:37:58,137
+A ja? Imam 6 meseci
+do povratka kuÊi.
+
+1057
+01:37:58,341 --> 01:38:00,093
+»ini se da Êu
+upoznati istraûivaËa.
+
+1058
+01:38:06,094 --> 01:38:12,094
+Obrada titlova:
+J. éeljko
+
+1059
+01:38:13,305 --> 01:39:13,804
+–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org

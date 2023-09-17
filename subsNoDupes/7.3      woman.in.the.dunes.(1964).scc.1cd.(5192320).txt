@@ -1,0 +1,661 @@
+{1}{1}23.976
+{26}{176}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{8308}{8380}Ovo je uûasno.
+{9002}{9044}Istraûujeö neöto?
+{9086}{9124}Istraûujem?
+{9181}{9287}Ne. Da li ovde iko|iöta Istraûuje?
+{9291}{9371}Ne. Sve dok ti niöta|ne Istraûujeö.
+{9440}{9495}Ja skupljam insekte.
+{9507}{9539}äta?
+{9542}{9607}Bube. Skupljam bube.
+{9611}{9704}Moja specijalnost su|peöËane bube.
+{9732}{9805}Onda ne radiö za vladu.
+{9810}{9849}Vladu?
+{9852}{9927}Ne! Ja sam nastavnik.
+{9967}{10025}Nastavnik?
+{10050}{10087}Dobro.
+{12001}{12110}{Y:i}Potrebno mi je mnogo potvrda:
+{12123}{12207}{Y:i}ugovora, dozvola|identifikacija, odobrenja...
+{12211}{12296}{Y:i}zahteva, uverenja,  molbi...
+{12315}{12408}{Y:i}sindikalnih knjiûica, svedoËanstava,|raËuna, izvoda,
+{12411}{12525}{Y:i}privremenih odobrenja, ovlaöÊenja,|overa.
+{12672}{12761}{Y:i}Joö neöto?
+{12806}{12885}{Y:i}Da li sam neöto zaboravio?
+{12962}{13151}{Y:i}Muökarci i ûene su stalno|u strahu da neöto ne pogreöe.
+{13163}{13258}{Y:i}Da bi bili na sigurnoj strani|oni izmiöljaju nove strane.
+{13286}{13372}{Y:i}Niko ne zna öta Êe|biti na kraju.
+{13387}{13460}{Y:i}Za njih kraj ne postoji.
+{13489}{13570}{Y:i}ReÊiÊete da preterano zakeram.
+{13577}{13640}{Y:i}Ne zakeram ja,|veÊ Ëinjenice.
+{13721}{13742}Gospodine.
+{13834}{13874}äta Êete sad?
+{13889}{13985}äta Êu? Planiram da|odem odavde.
+{14032}{14100}Poslednji autobus|je otiöao.
+{14157}{14197}U pravu ste.
+{14213}{14280}Sigurno postoji neko mesto|gde mogu da prespavam.
+{14293}{14339}U ovom selu?
+{14405}{14492}Moûda ne tu,|ali negde pored autoputa.
+{14514}{14555}Peöke Êete?
+{14558}{14616}Ne ûurim nigde.
+{14641}{14684}Ne morate da idete daleko.
+{14687}{14783}Ako hoÊete|mogu ja da se raspitam.
+{14797}{14901}Selo je siromaöno, kao öto vidite,|ali se nadam da vam to ne smeta.
+{14905}{15027}Naravno da ne. Zahvaljujem se.
+{15030}{15160}Moram dobro da se odmorim do sutra.|A i volim da boravim u privatnim kuÊama.
+{15176}{15196}Molim vas.
+{16166}{16249}Oprezno. Sa obe strane|ima velikih rupa.
+{16615}{16737}'ej, öta radite?|Dovodimo vam gosta!
+{16779}{16852}Tu, pored su vam merdevine.
+{16891}{16918}Sve u redu?
+{16921}{16990}To je velika kuÊa.
+{17010}{17035}Onda...
+{17120}{17143}Lestve od konopa?
+{17161}{17291}Mi smo u provinciji...|Tako je to kod nas.
+{17335}{17394}BiÊe to prava avantura.
+{17397}{17458}Samo se drûite Ëvrsto.
+{17462}{17510}Ne ispuötajte kanap.
+{17520}{17584}Ne gledajte gore...|UpaöÊe vam pesak u oËi.
+{18835}{18895}Ovuda, molim vas.
+{19337}{19373}Izvolite.
+{19386}{19431}Samo da se raskomotim.
+{19985}{20040}NapraviÊu vam veËeru.
+{20044}{20079}Hvala.
+{20093}{20168}Ako je moguÊe,|prvo bih se okupao.
+{20172}{20227}Da, ali...
+{20237}{20279}Nem veze, nemojte se muËiti.
+{20282}{20348}éao mi je. Tek preksutra.
+{20351}{20452}Preksutra? Plaöim se da|neÊu biti ovde.
+{20457}{20508}Imam samo tri|slobodna dana.
+{20511}{20551}éao mi je.
+{21711}{21748}Samo jedna lampa?
+{21755}{21829}Tako je. Ja Êu brzo zavröiti.
+{21847}{21913}Nezgodno je bez struje.
+{22199}{22218}Izvolite.
+{22222}{22250}Hvala.
+{22344}{22411}Rak i deverika? Izgleda odliËno.
+{22422}{22509}DomaÊi proizvodi su najbolji.
+{22582}{22603}äta Êe nam to?
+{22607}{22666}Upada pesak.
+{22675}{22694}Zaöto?
+{22786}{22829}Krov propuöta?
+{22832}{22934}Ne, isto je i sa sasvim|novim krovovima.
+{22953}{22987}Zaöto?
+{23009}{23095}Pada zbog drvoglodaca.
+{23135}{23175}Drvoglodaca?
+{23199}{23290}Da, oni prave rupe u drvetu.
+{23309}{23382}Mislite na termite?
+{23391}{23478}Ne, ovi su ovoliki| imaju tvrdu ljuöturu.
+{23522}{23592}Bube testere?
+{23768}{23863}Crvenkaste sa dugaËkim pipcima?
+{23869}{23984}Ne, beliËaste su kao|zrno pirinËa.
+{24008}{24095}Drvoglodci, znaËi?
+{24146}{24294}Ovoliki balvani omeköaju,|postanu sunerasti i istrule.
+{24326}{24354}Glodci?
+{24357}{24430}Ne, pesak.
+{24506}{24549}Pesak? Kako?
+{24558}{24630}Vlaga, pretpostavljam
+{24658}{24693}Teöko.
+{24715}{24790}Pesak je prirodno suv.
+{24793}{24859}Ali, od njega stvari trunu.
+{24901}{24996}Ne öalite se.|Razmislite malo!
+{25110}{25222}Pesak je suv|i sve pretvara u pustinju.
+{25275}{25357}Nikad nisam Ëuo za|vlaûnu pustinju. A vi?
+{25360}{25428}Molim vas, malo Ëaja.
+{26029}{26104}Ali, ipak sve trune.
+{26254}{26399}Ako pesak padne na klompe|ona istrule za 15 dana.
+{26570}{26621}To je smeöno.
+{26649}{26735}Drvo trune,|i pesak trune.
+{26748}{26917}Zemlja koja curi kroz plafona je tako bogata|da bi u njoj i krastavci nikli.
+{26962}{27037}Zaboravite, nije ni vaûno.
+{27399}{27418}HoÊete joö?
+{27422}{27463}Ne, hvala.
+{27554}{27596}Mnogo vam hvala.
+{27855}{27905}Ovo je uûasno!
+{27956}{28011}Kad duva vetar...
+{28032}{28122}...pesak napravi gomilu od 30-ak cm|za samo jenu noÊ.
+{28954}{29037}Vidite, Ëak je i posteljina vlaûna.
+{29070}{29097}Gde su ostali?
+{29166}{29213}Imate li porodicu?
+{29218}{29282}Sama sam.
+{29466}{29601}Proöle godine, muûa i dete|mi je progutala oluja.
+{29613}{29654}Progutala?
+{29659}{29818}Pesak se obruöio|kao vodopad.
+{29846}{29941}Kokoöinjac je bio u opasnosti.|Izaöli su napolje i...
+{29970}{30017}Sahranjeni?
+{30061}{30117}Uûasan vetar.
+{30221}{30270}To je grozno.
+{30302}{30361}Stvarno grozno.
+{30595}{30637}Takav je pesak.
+{31035}{31076}Istraûujete neöto?
+{31102}{31130}Da.
+{31150}{31271}O, da, da li ste ikad videli|ovakvog insekta?
+{31318}{31377}Buba plik.
+{31416}{31451}Evo je.
+{31523}{31604}Pokuöavam da je|pronaem ovde.
+{31614}{31677}Ima ih viöe vrsta.
+{31683}{31792}Ako pronaem novu vrstu|moûda se bude zvala po meni.
+{31817}{31921}To je najviöe öto|mogu da uradim.
+{32054}{32152}Alo, donesi nam pomoÊnikov alat!
+{32254}{32319}Ipak je neko doöao.
+{32335}{32386}To je dobra vest.
+{32396}{32472}Ali, rekao je|'pomoÊnikov', zar ne?
+{32475}{32540}Mislio je na vas.
+{32543}{32584}Mene? Zaöto?
+{32587}{32646}Molim vas, ne razbijajte|glavu time.
+{32655}{32709}Nije pogreöio?
+{32733}{32801}Treba vam joö lampa?
+{32809}{32870}Pa, ne bi mi loöe doöla,|naravno.
+{32897}{32980}U redu je.|navikla sam ja da radim.
+{33390}{33441}Ala je ovo prljavo.
+{36632}{36666}Nemojte.
+{37348}{37383}Treba li vam pomoÊ?
+{37387}{37451}Ne, ne odmah, prvog dana.
+{37454}{37514}Prvog dana? Opet vi!
+{37534}{37594}Ja ostajem ovde|samo preko noÊi.
+{37686}{37727}Uvek radite noÊu?
+{37731}{37863}Da, pesak je vlaûan|i laköe je za rad.
+{38001}{38040}Doöli smo po slamu!
+{38044}{38082}Dobro! Hvala!
+{38542}{38576}PomoÊiÊu vam.
+{38886}{38914}Vuci!
+{39735}{39766}Dobro!
+{39989}{40047}Nije ni njima lako.
+{40068}{40182}Svi ovde smo|jaki duhom.
+{40186}{40232}Kako mislite 'jaki duhom'?
+{40264}{40321}Volimo svoju rodnu grudu.
+{40372}{40447}Stvarno? To je divno.
+{40600}{40644}I, dokle radite?
+{40647}{40680}Do jutra.
+{40745}{40828}Pesak ne Ëeka.
+{40835}{40869}Vuci.
+{41594}{41650}Kakva je ovo olupina?
+{45086}{45114}Jao!
+{48057}{48146}äta je sad ovo? Gde su merdevine?
+{50265}{50297}Gospoo.
+{50357}{50391}Probudite se, molim vas.
+{50731}{50874}Izvinite, ali gde su merdevine?|Nestale su.
+{51044}{51102}Voleo bih da krenem.
+{51112}{51197}Imam samo tri slobodna dana.|Ne smem da ih protraÊim.
+{51277}{51312}Gde su?
+{51358}{51442}Moram da ih naem!
+{51461}{51531}Ne mogu da ih|okaËim odole!
+{51663}{51726}Svi ste se vi zajedno zaverili!
+{52486}{52532}éao mi je.
+{52546}{52624}éao? Kako to mislite?
+{52745}{52800}Pitao sam, kako to mislite?
+{52814}{52854}éao mi je.
+{52867}{52924}To nije dovoljno!
+{52927}{53019}Ja imam posao!|Vreme mi je veoma bitno.
+{53050}{53122}Ali, vi shvatate,|zar ne?
+{53125}{53214}Shvatam? äta shvatam?
+{53293}{53455}éivot je ovde preteûak|za usamljenu ûenu.
+{53465}{53508}Kakve to veze ima sa mnom?
+{53597}{53735}Uskoro Êe vetar dunuti,|biÊe i opasnih peöËanih oluja.
+{53789}{53843}Ja sam vaö zatvorenik?
+{53851}{53881}éao mi je!
+{53885}{54003}Ne öalite se!|Ja nisam beskuÊnik!
+{54007}{54100}Ja imam posao!|Ja imam poznanike.
+{54123}{54198}äta kad neko bude|poËeo da me traûi?
+{54202}{54254}Nezakonito pritvaranje|je zloËin.
+{54634}{54770}Ako ne budem dovoljno brza|moju kuÊu Êe prekriti pesak.
+{54787}{54831}Ostavite to!
+{54848}{54903}Zaöto baö ja?
+{55020}{55102}KuÊa u dvoriötu bi|mogla biti u opasnosti.
+{55105}{55184}Neka je onda|pesak zatrpa!
+{55188}{55228}Kako moûete?
+{55287}{55412}Zaöto morate da ostanete|u ovoj nedoiji?
+{55416}{55472}Mora da ste poludeli!
+{55656}{55811}Nemate nikakvog razloga|da budete lojalni seljanima!
+{55818}{55890}Ja ne mogu viöe|ovako dalje.
+{55893}{56027}Ako se boje peska|nek to nekako reöe!
+{56030}{56146}SmisliÊe veÊ neöto|a tako je i jeftinije,
+{56189}{56303}Nije vaûno.|Pozovite mi glavnog.
+{56306}{56378}ObjasniÊu mu|koliko je sve ovo glupo!
+{56440}{56483}Poûurite.
+{56504}{56587}Zar ne postoji nikakav|naËin da ih pozovete...
+{56609}{56675}...lupanje konzervama, na primer?
+{56802}{56840}Recite neöto.
+{58020}{58183}Ne traûim nemoguÊe.|Nisam protiv prirodnih zakona.
+{62534}{62603}Jeste li budni, gospodine?
+{63197}{63248}Kako ste?
+{63260}{63326}Ne mnogo loöe.
+{63336}{63379}OpraÊu vas.
+{64121}{64165}Stanite! To boli!
+{64171}{64198}Boli?
+{64201}{64236}Da!
+{64425}{64445}Jeste li za masaûu?
+{64461}{64538}äalite se?|Ruka mi je, verovatno, polomljena.
+{64541}{64620}Kad ste tako ljubazni,|pozovite mi doktora!
+{64832}{64871}Donji veö mi je joö uvek mokar.
+{64874}{64954}Najbolje je ne nositi niöta|u krevetu... biti go.
+{64957}{64984}Zaöto?
+{65009}{65063}Od peska se dobija osip.
+{65123}{65194}Pesak privlaËi vlagu.
+{65717}{65792}Ne govorite!|Budite mirni!
+{66646}{66704}Samo polako.
+{66717}{66836}Prevarili smo jedno drugo.|Zasluûili ste ovo.
+{66901}{66972}Muökarci nisu psi.
+{66991}{67081}Ne moûete ih|vezivati kao pse.
+{68340}{68402}Hej, öta se deöava?
+{68416}{68471}Poûurite!
+{68474}{68512}»ekamo.
+{68584}{68650}Vucite! Ja ne puötam korpu!
+{68667}{68703}Ona je vezana!
+{68707}{68769}Ako ûelite da joj pomognete,|izvucite me gore!
+{70419}{70451}Ne!
+{70485}{70539}Joö nisu pobedili!
+{70550}{70608}Borba je tek poËela.
+{70629}{70710}Oni su u nevolji a ne ja.
+{71802}{71867}Nema razloga za strah.
+{71884}{71967}Ja sam u prednosti.
+{71988}{72059}Imam iskustva,|samo treba da razmislim
+{72063}{72163}Moûda napiöem i knjigu|kad se vratim kuÊi.
+{73882}{73944}To je sake.
+{74000}{74139}Vidite, dali su nam sake|da proslavimo unapred.
+{74291}{74364}Drûavni udar?
+{74404}{74461}Niöta viöe nije isto.
+{74549}{74592}Cigaretu?
+{74596}{74714}Ne. Od puöenja oûednim.
+{74718}{74747}Vode, onda?
+{74750}{74797}Ne joö.
+{74825}{74860}Ne stidite se.
+{74900}{74997}Ja ne radim ovo iz pakosti.
+{75032}{75059}Boli li?
+{75131}{75270}Moramo biti paûljivi.|Sledovanje dolazi samo jednom nedeljno.
+{75307}{75331}Sledovanje?
+{75340}{75513}Da, samo ako je je muökarac u kuÊi.|Seoski savet ga plaÊa.
+{75741}{75827}Recite mi neöto.
+{75848}{75920}Da li je ovde bilo|muökaraca kao öto sam ja?
+{75948}{76037}Ovde je potrebno|mnogo ruku.
+{76048}{76095}Kakvih sve muökaraca?
+{76112}{76151}Da vidim...
+{76155}{76267}Poslednji put, prodavac razglednica.
+{76298}{76404}Radio je za kompaniju|koja je ötampala turistiËke vodiËe.
+{76428}{76460}Joö neki?
+{76476}{76559}Da, ove godine...
+{76588}{76690}Student koji je|doöao ovde da neöto meri.
+{76736}{76828}Tri kuÊe  niûe...|Joö je tamo.
+{76895}{76969}Sklonili ste mu merdevine?
+{77049}{77152}MladiÊi ne ûele da ostanu.
+{77279}{77360}Bolje su plaÊeni|u gradu.
+{77390}{77521}Cele godine rade|bioskopi i restorani.
+{77524}{77565}Vi ste öaöavi!
+{77688}{77743}äta je bilo? Boli vas neöto?
+{77763}{77886}HoÊete da me poËeöete|iza desnog uha?
+{78171}{78206}Ovako?
+{79197}{79297}Gospodine, molim vas|malo vode?
+{79394}{79496}Vode! Molim vas!
+{79922}{79991}Samo nam je ovo preostalo.|Kad dobijamo sledeÊe sledovanje?
+{80068}{80145}Dosta? Nemojte toliko!
+{80422}{80489}Tiöina! Nervirate me!
+{80755}{80792}HoÊete da vas odveûem?
+{80862}{80963}Ovo ne radim zato|öto mi se sviate.
+{80966}{81057}Samo ne mogu da gledam viöe|vaöe paÊeniËko lice.
+{81060}{81112}Ali, pod jednim uslovom.
+{81120}{81238}NeÊete ni pipnuti lopat|dok vam ja ne dozvolim.
+{81251}{81380}Da, obeÊavam.|ObeÊeÊu vam bilo öta!
+{81828}{81893}Ako ja patim,|i vi patite.
+{81917}{81987}Zato vodite raËuna|öta radite.
+{82192}{82229}Gde Êete?
+{85803}{85859}Zar se niöta ne moûe uraditi?
+{85890}{86047}Dve noÊi nismo|skidali pesak sa krova.
+{86050}{86120}Voda! Pitam za vodu!
+{86140}{86289}Zar nisi ûedna? Ja sam tebi pomogao!|Zaöto neÊeö da saraujeö?
+{86305}{86444}Ako bismo sad poËeli|da radimo...
+{86451}{86482}Prestanite sa tim öalama!
+{86489}{86574}Ko ima pravo da me natera|na neöto ovako?
+{86689}{86771}Postoji neöto öto se zove|pravi Ëovek za pravi posao.
+{86860}{86974}Ja sam nastavnik,|meni je potrebna ökola.
+{86993}{87093}Sigurno mogu da smisle neki bolji naËin|kako da me iskoriste.
+{87159}{87254}Na primer, mogli bismo...
+{87258}{87361}...da smislimo neöto da|iskoristimo snagu peska.
+{87394}{87499}Na kraju krajeva, zbog|peska sam i doöao ovamo.
+{87543}{87591}Ozbiljno to mislim.
+{87626}{87774}Zato je, verovatno, i prodavac|razglednica zabasao ovamo.
+{87796}{87913}Trebalo bi da se reklamirate i|razvijate kao nova turistiËka zona.
+{87951}{88040}UËinite da pesak radi za vas|a ne protiv vas.
+{88059}{88231}Ali, za turistiËki kraj|dobro bi nam doöao termalni izvor.
+{88262}{88386}Pa, to je samo jedna od|moguÊnosti, naravno.
+{88465}{88618}Na pesku moûe poneöto|i da se uzgaja.
+{88624}{88741}Udruûenje Mladih Gorana|je neöto pokuöavalo.
+{88751}{88843}Sadili su ovde|kikiriki i lale.
+{88856}{88906}PriËa se da su cvetovi lala...
+{88916}{89059}..bili toliko veliki da su ih prikazivali|na poljoprivrenom sajmu u Tokiju!
+{89062}{89090}Moûda ste videli...
+{89094}{89125}Dosta!
+{89227}{89328}Ovo bi Ëak i majmun mogao|da nauËi da radi.
+{89357}{89436}Majmun?
+{90182}{90229}Ne valja vam to.
+{90601}{90655}Izgore mi grlo.
+{91181}{91226}Nema svrhe.
+{91286}{91337}Ako tako odluËi....
+{91419}{91533}pesak je u stanju da proguta|gradove, Ëak i zemlje.
+{91654}{91705}Da li ste znali da su...
+{91708}{91765}...rimski gradovi po imenu Sabrata...
+{91784}{91854}...i joö jedan, zaboravio sam mu ime....
+{91882}{92038}...skroz zatrpani Ëesticima|preËnika manjih od 2 milimetra.
+{92111}{92171}Protiv toga se|ne moûe boriti!
+{92181}{92228}Beznadeûno je!
+{92422}{92460}Nemojte!
+{92533}{92568}Ne!
+{92600}{92644}NapraviÊu lestvice.
+{92666}{92714}Ne radite to!
+{95261}{95338}HoÊete da vas oËistim?
+{95392}{95572}Zar nisu sve ûene u gradu prelepe?
+{95588}{95620}Gluposti.
+{95715}{95753}Dajte, ja Êu.
+{103794}{103835}Do avola!
+{103921}{103981}Krv Êe mi se zagaditi!
+{106034}{106104}Kako je ovo podmuklo!
+{106313}{106361}äta da radim?
+{106377}{106485}Uradite neöto, krv Êe mi se zagaditi!
+{106497}{106631}Pa, ako bismo sad poËeli da...
+{106653}{106818}U redu, predajem se.|Pobedili ste.
+{109527}{109673}äta je bilo, gospodine?|Stiûe voda!
+{110254}{110289}Samo polako.
+{111285}{111390}Drûite levu ruku malo niûe.|Pokuöavajte da koristite desnu ruku...
+{111393}{111482}...tako Êete se manje umarati.
+{111545}{111586}Nenaspavan sam.
+{111847}{111945}Odmorite se malo.|Joö se niste navikli.
+{111958}{112113}OseÊam se kao da su mi|vene pune cementa.
+{112113}{112183}Veoma ste se umorili.
+{112186}{112300}HoÊu li se ikad naviÊi?
+{112313}{112361}HoÊete.
+{112405}{112446}Nisam siguran.
+{112478}{112573}Zar ne oseÊate da je|sve ovo besmisleno?
+{112583}{112697}Da li Ëistite pesak da bi ûiveli|li ûivite da bi Ëistili pesak?
+{112719}{112827}Naravno da ovde nije|tako zabavno kao u Tokiju.
+{112830}{112913}Ne radi se ovde o Tokiju!
+{113036}{113163}Kako moûete da ûivite|kao u klopci?
+{113176}{113246}Ali, ovo je moj dom.
+{113338}{113417}Onda se izborite za svoja prava.
+{113541}{113636}Meni je svejedno. IzdrûaÊu|dok ne odem?
+{113658}{113696}Ne odete?
+{113728}{113772}Naravno.
+{113776}{113871}Posle nedelju dana|neko Êe shvatiti da me nema.
+{113880}{114017}NaÊiÊe otvorenu knjigu|u mojoj sobi...
+{114020}{114099}...sitninu u mom dûepu.
+{114207}{114283}PoËeÊe da se|pitaju gde sam.
+{114286}{114363}Ali, za vas je to|ûivotni problem.
+{114394}{114499}Moja porodica je|ovde sahranjena.
+{114550}{114658}Da, moj muû i moja devojËica...
+{114673}{114707}Onda vi...?
+{114733}{114837}OtiÊiÊete ako i njih iskopate?
+{114847}{114961}Znate kako da ih naterate|da spuste merdevine.
+{114964}{115060}Za mene nema ûivota|van ovoga.
+{115063}{115117}Moûete da se smucate.
+{115123}{115167}Smucam?
+{115171}{115272}Da! Divno je|besciljno öetati.
+{115317}{115415}Zar se vi ne biste umorili|da se samo smucate naokolo?
+{115431}{115472}Nemojte da se öalite!
+{115472}{115551}»ak i psi polude|ako su stalno vezani.
+{115567}{115612}A mi smo ljudi!
+{115805}{115910}Da nema ovog peska...
+{115913}{115996}...niko ne bi obraÊao paûnju na mene.
+{116046}{116141}Zar nije tako?|»ak ni vi...
+{117750}{117791}Pogledajte, evo jedne.
+{117808}{117849}Prestanite!
+{117872}{117957}Zbog ove bube sam|i doöao ovamo.
+{117986}{118049}Vrsta bube tigra.
+{118281}{118313}Imate li makaze?
+{118322}{118357}Makaze?
+{118363}{118440}HoÊu malo da|skratim bradu.
+{118481}{118551}Mislim da imam negde.
+{118944}{118982}Nisu baö najoötrije.
+{118985}{119046}PriliËno su zarale.
+{119068}{119131}Od peska.
+{120273}{120305}Pokvarene su.
+{120308}{120337}Stvarno?
+{120340}{120384}Nema vajde.
+{120492}{120581}TraûiÊemo brijaË kad|donesu sledeÊe sledovanje.
+{120632}{120718}Vidite? Pesak u mojoj|bradi vas grebe.
+{120784}{120892}Stvarno! Taj pesak nije|ni za öta.
+{121263}{121333}Poûurite!
+{121336}{121384}Dobro! Hvala!
+{121419}{121470}Gde ti je ''muû''?
+{121473}{121533}Boli ga stomak.|Izgleda da se prehladio.
+{121536}{121606}äto ga onda ne ugrejeö?
+{123824}{123884}Kupate se danas?|Treba li vam pomoÊ?
+{123887}{123979}Ne mogu da se kupam.|Preumorna sam.
+{124039}{124090}Meni bi dobro doölo.
+{124097}{124160}Ne moûe. Bolesni ste.
+{124182}{124243}Sav sam lepljiv.
+{124271}{124360}Mora da mi je i krevet|skroz mokar.
+{124379}{124436}Mogla bih da|zagrejem vodu....
+{124439}{124471}Zajedno Êemo.|PomoÊiÊu vam.
+{124477}{124534}Ne treba, mogu i sama.
+{125378}{125413}O Ëemu razmiöljate?
+{125420}{125486}Niöta posebno.
+{125547}{125616}Dajte da vas slikam.|Stanite tu.
+{125626}{125658}Ne, nemojte.
+{125661}{125705}Tako.
+{125756}{125785}Nasmejte se.
+{126168}{126219}éelite li da idete kuÊi?
+{126222}{126251}Naravno.
+{126308}{126391}Radio bi vam dobro doöao.|-Zaöto?
+{126473}{126543}Mogli bi da Ëujete|öta ima novo.
+{126546}{126578}Bez veze.
+{126600}{126717}Onda biste znali|öta se dogaa u Tokiju.
+{126724}{126835}Tokijo mi je dosadio.|Zato sam i poËeo da skupljam insekte.
+{126866}{127031}éeleo sam da se moje|ime nae u svim knjigama o bubama.
+{127060}{127212}Ali, radio bi mogao|malo da vam skrene misli.
+{127311}{127352}U pravu ste.
+{127368}{127431}Jeste li za sake?
+{127434}{127495}Joö ste bolesni.
+{127498}{127533}San bi mi pomogao.
+{127542}{127637}Meni se spava,|iako nisam bolesna.
+{127663}{127720}Hajde, pravite mi druötvo.
+{127891}{127948}Ja ne pijem.
+{128117}{128186}Nije vaûno.|Mislim da Êe vam prijati.
+{128209}{128231}Izgleda da kljuËa.
+{128234}{128294}Doite.
+{128301}{128351}Ako baö moram.
+{128434}{128485}Sad, ispijte.
+{130829}{130902}Boûe, al' to prija.
+{130962}{131086}Sad ste naöli|kad sam ja preumorna.
+{147293}{147353}UpomoÊ!
+{147375}{147464}Pomozite mi!
+{147645}{147715}UpomoÊ!
+{147896}{147953}Uhvati ovo i ne puötaj!
+{148089}{148188}Molim vas, iöËupajte me odavde.
+{148192}{148287}äta si ti koren,|pa da te iöËupamo?
+{148319}{148423}IskopaÊemo te.|Uhvati se za to veslo.
+{148490}{148553}Dobro je da smo naiöli.
+{148566}{148709}Svuda okolo je ûivi pesak.|Ovde ni psi ne zalaze.
+{148725}{148820}Koliko ljudi je veÊ|upalo ovde?
+{148823}{148937}Stoperi ne znaju za ûivi pesak.
+{148940}{149045}Kad bismo kopali|verovatno bismo naöli neöto vredno.
+{149067}{149153}Bar dve, tri kamere, najmanje.
+{150860}{150901}Smirite se.
+{150933}{150974}Izvinite.
+{151165}{151218}Da skuvam Ëaj?
+{151253}{151288}Koliko je sati?
+{151304}{151418}Ne znam... oko 8:30?
+{151558}{151609}Nisam uspeo.
+{151612}{151640}Da.
+{151764}{151837}Apsolutni i totalni promaöaj.
+{151916}{151958}Da li imate...
+{152012}{152062}...ûenu?
+{152116}{152164}U Tokiju...
+{152186}{152246}To se vas ne tiËe.
+{152307}{152332}Ne.
+{152383}{152459}Ipak je öteta.
+{152503}{152659}Da sam uspeo, kupio bih radio|i poslao vam ga.
+{152668}{152710}Radio?
+{152719}{152764}Zar niste ûeleli radio?
+{152840}{152922}Jesam, ali ne morate|da se muËite zbog mene.
+{152967}{153040}Mogla bih da uradim posliÊ ili dva|i da ga kupim sama.
+{153113}{153173}Nisam uspeo.
+{153208}{153278}HoÊete da vas obriöem?
+{153354}{153427}Trebalo je da bolje|upoznam okolinu.
+{153693}{153763}Oni mi me uvek uhvate.
+{153792}{153931}Ali Êe me traûiti i prijatelji,|kolege sa posla...
+{153957}{154055}...Ministarstvo prosvete,|policija.
+{154096}{154163}NeÊe me prepustiti sudbini.
+{154207}{154267}Hajde. OpraÊu vas.
+{154775}{154801}äta je to?
+{154924}{154959}Moja nada.
+{155010}{155054}Zamka za vrane.
+{155181}{155254}Ovde sam stavio mamac.
+{155261}{155375}Kad doe vrana,|pesak Êe je progutati.
+{155391}{155464}Ali, vrane su|veoma pametne.
+{155476}{155540}Zaglupe se kad ogladne.
+{155686}{155768}Ali, kako je to vaöa nada?
+{155794}{155832}Tako.
+{155867}{155993}VezaÊu joj pismo u kome|traûim pomoÊ, za nogu.
+{156051}{156181}Niko neÊe doÊi.|Proölo je skoro tri meseca.
+{156216}{156247}Ko neÊe doÊi?
+{156260}{156314}Vaöi spasioci.
+{156530}{156622}Moûda misle da ste pobegli|od svega...
+{156742}{156809}Umorni od posla.
+{156856}{156898}Teöko.
+{156968}{157034}Ostavio sam svoju|ötednu kniûicu.
+{157056}{157142}Ostala mi je otvorena|na pisaÊem stolu.
+{157148}{157256}Neko Êe shvatiti.|Moja soba zove u pomoÊ.
+{157266}{157317}Kako je tamo?
+{157339}{157380}Gde?
+{157386}{157431}U Tokiju...
+{157447}{157510}Idite sami pa vidite!
+{157542}{157586}Dosta mi je!
+{157850}{157907}Vaöe sledovanje!
+{158018}{158094}Hej, Ëekajte! »ekajte.
+{158218}{158291}Podignite me malo gore.
+{158294}{158402}30 minuta, jednom dnevno,|samo da vidim more!
+{158490}{158563}ObeÊavam da neÊu pobeÊi.
+{158586}{158636}20 minuta! 10, moûda?
+{158646}{158770}Dobar sam veÊ tri meseca!|PoludeÊu!
+{158811}{158893}DogovoriÊemo se pa Êemo|ti javiti!
+{158916}{159004}Molim vas! Ne  morate me ostavljati samog.
+{161758}{161806}Naporno radite.
+{161819}{161898}Joö 20 i zaradiÊu 1.000 jena.
+{162659}{162691}Gluposti!
+{162913}{162993}NeÊu da umrem kao pas! NeÊu!
+{163768}{163857}Niöta od radija.|Joö malo pa Êete ostati bez pomoÊi.
+{163888}{163942}Kako oni mogu|da vam budu prijatelji?
+{163961}{164003}Znam ja takve.
+{164114}{164187}Svako je za sebe.
+{164202}{164313}A vi samo maöite repom|kao dobra kuca.
+{164329}{164412}Uskoro Êemo biti|prepuöteni sami sebi.
+{164415}{164497}Nije taËno!|Imamo pesak!
+{164501}{164653}Pesak? I, öta je tu dobro?|Pesak donosi samo nevolje.
+{164659}{164682}Moûe da se proda.
+{164685}{164707}Gde?
+{164710}{164758}U gradu.
+{164761}{164846}äalite se?|To je protivzakonito... kaûnjivo.
+{164859}{164945}Na crno... u pola cene.
+{164948}{165056}VIdeÊe oni kad ih proguta,|i brane, i zgrade.
+{165103}{165157}To nije moja stvar.
+{165221}{165351}Da, to je njihova stvar.
+{165367}{165462}Ali od tog posla neki|ljudi se bogate.
+{165465}{165525}Zaöto im pomagati?
+{165535}{165598}Sindikat kupuje i prodaje.
+{165614}{165725}Prema meni su dobri.
+{166043}{166109}Ja Êu pokupiti to.
+{166182}{166277}Kao graditi kuÊu na vodi.
+{166293}{166404}Brod bi bio bolji.
+{166420}{166487}Zaöto insistirati na kuÊi?
+{166515}{166626}Ali, i vi ûelite|da idete kuÊio?
+{166636}{166674}To je...
+{167213}{167261}»ak bi i laû mogla da pomogne.
+{167296}{167359}Moûda, sutra...
+{167382}{167489}Uvek postoji nada da bi|neöto moglo da se dogodi...
+{167559}{167734}Uplaöena sam svako jutro|kad krenem na spavanje.
+{167753}{167892}Plaöim se da Êu se|probuditi sasvim sama.
+{167924}{168019}Stvarno sam uplaöena.
+{168660}{168732}Stavite ih ovde.
+{169417}{169503}Naporno radite, gospodine?
+{169538}{169633}Rano je za odnoöenje.
+{169636}{169728}HoÊete da vidite more?
+{169766}{169862}Da. Molim vas.|HoÊete me pustiti?
+{169865}{169998}Mogli bismo da razmotrimo.
+{170001}{170160}Molim vas. NauËio sam lekciju.|Je l' u redu jedan sat?
+{170198}{170271}Prvo nam dokaûite.
+{170284}{170474}Uradite to tu ispred kuÊe, oboje,|da svi moûemo da vas vidimo?
+{170506}{170531}To?
+{170534}{170604}Da, to!
+{170652}{170734}Sa svojom starom damom.
+{170871}{170921}Sa damom!
+{171502}{171679}Pitao sam i ostale.|Svi su se sloûili.
+{171791}{171874}äta Ëekate?|Poûurite!
+{172657}{172680}äta Êemo da radimo?
+{172734}{172777}Ovo je smeöno!
+{172818}{172894}To mi je jedina öansa!
+{172927}{172974}Ne sluöajte ih.
+{173059}{173175}Moûda ne bi trebalo|da sve shvatamo tako ozbiljno.
+{173181}{173255}äta? Pa, mi nismo|perverzni!
+{176358}{176421}Izgleda da smo, ipak, svinje.
+{178184}{178269}Hajde! Samo se pretvarajte!
+{178453}{178501}Budalo! Budalo! Budalo!
+{179239}{179311}Budalo! Budalo! Budalo!
+{182132}{182180}äta je ovo?
+{182316}{182362}»udno.
+{182586}{182708}Nije pala ni kap kiöe|veÊ tri nedelje.
+{183532}{183592}Kapilarnost?
+{183626}{183672}To je to!
+{183995}{184092}To moûe znaËiti da Êemo|imati dovoljno vode.
+{186757}{186897}Povröinsko isparavanje se|ponaöa kao usisna pumpa.
+{186920}{186983}Pesak je pumpa.
+{187016}{187112}Kao da sedimo na pumpi.
+{187176}{187284}Verovatno mogu da smislim joö|efikasniji sistem skladiötenja vode.
+{188676}{188765}Grozno je.|Ne mogu ni da diöem.
+{188769}{188834}Joö malo pa Êe decembar.
+{190225}{190272}Opet?
+{190306}{190425}BiÊe hladno i biÊe nestaöica hrane.|Tada Êu laköe uhvatiti vranu.
+{190441}{190521}Stvarno, muökarci su...
+{190579}{190685}Moj red je da idem u lov.
+{190816}{190945}Da imamo radio sad bi mogli|da Ëujemo vremensku prognozu.
+{191540}{191574}Bojim se.
+{192107}{192176}Idem da zakopam ovo|dok voda ne prokljuËa.
+{193244}{193289}Joö malo!
+{193639}{193695}UpomoÊ.
+{193711}{193813}Neka neko doe!
+{194452}{194467}äta je sad?
+{194471}{194503}Ima bolove!
+{195042}{195077}Beba.
+{195096}{195128}Beba?
+{195240}{195271}Od kad?
+{195274}{195324}Od oktobra.
+{195434}{195468}Boli?
+{195472}{195505}Je l' ti muka?
+{195612}{195733}Moûda nije normalna trudnoÊa.
+{195736}{195770}Kako ti to znaö?
+{195788}{195875}Potkivao je konje|mesto veterinara!
+{195896}{195945}U svakom sluËaju|pozovite doktora.
+{195987}{196035}NeÊe stiÊi na vreme.
+{196052}{196103}Danaönji doktori...
+{196107}{196193}Nabavite kamionet.
+{196755}{196790}DoÊiÊe.
+{196928}{196966}Bojim se.
+{197109}{197231}Je l' vetar stao?
+{197247}{197331}Da, smirio se.
+{197546}{197576}Kako Êemo?
+{197590}{197627}Sa sve posteljinom.
+{197630}{197655}Hajde.
+{197998}{198045}Stavi dasku ispod.
+{198124}{198172}Radio.
+{198328}{198371}Radio.
+{198434}{198537}U zao Ëas. Da ga otvorim?
+{198822}{198861}HoÊete da ga uzmete?
+{198866}{198927}Uhvati za posteljinu.
+{199107}{199164}Imate li joö jednu dasku?
+{199198}{199265}Uzmite jednu sa|klupe iza kuÊe.
+{199618}{199676}Tamo ispod. Moûe ta.
+{200312}{200392}NeÊu da idem!
+{200481}{200554}Sluöajte, to je...
+{200613}{200660}Joö neöto?
+{200933}{201036}Ne, nije vaûno.
+{201486}{201539}NeÊu da idem.
+{201844}{201898}Vucite je gore!
+{201975}{202010}Ne.
+{202076}{202165}Ne... Ne...!
+{209655}{209755}{Y:i}Joö uvek nema razloga za ûurbu.
+{209790}{209966}{Y:i}Sad sam slobodan da radim|öta ja hoÊu.
+{210039}{210208}{Y:i}Jedino öto sad ûelim je|da nekom ispriËam za cisternu.
+{210213}{210338}{Y:i}Najbolje bi bilo da|to ispriËam seljanima.
+{210373}{210453}{Y:i}Ako ne danas, moûda sutra.
+{210465}{210545}{Y:i}Na kraju Êu sigurno|nekome reÊi.
+{210598}{210708}{Y:i}Posle toga Êu razmiöljati|kako da pobegnem odavde.
+{210898}{210964}IZVEäTAJ O NESTALOJ OSOBI:
+{211454}{211545}JUMPEI NIKI|RO–EN 7.3.1927.
+{211569}{211673}NESTAO JE PRE 7 GODINA|I VODI SE KAO NESTAO.
+{211698}{213198}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/5bvuu|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

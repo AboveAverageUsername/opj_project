@@ -1,0 +1,801 @@
+{1}{1}25.000
+{26}{176}ÐžÐ³Ð»Ð°ÑˆÐ°Ð²Ð°Ñ˜Ñ‚Ðµ ÑÐ²Ð¾Ñ˜ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ Ð¸Ð»Ð¸ Ð¼Ð°Ñ€ÐºÑƒ ÐºÐ¾Ð´ Ð½Ð°Ñ; ÐºÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ð¸Ñ€Ð°Ñ˜Ñ‚Ðµ www.OpenSubtitles.org
+{3215}{3244}Halo?
+{3335}{3374}Ima li koga?
+{3540}{3574}Halooo?
+{6252}{6314}KOCKA 2
+{6460}{6614}HYPER KOCKA
+{8640}{8734}Šta je sa aparatom?
+{9014}{9060}Sigurno mora biti nešto
+{9186}{9220}Sranje
+{9484}{9648}Trebam svoje brojeve, Prokletstvo, |zar neæu dobiti ni svoje brojeve, vi glupi idioti.
+{9666}{9704}Želim priliku.
+{9748}{9816}Želim priliku kao i svi drugi.
+{9904}{10036}Halooooo. Ima li koga ovdje?
+{10160}{10190}O moj bože.
+{10228}{10254}Koji prokletnici...
+{10398}{10712}Majko božja na nebesima, molim te pomozi..
+{11448}{11462}Halo.
+{11552}{11588}Da li je sve u redu?
+{11658}{11694}Èujete li me?
+{11896}{11932}Jeste li ranjeni?
+{12168}{12222}Ne mièi se! Budi tiho.
+{12258}{12300}Rekao sam da se ne mièeš.
+{12362}{12398}Jesi li sama?
+{12418}{12478}Trepni jednom za da, dvaput za ne.
+{12542}{12588}Ima li netko drugi u onoj sobi?
+{12670}{12828}Ok. Pustit æu te, ali te lako mogu oboriti |na zemlju, isto kao i prvi put, zato budi tiho!
+{12894}{12940}Jedno za da, dvaput za ne
+{12985}{13022}Jesi li sama?
+{13101}{13144}Ok
+{13322}{13360}Što dovraga ti misliš da radiš?
+{13396}{13428}U koliko si soba bila?
+{13438}{13526}Kakvo je ovo mjesto? Ne znam ti meni reci! |U koliko si soba bila do sada?
+{13540}{13576}Pet ili šest. A ti?
+{13606}{13666}Ovo je moja treæa. Sigurno nisi vidjela nikoga?
+{13671}{13744}Ne. A ti? -Ne
+{13832}{13894}Dakle, tko si ti ? - Tko si ti ?
+{13921}{13962}Kakvi su ovo zvukovi
+{14014}{14110}Opusti se, to je samo predostrožnost. |Pretvaraj se da si uplašena.
+{14172}{14222}Siði dolje ili je ona mrtva.
+{14266}{14354}Kakav heroj.| Imam takav utjecaj na muškarce.
+{14368}{14410}Veseli me to da nisi izgubila smisao za humor.
+{14442}{14486}Da li je to stvarno potrebno? -Strpi se malo.
+{14510}{14540}Nije li to isti...?
+{14601}{14654}Hej, hej, vrati se nazad!
+{14744}{14879}Èekaj! Gdje ideš ti?
+{14915}{15043}Mièe se jako brzo. Jednostavno je nestao? |Možda ga je nešto pomaknulo, bolje se vrati nazad.
+{15251}{15294}Ovo mjesto je tako užasno.
+{16250}{16284}Molim te nemoj me ozlijediti.
+{16338}{16494}Ne boj se. Ovdje nema nikoga osim mene.
+{16560}{16636}Ja sam Kate? Kako se ti zoveš?
+{16678}{16724}Sasha...
+{16782}{16816}To je lijepo ime..
+{16860}{16922}Ne boj se, sve æe biti u redu.
+{17006}{17164}Razumiješ li me?|-Samo sam slijepa nisam retardirana.
+{17548}{17654}Konaèno. Veæ sam se pitao jesam li ja jedini ovdje.
+{17672}{17710}Bojao sam se da neæu naæi nikoga.
+{17724}{17796}Veæ satima kružim po ovim sobama.
+{17802}{17858}Ne približavaj mi se. Ne boj se, nitko te neæe ozlijediti.
+{17868}{17924}Ne, ne to sigurno ne. Dolazim u miru
+{17938}{17998}Mlada damo ja sam Jeremy
+{18014}{18090}Ovo je Sasha. Slijepa je i jako uplašena.
+{18090}{18182}Ništa èudno, biti slijep u ovom prostoru.
+{18212}{18402}Znate li što je ovo mjesto? Ne ne..
+{18488}{18576}Oh, Jerry Whitehall. Kate Filmore.
+{18704}{18766}Što radite?|- Oznaèavam sobe.
+{18778}{18822}To je èetvrta soba u kojoj si bio?|-Da
+{18842}{18882}Zar nisi rekao da hodaš po ovim sobama veæ satima.
+{18908}{19010}Èudno zar ne? Svaka soba ima 6 vrata.
+{19052}{19166}Bez obzira kroz koliko sam vrata prošao, |uvijek sam u bio u iste tri sobe.
+{19196}{19222}Sve do sada.
+{19238}{19284}Kao se sobe pomièu okolo.
+{19292}{19362}Ja ne osjeæam pomicanje, a ti?
+{19370}{19464}Ne. Èudno je.|Naletila sam tipa u...
+{19526}{19566}Oh ne... Približava se.
+{19574}{19692}Što se približava?- |Nešto dolazi prema nama i mislim da nas ne voli.
+{19694}{19814}Ne èujem druge ljude. Želi nas ubiti, moramo van!
+{19822}{19882}Imaš li ideju kamo da idemo?| Tvoja ideja je dobra kao i moja.
+{19912}{19950}Molim vas, moramo se pomaknuti odavdje.
+{19964}{20072}Ovuda. -Sasha morat æemo se penjati ljestvama. |Drži se za mene.
+{20146}{20214}Upomoæ. Pomozite mi molim vas.
+{20232}{20308}Tamo je èovjek, visi...
+{20334}{20376}ne mogu ga još dugo držati.
+{20446}{20594}Požurite!!!|Drži se. Dolazim, dolazim..
+{20710}{20808}Sasha sve æe biti u redu.|Ostani ovdje, sve æe biti u redu
+{20882}{20968}Tu si. Vidim, da si našla prijatelje.|-Pomozi nam da ga spustimo dolje.
+{20968}{20990}Fantastièno.
+{20990}{21228}Napravite mi malo mjesta da ga mogu uhvatiti. |Imam ga, imam ga.
+{21524}{21678}Polako, polako.|-Spustimo ga ovdje. Tako je.
+{21810}{21878}Živ je, diše.
+{21922}{22002}Radi u ministarstvu obrane.|Pukovnik Maquire.
+{22046}{22158}Službenik Pentagona je.|-Kako ti to znaš?
+{22204}{22370}Znam ga, haknuo sam u Pentagon 2 prošle |godine, mislim da sam zato ovdje.
+{22382}{22440}Previše si siguran za zatvorenika, |ili samo govoriš svojoj guzici.
+{22446}{22500}Pretpostavljam...|-Znaš šta kažu o tome.
+{22638}{22686}Jerry Whitehall, hvala vam.
+{22692}{22716}Simon Grady.
+{22740}{22826}Ovo je Kate... Sasha...|Oprosti nisam èuo tvoje ime.
+{22866}{22896}Max Reisler.
+{22926}{23082}Sasha. Sasha...|Jerry možeš li..
+{23104}{23148}Da da, naravno.
+{23294}{23348}Saša jesi li u redu?
+{23368}{23440}Ovaj je èovjek pretuèen... gadno.
+{23452}{23578}Bio je muèen. Pogledajte njegove ruke.|Opekotine od cigareta.
+{23592}{23672}Isuse. Dolaze po nas sada.|Mi smo sljedeæi.
+{23686}{23750}Ne brini se. |Neæu dopustiti nikome da te ozlijedi.
+{23754}{23788}Nadam se da je tako lako Kate.
+{23842}{23874}Ovdje nema nièega.
+{23950}{23986}Što misliš?
+{24028}{24098}Mislim da je znao nešto. |Nešto što nitko drugi nije trebao znati.
+{24132}{24172}Zato obièno muèe ljude.
+{24188}{24268}Kako znaš? Jesi li struènjak na tom polju.
+{24364}{24402}Pa zapravo ti malo usrano...
+{24718}{24846}Halo, znate li gdje su tuševi, |mislim da sam se opet izgubila.
+{24882}{25000}Uvijek se izgubim ovdje, ne znam zašto |moja snaha ustraje u tome da dolazim ovdje.
+{25074}{25148}Pazite kamo stajete.|-Hvala vam.
+{25218}{25272}Žao mi je, ali ne mogu vam pomoæi oko tuševa.
+{25304}{25390}Ja sam Jerry. -Niste valjda Jerry Whisberg?
+{25416}{25530}Ne. -Oh hvala bogu. To je moj dostavljaè |èasopisa i ja mu dugjem 10$
+{25652}{25721}To je Simon. Kate i Sasha...
+{25804}{25848}Max.
+{25862}{25924}A vi ste? - Ja sam g. Paley
+{25946}{26032}Kako ste g. Paley?|Znate li možda zašto ste tu?
+{26056}{26115}O, pa nikada nisam bila baš dobra u filozofiji.
+{26171}{26232}Da li itko od nas zna što se ovdje dogaða?
+{26318}{26344}Žao mi je.
+{26400}{26464}Ja pokušavam shvatiti konfiguraciju ovih soba.
+{26502}{26574}Samo što tu nema logike. Toèno.
+{26617}{26696}Tako je, kao da se sobe premještaju jako brzo.
+{26708}{26862}Mora biti nekakva logika. |Èini se da se ove sobe ponavljaju.
+{26921}{26958}Približava se.
+{26974}{27032}Sasha, znaš li što je to?
+{27040}{27170}Ne, ali èujem. Cijelo vrijeme, èak i kada vi ne èujete.
+{27198}{27232}Zvuèi kao.
+{27352}{27390}Možda smo mi u paklu.
+{27496}{27538}Ok, da èujemo neke odgovore.
+{27696}{27771}Vojnice na noge. Pazi ranjen je.
+{27782}{27854}Prestani.
+{27874}{27936}Slušaj me šeæeru.|-Nisam ja tvoj šeæer idiote.
+{27965}{28026}Muèili su ga, želiš li ti biti sljedeæa |kada doðu po nas?
+{28026}{28079}Tko su oni?|To æu sada saznati.
+{28256}{28396}Dragi bože. Tu su.
+{28506}{28624}Hajde vojnièe, prièaj sa mnom.
+{28638}{28683}Šta se dogaða ovdje.
+{28752}{28800}Samo mi reci kako da izaðemo van?
+{28814}{28902}Ne znam. Trebaš znati kodove.
+{28926}{28990}Prvi ima pravilo...|-Prvi šta?
+{29014}{29048}Pusti ga nije pri sebi.
+{29124}{29217}Sve je u ureðaju.|-Sta misliš sa prvim?
+{29454}{29521}O moj bože. |Jesi li dobro?
+{29530}{29610}Streslo me je. Zid se pomaknuo.
+{29640}{29682}Jesi li u redu?|-Pogledaj gore.
+{29792}{29842}To je .... .ne znam.
+{29977}{30065}O sranje.|Šta je to?
+{30096}{30174}Ne znam, ali ne želim ostati da doznam.
+{30194}{30268}Doði ovamo. |Sasha doði, idemo.
+{30721}{30748}Idemo, idemo, idemo!
+{30771}{30830}Doði pukovnièe, vrijeme je da idemo.
+{30840}{30918}Ne idem.
+{30938}{31004}Nigdje ne idem. |Ostani.. Doði kate.
+{31030}{31132}Imate li kljuè?|-Ja...
+{31164}{31202}Zašto ste to uèinili?
+{31220}{31298}Ne mislite da možete pobjeæi?|-Pokušali bi smo.
+{31418}{31468}To æe boljeti.
+{31688}{31710}Kate doði.
+{31758}{31824}Ne idem bez njega. |Pusti ga mrtav je.
+{31879}{31910}Nema vremena, idemo.
+{32033}{32100}Mora biti naèin-|Kate idemo!!!
+{32268}{32414}O moj Bože.|Pusti me, pusti me.
+{32844}{32870}Približava se, doði.
+{34704}{34770}Što se tamo dogodilo?|-Ne znam.
+{34848}{34958}O bok, od kuda si se ti stvorila?|Kako ti je ime?
+{35030}{35144}Ja sam Kate, |zar me se ne sjeæate?
+{35154}{35202}O ja sam G. Paley.
+{35404}{35462}Pukovnik je bio naša |jedina veza sa time.
+{35492}{35630}Možda i ne.|Ja sam napravio vrata.
+{35692}{35764}ŠTO??-|Dobio sam narudžbu.
+{35832}{35886}Nisi mislio da je ovo vrijedno spomena prije?
+{35898}{35932}Pa.. potpisao sam sam ugovor |o èuvanju tajne...
+{35938}{36046}Uzimajuæi u obzir našu trenutnu situaciju |rekao bih da to nije bitno.
+{36052}{36074}Ne znam..
+{36102}{36180}Mislite li da lik koji dizajnira WC |na vratim space shuttla vidi ostale nacrte?
+{36184}{36218}Morao si imati neku predodžbu što grade.
+{36230}{36286}Bilo je za ekspiriment. Prototip..
+{36288}{36312}U svezi èega?
+{36316}{36336}Nisam siguran.|-Za što?
+{36340}{36432}Bilo je glasina.|-kakvih glasina?
+{36458}{36486}Kakvih glasina?!?!?!
+{36536}{36580}Kvantna teleportacija.
+{36614}{36674}Molim?|-Samo glasine...
+{36722}{36812}Misliš kao:|>>Teleportiraj me Scotty<<
+{36828}{36910}Ovo postaje smiješno..
+{36922}{36978}Sto znaš ti Jerry?|-Ništa. -Lažeš!
+{36984}{37042}Zašto bih lagao? -|Zato jer ti i pukovnik radite za njih.
+{37050}{37158}Njih? Tko su zapravo oni?|Vlada, mafija, venzemaljici?
+{37194}{37324}Oho. To je Teserakt.
+{37346}{37388}O Bože, opet se izgubila...
+{37390}{37494}Zar nije lijepo. Zar nije lijepo što G. Paley
+{37594}{37686}O sranje. Ako ga pogledaš pod pravim kutom.
+{37726}{37770}..... Kako ste ga nazvali gospoðo Paley?
+{37774}{37800}Teserakt.
+{37824}{38056}Teserakt. Teserakt je.|Kako znaš da je Tese...rakt? Kako god da se zove?
+{38066}{38184}Da li je veæ poèeo drugi dio?|Moramo se vratiti na svoje mjesta. Oprostite.
+{38302}{38406}Teserakt.
+{38426}{38454}Jerry... Jesi li dobro?
+{38458}{38514}Da, da,da. Samo ne mogu vjerovati,|da ga nisam vidio prije.
+{38514}{38554}Cijelo vrijeme je bio preda mnom.
+{38604}{38644}Hoæeš li podijeliti znanje sa ostatkom razreda?
+{38650}{38720}Nravno. Teserakt je ime za...
+{38780}{38804}Hiper kocku...
+{38808}{38890}Hiper...sto?|-4 dimenzionalna kocka.
+{38896}{38924}4 dimenzije?
+{38928}{38956}Svi elementi su prisutni.
+{38960}{39056}Sobe se ponavljaju, sobe se spajaju,|teleportacija...
+{39078}{39114}sve je tu naopaèke.
+{39192}{39368}Pogledajte. Ovo je 1 dimenzionalna linija.
+{39398}{39528}2 dimenzije predstavljaju kvadrat.
+{39544}{39704}Ako proširimo još jednu dimenziju dobijemo kocku.
+{39906}{39950}Pa to smo svi uèili u 8 razredu...
+{39968}{40140}Ako proširimo kocku za još jednu dimenziju dobijemo Teserakt.
+{40158}{40208}Uvijek sam mislio da vrijeme |predstavlja 4 dimenziju.
+{40226}{40322}To je ideja, ali šta ako imamo 4 prostornu dimenziju?
+{40332}{40386}Isto sranje.|-Hej malo daj zaèepi.
+{40390}{40482}Dobro, recimo da smo u Hiper kocki.
+{40516}{40558}Može li nam taj dijagram reæi kako da izaðemo van?
+{40596}{40656}Ne.. mislim da ne..
+{40682}{40720}Hiper kocka zapravo ne postoji...
+{40732}{40776}To je zapravo samo teoretska konstrukcija..
+{40796}{40844}Oh... odmah se osjeèam bolje.
+{40878}{40970}Postoji li teorija kako možemo |izaæi van iz ove teoretske konstrukcije?
+{40988}{41026}Ne znam.
+{41060}{41138}Ne brini draga samo je pitanje trenutka.
+{41170}{41220}Oh to je tako utješno.|Hvala.
+{41256}{41366}Dobro, kako god evo moje teorije.
+{41408}{41598}Mismo smo svi sudionici nekog show-a |i sad nas snimaju dok govorimo.
+{41630}{41724}Iako nemogu shvatiti razloge zbog kojih su nedužni ljudi izabrani za ovu svrhu.
+{41742}{41856}...mislim da kada ovo bude objavljeno da æemo |svi imati potpisane bogate sponzorske ugovore..
+{41884}{41966}Ok Max, u èemu je svrha te igre?
+{41996}{42046}Neznam.|Da izaðemo vani živi?
+{42106}{42154}Mislim da bismo trebali napraviti  kartu.
+{42170}{42282}Mislim da nam zemljovid karta ne bi koristila. |Pogledaj gore.
+{42326}{42366}Toga nije bilo malo prije.
+{42458}{42482}Jesi li ti to napisao?
+{42494}{42650}Ne. Ostavio sam svoja krila kod kuæe... |Tek sam oznaèio broj 10 malo prije.|Netko je bio ovdje prije.
+{42680}{42724}Oèito netko vrlo velik.
+{42730}{42780}I zašto je to napisano na stropu?
+{42796}{42920}60650 soba?|-Taj prostor mora biti ogroman.
+{42950}{43040}Da, u Hiper kocki ima 60 milijuna soba
+{43068}{43108}Ona možda ima pravo.
+{43258}{43284}Što izvodiš?
+{43362}{43402}Ulozi u igri su se upravo udvostruèili.
+{43422}{43474}Šta vidiš?|-Djevojku.
+{43522}{43562}Idem unutra.
+{43628}{43690}Jesi li u redu?|Samo..
+{43752}{43778}Šta se dogaða?
+{43794}{43906}Pomozite mi!|-Jesi li dobro?
+{43920}{43966}Što se dovraga dogaða?
+{43988}{44130}Max, vrati se. -Ne sve je u redu.|-Bok. Horizontalna gravitacija.
+{44510}{44556}Idemo li unutra ili ne?|-Možda ona zna nešto.
+{44590}{44754}Šta sa našim.. suputnicama?|Imam ideju..
+{44880}{44896}Halo?
+{45020}{45054}Gospodièna?
+{45170}{45286}Hej, gospodièna? Probudi se.
+{45308}{45384}Na putu je. Vrijeme je za plan B.
+{45588}{45658}Zašto joj ne daš disanje usta na usta,|možda bi to pomoglo.
+{45720}{45744}Jako smiješno.
+{45852}{45980}Hej, -Što se dogodilo?|Koji vrag? Gdje sam?
+{45996}{46042}To je pitanje za milijun dolara.
+{46178}{46224}Dokle se misli tako smijati?
+{46360}{46430}Da gospodjo Paley, smo se smijte.
+{46486}{46638}Uuuu ovo je smiješno, nije bilo tako od mog |13 roðendana.
+{46798}{46852}Za boga miloga gospodjo Paley, |to nije igra.
+{46912}{46966}Momci držite je mirno.
+{47010}{47048}Tako još dolje.
+{47110}{47144}Sletjeli smo.
+{47346}{47394}Zdravo, ja sam gospoða Paley.
+{47422}{47456}Tko se vi ljudi?
+{47492}{47576}Pa... ja sam Kate, a ovo je gospoða Paley.
+{47594}{47648}A ja sam Julija
+{47676}{47780}Hej da li je ovo tvoj kaput.
+{47828}{47956}Nema veze, uzmi ga svejedno.|Oèito sam popila previše sinoæ.
+{48072}{48100}Nema nièega ovdje?
+{48150}{48218}Kako samo došla ovamo?|Jesmo li oteti?
+{48268}{48326}To je stvarno dobro pitanje.
+{48678}{48722}Kad smo veæ kod toga,|kako smo se našli ovdje?
+{48784}{48828}Sjeèam se da sam otišao spavati
+{48838}{48884}Gdje?|U moj krevet.
+{48920}{49002}Gdje živiš.|Nebraska.
+{49032}{49156}Ja sam zdrav bijelac, inženjer, volim sladoled.
+{49336}{49462}Ok, ja se sjeæam da samo vozila prema |kuæi iz mjesne bolnice.
+{49482}{49576}Bilo je kasno i žurila sam da što prije |doðem kuæi. Radila sam do kasno.
+{49596}{49632}Ja sam psihoterapeut.
+{49652}{49680}Simon?
+{49708}{49814}New Awen. Išao sam na piæe.|-Što ti radiš?
+{49900}{49936}Ja sam savjetnik.
+{49976}{50064}Da stvarno. A ja sam Djed Mraz.
+{50098}{50156}Dobro, Max. A ti?
+{50254}{50304}Radim kompjuterske igrice.
+{50322}{50392}Zadnje èega se sjeæam da sam |zaspao na tipkovnici.
+{50454}{50518}Sasha... gdje ti živiš?
+{50546}{50580}U New Mexicu.
+{50614}{50746}Radila sam domaæu zadaæu u kuhinji. |Kao što uvijek radim.|Nikad mi se ništa ne dogaða.
+{50786}{50952}Zadnje èega se ja sjeæam je,|da sam izvela psa u šetnju.
+{51028}{51054}Julija?
+{51062}{51134}Ja sam bila na zabavi u Santa Monici.
+{51158}{51188}Jesi li glumica?
+{51210}{51340}Ne. Tužiteljica sam. Recimo da ako |sam oteta...
+{51360}{51395}to je zbog otkupnine.
+{51421}{51510}Ima nas od svuda, Silikonska dolina, |Nebraska, Hollywood, Main.
+{51568}{51628}Gospoðo Paley, gdje vi toèno živite?
+{51638}{51816}Riverside 94. Da li biste me odvezli kuæi?|Izgubila sam se snahu negdje.
+{51834}{51914}Neznanje je blaženo. |Èudno je to. Nema nikakvog smisla.
+{51992}{52114}Mislim, da su nas prebacili ovdje sa |privatnim ili vojnim avionima.
+{52167}{52190}Gdje je to ovdje?
+{52196}{52276}Ne znam.|Tvoje ideje su dobre koliko i moje.
+{52298}{52372}Hiper kocku ne bi tako lako izgradili.
+{52393}{52482}I ako ova stvar mjenja prostorne dimenzije,|mogli bismo biti doslovno bilo gdje.
+{52500}{52568}Koji vrag? -Što je?
+{52578}{52662}Opet taj broj ovdje, 60659.
+{52683}{52721}Nemože biti ista soba.
+{52724}{52776}Nije ista soba,|zato to sada ima i drugih brojeva.
+{52812}{52864}Ne može biti toliko soba.
+{52908}{53004}Možda nisu sobe.|Možda je netko drugi shvatio nešto drugo.
+{53170}{53266}Sigurno nismo sami.|Pogledajte ovo.
+{53312}{53398}Što je? Što se dogaða?|-Julija jeli to tvoj sat?
+{53450}{53474}Ne.
+{53490}{53628}Moj je.  E pa ovo je èudno.
+{53650}{53702}Netko drugi ima isti sat kao što je tvoj?
+{53728}{53760}Netko se igra s nama.
+{53771}{53833}O sranje. Pogledajte.
+{53855}{53918}To je sat koji mi je žena kupila za 40-ti roðendan.
+{53980}{54048}... i ovo je sat koji smo našli.
+{54190}{54238}Možda igramo tvoju igru Jerry.
+{54246}{54292}Ti si dizajnira vrata, sat je tvoj...
+{54326}{54379}Gospoðo Paley molim vas ne...
+{54388}{54448}O moj bože mislim da je još uvijek živ.
+{54474}{54524}Prièekaj...
+{54567}{54652}Jerry, što vidiš?|Dolje je još jedan tip.
+{54754}{54816}Jesi li u redu?|-Što se dogaða?
+{55028}{55078}Da li je živ?|-Mislim da nije.
+{55083}{55184}Okreni ga.|O sranje.
+{55279}{55310}Što je to?
+{55350}{55392}Izgleda mi prilièno mrtav .
+{55378}{55458}Da li je još živ?|Tu je poprilièno dugo, gospoðo Paley.
+{55522}{55558}Što misliš tko je napisao te brojeve?
+{55576}{55632}Sam ih je napisao.|Pisane se  odozdo prema gore.
+{55650}{55702}Isti rukopis,|kao i brojevi koje smo vidjeli.
+{55722}{55805}Oh ne, to je jadni gospodin Rosenzweig.
+{55836}{55862}Poznajte li ga?
+{55878}{55943}Sada nikada neæe moæi dobiti svoju |Nobelovu nagradu.
+{55957}{55990}Tko je on dovraga?
+{55998}{56148}O ti sranje, to je Resenzweig.|Lani je bio vodeæi teoretski fizièar |na svom podruèju...
+{56162}{56190}... a to je ?...
+{56204}{56240}Kvantni kaos...
+{56290}{56328}Èitao sam njegovu knjigu.
+{56488}{56542}O moj bože.
+{56668}{56712}Kate, jeli....?
+{56902}{56971}Da umro je.|-Jesi li sigurna? -Da
+{57022}{57093}Netko...?|Tu sam Sasha. Imam te.
+{57108}{57178}Razumije li tko te brojeve?|Što je pisao?
+{57212}{57350}Možda je pokušao izraèunati svoj izlaz odavde.|Izgleda da je ostao bez vremena.
+{57384}{57442}Kako to da ga gospoða Paley poznaje?
+{57446}{57498}Ne znam.|-Pogledajte još brojeva.
+{57555}{57620}Pitanje je, da li je riješio problem zadatak,|prije nego što je umro.
+{57672}{57724}U redu je, u redu je.|Jesu li dobro?
+{57752}{57824}Pogledajte, evo opet se pojavio.|60659.
+{57828}{57896}Kako æe nas to izvuæi odavde?|Mora biti nešto.
+{57904}{57970}Što? -Ne znam, ali bolje da to zapamtimo.
+{58016}{58050}Zanima me da li ima...
+{58102}{58160}Što radiš to?. - To je odvratno.
+{58228}{58276}...Našla sam olovku.
+{58292}{58340}Nadam se da  æemo imati više sreæe od njega.
+{58342}{58396}Ovo se ne može dogaðati.
+{58402}{58552}O bože, o bože.|Samo malo, samo malo...
+{58568}{58608}Poludjet æu.
+{58640}{58710}Bio je baš ovdje.|-Što je bilo gospoðo Paley?
+{58714}{58758}Izon, gdje si?
+{58814}{58848}Jeli rekla Izon?
+{58854}{58929}Izon, gdje si?|Dolazi ovamo odmah!
+{58948}{59000}Koga tražite gospoðo Paley?
+{59000}{59098}Jeste li vidjeli mog malog psiæa.
+{59234}{59290}Njenom psu je ime Izon...|To je èudno.
+{59298}{59333}Mislio sam... da je Izon.
+{59336}{59368}Proizvoðaè oružja.
+{59488}{59558}A vi momci to znate jer...?
+{59658}{59698}Èitam novine.
+{59757}{59790}Gospoðo Paley?
+{59816}{59900}Gospodjo Paley, jeste li sigurni, |da niste ostavili psa kod kuæe?
+{59904}{59980}Ne, ne. Tu je bio malo prije.| Tako sam glupa.
+{60010}{60048}To mi lomi srce.
+{60064}{60084}Gospoðo Paley.
+{60105}{60167}Gospoðo Paley, èime zaraðujete za život?
+{60171}{60267}Ništa, u mirovini sam.|Nisam ga smjela pustiti iz vidokruga.
+{60271}{60330}Prije nego što ste otišli u mirovinu,|šta ste radili?
+{60340}{60407}Ništa posebno.|Bila sam teoretski matematièar.
+{60492}{60524}Što ste radili?
+{60532}{60658}Em.. radila sam u istraživaèkom |laboratoriju u firmi Skippy.
+{60767}{60872}Radi za Skippy, a psu je ime Izon?
+{60886}{60926}Gospoðo Paley?
+{60952}{61086}Jeli moguæe da je ste radili za Izon, |a da je vašem psu ime Skippy?
+{61128}{61195}Kako vi znate gdje sam ja radila?
+{61210}{61258}O bože...
+{61262}{61316}Radila je za proizvoðaèa oružja?
+{61320}{61378}Dobra je prijateljica našega|>>Želim postati nobelovac<<
+{61412}{61466}Mislim da je ne bi trebali...
+{61504}{61578}Nisam luda. I èujem jako dobro.
+{61620}{61672}Rekla sam ti,| da mi neæe vjerovati.
+{61678}{61790}Gospoðo Paley, kakva ste istraživanja |radili u Izonu?
+{61795}{61845}General ne treba znati o tome ništa.
+{61848}{61878}Nisam general.
+{61884}{61998}Briga me je što Alex Trusk kaže.|Nemoguæe je i što je još važnije neèovjeèno je.
+{62000}{62050}Ko je Alex...|-Jeli rekla Alex Trusk?
+{62071}{62172}O bože. Ovo stvarno postaje smiješno.
+{62179}{62221}Tko je Alex Trusk?
+{62226}{62298}Alex Trusk, haker posebne vrste.|Legenda je.
+{62298}{62366}Ovo je upravo takav uvrnuti labirint |kakav bi samo on mogao smisliti.
+{62376}{62426}Alex Trusk ne postoji.
+{62455}{62514}Neke stvari nikada ne bi trebale biti napravljene.
+{62522}{62583}Postoje samo za teoretske svrhe.
+{62600}{62664}Ne bi nikada trajalo,| zar ne razumijete?
+{62710}{62832}Dobro.. ti si psihijatar,|možeš li mi objasniti što se dogaða ovdje?
+{62900}{63071}Ja bi rekla da je to rekacija.|Flashbackovi, posttraumatski stres.
+{63082}{63136}Znaèi ona je povezana sa ovim?
+{63142}{63238}Skippy?|Mislim da ga èujem.
+{63270}{63376}Skippy?|Gospoðo Paley nemojte...
+{63398}{63433}Gospoðo Paley.
+{63536}{63588}O moj...
+{63784}{63848}Pomozite mi, molim vas.
+{63926}{64021}Ne slušajte je. Laže o svemu.
+{64150}{64171}ŠTO?
+{64210}{64288}Što se upravo dogodilo?
+{64316}{64390}Moja glava,|Izgubio sam glavu.
+{64414}{64492}Paleyeva je otvorila vrata i...
+{64721}{64771}Èekajte, èekajte imam ideju.
+{64932}{64974}Imam ideju.
+{64984}{65021}Da pogodimo?|Dizajnirao si i podove?
+{65042}{65092}Bolje da imaš jako dobro objašnjenje Jerry!
+{65098}{65146}Znam da je ono sto se upravo dogodilo bilo strašno.
+{65188}{65254}Ali zapravo je skroz logièno.
+{65260}{65326}Ako smo zapravo u višedimenzionalanom |kvantnom prostoru...
+{65334}{65372}Engleski molim?
+{65376}{65536}...Glavna ideja kvantnog prostora| je da zapravo postoje paralelne stvarnosti.
+{65542}{65624}Kako ti to znaš Jerry?|Ti si samo dizajnirao vrata.
+{65628}{65720}U Rosenzwieg-ovoj knjizi piše to. |To je bio važan dio njegove teorije.
+{65722}{65784}Ako im je uspjelo napraviti..
+{65786}{65896}... mjesto gdje se paralelne stvarnosti isprepliæu.
+{65918}{65968}Ti tvrdiš da je ono što smo upravo vidjeli ..
+{65972}{66042}...Simon i gospoða Paley u drugom|paralelnom svijetu?
+{66068}{66132}U drugom svijetu se stvari odvijaju drugaèije.
+{66136}{66184}O, molim te..
+{66188}{66226}Promisli malo, promisli malo o tome.
+{66230}{66306}Simone, prije par minuta si našao sat...
+{66308}{66396}...tamo kod brojeva, i shvatili smo |da je netko drugi pisao brojeve na zidu.
+{66398}{66510}Zato bismo trebali ostavljati tragove |u sluèaju da se vratimo nazad.
+{66542}{66606}Dijelove odjeæe, nakit...
+{66616}{66726}Što mislite, zašto sam ostavio sat iza sebe,| ako nisam trebao...
+{66730}{66882}Jerry kažeš da se u drugoj stvarnosti dogodilo nešto |zbog èega si ti odluèio ostaviti sat iza sebe?
+{66886}{66928}Da. Za boga miloga..
+{66932}{66968}Kakvo je to sad sranje.
+{66980}{67024}Mora biti logièno objašnjenje.
+{67026}{67134}Da a što ti misliš, da je to bilo?|Da je to samo optièka varka?
+{67142}{67180}Da zašto ne?
+{67182}{67228}Konaèno pametna ideja.
+{67232}{67276}To je tebi pametna ideja?
+{67278}{67362}Ok, otvorimo još jednom vrata.
+{67372}{67396}Ma daj.|Hajde pogledaj.
+{67398}{67434}Molim?
+{67434}{67504}Ako si tako siguran da je to optièka varka,|otvori vrata i pogledaj.
+{67798}{67854}Možda bi trebao stati sa strane prijatelju, |s obzirom na ono što smo vidjeli mali prije..
+{67872}{67910}Odjebi Jerry!
+{68112}{68230}Èekaj.|Ne otvaraj vrata.
+{68354}{68414}Mislim da je to jedno veliko sranje.
+{68420}{68484}Jerry-eve prièe su gluposti, |ali sam i ja dio tog ekspirimenta.
+{68486}{68530}Hej...|Ti šuti...
+{68546}{68584}Slažem se s tobom Max.
+{68606}{68750}Mislim da su nas napunili LSD-om i da |smo u nekom CIA-inoj bolnici...
+{68790}{68902}Ali ipak recimo da postoji moguænost |da je Jerry u pravu...
+{68922}{69074}...Što æe se onda dogoditi,|ako ta stvar koja me je ubila doðe ovamo?
+{69096}{69126}Što æe se onda dogoditi?
+{69160}{69186}Vi ste ludi.
+{69250}{69276}Hej èovjeèe šta radiš?
+{69278}{69320}Ne otvaraj vrata.
+{69358}{69398}Èega se tako bojiš?
+{69400}{69496}Vidio sam, kako mi je nešto odrubilo glavu.|Šta misliš o tome za poèetak?
+{69498}{69542}Od kuda ti taj nož?
+{69574}{69694}Moj je.|Skupljam noževe.
+{69722}{69764}Imao ga je, ja sam ga prije vidjela.
+{69788}{69900}Moguæe je da si ti dio ekspirimenta,|ti imaš nož.
+{69920}{69986}Imam je, imam je...
+{70020}{70160}Zašto mi svi ne odemo na sladoled, |pa æemo se osjeæati bolje.
+{70270}{70352}Smiješni ste gospoðo Paley.|Smiješna stara gospoða.
+{70412}{70468}Pusti je na miru.|Vidiš da ne razumije.
+{70490}{70600}Dobro, priznala je da je radila za Izon, |najveæeg proizvoðaèa oružja.
+{70610}{70692}Prepoznala je sliku na vratima.|Poznava je mrtvog tipa.
+{70734}{70792}Možda je moj alter-ego povrijeðen.
+{70804}{70862}Možda ne bismo trebali vjerovati |dragoj gospoði Paley.
+{70888}{70944}Možda ne bismo smjeli vjerovati tebi.
+{70958}{71088}Molim?|-Možda ne bismo smjeli vjerovati tebi.
+{71178}{71254}To æu ignorirati curice jer... ti si bogalj..
+{71422}{71480}U redu, mislim da bismo se |trebali nastaviti kretati?
+{71532}{71566}Poslije vas.
+{72086}{72140}Kate, ja sam žedna.
+{72160}{72218}I ja sam srce.|I ja sam.
+{72324}{72378}Iscrpljena sam.|Jesmo li stigli.
+{72414}{72482}Izdržite gospodjo Paley, još samo malo izdržite.
+{72930}{72986}Dakle, tko je taj Alex Trusk?
+{72996}{73136}Šališ se? Isprogramirao je virus koji| je srušio Tokijsku burzu prije dvije godine.
+{73160}{73338}On je taj koji je prodro u kontrolu letenja i srušio dva| aviona u Nevadi iz protesta prema vojnoj potrošnji.
+{73360}{73554}Zaboravljate da je Alex Trust prvi genetski kreiran |super èovjek koji živi meðu nama.
+{73570}{73764}To je èudno, -Ne Alex Trusk je plod mašte |autora prièa u urotama. On ne postoji
+{73782}{73838}Super, samo se nastavi zavaravati.
+{73862}{73924}Budite tiho i nastavite se kretati.
+{74024}{74104}Da li stvarno vjeruješ u ovo stvari |o paralelnim svjetovima?
+{74126}{74272}Da si me juèer pitala rekla bih ti ne. |Ali ovo mjesto mjenja mišljenje |o onome što je moguæe.
+{75828}{75880}Zadržimo ovo meðu nama sada.
+{75992}{76114}Da se dogovorimo. Ja sam privatni detektiv. |Imam sluèaj nestalih osoba.
+{76154}{76276}Kakva ironija.|Da
+{76300}{76400}Mislim da sam zaglavio ovdje zbog nje.|Becky Young.
+{76432}{76520}Ispraznili su mi džepove i sve,| osim noža i ovoga. To je poruka ili upozorenje.
+{76664}{76774}Pazi ovo.|Pogodi za koga je radila.
+{76882}{77012}Izon?...huh..
+{77044}{77080}Kate?
+{77148}{77186}Kate?
+{77208}{77244}Kate? Moraš se probuditi.
+{77258}{77296}Što je bilo?
+{77318}{77356}Nešto je ovdje.
+{77372}{77412}Vidiš li išta?
+{77452}{77480}Vjerovatno si samo sanjala...
+{77526}{77666}oh tamo je.. tamo je nešto..
+{77682}{77718}Što je to dovraga?
+{77808}{77842}Kate?
+{77886}{77932}Kate što vidiš?
+{77936}{77998}Kvadrat je. Lebdi.
+{78048}{78134}Prelijepo je.|-Prepoznajete li to, gospoðo Paley?
+{78182}{78220}Što se dogodilo?|-Sad su dva.
+{78230}{78258}Množe se.
+{78274}{78310}Možda je to izlaz vani.
+{78434}{78510}Možda tako 4 dimenzionalni objekat |zapravo izgleda.
+{78514}{78570}Ako je to izlaz vani,|kako da ga upotrijebimo?
+{78620}{78700}Mrzim ga.|Zvuèi loše.
+{78748}{78920}Lijep je. Savršena kvadratna podjela.
+{78978}{79012}Gospoðo Paley, ne!
+{79162}{79198}Bježi zaboga.
+{79234}{79302}Jerry jesi li ranjen?|-Dobro sam.
+{79534}{79590}Hajde gospoðo Paley, vrijeme je da idemo.
+{79702}{79746}Ovuda, izgleda sigurno.
+{79914}{79968}Idemo, idemo.|-Vraæa se nazad.
+{80002}{80036}Hajde Max.
+{80464}{80494}Kate??!!!
+{80604}{80666}Jerry!- O bože.|Ne!!!
+{80788}{80864}Sasha!|-Ne. Sam doði.
+{80872}{80912}Šta radiš dovraga.
+{80930}{80994}Izgubili smo je.|Želiš li završiti kao Jerry.
+{81080}{81200}Kate? Prokleta žena.
+{81424}{81450}Sasha?
+{81492}{81528}Kate pomozi mi.
+{81634}{81668}Dolazim po tebe.
+{81694}{81742}Lezi na pod Sasha, odmah.
+{81782}{81824}Pomozi mi.
+{81994}{82068}Vidim te Sasha.|Ostani na tlu.
+{82182}{82248}Teško æu doæi do tebe.|Kreni prema meni.
+{82284}{82370}Ne Sasha.|Spusti se dolje.
+{82410}{82462}Što da radim?
+{82502}{82568}Samo idi u kut i ostani tamo.
+{82734}{82774}Još malo i tamo sam.
+{82820}{82920}Samo ostani na tlu.|Odmah do tebe sam.
+{82946}{82986}Tu sam.
+{83618}{83660}Što se dogodilo?
+{83668}{83748}Ne znam, ne znam Sasha.
+{84168}{84206}Dragi Bože.
+{84346}{84408}Mislim da sada možemo iziæi.
+{84636}{84706}Brojat æu do tri.|Drži se za mene.
+{84748}{84764}Jedan.
+{84780}{84804}Dva.
+{84822}{84854}Tri.
+{84894}{84938}Oh, Sasha ne!
+{85698}{85750}Detektira pokrete.
+{85754}{85884}Ne mièi se.|Budi mirna.
+{86286}{86342}Jeli otišao?|Da otišao je.
+{86350}{86470}Hvala ti.|Ok hajdemo odavdje prije nego se vrati.
+{86474}{86526}Moja naoèale?|Tvojih naoèala nema više.
+{86532}{86568}Penji se uz ljestve.
+{86572}{86700}Kate? Nešto osjeæam.|Jeli netko umro ovdje?
+{86796}{86832}Da, Jerry je umro.
+{86836}{86928}Ne, bio je tako drag.
+{86980}{87092}Moramo iæi.|Noga za nogom.
+{87096}{87126}Gdje su ostali.
+{87128}{87172}Mislim da smo sada same.
+{87752}{87786}Vidim uzorak.
+{87824}{88092}Svatko povezan sa ovim.. tom Hiper kockom,|umire vrlo nasilnom smræu.
+{88294}{88390}Ne bih volio da se to dogodi vama, |gospoðo Paley.
+{88428}{88524}Zato nam dajte nacrt,
+{88562}{88608}... ili nam recite kako da izaðemo odavdje...
+{88674}{88706}Simon, bilo je dosta.
+{88710}{88724}Zaveži.
+{88748}{88770}Zaveži.|-OK
+{88908}{89034}Jeste li spremni govoriti?|Sav sam se pretvorio u uho.
+{89116}{89266}Ja stvarno ne trebam te operacije, doktore.|Ja sam savršeno zdrava.|Pitajte moju snahu tamo...
+{89270}{89368}Ove šale me stvarno živciraju,| zato æu vam dati još jednu priliku.
+{89414}{89496}Recite mi što želim,|ili æu vas morati ubiti.
+{89506}{89602}Da li me razumijete?|Ubit æu vas. Izbor je vaš.
+{89608}{89634}Simon, makni se od nje.
+{89658}{89758}Slušaj me ti.|Želiš li van ili ne?
+{89764}{89790}Da, ali...
+{89792}{89834}Nema ali!
+{89836}{89858}Hej ljudi slušajte, možda..
+{89990}{90112}O sranje, opet je tu.|Skinut æe mi glavu.
+{90166}{90226}Idemo.|Što je sa gospoðom Paley?
+{90236}{90276}Za boga miloga.
+{90354}{90412}Simone poginut æe,|zašto joj ne pomogneš.
+{90474}{90580}Julia doði brzo.
+{90754}{90818}Pusti me! Pusti me! Sranje.
+{90830}{90886}Spusti me, idem.
+{90928}{90962}O Bože.
+{91704}{91748}Kamo mislite da idete?|Požuri.
+{91834}{91882}Dolazi nazad.
+{92284}{92318}Koga vraga?
+{92764}{92806}60659
+{92852}{92908}Može znaèiti bilo što.
+{92922}{93038}Toèno. Možda su koordinate,|4 dimenzionalne.
+{93130}{93290}Možda je neèiji roðendan,|poštanski broj ili serijski broj.
+{93350}{93422}Bože kako bih voljela da sam.. pametnija..
+{93514}{93578}Kate što misliš, zašto si ovdje?
+{93628}{93704}Ne znam. Možda sam bila na krivom mjestu |u krivo vrijeme.
+{93756}{93818}Prokletstvo,|mora biti neko znaèenje u ovome.
+{93962}{94028}Možda nas samo gledaju.
+{94318}{94440}Samo netko sa znanjem i resursima može stvoriti nešto ovakvo.
+{94454}{94566}Ok, Max. Recimo da imaš pravo.|Da je Alex Trusk odgovoran za ovo.
+{94590}{94640}Da li nam to pomaže da izaðemo van?|Ne.
+{94658}{94712}Još uvijek smo zaglavljeni ovdje,|bez traga.
+{94720}{94806}I ako je to neèija igra,|nije poštena.
+{94822}{94866}Max misliš....?
+{94942}{94986}Max, moramo se nastaviti kretati,|doði.
+{95046}{95084}Max?
+{95234}{95280}Max, što je sa tobom?
+{95628}{95704}O sranje.|Soba sa promjenjivom varijablom vremena.
+{95716}{95774}Fantastièno.|-Da moglo bi se reæi.
+{96346}{96376}Drži ruke dalje od mene.
+{96392}{96420}Hello Jerry.
+{96422}{96468}Tko si dovraga ti?|-Zar me ne prepoznaješ?
+{96470}{96506}Gdje sam?|Kako znaš moje ime?
+{96512}{96552}Ne poznaješ me?|Ne!
+{96556}{96590}Gdje sam zaboga?
+{96646}{96710}Ne sjeèaš me se?|-Ne!
+{96726}{96804}A ostalih?|Slijepe cure?
+{96810}{96892}A one stvari koja te rasjekla?
+{96914}{97032}Ne želim ti zlo,| ali ne znam...
+{97114}{97206}Ti ne želiš meni zlo?|Lud si Jerry.
+{97248}{97286}Kako dugo si tu?
+{97302}{97346}Ne znam.|Upravo sam se probudio.
+{97362}{97448}Upravo si se probudio? Sranje!
+{97534}{97740}Stvarno si imao pravo.|Ovo stvar spaja paralelne svjetove.
+{97754}{97804}Jesi li pio?
+{97848}{97954}Znaš što?|Jebe mi se za sve.
+{97980}{98032}Zašto govori o paralelnim svjetovima?
+{98138}{98184}Mogu li ti postaviti pitanje Jerry?
+{98250}{98340}Da, samo me nemoj ozlijediti.
+{98412}{98486}Jesi li gladan?|Jesi li?
+{98590}{98640}Da.|Mislim, da.
+{98752}{98874}Jer sam ja gladan.|Umirem od gladi.
+{99846}{99876}O moj bože.
+{99934}{99978}Kate, što je?
+{100242}{100314}Kate, što vidiš?
+{100548}{100588}Kate, što se dogaða
+{100622}{100674}Ne znam Sasha.
+{100728}{100842}Mislim da u drugoj stvarnosti| stvari nisu dobro završile.
+{101144}{101188}Opet o tome Alex Trusku.
+{101192}{101248}Zašto ga se toliko bojiš?
+{101254}{101426}Zato jer je genij, njegov moral je |ortodoksniji od onog Majke Tereze.
+{101446}{101488}Max, zašto panièariš?
+{101504}{101610}Zato što ovdje nema nikoga,|tko je bio povezan sa time.
+{101864}{101908}Možeš li èuvati tajnu=
+{101944}{102008}Naravno, obožavam tajne.
+{102058}{102226}Napravio sam igru Relativnost. Za igraèe povezane |meðusobno, koji æe se igrati preko interneta..
+{102284}{102332}..koristeæi razlièite vremenske oznake.
+{102376}{102464}Što želiš reæi?|Ti si dizajnirao sve ovo?
+{102472}{102584}Ne, samo vremenske stvari.|Bilo je to samo za igru.
+{102599}{102626}I evo nas ovdje.
+{102658}{102730}To je super igra, Max.
+{102753}{102804}Imaš li još kakve tajne koje mi želiš povjeriti?
+{102808}{102874}Ljudi su mrtvi!|-Nisam ja kriv za to!
+{102910}{102986}Bila je to samo igra,|nisam je mogao èak niti prodati.
+{103003}{103096}Sve je išlo preko sudske tužbe.|-Kakve tužbe?
+{103099}{103186}Ne znam, ja sam...|Ok ti si odvjetnica.
+{103240}{103301}Organizacija Cyber Thrill|mi je ukrala igru.
+{103332}{103371}Cyber Thrill?
+{103378}{103414}Jesi li èula za njih?
+{103434}{103502}Da.|-Baviš li se ti kompjuterskim igricama?
+{103562}{103604}Nagodba.
+{103618}{103656}Molim?
+{103668}{103722}Savjetujem da se nagodiš  s njima.
+{103724}{103764}Ništa ne možeš.
+{103773}{103812}Kako ti to znaš?
+{103814}{103894}Zato jer ne možeš pobijediti|Cyber Thrill.
+{103958}{103999}Tko je njihov vlasnik.?
+{104006}{104046}Izon.
+{104066}{104106}Kako znaš?
+{104134}{104221}Zato... jer ih zastupam.
+{105552}{105612}Napokon smo se sreli,|veæ sam mislio da sam ja jedini ovdje.
+{105627}{105671}Kako si to napravio sa svojom glavom?
+{105744}{105834}Imaš li ikakvih ideja što se dogaða ovdje?|Pazi.
+{105920}{106038}Nisi jedini ovdje Jerry.|Ovdje ima mnogo ljudi poput tebe Jerry.
+{106062}{106097}Kako znaš moje ime?
+{106336}{106501}Aaaaaaaaaa...
+{106573}{106608}Zašto jednostavno ne odeš.
+{106648}{106694}Slijepa sam Kate.
+{106710}{106799}Ja sam ti teret.|Prije æeš uspjeti bez mene.
+{106816}{106892}Sasha molim te znam kako se osjeèaš.
+{106912}{106952}Ne neznaš. Pojma nemaš kako se osjeæam.
+{106954}{107012}Znam da se èini uzaludno.|-I jest uzaludno.
+{107014}{107071}Ne nije. Shvatit æu ovo.
+{107179}{107362}Shvatiti?|Ja bih to trebala shvatiti.
+{107423}{107477}Što si upravo rekla?
+{107512}{107546}Oprosti Kate, nisam željela..
+{107548}{107590}Ne ne, prije toga...
+{107601}{107746}Zašto misliš da bi ti trebalo ovo riješiti.
+{107866}{107908}Nisam bila oteta.
+{107958}{108010}Vidjela sam da stavljaju ljude ovamo.
+{108012}{108106}Došli su po mene,|zato sam pobjegla na jedino mjesto...
+{108142}{108176}... gdje se nisu usudili slijediti me.
+{108216}{108252}Ovdje.
+{108384}{108421}Tko si ti?
+{108466}{108556}Max je imao pravo.|Jerry je bio u krivu.
+{108577}{108614}Ja ostajem.
+{108622}{108652}O moj bože.
+{108690}{108808}Sasha.|Sasha je nadimak za Aleksandra. Alex Trusk.
+{109054}{109142}Prokletstvo. Ovo je najgora noæna mora |koju sam ikad imala.
+{109177}{109212}Željela bih da se mogu probuditi.
+{109256}{109302}Ti stvarno misliš da je sve ovo samo san?
+{109856}{109890}Definitivno.
+{109904}{109946}U pravom svijetu nebih te nikad poljubila.
+{109980}{110014}Ma da?
+{110042}{110112}Da.|Nisi moj tip.
+{110156}{110192}Nisi ni ti moj tip.
+{111898}{111949}Becky Young?|-Da.
+{112018}{112094}Rebbeca Young.|-Da.
+{112114}{112168}Tko si ti?
+{112271}{112334}Tko sam ja?|Simon Grady.
+{112346}{112414}Tvoji su me roditelji unajmili,| da te pronaðem.
+{112426}{112488}Stvarno?|-Da. Hvala bogu.
+{112566}{112620}Jako sam sretan što te vidim,|Becky.
+{112648}{112698}Hodam ovim sobama satima.
+{113001}{113064}Moraš voljeti te paralelne svjetove.
+{113162}{113210}Izgradila si ovu stvar?
+{113223}{113264}Dala sam im kljuè gradnje. Više nego što su željeli.
+{113303}{113349}Dala sam im pravu Hiper kocku.
+{113364}{113401}Dakle kako se izlazi van?
+{113408}{113474}Kate to nije igra. |Nema sretnog kraja.
+{113532}{113586}Prostor nije pod kontrolom.|Nestabilan je.
+{113653}{113753}Zar ti ovi brojevi ništa ne znaèe. 60659.|Moraju nešto znaèiti.
+{113762}{113794}Svuda su.
+{113806}{113868}Oprosti Kate.| Gotovo je.
+{113903}{113982}Ne nije gotovo.|Ne još.
+{114486}{114521}Koji vrag?
+{114862}{114938}O moj bože moramo iæi.|Moramo iæi odavde.
+{114942}{114988}Pusti me.|-Ne ti moraš poæi samnom.
+{115046}{115182}O Bože.|Samo idi brzo, brzo.
+{115292}{115326}Dobra cura.
+{115430}{115523}Koji vrag?|O moj Bože.
+{115794}{115832}To je ludo.
+{115958}{116014}Jerry-ev dijagram.
+{116464}{116514}Odjednom se pojavljuju ovdje.
+{116571}{116932}Brojeke, jednažbe mrtvog fizièara.|I tijelo pukovnika visi ondje kao da ga nismo ni spasili.
+{117026}{117130}Sve se ponavlja u krug.
+{117178}{117298}Sasha,  mollim te moraš imati neku ideju što to znaèi.
+{117316}{117384}Svi svijetovi se spajaju u jedan.
+{117402}{117503}I što se dogodi s nama kad se ... spoje..
+{117521}{117651}Sruši se sve.|Samo je pitanje vremena.
+{117699}{117749}Neæu tu samo stajati dok se to dogaða.
+{118108}{118188}Kate, vrijeme istjeèe.
+{118662}{118692}Ne.
+{118708}{118780}Neæu umrijeti ovdje!|-Voljela bih imati malo tvog duha Kate.
+{118801}{118840}Zdravo ljepotice.|Jesam li ti nedostajao?
+{119104}{119166}Zdravo Kate.|-Pusti je.
+{119194}{119310}Tko si ti?-Ja sam ja.
+{119356}{119454}Dobri stari Simon.|Sjeèaš li se toga?
+{119504}{119566}Dugo sam èekao da ti vratim.
+{119590}{119646}Pa to je bilo prije samo par sekundi?
+{119648}{119746}Ne budi glupa Kate. Zar neznaš da vrijeme teèe |drugaèije na ovom mjestu.
+{119836}{119940}Ok samo je pusti, ona je samo dijete.
+{119947}{120032}Da i bit æe mrtvo dijete, ako ti ne doðeš ovamo tatici.
+{120080}{120201}Dobro Simon, samo je pusti |i onda možemo nešto smisliti.
+{120264}{120302}Ti zauzmi njeno mjesto.
+{120380}{120426}Što želiš?
+{120464}{120501}Gladan sam.
+{120520}{120710}Simon, nema smisla.|Ionako smo svi mrtvi.
+{120790}{120882}Ok.|-Neeeeeee
+{121154}{121262}Doði Kate,|Zabava upravo poèinje.
+{121520}{121552}Koji vrag?
+{121990}{122056}Nedostajat æeš mi Kate.
+{122580}{122728}Naravno. 60659.|Datum spajanja.
+{122742}{122810}Izraèunao je kada æe se prostor urušiti.
+{126880}{126922}Zdravo Kate.|Dobrodošla nazad.
+{126982}{127090}Dakle, shvatila si sve?|-Da gospodine.
+{127116}{127156}Ne smiješ trošiti vrijeme.
+{127190}{127258}Ureðaj?|-Jesi li imala sreæu?
+{127729}{127814}Odnijet æemo to Darcy-ju da vidmo |da li je nešto snimljeno na tome.
+{128460}{128520}Gospodine?|Da gospodine.
+{128552}{128594}Faza 2 je obustavljena.
+{128672}{128834}Razumijem. Da gospodine.|Tako je gospodine.
+{128859}{130359}ÐœÐ¾Ð»Ð¸Ð¼Ð¾ Ð²Ð°Ñ Ð´Ð° Ð¾Ñ†ÐµÐ½Ð¸Ñ‚Ðµ Ð¾Ð²Ð°Ñ˜ Ñ‚Ð¸Ñ‚Ð» Ð½Ð° www.osdb.link/3j3mb|ÐŸÐ¾Ð¼Ð¾Ð·Ð¸Ñ‚Ðµ Ð´Ñ€ÑƒÐ³Ð¸Ð¼ ÐºÐ¾Ñ€Ð¸ÑÐ½Ð¸Ñ†Ð¸Ð¼Ð° Ð´Ð° Ð¸Ð·Ð°Ð±ÐµÑ€Ñƒ Ð½Ð°Ñ˜Ð±Ð¾Ñ™Ðµ Ñ‚Ð¸Ñ‚Ð»Ð¾Ð²Ðµ

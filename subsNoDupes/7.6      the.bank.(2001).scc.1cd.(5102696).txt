@@ -1,0 +1,905 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{339}{424}7 puta 3 je 21.
+{428}{508}7 puta 4 je 28.
+{512}{595}7 puta 5 je 35.
+{599}{677}7 puta 6 je 42.
+{681}{772}7 puta 7 je 49.
+{776}{865}7 puta 8 je 56.
+{869}{960}7 puta 9 je 63.
+{964}{1043}7 puta 10 je 70.
+{1047}{1124}7 puta 11 je 77.
+{1128}{1207}7 puta 12 je 84.
+{1247}{1381}Poûelimo dobrodoölicu gospodinu|Dûonsonu iz banke Central Viktorija.
+{1393}{1454}Dobro jutro, gospodine Dûonson.
+{1469}{1582}Doöao je da nam objasni koliko su|banke vaûne. -Hvala, gospoo Doerti.
+{1600}{1677}U ûivotu, novac Êe vam|biti potreban za tri stvari.
+{1754}{1793}Zna li neko? -Auto?
+{1797}{1875}Da, tako je. Auto.
+{1919}{1953}Da? -KuÊa?
+{1957}{2001}Nadajmo se, veoma velika.
+{2171}{2275}Ovo je najvaûnija stvar za|koju ötedimo novac. -Deda Mraz?
+{2317}{2415}Ne, nije Deda Mraz. -Starost?
+{2432}{2488}Da, za penziju.
+{2504}{2552}Kad ste prestari da biste radili,
+{2557}{2654}ako nemate novac za|ovo, od Ëega Êete ûiveti?
+{2719}{2787}Ako biste ötedeli samo|50 centi nedeljno...
+{2803}{2909}i ako biste ötedeli u banci, to ulaganje|bi se dupliralo na svake tri godine...
+{2913}{3101}i za 25 godina, svako|od vas bi imao $727.000.
+{3130}{3203}To je nemoguÊe. Godina|ima samo 52 nedelje.
+{3215}{3288}Da... da, tako je. -A u 25 godina...
+{3292}{3429}Imaö samo 1300 nedelja. -Tako je.
+{3452}{3500}Da ti pokaûem kako to funkcioniöe.
+{3541}{3603}Akumulirana kamata.
+{3628}{3720}Dobijaö kamatu na kamatu.
+{3859}{3912}Razumeö?
+{4056}{4094}Da. Razumem.
+{4135}{4238}Dobro. A sad, u ime|banke Central Viktorija...
+{4242}{4359}svakom od vas Êemo otvoriti|knjiûicu sa 50 centi.
+{4384}{4534}-== [ www.OpenSubtitles.com ] ==-
+{7523}{7583}Ovo bi trebalo da sredi|klimatske varijacije.
+{7625}{7695}Kako misliö da predvidiö vreme?
+{7844}{7907}Tako... to bi bilo to.
+{7937}{7975}Svaka Ëast.
+{8028}{8129}Posle tri dana. -Tri|dana, ali sad radi kao sat.
+{8485}{8589}ObeÊali ste inovacije,|pomeranje granica...
+{8593}{8707}trgovaËke i ulagaËke efikasnosti.|»ini mi se da ste to tako nazvali.
+{8711}{8815}U poslednja tri meseca je doölo|do porasta cena akcija za 8%.
+{8836}{8924}U istom kvartalu proöle|godine rast je bio 16%.
+{8937}{9007}Mogu li da vas podsetim da smo u|istom tom kvartalu proöle godine...
+{9011}{9120}zatvorili 1.100 ekspozitura i|broj ljudi smanjili za treÊinu?
+{9125}{9219}Da, to je izvanredno|uraeno. Brzo, odluËno.
+{9223}{9272}Vaöa prva godina sa nama|je bila izvrsna za poËetak.
+{9276}{9394}A sad dozvolite da ja vas podsetim|na naö osnovni poslovni princip.
+{9412}{9467}Kompanija se razvija.
+{9481}{9543}16% proöle, znaËi 20% ove godine.
+{9563}{9624}24% sledeÊe godine.
+{9652}{9740}Naûalost viöe nemamo ekspozitura|koje bismo mogli da zatvorimo.
+{9744}{9803}Imate tri meseca, Sajmone.
+{9875}{9971}Ne valja. -RazmotriÊemo zatvaranje|joö treÊine ekspozitura u gradu.
+{9975}{10050}UnaprediÊemo moj bankarski program|kako bismo otpustili joö ljudi...
+{10054}{10117}i zaradili joö neki jebeni|dolar. I joö neöto...
+{10121}{10216}organizujte sastanak sa PR sluûbom pa|neka izdaju neko prikladno obrazloûenje.
+{10240}{10294}äta sad Ëekate? Na posao!
+{10722}{10786}äta je to? -Fraktalna teorija.
+{10790}{10861}Koristi je za predvianje|promena na berzi.
+{10874}{10994}I moûe li? -Ne joö. Ali, ako su|ove cifre taËne, onda je jako blizu.
+{11018}{11063}To sam viao i ranije.
+{11067}{11124}Jedan takav program je upropastio|i INTX zajedniËki fond...
+{11128}{11200}12 meseci pre nego öto se uruöio i|odneo sa sobom pola milijarde dolara.
+{11204}{11265}Ovo je mnogo naprednije. Pametniji je.
+{11269}{11350}Da, svi su oni pametniji|dok se ne dokaûe suprotno.
+{11365}{11429}To je tehnika koja se zasniva na haosu.
+{11433}{11553}Pokuöava da pronae red u ludilu|koje vlada na berzi... -Ma nemoj?
+{11557}{11633}Moûe li da predvidi da Êe neki|od brokera da se naöljema...
+{11637}{11683}i da se ovaj odluËio na|taj oËajniËki korak...
+{11688}{11765}zato öto ga ûena vara sa|öefom japanskog restorana?
+{11770}{11842}Tu postoji jedna stvar, Vinsente,|koju niko nikad ne uzima u razmatranje.
+{11847}{11888}Ljudski faktor.
+{11903}{11944}Moûda on moûe?
+{11948}{12088}Pravi program koji se razvija,|program koji uËi na iskustvima berze.
+{12116}{12235}Nazvao ga je Betsi. -Sjajno,|nazvao ga je po kravi.
+{12365}{12458}Dobro... Pozovi ga.
+{13594}{13646}Ako si spreman, poËni, Dûime.
+{13871}{13949}Izgleda da nisam pripremio niöta|dovoljno jednostavno za vas.
+{13994}{14068}Objasnite nam kao öto biste objasnili|nekom veoma pametnom prijatelju.
+{14254}{14355}Posle fakulteta poËeo sam|da prouËavam ekonometriju.
+{14375}{14522}Moja teza razrauje Vol Strit i tri|kraha berze, 1929., 1974. i 1987.
+{14546}{14584}ProuËio sam svaki krah,
+{14588}{14655}kako je do njega doölo, kako|je to uticalo na obiËne ljude,
+{14659}{14732}na investitore i na sve one|koji su pretrpeli gubitak.
+{14765}{14819}SledeÊi korak je bio sasvim logiËan.
+{14837}{14932}Kolika bi bila korist za druötvo|ako bismo predvideli sledeÊi slom?
+{14983}{15050}Mnoge patnje bi se mogle|izbeÊi, korist bi bila ogromna.
+{15054}{15109}I zato sam proöirio svoja istraûivanja.
+{15113}{15167}Razgovarao sam sa berzanskim|ekspertima, prouËavao razne...
+{15171}{15247}dokumente zasnovane na berzanskim|spisima i istorijskim Ëinjenicama.
+{15285}{15330}I niko nije bio ni blizu.
+{15353}{15429}Svi su zanemarivali|jedan osnovni princip.
+{15450}{15552}Predvideti öta Êe jedna osoba|da uËini... skoro je nemoguÊe.
+{15566}{15677}Ali predvideti öta Êe sto|ljudi uËiniti, mnogo je laköe.
+{15696}{15778}S tim na umu, bacio sam se|malo dublje u matematiku.
+{15792}{15852}Rasplinuta logika, nelinearna|dinamika, teorija haosa.
+{15856}{15905}Posebno interesantan mi je bio...
+{15909}{15999}Mendelbrotov rad i njegova|otkriÊima u fraktalnoj geometriji.
+{16161}{16217}Izvinite, moûete li da|mi pozajmite svoje pero?
+{16531}{16576}Otprilike ovako...
+{16580}{16735}svaki pojedinaËni prost dogaaj,|ima ozbiljne i kompleksne...
+{16739}{16820}rezultate... koje je|gotovo nemoguÊe predvideti.
+{16835}{16950}Stvari kao öto su meteoroloöke öeme,|formacije oblaka, ove mrlje od mastila,
+{16954}{17054}sa milimetarskom|preciznoöÊu... sve do sad.
+{17073}{17152}Ova matematika nam dozvoljava|da predvidimo gotovo sve.
+{17179}{17249}Ako moûemo ovo da predvidimo...
+{17269}{17328}onda je predvianje kretanja|na berzi sasvim jednostavno.
+{17584}{17676}Hvala, Dûime. -Hvala|vam na vaöem vremenu.
+{17838}{17961}Da nisam preterao sa stolnjakom?|-Ne. Mislim da si bio izvanredan
+{17983}{18046}Mnogo ti hvala. -SreÊno.
+{18125}{18169}Kakva budala.
+{18205}{18310}HoÊu da ga zaposlite. -Stvarno? Zaöto?
+{18314}{18349}Zato öto je ta budala...
+{18353}{18461}moûda na korak od pronalaûenja svetog|graala u teoriji ekonomije, zato.
+{18652}{18695}SaËekaÊemo ovde.
+{19168}{19229}äta vam je potrebno? -Molim?
+{19233}{19323}Da zavröite to na Ëemu|radite. Da reöite problem.
+{20532}{20597}Drago mi je öto te|vidim, Dûime. -Zdravo.
+{20601}{20651}Sajmone... -Vinsente.
+{20680}{20734}Impresioniraj ga ovim sranjem.
+{20760}{20881}Da, Dûime, ovde imamo najnoviji|procesor tek izaöao iz fabrike.
+{20900}{20953}Jedini je u zemlji.
+{20957}{21037}Napredniji je od onih sa kojim|rade telekom, poresko i vojska.
+{21139}{21232}Povezan je sa svim deöavanjima na|berzi i naö berzanski tim ima...
+{21236}{21317}primarno pravo koriöÊenja|ali, mimo toga...
+{21321}{21442}Mimo toga... tvoj je. -Ne|moûeö sve ovo sam, Dûime.
+{21446}{21546}Potrebni smo ti. MoÊ,|sredstva, praktiËne aplikacije.
+{21558}{21598}Mi moûemo sve da ti pruûimo.
+{21657}{21710}To je ono öto sam oduvek ûeleo.
+{21722}{21780}Onda smo se dogovorili?
+{21980}{22022}Treba li vam pomoÊ? -Hvala.
+{22026}{22075}U redu, odveûi.
+{22115}{22178}HoÊeö li moÊi sam, Rodûe? -Da.
+{22337}{22376}Rodûere!
+{22553}{22595}Hvala, druûe. -∆ao.
+{22693}{22731}Poöta.
+{22755}{22860}Ovo su morali liËno da dostave.|Ne mogu ovako sa ovim stvarima.
+{22864}{22933}Kako god, joö jedna opomena.|Zakon je na njihovoj strani.
+{22937}{23022}Tu piöe da ostajemo bez iËega.|Bez kuÊe, firme, bez iËega.
+{23037}{23076}Moûemo sve to da odloûimo.
+{23080}{23162}Malo Êemo da ih izbegavamo da|ne mogu da nam uruËe pozive.
+{23166}{23223}»im ih vidimo, negde|Êemo da se izgubimo.
+{23227}{23373}Sjajna ideja, da do kraja ûivota ûivimo|u bekstvu. Ti, ja i Rodûer, begunci.
+{23416}{23472}Treba mi samo joö malo vremena.
+{23476}{23537}NabaviÊu novac. -NeÊeö uspeti, Vejne.
+{23690}{23780}äta ja mogu da uradim, tata? -Niöta.
+{23784}{23831}Ljuta je na mene.
+{23844}{24003}Misli da sam ja upropastio posao,|ali to nije razlog da ti brineö.
+{24007}{24076}Doi ovamo, ortak.|Letiö u vodu... letiö!
+{24630}{24686}Dobro jutro, gospodine.
+{24690}{24740}Vi to meni? -Da, gospodine.
+{24858}{24912}Dobro jutro. -Dobro jutro.
+{24990}{25088}Ove cifre predstavljaju sve|rezultate u poslednjih öest meseci.
+{25112}{25187}Ovo bi trebala da bude|zanimljiva proba za Betsi.
+{25206}{25317}Kako napredujemo? -Trenutno|radimo jednostavan test kojim...
+{25322}{25398}pokuöavamo da predvidimo male promene|na berzi i da reagujemo na njih.
+{25402}{25488}Kompjuter Êe obraditi niz nasumiËnih|rezultata u poslednjih 6 meseci.
+{25704}{25748}Hajde da probamo uûivo.
+{25752}{25830}Molim? -Hajde da ubacimo neki|dinar i da ga stvarno isprobamo.
+{25834}{25927}Recimo, da probamo sa deset miliona|dolara i da vidimo öta Êe da se desi.
+{25973}{26033}Nismo joö sasvim spremni. Potrebno|je joö neko vreme da se sve dotera.
+{26037}{26155}Koliko? -Trenutno analiziramo|samo berzu u Sidneju...
+{26159}{26230}Dovedi tri naöa najbrûa|brokera i daj im telefone.
+{26235}{26329}Telefonom, Sajmone, samo...|-DoveöÊemo ovde tri telefonske linije.
+{26333}{26378}Kad ti sistem kaûe da kupujeö,|kaûeö brokerima da kupuju,
+{26382}{26459}kad ti kaûe da prodaö, kaûeö im da|prodaju. Prosto. -Ali, softver je...
+{26463}{26559}Da bi se napravio biser, potreban|je pesak. Ja Êu biti tvoj pesak.
+{26563}{26634}Mnogo bolje Êeö raditi|ako ti budem disao za vrat.
+{26647}{26716}To je tehnika koja se|Ëesto koristi u menadûmentu.
+{26730}{26772}äta kaûeö?
+{26800}{26884}Novac nije moj, za mene je|to najobiËniji test. -U redu.
+{26912}{26984}Sajmone... 10 miliona|dolara? -Da, Vinsente.
+{27015}{27060}Deset miliona.
+{27082}{27208}Da vidimo kako to radi. Deset miliona|dolara, trgovaÊemo trideset minuta.
+{27330}{27396}U redu, ovo je krivulja|za narednih 30 minuta.
+{27410}{27463}Postoji mala korekcija|u poslednja dva minuta.
+{28342}{28400}Trebalo bi da prestane da pada...
+{28447}{28503}otprilike... sad.
+{28641}{28700}Jebi ga, ne radi.|Prestanite, prestanite odmah.
+{28743}{28796}Prestanite, prekinite vezu.
+{28837}{28901}Jebi ga, obavili smo 11|transakcija dok linija nije pala.
+{28915}{28975}Pogledaj ovo. Stvarno je pala.
+{28988}{29056}Malo kasno, ali si ipak tako predvideo.
+{29085}{29134}Dobro smo proöli.
+{29147}{29294}900.000 dolara... u plusu. -U plusu?
+{29479}{29545}Tek dva dana radiö za nas a|veÊ si zaradio milion dolara.
+{29563}{29637}Ali ne bi niöta uradio|da ti nisam disao za vrat.
+{29675}{29777}Dobar poËetak, Dûime... odliËan|poËetak. Vodim te na ruËak.
+{31593}{31658}Moraö mnogo brûe da se kreÊeö.
+{31700}{31756}Ti si njihov sin, je l' da?
+{31781}{31904}Sluöaj... da li bi mogao da mi uËiniö|veliku uslugu, da mi kaûeö gde su?
+{31932}{32072}Ne razgovaraö sa strancima?|Rekli su ti da me izbegavaö?
+{32096}{32148}Da sam veliki, zli Ëika?
+{32175}{32292}Dobro... samo im daj ovo.
+{32332}{32398}Reci im da im je uruËen liËno, u redu?
+{32754}{32805}Zdravo. -Zdravo.
+{32809}{32861}Ideö gore na cigaru? -Ne puöim.
+{32881}{32941}Izgledaö kao da bi ti|dobro doöla. -Hvala.
+{32945}{33023}Radiö ovde? -Ne, samo|uûivam u arhitekturi.
+{33027}{33122}U kom si odeljenju? -Ne mogu da|ti kaûem, to je strogo poverljivo.
+{33126}{33207}Blagajnica si? -Vidi se? Grozno.
+{33225}{33296}A öta si ti? -Ne znam. Pogodi.
+{33310}{33429}Rekla bi' da si ti neki kompjuterski|zaluenik. -PriliËno si blizu.
+{33445}{33494}Ja sam Dûim. -Miöel.
+{33568}{33605}Vidimo se kasnije.
+{34608}{34645}Rodûere!
+{34733}{34779}Rodûere, doi, sine!
+{34830}{34898}Rodûere!
+{34925}{34964}Rodû!
+{34997}{35052}Kako je bilo na ruËku sa "kraljem"?
+{35056}{35113}Sve vreme se hvalio|svojom velikom kitom.
+{35117}{35161}Na trenutak sam pomislio|da Êe da mi je pokaûe.
+{35165}{35233}Znam za taj izraz veÊ|godinama. -äta znaËi?
+{35251}{35290}Velika kita... je l' tako?
+{35303}{35389}To su najbolji brokeri.|Kad oni trguju svi ih prate.
+{35393}{35454}Ne samo da ih ne|interesuje öta drugi rade,
+{35458}{35500}nego mogu i da utiËu na trûiöte.
+{35504}{35556}Toliko pomno ih svi prate|da svaka njihova odluka...
+{35560}{35642}moûe imati ogroman uticaj na trûiöte.
+{35658}{35756}A ako pogreöe... svi ostali stanu|i Ëekaju da vide öta Êe da se desi?
+{35760}{35864}Velika kita, duboki dûepovi.|Oni opstaju, sitna riba propada.
+{35985}{36059}HoÊeö joö jedno piÊe? -Moûe.
+{36087}{36131}Isto?
+{36363}{36449}Zdravo. -Zdravo, beöe Dûim, je l' tako?
+{36490}{36626}Da. Miöel? -Ovo je Dûim. Radi|za banku... negde u podrumu.
+{36630}{36739}Koje reËe da si odeljenje? -Ne smem|da ti kaûem. Strogo je poverljivo.
+{36743}{36785}Vidi, tajanstveni Ëovek.
+{36789}{36846}Ovo su moje mnogo manje|tajanstvene prijateljice.
+{36851}{36951}Zdravo. -S kim si ovde?
+{36968}{37067}Sa prijateljem... takoe iz podruma.
+{37086}{37144}Pa... kad ode, moûeö|da nam se pridruûiö.
+{37574}{37661}Zar ne treba prvo da se upoznamo?|-äta ako se jedno drugom ne svidimo?
+{37665}{37703}Skroz si u pravu.
+{40905}{40990}Ako ûeliö da me raspakujeö u susednoj|sobi imam gomilu takvih kutija.
+{41200}{41291}Ko je Pol Dûekson? -Baö|si radoznala, je l' da?
+{41305}{41363}Drug iz osnovne ökole,|godinama ga nisam video.
+{41378}{41442}Morao bi da mu vratiö|knjigu. Kasniö 20 godina.
+{41588}{41720}Ne moraö da izgledaö kao|oni. -Da znaö da si u pravu.
+{41753}{41907}äta si ti, Dûime Dojle? Ovaj stan,|limuzina... Kako si sve to uspeo?
+{41911}{42072}Ja sam genije u matematici. I u|krevetu, naravno. Hajde, kasnimo.
+{42561}{42714}Halo? -Da, Dûime. Upravo sam dobio|tvoj izveötaj za poslednje dve nedelje.
+{42718}{42778}Malo sam zabrinut.
+{42795}{42857}Zaöto? Zato öto nema|nikakvog napretka, eto zaöto.
+{42869}{42922}{y:i}U Ëemu je problem? -Ne znam.
+{42926}{42991}OËigledno da nam promiËe neöto|bitno. Sad sam krenuo na posao.
+{43004}{43092}To je uvek problem sa vama. Previöe|ste na poslu a samo 'ladite jaja.
+{43114}{43174}Pa... -Vidimo se za 20 minuta.
+{43718}{43798}Ovo je linija fronta, Dûime.|Tu se deöava prava akcija.
+{43820}{43936}Jesi li radio tamo?|-1984. na Vol Stritu.
+{43940}{44047}Mislim, malo je drugaËije nego ovde|ali su osnovni principi sasvim isti.
+{44101}{44193}Dve godine sam radio na telefonu|dok me nisu pustili da trgujem.
+{44214}{44285}Najboljima je dopuöteno|da rade mimo pravila.
+{44289}{44345}S vremena na vreme moraö|im dati odreöene ruke.
+{44349}{44388}A öta ako naprave greöku?
+{44392}{44506}Njihov prostor se smanjuje,|imaju ograniËenu moÊ. Rade za 10%.
+{44520}{44581}Ako im rejting padne previöe nisko|kompjuter se automatski iskljuËuje,
+{44585}{44710}öto znaËi da viöe ne mogu da trguju.|Po meni, to je velika öteta. -Zaöto?
+{44714}{44791}Zato öto su ekstremi ono|öto stvarno vredi, Dûime.
+{44814}{44842}Svidelo bi ti se to...
+{44846}{44960}Kad cifre krenu da ti lete po glavi|a ti ih sagledavaö sa svih strana,
+{44964}{45030}da vidiö kako najbolje da ih iskoristiö.
+{45128}{45195}äta brokera Ëini dobrim?
+{45217}{45339}Sve ovo moraö da posmatraö kao|igru... koju moûeö da dobijeö.
+{45369}{45425}Vidiö onog tipa?
+{45494}{45551}On to nema? -Nema.
+{45639}{45716}A ti, misliö da ti imaö? Ili si kao on.
+{45861}{46027}Jednom sam uËestvovao u ozbiljnoj|trgovini... vrednoj milijardu dolara.
+{46040}{46105}Bio sam ja protiv njih.
+{46119}{46196}Povukao sam se u ugao|i samo sam posmatrao...
+{46200}{46290}Bilo je neverovatno, uzeo|sam im 200 miliona dolara.
+{46294}{46412}Otkinuo sam im glavu i|prosuo creva. -Stvarno?
+{46462}{46568}Sluöaj, Dûime, ako onaj tvoj|program skockaö kako treba...
+{46572}{46626}biÊe velikih zarada za sve.
+{46639}{46735}Osim za one sa prosutim|crevima? -Osim za njih.
+{46775}{46881}Da li si primetio, Dûime, koliko|lako si se postavio u koûu gubitnika?
+{46917}{46997}Moûda je to to öto tebi nedostaje.
+{47040}{47184}Zavröi posao, Dûime. Prestani|da kukaö kao ûena i zavröi posao.
+{47605}{47665}Dobar dan, ja sam Dajan Dejvis.
+{47669}{47744}Da li biste mogli da mi|zakaûete sastanak sa advokatom?
+{47836}{47954}Pojavi se neka starica i nosi jednu|od onih starih kasica prasica...
+{47958}{48098}znaö one stare kasice? U kasici ima|16 dolara i ja dodam jednu jedinicu.
+{48102}{48161}$116, da si joj samo video lice.
+{48165}{48204}I niko niöta ne primeti? -Ne.
+{48208}{48291}Ironija je u tome öto je banka sledeÊeg|meseca otpustila 300 poötenih radnika,
+{48295}{48356}a ja sam unapreena|izvrönog liËnog bankara...
+{48363}{48431}i tako su najbogatiji klijenti|banke dospeli u moje ruke.
+{48439}{48529}Koliko klijent mora da ima da|bi dobio svog liËnog bankara?
+{48545}{48595}Mora da ima prihode veÊe od|100.000 dolara bez poreza.
+{48608}{48654}Banka svakog meseca|gasi one manje raËune.
+{48658}{48744}Ljudi se plaöe da rade sa nama,|radije nose novac u manje banke.
+{48748}{48818}Ne samo da banka ostaje bez|radnika veÊ ostaje i bez klijenata.
+{48822}{48870}Ne brini, i ja Êu|uskoro ostati bez posla.
+{48874}{48923}BuduÊnost je u|kompjuterizovanim bankarima.
+{48927}{49007}Pozoveö telefonom i javiti|se digitalizovani ûenski glas.
+{49048}{49158}U redu, ti si na redu. U Melburn|si doöao zbog unapreenja?
+{49201}{49332}Ne, ne, u stvari, ovo mi je...|prvi posao od kad sam diplomirao.
+{49336}{49389}Namamili su me. -Da se obogatiö?
+{49393}{49475}Moûe biti. -Dobro, Ëime se baviö?
+{49492}{49555}Ne mogu da ti kaûem. -Nagovesti mi bar.
+{49559}{49608}Neöto apstraktno.
+{49670}{49708}Recimo...
+{49748}{49841}pravim matematiËke sisteme|koji mogu da predviaju stvari.
+{49889}{50019}To je dobar naËin da se zaradi novac.|Fiktivni novac, u stvari niöta posebno.
+{50045}{50106}Kao sistem koji Êe pobediti|loto? -Koji Êe pobediti berzu.
+{50121}{50187}Svaki gubitnik ima sistem, bez|obzira da li akcije ili za ajnc.
+{50200}{50243}Ne, ovo je malo komplikovanije|od toga, stvar je...
+{50289}{50326}To je sve öto mogu da ti kaûem.
+{50667}{50723}PromiËe nam neöto oËigledno.
+{50747}{50829}Samo da ti kaûem, da je poslednjih|sedam proba iölo direktno...
+{50833}{50916}banka bi izgubila 26|miliona dolara. -Sranje!
+{50960}{51055}Kad Êeö morati da kaûeö Sajmonu?
+{51136}{51176}Idem malo na sveû vazduh.
+{52504}{52605}Posle "Maröala, Pitersa i Radersona"|pokuöali smo kod "Kormaka i Smita".
+{52609}{52664}Svi su odbili da nas zastupaju.
+{52668}{52776}Svih 14 advokatskih kancelarija|tvrdilo je da radi za Central banku.
+{52790}{52868}Svi su nam rekli da ih sukob|interesa spreËava da nas zastupaju.
+{52872}{52990}Da, velike banke imaju taj obiËaj|da ih zastupa viöe kancelarija...
+{52995}{53074}kako bi svojim nezadovoljnim klijentima|onemoguÊile pokretanje procesa.
+{53087}{53140}To vam je kao neka vrsta kartela.
+{53144}{53209}I öta se radi u takvim sluËajevima|kad niko neÊe da vas zastupa?
+{53213}{53326}Obratite se meni. A da budem|iskren, to ne vodi niËemu.
+{53347}{53409}Da li se razumete u banke?
+{53423}{53516}Znam da vas lome vremenom i novcem.|I jedno i drugo imaju u izobilju.
+{53520}{53566}Decenijama mogu da|razvlaËe sudski postupak.
+{53570}{53626}Baö nas briga. -Baö vas briga?
+{53699}{53769}ProuËio sam policijska dokumenta...
+{53773}{53859}i nema sumnje da moûemo da tuûimo|öerifovu kancelariju za neËinjenje.
+{53869}{53932}Dozvola mu je istekla pre|otprilike öest meseci...
+{53936}{54020}i imao je neke nevolje sa|novinama. -Neke nevolje!
+{54024}{54077}Bojim se da od toga ne moûemo viöe.
+{54081}{54132}Ne moûemo da traûimo novËanu nadoknadu.
+{54136}{54213}Mi ne ûelimo novac. éelimo banku.
+{54256}{54359}Banka Êe se najverovatnije|odmah ograditi od svega.
+{54363}{54472}TvrdiÊe da po ugovoru ima|samo delimiËnu odgovornost.
+{54476}{54527}Moj savet je da ih ne tuûite.
+{54554}{54627}éao mi je. -Nije.
+{54657}{54710}Samo jedva Ëekate da nas se reöite.
+{55721}{55777}äta je, bre sa ovim tipom i|njegovim ökrabanjem po stolnjacima?
+{55781}{55890}Izgleda da je neöto otkrio.|SinoÊ je radio do kasno.
+{55907}{55991}Baö me interesuje da li Êe mi ovo|objasniti. -I dalje mu ne verujeö?
+{55995}{56038}Nikome ja ne verujem.
+{56252}{56294}Sasvim sam blizu.
+{56298}{56405}Potrebno mi je joö nedelju dana, a dotle|moûeö da obaviö joö jedan test. -U redu.
+{56440}{56516}Dûime, voleo bih da|veËeras doeö na veËeru.
+{56520}{56570}PoslaÊu kola po tebe, oko osam sati.
+{56574}{56648}Izvini, ali imam sastanak.|-U redu je, povedi i Miöel.
+{56652}{56700}Otkud znaö? -Ja sve znam.
+{56704}{56805}Ja sam kao Bog, samo u boljem odelu.|U osam sati ispred tvoje zgrade.
+{56849}{56903}Da idem?
+{56907}{56964}Mene nikad nije pozvao.
+{57319}{57376}Postoji joö jedna moguÊnost.
+{57393}{57498}U suötini, ostali bez|posla zbog strane valute.
+{57502}{57618}Pokuöavali ste da otplatite|svoje rate uprkos variranju kursa.
+{57622}{57702}To je taËno, zar ne? -Da. Mislio sam|da se radi o övajcarskim francima...
+{57706}{57782}ali ispostavilo se da su u|pitanju pezosi ili jeni. -Da.
+{57801}{57886}E pa... naöao sam izveötaj na netu...
+{57925}{58017}u kom piöe da je joö 138 ljudi|na isti naËin ostalo bez posla.
+{58021}{58169}U nekoliko sluËajeva banka je davala|kredite ne objaönjavajuÊi rizik.
+{58173}{58218}Banka je davala kredite|sa niskom kamatom,
+{58222}{58279}a rizik usled kursnih razlika|je totalno relativizovan.
+{58320}{58426}Ako uspemo da dokaûemo prikrivanje|informacija u vaöem sluËaju...
+{58430}{58474}onda...
+{58478}{58539}onda je banka odgovorna.
+{58552}{58595}PomoÊi Êete nam?
+{58599}{58675}Pa, ako niöta... bar|Êu pokuöati. -Hvala.
+{58879}{58961}Smiri se. Dobra sam u ovim stvarima.
+{58965}{59060}Prijatan razgovor, malo koketiranja,|tu i tamo neka glupa öala...
+{59118}{59206}Koliko dugo si veÊ|u banci? -Tri godine.
+{59220}{59284}I dalje to smatram samo privremenim.
+{59420}{59516}Previöe si pametna za|blagajnicu. -Nisam blagajnica.
+{59639}{59720}Znaö... Sajmon i banka znaju za nas.
+{59724}{59796}Ti mu radiö najvaûniji projekat,|normalno da te drûi na oku.
+{59800}{59841}Znam, ali...
+{59869}{59925}Da li te ja öpijuniram?
+{60995}{61070}Miöel... izvini.
+{61087}{61140}Bar sam neöto viöe saznala o tebi.
+{61159}{61236}ParanoiËan si i|tajanstven. -ParanoiËan?
+{61626}{61688}Izvolite. OseÊajte se kao kod kuÊe.
+{61701}{61743}Dobro doöao, Dûime.|Drago mi je öto te vidim.
+{61747}{61794}Ovo je moja ûena, Monika.
+{61798}{61849}Dobro veËe, drago mi je. -Ovo je Miöel.
+{61853}{61892}Drago mi je, moûda.
+{61904}{61989}Izvolite. Ne zaboravi, dok si|ovde, jedna si od nas. Dûime!
+{62056}{62126}Ne obraÊaj paûnju na|njega, on je obiËna budala.
+{63354}{63409}Gospodo, zaöto ne|bismo izaöli na cigaru?
+{63440}{63476}Kako noga?
+{63614}{63651}Dûime!
+{63705}{63743}Ne ostavljaj me.
+{63922}{63986}äta slavite?
+{63990}{64113}Jaru. 38 kilometara prvoklasne|obale koja je pripadala drûavi.
+{64126}{64202}Od danas u 18:00, pripada nama.
+{64221}{64309}Molim? -Podeli to na parcele od|Ëetiri jutra, ti si matematiËar.
+{64313}{64383}Koliko smo zaradili?|-Joö uvek niste vlasnici.
+{64387}{64500}Koliko znam joö nemate sredstava|a i to je naseljena zemlja.
+{64516}{64583}Javno vlasniötvo... -Ne|budi jebena budala, Dûime!
+{64587}{64700}Uvek moûemo da uskoËimo i da uzmemo|ono öto smo finansirali, kad god hoÊemo.
+{64710}{64797}To se zove vlasniötvo.|Trûiöte me prisiljava na to.
+{64813}{64848}Moûemo da zaplenimo imovinu,
+{64853}{64935}i da iskoristimo MMF da natera|zemlje da je otkupe nazad.
+{64939}{65055}Svaku vladu moûemo da nateramo|da uradi baö ono öto mi ûelimo.
+{65086}{65152}Bogati biznismen ne moûe|da uradi niöta nelegalno.
+{65156}{65271}Miöel... -Ne, ne, ne. U redu je,|Dûime. Ovo je pravo osveûenje.
+{65275}{65390}Naravno ako se zasniva na naivnosti a|ne na nepoznavanju svinjca u kom ûivimo.
+{65402}{65440}Kako god hoÊete.
+{65450}{65488}To je brutalna istina, Miöel.
+{65492}{65623}Ulazimo u eru korporativnog feudalizma|u kome smo mi... novi prinËevi.
+{65627}{65715}A kako se nazivate? –ubrad bez granica?
+{65719}{65770}Miöel, mislim... -Ne, ne, ne...
+{65774}{65838}Mislim da je ovo... -Pravo osveûenje?
+{65852}{65894}Bolje da krenemo. -Ne... idem ja sama.
+{65898}{65958}Moûda mu zatreba neko da mu|pridrûi patku kad krene da piöa.
+{65962}{66014}Miöel... -Pusti je, neka ide, Dûime.
+{66026}{66074}NaÊi Êeö neku drugu za tucanje.
+{66187}{66280}Idem i ja. Hvala. -Kako hoÊeö.
+{66523}{66567}Krenite! Idemo!
+{66736}{66783}Nastavite dalje.
+{66935}{67044}Stanite. Idemo po njega.
+{67274}{67321}äta ti bi?
+{67325}{67396}Oni su skotovi, Dûime.|-Pa? To smo i ranije znali.
+{67400}{67486}Mi? Ne, ja znam, ali|za tebe nisam sigurna.
+{67490}{67536}Da li stvarno misliö da im se sviaö?
+{67540}{67602}Baö me briga da li im se sviam.
+{67613}{67651}Pravi si rebus.
+{67662}{67727}IskoriöÊavaju te. -Da,|i ja iskoriöÊavam njih.
+{67731}{67790}Mislim da zavröim ovo a oni|su mi omoguÊili sve uslove.
+{67794}{67838}A onda Êe se na tome obogatiti.
+{67908}{67962}Miöel, znam öta radim.
+{67978}{68036}Samo ostani uz mene, molim te.
+{68176}{68233}Tako si naivan, Dûime.
+{68497}{68605}Vidi ti njega! Savröeno.
+{68618}{68678}Moûda da kupimo joö jednu|za sluËaj da se proces oduûi.
+{68682}{68759}Stivene? -Ja mislim da|je ta kravata odliËna.
+{68774}{68854}Sve je vaûno? -Da.
+{68967}{69036}Znaö öta Êete pitati?
+{69050}{69111}Svako prikrivanje informacija o|riziku vezivanja za stranu valutu...
+{69115}{69192}moûe se smatrati namernim|prikrivanjem banke.
+{69220}{69288}Niöta mi nisu rekli. -To moûe|da potvrdi i njihov sluûbenik.
+{69292}{69371}Upravnik je veÊ svedoËio|i rekao je öta je imao.
+{69375}{69420}Sad je njegova reË protiv vaöe.
+{69424}{69482}A öta je sa pripravnikom|koji je bio tamo?
+{69486}{69531}Joö neko je prisustvovao|vaöim sastancima?
+{69535}{69581}Uglavnom...
+{69585}{69634}Pa, onda... -Je l' to dobro?
+{69638}{69680}Da, moglo bi da bude.
+{69684}{69745}Prvo moram da ih nateram|da mi kaûu o kome se radi,
+{69749}{69796}öto Êe oni odbijati a|onda sledi sudski poziv.
+{69800}{69853}No, dobro, da vidimo öta Êe da bude.
+{70144}{70188}äta imaö o njemu?
+{70245}{70342}Izgleda da smo uleteli u poresko a sa|njima imamo dobru razmenu informacija.
+{70346}{70448}Sve je Ëisto. 1977. godine|je otvorio prvi raËun.
+{70481}{70540}Od onda je pravi ötediöa.
+{70626}{70679}Rekla bih da je dobra prilika.
+{71176}{71290}Imamo izuzetno opasan|problem. Dete koje se udavilo.
+{71302}{71354}Mediji su viöe nego sreÊi|öto mogu da nas satanizuju.
+{71358}{71404}Dejvisove predstavljaju kao svece.
+{71408}{71439}Jesi video roditelje?
+{71443}{71511}Mali je verovatno shvatio|u kakvoj porodici ûivi.
+{71515}{71596}Ne smemo da dozvolimo|da nas obuzme saûaljenje.
+{71620}{71687}Verovatno nas niko neÊe|optuûiti za ubistvo deteta...
+{71691}{71748}ali, ako nastave da prËkaju po|kreditima sa stranom valutom...
+{71752}{71825}moglo bi da usledi|joö 200 sliËnih tuûbi.
+{71838}{71886}UdaviÊemo se u njima.
+{71897}{71954}Pobogu, zaveûi!
+{71971}{72009}Moramo da se borimo.
+{72013}{72077}Ne moûemo da se nagodimo van suda.|Moramo da se borimo i da pobedimo.
+{72081}{72153}Mogli bismo da proturimo priËu kako|ga je otac seksualno zlostavljao...
+{72157}{72233}malo da zamutimo vodu. -O|tome ne ûelim niöta da znam.
+{72237}{72310}Ne ûeliö da to uradimo? -Ne, nego|ne ûelim da mi priËate o tome.
+{72383}{72492}Joö neöto... po malo|sam zabrinut zbog Dûima.
+{72505}{72568}Izgleda da se dvoumi.
+{72585}{72642}Poslednje öto nam treba|je da mu savest kaûe...
+{72646}{72719}da svoje istraûivanje|preda Armiji Spasa.
+{72753}{72813}Moûda bismo joö jednom mogli|da proverimo onu njegovu ûensku.
+{72891}{72949}... mogli da usporimo|dok ne doe do njih.
+{72953}{73017}Vinsente, kolika je trenutna|vrednost Centralne banke?
+{73021}{73100}Mislim da je procenjena|na... 50 milijardi dolara.
+{74239}{74354}U Ëemu je problem, Dûime?|-Uradio sam neke proraËune.
+{74358}{74410}Dobro, daj mi da vidim.
+{74490}{74556}Predvianje berzanskih|dogaaja je jedna stvar...
+{74560}{74694}ali i najmanje korekcije koje banka|izvröi mogu biti katastrofalne.
+{74698}{74740}äta hoÊeö da kaûeö?
+{74744}{74826}Da li si razmiöljao o|posledicama? -Naravno da jesam.
+{74861}{74956}Sajmone, godinama sam istraûivao,|10 godina sam radio na ovome.
+{74995}{75105}Znaö Ëim se bavi glavni menadûment?|Znaö Ëime se ja uglavnom bavim?
+{75118}{75178}Ukidam. Doem i ukinem 20% radnih mesta.
+{75182}{75250}Zatvorim 15% ekspozitura|ili fabrike, öta god.
+{75254}{75324}I berza mi aplaudira kao|da sam neki jebeni genije.
+{75345}{75388}Moj ûivot je dosadan, Dûime.
+{75414}{75493}Pre nego öto umrem hoÊu|da uradim neöto izvanredno.
+{75512}{75589}HoÊu da uradim neöto|öto Êe razbucati ljude.
+{75593}{75704}äto Êe razbucati ljude? Obojicu Êe|nas pamtiti kao uniötitelje ekonomije.
+{75766}{75836}Dûime, veÊina ljudi ûivot|provede u tihom oËaju.
+{75840}{75929}Bore se od roenja do smrti|i nikad niöta ne postignu.
+{75942}{76015}Druötvo ubija njihove nade i ambicije.
+{76019}{76081}Istorija ih zaboravlja.
+{76096}{76231}UvrediÊeö sve te ljude ako|ovoj prilici okreneö lea.
+{76245}{76279}Priliku za öta?
+{76283}{76352}Priliku da se pridruûiö svojim|uzorima, kao öto je Mandelbrot.
+{76356}{76461}Da zauzmeö svoje mesto u istoriji pored|ostalih velikih matematiËara i nauËnika.
+{76465}{76566}Kao öto su Pitagora,|Fuko, Njutn, Ajnötajn...
+{76591}{76721}Ili Openhajmer. -Openhajmerov rad|su iskoristili za atomsku bombu.
+{76737}{76791}Za bombu koja je okonËala rat.
+{76888}{76968}Imaö 24 sata da razreöiö|svoju moralnu dilemu.
+{76998}{77051}Posle toga radi öta ti je volja.
+{77065}{77113}Ali, nemoj da mi se vraÊaö sa|tom patetiËnom neodluËnoöÊu.
+{78587}{78634}äta je ovo? -Poklon od Sajmona.
+{78638}{78712}Sad imamo najmoÊniji kompjuterski|sistem na juûnoj polulopti.
+{78716}{78781}A rekao mi je i da ti ovo dam.
+{78881}{78981}Ovo nisu cifre sa berze, ovo su|cifre iz trezora. Kako je uspeo da...
+{78985}{79078}Moj savet ti je da ne pitaö|mnogo i da zaûmuriö na jedno oko.
+{79097}{79139}To pomaûe.
+{79232}{79277}Pomaûe...
+{79966}{80005}Dobro, öta zapravo znamo?
+{80009}{80115}Znamo da Êe sistem simultano upravljati|transakcijama öirom celog sveta.
+{80132}{80194}Vremenska razlika znaËi|da imamo sat vremena...
+{80198}{80322}pre nego öto se ameriËkom, evropskom i|azijskim indeksima simultano pristupi.
+{80326}{80467}74 trûiöta, 22 berze. -ZnaËi potrebna|nam je brzina inaËe smo zaglavili.
+{80740}{80806}Jesi li oËekivao da Êeö ovde|da zavröiö? -Danas?
+{80810}{80934}Ne, kad si bio klinac... kad si|shvatio da voliö matematiku.
+{80946}{80982}Ne znam.
+{80986}{81053}Pretpostavljam da sam iöao|korak po korak.
+{81067}{81204}Najbolja srednja ökola, fakultet,|prvi posao... u Centralnoj banci.
+{81226}{81282}Ali sigurno je bilo trenutaka| kad si je voleo...
+{81286}{81343}kad si razmiöljao gde bi sve|mogla da te odvede.
+{81406}{81457}Matematika...
+{81477}{81585}Permutacije, logika...
+{81603}{81672}Strategija.
+{81685}{81806}äah, moûda. »esto sam ga igrao.|NauËio sam ga sa 4-5 godina.
+{81830}{81895}Jednom sam u trûnom centru igrao|sa nekim velemajstorom...
+{81899}{82007}igrao je simultanku sa 20 ljudi|i za malo da ga pobedim.
+{82027}{82078}Divna igra. Godinama|je nisam igrao.
+{82082}{82176}Mogli bismo da odigramo neku partiju.|-Stvarno? To bi bilo sjajno.
+{82208}{82299}A ti? Jesi li ti znao da Êeö|da zavröiö ovde?
+{82315}{82393}Krajem osamdesetih jedan japanski|prijatelj mi je rekao,
+{82397}{82493}"Problem vas, Australijanaca je|öto ûelite uspeh odmah,
+{82515}{82585}mi, Japanci razmiöljamo|o decenijama."
+{82599}{82647}Ima u tome neËega.
+{82660}{82744}Moûda nisam mislio da Êu zavröiti|ovde, ali negde hoÊu...
+{82837}{82936}Ima li u banci neki program kojim|bismo malo ubrzali stvari?
+{82954}{83003}Moûeö kod kuÊe da ubrzaö svoj|kompjuter, Dûime, ali...
+{83007}{83072}ovde priËamo o opremi vrednoj|milione dolara...
+{83076}{83210}Princip je isti. Softver koji ubrzava|oËitavanje podataka iz memorije.
+{83215}{83245}Vinsente, to bi moglo da|nam bude od koristi.
+{83249}{83300}Niko ovde ne ume da ti|napravi tako neöto.
+{83313}{83365}Moramo da pokuöamo,|ali diskretno.
+{83379}{83423}Bez toga niöta ne moûemo.
+{83450}{83523}Setio sam se genijalnog programera,|studirali smo zajedno.
+{83527}{83624}Je l' bi mogao da ga ubaciö? -Mogao|bih, ali samo ako je dobar kao ti.
+{83628}{83682}U nekim oblastima matematike|joö je i bolji.
+{83963}{84012}Stvarno?
+{84159}{84225}Skoro sam umro kad|sam shvatio.
+{84239}{84349}Radiö sa ozbiljnim maöinama i bilo|kakvo ubrzanje je cepidlaËenje.
+{84361}{84406}HoÊe li funkcionisati?
+{84416}{84480}UradiÊe ti sve öto poûeliö.
+{84567}{84664}Jeste li naöli momka koga traûe?|-I dalje radi za nas... u Finskoj.
+{84677}{84711}Mnogi dosijei su izgubljeni.
+{84715}{84782}Zaposleni, pripravnici, ako ne moûemo|da ih pronaemo...
+{84795}{84865}Moûemo da izaberemo koga|hoÊemo. Samo da razmislim.
+{84880}{84943}Da vidimo zbog Ëega se|mozak tako uzbudio.
+{84955}{85048}Reöio sam matematiËki problem.|Stvar je samo u brzini.
+{85052}{85111}U brzini?|-U brzini.
+{85524}{85616}U redu. Slom 1929.
+{85680}{85723}SreÊno, Betsi.
+{86165}{86240}Ubaci 1974. Probaj.
+{86384}{86435}Probaj ti, Sajmone.
+{86863}{86929}Jeb'o te, radi. Radi!
+{87013}{87069}Moramo da razgovaramo.
+{87103}{87252}KoristeÊi ovaj sistem, ovo je buduÊa|projekcija berze. -Jebi ga. Krah.
+{87295}{87352}Znamo i kad. SledeÊi petak.
+{87407}{87531}Pred zatvaranje berze, u petak,|25-og oktobra, u 21:00.
+{87552}{87711}Tada istiËu svi kupoprodajni ugovori|i kada je sve povezano.
+{87729}{87798}To je najranjiviji trenutak|svake berze.
+{87811}{87865}TaËno to se desilo i '99.
+{87890}{87944}Slom Êe biti uûasan.
+{87968}{88049}A mi Êemo ga spremno|doËekati. -Misliö?
+{88053}{88105}Postoji ogroman rizik.|-Ne, nema rizika.
+{88109}{88171}Da, rizici uvek postoje.|-Ovog puta ne postoje.
+{88175}{88225}Sve je matematiËki dokazano.
+{88253}{88322}Sajmone, ako se pravilno|pozicioniraö...
+{88326}{88434}za sat vremena na podijumu moûeö da|udesetostruËiö vrednost banke.
+{88445}{88556}SledeÊa prilika Êe biti u novembru|2003. i nema nikakvog rizika.
+{88579}{88690}Da li shvataö da kröimo berzanske|zakone u öest razliËitih zemalja?
+{88720}{88784}Nije valjda da se plaöiö?|Posle svega?
+{88816}{88923}Sajmone, ovo je naö trenutak.|Naö peËat istoriji.
+{89100}{89200}äta je sa onom velikom kitom,|da se nije smanjila? -Molim?
+{89223}{89294}Zavröio sam.|To je to.
+{89350}{89405}Moram da ubedim upravni odbor.
+{89491}{89610}Iskreno, nikad mi se nije dopadalo|to tvoje liberalno, meko srce.
+{89657}{89733}Treba mi neki signal podröke.
+{89748}{89874}Neki znak... neöto öto Êe|nas zauvek povezati.
+{90001}{90060}Samo reci.
+{90685}{90758}Celo veËe nisi ni reË|progovorio.
+{90791}{90830}Izvini.
+{90834}{90964}HoÊeö li mi reÊi öta te muËi? -Niöta.|Sve je u najboljem redu.
+{91079}{91166}{Y:i}Dobili ste broj Dûima Dojla.|Molim vas, ostavite poruku.
+{91175}{91293}{Y:i}Dûime, Vins je. Sajmon me zamolio|da te sutra odvezem u sud...
+{91297}{91395}{Y:i}a poöto neÊe da ideö limuzinom|doÊi Êu svojim volvoom.
+{91409}{91550}{Y:i}DoÊi Êu taËno u 10:00, pa Êeö mi reÊi|kakve veze imaö sa sluËajem. ∆ao.
+{91588}{91634}Sud?
+{91650}{91722}Kao svedok ekspert za|matematiku.
+{91726}{91773}U kom sluËaju?
+{91957}{92017}Moûda je najbolje da se|neko vreme ne viamo.
+{92021}{92121}äta? Zaöto? Zato öto mnogo|pitam? -Da.
+{92164}{92248}Da, zato öto mi postavljaö pitanja na|koja ne mogu da ti odgovorim.
+{92279}{92332}IspriËaj mi sve, Dûime.
+{92909}{93004}I viöe nikad niöta niste|pitali o pozajmici?
+{93008}{93091}Ne. Mislio sam da mi je banka|rekla sve öto treba da znam.
+{93104}{93184}To je bila najveÊa pozajmica koju|ste ikad uzeli, zar ne? -Da.
+{93188}{93273}Zar baö zbog toga i zbog ogromne|odgovornosti koju preuzimate...
+{93277}{93372}nije trebalo da se raspitate o svim|aspektima te... avanture?
+{93376}{93527}Da, jesam i uradio sam sve...|-Ali banku niste niöta pitali?
+{93531}{93644}I pored tolike liËne odgovornosti|banku niste niöta pitali?
+{93656}{93698}Imam poverenje u banke.
+{93779}{93834}Mislim, imao sam poverenje|u banke.
+{93871}{93928}20 godina je Centralna banka|bila moja banka.
+{93945}{93989}Poznavao sam lokalnog|upravnika.
+{94015}{94090}Nisam imao ni jedan razlog|da im ne verujem,
+{94094}{94177}da Êe me prevariti, da Êe|mi neöto preÊutati.
+{94199}{94299}A mi Êemo dokazati, gospodine Dejvis,|da ova banka ni na koji naËin...
+{94303}{94364}nije izigrala vaöe|poverenje.
+{94409}{94467}Nemamo viöe pitanja,|Vaöa Visosti.
+{94471}{94517}Gospodine O'Konor?
+{94521}{94597}Hvala, Vaöa Visosti. U ovom trenutku|nemam pitanja za gospodina Dejvisa.
+{94727}{94813}Vaöa Visosti, upravo smo dobili|informaciju iz Centralne banke...
+{94817}{94889}da je glavnom svedoku uspeöno|uruËen sudski poziv.
+{94920}{94995}Pozivamo gospodina|Dûima Dojla da svedoËi.
+{95585}{95644}Izgleda drugaËije.|-äta?
+{95706}{95746}Jeste li sigurni?
+{95969}{96140}Jeste li spremni, gospodine O'Konor?|Gospodine O'Konor? -Da, Vaöa Visosti.
+{96225}{96366}Gospodine Dojl, recite nam da li|radite u Centralnoj banci? -Da.
+{96370}{96543}I da ste u njoj radili i u junu 1996.?|-12 nedelja kao pripravnik. Nije iölo.
+{96560}{96649}Radili ste u ekspozituri|u Aleksanderu?
+{96663}{96756}Ne, samo tu. Proveo sam po 3-4 dana|u svakoj od 11 filijala u regionu,
+{96761}{96875}öto je bio deo moje obuke.|-11 filijala u regionu?
+{96898}{96983}To ukljuËuje i Sejmor i Jel,|zar ne?
+{97029}{97091}Kako su se zvale ostale?|-Prigovor!
+{97095}{97182}Sigurna sam da se identitet|svedoka ne dovodi u pitanje.
+{97200}{97276}Gospodine O'Konor, traûili|ste svedoka...
+{97280}{97340}i Centralna banka vam|je izaöla u susret...
+{97345}{97433}pruûajuÊi vam na uvid dosijee|zaposlenih, spiskove plata,
+{97437}{97539}i izjave koje dokazuju da je|Dûim Dojl Dûim Dojl,
+{97543}{97574}da je radio za Centralnu|banku...
+{97579}{97667}i da je bio prisutan dok je vaö klijent|pregovarao sa bankom.
+{97671}{97769}Kuda vodi ovo vaöe ispitivanje?|-Izvinite, Vaöa Visosti.
+{97814}{97893}Gospodine Dojl, da li poznajete ovog|gospodina sa moje leve strane?
+{97960}{98012}Da, poznajem. To je gospodin|Vejn Dejvis.
+{98016}{98064}A odakle ga poznajete?
+{98068}{98126}Gospodin Dejvis je traûio pozajmicu|od Centralne banke.
+{98130}{98199}Nekoliko puta smo se sastali|dok sam bio na obuci.
+{98213}{98284}Da li se seÊate detalja zahteva za|pozajmicu gospodina Dejvisa?
+{98288}{98368}Da, naravno, to je bio deo|moje obuke za posao.
+{98400}{98525}Mogu da priloûim svoje beleöke.|-Molim? Imate i beleöke?
+{98529}{98597}Da li ste ih doneli?|-Jesam.
+{98970}{99061}Da li ûelite da ih prouËite, gospodine|O'Konor? -Da, Vaöa Visosti.
+{99251}{99351}Vaöa Visosti, zbog kompleksnosti ovog|materijala zamolio bih kraÊu pauzu.
+{99445}{99541}Jebi ga!|-Nisu dobre vesti?
+{99558}{99635}éao mi je. Mislim da Êemo morati|da im Ëestitamo pobedu.
+{99652}{99799}–ubrad. Laûu, ovo uopöte nije on.|-Trebalo je... jako mi je ûao
+{99938}{100028}Molim vas, recite nam öta je ovo|prikaËeno na vaöe beleöke?
+{100063}{100167}Spisak potrebnih stvari da bi banka|odobrila pozajmicu u stranoj valuti.
+{100171}{100281}Tu su osnovne stvari koje banka moûe|da otkrije buduÊem klijentu.
+{100296}{100399}Molim vas, objasnite nam svoju|beleöku sa te strane.
+{100414}{100529}ätiklirao sam svaku stavku, svaku|stavku koju je direktor... -To je laû!
+{100533}{100615}Postoji neki problem, gospodine O'Konor?|-Da, Vaöa Visosti, ûeleo bih...
+{100619}{100774}Gospodine Bojl, po vaöem miöljenju,|koliko dobro su Dejvisovi bili...
+{100778}{100854}obaveöten o moguÊim rizicima|pozajmice u stranoj valuti?
+{101053}{101152}U mojim papirima se vidi da|se sve taËke od 6. do 11... 
+{101156}{101212}bave rizicima koji idu uz ovu|vrstu pozajmice.
+{101243}{101306}Gospodin Dejvis je bio|dobro obaveöten.
+{101428}{101466}Miöel!
+{102051}{102118}Imaö neöto da mi kaûeö,|Vinsente? -Da.
+{102122}{102231}Za ovu banku radim 10 godina i do|danas se toga nisam stideo.
+{102256}{102316}Ovako do sad nije bilo.
+{102320}{102380}I ranije smo radili neke|grozne stvari, ali...
+{102384}{102440}Ti si taj koji mi je rekao da|zaûmurim na jedno oko.
+{102491}{102520}Dobro, moûda jesam...
+{102524}{102589}ali bih voleo da nisam bio tamo i da|te nisam gledao kako laûeö...
+{102593}{102653}i kako sahranjujeö onu|jadnu porodicu.
+{102723}{102795}Poötujem tvoju pamet, Dûime.|Zavidim ti.
+{102818}{102890}Voleo bih da mogu da shvatim bar|deliÊ onoga öto ti moûeö.
+{102933}{103067}Koliko puta sam te posmatrao na poslu|i ûeleo da budem na tvom mestu.
+{103088}{103151}éeleo sam da ja budem taj|koji Êe smisliti tu formulu.
+{103168}{103223}Ali, bar jednu stvar|sigurno znam.
+{103260}{103338}Nikad ne bih mogao da uradim ovo|öto si ti danas uradio...
+{103342}{103405}i ako je to cena, jebi se|i sa sreÊom, Dûime.
+{103418}{103455}Zaustavi auto.
+{105491}{105609}Gospodo, nalazimo se na poËetku|nove ere u ekonomiji.
+{105613}{105722}MoguÊnost ostvarivanja profita|koju ste traûili, pronaena je.
+{105739}{105833}Uz pomoÊ kompjuterske analize podataka|i pre nego öto smo oËekivali...
+{105837}{105979}sada moûemo da predvidimo glavne|korekcije na trûiötu kao i krah berze...
+{105983}{106062}koji Êe se desiti i koji Êe|razoriti trûiöte.
+{106068}{106165}Trûiöte je veÊ neko vreme svesno|ovih korekcija.
+{106181}{106290}Nove tehnologije cvetaju, precenjene|kompanije prave ogromne profite.
+{106305}{106414}Svi smo mi toga svesni i svi|smo imali koristi od toga.
+{106434}{106534}Sad imamo priliku da izvuËemo|korist iz sloma berze.
+{106616}{106760}Nema öanse da ovo primenimo niti imamo|Ëime da opravdamo izuzetan rizik.
+{106784}{106868}Naravno, zatvoriÊe nas.|-Svakako da Êe probati.
+{106872}{106939}Zato moramo da delujemo|brzo i odluËno.
+{106953}{106994}Moramo da iskoristimo|faktor iznenaenja...
+{106998}{107060}i da radimo van konvencionalnih|granica...
+{107064}{107128}kako bismo u potpunosti sakrili|svoje akcije od konkurencije.
+{107141}{107185}A ako saËekamo?
+{107207}{107284}Ne, ja bih voleo da sve ovo|malo bolje prouËim...
+{107288}{107340}da dobijem nezavisnu|procenu sistema.
+{107371}{107455}Ljudi z MIT-ja bi mogli da sprovedu par|testova u sledeÊih nedelju-dve.
+{107469}{107526}Ako saËekamo 24 sata trûiöte|Êe se okrenuti protiv nas.
+{107530}{107577}Moramo odmah u akciju.
+{107589}{107687}Ako ne iskoristimo ovu priliku|skroz Êe nas uniötiti.
+{107712}{107802}A koja je tvoja pozicija? Dali smo ti|paket opcija vredan miliona.
+{107806}{107861}Apsolutno verujem u ovo|predvianje.
+{107895}{108052}Voljan sam da uloûim sve svoje akcije,|svoju uöteevinu, nekretnine, sve.
+{108056}{108096}Sve Êu uloûiti.
+{108127}{108214}To je veliki rizik, Sajmone.
+{108248}{108337}Da li si spreman da nam|to daö i napismeno?
+{108386}{108430}Naravno.
+{108487}{108592}Nemojmo se zamajavati|altruistiËkim odlukama.
+{108611}{108663}I vi Êete izvuÊi korist.
+{108682}{108796}Svaki kvadratni metar, svaka deonica,|svaki bonus dolar koji vam sleduje...
+{108818}{108909}udesetostruËiÊe svoju vrednost|za samo jedan dan.
+{108978}{109027}Ovaj sistem funkcioniöe.
+{109073}{109167}Ovo je najbesramnija prevara.|-Joö neöto, Bene?
+{109171}{109281}Da, ako nastavite sa tim,|podnosim ostavku.
+{109293}{109345}Nemam niöta protiv.
+{109368}{109499}Ovu informaciju moûete da iskoristite da|ublaûite nevolje, ako doe do sloma.
+{109513}{109601}Da se smanji gubitak, da se|preûivi i opstane.
+{109605}{109732}Ali da ova banka, naöa banka...
+{109736}{109868}profitira od te katastrofe i pri tom|da prekröi sve moguÊe zakone...
+{109881}{109944}Zakone piöu vlade, Bene.
+{109948}{110064}Mi smo biznismeni. I svaki|dan izvrdavamo zakon.
+{110068}{110135}PreskaËemo ga, obilazimo...|zakon je rastegljiv.
+{110149}{110236}Etika nije rastegljiva.|Principi nisu rastegljivi.
+{110240}{110294}Moral nije rastegljiv.
+{110348}{110479}Imamo obavezu prema druötvu da se prema|ovoj informaciji odgovorno ponaöamo.
+{110653}{110702}Prema njima imamo obavezu.
+{110711}{110909}A ako mi to ne uradimo, nego uradi neko|drugi i uniöti nas za vjek i vjekova..
+{110921}{110981}ko Êe to objasniti naöim|akcionarima?
+{111002}{111063}Oni su naö narod...
+{111076}{111130}oni su naöe druötvo.
+{111172}{111230}Ostali neka se brinu za sebe.
+{111297}{111445}éelim da razmislite 10 sekundi a|zatim da uzmete svoja pera...
+{111449}{111509}i potpiöete dokument koji|se nalazi ispred vas.
+{112556}{112598}20 godina je jako mnogo.
+{112602}{112665}Sigurno imate neka dokumenta|o starim uËenicima.
+{112669}{112777}Nemamo. Sve öto smo imali|poslali smo u arhivu.
+{112781}{112857}Kao öto rekoh, davno je to bilo.|-Mnogo vam hvala na pomoÊi.
+{112948}{113028}{Y:i}Gospodine O'Konor da li Êete se ûaliti|na presudu? -Da, da, ûaliÊemo se.
+{113032}{113109}{Y:i}Presuda je doneta na osnovu|prevare i obmane...
+{113113}{113165}{Y:i}öto se od banke i|moglo oËekivati.
+{113169}{113220}{Y:i}Budite uvereni da Êemo|se ûaliti.
+{113224}{113283}{Y:i}Gospodine O'Rajli, imate|li vi komentar?
+{113287}{113381}{Y:i}Izuzetno smo zadovoljni presudom.|Ovo je naöa velika pobeda.
+{113385}{113479}{Y:i}Mislim da je ovo dokaz naöe lojalnosti|i iskrenosti prema naöim klijentima.
+{113483}{113554}{Y:i}Mada saoseÊamo i sa|porodicom Dejvis...
+{113558}{113674}{Y:i}moram da napomenem da su ovakvi sudski|procesi najobiËnije traÊenje vremena.
+{113680}{113715}{Y:i}Hvala.
+{113742}{113796}Ubili su nam sina.
+{114539}{114613}Za trideset minuta se ukljuËujemo|na severnu hemisferu.
+{114617}{114708}Tanja, proveri joö jednom sve|veze. Proveri glavne valute.
+{114712}{114763}Za tebe je.|-Halo?
+{114768}{114858}Kako ide? -Joö par poslednjih|provera i kreÊemo.
+{114862}{114918}éao mi je öto ne mogu|da budem sa vama.
+{114922}{115085}Ali, jedva Ëekam da sve posmatram sa|sigurne udaljenosti. -Razumem te.
+{115089}{115150}SreÊno.|{y:i}-Nije nam potrebna.
+{115154}{115221}OdliËno.|-U redu.
+{115249}{115342}Trebalo bi da se proda kad se|Nikei 4.000 spusti na 17.000.
+{115499}{115581}{Y:i}Nikei 4.000 pao na 17.000.|Prodaj.
+{115594}{115643}Hvala. Potvreno.
+{115682}{115735}Ne koristimo ovo Ëesto.
+{115761}{115815}Ne seÊam se kad sam ovo|poslednji put radila.
+{115839}{115942}Ovde se nalaze sve lokalne novine,|od 1975. do 1977. godine.
+{115956}{116029}To bi trebalo da bude dobro za poËetak.|Na poËetku svake godine imate sadrûaj.
+{116033}{116070}Hvala.
+{116585}{116662}Skrenite desno u Sent Dûordûa, tamo bi|trebao da bude putokaz do te kuÊe.
+{116721}{116784}Gospodine, ali viöe nije|otvorena za javnost.
+{116788}{116840}Sad je privatna kuÊa.|-Da, znam.
+{117358}{117405}Dûim?
+{117677}{117721}Tri minuta.
+{118571}{118631}Ako ûelite, otpozadi imamo|originalni Ëlanak.
+{118635}{118681}Ne, hvala.
+{119189}{119234}Govno jedno!
+{119543}{119601}Da?|{y:i}-Sajmone, Bili ovde.
+{119605}{119671}Izvini öto te zovem na kuÊu, nisam|mogao da doprem do Kristofera.
+{119675}{119713}Imam loöe vesti.
+{119717}{119794}Reci? -Nalazim se u Bjuli,|Dûimovom rodnom gradu.
+{119798}{119878}Kris me je poslao ovamo da pratim|Dûimovu devojku. Lagao je.
+{119897}{120020}{Y:i}Zove se Pol Dûekson. '77. banka|im je uzela porodiËnu farmu.
+{120024}{120073}Laûljivi skot!
+{120277}{120365}Da. -Dûime, ja sam.|U Bjuli sam.
+{120439}{120474}Znam da nisi onaj za koga se|predstavljaö...
+{120478}{120535}i ne znam öta radiö,|{y:i}ali stvar je u tome...
+{120585}{120651}{Y:i}Ovde su, Dûime. Banka|me je pratila ovamo.
+{120701}{120757}Molim vas da svi odmah iskljuËite|svoje mobilne telefone.
+{120761}{120826}Nema nikakvih poziva dok|ne zavröimo posao.
+{120852}{120913}Vinsente, koliko joö?|-Skoro smo tu.
+{121495}{121544}Spremni smo.
+{121600}{121645}Sve u redu?
+{123119}{123222}Dugo si Ëekao na ovo.|-Da.
+{124243}{124284}{Y:i}Trgovina poËinje.
+{125126}{125183}Javi se! Javi se!
+{125453}{125505}Spusti sluöalicu.
+{125758}{125820}Znaö ko sam?
+{125824}{125899}Da. Znam.
+{125997}{126083}Samo se smiri, vaûi?
+{126087}{126122}Hvataj!
+{126222}{126259}Jeb'o te!
+{126488}{126581}Lezi dole! Lezi odmah|ili Êu te ubiti k'o psa!
+{126585}{126670}Lezi! Lezi ili Êu te ubiti,|kunem ti se Bogom.
+{126819}{126929}Ovo Êe se zavröiti loöe po tebe. -Kao i|sve ostalo pa mi viöe nije ni vaûno.
+{127029}{127108}To öto Êeö mene ubiti nije baö neko|odavanje poËasti svom sinu.
+{127121}{127187}Ti si ga ubio.|Ti si mi ubio sina!
+{127218}{127265}Misliö?
+{127269}{127314}Ili ti je posao propao?
+{127318}{127423}Pozajmica. Znali ste,|ubrad sve ste znali.
+{127437}{127497}Znam, znam da su te pozajmice|bile katastrofalne.
+{127501}{127550}Nisu bile poötene.
+{127573}{127618}Da ti kaûem neöto...
+{127628}{127738}Odmah Êu ti dati $250.000.|äta kaûeö?
+{127743}{127802}Sad bi da mi daö pare?
+{127806}{127896}A kolika je kamata na to?|U pezosima vezanim za jen?
+{127900}{127991}Koliki su jebeni troökovi?|-Ne, ne, sluöaj ovako.
+{127995}{128127}DaÊu ti milion dolara, samo öto pre|odluËi, jer za ovo nemam vremena.
+{128131}{128190}Zaveûi! Zaveûi, jebem ti!
+{128628}{128691}Ovo je njegova slika.
+{128812}{128895}Sluöaj... Vejn, tako beöe?
+{128908}{129010}Vejne, sve ovo je veoma|dirljivo, ali... -Pogledaj.
+{129044}{129105}HoÊu da ga pogledaö.
+{129316}{129402}Baö je lep, je l' da?|-Kao lutka.
+{129411}{129463}Mrtav si, jebem ti!
+{129467}{129591}Baö me briga öta Êeö da uradiö!|Je l' ti jasno? Baö me briga!
+{129605}{129664}Niöta ne moûeö da uradiö da|promeniö svoj poloûaj.
+{129668}{129785}Zato öto njega viöe nema. Je l' to|jasno? Tvog sina viöe nema!
+{129789}{129853}I da mogu da ga vratim,|vratio bih ga.
+{129857}{129975}Da mogu neöto da uradim, uradio bih,|ali ne mogu! A ne moûeö ni ti!
+{129979}{130060}UmreÊeö sa jebenom|tugom u srcu.
+{130092}{130183}Ako me ubijeö, ideö u zatvor|narednih 20 godina.
+{130187}{130293}Povredi svoju ûenu, upropasti sebi|ûivot koliko je god to moguÊe.
+{130415}{130488}Moram da telefoniram.
+{130514}{130633}Posle toga, prebij me, ispeci me,|jebi me, baö me briga...
+{130637}{130671}samo me pusti da obavim|taj razgovor.
+{130693}{130750}U suprotnom?
+{130898}{130977}Plaöiö se öta Êe biti ako|ne obaviö taj razgovor?
+{131036}{131180}Sluöaj, daÊu ti odmah dva miliona|u gotovom. äta misliö?
+{131184}{131222}Samo mi dozvoli da|telefoniram.
+{132068}{132114}Brûe! Brûe!
+{132883}{132943}Dûime, raste. Raste!
+{132947}{133011}SaËekaj, samo öto nije palo.|Mora da padne.
+{133054}{133106}Dûime, okreÊe se protiv nas.
+{133128}{133188}Moramo da poËnemo da otkupljujemo.|Gubici su ogromni.
+{133232}{133297}Prilazi na 10%.
+{133343}{133428}Ovo je nemoguÊe. Trebalo je automatski|da poËne da otkupljuje.
+{133432}{133474}Trebalo je da nas iskljuËi.
+{133529}{133578}Isuse Hriste!
+{133681}{133742}Duplirana brzina je|probila granicu.
+{133788}{133841}éao mi je, Vinsente.
+{133859}{133903}PoËnimo sa otkupljivanjem.|MoraÊemo ruËno.
+{133907}{133992}To je gotovo nemoguÊe...|-IskljuËite maöine!
+{133996}{134049}IskljuËite maöine!|IskljuËite struju.
+{134078}{134153}IskljuËite! IskljuËite struju!|IskljuËite struju!
+{134245}{134284}Moramo da pristupimo|glavnom kompjuteru.
+{134427}{134497}äta je, bre ovo? »ime je|ovo premazano?
+{134905}{134955}äta je to?
+{135054}{135126}To znaËi da banka viöe|ne postoji.
+{135287}{135340}Gde je on?
+{137556}{137665}{Y:i}Daj mi telefon.|-Zaöto?
+{137767}{137861}Ovo je suludo.|Nemamo vremena.
+{138322}{138409}Dobro, öta uradiö kad baciö|neku banku na kolena?
+{138428}{138493}Odletiö u Rio da ruËaö sa|Ronaldom Bigsom?
+{138529}{138628}Imao si naporan dan, Pole.|-Zovi me Dûim, navikao sam.
+{138632}{138719}Mogao si da mi verujeö,|Dûime. -Kako?
+{138723}{138780}Bio sam ubeen da radiö za|njih, da su te oni poslali.
+{138795}{138857}Zaöto, pobogu?
+{138870}{138956}Sve je iölo suviöe lako.|Suviöe glatko.
+{138967}{139067}Bilo je lako zato öto je bilo|pravo. -Sad i ja to znam.
+{139100}{139215}Uzgred, gde je sad sav taj novac?|-VeÊi deo je trûiöte upilo.
+{139219}{139319}Zauvek izgubljen. Ostatak je|opet u opticaju.
+{139333}{139384}50 milijardi je nestalo.
+{139402}{139531}I sve to, da bi osvetio oËevu|smrt? Jednog Ëoveka? -Da.
+{139578}{139674}Da, sve je poËelo smrÊu moga|oca. Jednim Ëovekom.
+{139678}{139757}To je bio taj jedan,|prelomni trenutak.
+{139811}{139869}Ali, na kraju krajeva, objaönjenje|je sasvim prosto.
+{139953}{140004}Samo mrzim banke.
+{140057}{140112}äta sad?
+{140188}{140280}Moram da napustim zemlju...|da nestanem.
+{140392}{140487}Mislio sam, moûda bi i ti...|-Krenula sa tobom?
+{140517}{140604}Ne, odmah. Ali, uskoro kad|doe trenutak.
+{141928}{141975}Samo trenutak.
+{142427}{142474}Pasoö vam istiËe za|dve nedelje.
+{142478}{142536}Morao sam da proverim da li|moûete da otputujete.
+{142540}{142625}Moûete, ali morate da se vratite|pre nego öto istekne. -Ili?
+{142629}{142695}Ili biste mogli da imate problema|da se vratite u zemlju.
+{142789}{142853}SreÊan put, gospodine|Dûekson. -Hvala.
+{143757}{143865}Ovo mora da je greöka.|Pogledaj.
+{143877}{143974}727.000 dolara! To nije|naö novac, je l' da?
+{143989}{144055}To je neka greöka. Moramo|to da reöimo sa bankom.
+{144132}{144272}Zatvorena je. Najbliûa ekspozitura|je u Lejks Entransu.
+{144285}{144391}Do tamo ima 150 kilometara.|Vejne?
+{144395}{144489}Nemam pojma, Daj. Ja sam|samo obiËan Ëovek.
+{144532}{144596}Valjda bi nam banka javila|da postoji neki problem.
+{149145}{149445}{Y:i}zgaca62@yahoo.com
+{149470}{150970}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

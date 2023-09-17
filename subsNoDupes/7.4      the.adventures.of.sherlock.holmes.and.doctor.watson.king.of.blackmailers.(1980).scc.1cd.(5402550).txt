@@ -1,0 +1,544 @@
+{0}{300}{y:i}prevod sa engleskog i obrada|Gaca62
+{325}{475}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{2845}{2909}Mene muËi samo jedno pitanje.
+{2930}{2975}Po meni, to je jako vaûno,
+{2984}{3052}ako se uopöte usudim|da piöem o tom sluËaju.
+{3099}{3193}Kako ste znali da je bio otrovan?
+{3209}{3265}Po jagnjeÊem vratu u sosu|od belog luka.
+{3309}{3384}Kakvom jagnjetu?|-U sosu od belog luka.
+{3395}{3428}Te veËeri, za veËeru...
+{3434}{3498}je imao jagnjetinu u|sosu od belog luka.
+{3516}{3580}Moram priznati da ne razumem|kakve veze s tim ima jagnjetina?
+{3586}{3688}To je bar jasno, dragi Watsone.|Opijumski prah ima specifiËan ukus.
+{3809}{3846}Opijumski prah!?
+{3866}{3960}Sos od belog luka je efikasan naËin|za suzbijanje mirisa opijuma.
+{3986}{4011}Watsone!
+{4028}{4098}Ovo je jako Ëudna smrt.
+{4159}{4186}Sluöajte ovo.
+{4192}{4308}JuËe je lord Christopher|Hacksley, iznenada, umro...
+{4326}{4425}u svom porodiËnom zamku,|u 42-oj godini.
+{4446}{4519}Smrt je nastupila usled|srËanog udara.
+{4540}{4592}Neuteöna udovica,|gospoa Hacksley je...
+{4598}{4673}pronaöla svog pokojnog muûa|u njegovoj radnoj sobi.
+{4679}{4744}Ne razumem,|öta vam je tu Ëudno?
+{4817}{4886}Ta iznenadnost, Watsone.|Iznenadnost.
+{5148}{5194}SvraÊao nam je majstor.
+{5221}{5288}To znaËi da je neöto|bilo zrelo za popravku.
+{5752}{5779}Bio sam u pravu.
+{5813}{5896}Evo njegovih otisaka stopala,|odmah pored gasne instalacije.
+{5902}{5942}Gde je gospoa Hudson?
+{5975}{6090}Gospoo Hudson! -Dobro jutro.|-Dobro jutro, gospodo.
+{6097}{6163}Drago mi je öto vas|vidim ûive i zdrave.
+{6174}{6225}DoruËak Êe biti gotov za pola sata.
+{6233}{6325}Gospoo Hudson, dugujemo vam 2.5 öilinga|za popravku gasnih instalacija.
+{6355}{6404}Jedan i po, gospodine Holmes.
+{6495}{6577}SudeÊi po vremenu koje|je proveo ovde...
+{6593}{6652}mislim da je poöteno zaradio|svoja 2.5 öilinga.
+{6678}{6727}PriËao je kao navijen.
+{6739}{6831}Tako mislite? Po meni,|samo je bio jako veseo.
+{6857}{6918}Pogledajte samo koliko je|smeönih lica...
+{6925}{7009}nacrtao na praöini mog radnog stola.
+{7045}{7166}Ta praöina, gospodine Holmes,|je vaöa odgovornost.
+{7172}{7265}Zaöto mi, lepo, ne dozvolite|da vam ja Ëistim sobu?
+{7276}{7345}Zato i jeste tolika|praöinËina svuda.
+{7351}{7377}Gospoo Hudson.
+{7383}{7475}Da se ja pitam, ja bih zabranio|bilo kakvo ËiöÊenje.
+{7493}{7535}Svakome, svuda i za sva vremena.
+{7553}{7603}Vaöe ËiöÊenje, gospoo Hudson,
+{7609}{7711}je kao struganje hijeroglifa|sa egipatskog kamenja.
+{7717}{7785}Posle vas egiptolozi viöe ne bi|imali öta da prouËavaju.
+{7791}{7830}Pred sobom bi imali...
+{7865}{7958}apsolutno, Ëisto i glatko kamenje,|bez ikakvih informacija.
+{8054}{8079}Pismo?
+{8085}{8148}Tu je od sinoÊ.
+{8154}{8233}Tu je od juËe ujutru,|ako niste dirali  novine.
+{8533}{8626}Ja sam doöao do zakljuËka da su|vaöa moÊ zapaûanja,
+{8632}{8705}i vaöa retka sposobnost da dedukcijom|rekonstruiöete sled dogaaja...
+{8835}{8910}proizvod sistematskog veûbanja.
+{8916}{9058}Vaö metod dedukcije je...|sve savröeniji svakim minutom.
+{9110}{9208}Ja mislim da se tu radi|o nasleenim stvarima.
+{9221}{9282}Da li je veÊ bilo detektiva|u vaöoj porodici? -Nije.
+{9348}{9452}Moja baka je bila sestra|francuskog umetnika, Verniera.
+{9465}{9546}Znate, Watsone, kad vam|je umetnost u krvi....
+{9577}{9669}ponekad se ona ispoljava|u najneobiËnijim oblicima.
+{9710}{9799}Po Ëemu mislite da vam je to|nasledna osobina?
+{9805}{9880}Moj brat Mycroft ima istu osobinu|i razvio ju je daleko bolje od mene.
+{9886}{9979}To dokazuje i ovo, njegovo pismo.
+{10017}{10104}Ponekad me iznenaujete|svojom arogancijom,
+{10123}{10179}a ponekad, opet, prekomernom skromnoöÊu.
+{10192}{10256}Niko koga ja znam, a siguran sam,|ni bilo ko iz policije nikad nije Ëuo...
+{10262}{10310}za detektiva Mycrofta Holmesa.
+{10348}{10431}Dragi moj, Watsone, ako vam kaûem|da moj brat ima bolju moÊ zapaûanja od mene,
+{10438}{10479}morate mi verovati.
+{10486}{10541}Je l' on mlai od vas?|-Stariji sedam godina.
+{10548}{10636}Zaöto je, onda nepoznat? -Veoma je poznat.
+{10588}{10636}Gde?|-U svojim krugovima.
+{10684}{10733}Na primer, u klubu 'Diogen'.
+{10740}{10779}Diogen'? Kakav je to klub?
+{10878}{10942}To je najtiöi klub u Londonu.
+{10953}{11008}Zabranjuje bilo kakav razgovor|i konverzaciju.
+{11020}{11073}Ko naruöi to pravilo,
+{11080}{11130}istog trenutka, biva iskljuËen.
+{11137}{11205}Mycroft je jedan od osnivaËa|tog kluba.
+{11215}{11290}Svaki put kao odem tamo|shvatim koliko je atmosfera...
+{11344}{11383}umirujuÊa.
+{11448}{11536}I sad idem tamo.|HoÊete li sa mnom?
+{13785}{13860}Ovo je posebna soba za goste.
+{13866}{13962}Tamo moûete da razgovarate.|Doktor Watson, moj brat Mycroft.
+{14158}{14218}Drago mi je, da smo|se upoznali, doktore.
+{14369}{14470}Od kad ste poËeli da piöete|biografiju mog brata...
+{14518}{14568}stalno mi se nameÊe pitanje,|da li sam ja u ikakvom srodstvu...
+{14569}{14641}sa slavnim gospodinom Holmesom.
+{14794}{14860}Sherlock, opËekivao sam te|proöle nedelje...
+{14867}{14931}u vezi sluËaja Manorhouse.
+{14994}{15115}Mislio sam da bi mogao naiÊi|na odreene poteökoÊe.
+{15138}{15225}Pronaöli smo reöenje.|Upravo smo se vratili odande.
+{15312}{15357}Sos od belog luka?|-Tako je, sos belog luka.
+{15363}{15420}Da bi se zataökao miris opijuma.
+{15500}{15559}Tako sam i mislio od samog poËetka.
+{15975}{16014}Kako interesantan lik.
+{16038}{16063}Marker?
+{16167}{16213}»ovek koji razgovara sa vratarem.
+{16219}{16244}Moûe malo?
+{16327}{16358}Da, molio bih.
+{16400}{16454}Desno rame je malo razvijenije.
+{16481}{16533}Levi dûep je umazan kredom.
+{16671}{16710}Sklon je prehladama.
+{16765}{16800}Posebno u proleÊe.
+{16883}{16910}Neoûenjen.
+{16987}{17076}Verovatnije, udovac.|-Slaûem se.
+{17094}{17157}Ali, ne viöe od tri godine.|-Slaûem se.
+{17188}{17225}Ima jedno dete.
+{17260}{17314}Decu, momËe moj, decu!
+{17425}{17477}DeËaka i stariju devojËicu.
+{17562}{17622}Sad namerava da se,|opet, oûeni.
+{17675}{17712}Uprkos svojoj kostobolji.
+{18059}{18095}Neka sam proklet!
+{18116}{18178}Sad i sami vidite,|dragi Watsone,
+{18184}{18273}Mycroft bi bio brilijantan|detektiv,
+{18279}{18366}da ne voli tiöinu najviöe na svetu.
+{18614}{18714}Ali, Ëak ni ovde se Ëovek ne moûe|sakriti od surove stvarnosti.
+{18855}{18934}Sherlock, hteo sam da se vidimo|zbog jedne, jako vaûne stvari.
+{18980}{19064}Niko ûivi, osim vas, naravno...
+{19089}{19145}ne sme znati za ovo.
+{19151}{19186}Posebno ne, policija.
+{19219}{19284}Tako je ûelela Lady Eve Brackwell.
+{19306}{19367}Brackwell?|-Ne trudite se.
+{19375}{19416}Za nju je retko ko Ëuo.
+{19573}{19657}Jedna od najlepöih ûena|koju sam ikada sreo,
+{19727}{19791}ali je tek ove godine poËela|da se pojavljuje u druötvu.
+{19942}{20014}Njeno venËanje za vojvodu Dovercourta...
+{20056}{20099}je planirano za sledeÊu nedelju.
+{20105}{20135}Veoma lepa.
+{20202}{20279}Meutim, postoji nekoliko|neopreznih pisama...
+{20285}{20324}da, baö tako, neopreznih...
+{20354}{20448}koja je napisala jednom|siromaönom niûem plemiÊu.
+{20496}{20554}Pisma je ukrala jedna hulja,
+{20560}{20589}po imenu...
+{20612}{20688}Charles Augustus Milverton.|-Tako je.
+{20721}{20810}Pisma su dovoljan razlog|za raskid veridbe.
+{20816}{20872}Milverton Êe ih predati vojvodi...
+{20878}{20953}ako mu se ne isplati|pozamaöna svota novca.
+{20959}{20986}»udoviöte!
+{21048}{21090}Lady Brackwell nema|toliko novca.
+{21105}{21204}Zato te i molim da preuzmeö|ovaj sluËaj, Sherlock.
+{21293}{21318}Milverton?
+{21372}{21407}Kralj ucenjivaËa.
+{21436}{21525}Zloupotrebljava ljudske poroke,|greöke i slabosti.
+{21547}{21590}VeÊ ima mnogo ûrtava.
+{21605}{21715}UËini mi uslugu i preuzmi|sluËaj, molim te, deËaËe moj.
+{22266}{22319}Charles Augustus Milverton.
+{22372}{22421}'PosetiÊu vas u 10 sati uveËe.'
+{22457}{22532}To znaËi, da ga je neko|veÊ obavestio o naöem razgovoru...
+{22537}{22629}iako smo razgovarali|u Klubu Ljubitelja Tiöine.
+{23007}{23032}Watsone!
+{23097}{23180}Baö me interesuje öta biste mogli|da mi kaûete o onom gospodinu.
+{23191}{23257}Pretpostavljam da je ovo|njegova posetnica.
+{23263}{23288}TaËno.
+{23349}{23420}On kontroliöe celo londonsko|podzemlje.
+{23426}{23480}PlaÊa velikoduöno|svoje podanike.
+{23501}{23565}Jednom je platio 700 funti slugi...
+{23571}{23614}za poruku od dve reËenice.
+{23654}{23730}To je za posledicu imalo|samoubistvo glave...
+{23737}{23784}i propast cele porodice.
+{23794}{23835}Uite, na spratu je.
+{24102}{24203}Pretpostavljam da ste veoma iznenaeni,|gospodine Holmes.
+{24235}{24259}Ne, uopöte.
+{24308}{24376}Da li vam je vratar kluba Diogen|sve ispriËao?
+{24414}{24487}Ne, moj jedan poznanik.
+{24845}{24893}A ko je ovaj gospodin?
+{24899}{24957}Moj prijatelj i kolega|doktor Watson.
+{25007}{25080}SluËaj naög klijenta je jako|delikatan i...
+{25086}{25154}Ja nemam tajni pred|doktorom Watsonom.
+{25195}{25240}Onda, da krenemo na posao.
+{25468}{25561}Koliko sam shvatio,|vi zastupate Lady Eve?
+{25572}{25651}Da li vas je ovlastila|da prihvatite moje uslove?
+{25666}{25755}A to su?|-7.000 funti.
+{25793}{25841}äta Êe biti ako odbijemo?
+{25924}{26022}Dragi, gospodine, ne volim öto moram|da vam odgovorim na to pitanje...
+{26028}{26105}ali, ako mi novac ne bude|isplaÊen do Ëetrnaestog,
+{26134}{26254}verujte mi, osamnaestog|neÊe biti svadbe.
+{26307}{26400}Mi Êemo savetovati Lady Eve|da sve ispriËa svom buduÊem muûu...
+{26405}{26494}i da se uzda u|njegovu velikoduönost.
+{26562}{26641}OËigledno je da, uopöte|ne poznajete vojvodu.
+{26693}{26745}U tim pismima nema niËega loöeg.
+{26759}{26818}Ona su golicava,|jako golicava.
+{26824}{26871}Dama ih je predivno napisala.
+{26878}{27021}Ali, budite sigurni da se vojvodi|neÊe dopasti stil.
+{27091}{27139}Ipak, ako vi mislite...
+{27145}{27245}da je za vaöeg klijenta|bolje da vojvoda proËita pisma...
+{27251}{27351}onda bi bilo suludo platiti za njih|pravo malo bogatstvo.
+{27384}{27422}Smatrajmo ovu stvar gotovom.
+{27539}{27630}Mi Êemo uraditi sve öto je u naöoj|moÊi da izbegnemo skandal.
+{27742}{27846}Ni za sekund nisam posumnjao|da je to vaöe stanoviöte.
+{27989}{28069}Obojica znamo da Lady Eve|nije bogata ûena.
+{28114}{28188}To öto govorite o njenom|finansijskom stanju je istina.
+{28197}{28302}Ali, razmislite malo, ovaj brak je|savröena prilika za nju i njeni prijatelji...
+{28328}{28408}i njena porodica bi morali|da joj pomognu.
+{28418}{28484}Oni Êe, ionako razmiöljati|öta da joj poklone za svadbu.
+{28490}{28595}Mislim da bi bilo dobro da znaju|da Êe je ova pisma usreÊiti viöe...
+{28601}{28673}od svih londonskih vaza i lustera.
+{28693}{28790}Zar ne mislite, gospodine Milvertone,|da je ovo öto radite nemoralno?
+{28801}{28910}Da ne pominjem i zakonsku stranu,|nego samo hriöÊansku moralnost!
+{28916}{29041}Prestanite! Prestanite da propovedate,|cenjeni doktore.
+{29076}{29151}Ja sam taj koji brani|svetu braËnu zajednicu!
+{29422}{29457}Evo, na primer...
+{29470}{29522}Jedan brak Êe opstati,
+{29528}{29601}ako ova poruka ne stigne|u ruke gospoinog muûa.
+{29607}{29684}I tako, Ëim gospoa bude|zamenila svoje dijamante...
+{29690}{29783}za ovu sitnicu, njen brak|Êe biti spaöen.
+{29849}{29897}A sad, seÊate li se,|iznenadnog raskida...
+{29934}{30016}gospoe Miles i|pukovnika Dorkinga?
+{30039}{30132}'Morning Post' je pisao otome|dva dana pre venËanja.
+{30138}{30241}A nekih 1200 funti je moglo|spasti taj brak.
+{30301}{30336}Da ne pominjem kako...
+{30342}{30407}neverne i tvrdoglave ûene...
+{30426}{30509}öalju na onaj svet svoje odane muûeve.
+{30547}{30691}Kada je lord Christopher Hacksley|saznao za nestaöluke svoje ûene...
+{30697}{30730}»itali smo u 'Times'-u.
+{30811}{30945}Srce tog Ëetrdesetogodiönjeg|muökarca, avaj, nije izdrûalo!
+{30953}{31017}I ko je sad za to kriv?|Nemojte mi reÊi da sam ja.
+{31030}{31072}Iskreno govoreÊi,|ja i dalje ne shvatam...
+{31094}{31179}Zaöto, onda, upropaöÊavate ljudima ûivote|ako od toga nemate nikakve koristi?
+{31220}{31258}Tu niste u pravu.
+{31281}{31366}Ja imam ogromne koristi|od te vrste publiciteta.
+{31388}{31474}Ja u svakom trenutku|imam 8 do 10 sluËajeva.
+{31492}{31621}Ako spoznaju koliko sam surovo|kaznio Lady Eve, na primer,
+{31650}{31758}onda Êe ostali pokazati|mnogo viöe razumevanja.
+{31804}{31831}Razumete?
+{32038}{32065}Watsone!
+{32086}{32168}Dajte da vidimo öta ovaj|nitkov ima u dûepovima.
+{32181}{32206}äta!?
+{32380}{32456}»esto sam nailazio na takva|neËasna ponaöanja.
+{32463}{32500}Ko je udario na mene,|nije se dobro proveo.
+{32506}{32594}Ako budem bio prinuen da upotrebim piötolj,|zakon Êe biti na mojoj strani.
+{32604}{32723}Pored toga, nisam toliko glup, gospodo,|da nosim pisma sa sobom.
+{33151}{33264}OËekivao sam od vas da budete,|malo originalniji...
+{33339}{33372}gospodine Holmes!
+{33627}{33738}Dragi moj brate, napravili smo dve,|neoprostive greöke.
+{33778}{33803}Prvo.
+{33841}{33939}Umesto öto smo pokuöavali da|impresioniramo doktora Watsona...
+{33945}{34030}naöim neverovatnim|porodiËnim sposobnostima,
+{34036}{34118}trebalo je bolje da obratimo paûnju na|markera koji je Êaskao sa vratarem.
+{34157}{34252}I drugo! PriËati u klubu|gde svi ostali Êute...
+{34258}{34356}Isto je kao urlati tamo gde|svi tiho govore..
+{34375}{34400}TaËno!
+{34406}{34496}I kao rezultat svega toga,|Milverton je prvi povukao potez.
+{34511}{34577}Zatekao me je iznenaenog,|nenaoruûanog,
+{34583}{34633}bez ikakve Ëinjenince ili dokaza.
+{34639}{34707}Ja nisam navikao tako da radim.|I ja perem ruke od svega.
+{34746}{34819}ZnaËi, hoÊeö da mi kaûeö|da moramo da sakupimo novac?
+{34827}{34860}To Êe biti najbolje.
+{34898}{34952}I ne postoji ni jedna|druga moguÊnost?
+{34958}{34992}Mislim da ne postoji.
+{35044}{35088}Baö mi je ûao jadne devojke.
+{37896}{37937}Nemoj, Escotte!
+{37998}{38028}äta Charlie ima sa tobom?
+{38035}{38120}Prie li ti joö jednom,|ubiÊu ga kao zeca.
+{38126}{38192}RascopaÊu mu glavu bez trunke|griûe savesti.
+{38240}{38317}Escotte, nemoj molim te.|-Nego öta Êu!
+{39275}{39366}Milvertonova kuÊa je kao|neosvojiva tvrava.
+{39415}{39502}Turobne ulice, identiËne kuÊe...
+{39540}{39655}I, odjednom, usred te teskobe...|starinska kuÊa.
+{39663}{39688}Ne!
+{39723}{39748}Bolje reËi, zamak!
+{39776}{39840}Stoji usred baöte, okruûen visokim...
+{39846}{39904}ispucalim i isuöenim od sunca...
+{39925}{40027}kamenim zidom, obraslim mahovinom, koji...
+{40033}{40058}Shvatam.
+{40064}{40124}Visoki kameni zid. Nastavite.
+{40132}{40196}Tako je. Zid se raspada.
+{40238}{40338}Pre svega, video sam onog Ëoveka,|onog markera. -Zanimljivo.
+{40363}{40508}Drugo, naleteo sam na jednu|veoma Ëudnu spodobu...
+{40519}{40608}kojoj je neöto, po mom|miöljenju, bilo sumnjivo jer...
+{40614}{40681}RascopaÊu mu glavu bez trunke|griûe savesti.
+{40881}{40918}Neka sam proklet, Holmes!
+{41179}{41221}Ali, to nije najgori deo.
+{41269}{41330}Najgore je to da sam se verio.
+{41346}{41420}Da, moja verenica je Milvertonova|kuÊna pomoÊnica.
+{41423}{41451}Zove se Agatha.
+{41461}{41512}Veoma mila i dobra devojka.
+{41598}{41633}Zar to nije malo previöe?
+{41708}{41790}Za nju, ja sam limar.|Zovem se Escott.
+{41796}{41833}Posao mi ide dobro.
+{41888}{41931}Mislite li o devojci, Holmes?
+{41958}{42035}Samo smo öetali psa i|razgovarali.
+{42042}{42123}Ali, sad poznajem Milvertonovu|kuÊu kao svoj dûep.
+{42225}{42317}Pored toga, imam i suparnika,|po imenu Charlie.
+{42327}{42414}On Êe zauzeti moje mesto|Ëim ja nestanem sa vidika.
+{42427}{42514}No, hvala vam za vredne informacije.|Ja nisam primetio markera.
+{42536}{42575}Pogledajte ovo, Watsone.
+{42594}{42652}Prvoklasni provalniËki alat.
+{42658}{42741}Dijamantski sekaË stakla, noû,|i ceo set kalauza.
+{42747}{42834}Sve same stvari stvorene|tokom napretka civilizacije.
+{42846}{42885}A ovde... pogledajte.
+{42933}{42962}Pogledajte ovu lepotu!
+{42968}{43018}ProvalniËka lampa!
+{43050}{43112}Ima da opljaËkam Milvertona.
+{43289}{43326}Oduvek sam vam govorio...
+{43332}{43402}da bih bio odliËan lopov.
+{43408}{43446}I sad ûelim da iskoristim priliku.
+{43452}{43496}Ali, öta Êe biti ako vas uhapse?
+{43521}{43571}''Holmes u Milvertonovim rukama!''
+{43611}{43722}Zar vi -Sherlock Holmes, niste u|stanju da smislite neki drugi naËin?
+{43831}{43872}Ne postoji drugi naËin.
+{43900}{43963}PoËiniÊu zloËin samo u|oËima zakona.
+{43969}{44074}Ako to gledamo sa moralne strane,|moj postupak je sasvim opravdan.
+{44092}{44205}Nisam siguran. -Niste sigurni?|Zaöto ste onda poûurili da mi pomognete...
+{44212}{44305}kad sam hteo da pretraûim|huljine dûepove?
+{44348}{44413}Hteli ste da ga udarite stolicom.
+{44422}{44476}Ali, riziËno je! RiziËno je!
+{44499}{44562}Dûentlmen se ne sme|obazirati na rizik...
+{44568}{44622}ako ga ûena zamoli za pomoÊ
+{44637}{44703}äta ako je veÊ isporuËio pisma?
+{44709}{44734}Nije.
+{44743}{44828}On nigde ne ûuri.|Misli da sam napustio sluËaj.
+{44862}{44928}Ako ja veËeras ne doem|do pisama...
+{44934}{45022}on Êe sutra uniötiti ûivot jadnoj|lady Eve Brackwell.
+{45126}{45260}Kad kreÊemo?|-VI mi tamo ne moûete pomoÊi.
+{45295}{45334}Zaöto tako mislite?
+{45368}{45424}Niste vi jednini koji ima|oseÊaj  samopoötovanja...
+{45430}{45508}i saûaljenje prema nemoÊnima.
+{45538}{45562}Dobro.
+{45592}{45645}VeÊ dugo ûivimo pod|istim krovom.
+{45652}{45740}Ako ne budemo imali sreÊe|deliÊemo i Êeliju.
+{45747}{45825}Imati li neku mekanu obuÊu?|-Naravno.
+{45838}{45868}Imam cipele za tenis.
+{45881}{45905}äta je sa maskom?
+{45967}{46039}Moûemo da napravimo dve od|crnog, svilenog platna.
+{46094}{46124}Bravo, doktore!
+{46173}{46222}Vi ste roeni provalnik!
+{46550}{46611}Papiri su u sefu.|Sef je u kabinetu.
+{46618}{46670}Kabinet je odmah pored|spavaÊe sobe.
+{46704}{46777}Kao i svaki prevejani zlikovac,
+{46780}{46830}Milverton ima lak san.
+{46836}{46879}Agatha mi je tako rekla.
+{47317}{47373}Sve ide po planu. Pola jedanaest je.
+{47379}{47472}Vreme je da stavimo maske.|-Ne.
+{47488}{47571}StaviÊemo ih kad se|preskoËimo na zid.
+{48218}{48257}Drûite mi alat.
+{48541}{48566}To je Nora.
+{48591}{48616}Ne bojte je se.
+{48643}{48701}Mnogo volimo keks od vanile.
+{48924}{48951}Nora, evo ti joö.
+{49041}{49086}SkaËite za mnom, Watsone.
+{49366}{49410}Sad kad nas je upoznala...
+{49416}{49451}moûemo da stavimo maske.
+{50100}{50141}Ovo su vrata kabineta.
+{50215}{50276}Nemamo sreÊe,|stavljena je reza.
+{50360}{50389}Idemo na zadnja vrata.
+{50492}{50560}Tamo je staklenik koji vodi|do gostinske sobe.
+{54760}{54799}Doavola! Posekao sam prst.
+{55760}{55793}Dobrodoöli!
+{55976}{56007}Video nas je.
+{56047}{56074}Papagaj!
+{56080}{56119}Prebacite maramicu preko kaveza.
+{59924}{59996}Kapija je otvorena.|-»udno.
+{60014}{60053}Ne gubimo vreme.
+{60099}{60126}Watsone!
+{60202}{60243}Obriöite to odmah! Brzo!
+{60249}{60319}Imate li maramicu?|-Ostavio sam je kod papagaja.
+{60325}{60352}Evo, uzmite moju.
+{64135}{64190}BiÊu u kabinetu.
+{68788}{68834}Uite. Otvoreno je.
+{68942}{69051}Kasnite pola sata.
+{69075}{69139}Nadam se da Êu biti prigodno|nagraen za ovu neprijatnost.
+{69146}{69206}Zar niste mogli da doete ranije?
+{69252}{69295}Pa, vidim da niste mogli.
+{69308}{69378}ZnaËi, kaûete da vas vaöa|grofica maltretira?
+{69384}{69471}Sad imate priliku da joj|uzvratite.
+{69540}{69567}Je l' tako?
+{69627}{69693}äta je sa vama, devojko?|äto drhtite?
+{69700}{69737}Smirite se.
+{69794}{69821}Sad je veÊ bolje.
+{69829}{69858}Da preemo na posao.
+{69869}{69925}Rekli ste da imate 5 pisama...
+{69931}{69989}koja mogu da kompromituju|vaöu gazdaricu.
+{69995}{70077}Vi ûelite da ih prodate,|a ja ûelim da ih kupim.
+{70104}{70152}Samo je potrebno da se|dogovorimo oko cene.
+{70158}{70241}Ali, prvo moram da vidim pisma.
+{70286}{70360}Boûe moj! To ste vi!?
+{70444}{70471}Da, to sam ja!
+{70506}{70566}Jadbnica koju ste upropastili.
+{70642}{70681}Bili ste tvrdoglavi.
+{70702}{70770}Niste smeli da dozvolite da se|stvari otrgnu kontroli.
+{70806}{70901}Uveravam vas, ja bez potrebe|ni mrava ne bih zgazio.
+{70915}{71009}Ali, svako zarauje hleb|na svoj naËin.
+{71015}{71092}äta sam ja mogao?|Rekao sam cenu.
+{71098}{71154}Mogli ste da je platite.
+{71162}{71210}Ali, vi niste hteli da platite!
+{71224}{71288}I onda ste vi poslali ta pisma|mom muûu.
+{71310}{71355}Njegovo srce nije izdrûalo.
+{71376}{71407}Umro je.
+{71437}{71491}Umro je naplemenitiji Ëovek.
+{71551}{71617}SeÊate li se one noÊi|kad je bio ovde, u ovoj sobi?
+{71635}{71701}Ja sam vas na kolenima preklinjala|da mi se smilujete.
+{71707}{71744}Ali, vi ste mi se samo|smejali u lice.
+{71751}{71830}Kao öto mi se smejete i sad.|Samo su vam usne drhtale.
+{71871}{71897}Kukavice!
+{71906}{71988}Mislili ste da me nikad viöe|neÊete videti?
+{71995}{72034}Ali sam ja znala put.
+{72118}{72184}Ne mislite, valjda, da vas|se ja plaöim?
+{72190}{72305}Samo treba da pozovem sluge|i oni Êe vas izbaciti napolje.
+{72352}{72502}Ali, ja Êu biti popustljiv|prema razljuÊenoj dami.
+{72523}{72642}Kad ste ljuti... baö ste lepi.
+{72715}{72745}Idite sami.
+{72792}{72827}I zaboravimo sve ovo.
+{72833}{72906}Vi neÊete viöe uniötavati ûivote,|kao öto ste moj,
+{72912}{72973}Vi neÊete viöe slamati srca,|kao öto ste moje. 
+{72980}{73034}Ja Êu osloboditi svet|od vas, gade!
+{73934}{73961}Mrtav je!
+{75368}{75393}Stani!
+{75495}{75522}Baci piötolj!
+{76032}{76057}Moj si!
+{76149}{76176}Do avola!
+{76193}{76261}Ovamo! Ovde su!
+{77290}{77333}Gde vam je cipela, Watsone?
+{77356}{77437}OËigledno, gde i vaöa maramica.
+{77443}{77472}U rukama policije.
+{77947}{77999}Da li imate monograme|na maramici?
+{78005}{78032}Ne, na sreÊu.
+{78038}{78125}Nadajmo se da Êe se sve|dobro zavröiti.
+{78145}{78211}Najvaûnije je da je lady Eve|sad, sasvim sigurna.
+{78217}{78260}Ni ja nisam bio oprezan.
+{78266}{78351}Na vratima staklenika|je ostala moja krv.
+{78483}{78533}Policija vas traûi, gospodo.
+{78778}{78838}Dobar dan, gospodine Holmes.|Dobar dan, doktore.
+{78844}{78887}Dobro jutro, inspektore.
+{78903}{78946}Izvinite, molim vas...
+{78955}{79027}da niste, sluËajno, zauzeti.|-Ne baö.
+{79164}{79205}Sedite, molim vas.
+{79237}{79280}Ne, ne, hvala, stajaÊu.
+{79388}{79469}Sedite, inspektore.|-Ne bih da vas zadrûavam.
+{79687}{79786}Gospodine Holmes, neöto|veoma Ëudno se...
+{79810}{79868}dogodilo ove noÊi|u Hampsteadu.
+{79887}{79970}Stvarno neobiËno, jer su se, izgleda...
+{79976}{80018}dva zloËina ispreplela.
+{80062}{80112}Recite mi, öta se dogodilo?
+{80118}{80195}Gospodine Holmes, ja znam da vi|volite ovakve sluËajeve.
+{80272}{80317}Siguran sam u to.
+{80337}{80407}Ubistvo bez tragova bekstva
+{80413}{80500}Siguran sam da vas interesuje.|-I da i ne.
+{80543}{80643}Sve zavisi od detalja.|-Detalji su savröeni.
+{80650}{80742}DramatiËno ubistvo sa|gomilom sitnih pojedinosti. 
+{80749}{80832}Veoma, veoma je interesnatno...|-Nastavite, inspektore.
+{80839}{80905}Bila bi mi pravo zadovoljstvo,
+{80912}{81008}ako biste mogli liËno da odete|do Appledor Towersa, gospodine Holmes.
+{81055}{81123}Mi smo veÊ neko vreme|pratili ubijenog...
+{81139}{81184}i moram reÊi da je bio|prava hulja.
+{81210}{81263}U svom sefu drûao je|kompromitujuÊe papire...
+{81270}{81313}kojima je, kasnije|ucenjivao svoje ûrtve.
+{81319}{81385}Ali, posle ubistva svi njegovi|papiri su spaljeni u kaminu.
+{81391}{81467}Niöta vredno nije ukradeno.
+{81474}{81519}To mi govori...
+{81528}{81614}da su zloËinci iz viöih|druötvenih slojeva.
+{81630}{81678}Bilo ih je viöe?|-Dvojica.
+{81697}{81725}Imamo dokaza.
+{81732}{81809}Krv na vratima staklenika,|cipela za tenis, otisci stopala,
+{81815}{81853}maramica.
+{81866}{81916}Da, sasvim dovoljno dokaza.
+{81926}{81982}Da! Malo je falilo i da|ih uhvatimo.
+{82008}{82108}Prvi je bio okretniji.|Baötovan je uhvatio drugog...
+{82114}{82168}ali je ovaj uspeo da mu se otrgne|ostavljajuÊi mu samo svoju cipelu.
+{82174}{82230}Bio je proseËne visine,
+{82243}{82313}Ëvrste grae sa öirokim licem,
+{82328}{82376}riim brkovima i nosio je masku.
+{82382}{82496}Sa tako uopötenim opisom, inspektore,|to bi mogao biti bilo ko.
+{82524}{82555}»ak i Watson.
+{82737}{82830}Laskate mi, inspektore.|-Da, stvarno.
+{82980}{83054}Bojim se da neÊu moÊi mnogo|da vam pomognem, inspektore.
+{83063}{83113}Prvo, imam trenutno|isuviöe posla.
+{83119}{83189}Drugo, nemate dovoljno dokaza.
+{83237}{83319}I, öto je najvaûnije, poznavao sam|tog Milvertona.
+{83333}{83412}Bio je jedan od najljigavijih|skotova u celom Londonu.
+{83420}{83490}Moûemo samo da se nadamo da je|dobio ono öto je zasluûio.
+{83501}{83544}NeÊu preuzeti taj sluËaj.
+{83601}{83640}Pa, kako god hoÊete,|gospodine Holmese.
+{83646}{83729}Ali, ako budem imao nekih pitanja,|doÊi Êu kod vas. Dovienja.
+{83753}{83782}Rado Êu vam pomoÊi.
+{83797}{83845}Dovienja, gospodine Holmes.
+{84327}{84366}Pa, neka sam proklet!
+{84450}{84506}Na öta sam ja spao!
+{84527}{84591}Celog ûivota reöavam tue zloËine,
+{84598}{84664}a zaboravim da zataökam|tragove svog.
+{84936}{84981}Gospodine Holmes, pismo za vas.
+{85018}{85044}Hvala.
+{85328}{85383}''Uvaûeni Ëuvaru zakona!
+{85390}{85464}Ovaj put ste preöli granicu.|»uvajte se. M.''
+{85887}{85924}Lestrade nije glup.
+{85955}{86000}Ta poruka je njegovih|ruku delo.
+{86083}{86149}Sigurno je primetio|i cipelu u kaminu.
+{86166}{86190}Da.
+{86264}{86328}Do guöe smo se uvalili|u ovo, Holmes.
+{86410}{86453}PriËa tek poËinje,
+{86459}{86527}a Lestrade nema nikakve|veze sa ovim.
+{86551}{86632}Gde nam je ovogodiönje|izdanje 'Sve o Londonu'?
+{86753}{86836}Slovo 'M'?|-Ne, slovo 'H'.
+{86849}{86897}Lord Christopher Hacksley.
+{86908}{86941}Pronaite njegovu adresu.
+{87817}{87856}Ja nisam zvala policiju.
+{87862}{87919}Mi nismo iz Scotland Yarda.|Mi smo privatni detektivi.
+{88027}{88097}Moj muû je, hvala bogu,|umro prirodnom smrÊu...
+{88100}{88138}tako da mi privatni detektivi|nisu potrebni.
+{88143}{88223}Ne ûelim da zloupotrbljavam vaöe vreme|pa bih odmah preöao na stvar.
+{88244}{88322}Ovog jutra smo moj prijatelj,|doktor Watson i ja...
+{88327}{88413}primili jedno pismo. Ne verujem da bi vas|sadrûaj pisma mogao interesovati,
+{88416}{88478}ali, bi vam, moûda, potpis|mogao biti poznat.
+{88598}{88729}To je slovo M napravljeno od Ëetiri|crvena, ukrötena maËa.
+{88817}{88867}Da li vam je taj monogram poznat?
+{88934}{88967}Niöta vas ne razumem.
+{89004}{89101}VIdite, gospoo, u Londonu|ima mnogo nikogoviÊa,
+{89107}{89173}koji se bave plemenitim|i bogatim porodicama.
+{89179}{89228}Naöa namera je da vas|zaötitimo od ucenjivaËa.
+{89244}{89302}Nikad ranije nisam|videla taj monogram.
+{89344}{89379}Jeste li sigurni?
+{89391}{89477}Sigurna sam samo da traÊite|svoje vreme, gospodo.
+{89926}{89959}VeÊ sam i zaboravila...
+{89966}{90081}kako izgleda obiËan|londonski poötar.
+{90103}{90253}Od vaöe poöte, gospodo,|ja Êu dobiti nervni slom.
+{90291}{90364}Ili mi je donose kojekakvi odrpanci...
+{90380}{90454}ili uleÊe kroz prozor|zajedno sa kamenom,
+{90476}{90601}a onda, vaö brat Mycroft|poöalje telegram po...
+{90607}{90722}kuriru koji izgleda kao da je tog trenutka|stigao iz Buckinhghamske palate.
+{90727}{90814}Onda ujutru, nekakvo|dlakavo Ëudoviöte...
+{90820}{90867}gurne poruku ispod vrata.
+{90883}{90935}A neposredno pre|vaöeg povratka...
+{90994}{91100}uleteo je neki Ëovek, izlajao|neöto nerazgovetno...
+{91111}{91169}bacio kovertu na mene|i pobegao.
+{91175}{91223}Gde je ta koverta?|-U hodniku je.
+{91232}{91279}Mislim da je u njoj bomba.
+{91317}{91428}Od gospodina Holmesa sam, odavno|digla ruke, ali, vi, doktore...
+{91496}{91543}Dama! Prava dama u|svemu öto radi.
+{91549}{91592}Ovo je ono öto sam traûio od nje.
+{91621}{91675}I ona mi je poslala,|preko bog zna koga.
+{91704}{91770}Kakva ûena! Kakva samokontrola!
+{91776}{91813}Kakav zdrav razum!
+{92054}{92126}Nekakvi hijeroglifi.|-Izvanredno, Watsone.
+{92132}{92171}MoraÊemo da ih deöifrujemo.
+{92177}{92273}A onda Êe svi britanski|egiptolozi da mi zavide.
+{93537}{93602}Kraj prvog dela
+{93799}{93829}U drugom delu...
+{93836}{93930}slavni detektiv Sherlock Holmes|i njegov prijatelj, doktor Watson...
+{93937}{94011}Êe osetiti moÊ i podmuklu prirodu...
+{94018}{94152}Ëoveka Ëiji se identitet|krije iza slova ''M''.
+{94177}{95677}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/98xq7|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

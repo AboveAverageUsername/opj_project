@@ -1,0 +1,939 @@
+{0}{300}{y:i}prevod sa engleskog i obrada|Gaca62
+{325}{475}-== [ www.OpenSubtitles.org ] ==-
+{1653}{1712}{Y:i}Ovde leûi HOZE ARA|pokoj mu duöi
+{1807}{1871}Ovaj grob danas nije|oËiöÊen.
+{1893}{1953}Znate i sami koliko kod kuÊe|imam posla, gospoo.
+{1958}{2050}Nadgrobna ploËa moga sina|mora uvek da se blista.
+{2054}{2101}Da, gospoo.
+{2110}{2178}Hoze... moj Hoze.
+{2221}{2275}Tri godine su proöle od kad|si nas napustio...
+{2279}{2364}a ja te i dalje nosim u|svom srcu.
+{2386}{2499}Sine moj... sine moj...|pokoj ti duöi.
+{3541}{3589}Prosto neverovatno,|sve je isto.
+{3794}{3820}Kako ti se dopada?
+{3869}{3915}Sigurna sam da neÊeö zaûaliti|öto si doöao.
+{4000}{4027}Antonio...
+{4249}{4295}Je l' se kajeö öto si|doöao?
+{4334}{4376}Naravno da ne.
+{4643}{4683}HoÊeö biti dobar?
+{4696}{4739}Da, gospoo.
+{4997}{5054}O, Boûe, kako mi je drago!
+{5105}{5182}Daj da te pogledam.|Uopöte se nisi promenila.
+{5186}{5229}LuËi, ovo je Antonio,|moj muû.
+{5241}{5299}Drago mi je. -Izvinite, samo öto|sam nalakirala nokte.
+{5303}{5381}Ana mi je toliko priËala o vama da bolje|poznajem vaöu nego svoju porodicu.
+{5385}{5447}Da, i mi nju mnogo volimo.|Izvolite, molim vas.
+{5451}{5501}Hvala. -Samo izvolite.|-Hvala.
+{5575}{5622}Niöta se nije promenilo.
+{5734}{5809}I? Uradili smo neke male|prepravke.
+{5866}{5967}Pa... kako ste? Jeste li|sreÊni u braku?
+{6003}{6088}Toliko sreÊni... da je to teöko|za podneti.
+{6107}{6163}To je najbitnije.
+{6189}{6234}Kako je Huan, vaö muû?
+{6290}{6370}U ovoj kuÊi ne priËamo o Huanu.|-Da se nije neöto desilo?
+{6380}{6428}Ne, ne, ne, dobro je on.
+{6443}{6486}Radije ne bih sad o tome.
+{6500}{6585}Ana, povedi ga, znaö put.|-Izgleda da se ovde neöto deöava.
+{6635}{6683}Baö mi je drago öto te vidim.
+{6700}{6743}Mama puni 100 godina?
+{6750}{6831}Neverovatna je, sve Êe da nas|sahrani. -100 godina!
+{6844}{6882}Stvarno neverovatno.
+{6886}{6964}A devojËice, kako se slaûu sa njom?|-Ma, ona ih uopöte ne prepoznaje.
+{7079}{7137}Nemoj mi reÊi da Êeö nas smestiti|u moju staru sobu.
+{7141}{7181}Da vidim da li je se|seÊaö.
+{7191}{7239}Moja soba.
+{7285}{7364}Majko moja, sve je isto.
+{7378}{7455}Mama je insistirala da vas|smestim u tvoju sobu.
+{7469}{7591}Orman, slike, krevet,|sve je...
+{7653}{7706}Ovde neöto fali.
+{7735}{7784}LuËi, öta je bilo ovde?
+{7788}{7826}Niöta. Tu nikad niËeg|nije bilo.
+{7830}{7873}Sad sam ja tu.
+{7877}{7959}Budalice. Kako ti se|dopada?
+{7964}{8004}Mnogo.|-Stvarno?
+{8008}{8113}Znaö, kad sam prvi put doöla|ovamo, tu sam sela...
+{8117}{8190}i samo öto sam skinula cipele|otvorila su se vrata,
+{8194}{8253}Don Hoze je uöao unutra|i rekao...
+{8257}{8326}'Gde ti je pasoö?'
+{8370}{8426}Tu priËu sam Ëuo veÊ 20 puta.|-éiva istina.
+{8430}{8498}Gde je Don Hoze?|-Kako je on?
+{8513}{8547}Pa, vi ne znate?|-Ne.
+{8611}{8672}Hoze je umro pre tri godine...|od infarkta.
+{8680}{8717}äta?
+{8721}{8788}Svima nam je bilo grozno,|a jadnoj mami najgore.
+{8792}{8855}On je jedini bio u stanju da odrûi|kakav-takav red u ovoj kuÊi.
+{8860}{8910}LuËi, izvini, nisam znala...
+{8914}{8952}Dobro, sad Êu vas ostaviti|da se malo odmorite.
+{8956}{9013}VeËera je u 9:30,|kao i uvek.
+{9017}{9083}Da, i mama je rekla da ne morate|da se pozdravite sa njom...
+{9087}{9138}do sedam sati uveËe.
+{9155}{9201}Dobro doöli.|-Bolje vas naöli.
+{9313}{9389}Nit je vidiö, nit smeö|da je pozdraviö!
+{9463}{9519}Don Hoze je bio vojno lice,|je l' tako beöe?
+{9553}{9609}Ko Êe sad voditi raËuna o|njegovim uniformama?
+{9625}{9696}Jesam li ti ikad rekla da je imao|fantastiËnu kolekciju uniformi?
+{9700}{9745}Da, da, rekla si mi i to kao i da|si se ti brinula o njima.
+{9750}{9825}'Da', rekao mi je Don Hoze, 'sine moj,|ti si jedina osoba koja moûe'...
+{9908}{9941}Izvini.
+{9946}{10000}Znam da sam dosadna.|-Nisi.
+{10015}{10050}HoÊeö da ti napunim kadu?|-Ne.
+{10054}{10117}Da. Prvo Êu ti napuniti|kadu toplom vodom...
+{10121}{10184}a ponela sam i tvoju|omiljenu penu.
+{10188}{10246}Ne, ne treba mi nikakva pena|neÊu da se kupam.
+{10251}{10358}NeÊeö? I nemaö  niöta protiv da|se ja okupam?
+{12388}{12460}{Y:i}Majko moja, kako vreme leti.
+{14633}{14693}StriËe, kako napredujeö?
+{14726}{14783}Loöe... Jako loöe.
+{14806}{14885}Nikad neÊu uspeti.|Nikad.
+{14917}{14978}Naravno da hoÊeö, ujko.|Sigurna sam da hoÊeö.
+{15003}{15067}Stvarno tako misliö?|-Naravno.
+{15166}{15284}U reklami kaûu da treba samo|brzo da se zaletim,
+{15296}{15384}a ja veÊ mesecima|pokuöavam.
+{15469}{15596}A pitam se da nije problem u onim|fleksibilnim kablovima...
+{15606}{15688}Da, moglo bi to da bude.
+{15788}{15827}Zdravo.
+{15843}{15871}Zdravo.
+{15875}{15907}Ja sam Natalija.
+{15911}{15989}Antonio. Ana mi je mnogo|priËala o tebi.
+{16067}{16100}Vidim da si se odomaÊio.
+{16110}{16190}Mogu li?|-Naravno.
+{16402}{16455}Ovo je Karlota, moja sestra.|-Zdravo.
+{16469}{16545}Ja sam Antonija. Ana mi je|priËala o tebi.
+{16645}{16708}Znaö da mama ne voli|kad to puöiö.
+{16891}{16935}I on se nada da Êe|da poleti?
+{17198}{17235}Ne mogu da verujem!
+{17242}{17279}Ali, koja je koja?
+{17283}{17345}Karlota, Natalija.
+{17422}{17464}Ne mogu da verujem.
+{17468}{17546}Doite unutra, hladno je...
+{17620}{17689}Stvarno ne mogu da verujem,|ovo je nemoguÊe...
+{17743}{17783}Kad sam ih poslednji put|videla...
+{17787}{17831}Bile su ovolicke.
+{17837}{17900}Ovo je Antonio.|-VeÊ smo se upoznali.
+{17908}{17957}A ti, Ana, uopöte se|nisi promenila.
+{17962}{18051}Vidi me na öta liËim.|-To i nije neki kompliment.
+{18129}{18254}# Tiho kos u grmu spava #
+{18260}{18368}# A joö tiöe raste trava #
+{18509}{18630}# Tiho tamni bor öumori #
+{18639}{18794}# A joö tiöe treönja zori #
+{18809}{18923}# Tih je zeko ispod granja #
+{19058}{19142}Tu pesmu smo pevali kad...|-Kad ste bile ovolicke, znam.
+{19210}{19289}Gospoice, majka vas zove da odmah|doete da joj pomognete.
+{19333}{19401}Izvini Ana, mama je nepodnoöljiva.|-äta to priËaö, Natalija?
+{19417}{19453}Vidimo se.
+{19475}{19528}Dobar dan, gospoa Ana,|majka ûeli da vas vidi.
+{19535}{19582}»eka vas u svojoj|spavaÊoj sobi.
+{19586}{19672}Ovaj... slobodno joj recite,|samo da se spremimo, i...
+{19676}{19735}Odmah dolazimo da je vidimo.|-U redu!
+{20003}{20050}Uite, uite!
+{20101}{20148}Mama!
+{20240}{20371}Upali to svetlo, svaki put me|ovako ostave u mraku...
+{20381}{20441}a niko nema tako grozne|noÊne more kao ja.
+{20445}{20530}Mama... ovo je Antonio,|moj muû.
+{20553}{20656}Visok je i zgodan...|je l' dobar? -Nije.
+{20679}{20855}Ana, baö mi je drago öto te vidim.|Doi ovamo, sedi pored mene.
+{20859}{20922}Znala sam da Êete mi doÊi,|znala sam.
+{20926}{21018}I ti isto, doi ovamo,|sedi pored mene.
+{21072}{21174}Samo malo da ih pipnem. äta ti je,|öta se trzaö? Prepade me!
+{21193}{21258}Doi, sedi, sedi. Sedi!|äta si se ukipio!
+{21298}{21349}Prii malo bliûe.|Tako... Tako!
+{21353}{21465}Baö ste me obradovali!|Sutra punim 100 godina.
+{21469}{21490}100 godina!
+{21502}{21563}»estitamo od srca.|-Sutra...
+{21580}{21677}Tako je, joö uvek|imam samo 99.
+{21728}{21808}Ovo... ovo viöe ne radi kako|treba. -Mama, molim vas...
+{21812}{21864}Istina, Êero moja,|ûiva istina.
+{21868}{21965}I da nam nisu uËinili sve one|nepravde...
+{21969}{22128}Sutra Êe mi biti prvi roendan|koji ne slavimo svi zajedno.
+{22230}{22362}Ubeena sam da Êe i Huan sutra doÊi.|Svaki dan se molim Svetom Antunu.
+{22368}{22399}Je l' vam to on rekao?|-Nije...
+{22426}{22558}Jeste... jeste... Donesi mi ga! Donesi|mi mog Svetog Antuna, sine.
+{22568}{22615}Daj mi ga. Donesi mi ga,|molim te.
+{22636}{22681}Ovog?|-Tog... tog.
+{22793}{22887}Nemoj to da mi polomiö...|-Ne, ne, nisam niöta polomio.
+{22896}{23045}Sveti Antune koji u Padovi si roen|a u Salomonu studirao...
+{23178}{23263}Hvala ti, sine, hvala...
+{23371}{23445}Sveti Antune, blagosloven da si...
+{23458}{23570}Ne, ne valja tako... Sveti Antune,|molim ti se... Molim? Ne.
+{23617}{23726}Sveti Antune... neka mi Huan sutra|doe na roendan.
+{23732}{23768}Izvoli...
+{23787}{23846}I stvarno ne znate|niöta o Huanu?
+{23850}{23895}Niöta, baö niöta.
+{23899}{23951}Huan robuje svojim strastima,
+{23955}{24027}za njega moraö imati puno|razumevanja.
+{24034}{24122}Napisao mi je jedno pismo...|i posle toga nestao.
+{24135}{24253}Napisao mi je, 'Mama, odlazim sa|Amelijom da poËnem novi ûivot.
+{24261}{24337}Uvek Êeö biti u mom srcu.'
+{24348}{24393}Za sve je LuËi kriva,
+{24397}{24492}mnogo je zla i sebiËna,|a pri tom je i hladna kao led.
+{24496}{24630}Huanu je potrebna neka vatrena,|zgodna cura koja...
+{24707}{24750}Gde sam ono stala?
+{24754}{24860}Rekli ste da je LuËi hladna i|proraËunata...
+{24864}{24932}A da je Huanu potrebna vatrena,|zgodna cura.
+{24936}{25002}Ne, ne, ne... ne znam.|Ne znam.
+{25028}{25080}Pismo... pismo, pismo...
+{25084}{25162}U pismu je napisao da odlazi|sa kuvaricom.
+{25166}{25260}A ona grozna... ona je najgora|od svih kuËki.
+{25321}{25432}On ne shvata da su|obline prolazne...
+{25436}{25565}i zato jurca naokolo za ûenama traûeÊi|samo ono öto sve ovde imaju.
+{25599}{25664}Baö smo se napatili zbog njega.
+{25724}{25819}Onaj koji je drûao sve pod kontrolom|kada si ti otiöla iz ove kuÊe...
+{25836}{25910}siroti moj Hoze,|pokoj mu duöi,
+{25914}{26041}zatvorio se u svoj muzej,|i mesec dana nije izlazio.
+{26108}{26173}A Fernando? Jesi li|videla Fernanda?
+{26177}{26213}Je l' to avijatiËar?
+{26217}{26289}Ne, nismo joö videli ni Fernanda,|ni Viktoriju.
+{26316}{26380}Fernando...
+{26395}{26446}moj sin...
+{26456}{26521}pripada proölosti.
+{26534}{26599}Ostala su mi samo seÊanja.
+{26662}{26749}Moj Fernando ûeli da|postane pilot.
+{26753}{26825}éeli da leti kao ptica!
+{26921}{26958}Natalija!
+{27031}{27075}Moram da dokonam.
+{27081}{27139}Moram da dokonam.
+{27164}{27243}Moûda centar gravitacije|nije dobro odreen,
+{27247}{27322}ili se ja moûda ne nagnem dovoljno|kada se odrazim?
+{27330}{27377}Idemo, Fernando,|pusti sad to.
+{27381}{27440}Hajde, ujko.
+{27788}{27826}Solanû, vrata!
+{27844}{27892}Viktorija! -Gde je moja|devojËica?
+{27926}{27975}Viktorija, seÊaö se ti|mene? -Ne.
+{27979}{28049}Ana?|-Ana!
+{28053}{28104}Ana, molim te, pomeri se s puta.|-Fernando!
+{28151}{28198}Mama, vreme je za veËeru.
+{28202}{28307}KonaËno! Gladna sam|kao vuk.
+{28327}{28388}Fernando, sine moj.
+{28398}{28505}Niko nema tako lepe devojke kao ja.|Pogledaj ih samo, lepotice!
+{28522}{28594}LuËi, öta imamo za veËeru?
+{28614}{28696}Straöno sam gladna.
+{29973}{30018}Ne stidim se da kaûem da smo...
+{30022}{30091}onog dana kad smo se sreli,|28-og decembra...
+{30095}{30189}Jesi li sigurna? -28-og decembra,|sasvim sam sigurna...
+{30209}{30357}Jeli smo prepelice, i tada smo odluËili|ako naöa ljubav potraje,
+{30361}{30459}da Êemo se venËati 14-og februara|na Dan Svetog Valentina.
+{30625}{30672}Sedam godina!
+{30676}{30788}Hej, LuËi! LuËi! Ovaj pirinaË je|izvrstan, apsolutno izvrstan!
+{30906}{30989}Nego, Viktorija, jesam li ti ispriËala|öta sam danas sanjala?
+{31005}{31055}äta si sanjala, bako?
+{31070}{31159}Da vidim samo da li mogu|da se setim... da!
+{31194}{31270}Sanjala sam neko straöno|nevreme.
+{31286}{31421}Uûasan vetar nosio je sve, sve,|sve pred sobom.
+{31425}{31474}Nosio je sve pred sobom kroz|vazduh ispresecan...
+{31478}{31552}Ispresecan nekakvim zracima|i nekakvim iskricama.
+{31572}{31612}Kao Apokalipsa?
+{31616}{31681}Dobro... najbolje da njih dve|ostavimo da Êaskaju.
+{31685}{31752}Bako, jesmo li svi bili|u kuÊi?
+{31761}{31959}Da, svi. Naravno... svi sem Fernanda,|koji je svojim zmajem leteo po nebu.
+{32021}{32135}Leteo sam, mama? -Da, sine moj,|konaËno si poleteo.
+{32155}{32224}Bako, öta Êe biti sa imanjem|kad ti umreö?
+{32241}{32319}Karlota! -Karlota, kako te|nije sramota?
+{32360}{32417}Sad Êu da ti kaûem|öta Êe biti.
+{32441}{32537}ProdaÊe imanje,|isparcelisaÊe ga...
+{32559}{32749}a kuÊu Êe sruöiti da bi mogli da|naprave neki ogroman, ruûni soliter.
+{32780}{32905}Ali, dok sam ja ûiva, ovde|niko niöta neÊe graditi.
+{32989}{33057}Eto kakva buduÊnost Ëeka|ovo imanje.
+{33178}{33248}Karlota, nasledila si Hozeov|karakter.
+{33305}{33373}äta li je moj Huan naumio?
+{33391}{33483}LuËi, moûeö da ga pozoveö i da|mu kaûeö da doe sutra?
+{33489}{33594}HoÊu da ga vidim pre nego öto...|poslednji put da vidim mog Huana.
+{33598}{33665}Mama, dobro znaö da se njegovo ime|ne pominje viöe u ovoj kuÊi.
+{33669}{33744}Tako smo odluËili.|-Ne znamo ni gde je.
+{33773}{33834}Fernando, reci mu da|doe sutra.
+{33888}{33958}éelim samo joö jednom da|se svi okupimo.
+{33965}{34024}SledeÊe godine mene|viöe neÊe biti.
+{34028}{34142}éeno, boûija! äta to priËaö?|Mama, zaöto priËaö gluposti?
+{34146}{34196}Ne znam.
+{34221}{34307}Samo ûelim joö jednom svi|da se okupimo.
+{34317}{34419}Ako toliko ûeliö da doe, doÊi Êe.|-Majka je bolesna, Fernando.
+{34423}{34495}Zaveûi, LuËi! Pusti|Fernanda da govori.
+{34511}{34590}Sine moj, öta treba da uradimo|da bismo ga videli?
+{34619}{34666}Da verujemo!
+{34678}{34797}O, da, da, ja verujem.|»vrsto verujem.
+{34880}{34976}Stvarno ûeliö da ga vidiö?|-Stvarno ûelim da ga vidim.
+{36548}{36577}Mama!
+{36606}{36650}Huane!
+{36654}{36707}Sine moj!
+{36711}{36776}Doöao si!
+{37172}{37233}Ima napad!
+{37339}{37385}Dajte mi kaöiku.
+{37586}{37647}Ne! LuËi, ne radi to!
+{37668}{37722}Ana!|-Ja ne znam...
+{37726}{37775}Ana, molim te!
+{37879}{37956}Mama, smiri se.
+{38017}{38132}Smiri se... tako je...|smiri se.
+{38353}{38426}Mama, smiri se...
+{38585}{38688}Ana, mogu li da uzmem|tvoju kremu za lice?
+{38737}{38786}Koûa mi je sasvim suva...
+{38983}{39061}äta ti misliö, da li Fernando stvarno|moûe da predvidi öta Êe biti?
+{39065}{39113}Da.
+{39230}{39358}Kakva porodica!|Kakvi ljudi!
+{39365}{39416}Ovo je jedan beskrajan krug.
+{39440}{39546}Kakva porodica! Mrtvi sede za trpezarijskim|stolom drûeÊi svoje slike ispred sebe.
+{39559}{39608}Neverovatno!
+{39699}{39771}Znaö... Najviöe od svega me|muËi zaöto je...
+{39776}{39885}Fernando tako nepokolebljivo odbijao|da se tvojoj majci daju kapi?
+{39889}{39973}To je Ëudno...|»udno je, je l' da?
+{40042}{40112}Tebi nije Ëudno, Ana?|Ana?
+{40179}{40215}»ujeö li ti mene?
+{40260}{40302}Ana?
+{40705}{40753}Samo kad pada kiöa...
+{40797}{40851}ako ne pada niöta.
+{41509}{41581}Viöe nikad niöta nije izaölo|ispod stepenica...
+{41600}{41669}poöto je kartu vratila|u svoj dûep.
+{41694}{41776}Kad je otkrila ovu tajnu,
+{41794}{41875}odökrinula je vrata i gurnula|prst u prorez.
+{41932}{42072}Zatim ga je, brzo zatvarajuÊi vrata,|prikljeötila svom snagom.
+{42086}{42324}Posle deset sekundi,|polako je izvukla ruku.
+{42487}{42525}Otiöla je do stolice i sela...
+{42584}{42752}Gledala je svoj pomodreli prst,|i krv koja je curela ispod nokta.
+{44876}{44972}Ana, molim te,|hladno mi je.
+{45221}{45263}Doavola.
+{45707}{45758}Jebi ga.
+{48685}{48722}Uplaöila si me.
+{48726}{48764}Ima li unutra neöto|zanimljivo?
+{48768}{48852}Ne, samo sam Ëuo muziku pa|me zanimalo odakle dolazi.
+{48856}{48890}HoÊeö da ueö?
+{48895}{48955}Molim?|-Ui.
+{48995}{49041}U redu.
+{49195}{49237}Baö je lepo!
+{49262}{49340}Dopada ti se?|-Mnogo.
+{49713}{49794}'Maui Vaui'|-äta?
+{49801}{49916}Maui Vaui.
+{50983}{51017}Sedi.
+{51447}{51490}Noga mi je mokra.
+{51500}{51552}äta reËe?
+{51568}{51689}Prosuo sam Ëaöu pored|kreveta. -U cipelu?
+{51876}{51922}Daj da ti je osuöim.
+{52469}{52513}Sviaö mi se.
+{53377}{53425}HoÊeö da vodimo ljubav?
+{53576}{53608}Da?
+{53626}{53663}Ne?
+{53692}{53728}Da?
+{53738}{53780}Ne?
+{53809}{53846}Da?
+{56131}{56190}Majko moja...
+{57688}{57766}äta ti je sa prstom?|-Prikljeötila sam ga vratima.
+{57782}{57823}Kako si to uspela?
+{57886}{57932}Jesi li Ëitao 'BraÊu|Karamazove'?
+{57944}{58019}Nisam. Mnogo je to debelo|za mene.
+{58072}{58145}Jesi li se umorila?|-Jesam malo.
+{58149}{58238}Godine su je stigle.|-To je bilo nisko.
+{58271}{58316}Idem malo da slikam|Fernanda.
+{58331}{58374}Zdravo!
+{58405}{58434}Zdravo!|-Natalija!
+{58452}{58531}Natalija! Moûeö li da mi|poneseö jaknu?
+{58928}{58974}Fernando!
+{59125}{59176}Napred, ujko!
+{59306}{59355}Sad ili nikad!
+{59717}{59757}Fernando!
+{59912}{59995}Joö nisam dokonao...|Nikad neÊu prokljuviti.
+{60131}{60173}VeÊ sam mislila da si|poginuo.
+{60208}{60303}U ûivotu, jako je teöko uraditi neöto|vredno ako ne pokuöavaö.
+{60308}{60327}Zar ti nije dosta|pokuöavanja?
+{60380}{60467}U redu je. Zato... zato|nosim ovu kacigu.
+{60669}{60786}Jedino öto sam shvatio je da moram|da se operem. Sve je u redu.
+{60829}{60883}Moûda bih mogao velenjom.
+{60888}{60935}»ime?|-Velenjom.
+{60942}{61014}To ti je biljka koja raste|u blizini.
+{61022}{61118}Treba se pomuËiti... -Treba se|pomuËiti ali ja Êu je pronaÊi.
+{61147}{61181}PronaÊi Êu je ja.
+{61185}{61243}UjaËe, moraö da proeö|jako opasnim prolazom.
+{61251}{61311}Da li vi znate za njegovu|povredu glave? -Za öta?
+{61315}{61341}Za povredu glave.
+{61345}{61417}To mu se desilo pre nego öto je|poËeo da nosi kacigu.
+{61440}{61486}Pokaûi im oûiljak.|-äta? Dobro.
+{61566}{61622}Evo, a to je sve zbog centra|gravitacije. -Stvarno?
+{61673}{61755}Ovih dana Êu malo|manje jesti...
+{61759}{61807}kako bi uspeo da pronaem svoj|centar gravitacije.
+{61943}{62081}Dok je put ravan i lagan za|ljude dobre volje,
+{62095}{62162}onaj, naprotiv, koji je|slabih nogu ili...
+{62167}{62262}koji za put nema oduöevljenja|ni postojanosti,
+{62276}{62320}napredovaÊe malo|i uz velik napor.
+{62355}{62441}To su reËi Svetog Jovana od Krsta u|njegovim 'Izrekama o svetlu i ljubavi'.
+{62449}{62519}Opet si poËeo da priËaö|gluposti? -LuËi.
+{62523}{62578}Zdravo Ana.  Meni to baö tupavo|zvuËi, Fernando.
+{62583}{62655}Jedva si Ëekao da doe Ana da|prosipaö mudrost. -LuËi.
+{62660}{62700}Ja ne mislim da priËa|gluposti.
+{62735}{62771}Nemoj da me braniö.
+{62787}{62822}Ostavi me na miru.
+{62835}{62902}Niöta drugo mi ne treba. -Ne, ne, samo|nemoj ponovo da poËinjeö...
+{62906}{62942}to kod mene viöe ne pali.
+{62946}{62999}Majka hoÊe da svi zajedno|odemo do groba.
+{63010}{63078}Karlota, Viktorija, idemo.
+{63090}{63124}Ne znam öta Ëekate?
+{63468}{63522}Uopöte ne primeÊujeö da su|se vremena promenila.
+{63526}{63633}éiviö u nekoj svojoj iskrivljenoj|realnosti a to viöe ne moûe tako.
+{63676}{63767}Skini krila i stani nogama na zemlju.|I da, joö jedna stvar.
+{63771}{63810}Novca viöe nema, gotovo je.
+{63814}{63880}Ne dam ti viöe ni prebijenu paru|za tvoje letenje.
+{63969}{64018}I öta sad ja da radim?
+{64042}{64084}Znaö ti dobro öta treba|da radiö.
+{64158}{64205}Fernando...
+{64262}{64311}Razvedri se.
+{64367}{64426}Tako sam blizu da poletim.
+{64818}{64859}Hoze...
+{64863}{64932}moj Hoze...
+{64940}{65005}tri godine su proöle kako|si me napustio...
+{65009}{65084}a ja te i dalje nosim|u svom srcu.
+{65091}{65163}Sine moj...
+{65216}{65283}poËivaj u miru.
+{65627}{65705}Tvoja kolekcija je svaki dan|sve bogatija.
+{65797}{65845}ZakopËaj ga.|ZakopËaj.
+{65971}{66032}Uniforma skroz promeni liËnost onoga|koji je nosi. -Da, da, upravu si.
+{66092}{66136}Zaöto ti ne probaö|ovu uniformu?
+{66142}{66182}A, ne!
+{66186}{66245}Zaöto?|-Nije moj broj.
+{66249}{66316}Joö kako je tvoj broj.|TaËno tvoj broj.
+{66320}{66361}Ne...
+{66378}{66437}Hajde, molim te, |probaj je.
+{66486}{66535}Ana...|-Insistiram!
+{66739}{66773}Predivno...
+{66777}{66827}Dodaj mi pojas.
+{66880}{66927}Ne znam kako ovo ide.
+{67354}{67415}Baö si lep u toj|uniformi.
+{67442}{67512}baö si muûevan,|pravi osvajaË.
+{67918}{67950}Nemam metaka.
+{68015}{68043}Pomeri se!
+{68047}{68110}Nemoj!|-Pomeri se!
+{68207}{68254}Sine moj...
+{68258}{68337}ne znam da li Êu ti|doÊi sutra.
+{68385}{68445}Hajde da obiemo krug oko imanja|sa Anom i Antoniom.
+{68449}{68540}Ta ti je dobra, LuËi.|Samo pazite na zamke.
+{68552}{68589}Dobro, mama.
+{68613}{68650}Iznenada je umro.
+{68654}{68714}»istio je piötolj,|Ëula sam vrisak i...
+{68718}{68785}Ubio se?|-Ne, infarkt.
+{68851}{68915}A öta je bilo sa muzejem?|-Mama ga je prodala Armiji Spasa.
+{68919}{68980}Kome?|-Armiji Spasa.
+{69291}{69346}äta ovaj radi?|Topografiju terena?
+{69364}{69431}Nemojte da kaûete baki.|Ne mora ona sve da zna.
+{69435}{69482}Radimo jedan projekat za|naöu organizaciju.
+{69486}{69588}Karlota je shvatila da bi bilo|pametno isparcelisati zemljiöte.
+{69600}{69654}To sam odluËila kad su prodali|ujka Hozeov muzej.
+{69662}{69713}Izgledalo mi je glupo|Ëuvati toliku zemlju.
+{69729}{69754}Naravno.
+{69759}{69798}Naöe imanje zahvata nekoliko|kilometara...
+{69802}{69882}na kojima niko ne ûivi,|nema ûive duöe.
+{69903}{69935}Nekada sve to niöta|nije vredelo...
+{69939}{70029}Danas, nema cenu.|Vredi pravo bogatstvo.
+{70041}{70107}Zato razmatramo moguÊnost|da se ovde neöto izgradi.
+{70111}{70192}Baka je jasno rekla, dok je ona ûiva|ovde se niöta neÊe graditi.
+{70196}{70227}Ti mala, zaveûi.|-NeÊu.
+{70231}{70299}Nemoj da ti zalepim jednu...|ako te nije sramota od Antonija.
+{70303}{70353}I nemoj viöe tako da odgovaraö|majci. Doi ovamo.
+{70813}{70872}Antonio, pomozi mi,|molim te.
+{71069}{71111}Polako, samo polako.
+{71119}{71152}Ne mrdajte da vas slikam.
+{71351}{71413}äta misliö?|-Predivno je.
+{71417}{71481}Ovo je pravi rudnik zlata.
+{71485}{71531}Natalija!
+{71629}{71715}Ne mrdaj, Ana! Ne mrdaj!|-äta?
+{71719}{71781}Zamka!|-äta ti je?
+{71785}{71832}Ana, stani!
+{71836}{71881}Ana!
+{71885}{71914}äta je bilo?
+{71918}{71996}Ne mrdaj!
+{72391}{72493}Sa kojim entuzijazmom|i kojom voljom da...
+{72508}{72617}krenem u poduhvat|koji se naziva letenje?
+{72666}{72718}Moram ovladati umetnoöÊu|letenja...
+{72780}{72834}ovladati voljom za letenjem...
+{72873}{72993}da bih se vinuo iznad gradova|zagaenih industrijom,
+{73013}{73089}da bih zajahao vetar i|dozvolio mu da me ponese...
+{73093}{73169}nebom svojim Êudljivim|vazduönim strujama.
+{73201}{73258}A ja da ne razmiöljam|ni o Ëemu.
+{73340}{73393}OËiju poluzatvorenih,
+{73448}{73518}zatvorenih i tela paperjastog...
+{73617}{73700}traûio bih mir za koji svi priËaju...
+{73704}{73754}da se moûe pronaÊi samo na nebu.
+{73869}{73931}Ana... gde si?
+{73965}{74017}Zaöto si doöla, Ana?
+{74029}{74080}Mama, Ëujeö li me?
+{74084}{74133}Da, sine. »ujem.
+{74147}{74224}Naravno da te Ëujem.|Sad me pusti na miru.
+{74241}{74288}Moram mnogih stvari|da se setim.
+{74296}{74374}Dobro, kako hoÊeö|Samo reci, samo reci.
+{74569}{74616}Ne ostavljaj me, Ana.
+{74633}{74702}Ne ostavljaj me.
+{74715}{74768}Sve öto imam dao|bih za tebe.
+{74781}{74895}Sve, sve öto imam,|dao bih za tebe.
+{74910}{74958}Volim te, Ana.
+{75002}{75042}éelim te.
+{75049}{75116}Ne!
+{75282}{75349}Uûasno je robovati strasti.
+{75402}{75499}Amelija, dva dana te|nisam video...
+{75510}{75566}i ne mogu viöe ovako.
+{75570}{75649}Bez tebe ne mogu|da ûivim.
+{75653}{75729}Koliko te samo volim.
+{75733}{75804}Ne podnosim ovu kuÊu.
+{75808}{75907}»im ovde obavim ono öto sam|naumio, odmah se vraÊam.
+{75938}{76000}A kad se vratim, sve Êe|biti drugaËije.
+{76004}{76109}KonaËno Êemo imati dovoljno novca|da ostvarimo sve naöe planove.
+{76460}{76518}Pogledaj, pogledaj kakva|katastrofa.
+{76554}{76617}Ovo da se sredi? Potrebni su|milioni! A za öta?
+{76625}{76664}Ni za öta, pretpostavljam.
+{76691}{76785}Antonio, doi da ti|pokaûem neöto.
+{76864}{76903}Skini sako.|-Molim?
+{76907}{76962}Skini sako.
+{77020}{77085}Ovo je stajalo u maminoj sobi,|na vrh njenog ormana.
+{77089}{77135}Prvi put to vidim.|-Pogledaj, pepito...
+{77248}{77288}Ana...
+{77325}{77361}Da?
+{77434}{77490}Neverovatno.|-Vidi rukavica!
+{77494}{77526}äta je to?
+{78113}{78173}Uz jednu lepu belu koöulju...|Imaö belu koöulju? -Nemam.
+{78204}{78267}Pozajmi jednu...|-Izgledam kao kelner.
+{78340}{78413}Mama! Pogledaj!
+{78511}{78547}Ima joö?
+{78563}{78604}Ovo je zlatno.
+{78613}{78690}Izvini, Antonio, to su|porodiËne uspomene.
+{78694}{78756}Ovo je naöe naslee,|sa tim se ne treba igrati.
+{78776}{78847}Baö je lepo.|-FantastiËno, Ana.
+{78851}{78913}Antonio!
+{78919}{78975}Pogledaj öta je Natalija naöla.
+{79017}{79084}Vidi ti njega!|-Pljunuti sam Fred Aster!
+{79147}{79186}Kamfor!
+{79376}{79443}Kako divno miriöe!|Oboûavam ga.
+{79982}{80036}Odmah da si to skinula|sa sebe! -Ja?
+{80081}{80128}Ne. Ne ti, Ana.|Izvini.
+{80156}{80198}Kako ti se dopada, Ana?
+{80228}{80312}Baö je lepo. -Skidaj to,|nepristojno je!
+{80418}{80457}Ionako Êeö se smrznuti u tome.
+{80467}{80563}Ni na roendan svoje bake|nemaö trunku stida i srama.
+{80568}{80673}Natalija, sluöaj majku! Skidaj to,|nepristojno je, naroËito pred bakom.
+{80677}{80740}Skidaj to kad ti govorim!
+{81034}{81094}Bestidinice jedna!
+{81103}{81149}Kako te nije sramota|svih ovih ljudi!
+{81163}{81210}Vi ste najobiËnija gomila|licemera.
+{81216}{81309}A ti mama... Jako dobro znaö|da je to tvoja haljina.
+{81324}{81396}Znaö da ti je tata poklonio. -Zaveûi,|ili ne odgovaram za svoje postupke.
+{81400}{81434}Mnogo Êe ti to pomoÊi.
+{81438}{81474}Ti si najobiËnija glupaËa.
+{81482}{81538}LuËi! -Svaka Ëast, mama,|alal vera!
+{81554}{81611}Krajnje je vreme da neko tu|kuËku dovede u red.
+{81632}{81699}Karlota.|Karlota!
+{81704}{81765}Kakav ti je to reËnik?|-PriËa kao kamiondûija.
+{81769}{81798}DaÊu ja tebi!
+{81911}{81940}Stani!|-Udarila me je!
+{81954}{81998}Viktorija!|Viktorija, paöÊu!
+{82219}{82256}Kakav dûumbus.
+{82263}{82328}Kakav dûumbus.|-LuËi! LuËi!
+{82332}{82385}Da ne pominjem öta sam sve|ûrtvovala za vas tri.
+{82389}{82458}A vidi sad, kako mi one vraÊaju|za to. -LuËi. LuËi!
+{82463}{82492}I ovo mi je hvala.|-LuËi!
+{82500}{82538}éivot sam im ceo dala!|-LuËi. LuËi!
+{82542}{82574}Sve sam im pruûila! Sve!
+{82578}{82633}A vidi kako mi vraÊaju!|Roene Êerke!
+{82638}{82694}Prestani! Dosta je!|-'Rani kuËe da te ujede!
+{82927}{83026}Kakav neuspeh!|Moj najveÊi neuspeh.
+{83035}{83112}Tvoj najveÊi neuspeh je ova|glupaËa! -Viktorija, Êuti!
+{83131}{83187}Moram da kaûem neöto öto Êe|te interesovati, mama.
+{83243}{83302}Viktorija je spavala sa svojim|ujakom. -Stvarno?
+{83306}{83419}Nije moguÊe! -–ubre...|–ubre jedno pokvareno!
+{83531}{83558}KuËko!
+{83562}{83606}éivotinjo!
+{83615}{83668}Kretenuöo!
+{83696}{83754}Dosta! Pusti je na miru!
+{83777}{83816}Sad je dosta! Smirite se!
+{83828}{83874}Idi po Huana.|-Prekinite, u redu?
+{83933}{84005}Antonio! »ekaj idem i ja|sa tobom!
+{84016}{84055}Smirite se.
+{84256}{84326}Rodila sam tri monstruma!
+{84358}{84413}Sve tri, odmah u kuhinju|da pomognete Solanû.
+{84419}{84458}Odmah!
+{84630}{84686}Volim te, Antonio.|Volim te.
+{84764}{84837}Golubice moja... nemoj sad,|nije vreme.
+{84851}{84934}Baö me briga!|-Evo dolaze devojke..
+{85003}{85059}Zdravo.|-Zdravo.
+{85139}{85245}Volim te. éelim te.|éelim da se mazim sa tobom.
+{85249}{85299}Da, ljubavi... - éelim da vodim|ljubav sa tobom.
+{85308}{85359}Dobro, samo ne sad.|-Da, baö sad.
+{85363}{85393}Nemoj sad.|-Doi.
+{85479}{85546}Samo kaûnjavanjem moûeö|slomiti njihovu volju.
+{85568}{85668}Veruj mi, meni je teûe nego njima,|ali ne moûe se drugaËije.
+{85678}{85751}Sloboda i nevaspitanje se u|danaönje vreme Ëesto meöaju.
+{85763}{85809}Najvaûnija stvar je|lepo ponaöanje...
+{85816}{85894}a da bi se do toga doölo, nema boljeg|naËina od gvozdene pesnice.
+{85909}{85958}Sad mi je sasvim jasno zaöto|se Hoze izolovao od nas.
+{85962}{85997}Imao je apsolutno pravo!
+{86001}{86074}To vam je baö pomoglo.|-Kako to misliö?
+{86078}{86165}Gospoo? »ovek iz banke|traûi gospou majku.
+{86179}{86223}Dobro. Odmah dolazim.|Daj mi te medalje. Hvala.
+{86663}{86741}Volim te. Volim te.
+{86806}{86831}Nikad nemoj da odeö od mene.|-Ne, neÊu.
+{86869}{86929}NeÊeö me ostaviti?|-NeÊu.
+{86941}{87023}Mnogo te volim.|-Tako si lepa...
+{87195}{87251}Antonio?
+{87255}{87311}Golubice moja...
+{87359}{87456}Toliko te ûelim.
+{87835}{87862}Zdravo.
+{87885}{87922}Zdravo.
+{87931}{87976}Doöao sam da obnovimo|ugovor.
+{87987}{88029}Moja svekrva je bolesna.
+{88045}{88082}Treba samo ovo da|potpiöe.
+{88099}{88190}Dajte da joj odnesem.|Odmah se vraÊam.
+{88286}{88345}Mama?
+{88358}{88403}Mama, mogu li?
+{88416}{88481}Zdravo. Izvini öto te|uznemiravam...
+{88502}{88570}Stiglo nam je pismo iz banke.
+{88597}{88661}LuËi, molim te, ne ûelim da znam|niöta o tim pismima.
+{88684}{88723}Treba samo da ga potpiöeö.
+{88739}{88788}To Êeö ti brzo.
+{88792}{88855}Znaö kako to ide sa|bankama.
+{88912}{88998}A kako si ti?|HoÊeö olovku?
+{89209}{89244}Zdravo, bako.
+{89500}{89592}OdliËno, mama.|Tako...
+{89670}{89704}Izvanredno.
+{89710}{89759}Super, super...
+{89821}{89860}Nemoj da ideö.|-Moram.
+{89887}{89925}Vidimo se kasnije.
+{90733}{90794}Ana?
+{91012}{91057}Ana!
+{91073}{91107}Ana, vrati se ovamo.
+{91126}{91168}Ana!
+{92072}{92106}Ana! Vrati se!
+{92278}{92315}Za malo!
+{93921}{93970}Moja Ëizma...
+{94116}{94171}Moja Ëizma...
+{94328}{94410}Ja sam... ja sam njegova|golubica.
+{94436}{94464}Golubica.
+{94526}{94574}äta sad da radim?
+{94606}{94649}äta da radim?
+{94952}{95002}Ana...
+{95075}{95157}Anice, zbog toga ne vredi|plakati.
+{95161}{95207}Ne budi öaöava,|nemoj sad beûati odavde...
+{95211}{95281}samo zato öto ne moûeö|da se suoËiö sa tim.
+{95287}{95349}Zbunjena si, ljuta i|ogorËena.
+{95357}{95456}Antonio te voli. -Ne pokazuje|mi da me voli.
+{95472}{95502}Ne govori tako.
+{95509}{95568}Stvar je mnogo ozbiljnija|nego öto ti misliö...
+{95578}{95644}i ne bi smela sve da upropastiö|u nastupu besa.
+{95656}{95778}Sluöaj me...|Antonio te voli.
+{95871}{95958}Ana, ne napuötaj me.|HoÊe da me ubiju!
+{96045}{96217}äta? -Moja deca hoÊe da me ubiju|i samo ti moûeö da me spaseö.
+{96221}{96266}Zato si se i vratila.
+{96328}{96366}Zato sam se vratila?
+{96401}{96442}Ana!
+{96480}{96544}Molim te!
+{96555}{96652}Volim te!|-Idi tucaj golubicu.
+{96706}{96780}Ana, volim te!|-Zbogom, zauvek!
+{96804}{96847}Idi kod nje.
+{96874}{96930}Volim te, Ana.|-Idi sa Natalijom.
+{96946}{97041}»ujeö li ti mene?|Volim te.
+{97053}{97107}Jesi li vodio ljubav|sa njom?
+{97122}{97192}To nije vaûno.|-Meni jeste.
+{97215}{97340}Reci mi, jesi li vodio ljubav sa njom?|-To, uopöte nije vaûno. Volim te.
+{97352}{97399}Jesi li vodio ljubav...
+{97563}{97608}Udario si me!
+{97612}{97716}Nisam hteo da te udarim.|Jako mi je ûao...
+{97761}{97854}äta, koji moj, mi uopöte|radimo ovde?
+{98019}{98098}Jesi li ili nisi?|-Ana, molim te...
+{98136}{98169}Jesi li ili nisi?
+{98230}{98283}Jesam.|-Kad?
+{98342}{98372}Jesi?
+{98413}{98462}Jesi, skote!
+{98468}{98538}Spavao si!|-Svi Êemo ovde poludeti.
+{98542}{98606}äta je sad?|-Jesi!
+{98741}{98781}Hajdemo odavde!
+{98785}{98855}Evo ti kljuË, dovezi kola.
+{98915}{98940}Odmah.
+{99224}{99283}Antonio...
+{99327}{99428}Ostala sam bez Ëizme,|mnogo te volim...
+{99433}{99496}i ne znam zaöto moramo|da idemo.
+{99998}{100044}Hajde, ûeno.
+{100135}{100187}Volim te.
+{100242}{100297}Mnogo te volim.
+{100341}{100398}Volim te najviöe na svetu.
+{101999}{102050}Ne mogu.
+{102070}{102115}Ne mogu.
+{102137}{102175}Ne mogu ovako, LuËi.
+{102179}{102261}Dûaba se ja trudim kad|tebi nije do toga.
+{102293}{102369}Nisam ja kriva. -Naravno,|sad sam joö ja kriv.
+{102450}{102513}Slobodno idi kod one|svoje kurve.
+{102653}{102757}Ne moûeö niöta da mi prebaciö|ja uvek dajem sve od sebe.
+{102860}{103005}Ne postoje frigidne ûene, nego|samo nesposobni muökarci!
+{103192}{103241}Udario me je...
+{103296}{103373}To je trebalo davno da uradim...|da te nauËim pameti.
+{103417}{103490}Idiote. Nikad se ti neÊeö|opametiti, moj Huane!
+{103700}{103777}Nemoj da me bijeö. Samo nemoj|da me bijeö, molim te.
+{103781}{103871}Nemoj ni da me ostavljaö.|Nemoj da ideö.
+{103921}{104003}Molim te, nemoj da ideö.
+{104156}{104248}Sama sam.|Ne mogu viöe.
+{104252}{104271}Ne mogu viöe.
+{104312}{104404}Nemoj da si takva, ûeno.|Smiri se malo. -UbiÊu se.
+{104591}{104649}Samo da se obuËem pa idemo,|Fernando nas Ëeka.
+{104669}{104752}Hajde, Huane, poûuri malo.
+{105286}{105332}VeÊ je bilo krajnje vreme.
+{105356}{105397}äta si odluËio?
+{105465}{105504}Ne znam.
+{105508}{105584}JuËe nam je rekao,|'Niöta ne brinite'.
+{105588}{105629}I sve je bilo u najboljem redu.
+{105633}{105694}Mamin napad nam je seo|kao kec na deset.
+{105707}{105768}Zaöto Ani nisi dozvolio da|joj da njene kapi?
+{105772}{105831}Zar se nismo dogovorili|da zavröimo sa tim?
+{105849}{105877}Nije bio pravi trenutak.
+{105881}{105940}Vidiö? Niöta nam drugo|nije preostalo.
+{105959}{106084}Fernando, molim te, do guöe|smo u dugovima.
+{106106}{106198}Kad pismo stigne to je kraj.|Sve je gotovo.
+{106217}{106254}Shvataö?
+{106258}{106340}Nema viöe novca.|NiËeg.
+{106411}{106461}Jadna mama.
+{106477}{106560}Majka je dovoljno ûivela|sad je red na nas.
+{106564}{106615}U pravu je.
+{106643}{106738}Pazite öta govorite, ona sve Ëuje.|-Ne priËaj gluposti.
+{106742}{106790}ObaviÊemo to na drugi naËin.
+{106797}{106838}Ovo je bezbolno.
+{106922}{107012} Nema miris, nema ukus,|i uopöte ne deluje.
+{107026}{107098}Mama se, jednostavno neÊe oporaviti|od sledeÊeg napada.
+{107102}{107182}NeÊe patiti?|-Naravno da neÊe.
+{107186}{107229}IzgubiÊe pamÊenje kao i|posle svakog napada.
+{107377}{107411}Fernando...
+{107425}{107470}ovo je akt milosra.
+{107579}{107645}Dobro. NastaviÊemo po|dogovoru.
+{107751}{107797}U redu, onda smo se|dogovorili.
+{107820}{107864}Ali, samo... samo ako bude|imala napad.
+{107884}{107942}A öta ako ne bude imala|napad? äta onda?
+{107983}{108028}Ko Êe joj, onda dati kapi?
+{108116}{108165}Ja sam mislio da Êe LuËi...
+{108178}{108233}Dobro. A zaöto ne bi on?
+{108237}{108291}Ne. Ja ne mogu.
+{108367}{108437}Ja sam broj jedan, ti si broj dva|a ti si broj tri.
+{108441}{108527}Na zabavi zamoliÊemo Anu da|kaûe broj od jedan do tri.
+{108534}{108578}Vaûi?
+{108632}{108667}Ana?
+{108677}{108725}Ana?
+{108857}{108889}Da?
+{108893}{108938}Ana...
+{108956}{108989}doi...
+{109002}{109082}Moram da ti kaûem neöto|straöno vaûno...
+{109096}{109132}Potrebna si mi...
+{109136}{109228}Ti si jedina osoba koja|me razume.
+{109251}{109362}Molim te... doi.|-Dolazim.
+{109500}{109592}Ui, ui, Êero moja.|Niöta ne brini.
+{109600}{109685}Natalija se tuöira|a Antonio spava kao klada.
+{109689}{109742}ZakljuËaj vrata.
+{109790}{109819}Tako... dobro je.
+{109823}{109876}A sad mi dodaj moju kutiju|sa lekovima.
+{109883}{109924}Zar se ne seÊaö gde stoji?|-Znam, tamo.
+{109928}{109991}Ui, donesi mi je.|U pravu si, draga...
+{109995}{110065}ne smemo da verujemo|ûenama.
+{110425}{110515}Ana, moja deca pokuöavaju|da me ubiju.
+{110532}{110566}To ste mi veÊ rekli...|ali ja ne verujem u to.
+{110570}{110640}Da, Êero moja,|hoÊe da me ubiju.
+{110661}{110763}Ja sam matora a matori ljudi|su skroz beskorisni.
+{110774}{110830}Zato su se dogovorili|da me ubiju...
+{110834}{110923}da rasparËaju zemlju i da|sruöe kuÊu.
+{110970}{111049}Jeste li sigurni?|-»ekaju moj sledeÊi napad...
+{111067}{111146}a onda Êe mi dati nekakve pilule|koje uopöte ne deluju,
+{111156}{111194}i ja Êu umreti.
+{111198}{111239}Molim?
+{111260}{111313}Ti niöta ne znaö.
+{111317}{111416}BiÊeö na zabavi i biÊeö|sreÊna i zadovoljna...
+{111524}{111576}Ponesi ovo s sobom.
+{111612}{111659}Kad budem dobila napad...
+{111758}{111825}Mislite da se probijem prva do vas|i da vam dam ove kapi?
+{111857}{111925}Tako je, Ana, ti si|moje sunaöce.
+{111940}{112027}U ovoj kuÊi samo tebi|mogu da verujem.
+{112079}{112166}'Ne smemo da verujemo|ûenama!'
+{112199}{112286}Ti si drugaËija od njih,|ti nisi Ëlan porodice.
+{112320}{112430}Ana, ovo je divno, znala sam da|Êeö doÊi da mi... pomogneö.
+{112450}{112490}Sad idi.
+{112714}{112773}Dovienja.|-Dovienja.
+{113038}{113114}Boûe, kako je to tuûno...
+{113134}{113189}Kako godine prolaze.
+{113226}{113285}éivot je lep.
+{113314}{113384}Meni je preostalo joö|malo vremena.
+{113476}{113523}Ui, sine moj.
+{113549}{113584}VeÊ sve znam.
+{113625}{113671}Znam öta te muËi.
+{113724}{113770}Kako da ti pomognem,|Fernando?
+{113838}{113877}Ui, slobodno.
+{113893}{113932}Ui, veÊ jednom.
+{114228}{114278}Sine moj...
+{114409}{114488}{Y:i}Mama, koliko god se trudio,|ne mogu da je zaboravim.
+{114516}{114569}Moraö da je zaboraviö.
+{114585}{114700}Znam da je to teöko ali|to je jedino reöenje.
+{114754}{114818}Ne mogu viöe, mama.
+{114829}{114880}Tera me da se vraÊam|u proölost.
+{114884}{114968}Niöta neÊeö dobiti tim pokuöajima|da, kao neki klinac...
+{114972}{115040}privuËeö njenu paûnju.
+{115080}{115196}Ma koliko te to bolelo|Ana neÊe biti tvoja.
+{115322}{115409}{Y:i}I öta ja sad da radim, mama?|Reci mi i to Êu i uraditi.
+{115413}{115463}{Y:i}Molim te, pomozi mi.
+{115482}{115566}Prvo se lepo doteraj,|obrij se.
+{115617}{115715}Zgodan si,|privlaËan si.
+{115759}{115825}Sedi pravo, sine.
+{115846}{115886}Da, baö tako, dobro je.
+{115944}{116016}I okupaj se, uûasno|smrdiö.
+{116048}{116101}Stavi malo kolonjske vodice.
+{116135}{116186}I ne zaboravi da popijeö|malo vina.
+{116201}{116241}{Y:i}Ne, to ne mogu.
+{116274}{116364}Naravno da moûeö i moraö da pijeö|sve dok ne osetiö kako lebdiö,
+{116368}{116433}ali onda moraö da prestaneö|da ne bi ispao budala,
+{116439}{116498}i da ne bude da sam ti sve|ovo uzalud govorila.
+{116555}{116653}Smeökaj se, pokuöaj da|budeö mio i drag.
+{116734}{116774}I pokuöavaj da vodiö suvisle|razgovore...
+{116778}{116821}o stvarima koje sve zanimaju.
+{116841}{116881}Kao na primer, mama?
+{116943}{117003}Pobogu, kakva si ti budala!
+{117022}{117151}»ime je svaki muökarac opsednut|bez ikakvog vidljivog razloga?
+{117237}{117302}SmrÊu?
+{117336}{117454}Sine moj, ti niöta, niöta, niöta|ne znaö o ûivotu.
+{117489}{117582}Osvrni se oko sebe.|äta vidiö?
+{117751}{117786}Ne mogu da ti kaûem|öta vidim.
+{117808}{117847}äta vidiö?
+{117885}{117940}Gomilu gluposti...
+{117960}{118005}povlaivanja...
+{118046}{118099}Kao ûivotinje su.
+{118106}{118188}To nisu gluposti,|nije porok...
+{118203}{118255}sve je to prirodno.
+{118320}{118471}PratiÊu te i vodiÊu te,|govoriÊu ti öta treba da radiö.
+{118523}{118567}UËiniÊeö mi to, mama?
+{118623}{118661}UmetniËka duöica...
+{118665}{118734}Ti si jedna umetniËka duöica.|A sad, idi. Hajde.
+{118743}{118805}Ostavi me samu, moram|mnogo da razmiöljam.
+{118963}{119000}{Y:i}Smeökaj se.
+{119017}{119115}{Y:i}Da vidim...|To je to. Tako.
+{119151}{119223}{Y:i}A sad joj reci slatko, ali sa|puno samopouzdanja...
+{119244}{119320}{Y:i}'Ana, veËeras si prelepa'.
+{119338}{119418}Ana, veËeras si prelepa.|-Je l' da jeste?
+{119432}{119489}U ovoj kuÊi bi svaki dan|trebalo praviti zabave.
+{119507}{119551}Fernando i vi ste veËeras|neodoljivi.
+{119564}{119659}Molim te, Ana, zaboravi na formalnosti.|Mi smo stari prijatelji, zar ne?
+{119688}{119750}I ta tvoja ogrlica,|draga moja...
+{119763}{119873}Oprosti mi, Ana, ako sam napadan...|ali tvoj vrat je kao izvajan.
+{119907}{119939}Stvarno vam... ti se svia?
+{119943}{120059}{Y:i}Reci, 'I te tvoje grudi kao|nagoveötaj tvoga tela...'
+{120071}{120167}I te tvoje grudi kao nagoveötaj|tvoga... -Fernando!
+{120389}{120431}Mama...|-Molim?
+{120436}{120471}Kako ste lepe!
+{120475}{120520}Natalija, Karlota.
+{120551}{120608}Ana, Antonio, molim te,|Fernando.
+{120637}{120705}Doite svi ovamo, doite.
+{120749}{120775}Jedno iznenaenje!
+{120809}{120850}Tiöina.
+{120874}{120911}Svetlo!
+{120930}{120984}Muzika!
+{121506}{121541}Mama!
+{121570}{121622}To je baka!
+{121628}{121680}Tako! Tako!
+{121739}{121770}Fernando... Sine moj!|Sine!
+{121779}{121872}Deco moja! Kakva sreÊa,|kakvo zadovoljstvo!
+{122212}{122272}Moja Natalija, prelepa|kao i uvek.
+{122296}{122372}Moja Karlota, ista si kao|tvoj ujka.
+{122390}{122434}I mala moja sreÊica,|Viktorija.
+{122442}{122501}Daj da i tebe poljubim Antonio,|mali moj Antonio.
+{122530}{122559}Kakva sreÊa!
+{122563}{122641}Koliko me sve ovo podseÊa|na moje detinjstvo.
+{122650}{122760}Kad su me oblaËili i|podizali, podizali...
+{122794}{122863}jedne godine je konopac pukao|i za malo nisam poginula.
+{122898}{123004}Ovako su je spuötali za svaki|roendan... poËev od 18-og...
+{123010}{123150}kada je izgubila nevinost od|nekog obiËnog redova.
+{123160}{123191}Majko, zaöto mi stalno priËaö|sve te gnusnosti?
+{123198}{123267}Fernando... sine.
+{123280}{123344}Sine moj, najdraûi!
+{123355}{123369}Sine, sine!
+{123413}{123496}Ana... doi i ti.|Doi kod mene, Ana.
+{123509}{123552}Poljubi me, Ana...|Kakva sreÊa!
+{123746}{123809}Miriöe... miriöe neka|Ëokolada!
+{123842}{123937}LuËi, to si se ti setila da|oboûavam Ëokoladu.
+{123990}{124026}Fernando, Huane...
+{124112}{124165}Ana! Ana, molim te...
+{124189}{124234}reci nam jedan broj|od jedan do tri.
+{124246}{124268}»etrnaest.|-»etrnaest?
+{124291}{124336}Ne ti, ti se ne raËunaö,|skloni se odavde.
+{124343}{124409}Ti se ne raËunaö.|Skloni se. Skloni se!
+{124414}{124439}äta?
+{124443}{124504}To je jedna igra.|-Da kaûem broj od 1 do 3?
+{124508}{124540}Da vidim... 
+{124547}{124586}Jedan je malo...|dva je taman...
+{124591}{124668}a troje je guûva...|Dva... Dva.
+{124673}{124732}To sam ja? -Ne, Fernando,|rekla je, dva.
+{124749}{124814}Dva, to si ti.
+{124820}{124852}Ja?|-Baö ti.
+{124857}{124899}Kako to mislite?|Ti si broj dva.
+{124905}{124973}Ne, ne, ti si dva.|-Niöta ne razumem.
+{124979}{125016}Sad je red na Huana.
+{125052}{125091}Stavila si brom u ovu kafu!
+{125109}{125157}HoÊeö da mi ubijeö potenciju!
+{125167}{125242}KaöiËica broma dnevno je dovoljno|da ubije muöku moÊ.
+{125251}{125333}U kasarnama, vojnicima daju brom|da bi im suzbili seksualni nagon.
+{125348}{125388}Toliko mladih polno|zrelih muökaraca.
+{125397}{125454}Svako jutro bi u kasarnama bila|prava katastrofa,
+{125464}{125490}sa gomilama plahti|uflekanih semenom.
+{125495}{125522}Za to je brom jedini spas.
+{125527}{125572}Mama, molim te.
+{125627}{125665}Antonio?|-Zaöto me izbegavaö?
+{125710}{125748}Ona sve zna.
+{125776}{125813}Baö me briga.|-Mene je briga.
+{125862}{125902}Volim je.
+{125938}{125972}I povrh svega, ne ûelim|da je povredim.
+{125978}{126043}äta radiö tu?|-Zdravo, ljubavi moja.
+{126132}{126180}Natalija...|-äta je bilo?
+{126267}{126309}HoÊeö Ëokoladu?
+{126320}{126359}Ne, hvala.
+{126373}{126424}Muzika! Pustite muziku!
+{126498}{126539}Hajde da pleöemo.|Doi da pleöemo.
+{126557}{126626}Doi!|-Ali, ovo je flamenko!
+{129194}{129218}Vreme je!
+{129222}{129252}Vreme je!
+{129260}{129331}Gde je moj öampanjac?|Dajte mi öampanjac!
+{129382}{129433}Tiöina! Tiöina!
+{129456}{129490}Joö malo, pa je vreme.
+{129505}{129582}Zatvori oËi, mama.|-Ali, ja i ovako niöta ne vidim.
+{129616}{129657}Zatvori oËi.
+{129894}{129929}Sad moûeö da ih otvoriö.
+{130121}{130187}Oh... kako sam samo sreÊna!
+{130202}{130270}Deco moja, koliko ste me|samo obradovali.
+{130280}{130395}Pre 100 godina, u ovoj kuÊi|naöa majka je ugledala svet.
+{130416}{130494}SreÊan roendan, mama,|i joö ovoliko da proslaviö.
+{130979}{131037}100 godina!
+{131093}{131134}Napad!|Ima napad!
+{131182}{131218}Ima napad! |Huane, kapi!
+{131353}{131398}LuËi, otvori joj usta!
+{131412}{131445}Otvori joj usta!
+{131494}{131561}Smiri se, smiri se.|-LuËi, kaöiku.
+{131797}{131842}Tako...
+{131953}{132004}Samo mirno.
+{132355}{132407}Sad bi trebalo da poËne|da deluje.
+{132451}{132495}Pustite je neka se|odmori.
+{132571}{132617}U pravu si.
+{133003}{133046}Mrtva je.
+{133064}{133096}Jesi li sigurna?
+{133100}{133145}Sto posto.
+{133279}{133354}Jadna baka...
+{133377}{133434}Ne ûelim da baka umre.
+{133491}{133536}Ne ûelim da baka umre.
+{133540}{133596}Viktorija, baka ne moûe|da umre.
+{133854}{133906}Da me nije prevarila?|Majko?
+{134122}{134175}Ubila sam je. -Smiri se.|Nisi je ti ubila.
+{134252}{134290}Ja sam je ubila!
+{134381}{134407}Oprosti mi...
+{134441}{134466}mama...
+{134517}{134575}Moramo da pozovemo doktora.|-MajËice moja!
+{134580}{134628}Treba sve da organizujemo.
+{137066}{137117}Kakav koömar!
+{137208}{137257}Mama...
+{137281}{137351}Mama...|-äta je bilo?
+{137400}{137458}Ona Ëokolada mi baö|nije prijala.
+{137470}{137557}»okolada je bila apsolutno|grozna. -Majko!
+{137562}{137698}Ana! KÊeri moja! Poljubi me! Cela|porodica neka doe. -Znala sam.
+{137775}{137831}Karlota, ti ne.|Ti nemoj.
+{137861}{137948}Antonio, doi i ti.
+{137975}{138055}Gde je Solanû?|Neka doe.
+{138173}{138290}Ti nemoj, Fernando.|Ti nemoj.
+{138599}{138659}Sanjala sam da sam umrla.
+{138670}{138782}I bila sam u vozu koji je|jurio kao pomahnitao...
+{138802}{138890}i iöao je sve brûe|i brûe...
+{138897}{138974}a ja sam kroz prozor gledala|svoju proölost.
+{138998}{139112}Videla sam sebe dok sam bila devojËica,|i kad sam imala prvo priËeöÊe...
+{139128}{139185}pa kad sam se udala,
+{139231}{139292}i kad je poËeo Prvi Rat,
+{139298}{139370}bombardovanja i sirene.
+{139400}{139543}Kakav uûas! Ceo ûivot mi je|proöao ispred tog prozora...
+{139612}{139736}Videla sam svu okrutnost,|svu glupost...
+{139769}{139836}svu sebiËnost, deco moja.
+{139868}{139938}Svu bespotrebnu patnju...
+{139961}{140026}svo bespotrebno ûrtvovanje...
+{140674}{140974}{Y:i}zgaca62@yahoo.com
+{140999}{142499}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org

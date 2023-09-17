@@ -1,0 +1,823 @@
+{1}{1}25.000
+{67}{130}{Y:i}Jeste li spremni?
+{163}{294}{Y:i}Brokeba... kompiÊi.|Dobro je. Ocjena 6.
+{299}{353}{Y:i}Jeste li spremni?
+{358}{434}Pablo! Pablo!
+{439}{539}{Y:i}OK, idemo.|Ovo je bilo za trojku.
+{544}{624}{Y:i}U redu.
+{629}{770}{Y:i}Bok, ja sam William Hung. Dobar dan.|»ista sedmica.
+{775}{824}Pablo! Pablo!
+{829}{934}{Y:i}Jeste li spremni? Jeste li spremni?|Spreman sam.
+{939}{1009}OK, idemo. Ouch!
+{1034}{1184}-== [ www.OpenSubtitles.com ] ==-
+{1470}{1531}Hvala öto ste doöli.
+{1672}{1755}To! Glazba!
+{1835}{1932}äto ima, San Jose? Da Ëujem vrisak!
+{1991}{2077}Idemo! Pjevajte!|Lijepo je biti ovdje.
+{2082}{2211}SinoÊ sam bio u San Franciscu.|Stvarno nisu normalni.
+{2216}{2289}Partijanje, cuga...
+{2294}{2371}Nakon posjete San Franciscu|morate na rehabilitaciju.
+{2376}{2499}Zovem se Pablo.|Uniötila su me svjetla San Francisca!
+{2504}{2553}SinoÊ sam gledao neki bend...
+{2558}{2628}Jeste li ikada bili na spoju "na nevieno"?
+{2633}{2718}éenska je bila nabrijana.|"Idemo van, idemo!"
+{2723}{2818}HoÊemo li na veËeru?|- Ne. Idemo na koncert!
+{2823}{2915}OK, bilo öto za picu.|Hajde, idemo.
+{2920}{3052}Iöli smo na koncert Death Metal benda.
+{3057}{3122}Tip pjeva...
+{3209}{3334}Tragedija. Tko su ovi?|- Baö su dobri!
+{3339}{3456}"Raspadanje"! To je David|Bloodclot iz "Raspadanja."
+{3461}{3533}Moûete li pustiti malo te muzike?
+{3585}{3643}Ovaj dio malo vuËe na jazz.
+{3721}{3791}To! Pjevaj!|Ugasite to.
+{3796}{3952}Darovali su mi album.|"Ovo je naö album. Posluöaj ga kad..."
+{4012}{4080}Ponaöaju se kao prave zvijezde.
+{4085}{4154}SlijedeÊa pjesma je s naöeg prvog albuma...
+{4257}{4314}Nemam pojma o Ëemu pjeva.
+{4319}{4391}On je monstrum, zato tako pjeva.
+{4451}{4544}Svi imaju bradice i luaËki pogled.
+{4588}{4736}To! Ludnica! Ovo je pjesma|o Izraelu i politiËarima. To!
+{4741}{4790}Koji idioti.
+{4795}{4926}Ovo je pjesma s neöeg prvog albuma,|"Borba za gluposti".
+{4970}{5026}Kako uopÊe napiöeö rijeËi za takvu pjesmu?
+{5154}{5229}Moûda bih ovdje ubacio...
+{5272}{5345}Ili moûda...
+{5350}{5437}Hej, kak' se piöe...?
+{5442}{5525}Kak' se to piöe? Zablokiral sam.
+{5530}{5661}Moji glazbeni uzori su "Cookie Monster",
+{5796}{5858}Jabba the Hut,
+{5968}{6043}moja maËka dok pati...
+{6048}{6124}Hajde, otpjevaj to.
+{6129}{6219}Moûeö ti to.
+{6224}{6333}On je monstrum, zato tako pjeva.
+{6338}{6448}A basista je Chewbacca.
+{6568}{6645}Orkestar u pozadini...
+{6734}{6783}Koje sranje.
+{6788}{6915}Povremeno radim u "Hot Topicu".|(duÊan s robom za metalce)
+{6946}{7038}Jeste li vidjeli kakvi likovi|tamo rade? Oboûavam ih.
+{7043}{7127}Svaki put kada se ûelim nasmijati odem tamo.
+{7163}{7249}To je Gotika. Baö su cool.
+{7254}{7345}Jeste li ikada bili tamo?|Oprostite...
+{7435}{7609}{Y:i}Tada tama na zemlju pade,|ponoÊ lagano se pribliûava,
+{7614}{7744}{Y:i}VraÊam robu öto onaj tip mi dade...
+{7749}{7834}Svaki prodavaË ima barem|pola kile nauönica po sebi...
+{7867}{7979}Svaki dan ih stave na drugo mjesto.
+{7984}{8091}Danas bih mogao ovako...|I crni prsten peËatnjak.
+{8096}{8187}Mislim da negdje puötam.
+{8192}{8321}Vjerojatno puötaju na sve strane|kada ih skinu...
+{8326}{8392}Odakle dolazi taj zvuk?
+{8565}{8649}Donesi mi kantu vode da naem gdje curi.
+{8654}{8732}Naöao sam!
+{8737}{8820}Imaju nauönice po ustima.
+{8825}{8900}Jedna je joö OK, ali 12 komada?
+{8933}{8987}{Y:i}Hellraiser!
+{8992}{9107}Izgleda kao stroj za rezanje papira.
+{9112}{9187}éelite li raËun?
+{9192}{9304}Kartica vam je odbijena!
+{9309}{9399}Imam lanac od obrve do uha,
+{9404}{9525}pa sve do bradavice.|Kad ga povuËem, pustim vodu.
+{9565}{9643}Imam srebrni grumen na kiti.
+{9719}{9807}Grumenje mi ga produûuje.
+{9812}{9903}Istrpio sam dosta boli, ali se isplatilo.
+{9908}{10040}Sad imam grumen. Ako mi se ne diûe|kad sam pijan, upotrijebim magnet.
+{10086}{10201}Odemo skupa do hladnjaka|po kruh i mlijeko.
+{10308}{10387}Buraz, gle kakve tetovaûe imam.
+{10392}{10446}Svaki Death Metalac ih ima.
+{10451}{10527}Imam tetovaûe koje predstavljaju... niöta.
+{10532}{10628}Ova tetovaûa znaËi|da ne podnosim alkohol u 3 ujutro.
+{10681}{10762}Ovo je zmaj, ovo kostur...
+{10767}{10838}koji se pretvara u... transformira se.
+{10843}{10913}A tek tetovaûe koje ûene stavljaju...
+{10918}{10994}Stavit Êu si Japanske simbole.
+{11157}{11244}Idemo van pokazati ih.
+{11249}{11348}Idemo u noÊni klub pokazati kako smo lude.
+{11400}{11451}Na japanskom je!
+{11456}{11556}Super, ali ja ne znam japanski.
+{11617}{11734}To znaËi "sloboda" na japanskom.
+{11739}{11790}A na korejskom znaËi "udari me".
+{11830}{11943}Ne! Nemoj!
+{11999}{12052}Morate ûivjeti u skladu s tetovaûom.
+{12057}{12133}Ako imate tetovaûu, morate ûivjeti|u skladu s njom.
+{12138}{12232}Divlja sam, ali zapravo sam piËkica.
+{12237}{12347}Idemo partijati? Hajde, öto ti je?
+{12352}{12451}A ona kaûe: "Piöem test ujutro."
+{12456}{12537}Nemoj biti piËkica.
+{12542}{12640}Trebate nositi tetovaûe|kao öto Cher nosi svoje.
+{12645}{12761}Kad Cher zapjeva...
+{12766}{12850}S trakom preko guzice.
+{13031}{13140}ToËno zna öto radi. Zna kako|muökarci razmiöljaju.
+{13145}{13243}Razgovaraö s njom i imaö osjeÊaj|da si ju upravo pojebao.
+{13248}{13355}Jeste li vidjeli njen spot|"If I can turn back time"?
+{13360}{13437}Pjeva okruûena mornarima na brodu.
+{13442}{13546}Svatko od njih si misli:|"Kako Êemo ju izjebati!"
+{13628}{13771}Zavröi snimanje, ona ode,|a njima vise jaja do poda.
+{13855}{13930}Pogledajte sliku.
+{13935}{14036}Kao u luna parku,|"Pogodi me u usta".
+{14041}{14169}Doite! Pogodite u usta i osvojite|neku od super nagrada!
+{14174}{14288}Pogodite Pablita.|Evo ti lopta, pogodi ga u oko.
+{14293}{14366}Idemo u luna park!
+{14371}{14492}A ûene...|"Tetovirat Êu si ameriËku zastavu."
+{14497}{14582}Ili Indijanca, Cherokeeja.
+{14587}{14659}To Êu istetovirati ûeni na guzicu.
+{14664}{14754}To znaËi: "Puno priËe, niöta zabave."
+{14759}{14877}Ako ûelite uzbuditi muökarca,|dajte si ugraditi Xbox kontroler.
+{15321}{15377}Kraj igre.
+{15499}{15590}Ljudi, ako se tetovirate,|tetovirajte neöto funkcionalno.
+{15595}{15668}Ovdje, za pojasom, dröku piötolja.
+{15673}{15784}Kaj je, frajeru?|- U, jebo te!
+{15789}{15844}Tip ima gan.
+{15849}{15953}Ulazim unutra, imaö kaj protiv?
+{15958}{16072}Ako imate maloga, istetovirajte veÊeg.
+{16180}{16265}Istetovirajte policijsku znaËku|ili tako neöto.
+{16270}{16344}Vozite pijani i policajac vas zaustavi.
+{16349}{16428}Kolega, sve je pod kontrolom.
+{16434}{16600}Hvala vam öto ste doöli|pogledati show, ovdje u San Joseu.
+{16605}{16725}Super je tu. Imate onaj mali tramvaj|koji ide kroz centar grada.
+{16730}{16864}To je malo zajebano.|Bar, ploËnik, tramvaj.
+{16897}{16975}Ajmo joö na jednu cugu i...
+{17061}{17140}Nema rampe, niËega.
+{17145}{17298}Na pruûnom prijelazu je rampa: Opasnost!|Moûete poginuti ako sad prelazite.
+{17335}{17444}Ovdje toga nema. Morate biti paûljivi.
+{17449}{17555}Vidio sam tipa kako trËi u odjelu|jer mu je kravata zapela u vrata.
+{17636}{17715}Eno mi kompiÊa s druge strane...
+{17761}{17870}Jednom mi je tramvaj pomogao u tuËi:|"Doi ak' si frajer!"
+{17875}{17979}Aj' doi! O'ö po piËki?|Ka' je? Odi sim ak' si frajer!
+{17984}{18054}Aj' doi...
+{18122}{18249}Imate Ëudne klubove ovdje. Npr.|Striptiz klubove gdje se ne toËi alkohol.
+{18254}{18382}Idem u striptiz zdravljak.
+{18410}{18477}Bokal vode za moje frendove.
+{18579}{18695}Meni Naru s okusom hmelja.
+{18801}{18915}Hej, poznam ovu malu...|Snimila je onaj spot...
+{18920}{19028}Mislim da joj se sviam.
+{19107}{19161}Ludi provod u striptiz zdravljaku!
+{19166}{19234}Radije Êu gledati svoju sestru|kako se tuöira.
+{19239}{19307}Striptiz zdravljak!
+{19312}{19419}Moûete dobiti Kolu i vodu.
+{19424}{19506}Popizde ako donesete svoj sok.
+{19511}{19587}Imate svoj sok? M'rö van!
+{19592}{19662}Bolje ponesite neöto alkoholno.
+{19667}{19748}SokiÊ s malo... votke.
+{19794}{19861}I te ûenske koje rade|u striptiz zdravljacima...
+{19866}{19979}Sve ti je to fantazija.
+{19984}{20072}Odakle si? 'Ajmo negdje.
+{20077}{20240}Ne. Zamisli da sam tvoja dok traje glazba.
+{20245}{20324}Evo ti cenera pa si zamisli da je stotka.
+{20329}{20422}Jebeni striptiz zdravljak!
+{20505}{20608}Kad sam bio u San Franciscu,|bio sam u Kineskoj Ëetvrti.
+{20699}{20768}U Kineskoj Ëetvrti svi trËkaraju.
+{20773}{20912}Pusti me na miru. Ljut sam.
+{20917}{21011}Jako tuûan. Jako ljut.
+{21016}{21092}Moûete li mi reÊi gdje je restoran?
+{21097}{21168}Ostavi me na miru!
+{21173}{21278}Svi trËkaraju po Kineskoj Ëetvrti.
+{21283}{21349}Da Kineska Ëetvrt ima himnu, iöla bi ovako:
+{21409}{21469}Svi nekuda trËkaraju.
+{21504}{21584}Moram na WC. Gotovo.
+{21650}{21724}Jako ljut.
+{21729}{21794}Kako vam objasne kuda trebate iÊi?
+{21799}{21904}Prvo idete tamo... pa dolje... i gore...
+{21950}{22036}Kad doete do...|Morate se vratiti natrag.
+{22119}{22221}Ali su pametni. Govore ameriËki i kineski.
+{22226}{22298}Kineski govore samo unutar Ëetvrti.
+{22363}{22437}...a dobili su i Dobsonov|izvjeötaj neki dan.
+{22442}{22508}Moram se vratiti da provjerim.
+{22646}{22725}Kineska Ëetvrt.
+{22730}{22832}Najbolji prijatelj mi ûivi tamo.
+{22837}{22913}éivi u zgradi punoj Kineza.
+{22918}{23002}»uje ih svaki put kad se seksaju.
+{23007}{23091}Zidovi su tanki. OËekujete zvukove poput...
+{23294}{23365}Ali ne. Sve öto Ëujete je...
+{23478}{23616}Zar se seksaju? äto se dogaa?
+{23621}{23694}Svaaju se?|- I meni se Ëini.
+{23699}{23805}Mislio sam da se svaaju.|Zapravo su se bacili na posao.
+{23845}{23911}PoËnu polako, a zatim sve brûe.
+{24186}{24260}Ta se melodija Ëuje kad svröe.
+{24470}{24557}Zanima vas kako izgledaju? Izgledaju ovako:
+{24716}{24853}U Kineskoj Ëetvrti svi sliËe Jackieu Chanu.
+{24858}{25016}Jackie Chan! Jackie Chan!|Jackie Chan!
+{25021}{25113}{Y:i}Jackie Chan je najbolji tip u filmu.
+{25118}{25189}Hvala.
+{25194}{25257}{Y:i}Ali svatko se ûeli obraËunati s njim.
+{25262}{25344}Ostavite me na miru. äto se dogaa?
+{25349}{25475}Jeste li pogledali taj film?|äto se dogaa? Ostavite me na miru!
+{25480}{25540}{Y:i}Najbolji tip u svakom filmu,
+{25545}{25609}{Y:i}ali svatko se ûeli obraËunati s njim.
+{25614}{25702}éeliö dijamante? Ostavi me na miru.
+{25707}{25816}{Y:i}25 godina je prouËavao smrtonosne tehnike.
+{25821}{25891}Ali ne ûelim probleme.
+{25896}{26037}ProuËavao sam smrtonosne zahvate,|ali samo za zabavu.
+{26042}{26130}Ne ûelim... Ostavi me na miru.
+{26135}{26202}U svakom njegovom filmu...
+{26293}{26347}Udarac petom.
+{26420}{26496}{Y:i}Moraö napraviti glupi izraz lica|kad to radiö.
+{26588}{26668}»ovjeËe, sredio je dvanaestoricu!|- Ne seri.
+{26673}{26739}Vjerujeö li u smrtonosne tehnike?
+{26744}{26801}Bruce Lee je zajeban.
+{26806}{26873}Namazali su ga bojama.
+{26930}{27012}Stvarno moûe srediti dvanaestoricu.|Normalno da moûe!
+{27017}{27104}Tebe sruöim, ti sam padneö,|tebi Êu reÊi öto da napraviö.
+{27109}{27166}I svi zadovoljni.
+{27251}{27303}Ostavi me na miru.
+{27313}{27415}Uvijek kaûe "pan" kad se tuËe.
+{27475}{27577}Pan. Pan. Pusti me na miru. Pan.
+{27582}{27676}Kakva je to rijeË "Pan"?
+{27681}{27755}Ne, ostavi me na miru. Pan.
+{27781}{27838}{Y:i}Najbolji tip u svakom filmu,
+{27843}{27905}{Y:i}ali uvijek se netko ûeli|obraËunati s njim.
+{27910}{27997}Hej, öto to jedeö?|- Bananu.
+{28002}{28073}Pustite me na miru.|- Zgrabimo ga!
+{28163}{28269}Hej, kuda ideö?|- Idem u crkvu.
+{28274}{28364}Pusti me na miru.
+{28493}{28604}Kakva je to buka?|- To ja diöem. - Uhvatite ga!
+{28715}{28796}SjeÊate se kad su tuËnjave bile prave?
+{28801}{28875}Sad trËe po vodi.
+{28880}{28973}SkoËit Êu na Ëetvrti kat i udariti te.
+{29045}{29131}{Y:i}Jet Li je sav u specijalnim efektima.
+{29136}{29225}Ubijte ga!|I onda dolazi metak...
+{29408}{29512}Jackie Chan u svakom filmu|glumi nekog drugog.
+{29517}{29604}U "Shanghai Noon" glumi Indijanca.|"Ja sam Indijanac. Dobar dan."
+{29642}{29695}Dobar dan. Ja sam Indijanac. Dobar dan.
+{29700}{29806}Stvarno vjerujem da je Indijanac.
+{29811}{29905}S Owenom Wilsonom...
+{29910}{29964}Owen je cool.
+{29969}{30033}{Y:i}Pravi Indijanac.|Velika guûva u Bronxu.
+{30038}{30107}Vlasnik je trgovine.
+{30112}{30190}Odlazite iz moje trgovine.|- Sve u redu. Sve u redu.
+{30232}{30363}{Y:i}U "Rush Hour 2" je detektiv.|Dobar dan. Ding-dong.
+{30368}{30465}Pokrivajte me!|Pravi detektiv.
+{30470}{30540}A tek "Drunken Master",|jeste li gledali taj film?
+{30545}{30662}Drunken master, dobar dan. Ding-dong.
+{30722}{30806}äto Êe napraviti slijedeÊe?|Probat Êe glumiti komiËara?
+{30811}{30869}{Y:i}U zabranjenom svijetu komedije
+{30874}{30939}{Y:i}jedan Ëovjek je dovoljan|da promjeni ûarulju.
+{30944}{31021}{Y:i}Mijenjao je svoj crni pojas za ûute gaÊe.
+{31026}{31099}{Y:i}Njegova vlada ga je natjerala na pozornicu.
+{31104}{31219}{Y:i}Kuc-kuc. - Tko je? - Jackie|Chan se tuËe u Apollu.
+{31293}{31354}Kuc-kuc. - Tko je?|- Pero. - Koji Pero?
+{31359}{31421}Koji ti ga ster'o.
+{31462}{31512}{Y:i}Sam izvodi sve vratolomije,
+{31517}{31587}{Y:i}ali naûalost, sam izvodi i svoje skeËeve.
+{31592}{31676}Kuc-kuc. - Tko je?|- Jura. - Koji Jura?
+{31681}{31746}Onaj koji ti ga zagura!
+{31751}{31822}Tvoja mama je jako debela.|- Koliko je debela?
+{31827}{31937}Toliko je debela da umjesto|debelog crijeva ima Kineski zid.
+{31942}{32009}Taj sam juËer smislio.
+{32014}{32101}Kuc-kuc. - Tko je?|- Bu. - Koji Bu?
+{32106}{32173}Jesam te prestraöio.
+{32178}{32287}{Y:i}Sigurno ste veÊ vidjeli|sve njegove poteze i poze.
+{32292}{32377}{Y:i}édral.|- Stojim kao ûdral.
+{32409}{32477}{Y:i}Medvjed.|- UËio sam od medvjeda.
+{32482}{32574}{Y:i}Bogomoljka.|- Znam i taj poloûaj.
+{32611}{32685}{Y:i}Kao malog, ostavili su ga u pustinji.
+{32690}{32759}{Y:i}Tamo je uËio od Bogomoljki.
+{32764}{32848}{Y:i}Pametnije bi mu bilo da je nauËio|"Papir, kamen, ökare".
+{32853}{32910}Papir u facu.
+{32915}{32996}Kamenom u ûeludac, a ökarama|mu odreûeö jaja.
+{33086}{33135}Ili zlostavljanje.
+{33140}{33220}{Y:i}Zlostavljao je svoje protivnike.
+{33225}{33322}Pazi se, uhvatit Êe te za jaja!
+{33352}{33405}{Y:i}Ili s lea.
+{33410}{33510}äto se dogaa? - Pazi se!|- Sad Êu te uhvatiti za jaja.
+{33515}{33579}{Y:i}Uhvatit Êe te gdje god stigne.
+{33584}{33657}{Y:i}Ako ne paziö, naguzit Êe te.
+{33702}{33815}{Y:i}Poremetit Êe ti samopouzdanje.|Odlazim, nije to za mene.
+{33820}{33890}Moram se posavjetovati.
+{33895}{33963}Idi i posavjetuj se.
+{33968}{34086}Znojim se kao svinja. Samo malo.
+{34091}{34152}Izvrsna ste publika.
+{34157}{34248}Hvala vam öto ste doöli na snimanje.
+{34253}{34324}Idemo dalje. Spider-Man.
+{34329}{34403}Opet sam gledao Spider-Mana.
+{34408}{34474}Tek sam sada shvatio koja je to piËkica.
+{34479}{34587}Zar nije?|"Nemoj umrijeti, ujaËe Ben."
+{34670}{34768}Hej, Mary Jane.
+{34773}{34854}Mogu li dobiti malo pice?
+{34859}{35016}UjaËe Ben, nemoj umrijeti!|- Peter, koja si ti piËkica.
+{35149}{35247}Pravi si peöko. Tetkica.
+{35252}{35349}Zgadit Êe vam i pomisao na seks!
+{35354}{35433}Poöto je ovo "Comedy Central",|reÊi Êu na glas: Seksbloker!
+{35438}{35519}To je Ëovjek koji Êe se pobrinuti
+{35524}{35601}da normalan muökarac|ne bude intiman sa ûenom.
+{35606}{35668}Uniötit Êe mu predigru, Ëak i sami seks.
+{35673}{35747}Pokucat Êe vam na vrata|dok budete u krevetu.
+{35752}{35836}Buraz, nisi nahranio ribice!
+{35927}{35994}Hrana ti je na akvariju.
+{35999}{36070}Drago mi je. Ja sam Brian.
+{36120}{36228}Spider-Man je pravi seks bloker.
+{36233}{36310}Onaj zeleni Goblin u filmu, na zgradi,
+{36315}{36393}mu je trebao reÊi:|"OK, Spider-Man."
+{36398}{36489}Trebao bih te uniötiti.
+{36494}{36610}Ali Ëiniö toliko ötete po New Yorku.
+{36615}{36694}Zar ne znaö da Mary Jane via Harryja?
+{36699}{36761}Ali ne. Ti moraö sve sjebati.
+{36766}{36848}Ti i onaj Daredevil|sjebete sve do temelja.
+{36883}{36962}Svaki normalni super heroj|dobi picu kad god hoÊe.
+{36967}{37056}Uz super moÊi dolaze i pice.
+{37061}{37161}Tako je, a on je Kapetan Seksbloker!
+{37236}{37367}Je li to kamion? Je li to öupËina?|Ne, to je Kapetan Seksbloker.
+{37372}{37476}Sjebat Êe ûelju za seksom u cijelom baru.|"Moraö otiÊi po vjenËani prsten."
+{37481}{37589}Jesi li kupio pelene za dijete? Zar ti nisi|gej? Jesi li bio kod doktora zbog onog?
+{37594}{37674}Tako je. Sjebat Êe ûelju|za seksom u cijelom baru.
+{37783}{37841}On je Kapetan Seksbloker!
+{37846}{37939}Kao moj cimer...|Svatko ima drugaËiju tehniku.
+{37944}{38018}I moj cimer ima svoj naËin.|Svatko od nas to poriËe.
+{38023}{38104}Buraz, prvo frendovi, onda komadi.
+{38109}{38181}Moûeö mislit. Ili:|"Ja ti to nikada ne bih napravio."
+{38186}{38262}Svatko ima svoju tehniku.
+{38267}{38383}Moj cimer mi je to stalno radio. Toliko|mi fali da odvedem komada doma.
+{38388}{38482}Ideö sa mnom?|- Aha. Idemo.
+{38487}{38547}Baö si zgodna.|- Super mi je.
+{38552}{38608}Samo da odem do WC-a.
+{38613}{38718}Doe joj moj cimer:|"Znaö da ima herpes?"
+{38723}{38792}Stvarno? Boûe.
+{38797}{38886}Ne poznajem te, ali sam zabrinut za tebe.
+{38891}{39007}Ima herpes. Ne gledaj tamo,|ide prema nama.
+{39012}{39159}Grozno. Briöem odavde.
+{39164}{39267}Di mi je komad? äto se dogodilo?
+{39272}{39370}Kapetan Seksbloker!
+{39375}{39470}Najgore je kad ste kod kuÊe.
+{39475}{39550}Svatko ima svoju tehniku.
+{39555}{39643}Moj cimer oponaöa glumce|iz "Beverly Hillsa".
+{39648}{39705}Jeste li gledali "Beverly Hills"?
+{39710}{39805}Uvijek sloûe face kao da je netko prdnuo.
+{39963}{40026}Luke Perry u toj seriji glumi Dylana.
+{40031}{40127}{Y:i}U slijedeÊoj epizodi "Beverly Hillsa":
+{40132}{40205}{Y:i}Dylan otkriva da ima mali kurac.
+{40491}{40559}Kad to vidite, morate se nasmijati.
+{40564}{40637}{Y:i}A s njim je i njegov prijatelj, Jason.
+{40784}{40868}Moj cimer ima puno svojih slika.|PlesaË je
+{40873}{40933}u "Stardust" hotelu u Las Vegasu.
+{40938}{41087}Drûi svoje slike na kaminu.
+{41092}{41171}Cure gledaju te slike,|Ëak i one glupe slike.
+{41176}{41249}One gdje pozira.
+{41254}{41341}Tko normalan to radi?
+{41346}{41395}Cure, gledajte me.
+{41400}{41478}Buraz, zaöto stavljaö te slike?
+{41483}{41586}Kad dou komadi i vide da sam plesaË,
+{41591}{41667}puno mi je laköe s njima.
+{41672}{41748}Slike su mu katastrofa.
+{41819}{41904}Cure dolaze i gledaju ih.|"Tko je ovo?"
+{41909}{41985}Baö si sladak.
+{41990}{42075}Stvarno? Hvala ti.
+{42080}{42196}Cura kaûe: Snimala sam za Budweiser,|onda za Jaegermeister...
+{42201}{42328}Moj öef ima bazen i onda|pozove fotografa i onda...
+{42378}{42475}éeliö li vidjeti moje slike?|Pablo, neÊeö se ljutiti, zar ne?
+{42480}{42543}Idemo u moju sobu jedno sedam sati.
+{42548}{42670}I ode s njom. Ali najbolji naËin|da nekom ubijeö ûelju za seksom...
+{42675}{42733}Ovo je najbolji naËin:
+{42738}{42830}Snimiö CD s najljigavijim pjesmama.
+{42835}{42914}Kad dovede komada doma, pustiö CD.
+{42919}{43014}Pablo, ovo je Brittany.|Bit Êemo u mojoj sobi.
+{43019}{43098}Mogu li staviti CD da vas|ne moram sluöati?
+{43103}{43160}Moûe, stavi.
+{43320}{43395}Stari, kakvo je to sranje?
+{43400}{43464}Ne moûeö karat na takvu glazbu.
+{43492}{43574}Samo prati ritam.
+{43795}{43849}éao mi je.
+{44107}{44224}Sve mora biti tempirano. Kad krevet|poËne ökripati, staviö neöto ûeöÊe.
+{44229}{44305}Npr. "Monster Mash".
+{44580}{44661}Buraz, kakva je to mjuza?
+{44690}{44757}Ustaj...|Kreni...
+{44762}{44844}Na stolu...
+{45000}{45073}Bilo koja stvar od "System of a Down"...
+{45245}{45310}Nemam pojma öto to znaËi.
+{45315}{45380}Moûda pjesme iz 50-ih godina.
+{45474}{45599}Moûete li zamisliti da netko kara|na ovakvu glazbu?
+{45604}{45691}Stvarno mi je ûao.
+{45781}{45922}Buraz, koji ti je kurac?|- Puötam mjuzu. Kaj ne valja?
+{45948}{46021}Stavi Williama Hunga. To je mrak.
+{46058}{46133}{Y:i}PriËaj mi,|reci mi ime...
+{46446}{46534}William Hung! To! Pjevaj!
+{46643}{46764}William Hung. Taj se posrao|na "AmeriËki san".
+{46806}{46875}Sreo sam ga.
+{46880}{46948}Stvarno tako govori.
+{46953}{47028}A i ego mu je narasao.
+{47033}{47083}Zovem ga: "Hej! William Hung!"
+{47088}{47199}{Y:i}Ne priËaj mi,|ne govori mi ime...
+{47204}{47280}»ekaj, Williame!
+{47428}{47501}S njim smo se najbolje zajebavali.
+{47506}{47633}Nismo se ni poznavali. Samo smo...
+{47638}{47687}Pusti ga nek pjeva.
+{47692}{47770}Stvarno si dobar. Idi i rasturi ih!
+{47775}{47904}Stvarno? Mislite da to mogu?
+{47909}{48013}{Y:i}PriËaj mi,|reci mi ime...
+{48018}{48102}Uskoro mu izlazi BoûiÊni album.
+{48107}{48179}"Hung for Christmas"|(Objeöen za BoûiÊ)
+{48223}{48339}Sad Êe nas uniötiti za praznike.
+{48344}{48437}Zaöto mu je faca plosnata?|Jer su mu treskali vratima u facu
+{48442}{48506}dok je kao mali za BoûiÊ|iöao od vrata do vrata.
+{48571}{48642}{Y:i}ZvonËiÊi, zvonËiÊi...
+{48693}{48758}{Y:i}Rudolph, jelen crvenog nosa...
+{48832}{48928}{Y:i}SnjegoviÊ Snjeöko, on je...
+{48978}{49036}William Hung.
+{49041}{49119}Uskoro mu izlazi joö jedan album.
+{49124}{49237}Pjeva duete s poznatim zvijezdama,|moûete li vjerovati?
+{49242}{49377}NeÊete vjerovati, zvijezde stoje u redovima.|Glazbenici piöu pjesme...
+{49382}{49457}{Y:i}Nemam mnogo,
+{49462}{49542}{Y:i}ali znam da te volim.
+{49547}{49663}{Y:i}Daj da budem,|ali ja ne znam...
+{49691}{49763}{Y:i}Mi nemamo oËi...
+{50010}{50078}To je William Hung.
+{50083}{50180}Ja sam Casey Kasem i sada moûete|posluöati sve hitove
+{50185}{50252}vaöih omiljenih zvijezda.
+{50314}{50457}Imam glavu veÊu nego|10 mojih prijatelja na Myspaceu.
+{50495}{50592}Sjednite i uûivajte dok sluöate Joea Cockera
+{50597}{50684}i Williama Hunga.
+{50714}{50788}{Y:i}U planinama,
+{50793}{50881}{Y:i}na poljima riûe.
+{51074}{51188}{Y:i}Zovite me Ding-dong...
+{51223}{51317}Tako je. Nije iz Kine, nego iz Singapura.
+{51322}{51449}Zato i pjeva tako loöe.|(Singapore=Sing-pjevati, poor-jadno, loöe)
+{51450}{51518}Hvala.
+{51557}{51685}A zna pjevati i temu iz "Brilijantina".
+{51761}{51850}{Y:i}Zovem se William,|pjevanje mi loöe kao i vid.
+{51892}{51997}{Y:i}Faca mi je plosnata,|mogu ugrist zid.
+{52002}{52054}Daj, molim te.
+{52059}{52111}U Ëemu je problem?
+{52116}{52193}Faca mu je plosnata.
+{52196}{52276}Vidio sam ga na aerodromu u Las Vegasu.
+{52281}{52348}Zubi mu vire van...
+{52353}{52453}Kao pjeöËani ljudi iz "Ratova zvijezda".
+{52523}{52646}Zubi mu vire van... Skroz su mu vani.
+{52651}{52761}Kao kad ekipa igra koöarku:
+{52766}{52837}»ovjeËe, bila je skroz vani.
+{52894}{52986}Trebao bi staviti brojeve na zube.|Je li to trojka ili Ëetvorka?
+{52991}{53072}Ne! To su Williamovi zubi!
+{53077}{53227}Uzmite svjeûe mrkve i rajËice i|ubacite ih u "William Hung" sjeckalicu.
+{53312}{53372}{Y:i}Ona grize, ona grize...
+{53453}{53519}Snimio je reklamu za "Mentos".
+{53524}{53598}Mentos, sjeÊate li se te reklame?
+{53694}{53762}Mentos. Uvijek ima sretan zavröetak.
+{53767}{53880}»ovjek pljaËka banku,|ali ima sretan zavröetak.
+{53947}{54049}{Y:i}Kad te razoËaraju svi ljudi,|kad od brige ispada ti kosa,
+{54054}{54112}{Y:i}Mentos osvjeûenje ti nudi,
+{54117}{54202}{Y:i}nema boljeg od Mentosa.
+{54441}{54572}Takav ti uniöti ûelju za seksom.|Crnci su totalno drugaËiji.
+{54577}{54647}Kad te vide s djevojkom,|daju ti kompliment.
+{54652}{54767}»ovjeËe, to ti je ûenska?|- Da. Zaöto?
+{54772}{54873}Deri buraz, deri!
+{54921}{54970}Leûite u krevetu sa ûenskom,
+{54975}{55058}a crnac iskoËi ispod plahte:|"Deri ju, buraz!"
+{55129}{55190}Poûuri se, nemamo vremena!
+{55240}{55342}Zato piöu najbolje ljubavne pjesme.
+{55347}{55475}Crnci su neöto najvaûnije|öto se dogodilo ovoj zemlji.
+{55480}{55601}éene ûele da im priemo.|Latino cure samo prou.
+{55606}{55683}I nikada ne moûeö biti siguran.|éene brzo mijenjaju miöljenje.
+{55688}{55808}Poklanjamo im bombonjere, cvijeÊe,|vodimo u kino, kupujemo nakit...
+{55813}{55895}Nisam sigurna. Moûda mi se svia.|Iöla bih kuÊi...
+{55900}{55987}Ili da moûda ostanem? Da spavam s njim?|Nisam sigurna...
+{55992}{56078}Daj viöe! Dosta razmiöljanja!
+{56106}{56188}Ah, promjenila je miöljenje.
+{56218}{56337}Crnci piöu najbolje pjesme. Piöu o...
+{56342}{56403}Mogu napisati pjesmu o bilo Ëemu.
+{56408}{56517}Mogu napisati pjesmu o tome|kako se svaaju sa ûenama.
+{56522}{56629}{Y:i}Daj zaËepi,|zar ne vidiö da muökarci razgovaraju?
+{56634}{56729}Mogu napisati pjesmu o transvestitima|i opet Êe ispasti dobra.
+{56734}{56868}{Y:i}Baby, htio sam te pojesti|kao slasnu pitu,
+{56873}{57010}{Y:i}al' sam se predomislio|kad shvatio sam da imaö kitu.
+{57015}{57083}{Y:i}Prevari me tvoja öminka,|prevari me tvoj stas,
+{57088}{57159}{Y:i}shvatio sam da si muöko|kad Ëuo sam ti glas.
+{57164}{57276}{Y:i}Ti imaö kitu i cice,|ti imaö kitu i cice.
+{57281}{57367}{Y:i}Znam da imaö kitu i cice.
+{57372}{57432}Hvala.
+{57468}{57562}{Y:i}Probao sam te dirati oko pice...
+{57701}{57780}äalim se. Kaûu mi da se|ne öalim na raËun crnaca.
+{57785}{57933}A Kinezi, Latinosi...|I onaj njihov prosvjed.
+{57938}{58008}Pitali su me hoÊu li im se pridruûiti.
+{58013}{58097}Hej, ideö na prosvjed?
+{58102}{58183}Otiöao sam. Zapravo sam iöao u topless bar,
+{58188}{58333}ali sam krivo skrenuo.|Dok sam shvatio, veÊ sam bio u povorci.
+{58338}{58406}Meksiko!
+{58411}{58506}Najduûa autopraonica u kojoj sam ikada bio.
+{58627}{58692}Napojnica tebi i tebi i tebi...
+{58697}{58848}Nikad viöe u prosvjed s Datsunom 280 Zx.
+{58853}{58932}Stalno su ne ispitivali: Prodajeö ga?
+{58937}{59019}»ovjeËe, prodajeö ga?
+{59082}{59151}Bilo je tamo i crnaca.
+{59156}{59261}I oni su protestirali:|Yo, di su pice?
+{59322}{59425}Kakav protest. Urlaju ti u facu: "Meksiko!"
+{59430}{59561}Meksiko! Di si, buraz? Meksiko!|Puerto Rico!
+{59566}{59639}Drago mi je. Znaö li Ëistiti?
+{59687}{59753}äala.
+{59758}{59853}Govore: "Meksiko! Tako sam ponosan."
+{59858}{59930}Rekoh mu: "Super, vrati se tamo.|Jebeö ovo ovdje."
+{60022}{60071}äalim se.
+{60176}{60292}Traûe posao. Buraz, treba mi posao!|- äto znaö raditi? - KomiËar sam.
+{60297}{60400}Nikad nisam vidio meksiËkog|komiËara baö iz Meksika.
+{60405}{60554}A sada... Preko ûice, ravno na pozornicu!|Pozdravite Rickyja Impanelu!
+{60636}{60701}OK, kako ste?
+{60744}{60839}Treba li kome naljepnica za auto?
+{60844}{60946}Ja sam komiËar iz Meksika i|imam nekoliko naljepnica.
+{60951}{61062}Na ovoj piöe:|"Isus spaöava one koji kupuju u Wal-Martu".
+{61119}{61221}Na ovoj piöe:|"Moj drugi auto je vjerojatno tvoj".
+{61347}{61476}Na ovoj piöe:|"Oruûje ne ubija ljude, nego moj bratiÊ".
+{61527}{61632}éelite li obiteljski portret,|napravite ovako:
+{61637}{61712}Utrpajte cijelu obitelj u kamion
+{61717}{61778}i projurite kroz crveno. Kamera na|semaforu Êe vas uslikati.
+{61839}{61922}Jeste li ikada bili u MeksiËkom duÊanu?
+{61927}{62023}Jeste li ikada bili u MeksiËkom duÊanu?
+{62129}{62201}Jeste li vidjeli ameriËke|zobene pahuljice na öpanjolskom?
+{62206}{62294}Antonio de Tiger.
+{62299}{62389}Fruit a Lupes.
+{62394}{62486}Honey Nut Bandejos.
+{62491}{62585}Ove su mi najdraûe:|Special...que?
+{62797}{62908}Tipovi nose öiroke kaubojske remene.
+{62913}{63038}Jeste ih vidjeli? Latino kauboji.
+{63043}{63139}Takvi hodaju uokolo dok im|sunce ne zaûari remenje.
+{63144}{63227}Kad se remen zaûari, poËinje ih peÊi.
+{63261}{63376}Hej! Caramba!
+{63381}{63450}Huevos fritos!
+{63553}{63625}Opasni su. Prebit Êe te za tren.
+{63630}{63684}Imaö problema?
+{63714}{63848}Partneru, imaö problema?
+{63853}{63979}Idemo, Ëovjek na Ëovjeka.|Jedan na jedan, ti i ja.
+{63984}{64076}Richarde! Idemo, sad, odmah.
+{64081}{64184}»ovjek na Ëovjeka. Richarde!
+{64189}{64274}Gdje je Richard? Nije tu?
+{64279}{64353}OK, onda sutra.
+{64389}{64478}Ne mogu se ufurati u tu country priËu.
+{64483}{64569}Ne znam... Nije mi to...
+{64633}{64684}Zapleöimo.
+{64702}{64782}Izgleda malo blesavo.
+{64787}{64926}Izgleda... volite li biti|opuöteni dok pleöete?
+{64968}{65030}Slobodan sam!
+{65070}{65120}Nema pravila!
+{65125}{65192}A kod country muzike:
+{65288}{65363}Kako se to pleöe?
+{65431}{65543}Cijelo vrijeme vas kritiziraju:|"Prati korak! - Pokuöavam!"
+{65599}{65718}Jeste li ikada vidjeli opakog kauboja kako|ide prema vama kao da Êe vas prebiti?
+{65723}{65799}Odjednom zaËuje country glazbu.
+{65804}{65908}Hej, o'ö po piËki?
+{65913}{66002}Sad, ovdje, idemo!|»ekaj, ovo je moja pjesma.
+{66359}{66459}Kauboji... Brokeback Mountain,|jeste li gledali?
+{66464}{66537}Puötali su ga u hotelu.|Vidio sam neöto malo.
+{66542}{66622}To je sve öto sam vidio, neöto malo.
+{66627}{66682}Ovaj mi je poznat.
+{66830}{66894}{Y:i}Brokeback Mountain.
+{66899}{67004}{Y:i}Dva normalna kauboja|otiöla su na planinu Brokeback.
+{67009}{67118}{Y:i}Uskoro Êe se sve pretvoriti u... pederluk.
+{67221}{67349}Volim te...|- Ja sam goli kauboj...
+{67354}{67439}Imam Ëizme, ali sam gol.
+{67494}{67591}Idem donijeti vode iz potoka.
+{67681}{67775}éeliö li vidjeti moju guzu?
+{67780}{67864}Idem donijeti... vodice.
+{67915}{67992}Film je povuËen iz kina zbog toga öto su
+{68021}{68144}scene seksa bile preeksplicitne.
+{68149}{68221}Sjede u öatoru. Odjednom:|"Hajde, idemo..."
+{68271}{68405}Pljune u ruku i:|"HoÊeö? Idemo, partneru. Ti i ja."
+{68549}{68608}Hajde. Nemamo cijeli dan.
+{68641}{68696}To nije maslac!
+{68761}{68879}I to bez kondoma! Straöno.
+{68884}{68990}Ne znam jesu li koristili kondom.|Samo sam vidio...
+{68995}{69096}Moûete li zamisliti kauboja|kako ûvaËe duhan...
+{69101}{69167}Odjednom ga dobije u öupak...|"Hej!"
+{69172}{69288}»ekaj da ispljunem duhan!
+{69326}{69387}Pravi odmetnici.
+{69435}{69519}HoÊemo li odjahati tamo?|- Ne.
+{69623}{69673}{Y:i}Brokeback Mountain
+{69678}{69780}Sve je viöe filmova o homoseksualcima.
+{69785}{69945}Nakon "Brokeback Mountain"|snimit Êe film o gej bandama.
+{69950}{70073}Gej bande... Gej bande San Francisca.
+{70078}{70142}Nema niöta loöeg u tome.
+{70147}{70198}Ide ovako:
+{70203}{70329}{Y:i}Ravno iz öupe na ulicu.
+{70334}{70452}{Y:i}Osim öto se bore za ljubav,
+{70457}{70560}{Y:i}bore se i meusobno.|Gary Busey:
+{70565}{70639}»ovjeËe, pazi se.
+{70644}{70784}Vas dvojica previöe liûete|jaja jedan drugome.
+{70789}{70886}{Y:i}Danny Glover u ulozi|pokvarenog öefa policije:
+{70891}{70977}To! Gutaj ga!
+{70982}{71092}Tako je, gutaj ga.
+{71097}{71229}Strpaj mi svoje crne loptice u usta, Jack.
+{71234}{71392}{Y:i}Oni nisu pederi, oni su pederËine.
+{71671}{71793}Molim vas, kad zavröimo,|ne nudite mi drogu. Ljudi mi prilaze:
+{71798}{71916}Stari, o'ö zapalit? Nisi veÊ dugo, jel' da?
+{71921}{71990}'Ajmo si zapalit jednu.
+{71995}{72119}Stat Êemo u krug i priËati|öto smo sve puöili u ûivotu.
+{72124}{72212}Moj frend je nabavio...
+{72217}{72323}Nazvao me... svi su bili tamo...
+{72328}{72412}Svakakvih sranja ima sada.|Jednom sam bio na lijeËenju.
+{72417}{72486}Je li netko od vas bio?|Ja sam bio jednom.
+{72491}{72560}Starci su me ulovili.
+{72565}{72664}Srednja ökola i odvikavanje|od droga idu zajedno.
+{72669}{72759}Probao sam malo koke|i malo marice i onda...
+{72797}{72887}Partijanje! Ne mogu vjerovati da sam|zavröio ökolu uz toliko partijanje.
+{72892}{72974}IspriËat Êu vam kako su me uhvatili.
+{72979}{73068}Starci su mi otiöli u Juûnu Ameriku.
+{73073}{73164}To te ja pitam! Bio mi je roendan.
+{73169}{73234}Fino sam se napuöio za taj roendan.
+{73239}{73378}Doem kuÊi, a oni mi napravili|roendansku zabavu. "Iznenaenje!"
+{73480}{73585}Ubrzo se zabava pretvorila u intervenciju.
+{73590}{73685}Idi u svoju sobu!|Zaöto ti je pogled tako staklen?
+{73690}{73793}Mogu li prvo otvoriti poklone?
+{73798}{73887}Ako ste ikada bili na odvikavanju,|znate kakvo je to mjesto.
+{73892}{73996}SreÊom, izbacili su me nakon dva tjedna.
+{74001}{74070}Zavröio sam tamo jer sam se dobro zabavljao.
+{74075}{74156}Drogiram se jer onda bolje partijam.
+{74161}{74219}Ali dosta ljudi je bilo tamo|iz drugih razloga:
+{74224}{74376}Drogiram se jer mi je tata|gurao neöto u guzu.
+{74381}{74516}Pijem zato jer me tata hvatao za guzu.
+{74521}{74612}Ja sam stalno govorio:|"Zato jer volim partijati!"
+{74617}{74745}I moj tata je mene dirao. Zato sam se|drogirao, kurvao i hodao po diskotekama.
+{74750}{74835}Dok sam bio tamo, imao sam cimera:
+{74840}{74922}Buraz, sjebat Êe te.|- O Ëemu ti priËaö?
+{74927}{74998}Grdo Êe te sjebati.|- Molim?
+{75003}{75076}Zato jer od svega radiö zajebanciju.
+{75081}{75137}Odveli su me na sastanak|anonimnih alkoholiËara.
+{75142}{75229}Da, bio sam na AA sastanku.
+{75234}{75297}Tamo im moraö sve reÊi.
+{75302}{75373}Zovem se David i ovisnik sam o drogama.
+{75378}{75440}Zovem se Pablo i jebem se s Davidom.
+{75445}{75515}Hej! Jebi se, ËovjeËe!
+{75520}{75619}Gubi se, Pablo. Gubi se.
+{75686}{75770}Moj cimer se joö uvijek drogira.|Kokain, uglavnom.
+{75775}{75835}Sav je sjeban i paranoidan.
+{75840}{75913}Netko je na prozoru.
+{75952}{76084}Najede se droge i gleda u prozor.|"Netko je tamo."
+{76089}{76182}Buraz, doöli su komadi. äto to radiö?
+{76187}{76285}»ovjeËe, netko je tamo. Netko je tamo.
+{76290}{76426}Buraz, kaj ti je?|- Pusti me! Netko je tamo...
+{76431}{76573}Toliko je gledao kroz prozor|da je dobio opekline oko oËiju.
+{76578}{76652}Izgledao je kao Viper.
+{76657}{76730}Jedan dan sam stavio ogledalo na prozor.
+{76735}{76872}Usrao se: "... ti mater!"
+{76901}{77031}Najgori su oni koji Ëuju glasove.
+{77036}{77155}Jesi Ëuo? Tiho! Netko je na krovu.
+{77160}{77291}Jesi sad Ëuo? Tiho. SjeÊaö se|kad smo bili u duÊanu?
+{77296}{77376}SjeÊaö se kad si Ëuo ono?
+{77381}{77474}Moûda nas je onaj tip pratio.
+{77554}{77624}Gore je.
+{77712}{77870}To je moje srce! Nemoj mi to raditi!
+{77902}{77987}Hvala.
+{77992}{78074}Probao sam ecstasy. Jeste li ga probali?
+{78079}{78202}To nije cool.|Jeste li probali? Super je!
+{78207}{78363}Probao sam u Miamiju, prije dvije godine.
+{78368}{78476}Iöao sam u tehno klub, sam.
+{78481}{78549}Uete unutra...
+{79136}{79211}Pleöemo veÊ dva sata.
+{79216}{79294}Baö nam dobro ide.
+{79299}{79380}Pjesme traju toliko dugo|da nemate pojma kad Êe zavröiti.
+{79385}{79459}Samo pleöete sa 400 ljudi.
+{79586}{79660}Svi su drogirani. Svi su na E-u.
+{79665}{79808}E znaËi ecstacy.|"Jesi E?"
+{79813}{79924}Prie mi prekrasna cura:|"Jesi E? Doi."
+{79929}{80003}éelim razgovarati. Jesi E?
+{80008}{80104}Ne, ja sam Pablo!
+{80149}{80240}Ozbiljno te pitam.
+{80245}{80328}Kaûem ti, zovem se Pablo.
+{80333}{80395}Ma ne! Jesi na E-ju?
+{80400}{80515}Ecstacy? äto Êe mi to?|- Od toga se napaliö.
+{80520}{80606}A ja: "Jebo te, to mi je od toga."
+{80611}{80709}Valjda su mi to stavili u cugu kad sam imao 12.
+{80848}{80931}Ozbiljno. Ako hoÊeö, prodat Êu ti.
+{80936}{81021}Poöto je?|- 40 $.
+{81026}{81104}Ako kupiö, idem s tobom u hotel.
+{81109}{81159}Moûe!
+{81164}{81289}VeÊ sam imao lovu u ruci i onda|shvatih da kupujem drogu.
+{81294}{81377}U disko klubu, kunem se.
+{81382}{81482}Pomislih: "Moûda ima murije u civilu."
+{81487}{81553}Morao sam to izvesti kao da pleöem.
+{81708}{81805}Dala mi je dvije tabletice.
+{81810}{81917}Na njima znak od Mitsubishija.
+{81922}{82044}Na drogu stavljaju znakove|Supermana, Mitsubishija...
+{82049}{82129}Mitsubishi ih proizvodi?
+{82155}{82253}Nije ni Ëudo da prodaju toliko automobila.
+{82258}{82341}Bilo bi ludo da ih Mitsubishi|stvarno proizvodi.
+{82346}{82403}Bilo bi super.
+{82408}{82521}éelite li bombon prije nego|vam pokaûem auto?
+{82526}{82674}Oboûavam ovaj auto. Oboûavam ovaj auto.
+{82679}{82754}Pokarat Êu ga u auspuh.
+{82759}{82824}Bilo bi to zanimljivo.
+{82883}{82984}Popio sam obije tabletice.
+{82989}{83117}Vidim da se neki razumiju.|Nisam znao da smijem popiti samo jednu.
+{83122}{83254}Jednu popij sada, a drugu nakon 10 sati.
+{83350}{83436}Jebi ga, popio sam obije.
+{83441}{83518}äto?|- Popio sam obije.
+{83523}{83612}Samo je rekla: "Moram iÊi."
+{83617}{83742}Sandy! »ekaj! Ne moûeö samo otiÊi!
+{83821}{83910}IzbacivaË se zabuljio u mene.
+{83915}{83990}»ovjeËe! »ovjeËe, jesi dobro?
+{83995}{84137}Popio sam dvije Mitsubishi tabletice.
+{84142}{84244}Ozbiljno? Ozbiljno, ËovjeËe?
+{84249}{84329}Da, popio sam dvije.
+{84334}{84397}»ovjeËe, ovdje sam.|- Aha.
+{84402}{84491}Popio sam dvije Mitsubishi tabletice.
+{84496}{84563}U kurac!|- äto Êe mi se dogoditi?
+{84568}{84700}Zavröit Êeö u zatvoru ili Êeö umrijeti.
+{84705}{84831}Dok se to ne dogodi, bit Êe ti super.
+{84836}{84903}äto da radim?
+{84908}{84986}Kada si ih popio?|- Prije 10 minuta.
+{84991}{85071}Imaö 15 minuta dok ne poËne djelovati.
+{85076}{85138}Vrati se u hotel.
+{85143}{85212}Hotel je udaljen 8 blokova.
+{85217}{85340}OdluËio sam krenuti.|"Batmobil, doi."
+{85345}{85407}Uöao sam u auto.
+{85412}{85569}OdluËio sam se odvesti u hotel.
+{85574}{85674}Vozim se i vidim hotel.
+{85679}{85773}Ulica je prepuna. Vozim 10 km/h.
+{85778}{85983}Maknite se s puta prije|nego vas sve izjebem!
+{85988}{86067}Stanite u red!
+{86219}{86304}Vozim se i odjednom osjetim toplinu.
+{86368}{86445}Neöto u meni.
+{86779}{86869}Maknite se s puta.
+{86954}{87045}VeËeras Êemo ubiti jednoroga.
+{87050}{87171}Pokuöavam promijeniti stanicu,|a zapravo se drûim za jaja.
+{87409}{87512}Totalno ludilo. KonaËno stiûem u hotel.
+{87517}{87631}Dajte mi kokaina! Tako sam...
+{87636}{87792}Napaljen sam. Gledam porniÊ|i pokuöavam pokarati TV.
+{87797}{87882}Toliko sam buljio u ekran|da su se i glumci iz porniÊa
+{87887}{87973}zagledali u mene.|"Koji mu je kurac?"
+{88298}{88403}OsjeÊaj kada popijete dvije|Mitsubishi tabletice je
+{88408}{88542}kao da imate orgazam svake|dvije sekunde iduÊih 6 sati.
+{88547}{88634}Samo hodate okolo...
+{88763}{88851}Seksao sam se i ispuötao zvukove|kao lik iz crtanih filmova.
+{88856}{88993}Znam öto ûeliö. Znam da ti je dobro.
+{89023}{89133}Evo ti joö jednom.
+{89161}{89244}äest sati Ëistog svröavanja.
+{89249}{89351}Problem je u tome öto se stalno kreveljiö.
+{89454}{89528}Na kraju zapaliö marihuanu.
+{89533}{89622}Tada ti poËinju padati na pamet|svakakve gluposti.
+{89627}{89694}Pita s piletinom.
+{89728}{89825}To su mi tri najdraûe stvari.
+{89915}{89991}Hvala.
+{90038}{90115}»ovjek radi svakakve gluposti|kada je napuöen.
+{90120}{90258}Penzioneri bi trebali koristiti Viagru|da ne ispadaju iz kreveta.
+{90328}{90410}Kokain, Miami...|"Scarface" je snimljen u Miamiju.
+{90415}{90492}{Y:i}Scarface u Miamiju.
+{90517}{90675}Dobro sam se napuöio i posudio|"Scarface" u videoteci.
+{90680}{90738}Tamo se svaöta moûe vidjeti.
+{90743}{90827}{Y:i}VeÊ ste gledali Al Pacina|u ulozi Tonyja Montane.
+{90832}{90940}{Y:i}Sada na dvostrukom DVD izdanju|sa scenama koje joö niste vidjeli.
+{90945}{91092}{Y:i}Pogledajte kako Tony Montana|prodaje drogu ûapcu Kermitu.
+{91097}{91166}Novac ostaje iza, OK?
+{91171}{91268}Ako se ne vratim za 15 minuta,|znaËi da neöto ne valja. OK?
+{91273}{91343}OK. Idemo.
+{91654}{91763}Moj prijatelj Êe ostati vani da se|uvjeri da je sve u redu. OK?
+{91768}{91824}U redu. Ui.
+{91875}{91959}Ovo je miss Piggy.
+{91964}{92054}Hola, Piggy. Bok.
+{92059}{92158}Ja sam Kermie.
+{92163}{92344}Ja sam Tony. Grover kaûe da si Ëist.
+{92349}{92446}Dobro. Imaö li novac?
+{92473}{92536}Moûda. Imaö li robu?
+{92541}{92682}Nemam kod sebe. U autu je.
+{92687}{92762}éeliö da izaemo van po robu?
+{92767}{92858}Tony, odakle si?|- Kakve veze ima odakle sam?
+{92863}{92982}Prestani me zajebavati, ûabo.|Prijeimo na posao, OK?
+{92987}{93105}Nabavljam robu iz Ulice Sezam.
+{93110}{93221}Da? Moûeö li mi reÊi|kako da doem do tamo?
+{93273}{93338}Hvala.
+{93393}{93475}{Y:i}SlijedeÊa stanica je New Orleans.|Moram u New Orleans.
+{93480}{93563}New Orleans, Ëudan grad.
+{93568}{93661}Pogotovo nakon Katrine. Katrina!
+{93666}{93738}UopÊe ne zvuËi loöe. Katrina!
+{93743}{93849}Moûda bi ih viöe otiölo iz grada|da se uragan zvao drugaËije.
+{93854}{93956}Katrina uopÊe ne zvuËi opasno.|"Buraz, kaj dolazi Katrina?"
+{93961}{94045}Moûe mi ga popuöit.
+{94076}{94208}Trebali su mu dati ime äkorpion.|Uragan äkorpion.
+{94213}{94322}Ide äkorpion! Bjeûmo!
+{94327}{94500}Bio sam na Floridi za vrijeme jednog|drugog uragana. Uragan Georges!
+{94505}{94578}Uragan Georges!
+{94583}{94665}ZvuËi kao neki nadrkani gej uragan.
+{94670}{94809}Samo doe u grad...|"Kakve su ovo gluposti?"
+{94837}{94925}Ti, autiÊu, briöi!
+{94930}{95070}»iji je ovo pas? U ocean s njim!
+{95075}{95161}Smrdljivko.
+{95166}{95244}Sve Êu razjebati.
+{95297}{95435}U New Orleansu pripremaju najgoru hranu.
+{95440}{95517}Nekakva juûnjaËka hrana.|Od Ëega je uopÊe rade?
+{95522}{95650}Svi znaju da Latinosi rade|najbolju hranu na svijetu.
+{95655}{95738}Ova juûnjaËka...|Kao da su ju pijanci radili.
+{95743}{95808}Tko je gladan?
+{95813}{95926}Skuhat Êemo jambalaya riûu s hrenovkama.
+{95931}{96025}Dodat Êemo pive, malo mlijeka i whiskey.
+{96030}{96143}äto je ovo? Puû? Stavi ga unutra.
+{96148}{96285}Popij, probavi, povrati.|Zvat Êemo ga Gumbo.
+{96290}{96369}Gumbo stvarno sliËi na bljuvotinu, zar ne?
+{96374}{96455}Kao da jedeö probavljenu hranu.
+{96494}{96563}I u sve stavljaju Tabasco.
+{96568}{96650}Tako je, mariniramo u Tabascu.
+{96655}{96788}Zaprûimo na Tabasco ulju|i onda uvaljamo u Tabsco.
+{96793}{96883}Onda sve zasmrdimo svojim dahom.
+{96932}{97095}Jedu gdje god stigu.|Taksisti jedu dok voze.
+{97100}{97174}Taksist s ogromnim ûelucem.
+{97179}{97260}äto to smrdi?|- Izvrsno je.
+{97265}{97356}Jede Gumbo vilicom.
+{97361}{97451}Trbuh mu je toliki da svaki put|kad prijee preko leûeÊeg policajca
+{97456}{97531}trbuhom pritisne trubu.
+{97752}{97816}Igrao sam "Grand Theft Auto".
+{97821}{97921}Poznato vam je?|Grand Theft Auto?
+{97926}{98028}Nikad nisam vidio takav spoj zla i zabave.
+{98033}{98165}Tip trËi kroz grad i sve ih ubija.
+{98170}{98270}Love ga HaiÊanske bande, prodaje drogu,
+{98275}{98352}kurva se i traûi da mu kurve plate.
+{98385}{98454}Sve to uz glazbu iz 80-ih.
+{98459}{98587}Sve se to dogaa u gradu San Andreasu.
+{98592}{98687}Pokuöat Êu to izvesti veËeras u|pravom gradu, uz pomoÊ mojih prijatelja.
+{98692}{98748}Probat Êemo to veËeras.
+{98753}{98885}Grand Theft Auto u San Franciscu!
+{100407}{100482}Hvala vam svima!
+{100539}{100617}Laku noÊ!
+{101265}{101392}Preveo: iromafia111
+{101617}{101762}Hvala vam. Laku noÊ.
+{101787}{103287}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/4nphw|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

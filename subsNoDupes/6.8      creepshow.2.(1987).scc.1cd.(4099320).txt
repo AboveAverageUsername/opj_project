@@ -1,0 +1,527 @@
+{1}{1}23.976
+{26}{176}ĞĞ³Ğ»Ğ°ÑˆĞ°Ğ²Ğ°Ñ˜Ñ‚Ğµ ÑĞ²Ğ¾Ñ˜ Ğ¿Ñ€Ğ¾Ğ¸Ğ·Ğ²Ğ¾Ğ´ Ğ¸Ğ»Ğ¸ Ğ¼Ğ°Ñ€ĞºÑƒ ĞºĞ¾Ğ´ Ğ½Ğ°Ñ; ĞºĞ¾Ğ½Ñ‚Ğ°ĞºÑ‚Ğ¸Ñ€Ğ°Ñ˜Ñ‚Ğµ www.OpenSubtitles.org
+{351}{457}{C:$0000FF}MOVIE BY|CINEMA PARADISO
+{588}{704}{C:$00FFFF}STIVEN KING
+{792}{944}{C:$0000FF}MAÈJE OÈI
+{4783}{4896}-Pomozi mi.Pomozi mi.
+{4902}{5005}Pogledaj gore.
+{5029}{5128}Pozi mi.
+{5129}{5283}Moraš ga pronaæi.|On me juri.
+{5334}{5455}Moraš me vratiti.Pronaği ga.|Moraš ga zaustaviti.
+{5461}{5573}Molim te,pomozi mi.
+{5628}{5685}Slatka mala maca.
+{5691}{5829}Uštedela si mi put do kafilerije.|Što si tako nervozna?
+{5835}{5912}Šta sam ja,|maèji psihijatar?
+{5918}{6008}Ulazi.
+{6486}{6564}Stigli smo.To je to.|Nisam baš siguran za ovo.
+{6570}{6640}Rekao si da hoæeš da |ostaviš cigarete.
+{6646}{6741}Hajde,pre nego |izgubiš hrabrost.
+{6747}{6844}Zašto ne uğeš samnom?|To je protiv pravila.
+{6850}{6973}Jel' ovo klinika za odvikavanje|od pušenja ili CIA?
+{6979}{7068}Preokrenuæe ti ivot,Dik.|Garantujem ti.
+{7074}{7192}To je rekao i Dim Dons |kad se nabio na šiljak.
+{7779}{7875}Ovde sam da bih ostavio pušenje.|-Popunite ovo.
+{7881}{7987}Imam olovku.
+{8484}{8585}''Dim u tvojim oèima''
+{9640}{9727}Dušo.
+{9792}{9899}Kako si?
+{9985}{10052}Ne,ne,nemoj..
+{10058}{10158}Draga,u redu je.|Biæeš dobro.
+{10164}{10289}Vodi me kuæi.
+{10290}{10391}Dugo sam pušaè,|opd svoje 16.
+{10397}{10469}Veoma je teško.
+{10475}{10551}Idemo sad.
+{10557}{10700}Lift je dole.|Korak po korak.
+{10751}{10807}Izvinite...|Uzeæu to.
+{10813}{10901}Predomislio sam se.|-G.Morison?
+{10907}{10977}ao mi je što ste èekali.|-Baš sam rekao..
+{10983}{11157}Promeniæemo vam ivot.|-Na bolje nadam se.
+{11248}{11384}Osnivaè?|Sedite,G.Morison.
+{11683}{11824}Imate 10.godišnju kæer.|-Alisiju.
+{11830}{11916}Ostavili ste rubriku|škole ,prazno.
+{11922}{12086}To stvarno nema veze sa|mojom ostavljanjem pušenja.
+{12092}{12162}Pa...
+{12168}{12287}Hoæemi preæi na stvar,|ili ne?
+{12293}{12431}U stvari,veæ smo poèeli.
+{12513}{12615}Imate li cigarete kod sebe?
+{12621}{12693}Da li medved sere u šumi?
+{12699}{12810}Dajte mi ih.
+{13707}{13819}Naše metode su|prilièno radikalne.
+{13825}{13904}Kao leèenje su sumnjive.
+{13910}{13981}Trafika u hodniku prodaje|sve vrste.
+{13987}{14060}Pristupaènost je samo |deo problema.
+{14066}{14166}Povratak leèenih pušaèa|je veæi nego kod narkomana.
+{14172}{14312}Poštedite me predavanja.|Predomislio sam se.
+{14363}{14406}Otvorite mi vrata!
+{14412}{14523}Vaš problem je teak,|ali mi imamo lek.
+{14529}{14672}Imaæete posla sa mojim advokatom,|ako ne otvorite ova vrata.
+{14692}{14761}Smirite se G.Morison.
+{14767}{14870}Ovo æe vaš moda zanimati.
+{14938}{14989}Gledajte paljivo.
+{14995}{15167}Primetiæete da ništa |ne radim rukama!
+{15264}{15399}Muzika je deo|tretmana.
+{15418}{15515}Zaigraj mala!
+{15810}{15910}Šta to radite?|Ubiæete je!
+{15916}{16021}Ubiti slatku macu?|Ma ne!
+{16027}{16183}Malo æe je peckati šapice,|inaèe je sasvim u redu.
+{16206}{16311}Prite maèke koliko vam je volja,|ali ako me ne pustite odavde,
+{16317}{16414}pozvaæu policiju bre nego što|izgovorite Marlboro.
+{16420}{16500}Evo kao stoje stvari.
+{16506}{16604}Quitters Inc. je osnovala veoma|vana osoba.
+{16610}{16706}Nakon smrti od raka,|razvili smo odreğenu tehnike.
+{16712}{16812}Koristimo ih sada da odvikavamo|ljude od pušenja.
+{16818}{16886}U stvari ,ovo je |izvrdavanje poreza.
+{16892}{16988}Ali ,stvarno smo zainteresovani|da pomognemo našim blinjima.
+{16994}{17073}Prvog meseca,|imaæete stalni nadzor.
+{17079}{17192}Viğaæete moda, |ponekog-ponekad.
+{17198}{17325}Ali verujte mi,nikad sve njih,|i nikad sve vreme.
+{17331}{17430}Ako budete pušili,|videæe vas.
+{17436}{17556}I staviæete me u elektriènu sobu?|-Ne.
+{17562}{17740}Staviæemo tamo vašu enu.|Vi æete morati da gledate.
+{17746}{17941}''Ja sam medicinar.Od mene se oèekuje|da spašavam ivote.Ja volim ljude.''
+{17947}{18068}''Zato nemam drugog izbora|sem da ubijem kuèkinog sina.''
+{18074}{18215}Ubiti ga,dobra ideja.|-Šta si rekao?
+{18221}{18312}Ništa..
+{18329}{18407}''Ne verujem da se ovo dogağa.|-Dogağa se.''
+{18413}{18524}''Prvi prekršaj,i vaša ena æe platiti,|ne mnogo...ali æe boleti''
+{18530}{18612}''Drugi prekršaj i dovešæemo|vašu kæer Alisiju ovde.''
+{18618}{18696}''Zamislite svoju kæer unutra|umesto maèke''
+{18702}{18803}''Za treæi prekršaj,moraæu da pošaljem |nekog da vam siluje enu''
+{18809}{18945}''A imamo baš takve poremeæene |osobe ovde, za taj posao''
+{18951}{19017}''Ali tešite se s ovim:''
+{19023}{19140}''Samo 29% naših klijenata je stiglo|do èetvrtog prekršaja''.
+{19146}{19225}''A ako i stignu?''
+{19231}{19362}''Onda mi odustajemo,G.Morison''
+{19394}{19432}Boe!
+{19438}{19500}Prosuo sam svoje piæe.
+{19506}{19609}Nastavi da koristiš svoju levu sisu kao| podmetaè za èašu i to æe sve èešæe dogağati.
+{19615}{19745}Sranje od filma.|Ko piše ova sranja?
+{19963}{20019}Dik.|-Šta je?
+{20025}{20092}Šta nije u redu?
+{20098}{20194}Mrzovoljan kao medved si veèeras!|-Nije ništa...i sve je.
+{20200}{20250}Prestao sam s |pušenjem ,danas.
+{20256}{20376}Od kada? Pre 5 minuta?|-Od 2 i 15min. danas popodne.
+{20382}{20542}Nisi pušio 6 sati?|-6 sati i 23 minuta.
+{20548}{20659}Pokušavam da doğem |do sladoleda!
+{20665}{20727}Zašto si odluèio |da prestaneš?
+{20733}{20791}Zbog tebe.
+{20797}{20884}I Alisije.
+{20892}{20954}Baš lepo od tebe.
+{20960}{21094}Èak i ako ne uspeš,|obe smo ti zahvalne.
+{21100}{21218}Mislim da æu uspeti.
+{22308}{22393}Sranje!
+{22666}{22769}Isuse!
+{25564}{25646}Alo.
+{25695}{25803}Ima li nekog unutra?
+{25809}{25884}Nisam pušio.
+{25890}{26028}Ako si unutra,reci Donatiju|da nisam pušio.
+{26034}{26139}Ustvari samo sam...
+{26141}{26243}došao po svoje palice za golf.
+{28198}{28267}Hoæe li kafu?|-Jebo te bog!
+{28273}{28369}To valjda znaèi - da.
+{28375}{28486}Kakva terapija!
+{28589}{28683}To je to.
+{28948}{29123}''Sveti Stefan'''|škola za posebnu decu.
+{29413}{29479}Tata!
+{29485}{29586}Æao,dušo.
+{29614}{29695}Zatvori oèi i idemo.
+{29701}{29783}Još dri oèi zatvorene.
+{29789}{29841}Idemo do...
+{29847}{29879}...ovde.
+{29885}{29926}Oèi su zatvorene?
+{29932}{30049}Mislim da nisu.|Jesu li zatvorene?
+{30055}{30185}Otvori ih sada.
+{30279}{30364}Hvala ti tata.
+{30370}{30460}Drago mi je da ti se sviğa.|Znaš li šta?
+{30466}{30551}Volim te Alisija.
+{30557}{30677}Kako se zove?|-Piše na etiketi.
+{30683}{30743}Norma Din.
+{30749}{30861}Norma...|Din.
+{30867}{30963}Volim Normu Din.
+{30969}{31066}Drago mi je, dušo.
+{31162}{31252}Idemo sad.Imaš Normu Din |i njene papire za usvajanje.
+{31258}{31347}Vrati se sad ostalima.
+{31353}{31444}Æao.
+{31483}{31581}Mnogo je voliš.|-Jedan od tvojih je bio u mojoj kuæi.
+{31587}{31665}Stvarno?|Moguæe je.
+{31671}{31757}Obeæali smo ti stalni nadzor.
+{31763}{31853}I to si dobio.|-Kuèkin sine.
+{31859}{31966}Da,jesam.Treba biti takav,|da se pobedi ta navika.
+{31972}{32074}Ljudi koji sami nisu kuèkini sinovi,|dolaze kod nas po pomoæ.
+{32080}{32148}Mi im dajemo šta im treba.
+{32154}{32248}Neznam šta su vam špijuni rekli,|ali ja nisam pušio.
+{32254}{32345}Da si zapalio tu cigaretu,|ne bi bio sada ovde.
+{32351}{32453}Gledao bi svoju enu|kako igra u maloj sobici.
+{32459}{32522}Ti voliš svoju enu,|i svoje dete.
+{32528}{32616}Nije u modi,|ali je korisno.
+{32622}{32767}Mislim da æeš uspeti.|Patiæemo na tebe.
+{33600}{33691}Pitao sam ga za mišljenje|da li æu opstati u poslu.
+{33697}{33839}Rekao je da sa dupeglavcima |kao što je on mogu da proğem.
+{33845}{33892}Nije loše.
+{33898}{34085}Rekao je:''Šta misliš šta æe reæi SEC|kad èuje za ovo?''
+{34239}{34329}Reæi æe da su veæ èuli za to.
+{34335}{34515}P.T.Barnum je bio u pravu.|''Budale se stalno rağaju''
+{34649}{34727}Gde si odlutao?
+{34733}{34818}Oprosti,malo sam umoran.
+{34824}{34917}Uzmi cigaretu.|-Da...ne!Ostavio sam.
+{34923}{34980}Jesam,stvarno.
+{34986}{35036}Ma da!
+{35042}{35094}Od pre dve nedelje.
+{35100}{35186}''Dve nedlje,dva meseca,dve godine.|Nije bitno.''
+{35192}{35426}Sledi velika prezentacija,sastanci.|Propušiæeš ti opet.''
+{35432}{35522}''Hajde uzmi cigaretu''
+{35641}{35729}''Uzmi cigaretu''
+{35735}{35839}Ne,ostavio sam ih.
+{35898}{36049}''Hej,Dik,pušaèka èarobna |lampa svetli''
+{36147}{36343}''Svaka reè,svaki pokret,|posmatraæu te''
+{36535}{36582}Diki.
+{36588}{36694}Zabi si ih u guzicu,Hal.
+{36744}{36860}Šta?Svetlo?
+{40343}{40430}Sranje!
+{41221}{41295}Sindi.
+{41413}{41493}Sindi?
+{41883}{41941}Sindi?|-Zdravo G.Morison.
+{41947}{42017}Trebalo bi da završimo |jedan posliæ.
+{42023}{42177}Hoæe li vam odgovarati u 5 sati?|-To je bila samo omaška.
+{42183}{42309}Kunem se da se neæe ponoviti!|Nije èak ni prijalo.
+{42315}{42392}Znaèi u 5.|-G.Donati...
+{42398}{42473}Donati!
+{42548}{42622}Gde mi je ena?|-Zdravo.
+{42628}{42779}Pokušao je sa silom.|-Gde je Sindi?
+{43127}{43222}Dank,idote, ne.
+{43424}{43486}Koješta!
+{43492}{43582}Doği maco,mac...
+{43589}{43707}Pusti maèku,ti hemoroidu.|Uzmi pištolj.
+{43718}{43842}Dii se.I ne glupiraj se više.
+{44020}{44137}Razumem tvoj postupak.|I neæu ti zameriti.
+{44143}{44272}Molim vas G.Donati..|-Budi dobar.Ne izazivaj Danka opet.
+{44278}{44398}Skratiæemo postupak koliko je moguæe.|Tvoja ena neæe biti povreğena.Zasada.
+{44404}{44487}Pazi na njega,Dank.
+{45051}{45203}Ovo je kao injekcija |kod doktora.
+{45773}{45862}Prestanite!Ubiæete je!|-Polako.
+{45868}{45971}Neæe joj biti ništa.
+{46395}{46533}Mislim da æeš morati| nešto da objasniš.
+{46790}{46889}Ukljuèi zvuk.|-Nema potrebe.
+{46895}{46989}Dovoljno sam dugo u poslu|da znam svaku reè.
+{46995}{47078}Ili æe zagrliti svog dasu,
+{47084}{47202}ili ga klepiti posred lica.
+{47213}{47332}10 dolara da æe ga klepiti.|-Vai.
+{47356}{47446}Jebi ga!
+{48172}{48272}Malo natrag.|Ne.ne,ne..
+{48278}{48379}4 kila za 6 meseci.|Nije loše.
+{48385}{48441}Moraæemo da pazimo.
+{48447}{48534}73% naših klijenata dobije|na teini kad ostavi cigarete.
+{48540}{48644}Obuci se pa da poprièamo.
+{48650}{48753}4 kilograma nije loše?|-Odlièno je.
+{48759}{48876}Ove dijetalne pilule nisu legalne.|Koristi ih štedljivo.
+{48882}{48970}Odreğujem ti maksimalnu |teinu na 82 kg.
+{48976}{49057}I,ako je preğem,poslaæeš |nekog da mi zapali kuæu?
+{49063}{49170}Ne,poslaæu nekog da odseèe |tvojoj eni mali prst.
+{49176}{49245}Doviğenja Dik.
+{49251}{49368}Da iseèe mojoj eni mali prst...|-Izvinite što ste èekali.
+{49451}{49540}Vreme je za zdravicu.
+{49546}{49619}Nemoj baciti èašu u vatru,|probudiæeš Alisiju.
+{49625}{49712}Dame su u pravu.
+{49718}{49817}Za Quitters Inc.
+{49823}{49927}Quitters Inc.
+{49960}{50070}Za Quitters Inc.
+{51511}{51649}Hajde Darsi,vreme je za Gobler.
+{51680}{51738}Sedi lepo tu.
+{51744}{51917}Darsi jede samo Gobler|hranu.Ta joj je omiljena.
+{51947}{52018}Slušaj me paljivo.|On me još trai.
+{52024}{52134}Moraš se vratiti da ga|pronağeš.
+{52161}{52291}Ti si mi jedina šansa.
+{52312}{52406}Sreæna noæ,G.Kresner.|-Ne prenagljuj.
+{52412}{52469}Noæ još nije gotova.
+{52475}{52531}Laku noæ,G.Kresner.
+{52537}{52675}Rièarde,unovèi ovo.|-U redu.
+{52694}{52779}Dobro veèe G.Kresner.|-Dobra noæ,dobra.
+{52785}{52845}Hvala vam.
+{52851}{52946}Laku noæ Henri.
+{52966}{53029}Jesi li prièao sa Dakijem?|-Da G.Kresner.
+{53035}{53158}Da li dri na oku moju enu i onog tipa?|-Da,u belom mustangu su.
+{53164}{53289}Daki je odmah iza njih.|-Dobro je.
+{53295}{53367}Pa narode,kako æemo?
+{53373}{53486}Din Martin peva u Zlatnom grumenu.|Odavno ga nisam videla.
+{53492}{53591}Šta je sa domaæim problemom?|-Rešiæemo ga.
+{53597}{53706}Idemo onda u Zlatni grumen.|-Hvala ti mnogo.
+{53741}{53854}Vidi ovo,maca.
+{54098}{54199}Moj otac kae da sve maèke|treba podaviti.
+{54205}{54339}Jel' tako?|-Veliki humanista.
+{54420}{54530}Kladim se da æe je neko zgaziti.|-Dajem 2000 da æe preæi.
+{54536}{54585}Šališ se.|-Ne.
+{54591}{54678}2000 da æe preæi.|-Maèka je gotova.
+{54684}{54759}Ti kaeš da æe uspeti.|Ja kağem neæe.
+{54765}{54822}Mogu da uradim šta hoæu.|-Naravno.
+{54828}{54897}Mogu šta god hoæu.|Neæeš reæi ni reè.
+{54903}{54994}Svako moe da uradi šta hoæe.|-Pazi sad.
+{55000}{55099}Doæi maco.
+{55105}{55159}Doği maco,mac,mac.
+{55165}{55252}Vi bi ste se oko svega kladili.|Pa o tome se i radi.
+{55258}{55405}Doği maco,doği.|-Ovamo maco.
+{55411}{55484}Za 2000 na mojoj si strani?
+{55490}{55620}Ti si ona èiji otac|davi maèke.
+{55630}{55783}Ne plaši se ovih velikih stvari,|to su samo specijalni efekti.
+{55884}{55985}Sada!
+{56278}{56362}Evo je.
+{56368}{56485}To je dasa.
+{56485}{56578}Imao je sreæe.|-Znao je da si se kladio protiv njega.
+{56584}{56708}Nešto dobiješ,nešto izgubiš.|-Idite vi na DIna Martina.
+{56714}{56828}Ja æu macu odneti kuæi |na èiniju mleka,zasluio je.
+{56834}{56945}Stvarno neæeš sa nama?|-Imam neka posla.
+{56951}{57058}Pozovi mi taksi.
+{57095}{57200}Pozovi Dakija.|Reci mu da zakuca dripca.
+{57206}{57270}Laku noæ.
+{57296}{57392}Zašto ne poğeš samnom?|-Zato što smo švorc.
+{57398}{57530}Biti samnom te stavlja u sasvim|drugaèiju finansijsku situaciju.
+{57536}{57649}Uèiniæu to bezbolnim koliko je moguæe.|-Nije vano.
+{57655}{57724}Armbruster hotel,Njujork.
+{57730}{57866}Kad se banke otvore,|naæi æemo se tamo.
+{57872}{57989}Neznaš koliko je on opasan.|-Znam dobro šta je on.
+{57995}{58123}Zato æeš na autobus,|èim me poljubiš.
+{58251}{58389}Dragi...|Idi.
+{58857}{58898}Hej.
+{58904}{59062}To je za konje ili krave,svinje to ne|jedu,neznaju kako.
+{59136}{59216}Uzmi mu kljuèeve.
+{59222}{59329}U velikoj si nevolji.Mrdaj.
+{59486}{59577}Idemo.
+{60170}{60215}Ok.Briši.
+{60221}{60306}Idemo deèko.
+{60312}{60415}Svinje to ne jedu,|neznaju kako.
+{60421}{60491}Kad Dako to kae,|misli da umukneš.
+{60497}{60643}Stvarno?|-Da,to je kao šala.
+{61141}{61215}Zatvori vrata.
+{61474}{61537}Srediæu  te ja G.Noris.
+{61543}{61667}Za 10 min. Albert æe pozvati policiju|i isprièati im prièu o heroinu..
+{61673}{61810}u Mustangu iz 1970.g|Ostareli teniser sa dosijeom o drogi.
+{61816}{61973}Biæeš traena roba.|-Osim ako mi ne kaeš gde je Marša.
+{61979}{62106}Kad tebe ne bude,vratiæe se ona.|Nema gde da ode.
+{62112}{62238}Kad izağeš iz zatvora,više æeš|brinuti o artritisu..
+{62244}{62315}nego o libidu.
+{62321}{62491}Osim ako prihvatiš|moju ponudu.
+{62521}{62625}Hej,doği.
+{62681}{62735}Hajde.
+{62741}{62865}Hoæu da ti pokaem nešto.
+{63050}{63220}Pogledaj dole i kai mi|šta vidiš.Gledaj.
+{63228}{63334}Ulicu.|-Ne,tamo.
+{63340}{63469}Sims.O èemu se radi?
+{63475}{63551}Opklada je ovakva.
+{63557}{63672}Vrh zgrade je èudo grağevinske |èudovišnosti.
+{63678}{63816}Ima puno udubljenja i pukotina.
+{63822}{63930}Ako je obiğeš ukrug,|kola æe biti èista.
+{63936}{64090}Imaæeš lovu i moju enu.|-Ti si lud.
+{64100}{64239}Ali ako izgubiš ravnoteu...
+{64583}{64727}Eto ti opklade.Dobijaš devojku.|Dobijaš sve.
+{64733}{64887}Ili æeš dobiti dugu robiju|u Rahvej zatvoru.
+{65488}{65604}Varaš li na klağenju?
+{65609}{65720}Nikad nisam varao u opkladama.
+{65787}{65861}Sebastijane.
+{65867}{66011}Sebastijanu se dopadaš-|To je moda dobar znak.
+{66218}{66266}Dobro.Dobro.
+{66272}{66392}Dobar poèetak je pola posla.
+{66939}{67093}Sims je 12.5cm širok,ali izgleda |kao da je 15cm,zar ne?
+{67099}{67195}Ili dva?
+{67201}{67245}Ili jedan?
+{67251}{67337}Kako doğavola ti znaš?
+{67343}{67424}Znaš li šta ja mislim?
+{67430}{67556}Mislim da æeš vrlo brzo |da se vratiš ovamo.
+{67562}{67645}Ako budeš imao |snage u nogama.
+{67651}{67808}Mislim da nemaš hrabrosti.
+{68361}{68450}Buu!
+{68497}{68539}Prokletnièe.
+{68545}{68662}Hoæu samo da te |odrim budnim.
+{69037}{69119}Odlazi odavde.
+{71833}{71883}Prokletnièe.
+{71889}{71996}Samo te drim budnog.
+{72279}{72361}Isuse!
+{72851}{73003}Šta je s tobom?|Gde ti je smisao za humor?
+{73651}{73740}Odjebi.
+{74603}{74707}Ti mali drkadijo.
+{75486}{75611}Probaj ovo.ti leteæa |fabriko govana.
+{75839}{75933}G.Noris
+{76208}{76357}Ovo je zabavnije |nego što bi trebalo.
+{76363}{76443}Ubiæu te.|-Ne G.Noris.
+{76449}{76587}Ali sigurno æu ja ubiti tebe,|ako ne nastaviš dalje.
+{76593}{76659}Ventil je samo do pola otvoren.
+{76665}{76750}Ako ga otvorim do kraja,|oduvaæu te sa te rupe.
+{76756}{76821}Mrdaj!
+{76827}{76922}Ubiæu te!
+{76978}{77081}Videæemo.
+{78658}{78747}Boe!
+{81156}{81287}Stavi  u ceger.|-Preko novca?
+{81294}{81380}Spusti to ovde.
+{81386}{81482}Uği kad kaem:|''U redu,u redu, G.Noris.''
+{81488}{81600}-''U redu,u redu, G.Noris.''|''U redu,u redu, G.Noris.''
+{81606}{81721}Shvatio sam.''U redu,u redu, G.Noris.''|-Ma zaboravi.Idi sad.
+{82151}{82234}U redu,u redu, G.Noris.
+{82240}{82339}Rekao sam ti,ja ne podvaljujem.
+{82407}{82519}-Ne?|Ne,samo sam loš gubitnik.
+{82525}{82570}Obeæao sam ti tri stvari.
+{82576}{82678}Auto je èist.|Imaš svoj novac.
+{82684}{82745}I naravno...
+{82751}{82850}...imaš moju enu.
+{82892}{83033}Isuse!|-Kako ti se to sviğa?
+{83039}{83113}Alberte.
+{83341}{83417}Alberte.
+{83768}{83860}Novac...nije ništa.
+{83866}{83972}Siæa.Mogu da ti dam|100 000.
+{83978}{84033}500 000.
+{84039}{84109}Milion,Norise.
+{84115}{84239}Na raèun u Švajcarskoj.|Šta kaeš,a?
+{84245}{84356}Milion dolara.
+{84417}{84564}-Neæe biti.|Dva miliona.
+{84662}{84747}Ne.Imam ideju.
+{84753}{84815}Kladiæemo se.|I nije obièna opklada.
+{84821}{85025}Nisam bogataš kao ti.|Ja sam samo propali teniser..
+{85054}{85224}sa mrtvom devojkom.|Samo jednostavna mala opklada.
+{85347}{85421}Pet miliona.
+{85427}{85570}-Daæu ti sve što eliš.|-U pravu si,ovo je zabavno.
+{85576}{85727}Mora da se šališ.|Kai mi da je šala.
+{85840}{85989}Samo te drim budnog.|Nastavi.
+{85995}{86112}Sledeæi moe biti blie.
+{86136}{86225}Mrdaj!
+{86556}{86673}Noris,kuèkin sine.
+{87106}{87190}Odlazi odavde.
+{87201}{87299}Odla...
+{89571}{89681}Hajdete vas dvoje.|Vreme je za ruèak.
+{89889}{89975}Maèor.
+{90111}{90201}Moemo la ga zadrimo?
+{90219}{90274}Amanda,èekaj da uzmem metlu.
+{90280}{90383}Èekaj Amanda.
+{90511}{90688}Nemoj,moe da te ujede.|-Neæe,sviğam mu se.
+{90694}{90817}Ne moemo zadrati lutalicu.|Moda je zaraen.
+{90823}{90884}Neka ga veterinar pregleda.
+{90890}{91008}Ako veterinar kae da je OK,|moemo li ga zadrati?
+{91014}{91140}Najlepše vas molim,|sa šeæerom posoljeno.
+{91281}{91383}Kako ti je ime?
+{91386}{91456}Ne èujem te.
+{91462}{91596}Hoæeš li me èuvati.|Nadam se da hoæeš.
+{91598}{91709}Moe li General biti u mojoj sobi?|-Ne.
+{91715}{91827}Maèje mesto u ovoj kuuæi|ne ukljuèuje spavaæe sobe.
+{91833}{91886}Vreme je za spavanje.
+{91892}{91984}Laku noæ,Generale.
+{92634}{92781}Amanda iskljuèi TV.|Hoæu da porièamo.
+{92787}{92878}Taj maèor je bio u tvojoj|sobi sinoæ.
+{92884}{92978}Našla sam maèje dlake|svuda po pokrivaèu.
+{92984}{93058}Bio je?|Sanjala sam da je bio.
+{93064}{93097}Daleko.
+{93103}{93200}Biæe daleko ako ga odnesem|u ivotinjski azil.
+{93206}{93368}-Mama to nije fer.|-Jesi li mislila na Polija.
+{93374}{93443}General i Poli se odlièno slau.
+{93449}{93622}Ne,ne slau se.Jesi li ikad gledala|Silvestra i Tvitija?
+{93639}{93800}General neæe dirati Polija.|On nije nasilan.
+{93806}{93922}Mislim da je prerano |da o tome govorimo.
+{93928}{94035}Mama je sinoæ razgovarala |sa Nanom.
+{94041}{94157}Nana kae,da maèke |kradu deci dah.
+{94163}{94270}Zašto bi General krao moj dah|kad ima svoj?
+{94276}{94403}Treba izbaciti sve ivotinje |napolje preko noæi,naroèito maèke.
+{94409}{94512}Ako ne,popnu se na krevet |i legnu ti na grudi.
+{94518}{94627}A onda ti izvuku sav dah,|ovako.
+{94633}{94766}-To je baš pomoglo,Hju.|-Hvala.
+{94772}{94822}Sedi ovde i pojedi svoj doruèak.
+{94828}{94990}Neæu,šala na raèun moje majke|mi je ubila apetit.
+{95199}{95299}Nije nasilan,malo sutra.
+{95375}{95472}ao mi je što smo ismevali Nanu.|Zar ne bi mogli..
+{95478}{95624}To je završeno.|Autobus je za 15 minuta.
+{96489}{96595}-Zar ne moe General ostati...|-Ne.
+{96601}{96719}Ne zaboravi te zube pozadi.|Tu se hrana zadrava.
+{96725}{96812}Opreri kutnjake.
+{96918}{97019}Æao lutko.|-Æao tata.
+{97025}{97184}Mogu dovesti Generala ovde,ali hoæu |da znam o èemu su bili ti loši snovi.
+{97190}{97266}Zašto?
+{97272}{97419}Pa,kad sviraš violinu,svi|slušaju,èak i mama.
+{97425}{97481}Hajde,reci mi.
+{97487}{97606}Mislim da je bilo neko èudovište.|-Èudovište,kakvo èudovište?
+{97612}{97720}Znaš li prièu o goblinima?|-Tri opasna goblina?
+{97726}{97875}Baš ta.|Jedan takav je bio ovde.
+{98004}{98155}General je oterao te snove|sinoæ.Moe li da bude ovde?
+{98161}{98263}Tvoja mama je ozbiljna |u vezi s tim.
+{98269}{98433}Kao pranje kutnjaka i krağa|deèjeg daha.
+{98439}{98597}Moje ismevanje Nane,nije nam|baš pomoglo.
+{98603}{98729}Ali moda uspem da je |nagovorim.Ništa ne obeæavam.
+{98735}{98831}Ne obeæavam.
+{99015}{99096}Znaš,ne postoje| prava èudovišta.
+{99102}{99178}Pa,valjda je tako.
+{99184}{99281}Ok.Hajde sad na spavanje.
+{99287}{99411}I bez runih snova.|-Dobro.
+{99809}{99948}Poèela je da plaèe kad sam|joj poeleo laku noæ.
+{99954}{100039}Ma hajde Hju.
+{100265}{100465}Hajde da još poprièamo o tome.|-Ne verujem tom maèoru.
+{106274}{106322}Šta to bi?
+{106328}{106418}Neznam.|Idem da vidim.
+{106517}{106636}Generale,jesi li to ti?
+{106786}{106854}Poli!
+{106860}{106931}Mendi?
+{106937}{107015}Poli je mrtav.
+{107021}{107126}Èudovište iz mog zida|je ubilo Polija.
+{107132}{107176}Znala sam!
+{107182}{107275}Znala sam!
+{107342}{107430}Rekla sam da æe se to desiti.
+{107436}{107526}Vido ovo.
+{107536}{107624}U redu je.
+{107973}{108067}Ona kae da nije maèor.|-Da,znam.
+{108073}{108164}Ubeğena je da postoji Trol|u njenom zidu.
+{108170}{108327}Ali njoj je 8 a ti imaš 38 godina,|a ta maèka je ostavila krvav trag.
+{108333}{108456}Da se pobrinem za Polija?
+{108582}{108655}Evo ga ,ubica.
+{108661}{108761}Mislila sam da si odavno |pobegao odavde.
+{108767}{108887}Tvoje umiljavanje je|prilièno otrcano.
+{108931}{109017}Doği ovamo.
+{109025}{109076}Šta to imamo ovde?
+{109082}{109179}Ko ti je to uradio?
+{109185}{109300}Maèor ima ranu na ramenu.|-Pa šta?
+{109306}{109369}Rana izgleda velika.
+{109375}{109510}Poli je dobro kljucnuo|pre smrti.
+{109516}{109655}Nisam znao da je Poli|takav kljucaè.
+{109666}{109794}Spremi se za posao.|Zakasniæeš.
+{110882}{110971}Ostani tu.
+{110980}{111109}Hajde..vidi,dobra hrana.
+{111184}{111277}Doği macane.|Mama ima nešto lepo za tebe.
+{111283}{111415}Doği,ti besna|mala zveri.
+{111577}{111655}Ide...
+{111657}{111752}Ide...
+{111900}{112025}Tvoji dani ubijanja ptica|su prošli.
+{112209}{112343}Gradski azil za ivotinje
+{112832}{112926}Generale!
+{112962}{113060}Generale!
+{114426}{114483}Sutra je tvoj vaan dan.
+{114489}{114577}Uništavanje.
+{114782}{114870}Da li je Genral pobegao jer si ti|mislila da je on ubio Polija?
+{114876}{114914}Maèke ne misle.
+{114920}{115072}On zna da ti misliš da|maèke kradu deci dah.
+{122036}{122123}Kako?
+{122134}{122220}Mama!
+{122482}{122550}Mama!|-Amanda.
+{122556}{122641}Sklanjaj se.
+{123324}{123422}Dri ga Generale.
+{123827}{123927}Ne puštaj ga da pobegne.
+{123990}{124090}Amanda,tata i mama nisu ljuti.
+{124096}{124196}Otvori nam vrata.
+{124202}{124295}Dri ga Generale.
+{124568}{124684}Hajde Generale,moeš ti to.
+{124738}{124838}Zgrabi ga.
+{125113}{125205}Pazi Generale.
+{125211}{125309}Hajde Generale.
+{125680}{125797}Pusti to bre.
+{125870}{125962}Pust ga bre.
+{126282}{126344}Generale!
+{126504}{126596}Odakle je došao?
+{126602}{126668}Daj mi tog maèora.
+{126674}{126767}Tišina!
+{126779}{126893}Bilo je to èudovište,koje je htelo da mi|ukrade dah,ali ga je General sredio.
+{126899}{127028}Morate da mi verujete.|-Gde je otišlo?
+{127034}{127144}General ga je zavrteo na |gramofonu i fijuu...
+{127150}{127291}Uletelo je u ventilator,|i iseckao ga je.
+{127397}{127478}Moj Boe!
+{127484}{127601}Hju,šta je to moglo biti?
+{127907}{128086}Izašlo je iz zida|kao što sam vam rekla.
+{128213}{128309}Šta god je,bilo je u zidu,|da li ih ima još?
+{128315}{128422}-Jel' bilo još neko?|-Videla sam samo njega.
+{128428}{128520}Neæemo niko prièati o ovome.|-Ni sluèajno.
+{128526}{128662}Amanda,obeæaj da nikom |neæeš reæi za ovo.
+{128668}{128760}-Pa,to zavisi.|-Od èega?
+{128766}{128915}Da li moe ili ne moe|General ostati ovde.
+{128921}{129031}To je ucena!
+{131495}{131613}Æao.
+{131687}{131776}Title BY MISKE
+{131801}{133301}ĞŸĞ¾Ğ´Ñ€Ğ¶Ğ¸Ñ‚Ğµ Ğ½Ğ°Ñ Ğ¸ Ğ¿Ğ¾ÑÑ‚Ğ°Ğ½Ğ¸Ñ‚Ğµ VIP Ñ‡Ğ»Ğ°Ğ½ Ğ´Ğ° Ğ±Ğ¸ÑÑ‚Ğµ ÑƒĞºĞ»Ğ¾Ğ½Ğ¸Ğ»Ğ¸ ÑĞ²Ğµ Ğ¾Ğ³Ğ»Ğ°ÑĞµ ÑĞ° www.OpenSubtitles.org

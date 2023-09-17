@@ -1,0 +1,1397 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{325}{475}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{1922}{1974}{y:i}Jednom je neki öaljivdûija primetio|{y:i}da je, osim New Yorka...
+{1976}{2027}{y:i}sve ostalo Connecticut.
+{2029}{2138}{y:i}Namera je bila öaljiva ali, kao u veÊini|{y:i}sarkazama, i u ovom ima trunke istine...
+{2140}{2206}{y:i}jer su svi gradiÊi koji Ëine|{y:i}kiËmu ove nacije...
+{2208}{2262}{y:i}izgraeni na isti kalup.
+{2264}{2305}{y:i}Zato, u stvari, uopöte|{y:i}nije ni vaûno... 
+{2307}{2378}{y:i}öto vas vodimo baö u|{y:i}ovaj grad u Connecticutu.
+{2380}{2438}{y:i}Osnovne Ëinjenice naöe priËe,|{y:i}zapravo se mogu uoËiti...
+{2440}{2510}{y:i}u bilo kojoj zajednici Connecticuta|{y:i}podjednako kao ovde...
+{2511}{2559}{y:i}ali, one se mogu da se|{y:i}dese i bilo gde drugde...
+{2561}{2651}{y:i}u Oregonu ili Mississippiju,|{y:i}Georgiji ili Juti.
+{2653}{2713}{y:i}Moûda se ulice u Vaöem gradu|{y:i}zovu drugaËije...
+{2715}{2807}{y:i}i svejedno je da li ih zovete Centralna ulica,|{y:i}Severna ulica ili Glavna ulica...
+{2809}{2861}{y:i}one se ne razlikuju mnogo|{y:i}od ovdaönjih ulica.
+{2863}{2934}{y:i}A ljudi, pa dobro, moûda|{y:i}se oblaËe malo drugaËije...
+{2936}{2994}{y:i}i moûda, ovde, govore|{y:i}malo drugaËije...
+{2995}{3106}{y:i}ali, u suötini, oni su isti kao vaöe komöije|{y:i}i, verovatno ih sve, odnekud poznajete...
+{3108}{3162}{y:i}i policajca u obilasku,|{y:i}klinca koji prodaje novine...
+{3164}{3290}{y:i}bakaline, advokate,|{y:i}dobre ljude, loöe ljude.
+{3292}{3351}{y:i}A ako vaö grad ima sreÊe,|{y:i}moûda Êete imati sveötenika...
+{3353}{3449}{y:i}koji je sa svima dobar kao öto je Otac Lambert|{y:i}dobar sa svima u ovom gradu...
+{3451}{3521}{y:i}Ëovek koga svi znaju i|{y:i}koga svi vole.
+{3522}{3577}{y:i}Moûete ga videti, skoro svake|{y:i}veËeri u Glavnoj ulici...
+{3579}{3645}{y:i}kako öeta, posle veËere.
+{3646}{3729}{y:i}Raspoloûen, ljubazan Ëovek koji|{y:i}za svakoga ima lepu reË.
+{3731}{3779}Dobro veËe, OËe.|-Izvinite, imate li öibicu?
+{3781}{3851}Naravno. Izvolite.|Laku noÊ -Hvala Vam.
+{4048}{4106}Zdravo, OËe.|-Zdravo, draga moja.
+{4499}{4549}Zaustavite tog Ëoveka!
+{4605}{4710}Hej, zaustavite tog Ëoveka! Zaustavite ga!|Drûite ga! Drûite ga!
+{4712}{4789}Je l' mrtav?
+{4790}{4885}To je jadni Otac Lambert.|-Neka neko neöto preduzme.
+{4886}{4961}Sklonite se, sklonite se.|Ja sam sve video.
+{4963}{5005}Tamo sam stajao.|-Kao i ja.
+{5007}{5061}Ja sam sve video. -Najbolje bi bilo|da pozovemo policiju.
+{5063}{5121}Gde je najbliûi telefon?|-Tamo je jedan pored dragstora.
+{5122}{5173}Pa, nek ode neko!|-Evo, ja Êu.
+{5175}{5225}Spusti tu lulu.|Ne diraj niöta.
+{5227}{5316}Tako je. -Neka niko niöta ne dira|dok ne doe policija.
+{5683}{5757}{y:i}Ovo deluje nemoguÊe,|{y:i}ali u vaöem i u mom gradu...
+{5758}{5819}{y:i}ovakve stvari se, zapravo dogaaju.
+{5821}{5874}{y:i}éivot je prijatan i, pomalo, dosadan...
+{5876}{5973}{y:i}svako bogovetno veËe zevnemo,|{y:i}iskljuËimo radio i odemo na spavanje.
+{5974}{6022}{y:i}A, onda, jednog jutra crni novinski|{y:i}naslovi zure u nas.
+{6024}{6119}{y:i}Negde je objavljen rat,|{y:i}berza se sruöila...
+{6121}{6202}{y:i}ili je ljubazni starac|{y:i}ubijen na sred ulice...
+{6204}{6290}{y:i}i ûabokreËina na bari mirnog druötvenog ûivota|{y:i}odjednom se uskomeöa.
+{6292}{6410}{y:i}Voda poËne da kljuËa a njene mirne struje|{y:i}krenu nekim novim i zaobilaznim putevima.
+{6412}{6469}Ne mogu da verujem.|-Ne moûe niko iz grada.
+{6470}{6560}Tako je. Ne moûe niko.|-Specijalno izdanje!
+{6990}{7021}Bolje ti ovo uradi, George.
+{7074}{7127}Dogovorili smo se, gospoo,|i, pa, izvolite.
+{7129}{7209}S vremena na vreme Ëinio nam je usluge.|-Stavite to negde blizu, molimo vas.
+{7210}{7298}Hvala vam, momci.|Hvala vam.
+{7310}{7361}Viöe od bilo kog Ëoveka|kojeg sam ikad upoznao...
+{7363}{7473}on je ceo svoj ûivot posvetio svojoj sluûbi|i dobrobiti cele zajednice.
+{7475}{7546}Bio je jednostavan i skroman...
+{7547}{7622}pa, ipak, svi koji su ga poznavali|znaju koliko je bio veliki.
+{7671}{7721}NedostajaÊe nam.
+{7852}{7903}{y:i}Da, smrt Ëoveka kao öto je|{y:i}Otac Lambert...
+{7905}{7958}{y:i}uvek ostavlja prazninu u zajednici...
+{7960}{8027}{y:i}jer, naûalost takvih ljudi je|{y:i}uvek malo.
+{8029}{8095}{y:i}Stari sveötenik je veÊi deo svog ûivota|{y:i}proveo ovde...
+{8097}{8145}{y:i}u tiöini izgraujuÊi  svoju parohiju...
+{8147}{8206}{y:i}deleÊi jednostavan ûivot|{y:i}svoga susedstva....
+{8207}{8258}{y:i}i, nekako proûimajuÊi svoje parohijane...
+{8260}{8357}{y:i}deliÊem svoje sopstvene|{y:i}ljubaznosti i humanosti.
+{8359}{8425}{y:i}Moûda je bio sreÊniji|{y:i}od veÊine pastora...
+{8427}{8503}{y:i}jer je pred kraj ûivota doËekao|{y:i}i vladine reforme u svom gradu...
+{8505}{8622}{y:i}proterivanje veËitih politiËara i novog|{y:i}podstreka u gradskom planiranju.
+{8624}{8733}{y:i}Za projkete kao öto su parkovi,|{y:i}igraliöta i rekreativni centri...
+{8734}{8827}{y:i}starac je sa zadovoljstvom pomagao|{y:i}svojom mudroöÊu i svojim iskustvom...
+{8829}{8901}{y:i}i dostojanstvom i znaËajem crkvom.
+{8902}{8957}Gospodin Harris je ljubazno|ukazao na ovaj deo.
+{8958}{9006}Samo sam spomenuo njegovu|pristupaËnost...
+{9008}{9083}i Ëinjenicu da bi banka mogla|da omoguÊi njegovu kupovinu.
+{9085}{9157}OËe Lambert?|-Deluje kao izvanredna lokacija.
+{9159}{9263}»ini mi se da se bankari dobro|razumeju u te stvari.
+{9265}{9369}Naravno, gospoa Harvey Êe, kao|predsedavajuÊa imati konaËnu reË.
+{9370}{9453}Mislim da je, sasvim u redu.|OdliËno je.
+{9455}{9525}{y:i}Ali, njegov svakodnevni posao svodio se|{y:i}na rad sa ljudima iz svoje parohije...
+{9526}{9609}{y:i}a posebno sa onima koji su traûili|{y:i}njegovu podröku i savet.
+{9611}{9698}{y:i}S obzirom da je bio Boûiji Ëovek,|{y:i}njegov posao ga je, ponekad vodio...
+{9700}{9785}{y:i}na Ëudna i tajna mesta|{y:i}ljudske duöe.
+{9787}{9871}{y:i}Bio je pravedan i sklon da opraöta|{y:i}ali je bio Ëovek koji je...
+{9873}{9945}{y:i}umeo jako dobro i beskompromisno|{y:i}da proceni karakter.
+{9946}{9996}Prestani.
+{10056}{10131}»ak i kad bih ûeleo da ti oprostim,|ne bih mogao.
+{10133}{10199}To je van mojih moÊi.
+{10201}{10253}Jime, ti si bolestan Ëovek.|-Ali, oËe, ja...
+{10254}{10302}VeÊ smo kroz sve ovo|prolazili.
+{10304}{10373}Ja ne mogu da ti pomognem.|Moûda neki sanatorijum.
+{10374}{10457}Ne, neÊu. Ako... ako ljudi...
+{10458}{10518}Ne radi se o ljudima, sine.|Ti si u pitanju.
+{10520}{10578}To sam ti veÊ rekao.
+{10579}{10662}Ovog puta, na svu sreÊu, nije uËinjena|neka veÊa öteta.
+{10663}{10717}Ali, sledeÊi put...
+{10719}{10769}Ne, ne mogu ti to dozvoliti.
+{10771}{10822}Sanatorijum je jedino reöenje.
+{10856}{10933}Jesi li razgovarao o ovome|sa svojom majkom?
+{10935}{10983}Nemojte niöta da joj kaûete.
+{10985}{11035}Nisam priËao ni sa kim.|-Ni sa ocem Gardinerom?
+{11037}{11106}Evo, Jime, opet poËinjeö|sve od poËetka.
+{11108}{11193}Ovo je samo izmeu nas dvojice.
+{11195}{11271}Voleo bih da se sam odluËiö, sine....
+{11273}{11378}u suprotnom, neÊu moÊi|dugo da Ëekam.
+{11379}{11451}Za tvoje dobro,|ne mogu dugo da Ëekam.
+{12006}{12085}Sluûba Êe biti odrûana u|utorak u 10 sati.
+{12087}{12154}Telo Êe biti izloûeno na odru u crkvi.
+{12203}{12295}{y:i}Sedmoro svedoka se slaûe|{y:i}da je to ubistvo
+{12298}{12427}{y:i}Nosio je taman kaput, svetao öeöir - srednje grae|{y:i}za ubistvo koriöÊeno oruûje kalibra .32
+{12483}{12539}U ovoj svetoj, boûijoj kuÊi...
+{12541}{12611}dozvoli, preklinjemo te, da se|ujedini sa njima...
+{12613}{12717}u veËitom prijateljstvu kroz|Isusa Hrista, Gospoda naöeg...
+{12718}{12793}koji, sa tobom i Svetim Duhom ûiveöe...
+{12794}{12854}zauvek u jednoboûanskom svetu|bez kraja.
+{12855}{12941}Amen.
+{12942}{13010}Dozvoli, preklinjemo te, o, Gospode,|da se duöa, sluge Tvojega...
+{13012}{13089}sveötenika Georga, koga,|dok bejaöe na svetu ovom....
+{13090}{13147}Bog obdari mnogim svetim darovima...
+{13149}{13239}uvek raduje veËnoj slavi|u nebeskoj kuÊi.
+{13298}{13386}O, Boûe naö, koji nam reËe da poötujemo|oca svoga i majku svoju....
+{13388}{13486}milosti imaj i saûali se na duöe|oca mojega i majke moje. 
+{13488}{13570}Oprosti im grehe njihove.
+{13571}{13651}Pa? -Na trenutak sam|pomislio da je to on.
+{13902}{13977}»ovek je pomislio da je on,|ali niöta od toga.
+{13978}{14045}äta si ti oËekivao?|-Postoji neka öansa, öefe.
+{14047}{14134}Postoji i kad se spuötaö niz|NIjagarine vodopade u buretu.
+{14136}{14186}Idemo odavde.
+{14283}{14337}Zar niko niöta ne zna o ovom|sluËaju? -Tiöina.
+{14338}{14391}Ma daj, Dugane, proölo je|pet dana! -»etiri.
+{14393}{14473}U redu, Ëetiri dana, a vi bezveznjakoviÊi niste|uspeli da pronaete ni otisak cipele.
+{14474}{14542}Ljudima se to ne dopada.|-Zaöto, jednostavno, ne nestanete?
+{14544}{14633}Pa, onda da vi, komedijaöi, krenete|da me traûite? Zezaö me?
+{14634}{14693}Policijska stanica.|Narednik Dugan.
+{14694}{14781}Ne, gospoo. Za to se brine gradska kafilerija.|-Da nije izgubila muûa, a?
+{14783}{14841}Daj, uÊuti.|-Zdravo, poruËniËe. äta ima?
+{14842}{14901}Vidi, ovo je gadan sluËaj...|-Samo mi ne priËajte kako vam je teöko.
+{14902}{14973}Dobro, samo ja ti kaûem da se öefu|uopöte ne dopadaju tvoji Ëlanci.
+{14974}{15069}Od sutra Êe mu se joö manje sviati|ako vi, momci, niöta ne...
+{15070}{15137}Pa? -Niöta. Gospodin Harvey|je zvao, jedno Ëetiri puta.
+{15139}{15202}Rekao mi je da vam, Ëim se pojavite|kaûem da odete do njega.
+{15204}{15253}Ima li neöto, öefe?|-Ne.
+{15254}{15333}Gospodin Harvey zvuËi jako zabrinuto.|Moûda ima neki trag.
+{15334}{15389}Novine! Novine!|ProËitajte sve o tome!
+{15391}{15486}»istiö li ti ovo ikad?|-Nasmejan momËiÊ.
+{15488}{15537}Policiju i dalje zbunjuje ubistvo.
+{15538}{15588}Novine, öefe?|-Ne.
+{15655}{15705}Hvala.
+{16011}{16096}Kako ste, gospoice...|-Izvolite, oËekuje vas.
+{16166}{16245}Da, ali kaûem ti,|rade sve öto mogu.
+{16247}{16321}Ne, nisam Ëuo niöta novo od kad smo|poslednji put razgovarali.
+{16322}{16401}Naravno, razgovaraÊu sa Robinsonom.|Evo, upravo je stigao. Zdravo, Robbie.
+{16402}{16457}JaviÊu ti se kasnije.
+{16458}{16515}Da. Da.
+{16637}{16700}Pa, öto si mi tako sreÊan, Robbie?
+{16745}{16819}Ima li kakvog napretka?|-I ti?
+{16821}{16938}Ovo je gadan sluËaj. -NeÊe biti niöta bolji|ako svi nastavite da kevÊete na mene.
+{16982}{17030}Vidi, Robbie...|-Ne, nema nikakvog napretka.
+{17032}{17105}Nema tragova, nema motiva,|nema niËega.
+{17106}{17173}Moramo da ga uhvatimo.|Ovo nije pucnjava u sali za bilijar...
+{17175}{17261}ovo je ubistvo. -Gospodine Harvey, ja sam bio|pozornik poËetnik na ovim ulicama...
+{17263}{17317}kad je Otac Lambert|stigao u ovaj grad.
+{17318}{17395}I ja ûelim da öËepam tog tipa.
+{17397}{17459}Izvini, Robbie. Trebalo je da znam.
+{17461}{17526}Nema veze.|-Samo, u problemima smo, Robbie.
+{17528}{17593}Jesi li Ëitao 'Record' jutros?|-Jesam.
+{17595}{17665}Ne svia mi se njihov ton. Od svega ovog|napraviÊe politiËki sluËaj.
+{17666}{17739}Samo pokuöavaju da napumpaju tiraû.|-Ne ovog puta.
+{17741}{17811}U gadnom smo sosu.|-I öta bi ja sad trebalo da radim?
+{17813}{17877}Da briznem u plaË? Svi moji|ljudi rade na sluËaju.
+{17878}{17926}Ako ga uhvatimo, uhvatimo.|Ako ga ne uhvatimo, nismo ga uhvatili.
+{17928}{18003}A sad, izvini, moram da se|vratim na posao.
+{18112}{18161}Neka se tvoji prijatelji u|gradskoj veÊnici sekiraju.
+{18162}{18215}Oni njima rade o glavi|a ne tebi i meni.
+{18217}{18325}VeÊ i meni rade o glavi, Robbie,|a uskoro Êe poËeti i tebi.
+{18628}{18668}{y:i}Graanski komitet zahteva akciju
+{18673}{18767}Gospodine gradonaËelniËe spremni smo da vam|ponudimo svaku moguÊu saradnju.
+{18769}{18833}Znam da vama i vaöem komitetu treba|odati priznanje za sve öto...
+{18835}{18887}Gospodine gradonaËelniËe, morate|neöto da preduzmete.
+{18889}{18952}Ne moûe se ovako dalje.|-Ona je u pravu.
+{18981}{19050}Tako je. OdliËno.
+{19051}{19099}Nema tragova, za boga miloga.
+{19101}{19153}Pa, sedam ljudi ga je videlo, je l' tako?|-Jeste, ali...
+{19155}{19219}Da, samo nemoj da mi kaûeö|da neöto ne smrdi u svemu tome.
+{19221}{19293}Znam tri tipa iz gradske veÊnice,|straöni momci kad sve ide kako treba.
+{19294}{19342}Samo nek probaju da zatraûe|moj glas. To je sve.
+{19344}{19450}Jesi li doöao ovde da se brijeö ili da vodiö|kampanju za komesara policije?
+{19452}{19503}Devet sati, vreme je za vesti.
+{19505}{19590}Kao i svako jutro, i danas vam|prenosimo tekst iz 'Morning Record'-a.
+{19592}{19643}Danaönji uvodnik kaûe da policija...
+{19645}{19699}i dalje luta u sluËaju Lambert.
+{19701}{19757}Proölo je deset dana od|brutalnog ubistva...
+{19759}{19813}a joö uvek nema osumnjiËenog.
+{19815}{19886}Dokle Êe graani naöeg grada|trpeti ovakvo stanje stvari...
+{19887}{19950}koje je dovelo do opöteg ogorËenja?
+{20029}{20101}VIdim da policija nastavlja sa svojom|opseûnom i neprekidnom potragom.
+{20103}{20157}Vrte se u krug kao vrteöka...
+{20158}{20209}a tako daleko su i odmakli.
+{20211}{20271}To nije smeöno. TI momci su|javna sluûba...
+{20273}{20330}isto kao ti i ja, i nije im lako.
+{20332}{20394}Mislim da bi trebalo nekog da uhapse.|-A gde bi ga ti traûio, Jack?
+{20396}{20445}Nemam pojma.|-Onda, uÊuti.
+{20636}{20721}Hej, Rachel, jesi li Ëitale|jutroönje novine?
+{20722}{20778}Jesam. Pokupili su nekog tipa u|Centralnoj ulici.
+{20780}{20829}Ne znaju ni koga su uhapsili.
+{20830}{20890}Dok se osvestiö|ima i tebe da uhapse.
+{20892}{20994}Gospoo Jones, da li vaö Tom|zna neöto o sluËaju?
+{20996}{21057}Tom kaûe da su sad krenuli|sa novim pristupom.
+{21059}{21139}Tom kaûe da oni misle da je ubica sigurno,|priliËno dobro znao Oca Lamberta.
+{21141}{21224}Ma daj. Policija ne bi mogla da|uhvati ni svinju u slepoj ulici.
+{21226}{21294}Moûda je vama, dame smeöno|kad olajavate policiju...
+{21296}{21374}ali, sledeÊi put kad budete zvale mog Toma|zbog neËega, ja Êu se setiti ovoga.
+{21627}{21695}{y:i}Lokalna policija , ''Reformska'' administracija|{y:i}NE ZNA SE KO JE VE∆I SLEPAC
+{21700}{21783}Sjajno, Mac. Sjajno. Joö jedna ovakva nedelja i|moûemo da poËnemo da piöemo listu kandidata.
+{21785}{21838}Dave, moûda ti dam Ëak i bonus.|-Sumnjam.
+{21840}{21889}Proöao sam pored gradske veÊnice|dok sam dolazio ovamo.
+{21890}{21938}TrËe naokolo kao muve bez glave.
+{21940}{21988}äta bi tvoji momci radili da|su na njihovom mestu?
+{21990}{22065}TrËali bi naokolo kao muve|bez glave. Zaöto, Mac?
+{22067}{22133}Pa, ne znam. U ovakvom sluËaju ne moûe|baö mnogo da se uradi.
+{22134}{22241}Pa, öta? -Sve mi to deluje kao öutiranje|nekoga ko je veÊ na zemlji.
+{22243}{22297}äta je s tobom?|Ne svia ti se tvoj posao?
+{22299}{22358}Svia mi se.
+{22359}{22407}Onda svoje uvodniËke komentare|Ëuvaj za novine.
+{22409}{22473}Sluöajte, gospodine Wade...|-Samo polako, devojke. Samo polako.
+{22475}{22525}Nemojmo od ovoga praviti|meunarodni incident.
+{22526}{22574}U svim ovakvim gradovima je|uvek sve isto.
+{22576}{22624}Sjaöe Kurta da uzjaöe Murta.
+{22626}{22674}Da se mi vratimo na onaj bonus,|ako veÊ niste zaboravili.
+{22676}{22725}Da se vratimo napravljenje novina.
+{22726}{22813}Treba mi neka nova ideja.|-Dobro, kakav nam je sad pristup?
+{22815}{22895}Svia mi se ono öto si napisao o|politiËarima amaterima, Dave.
+{22897}{22949}O kojoj partiji govoriö?
+{22951}{23030}Zar su igle za kravatu joö|u modi? -Hej!
+{23393}{23467}Hej, Dave, kada Êeö jednom da me|povedeö sa sobom na teren?
+{23469}{23531}Odlazi. Imam posla.
+{23533}{23609}'I policijski komesar je|amaterski igraË golfa.'
+{23611}{23659}Misliö da Êe mu se to svideti?|-BiÊe oduöevljen.
+{23661}{23717}Verovatno Êe doÊi da me potraûu|u golf klubu.
+{23718}{23781}O.|-äta, o?
+{23782}{23830}Ne znam.
+{23832}{23886}Nadam se da ötediö pare, Bill.
+{24075}{24200}{y:i}Reformska Parija se moûe opisati kao|{y:i}'Revnosni amateri'
+{24203}{24328}{y:i}Nedostatak rezultata u sluËaju Lambert|{y:i}prouzrokovala je zbrku u gradskoj veÊnici
+{24437}{24525}Jesi li to ti, dragi?
+{24730}{24781}Kako si, duöo?|-Dobro. äta ima novo?
+{24783}{24832}Niöta naroËito.
+{24931}{25015}äta ima novo u sluËaju Lambert?|-Kotrlja se, nekako.
+{25017}{25097}Nema napretka?|-Ne baö.
+{25099}{25167}Pa da, naravno, sa svim tim|amaterskim pokuöajima...
+{25169}{25247}Amaterskim? Sluöaj me,|ne poËinji...
+{25249}{25325}Baö si mi pametna, je l' da?
+{25327}{25375}Mislio sam da ne kupujemo 'Record'.
+{25377}{25425}»itala sam 'Cooks'.
+{25427}{25491}Svejedno, bilo je na radiju.|-Da, znam.
+{25493}{25550}Stvarno su udarili po nama, zar ne?
+{25552}{25600}Ozbiljno, Henry, stvar je veoma brutalna...
+{25602}{25650}zar je moguÊe da ne mogu|da pronau baö niöta?
+{25652}{25769}Ne. Ali, u ovakvim sluËajevima,|reöenje moûe da iskrsne bilo kad.
+{25770}{25829}Stvarno?|-Ne znam ni sam.
+{25830}{25893}Tako sam Ëuo od drugih.
+{25894}{25942}Dobro. Zaboravimo na to.
+{25944}{26009}Doi i priËaj mi o svom|rekreativnom centru.
+{26010}{26071}Pa, za sad, stvarno, sve ide odliËno.
+{26073}{26121}Paul Harris je obeleûio zemljiöte.
+{26123}{26177}Ceo taj komad pripada istom|agentu za nekretnine...
+{26179}{26229}i mislim da Êemo Ëak moÊi|da sve stavimo u zajedniËki fond.
+{26231}{26294}Pa, neÊeö viöe moÊi da kaûeö kako|nemaö dece sa kojom bi se öalila.
+{26296}{26347}Sada Êeö ih imati na stotine|svaki dan...
+{26372}{26426}Izvini, duöo.
+{26428}{26476}Ni sam ne znam zaöto|sam to rekao.
+{26478}{26528}Valjda sam samo...
+{26608}{26658}Oprosti mi.
+{26860}{26935}VeÊ sam zaboravila.
+{26985}{27041}Ja nisam nkoga zvala.
+{27042}{27102}Gospoja, tu je gradonaËelnik sa joö|nekom gospodom.
+{27155}{27211}Zamoli ih da uu.|-Da, gospoja. Izvolite, molim.
+{27213}{27261}Izvolite, gospodine gradonaËelniËe.|-Zdravo, Madge.
+{27263}{27329}Drago mi je öto vas vidim.|-Zdravo, Paule. Kako si?
+{27330}{27421}Dobro, hvala.|-Nadam se da ne smetamo.
+{27423}{27478}Ne, ni najmanje. OseÊajte se kao|kod svoje kuÊe.
+{27480}{27530}Hvala.
+{27731}{27782}Pa, ne bih voleo da ovde|prodajem 'Record'.
+{27784}{27861}Nije smeöno. Dajemo sve od sebe da ovom|gradu obezbedimo pristojnu vladu...
+{27863}{27912}a Wade nas predstavlja|kao gomilu budala.
+{27914}{27986}Je l' tako, Mac? -Nisi, valjda oËekivao|da Êe da se povuku?
+{27987}{28041}To ti je politika. -Jedino öto ja znam je|da je moja kancelarija...
+{28043}{28097}komiteta za ovo i komiteta za ono|po ceo dan.
+{28099}{28154}NIsam tako vodio ni agenciju za|nekretnine, pa ne mogu ni grad.
+{28156}{28221}Mogu li, Mac? -A ja? Misliö|da ja volim gomile novinara...
+{28223}{28275}koji pokuöavaju da me öËepaju svaki put kad|promolim nos iz kancelarije?
+{28277}{28342}Voleo bih da ga samo jednom promoliö i|kaûeö neöto drugo osim, 'nemamo tragova'.
+{28344}{28405}Stani malo. Moji momci rade...|-'Nema tragova. Nema tragova.'
+{28407}{28455}Samo nastavite da se meusobno|svaate pa Êe sva...
+{28457}{28514}gradska odeljenja poËeti da hvataju|jedno drugo za guöu.
+{28516}{28575}Wadu bi se to baö svidelo.|-Da preemo na posao.
+{28577}{28639}Henry, Mac i ja smo shvatili da je ovo|preveliki zalogaj za nas.
+{28641}{28693}Potrebana nam je pomoÊ.|F.B.I. ili...
+{28694}{28742}F.B.I.?|-Da.
+{28744}{28822}äta je sa naöom, ovdaönjom policijom?|-äta je sa njima? Tapkaju u mestu.
+{28824}{28889}Ne moûete pozvati F.B.I.|Ovo nije savezni sluËaj.
+{28890}{28965}Ne znamo Ëak ni ko je ubica.|-Moramo neöto da preduzmemo.
+{28967}{29023}Ali, naöa policija je jako dobra.
+{29025}{29108}Jedna od najboljih u zemlji. Zar nije bolje da ih|malo podrûimo umesto öto zovemo u pomoÊ?
+{29110}{29206}Slaûem se u potpunosti.|-Ne znam da li si razmiöljao o tome, Henry...
+{29208}{29256}ali, sledeÊi izbori nam|zavise od ovog sluËaja.
+{29258}{29338}Pa, Mac, obeÊali smo im|poötenu vladu.
+{29340}{29382}Ako ne moûemo to da ispunimo...|-U pitanju je princip.
+{29384}{29437}Policija se sve vreme vrti u krug.|-To me, liËno vrea!
+{29439}{29501}Baö me briga da li te vrea ili ne.|A öto se tiËe brbljanja o podröci naöim momcima...
+{29503}{29555}Praviö preveliku guûvu za jednog|naËelnika za druötvene poslove.
+{29557}{29605}Mislim da nije trebalo to da...|-Prestanite!
+{29607}{29683}ZvuËite kao gomila ökolarki.
+{29685}{29733}Koja je tvoja ideja, Henry?
+{29735}{29847}äta ako naöi momci ne uspeju da reöe sluËaj?|äta Êemo onda?
+{29849}{29903}Mac, ako oni ne uspeju, ne znam|kako iko drugi moûe.
+{29905}{29995}To je takav sluËaj. Zaöto im ne bismo, onda, pruûili|priliku da se dokaûe i podrûali ih?
+{29997}{30045}Mislim da je u pravu.|-Ne slaûem se.
+{30047}{30105}Henry zna viöe o sluËaju|nego bilo ko d nas.
+{30106}{30154}Mac, pre manje od jednog sata|rekao si mi...
+{30156}{30246}Predomislio sam se.|Ja poötujem Henryjevo miöljenje.
+{30248}{30327}äta misliö o dve nedelje, Henry?|Misliö li da je to fer?
+{30329}{30391}A öta onda?|-Onda Êemo pozvati nekog drugog.
+{30393}{30506}Ne znam koga, ali nekog drugog.|U redu?
+{30508}{30563}Pivo, gospodo?
+{30590}{30658}Baö lepo od vas.
+{30660}{30780}Ako stvar propadne, liËno Êu tebe|smatrati odgovornim, Henry.
+{30782}{30841}Ti Ëeö mene smatrati odgovornim?
+{30910}{30960}Pivo, gospodo.
+{31085}{31213}{y:i}Izveötaj policije pod unakrsnom|{y:i}vatrom u Skupötini
+{31223}{31279}{y:i}Komesar James nedostupan
+{31289}{31369}Ne interesuje me kako, Robinsone, ali moraö|preduzeti opseûniju akciju.
+{31370}{31433}UkljuËi sve ljude, pozovi|drûavnu policiju, nai bilo koga...
+{31435}{31487}samo da se, öto pre pomerimo|sa mrtve taËke.
+{31489}{31562}Je l' to jasno?
+{31564}{31639}Da, jasno je.
+{31892}{31940}Nadao sam se daÊu te naÊi ove, Robbie.|Moram da razgovaram sa tobom.
+{31942}{31990}Video sam se sa gradonaËelnikom...|-Nisi doöao da razgovaraö sa mnom.
+{31992}{32061}Za sve u sluËaju Lambert, obrati se Whiteu.|-Zaöto bih razgovarao sa Whiteom?
+{32062}{32137}On preuzima.|Ja odustajem.
+{32139}{32210}äta je bilo? -Nekad sam umeo sa ovim|da izaem na kraj.
+{32211}{32301}Ma daj, Robbie. äta je bilo?|-äta je bilo? Niöta.
+{32302}{32350}Osim öto se sve pretvorilo u komplikovani|politiËki sluËaj...
+{32352}{32402}a ja nisam politiËar, ja sam pandur...
+{32404}{32461}pandur koji radi na sluËaju koji|nema nikakvih tragova, ni osumnjiËenih.
+{32463}{32512}Novine ûele akciju, dobro,|evo im onda drugi Ëovek.
+{32514}{32617}Ja sam zavröio s tim.|-Novine progone sve nas.
+{32619}{32673}To sam ti rekao joö pre|dve nedelje.
+{32674}{32725}Ti si im stalna meta|veÊ 20 godina.
+{32726}{32834}Ali me nisu kojekakvi predsednici kojekakvih|privatnih klubova, do sad prozivali svakih 20 minuta.
+{32836}{32899}Thomas Benson James.
+{32901}{32975}NeÊeö sad odustati, Robbie.|-NeÊu?
+{32977}{33037}Ko Êe da me spreËi?|-Ti.
+{33039}{33109}Ti si poludeo.|-Ne, nisam.
+{33110}{33201}Sam si to rekao.|Ti si pandur i to poöten.
+{33203}{33251}I zato neÊeö ostaviti na cedilu|poötene ljude.
+{33253}{33309}Ako misliö na Thomasa Bensona Jamesa...
+{33311}{33402}Da, i na njega. Niko od njih ne zna|mnogo o politici.
+{33404}{33495}Oni su zabrinuti i uzbueni,|ali pokuöavaju da pomognu gradu.
+{33497}{33559}To mogu i bez mene.|-Mislim da ne mogu.
+{33561}{33621}SinoÊ sam razgovarao sa njima|i rekao sam im...
+{33623}{33694}da, ako iko moûe da reöi sluËaj,|onda si to ti.
+{33696}{33751}»ak sam ih naterao da obeÊaju|da Êe ti pruûiti podröku...
+{33753}{33812}bez ikakvog meöanja u|naredne dve nedelje.
+{33814}{33879}Joö dve nedelje. A öta onda?|PozvaÊe Nicka Cartera? -äefe...
+{33881}{33935}Zauzet sam.|-Izvinite, öta Êu sa ovim?
+{33937}{33985}Zauzet sam.|-äta je to?
+{33987}{34058}Karikaturista iz novina. Svedoci su mu|opisali tipa kojeg su videli.
+{34059}{34133}I öta Êeö sad sa tim?-Ne znam ni sam.|StaviÊu u promet, pretpostavljam...
+{34135}{34191}'StaviÊu u promet, pretpostavljam'?|U policiji si veÊ deset godina,
+{34193}{34271}detektiv tri godine, i, i dalje ne znaö|öta treba da radiö?
+{34273}{34349}Napravi normalnu fotografiju od toga i|poöalji je svim urednicima na Istoku.
+{34350}{34398}Izvini. I, poûuri malo.
+{34400}{34489}Da, gospodine.|-ImaÊemo 4.000 osumnjiËenih.
+{34490}{34581}Moûda. Jedan od njih bi mogao|biti naö Ëovek.
+{34582}{34647}Evo, nastavi da veûbaö. Robbie.
+{34649}{34757}Hej, hoÊu da razgovaram sa tobom.|-Mislio sam da Êeö me razumeti, Robbie.
+{35035}{35086}{y:i}äef policije je bio blizu istini...
+{35088}{35167}{y:i}kad je govorio o broju sumnjivih|{y:i}koji Êe biti privedeni.
+{35169}{35226}{y:i}Nije ih bilo na hiljade, naravno,|{y:i}ali poËelo je da curi sa svih strana...
+{35228}{35300}{y:i}i da se stapa u jednu pozamaönu struju|{y:i}a lov na ljude se proöirio...
+{35302}{35437}{y:i}prvo na okolne gradove, zatim na drûavu,|{y:i}i, konaËno, na celu Novu Englesku.
+{35438}{35517}U redu, u redu, poslaÊu auto.
+{35518}{35574}{y:i}Novine, posebno one poput 'Record'-a...
+{35576}{35646}{y:i}koje su poköavale da izvrgnu ruglu|{y:i}Reformsku Administraciju...
+{35648}{35706}{y:i}odrûavale su javno mnjenje|{y:i}na taËki kljuËanja...
+{35708}{35825}{y:i}sve dok svi muökarci koji su nosili tamne kapute|{y:i}i svetle öeöire nisu, automatski postali sumnjivi.
+{35827}{35925}{y:i}Iznosi nagrada koje su ljute graanske grupe|{y:i}nudile bile su dodatni podsticaj...
+{35927}{35999}{y:i}da budu privoeni svi muökarci|{y:i}iz svih druötvenih stalaûa...
+{36001}{36091}{y:i}koji su imali makar i najmanju sliËnost|{y:i}sa navodnim ubicom.
+{36093}{36175}Dobro. Da.
+{36177}{36245}U redu.
+{36246}{36322}{y:i}A, zapravo, otkriveno je jako malo Ëvrstih|{y:i}tragova da bi se krenulo dalje.
+{36324}{36398}{y:i}Trag sa crnim kaputom i svetlim|{y:i}öeöirom bio je slabaöan...
+{36400}{36478}{y:i}a nejasna slika ubice koja se urezala|{y:i}u umove sedmoro oËevidaca...
+{36480}{36586}{y:i}kojoj je umetnik udahnuo ûivot,|{y:i}nije bio niöta ËvröÊi.
+{36588}{36655}{y:i}Postajalo je sve oËiglednije|{y:i}da je, ionako veliki problem...
+{36657}{36721}{y:i}koji je imala policija sa|{y:i}hvatanjem ubice...
+{36723}{36805}{y:i}postajao joö veÊi preterenom|{y:i}revnoöÊu javnosti.
+{36907}{36991}Dobro. Otiöao je na bilijar.|Pa, öta s tim?
+{36993}{37054}{y:i}Telefoni su i dalje zvonili,|{y:i}nesmanjenom ûestinom...
+{37056}{37121}{y:i}u ötabu policije,|{y:i}a automobili su i dalje krstarili...
+{37122}{37205}{y:i}uporno istraûujuÊi svaki trag|{y:i}jurcajuÊi gradom...
+{37207}{37298}{y:i}u potrazi za tajanstvenom osobom|{y:i}vienoj ovde, ili drugoj vienoj tamo.
+{37300}{37393}{y:i}Neöto sumnjivo u ponaöanju,|{y:i}neöto izreËeno...
+{37394}{37484}{y:i}ili, jednostavno Ëinjenica da nose|{y:i}taman kaput i svetli öeöir, bilo je dovoljno.
+{37661}{37734}{y:i}UBICA I DALJE NA SLOBODI|{y:i}Muökarci su punili policijske stanice.
+{37736}{37867}{y:i}Ljuti muökarci, ogorËeni muökarci,|{y:i}poraûeni muökarci i zbunjeni muökarci.
+{37869}{37919}{y:i}Muökarci sa debelim|{y:i}kriminalnim dosijeima...
+{37921}{37998}{y:i}i obiËni muökarci izvuËeni iz|{y:i}uobiËajene koloteËine...
+{38000}{38081}{y:i}postrojavani su pod reflektore|{y:i}na platformi za prepoznavanje...
+{38082}{38189}{y:i}prouËavanim ispitivani i|{y:i}oslobaani...
+{38190}{38247}{y:i}u sve manjoj nadi da bi jedan...
+{38249}{38309}{y:i}samo jedan u tom mnoötvu...
+{38311}{38384}{y:i}mogao biti Ëovek kojeg traûe.
+{38619}{38667}Naravno, gospoo,|nemojte da se predomiöljate.
+{38669}{38717}Evo, odmah Êemo vam poslati|jedan patrolini auto.
+{38719}{38787}Nemoj posle da kaûeö da ti nikad|niöta nisam uËinio. -äta je, nema pite?
+{38789}{38881}Pite? Koliki je rezultat, Dugane?|-Rezultat? 8:5 za tebe.
+{38882}{38942}Ova telefoni zvone kao|vatrogasni alarm.
+{38943}{39011}PoËeli su da vade sumnjive iz rukava.
+{39013}{39129}Evo ih joö. »ak su, jedne veËeri pokupili i mog|ujka Jerryja, a on ima 64 godine!
+{39130}{39183}Je l' kriv?
+{39185}{39273}Policijska stanica. Narednik Dugan.|Samo izvolite, meugradska.
+{39274}{39349}Kladim se da momak koji je ovo uradio|i dalje öeta okolo samozadovoljan.
+{39351}{39401}Sad si ti neki detektiv.
+{39403}{39462}Alo? Ko? O, da.
+{39464}{39582}Samo napred, Ohio.|Da, da.
+{39584}{39649}Odavde? Da.
+{39651}{39701}Da! Au!
+{39703}{39789}Sluöaj, naredniËe, saËekaj malo.|Da, bilo kakva optuûnica.
+{39790}{39841}I ne govori mu niöta.|Tako je.
+{39843}{39891}ZvaÊu te za deset minuta.|-äta je bilo?
+{39893}{39943}Sklanjaj se.|-Ne sluöam!
+{39945}{40002}äefe, Dugan je.|Sluöajte, öefe.
+{40004}{40079}Drûavna policija Ohaja je uhapsila tipa za koga tvrdi|da odgovara liku sa naöe poternice.
+{40081}{40149}Da. Samo öto ovaj tip priznaje da je|odavde otiöao pre tri dana...
+{40151}{40230}i imao je spakovan|piötolj kalibra .32.
+{40232}{40301}U redu. Dobro. IzruËenje.
+{40302}{40365}Hvala, Dugane.|SledeÊi put dobijaö i pitu.
+{40405}{40459}Svi se lepo ispravite.|Dignite glavu.
+{40461}{40515}Hajde. Svi podignite glavu.
+{40638}{40709}HoÊu da ih joö jednom,|paûljivo pogledate.
+{40711}{40761}Ne ûelim da napravimo greöku.
+{40763}{40836}Svi ste sigurni da je to|ovaj Ëovek?
+{40940}{40989}U redu. Ostali su slobodini.
+{40991}{41070}To je sve. Hajde. Izlazite odavde.|-To je sve. Hvala vam.
+{41131}{41179}Ovde su njegove stvari, öefe.|-Napravi spisak.
+{41181}{41257}Nosite taj piötolj kod balistiËara.|-Nema öanse do sutra ujutru.
+{41258}{41321}U redu, onda ga odnesite|rano ujutru. -U redu.
+{41323}{41375}U redu, vodite ga.
+{41377}{41453}äta misliö, Robbie?
+{41454}{41513}Ne znam. VideÊemo.|-Kako to misliö?
+{41514}{41567}Samo smo uhvatili nekog momka.|äta ja, stvarno znam o njemu?
+{41569}{41650}Sedmoro ljudi ga je prepoznalo.|-Da, sedmoro ljudi ga je prepoznalo.
+{41652}{41763}Pa öta? -Ako ti nisi najtvrdoglavija|stara magarËina...
+{41765}{41831}Samo imam malo viöe iskustva.|U tome je stvar.
+{41833}{41890}Pa, samo nemoj da ûuriö.
+{42823}{42873}Ui, pa da poËnemo.
+{43114}{43213}Svima Êe nam biti mnogo laköe ako nam,|odmah ispriËaö celu priËu.
+{43216}{43281}Ali, ja Ëak ne znam ni zaöto|sam uhapöen.
+{43282}{43369}Ako je samo zato öto sanm nosio piötolj...|-Ne, nije u pitanju piötolj.
+{43371}{43427}Zaöto ste me onda, dovukli|ovamo Ëak iz Ohaja?
+{43429}{43486}Imam prava da putujem, zar ne?|-Naravno.
+{43488}{43541}äta hoÊete od mene?
+{43543}{43597}Ovde si pod optuûbom da si|izvröio ubistvo, Waldrone.
+{43632}{43723}äta?|-Sedi. Sedi.
+{43725}{43795}Vi ste ludi.|Nikad nikog nisam ubio.
+{43833}{43883}Da.
+{43979}{44055}Sedmoro svedoka te je identifikovalo kao|Ëoveka koji je ubio Oca Lamberta...
+{44057}{44114}u noÊi, 29-og septembra|u Glavnoj ulici.
+{44116}{44169}Vi ste ludi, kad vam kaûem!|Pustite me! -Sedi!
+{44171}{44229}Prekini!
+{44230}{44295}Samo polako, sine. Sedi.
+{44297}{44359}Ako nisi ti to uradio,|mi Êemo to otkriti.
+{44361}{44426}A ako jesi uradio,|i to Êemo otkriti.
+{44428}{44538}HoÊu advokata.|-DobiÊeö ga, kasnije.
+{44540}{44588}Daj da krenemo od poËetka.
+{44590}{44641}Imaö vremena na pretek...
+{44643}{44701}i nemaö gde da odeö.
+{44703}{44751}I nikad, u ûivotu, nisi video|Oca Lamberta?
+{44753}{44811}Ne. Nikad nisam ni Ëuo za njega dok nisam|proËitao njegovo ime u novinam.
+{44813}{44873}Samo si prolazio kroz grad,|nikad se ovde nisi zadrûavao...
+{44876}{44949}i nikad ranije ga nisi video?|-Ne, kaûem vam. Ja...
+{45035}{45099}Da li ste ikada ranije videli ovog Ëovek?|-Da, jesam.
+{45101}{45157}Kada?|-One sedmice.
+{45158}{45230}Pre nego öto je Otac Lambert ubijen?|-Da, tog popodnevna.
+{45232}{45281}Je l' on to uardio?
+{45283}{45390}Ne znamo joö, gospoo. Hvala vam.|To bi bilo sve, gospoo.
+{45392}{45459}ZnaËi nikad ga ranije nisi video, a?|-Ta gospoa je luda.
+{45461}{45515}Ne, nije.|-Dobro. VIdeo sam ga.
+{45517}{45569}Odrûao mi je pridiku i dao mi nekakav|pamflet, ali, to ne znaËi...
+{45571}{45617}Zaöto nam to nisi ranije rekao?|-Ne znam.
+{45619}{45667}Plaöio sam se.|-»ega si se plaöio?
+{45669}{45723}Ne znam. Jednostavno, plaöio sam se.|-»ega si se plaöio?
+{45725}{45777}Ne znam!
+{45779}{45839}äefe, za sve ovo postoji i|jednostavniji naËin.
+{45841}{45889}Ne. -Ovako gubimo|previöe vremena.
+{45891}{45953}Ne! -U redu!|Vi ste öef!
+{45955}{46019}Ali, tako bi i njemu bilo kaköe|na duûe staze.
+{46021}{46094}Ovako se neÊemo baö naspavati. -Mislio sam|da Êe mi, moûda naÊi neki posao.
+{46096}{46153}Pa, je l' jeste? -Nije. Rekao je da|ne zna ni za kakav posao.
+{46154}{46202}Onda mi je odrûao predavanje i|dao mi pamflet.
+{46204}{46254}I zato si se ti naljutio na njega?|-Naravno da nisam.
+{46256}{46307}A öto si se naljutio? -Nisam se naljutio.|Kaûem vam, nisam bio ljut na njega.
+{46309}{46369}äta pokuöavate da me naterate|da vam kaûem?
+{46371}{46433}Kaûeö da si se vratio kuÊi|iz kuglane...
+{46435}{46483}umio se i, onda veËerao u|'Beloj TaËki'?
+{46485}{46533}Rekao sam vam, 'Kod Andyja'.|-Onda si se odvezao do Glavne ulice.
+{46535}{46596}Nisam se odvezao na pamet. Odöetao sam tamo.|-Dobro, odöetao si. äta onda?
+{46598}{46646}Iöao sam u bioskop.|-U 'Plazu'?
+{46648}{46706}Ne. Da!|-Koji si film gledao?
+{46708}{46765}Vestern.|-Kad si uöao u bioskop?
+{46766}{46814}U 7. Malo posle...|-Dupla predstava?
+{46816}{46864}Da. -Koji je bio|drugi film?
+{46866}{46933}Ubistvo. -Rekao si da si|samo prolazio kroz grad.
+{46935}{46983}Da, samo sam prolazio.|-Momak na benzinskoj pumpi...
+{46985}{47043}kaûe da si radio kod njega|pre dva meseca.
+{47045}{47094}Mislio sam da... ja...
+{47096}{47185}äta to pokuöavate da mi uradite?|-Zaöto nastavljaö da laûeö, sinko?
+{47187}{47241}Znaö da znaju sve o tebi.
+{47242}{47323}Mogu da te uhvate u laûi kad poûele.|Pored toga, sasvim si providan.
+{47325}{47387}Svaki put kad slaûeö, staviö|ruku preko usta.
+{47389}{47441}Ne moûeö se tek tako provuÊi.|-VI ste ludi.
+{47442}{47507}Hajde da se vratimo na piötolj. Rekao si da|si ga kupio pre nego öto si otiöao iz grada.
+{47509}{47587}Da, neposredno, pre nego öto sam otiöao.|Iöao sam na put i...
+{47732}{47798}Ma, nema svrhe...|-Kupio si ga nedelju dana pre ubistva.
+{47800}{47853}ZalagaoniËar kod koga si ga kupio|nam je tako rekao.
+{47855}{47913}Imamo njegovu izjavu koja|to potvruje.
+{48004}{48079}äta Êemo sad, öefe?|-Budite ga i nastavite.
+{48252}{48323}Idemo, opet, sve od poËetka.
+{48329}{48393}Hajde. Prestani da nas zavlaËiö.|-U devet sati mi je krajnji rok.
+{48395}{48455}Momci, nema nikakve svrhe|da visite ovde.
+{48457}{48514}Ja niöta ne znam.|-Pazi da ti ne poverujem.
+{48516}{48607}Uvek pokupe nekog zvekana sa|dva dolara i sedam centi u dûepu.
+{48609}{48677}Kako nikad ne skembate momka sa|öiritom na prsluku?
+{48678}{48733}Otkud ja znam?|-Gospodine Harvey, öta ima?
+{48734}{48789}Kakvo je vaöe miöljenje?|-Pokuöavam i sam da dokonam neöto.
+{48791}{48867}Vidimo se kasnije.|-Znate öta ja mislim?
+{48869}{48934}Mislim da ste vi momci bili toliko oËajni|da ste pokupili prvu propalicu.
+{48936}{48985}Ne bismo iöli Ëak u Ohajo,|ni za kakvu propalicu.
+{48987}{49048}Imamo ih dovoljno i ovde.|-Tako je.
+{49050}{49109}A bar jedna od njih|nosi uniformu.
+{49346}{49394}Ima li neöto, Robbie?
+{49396}{49454}Ne. Celu noÊ smo ga ispitivali.|HoÊeö da pogledaö ovo?
+{49456}{49504}Ne. äta ti misliö?
+{49506}{49583}Nije lako reÊi.|Poznajeö Rainsford, zar ne?
+{49585}{49643}O, da. Vi ste psiholog, zar ne?|-Psihijatar.
+{49645}{49704}äta vi mislite o njemu?|-Nije lako reÊi.
+{49706}{49761}Pod velikim je stresom.|-Da, znam...
+{49762}{49810}ali, da li vam deluje kao|ubica ili ne?
+{49812}{49877}Pa, sasvim je sigurno da laûe,|ali je i preplaöen...
+{49878}{49946}a izgleda i da je viöe, nego öto je to|uobiËajeno, ogorËen i ozlojeen.
+{49948}{50011}Da li je dovoljno ogorËen i ozlojeen|da bi izvröio ubistvo?
+{50013}{50061}Ne bih mogao da kaûem.|Nedavno je izaöao iz vojske.
+{50063}{50111}Time bi se, bar malo, mogla opravdati|njegova ogorËenost.
+{50113}{50169}TeökoÊe pri prilagoavanju|ili moguÊe...
+{50171}{50223}Ili moguÊe, neöto sasvim drugo.
+{50225}{50306}Ja samo ûelim da znam da li je on|ubilaËki tip ili ne?
+{50308}{50374}Bojim se da na to ne mogu da odgovorim.|Nisam siguran da takvo neöto postoji.
+{50376}{50455}Da li ste vi ikad...|Moûda je bolje da to ne pitam.
+{50457}{50567}Verovatno, ne. Nego da se vratimo na neke|egzaktnije nauke. äta je sa piötoljem, Robbie?
+{50569}{50617}Joö niöta ne znam. Rano je.
+{50619}{50679}HoÊeö da odem dole i da ga|malo poteram?
+{50681}{50731}To ne bi bilo loöe. Reci mu|da Ëekamo njegov izveötaj.
+{50733}{50797}Znaö gde mu je kancelarija.|-Dobar dan, gospodine Harvey.
+{50799}{50848}Dobro jutro.|Teöka noÊ, a?
+{50850}{50902}Nego öta!
+{50904}{50953}Prekidamo, öefe.
+{50955}{51003}Tvrd je orah.
+{51005}{51091}Maloney i Herron su sad sa njim.|-Momcima je potrebno malo sna, a?
+{51093}{51149}Kako si ti?|-Ja sam dobro.
+{51151}{51209}Brijanje je dobro kao i noÊni san.|-äefe.
+{51266}{51341}Ova mlada dama tvrdi da ima|nformaciju za vas.
+{51343}{51428}Izvinite? Ja sam ovde doöla|dobrovoljno.
+{51430}{51478}U redu je, Charlie.
+{51480}{51567}Monahan me je zvao zbog vas.|-Gospoica... Nelson, zar ne?
+{51569}{51617}Da.
+{51619}{51690}Jeste li spremni?|-Naravno.
+{51692}{51749}Onda si otiöao kuÊi?|-Onda sam otiöao kuÊi da se istuöiram.
+{51750}{51846}A posle toga si otiöao na veËeru?| VeËerao si. -Rekao sam vam veÊ sto puta.
+{51848}{51896}Reci nam ponovo.|-Pustite me da spavam.
+{51898}{51977}VeËerao si.  -VeËerao sam|'Kod Andyja', a onda sam odöetao...
+{51978}{52045}Je l' to taj Ëovek?|-Jeste, to je Tony.
+{52046}{52117}Da, poznaje me.|Reci im.
+{52118}{52202}U noÊi kada je Otac Lambert ubijen,|neposredno pred pucanj...
+{52204}{52267}ovaj Ëovek je proöao pored|vaöeg restorana, je l' tako?
+{52269}{52370}Da. Bilo je oko 7:20.|Proöao je pored i mahnuo mi je.
+{52372}{52430}SeÊam se, jer  odmah|posle toga ja...
+{52432}{52485}Ovo nije moguÊe. äta je sa njom?|-Zaveûi.
+{52486}{52541}Pusti ga, Johnny.|Od prilike nedelju dana kasnije...
+{52544}{52594}doöao je kod vas i rekao vam|da odlazi iz grada.
+{52596}{52649}Da. Pomislila sam kako je to|malo Ëudno.
+{52650}{52700}Bili smo zajedno oko mesec dana...
+{52702}{52779}a onda, jednog popodneva on samo doe|i kaûe kako odlazi iz grada...
+{52781}{52835}tek tako.
+{52837}{52895}Momci, jednostavno, meni|ne rade takve stvari.
+{52897}{52973}äta kaûeö na to, Waldrone?|-Na öta? Laûe.
+{52974}{53031}A o odlasku iz grada?|-éeleo sam da odem iz grada.
+{53033}{53094}Malo iznenada, zar ne?|-Nije. Nisam imao posao.
+{53096}{53149}Ponudila sam mu posao|kod mene u kafeu.
+{53151}{53213}Nisam izaöao iz vojske da bi|traûio sreÊu u nekom buavom kafeu.
+{53214}{53265}Buavom? Pitajte ga samo|koliko je buav!
+{53267}{53330}Pitajte ga zaöto je, onda,|jeo tamo tri obroka dnevno?
+{53332}{53380}I joö je bio svaki put sreÊan i jeo je sve|dok mu ne pripadne muka!
+{53382}{53419}A onda je mislio da moûe|tek tako da mi da kopru!
+{53421}{53478}Vodite je odavde!|-To bi bilo sve, gospoice.
+{53480}{53540}Ako vam zatreba moja pomoÊ,|ostaviÊu telefon kod narednika.
+{53608}{53668}Pokvarena, prevarantska...
+{53714}{53775}Ti si se baö uvalio u svakakve|nevolje, je l' da?
+{53891}{53981}Nije mu baö pomogla oko alibija.|-Ne, nije.
+{53982}{54078}Ali, ne bih voleo da odem na sud i|da zavisim od iskaza te devojke.
+{54080}{54135}Neöto tu nije u redu.|Jednostavno, nije u...
+{54137}{54201}Hey, Robbie, dobili smo.|-äta?
+{54202}{54253}Metak je ispaljen iz njegovog piötolja.|-Tako je, öefe.
+{54255}{54351}Johnston reËe da Êe nam poslati kompletan|izveötaj u roku od sat vremena.
+{54353}{54443}To je, onda, to. -Ja Êu da mu diöem za vrat,|sve dok ga ne zavröi.
+{54445}{54533}To je, onda, to.|Sada Êe priznati.
+{54535}{54603}Idemo, doktore.
+{54605}{54662}Ali, ranije si nam rekao da ti je bilo|dosta crne berze.
+{54664}{54713}Podignite mu glavu.|-Bilo ti je dosta maltretiranja.
+{54715}{54773}Bilo ti je dosta milostinje i saveta,|vrealo te je öto ljudi...
+{54775}{54853}imaju novac i dobre poslove a ti si|iz vojske izaöao bez iËega.
+{54855}{54938}Razmiöljao si osvemu i reöio da kupiö piötolj.|-Nisam razmiöljao. Pustite me da spavam.
+{54939}{54995}Kupio si piötolj sa namerom da se obraËunaö.|-Nisam ga zbog toga kupio.
+{54997}{55053}Kad si video Lamberta na ulici,|on je za tebe bio oliËenje...
+{55055}{55131}svake milostinje, svakog saveta,|i u besu si ga ubio.
+{55133}{55185}Molim vas, pustite me da spavam.|-Samo joö malo. Zar nije tako bilo?
+{55186}{55234}Ne, otiöao sam...|-Zar nije tako bilo?
+{55236}{55347}Zar nije tako bilo?|-Dovro, dobro, dobro, dobro.
+{55349}{55399}Stenograf.
+{56484}{56552}Kakav naËin da se neöto zaradi.
+{56590}{56653}{y:i}MRTVOZORNIK|{y:i}SluËaj 'Narod Drûave Connecticut...
+{56654}{56718}{y:i}protiv Johna Waldrona|{y:i}odvijao se munjevito.
+{56720}{56799}{y:i}Zakonska procedura ove drûave|{y:i}zahtevala je mrtvozornikovu istragu...
+{56801}{56872}{y:i}Ëiji su nalazi podneöeni okruûnom sudu.
+{56874}{56967}{y:i}Ako su njegovi dokazi bili Ëvrsti|{y:i}sluËaj bi se prebacivao na viöu instancu...
+{56969}{57029}{y:i}gde bi drûavni tuûilac preispitao|{y:i}sve Ëinjenice i odluËio...
+{57031}{57110}{y:i}da li Êe se protiv osumnjiËenog|{y:i}podneti optuûnica.
+{57177}{57225}Vi ste gospodin Graham Rogers?|-Da, gospodine.
+{57227}{57333}Koliko dobro ste videli ovo ubistvo?|-Upravo sam zatvarao svoju radnju.
+{57334}{57382}Morao sam se okrenuti istog trenutka.
+{57384}{57442}Vi ste odlazili od Oca Lamberta,|gospodine Cary.
+{57444}{57545}Proöao sam pored njega, ali sam se okrenuo|Ëim sam Ëuo pucanj.
+{57547}{57597}A vi ste bili preko puta,|gospodine Lukash?
+{57599}{57721}Moja ûena i ja smo Ëekali autobus|na drugoj strani ulice.
+{57723}{57805}»uli smo pucanj. -A gospodine Cartucci,|vi ste pokuöali da ga zaustavite?
+{57806}{57878}Da sam naiöao samo par sekundi ranije,|uhvatio bih ga.
+{57880}{57951}SkoËio sam na njega, ali je bio|malo prebrz.
+{57953}{58009}Ali, ja sam mislio da ste vi, odmah|preöli ulicu, gosoo Lukash?
+{58011}{58086}Bilo smo öokirani, na trenutak|smo samo stajali.
+{58088}{58157}A onda dok smo prelazili ulicu|ka Ocu Lambertu...
+{58159}{58231}Proöao je pored vas, trËeÊi,|gospodine Callahan?
+{58233}{58294}Za malo da me obori.
+{58296}{58361}Da sam znao zaöto trËi,|ja bih se obesio na njega.
+{58363}{58412}A vi ste bili malo preplaöeni,|gospoice Neilson?
+{58414}{58494}Bila sam, na smrt preplaöena, ali sam ga|videla kako trËi niz ulicu...
+{58496}{58544}sve dok nije nestao u senci.
+{58546}{58623}Na osnovu vaöeg balistiËkog iskustva,|gospodine Johnson...
+{58625}{58675}i na onovu eksperimenata koje ste izvröili|sa ovim oruûjem, vi biste rekli...
+{58677}{58738}da je metak ispaljen iz|ovog piötolja.
+{58740}{58817}Da, sasvim sigurno.|-Hvala vam, gospodine. To je sve.
+{58818}{58880}äefe Robinson, molim vas,|zavedite ovaj dokaz.
+{58882}{58965}äefe Robinson, da li Êete posvedoËiti da je|ovo priznanje koje su uzeli vaöi ljudi?
+{58967}{59033}Nisam niöta priznao! Naterali su me|da potpiöem! -To saËuvajte za sud, mladiÊu.
+{59035}{59084}Vodite ga odavde.
+{59184}{59259}John Waldron se ima zadrûati u|policijskom pritvoru.
+{59261}{59318}SluËaj Êe biti prebaËen na|okruûni sud.
+{59320}{59389}Postupak je okonËan.|To je sve.
+{59479}{59614}Pa, öta ti misliö? -Ovo je, skoro najsavröeniji|sluËaj koji sam ikad imao, Robbie.
+{59616}{59693}Hvala. I ja sam iznenaen|kao i svi ostali.
+{59694}{59751}Mene jeste nasamario.
+{59753}{59802}äteta. Mali ima i savröen|vojni dosije.
+{59804}{59857}Da, baö öteta.|-Sjajno, Robbie.
+{59859}{59909}Ponosni smo na tebe.|-Hvala.
+{59911}{59983}Baö sam krenuo do gradonaËelnika|i ostalih.
+{59985}{60051}Svi su sreÊni kao gomila klinaca.
+{60053}{60098}Ne bih ja baö toliko trËao|pred rudu, Mac.
+{60100}{60183}Samo onoliko koliko treba.|Ja bih malo poûurio sa optuûnicom, Henry.
+{60185}{60270}Znaö, malo bih ubrzao stvari.|-UradiÊu sve öto mogu.
+{60272}{60323}Treba mi samo nekoliko dana|da pregledam sve dokaze.
+{60325}{60393}HoÊeö li razgovarati sa momkom?|-Sa kim? Waldronom? Zaöto?
+{60394}{60466}Mogao bi da prokljuviö na koji|naËin misli da se brani.
+{60468}{60516}Dobra ideja.|Moûda si u pravu.
+{60518}{60588}Kladim se da Êe Waldron biti|oduöevljen kad me vidi.
+{60795}{60873}Skroz do kraja, gospodine Harvey.|∆elija broj tri.
+{61108}{61219}Moje ime je Harvey, Waldrone. Ja sam drûavni tuûilac,|Ëovek koji Êe zastupati optuûbu.
+{61221}{61281}äta hoÊete? -Voleo bih da Ëujem|tvoju stranu priËe.
+{61283}{61373}Moûda pomogne da razjasnimo neke stvari.|-Moju stranu? Zavitlavate me?
+{61374}{61448}Moja strana je da ja to|nisam uradio.
+{61450}{61526}Znaö, otiöao si iz grada u|malo Ëudno vreme.
+{61592}{61677}Napustio sam grad kad sam ûeleo|zato öto sam tako ûeleo.
+{61679}{61774}To je, svakako tvoje pravo, ali u ovakvoj|situaciji, oni ûele da znaju zaöto.
+{61806}{61873}Rekao sam im zaöto.|U potrazi za poslom.
+{61875}{61957}Ali, imao si i ovde nekakve poslove.
+{61958}{62042}Tako je. Radio sam ja i ovde.
+{62044}{62142}Benzinska pumpa, voûnja kamiona.
+{62144}{62214}Pa?
+{62216}{62324}Shvatite, gospodine, pet godina sam|proveo u vojsci.
+{62326}{62442}Pet godina. To znaËi pet godina|van normalnog sveta.
+{62444}{62526}Nisam ûeleo da radim na pumpi,|niti da ganjam kamione.
+{62528}{62612}éeleo sam da se kreÊem. Morao sam|mnogo toga da nadoknadim.
+{62614}{62678}Morao si odnekud poËeti.|-Postanete nestrpljivi.
+{62680}{62778}Shvatate? Morate da se pokrenete.|Ne moûete viöe da Ëekate.
+{62780}{62902}Viöe nisam klinac, i...|-äta si hteo da radiö?
+{62935}{62985}Ne znam.
+{62987}{63035}Mislio sam, samo da odem nekuda.
+{63037}{63127}Da poËnem neki mali posao.|Da probam da postanem neko.
+{63188}{63238}Imao sam i neku ideju.
+{63296}{63356}Sve sad to viöe nije vaûno,|propustio sam svoju öansu.
+{63358}{63432}Ko visoko leti, nisko pada.|Sad je, ionako sve to bez veze.
+{63482}{63579}Ali, to je bio tvoj piötolj.|-Jeste. Moj piötolj.
+{63581}{63678}I svi oni ljudi su me videli. -Kao i ona|mlada dama iz kafea 'Coney Island'.
+{63680}{63764}'Mlada dama'. Ta dama?|Zaöto njoj verujete a ne meni?
+{63766}{63838}Rekla je da te zna i da si|proöao pored njenog izloga.
+{63840}{63888}Laûe Ëim zine.
+{63890}{63942}Dao sam joj korpu.|Sad pokuöava da mi se revanöira.
+{63976}{64027}»ekaj malo. Priznao si.
+{64029}{64110}Naravno da sam priznao. Posle dva dana|u onoj rupi, priznao bih bilo öta.
+{64112}{64161}äta hoÊete? Da vam sve,|opet ispriËam? -U redu.
+{64163}{64241}Gubite se odavde. Znam ja öta vi hoÊete.|HoÊete da me obesite!
+{64242}{64290}HoÊete da vam kaûem da sam|ga ja ubio? U redu!
+{64292}{64355}Ja sam ga ubio! Hajde sad,|obesite me! Obesite me!
+{64775}{64841}{y:i}Tako je, iz oËiglednih razloga|{y:i}hapöenje Johna Waldrona...
+{64843}{64904}{y:i}primirilo sve napade na|{y:i}reformistiËku vladu.
+{64906}{64977}{y:i}Ali, dobar poliËar je kao|{y:i}dobar bokser....
+{64979}{65037}{y:i}i ne predaje se do poslednjeg gonga.
+{65038}{65143}Ovo je gospodin O'Shea. Upravo je naimenovan|za drûavnog branioca u sluËaju Waldron.
+{65145}{65214}On Êe meni dati intervju a ja Êu njemu|pokazati neke udarce u golfu.
+{65216}{65281}Drago mi je da smo se upoznali, gospodine.|-Hvala. Sedite, momci. Sedite.
+{65282}{65380}Dobro Êe mi doÊi malo druötva.|Oh, izvinite, Mabel.
+{65382}{65473}O'Shea. O'Shea.|To mi je poznato odnekud.
+{65476}{65547}éenska Liga Votersa, gospodine.|-Liga?
+{65549}{65656}éene Votersa.|-O, da, iz okruga Lawnwood.
+{65658}{65732}Da, da, uvek mi je drago da upoznam|iskrenog Ëlana partije.
+{65734}{65794}Pa, trudim se, gospodine.|-Harry misli da moûe da oslobodi Waldrona.
+{65796}{65861}Ja mislim da se pozovem na|privremenu neuraËunljivost, gospodine.
+{65863}{65931}Mislim da bi moglo da upali.|-NeÊe uspeti.
+{65933}{66018}Izvinite öto se meöam, ali mislim|da ste krenuli pogreönim putem.
+{66020}{66087}Ali, postoji neka öansa.|-Da?
+{66089}{66167}O'Shea, taj momak, Waldron|je vojni veteran.
+{66169}{66240}Nikad niko nije obesio bivöeg vojnika.|-Ako je ubio Ëoveka, obesiÊe ga.
+{66242}{66341}Dave! O'Shea, ja... ja mislim|da neöto zaboravljamo.
+{66343}{66421}Svi zaboravljaju. Ovaj momak|je sluûio svojoj domovini.
+{66423}{66505}Proveo je dve godine u hladnoÊi i blatu|po evropskim bojiötima.
+{66506}{66557}Na Juûnom Pacifiku.|-Pa, joö gore.
+{66559}{66648}Kopajte malo po njegovom vojnom dosijeu.|Pogledajte gde je sve bio...
+{66650}{66721}öta je radio i kakve je sve|nagrade dobio.
+{66722}{66775}Moûda ne bi bilo loöe da mu obuËemo|uniformu za proces.
+{66777}{66834}O, to bi bilo baö lepo.|-Dobro. Zaboravite.
+{66836}{66915}Ali, ipak procunjajte malo po ratnom dosijeu.|-Izvanredno, gospodine Wade.
+{66917}{66988}Naravno da hoÊu.|-U redu i krenite, veÊ jenom.
+{66990}{67074}Pa, naravno da hoÊu. I, ovaj, jako mi je|drago öto smo se upoznali, gospodine Wade.
+{67076}{67127}Znam.
+{67129}{67188}NaÊi Êemo se na Ëaju.
+{67222}{67337}On je dobar momak.|Radi sve öto mu se kaûe.
+{67338}{67405}Jesi li zato hteo da ti dovedem|ovamo tog punoglavca?
+{67407}{67486}Posmatrao sam Harveya celu nedelju.|Sve je lepo skrojio.
+{67488}{67553}A pored toga, tu je joö jedna sitnica,|Waldron jeste kriv.
+{67555}{67610}Ne misliö, valjda, da Êe|bilo koja porota na svetu...
+{67612}{67705}osuditi momka koji je svoje najbolje godine|proveo sluûeÊi drûavi?
+{67707}{67755}Baö me briga da li je kriv,|ili ne.
+{67757}{67805}Moram da dobijem ove izbore...
+{67807}{67871}a jedini naËin da to uËinim je|da ocrnim Harveya.
+{67873}{67922}I joö uvek, moûeö mirno da|spavaö noÊu?
+{67924}{68037}Sve dok ovde postoji toliko ljudi,|kao öto si ti, mogu.
+{68039}{68090}Vidimo se.
+{68228}{68283}{y:i}WALDRON ∆E SUTRA BITI OPTUéEN|-To bi bilo sve, a, Stoney?
+{68285}{68339}Piötolj, metak, izjava,|priznanje.
+{68341}{68409}»ekam  joö par nalaza iz laboratorije,|ali to bi, uglavnom, bilo sve.
+{68411}{68486}Dobro, daj da preemo sve|koö jednom. HoÊemo li da...
+{68488}{68551}Pogledaj ga samo kako radi.|»ovek je za primer.
+{68553}{68625}Zdravo, Mac, Paul. To je sve, Stoney.|Posle Êemo preÊi sve...
+{68627}{68682}äta ti radiö, preselio si se ovde?
+{68684}{68741}Izgleda kao da je tek sad saznao|da mora da plati porez na dohodak..
+{68743}{68804}Drago mi je öto si doöao, Mac.|Hteo sam o neËemu da popriËam sa tobom.
+{68806}{68861}Pucaj.
+{68862}{68926}Radi se o onom momku u zatvoru.|-On je fin deËko, Paul.
+{68928}{68976}Samo je previöe zabrinut.|Slaûeö li se?
+{68978}{69033}Naravno.|-Ne radi se o tome, nego...
+{69035}{69094}Recite mi, öta vam je?
+{69096}{69150}Da mu kaûem, Paule?|-Nemoj da se stidiö.
+{69152}{69206}äta je bilo?|-Da li bi voleo da budeö guverner?
+{69208}{69272}äta?|-Baö to, Henry.
+{69274}{69353}äta je bilo? Ne ûeliö?|-Naravno da ûelim.
+{69355}{69429}Ali, ja nisam... -OËi cele drûave Êe,|sutra biti uperene u tebe, Henry.
+{69431}{69510}A ja sam veÊ razgovarao sa ljudima iz Hartforda,|New Heavena... -On to moûe, Henry.
+{69512}{69570}I mi Êemo mu pomoÊi.|-Guverner.
+{69572}{69646}Nemamo baö mnogo dobrih ljudi,|mnogo poötenih ljudi u politici.
+{69648}{69702}A kad imamo, onda volimo|da ih, malo poguramo.
+{69704}{69802}Hvala, Mac, ali ûelim neöto jako vaûno...|-VeËeras ne razmiöljaj o tome.
+{69804}{69862}Imaö posao koji moraö sutra da obaviö.|Hajde, Paul. Idemo.
+{69864}{69939}I, za boga miloga, odspavaj malo.|Ovo soba liËi na brlog divljeg vepra.
+{69941}{70037}Hej, Mac... -Opusti se, Henry. Samo polako.|Pusti miöiÊe da se malo opuste.
+{70060}{70085}Samo malo, Mac.
+{70087}{70155}VideÊemo se posele posle optuûnice.|-Laku noÊ, guverneru.
+{70157}{70205}Vodim te kod Moriartyja na beËku.
+{70207}{70268}Ne, ja Ëastim.
+{70418}{70477}Svi navijamo za tebe,|Henry.
+{70479}{70554}Baö mi je drago öto si ti tuûilac.|Imamo  poverenja...
+{70607}{70666}Moûete otvoriti zasedanje,|gospodine öerife...
+{70668}{70741}Da, da, da, da... Uvaûeni Viöi sud|drûave Connecticut...
+{70743}{70795}je otvoren i poËinje sa|zasedanjem.
+{70797}{70908}Sve osobe koje imaju öta da kaûu biÊe, po zakonu |pozvane da se pojave pred ovim sudom.
+{70938}{70981}Sedite, molim vas.
+{71170}{71247}Gospodine drûavni tuûioËe.
+{71249}{71320}Ako Vaöa Visost dozvoli, ovog popodneva bih|ûeleo da vam iznesem...
+{71322}{71410}sluËaj 'Drûava protiv Johna Waldrona'.
+{71412}{71479}22-og oktobra, ove godine...
+{71481}{71529}sluËaj optuûenog je prebaËen na ovaj sud...
+{71531}{71618}iz gradskog suda, s optuûnicom|ubistvo prvog stepena...
+{71620}{71681}a u vezi sa smrÊu sveötenika|Georgea A. Lamberta...
+{71683}{71757}pastora Protestantske episkopske crkve|Svetog Kristofera...
+{71759}{71807}u ovom gradu.
+{71809}{71895}Moj asistent je nacrtao skicu|mesta zloËina.
+{71897}{71954}Sve Ëinjenice ovog sluËaju|ukazuju da je...
+{71956}{72021}te veËeri, 29-og septembra...
+{72023}{72103}Otac Lambert kao i obiËno|öetao... ovuda.
+{72165}{72227}Pa, momci poËelo je.|-kako ide?
+{72229}{72277}Sjajno. Harvey sve drûi|pod kontrolom.
+{72279}{72327}Onda nije prerano za  jednu|malu proslavu?
+{72329}{72414}Za slavlje nikad nije prerano. -Mac, piÊe.|-Sad mi je pao kamen sa srca.
+{72416}{72464}I meni.|-Izvolite, momci.
+{72466}{72514}Progonitelji su ovde odustali...
+{72516}{72609}i ubica je nestao bez traga,|od prilike ovde.
+{72611}{72693}John Waldron se pojavio 18 dana|kasnije u Ohaju...
+{72695}{72757}odakle je izruËen naöem gradu.
+{72759}{72859}Pod ovim okolnostima, isledniku Ryanu|nije preostalo niöta drugo...
+{72861}{72918}nego ono öto je, posle|ispitivanja i uradio...
+{72920}{73017}a to je da optuûi osumnjiËenog za|ubistvo Oca Lamberta.
+{73019}{73077}Islednik je, sasvim logiËno...
+{73078}{73141}podelio ceo sluËaj na öest taËaka...
+{73143}{73205}koje se, u kratko, svode na sledeÊe.
+{73207}{73307}Prvo, Waldrona je videla njegova poznanica,|gospoica Irene Nelson...
+{73309}{73377}unutar bloka u kojem je doölo|do pucnjave...
+{73379}{73443}nekih pet do deset minuta pre ubistva.
+{73445}{73590}Drugo, ubica je nosio taman kaput i|svetli 'fedora' öeöir.
+{73592}{73647}TreÊe, svedoci...|gospodin Graham Rogers...
+{73649}{73749}gospodin Thomas Callahan i gospodin|i gospoa Paul Lukash...
+{73751}{73819}su videli samu pucnjavu.
+{73821}{73910}»etvrto, ovi svedoci,|plus Romulo Cartucci...
+{73912}{73984}gospoica Greta Neilson|i gospodin Eugene Cary...
+{73986}{74072}su svi identifikovali Waldrona u|policijskoj stanici...
+{74074}{74157}kao Ëoveka kojeg su videli kako beûi|sa mesta zloËina.
+{74193}{74283}Peto, Waldron je dao pismenu izjavu...
+{74285}{74337}kojom priznaje zloËin.
+{74339}{74439}äesto, revolver pronaen kod Waldrona...
+{74441}{74504}bilo je kalibra .32...
+{74506}{74556}i oruûje iz kojeg je metak...
+{74558}{74631}koji je izvaen iz glave ubijenog, ispaljen.
+{74633}{74691}Svi nalazi koji su dobijeni u|gradskom sudu...
+{74693}{74739}i dokazi koje je islednik izneo,|doveli su do toga da je...
+{74741}{74835}bilo sasvim prirodno da moja|kancelarija reaguje.
+{74837}{74912}Dokazi protiv osumnjiËenog|deluju sasvim Ëvrsti.
+{74914}{74983}Kad se sve sagleda, u najmanju ruku,|ovaj sluËaj deluje skoro savröen...
+{74985}{75068}i ne predstavlja nikakav problem|za uspeöno zastupanje optuûnice.
+{75070}{75149}Moj liËni stav je, svakako bio da,|ako se sve gore navedene Ëinjenice...
+{75151}{75219}dokaûu naknadnim proverama...
+{75221}{75313}optuûeni je, van svake sumnje, kriv.
+{75314}{75376}Ali, ovde postoje i odreene okolnosti...
+{75378}{75449}kao öto je neobiËna liËnost optuûenog...
+{75450}{75503}zbog Ëega je od, izuzetne vaûnosti...
+{75505}{75583}da se sve prikupljene Ëinjenice|razmotre izuzetno pomno...
+{75585}{75650}i, apsolutno nepristrasno.
+{75689}{75748}Nije ni potrebno govoriti...
+{75750}{75802}da je od ogromne vaûnosti|za drûavnog tuûioca...
+{75804}{75882}da upotrebi svu moÊ svoje kancelarije...
+{75884}{75972}kako bi zaötitio nevine,|kao i osudio krive.
+{76058}{76137}Vaöa Visosti, uloûio sam ogroman napor|da ovom sluËaju pristupim...
+{76139}{76193}bez ikakvih prethodnih predrasuda.
+{76195}{76286}LiËno sam ispitao sve svedoke...
+{76288}{76360}i sa, duûnom paûnjom,|ispitao sve dokaze.
+{76427}{76536}Ako Vaöa Visost dozvoli, ubeen sam da|je optuûeni nevin...
+{76538}{76598}i, ja verujem da Êe se on|tako i izjasniti.
+{76770}{76830}Jesi li ti poludeo?
+{76832}{76976}Mir u sudnici! -Sud se raspuöta|do sutra ujutru u 9 sati.
+{76978}{77066}Ako se, kojim sluËajem, ponovi|ovakvo, besprizorno ponaöanje...
+{77068}{77139}öerif Êe isprazniti sudnicu...
+{77141}{77223}i suenje Êe se odvijati|bez prisustva javnosti.
+{77225}{77332}Gospodine drûavni tuûioËe,|molim vas, doite u moje odaje.
+{77416}{77475}Sud se raspuöta.
+{77686}{77747}Svedoci, to bi bilo sve.|Moûete daidete.
+{77902}{77954}Ja sam mislio da je on|promenio pristup sluËaju.
+{77956}{78029}Ne moûe, a? Upravo jeste!|TaËno to se i dogodilo.
+{78031}{78083}To ti i govorim!|-Svi su poludeli.
+{78085}{78153}ReÊi Êu ti öta Êu. NaÊi Êu Harveya,|pa Êu ti se javiti!
+{78154}{78204}Da?|-Otkud ja znam?
+{78206}{78271}Pa, dobro, onda nai Johna|i reci mu.
+{78273}{78327}Da, tako je.|Ovde je uûasna buka.
+{78329}{78377}Ne Ëujem sam sebe öta mislim.
+{78426}{78478}Dugo se poznajemo, Henry...
+{78480}{78534}i oduvek sam te poötovao kao|sposobnog Ëoveka.
+{78536}{78653}Ali, ovde mi neöto ne miriöe baö najbollje.|-Mislim da sam za vreme...
+{78655}{78706}Samo nemoj da mi priËaö o|svojim zakonskim pravima.
+{78708}{78790}Dovoljno dugo sam veÊ sudija da znam|öta sve moûeö a öta ne.
+{78792}{78880}Ti predstavljaö dva miliona stanovnika|ove drûave...
+{78882}{78958}u suenju za izuzetno|brutalno ubistvo...
+{78960}{79027}i ja Êu se, svakako postarati da njihova|prava budu zaötiÊena.
+{79029}{79134}Ne pretvaram se da znam tvoje motive|zaöto si zatraûio odbijanje optuûnice.
+{79136}{79236}Ali, ako su oni politiËki, ne samo da Êu preduzeti|odreene korake kako bi ti se oduzela dozvola za rad...
+{79238}{79328}nego Êu dati sve od sebe da budeö i|optuûen za zloupotrebu poloûaja.
+{79434}{79522}Sasvim je moguÊe da su|moji motivi politiËki.
+{79524}{79581}Ali je isto tako moguÊe i da|mislim da je Ëovek nevin.
+{79583}{79662}Gospodine Harvey, bolje bi bilo da viöe radite|a manje razmiöljate.
+{80386}{80445}Zaöto nam ga ne predaö, Whitey?
+{80447}{80502}Prekinite, momci.
+{80504}{80564}Ne radite to.|Okanite se Êorava posla!
+{80566}{80639}Dobro Êemo se pobrinuti za njega.|-NeÊe moÊi.
+{80641}{80694}Poznavao si Oca Lamberta, Whitey.|-Ne mogu tako.
+{80696}{80749}NeÊeö mu, valjda dozvoliti da se izvuËe.|-Sklanjaj ruke s mene!
+{80751}{80845}Prekinite! Momci, ne ponaöate se|baö najpametnije.
+{80848}{80966}Bili smo prijatelji Oca Lamberta.|NeÊe nam se tek tako izvuÊi.
+{80968}{81018}Mislim da se Lambertu ne bi svidelo|kako se ponaöate.
+{81020}{81077}A öta ako ga odvedemo?
+{81079}{81159}Onda Êe, boga mi, biti i povreenih.|HoÊeö li ti da budeö prvi?
+{81248}{81314}Ne moraö odmah da|pretiö silom.
+{81316}{81364}Tako je. Ne moram.
+{81397}{81447}Izvinite.
+{81482}{81532}U redu, vodite ga.
+{81667}{81752}Tako, a sad, zaöto se ne bismo|svi raziöli svojim kuÊama?
+{81754}{81811}Hajde! Prekinite, odmah.|Razlaz! Idemo!
+{81813}{81898}Idemo! Idemo!|Idemo! Hajde!
+{81900}{81971}Hajde! Mrdni malo! I ti!
+{81973}{82042}Svi kuÊi! Hajde!|Svi, razlaz!
+{82198}{82264}Na trenutak sam pomislio da se|sprema nevolja, Robbie.
+{82265}{82333}Ma, jok. Sa takvima ja lako|izaem na kraj.
+{82335}{82392}Sa njima mi je lako.|-äta je bilo, Robbie?
+{82393}{82476}ZvuËiö mi ogorËeno. -OgorËen?|Ja? Zaöto bih ja bio ogroËen?
+{82477}{82529}Ja sam pandur, gospodine Harvey.|Niste, valjda, zaboravili?
+{82531}{82589}Poöten pandur koji vodi|raËuna o poötenim ljudima.
+{82590}{82672}Sluöaj me, Robbie... -Ne. Ovaj put, ne.|Dosta mi je sluöanja.
+{82673}{82761}Imamo naöeg Ëoveka i osudiÊemo ga,|makar to potrajalo i 10 godina.
+{82763}{82857}I uopöte me ne interesuje kakve smicalice ti,|i ostali iz tvog druötva izvodite.
+{82859}{82917}Ja se nikad nisam bavio|poliikom.
+{83004}{83081}zaöto si, onda, sve nas upetljao u to?|äta to pokuöavaö da uradiö?
+{83083}{83165}Ne poËinji, ponovo, Mac. Ne ûelim da priËam|o tome. -Wade je razgovarao sa tobom. Moûda...
+{83167}{83231}Ovo je veÊ drugi put danas da me neko|optuûuje za politiËku obmanu...
+{83233}{83291}i od toga mi je muka.|-Onda, u Ëemu je ötos?
+{83293}{83367}Nema, ötosa, Mac, nema nikakvog|drugog pristupa sluËaju.
+{83369}{83437}Samo, sluËajno, verujem da je momak nevin.|-Moûeö li to da dokaûeö?
+{83439}{83500}Ne znam. Mislio sam da sluËaj ide|savröeno, kao po loju.
+{83501}{83569}A onda, sasvim iznenada, sve mi se vratilo|i udarilo me pravo meu oËi.
+{83571}{83623}Jednostavno, ne znam. -Daj da|razmislimo o tebi na trenutak.
+{83625}{83720}äta Êeö ti da radiö? Da upropastiö dve godine|napornog rada? Da baciö karijeru pod noge?
+{83721}{83789}Radi se o momkovom ûivotu, Mac.|-Ako je nevin...
+{83791}{83843}NemouÊe da je nevin.|Sam si rekao da imaö savröen sluËaj.
+{83845}{83893}A Ëak i ako je nevin,|kakve veze ima?
+{83895}{83961}RaöËistili smo ceo grad, poizbacivali|sve propalice i  skitnice.
+{83963}{84023}Napravili smo od ovog grada sasvim|pristojno mesto za ûivot.
+{84025}{84109}Da li je ûivot jednog Ëoveka|vaûniji od zajednice?
+{84155}{84215}Da, Mac, jeste.
+{84293}{84345}SreÊno, Henry.
+{84425}{84489}MoraÊeö da se boriö|protiv celog grada.
+{84985}{85042}Zdravo, Madge.
+{85044}{85099}Jesi li dobro, dragi?
+{85101}{85163}Malo gore nego öto izgledam,|ali preûiveÊu.
+{85165}{85248}»ekala sam te za veËeru.|Paul Harris je u dnevnoj sobi.
+{85249}{85314}ReËe da mora da se vidi|s tobom -O, ne!
+{85316}{85403}äta sad hoÊe?
+{85405}{85470}Samo ti idi, draga i jedi.|Ja, ionako, nisam gladan.
+{85472}{85538}Ali, Henry...|-Moûda Êu pojesti sendviË, kasnije.
+{85540}{85589}Hajde, idi.
+{86071}{86125}Zdravo, Henry.
+{86127}{86182}Zdravo, Paul.
+{86184}{86289}Henry, ne svia mi se naËin|na koji vodiö ovaj sluËaj.
+{86291}{86356}Stvarno?
+{86357}{86425}Ne. Pretpostavljam da ti je Mac rekao|kakvu ötetu nanosiö partiji.
+{86427}{86523}To ne moûe tako, Henry. Moramo da|dobijemo ove izbore. -Ma nemoj?
+{86525}{86600}Apsolutno!
+{86601}{86657}A da bi ih dobili...
+{86659}{86734}potrebna nam je presuda.
+{86736}{86789}Ima da nastaviö sa optuûnicom|za ubistvo, Henry.
+{86829}{86885}Stvarno?|-Da.
+{86945}{87008}Imao sam, popriliËno|naporan dan, Paule.
+{87009}{87081}DaÊu ti samo jedan minut|da izaeö odavde,
+{87083}{87139}a onda Êu te sam izbaciti.
+{87169}{87224}Mislim da bi najbolje bilo da sedneö|dok ne zavröim.
+{87225}{87322}Samo nemoj da to traje duûe od minuta.|-ProbaÊu da skratim.
+{87324}{87415}SeÊaö se naöeg projketa za|rekreativni centar za decu?
+{87417}{87515}Trebalo bi da kupimo oko 10 jutara zemlje od|kompanije 'Sunset Realty' za taj projekt.
+{87517}{87569}I dalje nisam zainteresovan.
+{87621}{87696}Ja sam kompanija|'Sunset Realty', Henry.
+{87737}{87833}äta? -Ja sam vlasnik|kompanije 'Sunset Realty'.
+{87835}{87910}U nju sam uloûio sve do|poslednjeg centa.
+{87912}{88010}Ako grad ne prodam gradu tu zemlju,|po mojoj ceni, ja sam gotov.
+{88012}{88075}A ako izgubimo ove izbore,|grad je neÊe kupiti.
+{88077}{88141}I sad ti oËekujeö da ja budem|deo svega toga?
+{88143}{88192}Ti si lud!
+{88305}{88354}Ja to ne bih radio na|tvom mestu, Henry.
+{88499}{88570}Paule, ti si  lud!|-Tako stoje stvari.
+{88572}{88633}Mogu da okrenem telefon bilo kad.
+{88635}{88746}Moûda. Ali, siguran sam|da se to ne bi svidelo Madge.
+{88868}{88942}Kakve sad ona ima veze s tim?|-Ne mnogo.
+{88944}{88995}Ona samo predsedava projektom.
+{88997}{89078}Pa, ti... Ona ne zna|niöta o svemu ovome.
+{89080}{89186}Ne, ali mi je dala $2.500 da mi|pomogne da kupimo tu zemlju.
+{89188}{89273}To ne bi baö lepo izgledalo|u papirima, Henry.
+{89275}{89337}Razmisli o tome.
+{89555}{89584}Izvinite, gospodo.
+{89585}{89646}Gospodin Harvey je...|Otiöao je na spavanje.
+{89648}{89720}Bio je straöno umoran.|-Ma, dajte, gospoo Harvey.
+{89721}{89789}éao mi je. Laku noÊ.|Laku noÊ.
+{89791}{89875}Laku noÊ. -Pa, zaöto ga|ne probudi?
+{89975}{90042}»ekaj malo. -äta sam to rekao?|Zaöto ga ne probudi?
+{90044}{90104}Po mom profesionalnom miöljenju,|nije ni legao.
+{90105}{90157}Nije?|-Nije.
+{90194}{90228}Ono je auto Paula Harrisa.
+{90229}{90296}Misliö da je on...|-Ne govori niöta.
+{90297}{90346}On je unutra.
+{90452}{90528}Doi. Hajde da ga|saËekamo.
+{90529}{90578}Nema naËina da se to sazna...
+{90580}{90628}niko neÊe da se zamajava i da|traûi po korporacijskim papirima.
+{90629}{90683}Moûda bih mogao Ëak i tebe da ubacim|u jedan blok. U redu, zaboravi.
+{90685}{90743}Ali, moraö da podigneö tu optuûnicu.|Uopöte me ne interesuje kako Êeö to da uradiö.
+{90745}{90839}Ti si pravnik. Ali, biÊu tamo da|se uverim da si me posluöao.
+{90841}{90923}Henry, priterao si me|sasvim uza zid.
+{90925}{90999}Ceo svoj ûivot sam proûiveo ovde. Moram da|vodim raËuna o svom imenu i porodici.
+{91001}{91066}Sve öto sam imao uloûio sam u to.
+{91068}{91168}Ako ja odem pod led,|i ti ideö sa mnom.
+{91505}{91630}{y:i}Osnovna duûnost pravnika koji radi|{y:i}u kancelariji javnog tuûioca nije da osuuje...
+{91635}{91758}{y:i}nego da se stara da pravda bude sprovedena.|{y:i}PravniËki etiËki kod
+{91977}{92043}Dobar veËe, gospodine Harris!|-Molim? Oh!
+{92045}{92093}Zdravo, Woods.|-Moûe li jedna izjava?
+{92095}{92143}Ne veËeras, Dave. Ne veËeras.|-äta je rekao?
+{92145}{92205}Pazi sad. -Pored toga, ti si|iz opozicionih novina,  je l' tako?
+{92207}{92259}Da, ali pitam vas za sluËaj,|gospodine Harris? -Za sluËaj?
+{92261}{92322}Da. -Gospodin Harvey se|danas popodne malo zabavljao.
+{92324}{92381}Sve Êe biti u redu.
+{92461}{92513}äta je rekao, Dave?|äta je rekao?
+{92515}{92590}Gospodin Harvey se danas|popodne malo zabavljao.
+{92592}{92644}Bille, gde ti je auto?|Odvezi me do Hartforda.
+{92645}{92748}Do Hartforda? Zaöto? -Znam tamo jednog|tipa koji kuva straönu kafu.
+{92749}{92805}Imam sudar, Dave.|Rosie me veÊ Ëeka.
+{92807}{92856}äta bi ti da budeö, novinar ili Romeo?
+{92857}{92931}Pa, novinar, ali...|-Ako je tako, onda idemo u Hartford.
+{92933}{93017}DoneÊemo i Rosie toplu kafu.|Idemo.
+{93192}{93259}Madge, nije trebalo.|-Doi ovamo.
+{93261}{93319}Moûda bi trebalo da te pustim da,|ponosno umreö od gladi.
+{93321}{93376}Sedi ovde.|-Nisam gladan.
+{93377}{93442}Evo. Tu ti je i mleko.
+{93444}{93522}Nemoj samo da sediö i da ga gledaö.|Popij, prijaÊe ti.
+{93617}{93681}Henry, dolazili su novinari.
+{93735}{93784}Dimljena öunka.
+{93829}{93887}SeÊaö li se onog stana odmah|na Êoöku, iza pravne ökoli...
+{93889}{93937}i onih sendviËa kod Barneya?
+{93939}{93995}SeÊam se.
+{93997}{94071}Baö bi bilo lepo|opet sve to proûiveti.
+{94073}{94123}Je l' da?
+{94169}{94232}Oboje smo bili, malo mlai, Henry.
+{94233}{94309}Da, u pravu si.
+{94311}{94372}Da li si, moûda, dala neke pare Paulu|za onaj posao sa igraliötem?
+{94373}{94461}Ne, nisam dala njemu. Rekao im je da im je|potrebno joö gotovine da bi kupili zemlju...
+{94463}{94591}pa sam im pozajmila $2.500|koje je Otac ostavio...
+{94593}{94692}äta je bilo, Henry?|-Nema veze, ionako je svejedno.
+{94864}{94921}Dragi...
+{94923}{94971}ima li nekakvih problema?
+{94973}{95041}Problema?|Ne budi öaöava.
+{95043}{95129}A poöto veÊ ne mogu da te zainteresujem za|jednosobni stan, öta misliö o guvernerskoj kuÊi?
+{95188}{95237}äta?
+{95345}{95452}Henry, öta je sa onim Ëovekom?
+{95453}{95504}Je l' nevin?
+{95505}{95559}Nisi mi odgovorila na pitanje.
+{95561}{95611}Nisi ni ti na moje.
+{95677}{95729}Ne znam, Madge.
+{95731}{95820}Mislio sam da sam neöto pronaöao,|ali viöe nisam siguran.
+{95939}{95988}Tako.
+{96032}{96080}Nisi mi odgovorila na pitanje.
+{96081}{96160}Do sad je trebalo da shvatiö da|Êu iÊi sa tobom bilo gde, dragi.
+{96161}{96210}Ali, samo ako ideö tamo gde ti ûeliö.
+{96297}{96360}Pa, nisi mi baö mnogo pomogla.
+{96403}{96456}Nisam ni nameravala.
+{96668}{96720}DoneÊu ti joö jednu Ëaöu mleka.
+{98089}{98162}Gospodine Harvey...|-Waldrone, sedi.
+{98164}{98233}Ja sam tvoj advokat.|Ja sam zaduûen za odbranu.
+{98304}{98359}To je sve. Dosta je.|To je sve.
+{98361}{98444}Kako to mislite 'to je sve'?|Hajde, Mac.
+{98445}{98520}To je... Sad je dosta. To je sve.|To je sve.
+{98521}{98572}Svi, ustanite, molim.
+{98669}{98743}Moûete otvoriti zasedanje, gospodine öerife.|-Da, da, da, da... 
+{98745}{98793}Uvaûeni Viöi sud|drûave Connecticut...
+{98795}{98845}je otvoren i poËinje sa|zasedanjem.
+{98847}{98914}Sve osobe koje imaju öta da kaûu biÊe, po zakonu|pozvane da se pojave pred ovim sudom.
+{98936}{98964}Sedite, molim vas.
+{98965}{99045}Gospodine drûavni tuûioËe?
+{99143}{99258}Vaöa Visosti, na zatvaranju|juËeraönjeg zasedanja...
+{99260}{99340}najavio sam da Êe optuûba odustati|od daljeg kriviËnog gonjenja...
+{99341}{99405}u sluËaju Drûava protiv|Johna Waldrona.
+{99407}{99520}éelite li da izmenite svoju izjavu,|gospodine drûavni tuûioËe?
+{99521}{99578}éelim, Vaöa Visosti.
+{99580}{99664}Mnogo toga zbunjujeÊeg|je u ovom sluËaju pa...
+{99665}{99779}bih ûeleo da se ogradim od izjave o krivici|dok sudu ne iznesem joö neke dokaze.
+{99781}{99829}Dobro.
+{99831}{99880}Vaöa Visosti, ovaj sluËaj je|jako Ëudan od samog poËetka...
+{99881}{99990}pa smo gospoda iz moje kancelarije i ja morali|da izvröimo veoma detaljnu istragu.
+{99992}{100104}Mislili smo da je to preko potrebno da bi|se optuûnica u ovom sluËaju uspeöno okonËala.
+{100149}{100231}Shvatam da po rasporedu, joö nije|vreme za prozivanje svedoka...
+{100233}{100306}ali, uz dozvolu suda,|voleo bih da ispitam...
+{100308}{100369}odreene osobe koje se pojavljaju|u islednikovim istraûivanjima.
+{100371}{100464}ZvuËi razumno.|-Hvala vam.
+{100465}{100540}Zamolio bih gospodina Graham Rogersa|da zauzme mesto za svedoke.
+{100589}{100637}Prigovor!|-Gospodine O'Shea?
+{100639}{100685}Vaöa Visosti, optuûeni |ima svog zastupnika...
+{100687}{100759}koji misli da je iznoöenje ovih|dokaza krajnje neumesno.
+{100761}{100815}éalim öto moram da podsetim|zastupnika odbrane...
+{100817}{100868}da je ovo i dalje prelimininarni|postupak...
+{100869}{100967}i da javni tuûilac dela, sasvim|u okviru svojih prinadleûnosti.
+{100969}{101031}Moûete nastaviti, gospodine|drûavni tuûioËe.
+{101033}{101104}Ustanite. Podignite desnu ruku.
+{101105}{101154}Da li se zaklinjete da su dokazi koji|Êete nam sad izneti istina...
+{101156}{101204}cela istina i niiöta drugo osim istine,|Bog Vam pomogao?
+{101205}{101239}Zaklinjem se.|-Kako se zovete?
+{101241}{101274}Graham Rogers.|-Sedite.
+{101276}{101332}Gospodine Rogers,|vi ste videli...
+{101333}{101418}direktno, preko ulice ubicu u|trenutku kada je pucao?
+{101420}{101473}Da, gospodine. Baö sam zatvarao|svoju radnju.
+{101475}{101584}U vaöem svedoËenju se kaûe da ste|videli ubicu kako podiûe ruku...
+{101585}{101634}i kako u njoj drûi neöto svetlucavo...
+{101636}{101695}a onda je doölo i do pucnja.|-Da, gospodine.
+{101697}{101770}Jeste li sigurni u to|öto ste videli?
+{101772}{101821}Da, gospodine, sasvim siguran.
+{101823}{101882}Ne bih da dovodim u pitanje vaö|integritet, gospodine...
+{101884}{101969}ali, moram ponovo da vas pitam,|jeste li sigurni da je svetlucalo?
+{101971}{102022}Da, gospodine, siguran sam.
+{102024}{102122}Spustio se veÊ sumrak, ali bilo je sasvim dovoljno|svetla od uliËnog osvetljenja pa sam mogao da vidim.
+{102124}{102257}To je sve, hvala vam. Vaöa Visosti, voleo bih|da vam pokaûem ovaj piötolj.
+{102259}{102329}Vaöa Visost Êe primetiti da je|vrlo grube poslednje obrade...
+{102333}{102391}kao oruûje koje se koristi u vojsci...
+{102393}{102511}a razlog za to je da ne bi reflektovao svetlost i|tako odavao poloûaj svoga vlasnika.
+{102513}{102650}Vaöa Visosti, podvlaËim da piötolj koji je|dizajniran da ne odbija sunËevu svetlost...
+{102652}{102701}teöko bi odbijao uliËnu rasvetu.
+{102763}{102823}To je bila nedoslednost u|svedoËenjima, Vaöa Visosti...
+{102825}{102877}koja mi je prva zapala za oko.
+{102879}{102937}Pretpostavljam da ih ima joö.
+{102939}{103021}Uz dozvolu suda, sledeÊih nekoliko svedoka|bih ispitao na njihovim mestima.
+{103025}{103068}Nastavite.
+{103069}{103144}Hvala vam. Dame i gospodo...
+{103145}{103232}ubistvo kojem ste prisustvovali odigralo|se izuzetno mraËne noÊi...
+{103233}{103311}a dogaajji koji su se odigrali|bili su i neoËekivani i brzi.
+{103313}{103423}Pa ipak, svi ste, neoklevajuÊi identifikovali|ovog Ëoveka kojeg vidite ovde.
+{103425}{103560}Moram ponovo da vas pitam,|da li je to taj Ëovek? Gospodine Rogers?
+{103570}{103610}Da, gospodine, siguran sam.|-Gospoo Lukash?
+{103612}{103679}Da, gospodine.
+{103681}{103781}Vaöa Visosti, nije mi namera da osporavam|da je identifikacija izvröena u najboljoj nameri..
+{103783}{103831}ali, noÊ je bila, izuzetno mraËna...
+{103833}{103896}a osnova za identifikaciju,|izgleda da je bila...
+{103897}{104011}da je ubica nosio tamni kaput i svetli öeöir,|öto je, priliËno uobiËajena kombinacija.
+{104053}{104115}Evo, eno tamo jednog.
+{104117}{104259}Eno joö jednog. »ak i jedan od naöih|uvaûenih svedoka ima tu kombinaciju.
+{104261}{104328}äta viöe, ako ne greöim...
+{104329}{104399}Ëak ste i vi jutros obukli|tu kombinaciju, Vaöa Visosti.
+{104401}{104482}Zar nije moglo doÊi do greöke,|prilikom vaöe identifikacije?
+{104557}{104670}Identifikacija je, izgleda bila jednoglasna|i konaËna, Vaöa Visosti.
+{104672}{104721}Ali, u noÊi 25-og oktobra...
+{104723}{104779}pod, gotovo istim uslovima...
+{104781}{104904}sedam mojih pomoÊnika i ja smo|rekonstruisali zloËin.
+{104975}{105040}Ponovo smo sve odigrali,|ne jednom, veÊ sedam puta...
+{105041}{105093}tako da bi svako od nas mogao da|vidi zloËin sa drugog mesta.
+{105095}{105145}Herb? Phil?|-Ne.
+{105147}{105181}Dan?
+{105183}{105272}A ti, Smitty?|-Sve u redu, öefe?
+{105273}{105344}Neöto nije u redu, öefe?|-A? Ne.
+{105345}{105405}Hajde, idemo opet, momci.|Zamenite mesta.
+{105407}{105467}Vaöa Visosti, imam ovde|potpisane izjave...
+{105469}{105517}svih svojih asistenata...
+{105519}{105572}da ni jednom za vreme|svih tih ponavljanja...
+{105573}{105684}nisu mogli, sa apsolutnom sigurnoöÊu|opisati lice ubice.
+{105685}{105755}Mada ga je, svaki od njih,|dobro poznavao.
+{105761}{105829}Da li ste, i dalje, sasvim sigurni u svoju|identifikaciju, dame i gospodo?
+{105831}{105903}Vi, gospoo Lukash?|-Pa, ja, ovaj...
+{105905}{105967}Mnogo vam hvala.|-Pa, ja sam sigurna.
+{106060}{106122}HoÊete li, molim vas, da zauzmete mesto|za svedoke, gospoice Nelson?
+{106333}{106409}Zaöto je nju pozvao?|-UÊuti.
+{106411}{106444}Ako dozvoli toj curi...
+{106448}{106509}Ona nije niöta nego...|-Moûeö samo sam sebi da naökodiö.
+{106511}{106572}Gospoice Nelson, u vaöem|svedoËenju se kaûe...
+{106573}{106622}da ste, u noÊi kada se|odigralo ubistvo...
+{106624}{106693}stajali u izlogu kafea 'Coney Island'?|-Tako je.
+{106695}{106743}ZnaËi vi ste, sasvim sigurni  da je...
+{106745}{106793}Ëovek koga ste videli kroz izlog...
+{106795}{106843}u 7:20 te veËeri, 23-eg septembra,,,
+{106845}{106893}optuûeni, John Waldron?
+{106895}{106948}Tako sam rekla.|-Moûe biti da samo nagaam,
+{106949}{107023}ali, zar nije moguÊe da tako privlaËna|mlada dama kao öto ste vi...
+{107025}{107101}ima nekoliko prijatelja kavaljera?
+{107130}{107153}I zar nije moguÊe...
+{107155}{107224}da ti kavaljeri prolaze pored|restorana i maöu vam...
+{107225}{107260}kroz prozor?
+{107273}{107338}I zar nije, takoe, moguÊe,|gospoice Nelson...
+{107340}{107439}da to nije bio John Waldron|veÊ neki drugi vaö prijatelj...
+{107441}{107510}koji vam je mahnuo kroz|prozor te noÊi? -Ne.
+{107557}{107619}Vaöa Visosti, da bih öto bolje proverio|sve dokaze u ovom sluËaju...
+{107621}{107702}otiöao sam i do 'Coney Island' kafea.
+{107704}{107785}I, po gospoicinom savetu, zazuzeo sam|mesto za kasom, taËno tamo...
+{107787}{107930}gde je sedela gospoica Nelson i odakle tvrdi da je|videla Johna Waldrona, u veËeri, 23-eg septembra.
+{107932}{108005}Sa tog mesta, izlog kafea je zamagljen do visine...
+{108007}{108090}od, od prilike metar dvadeset do|metar i po.
+{108092}{108207}Ipak, kroz izlog je moguÊe|nazreti nejasne oblike.
+{108209}{108298}Jedan od mojih ljudi je proöao ispred|izloga dok sam ja posamatrao...
+{108300}{108421}i, mada tog Ëoveka znam jako dobro, bilo je,|apsolutno, nemoguÊe prepoznati ga.
+{108423}{108486}Gospoice Nelson, da li ste znali|da je nagrada za informaciju...
+{108488}{108576}koja Êe dovesti do hapöenja i osuivanja|ubice, ukupno $8.000?
+{108577}{108658}Nisam. -Vaöa prijava za dobijanje|nagrade je veÊ u spisima.
+{108660}{108721}Gospoice Nelson, pre nego öto|mi odgovorite...
+{108724}{108769}molim vas, ne zaboravite da ovde nije|samo ûivot ovog Ëoveka u opasnosti...
+{108771}{108819}nego biste i vi mogli otiÊi u zatvor|zbog krivokletstva.
+{108821}{108884}A sad, da li ste Waldrona te noÊi|videli kroz vaö izlog?
+{108885}{108932}Da li je to ovaj Ëovak?
+{108933}{109017}Pa,  nisam baö sasvim sigurna...|-Hvala, gospoice Nelson.
+{109019}{109084}To bi bilo sve. Zamolio bih gospoicu|Katherinu Manion da zauzme mesto za svedoke.
+{109372}{109442}äta to Harvey pokuöava?
+{109444}{109497}äta?|-äta to radi?
+{109499}{109606}PoduËava O'Shea sudskoj|proceduri.
+{109661}{109779}Gospoice Manion, vi radite u 'Plaza'|bioskopu? -Da, gospodine.
+{109812}{109867}I kao dugogodiönja kasirka,
+{109869}{109951}prirodno, ponosite se svojom sposobnoöÊu|da pamtite lica?
+{109953}{110027}Da, gospodine... ponosim se.
+{110029}{110126}I, sasvim odgovorno tvrdite|da optuûeni, John Waldron...
+{110128}{110191}nije uöao u vaö bioskop, u noÊi|23-eg septembra?
+{110193}{110244}Da, gospodine.
+{110245}{110336}Hvala vam. Gospoice Manion,|ovo je moj asistent, gospodine Stone.
+{110337}{110400}Kako ste?
+{110401}{110519}Da li je on bio u vaöem bioskopu proölog utorka?|-O, ne, nije, gospodine.
+{110521}{110620}Vaöa Visosti, u 8:13 uveËe,|proölog utorka...
+{110621}{110696}dva pouzdana svedoka i|ja, liËno smo videli...
+{110697}{110800}gospodina Stona kako od gospoice Manion|kupuje kartu za bioskop Plaza.
+{110801}{110841}Pa, ja... -Svi smo mi samo ljudi,|gospoice Manion.
+{110843}{110900}To je sve. Hvala vam.|Vaöa Visosti, ja mislim...
+{110901}{110979}da veÊ sad moûemo dovesti u pitanje|sva svedoËenja naöih oËevidaca.
+{110981}{111062}Veoma zanimljivo, ali nedovoljno|ubedljivo.
+{111064}{111129}Da, slaûem se sa sudom.
+{111131}{111202}Ako dokaûem svedocima|da su moûda, pogreöili...
+{111204}{111265}onda se oni, lako|mogu ispraviti.
+{111267}{111349}Ali, kao öto rekoh, Vaöa Visosti,|postoje odreeni aspekti ovog sluËaja...
+{111351}{111413}koji su, priliËno zbunjujuÊi.
+{111415}{111461}Imam li dozvolu suda da nastavim?
+{111485}{111506}Nastavite.
+{111508}{111642}Hvala. Zamolio bih doktora Williama Rainsforda|da zauzme mesto za svedoke.
+{111725}{111788}Ustanite. Podignite desnu ruku.
+{111789}{111838}Da li se zaklinjete da su dokazi koji|Êete nam sad izneti istina...
+{111840}{111888}cela istina i niiöta drugo osim istine,|Bog Vam pomogao?
+{111889}{111949}Vaöe ime, molim?|-Doktor William Rainsford.
+{111951}{112050}Gde si bio, Dave?|-Uspavao sam se. Kako ide?
+{112052}{112156}Doktore Rainsford, koliko znam, policija|vas je angaûovala...
+{112157}{112264}da ispitate Johna Waldrona, pa zato, pretpostavljam|veÊ imate formirano miöljenje o njemu.
+{112265}{112336}Ali, kao lekar i kao psihijatar...
+{112337}{112443}sloûiÊete se da je u stanju iscrpljenosti i|nadolazeÊe histerije...
+{112445}{112512}Ëovek izuzetno podloûan sugestiji.
+{112513}{112639}Naravno. Mada, imam odreenih sumnji|da bi se to moglo primeniti na optuûenog.
+{112641}{112747}Nisam vas to pitao, doktore.|Pitao sam vas za profesionalno miöljenje.
+{112749}{112817}U tom sluËaju, morao bih da|odgovorim, da.
+{112819}{112887}To je sve, doktore.|Hvala vam.
+{112889}{112957}Pozvao bih äefa Robinsona da zauzme|mesto za svedoke, molim.
+{113077}{113125}Podignite desnu ruku.
+{113127}{113184}Da li se zaklinjete da su dokazi koji|Êete nam sad izneti istina...
+{113185}{113244}cela istina i niiöta drugo osim istine,|Bog Vam pomogao?
+{113245}{113303}Vaöe ime, molim?|-Harold F. Robinson.
+{113305}{113358}Sedite.
+{113360}{113443}äefe Robinson, vi ste bili prisutni sve vreme|ispitivanja Johna Waldrona...
+{113445}{113546}i izjavili ste da nije niöta uËinjeno kako bi se,|od optuûenog iznudilo priznanje.
+{113548}{113652}Priznao je dobrovoljno.|Nije bilo nikakvog fiziËkog nasilja.
+{113653}{113725}Ali ste mu vi usadili tu|ideju u glavu?
+{113727}{113786}Sam je priznao.
+{113829}{113927}Da, u 11:55, posle mnogo sati ispitivanja...
+{113929}{113993}doktor Rainsford je rekao optuûenom...
+{113995}{114043}'On je za tebe bio oliËenje...
+{114045}{114161}svake milostinje, svakog saveta,|i u besu si ga ubio.'
+{114163}{114218}Da li je to taËno?|-Da, ali...
+{114220}{114287}To je sve, äefe.|-To nije sve!
+{114289}{114368}Slobodni ste, gospodine.
+{114369}{114445}Hvala vam.
+{114489}{114539}Vaöa Visosti, i dok mislim da je|verodostojnost...
+{114541}{114595}priznanja optuûenog pod velikim|znakom pitanja...
+{114597}{114689}prisiljen sam da priznam da ono moûe|podvesti u kategoriju neubedljivih.
+{114691}{114764}I svedoËenja oËevidaca...
+{114765}{114874}kao i samo priznanje mogla bi da budu predmet|dugotrajnih rasprava na suenju.
+{114876}{114974}A tu su joö i konkretni dokazi u ovom sluËaju,|koje smo, temeljno ispitali.
+{114976}{115116}Vaöa Visosti, ovo je metak koji je|izvaen iz glave ubijeog.
+{115117}{115194}Policijski balistiËki struËnjak|je veÊ potvrdio...
+{115196}{115275}da je ispaljen iz piötolja koji je|pronaen kod Johna Waldrona.
+{115315}{115369}Moja kancelarija je bila, izuzetno|zainteresovana za ovaj metak...
+{115371}{115455}i, uz dozvolu, policije...
+{115457}{115575}izvröili smo nekoliko eksperimenata sa metkom|i piötoljem pronaenim kod optuûenog.
+{115577}{115702}{y:i}Moûeö li da me ubaciö u Sunset Reality? D.W.|-Nije mi namera da se upuötam...
+{115704}{115779}ni u tehniËke ni u balistiËke finese,|niti da pozivam struËnjake da svedoËe.
+{115781}{115837}Pa, ipak, pet nezavisnih|balistiËkih struËnjaka...
+{115839}{115933}je bilo pozvano u moju kancelariju|da izvröi probe vezane za ovaj sluËaj...
+{115935}{116013}i... uz dozvolu suda....
+{116015}{116084}ja bih, ukratko, sumirao|njihove nalaze. -nastavite.
+{116120}{116220}Vaöa Visosti,|na fotografiji A...
+{116221}{116292}nalazi se metak koji drûim u ruci.
+{116293}{116441}Na slici, oznaËenoj B, je metak|ispaljen iz piötolja Johna Waldrona.
+{116443}{116507}NeÊu se pretvarati i pokuöavati da|diskutujem o neËemu öto ne znam,
+{116509}{116561}sa stanoviöta struËnjaka,
+{116563}{116627}ali, neökolovanom oku,|pa Ëak i oku eksperta...
+{116629}{116723}ova dva metka bi mogla|izgledati identiËna.
+{116725}{116793}Pa, ipak, tu postoji jedna|sitna razlika.
+{116795}{116878}Kada je ovaj metak izvaen|iz glave ubijenog...
+{116880}{116962}jedan deliÊ je ostao|u njegovom mozgu.
+{116964}{117026}Naöa policija nije smatrala bitnim...
+{117028}{117089}da izvadi i taj deliÊ i|ukljuËi ga u balistiËke testove.
+{117091}{117166}Ali, Vaöa Visosti, taj deliÊ je bio|od ogromne vaûnosti....
+{117168}{117223}za balistiËke struËnjake koje je|moja kancelarija angaûovala.
+{117225}{117343}Svi su se sloûili da su ova dva metka|neverovatno sliËna...
+{117345}{117411}ali, imam i njihove potpisane izjave...
+{117413}{117495}da ova dva metka, nikako nisu mogli|biti ispaljeni iz istog pioötolja.
+{117668}{117715}Mir! Mir u sudnici!
+{117771}{117819}Zato sam i prisiljen da priznam|da i ovaj dokaz...
+{117821}{117890}potpada u kategoriju neubedljivih.
+{117892}{117941}Ako gospodin Johnston,|policijski ekspert...
+{117943}{118066}i dalje insistira da su ova dva metka|ispaljeni iz istog piötolja...
+{118068}{118157}öanse su 5:1 da nije u pravu.
+{118159}{118262}Pa, ipak, kakva-takva öansa|i dalje postoji.
+{118264}{118392}Vaöa Visosti, ovo je piötolj koji je|pronaen kod optuûenog, Johna Waldrona...
+{118393}{118448}u noÊi kada je uhapöen.
+{118449}{118499}Da li bi ga Vaöa Visost|paûljivo pregledala, molim?
+{118501}{118580}Piötolj je kalibra .32...
+{118581}{118635}i ovo su meci koji idu u njega.
+{118637}{118745}Tu je öest metaka. Da li bi|Vaöa Visost pregledala i njih, molim?
+{118919}{118983}A sad, stavite ih u piötolj.
+{119265}{119321}Moûete li mi ga dati, molim vas?
+{119595}{119643}Gospodine Harvey,|piötolj je napunjen.
+{119645}{119744}BiÊu izuzetno oprezan, Vaöa Visosti.|Gospodine Whitney, molim vas.
+{119745}{119794}Prilikom rekonstrukcije ubistva...
+{119796}{119897}otkrili smo, ispitivanjem putanje metka...
+{119899}{120006}da je ubica morao drûati piötolj...
+{120008}{120083}baö u ovom poloûaju|prilikom opaljenja.
+{120085}{120133}Prilikom ispitivanja barutnih opekotina....
+{120135}{120190}otkrili smo da je Otac Lambert morao biti|udaljen oko 15 centimetara od piötolja...
+{120192}{120244}ili, evo, ovde.
+{120376}{120441}Henry!
+{120443}{120579}Gospodine Whitney, pucajte, molim.
+{120657}{120763}Moram da vam se izvinim, Vaöa Visosti,|za ovako teatralnu prezentaciju...
+{120765}{120815}ali, ovaj piötolj ima pokvarenu|udarnu iglu.
+{120817}{120877}Toliko je iskrivljena i nikakva|da je, apsolutno nemoguÊe...
+{120879}{120972}opaliti iz njega u tom poloûaju.
+{120973}{121069}Probali smo öesnaest puta.
+{121071}{121142}Ovo je bio sedamnaesti.
+{121565}{121622}Ubio se!
+{121624}{121709}Ostavite ga na miru. Sklonite se.|Povucite se, molim vas.
+{121711}{121786}Uvek isto. Ako dovoljno dugo|njuökaö naoklo...
+{121788}{121868}uvek Êeö naÊi nekoga sa prstima|u tegli sa dûemom.
+{121869}{121931}SinoÊ sam bio u Hartfordu.|-Zaöto?
+{121933}{122015}SinoÊ sam sreo Harrisa kad je izaöao iz vaöe kuÊe.|ReËe mi da ste preöli na drugu stranu.
+{122017}{122089}Nisam mu poverovao jer znam|da niste taj tip.
+{122374}{122427}MacDonald, napravio sam samo|jednu greöku.
+{122429}{122511}Trebalo je do sad da nauËim da jednu|stvar nikad ne moûeö pobediti u politici...
+{122513}{122566}a to je, apsolutno|poötenog Ëoveka.
+{122568}{122637}Pa, pitam se, kako Êe biti na Floridi|ove zime?
+{122639}{122729}Bojim se da su ljudi umore od reformi|kao i od bilo Ëega drugog.
+{122731}{122779}VratiÊete se vi.|-Znam.
+{122781}{122831}VratiÊete se.
+{122875}{122952}Ne izgledaö mi sreÊan, Henry.
+{122953}{123018}Ja... samo sam mislio o Paulu.
+{123020}{123168}Da... Paul. Pa, viöe-manje, Paul je|sam sebi izrekao presudu.
+{123169}{123220}Pretpostavljam da je tako.
+{123265}{123332}Gospodine Harvey, to je bilo|jako dobro izlaganje.
+{123333}{123388}Jako dobro.
+{123389}{123519}Nazvao sam te juËe politiËarem...|i pogreöio sam.
+{123521}{123625}Zaboravi, Robbie.|Znam kako ti je bilo.
+{123627}{123676}Ovaj...
+{123791}{123884}Kladim se da ova tvrdoglava, stara|magarËina i dalje ne veruje da je nevin.
+{123885}{123950}TrebaÊe mu malo vremena. Na kraju krajeva,|trebalo mu je mnogo vremena...
+{123952}{124006}i da prihvati njegovu krivicu.
+{124008}{124118}Zato mi se i dopada. -Ma, dopada se on i meni,|samo je i dalje tvrdoglava, stara magarËina.
+{124120}{124169}Waldrone?
+{124273}{124326}Pa... öta Êeö sad?
+{124328}{124383}Ne znam. SmisliÊu veÊ neöto.
+{124385}{124462}Krajnje je vreme, slaûete se?
+{124464}{124559}Gospodine Harvey, ne znam|kako da vam se zahvalim.
+{124561}{124624}Nemoj ni da pokuöavaö.
+{124625}{124676}Pa...
+{124842}{124867}{y:i}WALDRON OSLOBO–EN
+{124869}{124915}{y:i}Harvey oslobodio optuûnice|{y:i}osumnjiËenog za ubistvo
+{124920}{124979}Stvarno, Dave, kako si provalio|tu korporaciju?
+{124981}{125085}Ja nikad ne otkrivam svoje metode.|äta ti je to?
+{125087}{125155}Zar ti nikad niöta ne Ëitaö|osim svojih Ëlanaka?
+{125157}{125205}Tip je poginuo u saobraÊajnoj nesreÊi.
+{125207}{125257}{y:i}»UDNA NESRE∆A|-Najgluplja stvar koju si ikad video.
+{125259}{125309}Jedan od naöih momaka ga je|pojurio zbog prekoraËenja brzine.
+{125311}{125376}Ganjao ga je milju ili dve,|kad, sasvim iznenada...
+{125377}{125454}tip skrene i, to ti je to.
+{125471}{125520}{y:i}Ovaj sluËaj nikad nije reöen.
+{125521}{125620}{y:i}U roku od 24 sata John Waldron je,|{y:i}ponovo, bio slobodan Ëovek.
+{125621}{125704}{y:i}U policijskim dosijeima jednog gradiÊa u|{y:i}Connecticutu sluËaj je i dalje otvoren...
+{125705}{125757}{y:i}i, moûda Êe vam biti zanimljivo,|{y:i}da tamo joö ima onih...
+{125759}{125821}{y:i}koji veruje da je optuûeni bio kriv.
+{125823}{125913}{y:i}Moûda Êe vas interesovati i to|{y:i}da je Ëovek kojeg smo vam predstavili...
+{125915}{125959}{y:i}kao drûavnog tuûioca Harveya...
+{125961}{126072}{y:i}zapravo advokat iz Connecticuta|{y:i}po imenu Homer Cummings.
+{126073}{126135}{y:i}On nije postao guverner ove drûave.
+{126137}{126235}{y:i}Umesto toga, uzdigao se do jednog od najviöh|{y:i}poloûaja u pravniËkoj hijerarhiji zemlje...
+{126237}{126329}{y:i}Vrhovnog Tuûioca Sjedinjenih Drûava.
+{126362}{126612}{y:i}zgaca62@yahoo.com
+{126637}{128137}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/4xkmg|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

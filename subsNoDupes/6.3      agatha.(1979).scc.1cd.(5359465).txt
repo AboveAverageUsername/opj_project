@@ -1,0 +1,920 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{325}{475}ĞŸĞ¾Ğ´Ñ€Ğ¶Ğ¸Ñ‚Ğµ Ğ½Ğ°Ñ Ğ¸ Ğ¿Ğ¾ÑÑ‚Ğ°Ğ½Ğ¸Ñ‚Ğµ VIP Ñ‡Ğ»Ğ°Ğ½ Ğ´Ğ° Ğ±Ğ¸ÑÑ‚Ğµ ÑƒĞºĞ»Ğ¾Ğ½Ğ¸Ğ»Ğ¸ ÑĞ²Ğµ Ğ¾Ğ³Ğ»Ğ°ÑĞµ ÑĞ° www.OpenSubtitles.org
+{504}{581}{Y:i}U decembru 1926. èuvena spisateljica|kriminalistièkih romana, Agata Kristi..
+{585}{636}{Y:i}nestala je iz svog doma|na 11 dana.
+{640}{726}{Y:i}Tako je poèela èudna epizoda koja|nikad nije do kraja razjašnjena.
+{730}{804}{Y:i}Ipak, postoji par tragova koji|mogu biti kljuè...
+{808}{861}{Y:i}neuobièajenog ponašanja|gospoğe Kristi.
+{865}{963}{Y:i}Ovo što æete videti je imaginarno|rešenje autentiène misterije.
+{2142}{2172}Agata.
+{2554}{2637}{Y:i}Arèiju, mojoj ljubavi i mom|prijatelju, Agata
+{2843}{2903}Trebalo bi da si u Savoju,|zar ne?
+{2907}{2976}Je l' ti se sviğa?|-Da.
+{2980}{3071}Mislila sam da bi voleo da ga|driš u klubu.
+{3075}{3166}'Mojoj ljubavi, mom prijatelju'|u klubu?
+{3218}{3307}Izvini. Naravno, shvatam|šta hoæeš da kaeš.
+{3332}{3388}Moda moeš da ga koristiš|kao èašicu pri brijanju?
+{3392}{3495}Agata, zašto nisi otišla na svoj|ruèak sa knjievnicima?
+{3552}{3614}Ja sam spremna...
+{3672}{3765}Ne smem ni da pomislim da|odem bez tebe. Ne mogu.
+{4183}{4245}Gospoğice Nil!
+{4315}{4395}Otkaite sve moje sastanke za danas|popodne. Upotrebite sav svoj šarm.
+{4400}{4473}Sve da otkaem?|-Javiæu vam kasnije.
+{4982}{5017}Hvala.
+{5565}{5616}Ako neko trai gospodina Stentona|reci mu da saèeka.
+{5620}{5680}Kasnije æu se postarati|za tebe, u redu?
+{5840}{5931}Gospodine, veæ sam vam rekao,|ulaz je samo uz pozivnicu.
+{5935}{6004}A ja vama kaem da nisam dobio|svoju pozivnicu.
+{6016}{6088}Slušajte... gospoğa Kristi je jedina|poznata liènost iz Saningdejla,
+{6092}{6173}a ja sam jedini novinar.|Pogledajte opet... molim vas.
+{6177}{6260}Don Foster, 'Saningdejl Eho'.|-Na mom spisku ga, definitivno nema.
+{6264}{6342}Èak i da imate pozivnicu ne moemo|da vas pustimo tako obuèenog.
+{6346}{6398}Kako sam obuèen?|-Nemate kravatu, gospodine.
+{6402}{6456}Imam kravatu. Proverite,|molim vas.
+{6460}{6528}Ako ne uğem, u ponedeljak æu|morati da potraim novi posao.
+{6532}{6589}Ali, nema vas na spisku.
+{6593}{6656}Dobar dan, gospodine Stenton,|drago nam je što ste došli.
+{6660}{6696}Drago nam je što vas vidimo,|gospodine Stenton.
+{6700}{6750}Uivate li u svom boravku u|Engleskoj? -Da, hvala.
+{6754}{6812}Veæ ste dugo ovde?|-Otprilike èetiri nedelje.
+{6816}{6877}Uivamo u vašoj kolumni. -Gospodine,|najbolje bi bilo da krenete.
+{6881}{6913}Vi ste Don Foster?
+{6922}{6992}Moram priznati da ja uivam u|vašim èlancima iz...
+{6996}{7026}Saningdejl Eha.|-Tako je.
+{7030}{7087}Posebno u odeljku za...|-Cveæe u saksijama?
+{7091}{7174}Cveæe u saksijama. Oboavam vaš|beskompromisni stil i i moram reæi...
+{7178}{7240}da vam u poznavanju filadendrona nema|ravnog. Jeste li èitali, gospodo?
+{7244}{7311}Ne, nismo. -Šteta, to je nešto najbolje|što sam proèitao u poslednje vreme.
+{7315}{7373}Bolje da uğemo, propustiæemo|predstavljanje.
+{7377}{7402}Drago mi je što vas|ponovo vidim.
+{7406}{7458}Jako ljubazno od vas, gospodine|Stenton. -Zadovoljstvo mi je.
+{7463}{7550}I vi pišete èlanak o gospoği Kristi?|-Da, godinama sam nje oboavalac.
+{7563}{7704}Apsolutno sam ubeğen da æe ova brilijantna|knjiga, 'Ubistvo Rodera Ekrojda',
+{7708}{7797}zauzeti svoje mesto meğu klasicima|kriminalistièkog romana.
+{7806}{7879}Ko je Agata Kristi? Ona gospoğa|sa krznom oko vrata?
+{7883}{7966}Ne. Gospoğa Kristi je ona sa|šeširom bez oboda.
+{7976}{8038}Onaj do nje, to je njen mu,|pukovnik.
+{8042}{8164}Moram da zahvalim gospoği Kristi|pošto predviğam ogromnu dobit...
+{8168}{8271}kako za moje srce,|tako i za moj dep.
+{8311}{8454}Da bih nam priuštio prisustvo ove|izuzetno skromne dame...
+{8458}{8515}morao sam da platim|nisku cenu,
+{8519}{8631}zamolila me je da ne traim od nje|da odri dugaèak govor.
+{8647}{8743}Dame i gospodo...|Agata Kristi!
+{9074}{9126}Mnogo vam hvala.
+{9247}{9310}Mnogo je zgodnija nego|što sam mislio...
+{9318}{9348}i mnogo tunija.
+{9352}{9415}Nije tuna... samo stidljiva.
+{9419}{9527}Gospoğa Kristi je ljubazno pristala da|potpisuje primerke svoje knjige...
+{9531}{9633}i za tu svrhu obezbedili smo|ovaj sto ispod nas.
+{9672}{9735}Izvoli, Agata, ovuda.
+{9816}{9871}Znam da ne voliš da daješ|intervjue,
+{9875}{9931}ali ovde je neko koga bih|voleo da upoznaš.
+{9935}{9996}Voli Stenton. Jesi li|èula za njega?
+{10017}{10093}Izgleda da neæu uspeti da je|upoznam u ovoj guvi.
+{10097}{10170}Hoæu da proæaskate sa Kristijevom|pre nego što je intervjuišem.
+{10177}{10262}Pozovite me sutra u Èarthaus da|odemo negde na piæe.
+{10266}{10326}Vi to ozbiljno? Voleo bih,|gospodine Stenton.
+{10330}{10392}Vi to mislite ozbiljno?|-Najozbiljnije.
+{10483}{10559}Odvedite me do mog mesta,|molim vas.
+{10802}{10901}Rano ste se vratili. Da sam znala da æete|da poranite, saèekala bih vas.te.
+{10905}{10950}U onoj guvi sam izgubila|sam pukovnika Kristija.
+{10954}{10987}Da se nije vratio?|-Nije.
+{10991}{11046}Da nije telefonirao?|-Nije.
+{11050}{11134}Stalno je prezauzet.|-Uskoro æemo i mi biti.
+{11138}{11218}Èekaj samo dok vidi iseèke|iz novina.
+{11242}{11321}Dobar dan, gospoğo. -Vidi, popravili|su mi pisaæu mašinu.
+{11325}{11370}Da, moram nešto da|vam pokaem.
+{11426}{11547}Ovo sam danas kupila. Odluèila sam|da nauèim da igram èarlston.
+{11551}{11602}Hoæete da mi svirate?
+{11606}{11683}Samo da se malo nasmejemo.|Neæu dugo.
+{11723}{11806}Moete li i da mi brojite?|-Jedan, dva. Dva, dva.
+{11954}{12017}Ovo je najtei deo.
+{12142}{12212}Sve vreme ubrzava.
+{12219}{12282}Nauèiæu i vas kad...
+{12373}{12457}Danas sam išla kod njega na posao.|Videla sam je.
+{12471}{12534}To je bilo baš glupo.
+{13589}{13652}Dobro jutro, gospoğo.
+{13977}{14061}Arèi, jako mi je ao, oseæam se|kao poslednja budala.
+{14065}{14149}Skroz sam zaboravila da ti kaem,|Kiti i Tom Gudal...
+{14153}{14263}prireğuju kuænu zabavu za vikend.|Pozvali su nas i ja sam pristala.
+{14275}{14335}Nadam se da nemaš|ništa protiv.
+{14339}{14402}Agata, dobro znaš da ja|ne mogu da idem.
+{14421}{14529}Znam da si vikendom obièno zauzet,|ali toliko smo puta odbili...
+{14533}{14650}Agata, o tome smo veæ raspravljali.|Ne mogu da idem i neæu da idem.
+{14654}{14756}Za vikend idem na selo sa|kapetanom Renkinom.
+{14760}{14855}Dao sam mu svoju reè i neæu|ga izneveriti.
+{14867}{14933}Naša situacija je|neizdrljiva.
+{14937}{15002}Ja ne volim tebe a ni ti|ne voliš mene.
+{15006}{15090}Naš brak je gotov. Kraj.
+{15134}{15220}Agata, slušaj me...|elim razvod.
+{15277}{15317}Volim gospoğicu Nil...
+{15340}{15375}i elim da se venèamo.
+{15552}{15628}Još moemo da budemo sreæni.|ao mi je, ao mi je...
+{15683}{15784}Mnogo te volim...|i uèiniæu te sreænim.
+{15796}{15854}Prekasno je.
+{15858}{15936}Naæi æu advokata koji æe...|navesti ime neke ene...
+{15940}{16065}i sve æe se završiti...|bez prevelike guve.
+{16069}{16176}Ta ena veæ postoji. -Da, ali njeno|ime ne smemo spominjati.
+{16185}{16299}Zašto? -Zato što æu se oeniti|gospoğicom Nil.
+{16303}{16416}Ne elim da se njeno ime, ili ime njene|porodice da se povlaèi po novinama.
+{16420}{16501}Arèi, dozvoliæeš da se povlaèi|ime tvoje porodice. -To je...
+{16577}{16640}Pogledaj me.
+{16669}{16732}Pogledaj me!
+{16884}{16975}elim razvod.|Hoæeš li mi ga dati?
+{17060}{17127}Ne, neæu.
+{17169}{17229}Onda æemo iveti razdvojeni.
+{17233}{17325}Sve æu srediti kako bih se posle|vikenda iselio iz kuæe.
+{17329}{17414}Ne ostavljaj me, nemoj,|molim te...
+{17418}{17501}Ustani! Ustani, Agata!|Napolje!
+{17507}{17531}Ustaj!
+{17535}{17640}Molim te... bez tebe...|-Dii se!
+{17711}{17802}Nemaš trunku dostojanstva.
+{17870}{17930}Namerno si pred slugama|odigrala ovu predstavu.
+{17934}{18038}Nije istina. -Ne elim više da|budem sa tobom.
+{18152}{18239}Dejn! Ako me neko bude traio|biæu kod kapetana Renkina.
+{18385}{18485}Zadraæu se, najviše sat vremena.|Dobro jutro.
+{18489}{18544}Ja sam Voli Stanton, došao sam da|intervjuišem gospoğu Kristi.
+{18548}{18599}Ne dolazi u obzir, moja ena|ne razgovara sa novinarima.
+{18603}{18638}Izgleda da je došlo do|nesporazuma.
+{18642}{18715}Nema nesporazuma. Vratite se|u taksi i idite odavde.
+{18777}{18896}Ja sam Arèibald Kristi, i ako nemate|ništa protiv gospodine... Stenton...
+{18910}{18981}Izvinite, izgleda da ste me,|sluèajno uhvatili za ruku.
+{18985}{19080}Nisam sluèajno, gospodine.|Molim vas, idite.
+{19201}{19270}Zaboravili ste torbu. -Hvala.|Vidi, nije joj dobro...
+{19274}{19334}Ne puštaj nikoga kod nje.|-Pukovnièe?
+{19365}{19462}Drago mi je da sam, konaèno sreo|mua èuvene Agate Kristi.
+{19487}{19596}Dobro jutro, gospoğo, molim vas prenesite|moje pozdrave poštovanoj dami.
+{19600}{19663}U redu, vozaèu.
+{20135}{20198}Mislim da je bolje da ostanem.
+{20238}{20333}Treba li ti nešto?|-Ne, hvala.
+{20395}{20443}Razgovarala sam sa|gospoğicom Nil...
+{20475}{20508}u vezi raèuna.
+{20533}{20590}Onda mi je rekla za|svoj put u banju...
+{20594}{20649}pa više nisam morala ništa ni...|da je pitam.
+{20653}{20765}U koju banju?|-Harogejt. Hotel 'Valensija'.
+{20770}{20923}Ide tamo sa svojom tetkom na dve nedelje.|Na terapiju za skidanje kilae.
+{20968}{21050}Ne idem ja nigde.|-U redu je. Samo idi.
+{21054}{21108}Vidimo se kasnije.
+{22135}{22221}Da li je sve u redu, gospoğo?|-Odlazim, Dejn.
+{22225}{22316}Pozvaæu te sutra da|ti kaem gde sam.
+{23779}{23884}Dolaze, tata. -U redu,|hvala ti, Eni.
+{23966}{24070}Farovi su sugurno ostali upaljeni pošto|se akumulator sasvim ispraznio.
+{24074}{24137}Auto je tek neznatno|ošteæen.
+{24209}{24310}Pogledajte! -Ništa ne diraj,|u redu? Jesi li shvatila?
+{24314}{24348}To nema nikakvog smisla.
+{24352}{24477}Zašto bi iko, tek tako ostavio skupu|bundu po ovakvom vremenu?
+{24549}{24607}Moj tata kae...|-Dobro jutro, gospodine!
+{24612}{24640}Tata? Baš lepo.
+{24654}{24725}Gospodine, to je æerka gospodina|Lelanda koji je pronašao auto.
+{24729}{24790}Viši inspektor Kenvard,|Frederik Leland.
+{24794}{24869}Vlasnik kafiæa na Dorking Roudu.|-Dobro jutro. -On je pronašao auto.
+{24873}{24979}Na putu na posao. -Nazad se nalazi|umrljana odeæa, gospodine.
+{25038}{25131}Jeste li nešto dirali?|-Samo ovo, gospodine...
+{25144}{25176}To sam pronašao na|prednjem sedištu.
+{25297}{25428}Gospoğa Agata Mej Klarisa Kristi...|i još joj je istekla vanost.
+{25434}{25497}Da, gospodine.|Primetio sam, gospodine.
+{25567}{25659}Izvolite gospodine?|-Da li je tu gospodin Stenton?
+{25695}{25768}Fostere! Konobar, u redu je.
+{25799}{25854}Baš prijatno iznenağenje.|Pridruite mi se, molim vas.
+{25858}{25918}Hvala vam. Nešto se dogodilo,|gospodine Stenton.
+{25922}{25984}Slobodno skinite kaput.|-Da, da...
+{26000}{26083}Mislio sam da bi vas interesovalo|odmah da saznate.
+{26129}{26233}Jeste li za ruèak? Fransoa!|-Da, iskreno, jesam.
+{26237}{26304}Molim vas, postavite za|mog prijatelja.
+{26329}{26383}Kakav vam je jastog 'Termidor'?
+{26387}{26447}Iskreno, sad mu nije sezona,|gospodine Stenton.
+{26451}{26532}A šta biste nam preporuèili?|-Imamo divne prepelice u eleu.
+{26536}{26614}Kako vam to zvuèi, Fostere?|-Izvanredno.
+{26618}{26723}To je predjelo. Šta æemo posle?|-To je glavno jelo, gospodine.
+{26751}{26824}Recimo šniclu? -Naravno.|Kakvu volite?
+{26828}{26895}Dobro peèenu.|Sa pomfritom.
+{26899}{26961}Moemo li da dobijemo Šatobrijan?|-To je za dve osobe, gospodine.
+{26965}{27053}Znam. -'Šatobrijan'.|-Sa pomfritom.
+{27089}{27214}A sad, šta je bilo, Fostere? -Molim?|-Šta ste hteli da mi kaete?
+{27268}{27301}Da, gospoğa Kristi...
+{27354}{27392}Nestala je.
+{27396}{27479}Molim? -Pronašli su njen auto...|Napušten.
+{27483}{27547}Gde?|-Kod Njulands Kornera.
+{27578}{27658}Koliko je to daleko?|-Oko sat vonje.
+{27662}{27724}Idemo.
+{27896}{27974}Kreni tim èamcem malo desno!
+{27978}{28091}Stivense, koliko je duboko tu, kod tebe?|-Oko metar i dvadeset, gospodine.
+{28095}{28169}A koliko je led debeo?|-Oko santimetar, gospodine.
+{28173}{28245}Dajte mi još jednu, drugu mreu.|Hoæu dve mree.
+{28249}{28324}Gde je pronağen auto?|-Oko 200 metara uzbrdo.
+{28328}{28379}Zašto pretraujete jezero?
+{28383}{28417}Gospoğa Kristi je ostavila pismo...
+{28422}{28480}veoma uznemiravajuæe pismo svojoj|sekretarici, gospoğici Fišer.
+{28484}{28580}Inspektore, da li je to oproštajno pismo?|-Ne, ne ja vam nisam tako rekao.
+{28584}{28655}Ali, zbog pisma pretraujete|jezero? -Tako je. Da.
+{28659}{28728}Da li je gospoğa Kristi ostavila još|neko pismo? -Koliko znam, nije.
+{28732}{28784}Èak ni muu?|-Koliko znam, nije. Ne.
+{28788}{28887}Da li sumnjate na gospoğinog mua?|-Ne moemo odbaciti tu moguænost.
+{29142}{29229}Niko ne zna da li je|iva ili mrtva.
+{29269}{29330}Gospoğa Kristi je ostavila poruku|svojoj sekretarici.
+{29334}{29395}A muu, ništa.
+{29961}{30024}Saèekajte ovde.
+{30038}{30146}Stigao je, gospodine. -U redu.|Rasterajte ove novinare.
+{30382}{30464}Kenvard, gospodine.|Zamenik šefa policije.
+{30469}{30554}Pukovnik Arèibald Kristi.|Pukovnik Filip Renkin.
+{30605}{30680}Šta se ovde dešava?|-Pretraujemo jezero, gospodine.
+{30684}{30739}Ništa ne brinite, to je|uobièajena procedura.
+{30743}{30795}Pretraujete... zašto?
+{30799}{30890}Verujte, gospodine, uobièajena procedura|u ovakvim okolnostima.
+{30894}{31009}Moja ena se nije udavila. To je|besmisleno. -Apsolutno besmisleno.
+{31013}{31083}Nadam se da ovo nije primer|preterane revnosti, Kenvarde...
+{31087}{31161}i siguran sam da postoji sasvim|prihvatljivo objašnjenje.
+{31165}{31239}Nadam se, gospodine. Kada ste|poslednji put videli svoju enu?
+{31248}{31362}Pa, recimo... oko devet, juèe|ujutru. Za doruèkom.
+{31370}{31462}I kako biste opisali njeno psihièko|stanje u tom trenutku, gospodine?
+{31488}{31548}Šta pokušavate da kaete,|Kenvarde?
+{31552}{31603}Nedavno su kruile glasine...
+{31607}{31669}da je gospoğa Kristi pretila|da æe se ubiti.
+{31673}{31737}To su gluposti.|Najobiènija govorkanja.
+{31744}{31858}Pretpostavljam da znate da moja ena|piše o... misterioznim ubistvima.
+{31862}{32001}Otrovi, intrige, ubistva i samoubistva...|to su bili naši mali domaæi razgovori.
+{32006}{32097}Shvatam, gospodine. Dakle, vi nemate|predstavu šta je moglo da se dogodi?
+{32101}{32155}Siguran sam da joj se apsolutno|ništa nije desilo.
+{32159}{32281}Zato bih vam toplo preporuèio, u vašem|interesu da prekinete ovu potragu.
+{32285}{32349}Zašto tako mislite,|gospodine?
+{32365}{32434}Ne bih voleo da ispadnete|budala, Kenvarde.
+{32438}{32516}Veoma uviğavno od vas,|pukovnièe. Hvala.
+{33994}{34082}Harogejt! Poslednja stanica!|Harogejt!
+{34449}{34524}U 'Old Svon'?|Izvolite, gospoğo.
+{34966}{35029}Gospoğo!
+{35055}{35125}Je l' ovo sav prtljag,|gospoğo? -Da.
+{35424}{35521}Dobro veèe. -Dobro veèe.|elim da iznajmim sobu.
+{35525}{35641}Na koliko, gospoğo?|-Pa, recimo na dve nedelje.
+{35655}{35747}Imamo jednu za 5 gvineja nedeljno|i drugu za 5.5 gvineja nedeljno...
+{35751}{35803}ali sa pogledom na baštu.
+{35807}{35891}Uzeæu tu sa pogledom na baštu.|-Vrlo dobro, gospoğo.
+{35895}{35958}Moete li mi reæi ime|i adresu?
+{36128}{36191}Nil. Gospoğa Nil.
+{36197}{36272}Gospoğa Nil.|-Tereza Nil.
+{36276}{36389}Vaša adresa, moliæu?|-Kejptaun, Juna Afrika.
+{36920}{36985}Da li biste mi preporuèili|supu sa karijem?
+{36989}{37052}Pa, nisam baš siguran,|gospoğo.
+{37082}{37202}A supu od zeca? -Odlièna je,|gospoğo... èini mi se.
+{37244}{37339}Doneæete mi tu supu i|teleæe medaljone.
+{37354}{37429}Da, i jorkširski sitan sir|sa pavlakom.
+{37433}{37505}Ribu neæete?|-Ne, hvala.
+{37509}{37572}Vrlo dobro, gospoğo.
+{38270}{38376}Dobar dan. Ja sam Evelin Krouli,|vaša sapatnica..
+{38456}{38519}Drago mi je.
+{38555}{38623}Da li biste voleli da mi|se pridruite?
+{38835}{38898}Gospoğica Nil.|Tereza.
+{39057}{39188}Jeste li veæ dolazili ovamo?|-Praktièno sam deo inventara.
+{39193}{39277}Imam problema sa leğima pa|jako èesto dolazim ovamo.
+{39281}{39379}Zašto ste vi došli?|-I mene bole leğa.
+{39401}{39478}Jeste li došli peške?|-Zašto?
+{39490}{39565}Skroz ste pocepali|èarapu.
+{39791}{39854}{Y:i}Poslednji poziv za voz|Lids-Harogejt.
+{39859}{39926}Još nije kasno.|Moemo da otkaemo.
+{39934}{40023}Jesi li siguran da ne eliš da|ostanem. -Ovako je najbolje.
+{40029}{40110}Hoæeš li prestati da igraš te svoje|glupe igre dok ne sredim stvari?
+{40114}{40198}Jednom za uvek.|Ljudski.
+{40235}{40324}Mnogo te volim.
+{40579}{40666}Hotel Valensiju, molim vas.
+{40812}{40874}{y:i}Hotel Valensija. |-Da, halo.
+{40878}{40964}Da li je gospoğica Nil veæ stigla?|{y:i}-Oèekujemo je iako...
+{40969}{41035}Molim?|-{y:i}... još nije potvrdila dolazak.
+{41039}{41132}Jeste li sigurni?|{y:i}-Da. elite li da ostavite poruku?
+{41137}{41208}Ne. Nemam, poruku.|Hvala vam.
+{41528}{41632}Mole se svi prijatelji i rodbina gospoğe|Tereze Nil iz June Afrike...
+{41637}{41705}da joj se odmah jave.
+{41709}{41772}Mislite da je u redu?|-Da.
+{41808}{41902}Evelin, moj rukopis je uasan. Molim vas,|da li biste mi ovo prepisali?
+{41906}{41969}Naravno.
+{42031}{42147}Jeste li roğeni u Junoj Africi?|Nemate tamošnji naglasak.
+{42167}{42267}Verovatno zato što sam sa engleskog|govornog podruèja June Afrike.
+{42318}{42405}Šta sad?|-Sad æu to poslati Tajmsu.
+{42518}{42634}Hej, merka te!|Baš je drzak, zar ne?
+{42641}{42718}Gde mu je prijatelj?|Za mene!
+{42775}{42866}Mu mi je nedavno umro.|-ao mi je.
+{42941}{43010}{Y:i}Herogejt, decembar 1926.|Beleške
+{43115}{43213}{Y:i}Nensi Nil.
+{43248}{43445}{Y:i}1) Tretman za mršavljenje - gde?
+{43649}{43788}{Y:i}Iskoristiti Evelin Krouli.
+{43876}{43946}Imate skroz novu garderobu! Vi ste|jedna ekstravagantna dama.
+{43950}{44067}Imam dobar izgovor, izgubila sam prtljag.|-A troškarenje je uvek dobra terapija.
+{44071}{44141}Da! Da li æe e vaš terapeut primiti|pošto nemam zakazano?
+{44146}{44203}Naravno da hoæe. U ovo doba|godine nema puno posla.
+{44207}{44303}Mnogo vam hvala, Evelin. Bez vas|ne bih znala odakle da poènem.
+{44327}{44378}Nadam se da neæemo morati javno|da se razgolitimo?
+{44382}{44469}Ne, ovo nije ni nalik sanatorijumima.|Mnogo je uzbudljivije.
+{44473}{44553}Dobro jutro. -Dobro jutro. Upoznaæete|mnoge zanimljive ljude.
+{44557}{44655}Penzionisane generale, bivše ministre,|ostarele zavodnike...
+{44660}{44723}Ovaj me je prošle nedelje|zaprosio.
+{44768}{44843}Ne brinite. Neæete odavde izaæi|u invalidskim kolicima.
+{44847}{44910}Sledeæi, molim.
+{44932}{44986}Dobar dan, gospodine Bejli.|-Izvolite gospoğice Krouli?
+{44991}{45037}Volela bih da odvedem gospoğu Nil,|kod gospoğe Brajtvajt...
+{45042}{45154}a posle bih došla da zakaemo terapiju.|-Naravno, gospoğice Krouli.
+{45158}{45253}Gospoğa Nil je u istom hotelu.|Jadnica, u agoniji je. -Boe...
+{45257}{45335}Veæ sam joj rekla, ako u Engleskoj|postoji osoba...
+{45339}{45398}koja æe znati šta nije u redu sa njom,|onda ste to vi, gospoğo Brajtvajt.
+{45402}{45493}Baš lepo od vas, mnogo vam hvala.|Trudimo se, koliko moemo.
+{45518}{45587}To su naši èuveni|topli izvori.
+{45591}{45684}Morate ih probati. Ja nikad|ne bih izlazila!
+{45688}{45745}Gospoğo Nil, u èemu je|vaš problem?
+{45750}{45812}Kako rekoste da se ono|zove, Evelin?
+{45825}{45888}Spondiloza.|-Bol u leğima.
+{45926}{46040}Samo ne oèajavajte. To je za muèenike|koji ne mogu da hodaju.
+{46092}{46146}Šešir vam nije preko|potreban.
+{46150}{46255}Gospoğo Nil, elim da mi kaete kad god|osetite bol dok vam ovo radim.
+{46259}{46322}U redu?
+{46379}{46477}Slobodno vièite ako|vas zaboli.
+{46593}{46694}Da li vam je iko rekao da imate malo|iskrenuta kolena, gospoğo Nil?
+{46698}{46786}Moda zbog toga imate|problema.
+{46790}{46853}Da li vas ovo boli?
+{46889}{46965}{y:i}Hotel Valensija.|-Oprostite na smetnji.
+{46969}{47058}Moete li mi reæi da li je stigla|gospoğice Nensi Nil?
+{47062}{47129}{Y:i}Jeste. Trenutno se nalazi|u Kraljevskim Kupkama.
+{47133}{47197}Jeste?|{y:i}-Da li elite da joj prenesemo poruku?
+{47201}{47312}Ne, ne. Ne elim da razgovaram|sa njom. Mnogo vam hvala.
+{47557}{47618}eleo sam da vas vidim kako bih|vam izrazio našu zahvalnost...
+{47622}{47703}za neverovatan posao koji ste obavili|u poslednjih nekoliko nedelja. -Hvala.
+{47707}{47778}Naravno, od kad sam prošle godine|kupio ove novine...
+{47783}{47858}tira je znaèajno porastao,|ali od vašeg dolaska...
+{47863}{47950}brojke u poslednjih par|nedelja...
+{47954}{48038}Moram da vam priznam da smo svi|svesni vašeg doprinosa.
+{48043}{48105}Hvala vam
+{48146}{48239}Na èemu trenutno radite?|-Na nekoliko tema.
+{48243}{48327}Nešto odreğeno?|-Nestanak Kristijeve.
+{48331}{48422}Stvarno? -Da, baš me je zaintrigirao.|Juèe sam išao do Njulend Kornera.
+{48426}{48541}Da, èuo sam. To je malo van vaših|uobièajenih interesovanja, zar ne?
+{48545}{48629}Ne baš. Godinama èitam knjige gospoğe|Kristi sa sve veæom naklonošæu...
+{48633}{48674}a kako se divim njenom|neverovatnom talentu,
+{48679}{48731}moe se slobodno reæi da sam veoma|zainteresovan.
+{48739}{48841}Naravno, ja nisam novinar ali mislim da|ljudi iz naše redakcije...
+{48846}{48947}sasvim dobro pokrivaju|celu ovu prièu.
+{48951}{49099}A vi ste na daleko èuveni, da tako|kaem, po svojim intervjuima.
+{49113}{49176}Tako je.|-Da.
+{49220}{49294}Predlaete da se vratim|intervjuima?
+{49298}{49365}Nisam ni pomislio tako nešto.
+{49369}{49495}Jedino brinem da ne traæite uzalud|svoje, izuzetno dragoceno vreme.
+{49500}{49566}Razgovarao sam sa pukovnikom|Kristijem. -Odlièno.
+{49570}{49691}I on me je uveravao da je svo ovo|jedno preterivanje do apsurda.
+{49719}{49834}Izvinite što pitam, ali da je ovo ono što|Englezi zovu 'starim školskim vezama'?
+{49838}{49900}Naravno da ne.
+{49973}{50043}Izvinite, ali moram da krenem na još|jednu dosadnu konferenciju.
+{50047}{50109}Oprostite, molim vas.|-Naravno.
+{50113}{50173}Drago mi je što sam vas video.|Samo ovako nastavite.
+{50177}{50229}Morate jednog dana|veèerati sa mnom.
+{50234}{50315}Recimo pred kraj nedelje?|-Moda budem zauzet.
+{50780}{50894}Koliko ljudi imate na raspolaganju?|15.000? 20.000?
+{50899}{50992}Još uvek traite materijal|za prièu, Fostere?
+{51262}{51356}Šta kae pukovnik Kristi? Ne eli|da mi da intervju.
+{51360}{51420}'Moja ena je nestala.|Nemam komentara.'
+{51424}{51468}Malo èudno ponašanje,|sloiæete se?
+{51472}{51534}Zamislite da je vaša ena nestala.|-Nisam oenjen.
+{51549}{51608}Ali vam prva pomisao svakako ne bi|bila kako da ometete policiju...
+{51612}{51664}u obavljanju njenog posla,|zar ne, Fosteru?
+{51669}{51767}Da li je uspeo?|-Daje sve od sebe.
+{51774}{51829}Ne znam šta su on i njegov|prijatelj naumili...
+{51833}{51899}ali ako postoji leš, ja æu ga pronaæi,|bez obzira na cenu.
+{51904}{51994}Kako ide, Darvise?|-Izgubili smo vezu sa 'èetvorkom'.
+{51999}{52080}Zašto ne optuite pukovnika za ometanje|policije u vršenju dunosti?
+{52085}{52169}Moda bih mogao. A sa druge strane moda|je to sasvim normalno ponašanje...
+{52174}{52258}jednog arogantnog, uobraenog,|oholog kuèkinog sina.
+{52262}{52312}Uzgred budi reèeno,|ovo je bilo nezvanièno.
+{52316}{52375}Ostalo moete da napišete u|svojim utim novinama.
+{52379}{52436}Lep kaput.
+{52473}{52586}Da li vam je stigao prtljag?|-Nije. Baš neprijatno.
+{52590}{52678}Nisam pronašla ni jedan| primerak Tajmsa.
+{52684}{52804}Baš vam je Tajms bio potreban?|-Da. Stavila sam oglas.
+{52809}{52884}elim da pronağem nestale|roğake.
+{52910}{52973}Videæu šta mogu da|uèinim.
+{52977}{53089}Svi pišu samo o toj... nestaloj...|spisateljici.
+{53112}{53243}Njen mu kae, 'Jako sam zabrinut|i veoma... uznemiren'.
+{53283}{53351}Ali, on je jedan grozan|èovek.
+{53356}{53453}Ako je odluèan da je pronağe,|pronaæi æe je.
+{53601}{53689}Izvinite, nemamo limuna!|Moe li sa mlekom?
+{53693}{53756}Nije se ubila, zare ne,|gospoğo Fišer?
+{53796}{53853}Naravno da nije.|-Sasvim ste sigurni?
+{53859}{53986}Da. Mislim da tako nešto|nikad ne bi uradila.
+{53990}{54109}Ja je bar dobro poznajem.|-Zašto mi, onda ne kaete gde je?
+{54113}{54203}Odakle bih ja znala? Otkud vam|uopšte ideja da bih ja...
+{54207}{54294}Gledajte to na ovaj naèin. Pre ili|kasnije, neko æe je pronaæi.
+{54298}{54389}I za nju i za mene bi najbolje bilo|da taj neko budem ja.
+{54393}{54444}U suprotnom, pronaæi æe|je policija...
+{54449}{54532}i svi æe se, kao lešinari|obrušiti na nju.
+{54568}{54657}Mislim da biste morali da|mi verujete. -Zašto?
+{54662}{54721}A što da ne?
+{54725}{54854}Još nešto, da li znate zašto gospoğica|Nensi Nil ide u Herogejt?
+{54873}{54936}Odakle vi to znate?
+{54953}{55016}To mi je posao.
+{55026}{55103}Jednom mi je rekla, ako ikad upadne|u bilo kakvu nevolju...
+{55108}{55168}pronaæi æe naèin da stupi|u kontakt sa mnom.
+{55172}{55285}Rekla je da æe u Tajmsu objaviti|oglas liène prirode.
+{55289}{55367}Pogledajte ovo. Jako su mi sumnjiva|ova dva 'e' u prezimenu 'Nil'.
+{55372}{55436}Tako ga Nensi izgovara.|Ovaj poštanski broj...
+{55440}{55532}Poznajem èoveka u Tajmsu. Hvala, gospoğice|Fišer, mnogo ste mi pomogli.
+{56090}{56204}Jeste li dobro? Samo drite noge|dalje od ovih ploèica.
+{56261}{56340}Gospoğo Brajtvajt, šta æe biti ako|pustite jaèu struju?
+{56344}{56417}Idite direktno u raj!
+{56421}{56490}Ne brinite, gospoğo Nil,|znamo šta radimo.
+{56494}{56558}Ako bih još malo pojaèala|struju...
+{56563}{56633}verovatno biste osetili|grèeve u mišiæima.
+{56637}{56733}Grèevi nisu opasni. -Ali su veoma|neprijatni, draga moja.
+{56737}{56850}Pri tom, ako imate slabo srce mogu da|vam naprave ozbiljno ošteæenje.
+{56871}{56921}Za šta slui ova stolica?
+{56925}{56988}Koristimo je za mnogo ozbiljnije|sluèajeve,
+{56992}{57067}recimo za artritis i probleme|sa cirkulacijom.
+{57071}{57128}Mada, moram vam reæi da je|sve više dama...
+{57133}{57187}koristi za skidanje|kilae.
+{57192}{57298}Misle da æe se tako prolepšati i da æe|pronaæi ljubavnika... i sliène gluposti.
+{57328}{57392}A tako nešto se ne dešava u|našem gradu...
+{57396}{57493}Gospoğice Nil, za danas|je dosta.
+{57515}{57614}{Y:i}1) Saznati u kojim se sve terapijama|koristi elektrièna stolica - mršavljenje?
+{57618}{57768}{Y:i}2) Brajtvajt - uzeti knjige.
+{57911}{58091}{Y:i}Elektro kada, mala voltaa, grèevi,|ošteæuje slabo srce
+{58096}{58170}{Y:i}Elektrièna stolica|Smrtonosna?
+{58441}{58516}Iskreno se nadam da je ovaj apartman|topliji od onog koji sam imao u Londonu.
+{58520}{58577}Siguran sam da jeste.|Da li je to sve, gospodine Šats?
+{58581}{58668}Ne, nije. Molim vas da mi doneste|svee sveæe u apartman...
+{58673}{58737}ako je moguæe, rue, hrizanteme|ili ljubièice.
+{58741}{58835}Naravno, gospodine, neæe biti problema.|-I pošaljite momka da mi ispegla odelo.
+{58840}{58915}Vrlo dobro, gospodine. Odmah. Da li|ostajete due, gospodine?
+{58919}{58989}Èim saznam, javiæu i vama.|-Vrlo dobro, gospodine.
+{58993}{59048}Momak æe vas otpratiti do|vaše sobe, gospodine.
+{59052}{59132}Kraljevske Kupke? Mogu li da|dobijem recepciju?
+{59137}{59211}Zaboravio sam. Molim vas telefon|u mojoj sobi.
+{59215}{59248}Naravno, gospodine.|-Hvala.
+{59252}{59338}Dobar dan, mogu li nešto da vas pitam?|Ja sam Šats i ostaæu ovde neko vreme.
+{59343}{59430}Da li mogu ovo da vam ponudim u zamenu|za vašu najbolju moguæu uslugu?
+{59435}{59516}Mnogo vam hvala, gospodine.|-U redu je. Dobro jutro.
+{59521}{59589}Dobro jutro. -Zovem se Šats i|odsešæu u vašem hotelu.
+{59593}{59698}Da, da... zovem u ime|gospoğe Nil...
+{59705}{59752}Gospoğica... Ne, ne,|gospoğica Nensi Nil.
+{59783}{59850}elela bih da potvrdim njene|ugovorene sastanke. molim vas.
+{61032}{61125}Promašio, ura!|-Teodore, umeš ti i bolje.
+{61129}{61187}Poznavala sam jednog Škota|koji je bio pravi majstor.
+{61191}{61244}Tom gospodinu elim da posvetim|ovaj udarac.
+{61249}{61309}Pobednièki udarac.
+{61331}{61394}Nemojte se smejati.
+{61455}{61518}Kakav baksuz!
+{61541}{61622}Sa druge strane, mene je bilijaru uèio|ovde prisutni ujka Dons...
+{61627}{61736}i zato njemu posveæujem ovaj...|Molim vas, pomerite ruke sa stola.
+{61740}{61850}... poslednji, spektakularni udarac.|-Gledaj da je ubaciš u pravu rupu.
+{61855}{61925}Promašaj, promašaj, promašaj!|-Hvala, hvala, hvala!
+{61929}{61988}Vi ste na redu, vi ste na redu.|-Ujaèe, molim te, oprosti mi.
+{61993}{62097}Ne, neæu. Nema nikakve sumnje da sam|samo traæio vreme sa tim momkom.
+{62101}{62195}Da vam objasnim, devojke. Cilj igre|je ubaciti kuglu u rupu.
+{62199}{62309}Ovo je rupa, da vidimo još sreænu|kuglu. Doği, doği.
+{62313}{62414}Moete li da sklonite tu prepreku,|gospodine Petelsen?
+{62503}{62576}Imam neki oseæaj, da ovo|baš i nije sportski,
+{62581}{62643}ali... hoæemo li?
+{63970}{64033}Bravo, Tereza!
+{64054}{64107}Dame su pobedile.
+{64111}{64172}Èestitam.
+{64197}{64260}Apsolutno neverovatno.
+{64604}{64694}Izvinite, smem li da pitam,|ko ste vi?
+{64698}{64761}Gospoğa Nil. -Gospoğa...|-Nil.
+{64774}{64867}A ko ste vi? -Šats.|Kurtis Šats, Mlaği.
+{64891}{64930}Drago mi je.|-I meni.
+{64936}{64997}Vi ste Amerikanac?|-Da.
+{65010}{65066}Otkud vi u Herogejtu u|ovo doba godine?
+{65071}{65148}Mogu li biti iskren sa vama,|gospoğo Nil? -Da.
+{65425}{65506}Imate problema sa zatvorom?|-Upravo tako.
+{65511}{65564}Ako smem da pitam, šta je|vas dovelo ovamo?
+{65568}{65627}Bolest, sasvim drugaèija|od vaše.
+{65631}{65717}Da li je bolna kao moja?|-Nepodnošljivo.
+{65801}{65866}Da zaplešemo? -Ako mislite|da moete.
+{65871}{65933}Najbolje da probamo.
+{67404}{67487}U redu, Darvise, završili smo.|Opozovi sve ljude.
+{67554}{67639}Dakle, niste našli telo.|Jeste li razoèarani?
+{67667}{67721}Mislite da je on to uradio?
+{67725}{67797}Dobro, gde je pukovnik?|Zašto nije ovde?
+{67801}{67866}Svi su ovde, osim prokletog|Kristija.
+{67870}{67927}Mislite da on zna nešto|što vi ne znate?
+{67932}{67992}Neko zna.
+{68510}{68584}Vaš prijatelj je jako dobar.|-Jeste.
+{68588}{68641}A vi, je l' znate da igrate|èarlston? -Pomalo.
+{68646}{68713}Hoæete da probamo?|-Ne, ne znam toliko dobro.
+{68718}{68787}Ja sam nenadmašan.|Imam i nekoliko nagrada.
+{68815}{68886}Ovde je jako toplo, zar ne? -Da.|-Hoæete da prošetamo?
+{68891}{68986}Ne. -To je prilièno|dobra ideja.
+{68990}{69051}Izvinite, molim vas.|-Naravno.
+{69371}{69474}Da li je ovde i gospodin Nil?|-Ne, ne, nije.
+{69479}{69509}Kako to?
+{69528}{69586}Bojim se da je preminuo.|-Jako mi je ao.
+{69595}{69652}Puška mu je opalila|dok je punio.
+{69657}{69724}ao mi je.
+{69799}{69903}A vi, jeste li oenjeni?|-Nisam.
+{69948}{70034}Rizikovaæu da zvuèim kao papagaj,|ali i moja ena je preminula.
+{70042}{70105}Pamela je umrla kad joj|je pukao èir.
+{70161}{70205}Baš grozno.
+{70285}{70433}Mogu li... da vas poljubim?|-Ne.
+{70437}{70537}Da li biste voleli jednu cigaretu?|-Ne, hvala.
+{70543}{70620}Mogu li da vam kaem da su svi ovi moji|nespretni pokušaji da vas nasmejem..
+{70625}{70724}samo moj naèin da vam pokaem|koliko mi se sviğate?
+{70728}{70790}Volela bih da ste to|preæutali. -Zašto?
+{70794}{70864}Zato što mnogo volim|svog mua.
+{70904}{70993}Moj mu je bio jako dobar|prema meni. -Shvatam.
+{71059}{71157}Znate, gospoğo Nil, kad je moja ena|umrla, ja sam alio za njom...
+{71162}{71253}a onda, posle samo 2 ili 3 meseca,|shvatio sam da...
+{71257}{71317}da alim iz sasvim drugih|razloga.
+{71321}{71451}Kako to mislite? -Otkrio sam...|da me je varala.
+{71470}{71521}Oseæao sam se prevarenim.
+{71589}{71655}Da li je vas vaš pokojni mu|ikad prevario?
+{71659}{71745}Ne, on nije takav... nije bio|takav èovek.
+{71758}{71853}Kakav to èovek? -Mogu li da|dobijem jednu cigaretu?
+{72022}{72085}Hvala.
+{72161}{72246}Imate li predstavu|koliko ste lepi?
+{72319}{72382}Moram da idem.
+{72393}{72456}Laku noæ.
+{72490}{72528}Gospoğo Nil...
+{72593}{72630}nisam vam upalio|cigaretu.
+{72745}{72811}Nadam se da æemo se|opet videti.
+{72865}{72981}Rekla bih da je to, praktièno|neizbeno.
+{73098}{73157}{Y:ui}Prvi susret sa gospoğom K.
+{73161}{73213}{Y:i}Igrala je bilijar sa prijateljima.
+{73217}{73278}{Y:i}Predstavlja se kao Tereza Nil,|kao u oglasu iz Tajmsa.
+{73312}{73461}{Y:i}Ne pokušava da se sakrije.
+{74623}{74730}Gospoğo Nil! Izvinite, nisam hteo|da vas uplašim.
+{74737}{74800}Samo sam se pitao o èemu|razmišljate.
+{74828}{74947}Razmišljala sam kako su se Katarina|i Hitklif izgladnjivali do smrti.
+{74951}{75035}Rado razmišljate o|nasilju?
+{75044}{75112}Ne verujem.|Nadam se da ne.
+{75259}{75322}Moram biti negde.
+{75407}{75537}'Jedan je poginuo u borbi.|Drugi je umro u zatvoru.
+{75609}{75724}Treæi je skoèio sa mosta|tugujuæi za decom i enom.
+{75781}{75948}I svi... svi spavaju... spavaju...|spavaju na brdu.'
+{76111}{76200}Mislim da nas dvoje imamo|nešto zajednièko.
+{76264}{76331}Hoæete da se vratimo?
+{77145}{77201}Dobar dan!
+{77205}{77273}Kako ste?|-Dobro.
+{77310}{77392}Posmatrao sam vas odande, niste|izgledali kao da uivate.
+{77396}{77459}Ne umem da plivam.
+{77464}{77535}Jednom su pokušali da me nauèe,|ali èim sam otišla u dubinu...
+{77542}{77593}strašno sam se prepala.|-Uopšte nije teško.
+{77599}{77675}Doğite na sredinu bazena|pa æu vam pokazati.
+{77679}{77742}Nije teško. Samo me|drite za ruku.
+{77757}{77833}Hajde, ako ja mogu ovde da|hodam, moete i vi.
+{77855}{77960}Drite se. Samo tako.|Samo tako.
+{77993}{78047}Opustite noge.
+{78051}{78140}Kako to mislite? Da ih podignem?|-Da.
+{78144}{78200}Podigla sam ih.|-U redu
+{78265}{78295}Izvinite.|-U redu je.
+{78423}{78511}Jeste li dobro? -Jesam.|-Morate i ruke da opustite.
+{78523}{78629}Sad, ja æu vas drati za bradu.|Evo ovako... Baš ovako.
+{78638}{78741}Samo mi drite glavu iznad vode.|-Dobro, iznad vode je? -Jeste.
+{78756}{78795}Ništa ne brinite, drim vas.
+{79201}{79288}Ova stara dama me podseæa|na moju babu.
+{79296}{79402}Kad sam bila mala delila sam|krevet sa njom.
+{79469}{79543}Da li i muškarci hodaju na prstima|kad su goli?
+{79547}{79655}Nešto se ne seæam.|Retko im gledam stopala.
+{79659}{79721}Evelin!
+{79763}{79871}Baš mnogo voliš muškarce,|je l' da? -Definitivno.
+{79875}{79929}Ali sam veoma izbirljiva.
+{79933}{80011}Zar ne misliš da postoji potreba|za vernošæu?
+{80015}{80075}Mislim da vernost|treba zasluiti.
+{80080}{80192}Muškarci su nestabilni. Zato je|jako bitno izabrati pravog.
+{80200}{80297}Ne smemo se samo prepustiti|stvarima.
+{80309}{80371}Naravno, znam.
+{81125}{81181}'Moja ena i ja se nikad|nismo posvağali.
+{81185}{81236}Nikad nije postojala nikakva|razlika u mišljenjima...
+{81240}{81301}kad se radilo o našim zajednièkim|prijateljima', rekao je pukovnik.
+{81305}{81357}Dodao je i da ne eli da|špekuliše...
+{81361}{81454}odakle su krenule sve te glasine.|I to je cela prièa.
+{81458}{81514}Gde ima dima, ima i vatre,|sloiæete se?
+{81518}{81651}Tu postoji neki drugi drugi muškarac,|gospoğo Brajtvajt. Ili ju je on ubio.
+{81655}{81717}Draga moja gospoğo Nil,|izvinite što ste me èekali.
+{81721}{81786}A sad, draga, jeste li spremni?|-Jesam, hvala vam.
+{81790}{81903}Uivaæete u ovome. Ova terapija je|jako dobra za vaše simptome.
+{81977}{82031}Hajde, draga moja,|sedite.
+{82035}{82162}Uasno, zar ne? Kao elektrièna stolica u|Sjedinjenim Dravama. -Èudna pomisao.
+{82166}{82250}Mada, ne bih imala ništa protiv|da par ljudi sprim u njoj.
+{82254}{82316}Pretpostavljam da svi imamo|nekog takvog.
+{82320}{82442}Moe li stolica biti smrtonosna?|-Da, moe.
+{82446}{82553}Mada, za to morate biti inenjer|elektrotehnike. Je l' tako, Kora?
+{82557}{82632}Morate samo znati kako da namestite|reostat, gospoğo Brajtvajt.
+{82636}{82722}Šta je 'reostat'? -Ovo ovde su|reostati, gospoğo.
+{82726}{82792}Njima se reguliše jaèina struje koja|se propušta u stolicu.
+{82796}{82850}Kakav morbidan razgovor.
+{82854}{82918}Ništa ne brinite...|savršeno ste bezbedni.
+{82922}{82974}Još nismo izgubile ni jednog|pacijenta, je l' tako, Kora?
+{82978}{83061}Izgleda da nam gospoğa Nil još ne veruje|u potpunosti, gospoğo Brajtvajt.
+{83065}{83125}A ovo vam je veæ èetvrti dolazak|kod nas, zar ne, gospoğo?
+{83129}{83220}Ne, ti prièaš o Nensi Nil, ovo je|gospoğa Tereza Nil.
+{83224}{83350}Isto se piše, zato si se zbunila.|Dobro, idemo.
+{84019}{84071}Dobro jutro.
+{84075}{84154}Voleo bih da probam vodu.|-Naravno, gospodine.
+{84158}{84227}Koliko košta?|-Tri penija, gospodine.
+{84325}{84390}Prvi put ste u Herogejtu, gospodine?|-Da, i moram priznati...
+{84394}{84475}nikad nisam toliko uivao|u odmoru.
+{84479}{84560}Gospoğice Nil, samo da potvrdim|vaš sastanak za popodne.
+{84564}{84626}Mnogo vam hvala.|-Hvala.
+{84645}{84712}Dobro jutro, dame.|-Dobro jutro.
+{84716}{84768}Gospodine Foksan, video sam|vas sinoæ kako plešete.
+{84772}{84833}Izgledali ste kao da imate 22 godine.|Samo tako nastavite.
+{84837}{84899}Ovo je bilo jako lepo s vaše|strane, gospodine.
+{84919}{85003}Evo i mene. Lepo vam je|to krzno.
+{85017}{85078}Vidim da pratite aferu|Agata Kristi.
+{85083}{85136}Šta vi mislite, da li je mrtva?|Veæina misli da jeste.
+{85140}{85194}Veæina, zar ne?|-Da, svi osim njenog mua.
+{85198}{85306}Jutros sam proèitao da nudi 500 funti|za bilo kakvu informaciju.
+{85311}{85381}Šta mislite o tome?|-Izgleda da mu ona toliko vredi.
+{85386}{85456}Iznenağen sam da je ponudio bilo koji|novac za da bi pronašao svoju enu.
+{85461}{85524}Tek kad sam video tu fotografiju|nešto sam shvatio.
+{85528}{85590}Neverovatno lièi na vas.|Šta kaete na to?
+{85615}{85715}Da, isto to sam i ja pomislila.|-Mogle biste da proğete kao sestre.
+{85771}{85870}Nego, da li biste mi se pridruili|na èaši sumporne vode?
+{85885}{85986}Mislim da bi to moglo da uèvrsti|naš odnos. iveli.
+{85990}{86052}Tetka!|-iveli.
+{86145}{86239}Mislite li da je zgodna?|-Mlağa ili starija?
+{86243}{86354}Ona koju gledate. -Tim plavim|oèima ništa ne promièe.
+{86363}{86475}Prosto sam ubeğena da me ismevate.|-Nikad ne bih uradio ništa slièno.
+{86493}{86610}Mislim da ste mnogo lepši,|i interesuje me zašto ste to rekli.
+{86614}{86710}Zato što svako moe odmah da vidi|da je lepa... i veoma pametna.
+{86714}{86794}Da, ali ja ne mogu da govorim|u svaèije ime...
+{86798}{86924}moram se drati svog prvobitnog utiska|kao neko ko prouèava ljudsku prirodu...
+{86933}{86999}i zato moram zakljuèiti|da je moj originalni...
+{87079}{87156}Izgleda da prièam sam sa sobom.|Dobro jutro.
+{88211}{88261}Moete li da me odvezete do|hotela Valensija?
+{88265}{88325}Naravno, gospoğo.|-Hvala.
+{91256}{91344}Nije mi potreban èuvar,|gospodine Šats.
+{91467}{91561}Slušajte, znam da ste u nevolji,|znam da nešto nije u redu.
+{91565}{91678}Mogu li da uğem da porazgovaramo?|-Trenutno nemam vremena.
+{91973}{92082}Znam da ste u nevolji,|znam da nešto nije u redu.
+{92303}{92337}elim da pomognem.
+{92385}{92413}Molim vas.
+{92516}{92578}Moj mu...
+{92602}{92674}je imao vezu.
+{92678}{92767}Nikako da prebolim.|Sve vreme mislim na to.
+{92771}{92847}Ponekad ne mogu da zaspim.
+{92871}{92933}Svaki èovek ima izbor...
+{92939}{93042}da promeni pravac|svog kretanja.
+{93058}{93172}Ja imam samo jedan izbor...|svog mua.
+{93253}{93340}Tereza, vaš mu je mrtav.
+{93387}{93426}Za mene nije.
+{93729}{93799}Provedite sa mnom sutrašnji dan.
+{93803}{93899}Ako ne sutrašnji dan,|onda ovu noæ.
+{93919}{94021}Neprijatno mi je kad mi govorite|takve stvari.
+{94025}{94087}Govorim vam ono što|oseæam.
+{94257}{94315}Da li biste voleli|jednu cigaretu?
+{94406}{94436}Ne.
+{94509}{94554}Da li biste voleli|poljubac?
+{94618}{94648}Da.
+{95919}{95981}Laku noæ, gospoğo Nil.
+{95990}{96058}Laku noæ, gospodine Šats.
+{96529}{96580}Da li biste mi preporuèili da nastavimo|sledeæih nekoliko dana?
+{96584}{96643}Da, naravno, to bi bilo pametno.|Oh, šta je ovo?
+{96672}{96755}Dobro jutro. Kako ste, draga?|10:00, soba 4, evo nas!
+{96759}{96817}Ne moete ovde da ulazite.|Ovo je odeljak za dame.
+{96821}{96879}Ja sam gospodin Petelsen, a ovo je|moj ujak gospodin Dons,
+{96884}{96959}i èvrsto sam ubeğen da imamo zakazano|kod gospoğe Brajtvajt.
+{96963}{97028}Ne, to je apsolutno nemoguæe.|ja sam gospoğa Brajtvajt...
+{97032}{97097}a ovo je samo za dame.|-Apsolutno nema greške, gospoğo.
+{97101}{97189}Siguran sam da mi je gospoğa Nil|zakazala tretman kod vas.
+{97193}{97259}Je l' to taèno, gospoğo Nil? -Dobar dan,|gospodine Dons. Otkud vi ovde?
+{97263}{97367}Gospoğo Nil, vi ste mi zakazali|tretman, je l' tako?
+{97371}{97430}Jako mi je ao, ja vam nisam|zakazala nikakav tretman.
+{97434}{97489}Ali, ovo je soba broj 4?|-Da, ovo je soba broj 4.
+{97495}{97536}Onda æu ovde dobiti svoju|terapiju.
+{97541}{97621}Gospoğo Brajtvajt, zašto ih ne odvedete|u muški deo? Ja nigde ne urim.
+{97625}{97688}Problem je rešen.
+{98066}{98226}Struja u glavnom kolu podešava|se pomoæu reostata, O-1 i O-2.
+{98391}{98447}Veæ sam izgubila jedan kilogram|za dva dana.
+{98451}{98537}Ne znam zašto bi tako jaka devojka kao|što si ti vodila raèuna o svojoj teini.
+{98541}{98624}Dame, jedan gospodin vas|èeka u predvorju.
+{98641}{98682}Tetka, to bi mogao biti moj|prijatelj iz Londona.
+{98686}{98717}Moeš li da me saèekaš|na spratu?
+{98721}{98818}Ne idem ja nigde. Došla sam ovamo da|bih saèuvala tvoj ugled.
+{98822}{98885}Dobar dan, dame.|Dobar dan.
+{98890}{98954}Gospoğo Etel Proktor, prosto sam|oduševljen što se konaèno sreæemo.
+{98958}{99016}Toliko sam slušao o vama.|Jako mi je drago.
+{99020}{99119}A vi ste gospoğica Nensi Nil, još lepša nego|što sam se ikad usudio da pomislim.
+{99123}{99190}Ja sam Šats. Kurtis Šats Mlaği.|Pridruite mi se, molim vas.
+{99194}{99297}Mislim da imamo zajednièkog prijatelja|na Menhetnu. Sedite, molim vas.
+{99301}{99374}Gospodine Šats, ni ja, ni moja teta|nikad nismo bile na Menhetnu.
+{99378}{99423}Jeste li sigurni da nas niste|pomešali sa nekim?
+{99428}{99476}Apsolutno sam siguran da nisam,|gospoğice Nil.
+{99481}{99550}Gospoğice Nil, telefon za vas.
+{99562}{99611}Izvinite.|-Naravno.
+{99631}{99662}Moete ovde preuzeti vezu.
+{99762}{99807}Halo?|{y:i}-Da li je to gospoğica Nensi Nil?
+{99812}{99866}Da, ja sam.|{y:i}-Ovde gospoğa Brajtvajt.
+{99871}{99906}Moete li malo glasnije?
+{99932}{100004}Da, draga. Zovem vas u ime|gospoğe Brajtvajt.
+{100008}{100073}Zamolili bismo vas da pomerimo|vaš sutrašnji tretman...
+{100077}{100193}sa 12:30 na 9:30.|-Mora li baš tako rano?
+{100197}{100258}Jako mi je ao, draga.|Prosto smo prebukirani,
+{100262}{100321}a u poslednji trenutak nam se|javila jedna starija osoba.
+{100325}{100410}{Y:i}U redu, mada je ovo jako neprijatna|situacija. Ako vam neko otkae...
+{100414}{100477}Gospoğo Nil...
+{100547}{100615}Dame moje, koliko planirate da|ostanete u Herogejtu?
+{100619}{100675}Verovatno još nedelju dana.|-Baš èudno.
+{100679}{100748}Ko je to bio, dušo? -Kraljevske Kupke.|Promenili su mi termin.
+{100752}{100818}To nije nikakav problem, zar ne?|-Nisam pristala ali su prebukirani.
+{100822}{100885}U ovo doba godine? -Nemojte da se|sekirate, gospoğice Nil. Dozvolite...
+{100889}{100956}Izvinite, gospodine...|Idem u svoju sobu.
+{103305}{103360}Jako lepo, gospoğo Nil.
+{103423}{103471}Mnogo vam hvala,|gospodine Stenton.
+{103581}{103666}Znaš šta? To je Agata Kristi.|-Ne budi blesav.
+{103670}{103733}Jeste, kad ti kaem.
+{105105}{105216}{Y:i}Uasno, zar ne? Kao elektrièna stolica u|Sjedinjenim Dravama.
+{105227}{105316}{Y:i}Ne bih imala ništa protiv da par|ljudi sprim u njoj.
+{105320}{105353}{Y:i}Moe li biti smrtonosna?
+{105358}{105434}{Y:i}Morate samo znati kako da namestite|reostat, zar ne, gospoğo Brajtvajt?
+{106606}{106710}Dobro jutro. Kraljevske Kupke?|Dajte mi gospoğu Brajtvajt, molim.
+{106714}{106779}{Y:i}Samo trenutak.|-Halo?
+{106783}{106853}Halo? Gospoğa Brajtvajt?|{y:i}-Da?
+{106857}{106962}Evelin Krouli ovde.|Leğa me uasno bole.
+{106966}{107037}Da li postoji moguænost da|doğete do hotela?
+{107041}{107066}{y:i}Znate imamo...
+{107070}{107130}Upravo sam razgovarala sa|vašom recepcijom...
+{107134}{107199}i rekoše mi da vam je jedan|tretman otkazan.
+{107203}{107237}Gospoğice Nil!
+{107278}{107308}Gospoğice Nil!
+{107342}{107411}Gde ste bili? Nekoliko puta sam pokušao|da vas dobijem u Valensiji...
+{107415}{107442}ali nikako da vas nağem.
+{107447}{107539}Gospodine Šats, uasno urim. Kasnim|na tretman a i tetka me èeka.
+{107543}{107619}Da, samo sam hteo da pitam,|da li planirate još da ostanete?
+{107632}{107682}A zašto ne bih ostala?
+{107686}{107771}Ovde je tako dosadno. Ne znam kako|vi i tetka mislite da se zabavite?
+{107777}{107843}Mislio sam da vas veèeras|izvedem na veèeru.
+{107847}{107872}Dobro jutro, gospoğo Proktor.
+{107876}{107928}Hoæete veèeras sa mnom na|veèeru, gospoğice Nil?
+{107934}{107986}Gospoğice Nil, jako|je vano!
+{108123}{108151}Dobro jutro.|-Dobro jutro.
+{108155}{108207}Gospoğica Nensi Nil kod|gospoğe Brajtvajt.
+{108211}{108255}Da, da, soba broj 4.|-Hvala.
+{108408}{108470}Gospoğice Nil, drago mi je|što vas vidim.
+{108474}{108547}Prošli put ste zaboravili jednu|malu zlatnu narukvicu.
+{108551}{108634}Ostavila sam je u svojoj sobi.|Doneæu vam je kad krenete.
+{108887}{108978}Smirite se, dame, ja sam doktor.|Samo bez panike, ostanite mirne.
+{108982}{109007}Gospoğice Nil!
+{109011}{109085}Gospoğice Nil, izgleda da nisam bio jasan,|ovde sam u ime pukovnika Kristija.
+{109090}{109121}Kako to mislite?
+{109125}{109171}Mislim da ovo nije pravo mesto za|razgovor. Moemo li da izağemo?
+{109176}{109205}Gospodine...|-Ne, ne moemo.
+{109209}{109248}Pukovnik Kristi je rekao...|-Za jedan sat biæu u hotelu.
+{109253}{109291}U redu, obeæavam da æu|vam se javiti.
+{109295}{109368}Nema potrebe za panikom, draga moja.|Ja sam doktor. Ostanite mirni.
+{109372}{109423}Samo mirno, drage moje dame,|ja sam doktor.
+{109471}{109513}Nemojte se uzbuğivati,|ovde sam privatno.
+{110721}{110777}Izvinite, gospodine. Iz te sobe|niko ne odgovara.
+{110781}{110807}Jesi li kucao na vrata?
+{110811}{110856}Jesam, gospodine.|-Sasvim si siguran?
+{110883}{110923}U redu, izvoli.|-Hvala, gospodine.
+{110927}{110995}Da li se gospoğa Tereza Nil odjavila|od jutros? -Ne, gospodine, nije.
+{110999}{111065}Sobarica je ubeğena da je to Agata Kristi|iako se predstavlja kao gospoğa Nil.
+{111069}{111108}Kao što vidite, nije u pitanju|samo moj muzièar.
+{111112}{111172}To je veæ èetvrta Agata Kristi ove|nedelje. Da li je u hotelu?
+{111176}{111222}Ne, nije u svojoj sobi. -Odlièno,|elim da joj pretresem sobu.
+{111226}{111297}Inspektore, dozvolite mi da pohvalim|ne samo vaš, veæ i rad cele policije.
+{111301}{111365}Mnogo vam hvala. Kako se zovete,|gospodine? -Stenton. Voli Stenton.
+{111369}{111423}A vi ste? -MekDonald,|viši inspektor MekDonald.
+{111427}{111478}MekDonald, piše se 'Mac'?|-Baš tako, gospodine.
+{111483}{111575}Inspektore, mislim da je pravi trenutak da|se napiše jedan opširan èlanak o vama,
+{111579}{111665}i o vašim neverovatnim sposobnostima da|razrešite misteriju koja veæ danima...
+{111669}{111773}Samo trenutak, gospodine... Izvinite,|ali ovo se vas uopšte ne tièe.
+{111777}{111856}Naravno da vas neæu pustiti unutra,|ni vas, ni inspektora MekDonalda.
+{111860}{111910}Kako se usuğujete da provaljujete|u sobu moje prijateljice...
+{111914}{111972}bez odgovarajuæeg naloga?|-Oprostite!
+{112032}{112093}Baš ste  me prepali.|-U redu je, Flora.
+{112097}{112135}Slobodno nastavi.
+{112140}{112192}Jeste li vi spalili ove|papire?
+{112197}{112281}Ne, nisam ja. -Koliko dugo|poznajete ovu damu?
+{112285}{112341}Due od bilo koga u ovoj sobi|i to mi je sasvim dovoljno...
+{112345}{112412}da budem zabrinut zbog ugroavanja|njene privatnosti.
+{112416}{112474}Moda niste svesni èinjenice,|s obzirom da ste stranac...
+{112478}{112548}da je jedna od naših najpoznatijih|spisateljica nestala iz svog doma.
+{112552}{112630}Sve novine pišu o tome. Mislite|na Agatu Kristi, zar ne?
+{112634}{112741}Da, Flora. Da. -Moe biti, ali nemojmo|donositi preuranjene zakljuèke.
+{112745}{112860}Znala sam ja, od samog poèetka.|I rekla sam mu, znala sam da je ona.
+{112864}{112903}Priznaj.|-Istina.
+{112907}{112955}Znala sam ja,|èim sam je videla.
+{113040}{113099}Oèekivala sam da vas nağem u|krevetu, gospoğice Krouli.
+{113103}{113203}Ne znam o èemu govorite.|-Zvali ste me i ja sam odmah došla.
+{113207}{113289}Ja vas nisam molila da doğete ovamo.|-Koliko ovde ima Evelina Krouli?
+{113293}{113357}Koliko ja znam, samo jedna, ali ja|vas nisam pozvala ovamo.
+{113361}{113446}U pravu je, nije ona.|-Oprostite, molim vas?
+{114450}{114513}Napred.
+{114520}{114583}Gospoğo Brajtvajt?
+{114704}{114816}Gospoğo Brajtvajt?|-Nije tu.
+{114994}{115056}Izvinite, gospoğo, da li je gospoğica|Nil ovde? Dobro jutro.
+{115060}{115100}Morate da saèekate|svoj red, gospodine.
+{115117}{115185}Moete li da iskljuèite struju,|molim vas?
+{115217}{115245}Da, naravno.
+{115251}{115308}Moraæete da saèekate.|-Treba mi samo broj sobe.
+{115312}{115358}Broj èetiri.|-To je ovamo?
+{115363}{115431}Ali, gospodine, ne moete unutra!|-U redu je, ja sam doktor!
+{115680}{115751}Gde je broj èetiri?|Gde je èetvorka?
+{115801}{115868}Okrenite glavni prekidaè|u desno.
+{115986}{116049}Gde je èetvorka?|Gde je èetvorka?
+{116256}{116319}Brzo.
+{116966}{117049}O moj Boe! Boe, to je|gospoğa Kristi!
+{117065}{117095}To je gospoğa Kristi!
+{117107}{117137}To je gospoğa Kristi!
+{117156}{117197}Zatvorite vrata!
+{117286}{117345}Hajde!
+{117349}{117404}Vratite se.
+{117408}{117469}Ne odlazite.|Ne odlazite, Agata!
+{117513}{117582}Dišite! Dišite!
+{117628}{117653}Dišite!
+{117707}{117737}Dišite!
+{117745}{117778}Dišite!|-Mrtva je.
+{117796}{117868}Mrtva je.|Znam da je mrtva.
+{117932}{117990}Šta æemo da radimo?|-Hajde!
+{117999}{118029}Dišite!
+{118072}{118102}Dišite!
+{118272}{118335}Još jednom.
+{118422}{118454}Još jednom.
+{118711}{118746}Polako.
+{118832}{118867}U redu.
+{118900}{118965}Nastavite da dišete...|molim vas.
+{119011}{119049}Polako, samo polako.
+{119098}{119250}Udahnite, izdahnite. Udahnite,|izdahnite, Agata.
+{119456}{119546}Postoji li stranji izlaz. -Postoji.|Bar mi se èini. Tamo je.
+{119560}{119623}Pozovite taksi.|Napolje!
+{119766}{119803}Glupo. Strašno glupo.
+{119829}{119872}Strašno glupo.
+{119895}{119952}Ali... jako pametno.
+{120285}{120355}U redu, stanite ovde, odmah|tu sa desne strane.
+{120682}{120719}Uzmite.
+{121047}{121081}Gde smo?
+{121123}{121191}U nekom hotelu.|Ne znam kako se zove.
+{121303}{121358}Vi ste veoma pametan èovek,|gospodine Stenton.
+{121362}{121428}Verovatno æete imati svoje|sopstvene novine.
+{121452}{121527}Nisam ni upola pametan kao vi,|gospoğo Kristi,
+{121531}{121607}i ne elim više nikad|da vas slaem.
+{121734}{121798}Šta æe biti sa mnom?
+{121845}{121890}Šta biste vi voleli|da bude?
+{122064}{122157}elela sam da umrem.|-Zašto niste?
+{122169}{122216}Vi ste me zaustavili.
+{122279}{122334}Ne, sami ste se zaustavili.
+{122344}{122419}Sami ste udahnuli, nešto u vama|je elelo da se vratite.
+{122423}{122499}To nema veze ni sa mnom,|ni sa bilo kim drugim.
+{122695}{122778}elim da mi se mu vrati.
+{122799}{122829}Èak i sad?
+{122865}{122895}Da.
+{123222}{123296}Napravite prolaz. Maknite se malo.|Pustite ga da proğe.
+{123311}{123399}Pukovnièe Kristi, viši|inspektor MekDonald.
+{124200}{124235}Agata.
+{124661}{124739}Moramo da razgovaramo.|-Da.
+{125546}{125709}{Y:i}Kako sam pronašao|Agatu Kristi
+{125779}{125870}Pukovnièe Kristi, da li stvarno|oèekujete da poverujemo...
+{125874}{125927}da vaša ena pati od|amnezije?
+{125931}{126022}Ne postoji drugo objašnjenje. Sama kae|da se nièega ne seæa od...
+{126026}{126111}trenutka kad je napustila London.|Moja ena je bolesna.
+{126115}{126215}Njeno pojavljivanje pred ovim, oèigledno|neprijateljski raspoloenim novinarima,
+{126221}{126273}svakako joj neæe biti|ni od kakve pomoæi.
+{126280}{126310}Morate da nam kaete!
+{126315}{126371}Vaša ena se u hotelu prijavila pod|imenom vaše sekretarice,
+{126375}{126410}moete li nam reæi zašto?
+{126414}{126502}Pretpostavljam zato što je|gospoğica Nil prijatelj porodice...
+{126506}{126614}Pukovnièe, da li taèna glasina koja|krui da ste vas dvoje u vezi?
+{126620}{126674}Sledeæe pitanje, molim.
+{126678}{126781}Kako se usuğujete? To je besprizorno|èak i za utu štampu!
+{126839}{126942}Molim vas... Gospodin iz prvog reda bi|voleo da vam postavi pitanje.
+{126990}{127112}Pukovnièe Kristi, elim da kaem|jednu, i samo jednu stvar.
+{127122}{127199}Vaše ponašanje u poslednjih|nekoliko dana...
+{127203}{127297}kao i za vreme ove konferencije|beskrajno je dosledno.
+{127301}{127370}Meni je sasvim jasno, a trebalo|bi da bude i mojim kolegama...
+{127374}{127439}da ste bili i da jeste|odan mu...
+{127443}{127586}i ja lièno elim da vam èestitam na ovom,|izvanredno obavljenom poslu.
+{127881}{127944}Da?
+{127977}{128040}Napred.
+{128168}{128237}Dobar dan, gospoğo Kristi.|-Dobar dan.
+{128498}{128574}Došla sam samo da vam|se zahvalim. -Da?
+{128591}{128705}Za ono što ste uèinili za nas, mislim|na konferenciji za novinare.
+{128709}{128789}Nisam to uradio zbog vas,|veæ zbog sebe.
+{128796}{128831}Kako to mislite?
+{128909}{129016}Shvatam? Niste eleli da vam|neko preotme prièu.
+{129091}{129208}Boe moj! Sad æete biti još slavniji,|gospodine Stenton.
+{129234}{129303}Moda nisam cenjeni pisac,|kao vi, gospoğo Kristi,
+{129307}{129388}ali èak i škrabala imaju|svoje standarde.
+{129541}{129596}Da li je s pukovnikom|sve u redu? -Da.
+{129600}{129661}Dobra predstava.
+{129757}{129792}ao mi je.
+{129820}{129855}ao mi je.
+{129914}{130002}Hoæete li mi oprostiti?|-Nemam šta da vam oprostim.
+{130006}{130087}Hteo sam to da objavim,|ali sam se predomislio.
+{130100}{130126}Ne mogu.
+{130812}{130899}Mislio sam da se više nikad neæemo|videti, ali sad, kad veæ jesmo...
+{130903}{130971}moda bih mogao da vam kaem|šta mi je stvarno na umu.
+{130999}{131055}Šta vam je, stvarno na umu?
+{131128}{131163}Mislim da znate.
+{131258}{131297}Mislim da znate da vas volim.
+{131466}{131545}Ali, vi æete se vratiti|svom muu.
+{131628}{131728}Da, moram da se vratim|svom muu. -Shvatam.
+{131780}{131868}Moram da mu se vratim zato što|æu se razvesti od njega.
+{132146}{132185}Zašto se smeškate?
+{132227}{132320}Smeškam ste, jer na kraju ste|isti kao i vaše knjige.
+{132336}{132371}Kako to mislite?
+{132396}{132440}Uvek se završe iznenağenjem.
+{132608}{132663}Mislim da bih mogao da|vas usreæim...
+{132687}{132775}ali da smo se našli u|pogrešno vreme.
+{133199}{133347}Lepo je nadati se da bismo mogli|ponovo da se nağemo...
+{133408}{133433}jednog dana.
+{133485}{133515}Da.
+{133785}{133820}Èuvajte se.
+{134017}{134080}I vi.
+{134522}{134567}Da li elite da date izjavu?
+{136011}{136100}{Y:i}Dve godine kasnije|Kristijevi su se razveli.
+{136104}{136214}{Y:i}Arèibald Kristi se oenio|Nensi Nil.
+{140743}{141043}{Y:i}zgaca62@yahoo.com
+{141068}{142568}ĞœĞ¾Ğ»Ğ¸Ğ¼Ğ¾ Ğ²Ğ°Ñ Ğ´Ğ° Ğ¾Ñ†ĞµĞ½Ğ¸Ñ‚Ğµ Ğ¾Ğ²Ğ°Ñ˜ Ñ‚Ğ¸Ñ‚Ğ» Ğ½Ğ° www.osdb.link/5puqf|ĞŸĞ¾Ğ¼Ğ¾Ğ·Ğ¸Ñ‚Ğµ Ğ´Ñ€ÑƒĞ³Ğ¸Ğ¼ ĞºĞ¾Ñ€Ğ¸ÑĞ½Ğ¸Ñ†Ğ¸Ğ¼Ğ° Ğ´Ğ° Ğ¸Ğ·Ğ°Ğ±ĞµÑ€Ñƒ Ğ½Ğ°Ñ˜Ğ±Ğ¾Ñ™Ğµ Ñ‚Ğ¸Ñ‚Ğ»Ğ¾Ğ²Ğµ

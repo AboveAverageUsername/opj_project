@@ -1,0 +1,3631 @@
+1
+00:00:04,200 --> 00:00:06,800
+Kroz istoriju,
+ËoveËanstvo se borilo
+
+2
+00:00:06,840 --> 00:00:11,400
+da razume osnovne procese 
+u materijalnom svetu koji ih okruûuje.
+
+3
+00:00:11,440 --> 00:00:16,200
+Nastojali smo da otkrijemo pravila
+i obrasce koji odreuju kvalitet
+
+4
+00:00:16,240 --> 00:00:21,840
+objekata koji nas okruûuju, i njihove
+kompleksne meusobne odnose i odnose prema nama.
+
+5
+00:00:23,160 --> 00:00:27,800
+Kroz hiljade godina, druötva i civilizacije 
+öirom sveta otkrile su da jedna disciplina
+
+6
+00:00:27,840 --> 00:00:31,320
+iznad svih ostalih
+doprinosi odreenim znanjima
+
+7
+00:00:31,360 --> 00:00:34,760
+o osnovnim pozadinskim stvarnostima
+fiziËkog sveta.
+
+8
+00:00:34,800 --> 00:00:37,960
+Ta disciplina je matematika.
+
+9
+00:00:38,000 --> 00:00:41,520
+Ja sam Markus De Sutoj,
+i ja sam matematiËar.
+
+10
+00:00:41,560 --> 00:00:46,200
+Ja vidim sebe kao tragaËa za obrascima,
+u potrazi za skrivenim strukturama
+
+11
+00:00:46,240 --> 00:00:51,240
+koje leûe iza prividnog haosa
+i kompleksnosti sveta oko nas.
+
+12
+00:00:52,720 --> 00:00:57,960
+U mojoj potrazi za obrascima i pravilima, 
+naleteo sam na rad velikih matematiËara
+
+13
+00:00:58,000 --> 00:01:02,240
+koji su ûiveli pre mene,
+ljudi koji pripadaju kulturama öirom zemaljske kugle,
+
+14
+00:01:02,280 --> 00:01:06,680
+Ëija otkriÊa su stvorila
+jezik na kojem je univerzum ispisan.
+
+15
+00:01:06,720 --> 00:01:12,400
+éelim da vas povedem na put kroz vreme
+i prostor, da sledimo napredak matematike
+
+16
+00:01:12,440 --> 00:01:16,680
+od svog prvog buenja,
+do sofisticaranog predmeta koji poznajemo i uËimo danas.
+
+17
+00:01:17,840 --> 00:01:20,880
+KoristeÊi slikovito izlaganje stvoreno pomoÊu
+raËunara, istraûivaÊemo
+
+18
+00:01:20,920 --> 00:01:24,680
+pionirska otkriÊa koja su
+dozvolila najranijim civilizacijama
+
+19
+00:01:24,720 --> 00:01:28,400
+da razumeju svet matematike.
+
+20
+00:01:28,440 --> 00:01:31,360
+Ovo je priËa o matematici.
+
+21
+00:01:33,000 --> 00:01:39,074
+–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+
+22
+00:01:50,920 --> 00:01:54,840
+Naö svet je saËinjen
+od obrazaca i sekvenci.
+
+23
+00:01:54,880 --> 00:01:57,160
+Oni su svuda oko nas.
+
+24
+00:01:57,200 --> 00:01:59,640
+Dan postaje noÊ.
+
+25
+00:01:59,680 --> 00:02:04,640
+éivotinje putuju öirom sveta
+u razliËitim promenljivim formacijama.
+
+26
+00:02:04,680 --> 00:02:08,600
+Krajolici se stalno menjaju.
+
+27
+00:02:08,640 --> 00:02:12,440
+Jedan od razloga zbog kojih je matematika nastala
+bio je to öto smo morali pronaÊi naËin
+
+28
+00:02:12,480 --> 00:02:15,440
+da razumemo smisao
+ovih prirodnih obrazaca.
+
+29
+00:02:18,480 --> 00:02:22,960
+Osnovni koncepti matematike
+- vreme i koliËina -
+
+30
+00:02:23,000 --> 00:02:26,960
+su duboko usaeni u naöe mozgove.
+
+31
+00:02:27,000 --> 00:02:29,960
+»ak i ûivotinje imaju oseÊaj
+za razdaljinu i brojeve,
+
+32
+00:02:30,000 --> 00:02:35,880
+procenjujuÊi da li je njihov Ëopor
+nadbrojan, i da li da se bore ili beûe,
+
+33
+00:02:35,920 --> 00:02:40,600
+raËunaju da li je njihov plen
+na dobroj razdaljini za napad.
+
+34
+00:02:40,640 --> 00:02:45,880
+Razumevanje matematike pravi razliku
+izmeu ûivota i smrti.
+
+35
+00:02:47,040 --> 00:02:49,920
+Ali Ëovek je bio taj koji je
+uzeo osnovne kocepte
+
+36
+00:02:49,960 --> 00:02:52,520
+i poËeo da gradi
+na osnovu ovih temelja.
+
+37
+00:02:52,560 --> 00:02:55,640
+U nekom trenutku, ljudi
+poËeli su da uoËavaju obrasce,
+
+38
+00:02:55,680 --> 00:02:59,440
+da prave veze, da raËunaju i
+da prouËavaju svet oko sebe.
+
+39
+00:02:59,480 --> 00:03:04,480
+Sa ovim, ceo novi matematiËki
+univerzum poËeo je da se pojavljuje.
+
+40
+00:03:11,000 --> 00:03:12,720
+Ovo je reka Nil.
+
+41
+00:03:12,760 --> 00:03:15,560
+Ona je bila linija ûivota
+u Egiptu milenijumima.
+
+42
+00:03:17,000 --> 00:03:19,880
+Doöao sam ovde zato öto 
+se upravo ovde pojavljuju
+
+43
+00:03:19,920 --> 00:03:23,320
+prvi znaci matematike
+kakvu poznajemo danas.
+
+44
+00:03:25,240 --> 00:03:30,560
+Ljudi su napustili nomadski naËin ûivota
+i poËeli da se naseljavaju ovde, joö oko 6000 PNE.
+
+45
+00:03:30,600 --> 00:03:34,640
+Uslovi su bili savröeni za poljoprivredu.
+
+46
+00:03:37,960 --> 00:03:43,880
+Najvaûniji dogaaj za egipatsku agrikulturu
+bio je plavljenje Nila svake godine.
+
+47
+00:03:43,920 --> 00:03:49,480
+Tako da je ovaj dogaaj koriöÊen kao 
+oznaka za poËetak nove godine.
+
+48
+00:03:49,520 --> 00:03:53,760
+EgipÊani su zapisivali öta se dogaa
+tokom dugog perioda vremena,
+
+49
+00:03:53,800 --> 00:03:56,240
+i da bi uspostavio
+kalendar kao öto je njihov,
+
+50
+00:03:56,280 --> 00:03:59,720
+moraö da izraËunaö
+koliko dana, na primer,
+
+51
+00:03:59,760 --> 00:04:02,440
+je proölo izmeu dve lunarne faze,
+
+52
+00:04:02,480 --> 00:04:08,640
+ili koliko dana je proölo
+izmeu dva plavljenja reke Nil.
+
+53
+00:04:10,240 --> 00:04:13,960
+Beleûenje obrazaca izmeu
+ovih sezona bilo je suötinsko,
+
+54
+00:04:14,000 --> 00:04:17,800
+ne samo za njihovo upravljanje zemljiötem,
+veÊ i za njihovu religiju.
+
+55
+00:04:17,840 --> 00:04:20,960
+Stari EgpÊani koji su se
+naselili na obodu reke Nil
+
+56
+00:04:21,000 --> 00:04:25,360
+verovali su da je njihov Bog reke, Hapi,
+bio taj koji je plavio reku svake godine.
+
+57
+00:04:25,400 --> 00:04:28,200
+I za uzvrat, 
+na vodi koja im je davala ûivot,
+
+58
+00:04:28,240 --> 00:04:32,600
+graani su mu prinosili deo prinosa
+u znak zahvalnosti.
+
+59
+00:04:33,840 --> 00:04:38,680
+Kako su naselja rasla, postalo je nepohodno
+naÊi naËin da se njima upravlja.
+
+60
+00:04:38,720 --> 00:04:42,960
+Delovi zemljiöta morali su biti preraËunati
+trebalo je predvideti prinos ûitarica,
+
+61
+00:04:43,000 --> 00:04:45,280
+takse su morale biti uspostavljene i prikupljane.
+
+62
+00:04:45,320 --> 00:04:49,040
+Ukratko, ljudi su imali potrebu
+da raËunaju i mere.
+
+63
+00:04:50,600 --> 00:04:53,560
+EkipÊani su koristili svoje telo
+da bi izmerili svet,
+
+64
+00:04:53,600 --> 00:04:56,600
+i tako su se njihove jedinice
+za merenje razvile.
+
+65
+00:04:56,640 --> 00:04:59,000
+Palm je bio öirina öake jedne ruke,
+
+66
+00:04:59,040 --> 00:05:03,640
+kjubit je predstavljao duûinu ruke,
+od lakta da vrha prstiju.
+
+67
+00:05:03,680 --> 00:05:07,080
+éemljiöni kjubiti, bile su duûine zemljiöta
+koje mere kjubit pomnoûen sa 100,
+
+68
+00:05:07,120 --> 00:05:10,440
+koriöÊene su od strane faraonovih
+geometara da mere povröinu.
+
+69
+00:05:13,680 --> 00:05:16,880
+Postoji veoma jaka veza
+izmeu birokratije,
+
+70
+00:05:16,920 --> 00:05:20,120
+i razvoja matematike
+u starom Egiptu.
+
+71
+00:05:20,160 --> 00:05:23,080
+I zaista moûemo da vidimo ovu vezu
+od samog poËetka,
+
+72
+00:05:23,120 --> 00:05:25,400
+od izuma brojevnog sistema,
+
+73
+00:05:25,440 --> 00:05:28,200
+kroz egipatsku istoriju.
+
+74
+00:05:28,240 --> 00:05:30,680
+Za Staro kraljevstvo,
+jedini dokaz koji imamo
+
+75
+00:05:30,720 --> 00:05:34,720
+su meteroloöki sistemi, to jest
+mere za povröinu, i za duûinu.
+
+76
+00:05:34,760 --> 00:05:41,280
+Ovo ukazuje na birkoratsku
+potrebu za razvoj takvih stvari.
+
+77
+00:05:41,320 --> 00:05:46,520
+Bilo je izuzetno vaûno znati povröinu farmerove
+zemlje, kako bi mogli naplatiti takse shodno tome.
+
+78
+00:05:46,560 --> 00:05:51,440
+Ili ako bi farmeru Nil uniötio parËe zemljiöta,
+da moûe da traûi smanjenje taksi.
+
+79
+00:05:51,480 --> 00:05:54,400
+To znaËi da su faraonovi
+geometri Ëesto morali da raËunaju
+
+80
+00:05:54,440 --> 00:05:57,960
+povröine parcela koje su bile nepravlnih oblika.
+
+81
+00:05:58,000 --> 00:06:00,640
+Upravo je ta potreba za reöavanjem
+takvih praktiËnih problema
+
+82
+00:06:00,680 --> 00:06:04,840
+uËinila egipÊane najranijim
+inovatorima u matematici.
+
+83
+00:06:09,560 --> 00:06:13,520
+EgipÊani su takoe imali potrebu da nau naËin
+da beleûe rezultate svojih proraËuna.
+
+84
+00:06:15,760 --> 00:06:20,320
+Meu svim hireoglifima koji ukraöavaju
+turistiËke suvenire po celom Kairu,
+
+85
+00:06:20,360 --> 00:06:25,520
+ja sam bio u potrazi za onima koji su beleûili
+neke od prvih brojeva u istoriji.
+
+86
+00:06:25,560 --> 00:06:29,280
+Bilo je teöko pronaÊi ih.
+
+87
+00:06:30,480 --> 00:06:33,240
+Ali, na kraju sam ih ipak pronaöao.
+
+88
+00:06:36,360 --> 00:06:41,600
+EgipÊani su koristili dekadni brojevni sistem,
+motiv za to je bio: 10 deset prstiju na ruci.
+
+89
+00:06:41,640 --> 00:06:44,160
+Oznaka za jedinicu bila je crta,
+
+90
+00:06:44,200 --> 00:06:50,040
+10, potkovica, 100, spirala,
+za 1,000, a biljka cvet Lotusa.
+
+91
+00:06:50,080 --> 00:06:52,320
+Koliko koöta ova majica?
+
+92
+00:06:52,360 --> 00:06:54,040
+25.
+
+93
+00:06:54,080 --> 00:06:59,840
+25! Da... Dakle to bi bile dve
+potkovice i 5 crta.
+
+94
+00:06:59,880 --> 00:07:03,200
+Dakle, neÊeö mi naplatiti niöta
+odavde? Ovde, jedan milion!
+
+95
+00:07:03,240 --> 00:07:05,240
+Jedan milion? Moj Boûe!
+
+96
+00:07:05,280 --> 00:07:07,640
+Ovo je jedan milion.
+
+97
+00:07:07,680 --> 00:07:09,680
+Jedan milion, da, to je popriliËno veliko!
+
+98
+00:07:11,080 --> 00:07:16,520
+Hireoglifi su prelepi, ali
+egipatski brojevni sistem bio je fundamentalno pogreöan.
+
+99
+00:07:18,160 --> 00:07:21,640
+Nisu imali koncept teûine cifre u zavisnosti od pozicije,
+
+100
+00:07:21,680 --> 00:07:24,120
+tako da je jedna crtica mogla
+da predstavlja samo broj 1,
+
+101
+00:07:24,160 --> 00:07:25,840
+ne 100 ili 1000.
+
+102
+00:07:25,880 --> 00:07:28,880
+Iako moûeö zapisati
+milion sa samo jednim karakterom,
+
+103
+00:07:28,920 --> 00:07:33,160
+umesto sa sedam, koliko mi koristimo, 
+ali ako ûeliö da zapiöeö milion minus jedan,
+
+104
+00:07:33,200 --> 00:07:36,600
+onda bi jadni egipatski pisar
+morao da zapiöe 9 crtica,
+
+105
+00:07:36,640 --> 00:07:39,760
+9 potkovica,
+9 spirala, i tako dalje,
+
+106
+00:07:39,800 --> 00:07:42,320
+ukupno 54 karaktera.
+
+107
+00:07:44,760 --> 00:07:49,920
+Uprkos manama ovog brojevnog sistema,
+egipÊani su bili brilijantni u reöavanju problema.
+
+108
+00:07:51,960 --> 00:07:55,920
+Znamo ovo na osnovu
+par zapisa koja su preûivela.
+
+109
+00:07:55,960 --> 00:07:58,920
+Egipatski pisari, 
+koristili su listove papirusa
+
+110
+00:07:58,960 --> 00:08:02,320
+da zabeleûe svoja
+matematiËka otkriÊa.
+
+111
+00:08:02,360 --> 00:08:06,120
+Ovaj delikatni materijal napravljen
+od trske, trulio je i raspadao se vremenom
+
+112
+00:08:06,160 --> 00:08:09,400
+te su mnoge tajne nestale zajedno sa njim.
+
+113
+00:08:09,440 --> 00:08:13,520
+Ali postoji jedan dokument koji je saËuvan
+koji nam otkriva neke stvari.
+
+114
+00:08:13,560 --> 00:08:17,360
+»uveni Rindov papirus
+je najvaûniji dokument
+
+115
+00:08:17,400 --> 00:08:20,160
+koji imamo danas, u kojem se nalazi egipatska matematika.
+
+116
+00:08:20,200 --> 00:08:24,360
+Imamo dobar uvid u to
+kojim tipovima problema
+
+117
+00:08:24,400 --> 00:08:28,320
+su se bavili egipÊani,  
+u okviru svoje matematike.
+
+118
+00:08:28,360 --> 00:08:33,800
+Takoe imamo eksplicitne navode,
+kako su izvodili mnoûenje i deljenje.
+
+119
+00:08:35,560 --> 00:08:39,800
+Papirus pokazuje kako da 
+pomnoûimo meusobno dva velika broja.
+
+120
+00:08:39,840 --> 00:08:44,320
+Da bi ilustrovali metod,
+uzmimo dva manja broja.
+
+121
+00:08:44,360 --> 00:08:46,880
+Hajde da pomnoûimo 3 sa 6.
+
+122
+00:08:46,920 --> 00:08:50,480
+Pisar bi uzeo prvi broj, tri
+i stavio ga u jednu kolonu.
+
+123
+00:08:52,800 --> 00:08:55,960
+U drugu kolonu zatim,
+smestio bi broj jedan.
+
+124
+00:08:56,000 --> 00:09:00,720
+Zatim bi duplirao broj u svakoj koloni,
+tako da trojka postaje öestica...
+
+125
+00:09:04,320 --> 00:09:06,360
+..i öest postaje dvanaest.
+
+126
+00:09:10,800 --> 00:09:14,480
+A zatim u drugoj koloni
+jedinica postaje dvojka,
+
+127
+00:09:14,520 --> 00:09:16,040
+a dvojka postaje Ëetvorka.
+
+128
+00:09:18,760 --> 00:09:21,160
+Sada, nastupa mudar trik.
+
+129
+00:09:21,200 --> 00:09:24,160
+Pisar ûeli da pomnoûi,
+tri sa öest.
+
+130
+00:09:24,200 --> 00:09:27,680
+Tako öto uklanja stepen dvojke
+iz druge kolone,
+
+131
+00:09:27,720 --> 00:09:31,400
+koji dodaje preko öest.
+To je dva plus Ëetiri.
+
+132
+00:09:31,440 --> 00:09:34,320
+Onda se vraÊa nazad
+na prvu kolonu, i samo uzima
+
+133
+00:09:34,360 --> 00:09:37,240
+one redove koji odgovaraju
+dvojci i Ëetvorci.
+
+134
+00:09:37,280 --> 00:09:38,880
+To su öest i dvanaest.
+
+135
+00:09:38,920 --> 00:09:43,720
+Sabira ih, 
+da bi dobio odgovor 18.
+
+136
+00:09:43,760 --> 00:09:47,560
+Ali za mene, najfascinantnija
+stvar u vezi ovog metoda
+
+137
+00:09:47,600 --> 00:09:51,520
+je Ëinjenica da je pisar efektno
+zapisao taj drugi broj u binarnom obliku.
+
+138
+00:09:51,560 --> 00:09:56,520
+äest je jedna Ëetvorka, 
+jedna dvojka, i nema jedinica.
+
+139
+00:09:56,560 --> 00:09:59,120
+äto je 1-1-0.
+
+140
+00:09:59,160 --> 00:10:03,400
+EgipÊani su razumeli moÊ
+binarnog sistema, viöe od 3,000 godina
+
+141
+00:10:03,440 --> 00:10:07,360
+pre nego öto je matematiËar i filozof
+Lajbnic otkrio njihov potencijal.
+
+142
+00:10:07,400 --> 00:10:11,680
+Danas, Ëitava tehnologija
+poËiva na istim principima
+
+143
+00:10:11,720 --> 00:10:14,560
+koji su koriöÊeni u drevnom Egiptu.
+
+144
+00:10:16,400 --> 00:10:21,960
+Rindov papirus je zabeleûio
+pisar zvani Ahmes, oko 1650 PNE.
+
+145
+00:10:22,000 --> 00:10:26,840
+Problemi kojima se bavi, tiËu se
+pronalaûenja reöenja za svakodnevne situacije
+
+146
+00:10:26,880 --> 00:10:29,960
+Neki od problema
+spominju hleb i pivo,
+
+147
+00:10:30,000 --> 00:10:33,720
+öto nije iznenaujuÊe, jer
+su egipatski radnici bili plaÊeni u hrani i piÊu.
+
+148
+00:10:33,760 --> 00:10:37,160
+Jedan od problema bavi se traûenjem reöenja,
+kako podeliti 9 vekni hleba
+
+149
+00:10:37,200 --> 00:10:41,640
+jednako, izmeu 10 ljudi
+a da ne izbije svaa ko je dobio viöe.
+
+150
+00:10:41,680 --> 00:10:43,760
+Imam devet vekni hleba ovde.
+
+151
+00:10:43,800 --> 00:10:47,560
+UzeÊu njih pet i 
+iseÊiÊu ih na pola.
+
+152
+00:10:48,640 --> 00:10:51,320
+Naravno, devet ljudi bi moglo da uzme 
+celu veknu, da otkine desetinu svog parËeta
+
+153
+00:10:51,360 --> 00:10:54,720
+i da da gomilu deliÊa 
+i mrvica desetoj osobi.
+
+154
+00:10:54,760 --> 00:10:58,560
+Ali EgipÊani su razvili
+daleko elegantnije reöenje -
+
+155
+00:10:58,600 --> 00:11:02,240
+uzimam preostale Ëetiri vekne
+i njih delim na treÊine.
+
+156
+00:11:03,840 --> 00:11:07,320
+Ali dve od tih dobijenih treÊina
+Êu preseÊi na pet jendakih delova,
+
+157
+00:11:07,360 --> 00:11:09,760
+tako da Êe svako to parËe biti jedna petnaestina hleba.
+
+158
+00:11:12,560 --> 00:11:17,000
+Svaka osoba zatim dobija jednu polovinu,
+
+159
+00:11:17,040 --> 00:11:19,120
+jednu treÊinu
+
+160
+00:11:19,160 --> 00:11:22,840
+i jednu petnaestinu.
+
+161
+00:11:22,880 --> 00:11:25,760
+Upravo kroz takve,
+naizgled praktiËne probleme
+
+162
+00:11:25,800 --> 00:11:29,320
+poËinjemo da uviamo
+da se razvija i malo apstraktnija matematika.
+
+163
+00:11:29,360 --> 00:11:32,040
+Iznenada, novi brojevi
+su u igri - razlomci -
+
+164
+00:11:32,080 --> 00:11:37,440
+i ne zadugo posle toga, EgipÊani
+istraûuju matematiku koja se krije iza ovih brojeva.
+
+165
+00:11:39,440 --> 00:11:44,840
+Razlomci oËigledno imaju veliku praktiËnu vaûnost za
+bilo koga ko se bavi deljenjem veliËina, za razmenu ili trgovinu na pijaci.
+
+166
+00:11:44,880 --> 00:11:51,640
+Da bi zabeleûili ove transakcije, EgipÊani su razvili
+notaciju koja je beleûila ove nove brojeve.
+
+167
+00:11:53,200 --> 00:11:56,320
+Jedna od najranijih
+reprezentacija ovih razlomaka
+
+168
+00:11:56,360 --> 00:12:00,000
+doöla je od hireoglifa
+koji ima veliki mistiËan znaËaj.
+
+169
+00:12:00,040 --> 00:12:03,640
+Zove se Horusovo oko.
+
+170
+00:12:03,680 --> 00:12:08,760
+Horus je bio jedan od bogova Starog kraljevstva,
+prikazivan kao pola Ëovek, pola soko.
+
+171
+00:12:10,720 --> 00:12:15,520
+Prema legendi, Horusovog oca
+ubio je njegov drugi sin, Set.
+
+172
+00:12:15,560 --> 00:12:18,720
+Horus je bio reöen
+da osveti ovo ubistvo.
+
+173
+00:12:18,760 --> 00:12:21,400
+Tokom jedne naroËito ûestoke bitke,
+
+174
+00:12:21,440 --> 00:12:26,360
+Set je iskopao Horusovo oko, 
+iskidao na delove i razbacao po Ëitavom Egiptu.
+
+175
+00:12:26,400 --> 00:12:29,560
+Ali bogovi su gledali
+blagonaklono na Horusa.
+
+176
+00:12:29,600 --> 00:12:33,280
+Sakupili su raskomadane
+delove i sastavili oko.
+
+177
+00:12:36,320 --> 00:12:40,120
+Svaki deo oka
+predstavljao je razliËiti razlomak.
+
+178
+00:12:40,160 --> 00:12:43,040
+Svaki deo, bio je polovina od prethodnog razlomka.
+
+179
+00:12:43,080 --> 00:12:46,640
+Iako je originalno oko
+predstavljalo jednu celinu,
+
+180
+00:12:46,680 --> 00:12:50,440
+rekonstruisano oko je za 1/64 deo manje.
+
+181
+00:12:50,480 --> 00:12:54,480
+Iako su se EgipÊani zaustavili kod razlomka 1/64,
+
+182
+00:12:54,520 --> 00:12:56,560
+implicitno na ovoj slici
+
+183
+00:12:56,600 --> 00:12:59,280
+ostaje moguÊnost
+dodavanja novih razlomaka,
+
+184
+00:12:59,320 --> 00:13:03,760
+poloveÊi ih na pola vaki put, 
+tako da se suma sve viöe i viöe pribliûava jedinici,
+
+185
+00:13:03,800 --> 00:13:06,960
+ali nikada je zapravo ne dostigne.
+
+186
+00:13:07,000 --> 00:13:10,880
+Ovo je prvi nagoveötaj
+neËega öto se zove geometrijski niz,
+
+187
+00:13:10,920 --> 00:13:14,400
+koji se pominje na viöe mesta
+u Rindovom papirusu.
+
+188
+00:13:14,440 --> 00:13:17,400
+Ali koncept beskonaËnih
+nizova ostaÊe sakriven
+
+189
+00:13:17,440 --> 00:13:21,600
+sve dok ga azijski matematiËari
+nisu razotkrili vekovima kasnije.
+
+190
+00:13:24,720 --> 00:13:28,840
+Kako su razradili sistem brojeva,
+ukljuËujuÊi i ove nove brojeve - razlomke,
+
+191
+00:13:28,880 --> 00:13:31,720
+doölo je vreme za EgipÊane,
+da primene svoja znanja
+
+192
+00:13:31,760 --> 00:13:35,360
+na razumevanje oblika
+sa kojima su se susretali iz dana u dan.
+
+193
+00:13:35,400 --> 00:13:39,400
+Ovi oblici retko su bili
+pravilni kvadrati ili pravougaonici,
+
+194
+00:13:39,440 --> 00:13:44,160
+te u Rindovom papirusu pronalazimo
+povröinu oblika koji se ËeöÊe pojavljuje u prirodi, krug.
+
+195
+00:13:44,200 --> 00:13:48,480
+Ono öto je zapanjujuÊe u ovom proraËunu
+
+196
+00:13:48,520 --> 00:13:51,440
+povröine kruga
+je njegova preciznost, zaista.
+
+197
+00:13:51,480 --> 00:13:55,360
+Kako su pronaöli metod
+za raËunanje, ostaje tema spekulacije,
+
+198
+00:13:55,400 --> 00:13:57,440
+zato öto nam dokumenta koja imamo
+
+199
+00:13:57,480 --> 00:14:01,040
+ne pokazuju metod
+niti kako je on pronaen.
+
+200
+00:14:01,080 --> 00:14:05,120
+Ovaj proraËun je naroËito
+upeËatljiv jer zavisi
+
+201
+00:14:05,160 --> 00:14:07,080
+od uvianja, kako oblik kruga
+
+202
+00:14:07,120 --> 00:14:11,800
+moûe biti aproksimiran oblicima
+koje su EgipÊani veÊ prethodno razumeli.
+
+203
+00:14:11,840 --> 00:14:14,920
+Rindov papirus tvrdi
+da polje kruûnog oblika
+
+204
+00:14:14,960 --> 00:14:17,480
+sa dijametrom (preËnikom) od 9 jedinica
+
+205
+00:14:17,520 --> 00:14:20,960
+je sliËan po povröini
+sa kvadratom stranice 8 jedinica.
+
+206
+00:14:21,000 --> 00:14:24,760
+Ali kako je ova veza
+mogla biti otkrivena?
+
+207
+00:14:24,800 --> 00:14:30,160
+Moja omiljena teorija uvia odgovor
+u drevnoj igri mankala.
+
+208
+00:14:30,200 --> 00:14:34,320
+Mankala table su pronaene
+urezane na krovovima hramova.
+
+209
+00:14:34,360 --> 00:14:37,880
+Svaki igraË zapoËinje
+sa jednakim brojem kamenËiÊa,
+
+210
+00:14:37,920 --> 00:14:40,920
+i cilj igre je
+pomerati ih po tabli,
+
+211
+00:14:40,960 --> 00:14:44,040
+hvatajuÊi protivnikova
+polja na putu.
+
+212
+00:14:45,040 --> 00:14:48,840
+Dok su igraËi sedeli 
+i Ëekali da naprave svoj sledeÊi korak,
+
+213
+00:14:48,880 --> 00:14:52,360
+moûda je neki od njih shvatio
+da ponekad loptice popunjavaju kruûne rupe
+
+214
+00:14:52,400 --> 00:14:54,560
+na mankala tabli
+na popriliËno lep naËin.
+
+215
+00:14:54,600 --> 00:14:59,680
+Moûda je otiöao i korak dalje sa eksperimentom
+pokuöavajuÊi da napravi i veÊe krugove.
+
+216
+00:14:59,720 --> 00:15:04,240
+Moûda je primetio da
+64 kamenËiÊa, kvadrat broja 8,
+
+217
+00:15:04,280 --> 00:15:08,040
+mogu da se iskoriste da se popuni
+krug sa preËnikom od 9 kamenËiÊa.
+
+218
+00:15:08,080 --> 00:15:13,560
+Preureivanjem kamenËiÊa,
+krug je aproksimiran kvadratom.
+
+219
+00:15:13,600 --> 00:15:16,720
+Zbog Ëinjenice da je povröina kruga
+broj Pi puta polupreËnik na kvadrat,
+
+220
+00:15:16,760 --> 00:15:21,600
+egipatske kalkulacije
+daju nam prvu preciznu vrednost broja Pi.
+
+221
+00:15:21,640 --> 00:15:26,600
+Povröina kruga je pribliûno 64.
+Podelimo ovo sa kvadriranim polupreËnikom,
+
+222
+00:15:26,640 --> 00:15:30,640
+u ovom sluËaju, 4.5 na kvadrat,
+i dobijamo vrednost za Pi.
+
+223
+00:15:30,680 --> 00:15:35,400
+Dakle, 64 podeljeno sa 4.5 na kvadrat je 3.16,
+
+224
+00:15:35,440 --> 00:15:38,720
+samo malo ispod dva stota dela
+udaljeno od njegove taËne vrednosti 3.14.
+
+225
+00:15:38,760 --> 00:15:41,880
+Ono öto je zaista 
+brilijantno je öto su EgipÊani
+
+226
+00:15:41,920 --> 00:15:45,080
+koristili ove male oblike
+da bi ih proöirili i na veÊe oblike.
+
+227
+00:15:49,720 --> 00:15:52,680
+Ali postoji jedan zadivljujuÊi 
+i veliËanstveni simbol egipatske
+
+228
+00:15:52,720 --> 00:15:55,680
+matematike koji nismo
+uspeli da razotkrijemo joö uvek -
+
+229
+00:15:55,720 --> 00:15:57,920
+piramide.
+
+230
+00:15:57,960 --> 00:16:02,800
+Video sam toliko puno slika piramide
+da nisam mogao pomisliti da Êu biti ovoliko zadivljen njima.
+
+231
+00:16:02,840 --> 00:16:06,320
+Ali susresti se sa njima licem u lice,
+shvataö zaöto ih zovu
+
+232
+00:16:06,360 --> 00:16:08,800
+jednim od sedam
+Svetskih Ëuda Drevnog Sveta.
+
+233
+00:16:08,840 --> 00:16:11,040
+One prosto oduzimaju dah!
+
+234
+00:16:11,080 --> 00:16:14,360
+A koliko su tek impresivnije
+morale biti u njihovo vreme,
+
+235
+00:16:14,400 --> 00:16:19,400
+kada su stranice bile glatke
+kao staklo, reflektujuÊi pustinjsko sunce.
+
+236
+00:16:19,440 --> 00:16:24,960
+Meni deluje kao da postoji ogledalo
+koje reflektuje piramide ispod povröine pustinje,
+
+237
+00:16:25,000 --> 00:16:29,240
+koje bi dopunilo oblik piramide
+i naËinio ga savröeno simetriËnim oktaedrom.
+
+238
+00:16:29,280 --> 00:16:34,600
+Ponekad, pod svetlucanjem pustinjske
+vruÊine, moûeö umalo da vidiö ove oblike.
+
+239
+00:16:36,160 --> 00:16:43,440
+Upravo je nagoveötaj ove simetrije sakriven unutar 
+ovih oblika ono öto ih Ëini impresivnim za matematiËare.
+
+240
+00:16:43,480 --> 00:16:47,720
+Piramide su samo malo kraÊe,
+da bi formirale ovaj savröeni oblik,
+
+241
+00:16:47,760 --> 00:16:50,920
+ali neki sugeriöu da bi
+vaûan matematiËki koncept
+
+242
+00:16:50,960 --> 00:16:56,880
+mogao biti skriven unutar proporcija
+Velike (Keopsove) piramide - zlatni presek.
+
+243
+00:16:56,920 --> 00:17:01,640
+Za dve duûine kaûemo da su
+u zlatnom preseku, ako je odnos duûe 
+
+244
+00:17:01,680 --> 00:17:06,920
+prema kraÊoj duûi, isti kao odnos sume
+ovih stranica prema duûoj stranici.
+
+245
+00:17:06,960 --> 00:17:11,600
+Takav odnos je povezan
+sa savröenim proporcijama koje se mogu naÊi
+
+246
+00:17:11,640 --> 00:17:15,600
+na mnogim mestima u svetu prirode,
+kao i u radu umetnika,
+
+247
+00:17:15,640 --> 00:17:18,480
+arhitekata i dizejnera, veÊ milenijumima.
+
+248
+00:17:22,360 --> 00:17:26,760
+Da li su arhitekte piramida bili
+svesni vaûnosti ove matematiËke ideje,
+
+249
+00:17:26,800 --> 00:17:32,440
+ili su bili instiktivno privuËeni ovoj razmeri zbog
+njenih zadovoljavajuÊih estetskih svojstava, nikada neÊemo saznati.
+
+250
+00:17:32,480 --> 00:17:36,800
+Po meni, najimpresivnija stvar u vezi
+matematiËke brilijantnosti piramida
+
+251
+00:17:36,840 --> 00:17:40,360
+koja je pomogla u pravljenju,
+ukljuËuje prvi nagoveötaj
+
+252
+00:17:40,400 --> 00:17:44,400
+jedne od najveÊih teorema
+drevnog sveta, Pitagorine teoreme.
+
+253
+00:17:45,960 --> 00:17:48,920
+Da bi dobili savröene ivice koje su meusobno
+pod uglom od 90 stepeni na svojim graevinama
+
+254
+00:17:48,960 --> 00:17:54,080
+i piramidama, EgipÊani su koristili
+konoöac sa ËvoriÊima, zavezanim po njemu.
+
+255
+00:17:54,120 --> 00:17:57,960
+U nekom trenutku, EgipÊani su uvideli
+da ukoliko uzmu trougao sa stranicama
+
+256
+00:17:58,000 --> 00:18:05,400
+oznaËenim sa tri Ëvora, Ëetiri Ëvora i pet
+Ëvorova, to im je garantovalo savröeno prav ugao.
+
+257
+00:18:05,440 --> 00:18:09,880
+Razlog je öto tri na kvadrat, plus
+Ëetiri na kvadrat daju pet na kvadrat.
+
+258
+00:18:09,920 --> 00:18:12,600
+Dakle, imamo savröeni
+Pitagorin trougao.
+
+259
+00:18:14,960 --> 00:18:20,720
+Zapravo, bilo koji trougao Ëije stranice zadovoljavaju ovu
+vezu davaÊe nam savröeni prav ugao.
+
+260
+00:18:20,760 --> 00:18:23,360
+Ali sam priliËno siguran
+da EgipÊani nisu shvatali
+
+261
+00:18:23,400 --> 00:18:28,240
+ovu generalizaciju
+svog 3, 4, 5 trougla.
+
+262
+00:18:28,280 --> 00:18:32,000
+Ne oËekujemo da pronaemo
+opöti dokaz teoreme,
+
+263
+00:18:32,040 --> 00:18:35,480
+jer to nije u stilu
+egipatske matematike.
+
+264
+00:18:35,520 --> 00:18:39,080
+Svaki problem je reöavan
+koristeÊi konkretne brojeve i onda
+
+265
+00:18:39,120 --> 00:18:43,520
+ukoliko bi potvrda bila izvedena
+na kraju, koristio bi se takav rezultat
+
+266
+00:18:43,560 --> 00:18:45,480
+i ubuduÊe, nad tim konkretnim, datim brojevima,
+
+267
+00:18:45,520 --> 00:18:49,200
+ne postoje opöti dokazi
+u egipatskim matematiËkim zapisima.
+
+268
+00:18:50,760 --> 00:18:53,840
+ProÊi Êe nekih 2,000 godina
+pre nego öto su Grci i Pitagora
+
+269
+00:18:53,880 --> 00:18:59,040
+dokazali da svi pravougli trouglovi
+zadovoljavaju i dele odreena zajedniËka svojstva.
+
+270
+00:18:59,080 --> 00:19:03,400
+Ovo nije bila jedina matematiËka ideja
+koju su EgipÊani naslutili.
+
+271
+00:19:03,440 --> 00:19:09,920
+U 4,000 godina starom dokumentu, zvanom
+Moskovski papirus, pronalazimo formulu za zapreminu
+
+272
+00:19:09,960 --> 00:19:15,880
+piramide sa odseËenim vrhom, 
+koja pokazuje prvi nagoveötaj matematiËke analize na delu.
+
+273
+00:19:15,920 --> 00:19:22,680
+Za kulturu kao öto je egipatska, koja je poznata
+po svojim piramidama, oËekivali bi da su problemi 
+
+274
+00:19:22,720 --> 00:19:26,320
+poput ovog bili uobiËajena stavka
+unutar matematiËkih tekstova.
+
+275
+00:19:26,360 --> 00:19:31,040
+RaËunanje zapremine
+zarubljene piramide je jedna od
+
+276
+00:19:31,080 --> 00:19:36,240
+naprednih stavki, prema
+standardima naöe moderne matematike,
+
+277
+00:19:36,280 --> 00:19:38,840
+koju imamo joö iz drevnog Egipta.
+
+278
+00:19:38,880 --> 00:19:42,880
+Arhitekte i inûinjeri su svakako
+ûeleli pvakvu formulu
+
+279
+00:19:42,920 --> 00:19:46,520
+da bi izraËunali koliËinu
+materijala potrebnu za gradnju.
+
+280
+00:19:46,560 --> 00:19:48,760
+Znak sofisticiranosti
+
+281
+00:19:48,800 --> 00:19:53,520
+egipatske matematike je to
+öto su uspeli da pronau tako predivan metod.
+
+282
+00:19:59,560 --> 00:20:03,520
+Da bi razumeli kako su izveli
+svoju formulu, poËnimo sa piramidom
+
+283
+00:20:03,560 --> 00:20:08,240
+sagraenom tako da najviöi vrh
+stoji taËno iznad jednog od Êoökova.
+
+284
+00:20:08,280 --> 00:20:12,840
+Tri ovakve piramide mogle bi se
+sastavili zajedno da Ëine pravilnu kutiju,
+
+285
+00:20:12,880 --> 00:20:18,000
+tako da je zapremina ove kose piramide
+jedna treÊina od zapremine cele kutije.
+
+286
+00:20:18,040 --> 00:20:24,040
+Odnosno, visina, puta öirina,
+puta duûina, podeljeno sa tri.
+
+287
+00:20:24,080 --> 00:20:29,080
+Sada dolazi argument koji pokazuje
+prve naznake matematiËke analize na delu,
+
+288
+00:20:29,120 --> 00:20:35,080
+hiljadama godna pre nego öto su Gotfrid Lajbnic
+i Isak Njutn doöli do ove teorije.
+
+289
+00:20:35,120 --> 00:20:39,400
+Pretpostavimo da moûemo da iseËemo piramidu
+na sitne delove, tada bi mogli posloûiti
+
+290
+00:20:39,440 --> 00:20:44,720
+slojeve drugaËije da dobijemo
+simetriËniju piramidu, kakvu vidimo u Gizi.
+
+291
+00:20:44,760 --> 00:20:49,480
+Svejedno, zapremina piramide se nije
+promenila, uprkos premeötanja slojeva.
+
+292
+00:20:49,520 --> 00:20:51,880
+Dakle ista formula funkcioniöe.
+
+293
+00:20:55,160 --> 00:20:58,640
+EgipÊani su bili zadivljujuÊi inovatori,
+
+294
+00:20:58,680 --> 00:21:01,840
+i njihova sposobnost da stvaraju
+novu matematiku bila je zapanjujuÊa.
+
+295
+00:21:01,880 --> 00:21:07,080
+Po meni, oni su otkrili moÊ geometrije
+i brojeva, i naËinili su prve korake
+
+296
+00:21:07,120 --> 00:21:11,520
+prema nekim uzbudljivim
+matematiËkim otkriÊima.
+
+297
+00:21:11,560 --> 00:21:15,720
+Ali postojala je joö jedna civilizacija
+koja je imala matematiku suparniËku EgipÊanima.
+
+298
+00:21:15,760 --> 00:21:19,800
+A znamo mnogo viöe
+o njihovim postignuÊima.
+
+299
+00:21:24,080 --> 00:21:27,640
+Ovo je Damask, reko 5,000 godina star,
+
+300
+00:21:27,680 --> 00:21:31,040
+i dan danas ûiv i uûurban.
+
+301
+00:21:31,080 --> 00:21:36,600
+Nekada je bio najvaûnija raskrsnica
+trgovaËkih puteva, povezujuÊi Mesopotamiju sa Egiptom.
+
+302
+00:21:36,640 --> 00:21:43,480
+Vavilonci su kontrolisali veÊinu
+danaönjeg Iraka, Irana i Sirije, od 1800 PNE.
+
+303
+00:21:43,520 --> 00:21:50,880
+Da bi proöirili i vladali svojim carstvom, 
+postali su majstori upravljanja i manipulisanja brojevima.
+
+304
+00:21:50,920 --> 00:21:53,680
+Imamo zakonike koji
+nam na primer govore
+
+305
+00:21:53,720 --> 00:21:55,960
+o naËinu na koji je druötvo ureeno.
+
+306
+00:21:56,000 --> 00:21:59,880
+Ljudi o kojima znamo najviöe su
+pisari, profesionalno ökolovani
+
+307
+00:21:59,920 --> 00:22:05,040
+i mnogobrojni ljudi koji su vodili beleöke
+o imuÊnim porodicama i o hramovima i palatama.
+
+308
+00:22:05,080 --> 00:22:10,080
+Pisarske ökole nastale su
+oko 2500 PNE.
+
+309
+00:22:10,120 --> 00:22:17,000
+Ambiciozni pisari bili su slati u ökole kao deca, 
+i uËili su kako da Ëitaju, piöu i rade sa brojevima.
+
+310
+00:22:17,040 --> 00:22:19,880
+Zapisi pisara Ëuvani su 
+na glinenim tablicama,
+
+311
+00:22:19,920 --> 00:22:23,960
+koje su omoguÊile Vaviloncima
+da unaprede i upravljaju svojim carstvom.
+
+312
+00:22:24,000 --> 00:22:30,760
+Meutim, mnoge od glinenih tablica koje imamo danas
+nisu zvaniËni dokumenti, veÊ deËije veûbe.
+
+313
+00:22:30,800 --> 00:22:37,400
+Upravo ovi neverovatni ostaci daju nam uvid
+u to kako su Vavilonci pristupali matematici.
+
+314
+00:22:37,440 --> 00:22:42,200
+Dakle, ovo je geometrijska knjiga
+iz otprilike 18. veka pre nove ere.
+
+315
+00:22:42,240 --> 00:22:44,680
+Nadam se da vidite
+da ima puno slika na njoj.
+
+316
+00:22:44,720 --> 00:22:48,920
+A ispod svek slike je tekst
+koji postavlja problem u vezi sa slikom.
+
+317
+00:22:48,960 --> 00:22:55,560
+Tako na primer, ovaj ovde kaûe:
+Nacrtao sam kvadrat, 60 jedinica dugaËak,
+
+318
+00:22:55,600 --> 00:23:00,680
+a unutar njega, nacrtao sam Ëetiri kruga
+- kolika je njihova povröina?
+
+319
+00:23:00,720 --> 00:23:07,000
+Ova mala tablica ovde, napisana je bar 1,000
+godina kasnije od ove tablice ovde,
+
+320
+00:23:07,040 --> 00:23:09,880
+ali imaju veoma interesantnu vezu.
+
+321
+00:23:09,920 --> 00:23:12,280
+I ona takoe ima Ëetiri kruga,
+
+322
+00:23:12,320 --> 00:23:17,040
+u kvadratu, grubo nacrtana, 
+ali ovo nije knjiga, ovo je ökolska veûba.
+
+323
+00:23:17,080 --> 00:23:21,160
+Odrasli pisar koji poduËava
+aka je dao ovo
+
+324
+00:23:21,200 --> 00:23:25,080
+kao primer uraenog
+domaÊeg ili neöto poput toga.
+
+325
+00:23:26,240 --> 00:23:29,320
+Kao i EgipÊani, 
+Vavilonci su izgledali zainteresovano
+
+326
+00:23:29,360 --> 00:23:32,680
+za reöavanje praktiËnih problema
+sa merenjem i vaganjem.
+
+327
+00:23:32,720 --> 00:23:37,160
+Vavilonska reöenja ovih problema
+bila su zapisivana kao matematiËki recepti.
+
+328
+00:23:37,200 --> 00:23:42,760
+Pisar bi jednostavno pratio i beleûio
+niz instrukcija kako bi dobio rezultat.
+
+329
+00:23:42,800 --> 00:23:47,520
+Evo primera jedne vrste
+problema koji su reöavali.
+
+330
+00:23:47,560 --> 00:23:51,520
+Imam paket ötapiÊa cimeta ovde,
+ali neÊu da ih izmerim.
+
+331
+00:23:51,560 --> 00:23:56,200
+Umesto toga, uzeÊu Ëetiri puta 
+njihovu teûinu i dodaÊu ih na vagu.
+
+332
+00:23:57,840 --> 00:24:04,400
+Sada Êu dodati joö 20 dûina na vagu.
+Dûin je drevna Vavilonska mera za teûinu.
+
+333
+00:24:04,440 --> 00:24:07,720
+UzeÊu pola od svega ovoga
+ovde i dodati ponovo...
+
+334
+00:24:07,760 --> 00:24:10,040
+To su dva paketiÊa cimeta, i deset dûina.
+
+335
+00:24:10,080 --> 00:24:16,080
+Sve na ovoj strani jednako je
+jednoj mani. Jedna mana bila je 60 dûina.
+
+336
+00:24:16,120 --> 00:24:20,040
+I upravo ovde, imamo jednu od prvih
+matematiËkih jednaËina u istoriji,
+
+337
+00:24:20,080 --> 00:24:22,920
+sve na ovoj strani
+jednako je jedna mana.
+
+338
+00:24:22,960 --> 00:24:25,960
+Ali koliko je teûak
+jedan paket ötapiÊa cimeta?
+
+339
+00:24:26,000 --> 00:24:29,240
+Bez ikakvog algebarskog jezika,
+mogli su da manipuliöu
+
+340
+00:24:29,280 --> 00:24:34,960
+veliËinama i da dokaûu
+da paketiÊ cimeta teûi taËno 5 dûina.
+
+341
+00:24:35,000 --> 00:24:40,320
+U mojoj glavi, upravo je ovakva vrsta problema
+stavila matematiku na malo loö glas.
+
+342
+00:24:40,360 --> 00:24:44,800
+Moûete slobodno da krivite drevne Vavilonce
+za sve one muËne probleme koje ste reöavali u ökoli.
+
+343
+00:24:44,840 --> 00:24:49,680
+Ali drevni vavilonski pisari
+bili su brilijantni u reöavanju ovakvih tipova problema.
+
+344
+00:24:49,720 --> 00:24:57,200
+Zanimljivo, oni nisu koristili osnovu 10,
+kao EgipÊani, veÊ su koristili osnovu 60.
+
+345
+00:24:59,920 --> 00:25:05,080
+Vavilonci su izumeli svoj brojevni sistem,
+kao i EgipÊani, koristeÊi svoje prste.
+
+346
+00:25:05,120 --> 00:25:08,280
+Ali umesto da raËunaju koristeÊi
+10 prstiju na svojim rukama,
+
+347
+00:25:08,320 --> 00:25:11,240
+Vavilonci su pronaöli zanimljiviji
+naËin da broje svoje delove tela.
+
+348
+00:25:11,280 --> 00:25:13,760
+Koristili su 12 zglobova na jednoj ruci,
+
+349
+00:25:13,800 --> 00:25:16,160
+i pet prstiju na drugoj
+da bi mogli da oznaËe
+
+350
+00:25:16,200 --> 00:25:20,280
+12 puta 5, to jest 60 razliËitih brojeva.
+
+351
+00:25:20,320 --> 00:25:24,760
+Tako na primer, ovaj broj
+bio bi 2 puta 12, 24,
+
+352
+00:25:24,800 --> 00:25:28,880
+i onda, 1, 2, 3, 4, 5, koji Ëine 29.
+
+353
+00:25:32,000 --> 00:25:35,680
+Broj 60 imao je
+joö jednu moÊnu osobinu.
+
+354
+00:25:35,720 --> 00:25:39,120
+Savröeno je deljiv
+na mnogo naËina.
+
+355
+00:25:39,160 --> 00:25:41,120
+Ovde je 60 zrna pasulja.
+
+356
+00:25:41,160 --> 00:25:44,560
+Mogu da ih poream u 2 reda po 30 zrna.
+
+357
+00:25:48,560 --> 00:25:51,280
+3 reda po 20.
+
+358
+00:25:51,320 --> 00:25:53,680
+4 reda po 15.
+
+359
+00:25:53,720 --> 00:25:55,920
+5 redova po 12.
+
+360
+00:25:55,960 --> 00:25:59,080
+Ili 6 redova od po 10 zrna.
+
+361
+00:25:59,120 --> 00:26:05,320
+Deljivost broja 60 Ëini ga
+savröenom osnovom za izvoenje aritmetike.
+
+362
+00:26:05,360 --> 00:26:10,760
+Sistem sa brojevnom osnovom 60, bio je toliko
+uspeöan da i danas koristimo neke njegove elemente.
+
+363
+00:26:10,800 --> 00:26:14,840
+Svaki put kada poûelimo da iskaûemo 
+vreme, prepoznajemo delove broja 60 
+
+364
+00:26:14,880 --> 00:26:18,800
+60 sekundi u minuti,
+60 minuta u satu.
+
+365
+00:26:18,840 --> 00:26:24,560
+Ali najbitnija odlika vavilonskog brojevnog sistema
+bila je to öto su prepoznali znaËaj teûine cifre.
+
+366
+00:26:24,600 --> 00:26:29,960
+Kao öto i naö decimalni sistem raËuna koliko
+desetina, stotina i hiljada beleûimo,
+
+367
+00:26:30,000 --> 00:26:34,080
+pozicija svake vavilonske cifre
+oznaËava koji je to stepen broja 60.
+
+368
+00:26:41,160 --> 00:26:44,200
+Umesto da uvode nove simbole
+za veÊe i veÊe brojeve,
+
+369
+00:26:44,240 --> 00:26:50,200
+oni bi napisali 1-1-1, 
+öto bi bio broj 3,661.
+
+370
+00:26:53,800 --> 00:26:59,440
+PokretaË za ovo otkriÊe bio je ûelja
+Vavilonaca da prate i beleûe pozicije na noÊnom nebu.
+
+371
+00:27:07,200 --> 00:27:10,600
+Vavilonski kalendar bio je
+zasnovan na meseËevim ciklusima.
+
+372
+00:27:10,640 --> 00:27:14,960
+Bio im je potreban naËin da zabeleûe
+astronomski velike brojeve.
+
+373
+00:27:15,000 --> 00:27:19,320
+Mesec kroz mesec, godinu za godinom,
+ovi ciklusi su beleûeni.
+
+374
+00:27:19,360 --> 00:27:25,480
+Od otprilike 800. godine PNE, 
+postojale su potpune liste lunarnih pomraËenja.
+
+375
+00:27:25,520 --> 00:27:31,160
+Vavilonski sistem merenja
+bio je priliËno sofisticiran za to vreme.
+
+376
+00:27:31,200 --> 00:27:33,520
+Imali su sistem
+za merenje uglova,
+
+377
+00:27:33,560 --> 00:27:37,240
+360 stepeni u punom krugu,
+svaki stepen bio je podeljen
+
+378
+00:27:37,280 --> 00:27:41,600
+na 60 minuta, minuta je
+dalje deljena na 60 sekundi.
+
+379
+00:27:41,640 --> 00:27:48,320
+Dakle imali  su pravilan sistem za merenje,
+koji je bio u savröenoj harmoniji sa njihovim brojevnim sistemom,
+
+380
+00:27:48,360 --> 00:27:51,960
+koji je dobro prilagoen ne samo za
+posmatranja, veÊ i za proraËune.
+
+381
+00:27:52,000 --> 00:27:56,120
+Ali u cilju da raËunaju
+i savladaju ove velike brojeve,
+
+382
+00:27:56,160 --> 00:28:00,480
+Vaviloncima je bilo potrebno
+da izmisle novi simbol.
+
+383
+00:28:00,520 --> 00:28:03,760
+I na taj naËin, pripremili su
+teren za jedan od najveÊih
+
+384
+00:28:03,800 --> 00:28:06,640
+prodora u istoriji matematike
+- nula.
+
+385
+00:28:06,680 --> 00:28:11,000
+U poËetku, Vavilonci,
+da bi oznaËili prazan prostor
+
+386
+00:28:11,040 --> 00:28:14,400
+u sredini broja, 
+ostavljali bi jednostavno prazan prostor.
+
+387
+00:28:14,440 --> 00:28:19,720
+Dakle, trebao im je naËin da predstave
+niöta u sred nekog broja.
+
+388
+00:28:19,760 --> 00:28:25,120
+Tako su korsitili znak, neka vrsta
+oznake za pauzu, kao interpukcijski znak,
+
+389
+00:28:25,160 --> 00:28:29,040
+i on je poËeo da znaËi nulu
+u sred nekog broja.
+
+390
+00:28:29,080 --> 00:28:34,960
+Ovo je bio prvi put da se nula,
+u bilo kakvom obliku, pojavila u matematiËkom univerzumu.
+
+391
+00:28:35,000 --> 00:28:41,760
+Ali proÊi Êe joö preko 1,000 godina pre nego öto
+ovaj mali znak pauze postane broj ravnopravan sa ostalima.
+
+392
+00:28:50,400 --> 00:28:54,120
+Poöto su uspostavili tako
+sofisticiran brojevni sistem,
+
+393
+00:28:54,160 --> 00:28:59,480
+iskoristili su ga da ukrote suvo
+i negostoljubivo zemljiöte koje vodi kroz Mesopotamiju.
+
+394
+00:29:01,880 --> 00:29:06,160
+Vavilonski inûinjeri i
+istraûivaËi pronaöli su sjajan naËin
+
+395
+00:29:06,200 --> 00:29:10,160
+za navodnjavanje, i pravljenje
+kanala u itnim poljima.
+
+396
+00:29:10,200 --> 00:29:15,520
+Joö jednom, koristili su matematiku
+da dou do reöenja.
+
+397
+00:29:15,560 --> 00:29:18,960
+Orontes dolina u Siriji
+i dalje je poljoprivredno srediöte,
+
+398
+00:29:19,000 --> 00:29:26,080
+a stari sistemi za navodnjavanje se koriste
+i dan danas, kao öto su se koristili hiljadama godina ranije.
+
+399
+00:29:26,120 --> 00:29:28,920
+Mnogi od problema
+vavilonske matematike
+
+400
+00:29:28,960 --> 00:29:34,120
+tiËu se merenja zemljiöta,
+i ovde vidimo po prvi put
+
+401
+00:29:34,160 --> 00:29:39,680
+upotrebu kvadratne jednaËine, jedno
+od najveÊih naslea vavilonske matematike.
+
+402
+00:29:39,720 --> 00:29:43,320
+Kvadratne jednaËine ukljuËuju
+probleme gde se nepoznata veliËina
+
+403
+00:29:43,360 --> 00:29:46,680
+koju pokuöavamo da pronaemo
+pojavljuje pomnoûene samom sobom.
+
+404
+00:29:46,720 --> 00:29:49,640
+Ovo zovemo kvadriranje jer
+rezultat daje povröinu kvadrata,
+
+405
+00:29:49,680 --> 00:29:52,800
+i upravo u kontekstu
+raËunanja povröine zemljiöta
+
+406
+00:29:52,840 --> 00:29:55,720
+ove kvdaratne jednaËine
+se prirodno pojavljuju.
+
+407
+00:30:01,120 --> 00:30:03,040
+Evo tipiËnog problema.
+
+408
+00:30:03,080 --> 00:30:05,920
+Ako polje ima povröinu od 55 jedinica
+
+409
+00:30:05,960 --> 00:30:10,400
+a jedna stranica je za öest jedinica
+duûa od druge stranice,
+
+410
+00:30:10,440 --> 00:30:12,320
+kolika je kraÊa stranica?
+
+411
+00:30:14,000 --> 00:30:18,400
+Vavilonsko reöenje bilo je da se
+rekonfiguriöe polje u oblik kvdarata.
+
+412
+00:30:18,440 --> 00:30:21,680
+Odseci tri jedinice sa kraja
+
+413
+00:30:21,720 --> 00:30:24,520
+i pomeri okolo.
+
+414
+00:30:24,560 --> 00:30:29,680
+Sada, imamo parËe tri puta tri
+koje nedostaje, tako da dodajmo ovo unutra.
+
+415
+00:30:29,720 --> 00:30:34,400
+Povröina polja se poveÊala
+za devet jedinica.
+
+416
+00:30:34,440 --> 00:30:37,800
+Ovo Ëini novu povröinu 64.
+
+417
+00:30:37,840 --> 00:30:41,640
+Pa tako stranice kvadrata
+moraju biti 8 jedinica.
+
+418
+00:30:41,680 --> 00:30:45,080
+Onaj ko reöava ovaj problem
+zna da su dodate tri jedinice na ovoj strani.
+
+419
+00:30:45,120 --> 00:30:49,280
+Dakle, originalna duûina mora biti pet!
+
+420
+00:30:50,320 --> 00:30:55,360
+Moûda ne izleda tako, ali ovo je
+jedna od prvih kvadratnih jednaËina u istoriji.
+
+421
+00:30:57,200 --> 00:31:02,160
+U modernoj matematici, koristili bi simboliËki
+jezik algebre da reöimo ovaj problem.
+
+422
+00:31:02,200 --> 00:31:07,160
+Sjajan podvig Vavilonaca je u tome
+öto su koristili ovakve geometrijske igre da nau vrednost,
+
+423
+00:31:07,200 --> 00:31:09,960
+bez ikakvog pribegavanja
+simbolima ili formulama.
+
+424
+00:31:10,000 --> 00:31:13,680
+Vavilonci su uûivali
+u reöavanju problema radi samih sebe.
+
+425
+00:31:13,720 --> 00:31:17,720
+Zaljubili su se u matematiku!
+
+426
+00:31:28,880 --> 00:31:33,840
+Njihova fascinacija brojevima ubrzo je pronaöla
+svoje mesto kojim su popunjavali slobodno vreme, takoe.
+
+427
+00:31:33,880 --> 00:31:35,720
+Bili su strastveni u igranju igara.
+
+428
+00:31:35,760 --> 00:31:38,520
+Vavilonci i njihovi
+potomci igrali su
+
+429
+00:31:38,560 --> 00:31:42,920
+verziju igre Bekgamon
+viöe od 5,000 godina.
+
+430
+00:31:42,960 --> 00:31:45,600
+Vavilonci su igrali igre na tabli,
+
+431
+00:31:45,640 --> 00:31:51,960
+od vrlo otmenih igara na tabli pronaenih u kraljevskim grobnicama,
+malo igara na tabli pronaenih u ökolama,
+
+432
+00:31:52,000 --> 00:31:56,040
+do igara na tabli urezanih
+na ulazima palata,
+
+433
+00:31:56,080 --> 00:32:00,280
+tako da su straûari verovatno 
+igrali kada im je bilo dosadno,
+
+434
+00:32:00,320 --> 00:32:03,520
+i korstili su kocikce
+da pomeraju svoje brojaËe po tabli.
+
+435
+00:32:04,480 --> 00:32:09,560
+Ljudi koji su igrali igre u svoje slobodno vreme,
+koristili su brojeve da pokuöaju da nadmudre svog protivnika,
+
+436
+00:32:09,600 --> 00:32:12,440
+radeÊi mentalnu aritmetiku veoma brzo,
+
+437
+00:32:12,480 --> 00:32:17,040
+tako da su raËunali
+u vreme razonode,
+
+438
+00:32:17,080 --> 00:32:20,760
+bez da su i pomiöljali
+na to kao teûak matematiËki zadatak.
+
+439
+00:32:23,120 --> 00:32:24,360
+Evo je moja öansa.
+
+440
+00:32:24,400 --> 00:32:29,760
+Nisam igrao Bekgamon godinama, ali raËunam
+da mi moje poznavanje matematike daje öansu za pobedu.
+
+441
+00:32:29,800 --> 00:32:33,320
+Red je na tebe. äest...
+Moram da pomerim neöto.
+
+442
+00:32:33,360 --> 00:32:36,320
+Ali nije bilo tako lako kao öto sam mislio.
+
+443
+00:32:36,360 --> 00:32:38,440
+Ah! äta je to bilo kog avla?
+
+444
+00:32:38,480 --> 00:32:42,200
+Da, da. Ovo je jedan, ovo je dva.
+
+445
+00:32:42,240 --> 00:32:43,960
+Sada si u problemu.
+
+446
+00:32:44,000 --> 00:32:47,560
+Dakle ne mogu niöta da pomerim.
+Ove ne moûeö da pomeriö.
+
+447
+00:32:47,600 --> 00:32:48,960
+Oh, boûe.
+
+448
+00:32:50,320 --> 00:32:52,080
+Evo ga.
+
+449
+00:32:53,120 --> 00:32:54,720
+Tri i Ëetiri.
+
+450
+00:32:54,760 --> 00:33:00,480
+Baö kao i drevni Vavilonci, moj protivnik
+bio je master taktiËke matematike.
+
+451
+00:33:00,520 --> 00:33:01,880
+Da.
+
+452
+00:33:02,920 --> 00:33:05,600
+Daj ruku ovamo. Dobra partija.
+
+453
+00:33:06,920 --> 00:33:10,400
+Vavilonci su prepoznati
+kao jedna od prvih kultura
+
+454
+00:33:10,440 --> 00:33:13,600
+koje su koristile simetriËne matematiËke 
+oblike da naprave kockicu za igru,
+
+455
+00:33:13,640 --> 00:33:17,200
+ali postoji joö vrelija debata
+o tome da li su oni moûda takoe
+
+456
+00:33:17,240 --> 00:33:20,680
+bili prvi koji su otkrili
+tajne joö jednog vaûnog oblika.
+
+457
+00:33:20,720 --> 00:33:23,800
+Pravouglog trougla.
+
+458
+00:33:26,800 --> 00:33:32,120
+VeÊ smo videli kako su EgipÊani
+koristili 3-4-5 pravougli trougao.
+
+459
+00:33:32,160 --> 00:33:37,360
+Ali ono öto su Vavilonci znali u vezi ovog oblika
+i o drugima poput njega je mnogo sofisticiranije.
+
+460
+00:33:37,400 --> 00:33:41,880
+Ovo je najpoznatija i 
+najkontroverznija glinena tablica koju imamo.
+
+461
+00:33:41,920 --> 00:33:44,240
+Zove se Plimpton 322.
+
+462
+00:33:45,280 --> 00:33:48,840
+Mnogi matematiËari su uvereni
+da ona pokazuje da su Vavilonci
+
+463
+00:33:48,880 --> 00:33:53,120
+mogli da znaju principe
+koji se odnose na pravougle trouglove,
+
+464
+00:33:53,160 --> 00:33:57,160
+da je kvadrat na dijagonali
+jednak sumi kvadrata na stranama,
+
+465
+00:33:57,200 --> 00:34:00,040
+i da su znali to vekovima
+pre nego öto su Grci to tvrdili.
+
+466
+00:34:01,680 --> 00:34:06,080
+Ovo je kopija, verovatno
+najËuvenije vavilonske tablice,
+
+467
+00:34:06,120 --> 00:34:07,800
+koja je Plimpton 322,
+
+468
+00:34:07,840 --> 00:34:12,440
+i ovi brojevi ovde odraûavaju
+öirinu ili visinu trougla,
+
+469
+00:34:12,480 --> 00:34:17,280
+ovo je dijagonala,
+druga strana bila bi ovde,
+
+470
+00:34:17,320 --> 00:34:23,240
+i kvadrati brojeva iz ove kolone plus
+kvadrati brojeva iz druge kolone
+
+471
+00:34:23,280 --> 00:34:26,120
+jednaki su kvadratima dijagonala.
+
+472
+00:34:26,160 --> 00:34:30,880
+Poreani prema redosledu
+strogo opadajuÊeg ugla,
+
+473
+00:34:30,920 --> 00:34:33,760
+po veoma ujednaËenoj osnovi,
+pokazuju da je neko
+
+474
+00:34:33,800 --> 00:34:38,360
+imao veoma mnogo razumevanja
+kako se ovi brojevi uklapaju jedan prema drugom.
+
+475
+00:34:44,480 --> 00:34:50,560
+Ovde je 15 savröenih Pitagorinih trouglova,
+svi Ëije su duûine stranica bili celi brojevi.
+
+476
+00:34:50,600 --> 00:34:55,920
+Primamljivo je misliti kako su Vavilonci
+bili prvi tvorci Pitagorine teoreme,
+
+477
+00:34:55,960 --> 00:35:00,960
+i to je zakljuËak kojim su generacije
+istoriËara bile zavedene.
+
+478
+00:35:01,000 --> 00:35:03,720
+Ali postoji mnogo
+jednostavnije objaönjenje
+
+479
+00:35:03,760 --> 00:35:07,520
+za skupove od po tri broja
+koji ispunjavaju Pitagorinu teoremu.
+
+480
+00:35:07,560 --> 00:35:12,560
+Ovo nije sistematsko objaönjenje
+Pitagorinih trojki, to je jednostavno
+
+481
+00:35:12,600 --> 00:35:17,400
+pisao neki nastavnik matematike
+koji da bi doöao do nekih sloûenih brojeva,
+
+482
+00:35:17,440 --> 00:35:20,920
+i da bi njih proizveo iz
+nekih veoma jednostavnih brojeva,
+
+483
+00:35:20,960 --> 00:35:25,880
+i postavio svojim uËenicima
+probleme oko pravoglih trouglova,
+
+484
+00:35:25,920 --> 00:35:30,760
+ispisao je sve ovo i u tom smilu radi se
+o Pitagorinim trojkama, samo sluËajno.
+
+485
+00:35:33,280 --> 00:35:38,800
+Najvredniji tragovi onoga öto jesu Vavilonci
+zaista razumeli mogli bi leûati na drugom mestu.
+
+486
+00:35:38,840 --> 00:35:43,120
+Ova mala tablica ökolske veûbe
+je gotovo 4,000 godina stara
+
+487
+00:35:43,160 --> 00:35:48,560
+i otkriva ono öto Vavilonci sigurno 
+jesu znali o pravouglim trouglovima.
+
+488
+00:35:48,600 --> 00:35:54,120
+Koriste se principi Pitagorine teoreme
+da bi se pronaöla vrednost zapanjujuÊeg novog broja.
+
+489
+00:35:57,720 --> 00:36:05,520
+IzvuËeno iz dijagonale nalazi se veoma dobra
+aproksimacija kvadratnog korena broja dva,
+
+490
+00:36:05,560 --> 00:36:10,640
+i to nam pokazuje da je bilo
+poznato i koriöÊeno u ökolskom okruûenju.
+
+491
+00:36:10,680 --> 00:36:12,640
+Sada, zaöto je ovo vaûno?
+
+492
+00:36:12,680 --> 00:36:18,200
+Zato öto je kvadratni koren iz dva
+ono öto mi danas zovemo iracionalan broj,
+
+493
+00:36:18,240 --> 00:36:23,720
+öto naËi, ako ga ispiöemo u 
+decimalnom obliku, ili Ëak u öezdeset-decimalnom obliku,
+
+494
+00:36:23,760 --> 00:36:28,120
+on se ne zavröava, broj se nastavlja
+do beskraja, nakon decimalnog zareza.
+
+495
+00:36:29,040 --> 00:36:33,400
+Implikacije ovih
+proraËuna su dalekoseûne.
+
+496
+00:36:33,440 --> 00:36:37,680
+Pre svega, to znaËi da su Vavilonci
+znali neöto o Pitagorinoj teoremi
+
+497
+00:36:37,720 --> 00:36:39,560
+1,000 godina pre samog Pitagore.
+
+498
+00:36:39,600 --> 00:36:45,320
+Kao drugo, Ëinjenica da su oni mogli preraËunati
+ovaj broj na preciznost od Ëetiri decimale
+
+499
+00:36:45,360 --> 00:36:50,360
+pokazuje sjajnu aritmetiËku sposobnost,
+kao i njihovu strast za matematiËki detalj.
+
+500
+00:36:52,000 --> 00:36:56,200
+Vavilonska matematiËka 
+sposobnost bila je zadivljujuÊa,
+
+501
+00:36:56,240 --> 00:37:02,840
+i tokom skoro 2,000 godina oni su öirili
+intelektualni napredak po drevnom svetu.
+
+502
+00:37:02,880 --> 00:37:08,040
+Ali kada je njihova imperijalna moÊ poËela da
+slabi, tako je slabila i njihova intelektualna snaga.
+
+503
+00:37:16,200 --> 00:37:23,040
+Do 330 godine PNE, Grci su uznapredovali
+svoj imperijalistiËki proboj ka staroj Mesopotamiji.
+
+504
+00:37:25,000 --> 00:37:30,760
+Ovo je Palmira u centralnoj Siriji,
+nekada veliki grad koji su Grci izgradili.
+
+505
+00:37:33,600 --> 00:37:40,760
+Potreba matematiËkih eksperata za gradnjom
+tako geometrijski perfektnih graevina je impresivna.
+
+506
+00:37:41,920 --> 00:37:48,080
+Kao i Vavilonci pre njih, 
+Grci su bili strastveni matematiËari.
+
+507
+00:37:50,320 --> 00:37:52,840
+Grci su bili mudri kolonisti.
+
+508
+00:37:52,880 --> 00:37:56,040
+Uzimali su najbolje od
+civilizacija koje su pokorili
+
+509
+00:37:56,080 --> 00:37:58,480
+da poboljöaju sopstvenu
+moÊ i uticaj,
+
+510
+00:37:58,520 --> 00:38:01,640
+mada su ubrzo i sami
+poËeli da daju doprinose.
+
+511
+00:38:01,680 --> 00:38:06,840
+Po mom miöljenju, njihova najveÊa inovacija
+ima veze sa promenama u naËinu razmiöljanja.
+
+512
+00:38:06,880 --> 00:38:11,320
+Ono öto su oni zapoËeli
+uticalo je na ËoveËanstvo vekovima.
+
+513
+00:38:11,360 --> 00:38:14,280
+Oni su nam dali moÊ dokaza.
+
+514
+00:38:14,320 --> 00:38:19,400
+Nekako su odluËili da moraju imati
+deduktivni sistem za svoju matematiku,
+
+515
+00:38:19,440 --> 00:38:25,480
+a tipiËan deduktivni sistem zapoËinjao je
+sa odreenim aksiomam, za koje se pretpostavlja sa su taËne.
+
+516
+00:38:25,520 --> 00:38:28,840
+To je kao kada bi pretpostavili
+da je odreena teorema taËna, bez dokaza.
+
+517
+00:38:28,880 --> 00:38:34,360
+I onda, koristeÊi metod
+logike kroz veoma paûljive korake,
+
+518
+00:38:34,400 --> 00:38:37,240
+iz ovih aksioma, dokazujemo teoreme
+
+519
+00:38:37,280 --> 00:38:42,160
+a iz ovih teroema dokazujemo
+joö teorema, i to je kao lopta snega koja raste.
+
+520
+00:38:43,320 --> 00:38:46,760
+Dokaz je ono öto daje
+matematici njenu snagu.
+
+521
+00:38:46,800 --> 00:38:51,120
+MoÊ dokaza je taj koji znaËi
+da su otkriÊa starih Grka
+
+522
+00:38:51,160 --> 00:38:55,240
+taËna dan danas, onoliko koliko
+su bila taËna i pre 2,000 godina.
+
+523
+00:38:55,280 --> 00:39:00,880
+Morao sam da se zaputim na zapad, 
+u srce starog GrËkog carstva da bi saznao viöe.
+
+524
+00:39:08,520 --> 00:39:13,760
+Po meni, grËka matematika je
+oduvek bila herojska i romantiËna.
+
+525
+00:39:15,080 --> 00:39:20,000
+Na putu sam za Samos, manje
+od milje od Turske obale.
+
+526
+00:39:20,040 --> 00:39:24,760
+Ovo mesto postalo je sinonim
+za raanje grËke matematike,
+
+527
+00:39:24,800 --> 00:39:27,680
+a svodi se na legendu o jednom Ëoveku.
+
+528
+00:39:30,800 --> 00:39:32,880
+Njegovo ime je Pitagora.
+
+529
+00:39:32,920 --> 00:39:36,280
+Legenda koja okruûuje njegov
+ûivot i rad doprinela je
+
+530
+00:39:36,320 --> 00:39:40,080
+njegovom statusu poznate liËnosti
+koji nosi zadnjih 2,000 godina.
+
+531
+00:39:40,120 --> 00:39:44,720
+Dodeljene su mu zasluge, 
+pravedno ili nepravedno, za poËetak transformacije 
+
+532
+00:39:44,760 --> 00:39:50,000
+matematike od alatke koja sluûi za raËunanje
+do analitiËkog predmeta koji poznajemo danas.
+
+533
+00:39:53,960 --> 00:39:56,920
+Pitagora je kontroverzna liËnost.
+
+534
+00:39:56,960 --> 00:40:00,120
+Zato öto nije ostavio nikakve
+matematiËke zapise, mnogi sumnjaju
+
+535
+00:40:00,160 --> 00:40:04,680
+da li je zaista on reöio
+ijednu od teorema koje mu se pripisuju.
+
+536
+00:40:04,720 --> 00:40:07,720
+Osnovao je ökolu u Samosu
+u öestom veku pre Hrista,
+
+537
+00:40:07,760 --> 00:40:13,200
+ali njegova uËenja su smatrana sumnjivim,
+a Pitagorejci su smatrani za bizarnu sektu.
+
+538
+00:40:14,760 --> 00:40:19,480
+Postoje znaËajni dokazi da je
+postojala Pitagorejska ökola,
+
+539
+00:40:19,520 --> 00:40:25,680
+i ona moûda jeste liËila viöe na sektu
+nego na filozofsku ökolu,
+
+540
+00:40:25,720 --> 00:40:30,680
+jer oni nisu delili meusobno samo svoje znanje,
+veÊ su delili i isti naËin ûivota.
+
+541
+00:40:30,720 --> 00:40:35,840
+Izgleda da su postojala sliËna 
+takva druötva i izgleda da su se svi
+
+542
+00:40:35,880 --> 00:40:39,760
+ukljuËivali u 
+politiku svojih gradova.
+
+543
+00:40:39,800 --> 00:40:45,200
+Jedna osobina koja ih Ëini neobiËnim u
+drevnom svetu, jeste to öto su ukljuËivali i ûene.
+
+544
+00:40:46,360 --> 00:40:52,040
+Ali Pitagora je sinonim za poimanje neËega
+öto je izmaklo EgipÊanima i Vaviloncima -
+
+545
+00:40:52,080 --> 00:40:55,800
+svojstva pravouglog trougla.
+
+546
+00:40:55,840 --> 00:40:58,000
+Ono öto je poznato kao Pitagorina teorema
+
+547
+00:40:58,040 --> 00:41:01,120
+tvrdi da ukoliko uzmemo
+bilo koji pravougli trougao,
+
+548
+00:41:01,160 --> 00:41:05,080
+konstruiöemo kvadrate nad njegovim stranicama,
+tada je povröina najveÊeg kvadrata
+
+549
+00:41:05,120 --> 00:41:09,080
+jednaka sumi kvadrata
+nad drugim manjim stranicama.
+
+550
+00:41:13,040 --> 00:41:16,440
+U ovom trenutku za mene
+matematika je roena
+
+551
+00:41:16,480 --> 00:41:19,640
+i otvara se rupa
+izmeu drugih nauka,
+
+552
+00:41:19,680 --> 00:41:24,360
+a dokaz je toliko jednostavan,
+koliko je razarajuÊi u svojim implikacijama.
+
+553
+00:41:24,400 --> 00:41:27,840
+Stavimo Ëetiri kopije
+pravouglog trougla
+
+554
+00:41:27,880 --> 00:41:29,600
+na vrh ove povröine.
+
+555
+00:41:29,640 --> 00:41:31,480
+Kvadrat koji sada vidimo
+
+556
+00:41:31,520 --> 00:41:35,200
+ima stranice jednke
+hipotenuzama ovih trouglova.
+
+557
+00:41:35,240 --> 00:41:37,360
+Ako ispremeötamo ove trouglove,
+
+558
+00:41:37,400 --> 00:41:40,480
+vidimo kako moûemo razbiti 
+povröinu velikog kvadrata
+
+559
+00:41:40,520 --> 00:41:42,920
+na sumu dva manja kvadrata,
+
+560
+00:41:42,960 --> 00:41:47,040
+Ëije stranice su zadate
+dvema kraÊim stranicama trougla.
+
+561
+00:41:47,080 --> 00:41:51,800
+Drugim reËima, kvadrat
+nad hipotenuzom jednak je
+
+562
+00:41:51,840 --> 00:41:55,600
+sumi kvadrata nad katetama.
+Pitagorina teorema.
+
+563
+00:41:57,840 --> 00:42:02,160
+Ona ilistruje jednu od karakteristiËnih
+tema grËke matematike -
+
+564
+00:42:02,200 --> 00:42:07,360
+pozivanje na predivne argumente u
+geometriji, radije nego oslanjenje na brojeve.
+
+565
+00:42:11,200 --> 00:42:15,760
+Pitagori je moûda uËinjena prevelika usluga
+i mnoga otkriÊa koja su mu dodeljena
+
+566
+00:42:15,800 --> 00:42:21,600
+su osporena u skorije vreme, ali postoji
+jedna matematiËka teorija koju nisam voljan da mu oduzmem.
+
+567
+00:42:21,640 --> 00:42:25,600
+Ima veze sa muzikom i 
+otkriÊem harmonijskog niza.
+
+568
+00:42:27,480 --> 00:42:31,240
+PriËa glasi, da je Pitagora
+prolazeÊi pored kovaËa jednog dana,
+
+569
+00:42:31,280 --> 00:42:33,560
+zaËuo kako se udaraju nakovnji,
+
+570
+00:42:33,600 --> 00:42:38,560
+i primetio da su proizvedene note
+zvuËale kao da su u perfektnoj harmoniji.
+
+571
+00:42:38,600 --> 00:42:42,000
+Verovao je da mora postojati
+neko racionalno objaönjenje
+
+572
+00:42:42,040 --> 00:42:45,840
+koje daje smisao tome
+zaöto note zvuËe tako primamljivo.
+
+573
+00:42:45,880 --> 00:42:48,320
+Odgovor je leûao u matematici.
+
+574
+00:42:53,280 --> 00:42:57,880
+EksperimentiöuÊi na instrumentu sa ûicama,
+Pitagora je otkrio da su intervali izmeu
+
+575
+00:42:57,920 --> 00:43:03,200
+harmonijskih muziËkih nota
+predstavljeni kao odnosi celih brojeva.
+
+576
+00:43:05,000 --> 00:43:07,920
+I evo kako je verovatno
+da je konstruisao svoju teoriju.
+
+577
+00:43:10,520 --> 00:43:13,360
+Najpre, odsvirao je notu na otvorenoj ûici.
+
+578
+00:43:14,920 --> 00:43:16,800
+Zatim, uzeo je polovinu duûine.
+
+579
+00:43:18,760 --> 00:43:21,920
+Nota zvuËi skoro
+isto kao i prva nota.
+
+580
+00:43:21,960 --> 00:43:26,880
+Zapravo, za oktavu je viöa, ali veza meu nima
+toliko je jaka, da ovim notama dajemo isto ime.
+
+581
+00:43:26,920 --> 00:43:28,720
+Sada uzmimo treÊinu duûine.
+
+582
+00:43:31,400 --> 00:43:35,400
+Dobijamo joö jednu notu koja zvuËi
+harmonijski sa prve dve,
+
+583
+00:43:35,440 --> 00:43:41,000
+ali ako uzmemo duûinu ûice koja nije
+odnos celog broja, sve öto dobijamo jeste disonanca.
+
+584
+00:43:46,400 --> 00:43:50,760
+Prema legendi, Pitagora je bio
+toliko uzbuen ovim otkriÊem
+
+585
+00:43:50,800 --> 00:43:54,200
+da je zakljuËio kako je Ëitav
+univerzum izgraen od brojeva.
+
+586
+00:43:54,240 --> 00:43:59,800
+Ali on i njegovi sledbenici doöli su jedan dan
+do priliËno uznemirujuÊeg pogleda koji je uzdrmao njihov svet
+
+587
+00:43:59,840 --> 00:44:04,880
+zbog rezultata koji je
+proistakao iz same Pitagorine teoreme.
+
+588
+00:44:06,920 --> 00:44:12,160
+Legenda kaûe da je jedan od Pitagorinih sledbenika,
+matematiËar zvani Hipas,
+
+589
+00:44:12,200 --> 00:44:15,240
+krenuo u potragu za
+duûinom hipotenuze
+
+590
+00:44:15,280 --> 00:44:19,520
+pravouglog trougla
+sa obe katete duûine jedne jedinice.
+
+591
+00:44:19,560 --> 00:44:25,280
+Pitagorina teorema ukazivala na to da je
+duûina hipotenuze broj Ëiji je kvadrat jednak dva.
+
+592
+00:44:25,320 --> 00:44:29,320
+Pitagorejci su pretpostavljali da 
+Êe odgovor biti razlomak,
+
+593
+00:44:29,360 --> 00:44:35,760
+ali kada je Hipas pokuöao da ga izrazi na taj naËin,
+bez obzira koliko pokuöavao, nije mogao da ga uhvati.
+
+594
+00:44:35,800 --> 00:44:38,360
+Na kraju, shvatio je svoju greöku.
+
+595
+00:44:38,400 --> 00:44:43,080
+Upravo je pretpostavka da je reöenje razlomak
+ono öto je bilo pogreöno u Ëitavoj priËi.
+
+596
+00:44:43,120 --> 00:44:49,200
+Vrednost kvadratnog korena iz dva bio je broj koji
+su Vavilonci urezali na tablcu sa univerziteta Jejl.
+
+597
+00:44:49,240 --> 00:44:53,080
+Svejedno, oni nisu prepoznali 
+specijalan karakter ovog broja.
+
+598
+00:44:53,120 --> 00:44:54,800
+Ali Hipas jeste.
+
+599
+00:44:54,840 --> 00:44:57,320
+To je bio iracionalan broj.
+
+600
+00:45:00,680 --> 00:45:04,560
+OtkriÊe ovog novog broja, i drugih 
+poput njega srodno je sa otkriÊem
+
+601
+00:45:04,600 --> 00:45:09,000
+novog kontinenta od strane istraûivaËa, 
+ili kao kada prirodnjak pronae novu vrstu.
+
+602
+00:45:09,040 --> 00:45:13,280
+Ali ovi iracionalni brojevi
+nisu se uklapali u Pitagorin pogled na svet.
+
+603
+00:45:13,320 --> 00:45:18,880
+Kasniji komentatori GrËke priËaju nam priËu
+kako je Pitagora zarekao Ëlanove svoje sekte na tajnost,
+
+604
+00:45:18,920 --> 00:45:21,600
+ali Hipas je dozvolio da pronalazak izae napolje
+
+605
+00:45:21,640 --> 00:45:25,360
+i ubrzo zatim je udavljen u moru
+zbog svog pokuöaja da emituje njihova istraûivanja van krugova.
+
+606
+00:45:26,880 --> 00:45:32,200
+Ali ova matematiËka otkriÊa
+nisu mogla biti lako potisnuta.
+
+607
+00:45:32,240 --> 00:45:37,680
+äkole filozofije i nauke poËele su da cvetaju
+po Ëitavoj GrËkoj, graene upravo na ovim temeljima.
+
+608
+00:45:37,720 --> 00:45:42,120
+Najpoznatija od njih
+bila je Akademija.
+
+609
+00:45:42,160 --> 00:45:47,320
+Platon je osnovao ovu ökolu
+u Atini, 387. godine pre Hrista.
+
+610
+00:45:47,360 --> 00:45:53,800
+Iako mi shvatamo danas njega kao filozofa,
+on je bio jedan on najvaûnijih pokrovitelja matematike.
+
+611
+00:45:53,840 --> 00:45:57,480
+Platon je bio opËinjen
+Pitagorinim pogledima na ûivot
+
+612
+00:45:57,520 --> 00:46:01,800
+i smatrao je matematiku 
+temeljom znanja.
+
+613
+00:46:01,840 --> 00:46:06,840
+Neki kaûu da je Platon
+najzasluûnija figura
+
+614
+00:46:06,880 --> 00:46:09,840
+za naöu percepciju grËke matematike.
+
+615
+00:46:09,880 --> 00:46:14,880
+On je tvrdio da je matematika
+vaûan oblik znanja 
+
+616
+00:46:14,920 --> 00:46:17,360
+i da ima veze sa stvarnoöÊu.
+
+617
+00:46:17,400 --> 00:46:23,240
+Dakle, poznavajuÊi matematiku,
+saznajemo viöe o stvarnosti.
+
+618
+00:46:23,280 --> 00:46:29,000
+U svom dijalogu zvanom Timaj, Platon predlaûe
+tezu da je geometrija kljuË za otkirvanje 
+
+619
+00:46:29,040 --> 00:46:33,240
+tajni univerzuma, 
+pogled koji i danas zastupaju nauËnici.
+
+620
+00:46:33,280 --> 00:46:37,240
+Zaista, vaûnost koju je Plato
+pridodao geometriji is enkapsulirana
+
+621
+00:46:37,280 --> 00:46:43,720
+u znaku koji je bio postavljen iznad Akademije,
+"Neka ne ulazi onaj ko ne zna geometriju"
+
+622
+00:46:47,320 --> 00:46:53,480
+Platon je predlagao da bi univerzum mogao
+da se ogleda u pet pravilnih simetriËnih oblika.
+
+623
+00:46:53,520 --> 00:46:56,400
+Ovi oblici, koje danas
+nazivamo Platonova tela,
+
+624
+00:46:56,440 --> 00:46:59,360
+sastavljena su od pravilnih
+poligona, okupljenih da Ëine
+
+625
+00:46:59,400 --> 00:47:02,840
+tro-dimenzionalne simetriËne objekte.
+
+626
+00:47:02,880 --> 00:47:05,480
+Tetraedar predstavlja vatru.
+
+627
+00:47:05,520 --> 00:47:09,720
+Ikosaedar, sastavljen od 20
+pravilnih trouglova, predstavlja vodu.
+
+628
+00:47:09,760 --> 00:47:11,920
+Kocka je bila Zemlja.
+
+629
+00:47:11,960 --> 00:47:15,640
+Oktaedar sa osam strana je vazduh.
+
+630
+00:47:15,680 --> 00:47:19,200
+A peto Platonovo telo,
+dodekaedar,
+
+631
+00:47:19,240 --> 00:47:22,040
+saËinjen od 12 petouglova,
+bio je rezervisan za simbol
+
+632
+00:47:22,080 --> 00:47:25,760
+koji je predstavljao Platonovo
+vienje Ëitavog univerzuma.
+
+633
+00:47:29,400 --> 00:47:33,400
+Platonova teorija imala je seizmiËki 
+uticaj i nastavila je da inspiriöe
+
+634
+00:47:33,440 --> 00:47:37,160
+matematiËare i astronome
+preko 1,500 godina.
+
+635
+00:47:38,160 --> 00:47:40,880
+Pored prodora naËinjenih 
+u samoj Akademij,
+
+636
+00:47:40,920 --> 00:47:45,640
+matematiËki trijumf se takoe pojavljivao
+na obodima grËkog carstva,
+
+637
+00:47:45,680 --> 00:47:51,280
+i zaduûuje matematiËko naslee
+isto koliko i egipatsko i grËko naslee.
+
+638
+00:47:51,320 --> 00:47:57,760
+Aleksandrija je postala centar akademske nadmoÊnosti
+za vreme vladavine Ptolomeja u 3. veku pre Hrista,
+
+639
+00:47:57,800 --> 00:48:04,080
+i njena Ëuvena biblioteka uskoro je
+zadobila reputaciju rivala Platonove akademije.
+
+640
+00:48:04,120 --> 00:48:11,520
+Kraljevi Aleksandrije bili su spremni
+da investiraju u umetnost i kulturu,
+
+641
+00:48:11,560 --> 00:48:14,720
+u tehnologiju, matematiku, gramatiku
+
+642
+00:48:14,760 --> 00:48:19,440
+jer je pokroviteljstvo za bavljenje kulturom
+
+643
+00:48:19,480 --> 00:48:26,760
+bio jedan od naËina da se pokaûe
+da si prestiûan vladar,
+
+644
+00:48:26,800 --> 00:48:30,080
+i sticao si bolje pravo
+na ime velikana.
+
+645
+00:48:31,840 --> 00:48:34,840
+Stara biblioteka i njen
+dragoceni sadrûaj uniöteni su
+
+646
+00:48:34,880 --> 00:48:38,600
+kada su Muslimani osvojili 
+Egipat u 7. veku.
+
+647
+00:48:38,640 --> 00:48:41,440
+Ali njen duh je ostao
+ûiv unutar nove graevine.
+
+648
+00:48:43,480 --> 00:48:47,320
+I danas, biblioteka je ostala
+mesto za pronalske i studiranje.
+
+649
+00:48:51,840 --> 00:48:55,120
+MatemariËari i filozofi
+sjatili su se u Aleksandriji,
+
+650
+00:48:55,160 --> 00:48:58,280
+voeni svojom ûeljom za znanjem
+i potragom za izvrsnost.
+
+651
+00:48:58,320 --> 00:49:02,240
+Pokrovitelji biblioteke bili su
+prvi profesionalni nauËnici,
+
+652
+00:49:02,280 --> 00:49:05,800
+osobe koje su bile plaÊene
+za svoju posveÊenost istraûivanjima.
+
+653
+00:49:05,840 --> 00:49:07,920
+Ali meu svim ovim pionirima nauke,
+
+654
+00:49:07,960 --> 00:49:12,080
+moj heroj je zagonetni
+grËki matematiËar, Euklid.
+
+655
+00:49:15,800 --> 00:49:18,320
+Znamo veoma malo o Euklidovom ûivotu,
+
+656
+00:49:18,360 --> 00:49:22,560
+ali njegovo najveÊe postignuÊe
+bilo je kao hroniËar matematike.
+
+657
+00:49:22,600 --> 00:49:27,800
+Oko 300. godine pre Hrista, napisao je
+njavaûniju knjigu svih vremena -
+
+658
+00:49:27,840 --> 00:49:30,280
+Elemente. U Elementima,
+
+659
+00:49:30,320 --> 00:49:34,040
+pronalazimo kulminaciju
+matematiËke revolucije
+
+660
+00:49:34,080 --> 00:49:36,160
+koja se odigrala u GrËkoj.
+
+661
+00:49:38,120 --> 00:49:42,440
+Sagraena je na nizu matematiËkih
+pretpostavki, zvanim aksiome.
+
+662
+00:49:42,480 --> 00:49:47,200
+Na primer, prava moûe biti
+povuËena kroz bilo koje dve taËke.
+
+663
+00:49:47,240 --> 00:49:51,960
+Iz ovih aksioma, logiËke dedukcije su 
+pravljene i matematiËke teoreme su uspostavljene.
+
+664
+00:49:55,120 --> 00:49:59,560
+Elementi sadrûe formule za
+raËunanje zapremine konusa
+
+665
+00:49:59,600 --> 00:50:02,600
+i cilindara,
+dokaze o geometrijskim nizovima,
+
+666
+00:50:02,640 --> 00:50:05,360
+savröene brojeve i proste brojeve.
+
+667
+00:50:05,400 --> 00:50:09,960
+Vrhunac Elemenata je dokaz
+da postoje samo pet Platnovih tela.
+
+668
+00:50:12,800 --> 00:50:17,480
+Po meni, ova poslednja teorema,
+drûi u sebi moÊ matematike.
+
+669
+00:50:17,520 --> 00:50:20,280
+Jedna stvar je saËiniti pet
+simetriËnih tela,
+
+670
+00:50:20,320 --> 00:50:25,800
+sasvim je druga stvar doÊi do neoborivog,
+logiËnog argumenta zaöto ne moûe postojati öesto ovakvo telo.
+
+671
+00:50:25,840 --> 00:50:29,800
+Elementi se razvijaju kao
+predivan, logiËan, misteriozan roman.
+
+672
+00:50:29,840 --> 00:50:32,920
+Ali ovo je priËa koja
+prevazilazi vreme.
+
+673
+00:50:32,960 --> 00:50:36,760
+NauËne teorije se obaraju,
+iz generacije u generaciju,
+
+674
+00:50:36,800 --> 00:50:43,120
+ali teoreme u Elementima su taËne
+danas, onoliko koliko su bile taËne i pre 2,000 godina.
+
+675
+00:50:43,160 --> 00:50:46,680
+Kada zastaneö i razmislip o tome,
+to je zaista neverovatno.
+
+676
+00:50:46,720 --> 00:50:48,360
+To su iste teoreme koje mi danas poduËavamo.
+
+677
+00:50:48,400 --> 00:50:53,160
+Moûda ih poduËavamo na malo drugaËiji
+naËin, moûda ih organizujemo drugaËije,
+
+678
+00:50:53,200 --> 00:50:57,400
+ali upravo je Euklidska geometrija
+ona koja je i danas ispravna,
+
+679
+00:50:57,440 --> 00:51:01,520
+i Ëak u viöoj matematici,
+kada imamo viöedimenzionalne prostore,
+
+680
+00:51:01,560 --> 00:51:03,760
+i dalje koristimo Euklidsku geometriju.
+
+681
+00:51:05,320 --> 00:51:09,280
+Aleksandrija je morala biti inspiriöuÊe
+mesto za drevne studente,
+
+682
+00:51:09,320 --> 00:51:15,560
+i Euklidova slava je privlaËila sve viöe
+mladih intelektualaca ûeljnih slave u egipatsku luku.
+
+683
+00:51:15,600 --> 00:51:21,880
+Jedan od matematiËara koji je naroËito uûivao u
+intelektualnom okruûenju Aleksandrije bio je Arhimed.
+
+684
+00:51:22,880 --> 00:51:26,400
+On Êe postati
+matematiËki vizionar.
+
+685
+00:51:26,440 --> 00:51:31,280
+Najbolji grËki matematiËari,
+oduvek su pomerali granice,
+
+686
+00:51:32,800 --> 00:51:35,400
+Dakle, Arhimed...
+
+687
+00:51:35,440 --> 00:51:38,400
+je uËinio öta je mogao sa poligonima,
+
+688
+00:51:38,440 --> 00:51:40,720
+kao i sa telima.
+
+689
+00:51:40,760 --> 00:51:43,560
+Onda je preöao na centar gravitacije.
+
+690
+00:51:43,600 --> 00:51:47,880
+Zatim je preöao na spirale.
+
+691
+00:51:47,920 --> 00:51:54,000
+Ovaj instinkt da pokuöa
+da matematizira sve
+
+692
+00:51:54,040 --> 00:51:57,640
+je neöto öto ja vidim kao naslee.
+
+693
+00:51:58,760 --> 00:52:03,480
+Jedna od Arhimedovih specijalnosti
+bilo je oruûje za masovno razaranje.
+
+694
+00:52:03,520 --> 00:52:09,560
+Ovo oruûje koriöÊeno je protiv Rimljana
+kada su napali njegov dom na Sirakuzi u 212. godini pre Hrista.
+
+695
+00:52:09,600 --> 00:52:13,400
+Takoe je konstruisao ogledala,
+koja su koristila reflektujuÊu snagu sunca,
+
+696
+00:52:13,440 --> 00:52:15,960
+da zapali rimske brodove.
+
+697
+00:52:16,000 --> 00:52:20,720
+Ali za Arhimeda, ovi izumi su
+bili puka zabava sa geometrijom.
+
+698
+00:52:20,760 --> 00:52:23,480
+On je imao uzviöenije ambicije.
+
+699
+00:52:26,280 --> 00:52:32,760
+Arhimed je bio razdragan Ëistom matematikom
+i verovao je u uËenje matematike radi nje same
+
+700
+00:52:32,800 --> 00:52:37,000
+a ne radi neplemenite trgovine inûinjeringom 
+ili prljave potrage za profitom.
+
+701
+00:52:37,040 --> 00:52:41,040
+Jedno od njegovih najboljih
+istraûivanja u Ëistoj matematici
+
+702
+00:52:41,080 --> 00:52:45,040
+bilo je da proizvede formule za
+raËunanje povröina pravilnih oblika.
+
+703
+00:52:47,000 --> 00:52:52,680
+Arhimedov metod sastojao se u tome da uhavti
+nove oblike, prouËavajuÊi one oblike koje je veÊ razumeo.
+
+704
+00:52:52,720 --> 00:52:55,920
+Tako, na primer, da izraËuna
+povröinu kruga,
+
+705
+00:52:55,960 --> 00:53:01,120
+tako öto Êe ga ograditi unutar trugla,
+i onda, duplirajuÊi broj stranica trougla,
+
+706
+00:53:01,160 --> 00:53:05,520
+ugraeni oblik postajaÊe
+sve bliûi i bliûi krugu.
+
+707
+00:53:05,560 --> 00:53:07,560
+Zaista, nekada za krug kaûemo da je
+
+708
+00:53:07,600 --> 00:53:10,560
+poligon sa beskonaËno
+mnogo stranica.
+
+709
+00:53:10,600 --> 00:53:14,400
+Ali procenjujuÊi povröinu kruga,
+Arhimed je zapravo,
+
+710
+00:53:14,440 --> 00:53:18,680
+dobio vrednost za Pi,
+najvaûniji broj u matematici.
+
+711
+00:53:19,720 --> 00:53:25,960
+Svejedno, raËunanje zapremina Ëvrstih
+tela bilo je ono u Ëemu je Arhimed briljirao.
+
+712
+00:53:26,000 --> 00:53:29,000
+Pronaöao je naËin da izraËuna zapreminu lopte
+
+713
+00:53:29,040 --> 00:53:33,480
+sekavöi je i aproksimirajuÊi
+delove kao cilindre.
+
+714
+00:53:33,520 --> 00:53:36,320
+Zatim je sabrao 
+zapremine svih delova
+
+715
+00:53:36,360 --> 00:53:39,680
+da bi dobio pribliûnu
+zapreminu lopte.
+
+716
+00:53:39,720 --> 00:53:42,640
+Ali njegov genijalni potez
+bio je da uvidi öta se deöava
+
+717
+00:53:42,680 --> 00:53:45,480
+ako napraviö delove
+svea tanje i tanje.
+
+718
+00:53:45,520 --> 00:53:50,240
+Na kraju, aproksimacija
+postaje taËna vrednost.
+
+719
+00:53:54,320 --> 00:53:59,240
+Ali upravo je Arhimedova posveÊenost
+matematici bila ono öto ga je uniötilo.
+
+720
+00:54:01,360 --> 00:54:06,160
+Arhimed je radio na problemu
+o krugovima, nacrtanim u pesku.
+
+721
+00:54:06,200 --> 00:54:08,800
+Kada mu je priöao rimski vojnik,
+
+722
+00:54:08,840 --> 00:54:14,840
+Arhimed je bio toliko zadubljen u svoj problem
+da je insistirao da mu se dozvoli da zavröi svoju teoremu.
+
+723
+00:54:14,880 --> 00:54:20,120
+Ali rimski vojnik nije bio zainteresovan
+za Arhimedov problem i ubio ga je na licu mesta.
+
+724
+00:54:20,160 --> 00:54:25,000
+»ak u smrti, Arhimedova posveÊenost
+matematici bila je nepoljuljana.
+
+725
+00:54:46,600 --> 00:54:49,680
+Sredinom prvog veka pre Hrista,
+
+726
+00:54:49,720 --> 00:54:53,720
+Rimljani su zategnuli svoj stisak
+nad starim GrËkim carstvom.
+
+727
+00:54:53,760 --> 00:54:56,520
+Oni su bili manje obuzeti
+lepotom matematike
+
+728
+00:54:56,560 --> 00:54:59,840
+i viöe su se bavili
+njenim praktiËnim primenama.
+
+729
+00:54:59,880 --> 00:55:05,720
+Ovaj pragmatiËan stav oznaËio je
+poËetak kraja za veliku biblioteku u Aleksandriji.
+
+730
+00:55:05,760 --> 00:55:09,960
+Ali jedan matematiËar bio je reöen
+da oËuva grËko naslee ûivim.
+
+731
+00:55:10,000 --> 00:55:14,840
+Hipatija je bila izuzetna,
+ûena matematiËar,
+
+732
+00:55:14,880 --> 00:55:18,000
+i paganka u poboûnom
+Rimskom carstvu.
+
+733
+00:55:19,920 --> 00:55:24,760
+Hipatija je bila veoma cenjena
+i veoma uticajna u svoje vreme.
+
+734
+00:55:24,800 --> 00:55:30,640
+Bila je profesor sa puno studenata
+i mnogo sledbenika.
+
+735
+00:55:30,680 --> 00:55:34,880
+Bila je politiËki uticajna u Aleksandriji.
+
+736
+00:55:34,920 --> 00:55:37,760
+Tako da ju je ova kombinacija...
+
+737
+00:55:37,800 --> 00:55:44,040
+njenog visokog znanja i 
+visokog prestiûa verovatno naËinila 
+
+738
+00:55:44,080 --> 00:55:47,600
+omraûenom osobom...
+
+739
+00:55:47,640 --> 00:55:49,280
+HriöÊanske gomile.
+
+740
+00:55:55,000 --> 00:55:59,000
+Jedno jutro, Hipatija
+je izvuËena napolje iz svoje koËije
+
+741
+00:55:59,040 --> 00:56:03,040
+od strane ûarke HriöÊanske
+rulje i odvedena je u crkvu.
+
+742
+00:56:03,080 --> 00:56:06,760
+Tamo, bila je muËena
+i brutalno ubijena.
+
+743
+00:56:09,520 --> 00:56:12,440
+DramatiËne okolnosti
+njenog ûivota i smrti
+
+744
+00:56:12,480 --> 00:56:15,200
+fascinirale su kasnije generacije.
+
+745
+00:56:15,240 --> 00:56:20,880
+Naûalost, njen kultni status bacio je 
+u senku njena matematiËka postignuÊa.
+
+746
+00:56:20,920 --> 00:56:23,920
+Bila je, zapravo, sjajan
+profesor i teoretiËar,
+
+747
+00:56:23,960 --> 00:56:29,640
+i njena smrt zadala je konaËni udarac
+grËkom matematiËkom nasleu u Aleksandriji.
+
+748
+00:56:37,040 --> 00:56:40,880
+Moje putovanje odvelo me je na
+fascinantan put da otkrijem
+
+749
+00:56:40,920 --> 00:56:46,080
+strast i inovacije
+prvih svetskih matematiËara.
+
+750
+00:56:46,120 --> 00:56:51,120
+Upravo su ovi prodori
+naËinjeni od ranih pionira iz Egipta, Vavilona i GrËke
+
+751
+00:56:51,160 --> 00:56:55,520
+oni koji Ëine osnove
+na kojima je moj predmet izgraen danas.
+
+752
+00:56:55,560 --> 00:56:58,960
+Ali ovo je samo poËetak moje
+matematiËke odiseje.
+
+753
+00:56:59,000 --> 00:57:02,600
+SledeÊi deo mog putovanja 
+leûi na istoku, u dubinama Azije,
+
+754
+00:57:02,640 --> 00:57:05,760
+gde su matematiËari dostigli
+joö i veÊe visine
+
+755
+00:57:05,800 --> 00:57:08,000
+u potrazi za znanjem.
+
+756
+00:57:08,040 --> 00:57:11,920
+Sa ovom novom erom doöao je
+jezik algebre i brojeva,
+
+757
+00:57:11,960 --> 00:57:16,120
+koje bolje odgovaraju priËi
+u sledeÊem poglavlju u PriËama o matematici
+
+758
+00:57:17,305 --> 00:58:17,550
+–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org

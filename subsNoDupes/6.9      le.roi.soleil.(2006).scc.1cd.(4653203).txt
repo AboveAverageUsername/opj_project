@@ -1,0 +1,1565 @@
+{1}{1}25.000
+{146}{194}Kralj sunca
+{205}{266}muziËki spektakl Kamila Ualia
+{304}{382}Reûija i koreografija: Kamil Uali
+{419}{480}Libreto: Dove Atia
+{603}{679}Stihovi pesama:|Lionel Floronse i Patris éiro
+{704}{854}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{1585}{1604}Ah, moji prijatelji!
+{1609}{1631}Kakva noÊ!
+{1648}{1721}Nema druötva, nema predstave |da ugreje moje siroto srce.
+{1733}{1820}Sve je zatvoreno. Dovraga, besnim.
+{1827}{1894}éanuijevi poruËnici nametnuli|zatvaranje svih pozoriöta.
+{1904}{1977}Moj komad je ukinut, trupa je rasturena.
+{1987}{2063}Ali verujte Molijeru, neÊe|im to tako lako proÊi.
+{2068}{2155}Sutra idem da podnesem molbu äatleu|i igraÊemo ponovo.
+{2185}{2319}Doavola, zar nisam ovde|kao kod kuÊe? U Parizu!
+{2392}{2448}Sve je mirno, ali nemojte da se osmelite.
+{2454}{2522}Veliki neredi su daleko, tamo negde|kod kapije Sent Antoan,
+{2528}{2616}u predgrau Pariza, spremni da ispljunu svoj bes.
+{2634}{2774}Pritisnuti porezima, narod je gladan,|hladno mu je, svugde je beda.
+{2788}{2850}Vojvoda de Bofor, kraljev roak i princ po krvi,
+{2858}{2932}je na Ëelu pobune protiv kardinala Mazarana.
+{2960}{3162}To je ustanak. Jadno kraljevstvo.|»ujete li?
+{3175}{3266}Ovu viku, ovu uznemirenost.|Luj XIV, deËak-kralj,
+{3273}{3312}prisiljen je da pobegne iz Pariza sa svojom majkom
+{3319}{3383}Anom od Austrije, kako bi se |pridruûio kardinalu Mazaranu
+{3392}{3450}koji se sklonio u zamak Sen éermen.
+{3530}{3737}Prijatelji! Na kraljevsku palatu!|Uhvatimo kardinala! I ûiveo kralj!
+{3777}{3859}Hej ti, reci, ko si ti da tako|nareujeö narodu Pariza?
+{3869}{3984}Ja sam Fransoa de Vandom,|Vojvode de Bofor, sluga Kralja i Drûave!
+{3993}{4022}éiveo Bofor! éiveo kralj trûnica!
+{4036}{4121}Svi na kraljevsku palatu! Hajdemo! Sada!
+{4584}{4644}Za jednu krunu koju neÊemo imati,
+{4652}{4715}bolji dan koji ne dolazi,
+{4724}{4792}polja pöenice poharana stotinu puta,
+{4799}{4864}u ime jednog krsta koji ima svoje zakone,
+{4872}{4934}Za pravdu koju su preÊutali
+{4943}{5004}pod gluvim kricima naöih molitvi
+{5012}{5079}ka omËi gvozdene ruke
+{5087}{5181}koja nas davi dok joj sluûimo
+{5190}{5299}Ja sam od onih koji imaju samo jedan izbor
+{5308}{5373}da preskoËe zid poslednjim korakom
+{5383}{5444}ja sam eho, ja sam glas
+{5453}{5552}svih onih ljudi koji govore sa dna
+{5603}{5657}Protiv onih na vrhu
+{5666}{5730}ovo je protiv onih na vrhu
+{5739}{5803}golim rukama ako je potrebno
+{5814}{5881}osvojiÊemo naöe mesto
+{5891}{5951}protiv onih na vrhu
+{5961}{6021}ovo je protiv njihovog ega
+{6030}{6098}s kojim Êemo morati da se suoËimo
+{6138}{6246}ovo smo mi, protiv onih na vrhu.
+{6279}{6354}Za jednu krunu koju Êemo povratiti
+{6362}{6428}bolji dan koji treba da se napravi
+{6436}{6497}pesme koje se podiûu nad zemljom
+{6507}{6575}do nogu jednog krsta bez groba
+{6584}{6644}Za nepravdu koja ne prestaje
+{6652}{6716}da nas ranjava meu svojim prstima
+{6726}{6754}gvozdena ruka
+{6761}{6790}svilena rukavica
+{6797}{6889}na onome öto gube i öto nemaju
+{6914}{6958}Mi smo od onih
+{6967}{7033}koji su otvorili neki drugi pogled
+{7047}{7088}neko novo doba
+{7094}{7154}mi smo eho, daöak vazduha
+{7164}{7191}za sve ljude
+{7197}{7265}mi kaûemo zemlji
+{7311}{7364}Protiv onih na vrhu
+{7374}{7441}ovo je protiv onih na vrhu
+{7451}{7516}golim rukama ako je potrebno
+{7526}{7589}osvojiÊemo naöe mesto
+{7598}{7661}protiv onih na vrhu
+{7670}{7734}ovo je protiv njihovog ega
+{7743}{7815}s kojim Êemo morati da se suoËimo
+{7846}{7970}ovo smo mi, protiv onih na vrhu.
+{9740}{9790}Kardinal i kraljica su nas izigrali.
+{9800}{9879}Palata je prazna, otiöli su u Sen éermen.
+{9885}{9935}Svi u Sen éermen! Hajdemo!
+{10384}{10421}Zaöto?
+{10553}{10587}Reci mi
+{10601}{10651}Reci mi da me Ëujeö
+{10660}{10745}ili da me barem vidiö
+{10771}{10866}da joö imamo vremena
+{10882}{11001}reci mi zaöto mi je hladno
+{11005}{11049}a ti
+{11058}{11116}öta moûeö da odgovoriö
+{11122}{11203}ovom ûivotu koji odlazi
+{11233}{11315}i svim onim koji se ruöe
+{11339}{11407}i ûele joö ovo
+{11448}{11548}reci mi da i ti takoe plaËeö
+{11567}{11649}koliko god moûeö biti snaûan
+{11675}{11766}da ne razumeö
+{11785}{11876}da te sve ovo plaöi
+{11884}{12055}A mi, öta smo napravili od vas
+{12063}{12165}ako je taËno ono öto nam kaûu
+{12177}{12279}da ste govorili o ljubavi
+{12290}{12386}öta je danas od toga ostalo
+{12416}{12502}öta smo napravili od vas
+{12522}{12621}ako je taËno ono Ëemu su nas nauËili
+{12640}{12723}kad se govori o ljubavi
+{12736}{12846}öta je danas od toga ostalo
+{13045}{13094}Loöe mi je
+{13099}{13147}tako prosto loöe mi je
+{13154}{13237}u dubini mog biÊa
+{13253}{13361}a ti, ako me Ëujeö
+{13378}{13462}tebi takoe i tebi je hladno
+{13470}{13580}reci mi da ne moûeö da mi odgovoriö
+{13600}{13696}zbog toga öto su uËinili za tebe
+{13714}{13811}da smo mi sve pobrkali
+{13827}{13904}da ti nisi bio tamo
+{13917}{14093}A mi, öta smo napravili od vas
+{14100}{14204}ako je taËno ono öto nam kaûu
+{14215}{14314}da ste govorili o ljubavi
+{14327}{14428}öta je danas od toga ostalo
+{14440}{14546}öta smo napravili od vas
+{14557}{14664}ako je taËno ono Ëemu su nas nauËili
+{14674}{14776}kad se govori o ljubavi
+{14783}{14886}öta smo od tada s tim uradili
+{15019}{15153}äta smo od tada s tim uradili
+{15697}{15793}A mi, öta smo napravili od nas...
+{16955}{16986}Nitkov nitkovima, nitkov ravi,
+{16994}{17023}i nitkovluk na najviöem stepenu.
+{17033}{17078}Nitkov je sodomizovao drûavu,
+{17084}{17128}i imao je najveÊu kartu,
+{17138}{17184}nitkov sa kozom, nitkov sa deËakom
+{17192}{17236}Ëini zla na sve naËine.
+{17250}{17294}Nitkov sa kozom, nitkov sa deËakom
+{17302}{17353}Ëini zla na sve naËine.
+{17362}{17403}Nitkov sa kozom, nitkov sa deËakom
+{17413}{17461}Ëini zla na sve naËine.
+{17490}{17530}U Kardinalovo zdravlje!
+{17535}{17565}U zdravlje Mazarana!
+{17569}{17626}NajËuvenijeg razbojnika u kraljevstvu!
+{17630}{17710}Razbojnik, svakako, ali kome|dugujemo sve poötovanje.
+{17717}{17818}Naö dragi Mazaran je uguöio|pobunu, oËarao je kraljicu...
+{17824}{17879}Ne poötujemo Ëoveka koji je osudio
+{17883}{17948}naöeg nesreÊnog Bofora na egzil.
+{17952}{17999}Okrutna kazna za slabiji pol,
+{18004}{18060}Parizu Êe nedostajati zgodni muökarci.
+{18068}{18160}Ali, moja draga Ninon, mi smo uvek ovde
+{18166}{18225}da zadovoljimo vaöe ûelje...
+{18230}{18300}Ja govorim o zgodnim muökarcima, prijatelju!
+{18307}{18388}Lepota, lepota nije uvek u izgledu.
+{18393}{18498}äöööö! Ona je neöto rekla!
+{18514}{18650}Ona konaËno govori. Neûno i boûanstveno.
+{18658}{18731}O, Fransoaz, moj razum mi kaûe,
+{18741}{18830}kao i moje oËi, kako ste mi öarmantna i neûna.
+{18835}{18897}Moja lepa Indijko, pristajete|li da se jednog dana
+{18901}{18936}udate za mene?
+{18948}{19014}Ali, vi imate previöe duha gospodine Skaron,
+{19032}{19079}da biste oûenili jednu sirotu öaöavicu.
+{19095}{19184}äaöavice, uzimam vas za ûenu!
+{19189}{19236}Bez roditelja, bez miraza,
+{19243}{19296}golu kao Eva kad je stala pred zmiju.
+{19303}{19379}Vidite, prijatelju, upravo tako
+{19398}{19497}Gospoo Lisje, pomozite naöoj|prijateljici da se odluËi!
+{19504}{19550}Vi kaûete da znate da predvidite buduÊnost,
+{19567}{19633}dakle pruûite svoju ruku i kaûite nam.
+{19633}{19669}Gospoice!
+{19901}{19974} Provienje vas|je razmazilo, moja draga.
+{19994}{20051}Vidim... jednog kralja!
+{20075}{20108}Ali, da, baö kralja!
+{20117}{20165}UdaÊete se za kralja!
+{20179}{20261}Ovde znam za samo jednog kralja: mene.
+{20284}{20348}Pol Skaron, kralj pesnika!
+{20410}{20468}Moja neûna muzo, hoÊete li konaËno
+{20480}{20525}biti moja kraljica?
+{20531}{20700}Videla sam dan u senci öipki
+{20713}{20787}∆erka ubice
+{20795}{20872}roena sam osuena.
+{20905}{21092}Vile su mi okrenule lea
+{21106}{21259}Tamo odakle dolazim, |niöta nemam da saËuvam.
+{21299}{21483}Videla sam dan urezan na mojoj koûi
+{21502}{21653}Nisam niöta viöe od imena da se izbriöe.
+{21699}{21785}Dakle, u redu
+{21795}{21868}Neka jedan ples odnese moj ûivot
+{21878}{21977}I pratiÊu ples
+{21986}{22082}bez obzira öta oni misle
+{22090}{22165}Dakle, u redu
+{22179}{22251}Neka me jedan ples veûe za njega
+{22258}{22358}i pratiÊu njegove korake
+{22368}{22464}u inat onoga öto Êe neko reÊi.
+{22848}{23028}Uzimam jesen protiv mog proleÊa
+{23037}{23213}Razlika nam dozvoljava da postojimo
+{23221}{23310}ZaboraviÊu ljubav u ime
+{23320}{23414}jednog oseÊaja
+{23424}{23570}BiÊe bolje da se prekine sa sanjanjem.
+{23612}{23705}Dakle, u redu
+{23712}{23787}Neka jedan ples odnese moj ûivot
+{23794}{23889}I pratiÊu ples
+{23897}{23989}bez obzira öta oni misle
+{23996}{24084}Dakle, u redu
+{24092}{24163}Neka me jedan ples veûe za njega
+{24169}{24268}i pratiÊu njegove korake
+{24277}{24377}u inat onoga öto Êe neko reÊi.
+{24383}{24427}Dakle
+{24476}{24561}BiÊu njegova
+{24571}{24662}Dakle
+{24669}{24787}BiÊu tvoja
+{25039}{25100}Gospodine kardinale,|öta me to izveötavaju?
+{25146}{25201}OdluËili ste da uvedete nove poreze?
+{25241}{25297}Zar niste nauËili lekciju posle ustanka?
+{25302}{25358}Vaöe VeliËanstvo, potrebno nam je kako
+{25365}{25421}bismo finansirali nove pohode protiv äpanije.
+{25426}{25475}Ali, drûavne kase su prazne.
+{25500}{25614}Koliko dugo joö treba da|krvari i propada zemlja?
+{25653}{25696}Gospodine kardinare,|potreban nam je mir.
+{25704}{25725}Vaöe VeliËanstvo...
+{25731}{25768}Pomirite se sa äpancima.
+{25772}{25821}Zaklinjem vas, drûite se.
+{25833}{25934}Dozvolite meni da ostvarim|tu vaöu veliku ideju,
+{25941}{26042}a to je da prepustite vaöem|sinu kraljevstvo mira.
+{26061}{26101}Nitkov sa kozom, nitkov sa deËakom
+{26111}{26158}Ëini zla na sve naËine.
+{26169}{26215}Nitkov sa kozom, nitkov sa deËakom
+{26224}{26272}Ëini zla na sve naËine.
+{26546}{26622}Vaöe VeliËanstvo, bez vas,|bez vaöe podröke,
+{26637}{26726}ja niöta ne mogu, ja nisam niöta.
+{26743}{26802}Vi ste jedan nezahvalnik.
+{26837}{26871}Ne zaboravite da sam ja ta koja vas je
+{26876}{26965}postavila za ministra posle smrti mog muûa
+{26989}{27045}i da sam to uradila protivno|miöljenju svih ostalih.
+{27056}{27095}E pa, ja Êu moliti Gospoda, gospoo,
+{27099}{27148}da zadrûite vaöe poverenje.
+{27153}{27234}Vi imate moje poverenje i...
+{27264}{27315}moje prijateljstvo.
+{27377}{27434}Za sada nemojte da zapostavite|kraljevo obrazovanje.
+{27452}{27544}On je mlad, nepromiöljen i brinem se.
+{27551}{27620}Luj povremeno izgleda odsutan, tajnovit
+{27629}{27647}neodluËan...
+{27652}{27690}Ne potcenjujte ga.
+{27694}{27780}Vreme nas poûuruje, prijatelju, ples i lov
+{27783}{27852}nisu dovoljni da mu obezbede dovoljno oruûja
+{27856}{27889}za vladanje.
+{27895}{27930}Dakle, dozvolite mi da delujem,
+{27935}{27996}i vi sami treba da se malo udaljite od njega,
+{28001}{28026}koliko god vas to koötalo.
+{28030}{28084}Kardinale! To je moj sin!
+{28088}{28195}Gospoo, sutra, ceo Êe pripasti Francuskoj.
+{28556}{28631}Budim se dan za danom
+{28640}{28714}to je obiËan dan
+{28722}{28802}veÊ znam kako Êe izgledati
+{28809}{28926}teûina neophodnih stvari
+{28951}{29030}koje moram da uradim
+{29059}{29143}jer nikad nemamo izbora
+{29152}{29229}od njihovih zidova, od njegove zemlje
+{29238}{29319}koji nas stavljaju u uzak prostor
+{29326}{29432}u uzak prostor usamljene uzviöenosti
+{29457}{29527}ali zaöto to?
+{29533}{29599}Biti dorastao situaciji
+{29606}{29691}za ono öto od vas traûimo
+{29699}{29774}za ono öto drugi oËekuju
+{29783}{29861}i potisnuti njegov strah
+{29869}{29947}Biti dorastao situaciji
+{29952}{30031}za obiËne smrtnike
+{30038}{30118}svaki dan da se odgovori na poziv
+{30134}{30206}i imati hrabrosti
+{30214}{30316}biti dorastao situaciji
+{30440}{30513}To je svakodnevni zadatak
+{30521}{30594}kostim koji treba obuÊi
+{30608}{30687}za ulogu koja nikuda ne vodi
+{30696}{30824}ali da li zaista treba da se tome potËinimo
+{30832}{30893}do kraja
+{30900}{30971}Biti dorastao situaciji
+{30982}{31062}za ono öto od vas traûimo
+{31069}{31140}za ono öto drugi oËekuju
+{31154}{31233}i potisnuti njegov strah
+{31241}{31319}Biti dorastao situaciji
+{31328}{31402}za obiËne smrtnike
+{31409}{31504}svaki dan da se odgovori na poziv
+{31510}{31577}i imati hrabrosti
+{31583}{31684}biti dorastao situaciji
+{31754}{31835}biti dorastao situaciji
+{32269}{32331}Biti dorastao situaciji
+{32342}{32421}bez da se ikada opustiö
+{32429}{32508}i da se odbraniö
+{32516}{32598}od ûelje za pobedom
+{32604}{32676}biti dorastao situaciji
+{32687}{32762}za razliku od smrtnika
+{32772}{32857}na kraju viöe ne odgovarati na poziv
+{32864}{32937}i nemati straha
+{32945}{33019}biti dorastao situaciji
+{33053}{33246}Na visini,|na visini...
+{33297}{33355}Biti dorastao situaciji
+{33372}{33445}Za razliku od smrtnika
+{33457}{33548}na kraju viöe ne odgovarati na poziv
+{33555}{33622}i nemati straha
+{33634}{33711}biti dorastao situaciji
+{33812}{33907}i nemati straha
+{34683}{34726}Moj sin, evo ga gospodine,
+{34730}{34794}vaö brat koji je doöao da vam oda poËast.
+{34812}{34857}Sve je u drûanju
+{34865}{34917}to je Ëinjenica
+{34927}{34977}Sve je u stilu,
+{34989}{35041}pozi, stavu
+{35051}{35105}stavi krabe u  korpu
+{35116}{35169}to je druötvo
+{35180}{35296}udruûenih ovaca i ajkula
+{35303}{35321}To prolazi
+{35326}{35356}ruka odozdo i ruka odozgo
+{35361}{35379}to prolazi
+{35387}{35419}jedan na drugom u blatu
+{35425}{35445}to prolazi
+{35450}{35492}dokle god smo uspravni
+{35520}{35546}penjati se stepenicama
+{35553}{35576}to prolazi
+{35580}{35612}bez poötovanja, bez vere i zakona
+{35618}{35635}obruöava se
+{35641}{35676}po onima koji ne podnose teûinu
+{35682}{35699}okreÊe se
+{35705}{35737}i okretaÊe se tako
+{35765}{35797}dokle god to prolazi
+{35803}{35928}Svakom svoje rane i svoje navike
+{35937}{36055}svako u dûungli oseÊa ûe za visinom
+{36065}{36181}vukovi u staji sa ovcama, zverska komedija
+{36191}{36302}dok se prljavi sa svetom ne ujedine
+{36309}{36327}To prolazi
+{36334}{36367}ruka odozdo i ruka odozgo
+{36372}{36390}to prolazi
+{36396}{36430}jedan na drugom u blatu
+{36434}{36453}to prolazi
+{36460}{36494}dokle god smo uspravni
+{36508}{36556}penjati se stepenicama
+{36561}{36581}to prolazi
+{36587}{36622}bez poötovanja, bez vere i zakona
+{36628}{36645}obruöava se
+{36651}{36683}po onima koji ne podnose teûinu
+{36690}{36696}okreÊe se
+{36714}{36747}i okretaÊe se tako
+{36758}{36807}dokle god to prolazi
+{36827}{36934}»ovek je ûivotinja koju zovemo civilizovanom
+{36944}{37060}za koga je sve parada i ogovaranje
+{37072}{37130}izmeu muûjaka i ûenki
+{37138}{37235}to je vrsta koja nestaje
+{37723}{37758}Kaûu da je Pariz bio najzabavniji
+{37764}{37786}u vreme Ustanka.
+{37791}{37844}äööö! Pazite öta priËate Mari,
+{37856}{37896}vaö ujak posvuda ima öpijune.
+{37900}{37914}äpijune?
+{37920}{37954}Moja draga, niste viöe u Italiji,
+{37958}{37985}nego na francuskom dvoru.
+{37989}{38029}Ovde svako öpijunira svog komöiju!
+{38073}{38181}Stvarno, on je popriliËno ûalostan|za najveÊi dvor Evrope!
+{38220}{38253}Zaista tako mislite gospoice?
+{38258}{38326}Pa pogledajte sve, kakve dosade,
+{38331}{38371}sa izrazima lica prema datim okolnostima,
+{38399}{38446}liËe na lutke.
+{38464}{38498}PopriliËno ste oötri.
+{38502}{38571}A ko ste vi gospodine, kad niste to primetili?
+{38592}{38635}äpijun mog ujaka?
+{38644}{38684}Ja sam kralj Francuske.
+{38709}{38797}Naravno, a ja sam kraljica Italije.
+{38803}{38842}Mala öaöavice.
+{38868}{38908}Oh, Vaöe VeliËanstvo!
+{38912}{38978}Sire, dozvolite mi da vam|predstavim moju neÊaku
+{38993}{39031}Mari ManÊini.
+{39035}{39087}Gospoice, da bih vam oprostio,
+{39099}{39160}slaûete se da napravimo par plesnih koraka?
+{39165}{39203}Naravno, Vaöe VeliËanstvo.
+{39212}{39233}To prolazi
+{39239}{39274}ruka odozdo i ruka odozgo
+{39279}{39294}to prolazi
+{39300}{39340}jedan na drugom u blatu
+{39343}{39358}to prolazi
+{39364}{39400}dokle god smo uspravni
+{39414}{39461}penjati se stepenicama
+{39469}{39496}to prolazi
+{39505}{39537}bez poötovanja, bez vere i zakona
+{39541}{39565}obruöava se
+{39593}{39611}okreÊe se
+{39618}{39654}i okretaÊe se tako
+{39662}{39717}dokle god to prolazi
+{40459}{40505}Kralj je plesao i plesao,
+{40531}{40559}svim damama na dvoru se
+{40564}{40595}prevrnulo srce.
+{40600}{40637}Gospoica ManÊini je, kaûu mi,
+{40650}{40687}sijala na dvoru.
+{40708}{40765}Ninon, da li razumete?
+{40776}{40829}Takoe kaûu da kralj nije bio ravnoduöan,
+{40843}{40904}i da je imao oËi samo za nju.
+{40910}{40975}Ali, moja draga, sve su to|beznaËajne spletke!
+{40985}{41072}Zamislite, najveÊi kralj na svetu je zaveden
+{41077}{41130}od strane jedne male kurtizane, Italijanke,
+{41141}{41178}bez porekla.
+{41217}{41280}PustiÊu te da pogodiö kakav|bi skandal usledio.
+{41413}{41449}Kako je hladno veËeras.
+{41812}{41966}Moûemo da se rodimo zatvorenih oËiju
+{41980}{42061}bez da iöta vidimo
+{42073}{42160}ni da dopustimo da ue
+{42172}{42318}dovoljno je povremeno otvoriti njegova vrata
+{42357}{42437}da bi se probudili
+{42446}{42534}da bi promenili istoriju
+{42553}{42665}NauËi me öta mogu da oËekujem
+{42672}{42731}od ûivota
+{42742}{42873}put muökarca jednoj ûeni
+{42890}{43065}Kuda to vodi kada se voli
+{43075}{43181}te daljine udaljavaju nas i spajaju
+{43189}{43251}u naöim razlikama
+{43260}{43435}kuda to vodi kada se voli
+{43445}{43585}da li nas samo smrt zauvek razdvaja.
+{43662}{43793}biÊu oklop koji te ötiti
+{43812}{43916}da konaËno diöeö
+{43930}{44016}slobodan da ostaneö
+{44029}{44140}NauËi me öta treba da razumem
+{44149}{44211}ili da ûivim
+{44220}{44352}ûelju muökarca za ûenom.
+{44366}{44541}Kuda to vodi kada se voli
+{44551}{44657}te daljine udaljavaju nas i spajaju
+{44665}{44725}u naöim razlikama
+{44736}{44909}kuda to vodi kada se voli
+{44920}{45090}da li nas samo smrt zauvek razdvaja.
+{45142}{45293}Od jednog sveta do drugog sve je okean
+{45307}{45475}moj, tvoj tako dalek jedan od |drugog, a ipak
+{45489}{45662}neka mi oproste öto joö ûelim|da u njega verujem.
+{45667}{45762}NauËi me tome öto jedan muökarac
+{45773}{45858}treba da zna
+{46033}{46133}te daljine udaljavaju nas i spajaju
+{46142}{46206}u naöim razlikama
+{46214}{46387}kuda to vodi kada se voli
+{46397}{46499}naöa lutanja se spajaju i uËe nas
+{46509}{46576}o naöim sliËnostima.
+{46842}{46956}Gospodaru, uskoro odlazim|po vaöem nalogu,
+{46992}{47036}odlazim da se pridruûim naöoj vojsci
+{47041}{47072}koja se bori u Flandriji.
+{47077}{47140}Gospodine kardinalu, pridruûiÊu vam se!
+{47167}{47186}Ali, sire...
+{47188}{47234}Na kralju je da preuzme Ëelo svojih armija.
+{47238}{47302}Sire, borbe su surove, ne|moûemo da garantujemo
+{47308}{47326}vaöu bezbednost.
+{47332}{47366}Tako sam odluËio, gospodine kardinalu,
+{47376}{47415}ja Êu komandovati sam.
+{47464}{47541}Vaöe VeliËanstvo, rat nije dvorska igra.
+{47561}{47596}Imajte poverenja u vaöe generale,
+{47600}{47649}vi morate da ostanete u Parizu i
+{47653}{47680}usavröavate svoje znanje.
+{47685}{47749}Sire, molim vas, ne odlazite.
+{47753}{47788}Moram, to je moj zadatak.
+{47812}{47940}Naöe öetnje, naöa Ëitanja, odriËete se toga?
+{47950}{47991}Brzo Êu se vratiti i biti pored vas.
+{47994}{48022}Luje! Luje!
+{48027}{48048}Vaöe VeliËanstvo!
+{48057}{48126}Ah, gospodine premijeru!|Vi ste me izdali!
+{48140}{48176}Zaöto ga puötate da ide?
+{48182}{48220}Gospoo, nisam mogao da ga zadrûim,
+{48226}{48269}toliko su njegova hrabrost i njegova odluËnost
+{48273}{48350}bile jake i bilo je uûivanje gledati ga.
+{48353}{48386}Ali, vi ste mi obeÊali da Êete ga zaötiti.
+{48413}{48492}On je samo dete, joö je tako mlad...
+{48502}{48551}I moûete da se ponosite njime.
+{48563}{48595}Njegovim prisustvom Êe neprijatelju
+{48603}{48674}biti jasno da Francuska od sada ima kralja.
+{48725}{48796}Prijatelju, kao i uvek ja vas sluöam,
+{48827}{48927}ali Ëuvajte se, ako mu se neöto loöe dogodi,
+{48942}{48976}odgovaraÊete mi za to.
+{48980}{49029}Gospoo, poznata mi je vaöa namera,
+{49034}{49130}ako majka pati, znam da mi kraljica odobrava.
+{49157}{49208}Biti voljen
+{49217}{49271}onako kako te ja volim
+{49315}{49393}izgleda dovoljno
+{49444}{49504}»ak sam
+{49514}{49580}zaboravila
+{49616}{49688}da ti kaûem
+{49693}{49756}Dozvoli mi da pokuöam
+{49764}{49820}Ako ima joö vremena
+{49912}{49970}Ako ti je ostalo vremena
+{49987}{50028}bar pokuöati
+{50064}{50140}drugaËije reÊi
+{50205}{50296}ili  pusti mene
+{50346}{50460}Joö vremena
+{50516}{50606}niöta osim trenutka
+{50625}{50658}za ovo
+{50664}{50749}Joö vremena
+{50814}{50916}veÊ sam toliko Ëekala
+{50931}{51039}na sve öto se ne izgovara
+{51245}{51303}Ako je "volim te"
+{51316}{51397}bilo dovoljno
+{51418}{51503}da uËinim da se Ëuje
+{51544}{51610}Kao öto sam ponekad
+{51620}{51781}mogla da Ëujem
+{51789}{51851}Dozvoli mi da mi nedostajeö
+{51861}{51923}ili ja nisam
+{52018}{52076}ili neÊu iÊi
+{52082}{52150}Bar da mi nedostajeö
+{52156}{52234}da ovo kaûem samo jednom
+{52305}{52383}ako treba da te pustim da odeö
+{52468}{52540}Joö vremena
+{52610}{52706}jedan jedini trenutak
+{52706}{52750}za ovo
+{52765}{52859}Joö vremena
+{52914}{53010}veÊ sam toliko Ëekala
+{53027}{53119}na sve öto se ne izgovara
+{53189}{53338}Joö vremena
+{53370}{53477}samo jedan trenutak
+{56501}{56783}Requiem aeternam dona eis, Domine /|VeËni mir, daj im Gospode
+{56821}{57128}et lux perpetuam luceat eis /|i neka ih obasja veËna svetlost
+{57149}{57389}Te decet hymnus, Deus, in Sion, /|Tebi su duûni pohvale, o Boûe, u Sionu,
+{57397}{57623}et tibi reddetur votum in Ierusalem. /|i tebi su upuÊene zakletve iz Jerusalema.
+{57644}{57819}Exaudi orationem meam /|»uj moju molitvu,
+{57843}{58135}ad te omnis caro veniet. /|sve öto je od mesa dolazi Tebi.
+{58160}{58467}Requiem aeternam... /|VeËni mir...
+{59658}{59724}Ko bi ûeleo da bude na mom mestu
+{59743}{59805}Ko zna kako da se suoËi
+{59817}{59937}sa ovom ulogom koja me plaöi
+{59979}{60062}Ostavljam te kao suca i sauËesnika
+{60071}{60146}Ostavljam ti moguÊnost
+{60157}{60306}da zaigraö iza kulisa
+{60325}{60378}Svakome njegovo mesto
+{60383}{60450}Svakome njegov bezizlaz
+{60493}{60516}Nema svrhe
+{60527}{60559}da me traûite
+{60567}{60598}Ne, nema svrhe
+{60604}{60641}da mi predlaûete
+{60649}{60729}vezujete za svoje snove
+{60738}{60770}Ja sam stvoren da niöta ne radim
+{60777}{60815}ali da to Ëinim posebno dobro
+{60823}{60847}Ne ûelim
+{60855}{60891}da ustanem
+{60900}{60932}Ne, ne ûelim
+{60940}{60976}da me zaguöite
+{60983}{61061}ni da dajem miöljenje
+{61071}{61104}Ja sam stvoren za proslave
+{61109}{61146}a ne za brige, ne
+{61165}{61235}Ha, ha, ha, Ëija je krivica
+{61244}{61270}ûivot je previöe ozbiljan
+{61280}{61321}da bih se dosaivao
+{61325}{61418}Ha, ha, ha, Ëija je krivica
+{61424}{61486}ne, ne, nije moja krivica, ne
+{61500}{61520}Nemam zaöto
+{61527}{61561}da ustanem
+{61569}{61606}Ne, nemam öta
+{61613}{61651}da dodam
+{61659}{61689}ni nema potrebe
+{61698}{61747}da hvalim samog sebe
+{61753}{61778}Ja sam stvoren za proslave
+{61785}{61820}a ne za brige, ne
+{61827}{61907}Ha, ha, ha, Ëija je krivica
+{61914}{61942}ûivot je previöe ozbiljan
+{61947}{61980}da bih se dosaivao
+{61988}{62070}Ha, ha, ha, Ëija je krivica
+{62080}{62154}ne, ne, nije moja krivica
+{62159}{62250}Ha, ha, ha, Ëija je krivica
+{62258}{62294}Toliko je ûelja ne moûeö
+{62300}{62322}im odoleti
+{62328}{62400}Ha, ha, ha, Ëija je krivica
+{62411}{62486}ne, ne, nije moja krivica, ne
+{62861}{62924}Ja sam takav kakav jesam
+{62944}{63015}Ja sam takav kako ûivim
+{63032}{63110}Ja radim sve öto ûelim
+{63192}{63260}éivim onako kakav jesam
+{63274}{63342}Svi mi kaûu
+{63368}{63499}nemoj da me, nemoj da me usreÊiö
+{63514}{63568}Ha, ha, ha, Ëija je krivica
+{63577}{63606}ûivot je previöe ozbiljan
+{63615}{63654}da bih se dosaivao
+{63656}{63734}Ha, ha, ha, Ëija je krivica
+{63744}{63813}ne, ne, nije moja krivica
+{63824}{63899}Ha, ha, ha, Ëija je krivica
+{63910}{63938}Toliko je ûelja ne moûeö
+{63944}{63989}im odoleti
+{63998}{64070}Ha, ha, ha, Ëija je krivica
+{64079}{64153}ne, ne, nije moja krivica, ne
+{64704}{64754}Dobro jutro, Monsinjore, moj brate,
+{64785}{64823}kaûu mi da me je dvor brzo zaboravio
+{64830}{64865}u vaöu korist.
+{64913}{64997}Sire, nikad nisam poûeleo vaöu smrt.
+{65019}{65083}Znam to, brate, znam.
+{65360}{65418}Mari, svestan sam vaöeg bola
+{65429}{65494}i suza koje ste prolili.
+{65505}{65560}Duboko sam vam zahvalan na tome.
+{65565}{65641}Sire, molila sam se Gospodu svakog dana,
+{65648}{65700}svakog sata, svakog minuta,
+{65705}{65738}da vas povrati u ûivot.
+{65746}{65785}Oh, moja neûna prijateljice!
+{65795}{65835}Kakav blagoslov öto sam vas naöao.
+{65839}{65903}Oh, znaËi volite me, dakle, bar malo?
+{65920}{65959}Volite me!
+{65962}{66020}ObeÊavam, neÊemo se viöe|rastajati.
+{66050}{66133}Ali, kraljica, vaöa majka i kardinal.
+{66175}{66212}Oni to neÊe dozvoliti.
+{66217}{66261}Mari, kad nas bolest nije razdvojila,
+{66268}{66300}niko neÊe.
+{66310}{66376}Ja sam kralj i ja sam slobodan da volim
+{66382}{66408}koga ûelim.
+{66415}{66486}Oh, Luje, sve bi bilo toliko jednostavno
+{66491}{66523}da nisi kralj.
+{66768}{66844}Znam tvoju ljubav
+{66854}{66974}Znam vodu posutu po mom telu
+{66981}{67089}oseÊam njen vrat svaki dan
+{67098}{67232}vratio sam se muËenju da bih se joö pribliûio
+{67252}{67369}Tvoja ûelja je sidro mojoj
+{67375}{67495}Tvoja ûelja je sidro oko|mog Ëlanka
+{67502}{67611}Doi, niöta nas ne drûi niËemu
+{67624}{67704}sve je na nama
+{67712}{67823}Napravio sam te mojom suötinom
+{67831}{67947}Ti si me rodila meu muökarcima
+{67953}{68065}Napravio sam te mojom suötinom
+{68072}{68165}Ono öto volim viöe od svega
+{68171}{68256}Ako ûeliö nauËiÊemo jedno drugo
+{68290}{68387}Ako ûeliö nauËiÊemo jedno drugo
+{68594}{68672}Znaö moju ljubav
+{68685}{68801}Znaö reËi ispod mojeg Êutanja
+{68808}{68913}one koje priznajem, pokrivene i otkrivene
+{68923}{69009}Tebi imam da ponudim veru
+{69017}{69074}kako bi oterali odsustvo
+{69080}{69197}Moja buduÊnost je otisnuta na tvom dlanu
+{69203}{69318}Moja buduÊnost su tragovi koje ti piöeö
+{69326}{69439}Vidi, niöta nas ne vodi toliko daleko
+{69445}{69541}kao povratni gest
+{69660}{69767}Napravio sam te mojom suötinom
+{69777}{69897}Ti si me rodila meu muökarcima
+{69902}{70014}Napravio sam te mojom suötinom
+{70023}{70123}Ono öto volim viöe od svega
+{70158}{70258}Napravio sam te mojom suötinom
+{70264}{70376}Ti si me rodila meu muökarcima
+{70387}{70496}Napravio sam te mojom suötinom
+{70510}{70582}Ono öto volim viöe od svega
+{70600}{70665}Ako ûeliö nauËiÊemo jedno drugo
+{70669}{70719}Ako ûeliö nauËiÊemo jedno drugo
+{71028}{71086}nauËiÊemo jedno drugo...
+{71698}{71754}Sire, moram smesta da govorim s vama.
+{71767}{71800}Sutra odlazite za äpaniju.
+{71804}{71882}Gospodine kardinale,|traûim ruku vaöe neÊake.
+{71887}{71901}Ali, sire!
+{71905}{71966}To ne moûe biti, Luj! Zabranjujem vam!
+{71970}{72045}Majko, namera mi je da|oûenim gospoicu ManÊini.
+{72050}{72124}Sire, ne raËunajte da Êu da|prihvatim taj sramni Ëin.
+{72131}{72182}Nikad ne bih izdao poverenje koje su mi
+{72188}{72238}dali vaöi otac i vaöa majka.
+{72245}{72317}Radije Êu ubiti svoju neÊaku|sopstvenim rukama.
+{72321}{72379}Ali, ja volim Mari,|naöa oseÊanja su prava i...
+{72385}{72491}Razmislite, sine, ne mogu se|meöati oseÊanja i drûavne potrebe!
+{72494}{72577}A drûava nalaûe da se oûenite|infantkinjom äpanije,
+{72586}{72661}Francuskoj je potrebna ta|veza kako bi povratila mir.
+{72666}{72695}Ali, majko!|Luje!
+{72791}{72903}Ne moûete to da mi uradite, umreÊu.
+{72910}{72966}Sire, sutra odlazite za äpaniju.
+{72970}{72981}Luje!
+{72987}{73072}A vi Mari, vi istog Ëasa|odlazite u Bruaû, u egzil...
+{73435}{73524}Verujemo da niöta nikad nije jaËe od ljubavi
+{73539}{73617}Da je to dar koje nam je nebo jednom udelio
+{73628}{73723}Kako moûemo da pomislimo|da neöto moûe da je rasturi
+{73728}{73826}i da uËini da zaboravimo|koga volimo kad je izgubimo
+{73831}{73915}Da imam ili, u stvari, nemam prava
+{73924}{74034}I daleko od tebe ja sam ovde
+{74039}{74178}Pravimo ista obeÊanja svaki put
+{74257}{74451}Voleti, nama je zabranjeno
+{74459}{74495}NemoguÊa ljubav
+{74554}{74650}ali beskrajna ljubav
+{74659}{74833}Voleti, nama nije dozvoljeno
+{74854}{74932}Neopisiva je ljubav
+{74957}{75053}to je ono Ëemu nas uËe
+{75105}{75194}Da sam znao da je unapred odreeno
+{75204}{75300}Da sam znala da Êu ti naneti bol
+{75306}{75393}vruÊim gvoûem naöe veze
+{75401}{75447}Kako znati odakle dolazi zlo,
+{75460}{75489}ono najgore?
+{75499}{75589}Napravio bih prvi korak ka tebi
+{75599}{75686}Ne bih se od toga uplaöila
+{75695}{75871}Pravimo li iste greöke svaki put?
+{75888}{76069}Voleti, nama je zabranjeno
+{76083}{76131}NemoguÊa ljubav
+{76172}{76275}ali beskrajna ljubav
+{76284}{76464}Voleti, nama nije dozvoljeno
+{76479}{76560}Neopisiva je ljubav
+{76579}{76737}to je ono Ëemu nas uËe
+{76850}{76938}Moûemo otiÊi, a da niöta ne napustimo
+{76947}{77046}Moûemo ostati, a da niöta ne zaboravimo
+{77132}{77382}Moûemo se voleti sve do|trenutka odlaska, odlaska
+{77519}{77681}Voleti za nas nije kraj
+{77700}{77766}NemoguÊa ljubav
+{77801}{77900}je beskrajna ljubav
+{77908}{78092}Voleti, nama je zabranjeno
+{78100}{78181}Neopisiva je ljubav
+{78200}{78242}to je ono Ëemu
+{78301}{78500}to je ono Ëemu nas uËe, uËe
+{80758}{80859}Sire, bliûi mi se kraj.
+{80918}{80949}éelim da kaûem Vaöem VeliËanstvu,
+{80953}{81004}o sreÊi i ponosu koje sam imao
+{81009}{81139}dok sam sluûio vama i drûavi.
+{81215}{81312}Proöao sam oluje, sramote,
+{81319}{81359}ali niöta od svega toga
+{81366}{81411}nije moglo da izmeni moju odluËnost,
+{81428}{81504}ni vernost prema vaöoj porodici,
+{81533}{81587}prema tronu.
+{81608}{81769}Oh, sire, voleo sam vas kao da ste mi sin.
+{81822}{81888}Molim vas da mi oprostite grubost i
+{81894}{81961}ûrtve koje sam vas naterao da podnesete,
+{81967}{82078}ali to su mi stalno diktirali|najviöi drûavni interesi.
+{82083}{82232}Znam to, gospodine kardinale, budite mirni.
+{82271}{82380}Dakle, umirem sreÊan, jer sad znam
+{82402}{82474}da ste u stanju da upravljate sami,
+{82496}{82562}sluûite se svojim ministrima,
+{82566}{82678}sasluöajte njihovo miöljenje, ali odluËujte sami,
+{82683}{82730}jer vi ste kralj.
+{82796}{82943}Eto, sve je reËeno, preporuËujem|svoju duöu bogu.
+{83001}{83162}Ah, sire, kako mi je teöko da vas napustim.
+{83437}{83607}Ovde gde je ceo jedan ûivot ispunjen
+{83620}{83789}novi izazov se uzdiûe
+{83804}{83899}Kao öto ljubav koja umire
+{83913}{83959}moûe ponovo da se rodi
+{83976}{84024}za drugi odlazak
+{84035}{84130}za drugo "moûda"
+{84178}{84247}Ko zna svoj put
+{84254}{84335}napretka
+{84358}{84375}Bez straha
+{84383}{84522}jedan jedini dan lutanja
+{84545}{84580}Drûimo se
+{84590}{84672}sigurnih stvari
+{84683}{84764}I pored odsustva
+{84775}{84902}I pored svih rana
+{84914}{85084}Ponovo otiÊi... I ne izneveriti
+{85094}{85183}Ono öto vas Ëeka
+{85191}{85215}ObeÊanja
+{85219}{85271}Koja moramo da odrûimo
+{85276}{85449}Ponovo otiÊi... I ne izneveriti
+{85457}{85546}Povratiti svoj duh
+{85553}{85642}I nikad ne zavröiti
+{85653}{85749}odlazak
+{85883}{85955}Ovde gde svaka istorija
+{85962}{86055}nas napuöta
+{86067}{86234}Nova nada se javlja
+{86251}{86322}Ponovo uzimamo baklje
+{86329}{86381}koje ste nam pozajmili
+{86391}{86469}Jer sve nam je dopuöteno
+{86493}{86596}Jer niko nas ne zaustavlja
+{86615}{86787}Ponovo otiÊi... I ne izneveriti
+{86801}{86884}Ono öto vas Ëeka
+{86891}{86916}ObeÊanja
+{86921}{86977}Koja moramo da odrûimo
+{86982}{87159}Ponovo otiÊi... I ne izneveriti
+{87171}{87251}Povratiti svoj duh
+{87262}{87351}I nikad ne zavröiti
+{87361}{87473}odlazak
+{87554}{87677}odlazak
+{87737}{87821}odlazak
+{88634}{88754}Majko, znam öta moram da uradim i za koga.
+{88782}{88897}Ali, lice sveta menja, od sada pa na dalje,
+{88934}{89055}ljubav sina, kralj vam zahvaljuje na savetima
+{89083}{89142}kojim ste znali da ga obasipate, ali od njih
+{89149}{89197}viöe nema koristi.
+{89211}{89253}Vaöe vreme je proölo.
+{89257}{89347}Kako? Sine, izgubili ste pamet?
+{89359}{89475}Takoe, majko, nemate viöe mesto u Savetu.
+{89480}{89544}Ne raËunajte na to. Vi ne znate,|neÊete ni znati!
+{89623}{89775}Oh, Luje... Pogaam zaplet.
+{89797}{89854}»iji ste to sluga postali?
+{89946}{90075}Kraljica, vaöa majka je, dakle,
+{90091}{90184}odbaËena? OsramoÊena?
+{90260}{90329}Oh, sine moj, neka vam bog oprosti
+{90335}{90377}vaöu nezahvalnost.
+{90406}{90491}Gospodo, ûelim da svako u kraljevstvu
+{90501}{90553}bude na okupu pod kraljem,
+{90565}{90631}kao öto priroda prima sunËevu svetlost,
+{90649}{90711}éelim u buduÊnosti da sam vladam,
+{90721}{90755}ne ûelim da postavim premijera,
+{90761}{90838}Ali, pobogu, sire, drûavi su |potrebni njeni ministri.
+{90846}{90945}Od danas, drûava to sam ja.
+{94431}{94473}éelimo da verujemo u ono öto vidimo
+{94479}{94521}U neöto öto nismo
+{94527}{94543}Ovde smo
+{94548}{94610}Onakvi kakvi treba da pojavimo
+{94621}{94642}Za ljude
+{94647}{94714}koje ne volimo, koji nas vuku ka dnu
+{94720}{94755}Koji se preklapaju da bi nas bolje
+{94766}{94814}potËinili
+{94821}{94862}Oni su ovde da se okreÊu
+{94868}{94914}Niöta drugo do kruûenja
+{94919}{94941}u njihovom svetu
+{94946}{95018}Kako bi me odvratili
+{95031}{95088}Od onoga öto je u meni
+{95096}{95142}onoga öto je u meni
+{95154}{95190}Ali ko moûe da zna
+{95196}{95243}put koji sam morao da napravim
+{95248}{95288}Da bih dopreo do sebe
+{95295}{95336}dopreo do sebe
+{95346}{95383}I video
+{95387}{95407}da zauzvrat
+{95415}{95484}sve je ostalo da se uradi
+{95514}{95551}Usred pogleda
+{95558}{95602}tolikih koliko je ogledala
+{95608}{95695}koji prave odraz veÊ gotove slike
+{95706}{95744}Imati svu moÊ
+{95754}{95796}Sve dok je viöe ne ûeliö
+{95802}{95890}ObeÊavati i sebi sve dozvoljavati
+{95901}{95945}Oni su ovde da se okreÊu
+{95952}{95991}Niöta drugo do kruûenja
+{95999}{96015}u njihovom svetu
+{96021}{96093}Kako bi me odvratili
+{96127}{96171}Od onoga öto je u meni
+{96180}{96223}onoga öto je u meni
+{96230}{96268}Ali ko moûe da zna
+{96273}{96322}put koji sam morao da napravim
+{96328}{96371}Da bih dopreo do sebe
+{96376}{96417}dopreo do sebe
+{96428}{96465}I video
+{96470}{96497}da zauzvrat
+{96505}{96586}sve je ostalo da se uradi
+{96600}{96693}I doÊi dovde
+{96702}{96782}do taËke samozadovoljstva
+{96793}{96883}verujuÊi u ono öto vidimo
+{96892}{97007}centar svemira
+{97044}{97066}Sami
+{97071}{97111}Ostajemo
+{97118}{97159}éivimo, umiremo
+{97168}{97240}Poslednji Ëas, mi ga Ëinimo
+{97252}{97266}Sami
+{97273}{97305}na visini
+{97313}{97353}sa naöim greökama
+{97359}{97402}na visini
+{97412}{97433}ostali smo
+{97438}{97455}Sami
+{97462}{97499}Ostajemo
+{97508}{97550}éivimo, umiremo
+{97558}{97635}Poslednji Ëas, mi ga Ëinimo
+{97643}{97654}Sami
+{97661}{97698}na visini
+{97707}{97745}sa naöim greökama
+{97755}{97793}na visini
+{97797}{97824}ostali smo
+{97830}{97871}sami
+{97882}{97942}sami
+{98136}{98261}Monsinjore! Monsinjore, zahvaljujem vam
+{98267}{98317}öto ste me preporuËili kraljici.
+{98325}{98403}Oh, pa, ko bi bio bolji izbor od|vas gospoo Montespan?
+{98408}{98449}Vaöe prijateljstvo mi Ëini Ëast...
+{98483}{98535}Vaöe prisustvo i vaö duh Êe osvetliti
+{98542}{98595}mraËne veËeri njihovih VeliiËanstava.
+{98600}{98666}Oh, zaista, Filipe! Vi mi laskate.
+{98707}{98767}Ja sam siguran da Êete brzo postati
+{98775}{98823}omiljena kraljeva poËasna dama.
+{98830}{98847}Ali, monsinjore...
+{98865}{98950}äta to rekoh, oprostite mi, kraljiËina.
+{98991}{99066}Budite oprezni, njegov brak sa öpanskom
+{99071}{99116}infantkinjom nije uËinilo da zaboravi
+{99122}{99236}Mari ManÊini i jadniËak se teöi kako moûe
+{99247}{99303}osvaja jednu za drugom.
+{99307}{99367}Monsinjore, VeliËanstvo se|nikad ne bi usudio,
+{99373}{99413}ja sam udata ûena.
+{99446}{99581}Nikad... Ah, ah, ah. E, pa,|verujem da Êemo to proveriti.
+{99588}{99666}Moj brate, ko je ta öarmantna osoba?
+{99684}{99716}Predstavite nas...
+{99724}{99919}Sire, gospoa de Mortmar,|supruga markiza de Montespana.
+{99928}{99952}VeliËanstvo.
+{99960}{99984}Gospoo.
+{100249}{100313}Kad bih bila misterija
+{100321}{100422}kojim laûnim prikazom bi ûeleo da ti se pojavim
+{100427}{100470}Mogu biti druga strana slike
+{100475}{100569}ili otkriti njenu suprotnost
+{100576}{100624}Kad bih bio kratkotrajni san
+{100629}{100674}koji bi ûelela da osvojiö
+{100695}{100755}Da li bi bio/bila privremena senka
+{100766}{100817}ili tvoja buduÊnost?
+{100822}{100875}Samo jedan vaö gest
+{100881}{100927}I pratiÊu poruku
+{100937}{100988}Pogled koji hvatam
+{100999}{101052}I okrenuÊu stranicu
+{101059}{101120}Bez ijedne reËi, samo osmeh
+{101126}{101177}Praviti se da niöta ne vidim
+{101205}{101247}Samo jedan gest izmeu nas
+{101253}{101312}To mi je potrebno da znam
+{101346}{101379}Da bi me imala
+{101386}{101448}Da bi me imao
+{101569}{101624}Kad bih bila misterija
+{101629}{101711}kolikom bi me hrabroöÊu prepoznao
+{101719}{101776}Ja sama mogu biti
+{101782}{101842}samo jedno lice
+{101851}{101886}ili da ostanem stranac
+{101892}{101947}Kad bih bio/bila usamljen vuk
+{101954}{102000}Kojeg treba da otkrijeö
+{102006}{102058}Da li bi se zaista usudio to da uradiö
+{102067}{102120}bez da me upozoriö?
+{102126}{102151}Samo jedan vaö gest
+{102185}{102236}I pratiÊu poruku
+{102243}{102302}Pogled koji hvatam
+{102309}{102363}I okrenuÊu stranicu
+{102372}{102431}Bez ijedne reËi, samo osmeh
+{102439}{102501}Praviti se da niöta ne vidim
+{102516}{102560}Samo jedan gest izmeu nas
+{102565}{102616}To mi je potrebno da znam
+{102670}{102691}Da bi me imala
+{102695}{102738}Da bi me imao
+{103272}{103333}Kako Ëekaö na mene
+{103352}{103380}DrugaËije
+{103387}{103437}äta znaö o meni
+{103445}{103498}Kad je to neko drugi koga vidiö
+{103503}{103559}Kako jedan odraz
+{103578}{103632}DrugaËiji
+{103639}{103688}Doöla bi meni
+{103694}{103739}Kad je to neko drugi koga vidiö
+{103773}{103806}Samo jedan vaö gest
+{103814}{103866}Samo jedan vaö gest
+{103875}{103927}I pratiÊu poruku
+{103937}{103991}Pogled koji hvatam
+{103997}{104051}I okrenuÊu stranicu
+{104057}{104118}Bez ijedne reËi, samo osmeh
+{104123}{104178}Praviti se da niöta ne vidim
+{104205}{104246}Samo jedan gest izmeu nas
+{104251}{104304}To mi je potrebno
+{104312}{104366}Samo jedan vaö gest
+{104373}{104429}I pratiÊu poruku
+{104436}{104487}Pogled koji hvatam
+{104493}{104551}I okrenuÊu stranicu
+{104557}{104621}Bez ijedne reËi, samo osmeh
+{104627}{104692}Praviti se da niöta ne vidim
+{104705}{104750}Samo jedan gest izmeu nas
+{104750}{104928}To mi je potrebno da znam
+{104964}{104993}Da bi me imao
+{105551}{105590}Avaj!
+{105613}{105654}Ana od Austrije je mrtva.
+{105668}{105731}Kraljica majka nas je ostavila|uûasno ucveljene.
+{105736}{105804}Proslava ûalosti je bila vrlo uspeöna.
+{105809}{105848}Dakle, gospoo, imajte malo poötovanja.
+{105852}{105920}Od smrti svoje majke,|Monsinjor brat i kralj su neuteöni.
+{105929}{105981}Jadan Monsinjor, teöko ga je|gledati.
+{105987}{106023}Ali nije isto i sa kraljem.
+{106033}{106124}SmrÊu Ane od Austrije|kralj je konaÊno slobodan.
+{106130}{106235}Slobodan? Ali zaboravili ste|gospou de Montespan?
+{106245}{106290}Zamenio je majku ljubavnicom.
+{106296}{106336}Lepa markiza je trijumfovala na dvoru,
+{106341}{106385}njegovo zatvaranje je potpuno.
+{106392}{106427}A, öta kaûe supruga? |äta kaûe infantkinja?
+{106432}{106505}Ona je otputovala i Luj to koristi.
+{106517}{106566}On sakuplja kaprice, dnevne priËe,
+{106571}{106594}i ne znam öta sve.
+{106666}{106729}To je tako ûalosno.
+{106750}{106790}Montespanova niöta ne primeÊuje,
+{106804}{106875}meutim kaûu da je proûdire ljubomora.
+{106900}{106966}Tim bolje, ona zasluûuje da pati.
+{106987}{107045}Gospoo, tolika mrûnja!
+{107071}{107120}Da niste zaljubljeni u naöe VeliËanstvo?
+{107163}{107215}Ali, ipak, eto jedne ûene koja je|uöla u sluûbu kraljice,
+{107225}{107259}postala kraljeva miljenica,
+{107267}{107323}i odmah napustila muûa i decu.
+{107333}{107403}Ne sudite joj, ona voli kralja,
+{107430}{107477}a zbog ljubavi moûemo da izgubimo razum.
+{107501}{107542}Oh, vi priËate o ljubavi Fransoaz!
+{107558}{107602}Vi koja niste zaljubljena.
+{107624}{107670}Od smrti naöeg sirotog Skarona,
+{107680}{107808}nisam vas videla ni sa|jednim drugim muökarcem.
+{107843}{107934}Imam poverenja u boga,|Ëekam svoj trenutak.
+{107949}{107986}Sveta Fransoaz!
+{108275}{108362}Prizivam Samaela, princa ambisa!
+{108394}{108429}Neka se sloûi da Atenada,
+{108434}{108464}markiza od Montespana,
+{108468}{108499}potpuno zadovolji i
+{108506}{108542}zaposedne telo i um Lujevo,
+{108558}{108583}kralja Francuske.
+{108589}{108607}Oh, moj boûe!
+{108614}{108634}NesreÊnice!
+{108657}{108701}Ne prizivaj to ime ovde,
+{108718}{108757}pokvariÊe te dejstvo napitka.
+{108809}{108891}Da li, dakle, vi znate öta zaista ûelite?
+{108896}{108928}Bez dvoumljenja, Voazan!
+{108938}{108987}éelim da Luj ne pogleda nijednu drugu ûenu
+{109004}{109056}i da me voli celim svojim biÊem.
+{109060}{109122}Ha, ha, ha! Moja lepa damo,
+{109131}{109225}telo i duöa nisu srce.
+{109253}{109303}Kao i svi ostali koji dolaze da me traûe,
+{109310}{109369}vi zahtevate apsolutnu ljubav.
+{109394}{109460}Moj napitak neÊe uËiniti da budete voljeni,
+{109468}{109539}veÊ samo da postane zavisan|od vaöeg prisustva.
+{109563}{109589}Osim ako...
+{109595}{109667}O, recite! Spremna sam da|platim bilo koju cenu!
+{109672}{109754}Ne radi se samo o novcu, gospoo!
+{109774}{109816}Treba da probudimo...
+{109822}{109870}Demone... –avola.
+{109875}{109950}Ha, ha, ha! Kuda ste to krenuli?
+{109992}{110120}Ne uznemirava se Satana,|Ëak ni zbog kraljeve ljubavnice.
+{110134}{110170}On se poziva...
+{110200}{110254}Da li ste spremni na veliku ûrtvu,
+{110274}{110328}da proûivite misterije sabata!
+{110346}{110371}NoÊna misa...
+{110378}{110497}äöööö! Govorite tiöe, sluöaju nas.
+{110505}{110606}Oh, ne, nikada. To nikada!|Neka mi bog oprosti!
+{110621}{110644}Dajte mi taj napitak!
+{110660}{110680}Zbogom!
+{110688}{110788}Zbogom, moja princezo, vratiÊeö se ti!
+{112515}{112610}Ninon, da li Êete mi objasniti|öta znaËi sva ova misterija?
+{112637}{112697}Fransoaz, moja lepa prijateljice,
+{112703}{112764}vrata sudbine su se,|konaËno, öiroko otvorila,
+{112787}{112828}neÊete joö dugo Ëekati.
+{112844}{112882}Prestanite da govorite u öiframa.
+{112890}{112948}Oh, moje dame, zadovoljna sam
+{112953}{112985}öto sam vas sve naöla ovde.
+{112992}{113040}Ninon, zahvaljujem vam öto ste se
+{113046}{113080}tako brzo odazvale mom pozivu.
+{113113}{113181}Moja draga, ovo je Fransoaz Dobinje,
+{113192}{113219}Skaronova udovica.
+{113229}{113263}Njena posveÊenost i diskrecija
+{113270}{113281}mogu da vas uvere...
+{113287}{113306}Nemamo vremena...
+{113319}{113396}Gospoo, kraljevo dete koje nosim
+{113404}{113455}treba da se rodi u tajnosti
+{113474}{113510}i neÊe ûiveti na dvoru.
+{113536}{113563}Prihvatate li da budete odgovorni
+{113570}{113620}za njegovo obrazovanje?
+{113689}{113803}Oh, gospoo, ne znam da li sam dostojna
+{113825}{113866}tolikog poverenja s vaöe strane,
+{113937}{114025}a osim toga nemam ni mesto za|stanovanje, ni...
+{114029}{114067}Ne brinite se ni za öta!
+{114077}{114137}Njegovo VeliËanstvo Êe se pobrinuti za sve,
+{114143}{114183}a vi Êete biti velikoduöno obeöteÊeni.
+{114207}{114239}Prihvatate li?
+{114259}{114331}Fransoaz, ne budite glupaËa.
+{114426}{114537}Da uËinim vama, gospoo, i kralju,
+{114544}{114586}prihvatam.
+{114595}{114629}Dakle, budite spremni,
+{114635}{114689}potraûiÊu vas kad za to doe vreme.
+{114828}{114876}Zar nisam bila u pravu?
+{114903}{114952}Vi ste ovde na korak do dvora.
+{115178}{115255}Gospodo, ova proslava Êe oznaËiti
+{115261}{115297}pobedu nad naöim neprijateljima
+{115303}{115339}i povratak mira u Evropu.
+{115358}{115398}éelim da se odrûi u Versaju
+{115407}{115451}i da bude najveliËanstvenija od svih.
+{115455}{115522}U vaöu slavu, sire, i u slavu|vaöeg kraljevstva.
+{115530}{115568}Za vas, moja neûna prijateljice,
+{115574}{115628}ona Êe proslaviti naöu ljubav u celom svetu.
+{115633}{115685}Sire, predlaûem kao naslov:
+{115695}{115753}Velika kraljevska zabava!
+{115770}{115814}Dobro! To mi odgovara.
+{115822}{115856}A öta Êe sve biti na programu,
+{115862}{115880}gospodine Molijeru?
+{115886}{115920}U jednom jedinom danu, sire,
+{115929}{115970}poËinjemo prvo velikim baletom:
+{115976}{116028}Bah - proslava ljubavi,
+{116038}{116079}zatim, moja poslednja drama,
+{116087}{116135}"éorû Dandin", za koju je muziku
+{116141}{116176}napisao gospodin Lili, i na kraju,
+{116191}{116260}ekstravaganca za oËi i vatromet.
+{116267}{116301}Dobro, veoma dobro!
+{116305}{116394}Sire, podiÊi Êemo pozoriöte u parku zamka,
+{116405}{116441}i zato moramo da preduzemo neke
+{116452}{116504}velike poslove,
+{116518}{116616}drûite, ovde i tamo,
+{116625}{116682}ako nam gospodin Kolber dozvoli.
+{116692}{116715}Vaöe VeliËanstvo!
+{116730}{116778}Troökovi ove proslave su se veÊ popeli
+{116784}{116816}na 150 000 livara,
+{116823}{116863}a konstrukcija samog zamka
+{116867}{116912}je uniötila drûavni budûet.
+{116916}{117005}Kolbert, Versaj Êe biti simbol naöe moÊi
+{117011}{117046}u vekovima koji dolaze,
+{117053}{117092}biÊe francuski uticaj
+{117101}{117154}i sve zemlje Êe to saznati,
+{117166}{117200}koliko god nas to koötalo.
+{117209}{117228}Vaöe VeliËanstvo,
+{117232}{117266}radnici rade dan i noÊ,
+{117272}{117308}malarija ih je desetkovala,
+{117313}{117336}rizikujemo pobunu!
+{117344}{117377}A moji agenti me izveötavaju
+{117383}{117466}da vaö roak Bofor nije sasvim nevin
+{117470}{117499}u tim komeöanjima.
+{117503}{117521}To je oËigledno, sire,
+{117528}{117552}vi ste mu oprostili ustanak
+{117558}{117585}i on je nastavio da vas izdaje.
+{117616}{117638}U pravu ste, gospoo!
+{117668}{117683}Kolber!
+{117701}{117731}Uhapsite ga!
+{117746}{117787}Odmah Êete ga dovesti!
+{118310}{118351}To mi je potrebno
+{118356}{118394}Biti protiv celog sveta
+{118407}{118493}i ûeleti da protiv svega
+{118509}{118595}ostati uspravan
+{118702}{118788}Kad spavamo na jastuku od kamenja
+{118805}{118912}ko joö misli na nas
+{118934}{119018}kada smo daleko od svega
+{119109}{119224}Jedan most izmeu neba i zemlje
+{119233}{119301}izmeu vas i nas
+{119338}{119423}jedan put jedva otvoren
+{119509}{119622}Jedna veza uprkos preprekama
+{119632}{119708}koju samo mi moûemo napraviti
+{119734}{119818}put koji se mora preÊi
+{119910}{119983}Da li smo svi mi neprijatelji
+{120007}{120102}jedni protiv drugih ugroûeni
+{120112}{120217}i ogoljeni
+{120310}{120392}Iako nam sve izgleda daleko
+{120409}{120519}Iako je sve sivo
+{120531}{120622}éelim da zadrûim ûelju
+{120711}{120826}za mostom izmeu neba i zemlje
+{120834}{120912}izmeu vas i nas
+{120933}{121017}jedan put sasvim na ivici
+{121110}{121223}Jedna veza uprkos preprekama
+{121233}{121313}koju samo mi moûemo napraviti
+{121337}{121424}put koji znmo kako preÊi
+{121436}{121535}put gotovo obiËan
+{121712}{121794}éeleti celu zemlju
+{121814}{121911}i imati je uprkos sebi
+{121920}{122033}ostati dole
+{122116}{122197}Ako svako ponese svoj deo
+{122209}{122312}uradi öto je potrebno
+{122338}{122404}bez da nas preskoËi
+{122511}{122614}korakom izmeu neba i zemlje
+{122633}{122708}izmeu vas i nas
+{122734}{122815}jedan put koji je otvoren
+{122910}{123018}Jedna veza uprkos preprekama
+{123034}{123112}koju samo mi moûemo napraviti
+{123130}{123218}put koji treba preÊi...
+{124036}{124140}put gotovo obiËan
+{124646}{124733}Aj! Pa pazi malo, idiotkinjo!
+{124741}{124775}Povredila si me!
+{124781}{124810}Daj mi tu Ëetku!
+{124832}{124857}éao mi je, gospoo.
+{124898}{124981}Vi! Pomozite mi da sakrijem ove bore!
+{124994}{125051}Iznad svega je vaûno da|ih VeliËanstvo ne vidi,
+{125059}{125082}hajde napuderiöi me!
+{125167}{125204}Hajde, napuderiöi me!
+{125269}{125313}Oh, kakva nespretnjakoviÊka!
+{125320}{125346}Pusti me, sama Êu.
+{125408}{125467}Stalno pojavljivanja, ugaanja,
+{125480}{125536}zabavljanja...
+{125542}{125566}Eto, gospoo Skaron,
+{125572}{125615}takav je ûivot kraljeve ljubimice.
+{125646}{125694}Ponekad vam zavidim Fransoaz,
+{125710}{125755}vaö ûivot je jednostavan,
+{125769}{125835}bog i deca su vam jedina preokupacija.
+{125851}{125910}U vezi s tim, Vojvoda je spreman?
+{125931}{125980}Jer veËeras Êemo se pojaviti na dvoru.
+{125999}{126063}Gospoo, vaö sin se joö oporavlja,
+{126075}{126174}noga ga joö muËi i veoma je umoran,
+{126196}{126233}bilo bi mudrije da ga ostavimo da spava.
+{126236}{126257}Dozvolite meni da prosudim
+{126262}{126323}öta je bolje za mog sina, gospoo Skaron.
+{126346}{126372}A ja smatram da mesto vaöeg sina,
+{126378}{126441}buduÊi da je princ po krvi,
+{126451}{126502}nije meu dvorskim Ëavrljanjima,
+{126518}{126585}veÊ da se odmori, da spava u svom krevetu
+{126590}{126619}kao i sva deca njegovih godina.
+{126623}{126679}Gospoo, veËeras Êe se Vojvoda pojaviti
+{126686}{126743}u druötvu svog oca i svoje majke.
+{126760}{126790}Ali, iscrpeÊete ga!
+{126794}{126847}E, sad je dosta! UÊutite!
+{126871}{126947}Ali, ne vi, nastavite...
+{126974}{127002}Dakle, pogledajte ovu ûenu.
+{127020}{127132}roenu ko zna gde, udovicu pesnika paralitika,
+{127140}{127162}bez ijednog novËiÊa,
+{127168}{127205}koju sam izvukla iz bede,
+{127218}{127266}i koja mi sad odjednom drûi lekcije.
+{127302}{127410}Gospoo Skaron, vi ste ovde obiËna dadilja,
+{127427}{127472}i to po ûelji kralja,
+{127478}{127505}ne zaboravite to!
+{127530}{127560}Jedna moja reË njegovom VeliËanstvu
+{127565}{127603}i vratiÊete se u vaöe provincijske salone,
+{127618}{127657}ili radije u neki manastir,
+{127664}{127708}gde Êete se posvetiti veri.
+{127762}{127803}Idite, spremite mog sina!
+{127978}{128049}Sire, kako bih posluöala gospou Montespan,
+{128055}{128098}dozvolite mi da se povuËem.
+{128101}{128132}Svakako, 
+{128159}{128219}gospoo Mantenon.
+{128294}{128439}Gospoa Mantenon?|O, sire, zahvaljujem vam.
+{128566}{128601}Gospoa Mantenon?
+{128621}{128666}Nazvali ste je "gospoom Mantenon"?
+{128682}{128715}Odrekli ste me se u tom trenutku.
+{128723}{128759}Nikad ne bih poverovala u to.
+{128765}{128813}Gospoo, molim vas. Smirite se.
+{128818}{128840}Da se smirim?
+{128847}{128884}Ali, prijatelju, ne uzdrûavajte se.
+{128888}{128916}Dali ste plemstvo toj ûeni,
+{128922}{128949}postavili je na dvor.
+{128964}{129016}A svaki tren poigrava se mojim autoritetom.
+{129027}{129056}I traûi naËin da me ponizi!
+{129060}{129118}Gospoo, nameravam da zadrûim
+{129125}{129196}gospou Mantenon zbog naöeg sina,
+{129209}{129274}zadovoljan sam njenim uslugama,
+{129284}{129353}i ubeen sam da kad povratite prisebnost,
+{129358}{129396}sloûiÊete se sa mnom,
+{129439}{129499}da ona zasluûuje tu titulu i tu zemlju,
+{129505}{129562}i da sam ûeleo da joj jednostavno pokaûem
+{129568}{129611}da ima naöu zahvalnost.
+{130044}{130119}Znam da Êe jednog dana
+{130129}{130204}doÊi na tebe red
+{130220}{130274}Ne brini
+{130283}{130374}Niko nije osuen
+{130383}{130559}NiËiji sin ili kraljevski sin
+{130567}{130704}gde ti budeö bio, biÊu ja pored tebe.
+{130723}{130811}Tu je stalno ovaj aneo
+{130823}{130890}u dubini tebe
+{130903}{131044}kuda poeö, spreman da te posavetuje.
+{131065}{131142}Dakle slaûem se
+{131150}{131220}Neka niöta ne pokvari tvoj ûivot
+{131228}{131322}Nije vredno truda
+{131330}{131406}Ljubav je ta koja te vodi
+{131413}{131481}Dakle slaûem se
+{131493}{131559}Neka jedan ples uËini da ûeliö
+{131568}{131665}Znaj da te Ëini odraslijim
+{131672}{131747}kad se usudiö na prvi korak
+{131933}{132007}U kontrastu svetlosti
+{132020}{132087}zamkova
+{132103}{132162}Vile su ti takoe
+{132170}{132252}okrenule lea
+{132265}{132352}Nikad nemoj da odluËiö
+{132364}{132435}da zaboraviö
+{132447}{132488}Treba da nauËiö
+{132494}{132573}da postojiö
+{132610}{132687}Dakle slaûem se
+{132701}{132763}Neka niöta ne pokvari tvoj ûivot
+{132772}{132863}Nije vredno truda
+{132869}{132950}Ljubav je ta koja te vodi
+{132957}{133028}Dakle slaûem se
+{133038}{133109}Neka jedan ples uËini da ûeliö
+{133118}{133210}Znaj da te Ëini odraslijim
+{133220}{133293}kad se usudiö na prvi korak
+{133301}{133367}Dakle
+{133384}{133464}Idi kuda ti se kaûe
+{133473}{133553}Dakle
+{133562}{133724}Radi ono öto moraö
+{133842}{133880}KonaËno ste ovde, gospodine!
+{133987}{134016}Da li priliËi, dakle, mladom princu
+{134023}{134054}da ga kralj Ëeka?
+{134067}{134141}Vaöe VeliËanstvo, da li biste|nam oprostili zakaönjenje?
+{134169}{134228}Hajde, duöo, na tebe je red.
+{134322}{134414}Sire, primite puno poötovanja od sina
+{134441}{134513}koji je joö juËe bio neuteöan,
+{134527}{134597}a danas oduöevljen öto je naöao
+{134601}{134638}svog dragog oca,
+{134645}{134743}od koga ga je surovo odvojila bolest.
+{134758}{134800}Eto, to su lepi komplimenti, sine!
+{134817}{134850}to je tako lepo izreËeno,
+{134860}{134908}ja sam dirnut i ponosan.
+{134930}{134991}Koja vas je muza na to inspirisala?
+{135018}{135105}Sire, to je dama pored mene,
+{135118}{135212}koja je sama neûnost i dobrota.
+{135218}{135248}Vidim.
+{135284}{135328}Gospodine, pokaûite vaöem ocu
+{135339}{135384}kakav smo joö napredak uËinili.
+{135483}{135498}Oh, moj mali...
+{135509}{135551}Ostavite to jadno besmisleno dete.
+{135560}{135647}On je bolestan, a vi se rugate|njegovim patnjama.
+{135651}{135664}Gospoo!
+{135672}{135727}Ne, sire, ne dozvoljavam da naö sin
+{135731}{135783}bude igraËka toj ûeni.
+{135823}{135917}Oh, moj dragi... moj mali...
+{135921}{135978}Ne plaËite viöe, vaöa mama je ovde.
+{136019}{136080}Oh, kako ste lepi u toj odeÊi,
+{136097}{136145}vaöi roaci Êe biti ljubomorni veËeras.
+{136180}{136210}Doite.
+{136635}{136857}Gospoo, ja sam vam beskrajno zahvalan,
+{136862}{136914}za brigu i neûnost koju ste pruûili
+{136920}{136969}u sluûbi oko mog sina.
+{136975}{137075}Sire, ja sve dugujem Vaöem VeliËanstvu.
+{137084}{137154}Ne, sve dugujete samoj sebi,|vaöoj posveÊenosti,
+{137193}{137360}vaöoj neûnosti, vi znate lepo|da volite, gospoo,
+{137381}{137444}kakvo bi to bilo zadovoljstvo|biti voljen od vas.
+{137512}{137571}ObeÊajte mi da nikad neÊete otiÊi?
+{137636}{137739}Dokle god to odgovara Vaöem VeliËanstvu,|bdiÊu nad njim.
+{137746}{137781}Ali, da li biste bdili nadamnom?
+{137794}{137827}Sire!
+{137877}{137976}Niöta ne zahtevam, gospoo, samo vas molim.
+{140873}{140902}Daj mi moÊ i slavu
+{140908}{140951}koje dolaze iz svetlosti ili iz tame
+{140961}{140996}Daj mi snagu i moÊi
+{141001}{141016}i uzmi sve
+{141021}{141038}öto moûeö da imaö
+{141043}{141064}Amen
+{141068}{141104}Prizivam
+{141114}{141232}snage svemira
+{141253}{141304}Prizivam ih
+{141312}{141383}iz ûdrela zemlje
+{141460}{141506}Prizivam
+{141514}{141576}zvezde i njihove tajne
+{141583}{141653}VraÊam se tebi
+{141662}{141750}VraÊam se tebi
+{141767}{141798}Daj mi|od drugih verovanja
+{141806}{141856}koje oûivljuju iz pepela nade
+{141863}{141890}Daj mi drugu öansu
+{141895}{141930}NauËi me kako da odgovorim|na tiöinu
+{141938}{141952}Amen
+{141961}{142002}Prizivam
+{142010}{142101}snage svemira
+{142156}{142203}Prizivam ih
+{142209}{142283}iz ûdrela zemlje
+{142358}{142401}Prizivam
+{142411}{142474}zvezde i njihove tajne
+{142483}{142547}VraÊam se tebi
+{142561}{142626}VraÊam se tebi
+{142964}{143012}VraÊam se tebi
+{143021}{143056}Daj mi moÊ i slavu
+{143062}{143100}koje dolaze iz svetlosti ili iz tame
+{143107}{143145}Daj mi snagu i moÊi
+{143151}{143168}i uzmi sve
+{143173}{143186}öto moûeö da imaö
+{143195}{143207}Amen
+{143208}{143250}Prizivam
+{143263}{143327}snage svemira
+{143407}{143456}Prizivam ih
+{143463}{143530}iz ûdrela zemlje
+{143608}{143652}Prizivam
+{143659}{143726}zvezde i njihove tajne
+{143735}{143793}VraÊam se tebi
+{143819}{143861}Dajem ti krv u putiru,
+{143881}{143932}da napraviö od mene sauËesnicu,
+{143950}{144001}Dajem nevinost sina
+{144018}{144058}i sve molitve,
+{144079}{144194}sve molitve ûrtvujem.
+{144213}{144264}Prizivam...
+{144972}{145054}Ne, ne, ne...
+{145846}{145865}A sada, gospodo,
+{145881}{145925}molio bih vas da nas ostavite same.
+{145987}{146070}Gospodine Kolber, ostanite.
+{146121}{146183}Vi, dakle, gospoo,
+{146190}{146264}izdali ste me i to dvostruko.
+{146275}{146350}Sire, ja sam kriva, jer vi u to verujete,
+{146371}{146398}ali nisam vas izdala.
+{146402}{146434}Sve u svemu, gospoo,
+{146439}{146494}ne samo da ste se prepustili kultu Satane
+{146506}{146546}da me potËinite svojoj volji,
+{146566}{146601}veÊ ste, takoe, podrûali plan
+{146608}{146630}da me otrujete!
+{146635}{146667}Nikada to nisam ûelela!
+{146670}{146704}To su obiËne klevete!
+{146785}{146832}Sva svedoËenja su optuûujuÊa!
+{146858}{146896}Sama Êerka trovaËice Voazan
+{146902}{146969}vas je videla kako kupujete moj ûivot
+{146976}{147010}i ûivote ostalih sirotih nevinih
+{147014}{147043}na koje ste bili ljubomorni.
+{147048}{147095}Laû! Ona je slagala na mukama
+{147101}{147142}sudija i dûelata.
+{147145}{147201}Po pravdi kralja, tako i boga.
+{147261}{147306}I, kao vrhunac svega,
+{147311}{147340}sa vaöim sauËesnicima,
+{147345}{147376}bili ste spremni da ûrtvujete
+{147383}{147409}ûivot jednog deteta.
+{147419}{147471}Ne, nikako deteta! Nisam znala za to!
+{147475}{147617}Dosta! Ne mogu viöe da vam verujem,
+{147627}{147671}i ne mogu viöe da vas sluöam.
+{147882}{147975}Sire... Nemam drugu odbranu
+{148015}{148073}do ljubavi koju nosim za vas.
+{148085}{148136}I ako sam greöila, ne kajem se ni za öta.
+{148188}{148255}Moj jedini bol je öto sam izgubila vaöu.
+{148269}{148286}Sire...
+{148371}{148474}U ime naöe dece, gospoo,|zadrûaÊu vas na dvoru.
+{148489}{148624}Ali, zahtevam da od danas|poötujete moju liËnost,
+{148642}{148705}i da uoËite veliku uzdrûanost sa moje strane.
+{148750}{148774}Zbogom.
+{148865}{148878}Kolbere...
+{148886}{148906}Vaöe VeliËanstvo...
+{148925}{148951}ûelim da se saËuva tajna o
+{148958}{148992}svemu öto se deöavalo ove noÊi.
+{149009}{149048}Niko ne sme da sazna.
+{149064}{149123}Sve Êe biti kako ste naredili.
+{150779}{150832}Imamo porok vrlina
+{150843}{150888}Ono öto viöe ne zasluûujemo
+{150897}{150943}öto svetli, svetluca, öto se vidi
+{150949}{150980}i tako dalje
+{151124}{151159}Dodajemo ih sve viöe
+{151171}{151221}Bez mere i bespotrebno
+{151228}{151272}iz öika, luksuza i glamura
+{151284}{151316}i tako dalje
+{151330}{151372}Za izloûbu
+{151382}{151430}sve je za izloûbu
+{151444}{151489}Niöta nam ovde ne odgovara
+{151548}{151595}Za izloûbu
+{151604}{151650}sve je za izloûbu
+{151665}{151706}samo je detalj vaûan
+{151801}{151844}i porok Versaja
+{151956}{151996}Ko se nije nikad izgubio
+{152006}{152055}u preterivanju pri: "Da li si me video?"
+{152063}{152110}i uûiva u svemu öto se deöava
+{152118}{152149}i tako dalje
+{152163}{152206}Za izloûbu
+{152217}{152261}sve je za izloûbu
+{152279}{152315}Niöta nam ovde ne odgovara
+{152368}{152430}Jer se ûivi zbog izloûbe
+{152437}{152485}samo za izloûbu
+{152503}{152588}samo je detalj vaûan
+{152679}{152766}Ne radimo niöta bez niËega
+{152779}{152867}Kome to ide u korist?
+{152883}{152977}Predstavi o samom sebi
+{152995}{153083}Iako je to samo za njeno dobro
+{153114}{153196}Ëak i tada Êemo to uraditi
+{153219}{153262}Za izloûbu
+{153269}{153316}sve je za izloûbu
+{153332}{153375}Niöta nam ovde ne odgovara
+{153429}{153482}Jer se ûivi zbog izloûbe
+{153491}{153541}samo za izloûbu
+{153554}{153641}samo je detalj vaûan
+{153710}{153748}i porok Versaja
+{153840}{153887}Ko se nije nikad izgubio
+{153895}{153943}u preterivanju pri: "Da li si me video?"
+{153952}{153996}i uûiva u svemu öto se deöava
+{154014}{154040}i tako dalje
+{154051}{154094}Za izloûbu
+{154102}{154150}sve je za izloûbu
+{154164}{154246}Niöta nam ovde ne odgovara
+{154263}{154318}Jer se ûivi zbog izloûbe
+{154326}{154377}samo za izloûbu
+{154389}{154472}samo je detalj vaûan
+{154487}{154544}Za izloûbu
+{154557}{154599}sve je za izloûbu
+{154619}{154708}Niöta nam ovde ne odgovara
+{154720}{154772}Za izloûbu
+{154780}{154825}sve je za izloûbu
+{154836}{154915}samo je detalj vaûan
+{154972}{155012}i porok Versaja
+{155483}{155544}Gospoo, znate za poötovanje
+{155550}{155623}koje sam imao prema mojoj pokojnoj supruzi.
+{155660}{155701}Hvala vam na paûnji i brizi
+{155716}{155761}kojom ste me okruûili od njene smrti,
+{155800}{155848}ali danas ne mogu viöe da varam.
+{155862}{155897}Zaöto beûite od moje naklonosti?
+{155903}{155955}Zaöto ne prestajete da me izbegavate?
+{155965}{156067}Sire, kako me razneûuju te reËi
+{156098}{156146}i kako su surove.
+{156155}{156194}Uzalud sam se nadao jednom momentu
+{156199}{156258}u kome ste blizu mene, sami,
+{156272}{156309}ali nije ga bilo.
+{156337}{156399}Ipak, Fransoaz, sve vam govori
+{156407}{156480}da me volite, kao öto ja volim vas.
+{156486}{156538}Verujete da moûete da Ëitate moja oseÊanja,
+{156600}{156650}u pravu ste.
+{156687}{156792}Volim vas, ali ta ljubav je toliko
+{156799}{156844}snaûna koliko i ûalosna,
+{156883}{156921}jer moram da je se odreknem.
+{156927}{156957}Zaöto pruûate otpor?
+{156961}{156999}Zar nisam sad slobodan?
+{157003}{157047}Nikad ne bih mogla da budem vaöa ûena.
+{157051}{157096}Niöta se ne protivi naöoj vezi,
+{157110}{157148}sve Êu srediti s bogom.
+{157170}{157289}Sire, treba da se oûenite za|dobro vaöeg kraljevstva,
+{157317}{157366}ali ûenom vaöeg ranga.
+{157406}{157479}Koliko danas morate da izaberete
+{157502}{157551}izmeu princeza koje Êe vam predstaviti.
+{157556}{157651}Molim vas, gospoo, ËekaÊu|koliko je potrebno,
+{157674}{157742}moje srce vama pripada.
+{157767}{157820}Oh, Luje...
+{157831}{157879}Dok piöem ove reËi,
+{157885}{157937}shvatam da vas gubim zauvek,
+{157962}{158080}ali ostaÊu vam verna do poslednjeg daha.
+{158508}{158606}Video sam promicanje lica
+{158656}{158788}Video sam kajanja
+{158827}{158925}Toliko je snova koji su proöli
+{158946}{158991}koje sam gurnuo sa strane
+{159013}{159127}kada je trebalo da sanjam
+{159146}{159238}Videla sam nestanak fatamorgana
+{159305}{159413}koje se nikad neÊe vratiti
+{159463}{159564}Videla sam takoe tolika putovanja
+{159586}{159652}koja su se zavröila davljenjem
+{159666}{159744}na samom poËetku
+{159750}{159790}éivot prolazi
+{159833}{159900}a niöta nisam video da prolazi
+{159906}{159978}éivot prolazi
+{159987}{160055}a ja sam samo pozajmljivao
+{160066}{160138}Vreme prolazi
+{160148}{160224}nisam znao kako da ga zaustavim
+{160232}{160378}i jednostavno sam zaboravio da volim
+{160423}{160548}Odupreo sam se tolikim jezicima
+{160575}{160722}koje je trebalo da nauËim
+{160743}{160851}Ali da li je i dalje to dokaz hrabrosti
+{160873}{160933}oznaËiti stranice
+{160947}{161021}a ne biti zadovoljan
+{161028}{161078}éivot prolazi
+{161102}{161174}a niöta nisam videla da prolazi
+{161184}{161245}éivot prolazi
+{161262}{161336}a ja sam samo pozajmljivala
+{161346}{161417}Vreme prolazi
+{161428}{161504}nisam znala kako da ga zaustavim
+{161511}{161630}i jednostavno sam zaboravila da volim
+{161690}{161751}Ne ûelim da verujem bez sumnje
+{161765}{161845}Ne ûelim da verujem da je put zatvoren
+{161894}{161993}jednom i zauvek zatvoren
+{162006}{162077}éelim da vidim kuda idem
+{162086}{162126}da dam sebi pravo
+{162137}{162210}koje jedan Ëovek moûe sebi da da
+{162224}{162315}da sve napusti
+{162419}{162469}Pogledajte, gospoo, kako vas sluöam,
+{162479}{162514}pokoriÊu vam se,
+{162533}{162580}oûeniÊu se ponovo pred bogom.
+{162645}{162727}Sire, verujte mi da sam sreÊna zbog
+{162772}{162810}te mudre odluke.
+{162815}{162859}Gospoo, da, oûeniÊu se,
+{162864}{162890}ali izabrao sam princezu
+{162895}{162939}na kojoj Êe mi ceo svet zavideti,
+{162946}{163038}lutajuÊi princ je oûiveo pod suncem.
+{163056}{163099}NeÊu viöe pustiti da me bilo ko
+{163104}{163143}razdvoji od ûene koju volim.
+{163165}{163230}Moûda se varam, ali ta princeza liËi
+{163235}{163282}na jednu ûenu koja mi je|godinama bila druötvo,
+{163297}{163349}u teökoÊama i u radostima,
+{163360}{163436}ona je mudra i plemenita,
+{163450}{163523}ta ûena, to ste vi Fransoaz,
+{163531}{163550}vas ûenim.
+{163588}{163654}éivot prolazi
+{163665}{163735}i ûelim da ga vidim kako prolazi
+{163743}{163815}éivot prolazi
+{163830}{163899}éelim da ga vidim kako ga pozajmljujeö
+{163909}{163982}Vreme nas poûuruje
+{163989}{164061}znao bi da ga zaustaviö
+{164068}{164140}Vreme prestaje
+{164147}{164225}ali bar sam volela
+{164233}{164300}éivot prolazi
+{164309}{164379}i zaista moûe da proe
+{164388}{164457}éivot prolazi
+{164466}{164621}i ûelim da ga proûivim s tobom
+{164825}{164866}Kako je to lepo,
+{164875}{164934}kako je ovo sreÊno okruûenje,
+{164939}{164988}rekli bi kraj bajke,
+{164994}{165054}kao one mog prijatelja äarla Peroa.
+{165059}{165112}A osim toga, radi se sasvim o ûivotu kralja
+{165132}{165253}Ëija je vladavina bila najsvetlija i najraskoönija
+{165259}{165290}u naöoj istoriji.
+{165294}{165337}Ja sam pisao sam za njega,
+{165341}{165390}kao i drugi, slikari, pesnici,
+{165398}{165490}muziËari, filozofi, arhitekte...
+{165496}{165545}Mi smo uokvirili njegovu slavu,
+{165551}{165673}tu Luja XIV Kralja sunca.
+{165679}{165721}Dakle, veËeras, poslednji put,
+{165725}{165774}vratiÊu sat vremena
+{165779}{165868}i taj fantastiËni dvor Êe oûiveti
+{165876}{165939}i pevati za vas.
+{166025}{166140}VeliËanstvo, gospodo...
+{166455}{166512}Bio jednom jedan
+{166532}{166682}da tako jedna priËa poËinje
+{166778}{166832}Sve pamtimo
+{166847}{167052}ostatak detinjstva u dubini biÊa
+{167089}{167224}odlazi zauvek
+{167240}{167496}bez da to zaista biramo
+{167531}{167602}Dokle god i dalje sanjamo
+{167625}{167765}dok se naöe oËi i dalje Ëude
+{167772}{167833}niöta nije izgubljeno
+{167848}{167940}Dokle god i dalje sanjamo
+{167947}{168094}neka se niko nikad ne uspava
+{168100}{168175}a da ne sanja
+{168191}{168236}nikad viöe
+{168245}{168296}Mi napredujemo
+{168309}{168397}u dvor najveÊih
+{168430}{168513}da se suoËimo
+{168556}{168630}Bez poraza dûinova
+{168637}{168837}naÊi mesto u prvom redu
+{168865}{169001}Ispunimo naöe ûivote
+{169032}{169291}jer zaboravljamo da oni prolaze
+{169311}{169381}Dokle god i dalje sanjamo
+{169405}{169545}dok se naöe oËi i dalje Ëude
+{169554}{169620}niöta nije izgubljeno
+{169634}{169716}Dokle god i dalje sanjamo
+{169728}{169876}neka se niko nikad ne uspava
+{169882}{169956}a da ne sanja
+{169979}{170024}nikad viöe
+{170120}{170193}Bio jednom jedan
+{170198}{170269}sve tako poËinje
+{170277}{170347}Uzimamo naöu priËu
+{170365}{170428}tako kao ona ûivot ide
+{170449}{170508}I pored njegovih greöaka
+{170518}{170587}njegovih nedostataka i njegovih zakona
+{170600}{170672}Verovati da je sreÊa
+{170683}{170737}Ëesto daleko od nas
+{170742}{170840}poöto se joö Ëuju udarci
+{170892}{171043}znaËi joö je ovde
+{171060}{171137}u nama
+{171181}{171245}Dokle god i dalje sanjamo
+{171270}{171406}dok se naöe oËi i dalje Ëude
+{171419}{171488}niöta nije izgubljeno
+{171499}{171587}Dokle god i dalje sanjamo
+{171595}{171735}neka se niko nikad ne uspava
+{171745}{171810}a da ne sanja
+{171826}{171914}Dokle god i dalje sanjamo
+{171923}{172059}dok se naöe oËi i dalje Ëude
+{172068}{172135}niöta nije izgubljeno
+{172146}{172237}Dokle god i dalje sanjamo
+{172245}{172383}neka se niko nikad ne uspava
+{172392}{172473}a da ne sanja
+{172492}{172581}nikad viöe
+{173390}{173453}Prevod i obrada:|Wild Berry
+{173490}{173595}Svaka sliËnost sa ispravnim|prevodom je sasvim sluËajna.
+{173620}{175120}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/9tw37|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

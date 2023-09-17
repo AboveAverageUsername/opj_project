@@ -1,0 +1,732 @@
+{0}{300}{y:i}prevod sa engleskog i obrada|Gaca62
+{325}{475}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{5620}{5666}Pazi, nastavnik!
+{5693}{5738}Profesor!
+{5809}{5858}äta to radiö?
+{6133}{6207}{Y:i}KAZNENO-POPRAVNI DOM|ZA MALOLETNIKE
+{6279}{6358}Jesi li ga pitao öta hoÊe?|-HoÊe da razgovara sa tobom.
+{6404}{6468}I gde je sad?|-»eka te u dvoriötu.
+{6508}{6543}U redu, hvala ti.
+{6641}{6708}Dobro je, momci.|Idemo! Hajde!
+{6712}{6769}Hajde, poûurite malo, svaki dan|kasnite na doruËak.
+{6773}{6829}Zdravo. éivlje to malo.
+{6850}{6875}Dobro jutro.
+{6879}{6926}Zdravo. Kako si?
+{7234}{7270}PozorniËe!
+{7445}{7481}Dobro jutro.|-Dobro jutro.
+{7487}{7511}äta je bilo?
+{7515}{7605}Sasvim smo sigurni da se|radi o vaöim momcima.
+{7618}{7699}NoÊu preskaËu zidove.|Prvo onaj, a zatim i ovaj...
+{7728}{7822}Kasnije posle krae ili, ne daj Boûe, neËeg|joö goreg, vrate se istim putem.
+{7911}{7953}I öta sad ja da radim?
+{7957}{8019}Saraujte sa nama i dajte|nam njihova imena.
+{8047}{8091}Dajte mi vremena da sve|polako istraûim.
+{8105}{8191}Dobro, ali ako ne bude rezultata|moraÊemo da interveniöemo.
+{10204}{10240}Donato!
+{10386}{10445}Uhvati ga!|Uhvati ga!
+{11235}{11305}Htela sam da ti ga skuvam sutra|za ruËak, ali mi je pobegao.
+{11314}{11371}Izgleda da se boji smrti.
+{15951}{15990}Dobar dan.|-Dobar dan.
+{16001}{16061}Izvinite, treba da poöaljem|tri telegrama.
+{16160}{16195}HoÊete da vam pomognem?
+{16208}{16292}Da, molim vas. Hvala.|Moûete li da napiöete?
+{16301}{16351}Prvi ide u Rim...|-Kome?
+{16369}{16470}Rafaelu –urani, sudiji.
+{16491}{16545}Rafaele –urana, sudija.
+{16563}{16639}Adresa?|-De Leonardis 42.
+{16819}{16850}Tekst?
+{16988}{17094}Mama je umrla.|U potpisu - tata.
+{17287}{17341}Kao öto znaö, dodeljen mi je|ovaj proces...
+{17365}{17414}ali ja i dalje nisam siguran|da Êu ga prihvatiti.
+{17427}{17462}Traûio sam nekoliko dana...
+{17485}{17527}HoÊu malo da razmislim.
+{17562}{17639}Hteo sam da te pitam, da li öto su se|ove pretnje pokazale istinitim...
+{17656}{17737}ili moûda imaö nekih drugih,|liËnih razloga...
+{17752}{17794}da sve ovo napustiö?
+{17799}{17851}Nisam spreman viöe da|rizikujem svoj ûivot...
+{17855}{17926}jer nisam siguran da mogu|da promenim stvari.
+{17961}{18004}Mesecima nisam oka sklopio.
+{18021}{18113}Ali, tu se viöe niöta ne moûe,|osuen je na smrt.
+{18117}{18177}Treba joö samo da se utvrdi|taËan datum egzekucije.
+{18200}{18256}Svaki put kad izaem iz kuÊe,|ûena me pogleda...
+{18261}{18306}kao da me nikad viöe|neÊe videti.
+{18313}{18390}NoÊu se budim i odlazim da|obiem decu dok spavaju.
+{18503}{18563}Ne mogu viöe da izdrûim...
+{18570}{18611}Zato sam i dao ostavku.
+{18616}{18693}Ovo suenje nije ni teûe,|ni opasnije od drugih.
+{19380}{19413}Rafaele,
+{19441}{19482}stigao ti je telegram|od oca.
+{19491}{19639}Shvatam. Umrla je.|Dolazim.
+{20421}{20466}Molim te, pobrini mi se|za kartu.
+{20470}{20543}Mislim da oko tri imam let|do kuÊe.
+{20551}{20589}Da, doktore.
+{21309}{21340}Izvini, Rafaele,
+{21344}{21420}ako je ovo öto Êu ti reÊi|neprikladno u ovom trenutku...
+{21474}{21499}ali, preklinjem te,
+{21551}{21602}nemoj da uzimaö taj|novi sluËaj.
+{21631}{21670}Razmisli.
+{21720}{21769}Stani, spakuj mi samo|jednu koöulju.
+{21879}{21950}Ovo ti kaûem zato öto sam joö davno|primetila da opasnost...
+{21959}{22003}Ëini mi se da te|uzbuuje.
+{22050}{22122}Vidim da te sva ta napetost,|iako kaûeö da je ne voliö...
+{22145}{22183}ostavlja bez daha.
+{22202}{22242}Nije taËno, bojim se.
+{22247}{22297}Ponekad i strah moûe|da bude kao droga.
+{22301}{22378}Ma kakva droga? I sama dobro znaö|da sam proöle godine...
+{22382}{22422}nedelju dana bio zatvoren|u sopstvenoj kuÊi.
+{22430}{22504}A prethodno sam tebe morao da|poöaljem u planinu. -TaËno...
+{22509}{22576}Ali su sve novine i svi Ëasopisi|pisali o tebi.
+{22624}{22678}Ni sa televizije se|nisi skidao.
+{22704}{22759}I to je neka vrsta odbrane.
+{22800}{22855}Ili, moûda normalna reakcija...
+{22900}{22986}zato öto oni posle prenesu ono|öto Ëovek ne sme...
+{22990}{23027}glasno da kaûe.
+{23040}{23137}Mislila sam da idem sa tobom na|sahranu. I –oro je hteo.
+{23164}{23222}Mada, Ëini mi se da bi ti|najradije iöao sam.
+{23267}{23325}Shvatam ja da je to iz|predostroûnosti.
+{23337}{23410}Ali ovako, svaki Ëlan porodice|ûivi neki svoj ûivot.
+{23459}{23514}Mi u planini, a ti u Rimu.
+{23527}{23582}Sad ti ideö u rodni grad|a mi ostajemo ovde.
+{23588}{23635}Nisam niöta smiöljao unapred.
+{23644}{23692}Znaö da ne ûelim da smetam|ni tebi, ni njima.
+{23698}{23778}Vidiö? Sve si isplanirao|kao da igraö öah.
+{23782}{23838}A Ëak ni sam to ne vidiö.|-Preterujeö.
+{23856}{23930}Voleo bih da i vi poete.|Gde je –oro?
+{23953}{24001}NoÊas nije spavao ovde spavao.
+{24083}{24152}Da nije bio kod nje?|-MoguÊe.
+{24191}{24254}Pozovi ga. Nemamo|mnogo vremena.
+{24258}{24337}VeÊ sam pokuöavala. Izgleda|da su iskljuËili telefon.
+{24346}{24384}A moûda viöe nisu tamo.
+{24452}{24495}Vidiö da niöta ne zavisi|od mene?
+{24807}{24894}Baö lepo öto se setila.|Mnogo mi znaËi.
+{25063}{25138}Kako Êe sad deka da|ûivi sam?
+{25186}{25254}Na selu nikad nije sam,|druûiÊe se sa ûivotinjama.
+{25258}{25335}Nije to kao u Torinu da mora|sam da luta ulicama.
+{25372}{25462}Ako hoÊeö, ja mogu da ostanem|da mu malo pravim druötvo.
+{25520}{25564}DogovoriÊemo se.
+{25796}{25844}Tata, je l' moûeö da|zaustaviö auto?
+{25857}{25906}Jesi li umorna?|-Nisam...
+{25920}{25981}Shvatio sam. Moûeö da izdrûiö|do sledeÊe pumpe?
+{25985}{26023}Ne znam.
+{26037}{26079}Onda bolje da stanemo.
+{26504}{26581}Evo, stani ovde.|Moûeö to tu da obaviö.
+{26597}{26628}Nemoj da gledaö.
+{26654}{26694}Dobro, ne gledam.
+{26974}{27038}äta bi?|-Oni tamo me gledaju.
+{27187}{27227}Doi ovamo.|Stani tu.
+{27278}{27312}Stani tu u sredinu.|U redu?
+{27316}{27382}Nemoj da me gledaö!|-Ne gledam!
+{27817}{27852}Gotovo!
+{32437}{32471}Roko!
+{32508}{32550}Roko!
+{34069}{34114}Moje sauËeöÊe.
+{34915}{34976}Roko! Doi ovamo!
+{35458}{35503}Tiöina. Tiöina.|Sluöajte.
+{35526}{35563}Budite mirni.
+{35587}{35640}Zvona zvona iz sela!
+{36452}{36501}äta je ovo?|äta je ovo?
+{36612}{36690}Podignite ruke! Ruke u vis!|Podigni ruke, Roko!
+{38053}{38180}Ja sam Salvatore Galati.|I ja sam Italijan. Seljak!
+{38226}{38289}Gotovo je! -Donato!|-KonaËno!
+{38298}{38374}Rat je gotov! Rafaele,|nema viöe rata.
+{38392}{38433}Roko!
+{38969}{39047}Da li je mnogo patila? -Ne, nije.|Na svu sreÊu, nije.
+{39166}{39248}A tata, kako je on?|-Dobro je. Dobro je.
+{41042}{41101}Marta... stigli smo.
+{41550}{41630}Od vruÊine voda je isparila.|-Don ViÊenco.
+{41640}{41670}OËekivao sam te.
+{41674}{41730}Znao sam, da Êeö doÊi.
+{41775}{41809}Drago mi je öto vas vidim.
+{41828}{41897}Mada mi je ûao öto se sreÊemo|ovako tuûnom prilikom.
+{41916}{41978}Siguran sam da Êe ti tvoja|unutraönja snaga...
+{41982}{42043}pomoÊi da prebrodiö ove|teöke trenutke.
+{42649}{42693}Moja majka je volela muziku.
+{42745}{42806}Naravno, Ëesto je sluöala|i u crkvi.
+{43876}{43912}Sedi tu.
+{43916}{44005}Sada Êu da ti pokaûem kakva si|bila kad si prvi put doöla ovamo.
+{44011}{44070}Imala si Ëetiri godine.|-»etiri?
+{44281}{44318}Ovo si ti.
+{44339}{44391}Vidi kako si bila mala.
+{44643}{44690}A ovo je tvoja baka.
+{44736}{44786}SeÊaö se öta si joj|tada rekla?
+{44810}{44877}Da ne dira tvoje zlatne|minuöe!
+{45122}{45157}Gde sad ûiviö?
+{45194}{45249}Smestio sam se u jedan|pansion.
+{45298}{45328}A devojËica?
+{45361}{45402}Sa majkom je.
+{45536}{45585}Vas dvoje ste zavröili?
+{45719}{45758}Ne znam ni sam.
+{45806}{45898}Ona je tip ûene kakav si mi|ti preporuËio.
+{45936}{45989}TipiËna ûena sa severa.
+{45993}{46079}Ni u Ëemu se ne slaûemo.|Ako jedemo pastu...
+{46083}{46156}ja bih sa paradajzom,|a dama bi sa puterom.
+{46176}{46218}Ma to su sve gluposti.
+{46222}{46302}Moûda i jesu gluposti, ali...|da razjasnimo neöto.
+{46306}{46386}prevarila me je i ja ne mogu Êutke|da preem preko toga.
+{46535}{46588}Prvo moraö da proveriö|da li je to istina.
+{46634}{46683}Sama mi je priznala.
+{46774}{46823}Po meni, to je dokaz|da te voli.
+{46860}{46922}Jer, ne zaboravi da ûena|kad hoÊe...
+{46926}{46967}moûe sve da sakrije.
+{47016}{47052}Ili je to tako kako ti kaûeö...
+{47082}{47162}ili moûda mi sa juga, jednostavno|ne moûemo da preemo preko toga.
+{47188}{47248}Siguran sam da je i ona preko|svaËega morala da pree.
+{47263}{47295}Znam to...
+{47333}{47390}a znam i da sa i dalje|volite.
+{47793}{47914}A ovo je tvoj tata kad je krenuo|u Torino da traûi posao.
+{48197}{48283}Ne znam, jesi li gledao onaj film...|kako se ono zvaöe?
+{48305}{48345}Treviko-Torino.
+{48386}{48484}Kao da je reûiser...|kao da je mislio na mene.
+{48548}{48591}Torino je tada bio|uûasan.
+{48599}{48660}Tako veliki,|tako hladan...
+{48668}{48719}zatvoren za nas, juûnjake.
+{48733}{48774}Naravno, ne ûelim da|krivim Torinjane...
+{48778}{48865}öto smo se svi mi oËajnici,|zaputili u Torino...
+{48878}{48977}i öto je tada bilo jako teöko|pronaÊi prenoÊiöte.
+{49013}{49086}Na kraju sam, ipak naöao posao|u jednoj velikoj fabrici.
+{49131}{49198}Zaposlio sam se kao radnik|u farbaonici.
+{49216}{49265}To je sektor u kom  niko|neÊe da radi...
+{49269}{49336}tako da su sve pridoölice|tamo gurali.
+{49381}{49421}Bilo je kao u paklu...
+{49425}{49486}sa svim tim otrovima,|mirisima, bukom...
+{49510}{49565}Van fabrike vodila|se borba.
+{49569}{49635}I ja sam uËestvovao u ötrajku kojim smo|pokuöavali da poboljöamo uslove.
+{49653}{49734}Moram priznati da kompaniji|nije bilo svejedno.
+{49740}{49812}Da je trebalo da se suoËim sa|gazdom, ne bih oklevao.
+{49956}{49994}Je l' to, po tebi nasilje?
+{50010}{50077}Kako se nasilje uklapa sa radom|na montaûnoj traci?
+{50158}{50210}HoÊeö da ti kaûem zaöto|sam, na kraju odustao?
+{50233}{50295}Zato öto su hteli da eliminiöu sve one|sa kojima su pregovarali...
+{50299}{50361}one koji nisu hteli da pognu glavu|i da prestanu da se bune.
+{50434}{50494}Nikad nisam pomiöljao da bih,|da bi promenio neke stvari...
+{50498}{50540}morao nekoga da ubijem.
+{50604}{50749}Sluöaj, Nikola... razlika meu nama|je viöe od 20 godina.
+{50781}{50906}Pored toga, retko se viamo, tako da|mi je stvarno teöko da shvatim...
+{50910}{51028}öta se s tobom deöava.|Verujem ti sve öto si rekao.
+{51058}{51125}Ali, ako si morao da podneseö|ostavku,
+{51151}{51202}za to sigurno postoji|neki razlog.
+{51225}{51275}To bi trebalo da se reöi|na Sudu Rada,
+{51279}{51339}a u tom sluËaju ja bih|znao za to.
+{51385}{51464}Ali, ne zaboravi... kad teoretiËari|odbiju da rade, odnosno...
+{51468}{51551}kad sa reËi preu na dela,|kao öto je kod tebe sluËaj...
+{51584}{51640}onda moraju da se suoËe|i sa konsekvencama.
+{51678}{51724}A te konsekvence moraju|da budu humanije...
+{51728}{51781}bolje rasporeene na viöe|onih koji ne rade.
+{51798}{51883}Odbijanje posla nije ni beûanje,|ni zabuöavanje...
+{51887}{51966}Moûda, ali sve dok traju ta|vaöa preganjanja i ötrajkovi...
+{51976}{52018}poveÊava se manjak|radne snage.
+{52022}{52093}U svakom sluËaju, te utopije|stvaraju otpadnike.
+{52097}{52160}To je otrov koji se servira|omladini.
+{52509}{52554}Dobar dan.|-Dobar dan.
+{52558}{52607}Dobar dan.|-Dobar dan.
+{52748}{52808}Je l' se lepo zabavljaö?|-Da.
+{52813}{52879}Jesu li ovo neki tvoji prijatelji|iz Rima? -Jesu iz Rima.
+{52897}{52985}Trebaju im neke usluge pa öalju|cveÊe da pripreme teren.
+{52995}{53075}Videli smo i –ovaninu sliku.|Kako je ona?
+{53087}{53147}Dobro je. Nije mogla da doe|jer joj je sestra operisana.
+{53269}{53298}Jesi li videla golubove?
+{53317}{53388}äta je sad?|äta je bilo?
+{53409}{53499}Tata, zaöto laûeö?|-äta sam slagao?
+{53504}{53572}Nije istina da je mamina|sestra operisana.
+{53592}{53682}Marta, dedi je veÊ dovoljno|teöko i zato je bolje...
+{53690}{53740}da mu neke stvari ne govorimo.|Razumeö?
+{53748}{53791}Idi malo juri golubove.|Hajde.
+{58147}{58191}Zvala vas je ûena iz Rima.
+{58195}{58277}Rekla je da Êe ponovo zvati|u kafanu. Idete li sa nama?
+{61399}{61489}VeÊ je kasno, moramo|da poemo.
+{61542}{61594}Hvala, Rozarija.
+{61958}{62081}Niko, udata je, ali nisam siguran...|da je zadovoljna.
+{62110}{62153}Muû joj radi u NemaËkoj...
+{62166}{62225}a u selu se priËa da|nije sreÊna.
+{63322}{63394}Marta... Marta!
+{63520}{63555}Marta, gde si?
+{63686}{63724}Gde si se sakrila?
+{63735}{63764}Marta!†
+{63822}{63938}Samo se smiri, takve stvari su|normalne za moj posao.
+{63956}{64010}ätaviöe, siguran sam da|su to neki manijaci.
+{64091}{64135}Kako da se smirim?
+{64158}{64213}Ovo je prvi put da mi|neko preti smrÊu.
+{64234}{64292}OËigledno je da znaju|gde ûivimo.
+{64296}{64340}Ne boj se, to rade svima.
+{64347}{64410}Samo pokuöavaju da|pojaËaju pritisak.
+{64415}{64471}I meni stalno prete, telefonom,|zovu u kancelariju...
+{64479}{64567}za svaki proces koji dobijem.|-Nikad mi to nisi rekao.
+{64587}{64648}Naravno da ti nikad|nisam rekao.
+{64678}{64744}Pored toga, glupo je sad|brinuti zbog toga...
+{64748}{64797}kad ni sam ne znam da li|Êu prihvatiti sluËaj.
+{64801}{64851}Naravno da Êeö prihvatiti|sluËaj!
+{64909}{64965}Molim te, samo se smiri.
+{64988}{65045}Smiri se, smiri se.
+{65601}{65648}HoÊe s tobom da|razgovara.
+{65902}{66011}Halo? -–oro, izvini öto sam|otiöao bez pozdrava...
+{66016}{66055}moûda si i ti hteo da doeö...
+{66067}{66178}Sluöaj, –oro, vidim da si|zabrazdio u tu vezu.
+{66186}{66301}Razmisli dobro o svemu|poöto si premlad za nju...
+{66320}{66372}a kasnije nikad nije lako|raskinuti tako neöto.
+{66387}{66417}Dobro, razmisliÊu.
+{66421}{66537}U redu. Mama ti je malo nervozna, molim|te probaj veËeras da spavaö kod kuÊe.
+{66545}{66581}Dobro, Êao.
+{67397}{67431}Molim vas öolju kafe.
+{67454}{67481}Rafaele?
+{67500}{67542}Zdravo, kako si?
+{67546}{67621}Kako? HoÊeö da pobegneö a da se ne|pozdraviö sa starim prijateljima?
+{67625}{67680}Doi, moram neöto da ti kaûem.
+{67685}{67780}Sluöaj, jako nam je ûao zbog ovoga|öto ti se desilo. -Hvala.
+{67784}{67808}Sedi malo sa nama.
+{67812}{67854}éao mi je, Rafaele.|-Hvala.
+{67858}{67929}Moje sauËeöÊe.|-Hvala... hvala.
+{67966}{67991}Hvala.
+{68003}{68109}Videli smo na televiziji da si|ti sad neka vlast.
+{68117}{68162}Mislili smo da nam|neöto pomogneö.
+{68182}{68230}Misliö kao kad smo bili deca?|Pismo-glava?
+{68238}{68331}Zaboravi to kad smo bili deca.|Sad je sve drugaËije.
+{68335}{68386}Rafaele, doöao si|kao naruËen.
+{68393}{68465}Raspravljamo se oko neËega,|i samo ti moûeö da nam kaûeö...
+{68469}{68508}ko je u pravu,|a ko nije.
+{68513}{68605}Ako neöto primetiö, da li o tome|treba da priËaö, ili ne?
+{68609}{68679}Nisi mu dobro objasnio.|PriËali smo o teroristima.
+{68683}{68746}Ako Ëovek vidi onoga koji je pucao|da li treba da ga prijavi ili ne?
+{68750}{68838}Ja kaûem da treba da se prijavi,|a on kaûe da ne treba.
+{68842}{68903}Imam Ëvrst razlog zaöto kaûem|da ne treba. Mislim...
+{68907}{68967}ona Ëetrnaestogodiönja devojËica|je imala dovoljno hrabrosti...
+{68971}{69038}da izae pred sud i da|identifikuje teroristu.
+{69043}{69098}Posle toga viöe ne sme da izae|iz kuÊe, ne ide u ökolu.
+{69102}{69216}Ljudi je izbegavaju na ulici|a policija je Ëuva dan i noÊ.
+{69225}{69296}Cela porodica je upropaöÊena.|Izvini, ali öta to meni treba?
+{69300}{69408}Slaûem se sa njim, heroizam pripada|nekom drugom vremenu.
+{69413}{69449}Sve je to prazna priËa...
+{69453}{69524}ako priËamo o druötvu|mi ne branimo samo druötvo...
+{69528}{69562}veÊ branimo i sebe.
+{69566}{69641}Ali kad smo veÊ kod toga,|kad novine i televizija...
+{69645}{69743}ne bi objavljivale sliku,|ime i adresu...
+{69747}{69796}onda, ne znam...
+{69822}{69894}Naravno da bi mediji trebalo|da podrûe anonimnost...
+{69917}{70021}i da bi i policija i sudstvo|morali da budu svesni...
+{70025}{70099}da neke stvari ne treba obelodanjivati.|-Ali, sve je puno douönika!
+{70106}{70194}Da su se Gvidu Rosi, radniku iz –enove|koji je prijavio teroristu...
+{70210}{70281}pridruûile njegove kolege...
+{70285}{70360}zato öto je teroristu videlo 300 ljudi|a ne samo Gvido...
+{70364}{70475}moûda bi on i dalje bio ûiv, jer se niko|ne bi usudio da pobije 300 ljudi.
+{70479}{70576}Drugo je sluËaj Gvida Rose gde ga je|cela fabrika videla, svih 300 ljudi,
+{70580}{70644}ali öta ako ste sami,|gospodine sudijo?
+{70649}{70723}Znam da je to teöko zato|öto je terorizam,
+{70727}{70862}kao öto mu samo ime kaûe...|ubeivanje zastraöivanjem
+{70871}{70951}Strah je normalno oseÊanje na|kom poËiva svako druötvo.
+{70960}{71005}Strah nije niöta neuobiËajeno.
+{71009}{71120}Vlastima se mora verovati u suprotnom|nemoguÊe je ûiveti.
+{71143}{71228}Kada Êete veÊ viöe uvesti|smrtnu kaznu u Italiji?
+{71251}{71367}Kao u Americi, Rusiji,|Francuskoj.
+{71371}{71401}Vreme je da ovome|doe kraj.
+{71405}{71461}Niöta ti nisi shvatio od ovoga|öto je sudija rekao zato öto se...
+{71465}{71524}i smrtna kazna zasniva|na strahu, jel' tako?
+{71528}{71610}Ovde veÊ postoji smrtna kazna ali nju|donose i sprovode samo teroristi.
+{71616}{71641}Od kad to?
+{71645}{71729}Ovde, svaki dan.|-Kako to misliö?
+{71733}{71809}Ko god odluËuje o tuem ûivotu|taj je terorista,
+{72040}{72117}Kako si? Doi, sedi malo|sa mnom.
+{72256}{72342}éao mi je zbog tvoje majke.|HoÊe li otac ostati sam?
+{72382}{72443}Joö ne znamo. VideÊemo.
+{72493}{72557}A ti?|-éivim svoj ûivot.
+{72575}{72617}Proöle godine sam otiöao|u penziju.
+{72621}{72709}Pored toga, dovde mi treba|sat autobusom.
+{72715}{72806}Mora neko da pripazi na Lea.|Da nije tako davno bih ja otiöao...
+{72810}{72872}da napravim negde karijeru.
+{72908}{72991}Znam... Teöka su vremena.
+{73038}{73120}Jesu, ali reci mi iskreno, da li je|Italija oduvek bila ovakva?
+{73143}{73222}Krvava, nasilna, prestraöena.
+{73226}{73263}To za Italiju nije normalno.
+{73267}{73303}Ovaj gospodin je u pravu.
+{73312}{73377}Ovo je oduvek bila zemlja u|kojoj su marginalizovani...
+{73381}{73413}pljaËkaöi, kidnaperi i|ubice.
+{73417}{73519}SeÊaö se 'Neveste'? Tako treba.|Uvek. A mafija?
+{73523}{73640}Jesmo li zavröili sa mafijom? Ne, ne.|Ovde u Italiji niöta se ne menja...
+{73644}{73695}izmeu institucija i voa|sa jedne strane...
+{73699}{73767}i naroda sa druge,|sve su veze pokidane.
+{73771}{73835}Pa je l' tako?|Ne postoji nikakva veza.
+{73868}{73914}Sve to öto si rekao je|sasvim taËno.
+{73920}{73966}Ali, u tvojim reËima|nema nikakve nade.
+{73970}{74031}Iako je istina da smo napravili|odreeni napredak.
+{74040}{74090}Problem je u tome öto su|danas svi ubeeni...
+{74094}{74164}da treba delovati snaûno|i iz idealistiËkih razloga.
+{74177}{74305}Sa jedne strane, svi ûele da pobede,|da se obogate preko noÊi.
+{74328}{74433}A sa druge öaöavo veruju da se sve|moûe promeniti. Sve i odmah.
+{74531}{74595}Za takve promene je Ëesto potreban|ceo jedan ljudski vek.
+{75709}{75765}Izvinite, da li Filomena joö|uvek ovde ûivi?
+{75769}{75841}Da, tu stanuje.|-Hvala.
+{76512}{76547}Ko je?|-Dobar dan.
+{76551}{76603}Dobar dan, izvolite?
+{76619}{76665}Doöao sam da vidim smokvu.
+{76669}{76750}A ko ste vi?|-Katarinin sin, Lino.
+{76754}{76839}Otkad tebe nisam videla,|Bog te zaboravio!
+{76843}{76905}Kako si? Jesi dobro?|-Dobro sam.
+{76911}{76954}Stani da ti otvorim, sine.
+{77111}{77144}Baö si me obradovao.
+{77157}{77243}Sine moj, koliko puta sam|te samo Ëuvala.
+{77251}{77294}Vidi samo koliko si|mi porastao!
+{77298}{77361}Je l' drvo joö ûivo?|-Doi da vidiö.
+{77365}{77424}Doi, ui, sine moj.|Samo izvoli.
+{77639}{77780}SeÊaö se, dok si bio mali koliko|si se puta igrao u mom vrtu?
+{77784}{77830}Koliko puta si se|ovde igrao!
+{77875}{77936}SeÊaö se kad si se|ovde igrao?
+{77976}{78054}SeÊaö se, sine moj,|kako si se ovde igrao?
+{78279}{78322}Je l' oduvek bila ovako mala?
+{78326}{78389}Jeste, ali si ti porastao,|sine moj.
+{78535}{78592}Baöta vam je puna puûeva.
+{78596}{78682}Znam, ali ne mogu viöe da se saginjem,|posle me bole bubrezi.
+{78686}{78750}Ja sam ostarila a ti si sad|u najboljim godinama.
+{78764}{78807}Onda ne moûete ni da|Ëistite?
+{78811}{78890}Ne mogu ni da Ëistim,|posle me bole bubrezi.
+{78894}{78973}Ne mogu da se sagnem, ne mogu|da stojim... äta da radim?
+{79020}{79066}Pre neku noÊ sam sanjala|tvoju mamu.
+{79079}{79138}Umrla je sreÊna i|zadovoljna.
+{79155}{79217}{y:i}MALOLETNICA DELINKVENCIJA
+{79396}{79481}Pokuöavam da ih ubedim da|dou kod mene, u dom...
+{79496}{79562}jer ako zavröe u zatvoru onda|im viöe ne mogu pomoÊi.
+{79597}{79658}Najbolje bi bilo da|se nisu ni rodili.
+{79669}{79704}Deca se raaju.
+{79759}{79820}Pored toga, te sirotinjske porodice|uvek hoÊe da pomognu.
+{79883}{79939}Jednog dana Êe biti isti|kao ova deca iz...
+{79966}{80012}äta to gledaö?|Misliö na ovu decu iz...
+{80030}{80120}Afrike, Azije i Juûne Amerike.
+{80177}{80215}Moramo da se ûrtvujemo.
+{80230}{80281}Ima li iËeg plemenitijeg nego|ûrtvovati se za ËoveËanstvo...
+{80285}{80346}ne samo za svoj narod|ili svoju porodicu?
+{80453}{80567}A da bi to ljudi radili moraö da im|promeniö uvreûena shvatanja.
+{80596}{80678}Trebalo bi da budemo bolji prema prirodi|i prema ugroûenim vrstama...
+{80712}{80744}u suprotnom...
+{80776}{80866}miöevi Êe nas preplaviti,|danas ovde, sutra tamo.
+{81127}{81162}Ostao sam bez cigara.
+{81201}{81255}A poöto vas dvojica ne puöite|moram do sela.
+{81316}{81367}Tata Êe staviti malu|na spavanje.
+{81393}{81427}Budi dobra,
+{81541}{81572}Gde Êeö?
+{81580}{81645}Idem do sela da kupim|cigare. -Dobro.
+{83460}{83594}Bilo ih je na stotine, moûda i hiljadu|to nikad niko neÊe znati.
+{83660}{83736}{Y:i}Smestili su se u ruöevine stare|kasarne u Napulju.
+{83787}{83833}BeskuÊnici bez posla.
+{83955}{83993}Postali su topovsko meso...
+{83997}{84077}za sva zlodela koje ljudski um|moûe da smisli.
+{84113}{84211}Bilo je tu lopova, ubica...
+{84329}{84369}Na kraju je policija morala|da interveniöe...
+{84411}{84474}bornim kolima,|i suzavcem.
+{84524}{84560}Rat.
+{85391}{85416}Ko je?
+{85434}{85482}Roza, ja sam. Nikola.
+{85488}{85517}äta hoÊeö?
+{85529}{85573}Moram da popriËam sa tobom.|Otvori mi.
+{85627}{85709}Kasno je. VeÊ sam legla.|-NeÊu dugo.
+{85996}{86043}Nadam se da te niko nije video.
+{86088}{86143}Samo jedna maËka na koju sam|naleteo na ulici.
+{86494}{86561}Ovo je prvi put da sam doöao|od kad si se udala.
+{86965}{87055}Ovo je bio kredenac tvoje majke...|dobro se seÊam.
+{87162}{87197}Mogu li da sednem?
+{87608}{87634}I?
+{87742}{87779}Kad ti se vraÊa muû?
+{87795}{87836}Dolazi za BoûiÊ na godiönji.
+{87995}{88046}Moûda bi bolje bilo da smo|se nas dvoje venËali.
+{88105}{88168}Rastavio sam se od ûene.|Viöe ne ûivimo zajedno.
+{88172}{88238}I kako sad ûiviö?|-Kako ti ûiviö?
+{88269}{88322}»ekam.|-Tako sam i mislio.
+{88341}{88405}Mene nisi Ëekala dok|sam bio u vojsci.
+{88506}{88567}Samo jednom se ûivi.|-TaËno tako...
+{88909}{88953}Ustani.|-Zaöto?
+{89001}{89063}Neöto si mi smröala.|Ustani da vidim.
+{89067}{89122}VeÊ sam stajala i|öta si video?
+{89131}{89187}Ja mislim da imam isto kila|kao i ranije.
+{89207}{89243}Hajde, ustani.
+{89861}{89900}Voliö li nekoga?
+{89921}{89955}Znaö ko mi je zapao za oko?
+{89976}{90006}Kasapinov sin.
+{90021}{90053}Zar nije premlad za tebe?
+{90076}{90111}Ima 16 godina.
+{90146}{90193}äta radiö sa klincem|od 16 godina?
+{90650}{90692}NeÊemo u njegovom krevetu.
+{90945}{90982}U pravu si.
+{91638}{91714}{Y:i}...zbog javne bezbednosti|dozvole su ukinute.
+{91724}{91774}{y:i}Bataljoni i Ëete specijalnih...|-Dobro veËe.
+{91778}{91873}Dobro veËe. -Jedan 'Amaro'|i kutiju cigareta, molim.
+{91880}{91966}{Y:i}Potencijalne mete prestupnika su |banke, prodavnice, zlatare...
+{91973}{92071}{Y:i}Kad padne noÊ nadgledanje|grada postaje jako teöko...
+{92075}{92151}{Y:i}zato se pristupa pretraûivanjima,|istragama i ispitivanjima.
+{92155}{92238}{Y:i}Rezultati ovih preventivnih akcija|su ohrabrujuÊi.
+{92249}{92314}{Y:i}Samo u Rimu, u ovakvim|operacijama...
+{92318}{92394}{Y:i}policija je uhapsila deset|osoba zbog krae...
+{92398}{92495}{Y:i}dve zbog napada smrtonosnim oruûjem,|a protiv 15 je pokrenuta istraga.
+{92649}{92711}{Y:i}Ubice su se sakrivale|iza ograde.
+{92717}{92808}{Y:i}Ubijeni je ubijen sa lea i skoro|svi meci su pogodili cilj.
+{92819}{92865}{Y:i}Ubice se nisu potrudile|ni da se maskiraju.
+{92869}{93026}{Y:i}értva je ovog jutra krenula u sud gde|je trebalo da svedoËi na suenju.
+{93047}{93088}{Y:i}Iza sebe je ostavila ûenu|i Ëetvoro dece...
+{93092}{93169}{Y:i}koje vidimo u bolnici|neposredno posle napada.
+{93175}{93277}{Y:i}Ubijeni je pogoen u glavu,|lea i ruke.
+{93369}{93420}Jesi li video da ti je|budilnik stao?
+{93452}{93495}Meni viöe budilnik ne treba.
+{93547}{93608}A kako onda znaö kad treba|da ustaneö ujutru?
+{93653}{93847}Sluöaj... na selu... seljaci se|upravljaju...
+{93860}{93893}prema zvezdama...
+{93909}{93953}i ûivotinjama.
+{94018}{94085}Svi znaju da pevac dva puta|kukuriËe.
+{94091}{94175}Prvi put u jedan posle ponoÊi|i drugi put u Ëetiri ujutro.
+{94204}{94327}Starci, ovakvi kao ja, ustaju kad|pevac drugi put zakukuriËe.
+{94388}{94531}A deca, kao öto si ti, Ëekaju dok|magarca ujutru ne zanjaËe.
+{94568}{94642}U koliko sati magarac njaËe?|-Oko sedam.
+{95071}{95155}A zvezde?|-Da, zvezde.
+{95204}{95252}Postoje tri zvezde...
+{95266}{95416}baö kad sunce treba da se pojavi|stanu u liniju. Zovu se Sestrice.
+{95448}{95642}A tu je onda i zvezda Danica koja se|pojavi pola sata pred svitanje.
+{95661}{95804}Ako ostanem ovde joö malo hoÊeö|sve to da me nauËiö?
+{95855}{95909}To i joö mnogo Ëega|drugog.
+{96060}{96155}Ali u Torinu nema ni pevaca,|ni magaraca.
+{96166}{96207}Ali, ima zvezda!
+{96310}{96385}Sad ugasi svetlo i spavaj.
+{98247}{98316}Ko je? -Otvori, molim te.|Ja sam, Nikola.
+{98842}{98874}Gde je mala?
+{98907}{98942}Mogu li da uem?
+{99138}{99227}Htela je da ostane malo sa dedom.|-I ja za to sad prvi put Ëujem?
+{99287}{99351}Znaö i sama koliko je teöko tamo|pronaÊi neki telefon.
+{99380}{99446}Nisam joj spakovala niöta da|se dete presvuËe.
+{99465}{99511}Ne brini, pobrinuÊe se|moja rodbina za sve.
+{99609}{99644}NeÊeö da sedneö?
+{99691}{99765}äto se manje ovde zadrûavam, to bolje.|-Zaöto si se onda, uopöte penjao?
+{99769}{99826}Da popriËamo o detetu,|ne zavaravaj se.
+{99899}{99936}Sluöaj, Nikola,
+{99971}{100046}ponaöaö se kao da su naöi|problemi kraj sveta.
+{100062}{100151}Hiljade parova se svakodnevno razvodi|zato öto zajedno ne funkcioniöu.
+{100182}{100281}Kad se ljudi razvedu oni odrûavaju|nekakve civilizovane odnose...
+{100285}{100331}ZnaËi, ja sam necivilizovan?|-...zato öto razmiöljaju o deci.
+{100336}{100384}Da nisam ja bio necivilizovan?
+{100388}{100413}Koliko znam, nisam.
+{100417}{100490}Ja sam taj koji je napustio ovu|kuÊu i preselio se u pansion.
+{100494}{100540}Ako izuzmemo bes koji sam oseÊao|prvih nekoliko dana...
+{100545}{100678}mislim da sam se ponaöao korektno.|-Jesi, jesi... preko telefona.
+{100886}{100966}Ovo ti je prvi put posle öest meseci|da si se popeo ovamo.
+{100982}{101026}Utuvi neöto u tu svoju|glavu...
+{101030}{101109}uopöte mi nije stalo ni do kakvih|dobrih odnosa sa tobom.
+{101113}{101170}Ne zbog onoga öto si uradila, jer to|moûe svakome da se desi.
+{101175}{101212}A razlika je u tome öto sam ja tebi|rekla a ti meni nikad.
+{101216}{101296}Vi ste krokodili!|-Ko? -Vi. éene!
+{101301}{101385}TaËno. Ako niöta, mi bar|plaËemo, vi nikad.
+{101389}{101449}Nemoj opet da poËinjemo|istu diskusiju...
+{101489}{101518}znaö kako Êe se zavröiti.
+{102000}{102072}Jesi li jeo?|-Ne, nisam gladan.
+{102078}{102149}HoÊeö öolju kafe?|-NeÊu niöta.
+{102276}{102311}Kako je bilo?
+{102323}{102383}Kako je bilo? Lepo.
+{102474}{102526}A u isto vreme, katastrofa.
+{102628}{102747}Po prvi put sam shvatio|neöto sasvim novo...
+{102773}{102810}neöto jako bolno.
+{102840}{102889}Mnogo bolnije Ëak i od|smrti moje majke.
+{102912}{103017}Bol za majkom, dobar ili loö,|Ëeka nas celog ûivota.
+{103057}{103103}Bar ja tako mislim.
+{103153}{103246}Shvatio sam da ti ljudi tamo nemaju|niöta zajedniËko sa mnom.
+{103269}{103310}Ni ja sa njima.
+{103314}{103352}Svi ti stari prijatelji...
+{103401}{103447}To ti je prava drama|svakog iseljenika.
+{103468}{103516}Gubi tlo pod nogama.
+{103526}{103620}Kad se doeö u svoje selo, verujeö|da je to u redu... a  nije.
+{103627}{103722}Onda se vratiö u veliki grad,|u NemaËku, u Ameriku...
+{103730}{103777}i tamo te ubija nostalgija.
+{103824}{103886}No, neÊemo se dalje upuötati u|severnjaËko-juûnjaËke rasprave...
+{103890}{103962}jer danas znam da to moûe da|se desi i severnjaku...
+{103966}{104059}da mora da ode negde u|potragu za poslom i...
+{104131}{104165}U redu.
+{104402}{104436}Imaö kuvana jaja, ako hoÊeö.
+{104450}{104530}Htela sam da ih stavim u|salatu,ali sam zaboravila.
+{104794}{104920}Mislim da je mala... po prvi put|shvatila öta je selo.
+{104956}{104998}Mnogo je priËala sa dedom.
+{105027}{105064}I sa mnom.
+{105138}{105238}Mislim da niöta nije primetila.
+{105257}{105358}Verovatno misli da ne ûivimo|zajedno zbog posla.
+{105363}{105484}Ne, devojka shvata mnogo|viöe nego öto ti misliö.
+{105493}{105541}Mnogo si naivan.
+{105547}{105591}Moûda bi trebala da upozna|tog tvog drugog, pa da... 
+{105595}{105680}Sa tim Ëovekom sam raskinula pre mesec|dana, kao öto sam ti veÊ rekla.
+{105685}{105789}U redu? Sad sam se smirila i|pokuöavam da budem dobra.
+{105794}{105835}Koliko dugo neko kao ti|moûe da bude dobar?
+{105839}{105904}Ne znam koliko dugo|Êe to biti.
+{105945}{105990}Trenutno ni ne razmiöljam|o tome.
+{106025}{106084}Umorna sam. Mnogo radim.
+{106272}{106363}Ja odoh da spavam. Kad budeö|odlazio, zakljuËaj vrata.
+{106408}{106499}I to je to?|Izbacujeö me napolje.
+{106507}{106629}Molim te. Ali, ako hoÊeö ovde da spavaö,|krevet je dovoljno veliki.
+{106657}{106697}Ne, ne, hvala.
+{106782}{106833}Moûeö li da mi uËiniö|jednu uslugu?
+{106858}{106929}Pozovi moj pansion da mi neko|otkljuËa vrata.
+{106933}{107016}Pozovi sam.|-Nosi se.
+{107857}{107900}PrimeÊujeö koliko je toplo?
+{107943}{108061}To je zbog zidova. Preko dana|akumuliraju toplotu.
+{108151}{108191}Zidovi su jako tanki.
+{108255}{108292}NajobiËniji gips.
+{108347}{108414}A sa ove strane je sunce|od jutra do mraka.
+{108437}{108497}SeÊam se.|-Ne sumnjam.
+{108524}{108596}Ti si izabrao ovako|orijentisan stan.
+{108635}{108754}U pravu si. éeleo sam da te|sunce greje.
+{113240}{113336}{Y:i}HoÊeö da ti kaûem zaöto|sam, na kraju odustao?
+{113349}{113399}{Y:i}Zato öto su hteli da eliminiöu sve one|sa kojima su pregovarali...
+{113403}{113466}{Y:i}one koji nisu hteli da pognu glavu|i da prestanu da se bune.
+{113562}{113596}{Y:i}Nikad nisam pomiöljao da bih, 
+{113600}{113655}{Y:i}da bi promenio neke stvari morao| nekoga da ubijem.
+{113772}{113848}{Y:i}Zatvori su nam puni i crvenih,|i crnih terorista...
+{113870}{113953}{Y:i}Uglavnom imaju po 20 godina,|ceo ûivot pred sobom.
+{113974}{114023}To je problem koji se|tiËe svakoga.
+{114048}{114118}Pored toga öto im se mora suditi|od vitalnog znaËaja je da se...
+{114149}{114237}mladi ljudi spreËe da krenu|putem terorizma.
+{114260}{114331}I öta sa njima?|Kako to da uradimo?
+{114361}{114396}Kako da ih vratimo|na pravi put?
+{114400}{114462}To je problem koji treba da reöavaju|politiËari, sociolozi i pedagozi,
+{114466}{114501}a ne samo sudije.
+{114507}{114609}Pomisli samo na sve te ubijene,|meu kojima sam mogao biti i ja.
+{114622}{114708}Moûda me ubiju poslednjeg pred|obustavu neprijateljstava.
+{114721}{114810}Iskreno, voleo bih to|da izbegnem.
+{114814}{114958}Da, ali sigurno postoji|neko reöenje.
+{114970}{115005}Kakvo? Ne znam.
+{115009}{115061}Niti mogu da zamislim|koji je pravi put.
+{115077}{115117}Znam samo da moramo|da poûurimo.
+{115121}{115181}Dokle Êeö da izdrûiö da|ûiviö ovakvim ûivotom?
+{115185}{115225}Da te prate naoruûani|straûari.
+{115233}{115329}Oklopna kola nisu dovoljna, ona mogu|da nas zaötite na kratko...
+{115334}{115371}samo na nekoliko sekundi.
+{115375}{115489}Izbegavaj rutinu. Menjaj|rasporede i puteve.
+{115493}{115569}Ja se meöam sa masom.|Krijem se. Krijem se.
+{115620}{115660}Ne mrdaj! Ostani unutra!
+{115795}{115853}Izvröili smo pravdu nad|narodnim neprijateljem.
+{115860}{115893}Stani! Ne mrdaj!
+{115897}{115936}Stani! Ne mrdaj!
+{115940}{115964}Stani.
+{116775}{116822}Dobar dan. ForenziËari|su veÊ stigli.
+{116901}{116928}Dobar dan.
+{117340}{117402}Jesu li sve formalnosti obavljene?|-Jesu, doktore.
+{117542}{117594}Odnesite telo odavde.
+{120845}{120895}éiveli mladenci!
+{121120}{121168}Kiöa! PoËinje kiöa!
+{121633}{121673}Pada kiöa!
+{121683}{121713}Kiöa!
+{121733}{121763}Kiöa!
+{123311}{123347}Majko Boûija, moja burma!
+{123368}{123408}Majko Boûija!
+{123785}{123846}Donato!†Donato!†
+{123876}{123902}Doi ovamo!
+{123918}{123950}Doi ovamo!
+{124165}{124224}äta je bilo?|-Izgubila sam burmu.
+{124234}{124301}Kako si je izgubila?|Gde si  je izgubila?
+{124305}{124379}Ovde. -Doavola.|Kako si uspela? »ekaj.
+{124384}{124434}Polako, reci mi, gde si|je izgubila?
+{124439}{124538}Evo ovde, ovo sam radila.|-Doavola. Zlatna burma.
+{124542}{124566}Polako, Ëekaj.
+{124572}{124610}Polako, polako. Gledaj.
+{124628}{124725}I ti gledaj. NaÊi Êemo je.|NaÊi Êemo je, niöta ne brini.
+{124840}{124905}»ekaj malo. Samo ti traûi,|odmah se vraÊam.
+{125516}{125606}Sad mi pomozi malo.|NaÊi Êemo je, ne brini.
+{125639}{125713}Ne idemo odavde dok je ne naemo.|Shvataö? Samo polako.
+{125805}{125861}Hajde, naÊi Ëemo mi nju.
+{125959}{125989}Evo je!
+{126855}{126926}Imam pravo da izrazim svoje|neslaganje i da sa borim...
+{126930}{127007}öto mi, naravno ne daje|za pravo da ubijem.
+{127019}{127058}Rekao sam ti svoje miöljenje.
+{127062}{127118}U svakom sluËaju ûelim da|sve lepo razjasnimo.
+{127139}{127214}Naöa borba, ötrajkovi,|predstraûe, öetnje...
+{127218}{127283}nemaju, apsolutno nikakve veze|sa teroristiËkim delima.
+{127320}{127403}ätrajkovi su jedna stvar,|i öetnje su u redu.
+{127428}{127482}Ali svaki marö se sastoji|iz bezbroj koraka.
+{127491}{127539}Kaûu da se bune zarad sopstvene|bezbednosti...
+{127543}{127589}i protiv eksploatacije|proletarijata...
+{127618}{127668}a metode im se zasnivaju na|Molotovljevim koktelima...
+{127672}{127708}koktelima i drugim|eksplozivnim sredstvima..
+{127744}{127816}Mnogi mladi ljudi tako poËinju|svoju teroristiËku karijeru.
+{127820}{127870}Da li znaö öta govoriö?|Sindikalna borba...
+{127874}{127967}je borba za naöe zdravlje,|protiv fabrika koje nas ubijaju...
+{127971}{128009}a ti to izjednaËavaö|sa terorizmom?
+{128016}{128122}Ne. Samo mislim da treba da se|prekine sa nasiljem u fabrikama.
+{128148}{128200}Dosta je viöe nerazumljivih|dvosmislenih izjava.
+{128245}{128287}Sindikati veÊ jednom treba|da kaûu...
+{128294}{128363}da je neprihvatljivo da gazde|iskoriöÊavaju zaposlene.
+{128367}{128409}Borba nije isto öto|i ubistvo.
+{128460}{128549}Nikola, po tebi je svaki|vid borbe opravdan.
+{128575}{128646}äta je opravdano?|Razbiti nekome glavu?
+{128663}{128776}Oboriti nekoga na zemlju? Kako ne|shvataö da njegova moÊ...
+{128780}{128858}njegova snaga u fabrici, verovatno|poveÊava broj onih...
+{128862}{128915}koji su spremni na nasilje,|na napade i ubistva.
+{128919}{128981}RadniËka borba je deo|generacijskog problema...
+{128985}{129038}ti, verovatno to ne znaö,|ali ja ûivim sa tim,
+{129042}{129114}i to je prisutno u celom svetu,|recimo u Latinskoj Americi...
+{129118}{129226}ubijeno je nekoliko vlasnika fabrika|automobila. Toga ima i u SSSR-u.
+{129235}{129280}Ali, drûava bar ne menja|svoj stav.
+{129297}{129367}Dok takvi kao ti, misle da su drugaËiji,|i prihvataju teroriste.
+{129372}{129464}Mirno posmatrate kao teroristi|ubijaju ljude...
+{129468}{129589}karabinjere, policajce, sudije,|ekonomiste, politiËare, novinare.
+{129605}{129705}Kaûeö da nisi terorista ali ne ûeliö|da se staviö na stranu drûave.
+{129709}{129750}A zato misliö da je drûava|duûna neöto da ti da.
+{129755}{129848}Zato, ubedi sebe da prvo moraö da|je odbraniö da bi je promenio.
+{129868}{129916}Mislim da imam puno pravo|da je osuujem.
+{129963}{130009}Zaöto ti misliö da sam ja|ubeen da je sudstvo...
+{130014}{130077}ove zemlje najbolje|moguÊe sudstvo?
+{130105}{130159}I da je ovo najbolja|moguÊa drûava?
+{130186}{130269}Ako ûeliö da promeniö i jedno i|drugo, moraö da se boriö...
+{130273}{130358}ali to ne znaËi da moûeö da ugroûavaö|demokratiju i slobodu.
+{130376}{130449}Zato öto, kad u nekoj zemlji padne|demokratija, sve pada.
+{130469}{130528}UkljuËujuÊi i moguÊnost stvaranja|nekog boljeg druötva.
+{130552}{130619}Da li to ûeliö?|Da sve upropastiö?
+{130814}{130926}Mislim da te je strah od gubitka posla|naterao da promeniö svoje stavove.
+{131078}{131154}Tako govoriö zato öto nemaö gazdu koji u|svojim rukama drûi tvoju egzistenciju.
+{131222}{131279}Prihvatio sam rizik da mogu|svaki dan da umrem...
+{131285}{131344}Ako ûeliö da se baviö|mojim zanimanjem...
+{131363}{131441}a to je sprovoenje zakona,|to ne znaËi da si heroj.
+{131461}{131526}Zaöto plaÊati one koji su|kreirali ovo stanje...
+{131530}{131577}koji su uniötili moral i stvorili|politiËki haos?
+{131623}{131654}äta treba da im se ponudi?
+{131669}{131710}Opöta amnestija?
+{131753}{131803}Zar oni koji su nam|upropastili ûivote...
+{131819}{131910}koji su radili sa nama öta su hteli,|prebijali nas tu i tamo...
+{131914}{131946}treba da uûivaju u miru?
+{132000}{132047}Sav taj haos, ja nosim|u sebi.
+{132073}{132137}Kako da ga se reöim?|Da se prekrstim?
+{132150}{132207}I da oprostim krivicu onima|koji su nas dovde doveli?
+{132220}{132291}Ako nastave sa ubistvima,|sa svakim novim  skandalom...
+{132295}{132395}kraom, sa svakom korupcijom,|narod Êe biti blaûi prema ubicama.
+{132492}{132570}Rekao sam ti da nikad probleme|nisam reöavao oruûjem.
+{132594}{132639}Zato ni tebi ne dozvoljavam|da mi govoriö...
+{132643}{132706}kako je to najlaköi naËin|da nekoga uÊutkaö.
+{132710}{132781}Sad je dosta! Zar ne mislite da ste malo|preterali sa tom diskusijom?
+{132823}{132877}I to u ovakvom trenutku kad|smo se okupili zbog majke.
+{132937}{133035}Zaöto ne priËamo o porodici,|o deci?
+{134298}{134388}Uzgred budi reËeno, zaöto se|nikad nisi oûenio...
+{134392}{134433}umesto öto brineö o tuoj deci?
+{134567}{134617}Nije lako naÊi poötenu ûenu.
+{134686}{134747}Niti imam baö neki|preterani izbor.
+{134770}{134836}Moja situacija je posebna.
+{134853}{134951}To se moûe nazvati pravilom, danas|su 'posebne' porodice normalne.
+{134959}{135005}U tom sluËaju ja sam izuzetak.
+{135014}{135067}Da, i baö mi je drago zbog tebe.
+{135107}{135165}Ja mislim da ti nikad nisi|ni razmiöljao o ûenidbi.
+{135169}{135251}Nikad nisam Ëuo ni za jednu tvoju|devojku, prijateljicu, niöta.
+{135271}{135366}Nikad ih nisam brojao|kao ti.
+{135389}{135421}Samo sam radoznao.
+{135466}{135518}Kad si poslednji put bio|sa nekom ûenom?
+{135558}{135610}Bio sam... bio sam,|brini.
+{135627}{135667}Ali nemaö hrabrosti da|kaûeö kad.
+{135671}{135801}Pusti ga na miru, vidiö da se stidi.|-Ne stidim se.
+{135828}{135904}Koliko ima?|Godinu dana?
+{135908}{135936}Nije toliko.
+{135949}{135986}Nisi ni blizu.
+{136029}{136076}Nema ni dva meseca,|ako baö hoÊeö da znaö.
+{136080}{136120}A ko je bila sreÊnica?
+{136124}{136202}äta je, bre ovo? Ispitivanje|treÊeg stepena?
+{136238}{136294}Sigurno je bila majka nekog|tvog ötiÊenika?
+{136298}{136338}Nije. Nikad!
+{136347}{136419}Onda je bila kurva.|-Ja ih ne zovem tako.
+{136423}{136515}Ako si joj platio, öta je onda?|-Moûda sam joj dao dobrovoljni prilog?
+{136701}{136788}Deda! Deda, je l' spavaö?
+{136820}{136875}Ne, ne spavam. Dobro sam.
+{137348}{137391}Zaöto plaËeö?
+{137415}{137497}Svi smo ûivi, samo baka nije.
+{137645}{137674}Spavaj.
+{138492}{138585}Deko, a öto ti sad plaËeö.|Ja sam prestala.
+{138616}{138721}Ne, ne plaËem.|Samo se znojim.
+{138894}{138933}Spavaj.
+{149489}{149577}Smiluj nam se, Boûe.|U milosti svojoj...
+{149589}{149672}i u dobroti svojoj,|oprosti mi grehe moje.
+{151158}{151198}Zaöto i mi ne idemo sa njima?
+{151238}{151282}Ne znam.
+{151324}{151381}Rekoöe da je bolje ovako.
+{159900}{160200}{y:i}zgaca62@yahoo.com
+{160225}{161725}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/3b6pt|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

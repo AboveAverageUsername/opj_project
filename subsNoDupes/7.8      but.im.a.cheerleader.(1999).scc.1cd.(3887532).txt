@@ -1,0 +1,844 @@
+{25}{175}-== [ www.OpenSubtitles.com ] ==-
+{1250}{1349}  J A   S A M   N A V I J A » I C A 
+{2833}{2898}Naprijed Freemont!
+{2905}{2976}Ne zaboravite, sutra nakon nastave...
+{2977}{3023}pokupite odjeÊu u Ëistionici.
+{3024}{3095}Jer Êe nas autobus na doigravanje...
+{3096}{3170}povesti ujutro u 7 i 30.
+{3192}{3263}Donirano je Ëetiri tisuÊe krafni.
+{3264}{3360}- U redu, uniötit Êemo Rangere, ok?| - Daaa!
+{3408}{3479}Ne mogu vjerovati da si saznala.
+{3480}{3551}Nekoliko sati prije no öto vi poete.
+{3552}{3611}Da, tako je.
+{3624}{3695}Uzbuen si?|Finale je!
+{3696}{3754}Da, znam.
+{4343}{4397}Hajde?
+{4415}{4462}Moram iÊi kuÊi na ruËak.
+{4463}{4518}Molim te.
+{4535}{4592}No, dobro.
+{4943}{4990}Jedite kaöu.
+{5001}{5064}PriËekaj mamu.
+{5096}{5164}Hvala, peso.
+{5216}{5277}Molitva.
+{5288}{5325}Gospodine...
+{5326}{5383}blagoslovi molim te hranu|koju jedemo...
+{5384}{5477}hvala ti na darovima|kojim nas obasipaö...
+{5480}{5568}Pomozi nam molim da slijedimo tvoj put.
+{5576}{5664}Koji je namijenjen svakom biÊu.
+{5672}{5730}I Boûe...
+{5744}{5839}molim pomozi da izvröimo ûivotne uloge...
+{5840}{5908}koje si nam svakome namijenio.
+{5936}{5983}da svi budu prirodni...
+{5984}{6044}zdravi...
+{6055}{6119}i sveti.
+{6151}{6225}Usliöaj nas, Gospodine, Amen.
+{6247}{6302}Jedimo.
+{6305}{6805}{C:$0000FF}{y:ib} B & M |{C:$FF0000}{y:b} movies 
+{7086}{7181}Vidimo se dame, mislim naveËer.
+{7182}{7253}Ne zaboravi knjige iz knjiûnice,|pokraj vrata.
+{7254}{7313}Dobro.
+{7350}{7442}- I, bit Êemo spremni?| - Bit Êe tu u 15 sati.
+{7446}{7534}Isuse, pomozi nam u svemu.
+{7590}{7661}Shaker Hill, evo nas!
+{7662}{7728}Upamtite, 7:30, krafne...
+{7830}{7877}- Razgovarala si s njezinim roditeljima?| - Ide.
+{7878}{7946}Ubijte Rangerse!
+{8046}{8120}Vidimo se vani...
+{8333}{8404}Jesi li sretna kad to radiö?
+{8405}{8452}Mislim da je to lijepo.
+{8453}{8531}Moûda on to ne zna raditi?
+{8669}{8733}Vidimo se. - Baj.
+{9029}{9093}Makni se!
+{9196}{9267}O, Jared, zaöto idemo tako sporo?
+{9268}{9344}Oprosti, imam malo goriva.
+{9556}{9627}Mike, puno hvala öto si ponovno doöao.
+{9628}{9700}Zbog toga i jesam ovdje.
+{9700}{9771}- Gledali ste video?| - Iznova i iznova.
+{9772}{9837}Ui.
+{9960}{10011}Najvaûnije je,|biti jasan...
+{10012}{10059}i izravan.
+{10060}{10106}Ne optuûujemo.
+{10107}{10154}Dajemo podröku.
+{10155}{10202}dajemo podröku.
+{10203}{10276}ZaËula sam auto.
+{10299}{10351}O... dolaze.
+{10419}{10483}Smirite se.
+{10635}{10682}Iznenaenje.
+{10683}{10754}äto se dogodilo?|Netko umro?
+{10755}{10826}Draga, tvoji omiljeni...
+{10827}{10892}Zaöto ne bi sjela, duöo?
+{10899}{10946}O Ëemu se radi?
+{10947}{11018}Haj, Megan, zovem se Mike.
+{11019}{11089}Tvoji roditelji i prijatelji|ûele s tobom porazgovarati.
+{11090}{11183}A ja sam im pomogao kupiti traku...|jer su nazvali.
+{11234}{11281}Sjedni...
+{11282}{11368}i raskomoti se, moûe li?
+{11474}{11546}Peter, ûeliö li ti zapoËeti razgovor?
+{11570}{11639}Megan... volimo te.
+{11666}{11734}Svi te... volimo.
+{11738}{11809}I malko postajemo zabrinuti zbog tvog...
+{11810}{11873}ponaöanja.
+{11882}{11953}Plaöimo se da si pod uplivom...
+{11954}{12001}nastranog razmiöljanja...
+{12002}{12049}neprirodnog.
+{12050}{12120}SjeÊaö li se onoga s televizije?
+{12121}{12217}Duöo, mi mislimo da si... lezbijka.
+{12289}{12336}Ja osobno, bio sam...
+{12337}{12384}homoseksualac.
+{12385}{12456}Sada sam bivöi gej, Megan.
+{12457}{12528}Radim za mjesto "Prave smjernice"...|za ljude...
+{12529}{12576}koji pomaûu ljudima...
+{12577}{12624}poput tebe...
+{12625}{12719}koji iz nerazumljivih razloga...|...imaju homoseksualne sklonosti.
+{12745}{12792}i lijeËe ih.
+{12793}{12840}Kakve sklonosti?
+{12841}{12912}Zaöto mislite da sam...
+{12913}{12984}Pokuöavala si da jedemo taj... Toffu.
+{12985}{13072}A dijeta, vodi nas do vegetarijanstva.
+{13081}{13187}Nemaö ni jednu sliku deËka, veÊ samo ovakve.
+{13200}{13271}I to.
+{13272}{13319}Spolni vaginalni motivi...
+{13320}{13392}u umjetnosti i dekoraciji.
+{13392}{13462}Gej ikonografija.
+{13512}{13559}»ak se ne voliö niti ljubiti.
+{13560}{13607}Istina je.
+{13608}{13655}Ne mogu vjerovati.
+{13656}{13727}Negiranje je normalni dio| procesa lijeËenja...
+{13728}{13799}koji pomaûe otkriti...
+{13800}{13847}"Prave smjernice".
+{13848}{13895}LijeËenja?
+{13896}{13943}Kao, rehabilitacija, duöo.
+{13944}{13991}"Anonimni homoseksualci".
+{13992}{14075}Peso, to je samo nekoliko mjeseci.
+{14088}{14151}Nema öanse da idem.
+{15574}{15621}Idemo.
+{15622}{15682}Odmah.
+{15958}{16005}Dobrodoöli.
+{16006}{16077}Ja sam Mary, osnivaË "Pravih smjernica".
+{16078}{16148}- A vi ste sigurno Megan?| - Da.
+{16149}{16196}Ovo je moj sin, Rock.
+{16197}{16244}Drago mi je öto smo se upoznali, Megan.
+{16245}{16340}»ujte, doveli ste ju na vrijeme.
+{16341}{16388}- Koliko imaö, oko sedamnaest?| - Da.
+{16389}{16436}Kakav gubitak za fakultet.
+{16437}{16556}Znate, teöko je kad se jednom prepusti|"ispiranju mozga" na fakultetu.
+{16557}{16604}Ali Êemo ju od toga spasiti.
+{16605}{16676}Pobrinut Êu se za nju.
+{16749}{16806}No, ui.
+{17132}{17235}"Korak 1" prihvatiti da si| homoseksualac.
+{17300}{17395}To je dvotjedni program|od nekoliko jednostavnih koraka
+{17396}{17480}UsredotoËimo se na prvi korak.
+{17492}{17539}PrihvaÊaö li svoj problem?
+{17540}{17634}Kad vidiö ûenu u tijesnoj haljini...
+{17660}{17731}divnih nogu...
+{17732}{17827}ili kad je u kupaonici,|maûe svoje pune usne...
+{17828}{17944}ili pod tuöem, sapuna svoje tijelo,|dodiruje prsa...
+{17972}{18043}nemaö nikakvih neprirodnih pomisli?
+{18044}{18091}Ne mislim da je to neprirodno.
+{18092}{18186}Aha! Vidiö! Niti ne pomiöljaö|da je to loöe.
+{18187}{18282}Dok ne prihvatiö svoju bolest,|nosit Êeö ovo.
+{18283}{18403}Zasluûit Êeö normalnu odjeÊu,|kad budeö sposobna prihvatiti... prvi korak.
+{18403}{18474}Dug je put do normalnosti, Megan.
+{18475}{18570}Bojno polje puno iskuöenja s kojima|se trebaö boriti.
+{18571}{18642}Do tada, voljela bih te upoznati...
+{18643}{18690}s jednim od naöih vojnika.
+{18691}{18746}Hilary!
+{18763}{18810}Megan, to je Hilary.
+{18811}{18888}Pokazat Êe ti okolinu.
+{18979}{19050}Dobro, budnica u sedam...
+{19051}{19122}doruËak u osam, grupna terapija...
+{19123}{19169}do ruËka.
+{19170}{19282}Poslije podne imamo slobodno i moûemo|raditi... znaö... svaöta.
+{19314}{19401}A zatim unutra radimo reorijentacijske vjeûbe.
+{19410}{19486}Obiteljska terapija vikendima.
+{19506}{19584}Ne nedostaju nam previöe.
+{19746}{19849}Ovdje spavamo.|Nije dozvoljeno neprikladno ponaöanje.
+{19914}{19961}Neprikladno?
+{19962}{20009}Kao psovanje?
+{20010}{20057}Neprikladno kao jebanje.
+{20058}{20150}Uhvate li te u sodomiji, a res vouir.
+{20369}{20416}Ne brini zbog Graham.
+{20417}{20464}Ona je razmaûeno deriöte.
+{20465}{20531}OËitat Êu joj lekciju.
+{20537}{20648}Korak jedan je bio lagan.|PrihvaÊanje homoseksualnosti.
+{20681}{20769}Svi su proöli... juËer.
+{20873}{20937}Ja sam homoseksualka.
+{20969}{21041}Vidiö kako je to lako.
+{21232}{21314}Megan, upoznaj ostatak naöe grupe.
+{21328}{21399}Haj Megan, ja sam Jan.
+{21400}{21475}Ja sam nogometaöica... i lezbijka.
+{21544}{21615}Ja sam Sinead, volim bol...
+{21616}{21663}i ja sam lezbijka.
+{21664}{21746}Ja sam Joel, éidov sam...
+{21784}{21862}i... ja... sam homoseksualac.
+{21928}{21999}Znamo se. - Graham!
+{22000}{22071}Ja sam Graham i volim djevojke.|Jako.
+{22072}{22137}I ja sam lezbijka.
+{22191}{22278}Andre, glumac, plesaË, homoseksualac.
+{22311}{22406}Dolph, izopaËeni homoseksualac.| Kako si?
+{22407}{22518}Ja sam Clayton Dunn, prodajem se,|ja sam homoseksualac.
+{22623}{22670}Vrijeme za tvoje prvo istupanje.
+{22671}{22718}Ne budi zatvorena.
+{22719}{22841}Moûemo poËeti da nam ispriËaö|kad si zapravo shvatila da si lezbijka.
+{22863}{22910}Nisam.
+{22911}{22984}Oni samo misle da jesam.
+{23007}{23085}UopÊe ne bi trebala biti ovdje.
+{23127}{23217}Savröeno pravo mjesto za poËeti.
+{23222}{23321}Mogli bi raspraviti zaöto su|to uopÊe izmislili.
+{23366}{23448}Pa... ja sam vegetarijanka i...
+{23462}{23557}imam slike djevojaka posvuda.| Misliö da je to normalno?
+{23558}{23612}Naravno.
+{23630}{23677}Nisam o tome puno razmiöljala.
+{23678}{23725}Imaö li deËka?
+{23726}{23797}Da, hodamo neprekidno veÊ dvije godine.
+{23798}{23845}Zaista ga volim.
+{23846}{23893}Pametan je, omiljen...
+{23894}{23997}"...i ima najveÊi kurac,|koji sam ikad vidjela."
+{24038}{24109}Oh, i jesi li se ikad seksala s njime?
+{24110}{24157}KröÊanka sam...
+{24158}{24252}Stvarno je lako biti nedodirnuta,|kad nisi zainteresirana, zar ne?
+{24253}{24300}Veoma je zgodan.
+{24301}{24348}Nanosi li ti bol?
+{24349}{24396}Misliö li o njemu noÊu, kad...
+{24397}{24444}Nisam perverzna!
+{24445}{24531}Molim se, idem u crkvu.
+{24541}{24588}Ja sam cheerleaderica.
+{24589}{24636}Nisam kao vi.
+{24637}{24780}Svatko Ëita "Cosmopolitan",|svi gledaju djevojke, stalno.
+{24781}{24890}Samo pretpostavljaö da svi misle öto i ti. Ali ne.
+{25141}{25227}Mislim da svatko ima takve misli.
+{25260}{25307}éelim biti normalna.
+{25308}{25379}Kad prihvaÊaö da nisi normalna...
+{25380}{25470}zaöto ne prihvatiö da si lezbijka.
+{25644}{25691}"Imaö nas veÊ predugo."
+{25692}{25800}"Korak jedan bio je lagan."| "Ne voli me niti ljubiti."
+{25812}{25889}"Dodirni moju suknju."
+{26076}{26140}Ja sam homoseksualka!
+{26196}{26242}Ja sam homoseksualka!
+{26243}{26309}Ja sam homoseksualka!
+{26315}{26386}»estitam Megan, zakoraËila si svoj prvi korak...
+{26387}{26460}u svojim "Pravim smjernicama"!
+{26603}{26667}Ja sam lezbijka.
+{26915}{27007}Ne brini Megan, sve Êe biti u redu.
+{27059}{27124}Evo, obuci.
+{27250}{27308}O, Boûe!
+{27370}{27430}Bili su u pravu.
+{27442}{27503}Ja sam homo.
+{27874}{27971}»estitam na svom prvom koraku, veliËanstvo.
+{28066}{28113}Nemoj ju sluöati.
+{28114}{28168}Zanimljiva je da njene ötosove
+{28169}{28209}ne moûe sluöati niti riba koju jedemo.
+{28210}{28280}Ne mogu doËekati biti hetero.|Da budem normalan.
+{28281}{28400}Lijepo je to s vama razgovarati, |ali kako Êu reÊi kolegama u timu.
+{28401}{28448}Moûda imaö krive prijatelje.
+{28449}{28496}»ujte, mislim da svi trebamo podrûavati|jedni druge.
+{28497}{28610}Stvarno, princezo?|Da zapjevamo "Kumba ya"?
+{28785}{28856}Haj, mama.|Lijepo cvijeÊe.
+{28857}{28910}Znam.
+{28953}{29048}Znaö, strop propuöta.|Voljela bih da to veËeras pogledaö.
+{29073}{29120}Popravit Êu, mama.|Isuse...
+{29121}{29195}Oprosti, nisam htio.|- Ne preda mnom.
+{29217}{29287}Rekla sam ti sto puta.
+{29288}{29335}Nema viöe srkanja!
+{29336}{29434}Nalij to u sebe, kao Ëovjek.|Hajde, toËi.
+{29504}{29551}Evo.
+{29552}{29618}Popravi to veËeras.
+{30463}{30510}Oprosti, ja sam.
+{30511}{30558}äto radiö?
+{30559}{30606}T.W.|äto je T. W.?
+{30607}{30654}T.W.?|äto je to?
+{30655}{30702}Vrsta terapije, glupaËo.
+{30703}{30750}äto to znaËi?
+{30751}{30866}Kad imaö neprikladne fantazije o djevojkama,|upucaö se ovim öokerom.
+{30895}{30990}Tako kad god pomisliö, osjetiö bol.
+{30991}{31062}- To je bolesno.| - Tko voli, tog boli, mala.
+{31063}{31134}HoÊeö li pimpek, poËni trenirati i sama.
+{31135}{31182}Nije li to Grahamina Ëarapa?
+{31183}{31257}Dovraga, nije tvoja briga.
+{31566}{31639}Megan, imaö telefonski poziv.
+{31710}{31829}Megan, ovdje mama i tata, znamo da je kasno,|ali tako nam nedostajeö.
+{31830}{31901}éelimo znati kako je malom pesi?
+{31902}{31949}Dobro mi je.
+{31950}{32021}U pravu ste, ja sam homoseksualka...
+{32022}{32093}ali bit Êu ubrzo u redu.
+{32094}{32141}Ta Mary je zaista draga.
+{32142}{32189}Da.|I Mike i ostali.
+{32190}{32237}ZapoËinjem korak broj dva.
+{32238}{32284}Drago nam je.|Nije nam ûao novca.
+{32285}{32356}Ne moûemo doËekati zavröetak terapije|i da se opet okupimo kod kuÊe.
+{32357}{32404}Da smo obitelj i budemo zajedno.
+{32405}{32476}Zapamti, volimo te i sve Êemo uËiniti|da naöa Megan ima normalan ûivot.
+{32477}{32524}Dobit Êeö öto god zatrebaö.
+{32525}{32620}Moramo iÊi, budi jaka, princezo.|Slatko sanjaj.
+{32621}{32716}I ti tata. Vidimo se na obiteljskoj terapiji.|Volim vas.
+{32717}{32788}Faza druga.|Istraûivanje vlastita spolnog identiteta
+{32789}{32836}Na-prijed...
+{32837}{32897}i na-trag
+{32933}{32980}U lijepoj liniji.
+{32981}{33074}Diûeö se i spuötaö...
+{33101}{33173}Idemo go-re... do-lje...
+{33173}{33244}Nutra i van...
+{33316}{33385}Do zadnjeg kutiÊa...
+{33436}{33541}Zavuci se ispod,|dodaj malo ulja.
+{33556}{33682}Nutra i van, snaûno...|svim miöiÊima.
+{33772}{33846}Snaûno... nutra... van...
+{33892}{33963}Dobro, tko mi moûe pomoÊi?
+{34683}{34734}Ej!
+{35282}{35353}Preoblikujeö se u divnu mladu damu.
+{35354}{35425}I ne miËi se.
+{35450}{35508}Idemo!!
+{35546}{35617}Gin, idemo!|Idemo!
+{35642}{35748}Dobro, tko nam je preostao|izvijestiti o svojim uzrocima?
+{35762}{35804}Andre?
+{35805}{35867}Gospoo, oprostite, nisam jedini koji |ne zna svoje uzroke.
+{35868}{35985}Andre, ne sluûimo se bogohuljem i negativnnim|stavovima u naöim "Pravim smjernicama".
+{36026}{36073}Dobro, tko je sljedeÊi?
+{36074}{36121}Megan.
+{36122}{36217}Zaista sam razmiöljala, ali ne mogu|se niËeg dosjetiti.
+{36218}{36288}Naöa mala se maturantica |boji ogoljeti pred nama.
+{36289}{36336}Zaista?|A koji je tvoj uzrok, Graham?
+{36337}{36432}Radimo na tvom, a ne mojem.|SkreÊeö s teme.
+{36433}{36577}Zapravo, kad te veÊ Megan spomenula,|hoÊeö nam reÊi nam svoje uzroke, Graham?
+{36625}{36710}Moja majka... vjenËala se u hlaËama.
+{36793}{36840}Dobro, da vidimo... Dolph.
+{36841}{36941}Previöe tuöiranja u svlaËionici tima.
+{36961}{37008}Hilary.
+{37009}{37056}Iöla sam u djevojaËku ökolu.
+{37057}{37104}Sinead.
+{37105}{37152}Roena sam u Francuskoj.
+{37153}{37224}Clayton?| Mama mi je obuvala ötikle.
+{37225}{37272}Volim jaja.
+{37273}{37353}O, hvala na ovome, Jan.
+{37368}{37415}Joel.
+{37416}{37503}Traumatski rast sisa, znate...
+{37536}{37659}Vidiö Megan, ne moûe biti laköe.|Samo posegni duboko...
+{37680}{37785}u svoje bolne uspomene,|i pronaÊi Êeö.
+{37824}{37895}Hilary, hoÊeö molim te doÊi.
+{37896}{38015}Danas, uËit Êemo... o divnim stvarima|koje pruûa heteroseksualnost.
+{38064}{38111}Prijateljstvo.
+{38112}{38231}Za poËetak, sprijateljite se.|Naite partnera za nastavak programa.
+{38375}{38449}Rasporedite se, kako vam odgovara.
+{38543}{38643}Vjeûbat Êemo veËeraönju vjeûbu.
+{38711}{38758}S ovime.
+{38759}{38829}To je ûena. - äto joö?|Ne znam.
+{38831}{38874}Majka.|Svatko ima svoju ulogu.
+{38875}{38931}Kad to nauËiö, prestat Êe biti objekt ûelje.
+{38932}{39015}Jesi li Ëula iöta od onoga öto je Mary rekla?
+{39023}{39070}- Jesi li ti?| - Jesam li öto?
+{39071}{39118}Prestala ûudjeti za objektima?
+{39119}{39166}I dalje traûim svoje izvore...
+{39167}{39264}Tako je naporno razgovarati s tobom.
+{39310}{39370}Tvoj red.
+{39454}{39561}Moraö se pripremiti za iskuöenje, Megan.
+{39694}{39741}Daj mi, dodaj.
+{39742}{39803}Ovdje sam.
+{40222}{40269}Momci!
+{40270}{40366}Ne vidite li kako ste tuûni i patetiËni?
+{40389}{40476}Ovog definitivno ne moûete imati.
+{40485}{40604}Uhvatim li vas da ovako gledate muökarca,|joö samo jednom...
+{40605}{40712}gledat Êete sport,|cijeli vikend.
+{40773}{40879}Prvo öto radimo, povuËemo gore nogice|i premotamo.
+{40893}{41024}Upotrijebila sam prehrambenu boju,|kako bi bolje bolje vidjeli.
+{41085}{41132}Kriva strana, ok?
+{41133}{41180}Moûeö se ne mijeöati, kad ja radim?
+{41181}{41228}Radiö sve krivo.
+{41229}{41323}Ne, dopusti mi da radim|sama i sve Êe biti dobro.
+{41324}{41399}Djevojke, suraujte.
+{41492}{41563}Probajmo joö jedan put.
+{41612}{41683}Korak 3: Obiteljska terapija
+{41684}{41798}Tada sam shvatio, kad smo |zavröili s lekcijama plivanja...
+{41804}{41901}promijenili bi se jedni prema drugima...|i to jest to.
+{41924}{41971}Zbog Ëega sam gej.
+{41972}{42092}Andre, to su bajke, o satima plivanja...|Mijenjanje, svi to proûivljavaju.
+{42116}{42239}Ali sam gledao te deËke,|zbog... znate zaöto.
+{42308}{42376}Meni se dogodilo onda...
+{42379}{42498}Kad sam uËio s Jacobom, dodirnuli bi se,|nogama...
+{42499}{42546}oËeöali se jedno o drugo.
+{42547}{42618}Puöili bi jedan drugom, vaöa je |bar micva bila sve
+{42619}{42667}samo ne uËenje matematike.
+{42667}{42714}Ovo je bilo nepotrebno.
+{42715}{42762}Dajemo lovu da izlijeËimo naöu djecu,
+{42763}{42872}a ne da sluöamo te bajke cijeli dan.
+{42883}{43002}Graham, nadam se da bolje napredujeö|u programu nego onaj pederko tamo.
+{43003}{43110}Gospodine Eaton, ovo je |u potpunosti neprikladno.
+{43123}{43226}Ne, u pravu je.|Glupo je sranje to s uzrocima.
+{43267}{43363}Nikad se neÊu popraviti... ja sam... pederko.
+{43386}{43433}»uo sam dosta tih sranja.
+{43434}{43529}Dok se vratimo iz ävicarske, moraö se rijeöiti|svojih gej sklonosti, jasno?
+{43530}{43577}Jasno.
+{43578}{43676}Ili odjebi... nema studija, nema auta, |nema dûeparca.
+{44202}{44318}Megan, vrijeme je da nam |kaûeö o svojem poËetku.
+{44345}{44392}Mislim da je to zbog mojih roditelja.
+{44393}{44465}Dobro, nastavi samo.
+{44465}{44536}Bili smo kao neka obitelj s razglednice.
+{44537}{44657}Tata je bio nezaposlen, |a mama nas je uzdrûavala.
+{44705}{44798}»ekaj malko.|To je bilo samo za 9 mjeseci.
+{44801}{44896}Kasnije sam dobio bolju ponudu u tvornici.
+{44897}{44944}Moûda sam mamu vidjela u ulozi oca...
+{44945}{45055}Moûda sam primila krive |predodûbe o ulozi ûene?
+{45089}{45131}Apsolutno.
+{45132}{45188}Znaö, ne mogu vjerovati|da to nisi prije spomenula.
+{45189}{45281}Otac je bio niöta, a majka je dominirala.
+{45281}{45328}Ne baö tako.
+{45329}{45399}éeliö oponaöati majku.|Nemaö poötovanja prema muökarcima 
+{45400}{45471}jer ne poötujeö svog oca.
+{45472}{45519}Nije baö tako.
+{45520}{45611}Megan, naöla si svoje uzroke.
+{45664}{45779}U cilju lijeËenja i ocjenjivanja,|ûelim da napiöeö svoje uzroke.
+{45784}{45885}Veoma je terapeutski zapisati svoje osjeÊaje.
+{46096}{46177}Odmor 20 minuta.
+{46767}{46814}äto je to?
+{46815}{46862}"Drugi naËin!"| "Sloboda ljubavi."
+{46863}{46958}"Otkrij svoju drugu stranu."| "Posjetite nas, u subotu u ponoÊ"
+{46959}{47028}Niöta, smeÊe.
+{47199}{47272}äto sam ja, zaraûena?
+{47606}{47711}äto je to?|Zapela sam na "5 - 6 - 7 - 8 Bog je dobar."
+{47726}{47773}"Bog je hetero."
+{47774}{47840}Ej, to je dobro.
+{47942}{47989}Ne mora biti intelektualno...
+{47990}{48107}Cheerleaderice trebaju biti jednostavne,|da se ljudi dobro osjeÊaju.
+{48134}{48214}Cheerleaderice trebaju pruûiti orgazam,|da se ljudi dobro osjeÊaju.
+{48374}{48462}Tvoji roditelji nisu dugo ostali.
+{48493}{48612}Nije im udobno dugo na jednom mjestu...|za njihovu guzicu.
+{48613}{48708}Uvjerena sam da se trude|za tebe uËiniti najbolje.
+{48709}{48804}Teöko, mislila sam da umiöljam, |ali ti si stvarno najslaa ovdje.
+{48805}{48900}To je sranje, Megan, to ne radi.|Ono si öto jesi.
+{48901}{48995}Jedini ötos je da te ne uhvate.
+{48997}{49069}Kako si se ti tu naöla?
+{49069}{49133}Uhvatili su me.
+{49141}{49197}U Ëemu?
+{49333}{49403}Imala sam prijateljicu i...
+{49404}{49494}malo smo previöe |vremena provodile zajedno.
+{49524}{49586}äto ste radile?
+{49596}{49658}Kako misliö?
+{49836}{49952}Mama nas je jedan dan uhvatila u sobi|zagrljene, i zato sam ovdje.
+{50028}{50099}Bila si u nju zaljubljena?
+{50124}{50196}Je li vaûno?
+{50244}{50321}Pripazi, ozbiljno.
+{53121}{53168}O Boûe, pomoÊ!
+{53169}{53262}Odjebi odavde, ti glupo kopile.
+{53289}{53356}Hej, öto se dogaa ovdje?
+{53409}{53479}Mala privatna simulacija?|Ljubili su se.
+{53480}{53527}Sranje... izmiölja...
+{53528}{53575}bili su...
+{53576}{53623}Dolph, zaista sam se u tebi razoËarao.
+{53624}{53708}Mislio sam da se barem ti |moûeö izvuËi Ëist odavde.
+{53720}{53767}Probudit Êemo Mary.
+{53768}{53825}Poite.
+{54080}{54151}Tko god je ovo zapoËeo,|letjet Êe iz iz kuÊe.
+{54152}{54199}Drugi bi vas zatvorili u|pseÊu kuÊicu.
+{54200}{54271}Ne ja.|Ne mogu otiÊi kuÊi, roditelji...
+{54272}{54343}Ne zanima me!
+{54344}{54431}Mogu pomoÊi onome tko ûeli pomoÊi sebi.
+{54439}{54514}I... tko je zapoËeo?!
+{54535}{54600}Netko mora progovoriti.
+{54727}{54822}Ulazi, mali pervertitu,|u jednotjednu samicu...
+{54823}{54917}i uhvatim li te ponovno, letiö.
+{55087}{55152}Hajde, Mary.
+{55566}{55700}Da nije ova STVAR doletjela, |vidio bih deËke u akciji.
+{55710}{55819}Da sam ih ja uhvatila, zavrnula bih im vratom.
+{55854}{55985}Jeli vas umorila ova öok terapija?|Ili su vam se baterije ispraznile?
+{56334}{56417}Korak 4: Otkrivanje suprotnog spola
+{56453}{56575}Ovo su ljubavnici|u opuötajuÊoj veËernjoj öetnji.
+{56597}{56705}UoËite kako su naklonjeni jedno drugom.|Tako bi mogli biti vi.
+{56717}{56800}A ovo, sretan par u domu.
+{56837}{56976}Vaûno je, uoËite, osjeÊaji postoje i|po povratku kuÊi nakon dugog dana na poslu.
+{57149}{57272}I... kad doe vrijeme za voenje ljubavi,| Dan ljubi Sue i dodiruje joj grudi...
+{57317}{57408}öto ûena nalazi uzbudljivim.
+{58587}{58634}Nedostaju li ti prijatelji od kuÊe?
+{58635}{58754}Oh, ne mogu odluËiti ûalim li viöe za|glupim majmunima u dresovima...
+{58755}{58826}ili za glupim cheerleadericama.
+{58827}{58896}Naprijed, reci.
+{58899}{58960}Ne mogu.
+{59043}{59113}Nemam prijatelja.
+{59187}{59240}A ti?
+{59259}{59324}Mislim da imam.
+{59331}{59378}Zna da si ovdje?
+{59379}{59426}O, da.
+{59427}{59492}Teöko je.
+{59978}{60025}äto se dogaa?|Kasno je za izlazak.
+{60026}{60073}Bjeûimo van, obuci se.
+{60074}{60144}Ali Mary...|Jebeö Mary.
+{60170}{60265}Nema öanse, preostaju mi samo Ëetiri tjedna,|nema öanse da to prokockam.
+{60280}{60377}Megan, nitko neÊe saznati za ovo.|NeÊemo dovijeka biti bez zabave.
+{60481}{60548}Dobro bi ti doölo malo zabave.
+{60577}{60624}äto ako nas uhvate?
+{60625}{60683}NeÊe nas uhvatiti.
+{60769}{60840}Ako ne ideö, bar nas nemoj cinkati.
+{60841}{60896}Hajdemo.
+{61728}{61775}Upadaj ...
+{61776}{61834}Spremni ste?
+{61968}{62039}Veûite pojaseve.| - »ekajte!
+{62040}{62087}Imamo joö jednu.
+{62088}{62135}Bilo je i vrijeme.
+{62136}{62183}Ne mogu vjerovati da to Ëinimo.
+{62184}{62303}Haj, ja sam Lloyd Morgan Gordon, a ovo je| Larry Morgan Gordon, drago mi je öto si s nama.
+{62304}{62438}Mogli bi zatrebati, nisu vam baö nalik.
+{62448}{62494}Prvi si put s nama?
+{62495}{62542}Larry i Lloyd su bivöi-bivöi-gejovi.
+{62543}{62590}Iz "Pravih smjernica"?
+{62591}{62642}Bili smo Maryni prvi uËenici, a zatim bjegunci.
+{62643}{62738}éelimo vam samo pokazati opcije...
+{62759}{62846}krajnji izbor je vaö.
+{62855}{62960}éelite li biti ono öto jeste|ili se ûelite skrivati i pretvarati.
+{62975}{63068}Vi ste znaËi kao podzemna homo ûeljeznica?
+{63120}{63210}"KURCOPUäA»"
+{63239}{63306}Hajde djevojke.
+{63526}{63573}Nisi mi rekla da idemo u gej bar.
+{63574}{63653}A kamo drugamo bi iöli?
+{63670}{63717}Donijet Êu ti piÊe.
+{63718}{63778}Ja ne pijem.
+{64270}{64404}mogu se oduprijeti porivima... neÊu se pokolebati...|ne prepuötam se iskuöenjima...
+{64414}{64501}äto to radiö?| To su moje molitve.
+{64509}{64599}Ne moraö to raditi, budi svoja.
+{65085}{65132}Haj, ûeliö plesati?
+{65133}{65180}Naravno da hoÊe.
+{65181}{65228}éao mi je, ne mogu.
+{65229}{65300}U redu, samo sam pitala.
+{65301}{65348}Nema problema.
+{65349}{65446}Samo jedan ples. Ne moûeö zaplesati na minutu?|Idi...
+{65516}{65587}Oh, baö ne pleöem Ëesto.
+{65588}{65649}Nema problema.
+{67147}{67218}Megan, nije to öto misliö.
+{67219}{67290}Zbog toga smo doöli, je li,|da moûeö biti svoja.
+{67291}{67338}Volim Sinead, ali ne tako.
+{67339}{67414}- äto je onda to, prijateljstvo?| - Nismo niöta radile.
+{67435}{67482}A öto je onda to?|To nije bilo niöta?
+{67483}{67554}Ne, nisam. Nisam radila tako.
+{67578}{67634}Nema veze.
+{67650}{67697}Zaöto si poludjela?
+{67698}{67745}Nije moja briga.
+{67746}{67793}Radi öto ûeliö.
+{67794}{67882}Mogu raditi öto ûelim?|Nije me uopÊe briga.
+{67890}{67975}- Mogu li zaista öto ûelim?| - Jebi se!
+{68418}{68488}Ne bi mi se trebala sviati...
+{68609}{68663}Ali...
+{68705}{68772}...ali to ûelim ponoviti.
+{70048}{70113}äto si zinula?
+{70336}{70395}Ide Mary!
+{71319}{71387}- Laku noÊ.| - Laku noÊ.
+{72278}{72349}Hajde, recite prvu stvar koja...
+{72350}{72421}vam padne na pamet, moûe?|Razmiöljajte.
+{72422}{72469}Ja stvarno razmiöljam.
+{72470}{72541}Moji uzroci mi ne idu kao drugima.
+{72542}{72588}Ja sam heteroseksualna.
+{72589}{72660}Ne joö... duöo... uskoro Êeö biti.
+{72661}{72708}I ne govori preko reda.
+{72709}{72789}Ne, ne, nikad nisam bila lezba.
+{72805}{72876}Jan, sjeti se, bila si silovana.
+{72877}{72948}Daj se samo pogledaj.
+{72973}{73020}Svi misle da sam lezba jer nosim öiroke hlaËe
+{73021}{73092}i igram nogomet...
+{73093}{73140}i nisam kao druge djevojke.
+{73141}{73212}To ne znaËi da sam lezbaËa.
+{73213}{73274}Sviaju mi se deËki.
+{73285}{73354}Ne mogu si pomoÊi?
+{73381}{73452}Ne ûelim biti grubijanka|meu damama.
+{73453}{73513}Amen, sestro.
+{73525}{73572}Odlazim.
+{73573}{73653}Koga ona dovraga pokuöava praviti budalama?
+{73668}{73729}Jan, priËekaj!
+{74268}{74315}Grupo...
+{74316}{74409}naöla sam jutros neöto vrlo uznemirujuÊe.
+{74460}{74544}Voljela bih znati, tko je...
+{74556}{74650}pobjegao s tim pederskim dezerterima?
+{74699}{74746}HoÊu imena.
+{74747}{74833}éelim znati tko je upleten!
+{74939}{75010}Ovako Êemo!| Graham, öto imaö reÊi?
+{75011}{75058}Zaöto gledate u mene?
+{75059}{75150}Jer sam naöla ovo pod tvojim krevetom!
+{75155}{75232}Imaö li öto, öto bi htjela priznati?
+{75275}{75322}Ne vidim kako...?
+{75323}{75387}Ali znaö tko zna.
+{75395}{75461}Ne, ne znam, ali...
+{75515}{75586}sinoÊ sam neöto o sebi shvatila...
+{75587}{75679}öto sam se prije bojala priznati.
+{75682}{75729}Sluöam?
+{75730}{75777}Hajde, izbaci to!
+{75778}{75842}Zaljubila sam se...
+{75922}{75977}u Joela.
+{76018}{76113}Prvi put sam osjetila neöto prema muökarcu i...
+{76114}{76200}dokazalo se da tretman djeluje.
+{76210}{76268}Oh, Graham.
+{76378}{76492}Ovo je primjer öto se moûe postiÊi odluËnoöÊu.
+{76522}{76569}Svi bi se trebali ugledati na Graham.
+{76570}{76640}I kako je uspjela proÊi...
+{76641}{76688}ovaj korak programa.
+{76689}{76736}I usput...
+{76737}{76784}Vrlo sam razoËarana ostatkom grupe.
+{76785}{76856}Zakazat Êu sastanak s vaöim roditeljima.
+{76857}{76961}Niste sluöali mene, ali Êete moûda htjeti njih.
+{76977}{77072}Ne, nisam bio u "KurcopuöaËu", a nikad ni neÊu.|Dosta o pederima iz "KurcopuöaËa".
+{77073}{77120}éelim se izlijeËiti od homoseksualnosti.
+{77121}{77250}Ja sam normalan, mama, tata, morate mi vjerovati.|Kunem se, nisam bio nigdje.
+{77265}{77350}NeÊeö valjda reÊi roditeljima?
+{77481}{77552}Duöo, tvoja mama i ja,|oboje znamo...
+{77553}{77639}da nemaö niöta s tim...
+{77672}{77719}- Izletom u "KurcopuöaË"!
+{77720}{77791}znaö ..."Kur...".
+{77792}{77859}Ali ako jesi pobjegla...
+{77864}{77963}- Moraö znati da Êeö ostati |prepuötena sama sebi.
+{77984}{78031}äto to treba znaËiti?
+{78032}{78079}Ne moûeö se vratiti kuÊi.
+{78080}{78151}Ne moûemo dopustiti da|ûiviö nezdravim ûivotom...
+{78152}{78217}pod naö krovom.
+{78248}{78319}I Megan, ako je to to öto si odabrala...
+{78320}{78403}odabrala si se odreÊi nas, u potpunosti.
+{78488}{78535}No dobro.
+{78536}{78614}äto si nam ono htjela reÊi?
+{78631}{78722}Da se nemate zbog Ëega brinuti.
+{78751}{78822}Nedostaje mi Jared, puno...
+{78823}{78894}Ne mogu doËekati da ga opet vidim.
+{78895}{78965}Oh Megan, to je divno.
+{78967}{79069}Pa nastavi napredovati|i doÊi Êemo te vidjeti na maturi.
+{79111}{79182}Bit Êeö doma za Ëas.
+{79183}{79254}Do vienja, slatkice.
+{79255}{79302}Budi dobra cura.
+{79303}{79371}Dovienja draga.
+{79543}{79614}"Ovdje Larry i Lloyd Morgan Gordon,|ostavite poruku".
+{79615}{79697}Znam da ste tamo, javite se!
+{79710}{79781}Sluöajte, vi male gnjide.
+{79782}{79829}Igrali ste se grubo s mojom djecom,
+{79830}{79901}grubo Êu igrati ja s vama!
+{79902}{79976}Vrijeme je isteklo.|- Hvala.
+{80022}{80093}Imaö mali problem za rijeöiti.
+{80094}{80171}Adam i Eva, ne Adam i Steve!
+{80190}{80237}HoÊete bit nastrani!
+{80238}{80309}Ne ûelite biti normalni?
+{80310}{80357}Hej, poznajem vas!
+{80358}{80429}SinoÊ sam vas vidio.
+{80430}{80501}Hej, zna li tata da si peder?
+{80502}{80571}Nastavi tako, Graham!
+{80574}{80624}- äto to radiö?| - Vidio je kad smo se ljubile...
+{80625}{80668}öto sam trebala?
+{80669}{80716}Nismo pederi!|Nitko od nas nije peder!
+{80717}{80791}Ne idemo nikamo!
+{80813}{80860}Dosta je!
+{80861}{80935}Ne povuËete li se, doÊi Êemo!
+{81005}{81052}Tako ih uËiö, Mary?
+{81053}{81100}Bacanje kamenja iz staklenih kuÊa?
+{81101}{81148}Imat Êeö puno stakla oko sebe!
+{81149}{81220}Za njih je to proces lijeËenja, Lloyd.
+{81221}{81292}Njima nije lako.
+{81293}{81376}Glupi pederi, kurci su za piËku!
+{81676}{81734}O... hvala.
+{81772}{81819}Tako ti dobro ide biti normalna.
+{81820}{81894}Oh, imaö stvarno velike miöiÊe.
+{81916}{82001}Stalno zaboravljam neke male stvari.
+{82012}{82078}Dodaj mi kolaËa...
+{82108}{82155}Mogu ih izmasirati?
+{82156}{82232}Imaö tu... torte.
+{82492}{82552}O, baö dobro.
+{82755}{82826}- Joö uvijek si moj muökarac.| - Hvala.
+{82827}{82874}Sviaö mi se, muökarci su dobri.
+{82875}{82945}OsjeÊam se kao osvajaË.
+{83115}{83175}Zavröni test.
+{83187}{83278}Svi Êete biti testirani u svojim kategorijama.
+{83283}{83382}Oni koji prou,|stiûu na peti korak.
+{83403}{83474}"Simulacija seksualnog ûivota".
+{83475}{83570}I svatko tko zavröi,|zaputit Êe se kuÊi.
+{83571}{83655}DeËki s Mikeom, djevojke sa mnom.
+{85033}{85080}Tema sastava...
+{85081}{85128}"Uzroci i kako me ...
+{85129}{85212}udaljavaju od heteroseksualnosti."
+{85585}{85699}S ciljem da se uspjeöno izborimo|iz zagrljaja poûude
+{85704}{85775}moramo iz ûivota izbaciti...
+{85776}{85823}sve öto nas veûe za homoseksualnost.
+{85824}{85920}Nisam joö vidjela tako|odluËnu grupu.
+{85920}{85993}Propuötam vas sve...
+{86016}{86086}osim jednog od vas.
+{86112}{86189}Andre, moûeö spakirati stvari.
+{86208}{86255}Ona u kuhinji peËe kolaË...
+{86256}{86303}i dajeö joj odmor prije simulacije.
+{86304}{86370}Michael, Ëestitam.
+{86400}{86482}Samo nisam htio biti brutalan.
+{86496}{86556}Ja sam tetkica!
+{86568}{86621}Ne.
+{86640}{86726}Trebaö se ponositi onim öto jesi.
+{86735}{86800}Halo!
+{86807}{86878}Mislim... opak si, ne tetkica.
+{86879}{86958}Ti si drag, Ëist i pametan...
+{86999}{87070}seksi i imaö tvrdi odbojnik...
+{87071}{87118}Oprosti.
+{87119}{87166}Zadnje öto ûelim znati je...
+{87167}{87270}da nekom bivöem pederu|imam tvrdi odbojnik...
+{87335}{87382}»estitam, laûljivci.
+{87383}{87454}Znate tko ste... i znate öto ûelite...
+{87455}{87502}i to nitko neÊe izmijeniti.
+{87503}{87560}Sranje.
+{91147}{91201}Graham.
+{91291}{91371}Nisam se joö nikada tako osjeÊala...
+{91387}{91443}oprosti...
+{91459}{91506}Oprosti na Ëemu?
+{91507}{91554}Nemoj se smijati, ok?
+{91555}{91611}Ni sluËajno.
+{91627}{91711}Osim onda, kad sam bila cheerleaderica.
+{91746}{91793}Zaista?
+{91794}{91856}Ozbiljna sam.
+{91866}{91971}Moûe ti izgledati glupo,|ali te zaista volim.
+{92010}{92124}Navijanje je jedina|stvar koja me Ëini sretnom.
+{92250}{92312}Nije moguÊe.
+{92370}{92420}Voljela bih jednom vidjeti dok navijaö.
+{92421}{92494}Ne sprdaj se od mene.|Ne, ne zezam se.
+{92562}{92667}A moûda su ljubomorni,|jer imaö neöto öto voliö.
+{93017}{93081}Diûi se iz kreveta!
+{93089}{93136}Ti hormonalna mjeöavino.
+{93137}{93208}Ne mogu vjerovati da si to ti.|Ti bi trebala biti normalna!
+{93209}{93280}Diûi se... istog Ëasa!
+{93281}{93328}äto sam uËinila?
+{93329}{93399}Cijelu noÊ prespavala s Graham.
+{93425}{93499}OblaËi se, odmah!
+{93521}{93616}Naravno da shvaÊaö koliko Êe te|tvoja mala avantura koötati.
+{93617}{93705}Bit Êeö izbaËena iz |programa i skupine smjesta.
+{93737}{93783}Razumijem.
+{93784}{93903}Tvoji su roditelji naravno, jasno dali do znanja|da viöe nisi dobrodoöla kuÊi...
+{93904}{93985}i bit Êeö prepuötena sama sebi.
+{94024}{94124}Moûda jedino öto mogu uËiniti|je neka vrsta nagodbe.
+{94168}{94239}Ostani, poloûi s ostatkom razreda,
+{94240}{94311}u zamjenu za samo jednu uslugu.
+{94312}{94359}Partnersku simulaciju s Rockom.
+{94360}{94413}Rockom?
+{94432}{94506}O dobro, moglo bi raditi.
+{94648}{94712}Oh, za ime Boga!
+{94815}{94878}Rock!|Gasi to!
+{95007}{95054}Izgubili smo Megan.
+{95055}{95102}Nije bila dovoljno jaka.
+{95103}{95174}A ti joö imaö izgleda da se spasiö.
+{95175}{95222}Tvoj je izbor, moûeö pobjeÊi s Megan...
+{95223}{95270}i prijeÊi u religiju muökih ûena...
+{95271}{95342}ili izvröiti simulaciju i poloûiti...
+{95343}{95390}i vratiti se normalnom ûivotu.
+{95391}{95440}Tu nema izbora.
+{95441}{95512}Doöla si ovdje poloûiti i|toËno to Êeö uËiniti.
+{95559}{95606}Razumijeö me, mlada gospodiËna?
+{95607}{95678}Upravo te zbog toga majka napustila.
+{95679}{95755}Jesi li spremna izgubiti oca?
+{96302}{96349}Onda, slobodna si.
+{96350}{96421}Graham Êe se pohvatati s Rockom|u simulaciji.
+{96422}{96469}Megan, nestani.
+{96470}{96533}äirok ti put.
+{97621}{97692}äto ûeliö?|Moram razgovarati s Lloydom i Larryem.
+{97693}{97764}- Jesi li iz "Pravih smjernica"?| - Da.
+{97765}{97829}Hej, nemojte viöe!
+{97884}{97931}Dobro, mala, ulazi u centar.
+{97932}{97987}No, ulazi!
+{98052}{98147}Ne mogu se vratiti, mogli bi me nauËiti|kako biti lezbijka.
+{98148}{98247}äto oblaËe, gdje ûive, znate...
+{98268}{98339}Megan, ne moûemo ti pomoÊi u tome.
+{98340}{98411}Ne postoji neki naËin kako biti lezbijka.
+{98412}{98485}Samo trebaö biti ono öto jesi.
+{98556}{98618}Dolph?| Megan?!
+{98652}{98699}Hvala puno öto si me ovamo doöla obiÊi!
+{98700}{98747}äto ti tu radiö?
+{98748}{98865}éivim, ...ovaj mislim...|dok ne stanem na noge.
+{98915}{98962}Milijun puta je ljepöe nego tamo.
+{98963}{99010}Imamo zasebne sobe i ne moramo|spavati do ponoÊi.
+{99011}{99106}Stalno dijelimo kupaonicu.|Ne u isto vrijeme, naravno.
+{99107}{99165}Naravno.
+{99179}{99226}Hajde, sve Êe biti ok.
+{99227}{99290}Ne, neÊe.
+{99323}{99394}Trebala je biti sa mnom, ali nije.
+{99395}{99442}Stani malko... tko?
+{99443}{99490}Graham.
+{99491}{99562}Znao sam!|Padala je na tebe od poËetka.
+{99563}{99610}Zaöto onda nije poöla sa mnom?
+{99611}{99658}Moûda se boji.
+{99659}{99706}A ja ne?
+{99707}{99792}Vjeruj, bolje ti je ovdje.
+{99946}{100010}Graham, obrati pozornost.
+{100018}{100122}Akcija, Rock!|Korak peti: "Simulacija seksualnog ûivota"
+{100306}{100377}Zagrli je i poljubi.
+{100450}{100521}Osjeti kako je meka i podatna.
+{100522}{100592}Nije li prekrasno?
+{100594}{100684}A sada, Graham, nek te on vodi.
+{100714}{100761}Malo jezikom.
+{100762}{100832}On te voli, ûeli biti s tobom...
+{100833}{100880}biti blizu tebe...
+{100881}{100981}biti u tebi...| ... ökoljka ljubavi bubri...
+{101073}{101144}Megan... mislimo da bi te Dolph|mogao nekamo izvesti za vikend...
+{101145}{101232}da proslavite tvoju slobodu, öto kaûeö?
+{101241}{101323}I... Megan, öto Êeö sada raditi?
+{101337}{101408}Larry, Megan je upravo |donijela traumatiËnu odluku
+{101409}{101456}i joö treba odmora.
+{101457}{101572}Pomiöljam, mogli bi potraûiti|ökolu u gradu i
+{101577}{101624}Nije spremna!
+{101625}{101732}Slatki! - Samo pitam, jednostavno pitanje,|ne namjeravam...
+{101745}{101792}Sad uvodiö poviöen ton...
+{101793}{101839}Sad ne smijem pitati ni pitanje?
+{101840}{101887}Ne ako Êeö poËeti napadati.
+{101888}{101969}Nisam napadao, samo razgovarao.
+{102008}{102079}OsjeÊam da ti viöe nije stalo|do mog miöljenja.
+{102080}{102151}»ini se da öto god uËinim,|nisi zadovoljan.
+{102152}{102219}OsjeÊam se odbaËen.
+{102248}{102319}Volim svoga medvjediÊa.
+{102344}{102435}- Lloyd, ûao mi je.| - I meni je isto ûao.
+{102560}{102607}Onda jedimo, objed je gotov.
+{102608}{102685}Vrlo dobro, ok, tko je sljedeÊi?
+{102991}{103086}Zapamtite, seks je uûitak.|Voenje ljubavi...
+{103087}{103158}nema niËeg prljavog u tome...
+{103159}{103230}Seks je predivan|kad se odvija izmeu muökarca i ûene.
+{103231}{103355}U toj poziciji ûena razmiËe noge,|otvara ih kao cvijet.
+{103399}{103446}Divno, Graham.
+{103447}{103553}Na ovom mjestu muökarac|ulazi u ûenu.
+{103687}{103780}- Da, tako je!| - Da Rock, to je to!
+{103783}{103853}- Gospoo Brown?| - äto je bilo, Joel?
+{103854}{103901}äto je s uvertirom?
+{103902}{103973}Uvertira je za curice,|pravi muökarac ulazi...
+{103974}{104051}izlazi i ulazi, do kraja!
+{104358}{104433}Mogli bi zaplesati, ako ûeliö.
+{104454}{104501}Ti odi.
+{104502}{104579}Moram malo otiÊi na zrak.
+{104909}{104971}Nedostaje mi.
+{105005}{105076}Uplaöena je, moûda je uËinila krivi odabir.
+{105077}{105170}A ti si jednu stvar imala za odabrati.|Mogla si samo otiÊi.
+{105197}{105269}A öto je s tobom i Claytonom?
+{105293}{105367}On ne zna i ne moûe odluËiti.
+{105485}{105532}A ti?
+{105533}{105612}äto ti ûeliö raditi?
+{105677}{105735}Matura.
+{105749}{105796}Tako sam ponosna na tebe.
+{105797}{105888}Nije li divno biti normalna?
+{105892}{105963}Biti bez homoseksualnosti.
+{105964}{106079}Znam da neÊe biti lako, |pogotovo ako ne znaö öto sada radiö.
+{106108}{106175}Dobro djevojke, spremne za polazak?
+{106252}{106299}- Daj mi kljuËeve.| - Nadam se da je ispravan.
+{106300}{106371}- A Clayton?| - Radim to zbog tebe, ne zbog Claytona.
+{106372}{106431}Da, toËno...
+{106588}{106644}Evo ga.
+{107331}{107386}Hajdemo.
+{107811}{107918}Dobro doöli u maturantski razred|u "Pravim smjernicama".
+{107978}{108049}Dame i gospodo, pretstavljam vam...
+{108050}{108137}sretne heteroseksualce.
+{108818}{108888}Isuse!|Zaöto si ovdje?
+{108889}{108956}Doöla sam te odvesti.
+{108985}{109061}Ne mogu viöe poÊi, Megan.
+{109657}{109704}O, baö ste brzi.
+{109705}{109768}Gdje je Graham?
+{109777}{109845}Pokuöat Êu joö jednom.
+{110088}{110183}Okupili smo se na ovaj poseban dan,|u proslavi divnih...
+{110184}{110249}"Pravih smjernica"...
+{110328}{110403}i vjeri u novu snagu.
+{110472}{110549}Apsolventi, molim ustanite.
+{110568}{110629}Sinead Lorant.
+{110760}{110821}Joel Goldberg.
+{111023}{111089}Hilary Wandermuler.
+{111263}{111323}Graham Eaton.
+{111863}{111945}A sada, prije no zavröimo...
+{112198}{112252}Graham.
+{112390}{112485}dva tri Ëeti-ri... |...neÊu sad odustati...
+{112486}{112585}sedam osam jedan dva...|...kleknut Êu na koljena...
+{112654}{112718}jedan i dva jesu tri... |...jedina si za me ti...
+{112774}{112855}dva tri Ëeti-ri...|...preostaje se bori-ti...
+{113181}{113239}Volim te.
+{113277}{113348}Megan!|Prestani istog Ëasa!
+{113349}{113420}Bit Êeö obiljeûena...
+{113421}{113468}zbog svojih homoseksualnih sklonosti...
+{113469}{113564}za cijeli ûivot!
+{113685}{113756}Vozi!|Hajde, idemo!
+{113757}{113811}Megan!
+{113829}{113886}»ekaj!
+{113900}{114200}{C:$0000FF}{y:ib}preveo s engleskog i poljskog |{C:$FF0000}{y:b} drdamjan 
+{114215}{114915}{C:$0000FF}{y:ib} B & M |{C:$FF0000}{y:b} movies 
+{114240}{114340}
+{114340}{114440}
+{114465}{115965}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

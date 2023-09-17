@@ -1,0 +1,984 @@
+{1}{1}24.975
+{26}{176}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{3048}{3092}Koliko je sati?
+{3106}{3136}Deset do Ëetiri.
+{3140}{3189}Koliko sati je sada?
+{3197}{3230}Devet do Ëetiri.
+{3315}{3360}Ustani, Ëudaku!
+{3378}{3409}Osam do Ëetiri.
+{3431}{3467}Gde je Doinel?
+{3544}{3562}Ovde sam. Zaöto?
+{3567}{3592}Hajde.
+{3598}{3643}Mogu li da piöam?
+{3653}{3695}Ne pre 6.
+{3704}{3749}Vaöljivo kopile.
+{3753}{3795}Nisi trebao da udariö tog straûara.
+{3799}{3840}Doinel, piöaj za nas.
+{3869}{3908}Jebi za nas!
+{3919}{3947}TaËno u pet.
+{3963}{4011}MisliÊemo na tebe u pet!
+{4313}{4359}Redov Doinel je ovde.
+{4529}{4610}Ispitate tlo sa svojim bajonetom.
+{4631}{4734}I mislite,|''Ah, oseÊam neöto tvrdo!''
+{4747}{4830}To kaûe vaöa devojka kada ste|kod kuÊe ili kad odete.
+{4883}{4939}Pa, mine su kao dame.
+{4949}{4993}Morate da budete neûni.
+{5015}{5086}Kod devojke ne osetite odmah|njeno dupe.
+{5111}{5151}Istraûujete.
+{5156}{5228}Sa minom je ista stvar.
+{5270}{5320}ProuËite je dok nisam tu.
+{5442}{5492}Pa, konaËno si uspeo.
+{5518}{5595}Dobro je i za tebe i za nas...
+{5610}{5660}Neki pojedinci su beznadeûni.
+{5682}{5747}Samo smetaju vojsci.
+{5793}{5827}Ovo je tvoj dosije.
+{5838}{5902}Redov Antoan Doinel dobrovoljno|se prijavio na 3 godine...
+{5906}{5973}otpuöten iz vojske...
+{5983}{6034}jer je bio nesposoban za sluûbu.
+{6070}{6125}Postoje momci koji ne vole vojsku.
+{6129}{6186}Oni su regrutovani i sluûe.
+{6200}{6266}Ali oni nisu dobrovoljci!|Zaöto si se prijavio?
+{6309}{6382}Iz liËnih razloga.
+{6402}{6456}Devojka, naravno!
+{6476}{6566}Vojska nije izbegliötvo.|Joö viöe, proveo si ovde...
+{6571}{6604}i viöe nego öto je trebalo.
+{6608}{6663}Trebali su da te vrate
+{6668}{6701}Ja bih...
+{6716}{6777}Mora da si povukao...|prijatelje komuniste.
+{6793}{6856}Svuda ih ima.
+{6902}{6971}Dodeljen u Vidauban. AWOL
+{6980}{7052}Poslat u Strazburg. AWOL
+{7064}{7146}Zatvoren u kasarni u Dupleju. AWOL
+{7156}{7193}Uvek si AWOL
+{7314}{7371}I ukrali su ti CV.
+{7376}{7436}MoraÊeö da vratiö svoju uniformu.
+{7457}{7527}Odbijeno je Ëasno otpuötanje...
+{7531}{7577}po naredbi generala liËno.
+{7621}{7679}äto znaËi...
+{7693}{7744}da viöe nikad ne moûeö da radiö|za Vladu...
+{7748}{7810}ili bilo koju uglednu kompaniju.
+{7841}{7873}Uvek moûeö da dilujeö...
+{7877}{7939}Ali sumnjam da Êeö uspeti.
+{8058}{8115}Nadam se da se viöe neÊemo sresti.|Slobodni ste!
+{9249}{9303}Moraö da platiö za sobu!
+{9328}{9360}8 franaka.
+{9414}{9453}éinet su ponovo pokupili.
+{9479}{9515}Daj joj neöto.
+{9519}{9569}To je treÊi put.
+{9573}{9622}OdneÊemo joj sendviËe.
+{9626}{9673}Ne ja!
+{10010}{10048}Ne u usta!
+{10070}{10112}Nikad sa muöterijama.
+{10252}{10304}Nemoj! Stavila sam lak za kosu.
+{10462}{10533}NeÊu je skinuti, nazebla sam.
+{10577}{10620}Doi ovamo. OpraÊu te.
+{10636}{10666}Gde ideö?
+{10714}{10786}Uvek sam u Baltu.
+{10797}{10852}Ako nisam tamo,|samo saËekaj 10 minuta.
+{10922}{10971}äta kaûeö na subotu?
+{10975}{11027}Ok.
+{11145}{11182}Ulaziö ili izlaziö?
+{11186}{11239}Ne znam. PratiÊu te.
+{11338}{11403}Ti si moj prvi vojnik danas.
+{11425}{11465}DoneÊeö mi sreÊu.
+{11486}{11515}Koji si rod?
+{11519}{11553}Bio sam u artiljeriji.
+{11557}{11597}Sjajno!
+{11612}{11666}Volim velike piötolje!
+{14034}{14138}Antoan, kakvo iznenaenje.|Ui.
+{14127}{14175}Lusijen Êe biti iznenaen!
+{14188}{14226}Lusijen, pogledaj ko je ovde!
+{14276}{14323}Dugo te nismo videli.
+{14362}{14400}Zar odlaziö?
+{14413}{14467}Ne. Otpuöten sam.
+{14471}{14528}Jesi li jeo?|- Da. Samo vi jedite.
+{14533}{14593}Siguran sam da nisi. Sedi.
+{14653}{14683}äteta öto Kristin nije tu.
+{14709}{14782}Da li si se razboleo?|Da li je to privremeno?
+{14793}{14845}Ne. Za stalno...
+{14855}{14926}Psiholoöki nepodesan.|To Ëak priznaju i u ratu.
+{14940}{14975}Bolje za tebe!
+{14979}{15025}Vojska je kao...
+{15029}{15085}pozoriöte...|predivan anahronizam.
+{15138}{15190}Nikad nismo znali zaöto si se prijavio.
+{15273}{15341}»itao sam|VojniËko ropstvo i dostojanstvo...
+{15345}{15389}i verovao sam u to.
+{15403}{15443}I sada...
+{15447}{15483}traûiö posao?
+{15487}{15542}Voleo bih da naem neöto.
+{15552}{15588}äta kaûeö na äapira?
+{15623}{15672}Hotel Alsina.
+{15717}{15785}U pravu si! PozvaÊu ga.
+{15796}{15866}On je muöterija.|Ima hotel u Monmartru.
+{15870}{15938}Njegov noÊni Ëuvar je baö umro.
+{15942}{15974}Da li bi ti to odgovaralo?
+{15978}{16009}Bilo bi dobro.
+{16072}{16120}Hteo si da vidiö Kristin.
+{16162}{16208}PozvaÊu je sutra.
+{16212}{16259}Ne. Otiöla je na skijanje...
+{16263}{16311}sa nekim prijateljima, na nedelju dana.
+{16315}{16393}Konzervatorijum je zatvoren.|Imaju nevog dekana.
+{16397}{16486}Studenti viöe vole starog.|Zato ötrajkuju.
+{16639}{16697}Gospodin äapiro.
+{16827}{16902}»uo sam da ste spominjali Kristin.|äta si mu rekla?
+{16916}{16983}Istinu.
+{16991}{17026}äta sam trebala da mu kaûem?
+{17037}{17077}U redu je.
+{17101}{17182}Rekao mi je da odmah doem.
+{17200}{17253}Mislim da je bolje da odmah krenem..
+{17257}{17304}Pre nego pojedeö sir?
+{17344}{17429}Hajde. Biti noÊni Ëuvar nije loöe.
+{17433}{17487}Imaö vremena da Ëitaö.
+{17492}{17545}I äapiro je dobar Ëovek.
+{17549}{17602}ReÊi Êu Kristin da Êeö se vratiti.
+{18463}{18491}Zdravo, Kristin.
+{18518}{18550}Zdravo, Antoan.
+{18557}{18617}Drago mi je öto te vidim.|Nisi se promenio.
+{18634}{18683}Izaöao si?|- KonaËno.
+{18687}{18757}To su mi rekli moji roditelji.
+{18778}{18822}Jesi li se upravo vratila?
+{18826}{18890}Odmah sam doöla.
+{18894}{18934}Da li ti se svia ovde?
+{18938}{18995}Mirno je.
+{19001}{19072}Moji roditelji su se plaöili|da ne nazebeö. Poslali su ti ovo.
+{19110}{19151}Vitamini. Lepo od tebe, ali...
+{19155}{19210}Uzmi sad, ili Êeö zaboraviti.
+{19245}{19307}HoÊeö li neöto da popijeö?
+{19311}{19341}äta ima?
+{19345}{19420}Bilo öta... Mineralna voda... koka kola
+{19426}{19459}Kolu.
+{19625}{19708}Nisam mislila da Êu ponovo da te vidim.|Nisi pisao 6 meseci.
+{19806}{19880}Bio sam uglavnom u zatvoru|ili u bolnici.
+{19897}{19958}Kada sam ti pisao, u poËetku...
+{19972}{20015}nisi baö Ëesto odgovarala.
+{20019}{20104}Jesam!|Ali ti si napisao toliko pisama.
+{20127}{20208}Jednom sam brojala...|Dobila sam ih 19 za jednu nedelju.
+{20223}{20284}Pitala sam se kada naeö vreme da piöeö.
+{20293}{20323}I ja sam se to pitao.
+{20354}{20415}I nisu sva bila lepa.
+{20428}{20479}Kada ti je slobodan dan?
+{20506}{20524}U sredu.
+{20528}{20583}Doi na veËeru.|Majka je rekla da te pitam.
+{20587}{20663}Moûeö da se kladiö...|apsolutno... sigurno...
+{21522}{21562}Da li je ga Kolin siöla?
+{21566}{21602}Nisam nikoga video.
+{21643}{21718}Trebalo je da se naem s njom u 6.|I kasnim.
+{21722}{21778}ZakasniÊemo na voz za London!
+{21785}{21836}Brod nas neÊe Ëekati.
+{21850}{21939}Zar vam nije rekla da je probudite?
+{21946}{22006}Polovinu vremena spavaö!
+{22018}{22082}Da pogledam.
+{22088}{22155}U 6 sati - soba 18. U 6:15...
+{22159}{22196}Evo!.. soba 24
+{22200}{22265}Idemo. Uzmi kljuË.
+{22269}{22344}Znam je... Verovatno je uzela|pilulu za spavanje.
+{22352}{22389}Poûuri!
+{22416}{22468}Koji sprat?|- TreÊi.
+{22529}{22600}Ako propustimo taj voz,|zakasniÊemo na brod.
+{22763}{22791}Otvori vrata.
+{22795}{22860}Uzima pilule za spavanje.|Upali svetlo.
+{22909}{22939}éulijen, öta to radiö?
+{23001}{23019}Tvoj muû?
+{23085}{23122}Ne tiËe me se.
+{23126}{23175}éulijen! Ovo je previöe!
+{23207}{23281}Moja majka je bila u pravu!|PatetiËan si!
+{23285}{23310}Beznadeûan!
+{23318}{23397}Samo se pogledaj...
+{23439}{23479}Ne, ne... ne tako!
+{23483}{23519}U Ëemu je stvar?
+{23523}{23593}Moramo da budemo buËni.|Sada... hajde!
+{23601}{23626}Ti si lud!
+{23677}{23737}Ne cveÊe! Vazu!
+{23755}{23821}To je sjajno! Samo nastavi!
+{23855}{23895}Idi pozovi policiju.
+{23899}{23968}Sve Êe razbiti!|On je lud!
+{24119}{24167}Pozovi policajce!
+{24179}{24227}Kaûi da je hitno!
+{24236}{24318}Kaûi im da je ozbiljno.|DoÊi Êe brûe.
+{24341}{24388}Vrlo dobro.
+{24427}{24450}Vatrogasci?
+{24454}{24499}Ne! Policajce! Pozovi 92
+{24549}{24621}Ovo je za tebe. Kupi slatkiöe.
+{24626}{24643}Halo, policija?
+{24680}{24752}Ovde hotel Alsina.
+{24772}{24812}Na 3. spratu...
+{24816}{24861}Kaûi da sve razbijaju.
+{24865}{24909}Sve razbijaju.
+{24989}{25016}Zadrûi.
+{25020}{25041}äta se deöava?
+{25056}{25124}»ovek je upravo pronaöao svoju ûenu...
+{25139}{25194}Gospoa iz broja 24 je bila sa|Ëovekom iz broja 19.
+{25198}{25234}Pustili ste ga da ue!
+{25238}{25288}Rekao mi je da ûuri.
+{25292}{25356}Vi ste privatni detektiv!|Gubite se odavde!
+{25435}{25470}Vi takoe!
+{25540}{25591}Ovo je vaö bonus...
+{25597}{25636}I ovo je za BoûiÊ.
+{26003}{26023}äta ûelite?
+{26052}{26089}Upravo sam naruËio.
+{26141}{26188}Brzo ste povukli!
+{26194}{26239}Jeste li vi privatni detektiv?
+{26255}{26330}U agenciji sam 30 godina.
+{26334}{26387}Zar niste videli oglas...
+{26391}{26452}u imeniku?
+{26536}{26610}Niste me videli u hotelu proöle noÊi.
+{26615}{26666}Ali bio sam tamo...
+{26670}{26739}kada su gospoa Kolin|i njen ljubavnik otiöli gore.
+{26762}{26813}Znao sam da Êe biti zajedno u krevetu.
+{26817}{26868}Samo mi je trebao dokaz.
+{26881}{26924}Zaöto onda niste pozvali policiju?
+{26928}{26964}Ne bi doöli.
+{26968}{27054}Moj klijent bi trebao da se obrati|pravozastupniku.
+{27058}{27129}On bi morao da pozove policiju.
+{27139}{27195}Oni dou i öta urade?
+{27250}{27328}Policajci zabeleûe da su|u odreeno vreme...
+{27334}{27392}videli g. Kolina...
+{27396}{27475}kako ulazi u hotelsku sobu...
+{27479}{27553}i napada dve osobe koje su|bile u krevetu...
+{27557}{27675}Jedna od osoba je bila ûena|pomenutog Kolina...
+{27713}{27813}Zapravo, policajci dolaze samo kada|je u pitanju uznemiravanje javnog reda.
+{27817}{27937}Ali u ovom sluËaju,|imamo zvaniËan dokaz preljube.
+{27946}{27989}Nije loöe!|- To mi je posao.
+{28058}{28097}Moram da idem.
+{28179}{28220}Moram da obavim telefonski razgovor.
+{28224}{28283}Oh, obaviÊu to u kancelariji.
+{28299}{28371}Hej, izgubio si svoj posao, zar ne?
+{31663}{31691}Gde je majka?
+{31695}{31751}Vozovi su u ötrajku do sutra.
+{31755}{31800}Ali sto je postavljen za troje.
+{31804}{31843}Pogledaj ko je iza tebe.
+{31920}{31975}Mislila sam da dolaziö u sredu.
+{31979}{32008}Otiöao je iz hotela.
+{32012}{32033}Otpuöten je.
+{32051}{32110}Traûi posao?|- Ne, imam jedan.
+{32116}{32140}äta radi?
+{32144}{32215}Nikad neÊeö pogoditi.
+{32250}{32280}RaznosaË novina?
+{32284}{32334}Bolje od toga.
+{32353}{32421}Straûar na Orliju?|- Tu treba snaga.
+{32549}{32607}Slikar?|- Tu treba talenat.
+{32621}{32653}Pisac?
+{32666}{32700}U tome nema novca.
+{32722}{32752}Kontroler vode?
+{32756}{32819}To je dobar posao. Videla sam na TV-u.
+{32823}{32880}Ne. Manje umarajuÊi.
+{32884}{32919}VozaË taksija?
+{32935}{32980}Pribliûavaö se.
+{33054}{33073}Pesnik?
+{33141}{33187}Manje intelektualno. Opasnije.
+{33191}{33244}Odustajem.|- Rekao sam opasnije.
+{33285}{33352}Mogu li da ti dam nagoveötaj?
+{33403}{33436}Da li koristi piötolj?
+{33440}{33479}Ne. Lupu!
+{33547}{33576}Odustajem.
+{33607}{33652}PomoÊi Êu ti.
+{33660}{33679}äerif?
+{33683}{33752}Baö.|Jesi li videla njegovog konja napolju?
+{33756}{33815}Ja sam privatni detektiv!
+{33848}{33898}Da. Antoan Bond...
+{33903}{33924}FBI.
+{33986}{34047}Znaö li Bladijevu agenciju...
+{34064}{34128}sve vrste istraûivanja.
+{34174}{34201}Oh, to je sjajno!
+{34217}{34250}éelim da Ëujem o tome.
+{34255}{34292}Doi pomozi mi.
+{34390}{34483}Ne mogu dugo da ostanem.|Treba da se naem sa nekim prijateljima.
+{34487}{34531}Da li ti smeta?
+{34548}{34577}Siguran si, sada?
+{34581}{34634}Ne smeta mi.
+{34643}{34683}Ako bi ti smetalo, da li bi mi rekao?
+{34687}{34771}Ne, ne bih.|Ali mi ne smeta.
+{35517}{35566}PropevaÊeö.
+{35570}{35598}Ja nisam kanarinac.
+{35602}{35637}Prigovor, vaöe visoËanstvo.
+{35641}{35731}Sve öto kaûete moûe da bude|upotrebljeno protiv vas.
+{35824}{35899}Katrin, radila si dobar posao|u Londonu.
+{35904}{35960}Ali zaöto sva ta sobna usluga?
+{35964}{36035}London Hilton je na uglu.
+{36039}{36121}Zaötitila sam oboje vrata|od prozora.
+{36150}{36191}äta je novo u tekstilnom sluËaju?
+{36195}{36272}ProdavaËica niöta ne krade.
+{36294}{36358}Pratili smo je tri nedelje.
+{36380}{36463}Ne moûe niöta da krije u svom kaputu,|a i torba joj je premala.
+{36496}{36542}Ona nije lopov.
+{36576}{36652}PrestaÊemo s tim. Idem da ruËam.
+{36664}{36723}Mislim da je njen öef sve to izmislio.
+{36734}{36830}Zaljubljen je u nju...
+{36837}{36914}i traûio je neki naËin da joj|se pribliûi.
+{36932}{36987}I nije se usuivao da mi kaûe istinu.
+{36991}{37067}Kako momak iz Ministarstva pre 3 godine.
+{37071}{37122}Ali loöe je zavröio.
+{37157}{37214}Da. Obesio se.
+{37229}{37269}Ne, upucao se.
+{37273}{37343}Obesio se o gredu...
+{37349}{37388}na tavanu Ministarstva...
+{37392}{37466}Kad se obesiö mozak ti se ne omota...
+{37470}{37530}sa kaiöom bade-mantila.
+{37534}{37594}Uvek imaö poslednju reË, Henri.
+{37634}{37690}Raspravljao sam se sa tvojim ocem...
+{37697}{37734}dok si joö bio u pelenama.
+{37738}{37771}Doinel, ti ostani.
+{37775}{37848}Moj otac je imao mnogo strpljenja.|Ali moje je ograniËeno.
+{37861}{37917}To je dobro!
+{37921}{37956}G Albani je ovde.
+{37960}{37989}Uvedi ga.
+{37993}{38069}Ti saËekaj tamo.
+{38682}{38725}Uite i sedite.
+{38869}{38911}Radi se o mom prijatelju...
+{38934}{38977}koji je ûiveo sa mnom.
+{38987}{39013}Pre mesec dana...
+{39020}{39051}nestao je.
+{39061}{39078}Ostavio je...
+{39084}{39169}neke stvari|i ja bih voleo da ih vratim.
+{39217}{39245}HoÊete njegovu adresu?
+{39308}{39366}Da, ali ne samo to.
+{39373}{39423}Voleo bih da znam kako ûivi...
+{39427}{39475}öta radi, koga via.
+{39517}{39591}Razumem. PronaÊi Êemo...
+{39595}{39620}njegovu adresu...
+{39624}{39651}pratiÊemo ga...
+{39672}{39698}i istraûiti.
+{39733}{39757}To Êe da vas koöta...
+{39761}{39791}300 franaka dnevno.
+{39814}{39898}Dobro. Da li Êe da traje...
+{39916}{39942}veoma dugo?
+{39946}{40024}To zavisi od toga da li je|vaöeg prijatelja...
+{40042}{40075}dûentlmena...
+{40093}{40167}teöko naÊi ili ne.|»ime se on bavi?
+{40195}{40231}On je maioniËar.
+{40252}{40329}Ima taËku sa konopcima u boji.
+{40361}{40422}Uvek se zbunim.
+{40566}{40608}Donesi knjige.
+{40642}{40690}Odmah Êu da poËnem da radim|na sluËaju.
+{40697}{40747}Nazovite me za nekoliko dana.
+{40876}{40906}Da li je Doinel tamo?
+{40961}{41059}Jesi li siguran da poznajeö sebe?
+{41084}{41139}Jer moram da te razumem.
+{41143}{41207}Samo upamti da mi nismo FBI.
+{41211}{41301}Mi nikad ne predstavljamo|policijske inspektore.
+{41320}{41377}Koristimo inicijativu i lukavstvo.
+{42008}{42102}Tamo, svaki Ëetvrtak sluûe|usoljenu svinjetinu i soËiva.
+{42322}{42362}Doöao sam da vidim Kristin.
+{42366}{42394}Izaöla je.
+{42398}{42463}Ui i popij kafu.
+{43088}{43120}Da doem veËeras?
+{43124}{43208}Ne. Rekla sam u subotu.|Ili nikad, ako ti to ne odgovara.
+{43212}{43262}Subota je u redu.
+{43550}{43616}Izgledaö uznemireno. äta nije u redu?
+{43636}{43676}Katrin je nemoguÊa!
+{43680}{43730}Odbija da se uda!
+{43734}{43801}Ja sam sa devojkom veÊ 2 godine...
+{43805}{43842}i znam da to neÊe uspeti.
+{43846}{43888}Zaöto ne uzmeö kurvu?
+{43892}{43928}Previöe su prljave.
+{43958}{44026}U tvojim godinama jeo sam francuske|prûenice na ulici...
+{44030}{44071}i povaljivao ribe...
+{44075}{44139}koje su koristile igle za zaötitu|na svojim grudnjacima.
+{44178}{44236}Ali sada, ne mogu to.
+{44262}{44316}Imam sastanak sa stvarno|visokom devojkom.
+{44320}{44392}äta radiö kada je devojka|viöa od tebe?
+{44401}{44441}Niöta posebno.
+{44446}{44499}HoÊu reÊi, visoka, visoka devojka.
+{44503}{44560}Kada izaete, ako je previöe...
+{44564}{44624}Samo izgledaj profesionalno!
+{45003}{45059}Kako je proölo sa devojkom?
+{45076}{45134}U poËetku bilo je depresivno.
+{45143}{45217}Ali kasnije, bilo je fantastiËno!
+{45221}{45282}Zidovi su se tresli...|bilo je stvarno divlje!
+{45357}{45408}Kada je moj deda umro...
+{45412}{45492}bio sam tuûan, i moja roaka|je plakala kao luda.
+{45496}{45561}Bila je velika porodiËna veËera.
+{45565}{45641}Nakon deserta|otiöli smo na tavan...
+{45645}{45689}i poöevio sam je na podu.
+{45693}{45807}Da nas je neko naöao,|izgledalo bi monstruozno.
+{45814}{45882}Ipak, voenje ljubavi je naËin|da kompenzujeö smrt...
+{45886}{45933}da dokaûeö da si ûiv.
+{46411}{46452}Kristin Êe uskoro biti ovde.
+{46456}{46513}Idete li na raniju predstavu?
+{46517}{46582}Ne, idemo u noÊni klub...
+{46586}{46627}zbog sluËaja na kojem sam.
+{46631}{46688}Mora da je fascinantno!
+{46701}{46774}Jeste. Na primer, danas...
+{46802}{46896}ûena nas je traûila da otkrijemo zaöto...
+{46900}{47030}iako ih njihova bolniËarka|svaki dan izvodi napolje...
+{47045}{47161}njene bebe blizanci izgledaju|tako bledo...
+{47177}{47227}Poöto ona ide na posao...
+{47232}{47294}ona ne moûe da prati bolniËarku.
+{47298}{47351}Pa, poËeo sam da je pratim.
+{47366}{47404}I ovog popodneva...
+{47408}{47511}Ëekao sam ispred njenog stana.
+{47528}{47578}BolniËarka je izaöla sa blizancima.
+{47582}{47681}Odvela ih je u mali park.|Ja sam ih pratio.
+{47764}{47813}Gde je ta stvar?
+{47852}{47893}Oh, doöao si po Kristin.
+{47899}{47950}äta se dogodilo u parku?
+{47961}{48010}ProtrËala je kroz park...
+{48014}{48061}i doöla na drugu stranu.
+{48065}{48117}Uöla je u zgradu.
+{48140}{48200}OStavila je blizance...
+{48204}{48290}u prljavoj sobi.
+{48305}{48352}Onda je izaöla...
+{48356}{48429}preöla ulicu|i uöla u striptiz bar...
+{48442}{48509}gde je izvela ''bolniËarski striptiz''
+{48513}{48563}Skinula je svoju uniformu...
+{48567}{48619}i radila stvari sa flaöicom od bebe.
+{48623}{48676}I poöto se öou nastavljao...
+{48680}{48743}uradila je ponovljenu taËku|15 minuta kasnije.
+{48755}{48848}Onda se vratila nazad...
+{48852}{48887}po blizance.
+{48891}{48967}Platila je i odvela ih kuÊi.
+{48973}{49036}Nije ni Ëudo öto su|izgledali bolesno!
+{49065}{49159}Sastavio sam izveötaj i|pozvao kancelariju.
+{49172}{49205}FantastiËno!
+{49209}{49247}Jesi li veÊ dugo ovde?
+{49251}{49295}Bar 2 sata.
+{49309}{49340}äta traûiö?
+{49344}{49396}Ne mogu da naem Langmanovu adresu.
+{49434}{49489}éelim da njegovoj supruzi|poöaljem cveÊe.
+{49493}{49543}Pozovi ga. Imamo njegov broj telefona.
+{49547}{49597}I öta da kaûem?
+{49601}{49665}''Daj mi tvoju adresu|da mogu da ti poöaljem cveÊe''
+{49669}{49748}Imate njegov broj telefona,|ali nemate njegovu adresu?
+{49754}{49810}Langman... 525 5573
+{49824}{49860}To je jednostavno.
+{49864}{49900}Prepustite to meni.
+{50036}{50075}äta to radiö?
+{50179}{50225}Da li je to 525 5573?
+{50229}{50260}Ga. Langman?
+{50281}{50359}Ako ja kaûem, ''»ikita''|öta vi treba da odgovorite?
+{50384}{50403}Banana!
+{50407}{50471}Upravo ste osvojili 5 kilograma|banana!
+{50475}{50537}Na koju adresu da ih poöaljemo?
+{50555}{50585}Ulica Ribera broj 6.
+{50589}{50644}Dobro. I Ëestitamo!
+{50653}{50682}To je bilo sjajno!
+{50686}{50740}Jedan od trikova zanata.
+{50789}{50837}Idemo li u bioskop?
+{50841}{50893}Ne, moram da idem u noÊni klub.|Zbog sluËaja.
+{50897}{50955}To je lepo mesto. Tamo je predstava.
+{50982}{51008}Da li ti smeta?
+{51012}{51116}Ne. Ako je svetlo, ponaöaÊeö se|pristojnije nego u bioskopu...
+{51120}{51161}i ja Êu imati malo mira.
+{52150}{52190}Bio jedan stari mornar...
+{52194}{52265}maioniËar i pripovedaË...
+{52323}{52374}ûiva legenda.
+{52487}{52506}Deca...
+{52510}{52601}bi bila u gomili iza njega.
+{52616}{52700}Dok se igrao sa konopcima,|priËao bi im...
+{52705}{52738}Ëudne priËe.
+{52742}{52805}Imao je razne vrste konopaca,|svih duûina...
+{52809}{52854}svih boja.
+{52858}{52929}Bele i crvene...
+{52934}{52976}zelene i ûute.
+{52992}{53068}Narandûaste i crvenkaste,|ljubiËaste i plave.
+{53172}{53216}On bi se pretvarao da nas ne vidi.
+{53222}{53268}Ali mi bismo ga videli.
+{53295}{53349}Umotao bi zlatni konopac...
+{53354}{53386}i stavio bi ga dole.
+{53410}{53497}Onda, dok bi izvodio...
+{53501}{53537}sveti ritual...
+{53563}{53603}dok bi tragao za...|ko zna...
+{53607}{53691}izgubljenom naukom... polako...
+{53695}{53720}videli bismo ga...
+{53724}{53787}kako bi vezao plavi konopac...
+{53837}{53890}i omotao bi ga oko ruke.
+{53924}{53984}A Ëvorovi bi preöli sa plavog konopca...
+{54060}{54098}na zlatni konopac.
+{54160}{54208}I sa zlatnog konopca...
+{54213}{54252}nazad na plavi konopac.
+{54322}{54415}I niko ne bi obratio paûnju|na njegovu priËu.
+{54423}{54474}»im bi onotao plavi konopac oko|svoje ruke...
+{54478}{54538}Ëvorovi bi preöli sa plavog...
+{54542}{54604}na zlatni.
+{54611}{54647}I onda ponovo nazad...
+{54651}{54692}na plavi.
+{54719}{54798}Joö jednom bi Ëvorovi preöli sa|plavog konopca...
+{54817}{54904}na zlatni konopac.
+{55171}{55236}Izvini. Moram da idem.|Posao.
+{57384}{57423}Moram da te poljubim!
+{57452}{57491}Alberte, seÊaö li se Antoana?
+{57515}{57548}Albert, moj muû.
+{57553}{57584}äta radiö ovde?
+{57591}{57625}»ekam prijatelja.
+{57658}{57717}Pitaö se da li je deËak ili devojËica.
+{57749}{57808}Moraö jednom da doeö na veËeru.
+{57848}{57894}Imaö li moj broj telefona?
+{57906}{57940}Mislim da imam.
+{57944}{58000}Nisi zvao u poslednje vreme.
+{58016}{58083}Nisi se plaöio telefona.
+{58110}{58147}Vidimo se uskoro.
+{58909}{58956}Zovem zato öto...
+{58960}{59017}sam te ostavio u ûurbi.
+{59028}{59109}Nadam se da se ne ljutiö.|To je bilo zbog mog posla.
+{59116}{59170}Morao sam da pratim tipa...
+{59174}{59251}Znaö, maioniËara.|Nisi ljuta?
+{59255}{59330}Ne. Vi detektivi...
+{59337}{59399}To si i rekla. Ali zvuËila si...
+{59416}{59451}malo uvreeno.
+{59455}{59488}Ne. Ne uopöte.
+{59551}{59606}Moûemo da izaemo veËeras...
+{59610}{59657}ili da radimo neöto. Voleo bih to.
+{59661}{59716}I ja. Ali malo sam umorna.
+{59720}{59767}Bila sam na demonstracijama.
+{59823}{59886}Sa policajcima i palicama?
+{59921}{59961}Znaö Mari?
+{59985}{60021}Pogoena je.
+{60025}{60068}Straöni su!
+{60072}{60137}Njen otac tuûi policiju.
+{60152}{60202}Nemojte da nam prekinete vezu, gice!
+{60245}{60310}Ne Ëujem te, Kristin.
+{60336}{60389}Neöto nije u redu sa vezom.
+{60805}{60905}Nemoj da stavljaö taj prljavi papir|na moj vetrobran!
+{61357}{61385}6:55...
+{61389}{61434}zatvorili su poötu.
+{61438}{61498}6:58...|subjekt se nije pojavio.
+{61502}{61546}7:04...|operacija obustavljena.
+{61550}{61585}Prema ovome...
+{61589}{61675}subjekt je proveo noÊ u poöti!
+{61684}{61719}Mora da se öaliö!
+{61723}{61796}Izgubio sam ga.
+{61800}{61870}MaioniËar je uËinio da nestane!
+{61903}{61975}U kakvom to klubu radi?
+{61990}{62045}U nekom umetniËkom klubu...
+{62049}{62105}sa sveÊama na stolu i Vivaldijem...
+{62109}{62138}u toaletu.
+{62142}{62212}Na koju statuu misliö?
+{62216}{62302}Sve sastanke obavlja kod statue|Jovanke Orleanke.
+{62306}{62342}Kod konja?
+{62388}{62421}G. Tabard je ovde.
+{62425}{62453}Neka ue.
+{62458}{62521}Siguran sam da te je maioniËar primetio.
+{62525}{62582}Moram nekog drugog da odredim za ovo.
+{62586}{62662}Ne znam öta da radim s tobom.|Imaö ûelju, to vidim.
+{62675}{62714}Ali obeshrabrujeö me.
+{63159}{63192}HoÊu da budem iskren.
+{63205}{63275}Nemam poseban razlog zaöto sam doöao.
+{63295}{63400}Ljudi ovde obiËno ne dolaze|iz radoznalosti.
+{63460}{63541}Jeste li oûenjeni?
+{63576}{63612}Da, veoma sreÊno.
+{63616}{63688}U viöu ûenu.
+{63740}{63788}Tu nema problema.
+{63802}{63844}Dobrog sam zdravlja.
+{63865}{63919}Drago mi je öto to Ëujem.
+{63924}{63955}Vaö posao?
+{63959}{64044}Oh, radnja dobro posluje.|Svake godine udvostruËimo profit.
+{64093}{64117}Koja radnja?
+{64160}{64216}Moja obuËarska radnja.
+{64236}{64295}Cipele za muökarce, ûene|i decu...
+{64299}{64334}posebno decu.
+{64341}{64378}Svima trebaju cipele, zar ne?
+{64416}{64493}I sa saobraËajnim guûvama,|viöe ljudi ide peöke.
+{64524}{64571}Onda ste sreÊan Ëovek...
+{64575}{64620}bez briga, neprijatelja.
+{64657}{64684}Nisam bez neprijatelja.
+{64708}{64787}Joö od mog detinjstva,|na koledûu i u vojsci...
+{64791}{64841}ljudi su bili ljubomorni na mene.
+{64845}{64898}Nije da mi je to smetalo.
+{64902}{64988}I imam jednu manu...
+{65014}{65032}Iskren sam!
+{65064}{65111}Shvatam.
+{65133}{65203}Ali ne razumem zaöto ste ovde.
+{65226}{65269}äta ûelite od mene?
+{65355}{65417}Pa, niko me ne voli,|i ûelim da znam zaöto.
+{65441}{65488}Znam öta Êete reÊi...
+{65499}{65537}da treba da posetim psihijatra.
+{65558}{65646}Nije da ne mogu da ga priuötim.|Ali ne mogu da troöim vreme...
+{65651}{65734}priËajuÊi moju ûivotnu priËu na kauËu!|Ja nisam mamina maza!
+{65740}{65784}I zauzet sam zbog moje radnje.
+{65788}{65843}ObuËar uvek ima posla!
+{65925}{66006}Ako oseÊate da vas svi mrze,|to moûe biti...
+{66015}{66059}zato öto nipodoötavate ljude.
+{66063}{66110}O ne! Nikako!
+{66114}{66170}Svako moûe da kupi cipele...
+{66174}{66200}kod Tabarda...
+{66222}{66310}Jevrejke, Arapkinje...
+{66346}{66404}Ëak i Kineskinje...
+{66416}{66540}sve dok nose visoke ötikle,|naravno.
+{66584}{66665}Mislim da me preziru.
+{66705}{66769}Ali ne znam ko.
+{66820}{66877}To mogu da osetim svuda oko mene...
+{66884}{66942}u restoranima, u bioskopima...
+{66946}{66985}u nagradnim borbama.
+{67010}{67044}Moja Ëerka, na primer...
+{67048}{67104}kada joj se obraÊam, sleûe ramenima.
+{67119}{67168}A moja ûena se sve vreme smeje...
+{67172}{67224}osim kad priËam viceve.
+{67267}{67305}I moje prodavaËice...
+{67330}{67378}One su najgore.
+{67382}{67474}Svaki put kada imam primedbu|na njihov rad...
+{67489}{67525}odvrate mi...
+{67544}{67606}svaaju se.
+{67632}{67669}Imate li prijatelja?
+{67683}{67725}Nijednog.
+{67735}{67787}SreÊom, ne trebaju mi.|da mi trebaju...
+{67791}{67812}ne bih mogao da ih naem.
+{67821}{67861}Koliko imate prodavaËica?
+{67877}{67924}»etiri, plus kaserka.
+{67970}{68071}Moûemo da poËnemo istragu|u vaöoj radnji.
+{68103}{68136}Mogu da instaliram periskop.
+{68185}{68232}PokazaÊu vam.
+{68244}{68276}Neka Doinel ue.
+{68423}{68473}Rekao je odmah.
+{68484}{68520}Ovo nije moj dan!
+{68524}{68587}Znaö öta je moj otac rekao...
+{68591}{68650}kada sam otiöao od kuÊe?
+{68654}{68688}''Poötuj... svog öefa!''
+{68774}{68812}Ovo je naö periskop.
+{69173}{69204}Mlad je.
+{69208}{69275}Da. Ali izvrstan.
+{69337}{69397}Poöaljite ga u ponedeljak.|ZaposliÊu ga.
+{69401}{69454}O ne! To ne bi uspelo.
+{69463}{69541}Niko ne sme da posumnja.
+{69566}{69629}Dajte oglas: ''Potreban radnik|u skladiötu.''
+{69758}{69806}PoËnite kada ja kaûem.
+{69881}{69941}1, 2, 3, poËnite.
+{70715}{70759}Pokaûite mi vaöe pakete.
+{70796}{70829}Ovo je dobro.
+{70833}{70881}UnajmiÊemo ga.
+{71472}{71500}Kako je?
+{71517}{71587}Dobro. Radim u prodavnici cipela.
+{71592}{71660}I ja sam dobro.|Znaö moja tv scenarija...
+{71664}{71718}Doneo sam ih glavnim urednicima.
+{71722}{71771}Dopali su im se. Bili su zainteresovani.
+{71784}{71822}Siguran sam da Êe ih prihvatiti.
+{71860}{71887}Tako da sam dobro.
+{72325}{72373}Ima li ovde u blizini restoran?
+{72377}{72420}Jedi sa nama.
+{72491}{72557}ObiËno svi donesemo neöto.
+{72561}{72602}Ne ûelim da vam smetam.
+{72606}{72657}UspeÊemo nekako.
+{72685}{72732}Pomozi mi da postavim sto.
+{72857}{72929}Kakav ti je öef, g. Tabard...
+{72946}{72985}meni se dopada.
+{72992}{73039}Ne znaö ga!|On je dinosaurus!
+{73152}{73231}Ne ideö dok ne pronaeö te|''Luj XV'' cipele.
+{73245}{73319}Nikad nisu stigle.|Nisu u mom delu.
+{73323}{73396}Zar nisi uËio neöto u ökoli?
+{73415}{73490}Tvornica je potvrdila da su popravili|pete i da su ih vratili.
+{73494}{73536}Vi ste potpisali priznanicu.
+{73540}{73629}Danas sam mnogo toga potpisao.|Ne znam gde su.
+{73635}{73705}Muöterija je platila za te cipele!
+{73732}{73798}Pogledao sam u sve neoznaËene kutije.
+{73802}{73874}Pa, u pogreönoj su kutiji.
+{73904}{73983}Otvori sve dok ih ne pronaeö.
+{73987}{74054}éelim te cipele ujutro!
+{76340}{76427}Ne biste smeli da budete tu,|radnja je zatvorena.
+{76431}{76545}Da sve muöterije to rade...|- ...bili bi svi Fabien Tabard.
+{76549}{76586}Ja sam öefova ûena.
+{76597}{76633}Oh, izvinjavam se.
+{76662}{76741}U redu je.|Ti si nov?
+{76957}{76996}äta misliö o ovim?
+{77011}{77095}Previöe sjajne sa haljinu.|U pravu si.
+{77119}{77180}Donesi mi par ovakvih...
+{77204}{77271}sa crnom petom od satena.|VeliËina 4 1/2.
+{77804}{77872}G Tabard je nestrpljiv, kao i uvek.
+{77942}{77982}HoÊeö li ti da se javiö?
+{78183}{78247}Ne razumem.
+{78352}{78407}Na engleskom je.
+{78979}{79039}HoÊeö li, molim te, da odneseö|to gore u stan?
+{79143}{79181}Znaö li kako da zakljuËaö?
+{79218}{79266}Radiö dosta kasno.
+{79673}{79691}U sluËaju Pepeljuge...
+{79702}{79769}Zaposleni zovu g. Tabarda|''dinosaurus''
+{79800}{79842}Upoznao sam gu. Tabard.
+{79846}{79907}Njen glas je oËaravajuÊi|i govori engleski.
+{79911}{79949}Opiöi je.
+{79971}{80006}VeliËanstvena je!
+{80015}{80073}Malo je neodreena i veoma pristojna.
+{80095}{80168}Ima zadivljujuÊi prÊasti nosiÊ.
+{80181}{80203}Njena veliËina?
+{80218}{80240}Mröava.
+{80244}{80287}Mislim, koliko je visoka?
+{80333}{80370}170 bez ötikli.
+{80374}{80409}Kakvog oblika ima lice?
+{80422}{80468}Ovalno...
+{80472}{80523}malo trouglasto.
+{80527}{80557}Svetla koûa...
+{80561}{80591}zraËi iznutra.
+{80596}{80653}éelimo izveötaj,|ne izjavu ljubavi!
+{82613}{82695}Zaöto me juriö po radnji?
+{82699}{82761}Pa, nikad ne zoveö,|i nikad nisi kuÊi.
+{82765}{82810}Moji roditelji su zabrinuti|za tebe.
+{82814}{82901}Pozdravi ih u moje ime.
+{82911}{82967}Nema potreba da budeö tako|bezobrazan.
+{82971}{83016}Nema razloga, je li?
+{83020}{83068}Ako sam neöto uradila, samo mi reci.
+{83072}{83119}Oh, niöta!
+{83123}{83163}Mislila sam da sam ti prijateljica.
+{83167}{83246}Moûeö da zadrûiö svoje prijateljstvo!
+{83250}{83285}ZnaËi vraÊamo se na proölu godinu.
+{83289}{83361}Ne! Mnogo pre.|I Ëija je to krivica?
+{83365}{83445}Nije moja! Ne mogu da se setim|svih tvojih pisama...
+{83453}{83499}ali jednom si napisao...
+{83508}{83618}Znam da prema tebi oseÊam samo|prijateljstvo.
+{83622}{83698}Jesi li to napisao ili ne?|- To sam mislio onda.
+{83702}{83771}Ali ljubav i prijateljstvo|zahtevaju divljenje.
+{83775}{83824}Pa, ne divim ti se!
+{83832}{83900}»ak i kad sam mislio da te volim|nisam ti se divio.
+{84303}{84341}Ne ûelim da idem sama.
+{84345}{84392}Neka te Antoan povede.
+{84407}{84457}Ne bi mi smetalo.|Stvarno mi se dopada.
+{84470}{84532}Ali on je lud za gom Tabard!
+{84585}{84658}Jedan dan Silvi ju je nazvala|''Gom Dinosaurus''
+{84662}{84759}Antoan je bio besan! Rekao je,|''Ona je posebna ûena!''
+{84773}{84847}Onda je rekao, ''Ona nije ûena.|Ona je fenomen!''
+{84876}{84945}Zar nisi primetila?
+{84955}{85017}Kada se ona pojavi|sav probledi.
+{87418}{87489}Ne, ne taj red.|Pogledaj u zelenim kutijama na vrhu.
+{87505}{87538}Prazne su.
+{87542}{87589}Viöe.
+{87757}{87799}Imam li sutra slobodan dan?
+{87815}{87842}Ne.
+{87855}{87881}Mogu li danas ranije da odem?
+{87885}{87907}Ne.
+{87914}{87936}HoÊete li da Ëujete priËu?
+{87964}{87990}Ne.
+{88003}{88069}O moronu koji je rekao ne...|Pa, to ste vi!
+{88208}{88245}Poi sa mnom.
+{88280}{88339}Stalno je ovako.
+{88346}{88395}Kako ide vaöa istraga?
+{88399}{88458}Ne mogu da kaûem.|Izveötavam svake noÊi.
+{88462}{88531}G. Bladi ih analizira.|Ako ûelite viöe detalja...
+{88817}{88901}Ko najviöe plaÊa fond za cipele?
+{88905}{88940}Vaö iskreno.
+{88959}{89033}Kasniö, Dûordû.|Sve se ohladilo.
+{89037}{89119}Nema veze.|Samo Êu malo sira.
+{89130}{89189}Devojke su pomeöale kutije.
+{89256}{89312}DaÊu raËun Antoanu.
+{89317}{89384}Jesi li ruËao?|- Da. Dole.
+{89393}{89436}Sa devojkama?
+{89442}{89507}Jedna knjiga nedostaje. Sedi.
+{89518}{89564}DaÊu ti je kasnije.
+{89835}{89873}Voliö li sir?
+{89907}{89964}Ovaj je savröen.|Divno miriöe!
+{89983}{90028}Radije bih jogurt.
+{90263}{90295}Dik i éanet su zvali.
+{90299}{90362}Rekla sam im da pozovu u radnju.
+{90390}{90476}Pohaaju svoje prve lekcije francuskog.
+{90509}{90528}Da li ti govoriö engleski?
+{90601}{90677}UËim... sa ploËama.
+{90706}{90748}PloËe su smeöne!
+{90764}{90834}Moûeö jedino da nauËiö engleski|u krevetu...
+{90841}{90919}sa Engleskinjom.
+{90970}{91015}Ja sam uËio sa Australijankom.
+{91050}{91099}Njen muû je bio slikar.
+{91150}{91182}Kao Hitler.
+{91234}{91278}Nemoj to da govoriö!
+{91309}{91336}To je kleveta.
+{91361}{91414}Hitler je bio slikar pejzaûa.
+{91808}{91902}Ona koja mi treba je u kolima.|SaËekaj me, Antoan.
+{91933}{91977}Ja Êu.
+{92169}{92202}Dolaziö li?
+{94243}{94294}Voliö li muziku?
+{94300}{94316}Da, gospodine.
+{95006}{95046}äta nije u redu, Antoan?
+{95109}{95163}Bolestan sam!
+{95287}{95331}Idem kuÊi.
+{95577}{95623}Gde je onaj novi, Antoan?
+{95627}{95683}Otiöao je kuÊi, bolestan je.
+{95915}{95968}Mogu li da vidim knjigu, molim vas.
+{96041}{96093}Ne, knjigu osoblja.
+{96866}{96924}Kaûite mi reË koju da koristim|umesto ''reÊi''
+{96932}{97011}VeÊ sam je 10 puta ponovio.
+{97015}{97107}Poveriti, izjaviti, odnositi se,|potvrditi...
+{97114}{97157}Znaö mnogo.
+{97163}{97215}Ali ipak Êu da ostanem pri ''reÊi''
+{97334}{97401}Ga Tabard me stvarno Ëini zauzetim.
+{97424}{97478}Ali imam reöenje.
+{97485}{97510}Ima ljubavnika.
+{97514}{97572}Nema! Ona je iznad toga!
+{97576}{97667}Videla sam je kako kupuje 3 kravate|kod Kardena. Tabard ih ne nosi.
+{97672}{97727}Tako je. On nosi maönu.
+{97746}{97836}Idem da traûim g. Bladija|da me stavi na drugi sluËaj!
+{97985}{98040}Moram da razgovaram sa vama.
+{98044}{98144}Ne sada. G. Albani je ovde.
+{98149}{98226}Moûete li da saËekate 5 minuta?
+{98230}{98279}Ne, hitno je!
+{98318}{98375}VideÊu vas malo kasnije.
+{98654}{98740}Bili smo sreÊni u vaöem sluËaju...|nismo uvek.
+{98754}{98821}Pratili smo vaöeg prijatelja...
+{98839}{98874}maioniËara.
+{98910}{98956}Robert Espane, 35 godina
+{98981}{99037}Svoju taËku je izvodio...
+{99042}{99113}u Zlatnom konju|od proölog septembra.
+{99161}{99187}Njegova adresa je...
+{99191}{99239}Ulica Republike broj 42.
+{99354}{99418}Preselio se zato öto je njegova|ûena bila trudna.
+{99427}{99455}Njegova ûena!
+{99508}{99545}Oûenio se 12. novembra.
+{99568}{99619}Mora da ste pogreöili!
+{99623}{99673}Ne. BraËni ugovor...
+{99677}{99730}je sastavio Lebode.
+{99804}{99853}Vi ste pokvareni laûov!
+{99863}{99911}Dajte mi to!
+{100481}{100552}Idite gore po zubara!
+{100732}{100788}Ludak je u naöoj kancelariji!
+{101217}{101254}Vodite ga kuÊi.
+{101258}{101355}Ne, ne mogu to da podnesem.|Ostavio je tamo sve svoje stvari!
+{101367}{101398}Morate negde da idete.
+{101402}{101446}IÊi Êu u hotel.
+{101450}{101506}Stavite ga u taksi i odvedite ga kuÊi.
+{101510}{101571}Mora da se baö ponosiö sobom.
+{101677}{101731}Nadam se da je platio unapred.
+{102449}{102513}Jedan od mojih profesora|jednom je objasnio razliku...
+{102517}{102563}izmeu taktiËnosti i ljubaznosti.
+{102567}{102639}»ovek greökom otvara vrata od|kupatila...
+{102643}{102690}i vidi golu gospou.
+{102694}{102748}Vrati se korak nazad i kaûe:
+{102752}{102815}''Izvinite, gospoo.''|To je ljubaznost.
+{102819}{102921}Isti Ëovek ugleda istu golu gospou|i kaûe:
+{102925}{102990}''Izvinite, gospodine.''|To je taktiËnost!
+{102994}{103076}Znam zaöto ste pobegli,|Antoan... do sutra...
+{103245}{103302}Protekli sat...
+{103349}{103406}traûio sam kravate...
+{103437}{103490}koje viöe nikad neÊu obuÊi.
+{103668}{103714}Ovo je oproötajno pismo.
+{103733}{103809}Vi ste velikoduöni,|a ja ne zasluûujem vaöu velikoduönost.
+{103813}{103900}Viöe me nikad neÊete videti.|Napuötam moj posao.
+{103936}{104003}Ja sam varalica najgore vrste.
+{104013}{104088}Sanjao sam da mogu da postoje|oseÊanja izmeu nas.
+{104092}{104166}Ali to je nemoguÊe kao i|Feliksova ljubav...
+{104176}{104216}prema gospoi de Marso.
+{104253}{104281}Zbogom.
+{106494}{106525}Probudila sam te.
+{106574}{106627}I ja sam se rano probudila...
+{106631}{106681}zbog tvog pisma...
+{106727}{106804}ali nije vaûno.|zadovoljstvo je...
+{106809}{106879}probuditi se|i proËitati neöto lepo.
+{106920}{106990}Sela sam da ti odgovorim.
+{107013}{107055}Ali sam shvatila...
+{107088}{107153}da moram odmah da doem ovamo,|liËno.
+{107279}{107311}»itala sam Lili u dolini.
+{107343}{107404}Ja sam kao ti. Mislim da je prelepo.
+{107550}{107605}Ali zaboravio si jednu stvar.
+{107678}{107768}Iako je gospoa de Morso|volela Feliksa...
+{107776}{107845}to nije lepa ljubavna priËa.
+{107881}{107922}Straöno je tuûna...
+{107926}{107979}jer je ona umrla..
+{107983}{108080}poöto nije mogla da podeli|svoju ljubav sa njim.
+{108191}{108291}Pored toga, ja nisam fenomen.|Ja sam ûena...
+{108339}{108367}äto je suprotno.
+{108385}{108449}Na primer,|ovog jutra pre nego öto sam doöla...
+{108470}{108509}stavila sam öminku.
+{108513}{108562}Napuderisala sam nos.
+{108633}{108657}Stavila sam kreon na oËi.
+{108759}{108811}I dok sam öetala Parizom|primetila sam...
+{108815}{108861}da su sve ûene|uËinile isto...
+{108868}{108931}zbog njihovog zadovoljstva,|ili zbog nekog drugog.
+{108962}{109011}Rekao si da sam posebna.
+{109028}{109086}To je taËno. Posebna sam.
+{109090}{109174}Svaka ûena e posebna naizmence.
+{109186}{109206}Ti, tamo...
+{109233}{109281}si takoe poseban.
+{109292}{109363}Tvoji otisci prstiju su jedinstveni.
+{109367}{109402}Ti si jedinstven.
+{109406}{109455}Oboje smo jedinstveni...
+{109459}{109504}i nezamenljivi.
+{109553}{109599}Pre nego öto je umro...
+{109603}{109668}moj otac je pozvao doktora...
+{109697}{109728}i rekao...
+{109777}{109823}''Ljudi su divni!''
+{109836}{109873}Zatim je umro.
+{109987}{110016}Ne moraö da govoriö.
+{110022}{110076}Ali bih volela da gledaö u mene.
+{110158}{110238}Pisao si mi juËe.|I odgovor je...
+{110277}{110304}ja
+{110423}{110465}predlaûem...
+{110479}{110512}dogovor...
+{110553}{110615}koji je poöten za oboje.
+{110668}{110742}Poöto oboje volimo ono öto je|posebno...
+{110801}{110918}sada Êu ti priÊi...
+{110936}{111002}i proveöÊemo zajedno nekoliko sati.
+{111063}{111145}A zatim, öta god da se desi,|nikad se viöe neÊemo sresti.
+{111176}{111208}Slaûeö li se?
+{111364}{111409}IzvadiÊu kljuË iz brave.
+{111664}{111708}U priËama koje oboje volimo...
+{111712}{111777}gospoa baca kljuË|kroz prozor.
+{111803}{111866}Ali ova vaza Êe dobro posluûiti.
+{112976}{113005}Iznenaenje!.. Ovog jutra...
+{113009}{113066}Ga Tabard, koja nikad|ne ustaje pre 11...
+{113070}{113127}je izaöla u 8:15.
+{113133}{113205}Pratila sam je|do ulice Skver Anver broj 18...
+{113220}{113287}gde je ostala oko sat i po.
+{113292}{113330}Onda se vratila kuÊi.
+{113346}{113394}Kod koga je iöla?
+{113398}{113469}Ne znam.|Ima mnogo apartmana.
+{113473}{113554}Radnica nije bila tu,|ali otiÊi Êu ponovo tamo.
+{113591}{113651}Ja znam gde je bila.
+{113778}{113877}Moram da vas vidim nasamo.
+{114187}{114264}Izvinite öto vam smetam.
+{114268}{114313}Ja sam direktor srednje ökole.
+{114366}{114440}Trebaju mi informacije...
+{114447}{114537}o jednoj vaöoj profesorki,|gici Dupua.
+{114602}{114655}O, niöta vaûno...
+{114659}{114775}samo neki detalji o njenom ûivotu...|njenom moralu...
+{114887}{114932}Na novom sam sluËaju.
+{114984}{115074}äta da kaûem g. Tabardu?|Da je platio 2000 franaka za to!
+{115080}{115123}Da li je to prava kosa?
+{115203}{115239}Nije loöe, je li?
+{115380}{115426}PozvaÊu g. Bladija.
+{115807}{115869}Spustite sluöalicu.|G. Henri je mrtav.
+{117295}{117351}Za malo viöe biÊu striptizeta.
+{117397}{117451}Evo. Ali nemoj da se skidaö.
+{117455}{117507}Moûeö da ostaneö duûe.
+{117511}{117550}Ne ûelim to.
+{118117}{118142}Taj kreten!
+{118147}{118177}ZakoËi!
+{118235}{118291}äta radiö sad?
+{118304}{118365}Popravljam televizore.
+{118436}{118478}Ne, ne... bila je moja krivica.
+{118559}{118608}Mogu da smislim bolje naËine|da te naem.
+{118612}{118645}Ali öteta nije uËinjena.
+{119078}{119130}Prijatan vikend.
+{119134}{119176}Zar neÊeö da poeö sa nama?
+{119180}{119222}Ne, moram da uËim.
+{119240}{119278}Moûeö uvek da pozoveö Lusijen.
+{119282}{119330}NeÊu biti usamljena. GledaÊu TV.
+{119353}{119418}Nemoj da budeö u kuÊi ceo vikend.
+{120068}{120121}SOS 9999
+{120145}{120238}Moûete li da doete u Aveniju|Edvard Valiant broj 44?
+{120254}{120307}TV mi ne radi.
+{121784}{121831}Oh, to je Serenin glas!
+{121955}{122009}Ko je ovo izvadio?
+{122028}{122068}To je smeöno. Kao u taksiju.
+{122072}{122133}Molim te! Pusti me da radim na miru!
+{123816}{123862}To se tako ne radi!
+{123872}{123918}Ja Êu da te nauËim neöto.
+{123922}{123974}Kako da namaûeö puterom,|a da ga ne zdrobiö.
+{123978}{124042}Uzmeö dve kriöke, ovako.
+{124066}{124111}Namaûeö puter.
+{124121}{124199}I gornji se neÊe zdrobiti.
+{124240}{124292}NauËiÊu te sve öto znam.
+{124296}{124357}A ti Êeö mene da nauËiö sve öto ti znaö.
+{124515}{124563}Nije veoma vaûno...
+{124569}{124605}Da, jeste...
+{124631}{124696}Ali bih radije napisao.
+{124725}{124769}Imaö li olovku?
+{126911}{126985}Zaboravio sam moju maramicu.|HoÊeö li da mi pozajmiö svoju?
+{126990}{127023}Imam samo klineks.
+{127031}{127065}Ne hvala. Nikad ne koristim papir!
+{127086}{127134}Nemoj sad da gledaö...|Tamo je Ëudan Ëovek.
+{127149}{127207}Mislim da me prati.
+{127237}{127262}Ko je on?
+{127266}{127313}Ne znam. Evo ga dolazi.
+{127576}{127632}Znam da vam nisam nepoznat.
+{127645}{127704}VeÊ dugo vreme|tajno sam vas posmatrao.
+{127720}{127772}Ali sada sam prestao da se krijem.
+{127792}{127846}Znam da je doölo vreme.
+{127910}{127980}Pre vas, nikad nisam bio zaljubljen.
+{127984}{128032}Mrzim prolaznost.
+{128037}{128075}Znam sve o ûivotu.
+{128079}{128144}Znam da svako izdaje svakoga.
+{128165}{128212}Ali vi i ja Êemo biti drugaËiji.
+{128216}{128292}Nikad neÊemo ostaviti jedno drugog,|ni na jedan sat.
+{128336}{128403}Ne radim.|Nemam obaveze u ûivotu.
+{128429}{128483}BiÊete moja jedina preokupacija.
+{128509}{128542}Razumem...
+{128546}{128604}shvatam da je ovo sve odjednom...
+{128608}{128699}da biste odmah pristali...|da se odmah odvojite...
+{128710}{128774}od nekih prolaznih ljudi.
+{128811}{128853}Ja sam konaËan.
+{129010}{129049}Ja sam veoma sreÊan.
+{129151}{129201}»ovek je stvarno lud!
+{129245}{129285}Sigurno.
+{129310}{130810}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

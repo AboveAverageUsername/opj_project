@@ -1,0 +1,879 @@
+{95}{133}{y:i}Hajde, sreÊo.
+{155}{194}{y:i}Zauzmi taj poloûaj.
+{200}{229}{y:i}Broj!
+{233}{328}{y:i}10, 9, 8, 7...|{y:i}- Paljenje.
+{332}{369}{y:i}... 6...|{y:i}- Pripremite se za uzletanje.
+{373}{429}{y:i}Glavna-paluba.|{y:i}... 5, 4, 3...
+{433}{501}{y:i}... 2, 1, 0.
+{637}{704}{y:i}I tako je Vojadûer II "sada deo|{y:i}istorije."
+{708}{786}{y:i}Lansiranje u svemir sa njene platforme|{y:i}ovde na Kejp Kenediju
+{790}{874}{y:i}na ovaj istorijski datum:|{y:i}20. Avgust 1977.
+{888}{964}{y:i}Na svemirsku kapsulu su ukrcane|{y:i}fotografije Zemlje
+{968}{1037}{y:i}verbalna dobrodoölica i koktel|{y:i}muziËkih kompozicija.
+{1069}{1167}{y:i}Vojadûer II "je naöa pozivnica" drugim|{y:i}inteligentnim biÊima u svemiru:
+{1171}{1237}{y:i}Molimo vas doite i posetite naöu|{y:i}planetu Zemlju.
+{1370}{1424}{y:i}Kao Generalni Sekretar Ujedinjenih|{y:i}Nacija
+{1428}{1510}{y:i}organizacije sa 147 drûava Ëlanica
+{1514}{1626}{y:i}koje predstavljaju skoro celokupno|{y:i}ljudsko stanovniötvo planete Zemlje.
+{1635}{1741}{y:i}Ja öaljem dobrodoölicu u ime|{y:i}ljudi naöe planete.
+{1766}{1916}-== [ www.OpenSubtitles.com ] ==-
+{3187}{3256}{y:i}Pozdrav od dece planete Zemlje.
+{5438}{5481}{y:i}Volim te.
+{5712}{5786}Ne radi to sebi, Dûini.|Idi da spavaö.
+{6942}{6969}To je veoma dobro, generale.
+{6973}{7021}Gospodine direktore.|- Da.
+{7052}{7104}Da li bi me izvinili, molim vas?
+{7378}{7448}ZvuËi kao Sovjetsko svemirsko ubre.|- Ljudi iz MOLINK-a kaûu da nije.
+{7452}{7535}äta Kremlj kaûe?|- "Na zdarovje." Oni ne znaju niöta.
+{7857}{7937}{y:i}Ovde Delta Jenki, dve milje i|{y:i}pribliûavam se, skoncetrisan za metu.
+{7941}{8002}{y:i}Dozvola za lansiranje.|{y:i}- Dozvola potvrena.
+{8006}{8066}{y:i}Delta Jenki izvröava lansiranje.|{y:i}Rakete poletele.
+{8201}{8251}PresretaË Delta Jenki izveötava|pogodak, gospodine.
+{8256}{8316}Nema promene u brzini, ali sledeÊa|promena pravca.
+{8320}{8410}Nova predviena taËka udara: Severni|Viskonsin pored »ekuamegon Zaliva.
+{8468}{8509}Pozovite Marka äermana.
+{8549}{8618}{y:i}Toni dodaje, Marej odlazi na levo,|{y:i}i gubi.
+{8622}{8676}{y:i}Oboren je. Nema povrede, nema|{y:i}prekröaja.
+{8873}{8920}{y:i}Ostalo je da se igra joö neöto|{y:i}manje od tri minuta.
+{8929}{9019}{y:i}»iks pronalazi Dûonsona na sredini|{y:i}terena. Frenk traûi Grinija.
+{9023}{9093}{y:i}On je sada u centru paûnje i pronalazi|{y:i}Dûonsona potpuno samog.
+{9097}{9167}{y:i}On skaËe u nadi da Êe da izjednaËi.|{y:i}I fauliran je u napadu.
+{9171}{9240}Pozovite me ponovo za 20 minuta,|hoÊete li?
+{9256}{9284}Da, gospodine.
+{9288}{9331}Izvinite zbog ovoga.
+{9439}{9464}äta?
+{9640}{9692}»ekuamegon Zaliv? Da, gospodine.
+{9699}{9738}Nema problema.
+{14760}{14780}O, prokletstvo.
+{17905}{17934}Skot?
+{18389}{18430}Ti nisi Skot.
+{18522}{18551}Skot.
+{19287}{19353}"OËe naö iûe jesi na nebesi,|da se slavi ime tvoje,
+{19357}{19444}"da doe carstvo tvoje, da bude volja tvoja,|i na Zemlji kao i na nebu."
+{19453}{19513}"Kao Generalni Sekretar Ujedinjenih|Nacija
+{19517}{19575}"organizacije od 147 zemalja Ëlanica
+{19582}{19671}"koje predstavljaju skoro celokupno|ljudsko stanovniötvo planete Zemlje...
+{19712}{19753}"öaljem dobrodoölicu."
+{20844}{20894}{y:i}Ko je taj zgodni momak?
+{20915}{20954}{y:i}Oh, Boûe, kakav dan.
+{21438}{21553}{y:i}Evo je dolazi, dame i gospodo. Pogledajte|{y:i}ta veliËanstvena kola. I evo, odlazimo.
+{21779}{21860}{y:i}Nemoj da brineö, neÊu da prekinem|{y:i}sve dok se okvir ne isprazni.
+{21878}{21931}{y:i}Ono öto hoÊemo da uradimo...
+{21976}{22021}{y:i}... je da hoÊemo da gnjeËimo...
+{22049}{22090}{y:i}... i gnjeËimo.
+{22146}{22184}{y:i}Joö jednom.
+{22225}{22255}{y:i}Nije loöe.
+{22274}{22365}{y:i}Zapravo, ti bi verovatno trebala, znaö,|{y:i}da mirujeö sa svojom drugom rukom ovde.
+{22378}{22466}{y:i}SteÊi Êeö viöe samopouzdanja,|{y:i}verovatno, na ovaj naËin.
+{22561}{22625}{y:i}Da, doi ovamo. Doi ovamo.
+{22697}{22737}{y:i}Nemoj da se plaöiö.
+{22828}{22868}{y:i}Nemoj da se plaöiö.
+{22880}{22914}{y:i}Ne ûelim da te povredim.
+{23073}{23107}{y:i}Oh, ovo je sjajno.
+{23148}{23173}{y:i}Da.
+{24945}{24990}HITAN PRENOS
+{25000}{25050}BROD ZA POSMATRANJE UNIäTEN
+{25075}{25110}SREDINA NEPRIJATELJSKA
+{25130}{25175}KOMPLETIRANA SIMBIOTI»KA TRANSFORMACIJA
+{25185}{25275}SUSRET TRE∆EG DANA NA SLETNOJ POVRäINI JEDAN
+{25411}{25463}»oveËe, kakav uvrnut san.
+{28179}{28245}Ko si ti? äta hoÊeö?
+{28405}{28463}Mi... idemo.
+{28705}{28760}Ne mogu da pokrenem motor.
+{28945}{28965}Skot?
+{29510}{29542}Gde?
+{29569}{29610}Kojim putem? Levo, desno?
+{30112}{30140}Ovamo.
+{30191}{30246}Ti znaö gde je to mesto?
+{30368}{30462}Ako je ovo Kalifornija a ovde|dole je...
+{30472}{30563}Teksas, to mora da bude, kao...
+{30577}{30654}Arizona, moûda.|- HoÊu da me voziö.
+{30683}{30712}Arizona, moûda.
+{31348}{31392}Deset minuta.
+{31635}{31674}Skoro da je vreme, gospodine äerman.
+{31678}{31720}U redu.|- Kafu?
+{31724}{31750}Da.
+{31866}{31947}NaredniËe, da li moûete da stavite|policijske trake na tu stvar?
+{31951}{31992}Nema problema. Zaöto?
+{32012}{32067}Zainteresovan sam za bilo öta öto je|uvrnuto.
+{32071}{32129}Znate, zastraöujuÊe, bizarno.
+{33335}{33363}Zdravo svima.|- Zdravo.
+{33367}{33463}Ja sam major Bel.|- Mark äerman. Da li je Ëisto?
+{33470}{33545}Pa, nema radioaktivnosti. Nema|oËitavanja bakterija.
+{33555}{33606}Vi ste povezani sa Nacionalnom|BezbednoöÊu?
+{33610}{33674}Ne mnogo. Ja samo radim za njih.
+{33678}{33783}Pod ugovorom. Neöto kao knjiga u biblioteci.|Ne, zapravo ja sam uz SETI.
+{33787}{33832}Potraga za Vanzemaljskom Inteligencijom.
+{33836}{33893}ZnaËi oni sada öalju vas momke na teren|zbog meteora?
+{33897}{33954}Samo kada oni promene pravac.|- Promene pravac?
+{33958}{34014}Da li oni mogu to da urade?|- Ovaj je mogao.
+{34018}{34057}Tako su mi oni rekli. Dva puta.
+{34065}{34181}Ili je to ili je neki glavonja gore u NORAD-u|pogreöno proËitao odsjaj na svom monitoru.
+{34187}{34249}Takoe je sleteo dole sporije nego|suborbitalnom brzinom.
+{34253}{34314}Prirodno, oni su odluËili da ispale|nekoliko raketa na njega.
+{34389}{34458}äta to doavola oni rade?|- Uzimaju uzorke jezga.
+{34462}{34529}Niko to nije odobrio.|- Prokleta stvar je meni zvuËala öuplje.
+{34533}{34581}Ne postoji takva stvar kao öupljina...
+{34695}{34737}Isuse Hriste!
+{34762}{34796}Upravo ste hteli da kaûete?
+{34808}{34893}{y:i}äta je tu je, narode, ovde stanica|{y:i}WDLU, u Medisonu, Viskonsin
+{34897}{34934}{y:i}DonoseÊi vam vesti u 6:00 a.m.
+{34938}{35009}{y:i}Svi vi koji ste videli to sevanje|{y:i}na nebu proöle noÊi
+{35013}{35087}{y:i}to nije bila propast sveta|{y:i}ili zapaljeni avion.
+{35091}{35165}{y:i}Prema A.P. Vajeru, jedan od|{y:i}najveÊih meteora
+{35169}{35234}{y:i}koji je udario u planetu|{y:i}Zemlju u poslednjih 80 godina
+{35238}{35328}{y:i}pao je sinoÊ pored Aölenda,|{y:i}nedaleko od »ekuamegon Zaliva.
+{35332}{35418}{y:i}Tako da vi ljudi koji ste se javili|{y:i}da kaûete da ste videli leteÊi tanjir...
+{35529}{35582}To je o tebi, zar ne?
+{35610}{35706}Ti si u stvari neka vrsta... Marsovca|ili tako neöto, zar ne?
+{35772}{35813}äta ti hoÊeö ovde?
+{35817}{35863}äta to radiö?
+{35899}{35966}äta hoÊeö samnom? Gde me vodiö?
+{35981}{36031}Zaöto toliko mnogo liËiö na Skota?
+{36073}{36114}"Ne mogu da dobijem"
+{36141}{36185}"zadovoljstvo"
+{36206}{36233}E sada je dosta.
+{36527}{36555}UpomoÊ!
+{36589}{36631}Ti ludi kuËkin sine.
+{36638}{36672}äta je problem sa tobom?
+{36681}{36706}UpomoÊ!
+{36710}{36739}Pomozite mi!
+{36750}{36789}Pomozite mi, molim vas.
+{36793}{36836}Ja sam kidnapovana.
+{36840}{36875}äaljem dobrodoölicu.
+{36887}{36921}äta se ovde deöava?
+{36925}{36966}Ja sam kidnapovana.
+{36990}{37015}Dobrodoölica.
+{37050}{37109}Bolje bi bilo da je pustiö. DaÊu ti|ja dobrodoölicu.
+{38024}{38057}Kako si to uradio?
+{38089}{38137}Te male sive lotpice?
+{38960}{38990}Gospodine äerman...
+{39158}{39217}Komunikaciona Centralo, ovde|Projekat Posetioc
+{39221}{39306}na »ekuamegon mestu dogaaja.|Imam gospodina äermana za vas.
+{39310}{39362}Direktor je na vezi.
+{39408}{39439}U redu, äermane, öta je to?
+{39444}{39472}ZnaÊu viöe za nekoliko sati.
+{39476}{39544}Upravo ga vadimo napolje i öaljemo|u laboratoriju u Medisonu.
+{39549}{39636}Ovaj meteor, »ekuamegonska znamenitost,|ispostavilo se da je öupalj?
+{39645}{39726}Ne, ne "ispostavilo se." On je öupalj.
+{39774}{39840}Mislim da je balon upravo poleteo,|gospodine.
+{40156}{40240}Da li moraö da drûiö tu stvar na|krilu baö na taj naËin?
+{40247}{40325}Te stvari... oruûje me Ëini malËice|nervoznom.
+{40338}{40397}Definiöi "malËice nervoznom."
+{40434}{40477}To je malËice.
+{40513}{40598}Nervoznom kao stresnom, uplaöenom.
+{40620}{40657}Znaö öta znaËi reË "uplaöen"?
+{40661}{40703}"Uplaöen." Da.
+{40743}{40794}Koliko engleskog ti razumeö?
+{40803}{40886}Razumem dobrodoölicu na 54 jezika|planete Zemlje.
+{40912}{41030}Razumem i engleski jezik, malËice.
+{41167}{41235}Nema niöta bitno unutra. To je samo|mnoötvo starudije.
+{41258}{41303}To je moj novËanik.
+{41509}{41561}To je moja vozaËka dozvola.
+{41665}{41744}To sam ja. Moje ime, Dûini Hejdn.
+{41753}{41788}"Dûini Hejdn."
+{41839}{41881}äta ti u stvari hoÊeö?
+{41890}{41936}Zaöto si doöao ovde?
+{41995}{42027}Oh, Boûe moj.
+{42086}{42125}Izgledam kao Skot.
+{42254}{42285}Da, izgledaö.
+{42384}{42426}Izgledam kao Skot...
+{42437}{42516}öto znaËi da ne bi trebala da budeö|malËice nervozna.
+{43655}{43670}Gospodine äerman!
+{43760}{43845}Sluöajte, u vezi tih policijskih poziva,|rekli ste bilo öta uvrnuto, taËno?
+{43849}{43910}Ti imaö neöto?|- Samo sam podigao jedan iz Aölenda.
+{43914}{43949}Dogodilo se u neko vreme ovog jutra.
+{43953}{44051}Momak sa imenom Hainmiler je imao sudar|sa narandûasto-crnim Mustangom iz '77.
+{44055}{44112}Devojka koja je vozila je tvrdila da je|kidnapovana.
+{44117}{44206}Ali kada je Hainmiler otiöao da joj|pomogne, momak sa njom, kidnaper
+{44215}{44273}je povikao, "Dobrodoölica" i istopio|njegov francuski kljuË.
+{44292}{44343}Povikao, "Dobrodoölica" i istopio|njegov francuski kljuË?
+{44347}{44387}äta traûiö, to i dobijeö.
+{44392}{44429}Kako se topi francuski kljuË?
+{44433}{44492}Ja ih samo zapisujem, ja ih ne|objaönjavam.
+{44518}{44628}Da li je iko zapisao broj tablice?|- Tablice Viskonsina, Papa X-zrak Viktor 2-3-7.
+{44632}{44691}Sada proveravamo vlasnika preko DMV-a.
+{44715}{44730}Mark!
+{45322}{45367}äta je doavola ta stvar?
+{45387}{45448}Pa, to je vrsta pozivnice, majore.
+{45454}{45521}Zapamtili ste taj paket koji smo poslali|gore sa sondom "Vojadûer"?
+{45533}{45665}Postojao je zlatni disk sa dobrodoölicom|sa Zemlje na 54 razliËita jezika.
+{45669}{45742}Zajedno sa lepim kratkim govorom Kurta|Valdhajma:
+{45746}{45855}"Onome koga moûe da interesuje. Doite i|posetite nas ponekad."
+{45959}{45996}Stiûemo na benzinsku pumpu.
+{46000}{46084}TrebaÊe nam neöto benzina. U redu?|- "Benzin"?
+{46097}{46124}Benzin.
+{46156}{46205}Za kola. Gorivo.
+{46219}{46253}Energija.
+{46276}{46383}Ja nagazim na gas, kola krenu, ja sklonim|nogu, kola stanu. Razumeö?
+{46395}{46460}Ne. Ne razumem.
+{46508}{46571}Kako kolima tako brzo moûe da treba|energija?
+{46595}{46671}Ne znam. Samo ti kaûem, ovo je skala|za benzin.
+{46675}{46783}Kada igla stigne do E, to je "Prazno."|Nema benzina. Kola stanu. TaËka.
+{46799}{46824}U redu.
+{46838}{46869}Uzmi benzin.
+{47311}{47360}Evo ga.|- Samo polako.
+{47364}{47416}Da. Samo polako.
+{47531}{47553}Zdravo.
+{47557}{47618}Napunite ga, bezolovni.|- Benzin.
+{47648}{47678}Nema problema.
+{47992}{48028}Da, znam.
+{48046}{48097}Moram da odem u toalet.
+{48101}{48158}éensku prostoriju. Toalet.
+{48218}{48293}To je kada osoba mora da...
+{48334}{48414}Doavola sa tim, shvatiÊeö i sam,|ja odoh.
+{49354}{49402}"éena." Ja.
+{49490}{49538}"Muökarac." Ti.
+{49568}{49602}Shvataö?
+{49921}{49959}Ne moûeö da je izvuËeö napolje?
+{49988}{50014}Benzin.
+{50026}{50091}Da, pa, samo ja znam kako se ona|oseÊa.
+{50613}{50683}Na koje god prokleto mesto odeö...
+{50767}{50803}Samo polako.
+{50859}{50891}Jebi se.
+{51079}{51116}Samo polako.
+{51182}{51219}Jebi se.
+{51305}{51450}KIDNAPOVANA krenuli na zapad putem 164.|Narandûasti mustang tablice PXV 237.  POMOZITE
+{51535}{51570}Zdravo, hajdemo.
+{51688}{51742}Ovde nema niËeg zanimljivog.
+{52448}{52523}HoÊete li to da potpiöete za mene,|gospoo Hejdn?
+{53208}{53250}Kidnapovana.
+{53309}{53337}äta?
+{53438}{53482}äta je...
+{53528}{53589}"kidnapovan"?
+{53850}{53905}HoÊeö da znaö öta je kidnapovan?
+{53928}{54009}To je biti izvuËen iz svoje kuÊe u|sred noÊi
+{54013}{54072}od strane nekoga, öta god da si.
+{54079}{54188}Biti nateran da voziö celu noÊ pod|pretnjom oruûjem i ne znajuÊi gde ideö
+{54192}{54262}ili öta Êe da ti se dogodi kada|tamo stigneö.
+{54266}{54346}Zato ako Êeö da me upucaö, samo|napred.
+{54384}{54473}Zbog toga öto Êu ja radije da budem upucana|nego da budem isprepadana na smrt.
+{54609}{54644}Napred.
+{54996}{55071}Ne ûelim da te povredim, Dûini Hejdn.
+{55375}{55481}{y:i}Vaöa muzika svira, evo plavih oËiju,|Frensis Albert.
+{56388}{56421}éao mi je.
+{56434}{56475}Probudio sam te.
+{56657}{56738}Da li mnogo pevaju tamo gde ti|ûiviö?
+{56785}{56843}Da. Pevamo.
+{56888}{56943}Da li ti ikada ogladniö?
+{57024}{57069}Prazno ovde?
+{57095}{57151}Kao öto kolima treba benzin?
+{57169}{57199}Da.
+{57268}{57336}Ovo telo ima uûasnu prazninu.
+{57343}{57385}To se naziva "glad"?
+{57389}{57476}Da, i kada ljudi postanu gladni,|oni moraju da jedu hranu.
+{57502}{57561}Jedu. Da, moramo to da radimo.
+{57592}{57685}ZaustaviÊemo se na mestu za hranu.|Jesi li i ti gladna?
+{57706}{57742}Umirem od gladi.
+{57760}{57809}Nisam jela joö od...
+{57891}{57918}Oh, Boûe moj.
+{57955}{58000}Pogledaj! äta to radiö?
+{58203}{58231}U redu?
+{58246}{58292}U redu? Jesi li lud?
+{58296}{58346}Umalo da si nas poubijao.
+{58377}{58446}Rekao si da si me posmatrao. Rekao|si da znaö pravila!
+{58450}{58483}Ja i znam pravila.
+{58487}{58567}Za tvoju informaciju, to je bilo|ûuto svetlo tamo nazad.
+{58623}{58676}Posmatrao sam te veoma paûljivo.
+{58711}{58838}Crveno svetlo: Stani. Zeleno svetlo:|Kreni. éuto svetlo: Proi veoma brzo.
+{58888}{58960}Bolje da ja vozim.|- Ja Êu da vozim.
+{59007}{59100}Da li vi ozbiljno oËekujete od mene|da kaûem Predsedniku... da je
+{59105}{59280}vanzemaljac sleteo, uzeo laûan identitet|mrtvog molera iz Medisona, Viskonsin
+{59284}{59362}i trenutno napolju okolo krstari prirodom
+{59368}{59469}u narandûasto-crnom Mustangu iz 1977?
+{59492}{59554}Mi imamo sledeÊa uputstva:
+{59570}{59684}Taj muökarac, Skot Hejdn, umro je proölog aprila.|On je mrtav i sahranjen, to je potvreno.
+{59689}{59739}Nije imao braÊe ili roaka nalik njemu.
+{59743}{59800}Ali i pored toga, ovog jutra, oko|otprilike 6:00...
+{59804}{59875}U redu, veÊ smo proöli sve to.
+{59882}{59942}Sada Êu da te pitam, kako je to|moglo da se dogodi?
+{59951}{60014}Mi mislimo da bi to mogla da bude|neka vrsta dogovora kloniranja,
+{60018}{60084}kopiranje celokupnog organizma iz|jedne Êelije.
+{60088}{60141}Pronaöli smo nekoliko dlaka sa Skot|Hejdnove glave.
+{60145}{60172}Da li je to moguÊe?
+{60176}{60260}Mislim, da li moûe da se klonira ûivi|organizam iz dlake mrtvog Ëoveka?
+{60273}{60326}Pa, ljudska dlaka sadrûi Êelije keratina.
+{60330}{60403}Ali po pravilu da se odredi da li je|kopiranje moguÊe... - Mark!
+{60410}{60449}Postavio sam ti pitanje.
+{60460}{60489}Mislite nama?
+{60493}{60550}Sa naöim sadaönjim stanjem tehnologije?|- Da.
+{60562}{60627}Ne.|- O Ëemu doavola mi razgovaramo?
+{60631}{60748}Dajemo pretpostavke o tehnologiji koja je|verovatno 100.000 godina ispred nas.
+{60752}{60806}Mi smo starine, gospodine Foks.
+{60831}{60854}"Starine"?
+{60858}{60927}Tehnoloöki, da. Mi smo tek poËeli.
+{60961}{61021}»ak i da ste u pravu, ja joö uvek|imam problema.
+{61025}{61060}Njegovo znanje Engleskog.
+{61078}{61123}U redu, sluöajte ovo.
+{61184}{61235}Ja sam pomogao da se ovaj paket|objedini.
+{61239}{61301}Ovo je dizajnirano tako da bi|inteligentne vrste
+{61305}{61359}mogle da steknu radno znanje|Engleskog.
+{61363}{61396}Dovoljno da se snau, u svakom|sluËaju.
+{61400}{61472}ReËnik sa nekoliko-stotina-reËi,|gruba ideja sintakse.
+{61481}{61571}Razmislite öta bi mogao da znaËi razgovor|sa biÊem iz civilizacije kao öto je ta.
+{61575}{61621}Razmislite öta bi mogli da nauËimo.
+{61625}{61666}{y:i}... organizacije od 147 zemalja Ëlanica
+{61670}{61777}{y:i}koje predstavljaju skoro celokupno|{y:i}ljudsko stanovniötvo planete Zemlje
+{61784}{61808}{y:i}äaljem dobrodoölicu...
+{61812}{61884}"Dobrodoölicu," to je ono öto je|rekao Hainmileru na putu.
+{61888}{62003}To je takoe ono öto je ljudoûder rekao|misionaru baö pre nego öto ga je pojeo.
+{62007}{62139}Sada, pitanje u ovom sluËaju je:|Ko je misionar a ko su ljudoûderi?
+{62217}{62259}Do kada moraö da budeö tamo?
+{62281}{62306}äta?
+{62337}{62407}U Arizoni. Kada moraö da budeö tamo?
+{62468}{62522}Da li vidiö ovu malu zvezdu?
+{62583}{62646}Zvezdu? Koju zvezdu? Gde?
+{62711}{62740}Tamo.
+{62794}{62839}Mi to zovemo Sunce.
+{62870}{62919}Kada ova mala...
+{62938}{62979}Kada se Sunce...
+{63010}{63121}pojavi na sred neba joö tri puta,|moram da budem u Arizoni.
+{63125}{63222}Misliö, 12:00 podne, tri dana od sada?
+{63231}{63258}Da.
+{63280}{63352}äta se deöava ako ne stigneö tamo|na vreme?
+{63376}{63425}Onda Êe oni da odu.
+{63432}{63492}Bez tebe?|- Da.
+{63519}{63556}äta Êeö ti onda da radiö?
+{63560}{63618}Onda Êu ja da umrem.
+{63635}{63662}Umreö?
+{63840}{63874}Razumeö?
+{64039}{64090}Traûiö mesto za hranu.
+{64935}{64961}äta?
+{65030}{65058}Jelen.
+{65090}{65126}Mrtav jelen.
+{65165}{65204}"Mrtav jelen," zaöto?
+{65228}{65326}Ljudi ih love da bi ih jeli kao|hranu.
+{65370}{65413}Da li jeleni jedu ljude?
+{65427}{65453}Ne.
+{65460}{65522}Da li ljudi jedu ljude?
+{65529}{65584}Ne, naravno da ne. äta ti misliö|da smo mi?
+{65618}{65692}Mislim da ste veoma primitivna|vrsta.
+{65761}{65813}äta ste vi, mekog srca?
+{65831}{65875}PlaËete kada gledate "Bambi"?
+{65886}{65930}Definiöi "Bambi."
+{65934}{65998}On ne razume. On nije odavde.
+{66012}{66070}Ti ne govoriö ni malo Engleski?
+{66157}{66197}Drûi se öto dalje od tog krelca.
+{66222}{66264}Definiöi "krelac."
+{66281}{66306}Drkadûija.
+{66386}{66440}Iz Denvera, ovde...
+{66540}{66618}To je juûno od meudrûavnog puta 25.
+{66636}{66705}Onda uhvatimo zapadni put 1-40|kod Albukerkija.
+{66709}{66804}Da li bi zaboravio tog jelena za trenutak?|Pokuöavam da ti neöto pokaûem.
+{66808}{66908}Gde taËno u Arizona treba da se|sretneö sa svojim drugarima?
+{67057}{67098}Zapadno od Vinsloua.
+{67113}{67180}Vidim malu mrlju na mapi,|ali tamo je...
+{67192}{67223}Krater?
+{67237}{67320}Da li je to gde treba da se sretneö|sa njima? Gde je udario meteor?
+{67324}{67360}Zaöto ovo radiö?
+{67416}{67490}Bolje sigurna nego da zaûalim. Samo za|sluËaj da mi se neöto dogodi.
+{67494}{67538}Postoji joö jedna stvar.
+{67562}{67603}Kreditna kartica, za benzin.
+{67607}{67698}Ti znaö kako se njome sluûi?|- Zaöto bi ti se neöto dogodilo?
+{67810}{67843}Ko zna?
+{67864}{67964}Na naËin koji voziö, putovanje sa tobom|bi moglo da bude ötetno za zdravlje.
+{68176}{68201}To je...
+{68251}{68306}ja i Skot na naöem medenom mesecu.
+{68370}{68413}Medeni mesec je...
+{68459}{68508}kako vi zovete kada...
+{68551}{68621}se dvoje ljudi prvo venËaju|i oni...
+{68647}{68706}zajedno otputuju poöto se|zaljube.
+{68739}{68769}Definiöi "ljubav."
+{68891}{68928}Ljubav je...
+{69043}{69094}To je kada brineö...
+{69150}{69228}viöe za nekog drugog nego öto|brineö za sebe samog.
+{69261}{69319}Ali nije baö tako prosto, to je...
+{69372}{69483}To je kada je neko... deo tebe.
+{69532}{69569}I kada oni...
+{69676}{69704}äta?
+{69775}{69812}Skot je mrtav.
+{69836}{69881}Poginuo je nesreÊnim sluËajem.
+{69974}{70026}Kada neko koge voliö...
+{70073}{70114}umre...
+{70178}{70209}Sranje.
+{70334}{70369}Definiöi "sranje."
+{70415}{70487}Ne govori to, to nije lepa reË.
+{70546}{70571}Sranje.
+{70607}{70695}Ne obraÊajte paûnju na njega, on|upravo uËi da govori Engleski.
+{70699}{70750}DoûiveÊe pakao na samom poËetku.
+{70754}{70813}»ija su punjena jaja na belom|tostu?
+{70817}{70842}Njegova.
+{70853}{70922}Dobro. I superburger.
+{70933}{71019}Dve porudûbine pomfrita, dva|Ëokoladna öejka
+{71029}{71092}i dve holandske pite od jabuka|sa ölag kremom.
+{71112}{71165}Pojela sam liËno parËe.
+{71170}{71239}Sjajna je. Prijatno.
+{71308}{71343}Navali.
+{71416}{71504}»ekaj. Ne, ne, ne... to je tvoj|slatkiö.
+{71528}{71578}To jedeö viljuökom.
+{71603}{71679}Ova stvar. Evo.
+{71687}{71720}Ovako.
+{71782}{71854}Ne, ali to jedeö poslednje.
+{71862}{71916}Prvo sendviË, na kraju slatkiö.
+{71948}{71975}Zaöto?
+{72014}{72079}Ne znam, samo se tako radi.
+{72283}{72325}U Ëemu je problem?
+{72375}{72415}Holandska pita od jabuka.
+{72445}{72473}Dobro?
+{72525}{72562}Sjajno je.
+{72698}{72751}Za primitivne vrste mi imamo naöe|ciljeve.
+{72755}{72863}Ako ima koga za Linkoln, Omahu ili »ikago,|autobus polazi za pet minuta.
+{73097}{73177}Moram da odem u...
+{73260}{73299}Odmah se vraÊam.
+{73600}{73683}Izvinite, ima li pomoÊnog izlaza|odavde?
+{73687}{73750}Da, naravno, kroz kuhinju. Zaöto?
+{73807}{73869}Znate li tog momka sa kojim sam|uöla? - Da.
+{73885}{73972}Moûete li da mu date ove stvari|poöto autobus krene?
+{73976}{74056}To je samo mapa i neki kljuËevi|od kola i kreditna kartica.
+{74060}{74157}Jesi li sigurna, sreÊo?|- Da, sigurna sam. Hvala.
+{74218}{74252}Hej, sreÊo.
+{74263}{74319}Ja ne bih izlazila kroz zadnja|vrata baö sada.
+{74323}{74411}Taj tvoj prijatelj, on je napolju|na parkingu.
+{74464}{74494}Hvala.
+{76053}{76127}Izvinite me, gospoice. Pogodili|ste me kao meteor.
+{76131}{76185}Mogao bih da vas poËastim lepim|srneÊim butom.
+{76189}{76245}Moûda Ëak komadom svinjetine ako|bi mogli...
+{76304}{76343}äta, taj kuËkin sin.
+{76352}{76377}Ne.
+{76487}{76555}Hej, öta se dogodilo prokletom|jelenu?
+{76584}{76641}Otiöao je tamo, u öumu.
+{76651}{76689}U redu, komedijaöu.
+{76743}{76772}Pogodak.
+{76808}{76852}Prekini. Ostavite ga na miru!
+{76856}{76901}Mrdaj odatle, curo.|- On ne razume.
+{76905}{76971}On je stranac i ne govori Engleski.|- Pa öta?
+{76975}{77002}Hej!
+{77065}{77094}"Pogodak."
+{77712}{77760}Ovde, gubiö svoj Engleski,|momËe.
+{77930}{77992}Podignite svoje ubre i odlazite.
+{78204}{78274}Oh, Isuse. Jesi li u redu?
+{78278}{78381}Mislio sam da te oruûje Ëini malËice|nervoznom, Dûini Hejdn.
+{78385}{78442}Ti me Ëiniö malËice nervoznom.
+{78484}{78566}Mislim da sam ti rekla da se drûiö|podalje od ovih krelaca.
+{78647}{78707}U redu je. Mislim da razumem.
+{79031}{79077}Izgleda bolje na taj naËin.
+{79081}{79129}Hvala ti, Dûini Hejdn.
+{79258}{79318}Svaki deo naöeg prijateljskog servisa.
+{79411}{79437}Jesi li u redu, sreÊo?
+{79441}{79467}U redu sam.
+{79471}{79556}éelela bih da vam kaûem da autobus na|putu za istok upravo kreÊe.
+{79560}{79611}Da li ûeliö da pokuöam da ga zadrûim?
+{79733}{79796}Ne, hvala vam. Nema veze.
+{79800}{79856}Hvala, ali nema veze.
+{79879}{79912}SreÊno.
+{80235}{80309}UhvatiÊu to kopile, Doni Bob.|Upravo sada.
+{80496}{80533}Hej, pazite se!
+{80617}{80645}Samo polako!
+{80652}{80696}"Jebi se."
+{80710}{80752}UhvatiÊu tog kuËkinog sina.
+{81334}{81427}Njihova je krivica, Mustanga. KuËkin sin|me je udario i samo pobegao.
+{81431}{81456}Da li bilo ko ima njegov broj?
+{81460}{81577}Ne, ali neÊe da bude toliko teöko da se nae.|Mustang iz 1977., sa tablicama Viskonsina.
+{81787}{81842}Hej, taj Mustang koji traûe drûavni|policajci...
+{81846}{81910}Narandûasto-crni '77, tablice|Viskonsina? - Da.
+{81914}{81997}Pa, nagazi na gas, mislim da|imamo kopile.
+{82199}{82276}Ovde smo od 6:30 popodne. Kada|Êemo moÊi da odemo?
+{82280}{82376}»im Federalci to kaûu, i ni jedan|prokleti minut ranije.
+{82642}{82691}Svi to kaûu na potpuno isti naËin.
+{82695}{82787}Imala je priliku da pobegne od njega|ali su otiöli zajedno, sa njom za volanom.
+{82791}{82864}Da li to zvuËi kao bilo koja vrsta|kidnapovanja za koju si ikada Ëuo?
+{82868}{82893}Gospodine äerman!
+{82897}{82966}Spazili su narandûasto-crni Mustang,|sa tablicama Viskonsina
+{82970}{83004}kako ide na zapad pored Big Springsa.
+{83008}{83037}Sjajno.
+{83115}{83216}Skot i ja smo se sreli pre dve zime na|vrhu Gvozdene Planine, klizajuÊi.
+{83256}{83327}Ja sam imala na sebi ovu malu tesnu|klizaËku opremu.
+{83385}{83476}Ja sam se razmetala. On je nastavio|da bulji u mene.
+{83538}{83600}Jedna stvar je vodila do druge i|nekoliko meseci kasnije,
+{83604}{83646}bili smo na naöem medenom mesecu.
+{83672}{83714}Medeni mesec je lep?
+{83733}{83787}Da, naö je bio prelep.
+{83854}{83895}Definiöi "prelep."
+{83903}{84022}Prelep je bolje od divan...
+{84057}{84120}bolje od... holandske pite od jabuka.
+{84170}{84206}Najbolje.
+{84241}{84274}Najbolje.
+{84768}{84855}Moram da uhvatim nekoliko sati sna.|Samo nekoliko, u redu?
+{85545}{85572}{y:i}Ne pribliûavajte im se.
+{85576}{85644}{y:i}Drûite ih pod prismotrom|{y:i}sve dok Federalci ne stignu tamo.
+{85652}{85699}Ali öta ako se oni pribliûe nama?
+{85703}{85770}{y:i}U situaciji opasnoj po ûivot,|{y:i}branite se.
+{85774}{85828}{y:i}U drugom sluËaju, saËekajte|{y:i}Federalce.
+{85837}{85872}SaËekajte Federalce.
+{85876}{85967}DospeÊe u vesti u 6:00, i mi Êemo da|dobijemo govno na kraju ötapa.
+{85971}{86008}Tako je to uvek.
+{86012}{86082}Da, pa, ne mora da bude na taj naËin.
+{86086}{86204}Slutim, da bi ovo baö moglo da se razvije|u situaciju opasnu po ûivot.
+{86220}{86328}Zdravo. éeleli bi sobu da prenoÊimo. Koliko|god moûe da bude udaljenija od ovoga.
+{86388}{86445}MomËe, ja sam kao izbiËevana.
+{86496}{86588}Moja majka je uvek govorila da ne postoji|pogreöna stvar na svetu koju topla kada
+{86592}{86652}i dobar noÊni san ne mogu da srede.
+{86778}{86818}äta ja to radim?
+{86834}{86866}Mora da sam premorena.
+{86870}{86943}Baö na tom svetlu si izgledao tako|mnogo nalik na Skota.
+{86947}{87025}Nisam razmiöljala.|- Rekla si da je nos drugaËiji.
+{87029}{87054}äta?
+{87060}{87118}Rekla si, "Tvoj nos je drugaËiji."
+{87122}{87236}"Lomio je svoj dva puta i postoji joö|neöto, neöto sablasno u tvojim oËima."
+{87243}{87288}To je od reËi do reËi.
+{87297}{87355}SeÊaö se svega öto si Ëuo od reËi|do reËi?
+{87359}{87438}Sve öto sam Ëuo, sve öto sam video.|Sve...
+{87497}{87552}Sve öta ovo telo oseÊa.
+{87724}{87755}Kada.
+{87766}{87843}{y:i}Pitanja vrede 30 poena svako.|{y:i}Dûejn, kaûi nam o tome.
+{87847}{87882}{y:i}Vaöa finalna kategorija danas je...
+{88019}{88078}{y:i}Verujte mi, generale.|{y:i}Znam öta je poölo naopako.
+{88082}{88127}{y:i}X-faktor nije bio crven.
+{89238}{89299}{y:i}Nikada nisam verovala da moûe|{y:i}da bude ovako.
+{89303}{89368}{y:i}Niko me nikada nije poljubio na|{y:i}naËin na koji si ti.
+{89376}{89406}{y:i}Niko?
+{89415}{89453}{y:i}Ne, niko.
+{89479}{89555}{y:i}Baö niko? »ak ni ljudi koji su|{y:i}te ljubili?
+{89591}{89641}{y:i}Pa, to Êe morati da se uraËuna.
+{89645}{89684}{y:i}Koliko ljudi misliö da je bilo?
+{89688}{89738}{y:i}Ne bih znao. Zar ne moûeö da mi|{y:i}daö ni pribliûan broj?
+{89742}{89835}{y:i}Ne bez dodatnog raËunanja. Ti imaö|{y:i}svoju raËunaljku sa sobom?
+{89839}{89884}{y:i}Zaboravio sam da je ponesem.
+{89889}{89960}{y:i}Onda pretpostavljam da neÊeö da||{y:i}saznaö, zar ne?
+{89974}{90032}Zdravo svima, drugari. Da li ste|unutra?
+{90138}{90228}Nije moj posao, ali ako je to vaö|Mustang na parkingu,
+{90232}{90288}tamo su dva policajca koji pokuöavaju|da razvale bravu.
+{90806}{90858}Kopilad nam beûe!
+{91078}{91116}Tata »arli 3.
+{91120}{91184}OsumnjiËeni u Mustangu napreduju ka|jugu Big Springs zaobilaznicom.
+{91188}{91222}Mi smo u poteri.
+{91650}{91682}On ima piötolj.
+{91747}{91773}Ne!
+{92004}{92039}Dûini Hejdn?
+{92150}{92179}Dûini Hejdn?
+{92320}{92374}{y:i}Tata »arli 3. Tata »arli 3.
+{92378}{92467}{y:i}OsumnjiËeni nastavljaju severnim|{y:i}putem l-80. Joö uvek u poteri.
+{94462}{94520}Znam da zvuËi nemoguÊe, ali imam|nekoliko ljudi koji kaûu
+{94524}{94600}da su ga videli kako je iznosi iz|zapaljene olupine.
+{94604}{94647}Onda su nestali u dimu.
+{94651}{94739}Imao sam policijsku proveru cele|oblasti i nema nikakvih tela.
+{94743}{94815}Oh, hvala. U svakom sluËaju,|pretpostavljam da su 
+{94819}{94864}joö uvek ûivi i da verovatno|napreduju na zapad.
+{94868}{94918}Ja idem na Veliku Raskrsnicu,|u Koloradu.
+{94922}{95030}Vojska priprema neku vrstu blokade|na putu l-70. Idem tamo.
+{101040}{101073}Hej, Mark!
+{101120}{101190}Traûe te preko stanice. Hitno.|- U redu.
+{101312}{101388}Halo? Verovatno sam iseËena.|Halo?
+{101405}{101454}Halo, razgovarala sam sa policijom.
+{101458}{101508}{y:i}Ja nisam policija, gospoo Hejdn.
+{101512}{101564}{y:i}Moje ime je Mark äerman,|{y:i}Nacionalna Bezbednost.
+{101576}{101627}Razumeo sam da hoÊete da razgovarate|u vezi kidnapovanja?
+{101636}{101729}Da, to je razlog zaöto zovem.|Vidite, doölo je do greöke.
+{101733}{101788}Nije bilo kidnapovanja.
+{101793}{101847}Mi smo zabrinuti za vas, gospoo|Hejdn.
+{101851}{101895}{y:i}Ja sam u redu. Stvarno, u redu sam.
+{101899}{101970}Htela sam da to razjasnim. Nije|bilo kidnapovanja.
+{101976}{102018}Odakle govorite?
+{102035}{102087}Ne znam. Kamion je negde stao.
+{102091}{102145}{y:i}Mogu li da vas pokupim? Moram|{y:i}da vam postavim neka pitanja.
+{102149}{102188}Gospoo?|- SaËekajte sekund.
+{102198}{102228}Traûite drugara?
+{102232}{102298}Oko te visine, crvena karirana koöulja|i nekako fin izgled?
+{102302}{102329}Da li ste ga videli?
+{102333}{102410}Ustopirao je voûnju na zapad sa naöim|noÊnim kuvarom pre oko pola sata.
+{102414}{102456}Hvala vam, mnogo vam hvala.
+{102460}{102512}Vidite, ja sada prekidam. Moram|da idem.
+{102516}{102570}Ako hoÊete, zovite me u Medison|za nekoliko dana.
+{102574}{102639}{y:i}Moje ime je u imeniku.|- »ekajte, Ëekajte gospoo Hejdn.
+{102645}{102746}Da li znate od koga ili od strane|Ëega ste kidnapovani?
+{102783}{102841}On neÊe nikoga da povredi.
+{102861}{102928}Stvarno, moûete li samo da ga|ostavite na miru?
+{102946}{103016}Halo? Halo? Prokletstvo!
+{103083}{103132}Treba mi voznja na zapad, brzo.
+{103175}{103249}Ja Êu da vas povezem. Hajde,|krenimo.
+{103681}{103722}Koji je tvoj pravac?
+{103741}{103777}"Pravac"?|- Posao.
+{103786}{103847}äta radiö kada ne hvataö stoperske|voûnje?
+{103851}{103892}Ja pravim mape.
+{103909}{103947}Donosi li to zaradu?
+{104009}{104044}Ja pravim mape.
+{104083}{104158}Ne obogaÊujeö se ni kuvanjem, takoe,|veruj mi.
+{104165}{104248}Imam devojËicu, ona se sprema da ide|na koledû ove jeseni.
+{104252}{104311}Moja ûena mora da se vrati da radi kao|medicinska sestra da mi pomogne da platim.
+{104315}{104361}Evo, hoÊeö li da zapaliö?
+{104420}{104459}Da, moja mala beba.
+{104463}{104531}Kaûe da hoÊe da bude doktor.|Ne znam.
+{104538}{104620}Koöta ruku i nogu da se podignu|deca ovih dana.
+{104626}{104667}"Ruku i nogu"?
+{104673}{104738}Hleb. "Geetus". Novac. I mnogo novca.
+{105197}{105233}Jesi li u redu?
+{105294}{105345}Ti nisi iz ovih krajeva, zar ne?
+{105845}{105882}äta kog Dûona...?
+{105915}{105973}Neka vrsta blokade puta, pretpostavljam.
+{106001}{106044}"Blokada puta, pretpostavljam."
+{106388}{106448}Drûite ih u vrsti. Oni se provlaËe|pred kraj.
+{106452}{106501}Da, gospodine. NaredniËe, Ëuli ste|Ëoveka.
+{106507}{106592}Odmah, gospodine. Stanite u vrstu.|U vrstu.
+{106729}{106791}Pomerite se nadesno i stanite|u vrstu.
+{106883}{106977}Ostanite u vrsti. Svi vi peöaci,|u vrstu.
+{107259}{107354}U vrstu. Pomerite se nadesno i|ostanite u vrsti.
+{107527}{107555}Oh, ne.
+{107665}{107693}Moraö da mi pomogneö, u redu?
+{108158}{108247}Zaustavite ga! Za tim kolima!|Za njim!
+{109184}{109240}Hvala Bogu! Kako si stigao tamo?
+{109248}{109305}Ustopirao sam voûnju sa kuvarom.
+{109364}{109425}Lepo je videti te, Dûini Hejdn.
+{109556}{109618}Moramo da odemo odavde. Hajde.
+{110369}{110436}Uradio sam neöto loöe, Dûini|Hejdn?
+{110602}{110658}Probudila sam se sama. Otiöao si.
+{110666}{110711}Ni reËi. Niöta.
+{110774}{110864}Bila si u pravu. Biti samnom nije|dobro za tvoje zdravlje.
+{110910}{111010}Mogao si bar da mi kaûeö gde ideö.|Da kaûeö zbogom.
+{111072}{111103}"Zbogom"?
+{111128}{111159}Zbogom.
+{111253}{111299}Ne znaö öta...
+{111315}{111352}NauËi me ovo.
+{111404}{111464}Pa, ne znam. To je obiËaj.
+{111497}{111526}To je...
+{111579}{111671}kako kaûete nekome da Êe da vam|nedostaje,
+{111675}{111743}da im ûelite dobro.
+{111784}{111834}Da se nadate...
+{111885}{111948}Njen zub ulazi. "Pobrecita."
+{112058}{112115}Da li svi mogu da imaju bebe?
+{112202}{112236}Samo ûene.
+{112286}{112372}Razumem proces reprodukcije|koliko ga vi znate.
+{112416}{112453}Koliko ga mi znamo?
+{112560}{112600}Ti imaö bebu?
+{112639}{112665}Ne.
+{112693}{112726}Nema beba.
+{112806}{112837}Zaöto?
+{112937}{113024}Skot i ja smo ûeleli da imamo|bebu.
+{113050}{113145}Samo se ispostavilo da ja|ne mogu da je imam.
+{113205}{113292}Ja sam jedna od ovih sreÊnih|gospoa koje samo...
+{113348}{113391}ne mogu da je imaju.
+{114106}{114158}Evo, Êebe! Suvo je.
+{114877}{114946}Bolje da se oslobodiö te mokre|odeÊe.
+{114978}{115018}Bolje da se ugrejeö.
+{115052}{115110}Ti znaö öta je zapaljenje pluÊa?|Ne?
+{115116}{115211}Pa, saznaÊeö ukoliko te ne osuöimo|i to vrlo brzo.
+{115404}{115446}Evo, obuci ovo.
+{118670}{118684}Zdravo svima.
+{118688}{118750}Gospodin Foks je zauzet. ZakasniÊe.
+{118754}{118780}äta se ovde deöava?
+{118784}{118898}SudeÊi prema naöim procenama, taj predmet|je sleteo zbog nekog mesta u Arizoni.
+{118902}{118985}Obaveötajna misli da je posetilac na putu|da organizuje neku vrstu sastanka.
+{118989}{119054}Uite unutra. OseÊajte se kao|kod kuÊe.
+{119736}{119785}Dobrodoöli na planetu Zemlju.
+{120430}{120466}Gde smo?
+{120520}{120585}Mislim da uskoro stiûemo u Vinslou.
+{120959}{121004}Zaöto me nisi probudio?
+{121008}{121059}Volim da te gledam kako spavaö.
+{121114}{121154}Ne znam zaöto.
+{121188}{121224}To je Ëudno.
+{121249}{121323}Mislim da postajem osoba sa|planete Zemlje.
+{121357}{121414}Da li moraö da se vratiö?
+{121469}{121540}Zar ne postoji neki naËin da|moûeö da ostaneö?
+{121576}{121629}Ne. Moram da se vratim.
+{121849}{121939}Ali postoji neöto öto moram|da ti kaûem.
+{121993}{122044}VeËeras sam ti podario bebu.
+{122108}{122134}Ne.
+{122167}{122233}To nije moguÊe. Ja ne mogu da|imam decu.
+{122239}{122321}Bila sam kod doktora, nekolicine|njih.
+{122325}{122374}Veruj öta ti kaûem.
+{122441}{122475}Muöka beba.
+{122552}{122639}On Êe da bude Ëovek, beba tvoga|muûa, ali...
+{122645}{122697}takoe Êe da bude i moja beba.
+{122758}{122880}ZnaÊe sve öto ja znam i kada|odraste biÊe uËitelj.
+{123050}{123108}Ako ti ne ûeliö tu bebu...
+{123138}{123195}kaûi mi sada, prekinuÊu.
+{123967}{124041}Koja je tvoja zvezda? Da li moûeö|da je vidiö odavde?
+{124049}{124076}Zaöto?
+{124114}{124189}HoÊu da mu pokaûem odakle je doöao|njegov otac.
+{124396}{124425}Tamo.
+{124466}{124492}Ne.
+{124545}{124572}»ekaj...
+{124682}{124712}Tamo...
+{124722}{124758}... nisko na nebu.
+{124803}{124832}Tamo.
+{124863}{124895}Vidim je.
+{125049}{125099}Bolje da se obuËeö.
+{125105}{125155}Stiûemo u Vinslou.
+{125228}{125291}Molim se Bogu da smo u pravom vozu.
+{125295}{125383}Ne znam, to izgleda grozno veliko|za Vinslou, Arizona.
+{126031}{126061}Ne.
+{126143}{126176}Las Vegas!
+{126201}{126229}äta?
+{126276}{126354}Mislim da smo za oko 300 milja|proöli Vinslou.
+{126390}{126445}Ipak Êemo da budemo u redu.
+{126451}{126515}Sve öto treba da uradimo je da|iznajmimo kola, sa malo sreÊe
+{126519}{126578}vratiÊemo se tamo pre sutra u|podne.
+{126604}{126673}Samo pokuöaj da ne budeö previöe|upadljiv, u redu?
+{126680}{126711}Hajde.
+{126858}{126939}Pola miliona dolara, narode! Ko Êe|da ih ponese kuÊi?
+{126943}{127022}Pogodite ogromni dûekpot i vaöi|problemi su gotovi!
+{127027}{127062}Pola miliona dolara, narode!
+{127066}{127125}Definiöi "ogromni dûekpot."
+{127132}{127189}Ogromni dûekpot je mnogo novca.
+{127193}{127277}Novac? "Geetus", hleb, ruka i noga?
+{127281}{127316}Gde si to uzeo?
+{127320}{127374}Nemamo vremena da se glupiramo sa|automatima.
+{127378}{127435}Treba da naemo mesto za|iznajmljivanje kola i...
+{127488}{127530}Gde mi je novËanik?
+{127544}{127579}Moj novËanik.|- äta nije u redu?
+{127583}{127637}Gde je doavola moj novËanik?
+{127685}{127718}äta Êemo sada da radimo?
+{127729}{127758}Sve je u redu.
+{127762}{127839}Ali ti ne razumeö. Nema kreditne|kartice, nema novca, nema kola.
+{127843}{127908}Nikada neÊemo tamo da stignemo|na vreme. - Sve je u redu.
+{128091}{128118}Sada.
+{128277}{128305}Doavola!
+{128701}{128787}To je ruËni talenat koji tamo imaö,|ali bolje bi bilo da ga raöiriö okolo.
+{128791}{128893}Ti momci imaju neku vrstu radoznalosti|ako pogodiö previöe dûekpotova odjednom.
+{129669}{129751}»operi sa Er Kava Êe da pretraûe|prostor u okviru Ëetvrt-milje.
+{129755}{129809}Dobro, drago mi je da ste ovde.|- Oko Ëega je sve ovo?
+{129813}{129860}Vi ste Ëovek od nekog nauËnog|dostignuÊa.
+{129865}{129946}Zar ne prepoznajete prostoriju za|hitnu autopsiju kada je vidite?
+{129956}{129989}Sa koûnim remenima?
+{130003}{130054}Pazite na ponaöanje, Mark.
+{130086}{130113}Da li je ovo vaö poslednji snimak?
+{130117}{130190}Prema NORAD-u, njegov originalni|pravac i brzina
+{130194}{130285}spuötanja su mogle da ga dobace|ovde juûno od Vinsloua.
+{130289}{130325}Vidim. Joö neöto?
+{130329}{130375}Momci iz Kobre su se raspitivali|za municiju.
+{130379}{130455}Helikopterske napadaËke jedinice Êe da|nose pravu municiju u svakom trenutku.
+{130462}{130527}Ovo Êe da bude smatarano borbenom|misijom. - U redu.
+{130600}{130682}Sluöajte, gospodine Foks, voleo|bih da budem timski igraË
+{130686}{130750}ali bih voleo da na neöto skrenem|vaöu paûnju.
+{130754}{130825}Ako postoji jedna stvar koja mi ne|treba, to je predavanje o moralu.
+{130829}{130876}U redu, u redu, jebeö moral.
+{130880}{130945}äta se dogodilo sa dobrim manirima?|Pozvali smo ih ovde.
+{130949}{131009}Nemam nimalo vremena za ovo, äerman.|- Pokuöavam da istaknem suötinu.
+{131013}{131050}Kao i ja, doavola.
+{131056}{131138}Pravite sjajnu predstavu praveÊi se|pobunjenikom, ali Ëinjenica je sledeÊa:
+{131149}{131212}Vi ste javni sluga GS-11.
+{131226}{131288}U bilo koje vreme kada vam teret|postane preteûak
+{131292}{131398}moûete da se vratite u Kornel, ili|odakle god smo vas naöli.
+{131402}{131467}I da vas vidim da se vratite na|platu instruktora.
+{131471}{131526}Sada, trgnite se ili odlazite.
+{131539}{131564}Da li je to jasno?
+{131568}{131644}Gospodine Foks, postoji moguÊnost da su|vieni u Las Vegasu.
+{131650}{131686}Oni su verovatno isprednjaËili|u ovom pravcu.
+{131690}{131766}Hajde da uspostavimo komandni|centar u Vinslou.
+{131820}{131858}Bolje vam je da odete tamo...
+{131875}{131945}i obezbedite sebe ako joö uvek|ûelite da budete Ëlan tima.
+{131961}{131989}Vi to ûelite, zar ne?
+{132052}{132100}Da, gospodine.|- U redu, onda krenite.
+{132132}{132184}Otarasite se te proklete cigare.
+{132412}{132495}Trebalo bi da stignemo do kratera|svakog trenutka.
+{132526}{132586}UspeÊeö. UspeÊeö da odeö kuÊi.
+{132641}{132683}To ûeliö, zar ne?
+{132689}{132727}Da, naravno.
+{132951}{132996}Kako je tamo gore?
+{133019}{133059}Prelepo je.
+{133086}{133130}Ne kao ovo, ali je prelepo.
+{133162}{133243}Postoji samo jedan jezik. Jedan|zakon. Jedan narod.
+{133247}{133367}I nema rata, nema gladi i snaûni|ne muËe bespomoÊne.
+{133378}{133493}Mi smo veoma civilizovani, ali|smo neöto izgubili, mislim.
+{133539}{133607}Svi ste vi tako mnogo ûivi. Svi|tako razliËiti.
+{133661}{133744}NedostajaÊe mi hrana i pevanje|i igranje.
+{133780}{133810}I jedenje.
+{134207}{134255}I ostale stvari.
+{134853}{134906}Dobro jutro, narode. äta Êete da|naruËite?
+{134925}{134955}Kafu.
+{134961}{134987}Holandsku pitu sa jabukama?
+{135006}{135088}äta kaûete na malo lepog kolaËa sa|viönjama? - To bi bilo lepo.
+{135202}{135232}I krem ölag.
+{135236}{135276}Stiûe odmah.
+{135284}{135334}Koliko treba vremena da se stigne|do kratera?
+{135338}{135413}Voûnjom? Ne mnogo. Najviöe pet,|öest minuta.
+{135433}{135493}éelim da probate ovaj kolaË od|viöanja.
+{135497}{135584}I ako vam se ne dopadne, ne morate|da ga platite.
+{135699}{135726}Ukusan je.
+{135730}{135770}Moja ûena je napravila.
+{135795}{135831}Veoma je dobar.
+{136392}{136434}Imaö li nekoga?
+{136476}{136508}éenu, kao...
+{136529}{136561}ona tamo?
+{136589}{136615}Ne.
+{136639}{136666}Ne?
+{136718}{136756}éelim...
+{136785}{136822}éelim...
+{136853}{136881}äta?
+{137046}{137108}Dobro jutro, narode. Da li je ono|vaö Kadilak napolju?
+{138529}{138573}U redu, napred.
+{138648}{138686}Da, drûi ga. Da, u redu.
+{138911}{138964}éeleo bih da razgovaram nasamo sa|ovim ljudima.
+{138968}{139033}BiÊu odmah ispred ako vam zatrebam.
+{139065}{139172}Dûordû Foks je upravo pozvao radiom,|rekavöi da kaûem da su na putu ovamo.
+{139632}{139751}Ja sam Mark äerman, SETI, potraga za|Vanzemaljskim...
+{139829}{139904}Gospoo Hejdn, razgovarali smo preko|telefona.
+{139930}{139974}Ovo je baö tako...
+{140047}{140079}da li imate neöto protiv da sednem?
+{140193}{140251}Ima toliko mnogo pitanja koja bih|hteo da postavim,
+{140255}{140295}da teöko da znam odakle da poËnem.
+{140325}{140371}Ima bi bilo öta öto mogu da uradim|za vas?
+{140382}{140417}Moûete da ga pustite da ide. Molim|vas.
+{140436}{140467}Ne mogu.
+{140489}{140547}Stvarno, ne mogu. éao mi je.
+{140567}{140592}Da li je...
+{140598}{140651}Da li je trebalo da se ovde sretnete|sa nekim?
+{140655}{140678}Da.
+{140682}{140739}Vi ne razumete, nema mnogo vremena.
+{140743}{140796}Zaöto ovde? Zaöto krater?
+{140841}{140898}Da li su ljudi iz vaöeg sveta bili|ovde ranije?
+{140909}{140943}Ranije, da.
+{140960}{141032}Mi smo zainteresovani za vaöu|vrstu.
+{141062}{141127}Mislite da ste vi neka vrsta|antropologa?
+{141132}{141195}Da li je to ono öto ovde radite?|Samo nas proveravate?
+{141199}{141245}Vi ste Ëudna vrsta...
+{141269}{141297}... ne kao sve ostale.
+{141336}{141395}I bili bi iznenaeni koliko mnogo|ih ima.
+{141404}{141452}Inteligentna ali divlja.
+{141536}{141603}Da li bi trebalo da vam kaûem öta|sam naöao prelepo o vama?
+{141705}{141783}Vi ste na svom vrhuncu kada su|stvari najgore.
+{141823}{141871}Pustite ga da ide, gospodine äerman,|molim vas.
+{141976}{142013}Ako ostane ovde...
+{142037}{142062}... umreÊe.
+{142153}{142208}Zar ne vidite da sada umire?
+{142449}{142482}Hvala vam.
+{142682}{142715}Hvala vam.
+{143365}{143403}Pogreöni?
+{143407}{143461}Oni tako avolski odgovaraju opisu.
+{143465}{143554}Ne. Tip koga traûimo je mnogo stariji.
+{144147}{144209}Gde su oni? äta si uradio sa njima?
+{144213}{144315}Truper, gde su tvoji zarobljenici?|- Pogreöne osobe. Morali smo da ih pustimo.
+{144319}{144351}äta si uradio?
+{144659}{144710}äermane, ti si gotov.
+{144717}{144782}SrediÊu da ti izvade drob zbog ovoga.
+{144792}{144870}Pa, baö onoliko koliko mrzim da se|povinujem simbolizmu.
+{146104}{146145}»ula sam neöto.
+{146472}{146502}Daj mi ruku.
+{148749}{148854}Svim jedinicama, ovde Foks. éelim|samo hitce upozorenja.
+{148864}{148905}Kada budete spremni, jeste li|razumeli.
+{148915}{148953}Razumem. KreÊemo.
+{150087}{150202}{y:i}Gospoo Hejdn, vi i vaö pratilac|{y:i}morate odmah da stanete.
+{150223}{150293}{y:i}Stanite tu gde ste ili Êemo da|{y:i}otvorimo vatru.
+{150313}{150387}{y:i}Ponavljam, stanite tu gde ste.
+{150398}{150452}{y:i}Imamo nareenje da otvorimo vatru.
+{150531}{150588}{y:i}Poslednje upozorenje, gospoo Hejdn.
+{150592}{150671}{y:i}Vi i vaö pratilac morate odmah|{y:i}da stanete.
+{150677}{150741}{y:i}Imamo nareenje da otvorimo vatru.
+{151376}{151418}{y:i}Poslednje upozorenje, gospoo Hejdn.
+{151422}{151501}{y:i}Zbog vaöe sopstvene bezbednosti,|{y:i}morate da stanete tu gde ste.
+{152272}{152311}äta je to doavola?
+{155466}{155499}Mora da idem.
+{155559}{155600}Povedi me sa sobom.
+{155604}{155650}Ne mogu.|- Molim te.
+{155654}{155692}UmreÊeö tamo.
+{155696}{155736}Mislim da me nije briga.
+{155740}{155770}Mene je briga.
+{155775}{155804}Sada...
+{155832}{155924}... kaûi mi ponovo kako da kaûem|zbogom.
+{156002}{156035}Poljubi me...
+{156093}{156145}... i kaûi mi da me voliö.
+{156186}{156220}Volim te.
+{156391}{156458}Nikada te viöe neÊu videti,|zar ne?
+{156506}{156532}Ne.
+{156643}{156677}Volim te.
+{156935}{156983}Reci bebi za mene.
+{157042}{157072}HoÊu.
+{157509}{157561}äta bi trebalo da uradim sa ovim?
+{157581}{157624}Beba Êe da zna.
+{157756}{157801}Zbogom, Dûini Hejdn.
+{157978}{158009}Zbogom.
+{158034}{159534}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/59ssk|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

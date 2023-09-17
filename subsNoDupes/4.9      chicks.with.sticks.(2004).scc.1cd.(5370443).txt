@@ -1,0 +1,891 @@
+{1}{1}25.000
+{180}{280}Ovo je savröen primjer | igre Chucka Kobascewa.
+{314}{395}{C:$0000FF}{y:ib} KOMADI |{C:$FF0000}{y:b} S PALICAMA 
+{399}{456}Prije ili kasnije | postiÊi Êe zgoditak.
+{460}{512}Chechmanek zadrûava | igru bez rezultata.
+{516}{631}Gauthier ulazi u prostor | L.A.-a. Udarac! Gol!
+{755}{984}Asistencija broju 19. Oleg | Saprykin! I Denis Gauthier!
+{994}{1071}Go Taymore, doöao sam | po vaöu perilicu.
+{1075}{1157}Mama, opet on. - Sranje!
+{1172}{1233}Nisi to Ëuo i ja to nikad | nisam rekla. Je li tako?
+{1422}{1484}Tata je rekao da mogu | prati rublje kod njega.
+{1488}{1546}NeÊe nam oduzeti perilicu, Stewie.
+{1549}{1647}One odgode plaÊanja se | Ëovjeku znaju priöuljati.
+{1685}{1752}Uglavnom, juËer sam | im poslala Ëek.
+{1781}{1903}Znaö priËu o Pinokiju, mama? | - Znaö da uvijek govorim istinu.
+{1929}{1988}Samo kaûem... - Znam.
+{2083}{2165}Recite Dougu da sam | poslala Ëek. Hvala.
+{2190}{2340}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
+{2690}{2773}HoÊeö li ikada opet igrati, mama? | - Ne znam, duöo.
+{2889}{2934}Zdravo, Paula. - Zdravo, Charlene.
+{2937}{2988}Da ga napunim? - Da. Hvala.
+{3043}{3074}Daj pet.
+{3227}{3266}Baö tebe trebam.
+{3271}{3323}Je li stigao alternator? - Da.
+{3346}{3417}Imam guûvu. - Ross...
+{3423}{3504}Sve Êe biti u redu. Vjeruj mi.
+{3509}{3582}Unaprijedili su me. | Gumene rukavice.
+{3599}{3644}Zakon si! - Da.
+{3648}{3719}Dobit Êu i 20% poviöice | ako proem test.
+{3739}{3798}Ja Ëastim. - Platit Êu. | Samo moram...
+{3802}{3846}Prodati kuÊu.
+{3850}{3923}VeËeras igramo protiv | Chiefsa. - Znam.
+{3943}{3989}Trebam vrhunsko krilo.
+{3993}{4087}Nikad neÊe pristati na mijeöane | ekipe. - Tko Êe znati?
+{4126}{4226}Nedostaje mi öest igraËa. | Pitao sam se koga mogu dobiti.
+{4292}{4383}Paulu.
+{4409}{4447}Volimo te, Paula!
+{4451}{4568}éalim, sutra je ökola. | - Utakmica je u 19.45 h.
+{4582}{4622}Za desert.
+{4655}{4737}Trebamo te. - Ne mogu u ovako | kratkom roku naÊi dadilju.
+{4741}{4806}Mislio sam na to. Mama Êe biti | kod tebe za 10 minuta.
+{4808}{4881}Uniötit Êete ih. | - Dobro. Rijeöeno.
+{4903}{4942}Ne idem.
+{5093}{5152}Zdravo, mama. Da.
+{5305}{5378}Idemo, Curte! Namjesti se! | Idemo, Vic!
+{5744}{5787}äto je bilo?
+{5804}{5837}Jesi li dobro?
+{5863}{5904}Diöi. Diöi.
+{5926}{6021}Sranje, Paula! To je Paula. | - Zdravo, Curte.
+{6033}{6079}Moûeö li? - Da.
+{6094}{6169}Onda se diûi, mamina mazo. | - Evo me.
+{6194}{6289}Ne ûelim cijelu veËer paziti da | je ne sruöim. - Da, igra je gruba.
+{6335}{6440}DeËki, ûenska pravila ostatak | utakmice. Dvije minute za kupovinu.
+{6587}{6642}Sad si odrasla, je li, lutkice?
+{6725}{6799}2-1 protiv Chiefsa.
+{6856}{6939}Nikad nisam rekao da neÊu reÊi, | "Rekao sam vam."
+{6953}{7031}Platite, deËki. Hajde.
+{7099}{7194}Paula, bila si | buldog na ledu.
+{7214}{7310}Ne, Paula Taymore dobro je klizala | za debelu samohranu majku.
+{7346}{7404}Nisi tako dobro klizala.
+{7424}{7481}Evo umjetnice niskih udaraca.
+{7489}{7577}Ross, kako udariti tipa u jaja | ako nemaö u öto udariti?
+{7586}{7676}Loöe sam igrao zbog | nepredvienih okolnosti.
+{7684}{7735}ZnaËi, ja sam tvoj izgovor.
+{7766}{7833}Brini se o udarcu, lutkice. | Da sam znao da si ti...
+{7838}{7883}äto? Igrao bi po pravilima?
+{7887}{7972}Olabavi. Dobro si igrala. | - Da, za curu.
+{7983}{8034}Jesam li ja to rekao?
+{8087}{8155}Ovo je bila loöa zamisao. Idem.
+{8162}{8281}Daj, Paula. Samo loöe | podnose poraz.
+{8464}{8520}»ujem da si uöla | u olimpijsku momËad.
+{8556}{8605}Skoro. - Da.
+{8660}{8720}Ja sam Ëula da si | ti upao u NHL.
+{8769}{8826}Skoro. - Da.
+{8874}{8977}Od Olimpijade gledam ûenski hokej. | Skoro je kao pravi.
+{9028}{9068}Skoro, je li?
+{9072}{9163}ZnaËi, ûenska ekipa nikad | ne bi mogla pobijediti muöku?
+{9168}{9241}To je druga igra. - U redu. | Slaûem se. NeÊemo usporeivati.
+{9244}{9314}Ali razgovora radi, | vaöa ekipa, Chiefsi,
+{9319}{9400}pobijedila bi bilo koju ûensku | ekipu u njihovoj igri, je li?
+{9410}{9503}Molim te. Mi smo izmislili hokej. | I da, najebale biste.
+{9554}{9610}Ross? - Joö sam tu.
+{9639}{9697}Puni ste govana, znate?
+{9728}{9815}Ross, uzmi olovku. | Sastavit Êeö ekipu.
+{9856}{9933}Ista ekipa, bez izmjena.
+{9960}{10095}U mojoj Êe ekipi biti ûene starije | od 18 g. U krugu 320 km.
+{10154}{10258}A zaöto bismo pristali na to? | - Jer ste sigurni u pobjedu.
+{10280}{10338}VeÊ njuöim zapaljene grudnjake.
+{10341}{10394}éeliö li se kladiti? | - Moûe. Koliko?
+{10398}{10463}Koliko god vi skupite, | mi Êemo skupiti isto.
+{10467}{10543}Bez kontakata. Udarci | ötapovima dobrodoöli.
+{10600}{10677}Gospodo, jeste li spremni | za ûensku igru?
+{10780}{10858}Imamo slobodan teren | za Ëetiri tjedna.
+{10863}{10942}To je prerano. | - ZnaËi, to Êe biti tvoj izgovor?
+{10974}{11037}U redu. Moûe.
+{11325}{11421}Stewie, zaöto si joö uvijek budan? | Sutra moraö u ökolu.
+{11426}{11493}Onda, jesi li ih razbila? - Jesam!
+{11549}{11589}A sad u krevet.
+{11695}{11730}Zdravo, Marty.
+{11735}{11855}Upravo sam doöla. Stewie? | Ne, u krevetu je. Spava.
+{11931}{12005}Ah, upravo te zvao. Zbilja?
+{12053}{12151}Ne, sve je u redu. | Mama je tu i sve je...
+{12218}{12299}Da, dobro si Ëuo. éenska ekipa.
+{12328}{12450}Marty, prekini. To je lokalna | stvar, niöta viöe od toga.
+{12491}{12553}Novac? Da, ima novca, ali...
+{12572}{12698}Kad smo kod novca, pitala sam se | gdje bi mogao biti tvoj Ëek.
+{12771}{12851}Nije vaûno. - Ja sam pobijedila. | Vrijeme za krevet.
+{12898}{12976}Doi. VeÊ je bilo vrijeme | da se vratiö u igru.
+{12980}{13025}Mama, nije to niöta.
+{13036}{13098}Varalice. - Ja ne varam.
+{13102}{13157}Ima jedna dobra stvar. | - Koja, duöo?
+{13161}{13212}Ruka mi je bolje.
+{14202}{14257}Dobro doöli u CJXB, gice Desmond.
+{14294}{14379}Kao öto znate, gica Desmond je | premjeötena ovamo s postaje Lead
+{14383}{14479}za javljanje uûivo od 10 do 14 | sati. Pokaûite joj postaju i...
+{14618}{14673}Kako se radi.
+{14894}{14972}To ne moûe biti ono öto je | glavni urednik imao na umu...
+{14976}{15020}Za ovaj grad.
+{15675}{15730}Doöla si se povuÊi, zar ne? - Ne.
+{15752}{15907}Da. - Curt je nazvao. Misli da ta | utakmica nije dobra zamisao.
+{15939}{16015}äto ti misliö? | - Nema öto dokazati, zar ne?
+{16053}{16177}Misli to odbaciti kao obiËno | prepucavanje u baru.
+{16211}{16267}U redu. Zdravo, Charlene.
+{16299}{16392}Nazovi me ako Êeö trebati | krilo za sljedeÊu utakmicu.
+{16675}{16757}Ljubitelji hokeja. SinoÊ | je doölo do ozbiljnog izazova.
+{16762}{16837}Za Ëetiri tjedna Paula Taymore | iz Okotoksa kaûe da Êe dokazati
+{16843}{16895}da ûene znaju igrati hokej.
+{16899}{16974}Paula je bila u olimpijskoj | momËadi. A htjela je i u profiÊe.
+{16979}{17040}Stoga se Ëuvajte. DeËki. | Jer ona zna igrati.
+{17044}{17095}Chiefsi Êe pod vodstvom | Curta Bonnera
+{17098}{17194}igrati protiv Pauline | momËadi u borbi spolova.
+{17257}{17337}Prenosit Êemo tu utakmicu | uûivo na CJXB-u.
+{17465}{17506}Nema utakmice!
+{17555}{17595}Nema utakmice!
+{17793}{17867}Paula Taymore. - Je li vas moj | brat Ross nagovorio na ovo?
+{17872}{17955}Ross? Ne. - Dobro, | ali sve smo otkazali.
+{17958}{18019}Morate reÊi u eter | da neÊe biti utakmice.
+{18023}{18078}Nema öanse. - Molim vas. Morate.
+{18084}{18175}»ega se bojite? Moûete ih | rasturiti. Bili ste na Olimpijadi.
+{18179}{18218}Ne, nisam.
+{18223}{18275}Ali mislila sam... | - Pogrijeöili ste.
+{18277}{18353}Recite svima | da neÊe biti utakmice.
+{18368}{18445}U eteru ste. | - Iako poötujem ûensku igru.
+{18453}{18536}Ne moûete ih pustiti protiv | muökaraca. Nemaju snage.
+{18549}{18659}Pa, Paula Taymore je ovdje. | Onda, ima li pravo?
+{18706}{18761}Ne, nemate pravo.
+{18777}{18856}éene znaju uËinkovito | igrati i bez toga.
+{18860}{18934}Neki ljudi drûe da je ûenski hokej | druga igra. Jednostavno nije...
+{18937}{19016}Moj zavedeni brate, | ovo je za tebe!
+{19049}{19138}Sluöaj, za mikrofonom se mogu | nositi s bilo kojim muökarcem.
+{19147}{19193}Imaö vjeötinu.
+{19210}{19263}Trebaö menadûera. - Da.
+{19268}{19375}Ovo Êe biti moja obveza prema | zajednici. Dobila si medije.
+{19523}{19578}Hajde, Paula. Pleöi.
+{19607}{19663}Samljet Êe vas.
+{19740}{19837}Zahvaljujem svima öto | ste doöle na radni dan. Cijenim to.
+{19910}{20100}PoËet Êemo u uglu. Prolazit Êemo | Ëunjeve, a zatim pucati u mreûu.
+{20183}{20218}Charlene?
+{20241}{20274}Spremna?
+{20385}{20435}Dobro. Idemo.
+{21237}{21294}NA–I FELLI
+{21596}{21628}Dobar udarac!
+{21647}{21728}Oprosti, ti u plavom. | Kako ti je ono ime?
+{22158}{22198}Idemo.
+{22268}{22368}Zbilja su dobri. Nisam imala | pojma da Êe biti tako dobri.
+{22374}{22435}Mislim, zbilja su dobri.
+{22483}{22551}Snaga gornjeg dijela tijela | Ëini veliku razliku, je li?
+{22795}{22926}Zamisao je da svi damo 50, 60 | dolara kao izazov damama.
+{22948}{23005}Dajte, dobit Êete novac natrag.
+{23016}{23079}Ali znate da je ovo | drukËija igra, zar ne?
+{23114}{23173}Znate kakva je to igra, deËki?
+{23233}{23291}VeÊi su, jaËi i brûi.
+{23300}{23398}UsredotoËite se na igru u igri.
+{23405}{23491}Nemojte misliti to öto jesu. | Mislite na ono öto nisu.
+{23497}{23623}Sav IQ im je u preponama. - Dobro. | éelim reÊi da se moramo poboljöati.
+{23626}{23695}Ne bez golmana. | - Za to imam ideju.
+{23711}{23821}Moûe li mi netko dodati joö krvi? | - Ja Êu, duöo. Evo.
+{23833}{23902}»ujem da si sada u drugom razredu.
+{23921}{24005}Ne mogu vjerovati. | Zajedno smo iöle u ökolu.
+{24009}{24078}Charlene, razmiöljaö li | o smirivanju?
+{24086}{24177}Ross joö uvijek vene. | - Prerani ejakulator.
+{24187}{24231}Govoriö o mom bratu.
+{24271}{24330}To je obiteljska crta. | - Zar i tata?
+{24358}{24402}Previöe informacija, mama.
+{24406}{24463}Jesi li razmiöljala o vibratoru?
+{24487}{24576}Mama! - Napaljenost je jedna | stvar, a oËaj je druga.
+{24586}{24646}U redu. UsredotoËimo se.
+{24665}{24792}Trebamo 20 sati vremena na | ledu za vjeûbu, dresove i...
+{24814}{24918}Tu su i troökovi utakmice, | a trebat Êemo i pravog suca.
+{24998}{25095}Sluöajte, ja Êu to vjerojatno | spominjati tri puta u sat vremena.
+{25098}{25156}Trebat Êemo i nekakav plakat.
+{25160}{25265}Ja sam veÊ organizirala prodaju | kolaËa. - To Êe nam pomoÊi.
+{25335}{25418}Mama, öto je prerani ejakulator?
+{25544}{25577}Pokuöaj.
+{25625}{25658}Lijepo!
+{25661}{25720}Nastaviö li tako, | moÊi Êeö birati momËad.
+{25727}{25772}Avalanche. - Da?
+{25816}{25909}Izvoli. - Imaju lovu, | ali radi se o sponzorima.
+{25925}{25971}Nike.
+{25981}{26137}Joö imaö zadaÊu. Za sluËaj | da ne upadneö u veliku ligu.
+{26180}{26247}Zdravo, Marty. Volim te. | - I ja tebe.
+{26262}{26314}Nazovi me. - U redu.
+{27243}{27285}»ekaj!
+{27782}{27840}Felicity Carelli?
+{27883}{27924}Da, pa?
+{27928}{27981}Ja sam Paula Taymore.
+{27986}{28072}Igrale smo zajedno pozivnu | utakmicu prije godinu i pol.
+{28076}{28163}Pobijedile smo 3-2 u produûecima | zahvaljujuÊi tebi. - Da.
+{28211}{28275}Uglavnom, sastavljam momËad.
+{28310}{28373}Vrati se kuÊi u svom SUV-u.
+{28381}{28419}Hej, Felli!
+{28561}{28602}Idi kuÊi.
+{29154}{29198}Stanite.
+{29256}{29293}Jesi li dobro?
+{29318}{29356}HoÊeö nastaviti?
+{29389}{29448}Puno si bolja, znaö?
+{29470}{29522}U redu, nastavljamo.
+{29845}{29886}Imaö opremu?
+{29891}{29952}Da. Ali to je sve.
+{29979}{30056}Imam krevet viöka u podrumu. - Guba.
+{30247}{30284}Vidimo se.
+{30364}{30431}U redu... Nastavimo.
+{31622}{31683}Tko si ti? | - A tko si ti?
+{31710}{31763}Ja sam muökarac u kuÊi.
+{31767}{31822}A to je moj ruËak.
+{31881}{31916}Uzmi.
+{32279}{32381}12,877 dolara i 50 centa. | - Cyber kolaËi?
+{32414}{32516}Imamo cure iz cijele prerije. | Imamo jednu iz B.C.-a.
+{32532}{32652}Ovdje imamo nekoga iz Quebecka. | Tamo vole kolaËe.
+{32662}{32811}Vidi ovo! ZnaËi li ti öto | poveÊanje broja kandidata?
+{32829}{32937}Toliko igraËica, | a tako malo momËadi.
+{33015}{33116}Kako teöko moûe biti? Ja spremam | izvrstan kolaË od borovnice.
+{33177}{33274}Onda, sekice? Velika | lova od braöna?
+{33279}{33331}Da. Puno kolaËa, puno dolara.
+{33335}{33426}Novac mora donirati neutralno | lice, zar ne? - Da.
+{33440}{33508}Ne, mama. - Nema problema.
+{33518}{33602}NeÊemo se kladiti, zar ne? - Ne.
+{33637}{33724}Smrvit Êe vas. - NeÊe.
+{33750}{33795}Idemo, Stewie.
+{33937}{33963}Lijepo!
+{34019}{34051}Glavu gore!
+{34099}{34129}Tako.
+{34305}{34354}Daj mi telefon. Daj!
+{34383}{34431}Hvala. Halo?
+{34453}{34508}Zdravo, go Miller. Naravno.
+{34515}{34578}Upoznale smo se | na prvi dan ökole.
+{34586}{34648}ObiËno nije budan tako kasno.
+{34680}{34798}äto znaËi "ne shvaÊa"? Ne | pokuöava ili mu je preteöko?
+{34865}{34958}SljedeÊi tjedan? | Da. Naravno. Hvala.
+{35071}{35119}Razgovarat Êemo poslije.
+{35300}{35377}Ako ga primiö niûe, | imat Êeö bolji trzaj.
+{35755}{35818}Izmjena! - Moram piökiti.
+{35830}{35872}I ja moram iÊi.
+{36025}{36080}Mora li joö tko iÊi?
+{36260}{36341}»estitam, kaplarice. Dobro | doöli u momËad. Lijevo krilo.
+{36355}{36397}NeÊete poûaliti.
+{36419}{36485}Kandidatkinja sam za | doktorat ûenskih studija.
+{36489}{36539}Moj rad, "»aranje | na radnom mjestu",
+{36543}{36625}ispituje strukturu ûenskog rada | u suvremenim uredima.
+{36629}{36749}äto mislite o desnom krilu? | - Mislim da sam viöe za lijevo.
+{36771}{36805}U redu.
+{36877}{36933}»aranje? - Magija.
+{37043}{37091}Lijevo krilo.
+{37111}{37149}Hvala!
+{37210}{37284}Zaboravila sam kako je | onaj Curt sladak. - Charlene...
+{37289}{37357}Znam, znam. On je neprijatelj. | - Centar.
+{37360}{37389}Guba.
+{37433}{37497}Moramo neöto potpisati? | - Ovo je nesluûbeno.
+{37501}{37574}Briga me da je i na ubrusu. | HoÊu papir.
+{37657}{37724}I trebam kopiju za... | - Knjigovodstvo?
+{37924}{37972}Nema viöe kasnih izlazaka.
+{37998}{38053}Otkad si mi ti mama?
+{38615}{38649}Paula? - Da.
+{38656}{38713}Marcie Rutledge iz Calgaryja.
+{38740}{38839}Upravo sam se vratila s nevjerojatno | dosadnog puta u Europu.
+{38851}{38935}Pitala sam se je li | momËad sastavljena.
+{38978}{39006}VeÊ?
+{39773}{39808}To je bilo dobro.
+{39823}{39932}Povratak ti je slab. | Samo se malo viöe ispruûi.
+{39959}{40012}To bi ga trebalo popraviti.
+{40053}{40105}Dobro je. - Hvala.
+{40227}{40286}Dobro. - Nije da te | stavljam na klupu.
+{40290}{40348}Ona je Marcie Rutledge. | Znaö obitelj Rutledge.
+{40352}{40441}Igrali su po cijelom svijetu. | Uz nju imamo priliku.
+{40445}{40526}SjeÊam se dana kada su te | primili u Olimpijski program.
+{40531}{40624}SjeÊam se i dana kad si se vratila. | - Ovo nije Olimpijada. - Jest.
+{40631}{40786}éeliö se dokazati. éeliö neöto | znati? Ova igra ne znaËi niöta.
+{41154}{41206}I to je neka hokejaöica.
+{41234}{41309}Ona nam je bila slaba toËka. | Svi su to znali.
+{41779}{41847}Vi ste Stewartova mama? - Da.
+{41864}{41961}Ja sam Steve Cooper, Sarahin tata. | Zajedno su u razredu ge Miller.
+{41997}{42126}Znam, znoje mi se dlanovi pri | samoj pomisli da moram pred nju.
+{42133}{42192}Danas je u dobroj formi. - Da?
+{42200}{42292}Stewart ima problema. | UobiËajene stvari. - I Sarah.
+{42303}{42364}To je prokletstvo | samohranih roditelja.
+{42368}{42409}Da, i kod nas.
+{42414}{42493}Stewart se prilagoava, ali ga | Miller ima svoje miöljenje.
+{42497}{42605}Znam. Sarah sada misli samo na | hokej. Igra u izabranoj momËadi.
+{42610}{42663}Nadam se stipendiji.
+{42714}{42762}Sretno. - Hvala.
+{42868}{42943}Vi ste igrali na Olimpijadi, | zar ne? - Ne.
+{42947}{43017}Mislio sam da ste bili u | olimpijskoj momËadi. - Ne, ne.
+{43021}{43085}Stewart i moja majka su | doûivjeli automobilsku nesreÊu.
+{43089}{43174}Zbilja? Je li bio jako ozlijeen? | - Slomljena ruka.
+{43183}{43310}Morala sam se vratiti dva tjedna | prije utakmice. Ozbiljan prijelom.
+{43343}{43417}Sigurno je bilo uûasno. - Bilo je.
+{43488}{43578}Sarah mi govori da mislite prijeÊi | u profesionalce sa svojom momËadi
+{43582}{43679}i sada joj je glava puna snova | da Êe upasti... - Ne, ne.
+{43685}{43779}Ovo je samo jedna lokalna | utakmica. Niöta profesionalno.
+{43784}{43866}Zbilja? Stewart joj je rekao... | - Krivo je shvatio.
+{43874}{43930}Ne, to sam veÊ pokuöala.
+{44027}{44113}Poûelite mi sreÊu. Idem | do ûene zmaja. - Sretno.
+{44342}{44396}Martine, je li Stewie dobro?
+{44491}{44621}Drugi razred je teûak. | Moûemo li kasnije o tomu?
+{44728}{44820}Ako ûeliö neöto poduzeti, | unajmi odvjetnika.
+{44838}{44916}Osim toga, ona je | bivöa zatvorenica.
+{44960}{45022}Sluöaj, samo ûelim... Sranje!
+{45063}{45115}Mogu li te nazvati kasnije?
+{45143}{45180}Lijepo.
+{45191}{45256}Majice ne mogu biti | ûute ili zelene.
+{45260}{45334}»itave ekipe su bile dovedene | u pitanje zbog tih boja.
+{45343}{45413}Sjeti se Hartforda | ili Los Angelesa.
+{45475}{45544}A ruûiËasta?
+{45615}{45721}éeliö igrati odjevena u ruûiËasto? | - Flourescentno ruûiËasto.
+{45727}{45795}Sve momËadi imaju tajnu igru. | I mi je trebamo.
+{45799}{45886}U redu. äto kaûeö na, | "Padni na guzicu i pucaj"?
+{45902}{45937}Dame...
+{45941}{46026}HoÊemo li se usredotoËiti | ili da vam serviram koktele?
+{46324}{46381}Iskoristite svoju teûinu. | Premjestite teûiöte.
+{46567}{46627}Glava gore! Bolje je.
+{46730}{46778}Lijepo, cure! Lijepo.
+{46979}{47039}Gdje su ruËnici? - Ne znam.
+{47045}{47102}Ali, Heather, smrzavaju se.
+{47111}{47175}Trebamo ruËnike.
+{47197}{47284}Oprostite, osoba zaduûena | za opremu bila je zauzeta.
+{47291}{47326}Izvolite.
+{47528}{47608}Kladim se da je ne moûeö | natjerati da trepÊe.
+{47657}{47764}Paula, ja nisam kuja zaduûena za | ruËnike. - Heather, prezauzeta sam.
+{47773}{47871}Mislila sam da ti ûeliö neöto | uËiniti za zajednicu. - Molim?
+{47877}{47950}äto misliö da ja dobivam od ovoga? | - Sluöanost.
+{47962}{48064}éenski hokej je oksimoron. | - Je li to rekla da je Paula moron?
+{48075}{48112}Objasnit Êu kasnije.
+{48116}{48193}ZnaËi, ja sprjeËavam tvoje | brzo napredovanje u poslu?
+{48194}{48252}Paula, ohladi. - Odjebi!
+{48268}{48388}Gdje su naöi dresovi? I zaöto | ne znam je li rezervirana dvorana,
+{48392}{48478}a opet mi dijete nije | na vrijeme u krevetu?
+{48481}{48585}Na koliko smo sada? 71? | - Ja sam Ëula da je 73.
+{48594}{48651}73 tisuÊe dolara?
+{48690}{48774}Nikada nisam igrala hokej | za novac, a niste ni vi.
+{48779}{48886}Molim te. Kako da Êu dospjeti u NHL? | Prekini s plemenitim sranjem.
+{48890}{48951}Ja se pitam Ëemu trud. Ispadam.
+{49043}{49114}Moûda zbog ovoga nema ûenske | profesionalne lige.
+{49117}{49205}Iz nekog sam idiotskog razloga | mislila da Êemo odigrati utakmicu.
+{49209}{49295}Znate, poput efekta lavine. | äto nas moûe zaustaviti?
+{49298}{49393}Ne, veÊ sam iöla ovuda. Znam | öto je potrebno. Nemam viöe snage.
+{49424}{49489}Ne ako je ulog ovako trivijalan.
+{49553}{49645}Je li upravo dala otkaz? - Mislim | da ima problema s predanoöÊu.
+{49665}{49743}Zaöto je tebi stalo? Mislila | sam da mrziö cijelu zamisao.
+{49761}{49847}Ljudi razgovaraju. Sluöaju. | - Sluöaju mene.
+{49872}{49985}Znaö li öto je demografija? | Uglavnom su bijeli i vole hokej.
+{50004}{50073}A neki od njih imaju previöe | slobodnog vremena.
+{50116}{50206}Znaö li da je crna hokejaöka | momËad prije sto godina
+{50210}{50276}punila stadion svake veËeri?
+{50284}{50403}A znaö li da je prvi bijeli kapetan | NHL momËadi u tvom dvoriötu?
+{50451}{50571}Ako se ikada misliö izvuÊi iz ove | kulturne pustoöi i postati svoja,
+{50578}{50635}ovo je tvoja prilika.
+{50649}{50762}Dobro. Ali povlaËim liniju kod | izvjeöÊa o stanju na cestama.
+{51150}{51231}Mislila sam da Êeö otiÊi. | - Razmiöljam o moguÊnostima.
+{51262}{51319}Moûeö ostati koliko god dugo ûeliö.
+{51352}{51476}Moûda bih te mogla zaposliti kao | pripravnicu. Bar bi imala posao.
+{52673}{52771}To je drevna vjeûba | team-buildinga. Imam kasetu.
+{53067}{53179}Kad si bila mala, voljela sam te | gledati kako igraö hokej.
+{53244}{53331}Tata joj je uvijek kupovao | klizaljke za umjetniËko klizanje,
+{53335}{53406}a ona bi plakala i zanovijetala!
+{53445}{53560}Sve dok se napokon nije slomio | i kupio joj klizaljke za hokej.
+{53571}{53637}Nikada se viöe nije osvrnula.
+{53695}{53746}Do sada.
+{53765}{53843}Doista to moraö uËiniti.
+{53935}{53998}Ako ne za sebe, onda za mene.
+{54012}{54071}I za svoga sina
+{54079}{54191}koji se osjeÊao odgovornim | öto smo ti uniötili ûivot.
+{54376}{54405}I...
+{54431}{54489}Evo ga.
+{54616}{54727}äto je? - U hokeju se | stavljaju prezimena, Heather.
+{54732}{54815}Izgledat Êe kao da igraju protiv | djevojaka iz sluûbe za izlaske.
+{54821}{54892}äto je to? Nemoj mi reÊi | da je to crna udovica.
+{54895}{54950}To je bila moja zamisao.
+{54957}{55046}Pojedu muûjaka nakon parenja. | - Ne, Felli, ne pojedu ga.
+{55050}{55108}Pojedu. - Ne pojedu.
+{55111}{55153}äto si rekla?
+{55165}{55288}U redu, kÊeri moja. | Jesi li za ili protiv?
+{55396}{55443}Daj mi moj dres.
+{55512}{55577}Tko smo mi? - Crne udovice!
+{55789}{55840}Gdje je moj dres?
+{55917}{56007}Heather, moûemo dobiti | dres za Stewarta, zar ne?
+{56856}{56916}Cure, donijela sam ga.
+{57018}{57089}Ovo je jedan od prvih | Gretzkyjevih ötapova.
+{57093}{57217}Dojmljivo. Viöe ne izrauju | takve... ötapove.
+{57324}{57383}Malo je osjetljiva na ötap.
+{57893}{57972}U eteru ste. - »ujem da se ûene | ûele ovime baviti profesionalno.
+{57979}{58060}To je za pohvalu. | - U eteru ste.
+{58075}{58170}Profesionalna ûenska liga? | Gdje su navijaËi? To mene zanima.
+{58337}{58385}Sarah mi kaûe da Êete pokuöati.
+{58396}{58451}Negdje se mora poËeti.
+{58457}{58542}VeÊ planira kako Êe izgledati | njezina hokejska kartica.
+{58546}{58611}Reci joj da joö nisam | dala otkaz na poslu.
+{58615}{58671}Polako napredujemo. - U redu.
+{58799}{58866}»ini se da ti je | alternator pri kraju.
+{58870}{58965}Bolje mu je da ne ode ovaj mjesec | da ne bih morala pjeöke na posao.
+{58969}{59053}Lako se mijenjaju. - Reci to | mom bratu. MehaniËar je.
+{59058}{59142}Ako podigneö dijelove, | ja Êu ti ga ubaciti.
+{59149}{59209}To nije ispalo | kako je trebalo. - Ne.
+{59224}{59290}Rado Êu ti | zamijeniti alternator.
+{59294}{59403}Hvala, ali moj brat se kune | da Êe to uËiniti. - U redu.
+{59462}{59555}Evo ga. Vidimo se. | Bog, Stewie. - »uvaj se.
+{59701}{59796}Utakmica je za dva tjedna. Ako | niste dio ovoga. Izgubljeni ste.
+{59829}{59881}Zdravo, Sarah. Zdravo, Alberte.
+{60113}{60153}Brigitte...
+{60165}{60247}Mislila sam da si u vojsci. | - Jesam. Bila sam.
+{60256}{60317}Zdravo, Wendy. Kako novo dijete?
+{60455}{60528}Odjednom se osjeÊam kao da mi | treba novi dezodorans.
+{60532}{60611}Nekoliko Chiefsa moralo je | uzeti dodatne poslove.
+{60617}{60710}Jedan je morao prodati auto. | - A njihovo prikupljanje novca?
+{60727}{60802}Odrûali su pranje auta | usred snjeûne meÊave.
+{60806}{60858}Svima su se zamrznule brave.
+{60896}{60968}Koliko mi imamo? - 86 tisuÊa.
+{61031}{61115}Neki u NHL-u toliko zarade | u jednoj utakmici.
+{61167}{61309}Baza se zatvorila i... - Kaplarko, | tvoje mjesto je sigurno kod mene.
+{61589}{61682}Nije da trebamo osiguranje, | ali stvari su izmakle nadzoru.
+{61710}{61759}DeËki osjeÊaju pritisak.
+{61838}{61894}Svi znamo da to nije istina.
+{61913}{62076}Imamo 10% uloga. A on je | vjerojatno 10, 12 tisuÊa dolara.
+{62107}{62185}To je puno podmazivanja. - Da.
+{62208}{62373}A ako bi ti vodio oklade, mogao | bi pretvoriti 12 tisuÊa u...
+{62428}{62487}Znaö öto? Zaboravi da sam to rekao.
+{62527}{62667}Tvoj posao je da potvrdiö naöu | momËad od noÊi oklade, zar ne?
+{62935}{62983}Evo naöe momËadi.
+{63161}{63222}Tebe Êu nazvati kasnije.
+{63621}{63680}Oprostite. Sluöajte.
+{63694}{63793}ShvaÊamo, u guûvi ste zbog ovoga. | Evo novog dogovora.
+{63798}{63883}Svi Êemo prikupljati novac, | polagati ga na zajedniËki raËun,
+{63888}{63956}a pobjednik Êe dobiti sve, u redu?
+{63969}{64066}Zasad imamo neöto | viöe od 110 tisuÊa dolara.
+{64166}{64256}Zaöto sufinanciramo muökarce? | Prikupile smo 10 puta viöe od njih.
+{64261}{64322}To je... - Puöiona.
+{64323}{64379}Ionako Êemo pobijediti. | U Ëemu je problem?
+{64383}{64431}Protivim se iz principa.
+{64435}{64525}UsredotoËite se na cilj. | Profesionalna ûenska liga.
+{64555}{64614}Odnijet Êu novac mojim ljudima.
+{64618}{64688}Vode financije mojoj obitelji. | To Êe mi uËiniti kao uslugu.
+{64692}{64765}Dobro, Marcie. U redu, | hajdemo na trening.
+{64845}{64935}Znaö, Felli, novac nije | zajamËen. - Molim?
+{64944}{65047}Stvari se mijenjaju. Mnogi | ljudi ne ispune obeÊanja.
+{65084}{65188}Moûda Êeö ipak igrati samo | za slavu. - Da, baö.
+{65240}{65332}Dobar dan. Prikupljam priloge | za ûensku hokejaöku momËad.
+{65336}{65405}G. Erskine treba dati 200 dolara.
+{65621}{65660}To je dobar deËko.
+{65894}{65969}Jeste li zavröili s tim?
+{66105}{66184}Vratite mi to! Vratite!
+{66244}{66280}Izvoli.
+{66354}{66414}Zdravo, Marty. Oprosti öto kasnim.
+{66471}{66519}Idi. - Vidimo se.
+{66524}{66561}Ovuda.
+{66727}{66786}Ne ûelim neznance u kuÊi.
+{66921}{67024}Ne moraö mi zahvaljivati. | NeÊeö me povrijediti.
+{67036}{67093}Hvala, Felli.
+{67105}{67174}Ali ovdje sam ja mama, u redu?
+{67673}{67750}Dobro si? Kako je bilo kod tate?
+{67863}{67960}éelim se vratiti tati. Ona smeta.
+{68040}{68098}Kao i proöli put.
+{68183}{68243}Je li to zbog utakmice? - Da.
+{69354}{69487}Djeca su prevrtljiva. Ja sam | huökala mamu na tatu i tatu na mamu
+{69502}{69578}i na kraju se sve pretvorilo u | natjecanje u kupovanju igraËaka.
+{69653}{69710}Ne sjeÊam se tog tipa.
+{69851}{69923}Ovo ûivcira. Cooper Welding?
+{69927}{70024}Halo, 1-800-Telefonski seks. | Izvolite. - Daj mi telefon!
+{70078}{70133}Ne, Paula je.
+{70173}{70223}Da, nabavila sam dio.
+{70240}{70302}To bi bilo sjajno.
+{70332}{70380}Dobro zvuËi.
+{70413}{70509}Vidimo se. Hvala, bog.
+{70639}{70705}éeli mi popraviti auto.
+{70775}{70830}Djeca? - Rastavljen je.
+{70834}{70913}Sladak? - Ne mora biti. | Popravit Êe mi auto besplatno.
+{70917}{70980}Nikada prije nisam | vidjela onog tipa.
+{70998}{71043}Sereö.
+{71049}{71157}To ne moûe biti konaËni sastav. | äto je s ovim tipom? - Kojim?
+{71165}{71211}Ovim ovdje.
+{71228}{71305}Bio je na ledu one veËeri kad smo | igrali. Vidio sam ga. - Ja nisam.
+{71309}{71434}Ti si bila zauzeta. To je momËad, | Paula. I bez brige, sredit Êete ih.
+{71547}{71646}Je li to moje? | - Da, doÊi Êeö na red.
+{71654}{71694}Sama Êu.
+{72188}{72243}Martine, ja sam. Kako je on?
+{72313}{72371}To je neprihvatljivo.
+{72512}{72621}Ostavio je svoj ötap za hokej. | Mislila sam da Êe mu nedostajati.
+{72755}{72878}Reci mu da sam zvala | i da mi nedostaje. U redu?
+{72992}{73108}Upamtite da se seks prodaje. Jasno?
+{73184}{73251}äto je rekla? - Upalilo | je kod vatrogasaca.
+{73296}{73353}äto je to bilo? - Niöta.
+{73357}{73420}Najvaûnije je pronaÊi sponzora.
+{73423}{73487}To nam je prilika da odemo | u profesionalke, zar ne?
+{73491}{73552}Gdje je u svemu tomu igra?
+{73560}{73627}Bila sam hokejaöka mama godinama.
+{73631}{73734}A ja sam mislila da dolazi | samo zbog kamera.
+{73776}{73899}Cure, sluöajte. | Igraju vaöu igru.
+{73913}{74035}Morate izaÊi na teren, | pokrenuti igru i upamtite...
+{74085}{74150}Znanje je moÊ!
+{74222}{74297}éenska zdjelica je bolje | prilagoena brzom klizanju.
+{74389}{74436}Igramo glavom.
+{74588}{74632}Moram piökiti.
+{74643}{74755}Mnogi slavni igraËi nisu bili veÊi | od nas. VeliËina nije vaûna.
+{74897}{74955}Vodite ljubav s kamerom.
+{75147}{75244}Danaönji naslov moûe biti | "Potpuna katastrofa." -Dobra.
+{75260}{75349}Evo, kad igramo naöu igru, | dobre smo. - Jesi li pijana?
+{75356}{75449}Pucali su na moj gol 50 puta. | Kad Êete se pribliûiti njihovom?
+{75574}{75616}BraniËi...
+{75856}{75905}Hvala öto ste nas sluöali.
+{76107}{76173}Nadam se da pjeva jednako | dobro kao öto izgleda.
+{76437}{76504}»ujem da su vas danas | dobro napraöili.
+{76514}{76582}éeliö li otkazati | tu cirkusku utakmicu?
+{76586}{76644}Ne. Bit Êemo spremni za vas.
+{76648}{76711}I igraËa kojega ste proövercali.
+{76739}{76807}Nikada se nemoj natjecati | u piöanju s tvorom.
+{76887}{77026}Vaö pravi problem je u golu. | »ujem da si ih ti dosta propustila.
+{77064}{77111}NauËi drûati noge skupljene.
+{77115}{77158}Felli, nemoj...
+{77432}{77494}Pusti je! - Polako!
+{77682}{77732}Dobra si u ovom.
+{77747}{77825}Stavi brnjicu svojoj | kuji, lutkice.
+{77830}{77869}Da vidim.
+{77872}{77907}Hajdemo!
+{78258}{78332}Ja sam za to da zaigramo!
+{78388}{78491}Ljudi, nemojte zaboraviti | da Êemo utakmicu pratiti uûivo.
+{78502}{78588}Prikupljeno je 140 tisuÊa dolara. | Nije loöe. Zar ne?
+{78605}{78661}Paula to ûeli uloûiti | u profesionalnu ligu.
+{78914}{78952}Luke.
+{78970}{79025}BuduÊi da sam dobila | gumene rukavice,
+{79029}{79094}mogu li dobiti | predujam na poviöicu?
+{79098}{79180}UËinim li tebi ustupak, öto onda? | - Da, ali potreban mi je.
+{79259}{79355}Neutralno. VruÊe. VodiË.
+{79458}{79587}Ne ûeliö biti sprûena. | Kao neku veËer. 7-2.
+{79669}{79753}Samo malo podröke.
+{79914}{79960}Ispucaj sve pakove.
+{80041}{80117}Nemamo razloga za zabrinutost.
+{80147}{80205}Moram razgovarati | s tobom o Marcie.
+{80210}{80286}Hajdemo odavde. Dovoljno sam vidio. | - Hajdemo na nachose.
+{80293}{80393}Je li tko vidio naöu duöicu | zaduûenu za zakladu od utakmice?
+{80397}{80479}Ostali smo bez 140 tisuÊa dolara! | - Kako to misliö?
+{80483}{80585}Rekla je da Êe se njezini ljudi | pobrinuti za to. Vjerovala sam joj.
+{80590}{80629}Znala sam!
+{80633}{80699}Vjerojatno je to planirala | od poËetka. - Saliö se?
+{80703}{80752}Bila je naöa najbolja napadaËica.
+{80757}{80824}HoÊeö reÊi da je Marcie | ukrala naö novac?
+{80829}{80908}To se moglo dogoditi bilo komu. | - Ne, samo gomili naivki.
+{81044}{81103}Bez novca, nema utakmice, | je li? - Da.
+{81149}{81207}Nisam ovdje zbog zabave.
+{81235}{81318}Za mene je to sve ili niöta. | äteta öto Êe biti niöta.
+{81372}{81436}Samosaûaljavanje je velika stvar.
+{81447}{81568}Pola grada me mrzi. Izgubit Êu | kuÊu, a vjerojatno i posao.
+{81576}{81678}Stewie se spakirao i otiöao. | Ali odigrat Êu utakmicu.
+{81734}{81874}Poötedi me, trenerice. | Neke stvari ne moûeö popraviti.
+{81981}{82086}Moja mama organizira prikupljanje | novca sutra naveËer. Navrati.
+{82174}{82220}Ili nemoj.
+{82705}{82749}Boûe moj!
+{82956}{83007}Dobro, Felli.
+{83293}{83405}Malo je mraËan, ali nije | tako loöe. - To je...
+{83438}{83496}Evo bake. - Boûe.
+{83556}{83629}äto je? Zaplijenili su | veliki televizor?
+{83636}{83709}Ne, Martin ga je uzeo. Znaö to.
+{83735}{83773}Gad.
+{83790}{83886}Gdje je moj omiljeni unuk? | Uniötit Êu ga u pokeru.
+{83916}{84026}Neko vrijeme Êe biti kod | Martina. Zar ti nisam rekla?
+{84045}{84080}Nisi.
+{84108}{84216}Mama, ovo je... Edith, oprosti. | Ovo je Steve. Steve...
+{84275}{84334}Steve Êe mi popraviti alternator.
+{84380}{84474}Ako ona ne prestane plakati, | moûeö meni popraviti alternator.
+{84504}{84545}Ozbiljna sam.
+{84570}{84614}Saberi se, duöo.
+{84713}{84754}U redu, pokuöaj.
+{84813}{84909}Hvala. Dugujem ti karton piva.
+{84980}{85046}Oprosti ako ti je otpalo | uho od sluöanja.
+{85053}{85125}Ne, joö je tu. | Nema potrebe za isprikom.
+{85131}{85208}Uvijek si tako otrcan? | - To je dio moga öarma.
+{85272}{85315}Voljela bih...
+{85342}{85442}VeÊ odavno nisam... | To se vjerojatno vidi. - Ne.
+{85497}{85596}Ali uz tu utakmicu koja se | bliûi, nemam puno vremena.
+{85605}{85707}U redu je. Bez brige. | Kad zavröiö. - Zavröim?
+{85716}{85789}Zar nisi Ëuo da ûenin | posao nikad nije gotov?
+{85806}{85866}VeÊina misli da neÊemo pobijediti.
+{85881}{85953}Ali to nije bitno, zar ne? - Ne.
+{85985}{86105}Da. Drûim da ti ne misliö da Êemo | pobijediti. - Nadam se da hoÊete.
+{86130}{86181}Shvatit Êu to kao "ne".
+{86205}{86315}NeÊu ti lagati. | - Ne, drago mi je da nisi.
+{86553}{86602}Preteöko je.
+{86613}{86693}U petom razredu Êeö misliti da je | drugi razred bio za slabiÊe.
+{86697}{86755}Svi govore da ste loöe.
+{86808}{86917}Tata kaûe da ti misliö da je | hokej vaûniji od disanja.
+{86978}{87018}A öto ti misliö?
+{87191}{87278}Nikad neÊu biti | sjajna kuharica.
+{87291}{87355}Ne mogu uzgojiti ni rajËicu.
+{87403}{87467}Ali zbog tebe mi kuca srce. | Zbog tebe ustajem svako jutro.
+{87493}{87635}Zbog tebe igram hokej | najbolje öto mogu.
+{87694}{87772}To je samo neöto öto sam | oduvijek voljela raditi.
+{87791}{87880}A kada to ne radim, to je kao...
+{87912}{87970}Kao Humpty Dumpty sam.
+{88010}{88135}Padnem i raspadnem se na komadiÊe | koji ni za koga nisu dobri.
+{88181}{88268}Zato ti i tata viöe | ne ûivite zajedno?
+{88316}{88375}Da, vjerojatno.
+{88437}{88505}Nakon öto sam prestala igrati...
+{88544}{88596}Znaö ostatak.
+{88813}{88910}Onda, hoÊu li te | vidjeti na utakmici?
+{88960}{89033}Tyler me pozvao na svoju | roendansku zabavu.
+{89037}{89115}Tko je Tyler? - Moj najbolji | prijatelj u drugom razredu.
+{89465}{89521}ZnaËi. Novac je nestao.
+{89531}{89602}Odnijela ga je fufa | u otmjenom autu.
+{89631}{89736}Uniötava li to naö duh? | Ne! Ovdje je rijeË o hokeju.
+{89748}{89845}VeËeras svi putovi vode do | Edithinog prikupljanja sredstava.
+{89851}{89928}Da. Utakmica je joö | uvijek u igri.
+{90208}{90278}Duöo, sjajno izgledaö. | Daj mi kaput.
+{90318}{90366}Joö nije doöao.
+{90370}{90441}Majko, popravio mi je auto | i to je sve.
+{90489}{90584}Kao karmine. - Prekini. | Imaö mnogo navijaËa.
+{90599}{90735}To se javlja Prozac iz tebe? | - Posluöaj neka od pisama.
+{90793}{90923}"Sretno tebi, Paula, | i svim ûenama..."
+{90934}{91021}»ekaj. Alice Crawford, 11 g.
+{91098}{91194}"Nadam se da neÊeö odustati zbog | toga öto se dogodilo, Paula.
+{91197}{91264}Jennifer Lefferts, | Camrose, Alberta."
+{91268}{91353}Hvala Bogu da postoje djevojËice | sa snovima. - Majko, prestani.
+{91521}{91563}Idem po piÊe.
+{91849}{91970}"Brigitte: Usaena averzija prema | autoritetu unatoË predstavljanju."
+{91977}{92031}Mogu objasniti... - Vjeötica!
+{92036}{92154}"Felicity: Suvremen spoj | Kali i Afrodite."
+{92240}{92332}Brenda, nemoj to Ëitati. | - To je napad na privatnost.
+{92336}{92423}To je za moj rad... Pusti me.
+{92513}{92605}"Katkad osjeÊam potrebu | da se izloûim."
+{92645}{92691}Mogu li dobiti to?
+{92695}{92767}Je li tko za ples? | - Svi ste iskvareni.
+{92774}{92894}Iskvareni ili upropaöteni. | Emocionalno i duöevno.
+{93081}{93149}Nadam se da se sada bolje | osjeÊaö. - Puno.
+{93458}{93543}Koja je vjeötica? | - Ona mokra.
+{93552}{93633}Predlaûem da se usredotoËimo | na realniji ishod.
+{93638}{93707}RazoËaranje na ovom delikatnom | raskriûju moûe potkopati
+{93711}{93788}potpuno buduÊe ulaganje | u naöu momËad.
+{93792}{93896}Ovu Êe utakmicu dobiti | oni koji vjeruju.
+{93915}{94014}A ako privuËemo gledatelje, | ja mogu dovesti sponzore.
+{94020}{94094}éelim da se sve potpiöete | na ovaj plakat.
+{94226}{94319}SreÊa da sam profesionalka | u Photoshopu.
+{94323}{94422}Nije li najvaûnije privuÊi | gledatelje? Zar nismo tako rekle?
+{94447}{94517}Imam daleko najloöiju frizuru.
+{94546}{94605}Propustili ste dobar tulum.
+{94609}{94701}Govorim svima koji nisu | doöli neku veËer.
+{94708}{94782}Mislila sam da je ovaj gradiÊ | pun ljubitelja hokeja.
+{94785}{94877}Ulaznice su u prodaji. Stoga | krenite. Povedite i prijatelje.
+{94881}{94938}PRODAJE SE
+{95258}{95361}Doöao sam ti poûeljeti | sreÊu i dati ovo.
+{95385}{95501}Kad je Sarah bila mala, nazivala je | Stanley kup obiteljskim kupom.
+{95571}{95705}Sarah i ja smo mislili da biste | moûda voljeli igrati za neöto.
+{95722}{95839}Za nekakvo sjeÊanje na prvu | utakmicu vaöe nove lige.
+{95949}{96007}Zajedno smo ga napravili.
+{96040}{96170}Meni je najdraûi pas s | palicom za hokej. - Sladak je.
+{96244}{96299}Pokuöavam imati ûivot.
+{96321}{96434}Uûivati s djetetom, imati | stalan posao, rijeöiti se hipoteke.
+{96479}{96561}Pitam se zaöto sve | to dovodim u pitanje.
+{96607}{96721}Jer znaö da ih moûete pobijediti. | Znaö to, zar ne?
+{96833}{96989}Zaöto ne ueö? Moûda | trebaö rabljenu kuÊu.
+{97115}{97251}Jesam. Ali nisam siguran | mogu li je priuötiti.
+{97259}{97378}Iznenadio bi se öto si moûeö | priuötiti ako to doista ûeliö.
+{97396}{97502}Sutra ne radim. | Mogla bih duûe spavati.
+{97521}{97626}A ionako nema niöta dobro na | televiziji, zar ne? - Ne, niöta.
+{97678}{97822}A ono sportaöko naËelo? | Sutra imaö veliku utakmicu.
+{97834}{97891}Ne, to vrijedi samo za muöke.
+{97896}{97962}Dobar orgazam me savröeno opuöta.
+{98013}{98073}Ali nema nikakvog pritiska, je li?
+{99365}{99437}Dobra veËer. Ljubitelji hokeja | do kojih dopire moj glas
+{99439}{99544}i koji nemate niöta pametnije | za raditi od sluöanja mene
+{99548}{99654}koja joö nikad nije | najavila utakmicu hokeja.
+{99670}{99731}Namjestio si? - Uûivo smo.
+{99740}{99808}Pomozite mi pronaÊi moju | pahuljicu. Nema je.
+{99813}{99865}Brenda, to je samo | ljepljiva traka.
+{99869}{99953}Kako se bliûi utakmica, dodajeö | traku... - Ne mogu je pronaÊi.
+{99956}{100022}To je samo metaforiËka potvrda. | - To je moja pahuljica.
+{100024}{100096}Felli neÊe doÊi. Ti igraö.
+{100108}{100203}Moûemo li potraûiti njezinu | pahuljicu? - To je pahuljica.
+{100211}{100303}Cure, sluöajte. | Dogodio se incident.
+{100318}{100390}Chiefsi su izgubili svog | dovedenog igraËa.
+{100395}{100483}»ini se da mu je juËer netko | slomio oba noûna palca.
+{100623}{100727}Felli, mogla bi reÊi Pauli da Êeö | zakasniti. - Ne ûelim niöta Ëuti.
+{100745}{100851}Felli, Ëovjek je samozaposleni | tesar. - Dobro da nije plesaË.
+{100855}{100939}Mogla bi biti optuûena za | napad. - Ne znam o Ëemu govoriö.
+{101038}{101141}Uzmite markere i na ötapove | upiöite za koga igrate.
+{101149}{101225}Mislite na to kako vas | hokej odvaja od te osobe.
+{101229}{101297}Pobrinite se da bude vrijedna toga.
+{101304}{101377}ShvaÊam. To je motivacija. - Da.
+{101435}{101492}Poslije daj meni.
+{101550}{101669}DeËki, zapisuju za koga | igraju na svoje palice.
+{101773}{101875}Gledatelji se poËinju okupljati. | Vrlo je uzbudljivo na stadionu.
+{101881}{101943}Da. U redu.
+{101968}{102076}Zamislite ocean i valove | koji zapljuskuju obalu.
+{102103}{102208}Sluöajte ritam valova. | Prilagodite disanje.
+{102237}{102334}JamËim da to ima veze | s onom vjeöticom.
+{102389}{102474}Idemo. Udovice! Evo ih. Narode.
+{102495}{102543}»etiri tjedna u nastajanju.
+{102546}{102698}Najnadarenije ûene u krugu | 320 km. Crne udovice!
+{103409}{103470}Paula, ûele vam uznemiriti igru.
+{103563}{103610}Jesi li vidjela Stewieja?
+{103656}{103702}UsredotoËi se!
+{103754}{103812}UsredotoËi se. - Mama...
+{103816}{103906}Ovdje nije bitna tvoja majka, | Stewie ili Martin.
+{103915}{104031}Svima u ûivotu doe trenutak kada | moraju istupiti, a ovaj je tvoj.
+{104039}{104097}Uzmi ga. - U redu. Izlazi s leda.
+{104327}{104388}Koga se boje? | - Crnih udovica!
+{104565}{104609}Jesi li me vidio vani?
+{104627}{104715}Publika je spremna za akciju. | Spremni su za...
+{104719}{104782}Spremni su za poËetak utakmice!
+{104796}{104839}Kako si, slatkice?
+{104846}{104953}Paula Taymore za Crne udovice | i Curt Bonner za Chiefse.
+{105016}{105045}KreÊemo.
+{105058}{105161}I poËelo je! Krenuli | su i dodaju... pak.
+{105187}{105241}Otvorena sam! Dodaj!
+{105319}{105365}Zaustavite ga, cure!
+{105414}{105507}A sada Paula. Broj sedam. | Ide lijevim krilom.
+{105660}{105738}Curt Bonner. | Boûe. Postigao je zgoditak!
+{105775}{105819}Odsad nam moûe krenuti | samo nabolje.
+{105823}{105888}Chiefsi su doista dobri, dame.
+{105935}{105999}Pokrenite se. PoËnite dodavati!
+{106059}{106110}Hajde, Brandi, dodaj.
+{106149}{106184}»uvaj ga!
+{106220}{106331}Gol! VeÊ je 2-0. | Probudite se. Dame!
+{106390}{106478}Mogla bih iskoristiti ovu priliku | za izvjeöÊe o stanju na cestama.
+{106482}{106541}To je Perkins | iz glavnog uredniötva.
+{106546}{106614}Charlene, dodaj Kate! | - Daj mu viski. Daj mu neöto.
+{106618}{106657}Otvori se!
+{106705}{106750}Zid, cure. Zid!
+{106760}{106817}Dodaj! Brigitte, tvoj je!
+{106872}{106930}Evo udarca! Gol!
+{106948}{107044}Felli Carelli je vidjela udarac. | Ali zamrznula se.
+{107395}{107479}Ljudi. Gdje ste? | Propuötate vraöku utakmicu.
+{107483}{107518}Doite!
+{107834}{107865}Gledajte.
+{107871}{107931}Cure, pogledajte ovo.
+{108004}{108037}Brzo!
+{108081}{108222}U redu. Problem je öto igramo | njihovu igru, a ne naöu.
+{108230}{108310}Oslonite se na svoje poloûaje. | éelim vidjeti obrambenu zonu,
+{108314}{108412}a i puno pritiska. Sluûite se | zidovima za dodavanje.
+{108416}{108477}To Êe ih ostaviti u mjestu. | Puno ste brûe od njih.
+{108482}{108553}Najbolji igraË im je Curt. | Jednostavno kruûi oko nas.
+{108559}{108637}Netko ga mora poslati | na hlaenje.
+{108664}{108719}Ja ga mogu izbaciti.
+{108737}{108798}Ima li tko öto protiv?
+{108859}{108924}Dobro, kad dam znak, | zamrznut Êemo pak.
+{108928}{109017}Prvo Êemo izvesti liniju, | a onda Êe Kate platiti cijenu.
+{109127}{109186}Jeste li se odmorile? | - Da, hvala.
+{109216}{109312}Druga treÊina. | DeËki vode 3-0.
+{109333}{109431}Chiefsi opet vode igru. Udovice | neöto pokuöavaju pokrenuti.
+{109904}{109989}Udovice! Udovice! Udovice!
+{110139}{110204}äalite se! Ovo je sranje!
+{110217}{110257}Dajte, suËe!
+{110309}{110388}Znate, sada postoji | laserska kirurgija.
+{110456}{110493}Dodaj!
+{110508}{110559}Na nju!
+{110639}{110685}Paula! Evo ga!
+{110776}{110901}Boûice su na semaforu! | ZapljeöÊite Crnim udovicama!
+{110989}{111066}Lijepo su nas kaznili. | - Loöa odluka, Curte.
+{111108}{111202}Zaustavite pak. Ne brinite se o | zgodicima. Upotrijebite klopku.
+{111206}{111314}Polovina je druge treÊine. | Dame. Propuötate dobru utakmicu.
+{111553}{111604}DeËki se ne mogu pokrenuti!
+{111621}{111681}Igraj s pakom! Ovo je sranje!
+{111732}{111765}äto rade?
+{111769}{111835}Ljute ih. Samo da ih | izbace iz takta.
+{111846}{111905}Dobar timski rad, dame.
+{111920}{111998}Namjeravate li danas | spustiti pak na led?
+{112002}{112081}Kraj je druge treÊine. | Udovice kontroliraju igru.
+{112103}{112182}Bolje su od muökaraca. | Dojmljivo vode pak.
+{112196}{112273}Ali joö uvijek imaju | slabu toËku na krilima.
+{112291}{112381}Pak ulazi u teren Udovica. | Felli ga prihvaÊa.
+{112428}{112493}Dodaje Brigittei. | Ona igra kao Joe Sakic.
+{112497}{112532}Ne uspijeva!
+{112539}{112602}Curt udara i daje gol!
+{112759}{112847}Chiefsi vode 4- 1 pred | kraj druge treÊine.
+{112851}{112917}Ne znam öto joö dame | mogu uËiniti.
+{113020}{113083}Felli, sada! | - Povukli su vratarku!
+{113234}{113273}Na nju!
+{113573}{113676}Doite! Gusto je. | Dobro je! To je hokej!
+{113689}{113767}Jesam li spomenula da su ûene | gole? Osim ötitnika za koljena.
+{114138}{114176}äto se dogaa?
+{114225}{114269}Drogirana si?
+{114312}{114374}Odjebi. - Felli, misli na igru!
+{114377}{114504}Shvatite da smo dobili treÊinu. | - Da, Kate ima pravo! Dobile smo!
+{114533}{114610}Imamo 20 minuta. éelim vidjeti | viöe akcije na mreûi.
+{114614}{114688}NeÊemo pobijediti udarcima na | daljinu. Idemo Ëovjek na Ëovjeka.
+{114695}{114776}Ispravak, ûena na Ëovjeka. | - Tako je!
+{115410}{115481}Zaöto ne... Moûeö sjesti tamo.
+{115699}{115761}ZnaËi, bez problema igrate | protiv ûenske momËadi?
+{115765}{115828}Sve je to dobar hokej. | Svi volimo igru.
+{115832}{115886}Osim toga, pogledajte rezultat.
+{115923}{116020}Evo i Paule Taymore. Ona je | organizator i kapetan momËadi.
+{116027}{116120}Paula, bilo je teöko postiÊi ovo. | Razmiöljaö li o izmjeni vratara?
+{116125}{116162}Ne.
+{116184}{116241}Slijedi zadnja treÊina.
+{117046}{117117}Ross!
+{117223}{117305}äto je? - Jeste li se kladili | na utakmicu?
+{117417}{117469}Da. Jesmo.
+{117585}{117625}Mama!
+{117629}{117701}Puötaö utakmicu. | - Gdje je ljubav?
+{117705}{117759}Odnosi su se preokrenuli | kad si izbacila napadaËa.
+{117761}{117809}Kladila si se protiv nas?
+{117814}{117908}Ako izgubimo, dobit Êeö | nekoliko stotina? Moûda tisuÊu?
+{117945}{118047}Razmisli sama. | - Trenerice, stavi me na klupu.
+{118051}{118143}Mi smo ekipa. To je sve öto znam.
+{118725}{118799}U redu, lutkice, idemo. | Ti i ja. - O, da.
+{118923}{118966}Postaje vruÊe ovdje!
+{119095}{119154}U redu. Zaigrajmo!
+{119295}{119360}Dolazi sam! Zaustavlja ga!
+{119364}{119412}To te ja pitam!
+{119421}{119464}Felli napokon igra!
+{119542}{119597}Joö jedna obrana!
+{119751}{119817}Paula, jesi li dobro? | - Pala je.
+{119846}{119899}To nije bio gol!
+{119917}{119984}Nije unutra! - Bio je unutra!
+{120020}{120071}Paula, dobro si?
+{120196}{120310}Paula je na nogama. Ali Udovice su | moûda izgubile najbolju igraËicu.
+{120326}{120422}I gol se priznaje. | Udovice sada gube za jedan.
+{120429}{120506}4-3 na poËetku zadnje treÊine.
+{120641}{120693}Bila si sjajna, mala.
+{120700}{120756}Hvala, mama. - Bila si sjajna.
+{120925}{121016}Jesi li dobro, mama? - Jesam.
+{121051}{121109}Bio je sjajan gol.
+{121121}{121165}Hvala.
+{121191}{121256}Jesi li gotova?
+{121293}{121385}SjeÊaö se kad sam bila u | olimpijskom programu
+{121396}{121473}i ti i baka ste doûivjeli | nesreÊu, pa sam se ranije vratila?
+{121498}{121621}Da, nisi mogla na | Olimpijadu zbog mene. - Ne.
+{121671}{121752}Vratila sam se kuÊi ranije | zbog tebe, to je istina.
+{121757}{121842}Ali mogla sam se vratiti. | Mogla sam izdrûati.
+{121908}{121982}Ali izbacili bi me, | a ja sam to znala.
+{122021}{122099}Previöe sam se stidjela | da bih se vratila.
+{122114}{122190}To je puöiona, mama. - Da.
+{122234}{122290}Puöiona je.
+{122315}{122441}Znaö, razmiöljao sam o Avalancheu, | ali Montreal je bolja momËad.
+{122452}{122507}Da. Dobra odluka.
+{122515}{122595}Ali ipak Êu traûiti | sponzorstvo od Nikea.
+{122628}{122702}Znam, novac nije sve. - Da.
+{122794}{122850}Nije ni igra.
+{123193}{123262}Dobro, hajde! | Naprijed, Udovice!
+{123328}{123379}Drûimo svaka svog | Ëovjeka, u redu?
+{123383}{123439}Evo kako daju golove. | Ovo je naöa mreûa.
+{123457}{123527}Ovo je njihova öpica. | Gdje smo mi?
+{123539}{123659}Dvojica su u ovom uglu, dvojica | u onom. Gdje je ovaj? Na centru.
+{123663}{123739}Ne idite u sredinu. Felli | moûe obraniti udarce...
+{123743}{123843}Umarate se hvatajuÊi ih. | Rekao sam vam da to neÊe upaliti.
+{123847}{123936}Moûemo pobijediti samo ako | ostanete na svom Ëovjeku!
+{123939}{124032}Vi ste odgovorne za odbijanja. | - HoÊete da vas pobijede bube?
+{124037}{124100}Kate, ti si sa mnom. Idemo.
+{124166}{124244}Jesi li razmiöljao o viagri?
+{124296}{124359}Moûda ti pomogne. - Mama!
+{124501}{124582}Imamo gol prednosti. | Ostalo je joö pet minuta.
+{124810}{124841}Mama!
+{124869}{124940}Zgoditak! 4-4. izjednaËenje!
+{124958}{125021}To je hat-trick!
+{125029}{125105}Igra je izjednaËena | i gledatelji daju podröku.
+{125116}{125182}Ovdje pada kiöa donjeg rublja.
+{125186}{125264}Zadrûite. Majice. Dame. | Joö nije gotovo.
+{125466}{125550}U zadnjoj smo minuti. | Obje strane su na rezervi.
+{125558}{125616}Udarac! Obrana! - Naprijed!
+{125666}{125727}Udarac iz sredine. | Felli brani!
+{125745}{125801}Kako ta cura igra kad ûeli.
+{125886}{125975}Evo Brigitte. | Otvorena je. Zgoditak!
+{125980}{126067}5-4 za Crne udovice | 46 sekunda prije kraja.
+{126209}{126284}To je to. Ne dajmo im | da uu u naöu kuhinju.
+{126298}{126360}Jedan, dva, tri... | - Crne udovice!
+{126488}{126545}Kliûite!
+{126562}{126625}Evo ga! Mreûa je prazna!
+{126629}{126698}17 sekunda do kraja! | BjesomuËna akcija!
+{126709}{126813}Ali Udovice blokiraju i Brenda | prodire po desnoj strani.
+{126890}{127040}Ubacuje u zadnjoj sekundi! | 6-4 za Crne udovice! Uspjele su!
+{127084}{127184}Igrale su za ponos i pobijedile! | PoËinje mi se sviati ova igra!
+{127512}{127575}FantastiËno. Ja sam iz | Edmonton Timberwolvesa...
+{127579}{127644}Hej, Kate. Pitao sam se...
+{127727}{127780}Dobro ste igrale.
+{127865}{127984}Ovdje je Alex iz glavnog ureda. | Nacionalnog glavnog ureda.
+{127993}{128035}On je za.
+{128045}{128142}Puno sponzorstvo, | medijska pokrivenost.
+{128156}{128252}PoËet Êemo s nekoliko malih momËadi | i pokaznim utakmicama.
+{128262}{128297}Sjajna igra.
+{128609}{128711}Paula Taymore, doi po | inauguralni Obiteljski kup.
+{129311}{129370}Znao sam da Êete ih razvaliti.
+{129416}{129507}äto je za veËeru, mama? | - ZnaËi li to da se vraÊaö kuÊi?
+{129805}{129893}U sjeÊanje na Buddyja Nightingalea | koji nastavlja navijati za nas...
+{129904}{129993}{C:$0000FF}{y:ib} d |{C:$FF0000}{y:b} d 
+{130003}{130092}
+{130117}{131617}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/9kr4y|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

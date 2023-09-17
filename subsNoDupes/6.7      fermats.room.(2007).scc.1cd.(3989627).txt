@@ -1,0 +1,4901 @@
+1
+00:00:06,000 --> 00:00:12,074
+Подржите нас и постаните VIP члан да бисте уклонили све огласе са www.OpenSubtitles.org
+
+2
+00:00:47,920 --> 00:00:49,990
+<i>Da li znate sta su prosti brojevi?</i>
+
+3
+00:00:50,240 --> 00:00:53,357
+<i>Zato sto ako ne znate,</i>
+<i>trebalo bi da odete sada.</i>
+
+4
+00:00:55,080 --> 00:00:57,753
+1742,matematicar
+Christian Goldbach
+
+5
+00:00:57,960 --> 00:01:00,394
+proucavao je  da se parni brojevi
+mogu izraziti
+
+6
+00:01:00,600 --> 00:01:02,716
+kao zbir dva prosta broja.
+
+7
+00:01:03,720 --> 00:01:05,312
+To je lako videti sa malim brojevima.
+
+8
+00:01:05,640 --> 00:01:07,835
+18, kao prost broj,
+je 7 + 11,
+
+9
+00:01:08,000 --> 00:01:08,955
+koji je prost.
+
+10
+00:01:09,120 --> 00:01:12,032
+24 je 5 + 19,
+koji je prost.
+
+11
+00:01:12,240 --> 00:01:14,959
+50 je 13 + 37, i tako dalje.
+
+12
+00:01:15,400 --> 00:01:16,628
+Kazi neki paran broj.
+
+13
+00:01:17,600 --> 00:01:18,555
+100.
+
+14
+00:01:19,360 --> 00:01:20,475
+1,000.
+
+15
+00:01:21,080 --> 00:01:23,036
+100 je 83 + 17.
+
+16
+00:01:23,280 --> 00:01:24,315
+I 1,000
+
+17
+00:01:24,520 --> 00:01:27,432
+je 521 + 479.
+
+18
+00:01:27,720 --> 00:01:29,233
+Radi i sa mnogo vecim brojevima takodje.
+
+19
+00:01:29,440 --> 00:01:31,032
+Da vidimo,neki broj...
+
+20
+00:01:32,240 --> 00:01:33,514
+7,112.
+
+21
+00:01:33,840 --> 00:01:35,398
+7,112
+
+22
+00:01:35,880 --> 00:01:36,835
+je
+
+23
+00:01:38,000 --> 00:01:40,912
+5,119 +
+
+24
+00:01:41,440 --> 00:01:42,839
+1,993.
+
+25
+00:01:43,760 --> 00:01:45,079
+oba su prosti brojevi.
+
+26
+00:01:45,720 --> 00:01:49,190
+Ali ne mozes probati sa svim parnim brojevima
+
+27
+00:01:49,360 --> 00:01:50,952
+Zato sto su brojevi beskonacni.
+
+28
+00:01:51,280 --> 00:01:53,236
+Zakon treba naci
+to ce  pokriti sve.
+
+29
+00:01:53,400 --> 00:01:55,516
+I pronalazak je postao najtezi problem
+
+30
+00:01:55,720 --> 00:01:57,392
+u istoriji matematike.
+
+31
+00:01:59,680 --> 00:02:00,908
+Mozes li da mi se potpises?
+
+32
+00:02:01,760 --> 00:02:02,749
+Da,naravno.
+
+33
+00:02:03,240 --> 00:02:04,593
+- Tvoje ime?
+- In�s.
+
+34
+00:02:06,360 --> 00:02:07,509
+Za In�s.
+
+35
+00:02:11,840 --> 00:02:13,273
+- Izvoli, In�s.
+- Hvala ti.
+
+36
+00:02:13,520 --> 00:02:14,999
+- I srecno!
+- Hvala.
+
+37
+00:02:15,440 --> 00:02:17,032
+Zasto "srecno"?
+
+38
+00:02:17,520 --> 00:02:19,670
+20 februara predstavljam moju prezentaciju
+
+39
+00:02:19,920 --> 00:02:21,638
+o Goldbachovoj teoremi.
+
+40
+00:02:22,800 --> 00:02:23,755
+Dodji ovamo!
+Pozuri!
+
+41
+00:02:44,600 --> 00:02:45,919
+Tvoja demonstracija je unistena.
+
+42
+00:02:46,160 --> 00:02:47,070
+Jebote!
+
+43
+00:02:48,040 --> 00:02:51,157
+- Sta ces da radis?
+- Mogu da je ponovim,ali mi je potrebno vreme.
+
+44
+00:02:52,640 --> 00:02:55,598
+Ne znam kako su mogli da udju
+a da se ne cuju.
+
+45
+00:03:43,400 --> 00:03:49,270
+Fermatova soba
+
+46
+00:04:40,360 --> 00:04:44,239
+4 meseca kasnije
+
+47
+00:04:59,640 --> 00:05:01,756
+Ti volis puzle, zar ne?
+
+48
+00:05:02,200 --> 00:05:03,792
+Vidi da li mozes da resis ovo.
+
+49
+00:05:04,920 --> 00:05:06,148
+Sta je veza
+
+50
+00:05:06,400 --> 00:05:10,154
+izmedju Dzordza Kantora,
+Yutaka Taniyama i Kurta G�dela?
+
+51
+00:05:13,440 --> 00:05:14,714
+Da vidimo.
+
+52
+00:05:15,560 --> 00:05:17,551
+Sva trojica su bili matematicari.
+
+53
+00:05:18,240 --> 00:05:21,152
+- Sva trojica su otisla u istoriju...
+- I svi su poludeli.
+
+54
+00:05:21,720 --> 00:05:25,759
+Kurt G�del je formulisao
+teoremu o beskonacnosti.
+
+55
+00:05:26,160 --> 00:05:27,513
+Kurt G�del
+pocinio je samoubistvo.
+
+56
+00:05:28,360 --> 00:05:31,318
+Bio sam veoma blizu da pocinim samoubistvo par dana ranije.
+
+57
+00:05:32,920 --> 00:05:34,592
+Ali ja pamtim,imali smo ovu igru,
+
+58
+00:05:34,760 --> 00:05:37,399
+nesto sto zaboravljas
+veoma cesto.
+
+59
+00:05:38,280 --> 00:05:39,633
+Ne mozes otici ovako.
+
+60
+00:05:39,800 --> 00:05:40,994
+Ti moras izaci.
+
+61
+00:05:41,200 --> 00:05:42,633
+Govorim ti kao doktor,
+ne kao prijatelj.
+
+62
+00:05:42,840 --> 00:05:44,592
+To mi govoris tri puta na dan.
+
+63
+00:05:44,800 --> 00:05:45,437
+Tri!
+
+64
+00:05:45,640 --> 00:05:47,392
+Govorim kao matematicar,
+ne kao prijatelj.
+
+65
+00:05:48,040 --> 00:05:50,076
+U stvari,izaci cu napolje.
+
+66
+00:05:51,120 --> 00:05:53,873
+Zelis da vidis sta
+imam u posti danas?
+
+67
+00:05:58,120 --> 00:05:59,394
+Top F
+
+68
+00:06:00,280 --> 00:06:01,235
+na E 8.
+
+69
+00:06:02,840 --> 00:06:03,636
+Videces.
+
+70
+00:06:03,800 --> 00:06:06,997
+"Ako si sposoban da resis
+sledecu puzlu,
+
+71
+00:06:07,200 --> 00:06:08,110
+sto ne sumljam,
+
+72
+00:06:08,320 --> 00:06:10,834
+bices pozvan
+na vikend okupljanje
+
+73
+00:06:11,280 --> 00:06:14,033
+sa najgenijalnijim matematickim dusama.
+
+74
+00:06:14,240 --> 00:06:15,593
+iskreno,
+
+75
+00:06:16,560 --> 00:06:17,515
+Fermat."
+
+76
+00:06:17,680 --> 00:06:18,795
+sta je puzla?
+
+77
+00:06:19,000 --> 00:06:19,910
+To je
+
+78
+00:06:20,440 --> 00:06:23,159
+sekvenca brojeva.
+Moras naci dijagram.
+
+79
+00:06:23,360 --> 00:06:24,634
+Imamo 10 dana,
+
+80
+00:06:24,920 --> 00:06:26,194
+ali nije nimalo lako.
+
+81
+00:06:30,720 --> 00:06:33,234
+Deset dana kasnije
+
+82
+00:06:33,600 --> 00:06:36,751
+...8, 5, 4, 9, 1, 7...
+
+83
+00:07:08,800 --> 00:07:09,516
+dakle?
+
+84
+00:07:10,120 --> 00:07:11,872
+Da li si resio problem?
+
+85
+00:07:12,920 --> 00:07:13,955
+Ne,nisam
+
+86
+00:07:14,760 --> 00:07:16,034
+A ovo je bio poslednji dan.
+
+87
+00:07:16,760 --> 00:07:19,513
+Ako zelis da ostanes kasno,
+Ostavicu ti kljuc.
+
+88
+00:07:19,840 --> 00:07:21,717
+Spusti ga u postansko sanduce kad zavrsis.
+
+89
+00:07:25,400 --> 00:07:26,276
+Hvala.
+
+90
+00:07:27,840 --> 00:07:28,670
+Jedna stvar.
+
+91
+00:07:29,680 --> 00:07:33,036
+Vrati nazad bilo koju knjigu da koristis
+prema alfabetnom redu.
+
+92
+00:07:48,720 --> 00:07:51,871
+8, 5, 4...
+
+93
+00:07:52,280 --> 00:07:54,111
+Oni su u alfabetnom redu!
+
+94
+00:07:58,080 --> 00:07:59,593
+To je alfabetni zakon!
+
+95
+00:08:01,720 --> 00:08:02,709
+<i>Dragi gospodine,</i>
+
+96
+00:08:03,600 --> 00:08:07,559
+<i>Samo vi i troje drugih ljudi</i>
+<i>ce biti sposobno da resi zagonetku.</i>
+
+97
+00:08:08,560 --> 00:08:10,152
+<i>Kao sto sam rekao u poslednjem pismu,</i>
+
+98
+00:08:10,320 --> 00:08:11,799
+<i>matematicka asocijacija</i>
+<i>Ja cu predsedavati nad njom</i>
+
+99
+00:08:12,000 --> 00:08:13,228
+<i>cenio bi vase prisustvo</i>
+
+100
+00:08:13,400 --> 00:08:16,790
+<i>na jednom od sastanka cemo prirediti</i>
+<i>razmenu znanja.</i>
+
+101
+00:08:17,880 --> 00:08:20,030
+<i>Nadam se da se necete uvrediti</i>
+<i>zbog testa.</i>
+
+102
+00:08:20,320 --> 00:08:22,038
+<i>Sada znam da mogu da vam verujem.</i>
+
+103
+00:08:22,680 --> 00:08:25,319
+<i>Ako mi verujete,</i>
+<i>pratite moja upustva.</i>
+
+104
+00:08:29,880 --> 00:08:33,873
+<i>U petak, Jul 25, u 19:00,</i>
+<i>dodjite na mesto sastanka.</i>
+
+105
+00:08:34,400 --> 00:08:37,710
+<i>Idite gornjim putem 141 prema Km. 18.</i>
+
+106
+00:08:38,120 --> 00:08:41,078
+<i>Napravite polukrug</i>
+<i>i nastavite do kraja.</i>
+
+107
+00:08:42,280 --> 00:08:43,599
+<i>setite se da se oslanjam na vas</i>
+
+108
+00:08:43,800 --> 00:08:45,916
+<i>da vam dajem ono</i>
+<i>sto verujem da ce biti</i>
+
+109
+00:08:46,120 --> 00:08:48,839
+<i>najgenijalnija,</i>
+<i>nenapisana enigma ikad.</i>
+
+110
+00:08:52,040 --> 00:08:53,473
+<i>Ne nosite mobilni telefon.</i>
+
+111
+00:08:56,120 --> 00:08:58,873
+<i>Nemojte davati informacije o </i>
+<i>vasem identitetu drugim gostima.</i>
+
+112
+00:09:01,960 --> 00:09:03,359
+<i>Vas pseudonim tokom</i>
+<i>okupljanja</i>
+
+113
+00:09:03,560 --> 00:09:05,198
+<i>bice Pascal.</i>
+
+114
+00:09:08,920 --> 00:09:11,559
+<i>Iskreno vas, Fermat.</i>
+
+115
+00:09:47,880 --> 00:09:50,348
+Izvinite,
+u kvaru sam dole.
+
+116
+00:09:51,120 --> 00:09:52,792
+Desava se sa starim kolima.
+
+117
+00:09:53,080 --> 00:09:54,069
+Mr. Hilbert.
+
+118
+00:09:54,280 --> 00:09:56,953
+- Idemo na isto mesto!
+- Da. Kakva slucajnost.
+
+119
+00:09:57,680 --> 00:09:59,432
+Sto vise proucavas logiku,
+
+120
+00:09:59,960 --> 00:10:01,837
+vise cenis slucajnost.
+
+121
+00:10:02,120 --> 00:10:03,997
+Da li znas cija je to fraza?
+
+122
+00:10:04,160 --> 00:10:04,910
+Ne.
+
+123
+00:10:05,840 --> 00:10:06,716
+Moja!
+
+124
+00:10:40,120 --> 00:10:41,189
+Zdravo.
+
+125
+00:10:41,800 --> 00:10:43,950
+Da li i ti ides na misterozno okupljanje?
+
+126
+00:10:46,080 --> 00:10:47,798
+Sudeci prema mojoj pozivnici,
+
+127
+00:10:49,120 --> 00:10:50,633
+treba da se zovem
+
+128
+00:10:51,520 --> 00:10:52,430
+Oliva.
+
+129
+00:10:54,040 --> 00:10:56,156
+To je prema Olivi Sabuco, jel tako?
+
+130
+00:10:57,960 --> 00:10:59,712
+naucnici iz 16-tog veka.
+
+131
+00:11:07,920 --> 00:11:09,148
+Ja sam izumitelj.
+
+132
+00:11:12,280 --> 00:11:14,350
+Da li si izumeo nesto
+Sto mogu da iskoristim?
+
+133
+00:11:14,520 --> 00:11:15,316
+Nemam pojma.
+
+134
+00:11:15,880 --> 00:11:19,475
+Gomilu stvari,
+Od hidraulicne prese do...
+
+135
+00:11:19,800 --> 00:11:21,438
+Pogledaj,otprilike stvari kao ove.
+
+136
+00:11:22,000 --> 00:11:23,274
+Svidece ti se ovo.
+
+137
+00:11:35,600 --> 00:11:36,350
+To je...
+
+138
+00:11:36,560 --> 00:11:39,028
+Znaci,stavis kukuruz ovde
+
+139
+00:11:40,040 --> 00:11:40,950
+i onda
+
+140
+00:11:43,200 --> 00:11:46,112
+kokice izlaze iz usta.
+
+141
+00:11:48,320 --> 00:11:49,196
+Patke.
+
+142
+00:12:00,480 --> 00:12:01,959
+Zasto nadimak?
+
+143
+00:12:02,280 --> 00:12:02,996
+Pa,
+
+144
+00:12:03,960 --> 00:12:06,918
+u teoriji zato sto je pitanje
+ovih sastanka ideja,
+
+145
+00:12:07,120 --> 00:12:08,269
+a ne ljudi.
+
+146
+00:12:08,800 --> 00:12:10,199
+To je lepo.
+
+147
+00:12:10,600 --> 00:12:13,672
+Muka mi je da ljudi govore da li sam u pravu prema tome ko sam.
+
+148
+00:12:14,160 --> 00:12:16,276
+Da,najbolje je
+da se ne znamo.
+
+149
+00:12:16,480 --> 00:12:17,879
+Ali ja tebe znam.
+
+150
+00:12:22,120 --> 00:12:23,917
+Video sam tvoju sliku u magazinu.
+
+151
+00:12:24,520 --> 00:12:27,034
+Pise da si resio
+
+152
+00:12:27,360 --> 00:12:29,157
+Goldbachovu teoremu.
+
+153
+00:12:31,000 --> 00:12:31,750
+Da li je to tacno?
+
+154
+00:12:33,680 --> 00:12:35,671
+Ako jeste,
+najbolje je da niko ne zna.
+
+155
+00:12:35,840 --> 00:12:38,593
+Cenio bi da li sam u pravu,
+samo zbog toga ko sam.
+
+156
+00:13:13,440 --> 00:13:14,509
+Zdravo!
+
+157
+00:13:16,520 --> 00:13:17,919
+Sada smo svi tu.
+
+158
+00:13:19,200 --> 00:13:20,758
+Pretpostavljam da 
+se ne poznajemo medjusobno.
+
+159
+00:13:21,000 --> 00:13:22,319
+I necemo.
+
+160
+00:13:23,280 --> 00:13:25,748
+Mr. Galois me je pokupio na putu.
+
+161
+00:13:26,040 --> 00:13:26,836
+Sada je 19:00 sati.
+
+162
+00:13:27,680 --> 00:13:28,715
+Sta sada?
+
+163
+00:13:28,960 --> 00:13:30,871
+Da budemo precizni,
+ima jos pola minuta da prodje.
+
+164
+00:13:31,160 --> 00:13:32,798
+Pretpostavljam da ce doci i povesti nas.
+
+165
+00:13:33,800 --> 00:13:35,233
+Da li ste radili ovo ranije?
+
+166
+00:13:35,400 --> 00:13:36,037
+Da.
+
+167
+00:13:36,240 --> 00:13:37,992
+Tamo ima uvek igara i stvari.
+
+168
+00:13:38,200 --> 00:13:40,111
+Kladim se da ce nas pokupiti
+
+169
+00:13:41,120 --> 00:13:42,348
+luksuznim kolima.
+
+170
+00:13:42,800 --> 00:13:44,756
+Ko god da dolazi
+nije tacan.
+
+171
+00:13:45,000 --> 00:13:46,752
+Za 5 sekundi bice 19:00.
+
+172
+00:13:47,240 --> 00:13:48,116
+sada, 3 sekunde,
+
+173
+00:13:48,320 --> 00:13:49,639
+2, 1...
+
+174
+00:13:54,200 --> 00:13:54,916
+Svetla!
+
+175
+00:14:13,560 --> 00:14:16,154
+Mislim da ste upravo nasli
+vasa luksuzna kola.
+
+176
+00:14:16,640 --> 00:14:18,392
+PYTHAGORAS
+
+177
+00:14:24,280 --> 00:14:25,076
+Dakle,
+
+178
+00:14:25,480 --> 00:14:28,552
+ovo me podseca na zagonetku
+o cobanu
+
+179
+00:14:28,720 --> 00:14:29,835
+koji je trebao da predje
+reku camcem
+
+180
+00:14:30,120 --> 00:14:32,076
+sa ovcom,vukom
+i kupusom.
+
+181
+00:14:32,480 --> 00:14:33,390
+Da li je znate?
+
+182
+00:14:34,520 --> 00:14:35,839
+Samo dvoje mogu ici
+brodom.
+
+183
+00:14:36,200 --> 00:14:38,350
+Na primer,
+coban i ovca.
+
+184
+00:14:38,840 --> 00:14:40,114
+Ili coban
+i kupus.
+
+185
+00:14:40,320 --> 00:14:42,515
+Morate da resite zgonetku
+kako je on presao reku
+
+186
+00:14:42,680 --> 00:14:46,309
+bez toga da vuk pojede ovcu
+ili da ovca pojede kupus.
+
+187
+00:14:52,160 --> 00:14:53,593
+Zasto bi coban
+poveo vuka?
+
+188
+00:14:56,040 --> 00:14:56,916
+Sta vise,
+
+189
+00:14:57,360 --> 00:14:59,510
+Ne vidim kakve to ima veze
+sa ovom situacijom.
+
+190
+00:15:02,680 --> 00:15:05,831
+Mozda Professor Hilbert misli
+da je neko od nas coban,
+
+191
+00:15:06,040 --> 00:15:08,156
+neko, vuk;
+neko,ovca
+
+192
+00:15:08,480 --> 00:15:10,118
+i neko,kupus.
+
+193
+00:16:04,480 --> 00:16:07,074
+Prikljuceni su na auto-sistem
+PDA.
+
+194
+00:16:07,680 --> 00:16:11,195
+Verovatno su programirali
+da se upale svetla u 19:00.
+
+195
+00:16:12,280 --> 00:16:14,236
+Sta sad?
+Gde cemo da idemo?
+
+196
+00:16:14,600 --> 00:16:15,999
+Ovde smo,
+
+197
+00:16:16,160 --> 00:16:18,993
+i moramo da vozimo do mesta.
+
+198
+00:17:50,520 --> 00:17:52,511
+Moramo da idemo tamo.
+
+199
+00:17:53,440 --> 00:17:54,077
+Ovde?
+
+200
+00:17:55,120 --> 00:17:56,917
+U skladiste zita?
+
+201
+00:18:23,480 --> 00:18:25,152
+Garantujem da sam vidjao
+
+202
+00:18:25,320 --> 00:18:27,515
+mnogo stilizovanijih farmi pilica.
+
+203
+00:18:31,600 --> 00:18:33,670
+Uobicajena mesta za
+ovakva okupljanja bi bila
+
+204
+00:18:33,880 --> 00:18:35,871
+neka elegantna radna soba.
+
+205
+00:18:43,160 --> 00:18:44,309
+Biblioteka
+
+206
+00:18:44,840 --> 00:18:46,592
+popunjena sa
+matematickim knjigama,
+
+207
+00:18:46,760 --> 00:18:48,398
+tablom
+za racunanje,
+
+208
+00:18:48,960 --> 00:18:50,678
+lep kauc,fotelje,
+
+209
+00:18:51,240 --> 00:18:52,878
+kafeni stocic...
+
+210
+00:19:07,560 --> 00:19:08,276
+Dakle,
+
+211
+00:19:09,040 --> 00:19:10,439
+da li nesto fali?
+
+212
+00:19:10,840 --> 00:19:11,989
+Pa,
+
+213
+00:19:12,160 --> 00:19:13,718
+na prvi pogled,
+
+214
+00:19:14,840 --> 00:19:17,035
+Mr. Fermat nam nedostaje.
+
+215
+00:20:15,000 --> 00:20:16,274
+Koliko je sati?
+
+216
+00:20:18,120 --> 00:20:19,519
+21:50.
+
+217
+00:20:41,640 --> 00:20:43,471
+Da li neko zna nesto
+o nasem domainu?
+
+218
+00:20:45,480 --> 00:20:48,199
+Ja samo znam
+da ne znam nista.
+
+219
+00:20:49,080 --> 00:20:50,479
+Ne znamo nista.
+
+220
+00:20:52,920 --> 00:20:54,035
+Ja znam nesto.
+
+221
+00:20:56,600 --> 00:20:59,034
+Ispitivao sam i otkrio
+par stvari o Fermatu.
+
+222
+00:21:00,320 --> 00:21:01,753
+Da li da vam kazem?
+
+223
+00:21:02,240 --> 00:21:04,993
+To je protiv pravila.
+Radije bi da ne znam.
+
+224
+00:21:05,440 --> 00:21:06,429
+Istina,
+
+225
+00:21:07,520 --> 00:21:11,149
+ali sada jedan od nas ima
+vise informacija od drugih,
+
+226
+00:21:11,400 --> 00:21:15,279
+zar nije najbolje da podelimo to,
+da bi svi bili na istom nivou?
+
+227
+00:21:15,920 --> 00:21:16,989
+OK.
+
+228
+00:21:19,480 --> 00:21:20,356
+Pre mesec dana,
+
+229
+00:21:20,520 --> 00:21:22,317
+mogli smo da posaljemo resenje
+
+230
+00:21:22,480 --> 00:21:23,833
+Fermatovoj P.O. posti.
+
+231
+00:21:24,000 --> 00:21:25,956
+P.O. postanski broj 325.
+
+232
+00:21:26,360 --> 00:21:27,270
+Dakle,
+
+233
+00:21:28,320 --> 00:21:31,471
+Pogledao sam ime
+vlasnika broja 325.
+
+234
+00:21:32,480 --> 00:21:33,913
+Da bi otkrio Fermatovo pravo ime.
+
+235
+00:21:34,080 --> 00:21:36,753
+Posta ti to ne
+moze reci.To je poverljivo.
+
+236
+00:21:36,960 --> 00:21:38,154
+Jeste,u teoriji.
+
+237
+00:21:39,280 --> 00:21:41,794
+Otisao sam u postu
+i rekao da sam predsednik
+
+238
+00:21:41,960 --> 00:21:43,712
+udruzenja "branimo braon medvede".
+
+239
+00:21:44,680 --> 00:21:48,559
+Rekao sam da je ostalo 325
+braon medveda u planinama
+
+240
+00:21:49,080 --> 00:21:51,640
+i da hocemo taj postanski broj
+kao simboliku.
+
+241
+00:21:51,960 --> 00:21:55,430
+Radnik je rekao
+da je broj zauzet.
+
+242
+00:21:55,800 --> 00:21:58,917
+Insistirao sam koliko
+je broj vazan za nas
+
+243
+00:21:59,640 --> 00:22:02,552
+i kako ce 325 braon medveda
+biti veoma zahvalno.
+
+244
+00:22:02,720 --> 00:22:06,235
+I dao ti je ime vlasnika
+postanskog broja?
+
+245
+00:22:06,640 --> 00:22:08,153
+I donaciju za medvede.
+
+246
+00:22:08,320 --> 00:22:10,038
+Da,dao mi je Fermatovo ime.
+
+247
+00:22:10,200 --> 00:22:12,714
+Pogledao sam na internetu,
+i evo ga dobar deo.
+
+248
+00:22:13,840 --> 00:22:16,479
+Nema nijednog fajla sa njegovim i menom.
+
+249
+00:22:17,160 --> 00:22:18,388
+Nista.
+
+250
+00:22:25,120 --> 00:22:26,030
+Bravo.
+
+251
+00:22:26,520 --> 00:22:27,589
+I to je sve?
+
+252
+00:22:28,640 --> 00:22:32,713
+Cestitamo,otkrio si
+da ne znas nista.
+
+253
+00:22:33,320 --> 00:22:34,355
+Na kraju,
+
+254
+00:22:36,320 --> 00:22:38,436
+kako je Fermaovo ime?
+
+255
+00:22:41,960 --> 00:22:42,631
+Yes,
+
+256
+00:22:43,680 --> 00:22:44,476
+bilo je
+
+257
+00:22:44,640 --> 00:22:45,993
+nesto sa F,kao...
+
+258
+00:22:46,160 --> 00:22:47,593
+Fran, ne, Fer...
+
+259
+00:22:47,920 --> 00:22:48,830
+Cekaj,cekaj.
+
+260
+00:22:49,000 --> 00:22:50,319
+Malo sporije.
+
+261
+00:22:50,520 --> 00:22:53,273
+Ne mozemo da prodjemo toliko
+puno informacija odjedanput.
+
+262
+00:22:59,680 --> 00:23:01,716
+Da li si otkrio jos nesto?
+
+263
+00:23:14,680 --> 00:23:15,954
+Dobro vece.
+
+264
+00:23:19,440 --> 00:23:21,078
+Oprostite mi sto kasnim.
+
+265
+00:23:21,400 --> 00:23:22,879
+Ja sam Fermat.
+
+266
+00:23:26,200 --> 00:23:28,953
+Vredno je cekanja
+ako je enigma stvarno originalna.
+
+267
+00:23:30,520 --> 00:23:32,988
+- Enigma o kojoj pricas...
+- Dakle,
+
+268
+00:23:33,640 --> 00:23:34,470
+bez zurbe.
+
+269
+00:23:35,880 --> 00:23:39,270
+Mozemo da sednemo prvo
+i resimo stvari polako.
+
+270
+00:23:39,480 --> 00:23:40,310
+Ne,ne.
+
+271
+00:23:40,520 --> 00:23:43,193
+Najveca enigma
+koja je ikad objavljena:
+
+272
+00:23:43,880 --> 00:23:46,713
+kako to da cetvoro ljudi
+je ovde zajedno
+
+273
+00:23:46,920 --> 00:23:50,071
+i jos uvek nije
+pipnulo veceru?
+
+274
+00:23:53,320 --> 00:23:55,470
+Poslednje okupljanje ove vrste
+na kome sam pozvan
+
+275
+00:23:55,640 --> 00:23:57,119
+je o ovome.
+
+276
+00:23:57,840 --> 00:23:59,068
+Narandze?
+
+277
+00:23:59,880 --> 00:24:03,270
+Ne,Keplerov stari problem je
+kako postaviti temeljac u okrugloj formi.
+
+278
+00:24:03,520 --> 00:24:05,158
+I jos uvek nije resen,jel tako?
+
+279
+00:24:05,400 --> 00:24:07,994
+Cinjenica je,matematicari
+brinu o glupostima
+
+280
+00:24:08,160 --> 00:24:09,513
+bez prakticne primene
+
+281
+00:24:10,200 --> 00:24:12,475
+Nije glupo biti slavan
+ako si resio problem.
+
+282
+00:24:12,760 --> 00:24:14,512
+To bi trebao biti
+san svakog matematicara.
+
+283
+00:24:14,760 --> 00:24:16,478
+Ja onda nisam bio koji matematicar.
+
+284
+00:24:17,120 --> 00:24:19,315
+Citao sam studije skoro
+o ljudskim bicima
+
+285
+00:24:19,480 --> 00:24:21,277
+najcesca zajednicka
+nemoguca zelja je:
+
+286
+00:24:21,480 --> 00:24:24,870
+leteti i biti nevidljiv,
+a ne resiti matematicku enigmu.
+
+287
+00:24:25,240 --> 00:24:26,593
+Sta ti mislis?
+
+288
+00:24:27,080 --> 00:24:28,718
+Ja preferiram letenje.
+
+289
+00:24:29,960 --> 00:24:31,154
+Zasto?
+
+290
+00:24:32,240 --> 00:24:33,753
+Nemam pojma,
+
+291
+00:24:34,000 --> 00:24:35,592
+da bi letela,
+
+292
+00:24:36,320 --> 00:24:37,673
+videla mesta,
+
+293
+00:24:38,080 --> 00:24:39,638
+i uzivala u tome.
+
+294
+00:24:40,800 --> 00:24:42,392
+I ja bi voleo da letim takodje.
+
+295
+00:24:43,320 --> 00:24:45,470
+Ali kada bi svi leteli
+ne bi bilo vise tako specijalno.
+
+296
+00:24:45,680 --> 00:24:47,591
+Specijalno je
+ako samo ti to mozes.
+
+297
+00:24:47,800 --> 00:24:50,189
+Ja mislim da je letenje precenjeno.
+
+298
+00:24:50,640 --> 00:24:52,358
+islim da je vise prakticno
+
+299
+00:24:52,520 --> 00:24:53,919
+biti nevidljiv.
+
+300
+00:24:55,120 --> 00:24:56,235
+Za sta?
+
+301
+00:24:56,600 --> 00:24:58,238
+Videti a ne biti vidjen.
+
+302
+00:25:00,280 --> 00:25:04,034
+Mislim da je nevidljivost
+korisno samo za cinjenje stete.
+
+303
+00:25:05,600 --> 00:25:08,034
+Sta bi neko zeleo da radi
+ako bi bio nevidljiv?
+
+304
+00:25:08,240 --> 00:25:10,310
+Da ide u zenske svlacionice,
+
+305
+00:25:10,800 --> 00:25:13,109
+da krade baksise u barovima,
+da ide kroz masu go.
+
+306
+00:25:13,400 --> 00:25:14,594
+Nista dobro.
+
+307
+00:25:15,840 --> 00:25:17,159
+Kada uradimo nesto dobro,
+
+308
+00:25:17,320 --> 00:25:18,719
+volimo da budemo vidjeni.
+
+309
+00:25:23,920 --> 00:25:25,751
+Da,ali
+
+310
+00:25:25,920 --> 00:25:28,229
+Ako bi bio nevidljiv
+iskoristio bi to
+
+311
+00:25:28,480 --> 00:25:31,358
+da cinim dobro prema covecanstvu
+a da ne budem vidjen.
+
+312
+00:25:32,360 --> 00:25:34,237
+I niko ne bi morao da mi zahvaljuje.
+
+313
+00:25:56,600 --> 00:25:59,876
+Da li ce nam ovaj lik reci
+prokletu enigmu?
+
+314
+00:26:03,960 --> 00:26:04,870
+Pa,
+
+315
+00:26:05,040 --> 00:26:06,439
+pretpostavljam
+
+316
+00:26:06,640 --> 00:26:08,949
+sada cemo poceti
+sa najvecom enigmom.
+
+317
+00:26:09,200 --> 00:26:11,236
+Nemam pojma.
+Ptetpostavljam.
+
+318
+00:26:11,760 --> 00:26:13,159
+-Izvinite me.
+-Da.
+
+319
+00:26:14,720 --> 00:26:15,755
+Da?
+
+320
+00:26:22,080 --> 00:26:23,308
+Kada ste istrazivali Fermata
+
+321
+00:26:23,920 --> 00:26:26,115
+i dobili toliko mnogo informacija,
+
+322
+00:26:26,400 --> 00:26:28,595
+da li ste zapamtili
+da li je ubica?
+
+323
+00:26:35,680 --> 00:26:38,319
+- Zasto bi bio?
+- Ma dajte!
+
+324
+00:26:38,520 --> 00:26:40,909
+Zato sto od nas petoro on je jedini
+ovde,
+
+325
+00:26:41,440 --> 00:26:42,873
+on je jedini
+sa mobilnim telefonom!
+
+326
+00:26:45,760 --> 00:26:47,796
+Kontate?Mobilni!
+
+327
+00:26:47,960 --> 00:26:49,473
+Nije smesno.
+
+328
+00:26:51,560 --> 00:26:53,596
+Morao bih da idem.
+
+329
+00:26:53,920 --> 00:26:55,433
+Da li nesto nije u redu?
+
+330
+00:26:55,600 --> 00:26:58,239
+Mislim da je to bila bolnica,
+ali nisam mogao dobro da cujem.
+
+331
+00:26:59,000 --> 00:27:00,638
+i onda sam prekinuo liniju.
+
+332
+00:27:01,920 --> 00:27:03,797
+Sta se desava u bolnici?
+
+333
+00:27:06,200 --> 00:27:09,033
+Moja cerka je tamo.
+She's in a comaOna je u komi.
+
+334
+00:27:13,400 --> 00:27:15,709
+U tom slucaju,mozda su dobre vesti.
+
+335
+00:27:17,520 --> 00:27:19,556
+A mozda su i lose.
+
+336
+00:27:20,000 --> 00:27:22,560
+Mozda im samo treba
+neka informacija,
+
+337
+00:27:22,720 --> 00:27:25,154
+vraicu se za sat.
+
+338
+00:27:29,240 --> 00:27:31,276
+Bolje da nastavite bez mene.
+
+339
+00:27:43,320 --> 00:27:45,038
+Znam sta mislite.
+
+340
+00:27:45,840 --> 00:27:47,068
+Sve ovo je suvise uvrnuto.
+
+341
+00:27:50,240 --> 00:27:52,071
+Fermat je zaboravio jaknu.
+
+342
+00:27:55,640 --> 00:27:56,789
+Fermate!
+
+343
+00:28:03,320 --> 00:28:05,311
+Fermate!Tvoja jakna!
+
+344
+00:28:05,760 --> 00:28:08,149
+Fermate!Tvoja jakna!
+
+345
+00:28:42,360 --> 00:28:43,315
+U redu!
+
+346
+00:28:44,040 --> 00:28:45,075
+dakle,
+
+347
+00:28:45,520 --> 00:28:47,112
+da vidimo sta cemo
+
+348
+00:28:47,280 --> 00:28:49,316
+sada kad sm sami!
+
+349
+00:28:54,680 --> 00:28:56,511
+gde je Pascal?
+
+350
+00:29:03,000 --> 00:29:04,399
+Fermatova jakna!
+
+351
+00:29:05,360 --> 00:29:06,713
+Naravno!
+
+352
+00:29:07,280 --> 00:29:08,508
+Da vidim.
+
+353
+00:29:08,880 --> 00:29:10,108
+Rom�n...
+
+354
+00:29:11,720 --> 00:29:12,994
+Rom�n...
+
+355
+00:29:13,320 --> 00:29:14,230
+Rom�n...
+
+356
+00:29:15,760 --> 00:29:18,194
+Fermat se zove
+Rom�n Naranjo L�pez.
+
+357
+00:29:21,000 --> 00:29:22,035
+Da li vam zvuci poznato?
+
+358
+00:29:22,200 --> 00:29:24,668
+Rom�n Naranjo...
+Nikad cuo.
+
+359
+00:29:24,840 --> 00:29:26,558
+Ne znam nikakvog Romana.
+
+360
+00:29:27,840 --> 00:29:30,991
+Postansko sanduce koje sam proverio
+nije bilo na to ime.
+
+361
+00:29:31,280 --> 00:29:32,838
+bilo je slicno kao...
+
+362
+00:29:35,520 --> 00:29:37,875
+Bilo je Ferm�n de la Vega,
+ili De la Cuadra...
+
+363
+00:29:39,000 --> 00:29:40,319
+Ili De las Vegas,
+
+364
+00:29:41,200 --> 00:29:43,475
+ili De las Cuevas...
+
+365
+00:29:43,720 --> 00:29:45,756
+Mozda nije Ferm�n.
+
+366
+00:30:04,760 --> 00:30:08,514
+"Imamo minut 
+da resimo sledecu enigmu.
+
+367
+00:30:09,560 --> 00:30:12,518
+Prodavac slatkisa je dobio
+three neprovidne kutije.
+
+368
+00:30:12,760 --> 00:30:14,955
+Jedna sadrzi mentol bombone,
+
+369
+00:30:15,120 --> 00:30:17,156
+druga,cokoladne kuglice,
+
+370
+00:30:17,360 --> 00:30:19,920
+i jos jedna mesavinu
+mentol bombona i cokoladnih kuglica.
+
+371
+00:30:21,000 --> 00:30:24,754
+Kutije imaju nalepnice koje kazu
+"Mentol", "Cokolada"
+
+372
+00:30:24,920 --> 00:30:26,319
+i "Mix".
+
+373
+00:30:26,480 --> 00:30:30,553
+Ali prodavac je rekao da
+su sve kutije pogresno obelezene.
+
+374
+00:30:31,760 --> 00:30:35,639
+Koji je minimum broj slatkisa koji
+covek mora da izvadi
+
+375
+00:30:35,800 --> 00:30:38,678
+da bi  utvrdio sadrzaj
+u kutijama?"
+
+376
+00:30:39,640 --> 00:30:43,030
+Nemoj mi reci najveca enigma ikad
+je ovo djubre!
+
+377
+00:30:43,240 --> 00:30:44,912
+podsticajan problem!
+
+378
+00:30:45,080 --> 00:30:45,751
+Slusajte me.
+
+379
+00:30:45,920 --> 00:30:48,514
+Sta se desava ako ne
+resimo za minut?
+
+380
+00:30:49,000 --> 00:30:50,718
+Citaj ponovo, Oliva.
+
+381
+00:30:51,520 --> 00:30:52,270
+Imamo 3 kutije,
+
+382
+00:30:52,440 --> 00:30:54,590
+jednu sa mentol bombonama,
+jednu sa cokoladnim kuglicama
+
+383
+00:30:54,760 --> 00:30:56,876
+i jedna je mix od obe.
+
+384
+00:30:57,040 --> 00:30:58,359
+Pogresno su obelezene.
+
+385
+00:30:58,560 --> 00:31:02,519
+Kako da ih obelezis pravilno,sklanjajuci
+najmanji broj slatkisa?
+
+386
+00:31:03,160 --> 00:31:05,037
+To je lako,
+uzmes po jedan iz svake kutije.
+
+387
+00:31:05,200 --> 00:31:08,192
+Ne,zato sto imas
+jedan mentol,cokoladu
+
+388
+00:31:08,360 --> 00:31:10,555
+i jednu koja bi mogla da bude bilo sta od obe.
+
+389
+00:31:10,840 --> 00:31:12,910
+kako da znas
+gde je mix?
+
+390
+00:31:18,840 --> 00:31:20,398
+Ovaj zid se pomera.
+
+391
+00:31:21,240 --> 00:31:22,389
+Da vidimo,
+
+392
+00:31:22,560 --> 00:31:24,357
+znati koja je mix,
+
+393
+00:31:24,560 --> 00:31:25,993
+moras izvaditi
+vise od jedne.
+
+394
+00:31:26,160 --> 00:31:28,435
+Zato,izvadis tri,
+i sve su cokoladne.
+
+395
+00:31:28,800 --> 00:31:30,518
+Da li mozes biti siguran
+koja je kutija cokoladna?
+
+396
+00:31:30,920 --> 00:31:32,433
+To je problem sa procentima.
+
+397
+00:31:32,800 --> 00:31:36,031
+Samo izvadi jedan slatkis.
+To je decji problem.
+
+398
+00:31:36,720 --> 00:31:38,790
+Kljuc je konstatacija:
+
+399
+00:31:38,960 --> 00:31:42,236
+sve kutije, "sve kutije",
+su pogresno obelezene.
+
+400
+00:31:42,440 --> 00:31:43,839
+ako je tako,
+
+401
+00:31:44,000 --> 00:31:46,355
+samo uzmi
+jedan slatkis iz "mixa"
+
+402
+00:31:46,640 --> 00:31:48,551
+zato sto mix
+ne moze biti tamo.
+
+403
+00:31:48,760 --> 00:31:50,876
+ako je slatkis mentol,
+kutija je mentol.
+
+404
+00:31:51,040 --> 00:31:52,758
+dakle gde je mix?
+
+405
+00:31:52,920 --> 00:31:54,148
+Ne moze biti tamo,
+
+406
+00:31:54,360 --> 00:31:56,032
+zato sto cokolada
+ce biti ovde
+
+407
+00:31:56,200 --> 00:31:58,111
+i kutija ce biti
+pravilno obelezena.
+
+408
+00:31:58,320 --> 00:32:00,959
+Ali sve su pogresno
+obelezene,
+
+409
+00:32:01,440 --> 00:32:03,078
+mix je ovde
+
+410
+00:32:03,240 --> 00:32:05,674
+i cokolada je ovde.
+Odgovor:
+
+411
+00:32:06,080 --> 00:32:07,069
+1 slatkis.
+
+412
+00:32:08,440 --> 00:32:10,431
+OK,ukucacu ovde
+pa da vidimo sta e se desiti.
+
+413
+00:32:17,920 --> 00:32:19,114
+Tacno.
+
+414
+00:32:19,680 --> 00:32:21,272
+Da li me sada slusate?
+
+415
+00:32:22,360 --> 00:32:23,918
+Soba se skuplja.
+
+416
+00:32:34,160 --> 00:32:35,639
+Zar se nije otvarala spolja?
+
+417
+00:32:42,200 --> 00:32:43,428
+Enigma.
+
+418
+00:32:44,600 --> 00:32:47,194
+"Imamo minutu
+da resimo sledeci kod:
+
+419
+00:32:47,520 --> 00:32:49,636
+- 1, 1..."
+- sta je kod?
+
+420
+00:32:49,960 --> 00:32:51,951
+to je velika lista
+jedinica i nula.
+
+421
+00:32:52,120 --> 00:32:54,350
+Ako se zadrzimo duze od minut,
+
+422
+00:32:54,680 --> 00:32:56,636
+soba ce se opet skupljati.
+
+423
+00:32:56,800 --> 00:32:59,189
+To mora biti igra.
+To je...
+
+424
+00:32:59,400 --> 00:33:01,231
+sala domacina.
+
+425
+00:33:01,400 --> 00:33:04,153
+Da vidimo. 1, 1, 1, 0, 1...
+
+426
+00:33:04,440 --> 00:33:07,477
+- Koliko mnogo brojeva?
+-Brojim ih...
+
+427
+00:33:08,040 --> 00:33:09,439
+169.
+
+428
+00:33:11,440 --> 00:33:13,112
+Znas sta je 169,zar ne znas?
+
+429
+00:33:13,440 --> 00:33:15,829
+Imam ideju.
+Trebaju mi komadici necega.
+
+430
+00:33:16,000 --> 00:33:16,955
+Ovo...
+
+431
+00:33:29,640 --> 00:33:30,470
+Pogledaj,
+
+432
+00:33:31,560 --> 00:33:34,472
+pre dva meseca
+Mr. Rom�n Naranjo
+
+433
+00:33:34,680 --> 00:33:37,274
+kupio je 4 hidraulicne prese.
+
+434
+00:33:41,280 --> 00:33:44,636
+Da li je normalno za domacina da ide
+toliko daleko da bi izveo salu?
+
+435
+00:33:44,960 --> 00:33:45,949
+Ne znam.
+
+436
+00:33:46,160 --> 00:33:48,754
+Rekao si da si bio
+na mnogo slicnih okupljanja.
+
+437
+00:33:49,120 --> 00:33:51,714
+Ne,ne mnogo,
+bio sam na dva.
+
+438
+00:33:52,640 --> 00:33:54,596
+Dva,racunajuci ovaj.
+
+439
+00:33:54,760 --> 00:33:56,910
+Fermat, Rom�n Naranjo,svejedno,
+
+440
+00:33:57,080 --> 00:33:58,832
+ne zeli da e igra.
+
+441
+00:34:00,560 --> 00:34:02,312
+On zeli da pocini zlocin.
+
+442
+00:34:03,760 --> 00:34:06,433
+Kupio je 4 posejdon
+hidraulicne prese,
+
+443
+00:34:06,640 --> 00:34:08,119
+po jednu za svaki zid.
+
+444
+00:34:08,760 --> 00:34:11,479
+I pretpostavljam da su povezane
+na PDA sistem.
+
+445
+00:34:12,040 --> 00:34:14,156
+Podesene su vremenski
+za svaku zagonetku
+
+446
+00:34:15,360 --> 00:34:16,998
+i ako se zadrzavamo duze
+
+447
+00:34:17,160 --> 00:34:19,310
+prese ce se pokretati ponovo.
+
+448
+00:34:35,840 --> 00:34:37,751
+- Hoce li biti dugo?
+-Ne bas.
+
+449
+00:34:37,920 --> 00:34:39,558
+Ova soba je oko 50 m2.
+
+450
+00:34:39,720 --> 00:34:43,190
+Svaka presa se krece
+10 cm.po minuti...
+
+451
+00:34:45,720 --> 00:34:48,712
+Toznaci da ce za sat vremena
+soba biti velicine lifta.
+
+452
+00:34:48,920 --> 00:34:51,388
+Lift sa mnogo
+namestaja.
+
+453
+00:34:58,280 --> 00:34:59,679
+Onda cemo resiti ovo na drugi nacin.
+
+454
+00:35:01,160 --> 00:35:02,229
+Hoce li mi neko pomoci?
+
+455
+00:35:06,160 --> 00:35:09,152
+- Gde zelis da odes?
+-Trosis vreme.
+
+456
+00:35:09,320 --> 00:35:12,153
+Da li znas zasta se koristi
+ovakva presa?
+
+457
+00:35:12,320 --> 00:35:13,639
+Prosvetli nas.
+
+458
+00:35:14,240 --> 00:35:15,673
+Da li si ikada video
+
+459
+00:35:16,080 --> 00:35:18,878
+Prese koje od kola prave
+kockasto djubre?
+
+460
+00:35:19,680 --> 00:35:21,477
+Kada  nisu vise
+u upotrebi,
+
+461
+00:35:22,080 --> 00:35:25,231
+prave se kocke od njih
+sa presama kao sto su ove pozadi.
+
+462
+00:35:26,200 --> 00:35:27,679
+Jedna je tamo,
+
+463
+00:35:27,840 --> 00:35:28,829
+i tamo,
+
+464
+00:35:30,120 --> 00:35:31,439
+i tamo takodje.
+
+465
+00:35:32,640 --> 00:35:33,550
+U redu!
+
+466
+00:35:38,800 --> 00:35:39,630
+Guraj!
+
+467
+00:35:39,800 --> 00:35:40,710
+O.K!
+
+468
+00:35:40,880 --> 00:35:41,915
+To je to!
+
+469
+00:35:56,440 --> 00:35:57,555
+To je to!
+
+470
+00:36:56,400 --> 00:36:57,515
+Sranje!
+
+471
+00:36:57,720 --> 00:37:00,598
+Kakvo jebeno okupljanje
+je ovo?
+
+472
+00:37:01,120 --> 00:37:02,792
+Sta smo uradili tom tipu?
+
+473
+00:37:02,960 --> 00:37:06,077
+Sedi i probaj
+da nadjes odgovor!
+
+474
+00:37:10,640 --> 00:37:13,712
+Moramo da resimo enigme
+za vreme koje nam je dato.
+
+475
+00:37:14,080 --> 00:37:14,717
+Da,
+
+476
+00:37:15,840 --> 00:37:17,717
+ali mi smo ljudi,
+umaramo se.
+
+477
+00:37:19,600 --> 00:37:21,158
+A masine ne.
+
+478
+00:37:24,240 --> 00:37:26,435
+Zasto mislis
+da zeli da nas zdrobi?
+
+479
+00:37:27,040 --> 00:37:29,190
+Ne, ne vas toliko.
+Vi ste samo pridodati.
+
+480
+00:37:31,640 --> 00:37:33,471
+On zeli mene da ubije.
+
+481
+00:37:56,320 --> 00:37:58,117
+<i>To ima veze sa njegovom crkom.</i>
+
+482
+00:37:59,080 --> 00:38:01,878
+Pre par meseci,
+Pravio sam nesto vazno.
+
+483
+00:38:02,120 --> 00:38:03,917
+Prodao sam patent.
+
+484
+00:38:05,480 --> 00:38:06,993
+To je bila lutka
+
+485
+00:38:08,360 --> 00:38:09,236
+koja pravi kokice.
+
+486
+00:38:09,520 --> 00:38:11,078
+Videla si to.
+
+487
+00:38:12,560 --> 00:38:15,711
+Organizovana je zabava.
+Direktor kompanije je dolazio
+
+488
+00:38:15,920 --> 00:38:18,673
+rekao je da ce kasniti,
+padala je kisa
+
+489
+00:38:18,880 --> 00:38:20,677
+i nemoguce je naci taxi.
+
+490
+00:38:22,360 --> 00:38:24,555
+Ponudio sam se da ga dovezem.
+
+491
+00:38:25,040 --> 00:38:27,713
+Uzeo sam moja kola,upalio ih
+i odvezo se do njegove kuce.
+
+492
+00:38:28,640 --> 00:38:30,631
+Isao sam negde oko kilometar
+
+493
+00:38:31,600 --> 00:38:33,113
+kada iznenada
+
+494
+00:38:33,440 --> 00:38:36,238
+Primetih cudan miris
+u kolima.
+
+495
+00:38:37,160 --> 00:38:38,957
+To je bilo psece govno.
+
+496
+00:38:42,440 --> 00:38:43,589
+Sta bi
+direktor mislio
+
+497
+00:38:43,760 --> 00:38:46,194
+kada bi usao u ovu gasnu komoru
+na tockovima?
+
+498
+00:38:46,360 --> 00:38:48,237
+Nisi otvorio prozor?
+
+499
+00:38:48,600 --> 00:38:49,999
+Kisa je jako padala.
+
+500
+00:38:51,240 --> 00:38:53,356
+Smislio sam nesto bolje.
+
+501
+00:38:54,000 --> 00:38:55,991
+Stavio sam moje cipele
+u kesu.
+
+502
+00:38:56,960 --> 00:38:58,791
+Izuo sam cipele.
+
+503
+00:38:59,840 --> 00:39:01,193
+I stavio ih u kesu.
+
+504
+00:39:02,120 --> 00:39:04,031
+Kada sam pogledao
+
+505
+00:39:05,080 --> 00:39:07,150
+bila je devojka ispred mene,
+
+506
+00:39:07,440 --> 00:39:11,831
+prelazila je negledajuci,
+bez svetla,nista.
+
+507
+00:39:13,560 --> 00:39:14,549
+Nisam isao brzo.
+
+508
+00:39:14,720 --> 00:39:17,712
+Da sam zakocio,
+ne bi se nista desilo.
+
+509
+00:39:19,560 --> 00:39:20,788
+Ali nisam.
+
+510
+00:39:23,920 --> 00:39:25,399
+U tom momentu
+
+511
+00:39:26,800 --> 00:39:28,631
+Zamislio sam moje golo stopalo kako
+
+512
+00:39:29,960 --> 00:39:32,872
+pritiska kocnicu
+prljavu od govana.
+
+513
+00:39:35,320 --> 00:39:36,309
+Ipak,zakocio sam.
+
+514
+00:39:38,000 --> 00:39:41,834
+Ali taj milisekund odluke
+me je kostao
+
+515
+00:39:44,680 --> 00:39:46,352
+i udari sam devojku.
+
+516
+00:39:48,120 --> 00:39:50,918
+Pozvao sam hitnu pomoc
+i cekao da dodju.
+
+517
+00:39:52,520 --> 00:39:54,431
+ali zatim sam se odvezao.
+
+518
+00:40:00,040 --> 00:40:03,350
+Ali ona je prelazila
+tamo gde nije trebala.
+
+519
+00:40:06,560 --> 00:40:08,710
+Jedino sto si uradio pogresno
+je to sto si pobegao.
+
+520
+00:40:09,360 --> 00:40:11,874
+Otisao sam u policijsku
+stanicu sledeceg dana.
+
+521
+00:40:12,040 --> 00:40:15,112
+Kada je efekat pica
+sa zabave splasnuo?
+
+522
+00:40:20,440 --> 00:40:22,032
+Pokusao sam da se izvinim njenoj porodici
+
+523
+00:40:22,200 --> 00:40:24,236
+ali me nisu pustili da ih vidim.
+
+524
+00:40:24,960 --> 00:40:26,598
+Kada sam video ovu fotografiju
+
+525
+00:40:28,200 --> 00:40:30,111
+u Romanovom novcaniku,
+
+526
+00:40:31,760 --> 00:40:33,318
+Slozio sam sve kockice.
+
+527
+00:40:33,520 --> 00:40:36,512
+I cinik je rekao da ide
+da vidi njegovu cerku!
+
+528
+00:40:36,720 --> 00:40:37,596
+SShvaio sam!
+
+529
+00:40:37,760 --> 00:40:40,479
+169 mora biti 13 x 13,
+kordinate raskrsnice.
+
+530
+00:40:40,680 --> 00:40:43,274
+jedinice i nule formiraju lice.
+Vidis?
+
+531
+00:40:43,680 --> 00:40:45,796
+0, 1, 1, 0, 0, 0...
+
+532
+00:40:46,040 --> 00:40:47,758
+Odgovor na problem je:
+
+533
+00:40:47,920 --> 00:40:49,069
+lice.
+ukucacu.
+
+534
+00:40:59,400 --> 00:41:00,799
+Nije stalo.
+
+535
+00:41:01,280 --> 00:41:02,793
+Nije lice.
+
+536
+00:41:07,320 --> 00:41:08,833
+To je lobanja.
+
+537
+00:41:13,240 --> 00:41:14,514
+Ukucacu.
+
+538
+00:41:19,720 --> 00:41:20,675
+Tacno je
+
+539
+00:41:36,560 --> 00:41:38,790
+Fermat zeli da te ubije.
+To razumem.
+
+540
+00:41:39,200 --> 00:41:40,394
+Ali sta sa nama?
+
+541
+00:41:40,560 --> 00:41:43,518
+DA li mi treba da umremo zato
+sto si ti nekog oborio?
+
+542
+00:41:45,280 --> 00:41:48,670
+Vi ste nebitne zrtve.
+On zeli mene da ubije.
+
+543
+00:41:50,120 --> 00:41:52,554
+Svi ste vi deo ove zamke.
+
+544
+00:41:54,280 --> 00:41:55,554
+Nove enigme!
+
+545
+00:41:56,080 --> 00:41:58,230
+Idemo,imamo minut vremena.
+
+546
+00:42:00,320 --> 00:42:01,514
+Prestani da pijes.
+
+547
+00:42:01,720 --> 00:42:03,551
+Trebaju nam jasni neuroni.
+
+548
+00:42:06,720 --> 00:42:08,119
+Da vidimo:
+
+549
+00:42:08,520 --> 00:42:11,557
+"U hermeticko zatvorenoj sobi
+
+550
+00:42:11,760 --> 00:42:13,159
+imamo svetlecu kuglu,
+
+551
+00:42:13,400 --> 00:42:16,153
+a izvan sobe
+su tri prekidaca.
+
+552
+00:42:16,880 --> 00:42:19,235
+Samo jedan od tri prekidaca
+pali kuglu.
+
+553
+00:42:19,440 --> 00:42:21,192
+Dok su vrata zatvorena,
+
+554
+00:42:21,400 --> 00:42:24,119
+mozes da pritiskas prekidace
+koliko hoces.
+
+555
+00:42:24,480 --> 00:42:25,879
+Ali kada otvoris vrata,
+
+556
+00:42:26,080 --> 00:42:28,196
+moras da kazes
+koji od 3 prekidaca
+
+557
+00:42:28,480 --> 00:42:29,913
+pali kuglu."
+
+558
+00:42:31,440 --> 00:42:32,429
+Sranje!
+
+559
+00:42:32,760 --> 00:42:34,318
+Da zamislimo da pritiskamo
+
+560
+00:42:34,520 --> 00:42:37,239
+dva prekidaca,
+1 i 2.
+
+561
+00:42:37,680 --> 00:42:40,513
+Otvaramo vrata
+i kugla nije upaljena.
+
+562
+00:42:40,960 --> 00:42:43,428
+To znaci da je
+pravi prekidac 3.
+
+563
+00:42:43,680 --> 00:42:46,069
+- Ali ako...
+- I parkirali smo se kod jezera!
+
+564
+00:42:46,400 --> 00:42:48,152
+...i dalje ne znamo
+koj je pravi 1 ili 2.
+
+565
+00:42:48,320 --> 00:42:50,754
+On ce potopiti nasa kola
+da sakrije tragove.
+
+566
+00:42:52,120 --> 00:42:53,599
+Hajde da se koncentrisemo.
+
+567
+00:42:57,120 --> 00:42:58,872
+Nesto se ne uklapa.
+
+568
+00:42:59,400 --> 00:43:01,595
+Sta da nisaam resio
+enigmu na pozivnici?
+
+569
+00:43:01,800 --> 00:43:03,711
+Brojevi su bili
+po alfabetnom redu,bilo je lako.
+
+570
+00:43:03,960 --> 00:43:06,428
+Da li ti je iko pomogao,
+ili ti dao neki trag?
+
+571
+00:43:07,960 --> 00:43:08,949
+Ne.
+
+572
+00:43:10,400 --> 00:43:13,198
+<i>Vrati nazad knjige koje koristis</i>
+<i>po alfabetnom redu.</i>
+
+573
+00:43:18,160 --> 00:43:20,355
+Daj da se koncentrisemo na
+prekidace i svetlosnu kuglu.
+
+574
+00:43:20,520 --> 00:43:21,953
+Vreme nam istice.
+
+575
+00:43:23,280 --> 00:43:26,829
+Zasto se toliko muci
+da bi se osvetio?
+
+576
+00:43:27,320 --> 00:43:29,151
+- zasto te nije samo upucao?
+- Stani!
+
+577
+00:43:39,160 --> 00:43:40,878
+Ne znam
+sta Fermat zeli od nas,
+
+578
+00:43:41,040 --> 00:43:44,157
+ali misli da je najlaksi put
+da to uradi
+
+579
+00:43:44,400 --> 00:43:47,198
+- u ovoj sobi.
+- Imam teoriju
+
+580
+00:43:47,360 --> 00:43:49,271
+ali da prvo resimo ovo.
+
+581
+00:43:55,080 --> 00:43:56,911
+Super!Sada cemo biti u mraku!
+
+582
+00:44:17,680 --> 00:44:18,749
+- Sta je to?
+- Nista.
+
+583
+00:44:18,920 --> 00:44:20,239
+Opekao sam se.
+
+584
+00:44:20,920 --> 00:44:22,148
+I ti si se opekao.
+
+585
+00:44:25,280 --> 00:44:27,236
+Trik je u temperaturi
+svetiljke!
+
+586
+00:44:27,520 --> 00:44:30,478
+ukljucicemo prekidac br.1,
+i ostaviti neko vreme.
+
+587
+00:44:30,640 --> 00:44:33,598
+Onda cemo iskljuciti,
+ukljuciti 2 i otvoriti vrata.
+
+588
+00:44:33,760 --> 00:44:36,274
+Ako svetiljka svetli,
+pravi prekidac je 2.
+
+589
+00:44:36,520 --> 00:44:39,034
+ako je ugasen i vruc,
+pravi prekidac je 1,
+
+590
+00:44:39,200 --> 00:44:40,872
+ako ostavimo neko vreme.
+
+591
+00:44:41,080 --> 00:44:44,356
+I ako je ugasen i hladan,
+pravi prekidac je 3.
+
+592
+00:44:45,760 --> 00:44:47,113
+Slucaj resen.
+
+593
+00:44:47,840 --> 00:44:49,114
+To je resenje.
+
+594
+00:44:49,720 --> 00:44:51,597
+Hajde...
+
+595
+00:44:59,480 --> 00:45:00,629
+Tacno.
+
+596
+00:45:12,040 --> 00:45:12,995
+Oliva,
+
+597
+00:45:13,960 --> 00:45:16,599
+koja je tvoja teorija
+o tome sta se desava?
+
+598
+00:45:18,960 --> 00:45:20,393
+Za mene,jakna je kljuc.
+
+599
+00:45:22,120 --> 00:45:24,680
+Da li je Fermat zaboravio
+ili je ostavio sa svrhom?
+
+600
+00:45:25,440 --> 00:45:26,793
+Ja mislim da je
+sa svrhom
+
+601
+00:45:26,960 --> 00:45:28,951
+Da bi Pascal nasao
+fotografiju devojke.
+
+602
+00:45:29,640 --> 00:45:30,675
+Bez te jakne,
+
+603
+00:45:30,920 --> 00:45:33,559
+Pascal ne bi znao
+zasto Fermat zeli da ga ubije.
+
+604
+00:45:34,200 --> 00:45:35,519
+Ali eto ga razlog,
+saobracajna nesreca.
+
+605
+00:45:35,680 --> 00:45:37,636
+Nas roje ne znamo
+zasto Fermat zeli da nas ubije.
+
+606
+00:45:41,120 --> 00:45:42,155
+Ne znam zasto,
+
+607
+00:45:43,160 --> 00:45:44,832
+ali nesto smo uradili.
+
+608
+00:46:08,520 --> 00:46:09,669
+Vruce,zar ne?
+
+609
+00:46:09,840 --> 00:46:11,558
+Audi,koliko kosta?
+
+610
+00:46:12,360 --> 00:46:15,511
+- Koj Audi?Kestenjaste boje?
+- Da.
+
+611
+00:46:16,360 --> 00:46:18,510
+Samo je jedan.
+
+612
+00:46:18,880 --> 00:46:20,791
+U zurbi sam,stvarno.
+
+613
+00:46:32,360 --> 00:46:34,032
+45 eura,molim.
+
+614
+00:46:34,560 --> 00:46:36,357
+45,Isuse.
+
+615
+00:46:38,120 --> 00:46:39,838
+Sranje,zaboravio sam svoj novcanik.
+
+616
+00:46:41,560 --> 00:46:43,471
+Neces otici bez placanja.
+
+617
+00:47:18,480 --> 00:47:19,549
+<i>Ali...</i>
+
+618
+00:47:20,400 --> 00:47:22,470
+- Da li znas Fermata ranije?
+- Ne.
+
+619
+00:47:22,640 --> 00:47:23,834
+To sam ja.
+
+620
+00:47:24,840 --> 00:47:27,752
+Bez ikakvog pseudonima.
+Ne znam sta sam uradi da bih bio ovde.
+
+621
+00:47:29,560 --> 00:47:31,118
+Oborio sam njegovu cerku,
+Rekao sam ti.
+
+622
+00:47:31,280 --> 00:47:34,397
+Ja sam matematicar zbog toga
+sto je to jedino sto znam da radim.
+
+623
+00:47:34,560 --> 00:47:35,515
+Osim toga,
+
+624
+00:47:35,720 --> 00:47:37,790
+Vracam video kasete
+bez premotavanja nazad,
+
+625
+00:47:37,960 --> 00:47:39,916
+Lazem u elektricnom smislu,
+
+626
+00:47:40,080 --> 00:47:41,593
+Odlazim na verske sastanke
+a ne postim,
+
+627
+00:47:42,880 --> 00:47:44,871
+Uzimam voce bez koriscenja
+plasticnih rukavica.
+
+628
+00:47:45,960 --> 00:47:48,758
+Da li neko moze da me mrzi
+zbog takvih stvari?
+
+629
+00:47:49,400 --> 00:47:50,628
+Nemam neprijatelje.
+
+630
+00:47:51,240 --> 00:47:52,593
+Nikog ne povredjujem,
+pa niko ne dira mene.
+
+631
+00:47:55,560 --> 00:47:56,675
+Da li si siguran?
+
+632
+00:48:02,480 --> 00:48:05,074
+Potrosio sam pet godina radeci
+Goldbachovu teoremu.
+
+633
+00:48:05,280 --> 00:48:08,317
+Tri nedelje pre prezentacije
+neko je usao u moju sobu
+
+634
+00:48:08,480 --> 00:48:09,515
+i unistio sve.
+
+635
+00:48:18,320 --> 00:48:19,230
+Ti imas 26 godina.
+
+636
+00:48:21,440 --> 00:48:22,475
+I?
+
+637
+00:48:23,680 --> 00:48:25,511
+Sa toliko godina
+je i Oliva Sabuco umrla.
+
+638
+00:48:26,800 --> 00:48:27,676
+Koliko ti imas godina?
+
+639
+00:48:29,640 --> 00:48:30,629
+22.
+
+640
+00:48:30,920 --> 00:48:32,478
+Evariste Galois je umro u 22 godini.
+
+641
+00:48:32,720 --> 00:48:35,917
+I Blas Pascal je umro u 39,
+godina kao i ja sad.
+
+642
+00:48:36,680 --> 00:48:40,434
+A u kojoj godini
+je umro David Hilbert?
+
+643
+00:48:50,800 --> 00:48:52,597
+Pierre Fermat je umro u 64 godini.
+
+644
+00:49:02,920 --> 00:49:04,558
+Rom�n Naranjo ima 64 godine!
+
+645
+00:49:07,720 --> 00:49:09,312
+Muka mi je od ovog tipa!
+
+646
+00:49:09,680 --> 00:49:13,150
+Kladim se da je ovde,posmatra nas
+sa nekog skrivenog mesta.
+
+647
+00:49:20,160 --> 00:49:21,036
+Rom�n!
+
+648
+00:49:21,200 --> 00:49:22,553
+Sta hoces?
+
+649
+00:49:34,320 --> 00:49:36,754
+Sada cemo imati
+7 godina nesrece.
+
+650
+00:49:38,040 --> 00:49:39,917
+Da li neko zeli da cuje novu enigmu?
+
+651
+00:49:40,800 --> 00:49:43,030
+"Kako mozes meriti
+period od 9 minuta,
+
+652
+00:49:43,280 --> 00:49:46,909
+koristeci dva pescana sata,
+jedan od 4 minuta i jedan od 7?"
+
+653
+00:49:47,240 --> 00:49:48,753
+Imamo dva minuta.
+
+654
+00:49:49,320 --> 00:49:50,116
+Ovde.
+
+655
+00:49:50,360 --> 00:49:51,793
+Ovomoze da ti pomogne.
+
+656
+00:49:53,520 --> 00:49:54,157
+Pascal,
+
+657
+00:49:55,280 --> 00:49:57,589
+da li mislis da ce prese stati
+
+658
+00:49:58,040 --> 00:50:01,316
+kada su sve police zajedno?
+
+659
+00:50:02,560 --> 00:50:05,120
+Jedino jedna stvar
+moze zaustaviti posejdonove prese.
+
+660
+00:50:06,240 --> 00:50:07,798
+2 posejdonove prese.
+
+661
+00:50:10,000 --> 00:50:11,228
+Imamo 4.
+
+662
+00:50:12,440 --> 00:50:14,158
+Da li mozemo da ih podesimo
+jednu protiv druge?
+
+663
+00:50:16,600 --> 00:50:17,430
+U redu.
+
+664
+00:50:17,600 --> 00:50:19,192
+Ovo je plan
+sobe.
+
+665
+00:50:21,680 --> 00:50:23,272
+Vrata su ovde,
+
+666
+00:50:23,440 --> 00:50:24,873
+tabla,
+
+667
+00:50:25,360 --> 00:50:26,634
+ovo je sto,
+
+668
+00:50:27,880 --> 00:50:28,596
+i ovde,
+
+669
+00:50:28,840 --> 00:50:31,434
+ovde,i ovde
+su police.
+
+670
+00:50:31,720 --> 00:50:33,756
+Mozda mozemo da neutralizujemo
+sile.
+
+671
+00:50:35,000 --> 00:50:36,228
+Pre ili kasnije,
+
+672
+00:50:38,600 --> 00:50:41,194
+moraces da im kazes
+sta znas.
+
+673
+00:50:42,320 --> 00:50:44,117
+Koje su mere polica?
+
+674
+00:50:44,800 --> 00:50:46,631
+2 metra visine.
+
+675
+00:50:47,040 --> 00:50:48,029
+A sirina?
+
+676
+00:50:49,200 --> 00:50:50,997
+Sve zajedno,
+ne vise od 4 metra.
+
+677
+00:50:51,240 --> 00:50:52,116
+Onda,
+
+678
+00:50:52,320 --> 00:50:53,833
+ako uradimo...
+
+679
+00:50:54,680 --> 00:50:55,430
+ovako...
+
+680
+00:50:55,640 --> 00:50:58,200
+- Znam sta hoces da uradis.
+- Da li ce raditi?
+
+681
+00:50:58,640 --> 00:51:00,551
+Samo je jedan nacin da saznamo.
+
+682
+00:51:06,080 --> 00:51:08,435
+Nacin da saznamo
+je da uradimo to.
+
+683
+00:51:09,000 --> 00:51:10,638
+O.k.
+
+684
+00:51:22,280 --> 00:51:24,475
+Dobila sam.
+Poslacu rezultat.
+
+685
+00:51:25,520 --> 00:51:26,509
+Koliko dugo imamo vremena?
+
+686
+00:51:26,800 --> 00:51:27,710
+20 sekundi.
+
+687
+00:51:27,880 --> 00:51:29,518
+Upisi odgovor.
+Trebace nam vreme.
+
+688
+00:51:30,080 --> 00:51:31,274
+Siguran sam.
+
+689
+00:51:31,680 --> 00:51:33,398
+Startovali smo 2 sata
+u isto vreme,
+
+690
+00:51:33,560 --> 00:51:34,629
+ 4 i 7.
+
+691
+00:51:34,880 --> 00:51:37,678
+Kada se 4 zavrsi
+4 minuta bice pusteno.
+
+692
+00:51:37,880 --> 00:51:39,108
+Okrenucemo naopacke.
+
+693
+00:51:39,400 --> 00:51:42,198
+Tri minuta kasnije,
+pesak u 7 je istekao.
+
+694
+00:51:43,240 --> 00:51:44,275
+Okrenucemo
+naopacke.
+
+695
+00:51:44,680 --> 00:51:46,318
+Kada pesak zavrsi u 4
+po drugi put,
+
+696
+00:51:46,480 --> 00:51:47,629
+8 minuta je pusteno.
+
+697
+00:51:47,840 --> 00:51:49,432
+Ali 7 cemo racunati 1 minutu.
+
+698
+00:51:49,800 --> 00:51:51,199
+Okrenucemo
+
+699
+00:51:51,480 --> 00:51:52,993
+i dobiti 9 minute.
+
+700
+00:51:53,480 --> 00:51:56,313
+- Vidis?
+- Da,apsolutno.
+
+701
+00:51:56,640 --> 00:51:57,914
+1 sekunda ostaje.
+Poslacu sad.
+
+702
+00:52:24,600 --> 00:52:25,749
+Nova enigma.
+
+703
+00:52:26,200 --> 00:52:27,076
+Procitacu je.
+
+704
+00:52:28,320 --> 00:52:29,753
+"Student pita profesorku:
+
+705
+00:52:29,960 --> 00:52:31,154
+Koliko su ti stare cerke?
+
+706
+00:52:31,440 --> 00:52:32,156
+Profesorka odgovara:
+
+707
+00:52:32,360 --> 00:52:34,555
+Ako pomnozis njihove godine
+dobices 36.
+
+708
+00:52:34,720 --> 00:52:36,631
+Ako ih dodas,dobices
+broj tvoje kuce.
+
+709
+00:52:36,800 --> 00:52:38,153
+Nedostaje mi detalj,
+protestvuje student.
+
+710
+00:52:38,320 --> 00:52:41,551
+Profesorka odgovara:U pravu si,
+najstarija svira klavir.
+
+711
+00:52:41,800 --> 00:52:43,392
+Koliko su stare tri cerke?"
+
+712
+00:52:44,760 --> 00:52:45,988
+To je nadrealno!
+
+713
+00:52:46,160 --> 00:52:48,515
+Jedna cerka ima 9,
+druge dve su blinakinje po 2 godine.
+
+714
+00:52:48,720 --> 00:52:50,472
+Ali ne salji jos.
+Treba nam vreme.
+
+715
+00:52:50,640 --> 00:52:51,550
+Kako znas?
+
+716
+00:52:51,720 --> 00:52:54,154
+To je klasika,
+Ne mogu sad da ti objasnjavam.
+
+717
+00:53:57,040 --> 00:53:58,155
+Mislis da ce odoleti?
+
+718
+00:53:58,360 --> 00:53:59,429
+Pritisak je nepredidljiv.
+
+719
+00:53:59,600 --> 00:54:01,272
+Moze da pretvori u pepeo i prasinu
+ili kristal.
+
+720
+00:54:01,520 --> 00:54:02,475
+Ko je to Arhimed?
+
+721
+00:54:02,640 --> 00:54:04,153
+Ne, MacGyver.
+
+722
+00:55:05,560 --> 00:55:06,231
+Pozuri!
+
+723
+00:55:07,000 --> 00:55:07,637
+Hajde!
+
+724
+00:55:36,840 --> 00:55:38,193
+Ukucaj odgovor u PDA!
+
+725
+00:55:39,440 --> 00:55:40,270
+Nemam ga!
+
+726
+00:55:40,440 --> 00:55:41,111
+Sta?
+
+727
+00:55:42,040 --> 00:55:43,075
+Ko ga ima?
+
+728
+00:55:44,520 --> 00:55:46,272
+Bio je na stolu
+kada si ga okrenuo!
+
+729
+00:55:46,520 --> 00:55:47,794
+Sigurno je pao ovde!
+
+730
+00:56:03,000 --> 00:56:04,069
+Sta je to?
+
+731
+00:56:04,240 --> 00:56:05,798
+Fermatova pozivnica.
+
+732
+00:56:06,560 --> 00:56:08,278
+- Sta?
+- Pozivnica koju je dobio.
+
+733
+00:56:09,040 --> 00:56:11,508
+Zasto bi domacin
+dobio pozivnicu?
+
+734
+00:56:13,000 --> 00:56:14,592
+Adresirana je
+na Rom�n Naranjo L�pez.
+
+735
+00:56:20,640 --> 00:56:22,198
+"Samo ti i 4-voro drugih
+
+736
+00:56:22,360 --> 00:56:24,157
+bice pozvano na okupljanje
+koje organizujem."
+
+737
+00:56:24,400 --> 00:56:28,951
+"U petak, Jul 25, u 22:00,
+dodji u skladiste..."
+
+738
+00:56:31,800 --> 00:56:33,438
+Receno mu je da dodje ovde!
+
+739
+00:56:33,960 --> 00:56:36,554
+"Zapamti da poneses mobilni telefon.
+
+740
+00:56:36,960 --> 00:56:38,837
+Tvoj pseudonomim tokom
+okupljanja bice
+
+741
+00:56:39,560 --> 00:56:40,470
+Fermat."
+
+742
+00:56:42,560 --> 00:56:43,549
+Sta je ovo?
+
+743
+00:56:45,280 --> 00:56:48,192
+Moramo da potrazimo PDA
+dok je u sobi.
+
+744
+00:56:48,520 --> 00:56:49,555
+Zar ne shvatate?
+
+745
+00:56:50,120 --> 00:56:53,669
+Organizovali su da Rom�n stigne
+10 minuta posle nas,
+
+746
+00:56:53,960 --> 00:56:56,349
+i receno mu je da se predstavi
+kao Fermat.
+
+747
+00:56:56,600 --> 00:56:57,999
+Kada je Rom�n stigao,
+posto je bio poslednji,
+
+748
+00:56:58,440 --> 00:57:00,351
+mislili smo da je domacin.
+
+749
+00:57:00,960 --> 00:57:01,995
+Ako on nije domacin,
+
+750
+00:57:02,240 --> 00:57:04,356
+zasto je seo
+na celo stola?
+
+751
+00:57:04,840 --> 00:57:07,798
+Seo je na mesto koje smo mu ostavili,
+neznajuci da je domacin.
+
+752
+00:57:07,960 --> 00:57:09,791
+Znaci izigravao je domacina?
+
+753
+00:57:10,000 --> 00:57:12,560
+Ne, Rom�n nije znao
+da je on domacin.
+
+754
+00:57:13,040 --> 00:57:14,109
+Zato je bio cudan.
+
+755
+00:57:14,440 --> 00:57:16,032
+<i>Bolje nastavite bez mene.</i>
+
+756
+00:57:16,200 --> 00:57:17,428
+Kako da nastavimo
+bez njega?
+
+757
+00:57:17,800 --> 00:57:20,268
+Zasto je samo njemu receno
+da ponese mobilni?
+
+758
+00:57:21,000 --> 00:57:23,355
+Da bi mu rekao pricu o bolnici.
+
+759
+00:57:24,480 --> 00:57:25,435
+<i>Da?</i>
+
+760
+00:57:25,800 --> 00:57:27,631
+Rom�n je nevin.
+
+761
+00:57:28,640 --> 00:57:29,550
+Sigurna sam.
+
+762
+00:57:30,040 --> 00:57:31,712
+Mislim da te cak
+nije ni prepoznao.
+
+763
+00:57:33,920 --> 00:57:35,069
+PDA!
+
+764
+00:57:39,600 --> 00:57:40,715
+Poslacu odgovor.
+
+765
+00:57:42,800 --> 00:57:43,676
+Tacno
+
+766
+00:57:53,920 --> 00:57:56,639
+Vi me zezate,napusio sam sastanak,
+zaboravio novcanik,
+
+767
+00:57:56,840 --> 00:57:58,717
+Vozio sam 60 km.,
+i ostao bez gasa,
+
+768
+00:57:58,960 --> 00:58:00,473
+Moram da se vratim da plaim to...
+
+769
+00:58:00,720 --> 00:58:02,392
+Ali ja kazem da vas nismo zvali!
+
+770
+00:58:02,600 --> 00:58:05,433
+Mozda niste vi,
+ali neko ovde jeste.
+
+771
+00:58:05,640 --> 00:58:07,073
+Pricajte sa bolnicarkama.
+
+772
+00:58:07,400 --> 00:58:08,674
+Pricaje sa bolnicarkama!
+
+773
+00:58:08,880 --> 00:58:10,154
+Mr. Naranjo,slusajte me.
+
+774
+00:58:10,400 --> 00:58:11,958
+Mi smo u bolnici!
+
+775
+00:58:12,720 --> 00:58:13,755
+OK.
+
+776
+00:58:14,160 --> 00:58:15,912
+Pokazite mi broj
+na vasem mobilnom telefonu.
+
+777
+00:58:20,240 --> 00:58:21,639
+Pise"Privatan broj".
+
+778
+00:58:22,200 --> 00:58:24,509
+Kada mi zovemo,na ekranu
+se pojave brojevi.
+
+779
+00:58:24,720 --> 00:58:27,109
+Mr. Naranjo,
+vasa cerka je jos uvek stabilna.
+
+780
+00:58:27,600 --> 00:58:29,397
+Mi vas nismo zvali.
+
+781
+00:58:31,200 --> 00:58:34,590
+Sve sto znam je da moram da vozim
+60 km. na sastanak,
+
+782
+00:58:34,800 --> 00:58:35,710
+da uzmem novcanik,
+
+783
+00:58:35,920 --> 00:58:37,831
+vratim se nazad
+platim za gas
+
+784
+00:58:38,360 --> 00:58:40,191
+i vozim jos 60 km.
+
+785
+00:58:40,920 --> 00:58:41,875
+Mr. Naranjo,
+
+786
+00:58:42,760 --> 00:58:44,478
+zasto to ne ostavite za sutra?
+
+787
+00:58:45,400 --> 00:58:47,470
+Idite kuci i odmorite se.
+
+788
+00:58:52,920 --> 00:58:54,148
+Da,hvala vam.
+
+789
+00:59:01,480 --> 00:59:03,948
+Moji kljucevi od kuce su u mojoj jakni takodje.
+
+790
+00:59:04,520 --> 00:59:05,635
+Da li shvatate?
+
+791
+00:59:06,400 --> 00:59:08,914
+Kljucevi,jakna,gas...
+
+792
+00:59:10,520 --> 00:59:11,839
+Tako mi ga je zao.
+
+793
+00:59:13,120 --> 00:59:15,759
+<i>Ono sto ne razumem</i>
+<i>ako roman nije organizovao sve,</i>
+
+794
+00:59:16,040 --> 00:59:17,029
+ko je?
+
+795
+00:59:17,200 --> 00:59:19,794
+Osoba koja je unistila
+tvoju demonstraciju?
+
+796
+00:59:20,040 --> 00:59:21,439
+To je bilo neko
+ljubomorno dete.
+
+797
+00:59:21,640 --> 00:59:24,074
+Ma dajte,dete ne ulazi u
+hol boravka,
+
+798
+00:59:24,280 --> 00:59:26,350
+unistava dokumente
+i odlazi bez tragova.
+
+799
+00:59:26,520 --> 00:59:28,829
+Gospodjice Oliva,ne bi trebalo
+da resite problem
+
+800
+00:59:29,080 --> 00:59:31,992
+koje nisu u formuli
+
+801
+00:59:34,080 --> 00:59:36,389
+Kako znate gde se dogodilo?
+
+802
+00:59:46,680 --> 00:59:48,830
+Zabaavljali smo se dve godine.
+
+803
+00:59:49,960 --> 00:59:51,075
+Onda smo raskinuli.
+
+804
+00:59:54,360 --> 00:59:56,032
+Zasto ste raskinuli?
+
+805
+00:59:58,040 --> 00:59:59,314
+Pitajte nju.
+
+806
+00:59:59,800 --> 01:00:00,949
+Mozda ce da vam kaze.
+
+807
+01:00:01,160 --> 01:00:02,388
+Raskinuli smo,to je sve.
+
+808
+01:00:03,400 --> 01:00:05,675
+Uskoro posle toga,dobio sam pozivnicu
+da dodjem ovde.
+
+809
+01:00:05,920 --> 01:00:07,194
+Mislio samda je to tvoje delo.
+
+810
+01:00:07,560 --> 01:00:08,788
+Ako sm te zvao,
+bilo je da razjasnim to.
+
+811
+01:00:09,000 --> 01:00:12,231
+Milio sam ako pretendujemo
+da se ne znamo,startujemo ponovo...
+
+812
+01:00:12,480 --> 01:00:13,310
+To je bila tvoja ideja.
+
+813
+01:00:13,520 --> 01:00:14,430
+Da,i ostajem pri tome.
+
+814
+01:00:16,240 --> 01:00:19,073
+U zemlji lazi,
+svi stanovnici uvek lazu.
+
+815
+01:00:19,760 --> 01:00:20,875
+U zemlji istine,
+
+816
+01:00:21,080 --> 01:00:23,548
+svi stanovnici
+uvek pricaju istinu.
+
+817
+01:00:25,000 --> 01:00:27,912
+"Stranac je zatvoren u sobu
+koja ima dvoje vrata.
+
+818
+01:00:28,160 --> 01:00:30,549
+Jedna vrata vode do sobode,
+a druga ne.
+
+819
+01:00:30,800 --> 01:00:33,678
+Vrata cuvaju strazar
+iz zemlje lazi
+
+820
+01:00:33,960 --> 01:00:35,518
+i iz zemlje istine.
+
+821
+01:00:35,880 --> 01:00:37,359
+Da bi nasao put do slobode,
+
+822
+01:00:37,600 --> 01:00:40,398
+stranac moze da postavi samo
+jedno pitanje jednom od strazara,
+
+823
+01:00:40,720 --> 01:00:42,711
+ali on ne zna
+koji je iz zemlje lazi
+
+824
+01:00:42,920 --> 01:00:44,478
+akoji iz zemlje istine.
+
+825
+01:00:44,920 --> 01:00:46,194
+Koje pitanje ce da postavi?"
+
+826
+01:00:46,600 --> 01:00:48,192
+Imamo manje od minuta.
+
+827
+01:00:48,520 --> 01:00:49,919
+Video sam to u filmu.
+
+828
+01:00:50,240 --> 01:00:52,879
+Jedan strazar uvek govori istinu.
+Zamislimo da si to ti.
+
+829
+01:00:53,120 --> 01:00:54,348
+Drugi laze.Ti.
+
+830
+01:00:54,520 --> 01:00:55,509
+Trebao bi da bude drugi put okolo.
+
+831
+01:00:55,880 --> 01:00:57,552
+Ti si covek zakljucan u sobi.
+
+832
+01:01:03,440 --> 01:01:06,000
+Ako pitam koja vrata
+su prava...
+
+833
+01:01:06,160 --> 01:01:08,355
+Ti neces znati koji laze.
+
+834
+01:01:09,960 --> 01:01:10,790
+Imam ideju.
+
+835
+01:01:11,800 --> 01:01:15,156
+Ako te pitam koja vrata
+on bi mi rekao prava...
+
+836
+01:01:16,360 --> 01:01:19,477
+Ako uvek govorim istinu,
+Rekao bih ti
+
+837
+01:01:19,640 --> 01:01:20,993
+on bi rekao ona tamo.
+
+838
+01:01:21,440 --> 01:01:23,829
+Dobili smo.
+Moras da pitas jednog od njih
+
+839
+01:01:24,080 --> 01:01:26,071
+za koja druga vrata
+bi mi rekao da su prava.
+
+840
+01:01:26,400 --> 01:01:28,436
+Ako bi obojica potencirala
+na pogrena vrata,
+
+841
+01:01:28,640 --> 01:01:30,756
+Uzeo bi suprotna vrata.
+Kapiras?
+
+842
+01:01:34,200 --> 01:01:35,110
+Pazljivo!
+
+843
+01:01:39,080 --> 01:01:39,956
+Tacno.
+
+844
+01:01:45,720 --> 01:01:47,631
+Zasto ste vas dvoje raskinuli?
+
+845
+01:01:51,440 --> 01:01:54,238
+Utuvio je u glavu
+da imam ljubavnika.
+
+846
+01:02:00,520 --> 01:02:02,715
+Nisi mogla da ga ubedis u suprotno?
+
+847
+01:02:06,160 --> 01:02:07,957
+To je problem sa godinama.
+
+848
+01:02:08,400 --> 01:02:10,595
+Izracunao sam,
+Ja sam najstariji.
+
+849
+01:02:16,960 --> 01:02:18,313
+Nikad...
+
+850
+01:02:19,080 --> 01:02:20,798
+Nikad nisam volela internet.
+
+851
+01:02:21,720 --> 01:02:23,790
+Ali jedan dan sam usla
+
+852
+01:02:24,360 --> 01:02:25,679
+da igram sah.
+
+853
+01:02:28,080 --> 01:02:31,914
+Sta je vise bezazlenije od igranja 
+saha sa nekim koga ne vidis?
+
+854
+01:02:32,440 --> 01:02:33,953
+S vremena na vreme,
+
+855
+01:02:34,280 --> 01:02:35,918
+slali smo poruke
+
+856
+01:02:36,760 --> 01:02:37,954
+dok
+
+857
+01:02:38,760 --> 01:02:40,955
+se jednog dana nesto nije desilo sa njim
+
+858
+01:02:41,680 --> 01:02:44,274
+to mi se nikad 
+nije desilo ranije.
+
+859
+01:02:50,960 --> 01:02:52,279
+Pobedio me je.
+
+860
+01:02:53,800 --> 01:02:57,679
+Igrali smo sah mnogo puta
+i uvek bi me pobedio.
+
+861
+01:03:03,120 --> 01:03:05,190
+Pa sam pocela da se interesujem za njega.
+
+862
+01:03:08,520 --> 01:03:10,476
+Jednog dana dosli smo na ideju
+
+863
+01:03:11,400 --> 01:03:13,789
+o sastanku da odigramo
+licem u lice.
+
+864
+01:03:15,240 --> 01:03:18,391
+Pozvao me je na zabavu gde
+ce biti vazni ljjudi.
+
+865
+01:03:19,440 --> 01:03:20,509
+U njegovoj kuci?
+
+866
+01:03:21,520 --> 01:03:22,430
+Ne.
+
+867
+01:03:23,000 --> 01:03:24,399
+Ne u njegovoj kuci.
+
+868
+01:03:25,880 --> 01:03:27,074
+Na brodu.
+
+869
+01:03:28,480 --> 01:03:29,515
+Na brodu?
+
+870
+01:03:30,960 --> 01:03:31,676
+Zasto?
+
+871
+01:03:31,920 --> 01:03:33,797
+To sam se i ja pitala.
+
+872
+01:03:34,000 --> 01:03:35,194
+Zasto na brodu?
+
+873
+01:03:38,040 --> 01:03:39,359
+Onda sam saznala.
+
+874
+01:03:42,800 --> 01:03:45,792
+Moralo je biti vani na brodu
+zato sto su se na toj zabavi
+
+875
+01:03:47,720 --> 01:03:50,871
+desavale stvari koje su
+ilegalne u bilo kojoj zemlji.
+
+876
+01:03:56,920 --> 01:03:58,558
+Zelis li da znas koje stvari?
+
+877
+01:04:00,160 --> 01:04:00,956
+Ma daj.
+
+878
+01:04:01,800 --> 01:04:02,994
+Usudi se da pitas.
+
+879
+01:04:04,560 --> 01:04:05,754
+Ne,zaboravi.
+
+880
+01:04:08,240 --> 01:04:09,355
+Na toj zabavi
+
+881
+01:04:13,760 --> 01:04:15,079
+stvari su se desavale,
+
+882
+01:04:16,560 --> 01:04:18,630
+i te stvari koje su se desavale
+
+883
+01:04:19,880 --> 01:04:21,791
+naterale su me da odem jos mnogo puta.
+
+884
+01:04:28,040 --> 01:04:29,314
+Cekaj minut.
+
+885
+01:04:29,880 --> 01:04:32,030
+Nije mogao taj
+tip da organizuje sve ovo?
+
+886
+01:04:32,200 --> 01:04:32,837
+Ne,ne.
+
+887
+01:04:33,040 --> 01:04:36,316
+Zasto?On je idealan,ekscentrican,
+pametan,bogat.Zasto ne bi mogao da bude on...
+
+888
+01:04:36,480 --> 01:04:38,232
+Ne bi mogao da bude on
+zzato sto je on ovde!
+
+889
+01:04:43,920 --> 01:04:44,989
+Vreme je isteklo.
+
+890
+01:04:46,400 --> 01:04:48,197
+Da li zelite da cujete problem?
+
+891
+01:04:50,240 --> 01:04:52,470
+"majka je 21 godinu starija
+nego sin."
+
+892
+01:04:52,640 --> 01:04:54,596
+Nikad nisam mislio da bi bio ovde.
+
+893
+01:04:54,760 --> 01:04:57,877
+"Za 6 godina on ce biti
+5 puta mladji od majke.
+
+894
+01:04:58,040 --> 01:04:59,075
+Staje otac radio?"
+
+895
+01:04:59,800 --> 01:05:01,438
+Imamo 10 sekundi.
+
+896
+01:05:02,880 --> 01:05:04,393
+Oboje zasluzujete da umrete ovde!
+
+897
+01:05:08,840 --> 01:05:11,229
+Sta to radis?
+Umreces takodje!
+
+898
+01:05:11,960 --> 01:05:13,234
+Bas me briga!
+
+899
+01:05:16,960 --> 01:05:18,188
+Bas te briga
+ako umres?
+
+900
+01:05:19,880 --> 01:05:21,598
+Sve ovo je vrlo interesantno
+
+901
+01:05:22,320 --> 01:05:24,880
+za osobu koja je organizovala ovo
+da bi propustila.
+
+902
+01:05:32,120 --> 01:05:35,192
+Ako bi ja organizovao sve ovo,
+Ne bi se zadovoljio samo osvetom.
+
+903
+01:05:35,640 --> 01:05:36,789
+Zeleo bi da vidim sve.
+
+904
+01:05:41,560 --> 01:05:42,709
+Sta mislis?
+
+905
+01:05:43,200 --> 01:05:46,112
+Krivac bi mogao da bude neko
+mnogo povredjen, da ubije svoju zrtvu
+
+906
+01:05:46,520 --> 01:05:48,238
+a da ga nista ne zabrinjava.
+
+907
+01:05:52,640 --> 01:05:55,791
+Da li govoris da sam ja sposoban
+da napravim sve ovo?
+
+908
+01:05:58,680 --> 01:06:01,513
+Rekao si da oboje zasluzuju da umru
+i da te bas briga za sve.
+
+909
+01:06:02,120 --> 01:06:03,314
+Lomlje ovog PDA
+
+910
+01:06:03,520 --> 01:06:06,114
+je najbliza stvar koju mozes da uradis
+da bi nas ubio.
+
+911
+01:06:06,440 --> 01:06:08,158
+Ti znas da je bilo
+nesto izmedju nas.
+
+912
+01:06:09,360 --> 01:06:12,318
+I sve ovo je tvoj stil,
+bas detinjasto.
+
+913
+01:06:13,720 --> 01:06:16,792
+Ove pedantno uradjene enigme,
+ovo glupo mucenje mozga...
+
+914
+01:06:17,880 --> 01:06:19,438
+Da li si ti organizovao
+sve ovo?
+
+915
+01:06:19,800 --> 01:06:23,190
+Mogao si da kupis 4 hidraulicne prese
+na Romanovo ime.
+
+916
+01:06:23,360 --> 01:06:26,591
+Mogao si da sredis sobu,
+posaljes pozivnice.
+
+917
+01:06:26,880 --> 01:06:28,791
+Mogao si sve to da zavrsis.
+
+918
+01:06:38,240 --> 01:06:39,559
+Ali nisi ti.
+
+919
+01:06:43,120 --> 01:06:44,109
+Sta?
+
+920
+01:06:45,400 --> 01:06:47,391
+Upravo sam shvatio
+da nije on.
+
+921
+01:06:48,880 --> 01:06:50,552
+Setite se sta je bilo posle vecere.
+
+922
+01:06:51,200 --> 01:06:53,031
+Muvali smo se okolo,
+cistili sto
+
+923
+01:06:53,240 --> 01:06:55,356
+cekali smo Fermata
+da iznese cuvenu enigmu.
+
+924
+01:06:56,400 --> 01:06:58,709
+Kada se zacuo neocekivan zvuk.
+
+925
+01:07:00,800 --> 01:07:02,870
+Poziv je bio bitan
+deo plana.
+
+926
+01:07:03,280 --> 01:07:07,034
+Fermat je morao da napusti sobu
+i sumljali smo na njega.
+
+927
+01:07:07,320 --> 01:07:08,912
+Ko god je napravio poziv
+
+928
+01:07:09,480 --> 01:07:11,630
+je lik
+koji je organizovao sve.
+
+929
+01:07:12,360 --> 01:07:14,112
+On to nije mogao da uradi
+zato sto
+
+930
+01:07:14,360 --> 01:07:16,112
+je bio do mene na kaucu.
+
+931
+01:07:17,440 --> 01:07:19,237
+Samo jedna osoba je mogla
+da obavi poziv.
+
+932
+01:07:19,840 --> 01:07:22,912
+Onaj koji nije bio u sobi
+kada je fermat bio na telefonu.
+
+933
+01:07:23,120 --> 01:07:24,394
+<i>Da li nesto nije u redu?</i>
+
+934
+01:07:28,280 --> 01:07:29,713
+Samo morate da
+
+935
+01:07:30,920 --> 01:07:32,194
+resite nepoznatu x.
+
+936
+01:07:41,400 --> 01:07:42,594
+Efr�n Cuevas!
+
+937
+01:07:43,200 --> 01:07:44,679
+On je poslao pisma.
+
+938
+01:07:45,600 --> 01:07:47,033
+A ne Ferm�n.
+
+939
+01:07:47,400 --> 01:07:48,276
+To je bio Efr�n!
+
+940
+01:07:48,480 --> 01:07:50,914
+Poslednji poziv je napravljen u 22:55.
+
+941
+01:07:51,120 --> 01:07:52,473
+Nazvao si Fermata
+sa ovog telefona
+
+942
+01:07:52,720 --> 01:07:53,948
+Zovi pomoc!
+
+943
+01:07:54,360 --> 01:07:55,759
+Nemamo vremena.
+
+944
+01:07:55,920 --> 01:07:58,309
+Zovi Fermata.
+Mozda je na putu nazad.
+
+945
+01:07:58,480 --> 01:08:00,072
+Fermat je mrtav.
+
+946
+01:08:58,080 --> 01:08:59,149
+Dobro vece.
+
+947
+01:08:59,360 --> 01:09:01,191
+Vasu vozacku dozvolu,molicu.
+
+948
+01:09:05,120 --> 01:09:06,075
+Nemam je.
+
+949
+01:09:06,280 --> 01:09:09,829
+Dobro,imam je,ali je kuci
+5 km.odavde.
+
+950
+01:09:10,280 --> 01:09:12,191
+Pratite me i pokazacu vam je.
+
+951
+01:09:12,640 --> 01:09:14,073
+Molim vas.
+
+952
+01:09:15,440 --> 01:09:16,839
+Pratite me,
+veoma je blizu.
+
+953
+01:09:17,480 --> 01:09:19,471
+Zasto vi ne podjete sa mnom?
+
+954
+01:09:20,880 --> 01:09:22,791
+Molim vas,preklinjem vas,
+stvarno.
+
+955
+01:09:23,400 --> 01:09:24,515
+Molim vas.
+
+956
+01:09:26,200 --> 01:09:27,349
+Nema odgovora.
+
+957
+01:09:27,800 --> 01:09:28,869
+Kako zaustavljas ovo?
+
+958
+01:09:29,080 --> 01:09:29,956
+Kako da izadjemo?
+
+959
+01:09:30,440 --> 01:09:31,839
+Nema izlaza.
+
+960
+01:09:33,120 --> 01:09:34,314
+Umreces takodje.
+
+961
+01:09:34,480 --> 01:09:37,153
+Pripremao sam se za ovaj momenat
+vec neko vreme.
+
+962
+01:09:37,320 --> 01:09:38,355
+Cak sam napravio model.
+
+963
+01:09:40,160 --> 01:09:41,354
+Mogu li?
+
+964
+01:09:44,840 --> 01:09:46,114
+Evo ga.
+
+965
+01:09:46,560 --> 01:09:49,950
+Moja demonstracija
+Goldbachove teoreme je tacna.
+
+966
+01:09:50,160 --> 01:09:52,469
+Ti si unistio njegovu demonstaciju?
+
+967
+01:09:53,960 --> 01:09:55,234
+Ja?
+
+968
+01:09:55,480 --> 01:09:57,835
+Dva meseca pre toga bio sam blizu
+da je demonstriram.
+
+969
+01:09:58,240 --> 01:10:01,198
+Nedostajalo je samo nekoliko
+malih dozvola.I,
+
+970
+01:10:01,520 --> 01:10:03,078
+Iznenada sam video ovo!
+
+971
+01:10:05,560 --> 01:10:07,118
+35 godina trazim odgovor
+
+972
+01:10:07,520 --> 01:10:10,512
+i klinac ga nadje
+10 dana pre tebe.
+
+973
+01:10:11,360 --> 01:10:13,157
+I kaze stvari kao:
+
+974
+01:10:13,840 --> 01:10:15,910
+"Moja jedina vrlina je mladost".
+
+975
+01:10:22,160 --> 01:10:23,878
+Nisam znao sta da radim.
+
+976
+01:10:25,720 --> 01:10:27,950
+Razmisljao sam da pocinim samoubistvo.
+
+977
+01:10:29,720 --> 01:10:31,199
+Ali sam osecao
+
+978
+01:10:32,520 --> 01:10:34,590
+brutalnu znatizelju
+
+979
+01:10:34,880 --> 01:10:36,199
+da te upoznam.
+
+980
+01:10:39,160 --> 01:10:40,070
+Onda
+
+981
+01:10:40,680 --> 01:10:42,352
+Sam procitao ovo u stampi.
+
+982
+01:10:42,920 --> 01:10:45,388
+"Resenje najvece matematicke
+enigme je unisteno
+
+983
+01:10:45,760 --> 01:10:46,829
+Sabotirano."
+
+984
+01:10:50,320 --> 01:10:53,232
+Poslao sam ti e-mail,
+ali tvoja devojka je odgovorila.
+
+985
+01:10:55,400 --> 01:10:56,515
+Tako smo se upoznali.
+
+986
+01:10:59,040 --> 01:11:01,349
+Ona je potvrdila ono sto
+mi je bilo veoma tesko da poverujem.
+
+987
+01:11:01,880 --> 01:11:03,313
+Tvoj rad je bio sabotiran
+
+988
+01:11:03,480 --> 01:11:06,074
+i morao si da uradis sve ispocetka.
+
+989
+01:11:06,880 --> 01:11:09,678
+Bio sam zadubljen i nocu i danju
+u Goldbahovu teoremu
+
+990
+01:11:09,960 --> 01:11:12,030
+dok nisam napravio resenje.
+
+991
+01:11:15,360 --> 01:11:16,679
+Evo ga.
+
+992
+01:11:43,640 --> 01:11:44,550
+Hvala ti.
+
+993
+01:12:02,520 --> 01:12:03,589
+Ovo je brilijantno.
+
+994
+01:12:03,760 --> 01:12:06,911
+Demonstrirao sam teoremu
+ali ti si to prvi uradio.
+
+995
+01:12:07,320 --> 01:12:09,151
+Cak ida si uzeo
+jos 3 godine
+
+996
+01:12:09,320 --> 01:12:10,719
+jos uvek bi bio prvi.
+
+997
+01:12:11,920 --> 01:12:13,148
+sem ako
+
+998
+01:12:13,760 --> 01:12:15,193
+ti ne bi radio da
+otkrijes to.
+
+999
+01:12:16,760 --> 01:12:20,036
+I kako ne mozes da vidis
+sta je otac radio
+
+1000
+01:12:20,200 --> 01:12:21,872
+ako je majka 21 godinu starija
+nego sin?
+
+1001
+01:12:22,080 --> 01:12:23,195
+Ne mogu dapodnesem vise!
+
+1002
+01:12:23,720 --> 01:12:24,869
+- Ne mogu!
+- Ma daj!
+
+1003
+01:12:25,080 --> 01:12:27,833
+Za 6 godina,sin ce biti
+5 puta mladji od majke!
+
+1004
+01:12:28,000 --> 01:12:29,194
+Sta je otac radio?
+
+1005
+01:12:29,360 --> 01:12:30,429
+Rezultat je nemoguc!
+
+1006
+01:12:30,600 --> 01:12:31,828
+Moguc je!
+
+1007
+01:12:32,000 --> 01:12:36,073
+Sin ima
+minus tri cetvrtine godine.
+
+1008
+01:12:36,240 --> 01:12:37,559
+Sta je cale radio?
+
+1009
+01:12:37,840 --> 01:12:39,432
+- Ne znam!
+- Ostavi ga na miru!
+
+1010
+01:12:39,600 --> 01:12:42,319
+Minus tri cetvrtine
+je minus 9 meseci!
+
+1011
+01:12:45,000 --> 01:12:46,991
+Cale je tucao majku.
+
+1012
+01:12:47,840 --> 01:12:50,513
+Napravio sam ovu sobu
+da stavim tvoju inteligenciju
+
+1013
+01:12:51,120 --> 01:12:52,155
+na probu.
+
+1014
+01:12:52,360 --> 01:12:53,873
+I da te ocenim.
+
+1015
+01:12:54,040 --> 01:12:55,553
+Sta Roman ija
+imamo sa tim?
+
+1016
+01:12:55,720 --> 01:12:58,632
+Sutra ce misliti da ti
+se Roman osvetio
+
+1017
+01:12:59,280 --> 01:13:00,838
+i da smo svi mi zrtve.
+
+1018
+01:13:01,040 --> 01:13:02,951
+Okrivice Romana
+on ce se braniti.
+
+1019
+01:13:03,120 --> 01:13:04,838
+Rekao sam ti,on je mrtav.
+
+1020
+01:13:05,040 --> 01:13:07,759
+Ne moze biti.
+Video sam ga kad se odvezao.
+
+1021
+01:13:08,360 --> 01:13:09,031
+Posle vecere,
+
+1022
+01:13:09,520 --> 01:13:10,839
+ocistili smo sto.
+
+1023
+01:13:12,560 --> 01:13:15,757
+Nisam mislio da ce situacija
+sa laznim domacinom
+
+1024
+01:13:16,040 --> 01:13:17,951
+biti mnogo zabavna.
+
+1025
+01:13:18,120 --> 01:13:20,315
+Pre nego sto ce stvari otici
+izvan moje konrole,
+
+1026
+01:13:21,840 --> 01:13:24,513
+Otisao sam napolje i napravio cuven poziv.
+
+1027
+01:13:27,680 --> 01:13:30,831
+<i>Dobro vece, Mr. Naranjo.</i>
+<i>Zovem iz bolnice.</i>
+
+1028
+01:13:31,400 --> 01:13:32,435
+<i>Da?</i>
+
+1029
+01:13:32,800 --> 01:13:34,279
+<i>Momenat,molicu.</i>
+
+1030
+01:13:38,720 --> 01:13:41,280
+Vrlo ste pametno to otkrili.
+
+1031
+01:13:41,440 --> 01:13:43,749
+Ali niste znali
+da dok sam pricao sa njim
+
+1032
+01:13:44,000 --> 01:13:47,117
+Stavio sam bojni otrov u kopcu
+njegovog bezbednog pojasa.
+
+1033
+01:13:48,080 --> 01:13:49,957
+<i>Morate doci ovde</i>
+<i>Odmah.</i>
+
+1034
+01:13:50,160 --> 01:13:51,434
+<i>Vasa cerka...</i>
+
+1035
+01:13:52,760 --> 01:13:56,036
+Kada se inhalira,otrov izaziva
+prestanak disanjain manje za 2 minuta,
+
+1036
+01:13:56,200 --> 01:13:57,633
+Ne ostavlja tragove
+
+1037
+01:13:57,840 --> 01:13:58,989
+i ako vozite...
+
+1038
+01:13:59,320 --> 01:14:00,469
+<i>Mislim da moram da idem.</i>
+
+1039
+01:14:00,680 --> 01:14:01,954
+<i>Da li nesto nije u redu?</i>
+
+1040
+01:14:02,520 --> 01:14:05,592
+...nesrecacsakriva
+uzrok smrti.
+
+1041
+01:14:09,960 --> 01:14:12,110
+-Sta to radis?
+- Zovem Feermata.
+
+1042
+01:14:26,680 --> 01:14:27,954
+Nikad ne odgovaram
+kada vozim.
+
+1043
+01:14:30,440 --> 01:14:32,158
+Jedan mora biti oprzean.
+
+1044
+01:14:33,120 --> 01:14:36,669
+Da li znate da 28% 
+ljudi na putu gine
+
+1045
+01:14:36,840 --> 01:14:37,955
+putujuci kao vi,
+
+1046
+01:14:38,360 --> 01:14:40,555
+bez njihovog sigurnosnog pojasa?
+
+1047
+01:14:43,360 --> 01:14:45,954
+Znaci,ostalih 72%,gine sa vezanim pojasom
+
+1048
+01:14:46,160 --> 01:14:48,310
+
+1049
+01:15:42,400 --> 01:15:43,719
+Ne mogu da verujem
+da ne brinete u vezi smrti.
+
+1050
+01:15:43,920 --> 01:15:46,718
+Kada nas nadju,
+Ja cu cistiti ovaj dosije.
+
+1051
+01:15:46,880 --> 01:15:48,711
+Otici cu u istoriju
+kao matematicar
+
+1052
+01:15:48,880 --> 01:15:50,518
+koji je dikazao
+Goldbachovu teoremu.
+
+1053
+01:15:50,680 --> 01:15:51,590
+To je dovoljno za mene.
+
+1054
+01:15:58,640 --> 01:16:00,551
+Moja je greska sto sam lagao.
+
+1055
+01:16:04,640 --> 01:16:05,709
+Sta?
+
+1056
+01:16:10,840 --> 01:16:12,558
+Nisam resio
+Goldbacovu teoremu.
+
+1057
+01:16:14,800 --> 01:16:18,031
+Rekao sam da radim na njoj
+da bi me primetila.
+
+1058
+01:16:18,560 --> 01:16:20,118
+I uspelo je.
+
+1059
+01:16:20,920 --> 01:16:23,195
+Onda je laz postala veca,
+
+1060
+01:16:23,360 --> 01:16:24,839
+bilo je intervjua,
+
+1061
+01:16:25,000 --> 01:16:28,037
+pitali su za demonstraciju.
+Nisam znao kako da dobijem na vremenu.
+
+1062
+01:16:29,520 --> 01:16:31,272
+Niko nije usao u moju sobu.
+
+1063
+01:16:33,040 --> 01:16:34,632
+Ja sam unistio sve.
+
+1064
+01:16:35,880 --> 01:16:37,393
+Nisam znao sta da radim.
+
+1065
+01:16:44,680 --> 01:16:46,318
+Uradio sam to zbog tebe.
+
+1066
+01:16:47,880 --> 01:16:48,995
+Za tebe!
+
+1067
+01:16:54,400 --> 01:16:55,515
+Onda,
+
+1068
+01:16:57,920 --> 01:16:59,751
+Ja sam stvarno prvi.
+
+1069
+01:17:03,680 --> 01:17:07,116
+Resio sam Goldbahovu teoremu
+pre svih.
+
+1070
+01:17:15,280 --> 01:17:17,316
+- Sta to radis?
+- Zasluzio je!
+
+1071
+01:17:17,920 --> 01:17:21,196
+Nameravao je na neki nacin
+da izadje odavde!
+
+1072
+01:17:23,200 --> 01:17:25,430
+Ne verujem u tu pricu
+o umiranju sa dosijem.
+
+1073
+01:17:25,720 --> 01:17:27,392
+Siguran sam
+da je imao isplanirano bekstvo.
+
+1074
+01:17:27,600 --> 01:17:29,556
+Zasto ne priznamo
+Umrecemo?
+
+1075
+01:17:29,760 --> 01:17:34,231
+Umrecemo u istim godinama
+kao Galois, Sabuco, Pascal,
+
+1076
+01:17:34,480 --> 01:17:36,835
+ali David Hilbert je umro
+u 80-desetim.
+
+1077
+01:17:38,600 --> 01:17:40,716
+Ovaj tip nije nameravao da umre.
+
+1078
+01:17:42,200 --> 01:17:45,192
+Ova soba je test nase inteligencije.
+
+1079
+01:17:45,560 --> 01:17:47,312
+Mora da postoji put
+za prolaz.
+
+1080
+01:18:11,360 --> 01:18:13,157
+SLOBODA
+
+1081
+01:18:19,320 --> 01:18:20,230
+Lomi se!
+
+1082
+01:18:33,040 --> 01:18:34,155
+To je tabla!
+
+1083
+01:18:35,680 --> 01:18:36,556
+Dodji ovamo.
+
+1084
+01:18:36,760 --> 01:18:39,558
+- Ima samo mesta za jednog.
+- Ne,ja necu stati!
+
+1085
+01:18:39,720 --> 01:18:41,358
+Ako ti glava staje,
+stace ti i telo.
+
+1086
+01:18:41,520 --> 01:18:43,715
+Probaj da stavis dupe u oklop!
+
+1087
+01:18:53,600 --> 01:18:54,874
+- Napolju sam!
+- Posalji gore!
+
+1088
+01:18:55,120 --> 01:18:56,792
+- Uzlaz je blokiran!
+- Ne mogu!
+
+1089
+01:18:57,000 --> 01:18:57,955
+Guraj gore!
+
+1090
+01:18:59,160 --> 01:19:01,151
+- Guraj gore!
+- Ne mogu,suvise je tesko!
+
+1091
+01:19:01,680 --> 01:19:02,510
+Probaj da guras!
+
+1092
+01:19:03,480 --> 01:19:05,311
+Probacu sa ovim.
+
+1093
+01:19:11,880 --> 01:19:12,835
+Idi,ti si sledeci.
+
+1094
+01:19:15,840 --> 01:19:17,956
+- Pozuri!
+- Ne, ne,cekaj!
+
+1095
+01:19:18,160 --> 01:19:19,513
+- Sta je?
+- samo sekundu!
+
+1096
+01:19:19,760 --> 01:19:22,069
+- Nemamo toliko vremena!
+- Ulazi!
+
+1097
+01:19:41,360 --> 01:19:42,236
+Sranje!
+
+1098
+01:19:42,560 --> 01:19:43,709
+Sta nije u redu?
+
+1099
+01:19:49,680 --> 01:19:51,671
+Pantalone su mi se zaglavile!
+
+1100
+01:21:09,800 --> 01:21:10,869
+Pogledaj.
+
+1101
+01:21:15,720 --> 01:21:17,199
+Poslednja cetvrtina.
+
+1102
+01:21:19,480 --> 01:21:20,629
+Kako irinicno.
+
+1103
+01:21:20,920 --> 01:21:22,797
+Suzava se takodje.
+
+1104
+01:21:57,040 --> 01:21:58,758
+Sta ces sa tim?
+
+1105
+01:22:03,920 --> 01:22:05,194
+To je problem.
+
+1106
+01:22:06,600 --> 01:22:09,717
+Ako objavim demonstraciju
+ovakvu kakva je,
+
+1107
+01:22:10,320 --> 01:22:13,710
+Efr�n Cuevas ce otici u istoriju
+i on ce pobediti.
+
+1108
+01:22:14,640 --> 01:22:18,235
+Ali ako objavim sa mojim imenom
+nece biti eticki,
+
+1109
+01:22:18,520 --> 01:22:22,354
+ali bi bilo najlakse za mene,
+i bila bi mi puna dusa.
+
+1110
+01:22:25,440 --> 01:22:27,510
+- Sta to radis?
+- Problem je resen.
+
+1111
+01:22:28,120 --> 01:22:29,155
+Ali zasto?
+
+1112
+01:22:30,720 --> 01:22:34,395
+To je bilo resenje problema
+starog 250 godina.
+
+1113
+01:22:35,440 --> 01:22:36,793
+Kako si mogao da to uradis svetu?
+
+1114
+01:22:47,600 --> 01:22:49,033
+Svet je takav kakav je.
+
+1115
+01:24:16,720 --> 01:24:18,278
+Adaptaciju izvrsio:Jovanovic S. Nikola
+
+1116
+01:25:20,600 --> 01:25:24,000
+--KOJOTA PRODUCTION--
+
+1117
+01:25:25,305 --> 01:26:25,933
+Молимо вас да оцените овај титл на www.osdb.link/8qnzt
+Помозите другим корисницима да изаберу најбоље титлове

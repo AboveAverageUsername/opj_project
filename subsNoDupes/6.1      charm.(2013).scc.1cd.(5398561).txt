@@ -1,0 +1,574 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{325}{475}-== [ www.OpenSubtitles.com ] ==-
+{590}{672}Sve sam ih obradio.|-Sad ih sortiraj.
+{966}{1059}Malkolme, otkud ti|joö ovde?
+{1091}{1168}Da, gospodine?|-Vidimo se sutra.
+{1172}{1205}Da, gospodine.
+{5394}{5517}Tamo mi se svi smeju. Vidiö li to?|Smeta li ti, bar malo?
+{5525}{5615}Iz saûaljenja sam te zaposlio ovde|takvog kakav si, i öta sam dobio?
+{5619}{5718}Krelca koji koristi vreme, novac i|rezervne delove ove radionice...
+{5723}{5775}da bi sebi napravio tramvaj.
+{5805}{5882}Sluöaö li me, Malkolme?|-Da, gospodine.
+{5886}{5933}Onda me pogledaj, pobogu.
+{5937}{5997}Malkolme, ovaj put si preterao.|Nadam se da si svestan toga?
+{6001}{6083}Mom strpljenju je doöao kraj.|Otpuöten si.
+{6087}{6133}Dobio si nogu,|je l' to jasno?
+{6137}{6208}Od sad, kunem se Bogom,|ovde Êe raditi samo oni...
+{6212}{6283}koji su 100% pri sebi i taËka.|Zdravog razuma, jasno?
+{6287}{6313}A sad, gubi se odavde.
+{6317}{6353}Ako budem imao sreÊe,|saËuvaÊu svoj posao,
+{6358}{6411}ali Êu se zato postarati da|ti ostaneö bez svog.
+{6508}{6633}Mogu li da zadrûim svoj tramvaj?|-Molim? Gubi se! Napolje!
+{10159}{10205}HoÊeö jabuku, Arnolde?
+{10229}{10297}HoÊeö malo jabuke?|Evo ti komadiÊ.
+{10324}{10363}Evo ti...
+{10394}{10429}Izvoli. Jedi sad.
+{11177}{11240}Voliö ti mene, ptico,|je l' da, Arnolde?
+{11292}{11347}Jesi li za jednu voûnju?
+{13462}{13519}Hteo sam mleko.
+{13600}{13698}Zdravo, Malkolme.|-Zdravo.
+{13998}{14039}Malkolme...
+{14048}{14152}znam da me ne razumeö, ali ne mogu|viöe da ti dajem mleko.
+{14156}{14218}Ni hleb, ni novine.
+{14222}{14281}VeÊ tri nedelje mi nisi platio.
+{14297}{14382}Nemaö posao, a ni ne pokuöavaö|da naeö neki.
+{14388}{14455}Da ti je majka ûiva,|zgrozila bi se.
+{14462}{14554}Sav novac bacaö na one|tvoje igraËkice.
+{14558}{14666}Koliko joö imaö na raËunu?|-128 dolara.
+{14692}{14745}Pa, ni to ti neÊe joö|dugo potrajati.
+{14749}{14821}Sluöaj, neöto sam|razmiöljala.
+{14825}{14882}PreporuËila bih ti da naeö|nekog podstanara.
+{14906}{14947}Evo, kako Êemo...
+{14951}{15054}zalepiÊemo oglas na moj izlog,|i ja Êu ti reÊi öta da ih pitaö.
+{15126}{15171}Je l' mogu sad da dobijem|moje mleko?
+{16241}{16326}Dobar dan, vi izdajete sobu?|-Sobu?
+{16347}{16400}Da. Video sam oglas|na izlogu.
+{16418}{16512}Da?|-Je l' to ovde?
+{16518}{16597}äta?|-Soba.
+{16613}{16649}Da.
+{16715}{16775}Mogu li da je pogledam?
+{16797}{16867}Moûete. Samo da mi odgovorite|na neka pitanja.
+{17296}{17379}Je l' mu otvorio?|-Jeste, gospoo Ti.
+{17390}{17467}Pa, gde je sad?|-Gde je?
+{17482}{17558}Nemojte nigde da idete,|samo öto se nije vratio.
+{17664}{17779}Jedan. Imate li preporuke?|-Preporuke?
+{17783}{17868}Dva, da li ste Ëista i|uredna osoba...
+{17872}{17968}öto znaËi da nameötate svoj|krevet i perete sudove?
+{18003}{18107}Tri, umete li da kuvate? -Vidi... ne,|meni samo treba soba.
+{18111}{18179}»etiri, 35 dolara nedeljno.
+{18193}{18255}Nisam joö ni video sobu.|-äta?
+{18259}{18313}NeÊu da je uzmem dok je|ne vidim.
+{19115}{19155}Soba je ovamo.
+{19729}{19791}35 dolara nedeljno,|je l' da?
+{19812}{19918}Imate li stalan posao? -Ne brini,|mogu da platim.
+{20021}{20060}Da.
+{21476}{21515}Ko je to?
+{21529}{21598}Gospoa Ti.
+{22497}{22551}Odo' ja u pab.
+{22724}{22802}A öta je sa njim?
+{23338}{23429}Zadrûi kusur. -Hvala, ortak.|-Troöadûija.
+{24300}{24338}Zdravo.
+{24493}{24580}Gde je kafa?|-Ja Êu ti je dodati.
+{24603}{24638}Vaûi.
+{24758}{24805}Hvala.
+{24866}{24954}Ja sam Dûudit.|Frenkova devojka.
+{24970}{25055}A ko si ti?|-Malkolm Hjuz, kuÊevlasnik.
+{25073}{25121}Malkolm Hjuz, kuÊevlasnik.
+{25125}{25199}Otkud tebi ova kuÊa?|-Pripadala je mojoj mami.
+{25203}{25262}A gde je ona?|-Umrla je.
+{25274}{25328}éao mi je.
+{25340}{25418}Umrla je 23-eg jula.|-Proöle godine?
+{25426}{25463}Da.
+{25564}{25616}Sviaju mi se tvoji|vozovi.
+{25632}{25680}Tramvaji.
+{25732}{25779}Je l' ti ovo mama?
+{25830}{25865}Jeste.
+{25883}{25949}I ja.|-Baö je lepa.
+{25963}{25994}Da.
+{26087}{26207}Mora da ti nedostaje.|-Je l' i tvoja mama umrla?
+{26219}{26262}Moûda i jeste.
+{26289}{26351}Frenk spava u maminom krevetu.
+{26382}{26463}Gde ti je umrla mama?|-U krevetu.
+{26467}{26492}Dûudi, ako si mi ti uzela|koöulju...
+{26496}{26521}Malkolme.|-Da?
+{26525}{26560}äta je?|-Zaveûi Frenk.
+{26564}{26593}U km krevetu je umrla?|-Ko?
+{26597}{26634}U onom do vrata.|-Kojih vrata?
+{26638}{26671}U bolnici.|-äta?
+{26682}{26706}Umrla je u bolnici.
+{26710}{26739}Ko?|-Njegova mama.
+{26790}{26841}Hvala Bogu...
+{26922}{26948}Nego...
+{26981}{27061}mogu li i ja da ostanem?
+{27164}{27202}Nema viöe spavaÊih soba.
+{27226}{27304}Mogu da ostanem u Frenkovoj|sobi. -Tako je.
+{27308}{27380}I ona Êe plaÊati kiriju.|-Da, imam i posao.
+{27454}{27556}I ti hoÊeö da budeö podstanar?|-Da, tako je.
+{27814}{27896}Jedan. Imate li preporuke?
+{27900}{27921}Dva...
+{28519}{28597}Vidimo se veËeras, Frenk.|-Vaûi, dogovoreno.
+{28823}{28884}NeÊeö, valjda sa njim neöto|da petljaö, Frenk?
+{28891}{28928}Zaöto?
+{28932}{28984}Taj sam donosi nevolje.
+{28991}{29043}Ma, dobar je on.
+{29047}{29092}Naravno.
+{29570}{29603}Kljeöta.|-äta?
+{29607}{29660}Rekoh, daj mi kljeöta.|-Drûi.
+{29758}{29788}Idemo.
+{29946}{29991}Otvori vrata.
+{30874}{30913}Jebi ga!
+{30977}{31051}Zatvori vrata! -Ne mogu!|Zaglavila su se!
+{31110}{31183}Idi trpaj kutije u jebeni kombi,|ja Êu da ih zatvorim.
+{31499}{31544}Panduri!
+{31849}{31940}Patrolna kola 2-8-3, ulazimo|unutra. äifra 5.
+{31944}{32006}{Y:i}Primljeno 2-8-3.
+{32038}{32128}Hajde! Hajde, momci,|izaite!
+{32544}{32588}Ulazi u kombi!
+{32626}{32714}Odmah da si nas spustio!|Ovo ti neÊe proÊi!
+{32928}{33043}{Y:i}2-8-3, molim vas, recite nam|svoj poloûaj.
+{33260}{33351}Pomozi malo, molim te.|-NeÊu to ni da pipnem.
+{33355}{33430}Ne budi blesava.|-Zdravo, Malkolme.
+{33465}{33515}äta ti hoÊeö?
+{33530}{33578}Jesu li to neke kutije?
+{33604}{33651}Ne, to su ananasi.
+{33656}{33756}U pravu si, Malkolme, nisu ananasi.|Frenk Ëuva kutije za jednog prijatelja.
+{33902}{33954}Mogu li da uzmem prazne|kutije?
+{33958}{34035}Naravno, Ëim Frenk zavröi|sa njima. Vaûi?
+{34952}{35020}{Y:i}Kazneno-popravna institucija|Gospodin FRENK BEJKER
+{35192}{35248}Ovo je za Frenka.
+{35284}{35334}Hvala, Malkolme.
+{35440}{35493}Jebem im mater!
+{35497}{35589}Bio si tamo, Frenk.|-Sereö!
+{35630}{35696}Sad zna.|-I? äta Êe sad?
+{35700}{35751}Ako kaûe matoroj veötici|letimo odavde.
+{35756}{35793}Baö njega briga za|te stvari.
+{35797}{35887}Naravno da ga je briga. On je jedna|velika dobrica. DaÊe nam nogu.
+{35891}{35954}Ne mogu da verujem kakva|si ponekad budala.
+{35958}{36004}Moramo ovo da razjasnimo.
+{36008}{36073}Malkolme! Moli Boga da niöta|nije razumeo.
+{36077}{36144}Malkolme, doi ovamo.|-Nemoj sve da sjebeö, Frenk!
+{36168}{36231}Malkolme!|-Da, Frenk.
+{36282}{36321}Diûem ruke.
+{36480}{36537}Moram neöto da ti kaûem.
+{36579}{36630}Upravo sam izaöao iz zatvora.
+{36665}{36772}I ako Êeö da trubiö to naokolo onda|odmah idemo da se pakujemo.
+{36836}{36936}NeÊete, valjda da odete?|-Nema öanse, Malkolme.
+{36955}{36990}Nema öanse,
+{37990}{38048}Jesi li tu?
+{38172}{38223}Jesam.
+{38245}{38326}Vidim i sam.|Ovo je za tebe.
+{38353}{38406}Za mene?|-Da.
+{38454}{38563}Izgleda kao jedna od tvojih kutija,|Frenk. -Je l' da?
+{38579}{38626}Izvoli.
+{38776}{38881}Ovaj karton deluje baö Ëvrsto.|-Karton? Pogledaj unutra.
+{39532}{39568}Televizor?
+{39572}{39659}Da. Sad moûeö da gledaö|TV i u svojoj sobi.
+{40682}{40767}äta radi ovaj tamo?|-Ko to zna?
+{40818}{40864}Samo traÊi vreme.
+{40868}{40922}Baö smeöno ko mu kaûe.
+{40956}{40999}A öta bi to trebalo da znaËi?
+{41003}{41101}Htela sam da kaûem da mislim da ti,|znajuÊi tvoje radne sposobnosti...
+{41105}{41212}nemaö pravo da kritikujeö njega koji je|drugaËiji ali koji bar neöto radi.
+{41228}{41280}Sereö.|-Ne serem.
+{41307}{41424}Uostalom, zaöto si se uselio kod|Malkolma? Zato öto je bezopasan.
+{41428}{41505}Moron je.|-Ti si moron!
+{41683}{41783}Nadam se da si sad sreÊan.|-Nisam se ja drao.
+{41787}{41844}Pravi si buzdovan.
+{41848}{41923}Nemam nameru da sedim ovde i da|sluöam tvoje propovedi.
+{43990}{44073}äta Êete vi ovde? -Reko', moûda ti|nedostaje Malkolm.
+{44077}{44178}Zdravo, Dûudit. Ovde radiö?|-Zdravo, Malkolme. Doite da sednete.
+{44195}{44253}Hej, a öta je s naöom|porudûbinom?
+{44546}{44571}'Alo, ribo!
+{44584}{44678}Frenk, da nemaö 20 centi?|-Nemam.
+{44808}{44833}Radi li ovde iko?
+{44838}{44915}äta misliö, za öta ovo sluûi?|-Da pustiö muziku.
+{44920}{44956}äta Êeö da jedeö?
+{44962}{45053}Nemaö pare. -Ne brini,|Dûudit Ëasti.
+{45057}{45091}Izaberi neöto odatle.
+{45100}{45166}Dobro, öta hoÊete?|-Jesi li i ti na meniju?
+{45170}{45242}äta radiö kad zavröiö smenu?|-Prestani!
+{45288}{45399}Frenk, nemoj! Frenk, prestani!|Frenk, pobogu, Ëujeö li ti mene?
+{45751}{45783}A öta si ti oËekivala?
+{45787}{45842}Da Êu da sedim i da gledam kako te|ti kreteni tretiraju kao kurvu?
+{45846}{45933}Ja bih to sredila na drugaËiji naËin,|a sad, zahvaljujuÊi tebi, nemam posao.
+{45938}{46011}Ionako mi se nikad nije svialo öto|radiö u takvoj rupetini.
+{46015}{46095}Njemu se nije svialo da|radim u takvoj rupetini!
+{46101}{46131}To je posao, kretenu!
+{46135}{46228}Malkolm nema posao. Od tvog posla,|Ëini mi se, ne moûemo da ûivimo....
+{46232}{46298}a sad sam i ja, zahvaljujuÊi tebi|ostala bez posla.
+{46302}{46356}Da, zaöto mi to ne|nabijeö na nos?
+{46582}{46686}Kako je mröavi zbrisao kad si|onog bacio na patos!
+{47571}{47652}Nema öanse. Ne moûeö sa|tim unutra.
+{47684}{47755}Malkolme? Gde si, ortak?|Upadaj unutra.
+{47845}{47894}Opet praviö neki tramvaj?
+{48597}{48660}Sigurno je to zbog vas.|Mnogo mu je bolje.
+{48664}{48737}Dugo ga poznajete, gospoo Ti?|-Sasvim si u pravu.
+{48741}{48817}Njegova majka je bila|predivna ûena. Poboûna.
+{48821}{48884}Ali je sa tim momkom|skroz zabrljala.
+{48906}{48993}Nije ti ovo, prokleta biblioteka!
+{49116}{49175}Samo kad bi se skoncentrisao|na neöto drugo.
+{49184}{49260}Da upotrebi mozak za neöto korisnije|od onih svojih igraËkica.
+{49264}{49309}Iskreno, priliËno je bistar.
+{49313}{49404}Znam, ljubavi. Ali ima|problem u glavi.
+{49573}{49635}Vidimo se kasnije,|gospoo Ti.
+{49677}{49735}Frenk! Frenk, doi ovamo.|-Zaöto?
+{49739}{49792}Doi, hoÊu neöto da ti|pokaûem. -äta?
+{49796}{49835}Doi ovamo.
+{50081}{50168}Auto, je l' da?|-Tvoj je, Frenk.
+{50221}{50279}Moj?|-Da, Frenk.
+{50471}{50566}Na tome se toliko radio?
+{50602}{50636}Ide li?
+{50649}{50692}To je auto za bekstvo.
+{50726}{50796}äta?|-Kao na televiziji.
+{50874}{50937}Auto za bekstvo?|-Radi!
+{50964}{51066}Upadaj, Frenk.|hajde, ui.
+{52295}{52365}SaËekaj me ovde.|Ne gasi motor.
+{52727}{52772}Hajde! Vozi!|idemo! Idemo!
+{53095}{53185}... je skoËio u bazen, ali Maks je i dalje|sedeo, znaö kakav je...
+{53221}{53251}Nije loöe!
+{53292}{53334}Jebi ga!
+{53421}{53477}Ja brûe trËim od ovoga.|Nagazi ga malo.
+{53481}{53545}Molim, Frenk?|-Brûe! Brûe!
+{53552}{53633}Ne moûe brûe od ovoga.|-Jebi ga.
+{53685}{53740}Otvori pregradak za rukavice.|-Samo vozi ovu krntiju, u redu?
+{53744}{53769}Otvori pregradak za rukavice!|-U redu.
+{53811}{53892}Za öta ovo sluûi?|-Za upravljanje.
+{53939}{53989}Hvataj volan.|-Isuse!
+{53994}{54025}Vozi svoj auto!
+{54036}{54089}... i onda je momak...|-Isuse!
+{54616}{54760}{Y:i}3-K-C, oba vozila su ûuta.|-Oba vozila su ûuta. Primljeno.
+{54826}{54893}Sklanjaj se sa puta!
+{55253}{55298}Jebi ga, odoöe u haustor!
+{55370}{55405}Sranje!
+{55418}{55562}{Y:i}Presretanje moguÊe. OsumnjiËeni|se ne smatraju opasnim.
+{55574}{55621}Jebi ga!|{y:i}-Molim, odgovor...
+{55699}{55738}Ne mogu da verujem.
+{55756}{55813}Kako si to uradio?
+{56027}{56084}Hajde da provozamo Dûudit.
+{56204}{56254}Malo se treska.
+{56272}{56336}Sjajan auto, Malkolme.
+{56340}{56387}Danaönji automobili su|preveliki.
+{56391}{56445}Dobro me podseti, öta bi|sa kabriolet pontijakom?
+{56449}{56501}I ovo je kabriolet.
+{56531}{56582}Ma nemoj?|-Jeste.
+{56829}{56913}Drûi se, Dûudit!|-Drûala bi' se da imam za öta!
+{57398}{57423}Isuse!
+{57646}{57698}Ti si sve upropastio, Frenk.|-Gluposti.
+{57702}{57736}Jesi.|-Zaöto?
+{57740}{57777}Znaö ti zaöto.|-Zaöto?
+{57781}{57828}Naterao si Malkolma da|napravi onaj auto.
+{57832}{57868}Gluposti, sam ga|je napravio.
+{57900}{57980}Ti si ga naterao.|-Dobro, samo ti ponavljaj to.
+{58084}{58163}A öta je sa tobom?|-Kako to misliö?
+{58188}{58239}Kakva öetaö po kuÊi.|-äta?
+{58243}{58304}Stalno polugola.|-Kakve sad to veze ima?
+{58308}{58336}Mrzi to.|-Malkolm?
+{58340}{58374}Da.|-Ne obazire se.
+{58378}{58438}HoÊeö da kaûeö da ne bi primetio|ni kad bi mu pokazala sisu?
+{58442}{58467}Jebi se!
+{58626}{58698}Frenk, moûe öolja Ëaja?|-äto da ne?
+{58799}{58847}PriËaj mi o banci, Frenk.
+{58860}{58944}O kojoj banci?|-Onoj u koju si upao.
+{58999}{59043}Zaöto?
+{59047}{59119}Kako si uzeo pare? -Da se nisi|usudio da mu kaûeö!
+{59228}{59283}Jako smeöno.
+{59309}{59372}Baö lepo, Dûudit.
+{59423}{59477}Glupa kravo!
+{59575}{59706}{Y:i}Dva policajca nisu mogla da veruju|kad se auto, prosto podelio na pola.
+{59778}{59878}{Y:i}Prvi deo, znate... onaj prvi je iöao|pravo pa se podelio na dva.
+{59882}{59973}Hej, Frenk, dobro bi nam doöao takav|auto, je l' da? -Naravno.
+{60017}{60105}{Y:i}Jedan sa registracijom LDW,|a drugi O73.
+{60110}{60197}{Y:i}Policija je rekla da su vozaËi|ranih tridesetih godina.
+{60596}{60672}Zdravo, Dûini.|Mogu li da uem?
+{60836}{60902}Mama, ovo je Dûudit.|-Zdravo.
+{60906}{60935}Dobar dan.
+{60942}{61054}éivi preko puta u onoj kuÊi sa crvenim|cveÊem. Idem da stavim vodu za Ëaj.
+{61530}{61608}Jesi li doöla zbog Malkolma?|-Da.
+{61641}{61735}Dugo ga poznajeö?|-Da. Godinama.
+{62083}{62179}Svia ti se?|-Da.
+{63508}{63603}HoÊeö neöto da mi uËiniö?|-HoÊu.
+{63635}{63723}Hajde, Frenki, idemo malo|na Ëist vazduh.
+{63737}{63784}Nisam na to mislio.
+{63788}{63876}Hajde, idemo svo troje da proöetamo.|-Gubimo vreme.
+{63890}{64026}Hajde, Frenki. Da proöetamo do paba.|-Dobro, kad si navalila.
+{64094}{64146}Malkolme, oblaËi se, idemo.
+{64157}{64201}Hajde, Frenk.
+{64338}{64407}Nisi mi rekao kako si ih naterao|da ti daju pare, Frenk.
+{64411}{64457}A neÊe ti ni reÊi.
+{64486}{64544}Daj, Dûud.|-Da, Dûudit.
+{64556}{64645}Stani ovde. Samo stani.|PokazaÊu ti.
+{64762}{64824}Ruke uvis, mamlazi!|Niko da nije mrdnuo!
+{64828}{64878}I ti, i ti, i ti... ovo je pljaËka.
+{64882}{64929}Tako. I vi, gospoo.|To se i na vas odnosi,
+{64933}{64982}ruke u vis da vam ne bi'|mozak prosvir'o.
+{65006}{65041}Frenk, pazi lea!
+{65045}{65120}Dûudit, to je jeftin trik.|Od tebe sam viöe oËekivao.
+{65124}{65149}Pazi!
+{65311}{65377}Jebem ti! -Ako te toliko boli|idi kod doktora!
+{65381}{65438}Zaveûi, glupaËo.
+{65479}{65540}Zaöto ga nisi zaustavila?|-Pokuöala sam.
+{65544}{65602}Je l' da, Malkolme?|-Jeste, pokuöala je, Frenk.
+{65606}{65655}I ti zaveûi, klipane.|I tebe mi je dosta.
+{65659}{65723}Ne podiûi glas na njega.|-»oveËe, Ëujeö li ti nju?
+{65727}{65796}Meni tip razbuca glavu a ti se|sekiraö zbog ovog krelca.
+{65800}{65874}Upozoravam te, Frenk.|-Jebite se, odoh na pivo.
+{65878}{65987}Dobro je öto ne moûeö da dobijeö izliv|krvi u mozak, jer nemaö u öta!
+{66358}{66439}Ne smejem se. Pogledaj me,|Ëak se ni ne smeökam.
+{66443}{66522}Mislim da je uûasno to|öto ti se desilo.
+{67439}{67521}Ruke uvis, mamlazi!|-äta...
+{67853}{67916}Da niste mrdnuli!|-Ne mogu da verujem.
+{67920}{67981}Rekoh, da niste mrdnuli!
+{67985}{68083}Ja mislim da je ovo skrivena kamera.|-Da niste mrdnuli!
+{68262}{68338}Vrati se nazad...|ili Êu pucati!
+{68357}{68411}Je l' pravi?|-Otkud znam.
+{68415}{68499}Pravi je i|zato mi bolje predajte novac.
+{68503}{68592}NemoguÊe da je pravi.|ObiËna igraËka. äala.
+{68602}{68690}Nije öala, to je pravi piötolj|koji ispaljuje prave metke.
+{68694}{68739}äta reËe?
+{68743}{68800}MoraÊeö malo glasnije.
+{68833}{68909}Samo mi dajte novac!
+{68930}{68976}äta se deöava?{Y:i}|-To si ti, Frenk?
+{68980}{69029}Naravno da sam ja, zaboravio sam|jebene kljuËeve. äta to radiö?
+{69034}{69064}äta je öta?
+{69088}{69133}Ovo je pljaËka, Frenk.|Pogledaj.
+{69137}{69186}Sa daljinskim.
+{69190}{69284}Ovo je dugme za piötolj, kamera,|a ovo je moja banka.
+{69288}{69409}Vidi. Ovde ide gore-dole,|a ovde levo-desno.
+{69414}{69475}Pazi! Jeb'o te!
+{69536}{69607}Boûe, ovaj se ne öali!|-Naravno da se ne öalimo!
+{69611}{69729}A sad, mamlazi, dajte te vreÊe!|-Frenk, reci im da ih stave otpozadi.
+{69733}{69852}U redu! Stavite ih polako|otpozadi. Odmah! Brûe!
+{70310}{70366}Frenk, vrata su zatvorena.|Zaglavljeni smo!
+{70370}{70455}»upavi, dolazi ovamo|da otvoriö vrata.
+{70459}{70534}Ti! éivlje malo!|Nemoj da ti raznesem jajca!
+{70763}{70845}Sad, poûuri malo.|-Ne moûe brûe od ovoga.
+{71298}{71346}Pobegli smo im, Frenk.
+{71384}{71434}Ali smo izgubili i jebenu lovu.
+{71467}{71529}Moûemo ovo i da ponovimo.
+{71670}{71710}äta je tebe spopalo?
+{71714}{71756}Sam je to uradio.|-Sereö, Frenk.
+{71760}{71818}Ti si jebeni laûov, sluöala sam|obojicu, i tebe, i Malkolma,
+{71822}{71873}sve vreme kako Êaskate dok|sam bila u öoping centru.
+{71877}{71939}Jedan drugog ste oslovljavali pravim|imenima, koji ste vi kreteni.
+{71943}{72023}Ja sam uleteo usred.|Sve je sam smislio.
+{72027}{72136}Frenk, ni na trenutak nisam pomislila|da bi ti mogao tako neöto da smisliö.
+{72140}{72219}Ali, sigurno nije sam doöao|na tu ideju. -Jeste.
+{72223}{72303}A öta je sa piötoljem?|Mogli ste nekoga da ubijete.
+{72307}{72367}To su bili Êorci, Dûudit.|-Stvarno?
+{72380}{72446}Obojica niste normalni. Pretvorio si|ga u jebenog kriminalca.
+{72450}{72543}Nije on nikakav kriminalac. Nije mu bilo|krivo Ëak ni kad je ostao bez kinte.
+{72547}{72586}Pokuöaj to pandurima|da kaûeö.
+{72590}{72630}Panduri ne bi znali ni|odakle da poËnu.
+{72634}{72681}Malkolm nije napuötao|svoju spavaÊu sobu.
+{72685}{72759}Nisu ni oni kompletne budale.|Otkrili bi pre ili kasnije.
+{72796}{72890}Pa ako si toliko zabrinuta|öto mu onda ne pomogneö?
+{72894}{73004}äta? Da mu pomognem da pljaËka banke?|-Da. Uopöte nije loöa ideja.
+{73008}{73086}Sigurno ne bih ispala budala|kao vas dvojica.
+{73090}{73168}Mi Êemo to da uradimo.|-Nikad.
+{73178}{73247}UhvatiÊe ga.|-Sad si rekao da neÊe.
+{73251}{73315}Moûda neÊe, ovaj put...
+{73866}{73929}Super je, skoro dûabe,|a, Frenk?
+{74098}{74128}Zdravo, Dûeni.
+{74132}{74174}Zdravom Dûudit.|-Spremna?
+{74178}{74294}Pa, ne znam baö... moûda ne bih...|-Hajde, super Êemo da se provedemo.
+{74298}{74385}Ne znam, Dûudit. -Ja znam, biÊe|super. Imamo celo popodne.
+{74389}{74442}Doi za par minuta.
+{75200}{75252}Da sednem ovde, Frenk?|-Sedi.
+{75337}{75374}äta Êete da pijete?
+{75378}{75449}Malkolme, hoÊeö neöto da|popijeö? -Nisam ûedan.
+{75453}{75511}A ti, Dûini?|-Ne, hvala.
+{75515}{75569}Doöli smo u pab da pijemo|zato odoh da naruËim.
+{75673}{75787}V2 klasa je poËela da se proizvodi kad|je preraen model 436 iz klase V1...
+{75791}{75909}i zbog toga je renoviran ceo vozni park|pre nego öto se preölo na klasu V6.
+{75954}{76053}Tako je taj redizajnirani model|imao neöto uûa vrata...
+{76057}{76147}i velike prozore ravnomerno|rasporeene.
+{76152}{76246}E sad, poslednja 3 neredizajnirana|modela klase V1...
+{76251}{76328}a to su kola broj 426, 431 i 478...
+{76333}{76395}su redizajnirana u|klasu SV2...
+{76399}{76482}ali su iz nekih razloga smeöteni|u klasu SV2.
+{76491}{76563}Moram do toaleta.
+{76604}{76696}Frenk!|-äta je?
+{76920}{77019}Jesi li ga ikad koristio?|-äta?
+{77039}{77133}Znaö... znaö öta mislim.
+{77153}{77290}Jesi li... znaö, jesi li ga...|stavio u rupicu?
+{77569}{77649}Dûini, setio sam se jedne interesantne|Ëinjenice koju ti nisam rekao.
+{77653}{77702}TiËe se odrûavanja tramvaja.
+{77706}{77829}Kao rezultat ozbiljnog kvara, brojevi|644, 2 i 5 su modernizovani...
+{77833}{77929}u naprednije modele koji su|prethodili celoj klasi V2.
+{77948}{78051}Mogu da ti kaûem svoje miöljenje i|klasi SV6 i posebno o modelu 850...
+{78055}{78132}Malkolme, skuvaj Ëaj|za Dûini.
+{78386}{78458}...postepeno vozni park je|proöiren sa 15 novih kola,
+{78463}{78532}a onda je potpisan ugovor za|joö 100 novi tramvaja.
+{78537}{78593}Ovi tramvaji su imali sasvim|drugaËiji kontrolni sistem...
+{78597}{78644}kojim je pokuöala da se|smanji potroönja...
+{78648}{78690}i dodatna vrata radi brûeg|praûnjenja.
+{78696}{78735}Iskreno, to je bio jako|dobar tramvaj...
+{78811}{78931}I sad dolazimo do tuûnog podatka|da 136.5 tramvajskih stanica...
+{78935}{78970}u samom Melburnu i|prigradskim naseljima...
+{78974}{78999}Malkolme...
+{79046}{79091}prihvatila sam posao|kod svog strica.
+{79168}{79231}Ima radnju u Lajli.
+{80311}{80355}Malkolme...
+{80386}{80437}Jesi li dobro?
+{80475}{80531}OseÊam se bolesno.
+{80547}{80646}Gde je Dûini?|-Otiöla je kuÊi.
+{81304}{81356}äta radite vas dvoje?
+{81372}{81440}UËila sam Malkolma kako|se vodi ljubav.
+{81492}{81536}Baö lepo.
+{81540}{81602}PriËali smo o tome, Frenk,|i to je bio tvoj predlog.
+{81606}{81706}Sereö! Uskoro Êe ispred kuÊe|biti red, droljo jedna!
+{81712}{81751}Kako se usuujeö to|da mi kaûeö?
+{81755}{81855}Dok ja tamo spavam, ti se ovde|tucaö sa ovim maloumnikom.
+{82088}{82143}–ubre jedno!
+{82150}{82235}Sad ste se udruûili protiv mene?|Dosta mi je svega!
+{82267}{82341}VraÊaj se ovamo, Frenk. Samo sam|mu objasnila kako se to radi...
+{82345}{82390}Nismo niöta radili, moronu!
+{82780}{82814}Malkolme...
+{82964}{82997}Malkolme...
+{83031}{83103}Ne obraÊaj paûnju|öta on priËa.
+{83130}{83225}Samo ponekad ne ume da se|kontroliöe i to je sve.
+{83239}{83277}Nije on loö.
+{83306}{83383}Takav je zato öto mu se neöto|desilo kad je bio mali.
+{83518}{83545}Prvo...
+{83578}{83665}Frenkova mama je umrla|kad je bio mali...
+{83669}{83825}a tata je odluËio da se spakuju i|da se presele u Melburn.
+{83835}{83950}éiveli su na farmi, otac je bio dobar|drvodelja i mislio je da otvori radnju.
+{83954}{84026}Spakovali su se u kola|i krenuli.
+{84030}{84100}Frenk je bio sreÊan, zato|öto je voleo tatu.
+{84129}{84248}I tako su se vozili, vozili i vozili|sve dok nije pao mrak.
+{84272}{84302}Pravi pravcati mrak.
+{84329}{84446}I onda, na sred autoputa, usred|nedoije, auto je stao...
+{84450}{84491}ostali su bez benzina.
+{84496}{84544}I onda je tata rekao|Frenku,
+{84548}{84681}'Prei na zadnje sediöte, pokrij se|Êebetom i probaj da odspavaö.
+{84685}{84742}Kad izaem, zakljuËaj|vrata za mnom.
+{84746}{84865}Ja idem do one zgrade pored koje smo|proöli da probam da naem benzin'.
+{84869}{85013}I tako je Frenk otiöao na zadnje|sediöte, pokrio se i ubrzo zaspao.
+{85044}{85142}SledeÊe Ëega se seÊa je da su ga|probudili uûasni udarci u krov kola.
+{85149}{85189}Bam! Bam! Bam!
+{85193}{85328}Probudio se, pogledao u mrak, levo, desno,|napred, nazad, ali nije bilo nikoga.
+{85332}{85420}Straöno se uplaöio, kad opet,|bam, bam, bam, bam!
+{85424}{85534}I onda, odjednom, niotkuda farovi nekog|auta su osvetliöe unutraönjost.
+{85538}{85614}I zaËuo je glas preko megafona|koji je govorio,
+{85637}{85745}'Ovde policija! Ako u autu ima nekoga,|kad izbrojimo do tri...
+{85750}{85806}neka otvori vrata i|neka potrËi prema meni,
+{85810}{85900}ali neka ne gleda unazad. Neka se|ne osvrÊe ni po koju cenu!'
+{85913}{86021}I tako je Frenk, polako skliznuo|sa sediöta do vrata...
+{86025}{86133}naglo ih otvorio i potrËao ka|glasu koliko ga noge nose.
+{86137}{86256}I baö kad je stizao do policijskog auta|okrenuo se i pogledao unazad.
+{86260}{86296}I öta misliö, öta je video?
+{86300}{86396}Neki ludak je sedeo na kolima i|nekim Ëudom lupao po krovu.
+{86400}{86449}Znaö Ëime?
+{86453}{86497}Glavom.
+{86501}{86568}Glavom Frenkovog oca.
+{86595}{86620}Znaö...
+{86640}{86728}Frenkov otac se vratio do ludnice|a to je bio jedan od ludaka.
+{87446}{87526}Jesu li glavu tvoga tate stavili nazad|kad su ga sahranili, Frenk?
+{87705}{87809}Dûud, ovo je odliËno.|-Krompir mi se prekuvao.
+{87813}{87893}Ja volim kad je prekuvan.|-I ja.
+{88084}{88119}Frenk...|-Mislim da...
+{88173}{88230}Reci.|-Ne, ti reci prva.
+{88262}{88313}Znam da neöto smiöljaö.
+{88317}{88381}O Ëemu ti to?|-Ma, daj, Frenk.
+{88385}{88441}Znam da Malkolm i ti|spremate neöto.
+{88445}{88554}Tebe nikad nema. A Malkolm|stalno neöto radi.
+{88566}{88644}Ako vas uhvate u pljaËki|ne ûelim viöe da vas vidim.
+{88657}{88706}Ne bih to podnela.
+{88747}{88806}Zato Êu da vam pomognem.
+{88898}{88930}äta? Da pljaËkamo banke?
+{88934}{89006}Ozbiljna sam, Frenk.|Dobro sam razmislila.
+{89024}{89127}Ti ne umeö da se brineö o sebi...|a ne ume ni Malkolm.
+{89131}{89240}Malkolm ima sjajne ideje ali ne zna|niöta ni o pandurima, ni o zatvorima.
+{89297}{89344}äta bih ja radila bez vas?
+{89348}{89438}NeÊu naredne 2 godine da provedem u redu|dok Ëekam da vas vidim jednom nedeljno.
+{89459}{89499}Ne bih to podnela.
+{89549}{89587}Zato Êu vam pomoÊi.
+{89616}{89644}U redu?
+{90399}{90531}To je to. 250.000 dolara na obiËnim|kolicima, svakog Ëetvrtka u 10 sati...
+{90535}{90635}koja dva straûara guraju|baö ovuda.
+{90773}{90828}To je, ionako prljav novac.
+{90973}{91020}éelite joö neöto, gospodine?
+{91024}{91078}I jedan dûip, molim.
+{91090}{91180}HoÊete da vam zapakujem|ili Êete da se odvezete?
+{91195}{91275}Molim?|-äalim se, ortak.
+{91461}{91536}A ona tamo?|-Ne, Êorsokak.
+{91651}{91750}A ova ovde?|-Nije dovoljno uska.
+{91780}{91879}A pogledaj ovu!|-Da!
+{91904}{91956}Ova Êe biti dobra.
+{92705}{92766}Malkolme, je l' ovo dobro?
+{92835}{92890}OdliËno, Dûudit.
+{93462}{93522}Kako je Malkolm?|-Jako dobro.
+{93526}{93659}Ne viam ga ovih dana. Da nije naöao neki|posao? -Jeste, recimo... Radi na...
+{93663}{93738}Paklo Vinfilda, molim vas.|-Zar ne vidite da usluûujem damu?
+{93742}{93777}U redu je, usluûi prvo njega.
+{93853}{93928}Neki ljudi ne znaju da|se ponaöaju.
+{94750}{94852}Izvolite?|-»etiri pepeljare za zamenu.
+{94856}{94947}Samo trenutak, moram da proverim|sa öefom. U redu?
+{95182}{95271}Hajde, momci. Samo joö ovo da|isporuËimo pa moûemo kuÊi.
+{95275}{95321}Niko mi niöta nije rekao.
+{95341}{95394}Niöta ti ne brini.
+{95825}{95881}Jedna tamo, jedna tamo i tamo.
+{96093}{96201}Potpiöite, molim. -Nisam ovlaöÊen.|Potpiöite sami.
+{96230}{96271}Tako sam i mislila.
+{96437}{96474}Unesi ih ovamo.|-Molim?
+{96478}{96518}Mrdni dupetom.
+{96810}{96878}Jeste li gotovi?|-Jesmo, jesmo.
+{97015}{97076}Uspeli smo.|-Isuse, uspela sam.
+{97080}{97143}Nisam verovala.|-Sila si.
+{98164}{98212}U redu, poËinjemo.
+{98776}{98863}Moûeö li da kreneö, Frenk?|-Naravno da mogu. Idemo.
+{101204}{101260}Jebi ga, neko dolazi.
+{101304}{101359}Mnogo nas je.
+{101366}{101412}Ponaöajte se prirodno.
+{101741}{101819}Sranje, vratiÊe nas|dole liftom.
+{103517}{103542}Pazi!
+{104099}{104177}U redu. Sve je Ëisto.|-U redu.
+{104667}{104741}U redu, gubimo se odavde.
+{106001}{106110}E pa, Arnolde... danas je jedan|jako vaûan dan.
+{106130}{106179}ObaviÊemo veliki posao.
+{106183}{106270}Sutra Êe sve novine pisati|o tome.
+{106274}{106355}Zato Êu te odneti na par dana|kod gospoe Ti.
+{106374}{106477}Ali, ne brini, neÊu te zaboraviti.|{y:i}-Baö ti hvala.
+{106481}{106588}{y:i}»uvaj se.|-I ti se Ëuvaj.
+{106910}{107049}Ne zaboravite, momci, to je samo novac.|Ako neöto poe po zlu, razlaz.
+{107214}{107303}Hej, Dejv.|-Jebi ga!
+{107345}{107417}Naöi pacijenti?|-Misliö?
+{107466}{107538}Daj da pozovemo pomoÊ.
+{107975}{108073}Koliko je sati?|-9:46
+{108100}{108167}HoÊe li ovo tvoje raditi?|-HoÊe.
+{108235}{108321}Dobro... onda moûemo samo|da Ëekamo.
+{108650}{108757}Deluje isuviöe mirno.|-Da, nigde ni jednog policajca.
+{108761}{108822}Bolje da ih nema,|inaËe smo u govnima.
+{109005}{109042}Idemo!
+{109128}{109236}Stanite, öupci! Opkoljeni ste!|-Niöta ne pokuöavajte!
+{109326}{109373}Bacaj!
+{109526}{109561}Prskaj!
+{110080}{110132}Razbi prozor, Malkolme.
+{110399}{110442}Naö je!
+{110465}{110517}Superiöka!
+{110667}{110796}Kretenu glupi! Gledaj gde voziö!|Vidi öta si mi uradio!
+{110809}{110940}Neka neko pozove policiju.|Pozovite policiju! Idiote, jedan!
+{112671}{112765}Jebena lutka!|-Za njima!
+{113751}{113802}Jebem ti saobraÊaj!
+{113976}{114065}Panduri.|-Gde?
+{114130}{114223}Ponaöaj se prirodno.|-Pokuöavam.
+{114387}{114496}Hej, Rodûere, jesi li za sladoled?|-Ne jedem sladoled.
+{114500}{114554}To je za klince.|-Ma, daj...
+{114558}{114628}Ortak, moûe jedan sladoled?
+{114632}{114708}Nemamo.|Reci mu.
+{114729}{114820}Nemamo.|-Nemate sladoled?
+{114844}{114963}A nemate ni retrovizor.|Vozite ispred nas.
+{115021}{115073}Jeb'o te...
+{115853}{115926}Joö malo pa smo stigli, Dûud.|Jesi li spremna? -Jesam.
+{115960}{116066}Ovde, Frenk.|-U redu, idemo.
+{116628}{116687}Doavola!
+{118308}{118365}Nema problema.
+{118384}{118457}äta je sa tramvajima?|-Isti su kao u Melburnu, Frenk.
+{118461}{118527}Rekoöe da straûari nose|26.000 eskudosa.
+{118537}{118576}Koliko je to?
+{118591}{118645}Oko 200.000 dolara.
+{118656}{118726}Do sutra uveËe biÊe naöi.
+{118779}{118835}{Y:i}Konobar, tri kafe.
+{118839}{118905}Frenk, ovo je Portugal|a ne GrËka.
+{123313}{123613}{Y:i}zgaca62@yahoo.com
+{123638}{125138}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/d4tx|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

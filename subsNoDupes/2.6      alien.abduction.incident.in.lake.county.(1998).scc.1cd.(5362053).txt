@@ -1,0 +1,764 @@
+{3638}{}Todde?
+{3690}{}Dragi jesi li to ti??
+{4040}{}Britney.
+{4129}{}Bud?
+{4193}{}To nije smešno.
+{4550}{}O moj Bože.
+{4630}{}Todde?!
+{4720}{}Todde, daj mi kameru!
+{4770}{}Dovraga.
+{4835}{}Gde je?
+{5300}{}Dovraga.
+{5909}{}Todde!
+{6695}{}-Todde, o Bože...|-To sam ja, to sam ja...
+{6800}{}Sve je u redu.|Šta se dešava? Šta se dešava draga?
+{6910}{}-To si ti...|-Šta je bilo?
+{6969}{}Videla sam nešto.
+{7053}{}Šta si videla?
+{7076}{}-O, draga videla si medveda?| -Ne, nešto drugo. Bilo je na nebu.
+{7318}{}Kao NLO ili tako nešto?
+{7367}{}Smešno ti je?
+{7402}{}Jeani,
+{7425}{}Draga, gledaš puno "Discovery Channel".
+{7483}{}Pusti me.
+{7707}{}Videla si sendvièe?
+{7771}{}Šta je??| Dobri su.
+{7839}{}Neæu te više poljubiti.
+{7900}{}-Je li?| Sumnjam.
+{8055}{}Da li je neko video moju kameru?| Ostavila sam je tu negde.
+{8130}{}Ja æu je pronaæi.
+{8155}{}Šta se tebi dogodilo?
+{8180}{}Ne pitaj.
+{8224}{}-Videla je NLO.| -Šta?!
+{8318}{}Medvedi! Oduvek sam želeo da ih vidim.
+{8369}{}To je bilo nešto na nebu.| Ne znam šta je to bilo.
+{8435}{}Bud, hoæu da kampujem negde drugde!| Da li me èuješ, Bud?!
+{8541}{}Hajde da kampujemo negde drugde gde nije zabaèeno,|gde ima toaleta, znakova za 711, za Boga miloga.
+{8678}{}-Meni to zvuèi dobro!| -Pronašao sam! Evo ga. Trenutak istine.
+{9351}{}Todd, gde je ostatak zvuka?
+{9420}{}-Ovo je skoro zabavno.| -Ne, tamo su bili jaki krici. Èula sam.
+{9510}{}-Nije na traci. -Možda je to samo u tvojoj glavi.|Visok krvni pritisak ili tako nešto.
+{9620}{}To nije bilo u mojoj glavi.
+{9651}{}Tamo je! Vidim!
+{9740}{}To je odblesak sunca.
+{9796}{}Nije, tamo.
+{9836}{}To je samo ptica idiote!
+{9893}{}Ne razumem. Videla sam to.| Snimila sam. Tamo je bilo neèega.
+{9980}{}-Ja ti verujem Jean.| -Žao mi je draga.
+{10045}{}Te stvari se dešavaju èesto.| Ljudi veruju da su videli stvari, i uvere sebe u to.
+{10166}{}Da, to je kao u tim talk-show emisijama koje sam gledala.| Tamo je devojka i ona razgovara sa svojim tatom.
+{10328}{}Ali jedini problem je to, što je on mrtav.| I oni su pravili te sve testove, nebi li pronašli da ona nije možda poludela...
+{10482}{}Ali to nije bila njena krivica.
+{10527}{}-Hvala mnogo Brit.| -Molim.
+{10897}{}Daj mi šibice...
+{10942}{}Izgubio sam ih.
+{11002}{}Ozbiljno?
+{11055}{}Da, izgubio sam ih.
+{11167}{}Da li vam momci treba vatre?
+{11258}{}Ne bi trebalo da pušite travu.
+{11317}{}Kaži svom deèku. Ja nemam sa èime da potpalim. Donesi šibice.
+{11377}{}Doneæeš šibice?
+{11410}{}Da...|Frajeri...
+{11607}{}Šta, do kurca... ?
+{11725}{}To mora da je neka velika jebena zverka.
+{12133}{}Hej Bud.
+{12346}{}Jean, znaš moj kod?
+{12556}{}Hej, dragi.
+{12617}{}-Koji je... Znaš moj kod?| -Hej Bud.
+{12736}{}Jean, seæaš se mog koda?
+{13076}{}O, sranje...
+{13114}{}Govnar...
+{13160}{}Šta?
+{13190}{}Tamo je veliki jebeni aligator...|nije, to je jebeni medved.
+{13434}{}Šta, jebem ti?
+{13494}{}-Britney!| -Šta? Šta to dolazi?
+{13720}{}Britney izlazi!
+{13749}{}Izlazi!
+{13880}{}Doði!
+{14091}{}Hajde bejbi!
+{14254}{}Hajde draga.| Pazi.
+{14352}{}Hajde, hajde.
+{14767}{}-To nije bio medved, je'l da?| -Nije, to nije bio medved!
+{15037}{}O sranje.
+{16462}{}-Gde su?| -Ništa ne vidim.
+{16543}{}Britney?
+{16636}{}
+{16688}{}Britney?| Brit?
+{16748}{}Jean?
+{16800}{}Jean?
+{16960}{}To si ti.
+{17020}{}Jean, ja hoæu kuæi!
+{17098}{}Hoæu kuæi.
+{17191}{}Idemo odavde.
+{17334}{}Budi?
+{17444}{}Budi!
+{17664}{}Draga moja Jean.
+{17917}{}Da li je Budi dobro?
+{17982}{}Zapitaj ga sama.
+{18030}{}Æao Jean!
+{18090}{}Mi smo na svemirskom brodu.
+{18150}{}Ne brini.
+{18194}{}Ne brinem.
+{18247}{}Dobro sam sad.
+{18290}{}Bud, kažem ti...|Prestani!
+{18580}{}Koji je to kurac bio?
+{18785}{}Šta je to?
+{18870}{}Šta...
+{18957}{}Ne idemo tamo.| Nikako!
+{19061}{}Ne može biti gore od sedenja ovde unutra.
+{19117}{}Da, može!
+{19190}{}Nigde ne idemo!
+{19430}{}Izgleda kao dugaèko saæe.
+{19530}{}Jean, hoæeš li molim te da spustiš to dole!
+{19608}{}Dragi, ne mislim da bi trebali igde iæi,| ali bi trebali da snimimo.
+{19766}{}Nauka. Snimanje| nas može obogatiti, zar ne?
+{19957}{}Divno!
+{20020}{}To je bila najava!
+{20478}{}Doði ovamo.
+{20585}{}Jebem ti, idemo.
+{20622}{}Idemo.
+{20771}{}Spusti tu jebenu stvar dole!
+{20830}{}-Hoæemo li da umremo?| -Neæemo umrijeti.
+{20880}{}Kako znaš?
+{20984}{}O moj Bože!
+{23909}{}Mislim da se ona sada budi.
+{24000}{}Imali ste iskustvo.| Dobrodošli nazad.
+{24122}{}Zdravo, moje ime je dr Booker.| Ja sam dodeljen vašem sluèaju.
+{24220}{}Samo se opustite dok vas pregledam.
+{24366}{}Vi ste u u visokospecijalizovanoj vojnoj bolnici.
+{24492}{}Da li se seæate šta vam se dogodilo?| Kako se zovete? Da li se seæate?
+{24679}{}Vaše ime je Jean.
+{24766}{}Želim da je skeniram sada.
+{24895}{}Porazgovaraæu sa majorom.
+{24943}{}Videæu da li može da se uspava.
+{25196}{}Ja sam Thomas, inaèe.
+{25270}{}Èuvajte se, dobro?
+{25540}{}"Molim, uzmite sve lekove koji su vam prepisani".
+{26209}{}Drugi put.
+{26357}{}Uzmite svoje lekove.
+{26710}{}Jezike.
+{26958}{}Probaj pomorandžu.
+{27010}{}Ima ukus kao mrkva.
+{27070}{}Seæaš se toga?
+{27540}{}Lobanja: 9,02
+{27634}{}Torzo: 18,36
+{27720}{}Karlica: 19,08
+{27811}{}Butine: 14,67
+{27957}{}Ova je došla| sa video trakom, gospodine.
+{28024}{}Šta je bilo na njoj?
+{28068}{}Sve.
+{28117}{}Da li æe to biti problem?
+{28155}{}Ne, gospodine.
+{28241}{}Nema unutrašnjih ožiljaka.| Nema masnica.
+{28323}{}"Èista je."
+{28350}{}U redu. Sredite joj i lice.| Pošaljite je kuæi.
+{28448}{}Imate li primedbi?
+{28496}{}Nemam, gospodine.
+{28545}{}Nosite je u sobu za oporavak.
+{29445}{}Smirite se.
+{29515}{}Ovo vas može uštinuti.
+{30250}{}Halo?
+{31210}{}Izgleda, da ste bolje danas.
+{31337}{}Može li se bilo šta da uèini?| Ovo me izludjuje.
+{31403}{}Bolje se smirite.
+{31510}{}Videæu šta mogu da uèinim.
+{31610}{}Mislim, da je noæas tu|bio neki muškarac.
+{31675}{}To nije moguæe.| Mora da ste sanjali.
+{31799}{}U zadnje vreme mnogo sanjam.
+{31867}{}-Da li moji roditelji znaju da sam tu?| -Da...
+{31936}{}Odgovarajuæi ljudi su obavešteni.
+{31986}{}Mogu li da ih pozovem?
+{32040}{}Ne još. Moram da vam postavim| najpre neka pitanja, i napravim neke testove.
+{32177}{}Gde su moji prijatelji?
+{32285}{}Nisu ovde.|Hajde da se fokusiramo prvo na tebe.
+{32370}{}Dobro, onda šta se dogodilo sa mnom?
+{32428}{}Prvo želim èuti nešto.
+{32522}{}Poslušaj ovo i reci mi šta je ovo.
+{32714}{}Šta misliš?
+{32747}{}To je klasika, ne znam šta je to.
+{32824}{}To je Mozart.| Sada ovo.
+{33024}{}-Pa?| -Neka vrsta veštaèkog zvuka. Ne znam.
+{33136}{}Razumem.| Ja više volim džez.
+{33236}{}Hajde da poènemo test.
+{33283}{}Pogledaj ove oblike,|i reci mi šta je to.
+{33416}{}Pa, tu su linije,| krugovi i trouglovi.
+{33507}{}Da li izgledaju kao prosti sklopovi?
+{33578}{}Ne sasvim.
+{33671}{}Prepoznaješ ovo?
+{33775}{}Ne.
+{33845}{}Da li govoriš drugi| jezik osim engleskog?
+{33916}{}Francuski.
+{33944}{}Još neki?
+{33997}{}Ne bih baš rekla.
+{34124}{}Izaberi koji nije izmišljen.
+{34215}{}Taj levo.
+{34408}{}Desno.
+{34570}{}Koncentracioni logor.
+{34664}{}Da li ti je ovo poznato?
+{34852}{}Ne.
+{34939}{}-Možda u snu?| -Rekla sam ne!
+{35009}{}-Šta je ovo?| -Nemam pojma!
+{35080}{}Hoæete li mi reæi šta se dogaða sa mnom?
+{35178}{}Vi ste bili...
+{35224}{}...kidnapovani.
+{35299}{}-Oteta?| -U tom stilu...
+{35377}{}-Kako? Od koga?| -Vidite...
+{35446}{}Ne znam.| Vi mi recite.
+{35628}{}-Ne pamtim. -Recite bilo kako.| Zadnje èega se seæate.
+{35939}{}Bila sam na kampovanju...|sa mojim prijateljima i...
+{36057}{}i oni su otišli do prodavnice.
+{36094}{}A ja sam ostala.
+{36140}{}I to je zadnje èega se seæam.| I onda sam se probudila ovde.
+{36278}{}Mi sprovodimo specifièni|rehabilitacioni program u ovoj bolnici.
+{36408}{}Za ljude, koji su oteti.
+{36467}{}-Oteti? -Kao što ste i vi.|-Od koga?
+{36590}{}Od...
+{36625}{}Nepoznatih biæa.
+{36667}{}Inteligentnih biæa iz drugog sveta.| Ovaj program pomaže...
+{36789}{}...stotinama otetih svake godine.
+{36928}{}-Stotinama?!| -Svi znaju!
+{36980}{}Oni mogu da ne veruju u ono što èuju.| I to je naèin kako vojska voli da zadrži stvari. Ne panièi.
+{37150}{}-Moram da zovem majku i oca.| -To nije...
+{37206}{}-Molim, molim dozvolite mi da zovem mamu.| -Ne. Možeš imati seæanja,| koja nam mogu naškoditi. Otkriti misiju.
+{37407}{}Moraš biti "èista".| Nažalost nisi prošla na testu.
+{37543}{}O èemu govorite?| Ja samo želim da idem kuæi!
+{37637}{}Naravno. To je ono što i ja želim.| Ali mi gledamo seæanja i želimo dokaz...
+{37780}{}...da ti možemo verovati.
+{37891}{}Prestani plakati i glumiti,| kao da si sretna.
+{38053}{}Dok si posmatrana.
+{38099}{}Zapamti te slike.| Videæeš ih opet.
+{38217}{}Zadrži èist um.| Trebaæe ti.
+{39087}{}Ne sviða mi se.
+{39127}{}Daj joj šansu.
+{39320}{}Lagala je danas.| Videla sam.
+{39378}{}Siguran sam, da æe biti u redu| kad izaðe napolje.
+{39465}{}Ne možemo èekati dotle.
+{39520}{}Svaka klasa otetih| odavno prolazi te uredjaje.
+{39608}{}Bilo ko, ko je kontaminiran,|a ja sam odgovorna.
+{39741}{}Bitæe testirana sutra.| Vrlo je blizu.
+{39806}{}Govorim ti, da ostaviš to i nastaviš dalje.
+{39872}{}Sviða mi se ovaj sluèaj.| Ovo mi je blisko.
+{39957}{}I bolje da ti se sviða,| jer ovaj sluèaj nije èist i ti æeš odgovarati za to.
+{40755}{}"ODGOVORI"|1. SLOVA
+{40812}{}2. BROJEVI|3. ZAJEDNO
+{40919}{}"Molim, uzmite sve lekove koji su vam prepisani".
+{41010}{}Treæi put.
+{41101}{}Uzmite lek.
+{41677}{}Brit?
+{41920}{}Novi pacijenti, za mnom.
+{42170}{}Brit?
+{42196}{}Hej!
+{42219}{}Britney.
+{42244}{}Ti.| Vraæaj se u svoju zonu.
+{42310}{}Hvala bogu.|- Tako si umrtvljena.
+{42359}{}Ko si dovraga ti?
+{42390}{}-Ja æu to da rešim.| -Bez razgovora!
+{42483}{}Slušaj, to nije osoba,| za koju misliš da jeste.
+{42548}{}O èemu govorite?! To je moja prijateljica| Britney! Rekli ste mi da oni nisu ovde!
+{42631}{}I nisu.
+{42668}{}Nije onakva kakvu si je znala ranije.
+{42720}{}Što?| Šta im se dogodilo?
+{42761}{}Ti si bila sretna,|ali tvoji prijatelji nisu!
+{42838}{}Jean!
+{42936}{}Zadržite je!
+{43030}{}Britney!
+{43160}{}Britney!
+{43205}{}Sigurnosno osoblje pažnja - sigurnosno osoblje...
+{43664}{}Samo želim reæi,| ja sam spremna na saradnju.
+{43907}{}Znaš,|oni imaju ovde uzorke.
+{44053}{}Videla sam ih.
+{44105}{}Male vanzemaljce u posudi.
+{44218}{}Tako su gladni.
+{44506}{}Kaži im...
+{44548}{}Kaži im da ne zaborave za mene.
+{46162}{}To je loše.|To je loše...
+{46390}{}Do viðenja.
+{46451}{}Hej, ne možeš tamo da ideš!
+{46530}{}Britney?
+{46632}{}Britney, draga...
+{46709}{}Odlazi od mene!| Odjebi!
+{46779}{}To sam ja, Jean.
+{46842}{}Kako znaš moje ime?
+{46901}{}Kako? Draga|ja sam tvoj prijatelj.
+{46950}{}Prijatelj?!|Ja nemam nikakve prijatelje!
+{47078}{}On je moj jedini prijatelj.
+{47155}{}Budi.
+{47237}{}Bud?
+{47314}{}Psst! Probudiæeš ga.
+{47370}{}Pogledaj šta si mu napravila!
+{47435}{}Ne.
+{47491}{}On je bio kooperativan.
+{47630}{}-Ti si to napravila.| -To nisam bila ja.
+{47670}{}-Ti si! -Nisam ja. Draga| moramo razgovarati sa dr Brukerom.
+{47779}{}Moramo razumeti, ti si dobro,| moramo te izvuæi odavde.
+{47888}{}Ona nigde ne ide.
+{47946}{}Todd, dragi, to sam ja, Jean.
+{48000}{}Dragi, šta je s tobom?
+{48040}{}Ona je tu!
+{48091}{}-Ona je tu!| -Dragi, to sam ja, Jean.
+{48183}{}Ti kuèko!
+{48250}{}Pomozite mi, molim vas!| Todde! Todde!
+{48525}{}Todde! Upomoæ!
+{48631}{}Šta si napravila mojim prijateljima?!
+{48712}{}Neæeš da saraðuješ!
+{48755}{}-Sada, šta treba da ti uradim.| -Pustite me, hoæu da idem kuæi!
+{48906}{}Jesi li spremna da služiš svojoj zemlji?
+{48955}{}Ti jebena kurvo!
+{48994}{}-Jesi li spremna da služiš svojoj zemlji?| -Da, da! Moja zemlja mi dozvoljava da joj služim!
+{49158}{}Jesi uobražena!| Zaveži joj usta. Ne mogu to da slušam.
+{49230}{}Pustite me!
+{49354}{}Jebi se!
+{49405}{}Jedini razlog, zbog kojeg sam te| spasila je doktor, koji je molio za tvoj život.
+{49530}{}Zapamti to.
+{49555}{}Nastavite.
+{49681}{}Èekajte, èekajte...
+{50036}{}-Prekasno.|-Napunite.
+{50184}{}Punjenje.
+{50300}{}-Ponovo?|-Još više. Hoæu da oseti to.
+{50425}{}-Ponovo?|-Nisam rekla da prestaneš, zar ne?!
+{50530}{}Ponovo.
+{52980}{}1. Magacin|2. Vidio kaseta
+{53040}{}3. Beg
+{53183}{}O, tu si.
+{53237}{}dr Booker je rekao da si jaka.| Imao je pravo.
+{53432}{}Možda smo ti i ja ustali na pogrešnu nogu,|možda nisi dobila tvoju šansu.
+{53578}{}Da li želiš svoju šansu sad?
+{53646}{}-Da li želiš da saraðuješ?| -Šta želite?
+{53707}{}Nema potrebe biti tako defanzivna, ja sam tu da popravimo stvar.| Niko ne želi da drži ove uredjaje duže nego što je potrebno.
+{53922}{}Dakle?
+{53978}{}Oslobodili smo te.| Puštamo te kuæi. Želiš li to?
+{54119}{}Ja želim da idem|kuæi, to želim.
+{54211}{}Naravno.
+{54309}{}O, tako je.| Ja sam oteta takoðe.
+{54410}{}Davno. Mi svi.|Svi koji tu radimo.
+{54537}{}Neki su ostali i pomažu,| neki su otišli. Ja sam ostala.
+{54642}{}Vidiš, mi imamo više|toga zajednièkog nego što ti misliš.
+{54776}{}Hoæu iæi do magacina.
+{54828}{}Ko ti je rekao, imati magacin?
+{54912}{}Jednostavno... drugi pacijenti na ruèku.
+{54982}{}Ajde, da pronaðemo.
+{55104}{}Ajde Jean.
+{55330}{}"dr Booker, dr Lad, molim javite se odmah."
+{55688}{}Pustite me!
+{55770}{}Pustite meeee!!!
+{56046}{}-Gotovo.| -Dobro, idemo odavde.
+{56190}{}-Doktore Booker, upomoæ!| -Ne deri se!
+{56280}{}-Pomoæ!| -Ne pomeraj se!
+{56361}{}Rekla sam, Ne vièi!
+{56464}{}Ovo æe da boli.
+{59288}{}-Zvuèi kao da je sve gotovo.| -Idi tamo i donesi kolica.
+{59377}{}Minut samo. Mrzim sve to.
+{60496}{}Jebem ti!
+{64351}{}
+{66586}{}Videti, da li memorijska karta| pamti još uvek.
+{66749}{}Iskljuèi kameru.
+{66778}{}Odmah!
+{66801}{}Približavam.
+{66860}{}-Gladan sam.| -Iskljuèi jebenu kameru!
+{66929}{}Dobro.
+{67409}{}...jebeni aligator| ...ne to je jebeni medved.
+{69925}{}Hej, šta tu radiš?
+{69980}{}Moram to pokazati doktoru Bookeru.| To je jako važno.
+{70059}{}-Dr Bookeru? Jeste li pacijent?| -Da.
+{72885}{}Zdravo.
+{72941}{}Zdravo deèaci!
+{72993}{}O, uspelo je.
+{73048}{}Da.
+{73226}{}O, moj mališa.
+{73342}{}Da.
+{73458}{}Daj mi maleno jaje.
+{73564}{}Daj mi jedno maleno jajašce.
+{73936}{}Lijepo.| Jako lepo.
+{74045}{}Savršeno.
+{74250}{}Hvala.
+{75057}{}Ja sam u tajnoj bolnici|koju koristi vojska SAD
+{75194}{}za ljude koje su oteli vanzemaljci.
+{75366}{}Nisam sigurna koliko dugo sam bila ovde.
+{75489}{}Upravo sam videla žive male vanzemaljce.
+{75615}{}Snimila sam to.
+{75680}{}Bili su u posudama.
+{75737}{}Mali su ali izgledaju vrlo opasno.
+{75870}{}Odnesimo ovo telo u mrtvaènicu.
+{76180}{}Šta se koji kurac dešava?
+{76235}{}Dalje od nje!
+{76521}{}Hej, bolje je pozvati oficira.
+{77520}{}-O, æao!| -Zdravo.
+{77557}{}Izvini.
+{77630}{}-Trebam li da izaðem, ili...| -Ne, ne, ja sam skoro gotova. Izvini.
+{77761}{}Ne, to nije problem ja...
+{77901}{}Znaš, da sam došao minut|kasnije ti bi bila gola...
+{78056}{}Ne, ne...|Izludjuje me.
+{78191}{}Celi život posveæujem DIOE.
+{78291}{}Mogu li da pogledam?
+{78369}{}Mir snama.|Izgledam kao i svi drugi.
+{78508}{}Loše za mene.
+{78585}{}Da li smo se veæ sreli?
+{78647}{}-Izgledaš mi jako poznato.| -Motam se tu okolo.
+{78754}{}-Da, da...|-Kažem im. Nema šanse!
+{78817}{}Da jedno od tih biæa trèi po bazi|i ubije i mene?
+{78920}{}-Spasi sebe, to je moj moto.| -Jedna od tih stvari se izgubila?
+{78994}{}Šta, ti spavaš?
+{79052}{}Ne znam zašto drže te spodobe tako blizu nas uopšte...|Muka mi je.
+{79177}{}Moje pitanje je:| zašto ih drže uopšte žive?
+{79241}{}"Medicinsko osoblje, molim javite se..."|Ah, nazad u rovove.
+{79356}{}Ma, daj, mani se...
+{79552}{}Ideš?
+{79635}{}U redu.
+{79665}{}Onda se vidimo sledeæi put.
+{79715}{}Sledeæi put.
+{80100}{}Ako sad ne delujemo|ovo æe izmaæi kontroli.
+{80185}{}Ne možemo dozvoliti|da baza bude kontaminirana.
+{80252}{}Postaviæu patrole.|Uspostaviæu kontrolne punktove.
+{80375}{}Kontrolne punktove. Nešto veliko se dogaða,| a ja moram da se nosim sa...
+{80520}{}...ovim.
+{80558}{}Nešto veliko? Šta?
+{80610}{}Invazija?
+{80671}{}Neoficijelno.
+{80722}{}Da.
+{80767}{}Ne misliš valjda da ta|biæa mogu da nas napadnu?
+{80875}{}Ne.
+{80918}{}Mi æemo njih da napadnemo.
+{80987}{}Sada poèisti ovaj haos.
+{81205}{}Treba li ti nešto unutra?
+{81244}{}-Kabinet dr Bookera?| -Pravo i u dnu hola.
+{82164}{}Mesta opažanja. Sletanja. Otmice. Padovi.
+{83400}{}PRAZNA BATERIJA
+{83695}{}-Mogu li vam pomoæi?| -Eh... Tražim dr Bookera.
+{83779}{}Da li imate zakazano| jer on nije sada... ovde.
+{83865}{}Da li znate kada æe se vratiti?
+{83925}{}Prièekaj malo treba da| nazovem, da proverim...
+{83980}{}SIGURNOST!!!
+{85785}{}Sad znam ko si ti.
+{85833}{}Da.
+{85870}{}Ti si pacijentkinja od prošle nedelje.| Seæam te se.
+{85981}{}Kako si dobila posao|tako brzo?
+{86042}{}Posreæilo mi se.
+{86097}{}Znaš gde je šta?
+{86144}{}Ne baš.
+{86177}{}Onda æu ti ja pokazati.
+{86358}{}Hajde.
+{86432}{}Kuda vode ta vrata?
+{86473}{}Oh, ta. To je za boèni pristup holu,|za posebne prostorije kao smeæe, pristanište itd.
+{86652}{}-Imaju li pristup?| -Da.
+{86717}{}Da, naravno.| Zato su sa unutrašnjim pristupom.
+{86792}{}Možemo tamo iæi?
+{86836}{}Do pristaništa?
+{86879}{}Ne.
+{86906}{}Ne. Samo oni koji imaju plave kartice.
+{86967}{}Da li iko zna|šta se tu dešava?
+{87020}{}Slušaj...
+{87060}{}Mi radimo za vojsku.
+{87133}{}Ako zabrljamo ili prièamo o ovome|nekome napolju,
+{87283}{}likvidiraju nas bez ustruèavanja.
+{87380}{}Pretpostavljam da misle, da je to lepše mesto|od onog sa kojeg smo došli.
+{87494}{}Hajde, idemo.
+{88233}{}Da... imamo tu dosta regularnih.
+{88296}{}Veæina od njih ne zna|gde su ili ko su.
+{88423}{}Neki se ne seæaju ni da su pronadjeni.
+{88521}{}Neki od njih.
+{88553}{}Da...
+{88608}{}To je bilo ovako loše samo nekoliko nedelja...
+{88727}{}Da li æe išta biti isto kao pre?
+{88852}{}...
+{89393}{}To su bile dobre uspomene...
+{89493}{}Jedna od najlepših.
+{89582}{}Pomozite mi da to odnesem u sobu 16.
+{89788}{}O moj Bože, to je mala devojèica.
+{90043}{}Vole kad im govoriš.
+{90099}{}-Zdravo.| -Zdravo.
+{90148}{}-Kako se zoveš?| -Ja sam Peni i imam pet godina.
+{90247}{}Ja sam Jean.
+{90290}{}-Gde sam ja?| -U bolnici draga.
+{90356}{}Moraš biti jaka sad, dobro?
+{90411}{}Kada uðemo tamo moraš reæi sve|što oni žele da èuju, dobro? -Dobro.
+{90510}{}"Morate stalno da nosite svoju identifikacijsku karticu."
+{90573}{}Oni ponekad to èine, gledaju tvoju|identifikacijsku karticu. -"IDENTIFIKACIJA!"
+{90759}{}Izvolite.
+{90807}{}-Pokažite svoju identifikacijsku karticu.| -OK.
+{90884}{}-Da li je sve u redu?| -Da, da. Samo... Dajte mi sekundu.
+{90951}{}-Stanite na stranu, molim!| -Slušaj, ona radi sa mnom, ona je u redu.
+{91048}{}-Ovde kontrolni punkt, Pozovite sigurnost odmah.| -Ja æu garantovati za nju, OK?! Ona radi sa mnom!
+{91219}{}-Izvinite.| -Džiiin!!!
+{91465}{}Oh, izvinite.
+{91516}{}-Hej, pazi!| -Oprostite.
+{91592}{}Ti!| Pomozi im sa tim!
+{91708}{}Nosimo to telo u zamrzivaè.
+{91776}{}Kažem ti, nekoliko ih je na slobodi.| I ako ne odemo odavde...
+{91891}{}Ne želim to da slušam!| Samo guraj, dobro?
+{92032}{}-Šta oni to dovraga rade?...|-Imali smo veæ proveru.
+{92111}{}Pa, izvuci to još jednom za šefa.
+{92293}{}Identifikacija.
+{92518}{}-Poruènièe ona je sa mnom.| -Da, gospodine.
+{92647}{}-Ovuda.| -Pusti me!
+{92683}{}-Upravo sam ti spasio život!| -Ti? Ti si me ostavio na entrotopiji mozga!
+{92787}{}Znam, znam, izvini.| Pokušavam to da zaustavim ali...
+{92918}{}Ti si stvarno snalažljiva za mladu devojku.| Probali smo sa ostalima ali...
+{93027}{}Oni nikad nisu uspeli da dospeju tako daleko.| Ali ti jesi.
+{93144}{}Imaš original?
+{93250}{}Evo. Sve je na njemu. Pokaži to svima...|Samo mi pomozi da izaðem odavde!
+{93362}{}-Želeo bih, da je tako jednostavno.| -Šta to radiš?! Treba mi to!
+{93494}{}Ono što treba napraviti|je pokazati ovaj video svetu. Razumeš?
+{93638}{}-Pojedi to.| -Jesi li lud?
+{93666}{}-Jedi. To je jedini naèin.| -Neæu pojesti memorijsku kartu!
+{93736}{}Slušaj Jean, nemam mnogo vremena. Ako ikad izaðeš odavde,|oni ti neæe dozvoliti da poneseš ovu karticu.
+{93870}{}Ali, ako je skrivena u tebi...
+{93942}{}Molim te, stavi je u usta.|Ako veruješ u nešto dovoljno jako...
+{94065}{}Ponekad moraš da se žrtvuješ.
+{94190}{}O, tu ste doktore.| Došli smo ovamo zbog vas.
+{94294}{}Pa, pronašli ste me.
+{94343}{}O èemu se radi?
+{94387}{}Poruènièe, ispratite dr Bookera do sobe za ispitivanje.
+{94535}{}Treba da mu postavim nekoliko pitanja.
+{94599}{}Posle vas...
+{95118}{}Major hoæe da proverimo svaku sobu.
+{95197}{}Tražimo odbeglu devojku|ili još nekog?
+{95273}{}I jedno i drugo.
+{95520}{}Znanstvena laboratorija
+{95924}{}-Izvinite, da li je još neko bio ovde?| -O ne, gospodine.
+{96018}{}O, moj mališa....
+{96077}{}Izvinite, što uznemiravamo,| ali tražimo odbeglu pacijentkinju.
+{96500}{}Skoro je vreme.
+{96554}{}Skoro je vreme.
+{97146}{}A sad treba da te oplodimo.
+{97411}{}Vreme je!
+{97501}{}Treba mi sperma.| I ne želim da omašiš.
+{97621}{}To bi mogao biti veliki, veliki, problem.
+{98120}{}Da, da.
+{98296}{}Budi tih.
+{98398}{}Budi tih ili æeš nadrljati.
+{98490}{}Budi tih ti glupi grabljivcu!
+{98563}{}Tišina!!!
+{98936}{}Znam ko si ti!
+{99003}{}Ja sam èetvrta klasa|a ti polaziš sa mnom.
+{99150}{}-Ne.| -Da, hoæeš!
+{100587}{}<- Dok br. 1          Dnevni boravak ->
+{100891}{}Mogu li da vam pomognem? Ooo...|Da... idi.
+{101009}{}Hej, hej...
+{101049}{}Gde ideš?| Kakav je to smrad?
+{101150}{}Zašto me ne ostaviš na miru?|Samo ti pravim nevolje.
+{101246}{}Zato što znam ko si.| I želim da ti pomognem.
+{101375}{}Dobro.| Moram naæi prijatelje.
+{101457}{}Koje prijatelje?
+{101486}{}Tamo su unutra. Tri pacijenta.
+{101545}{}Ne možemo iæi tamo. Èekaj.
+{101625}{}Otvaraj.
+{101667}{}Možete uæi.
+{101939}{}"Vi ulazite u narandžastu zonu|sa disfunkcionalnim pacijentima."
+{102119}{}Vidim, nabavila si|sebi plavu kartu.
+{102202}{}Autorizovano osoblje samo.
+{102294}{}O, izvinite.
+{102322}{}Možete iæi.
+{102505}{}Ne možemo izvesti nikog odavde.
+{102644}{}Dobro, naði i izvedi ljude.
+{102729}{}Draga.
+{102789}{}Hej, kako si...
+{102951}{}-O malena...|-O ne, ne. Ne dotièi je.
+{103012}{}Vidiš tu narandžastu narukvicu.| Ona može biti opasna.
+{103092}{}-O, da. Ona je pravo èudovište.| -Britney
+{103176}{}Britney draga.
+{103233}{}-Draga.| -Ostavi me na miru!
+{103286}{}-Slušaj.| -Ostavi nas sve na miru!
+{103347}{}Slušaj, došla sam tu da pomognem,| mogu izvesti tebe i Buda. Dobro?
+{103442}{}-Došla sam da vas vodim kuæi.| -Kuæi?
+{103531}{}Da. Seæaš se doma?| Èim otkrijemo kako...
+{103616}{}Todd.
+{103649}{}-Dragi.| -Šta treba da otkriješ...?
+{103706}{}Znam da nisi dobro, ali vodim te kuæi i biæe| sve bolje. OK?
+{103843}{}-Možemo li poæi?| -Mislim da trebamo poæi sada!
+{103956}{}Idemo kuæi!
+{104010}{}Mislim, da sam ti rekao da se ne zezaš|sa mentalnima.
+{104100}{}Imam posla sa ovim pacijentima.
+{104142}{}Ne više!
+{104311}{}Da, kuèko?
+{104459}{}To je bilo dovoljno jako, pederu. Možemo li sada poæi?
+{104500}{}Uzmi pištolj Todde.
+{104553}{}
+{104640}{}Ovi pacijenti ne mogu napustiti ovu prostoriju.
+{104699}{}Da, znala sam, da æe ova doæi.
+{104742}{}Ja ih vodim.
+{104791}{}To je medicinska kartica.|Oni su vojni zatvorenici.
+{104874}{}Mi imamo naredjenje da ih vodimo u laboratoriju|da ih testiramo na moguæe zarazne bolesti.
+{105030}{}Majore.
+{105054}{}-Da, molim?| -Proveri ih.
+{105128}{}Provereno.
+{105189}{}Vodi ih.
+{105244}{}Hvala.
+{105372}{}Rasporedite se!| Ti u centar.| Okružite ih!
+{105479}{}Svi pacijenti!| Poredjajte ih uza zid.
+{106105}{}Molim prestanite, ne više.
+{106553}{}Ne sviða mi se ovo mesto.
+{106811}{}-Znaš li gde idemo?| -Videla sam da ljudi iznose smeæe ovuda.
+{106878}{}Ona ne zna gde idemo!
+{107080}{}Šta je to?| Izvini.
+{107152}{}Zašto jednostavno ne izaðemo odavde!?
+{107272}{}Ne dotièi to!
+{107332}{}Nije nam dozvoljeno da ih povredimo!
+{107523}{}Mrzim ovo mesto!
+{107604}{}Vodi me odavde!
+{107690}{}Ajde draga. Idemo sad.
+{107811}{}Ajde.
+{107919}{}Tamo.
+{107957}{}Idi, idi...
+{108058}{}Mislim da idem bez kolica.
+{108103}{}Dragi?
+{108198}{}Preuzeæu ga. Idi dalje.
+{108878}{}Draga.| Koraèaj gore.
+{109288}{}Šta ti radiš?
+{109471}{}Voliš miris na mojoj odeæi?
+{109564}{}Uzmi!
+{109590}{}Dalje, dalje...
+{109741}{}Brzo!
+{110043}{}Jean.
+{110289}{}Britney!
+{110349}{}Britney!
+{110600}{}Britney!
+{110686}{}Hajde!
+{110756}{}Dobro si.
+{110911}{}Dobro si.
+{110959}{}-Sigurni smo sad.| -Sigurni?!
+{111027}{}Kako možemo biti sigurni!?
+{111101}{}Ne plaèi. Ne plaèi.|Otiæi æemo sad. Videæeš.
+{111201}{}O èemu to govoriš?
+{111278}{}Gde je on?
+{111313}{}-Gde je Todd?| -Pobegao.
+{111428}{}Oni su im zarobili seæanja.| Zarobili su im seæanja i oni su poludeli!
+{111537}{}-Ko?| -Oni!!!
+{111814}{}Moramo da izadjem odavde!| Mi moramo izaæi odavde! Gde je izlaz?! Tu?
+{111930}{}Ne znam, ne znam!| To nije moj odeljak!
+{112065}{}Moramo izaæi odavde, molim te.
+{112127}{}-Kršimo tolika pravila!| -Koja pravila?!
+{112192}{}-Ne želim te uvaliti u još veæe nevolje.| -Ovo mesto se raspada.
+{112305}{}Ovuda.
+{112497}{}"NAPUŠTATE ODELJAK ZA REHABILITACIJU I REGENERACIJU"
+{113235}{}Šta je?
+{113277}{}Šta nije u redu?
+{113341}{}Još sam na tom.| Još smo na tom.
+{113473}{}Šta?
+{113483}{}Oni rade zajedno.
+{113550}{}-O èemu govoriš?| -Armija radi sa vanzemaljcima.
+{113649}{}To nema smisla.
+{113724}{}Zar ne vidiš, cela bolnica| je na kosmièkom brodu!
+{113801}{}U redu. Saèekaj.
+{113840}{}Sve je u redu.
+{113875}{}Ja samo radim moj posao.| Ne znam ništa o celoj stvari.
+{113978}{}-Svo vreme si znao o tome?| -Da!
+{114075}{}A ti ne?
+{114162}{}Mislila sam, da sam na Zemlji| i da idem kuæi.
+{114284}{}Kuæi?
+{114350}{}Znaèi istina je što su govorili o tebi...
+{114414}{}da ti nikad nisu rekli.
+{114493}{}Šta si ti?
+{114520}{}Špijun?
+{114562}{}Nisam špijun.
+{114626}{}Jesi li sigurna?
+{114760}{}Ne znam o tome ništa više.
+{114873}{}Todde.
+{114897}{}Todde, molim te.
+{115204}{}Dobro je.
+{115359}{}Poljubi me još jednom.
+{115424}{}To je sve što æu pamtiti.
+{115483}{}-Tako mi je žao.| -Samo toliko...
+{115729}{}Ti, ne slušaš svoje lekare,|oni su videli što se dešava.
+{115867}{}"Treba da kontroliraš svoju glavu dok još možeš."
+{115985}{}Todde,| isprali su ti mozak.
+{116044}{}I meni su to radili ali možeš| sebi da pomogneš. Todde, molim te.
+{116120}{}Prestani me zvati Todd!
+{116258}{}O Bože!
+{116340}{}Tako je, sad znaš| sa èime imaš posla.
+{117610}{}Ne, ne...
+{117659}{}Ljudi trebaju ostati upakovani, ne otvaraj to.|Ne otvaraj to nikad.
+{117786}{}Zdravo malena.
+{117828}{}Ti si bila jedna od nas.| Da.
+{117897}{}Da te vidim.
+{117972}{}O da!
+{118045}{}Sad je vreme.
+{118082}{}Da malena.
+{118168}{}Spremna si.
+{118210}{}Imam nešto za|tebe. O da.
+{118310}{}Ovo æe te napraviti jednom od nas.
+{118367}{}Neæe te boleti.|Samo malo.
+{118434}{}Jedna od nas...
+{119857}{}Imaš pitanja?
+{119978}{}Ubio si Britney.
+{120027}{}Ne, ne, samo sam pucao, to je sve.
+{120085}{}Ubio si je.
+{120146}{}Nikog nisam ubio!
+{120305}{}Vidiš?
+{120443}{}Tu su svi tvoji| prijatelji, koje tražiš.
+{121013}{}Vidiš?
+{121130}{}Vidiš kako si zajebala?
+{121186}{}Neko te je konektovao na zadnji|deo glave i više se ne seæaš ko si stvarno.
+{121310}{}Misliš da si ona!
+{121369}{}Zar ne?!
+{121424}{}Žalosni komad mesa!
+{121549}{}To je ono što ti misliš!
+{121622}{}Znam ko sam!
+{121693}{}Ne tako kao ja.
+{121813}{}Da li stvarno znaš ko si?
+{121850}{}Da!
+{121929}{}Dokaži onda.
+{121975}{}Zbog tvoje cele smrdljive rase.
+{122054}{}Da li bi više voleo da budeš èovek?
+{123857}{}Mi nikad ne ubijamo pripadnike svoje vrste.
+{123934}{}Nikad.
+{123976}{}Svaki èovek, koga smo|ikad uzeli je još uvek živ.
+{124086}{}Ovde i u drugim mestima.|Nikad im ne uzimamo živote.
+{124216}{}A evo tebe, koja se oseæaš kao èovek.| Oseæaš se èak i kao oteta.
+{124362}{}Pa, koja je prva stvar, koju ti uèiniš?
+{124439}{}Ubistvo.
+{124494}{}Da li neko razume takvu èistoæu ljudskog razmišljanja?
+{124646}{}Šta æeš uèiniti?|Ubiæeš me?
+{124699}{}Takav je bio plan, da, ali ako to uèinimo,|nema naèina da te zamenimo.
+{124801}{}A nama treba tvoja kopija,| nazad na Zemlji.
+{124878}{}Pošto ništa nije ostalo da se izgradi,|probaæemo nešto drugo.
+{125002}{}Doktore Booker.
+{125048}{}Da?
+{125083}{}Vi ste zapoèeli èitav ovaj nered,|vi ga i poèistite.
+{125265}{}Približi se, Jean.
+{125310}{}Dakle, to je vaša tvorevina, doktore?
+{125383}{}Da.
+{125441}{}I u sakupljenim seæanjima| su bili blokirani nervi, uspešno?
+{125607}{}Pokušao sam. Da.
+{125651}{}Nema uspomena, nema društvenog života,| bez uspomena o rodjenju. Mora da se oseæa potpuno usamljena.
+{125856}{}Dr Booker, mislim da dugujete izvinjenje.
+{126055}{}Izvinite.
+{126127}{}Kako dirljivo. Uklonite blokadu.
+{126199}{}Ukloni!
+{126242}{}Uskoro æeš nam se pridružiti| i strah æe nestati.
+{126315}{}Kad se vratiš na Zemlju, u tvom ljudskom životu,|radiæeš svoj posao.
+{126495}{}Da li æu biti ono što jesam?
+{126539}{}Mrzim da ti kažem to, tebi ili bilo kome drugom.
+{126835}{}Vrati je nazad.
+{126870}{}Živu.
+{127040}{}Uhvatiæu je uskoro.
+{127165}{}Završi to doktore.
+{127215}{}Odmah.
+{127278}{}Stoj mirno.
+{127334}{}Osetiæeš kratak bol.
+{127569}{}Izvrsno.
+{127612}{}Hvala doktore.
+{127650}{}Znate, vi ste...
+{127705}{}dugo pravili...
+{127737}{}nevolje.
+{127817}{}Nisi trebala to da uradiš.
+{127852}{}-Uzgajamo još jednog. -A da li je stvarno|uklonio blokadu? Ako se samo pretvarao?
+{128110}{}Jean,|što su ovo?
+{128180}{}Slova.
+{128290}{}Brojevi.
+{128417}{}Sve zajedno.
+{128491}{}Spremna sam da služim..
+{128549}{}Uklonio je.
+{128610}{}Uzgoji nove zamene njenih prijatelja.| Hoæu ih sve na Zemlji do poslepodneva.
+{128735}{}Može biti obuèena u ono što nosi na sebi.
+{129885}{}Hej!
+{129926}{}Hej, ovamo!
+{129995}{}Hej, jeste li dobro?
+{130242}{}-Jeste li dobro tamo dole?| -Da, OK.
+{130305}{}Za nekoliko minuta stiže|spasilaèka ekipa.
+{130387}{}Ma, samo smo malo gladni i umorni.
+{130448}{}Naravno, dehidrirali ste, evo pijte.
+{130544}{}Znate, vi ste nešto kao nacionalni heroji.| Trajalo je tako dugo..
+{130659}{}Sigurno imate sjajnu prièu da isprièate.
+{130719}{}Želimo samo svojoj kuæi.
+{130756}{}Možda æete imati teškoæa da odete kuæi| jer su vam kuæe okružene TV reporterima.
+{130915}{}Pa, ako nemate ništa protiv, |mogu li vas ja prvi da pitam,|šta  se ustvari dogodilo?

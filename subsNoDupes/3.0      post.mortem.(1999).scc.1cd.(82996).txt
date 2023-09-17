@@ -1,0 +1,3073 @@
+1
+00:00:06,000 --> 00:00:12,074
+Подржите нас и постаните VIP члан да бисте уклонили све огласе са www.OpenSubtitles.org
+
+2
+00:00:45,967 --> 00:00:51,758
+POSTMORTEM
+
+3
+00:04:43,367 --> 00:04:44,925
+Bez krzna i bundi...
+
+4
+00:04:46,847 --> 00:04:49,202
+Bez japi-budala
+u otmenim odelcima
+
+5
+00:04:49,647 --> 00:04:52,878
+koji narucuju
+bezalkoholno pivo...
+
+6
+00:04:53,607 --> 00:04:55,598
+Meni je potreban samo bar.
+-Ovde to imas, Dzimi,
+
+7
+00:04:56,327 --> 00:05:01,685
+Prebrzo pijes.
+Napices se za trenutak.
+
+8
+00:05:03,887 --> 00:05:07,243
+Ne mogu nikoga da vidim
+ako sam trezan.
+
+9
+00:05:10,527 --> 00:05:11,721
+Jos jednu...
+
+10
+00:05:15,847 --> 00:05:20,318
+U vasoj knjizi me je najvise
+pogodio senzibilitet.
+
+11
+00:05:21,287 --> 00:05:24,085
+Ta dubina...
+
+12
+00:05:25,367 --> 00:05:32,239
+Tu je velicanstven detektiv
+koji je legenda u celom svetu
+
+13
+00:05:32,927 --> 00:05:36,397
+ne samo zbog nacina
+na koji resava zlocine,
+
+14
+00:05:38,047 --> 00:05:41,642
+vec i zbog svoje prirode,
+a opet, u knjizi pokazujete
+
+15
+00:05:42,367 --> 00:05:45,245
+veliku dozu saosecanja
+za ubicu koga on juri.
+
+16
+00:05:46,247 --> 00:05:48,966
+To je vise razumevanje
+nego saosecanje.
+
+17
+00:05:50,087 --> 00:05:53,284
+Nazovite to kako hocete,
+ali emocije su vrlo umesane.
+
+18
+00:05:53,967 --> 00:05:56,435
+To je naislo i na
+odredjene kritike.
+
+19
+00:05:58,407 --> 00:06:03,800
+Imamo najgoreg ubicu dece
+od onog tipa iz Atlante...
+
+20
+00:06:06,687 --> 00:06:09,406
+Vilijam Vilson.
+-Tako je.
+
+21
+00:06:10,327 --> 00:06:12,557
+Devet mladih zrtava.
+
+22
+00:06:13,127 --> 00:06:15,482
+A vi ste posvetili
+cela dva poglavlja
+
+23
+00:06:15,847 --> 00:06:19,157
+ubici Albertu Smitu,
+odnosno njegovom detinjstvu.
+
+24
+00:06:19,927 --> 00:06:22,043
+Njegovo detinjstvo
+je bilo pakleno.
+
+25
+00:06:23,647 --> 00:06:25,763
+To sam napisao da bi
+mogli da shvatite
+
+26
+00:06:26,047 --> 00:06:28,607
+njegovu iskrivljenu
+unutrasnju logiku.
+
+27
+00:06:28,887 --> 00:06:34,166
+Da, ali kao da se
+pojavljuje sazaljenje...
+
+28
+00:06:39,007 --> 00:06:42,283
+Da li ste procitali knjigu?
+lli nagadjate kao i proslih
+
+29
+00:06:42,607 --> 00:06:44,598
+pet idiota koji su me
+intervjuisali?
+
+30
+00:06:44,807 --> 00:06:46,638
+Uveravam vas da sam
+procitala svaku rec.
+
+31
+00:06:47,567 --> 00:06:50,764
+Knjiga je sjajna.
+Napravicemo pauzu
+
+32
+00:06:51,127 --> 00:06:53,766
+pa cemo se vratiti razgovoru
+sa Dzejmsom Mek Gregorom...
+
+33
+00:06:54,967 --> 00:06:58,926
+Ne, necete. -I njegovom
+bestseleru "Slom uma".
+
+34
+00:07:15,767 --> 00:07:16,882
+Zao mi je zbog onoga
+sto se dogodilo.
+
+35
+00:07:17,847 --> 00:07:19,963
+Hteo sam da se izvinim.
+
+36
+00:07:20,447 --> 00:07:26,795
+Mozda bi htela da dodjes?
+lmam lepu kucu.
+
+37
+00:07:27,447 --> 00:07:31,599
+Nisam imao vremena
+da je sredim...
+
+38
+00:07:35,447 --> 00:07:39,042
+Zaista? Volis da
+uredjujes kuce?
+
+39
+00:07:45,007 --> 00:07:47,726
+Koliko?
+-Dve funte.
+
+40
+00:07:55,607 --> 00:07:57,359
+Pa, sta kazes?
+
+41
+00:07:58,287 --> 00:08:01,996
+Nesto kasnije?
+Recimo, oko 22:00?
+
+42
+00:08:07,047 --> 00:08:09,766
+Voljena kcer
+Teodora i Dzoana,
+
+43
+00:08:10,847 --> 00:08:12,121
+sestra Polu,
+Karol i Bernadet...
+
+44
+00:08:12,727 --> 00:08:14,319
+Jezivo... Ne, ne ti!
+
+45
+00:08:14,607 --> 00:08:17,246
+Znaci, dogovorili smo se?
+Odlicno. Vidimo se...
+
+46
+00:09:04,007 --> 00:09:05,042
+Ostavi me na miru...
+
+47
+00:09:53,767 --> 00:09:55,166
+Bolje da krenem...
+-Ne...
+
+48
+00:09:58,887 --> 00:10:00,479
+Budalo pijana!
+
+49
+00:10:01,727 --> 00:10:03,365
+Zovi me kada se otreznis.
+
+50
+00:10:34,487 --> 00:10:36,079
+Zasto me ne zoves?
+Pisi mi ponekad.
+
+51
+00:10:49,247 --> 00:10:51,602
+Dragi tata, kako si?
+Napredujem u bejzbolu.
+
+52
+00:10:53,207 --> 00:10:55,437
+Zasto mi se ne javljas?
+Pisi mi. Volim te.
+
+53
+00:13:18,767 --> 00:13:22,726
+Lagano! Ruke ispred sebe,
+i ustanite polako.
+
+54
+00:13:23,927 --> 00:13:26,600
+Znate proceduru.
+Pretresi ga.
+
+55
+00:13:29,207 --> 00:13:31,437
+Reci cete mi
+sta se dogadja?
+
+56
+00:13:51,007 --> 00:13:53,521
+Razumem da ako si poznat
+u Kaliforniji mozes da se
+
+57
+00:13:54,727 --> 00:13:57,400
+izvuces sa ubistvom.
+Dobrodosao u Skotsku.
+
+58
+00:13:58,527 --> 00:14:00,722
+Mislis da te zakon ne kaci
+ako napises bestseler?
+
+59
+00:14:00,967 --> 00:14:05,324
+Dobro jutro.
+-Koliko si popio?
+
+60
+00:14:06,007 --> 00:14:08,475
+Je li moguce da se ne secas
+sta si sinoc uradio?
+
+61
+00:14:10,647 --> 00:14:11,966
+Uhapsite me.
+
+62
+00:14:15,487 --> 00:14:18,285
+Imamo oruzje kojim je
+izvrseno ubistvo, imamo krv...
+
+63
+00:14:22,447 --> 00:14:26,645
+Na tom nozu je moja krv
+od posekotine.
+
+64
+00:14:27,887 --> 00:14:30,276
+Na telu zrtve
+nema ogrebotina.
+
+65
+00:14:31,647 --> 00:14:34,525
+Mozda je pila sa Mek Gregorom
+i otrovala se.
+
+66
+00:14:36,127 --> 00:14:40,439
+To lici na samoubistvo.
+Znaci, slucaj je zavrsen.
+
+67
+00:14:41,367 --> 00:14:43,517
+Gubite se iz moje kuce,
+molim.
+
+68
+00:14:43,807 --> 00:14:45,763
+Da li je ovde sinoc
+bila neka devojka?
+
+69
+00:14:48,327 --> 00:14:49,476
+Da.
+
+70
+00:14:51,767 --> 00:14:53,803
+Bar mislim...
+-Mislis?
+
+71
+00:14:56,167 --> 00:14:57,725
+Skoro sam siguran da jeste.
+
+72
+00:14:59,087 --> 00:15:02,397
+Ovde pise:"Voljena kcer
+Teodora i Dzoane,
+
+73
+00:15:03,287 --> 00:15:06,563
+sestra Polu, Karol
+i Bernadet..."
+
+74
+00:15:06,887 --> 00:15:11,199
+Sta je to? Citulja?
+-Nemam pojma.
+
+75
+00:15:12,687 --> 00:15:15,963
+Kako ne znas?
+Hajde da pogledas telo.
+
+76
+00:15:16,927 --> 00:15:18,997
+Mozda ces se setiti.
+
+77
+00:15:23,407 --> 00:15:25,125
+Vodite me...
+
+78
+00:15:44,407 --> 00:15:47,956
+Nikad je nisam video.
+-Otkud ona u tvom dvoristu?
+
+79
+00:16:05,047 --> 00:16:09,040
+Nasli smo u tvojoj kuci
+krvavu citulju o devojci,
+
+80
+00:16:09,607 --> 00:16:15,398
+i nekako ta devojka
+zavrsi mrtva u tvojoj basti...
+
+81
+00:16:16,087 --> 00:16:18,123
+Recite mi da li to
+ima neki smisao?
+
+82
+00:16:25,327 --> 00:16:27,761
+Da li zelite da telefonirate,
+gospodine Mek Gregor?
+
+83
+00:16:28,607 --> 00:16:33,237
+Svom agentu, mozda...
+Advokatu, zeni...
+
+84
+00:16:39,887 --> 00:16:41,764
+Postoji jedan barmen
+koji brine o meni.
+
+85
+00:16:42,767 --> 00:16:45,235
+Mozemo da odemo tamo
+i popijemo par piva...
+
+86
+00:16:45,567 --> 00:16:48,639
+Mislim da sada nije
+situacija za to.
+
+87
+00:16:48,967 --> 00:16:51,800
+Hajde da jos jednom
+prodjemo kroz sve ovo.
+
+88
+00:16:52,167 --> 00:16:53,998
+Gospodine Mek Gregor,
+koliko dugo ste u Glazgovu?
+
+89
+00:16:55,727 --> 00:16:57,922
+Oko 6 meseci.
+-Zasto ste se preselili ovde?
+
+90
+00:16:59,287 --> 00:17:02,484
+Zbog klime.
+-Zaista?
+
+91
+00:17:03,847 --> 00:17:07,920
+Da li je vasa porodica odavde?
+-Da. Moj deda.
+
+92
+00:17:09,487 --> 00:17:11,682
+Hteo sam da ispitam
+svoje korene...
+
+93
+00:17:12,647 --> 00:17:14,126
+Trebao mi je mir i tisina.
+
+94
+00:17:17,007 --> 00:17:19,601
+Kada ste napustili posao
+u policiji pre 2 i po godine,
+
+95
+00:17:20,407 --> 00:17:23,558
+imali ste dijagnozu
+"klinicka depresija."
+
+96
+00:17:23,887 --> 00:17:26,196
+Rekli ste na sudu:
+"Um mi se raspukao.
+
+97
+00:17:26,487 --> 00:17:29,479
+Video sam jednu smrt previse.
+Hocu da se izvucem iz svega."
+
+98
+00:17:30,807 --> 00:17:33,719
+Lep citat... -Ovde ste
+vazili za heroja.
+
+99
+00:17:36,447 --> 00:17:37,516
+Celo nase odelenje je
+procitalo vasu knjigu.
+
+100
+00:17:39,527 --> 00:17:43,805
+Ja sam je procitala dva puta.
+-To je kompliment za pisca.
+
+101
+00:17:44,047 --> 00:17:47,278
+Kada smo culi da dolazite,
+svi smo bili uzbudjeni.
+
+102
+00:17:48,887 --> 00:17:51,321
+Nismo mogli da zamislimo
+da cete stvarno doci.
+
+103
+00:17:52,247 --> 00:17:55,159
+Jeste li zedni?
+Ja sam zedan.
+
+104
+00:18:00,287 --> 00:18:03,484
+Zasto je Smit tako naglasen?
+
+105
+00:18:07,207 --> 00:18:09,198
+Da li ste ikad videli
+unakazeno dete od 2 godine?
+
+106
+00:18:11,887 --> 00:18:14,685
+Niste, zar ne?
+Tako sam i mislio.
+
+107
+00:18:34,767 --> 00:18:37,281
+Imamo devojcin identitet.
+Linda Sims...
+
+108
+00:18:38,527 --> 00:18:42,759
+Otac joj je Teodor Sims,
+izvrsni menadzer lrske banke.
+
+109
+00:18:43,047 --> 00:18:45,515
+Sjajno... Novinari ce
+nas pojesti.
+
+110
+00:18:45,767 --> 00:18:47,997
+Imena na citulji se poklapaju.
+Teodor i Dzoana...
+
+111
+00:18:50,767 --> 00:18:52,644
+Nastavite...
+
+112
+00:19:23,327 --> 00:19:27,639
+Oci su umereno vlazne,
+sto je znak pocetka raspadanja.
+
+113
+00:19:27,847 --> 00:19:29,599
+Upravo je u drugom stadijumu
+mrtvacke ukocenosti.
+
+114
+00:19:30,847 --> 00:19:33,566
+Kada je ubijena?
+-Subota ujutro, rekao bih...
+
+115
+00:19:56,527 --> 00:20:00,759
+Neobicno je da ne postoji
+ni jedna povreda
+
+116
+00:20:01,767 --> 00:20:04,486
+osim uboda iglom i ovoga...
+-Sta je to?
+
+117
+00:20:04,767 --> 00:20:05,756
+Umetak za balsamovanje.
+
+118
+00:20:06,607 --> 00:20:07,756
+Posle smrti joj je
+izvucena sva krv.
+
+119
+00:20:08,767 --> 00:20:10,758
+Nema tragova
+seksualnog kontakta.
+
+120
+00:20:12,087 --> 00:20:13,759
+Telo nije osteceno
+na bilo koji nacin.
+
+121
+00:20:15,767 --> 00:20:17,564
+Potpuno je ocisceno.
+
+122
+00:20:19,247 --> 00:20:22,284
+Ne izgleda da je ovo
+delo nekog manijaka.
+
+123
+00:20:24,287 --> 00:20:27,006
+Potvrdjeno je da su na faksu
+nadjeni samo njegovi otisci.
+
+124
+00:20:28,047 --> 00:20:30,083
+To nije neobicno
+jer zivi sam.
+
+125
+00:20:30,887 --> 00:20:32,206
+Bilo je tesko naci vreme
+kada je faks stigao,
+
+126
+00:20:32,487 --> 00:20:37,197
+jer ga je traljavo iscepio.
+-18:43 u petak uvece.
+
+127
+00:20:39,407 --> 00:20:40,681
+Ko je poslednji zrtvu
+video zivu?
+
+128
+00:20:41,327 --> 00:20:44,125
+Njena sestra, Bernadet,
+je rekla da je oko 20:00
+
+129
+00:20:45,247 --> 00:20:46,999
+posla da se nadje s deckom.
+On je zvao oko 21:15
+
+130
+00:20:47,247 --> 00:20:50,000
+i rekao da se nije pojavila.
+-Jeste li proverili njega?
+
+131
+00:20:50,327 --> 00:20:52,761
+To je jedan miran momak.
+Zivi sa roditeljima.
+
+132
+00:20:54,607 --> 00:20:59,601
+Znaci, faks u 18:45,
+ubistvo izmedju 20:00 i 21:00...
+
+133
+00:20:59,847 --> 00:21:02,315
+Suvise kratko vreme
+da se isplanira ubistvo.
+
+134
+00:21:02,927 --> 00:21:05,441
+Gde je Mek Gregor bio izmedju
+20:00 i 21:00? -Kod kuce.
+
+135
+00:21:06,407 --> 00:21:08,318
+Narucio je veceru
+iz indijskog restorana.
+
+136
+00:21:10,687 --> 00:21:12,120
+Dostavljac je bio tamo
+oko 20:30.
+
+137
+00:21:12,967 --> 00:21:16,676
+Taj momak je rekao da je
+Mek Gregor bio veoma pijan
+
+138
+00:21:16,967 --> 00:21:21,358
+i da takav sigurno nije mogao
+da vozi do kuce Linde Sims.
+
+139
+00:21:22,207 --> 00:21:25,199
+Bio je i velikodusan.
+Dao mu je baksis od 20 funti.
+
+140
+00:21:25,567 --> 00:21:29,003
+Jedna dama mu je bila gost.
+Lokalna novinarka, Dzejn Dzon.
+
+141
+00:21:31,207 --> 00:21:33,801
+Rekla je da je bila tamo oko
+22:00 i da je otisla u ponoc.
+
+142
+00:21:34,727 --> 00:21:37,525
+Potvrdila je da on sigurno
+nije mogao da vozi.
+
+143
+00:21:42,967 --> 00:21:44,559
+Pustite ga...
+
+144
+00:22:12,767 --> 00:22:15,804
+Dzejms? Jesi li dobro?
+Policija kaze...
+
+145
+00:22:16,247 --> 00:22:20,320
+Ko je to?
+$-Dzejn Dzon.$
+
+146
+00:22:21,407 --> 00:22:23,523
+Zao mi je zbog svega.
+Sigurno su te gnjavili.
+
+147
+00:22:24,407 --> 00:22:29,276
+Ne, sve je u redu.
+Ako ti je potreban razgovor...
+
+148
+00:22:30,247 --> 00:22:32,761
+Zalim, sa intervjuima
+je gotovo.
+
+149
+00:23:10,487 --> 00:23:13,240
+Voljena kcer Henrija
+i sestra...
+
+150
+00:23:13,767 --> 00:23:17,476
+Upravo dobijam
+jos jednu citulju...
+
+151
+00:23:24,687 --> 00:23:28,123
+Osumnjiceni oslobodjen.
+Nema drugih osumnjicenih.
+
+152
+00:24:09,487 --> 00:24:11,159
+Praticemo Mek Gregorove pozive.
+
+153
+00:24:11,607 --> 00:24:13,199
+Faks je poslat sa nekog
+divljeg mobilnog broja.
+
+154
+00:24:16,287 --> 00:24:20,883
+Gvini? -Proveravam prijave
+nestalih osoba.
+
+155
+00:24:22,167 --> 00:24:25,364
+Do sada nista nije javljeno.
+-Kako da iskoristimo poruke?
+
+156
+00:24:27,327 --> 00:24:29,636
+Sumnjam da mozemo da
+damo oglas i napisemo:
+
+157
+00:24:30,247 --> 00:24:31,839
+"Ako vam je otac Henri,
+a sestra Heder, cuvajte se!
+
+158
+00:24:32,167 --> 00:24:37,366
+Mozete da budete ubijeni."
+-Zasto on to radi?
+
+159
+00:24:38,407 --> 00:24:39,920
+Bolesno kopile...
+
+160
+00:24:41,327 --> 00:24:44,319
+Zasto je izabrao Mek Gregora?
+-Jer je poznat.
+
+161
+00:24:46,167 --> 00:24:48,840
+Njegova knjiga je i stvorila
+ovog ubicu.
+
+162
+00:24:49,887 --> 00:24:53,277
+Inspirisala je nekoga
+na zlocin.
+
+163
+00:24:54,887 --> 00:24:58,197
+Kada je stigla ta poruka?
+-Pre 6 sati.
+
+164
+00:25:22,767 --> 00:25:24,166
+Ti si mi cuvar?
+-Tako je.
+
+165
+00:25:30,327 --> 00:25:31,521
+To telefon zvoni?
+-Ne.
+
+166
+00:25:34,407 --> 00:25:37,205
+Inspektor Balantajn rece
+da je moguce
+
+167
+00:25:38,127 --> 00:25:42,166
+da propustite neki poziv.
+-Dobro razmisljanje, jer idem.
+
+168
+00:25:43,767 --> 00:25:45,644
+Ne preturaj mi stvari.
+
+169
+00:26:04,127 --> 00:26:09,485
+Imam rezultat! Otac Henri,
+sestre Heder i Maren.
+
+170
+00:26:09,967 --> 00:26:12,765
+Seron Liget, poslednji put
+vidjena pre 3 dana.
+
+171
+00:26:13,927 --> 00:26:15,485
+Zivela je sama.
+
+172
+00:26:23,927 --> 00:26:26,361
+Imate li bezalkoholno pivo?
+
+173
+00:26:29,047 --> 00:26:31,083
+Zvuci osvezavajuce...
+
+174
+00:26:36,967 --> 00:26:41,643
+Platicu i njegovo...
+-Nije platio nedelju dana.
+
+175
+00:26:42,127 --> 00:26:47,884
+U redu je. -Skloni novac,
+to nije ni priblizno...
+
+176
+00:26:50,087 --> 00:26:54,399
+Ko si ti? -Dejvid Kori.
+Televizijski novinar...
+
+177
+00:26:56,807 --> 00:26:58,877
+Hoces da me zadivis,
+ili da me iznerviras?
+
+178
+00:27:00,167 --> 00:27:01,805
+Sta mislis o 50.000 funti?
+
+179
+00:27:03,807 --> 00:27:06,367
+Samo zelimo ekskluzivan
+intervju u vezi svega ovoga.
+
+180
+00:27:09,487 --> 00:27:14,641
+Ostavi me na miru. -Razmisli.
+To je odlicna prica!
+
+181
+00:27:16,127 --> 00:27:19,961
+Policajac gubi posao,
+porodicu, stize u Glazgov...
+
+182
+00:27:22,567 --> 00:27:23,966
+Pricaj sa mnom!
+
+183
+00:27:25,327 --> 00:27:29,923
+Osim toga, u istoj smo igri.
+-Mislis da je ovo igra?
+
+184
+00:27:32,407 --> 00:27:36,195
+Vi, kreteni iz tabloida se
+hranite ljudskom patnjom.
+
+185
+00:27:36,967 --> 00:27:39,162
+Serem se na vas, parazite.
+-Boze... pijan si!
+
+186
+00:27:41,767 --> 00:27:43,917
+Iznenadjenje!
+
+187
+00:27:45,007 --> 00:27:47,646
+Odoh, ovde pocinje da smrdi.
+-Mek Gregor...
+
+188
+00:27:52,327 --> 00:27:56,639
+Da ti zovem taksi?
+-Stavi i to na moj racun.
+
+189
+00:28:10,807 --> 00:28:12,320
+Sranje!
+
+190
+00:28:20,207 --> 00:28:22,038
+Drugacije je iznutra,
+zar ne, gospodine?
+
+191
+00:28:35,807 --> 00:28:40,562
+Koriju su usivali usnu.
+Jos uvek nisi optuzen...
+
+192
+00:28:44,167 --> 00:28:47,125
+Malo smo pregledali
+tvoj dosije.
+
+193
+00:28:48,207 --> 00:28:52,325
+Balantajns pokusava da
+utvrdi profil tog ubice.
+
+194
+00:28:53,327 --> 00:28:55,124
+To je mozda jedan od
+tvojih obozavalaca?
+
+195
+00:28:56,567 --> 00:28:58,683
+To je gubljenje vremena.
+-Ali treba ispitati.
+
+196
+00:28:59,607 --> 00:29:01,563
+Ako vi tako kazete...
+-Vi se ne bi umesali?
+
+197
+00:29:02,967 --> 00:29:03,797
+Zasto me to pitate?
+
+198
+00:29:06,407 --> 00:29:08,079
+Jutros smo nasli
+jos jednu zrtvu.
+
+199
+00:29:09,567 --> 00:29:11,762
+Voleli bismo da radite
+sa nama, kao savetnik.
+
+200
+00:29:13,847 --> 00:29:18,557
+Ne mogu to da radim.
+-Mislim da mozes, Dzejms.
+
+201
+00:29:19,167 --> 00:29:20,680
+Hajde...
+Prvo najvaznije stvari.
+
+202
+00:29:25,247 --> 00:29:28,523
+Na obe zrtve nema tragova
+seksualnog zlostavljanja.
+
+203
+00:29:29,287 --> 00:29:33,963
+Nema semena, pubicnih dlacica,
+niti bilo kakvih povreda.
+
+204
+00:29:36,167 --> 00:29:38,556
+Ubica je nosio rukavice
+i detaljno ocistio tela.
+
+205
+00:29:39,727 --> 00:29:42,366
+Zasto to?
+-Tip je cistunac...
+
+206
+00:29:42,927 --> 00:29:44,485
+Sluzokoza nosa pokazuje
+
+207
+00:29:44,807 --> 00:29:48,959
+da su obe zrtve
+prethodno uspavane.
+
+208
+00:29:50,207 --> 00:29:52,277
+Nacin samog ubistva
+je iznenadjujuc.
+
+209
+00:29:53,407 --> 00:29:54,635
+Nema ni jedne povrede.
+
+210
+00:29:55,807 --> 00:29:58,401
+Uzrok smrti je
+embolija pluca.
+
+211
+00:29:58,767 --> 00:30:01,759
+Uzrokovana je ubrizgavanjem
+kalijuma potkoznom iglom.
+
+212
+00:30:02,607 --> 00:30:05,405
+Krv je izvucena iz tela
+posle nastanka smrti.
+
+213
+00:30:06,527 --> 00:30:07,801
+Da vidimo...
+
+214
+00:30:17,167 --> 00:30:18,600
+Da, mrtva je...
+
+215
+00:30:32,287 --> 00:30:35,484
+Mozemo da trazimo
+po kreditnim karticama.
+
+216
+00:30:36,087 --> 00:30:37,361
+Ali ako taj tip koristi
+mobilni faks-modem,
+
+217
+00:30:38,007 --> 00:30:39,725
+ocigledno je da nece ostati
+zabelezen u kompjuteru.
+
+218
+00:30:40,207 --> 00:30:43,279
+On se prvo uveri da je
+kontakt s njim nemoguc.
+
+219
+00:30:43,887 --> 00:30:47,163
+Pregledala sam podatke,
+ali mi je potraga ogranicena.
+
+220
+00:30:57,487 --> 00:31:00,445
+Gospodine Mek Gregor,
+ja sam Teodor Sims.
+
+221
+00:31:02,527 --> 00:31:04,836
+Nadam se da ne smetam.
+-Nikako.
+
+222
+00:31:27,207 --> 00:31:29,198
+Mogu li da vam
+ponudim nesto? Pice?
+
+223
+00:31:34,007 --> 00:31:35,360
+Ocekivao sam
+da cete to pitati.
+
+224
+00:31:38,647 --> 00:31:42,083
+Moja kcer je trulila u vasoj
+basti dok ste se vi opijali.
+
+225
+00:31:45,047 --> 00:31:46,924
+Zaista zalim zbog toga
+sto se dogodilo.
+
+226
+00:31:49,367 --> 00:31:52,757
+Nisam mogao da je spasim.
+-Zavisi sa kim pricate...
+
+227
+00:31:55,327 --> 00:31:59,161
+Neki moji prijatelji su mi
+ispricali da je upozorenje
+
+228
+00:31:59,487 --> 00:32:02,445
+postojalo i da je policija
+mogla da spasi moju kcer.
+
+229
+00:32:09,407 --> 00:32:11,079
+Po vasem domu, zakljucujem
+da nemate dece.
+
+230
+00:32:15,207 --> 00:32:16,481
+To mozda nije moja stvar...
+
+231
+00:32:18,887 --> 00:32:23,244
+Ali da imate dete,
+dete koje ste izgubili...
+
+232
+00:32:26,847 --> 00:32:33,923
+Ucinili bi sve da ta zivotinja
+vise nikada ne udahne.
+
+233
+00:32:36,087 --> 00:32:38,920
+Radite sa policijom!
+Nadjite to cudoviste!
+
+234
+00:32:40,527 --> 00:32:42,358
+Ne dozvolite da jos neki otac
+prolazi kroz ovo.
+
+235
+00:34:07,807 --> 00:34:10,526
+Melani, sestra Franka
+i Gart...
+
+236
+00:36:40,567 --> 00:36:43,035
+Pronadjeno telo
+trece zrtve.
+
+237
+00:36:43,927 --> 00:36:45,326
+Samo to?
+
+238
+00:36:46,087 --> 00:36:49,841
+Hocete novine?
+-Da, i bocu "Glen Fidiha".
+
+239
+00:36:57,127 --> 00:36:59,561
+Bolesno kopile... Trebalo bi
+da ga neko uhvati.
+
+240
+00:37:03,527 --> 00:37:05,165
+Da, neko...
+
+241
+00:38:55,367 --> 00:38:56,402
+Isto kao sa Sims i Liget.
+
+242
+00:38:56,927 --> 00:38:59,236
+Istrazili smo poslednje dane
+Kejt Jurgen.
+
+243
+00:38:59,727 --> 00:39:03,117
+Nicega neobicnog,
+nicega sumnjivog,
+
+244
+00:39:05,687 --> 00:39:07,996
+nikakva veza izmedju
+tri zrtve. -Osim Mek Gregora.
+
+245
+00:39:08,527 --> 00:39:11,041
+Slicnost je sto su sve zrtve
+iz srednje klase.
+
+246
+00:39:11,847 --> 00:39:14,486
+Kada vidi devojku koja mu
+se svidi, on je uspava,
+
+247
+00:39:15,207 --> 00:39:17,767
+ubije, opere i ostavi.
+-Ali kako ih nalazi?
+
+248
+00:39:18,367 --> 00:39:20,961
+Znam da deluje nasumicno,
+ali mislim da nije tako.
+
+249
+00:39:21,847 --> 00:39:23,565
+Mozda je Mek Gregor kljuc?
+
+250
+00:39:25,007 --> 00:39:29,603
+Nesto iz Skotland Jarda?
+-Laboranti uskoro stizu.
+
+251
+00:39:32,687 --> 00:39:34,757
+Zvao sam FBI i CIA.
+
+252
+00:39:36,887 --> 00:39:39,685
+Oni vec celu stvar
+ispituju od pocetka.
+
+253
+00:39:40,207 --> 00:39:42,118
+Mozda je kljuc u nacinu
+na koji ih ubija.
+
+254
+00:39:42,687 --> 00:39:44,279
+To nije brutalno...
+U stvari, jeste ali...
+
+255
+00:39:45,127 --> 00:39:47,277
+Vise je hladnokrvan
+nego surov.
+
+256
+00:39:48,167 --> 00:39:50,123
+Kao da ne zeli da ih
+povredi ili zlostavlja.
+
+257
+00:39:50,847 --> 00:39:52,485
+Zasto je izabrao da to radi
+na taj nacin?
+
+258
+00:39:53,207 --> 00:39:55,243
+To nije stvar izbora.
+To je potreba.
+
+259
+00:40:08,527 --> 00:40:11,166
+Ne mislis valjda ozbiljno?
+-On je vec umesan.
+
+260
+00:40:11,847 --> 00:40:13,485
+On je pijanica.
+-Ako moze da pomogne...
+
+261
+00:40:13,687 --> 00:40:17,441
+On je obican pisac...
+-Pokusacu bilo sta.
+
+262
+00:40:18,487 --> 00:40:20,876
+Je li to naredjenje?
+Stavljas ga meni na vrat?
+
+263
+00:40:25,967 --> 00:40:30,518
+Ovo je oznaceno po zrtvama.
+Windows 95...
+
+264
+00:40:34,007 --> 00:40:35,326
+Mek Gregor...
+
+265
+00:40:37,367 --> 00:40:40,359
+Ucini da delujemo glupo.
+-To i planiram.
+
+266
+00:40:54,247 --> 00:41:00,686
+Tezi zenama iz visih slojeva,
+kojima je teze prici.
+
+267
+00:41:04,007 --> 00:41:06,157
+To nisu beskucnice,
+turistkinje ili prostitutke.
+
+268
+00:41:07,087 --> 00:41:09,521
+Veoma je precizan u svojim
+metodama jer je pametan.
+
+269
+00:41:11,207 --> 00:41:12,799
+Dobro planira svaki potez.
+
+270
+00:41:13,607 --> 00:41:14,483
+On zna njihove
+dnevne planove.
+
+271
+00:41:14,847 --> 00:41:19,716
+Kako bi drugacije znao
+kada da mi posalje citulju?
+
+272
+00:41:20,207 --> 00:41:21,686
+Reci mi nesto sto ne znam.
+
+273
+00:41:28,047 --> 00:41:32,279
+Treba da idemo ispred njega.
+-Kako mislis da to izvedes?
+
+274
+00:41:34,367 --> 00:41:36,403
+Ja sam ekspert za to.
+Pojavicu se na TV-u.
+
+275
+00:41:45,647 --> 00:41:49,401
+Ispraznjena i cista...
+Kao i sve prethodne.
+
+276
+00:41:50,207 --> 00:41:54,883
+Nema tragova vlakana,
+kao da je isisavao krv
+
+277
+00:41:56,007 --> 00:41:59,397
+u plasticne vrece, mozda...
+Ne znam.
+
+278
+00:42:00,687 --> 00:42:04,760
+Jedino sto sam nasao je ovo...
+
+279
+00:42:05,567 --> 00:42:07,558
+Sta je to?
+-Komad sundjera.
+
+280
+00:42:09,807 --> 00:42:12,685
+Ni pre ni posle smrti
+nije bilo penetracije.
+
+281
+00:42:20,407 --> 00:42:22,841
+Sluzokoza je ponovo
+nadrazena etrom? -Da.
+
+282
+00:42:23,847 --> 00:42:28,602
+Uspeo sam da nadjem
+neka vlakna u nozdrvama.
+
+283
+00:42:28,847 --> 00:42:33,159
+Gaza, vata... Kao da je
+dosta dugo udisala etar.
+
+284
+00:42:39,487 --> 00:42:40,840
+Ili je ubica uspavljivao
+vise puta...
+
+285
+00:42:44,447 --> 00:42:46,278
+Drzao ju je zivu,
+ali bez svesti.
+
+286
+00:42:46,887 --> 00:42:51,438
+To objasnjava vreme smrti.
+-To je vrlo moguce.
+
+287
+00:42:58,047 --> 00:42:59,844
+Treba mi uzorak tkiva odavde...
+
+288
+00:43:02,567 --> 00:43:05,559
+I odavde... i sa zadnjice.
+-Nema problema.
+
+289
+00:43:06,167 --> 00:43:09,045
+I hocu tacno da znam
+sta je ovo.
+
+290
+00:43:18,047 --> 00:43:20,959
+Slicnost zrtava je i ogledalo
+ubice kojeg trazimo.
+
+291
+00:43:21,967 --> 00:43:26,040
+Belac, 20-35 godina,
+obrazovan, visa srednja klasa.
+
+292
+00:43:27,407 --> 00:43:28,965
+Usamljenik je.
+
+293
+00:43:30,367 --> 00:43:32,801
+Poznaje biologiju,
+mozda medicinu...
+
+294
+00:43:34,407 --> 00:43:36,523
+To je ocigledno cim se
+pogledaju lesevi.
+
+295
+00:43:38,367 --> 00:43:40,403
+Nije ocigledno jer oni
+ne mogu da ti odgovore.
+
+296
+00:43:40,887 --> 00:43:43,765
+Ja cu pokusati da ih ubedim
+da progovore. -Bas smesno...
+
+297
+00:43:45,007 --> 00:43:47,965
+U Americi postoji problem
+sa nasilnim drogiranjem.
+
+298
+00:43:48,847 --> 00:43:50,200
+Kada tip sipa nesto
+devojci u pice...
+
+299
+00:43:51,727 --> 00:43:55,686
+To morate da radite tamo
+da bi potucali nesto?
+
+300
+00:43:56,247 --> 00:43:59,796
+Siguran sam da nema mnogo
+ludaka koji uzivaju u seksu
+
+301
+00:44:00,407 --> 00:44:02,796
+sa besvesnim partnerkama.
+Sta ih privlaci u tome?
+
+302
+00:44:04,407 --> 00:44:06,045
+Mislim na seks sa
+besvesnim partnerom...
+
+303
+00:44:06,767 --> 00:44:10,760
+Ne znam, Mek Gregor...
+Da pitamo tvoju bivsu zenu?
+
+304
+00:44:14,167 --> 00:44:17,523
+Ali ubica nije seksualno
+opstio sa zrtvama. -Znam.
+
+305
+00:44:17,927 --> 00:44:21,476
+Ali sta god da je radio,
+bila je to gadna alternativa.
+
+306
+00:44:22,247 --> 00:44:23,475
+Izvinite me...
+
+307
+00:44:35,727 --> 00:44:37,718
+Porodica Kejt Jurgen...
+
+308
+00:44:40,647 --> 00:44:44,401
+Da li ju je iko gnjavio?
+
+309
+00:44:46,647 --> 00:44:49,320
+Ona je bila jedna normalna
+i vredna devojka.
+
+310
+00:44:49,687 --> 00:44:52,724
+Nije imala ni momka. Otac
+joj je umro pre godinu dana.
+
+311
+00:44:53,167 --> 00:44:55,556
+To je bila jedna
+veoma teska godina...
+
+312
+00:44:58,767 --> 00:45:01,645
+Otac joj je umro
+pre godinu dana...
+
+313
+00:45:02,967 --> 00:45:05,401
+Mek Gregor, sta ako taj tip...
+-Ne sada, Voles...
+
+314
+00:45:05,767 --> 00:45:08,281
+Nadji mi Teodora Simsa.
+
+315
+00:45:30,167 --> 00:45:31,964
+Gospodin Sims na vezi...
+
+316
+00:45:35,647 --> 00:45:40,767
+Gospodine Sims, da li je
+u vasoj porodici, osim Linde,
+
+317
+00:45:41,727 --> 00:45:44,924
+jos neko skoro umro?
+
+318
+00:45:46,247 --> 00:45:50,206
+To je otac vase zene?
+Znam, zao mi je.
+
+319
+00:45:51,687 --> 00:45:54,121
+Da li ste objavili citulju?
+
+320
+00:45:57,807 --> 00:46:00,605
+Hvala, bicemo u kontaktu.
+
+321
+00:46:17,527 --> 00:46:20,121
+Deda Linde Sims je umro
+pre 7 meseci.
+
+322
+00:46:21,167 --> 00:46:23,886
+Sahranjen je u grobnici
+porodice Mek Kormik.
+
+323
+00:46:24,607 --> 00:46:26,359
+Ovo je kopija citulje
+iz "Glazgov tajmsa".
+
+324
+00:46:29,767 --> 00:46:31,439
+Ovo je majka Kejt Jurgen...
+
+325
+00:46:32,207 --> 00:46:34,596
+Njen otac je umro
+pre godinu dana.
+
+326
+00:46:35,127 --> 00:46:37,516
+To je bila teska
+godina za nas.
+
+327
+00:46:40,767 --> 00:46:42,246
+Baba Seron Liget je
+umrla proslog marta.
+
+328
+00:46:42,847 --> 00:46:44,997
+Ovo su kopije citulja
+iz lokalnih novina.
+
+329
+00:46:49,687 --> 00:46:52,360
+Citulje koje su meni poslate
+su skoro identicne ovima.
+
+330
+00:46:54,527 --> 00:46:58,520
+Karika koja nedostaje je
+mesto gde ih je video.
+
+331
+00:47:00,927 --> 00:47:03,236
+Na sahranama.
+-Upravo tako!
+
+332
+00:47:07,927 --> 00:47:10,202
+Nedostajaces mi, bako...
+
+333
+00:47:48,767 --> 00:47:53,045
+Izvinite, mozete li mi reci
+ko je Dorotin sin, Bil?
+
+334
+00:47:54,647 --> 00:47:58,276
+U prvom redu...
+-Ono je supruga, Barbra? -Da.
+
+335
+00:47:59,007 --> 00:48:03,683
+A ovo je njena kcer? -Ne.
+Ona, Beverli i Dzin su kceri
+
+336
+00:48:04,047 --> 00:48:08,006
+Dorotinog drugog sina, Martina
+i zene mu Elizabete.
+
+337
+00:48:08,807 --> 00:48:11,275
+Hvala, ponekad se zbunim...
+-Ovo jeste zbunjujuce.
+
+338
+00:48:26,007 --> 00:48:30,842
+Zdravo, Dorot... Beverli.
+-Izvinite, ne secam se...
+
+339
+00:48:31,807 --> 00:48:33,479
+Nekada sam radio
+u "Mekintos tekstilu".
+
+340
+00:48:34,647 --> 00:48:36,365
+Bilo mi je zao kada sam
+cuo za Doroti...
+
+341
+00:48:37,647 --> 00:48:41,481
+Moje saucesce...
+-Hvala sto ste dosli.
+
+342
+00:49:06,887 --> 00:49:08,115
+Mislio sam da je ovo
+kompjutersko doba!
+
+343
+00:49:09,167 --> 00:49:13,365
+Citulje se objavljuju u
+oglasima i nema ih u arhivi.
+
+344
+00:49:13,847 --> 00:49:15,326
+Moramo da nadjemo kopije
+svih novina u oblasti,
+
+345
+00:49:16,047 --> 00:49:18,322
+da ih skeniramo i stvorimo
+novu bazu podataka.
+
+346
+00:49:18,927 --> 00:49:20,838
+Dobicu glavobolju.
+-Volela bih da ti nadjem lek.
+
+347
+00:49:21,287 --> 00:49:23,642
+To funkcionise? -Delimicno.
+Ali ni jedan skener
+
+348
+00:49:23,887 --> 00:49:26,560
+nije potpuno pouzdan.
+"Dzon" se pojavi kao "Dzoan"...
+
+349
+00:49:27,687 --> 00:49:29,996
+Do tada ce "Dzonova" kcer
+da bude ubijena... -Tako je.
+
+350
+00:49:44,127 --> 00:49:46,925
+Nekrofilija?
+To je neki staro-grcki bog?
+
+351
+00:49:49,247 --> 00:49:50,680
+Salis se, zar ne?
+
+352
+00:49:52,567 --> 00:49:54,319
+Ne mogu ni da pijem...
+
+353
+00:49:58,487 --> 00:50:00,398
+Balantajn?
+$-Konacno! $
+
+354
+00:50:01,847 --> 00:50:04,884
+Gordi... $-Kao da se tamo
+dogadja nesto veliko?$
+
+355
+00:50:05,687 --> 00:50:07,837
+Tu je Dekster Pirs
+i ceka da se cujete.
+
+356
+00:50:08,047 --> 00:50:10,242
+Ne, Gordi...
+$-Zdravo, Mek Gregor.$
+
+357
+00:50:11,007 --> 00:50:12,963
+Ceo CNN je preplavljen
+vestima iz Glazgova
+
+358
+00:50:13,207 --> 00:50:16,517
+Imas srece, to je odlicna
+inspiracija za sledecu knjigu.
+
+359
+00:50:17,247 --> 00:50:19,078
+Ne mogu da pricam,
+u kolima sam.
+
+360
+00:50:21,247 --> 00:50:24,478
+Ulazim u tunel...
+Prekida mi se veza...
+
+361
+00:50:26,047 --> 00:50:28,117
+Bivsa zena?
+-Jos gore. Moj agent.
+
+362
+00:51:04,287 --> 00:51:07,916
+Nisam siguran u vezi ovoga...
+Kako tebi ovo izgleda?
+
+363
+00:51:09,407 --> 00:51:11,637
+Kao pogrebni zavod.
+
+364
+00:51:11,767 --> 00:51:15,316
+Meni lici na javnu kucu
+u Nevadi.
+
+365
+00:51:15,687 --> 00:51:17,598
+Nije cudno sto si
+otisao iz Amerike.
+
+366
+00:51:27,207 --> 00:51:29,721
+Jezim se od ovog mesta.
+-Ima nas dvojica.
+
+367
+00:51:31,807 --> 00:51:34,401
+Mora da je ovde...
+-Otvori.
+
+368
+00:51:36,327 --> 00:51:40,240
+Zasto ti ne otvoris?
+-Ti otvori... -Izvolite?
+
+369
+00:51:51,247 --> 00:51:54,080
+Ja sam inspektor Balantajn,
+ovo je moj kolega, Mek Gregor.
+
+370
+00:51:55,127 --> 00:51:57,436
+Vi ste Mek Kormik?
+-Da. Ovuda, gospodo...
+
+371
+00:52:02,087 --> 00:52:05,238
+Ovde je mala izlozba
+pogrebnih potrepstina.
+
+372
+00:52:06,607 --> 00:52:08,120
+Za mene je jos prerano.
+
+373
+00:52:10,207 --> 00:52:11,560
+Kako mogu da pomognem?
+
+374
+00:52:12,927 --> 00:52:18,923
+Istrazujemo ubistvo Linde Sims.
+Vi ste organizovali sahranu?
+
+375
+00:52:19,607 --> 00:52:22,360
+Da, porodica Sims koristi
+nase usluge generacijama.
+
+376
+00:52:24,087 --> 00:52:26,317
+Vi ste otpremili
+i njenog dedu? -Tako je.
+
+377
+00:52:28,847 --> 00:52:31,919
+Da li mozete da mi date
+imena svih zaposlenih
+
+378
+00:52:32,527 --> 00:52:35,041
+i posetilaca za vreme
+sahrane njenog dede?
+
+379
+00:52:37,047 --> 00:52:39,242
+To je bilo prosle godine,
+u novembru.
+
+380
+00:52:40,727 --> 00:52:43,685
+Proveravamo podatke
+svih u ovoj delatnosti.
+
+381
+00:52:46,527 --> 00:52:47,801
+Da li ste primetili
+neobicno ponasanje
+
+382
+00:52:48,367 --> 00:52:52,121
+kod nekoga od vasih radnika?
+-Ne, nisam.
+
+383
+00:52:54,087 --> 00:52:56,681
+Da li je neko otisao iz firme
+u poslednjih godinu dana?
+
+384
+00:52:58,167 --> 00:53:01,523
+Ne. Imam malo osoblja
+i nije bilo promena.
+
+385
+00:53:03,167 --> 00:53:05,920
+Da li se neko cudan
+pojavljivao na sluzbama?
+
+386
+00:53:08,647 --> 00:53:12,276
+Mnogo ljudi prolazi ovuda.
+Poznajem samo nekoliko.
+
+387
+00:53:15,927 --> 00:53:19,124
+Hvala na saradnji.
+Mozemo li sada da pogledamo
+
+388
+00:53:19,807 --> 00:53:25,086
+podatke o zaposlenima?
+-Naravno, donecu ih.
+
+389
+00:53:26,407 --> 00:53:28,716
+Ovo je za mene
+veoma uznemirujuce.
+
+390
+00:53:39,127 --> 00:53:41,004
+Ima li necega?
+-Recimo...
+
+391
+00:53:42,287 --> 00:53:45,518
+Mnoge je sahranio.
+Preko 9.000 pogreba.
+
+392
+00:53:55,847 --> 00:53:58,839
+Kako tebi ide? -U programu
+je mnogo gresaka.
+
+393
+00:54:00,087 --> 00:54:03,045
+Nadajmo se da ce taj kreten
+malo da se primiri.
+
+394
+00:54:03,447 --> 00:54:05,119
+Stiglo je jos nesto iz FBl.
+
+395
+00:54:06,567 --> 00:54:09,035
+To je sranje... Nista od toga
+ne mozemo da iskoristimo.
+
+396
+00:54:09,607 --> 00:54:10,960
+Mek Gregor nam je
+vec sve ispricao.
+
+397
+00:54:33,087 --> 00:54:35,760
+Roditelji Tomas i Meri!
+Sestre Karin i Nensi!
+
+398
+00:54:36,887 --> 00:54:39,196
+Trazimo citulju u kojoj
+su ova imena.
+
+399
+00:54:39,967 --> 00:54:41,286
+Trazicemo i kompjuterski
+i rucno!
+
+400
+00:54:47,127 --> 00:54:49,561
+Sjajno... Tomas i Meri.
+Ima ih na hiljade...
+
+401
+00:54:49,967 --> 00:54:53,926
+Trebace nam dva dana!
+-Ili vise.
+
+402
+00:54:58,887 --> 00:55:00,161
+Jebi ga!
+
+403
+00:55:34,967 --> 00:55:35,956
+Nasao sam!
+
+404
+00:55:37,167 --> 00:55:43,766
+Katrin Hiliard, sin Tomas,
+snaha Meri, unuci...
+
+405
+00:55:46,767 --> 00:55:48,564
+Imam ga. Tomas Hiliard,
+Lejk avenija 424.
+
+406
+00:55:49,527 --> 00:55:51,757
+Nema vozacku dozvolu,
+na istoj adresi je i Gejl...
+
+407
+00:55:54,407 --> 00:55:56,443
+Prekasno je...
+-Umukni, idiote!
+
+408
+00:56:05,727 --> 00:56:08,878
+Da, moja kcer je Gejl...
+Ona vise ne zivi ovde.
+
+409
+00:56:10,327 --> 00:56:14,479
+Tome, ko je to? -Policija.
+Traze Gejlinu adresu.
+
+410
+00:56:15,727 --> 00:56:17,445
+Zasto? Sta se desilo?
+
+411
+00:56:18,127 --> 00:56:19,765
+Sigurno joj je
+telefon bio iskljucen.
+
+412
+00:57:00,327 --> 00:57:02,716
+Ja sam inspektor Balantajn.
+Ne uzbudjujte se.
+
+413
+00:57:03,447 --> 00:57:04,766
+Samo bih vam postavio
+nekoliko pitanja, Gejl.
+
+414
+00:57:05,007 --> 00:57:08,044
+Ne, Gejl je moja cimerka.
+-Je li ona tu?
+
+415
+00:57:08,687 --> 00:57:11,326
+Ne, nije se vracala od sinoc.
+
+416
+00:57:14,407 --> 00:57:15,806
+Nesto nije u redu?
+
+417
+00:57:37,087 --> 00:57:39,806
+Gde je Mek Gregor?
+-Treba da stigne svaki cas.
+
+418
+00:57:45,327 --> 00:57:47,238
+Hoces da gricnes?
+
+419
+00:58:25,407 --> 00:58:26,760
+Kako je, Mek Gregor?
+
+420
+00:58:29,207 --> 00:58:33,837
+Ne mogu to da uradim.
+-Dobro, ako se tako osecas.
+
+421
+00:58:36,127 --> 00:58:38,083
+Ne mogu vise da podnesem
+da gledam ta lica.
+
+422
+00:58:40,247 --> 00:58:44,479
+Je li gore naci zrtvu,
+ili suociti se sa prosloscu?
+
+423
+00:58:48,807 --> 00:58:51,162
+Pre tri godine sam
+zalupio vrata Albertu Smitu.
+
+424
+00:58:53,287 --> 00:58:55,801
+Jos uvek ne mogu da isto
+gledam na ta svoja vrata.
+
+425
+00:58:56,567 --> 00:58:58,762
+Pa si odustao. Napustio
+prijatelje, porodicu...
+
+426
+00:59:02,007 --> 00:59:05,602
+Znas da si dobar u ovome.
+Nas odnos nije bitan.
+
+427
+00:59:08,127 --> 00:59:09,685
+I ja sam dao otkaz
+pre par godina.
+
+428
+00:59:10,967 --> 00:59:15,199
+Nisam se osecao bolje,
+naprotiv. Onda sam shvatio
+
+429
+00:59:16,887 --> 00:59:19,037
+da ljudi kao ti i ja ne treba
+da se osecaju dobro.
+
+430
+00:59:19,567 --> 00:59:22,604
+Mi ne zivimo u tom svetu.
+Iz nekog razloga,
+
+431
+00:59:22,887 --> 00:59:25,196
+Bog nas je poslao ovamo
+da radimo prljave poslove.
+
+432
+00:59:29,127 --> 00:59:33,006
+Treba mi tvoja pomoc, Dzimi.
+Hoces li mi pomoci?
+
+433
+00:59:56,727 --> 00:59:57,762
+Imam nesto za tebe...
+
+434
+00:59:59,567 --> 01:00:02,127
+Uzorci tkiva. Pogledaj
+laboratorijski izvestaj.
+
+435
+01:00:04,727 --> 01:00:07,480
+Nasao sam deo hirurskog
+sundjera sa nekom hemikalijom.
+
+436
+01:00:08,527 --> 01:00:10,245
+Mozda neki deterdzent.
+-Bar ih opere.
+
+437
+01:00:11,287 --> 01:00:12,845
+Napravi im frizuru
+i nasminka ih.
+
+438
+01:00:19,207 --> 01:00:21,243
+Osecam se kao pogrebnik.
+
+439
+01:00:25,447 --> 01:00:29,201
+Na tim uzorcima tkiva
+ima znoja.
+
+440
+01:00:29,527 --> 01:00:33,315
+Znoj sa njegovog tela...
+
+441
+01:00:40,407 --> 01:00:41,601
+On ih grli...
+
+442
+01:00:50,167 --> 01:00:51,919
+Sam je sa njom.
+
+443
+01:00:55,727 --> 01:00:56,955
+Priprema tu jadnicu
+
+444
+01:00:57,847 --> 01:01:00,202
+da bi zadovoljio
+svoje bolesne fantazije.
+
+445
+01:01:01,687 --> 01:01:03,359
+Zivi nu nekom
+tajnom skrovistu.
+
+446
+01:01:04,047 --> 01:01:06,402
+Tamo ih odvodi.
+
+447
+01:01:08,167 --> 01:01:11,443
+Tu je dovoljno prostrano
+da moze da se udje sa autom.
+
+448
+01:01:32,767 --> 01:01:37,158
+Lezi pored nje, grleci je
+i sa glavom na njenim grudima.
+
+449
+01:01:37,927 --> 01:01:41,158
+Kao sto bismo mi uradili
+sa normalnom zivom devojkom.
+
+450
+01:01:45,047 --> 01:01:47,003
+Onda mu je potrebna druga...
+
+451
+01:01:51,607 --> 01:01:52,517
+"Postedite me saputa...
+
+452
+01:01:55,967 --> 01:01:57,958
+Prijatelji koji dodju
+zure i odu....
+
+453
+01:02:02,327 --> 01:02:04,397
+Ceremonija pod svetlom lampe...
+
+454
+01:02:08,367 --> 01:02:09,846
+uvek stvara smrt."
+
+455
+01:03:10,687 --> 01:03:12,518
+Prva zrtva...
+Nestala osoba?
+
+456
+01:03:26,127 --> 01:03:28,641
+Roditelji Gordon i Sintija,
+sestra Margaret, brat Artur...
+
+457
+01:03:30,967 --> 01:03:32,286
+Treba da je nadjemo.
+
+458
+01:03:34,887 --> 01:03:36,605
+Znam da zelite da je spasite.
+I ja to zelim.
+
+459
+01:03:37,807 --> 01:03:41,117
+Ovo je prilika da ga uhvatimo.
+-Necu da je koristim kao mamac.
+
+460
+01:03:42,127 --> 01:03:44,766
+Ne zna da smo otvorili prozor.
+Kada sazna, bice zatvoren.
+
+461
+01:03:47,767 --> 01:03:51,077
+Citulja je od 4. aprila.
+Vanesa Miler...
+
+462
+01:03:52,247 --> 01:03:55,045
+Sin Gordon, unuci Artur,
+Seril i Margaret.
+
+463
+01:03:57,487 --> 01:03:58,840
+Pokusacu da nadjem
+Seril Miler...
+
+464
+01:04:00,567 --> 01:04:02,046
+U Glazgovu ih ima sest...
+
+465
+01:04:04,407 --> 01:04:06,796
+Godina rodjenja 1953.
+45 godina...
+
+466
+01:04:08,407 --> 01:04:11,205
+1948, 1962...
+
+467
+01:04:13,367 --> 01:04:17,599
+Godina rodjenja 1978. To je.
+Roditelji Gordon i Sintija.
+
+468
+01:04:18,687 --> 01:04:20,723
+Imaju istu adresu.
+Zivi sa majkom...
+
+469
+01:04:22,647 --> 01:04:25,480
+Pazi da se ne uspanice.
+Samo saznaj gde je.
+
+470
+01:04:26,887 --> 01:04:30,562
+Gospodjo Miler...
+Da li je Seril tu?
+
+471
+01:04:32,167 --> 01:04:33,759
+Treba da pricam s njom...
+
+472
+01:04:34,567 --> 01:04:36,159
+Dogovarali smo se nesto
+za sutra uvece...
+
+473
+01:04:39,047 --> 01:04:41,242
+Imate li broj? Zaboravila sam
+torbicu u kolima...
+
+474
+01:04:42,767 --> 01:04:44,439
+Zovem iz govornice.
+
+475
+01:04:46,767 --> 01:04:48,405
+Mnogo hvala, gospodjo.
+
+476
+01:04:57,087 --> 01:04:57,997
+Ja cu...
+
+477
+01:05:04,447 --> 01:05:08,156
+Izvolite? -Mozete li mi reci
+vasu adresu?
+
+478
+01:05:10,007 --> 01:05:11,725
+Znaci, prodavnica
+na glavnoj stanici...
+
+479
+01:05:13,927 --> 01:05:16,077
+Mogu li odmah da dodjem?
+
+480
+01:05:18,967 --> 01:05:21,117
+Kako se vi zovete?
+-Seril Miler.
+
+481
+01:05:22,687 --> 01:05:26,600
+Da, bicu ovde do 19:30.
+-Hvala, doci cu uskoro.
+
+482
+01:05:36,607 --> 01:05:39,804
+Imas sastanak veceras?
+-Da. Sa Dzonijem Hobotnicom.
+
+483
+01:05:40,727 --> 01:05:44,083
+Molim? -Gospodin Ruke...
+-Slobodna si... -Sigurni ste?
+
+484
+01:05:44,687 --> 01:05:46,518
+Pa, nema mnogo posla.
+-Mnogo vam hvala.
+
+485
+01:05:47,087 --> 01:05:48,361
+Lepo se provedi!
+-Vidimo se sutra.
+
+486
+01:06:19,407 --> 01:06:21,398
+Nemoj da ucinis nesto
+sto ja ne bih ucinila!
+
+487
+01:06:46,047 --> 01:06:49,039
+Gde je Seril Miler?
+-Pustila sam je ranije.
+
+488
+01:06:49,767 --> 01:06:52,804
+Otisla je pre minut.
+Mora da je u blizini.
+
+489
+01:06:59,967 --> 01:07:00,877
+Sta se dogadja?
+-Gde je otisla?
+
+490
+01:07:02,527 --> 01:07:04,358
+Brze cete je stici
+ako krenete ovuda...
+
+491
+01:07:23,047 --> 01:07:24,446
+Hajde, Seril...
+
+492
+01:07:25,767 --> 01:07:26,961
+Hocu da ti pokazem nesto
+u mojim kolima.
+
+493
+01:08:19,847 --> 01:08:20,836
+Ja sam inspektor Balantajn.
+
+494
+01:08:43,487 --> 01:08:44,920
+Gde si se parkirala?
+-Tamo...
+
+495
+01:08:54,167 --> 01:08:56,761
+To ti je prijatelj?
+-Da.
+
+496
+01:09:02,367 --> 01:09:04,085
+To mi je prijatelj...
+-Koliko dugo ga znas?
+
+497
+01:09:07,487 --> 01:09:08,237
+Godinama...
+
+498
+01:09:10,527 --> 01:09:13,166
+Poznajem ga godinama...
+
+499
+01:11:23,167 --> 01:11:26,364
+To je ubica!
+
+500
+01:12:59,087 --> 01:13:01,317
+Otac Henri,
+sestre Heder i Marin.
+
+501
+01:13:11,567 --> 01:13:14,001
+Otac Teodor,
+majka Dzoana...
+
+502
+01:13:16,767 --> 01:13:18,803
+Roditelji Tomas i Meri...
+
+503
+01:13:43,967 --> 01:13:45,241
+Ovo je upravo stiglo.
+
+504
+01:13:46,207 --> 01:13:47,765
+Sestra... Kcer...
+Unuka...
+
+505
+01:14:14,887 --> 01:14:16,923
+Prva zrtva...
+Nestale osobe?
+
+506
+01:14:27,687 --> 01:14:29,723
+Koliko treba vramena
+da se dobije spisak
+
+507
+01:14:30,287 --> 01:14:32,084
+nestalih devojaka
+u poslednje dve godine?
+
+508
+01:14:33,727 --> 01:14:35,285
+Deni je to juce trazio.
+
+509
+01:14:39,767 --> 01:14:42,406
+To je sve? -Rekao mi je
+da izuzmem one koje
+
+510
+01:14:42,807 --> 01:14:45,924
+nisu iz vise srednje klase.
+Prostitutke, beskucnice...
+
+511
+01:14:46,167 --> 01:14:48,522
+Samo profil ranijih zrtvi...
+-Da. Samo ove tri odgovaraju.
+
+512
+01:14:49,527 --> 01:14:53,236
+Tu necega ima... Proverila sam
+jos 4 godine unazad
+
+513
+01:14:53,967 --> 01:14:55,400
+i nasla samo jednu devojku.
+Otac joj je neki upravnik,
+
+514
+01:14:55,647 --> 01:14:57,638
+ali je ona bila narkoman.
+Upucena je na lecenje.
+
+515
+01:14:58,767 --> 01:15:01,122
+To pocinje pre dve godine.
+Tada su lepe devojke
+
+516
+01:15:01,807 --> 01:15:03,320
+iz srednje klase
+pocele da nestaju.
+
+517
+01:15:03,927 --> 01:15:05,076
+Pocelo je pre dve godine...
+
+518
+01:15:10,047 --> 01:15:11,878
+To je prva devojka...
+
+519
+01:15:13,007 --> 01:15:15,157
+Kopile je pocelo
+u prihvatilistu...
+
+520
+01:15:17,647 --> 01:15:20,161
+Onda je prva ova...
+Meri Dovni.
+
+521
+01:15:29,167 --> 01:15:31,840
+Gospodine Dovni?
+Ovde inspektor Tarner.
+
+522
+01:15:32,887 --> 01:15:35,959
+Zalim sto nemamo dobrih vesti,
+ali imam jedno pitanje.
+
+523
+01:15:37,327 --> 01:15:39,522
+Da li je pre nestanka vase
+kceri neko u porodici umro?
+
+524
+01:15:41,247 --> 01:15:42,965
+Pitanje jeste cudno,
+ali je vazno.
+
+525
+01:15:44,047 --> 01:15:46,481
+Nemate druge dece?
+A neko od roditelja?
+
+526
+01:15:48,807 --> 01:15:50,240
+A kada se to dogodilo?
+
+527
+01:15:51,087 --> 01:15:54,363
+2 meseca pre nestanka...
+Hvala vam.
+
+528
+01:15:56,407 --> 01:16:00,480
+2 meseca, 13 novembar,
+pogrebni zavod Statler.
+
+529
+01:16:01,687 --> 01:16:03,564
+Daj mi podatke
+pogrebnog zavoda Statler.
+
+530
+01:16:08,127 --> 01:16:10,800
+Kada?
+
+531
+01:16:13,247 --> 01:16:15,556
+Promenio je posao 1985.
+-Poceo je samostalan posao...
+
+532
+01:16:16,487 --> 01:16:20,605
+Evo stare adrese...
+-Idem tamo.
+
+533
+01:16:21,247 --> 01:16:23,078
+Nadji mi sve o Statleru
+i njegovim bivsim radnicima.
+
+534
+01:16:23,727 --> 01:16:25,126
+Mek Gregor, da popricamo...
+
+535
+01:16:32,367 --> 01:16:34,437
+Upravo sam razgovarao
+sa sefom policije.
+
+536
+01:16:35,847 --> 01:16:38,156
+Moramo da prekinemo
+sa ovim poslom.
+
+537
+01:16:40,447 --> 01:16:42,483
+Situacija je potpuno nova.
+Taj tip je ubio policajca.
+
+538
+01:16:43,367 --> 01:16:46,006
+Ako ne postupim kako kazu,
+bicu obezbedjenje na utakmicama.
+
+539
+01:16:46,407 --> 01:16:48,398
+Imam nove podatke...
+-Treba nam nova taktika.
+
+540
+01:16:49,207 --> 01:16:51,243
+Skupicu dovoljno ljudi
+da nadgledam ceo grad.
+
+541
+01:16:51,887 --> 01:16:54,037
+Policajci van duznosti
+se dobrovoljno javljaju.
+
+542
+01:16:54,767 --> 01:16:57,406
+Okupicu sve koje mogu.
+Imam odlican trag!
+
+543
+01:16:57,927 --> 01:16:59,440
+Zao mi je, ti ispadas.
+
+544
+01:17:15,767 --> 01:17:17,519
+Bicemo u kontaktu.
+
+545
+01:18:18,767 --> 01:18:20,280
+Moraces da nadjes drugoga.
+Ovo ne radi vec 6 meseci.
+
+546
+01:18:22,127 --> 01:18:23,685
+Tip ga je prodao nekom
+trgovackom centru.
+
+547
+01:18:26,087 --> 01:18:27,315
+Nekada sam radio ovde.
+
+548
+01:18:30,767 --> 01:18:34,442
+Onda sigurno poznajes Statlere.
+-Kao i sve druge.
+
+549
+01:18:36,527 --> 01:18:38,518
+Znas li gde su sad?
+-Ne.
+
+550
+01:18:40,767 --> 01:18:45,557
+Matori je prodao ovo mesto
+gospodinu Daglasu.
+
+551
+01:18:46,127 --> 01:18:49,358
+On je neki urbanista.
+To je tako glupa stvar...
+
+552
+01:18:53,487 --> 01:18:54,715
+Znas li gde mogu
+da ga nadjem?
+
+553
+01:18:57,407 --> 01:19:00,160
+Kuca mu je na uglu ulica
+Sveti Endrju i Cesna.
+
+554
+01:19:01,967 --> 01:19:05,562
+Cija kuca?
+-Gospodina Statlera.
+
+555
+01:19:06,567 --> 01:19:09,035
+Postoji Dzordz Stariji
+i Dzordz Mladji.
+
+556
+01:19:11,167 --> 01:19:12,998
+Ne mogu da se setim
+imena najmladje kceri...
+
+557
+01:19:15,367 --> 01:19:16,766
+Koliko ima godina
+Dzordz Mladji?
+
+558
+01:19:18,727 --> 01:19:27,078
+Tridesetak...
+-Kakav je tip? -Kakav?
+
+559
+01:19:30,007 --> 01:19:32,282
+Veoma cudan...
+
+560
+01:19:35,927 --> 01:19:39,681
+Uzmi... -Hvala.
+Ti si dobar lik.
+
+561
+01:20:13,567 --> 01:20:17,196
+Treba da idem.
+Dodji...
+
+562
+01:20:26,487 --> 01:20:28,796
+Laboratorija se zatvara
+oko 19:30. Doci cu po tebe.
+
+563
+01:20:29,567 --> 01:20:30,522
+U redu.
+
+564
+01:20:37,047 --> 01:20:38,400
+Moram da krenem...
+-Ostavices me samu?
+
+565
+01:20:42,167 --> 01:20:43,122
+Dodji...
+
+566
+01:20:49,767 --> 01:20:50,916
+Volim te.
+
+567
+01:21:21,047 --> 01:21:22,605
+Sve je u redu...
+
+568
+01:22:18,367 --> 01:22:22,485
+Da?
+-Gospodin Statler?
+
+569
+01:22:22,767 --> 01:22:24,962
+Nisam video sina
+vec dve godine.
+
+570
+01:22:26,287 --> 01:22:28,801
+Malo ste razocarani?
+-Da.
+
+571
+01:22:30,967 --> 01:22:32,844
+Kada sam resio da se
+penzionisem pre tri godine,
+
+572
+01:22:33,687 --> 01:22:36,121
+bilo je ocigledno da moram
+da zatvorim svoju firmu.
+
+573
+01:22:36,807 --> 01:22:41,927
+Zasto? -Moj sin nikada nije
+imao tu crtu, ako razumete.
+
+574
+01:22:42,767 --> 01:22:45,440
+Na zalost, ne razumem.
+-Pokusacu da objasnim.
+
+575
+01:22:46,207 --> 01:22:49,279
+Dzordz je uvek bio usamljenik.
+Povucen momak.
+
+576
+01:22:50,807 --> 01:22:52,160
+Posebno posle smrti
+njegove majke.
+
+577
+01:22:53,367 --> 01:22:55,164
+Imao je osam godina.
+
+578
+01:22:56,607 --> 01:22:59,724
+Bio je vredan,
+imao smisla za posao...
+
+579
+01:23:01,047 --> 01:23:03,845
+Ali mu je uvek nedostajao
+dar za kontakt s ljudima.
+
+580
+01:23:06,207 --> 01:23:10,405
+Znate li gde bih mogao
+da ga nadjem? -Ne.
+
+581
+01:23:11,287 --> 01:23:13,243
+Znate li mozda
+na koja mesta odlazi?
+
+582
+01:23:14,727 --> 01:23:17,958
+Dzordz je ljut na mene
+jer mu nisam predao posao.
+
+583
+01:23:18,287 --> 01:23:21,996
+Siguran sam da je zbrinut,
+ali to je verovatno nevazno.
+
+584
+01:23:23,327 --> 01:23:24,760
+Da nije sa svojom sestrom?
+
+585
+01:23:29,287 --> 01:23:30,720
+Gde vam je kcer?
+
+586
+01:23:32,687 --> 01:23:37,715
+Ona je u dusevnoj bolnici.
+-Gde? -U Dunbartonu.
+
+587
+01:23:38,767 --> 01:23:40,644
+Bolnica Santino.
+
+588
+01:23:41,327 --> 01:23:43,318
+Ali sam siguran da on
+ne bi otisao tamo.
+
+589
+01:23:45,807 --> 01:23:49,516
+Da li ste kod vaseg sina
+primetili nesto neobicno?
+
+590
+01:23:54,847 --> 01:23:57,884
+Hrist je rekao:"Neka mrtvi
+sahranjuju mrtve."
+
+591
+01:23:58,807 --> 01:24:00,684
+Na zalost, to tako
+ne funkcionise.
+
+592
+01:24:01,967 --> 01:24:05,323
+Ljudi su po prirodi radoznali,
+mozda cak i sumnjicavi,
+
+593
+01:24:06,207 --> 01:24:12,316
+kada se radi o mom poslu.
+Zar nije zanimljiv paradoks
+
+594
+01:24:13,727 --> 01:24:17,959
+da je u trenutku smrti
+radoznalost po strani?
+
+595
+01:24:19,327 --> 01:24:21,761
+A ja postajem
+stub zajednice.
+
+596
+01:24:25,887 --> 01:24:30,039
+Nisam pitao za vas.
+Pitao sam za vaseg sina.
+
+597
+01:24:31,687 --> 01:24:32,597
+Nista neobicno...
+
+598
+01:26:02,767 --> 01:26:04,758
+Olivija...
+
+599
+01:26:21,207 --> 01:26:22,845
+Razgovarao bih o Dzordzu.
+
+600
+01:26:26,047 --> 01:26:27,446
+Moram da ga nadjem.
+
+601
+01:28:44,167 --> 01:28:45,202
+Ko si ti?
+
+602
+01:28:48,687 --> 01:28:50,917
+Uskoro ces razumeti.
+
+603
+01:29:28,407 --> 01:29:30,921
+Olivija je zivela sa bakom dok
+ova nije umrla pre 2 godine.
+
+604
+01:29:31,847 --> 01:29:34,486
+Ovde je od tada.
+-Sta je s njenim ocem?
+
+605
+01:29:35,127 --> 01:29:38,119
+Ne zeli da ima ista s njom.
+Nikada je nije posetio.
+
+606
+01:29:39,927 --> 01:29:42,725
+A brat Dzordz?
+-Ne bih rekla.
+
+607
+01:29:43,527 --> 01:29:46,997
+Koliko znam, niko je
+nije posetio. -Tuzno...
+
+608
+01:29:47,887 --> 01:29:51,675
+Ali uobicajeno. Ljudi zele da
+iskljuce neprijatnosti zivota.
+
+609
+01:29:55,647 --> 01:29:57,080
+Bar ste vi ovde...
+
+610
+01:29:58,887 --> 01:30:00,639
+Neko mora da bude...
+
+611
+01:32:48,167 --> 01:32:49,077
+Sta se dogadja?
+
+612
+01:32:56,327 --> 01:32:58,124
+San i smrt...
+
+613
+01:33:00,047 --> 01:33:01,321
+Blizanci u slepoj trci...
+
+614
+01:33:03,167 --> 01:33:06,557
+Velike brzine
+ali tihog pokreta...
+
+615
+01:33:10,167 --> 01:33:11,122
+Gde sam?
+
+616
+01:33:55,767 --> 01:33:57,246
+San je smrt.
+
+617
+01:33:58,687 --> 01:34:01,281
+Spavanjem pokusavamo
+da shvatimo umiranje.
+
+618
+01:34:18,247 --> 01:34:22,559
+To me nezno vodi
+do mog groba, kao u postelju.
+
+619
+01:34:27,127 --> 01:34:31,279
+Da ima razlike,
+sta bi snovi ucinili od mene?
+
+620
+01:34:52,767 --> 01:34:54,678
+San posle teskog rada...
+
+621
+01:34:56,247 --> 01:34:58,841
+Luka posle uzburkanog mora.
+-Sta se dogadja?
+
+622
+01:35:01,207 --> 01:35:03,675
+Ne, molim te... -To ste vi,
+gospodine Mek Gregor?
+
+623
+01:35:14,607 --> 01:35:17,075
+Ne radi to, Dzordze.
+Molim te.
+
+624
+01:35:24,927 --> 01:35:26,599
+Jos jedno neuspesno spasavanje?
+
+625
+01:35:28,847 --> 01:35:30,883
+Kao decak u vasem
+poslednjem slucaju?
+
+626
+01:35:33,687 --> 01:35:35,518
+Sigurno je to bila
+velika potera.
+
+627
+01:35:39,127 --> 01:35:41,004
+Tako je lepa, zar ne?
+
+628
+01:35:43,207 --> 01:35:45,084
+Uskoro ce biti savrsena.
+
+629
+01:35:49,567 --> 01:35:50,761
+Drago mi je da ste tu.
+
+630
+01:35:52,567 --> 01:35:54,603
+Konacno neko ko razume.
+
+631
+01:35:58,767 --> 01:36:03,921
+Smrt je tako velicanstven
+deo zivota. -Kako, Dzordzi?
+
+632
+01:36:06,887 --> 01:36:09,037
+Dzordzi?
+
+633
+01:36:10,807 --> 01:36:12,684
+Neko je razgovarao
+s mojim ocem...
+
+634
+01:36:16,567 --> 01:36:20,719
+Ona je tako lep les
+za izlozbu.
+
+635
+01:36:25,727 --> 01:36:27,638
+Moj otac... profesionalac.
+
+636
+01:36:28,847 --> 01:36:30,838
+Je li vam rekao
+da je stub zajednice?
+
+637
+01:36:33,127 --> 01:36:34,480
+Tako je rekao.
+
+638
+01:36:35,407 --> 01:36:38,843
+Umeo je da kaze i da
+mrtvi sahranjuju mrtve.
+
+639
+01:36:41,727 --> 01:36:45,959
+Ali nije razumeo.
+Nije mi ostavio posao!
+
+640
+01:36:49,727 --> 01:36:51,763
+Oduzeo mi je zivot!
+
+641
+01:36:57,287 --> 01:37:00,484
+Onda, neka mrtvi
+sahranjuju mrtve...
+
+642
+01:37:05,327 --> 01:37:09,240
+Niko ne mora da umre.
+
+643
+01:37:10,305 --> 01:38:10,606
+Молимо вас да оцените овај титл на www.osdb.link/9aq98
+Помозите другим корисницима да изаберу најбоље титлове

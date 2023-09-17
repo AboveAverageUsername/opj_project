@@ -1,0 +1,696 @@
+{1}{1}25.000
+{26}{176}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{1301}{1421}{C:$0000FF}{y:ib} KOCKAR |{C:$FF0000}{y:b} I BLUDNICA 
+{3046}{3089}Prokletstvo, rekao sam ti.
+{3216}{3256}Misliö da sam glup.
+{3309}{3381}To sam i rekao, öestorica.
+{4419}{4491}SHEEHANOVA KR»MA I HOTEL
+{6940}{6970}Dobra veËer.
+{7250}{7334}Sveta majko Boûja, | neka sam iskren u mislima, rijeËi i djelu.
+{7675}{7733}- Ovo su straûnja vrata, zar ne? | - Da.
+{7995}{8051}Baö sam mislio poËastiti piÊem.
+{8096}{8143}Siguran sam.
+{8180}{8230}Je li nosio piötolj?
+{8232}{8275}Nije se dugo zadrûao.
+{8292}{8368}Ne ide nikuda. Samo priprema svog konja.
+{8400}{8488}Znate li kakav je to bio tip piötolja? | Bio je to övedski piötolj.
+{8512}{8557}ävedski tip piötolja.
+{8596}{8672}Toliko je ökrt da cijedi iz barske krpe.
+{9177}{9229}Dovoljno vam je vlaûno, gospodine?
+{9317}{9382}- Kada ovdje kiöi, ne prestaje. | - Da.
+{9717}{9793}äto radiö, Coyle? | Donio sam tu stolicu ovdje.
+{9821}{9909}Bolje se makni jer Êu te opaliti, ti glupi...
+{10050}{10091}Otkud ti sav taj novac?
+{10253}{10354}Profesore, niste li rekli | da Êete poËastiti piÊem?
+{10434}{10471}Tako je rekao.
+{10541}{10603}Ja sam Patrick Sheehan. Ovo je moja krËma.
+{10633}{10668}A da se dogovorimo?
+{10681}{10758}- Poöto je boca? | - 3 $.
+{10767}{10834}3 $? JuËer je bila 2 $.
+{10874}{10947}Pa, gledaj. | Kako bi bilo da to podijelimo pola-pola?
+{10981}{11050}- Ja dijelim vaö dobitak? | - éeliö dijeliti gubitke?
+{11097}{11193}- Ja snabdijevam ovo mjesto. | - Da, ali mislim da ja snabdijevam muöterije.
+{11229}{11273}Joö nitko nije niöta kupio.
+{11329}{11401}Ovako, daj ovim momcima | bocu po 2 $ na moj raËun...
+{11403}{11500}i ja Êu pokriti svoje gubitke, | a ti moûeö ostvariti dobit na viski.
+{11506}{11536}To je u redu.
+{11543}{11608}Jednu bocu po 3 $, Pat. Donesi nam je.
+{11746}{11789}Pa, ovdje su 52.
+{11803}{11853}Ne ûelim troöiti dobro piÊe na njega.
+{11855}{11912}Moûeö se oprostiti sa svojom pljoskom.
+{11929}{12004}Vi momci ne znate niöta o meni...
+{12016}{12127}i ja ne znam niöta o vama. | PoËnimo s 5 centi.
+{12139}{12169}Bolje sa 10.
+{12283}{12335}Vrlo sam vam zahvalan, gospodine.
+{12402}{12515}Htio bih da igramo s otvorenim kartama...
+{12525}{12579}i sa limitom od tri oklade po karti.
+{12591}{12697}I onda moûda doemo do 15 centi | na otvoreni par na zadnjoj karti.
+{12710}{12775}- Ako nemate niöta protiv. | - U redu je.
+{12833}{12858}Ja igram.
+{13167}{13202}Osmica herc.
+{13209}{13275}»etvorka tref. Dvojka pik.
+{13291}{13320}Sedmica karo.
+{13337}{13391}Osmica pik. DeËko pik.
+{13421}{13449}Trojka herc.
+{13494}{13530}U redu, prijatelju.
+{13546}{13576}Odigraj deËka.
+{14009}{14052}Zatvori ta prokleta vrata.
+{14062}{14103}Dobra veËer, veleËasni.
+{14125}{14173}G. Sheehan, g. Elliott je ovdje.
+{14393}{14434}Dobra veËer, g. Elliott.
+{14613}{14677}Bok, Freddie. Ideö na operu?
+{14679}{14739}G. Smalley, ûelite li zaigrati koju partiju?
+{14741}{14805}Ne kockam s profesionalcima.
+{14807}{14887}- Ja Êu umjesto tebe, Robbie. | - Ako Smalley ne igra, ja ostajem.
+{14889}{14972}Kakvo je ovo sranje? | Ako ne ûeliö igrati, u Ëemu je stvar...
+{14993}{15031}Jedan suhi, po osobi.
+{15058}{15113}Crkva dobro napreduje, zar ne?
+{15117}{15206}Razgovarala sam s g. Andersonom. | Jedva Ëekam da zavröimo.
+{15208}{15283}- Tko dijeli? | - Momak po imenu McCabe.
+{15285}{15313}- Kako? | - McCabe.
+{15315}{15379}- Kako znaö? | - Rekao je da se zove McCabe.
+{15381}{15451}- Rekao mi je Joe Shortreed. | - Kako on zna?
+{15453}{15518}Ne znam. | Pretpostavljam da mu je McCabe rekao.
+{15737}{15791}- Kako ide? | - Pobjeujem ga.
+{15944}{16021}KuÊa Ëasti, g. McCabe?
+{16028}{16060}Puno vam hvala.
+{16124}{16198}Niste rekli da se zovete McCabe | kada ste doöli ovdje.
+{16222}{16268}Nisam ni sada. Vi ste rekli.
+{16454}{16484}Pudgy McCabe?
+{16526}{16554}Revolveraö?
+{16577}{16619}Poslovni Ëovjek.
+{16621}{16670}Posao ne ide baö dobro, zar ne?
+{16707}{16759}Jeste li poznavali Billa Roundtreeja?
+{16761}{16844}äto je s tobom, Sheehane, | imaö govno u dûepu?
+{16982}{17041}Pat, pokuöavamo igrati poker.
+{17116}{17179}Barte, postajeö uglaen kao maËkina guzica.
+{17195}{17271}Partneru, ûeliö li podijeliti nekoliko partija | umjesto mene?
+{17273}{17324}Ne odlazite? Ne prestajete s igrom?
+{17326}{17384}Ne. Odmah se vraÊam, gospodo.
+{17420}{17461}éelim vam ugodnu veËer.
+{17572}{17625}Pazi da ti ne ispadnu karte, Riley.
+{18041}{18089}- Kamo idete? | - Nikamo.
+{18107}{18171}Samo sam se pitao kamo Êete.
+{18193}{18262}Krenuo sam tamo do one ograde.
+{18437}{18513}Da, gospodine, to je McCabe.
+{18517}{18605}John McCabe. Zvali su ga "Pudgy" McCabe.
+{18607}{18667}- Ima straöan ugled. | - Nisam nikad Ëuo za njega.
+{18669}{18733}Zaöto ga zovu Pudgy? Ne izgleda mi debeo.
+{18735}{18771}Kako bih ja to znao?
+{18773}{18841}U svakom sluËaju, | on je ubio Billa Roundtreeja.
+{18843}{18907}- Ni za njega nisam Ëuo. | - Ja poznajem Billa Roundtreeja.
+{18909}{18993}- Ne znam otkuda, ali znam to ime. | - S njim nije bilo öale.
+{18995}{19090}A onaj Ëovjek koji tamo piöa ga je ubio.
+{19092}{19134}Ima straöan ugled.
+{19220}{19306}Gospodo, Ëovjek koji vam dijeli | je nitko drugi do John McCabe.
+{19325}{19398}Pudgy McCabe? | »ovjek koji je ubio Billa Roundtreeja.
+{19400}{19449}- On je doista revolveraö. | - Rekao sam ti.
+{19451}{19517}Baö me briga öto je. Prebit Êu ga.
+{19519}{19575}- Znaö li za Billa Roundtreeja? | - McCabe ga je ubio?
+{19577}{19611}- Bill Roundtree? | - Da.
+{19613}{19719}Poznavao sam Billa Roundtreeja. | Bio je guverner.
+{19724}{19824}- Natjecao se za guvernera u Wyomingu. | - Jeremy, sereö gluposti!
+{19841}{19940}Vani prokleto puöe.
+{19958}{20007}- To jaje je sirovo, zar ne? | - Da.
+{20161}{20239}Recite mi neöto, momci. | Tko je vlasnik posjeda ovdje?
+{20440}{20498}Sheehan je vlasnik svega | s ove strane grada.
+{20500}{20577}Kinezi nisu vlasnici niËega. | Samo kradu rudnike.
+{20584}{20659}Joe Shortreed, J.J., Bill Cubbs i ja...
+{20680}{20737}vlasnici smo Ëitave druge strane crkve.
+{20746}{20836}McCabe, koliko dugo namjeravate ostati?
+{20843}{20940}Ovi momci me imaju u öaci, | ne volim otiÊi dok gubim.
+{20944}{21019}Moûete spavati ovdje | za Ëetvrt dolara po noÊi. Pokazat Êu vam.
+{21021}{21047}éao mi je.
+{21105}{21130}Doite.
+{21197}{21332}äto misliö o tome da obrijem bradu | i ostavim samo brkove?
+{21353}{21395}Zaöto bi to napravio?
+{21427}{21499}- Imate mnogo Kineza ovdje? | - Samo okrenite kamen.
+{21537}{21606}- Tko im prodaje opijum? Vi? | - Ja ne. Ja prodajem viski.
+{21608}{21674}Ne podnosim puöaËe opijuma ovdje.
+{21734}{21759}Pa?
+{21801}{21828}Sranje.
+{21842}{21877}Zaöto ne radiö isto öto i ja?
+{21879}{21964}Samo skrati malo sa strane, prema dolje.
+{22005}{22055}Ne bih ostao gore ni besplatno...
+{22057}{22133}pa da imaö i kurve iz San Francisca | u svakom krevetu.
+{22175}{22230}Djelitelj je joö u igri.
+{22237}{22361}Barte, znaö li kako zaokruûiti Ëetverokut? | Gurni dasku muli u dupe.
+{22393}{22452}HoÊemo li igrati za 25 centi?
+{22585}{22641}Sheehane, donesi momcima bocu | na moj raËun.
+{24752}{24866}Krumpiri! VruÊi krumpiri za peni! | VruÊi krumpiri, jedan peni!
+{24905}{24991}Ne znaö öto radiö. Nemaö iskustva u ovome.
+{25014}{25052}Trebaju mi joö dvije.
+{25065}{25149}U redu, imam jednu koju ti mogu dati. | PriËekaj trenutak.
+{25225}{25270}Kate, doi ovdje.
+{25387}{25456}Moûeö uzeti nju, | ali morat Êeö joj nabaviti zube.
+{25458}{25549}- U redu. Koliko je za tri? | - Tri? 80 $ svaka.
+{25585}{25665}80 $ za prostitutku? | Mogu dobiti konja za 50 $!
+{25701}{25756}Dat Êu ti 200 $ za njih tri.
+{25766}{25841}Bit Êu sretan ako ova mala preûivi zimu.
+{25843}{25919}Vrlo ste dugo putovali dovde. | Sigurno vam jako trebaju.
+{25970}{26069}- Archeru, stavimo piötolje na stol. | - Jebeö stol. Nemaö pojma.
+{26071}{26158}KuËkin sine, | reci mi koliko rezervnih prostitutki imaö...
+{26160}{26232}gade jedan, i reÊi Êu ti koliko ih trebam!
+{26234}{26321}- Imam dvije viöka. | - Sereö! Trebam tri.
+{26373}{26404}éeliö tri.
+{26454}{26497}Ovako Êemo.
+{26515}{26574}éeliö tri po 200 $, toËno?
+{26588}{26656}Mislim da se moûemo dogovoriti. | PoËastit Êu te piÊem.
+{26671}{26718}Koliko je daleko taj grad?
+{26729}{26773}Joö uvijek se ûaliö?
+{27225}{27267}Hajde. Brûe.
+{27373}{27413}Hajde, drûi se.
+{27834}{27904}Sluöaj, s takvim dupetom | niöta ne moûeö osjetiti.
+{28546}{28592}Gdje je Berg?
+{28627}{28657}Gdje su öatori?
+{28704}{28737}Barte, stani.
+{28739}{28814}- Berg? Gdje je Berg? | - Jeremy, McCabe te treba.
+{28816}{28858}Da, u redu. Stiûem.
+{28860}{28976}- Kako to da öatori nisu podignuti? | - Dosta smo radili dok vas nije bilo.
+{28978}{29029}- Gdje su öatori? | - äatori?
+{29048}{29111}- Za dame. | - Isuse, öatori.
+{29151}{29233}Materijal za krov nije stigao, | pa smo morali poËeti s proËeljem.
+{29235}{29333}Moûemo ih podiÊi do sutra.
+{29335}{29464}VeÊ bismo ih podigli, | ali Robbie je imao proljev...
+{29472}{29543}pa ga nismo iskoriötavali puno ovaj tjedan.
+{29545}{29596}Joö su se neki zarazili, g. McCabe.
+{29598}{29687}Ga Dunn je takoer bolesna.
+{29777}{29814}Razgovarat Êeö s njom?
+{29816}{29884}Vrlo ih je teöko postaviti zbog kiöe.
+{29953}{30049}Morali smo staviti platna za öatore na krov, | zbog kiöe.
+{30051}{30094}Razgovarat Êu s njom.
+{30133}{30172}To je krasno.
+{30325}{30357}Pusti je, ti...
+{31726}{31820}Koji vrag? Momci, zar niste nikad | vidjeli komada, zaboga?
+{31822}{31872}Robbie, imaö posla, zar ne?
+{31874}{31953}Nitko neÊe taknuti ove dame | dok ne otvorimo.
+{31955}{32045}Ne otvaramo dok ne postavimo öatore. | Vratite se na posao.
+{32085}{32160}Nemoj biti tako lijen pa Êemo se zabaviti.
+{32162}{32232}OdluËite se momci, | ako ûelite doÊi do kolaËiÊa.
+{32234}{32329}Imam cure koje znaju izvoditi | viöe trikova od majmuna.
+{32442}{32512}Hej, Kate. Mislim da viöe nisam djevica.
+{32871}{32925}Dobar osjeÊaj. To je doista dobro.
+{32974}{33043}IspriËajte me, dame. | VraÊam se za par minuta.
+{33061}{33102}Moram na zahod.
+{33133}{33202}Moram na zahod, a mislim da neÊu izdrûati.
+{33750}{33786}2 za 1 LIL
+{34041}{34081}SVEMOGU∆A ALMA
+{34266}{34313}Moram ti Ëestitati, Pudgy.
+{34365}{34390}Johne.
+{34414}{34473}Zovi me McCabe. Znat Êu na koga misliö.
+{34694}{34765}Znaö da ti ûelim biti prijatelj, McCabe?
+{34767}{34792}Zaöto?
+{34821}{34932}Ti i ja smo jedini poslovni ljudi | u Presbyterian Churchu.
+{34950}{35011}Pa i nemamo baö puno zajedniËkog, zar ne?
+{35073}{35128}- Ti si katolik, zar ne? | - Ne.
+{35302}{35394}»im si stigao u grad, | znao sam da si vaûan Ëovjek.
+{35396}{35442}I sam znaö da su to gluposti.
+{35444}{35534}Reci mi zaöto si doöao ovdje, | i makni se od te peÊi.
+{35551}{35597}Nekako smrdiö kada je toplo.
+{35839}{35873}Sluöaj, McCabe.
+{35901}{35964}Ja nisam glupan, a nisi ni ti.
+{36049}{36105}Znaö öto Êe se dogoditi ovom gradu...
+{36107}{36195}kada se dovoljno razvije da ima tri krËme, | moûda i Ëetiri.
+{36332}{36389}Ti i ja bismo mogli postati partneri.
+{36398}{36513}Partneri koji neÊe dopustiti nekome izvana | da doe i sagradi joö jednu krËmu...
+{36525}{36600}bez naöe suglasnosti i udjela.
+{36613}{36708}- äto kaûeö na to? | - Od partnera sam pobjegao.
+{36716}{36779}Ponekad stvari ne mogu biti po tvome.
+{36797}{36840}Ponekad moraö biti spreman na dogovor.
+{36842}{36897}Dogovori su u redu. | Ne sviaju mi se partneri.
+{36899}{36955}Sjedni, Sheehane. Sad ti sluöaj mene.
+{36965}{37053}Kroz proteklih par tjedana | poËeo si mi se sviati na neki Ëudan naËin.
+{37055}{37137}I htio bih da ti jedna prokleta stvar | bude prokleto jasna.
+{37141}{37166}Da?
+{37177}{37271}Sheehane, da ûaba ima krila, | ne bi toliko udarala guzicom. Pratiö me?
+{37299}{37325}Da.
+{39894}{39924}Gledaj. Joö kurvi.
+{39926}{40013}äuti. Kako znaö da to nije mladenka | koju je Bart naruËio poötom?
+{40094}{40148}Prokletstvo. Kladim se da je to ona!
+{40184}{40215}Ida!
+{40372}{40425}Ida, ja sam! Bartley Coyle.
+{40435}{40482}Ida, mislim da je ovo za tebe.
+{40532}{40562}Jesi li ti Ida?
+{40564}{40678}Ovdje, skoËi. PomoÊi Êu ti. Hajde.
+{40736}{40824}Samo naprijed, skoËi. Dobro. | Kako je bilo na putu?
+{40947}{40982}McCabe, ovo je Ida.
+{40984}{41053}Ida, ovo je McCabe. On gradi ovu krËmu.
+{41067}{41115}Poi sa mnom, pokazat Êu ti naöu kuÊu.
+{41117}{41189}Nije bog zna öto, ali planiram je srediti.
+{41305}{41346}Jeste li vi John McCabe?
+{41380}{41446}Ga Miller. | Doöla sam iz Bearpawa da vas vidim.
+{41518}{41555}Je li ovo vaöa kuÊa?
+{41573}{41605}Da, gospo.
+{41701}{41726}KrËma?
+{41777}{41839}To Êe biti krËma i kockarnica.
+{41962}{42030}Rekli ste da ste doöli iz Bearpawa | da me vidite?
+{42261}{42286}Gospo?
+{42329}{42376}Mogu li neöto uËiniti za vas?
+{42403}{42471}Imate li öto za jelo? Umirem od gladi.
+{42481}{42557}Trebalo nam je öest sati dovde | u onom prokletom Ëudu.
+{42616}{42691}Morat Êete mi oprostiti. | Kuhinja mi joö nije u funkciji.
+{42693}{42770}Mogu vas odvesti do restorana | ako ste toliko gladni.
+{42773}{42835}Tako sam gladna | da bih mogla pojesti konja.
+{42857}{42972}- Kod Sheehana vjerojatno i hoÊete. | - PograniËni smisao za humor, vidim.
+{43337}{43377}Samo se popnite stubama.
+{43533}{43568}Mogu primijetiti razliku.
+{43570}{43635}Moûeö prepoznati finu damu | po naËinu na koji hoda.
+{43669}{43759}Recite mi, ima li vijesti iz Bearpawa? | VeÊ dugo nisam bio tamo.
+{43769}{43813}Koliko je muökaraca ovdje?
+{43845}{43902}Pa, ovo je zanimljiv grad.
+{43911}{43973}Bit Êe da ih je viöe od 125.
+{44245}{44302}- äto ti misliö, Smalley? | - U vezi Ëega?
+{44323}{44368}Zar ne vidiö neku razliku?
+{44413}{44438}Ne.
+{44576}{44607}Sheehane?
+{44817}{44848}- Sheehane? | - Da.
+{44963}{44993}Druötvo, vidim.
+{45017}{45112}- äto nudiö za veËeru, Sheehane? | - Alfie, daj stolnjak.
+{45124}{45244}Imam fine fileke. | Ga Dunn stavlja hranu na vatru.
+{45262}{45309}Imate li joö bikovih testisa?
+{45342}{45412}- Imam finog jelenjeg mesa. | - Imate jaja? Svjeûih jaja?
+{45414}{45499}- Da, svjeûih jaja. | - Ja Êu Ëetiri jaja, prûena. I kuhanog mesa.
+{45506}{45572}- I malo jakog Ëaja. | - Jakog Ëaja. U redu.
+{45584}{45609}McCabe?
+{45644}{45707}Ja Êu samo dupli viski i sirovo jaje.
+{45797}{45865}I, Sheehane, daj onim momcima piÊe | na moj raËun.
+{46265}{46331}Ako se ûeliö praviti da si neki otmjeni tip...
+{46343}{46421}morao bi nositi neöto | drugo osim jeftine kolonjske.
+{48368}{48405}Sluöajte, g. McCabe.
+{48420}{48481}Ja sam kurva, i znam puno o javnim kuÊama.
+{48509}{48600}Da imaö kuÊu ovdje, | mogao bi zaraditi puno novaca.
+{48607}{48653}Ovo je sve öto moraö uËiniti:
+{48655}{48721}Nabavi novac za kuÊu. Ja Êu uËiniti ostalo.
+{48723}{48828}Ja Êu paziti na djevojke, posao, | troökove, upravljanje, namjeötaj.
+{48839}{48926}Vratit Êu ti sav novac koji uloûiö, | tako neÊeö niöta izgubiti...
+{48932}{48976}a dobit Êemo dijeliti pola-pola.
+{48978}{49054}Oprostite. VeÊ imam javnu kuÊu ovdje.
+{49056}{49106}Ne moûeö zvati neiskusne djevojke kurvama.
+{49108}{49203}Ja govorim o pravoj kuÊi, | s kvalitetnim djevojkama i Ëistim plahtama...
+{49209}{49242}i prikladnom higijenom.
+{49244}{49313}Mislim da moja klijentela ovdje nije...
+{49315}{49367}previöe zainteresirana za tako neöto.
+{49369}{49423}Bit Êe, jednom kada to iskuse.
+{49433}{49521}Kaûem ti, uz nekoga | tko bi se mogao nositi s tim ljudima...
+{49530}{49604}mogao bi zaraditi barem duplo.
+{49606}{49698}Zaöto misliö da nisam na to mislio? | Oni öatori su samo privremeni.
+{49702}{49765}äto kad se jednoj djevojci | svia neka druga?
+{49775}{49861}Kako znaö kada djevojka ima mjeseËnicu | ili kad samo uzima slobodne dane?
+{49863}{49924}äto kada ne dobiju mjeseËnice?
+{49928}{50007}Pretpostavljam da se znaö pobrinuti za to? | äto je s muöterijama?
+{50009}{50077}Tko Êe ih pregledati? HoÊeö li ti to uËiniti?
+{50094}{50189}Ako neÊeö, ovaj Êe grad biti pun gonoreje | za dva tjedna, ako veÊ nije.
+{50195}{50279}äto kada posao bude iöao slabo? | Pustit Êete djevojke da sjede?
+{50290}{50378}Kaûem vam, g. McCabe. | Kad kurva bude imala vremena razmiöljati...
+{50380}{50462}okrenut Êe se religiji jer s tim su se rodile.
+{50464}{50553}Kad se to dogodi, | punit Êeö crkve umjesto svojih dûepova.
+{50555}{50657}Nemam vremena razgovarati s Ëovjekom | koji je previöe glup da vidi dobar prijedlog.
+{50659}{50708}Jesmo li se dogovorili, ili ne?
+{50975}{50996}Pa?
+{51048}{51085}Sranje.
+{51087}{51153}NeÊu se kupati!
+{51155}{51206}Baö me briga ako...
+{52522}{52625}Ovo mi je zadnja. | Ako ûeliö joö, moûeö si je gurnuti u dupe.
+{52630}{52733}Dovodi djevojke iz Seattlea. | Prvoklasne, otmjene ûene.
+{52743}{52813}Ne mogu zamisliti da netko plaÊa 25 centi | za prokletu kupku.
+{52815}{52856}25 centi i nije tako puno.
+{52858}{52947}- Najjeftinija u Bearpawu je 35 centi. | - Ne bih se kupao ni da je besplatno.
+{52949}{53007}Ne znam zaöto ste vi momci | toliko protiv kupanja.
+{53009}{53067}Ja nisam. Samo ne volim da me tjeraju.
+{53069}{53161}- To je ona Millerica. Ona je... | - I, g. McCabe, kako izgleda?
+{53213}{53239}Prokleto dobro.
+{53241}{53327}McCabe, zaöto ne pitaö gu Miller | kada dolaze nove kurve?
+{53333}{53423}- äto nedostaje onima koje imamo? | - Ti samo öuti.
+{53425}{53511}Misliö da Êe mi neka prostitutka | govoriti kako da vodim bordel?
+{53517}{53573}Stavio si sedlo na pogreönog konja.
+{53585}{53657}Te djevojke Êe doÊi ovdje | kada im ja to kaûem.
+{53761}{53868}PlaÊam vas 15 centi na sat, | nakon cijelog dana u rudnicima...
+{53878}{53978}da bi imali öto raditi | osim otiÊi kuÊi i masturbirati.
+{54067}{54101}Je li tako, Berg?
+{54110}{54145}Tako je, g. McCabe.
+{54173}{54208}»uo si öto je rekao.
+{54210}{54309}PlaÊa nas 15 centi na sat, | nakon öto smo radili u rudnicima...
+{54314}{54404}da bi imali öto raditi osim masturbirati.
+{54406}{54433}Zaveûi, Jeremy.
+{55009}{55037}Go Miller.
+{55048}{55109}éelio bih razgovarati s vama, go Miller.
+{55270}{55317}- Otvorit Êete ta vrata? | - Ne.
+{55335}{55362}U redu.
+{55383}{55449}Samo sam htio razgovarati s vama. | Niöta viöe.
+{55451}{55548}Ako mislite da Êemo razgovarati | kroz ova vrata...
+{55581}{55625}öto se mene tiËe, moûe.
+{55657}{55733}Htio bih znati kada dolaze | djevojke iz Seattlea?
+{55735}{55829}Momci rade na vaöem kupaliötu. | Imam pravo znati.
+{56033}{56104}Platio sam za njihov prijevoz.
+{56152}{56205}Mislite da sam ja samo banka.
+{56276}{56329}Do sada ste me stajali samo novca.
+{56362}{56405}Novca i boli.
+{56427}{56451}Bol!
+{57777}{57845}- Ove dame vas traûe, gospo. | - äto se dogodilo?
+{57855}{57945}KoËija se pokvarila na kilometar i pol | odavde. Imam veÊinu stvari.
+{58038}{58094}Uzmi damama prtljagu, öto brûe!
+{58096}{58171}Da vam predstavim svoju suprugu. | Ovo je ga Washington.
+{58173}{58229}Ja sam Sumner Washington. BrijaË.
+{58232}{58281}Drago mi je. Lil!
+{58456}{58525}Mislila sam da ûelite pogledati | moje lijepe dame.
+{58580}{58659}Pripremi im vruÊu kupku. Hajde. | Brzo, stavi grijati vodu.
+{58820}{58859}Dupe mi je smrznuto!
+{58873}{58939}To bar polovica momaka kaûe za tebe, duöo.
+{58948}{59008}Rekla si nam da Êe ovdje biti kuÊa.
+{59013}{59096}Smiri se. Gradim prokletu palaËu za vas.
+{59098}{59148}Sada Êu vas okupati.
+{59191}{59236}NeÊu se jebati s Kinezom.
+{59260}{59373}Zaveûi! Znaö li kojeg Kineza da se jebe | s Kineskinjom kada je bijela ûena u blizini?
+{59420}{59482}Prestani cmizdriti ili Êu ti iskopati oËi.
+{59520}{59568}Bogati, kako ove priËaju.
+{59586}{59676}U pismu si rekla da je ovdje kuÊa. | Ovo zoveö kuÊom?
+{59727}{59799}- To si ukrala od Christine! | - Prokleto si u pravu.
+{59803}{59852}- Platila sam to 13 $. | - Zaveûi, Eunice!
+{59854}{59903}Uvijek zanovijetaö.
+{59910}{59956}- Dolar za tebe, Jack. | - Zovem.
+{60030}{60066}Znaö li öto sam Ëuo?
+{60068}{60171}»uo sam da je jedna od cura koje su doveli | autentiËna kineska princeza.
+{60173}{60228}Je li istina öto kaûu o Kineskinjama?
+{60230}{60332}- Gluposti! Otpale bi im noge. | - Ma hajde. Istina je.
+{60364}{60481}Njihove kose oËi, | i naËin na koji se povisuju sa strane.
+{60533}{60597}Isto je i s ostatkom njihovih tijela.
+{60616}{60710}Moj prijatelj, Amos Lindville, | dolje u Sacramentu, u Kaliforniji...
+{60717}{60858}Jednom je dao 5 $ kako bi saznao, | 5 $ samo da pogleda, i rekao je da je istina.
+{60877}{60989}Tip poput Lindvillea neÊe dati 5 $ | kako bi provjerio neöto öto nije istina.
+{61938}{62005}Sada sam kuharica, viöe nisam kurva.
+{62014}{62101}Sa svim tim iskustvom, nije poöteno.
+{62110}{62195}»ekaj dok zavröimo s ovom kuÊom. | Doista Êe biti neöto posebno.
+{62249}{62336}Znaö, javne kuÊe dolje u Juûnoj Americi | doista su neobiËne.
+{62338}{62414}- Bio si u Juûnoj Americi? | - Bio sam kada sam bio djeËak.
+{62416}{62486}Naravno da su neobiËne. | Nisu nimalo nalik na ove.
+{62488}{62522}Nisu tako otmjene.
+{62524}{62584}Neöto su poput blatnih koliba, blatnih kuÊa.
+{62586}{62669}Imaö obitelj koja radi | u tim blatnim kuÊama...
+{62684}{62738}a sve ûene u obitelji su kurve.
+{62811}{62873}- Znaö li gdje je Berg, Smalley? | - Unutra je.
+{62884}{62968}- Je li se okupao? | - Gospoo, nisam ovdje kao muöterija.
+{63058}{63083}Berg?
+{63092}{63171}- Mene traûite, g. McCabe? | - éeliö li me izbaciti iz posla?
+{63198}{63263}Te narudûbenice. To je u redu jer to...
+{63296}{63359}- Poöto je ta Kineskinja? | - Dolar i pol.
+{63378}{63433}- Ista cijena je za gu Miller? | - Ona je 5 $.
+{63435}{63460}5 $!
+{63462}{63506}Pazite da dobijete naruËeno.
+{63508}{63571}- Je li tako, go Miller? | - äto to?
+{63573}{63630}- 5$? | - Tako je.
+{63664}{63750}- Isuse Kriste, to je puno novca. | - Sranje. U redu! Idemo.
+{63881}{63953}U vaöem je interesu da imate te tiskanice...
+{63955}{64007}i da pazite da su potpisane.
+{64009}{64069}Zdravo, g. Quigley. Ne bojite me se, zar ne?
+{64071}{64180}Jednom kada dobijete sve öto ste naruËili | moûete vidjeti je li toËno. Imate dokaz.
+{64188}{64245}Imate moj potpis na ovim narudûbenicama...
+{64247}{64297}i to je sve öto vam je potrebno.
+{64632}{64673}I to je to.
+{64680}{64739}Osim ako ne ûelite da ostanemo.
+{64750}{64809}- Da vidimo da netko moûda ne... | - Samo idite.
+{64811}{64875}Imam posla s ovim knjigama.
+{64883}{64943}Ne razlikujem kruöke od jabuka.
+{65568}{65603}»etrnaest i osam.
+{65626}{65676}»etrnaest i osam.
+{65745}{65772}Sranje!
+{65892}{65948}Zaöto ste uvijek tako loöe volje?
+{66087}{66190}Zato öto vam, moja draga go Miller, | nisam samo sagradio bordel...
+{66192}{66257}veÊ sam platio i za kupaliöte koje ne trebam.
+{66279}{66322}Platio sam prijevoz.
+{66325}{66395}Platio sam za ruËnike, | posteljinu i vreÊice za klistir.
+{66397}{66489}Platio sam za stvari koje te vaöe prostitutke | ne znaju ni koristiti.
+{66491}{66577}Ali ovdje danas nisam prodao | ni bocu viskija, i to je Ëinjenica!
+{66579}{66656}Zato, moj dragi g. McCabe, | öto se svaki starkelja u ovom gradu...
+{66658}{66703}kupao u vaöem kupaliötu...
+{66705}{66764}ili öevio s djevojkom u vaöoj javnoj kuÊi.
+{66766}{66855}Nisam vidio niöta od tog novca. | Knjige mi kaûu da trebam novac.
+{66972}{67042}Novac od javne kuÊe i od kupaliöta | za prvi tjedan.
+{67051}{67127}Nismo pri novcu od kupaliöta | zbog guûve prve veËeri...
+{67129}{67186}ali pobrinut Êu se da se to ne ponovi.
+{67326}{67400}Nisam iznenaena da ne znate | koliko novca imate...
+{67402}{67439}a koliko nemate.
+{67442}{67521}Stupci sa zaradom i dugovanjima | su vam na razliËitim stranicama.
+{67523}{67590}Ne zabadajte nos tamo gdje mu nije mjesto.
+{67592}{67639}- Koliko je 23 minus 14? | - äto?
+{67652}{67695}»uli ste me. 23 minus 14.
+{67723}{67783}Devet. Devet plus 16?
+{67842}{67905}- Dvadeset pet. Pet i... | - Moja draga gospoo!
+{67919}{68053}Mogu biti nepokolebljiv u bilo kojoj igri | i izraËunati zaradu prije nego trepneö!
+{68063}{68151}Ne zafrkavajte me zato öto mi treba vremena | da to toËno napiöem.
+{68154}{68229}Da ste tako pametni, | znali biste da ako krenemo naprijed...
+{68231}{68311}i kupimo prozore i vrata, | zaraivali bismo dvostruko viöe.
+{68332}{68407}Moûda volite öeviti | dok vam vjetar zviûdi po guzici!
+{68418}{68482}Kako to da kad priËate o novcu, | uvijek kaûete "mi"?
+{68484}{68565}Kaûem "mi", g. McCabe, jer nemate ambicije.
+{68574}{68639}Nemate ambicije jer se bojite toga.
+{68641}{68709}Kaûem vam, | da biste zaradili novac morate ga i uloûiti.
+{68711}{68802}éelite provesti ostatak ûivota | mijeöajuÊi karte u ovoj rupi? Dobro!
+{68807}{68872}Ja ne ûelim! DoÊi Êe vrijeme...
+{68875}{68990}kad Êu vam isplatiti moju polovicu uloga, | otiÊi u San Francisco i kupiti pansion.
+{68992}{69085}Ali sada ne ûelim | da mi neka sitna riba upropasti posao.
+{69102}{69139}Pansion?
+{69205}{69263}éelio bih vidjeti goste u tom pansionu.
+{69459}{69505}Kamo Êete vi?
+{70198}{70228}Novac i bol.
+{70261}{70286}Bol.
+{71043}{71084}Alf, pogledaj ovo.
+{71110}{71203}- Hej, duöo. Radiö kod ge Miller? | - To je moja ûena, kuËkin sine!
+{71861}{71936}Isuse Kriste! To je krv. | Glava mu je razvaljena!
+{71945}{71982}Hajde. Podignimo ga.
+{72011}{72089}- Podigni ga. | - Prihvati drugu nogu.
+{72159}{72195}Polako.
+{73443}{73482}Nemam puno vremena.
+{73607}{73687}Tko je uzeo bocu dûina?
+{73735}{73767}U mojoj je sobi.
+{73775}{73800}Kate?
+{73813}{73884}- Ja Êu. | - Alma, ti idi i uzmi je.
+{73892}{73939}- Gdje je? | - Ispod mog jastuka.
+{73950}{73993}Ispod njezinog jastuka je.
+{74032}{74088}PiÊe ostaje dolje.
+{74198}{74263}Hajde, djevojke, bit Êe ovdje svaki trenutak.
+{74265}{74315}Kako smo? Skoro gotovi?
+{74317}{74363}Skinula sam malo ruûiËastog.
+{74372}{74435}Misliö da bi mogla napisati "Birdie" ovdje?
+{74444}{74492}Misliö da bi mogla to uËiniti?
+{74495}{74523}U redu.
+{74539}{74632}- Svia ti se? RuûiËasto i bijelo? | - Da, vrlo lijepo.
+{74838}{74897}Puno vam hvala. Javit Êu vam se kasnije.
+{75190}{75218}G. McCabe?
+{75349}{75417}IspriËavam se. Moje ime je Sears. | Eugene Sears.
+{75477}{75533}Ja sam Roebuck. Tko pazi na trgovinu?
+{75597}{75652}Ja sam iz | M.H. Harrison Shaughnessy Mining Co.
+{75654}{75733}- Malo bismo porazgovarali s vama. | - Ma nemoj?
+{75781}{75850}Iskreno, g. McCabe...
+{75852}{75915}ovdje nas zanimaju rudarske naslage.
+{75917}{75995}Da budem iskren, htio bih jedno piÊe.
+{75999}{76082}- éelite mi se pridruûiti? | - Mi vama ûelimo kupiti piÊe, g. McCabe.
+{76084}{76147}Samo trenutak. Imate li vi govno u dûepu?
+{76149}{76221}- Tko smo k vragu "mi"? | - Ovo je Ernie Hollander.
+{76229}{76263}éelite li piÊe, Ernie?
+{76265}{76333}Naravno, ali moj ûeludac | to ne moûe podnijeti.
+{76335}{76391}Ne bih htio da krivo shvatite.
+{76393}{76485}Nema se öto krivo shvatiti. | éelite otkupiti cink, samo izvolite.
+{76487}{76590}Ja nisam vlasnik prokletih rudnika cinka. | Bobby, donesi nam bocu.
+{76594}{76717}Znate li vi momci o ûabi koju je pojeo orao?
+{76726}{76858}Veliki stari orao | je proûdrljivo pojeo jednu malu ûabu.
+{76877}{76976}Mala je ûaba u orlu i oni su visoko u zraku.
+{76988}{77077}éaba se probija od orlovih usta | prema drugom kraju...
+{77083}{77178}i pogleda kroz orlovu guzicu i reËe: | "Hej, orle!"
+{77195}{77246}Kaûe: "Koliko smo visoko?"
+{77248}{77354}A orao kaûe: | "Pa, gore smo oko dva, tri kilometra."
+{77363}{77414}A ûaba kaûe:
+{77418}{77474}"Pa ne bi me sad posrao, je li?"
+{77540}{77630}Dobar je. Doista je dobar. | Moram to zapamtiti.
+{77706}{77779}Znamo da ste poslovan Ëovjek | i mi smo poslovni ljudi...
+{77781}{77831}stoga bismo vam dali ponudu:
+{77834}{77895}Prodajte svoje posjede ovdje | u Presbyterian Churchu.
+{77897}{77928}U redu. Poöto?
+{77991}{78035}éelio bih istaknuti par stvari.
+{78037}{78129}Samo mi recite poöto, | pa onda istaknite sve stvari...
+{78131}{78199}- Kakav je to vraûji kaput? | - Od tuljanovog krzna.
+{78218}{78302}Znam da tvrtka neÊe iÊi preko 5500 $.
+{78345}{78406}To nije dovoljno, zar ne?
+{78434}{78516}Sluöajte, upravo smo isplatili Sheehanu | 1600 $.
+{78519}{78574}Hotel, njegove ötale, sve.
+{78594}{78662}Izgleda da ste se doista zajebali, zar ne?
+{78690}{78774}Sluöajte, g. McCabe, | ako se ne moûemo razborito dogovoriti...
+{78792}{78839}Ovlaöteni smo razgovarati s vama...
+{78841}{78924}jer su nas uvjerili | da ste vi glavni u ovom gradu.
+{78926}{79007}»ovjek zdravog razuma, | ako znate na öto mislim.
+{79011}{79090}Roebuck, znate...
+{79122}{79219}kad bi ûaba imala krila, | ne bi toliko udarala guzicom. Pratite me?
+{79230}{79255}äto?
+{79270}{79327}Imam bolje ponude od Monkey Warda.
+{79331}{79401}Ako vi momci ûelite sa mnom | razgovarati o poslu...
+{79406}{79506}morate povisiti svoju ponudu, | tamo visoko gdje joj je i mjesto.
+{79537}{79614}Smalley, pronai mi igraËe za poker, moûe?
+{79702}{79743}I, öto kaûete na to?
+{79754}{79802}Doista je pametnjakoviÊ.
+{79903}{79965}Sretan roendan, Birdie!
+{80183}{80240}Ti si to napravila, Lily? Predivna je.
+{80582}{80616}G. McCabe nije ovdje.
+{80618}{80686}Ne brini se za McCabea. | Mislim da neÊe dolaziti.
+{80690}{80738}Baö se opijao.
+{80837}{80876}Moraö neöto zaûeljeti.
+{80947}{80994}äto si zaûeljela?
+{81253}{81309}Ja bih jednu s cvijetom u sredini.
+{81311}{81387}Ne hvala. Ja bih samo komad kolaËa.
+{81433}{81478}Ja bih jednu s cvijetom.
+{81490}{81563}Connie, zar neÊeö ostati | i pojesti malo kolaËa?
+{81589}{81621}äto je s njom?
+{81631}{81692}Upala je u ono tiho razdoblje.
+{83090}{83115}Tko ide?
+{83157}{83182}Ja sam.
+{83201}{83229}äto ûelite?
+{83292}{83339}Otvorite vrata. Hajde.
+{83363}{83388}Sluöajte.
+{83404}{83494}Nemojte misliti da Êete me zavarati | s tim losionom za rast kose.
+{83532}{83564}Okupali ste se?
+{83566}{83619}Bio sam u vodi toliko prokleto dugo...
+{83621}{83681}da mi se dupe smeûuralo. Otvorite vrata.
+{83728}{83776}Ponekad mi je zlo od vas.
+{83791}{83871}Zar se ne moûete pojaviti | ni za roendan toj sirotoj djevojci.
+{83873}{83910}Da vam neöto kaûem, gospoice.
+{83912}{83988}Neki kreteni su doöli u krËmu | i htjeli su me otkupiti.
+{83994}{84061}- Sve öto imam. | - Tko bi uËinio neöto tako glupo?
+{84164}{84266}Harrison Shaughnessy, tako neöto. | Ponudili su mi 5500 $.
+{84296}{84360}Sklonite öeöir s kreveta. To donosi nesreÊu.
+{84377}{84438}5500 $. To nije loöe, zar ne, go Miller?
+{84452}{84497}A ja sam odigrao pametno poput lisice.
+{84499}{84554}Rekao sam im "ne", | i nastavio sa svojim poslom.
+{84556}{84608}Definitivno sam ih odbio.
+{84616}{84694}Sada Êe se vratiti s boljom ponudom.
+{84712}{84785}Mislim da Êe vaö dio biti...
+{84802}{84839}- Da vidim. | - Razmisli.
+{84850}{84880}äto ste rekli.
+{84900}{84935}Trebala sam znati.
+{85041}{85115}Odbili ste Harrisona Shaughnessyja. | Znate li tko su oni?
+{85117}{85203}- Naravno da znam. | - Bolje se nadajte da Êe se vratiti.
+{85221}{85281}Prije bi vas upucali nego pogledali.
+{85458}{85505}Kate i g. Anderson...
+{85507}{85579}- G. McCabe je unutra s njom? | - Kako da ja to znam?
+{85641}{85683}Nemam puno vremena.
+{85711}{85738}Nemate poötovanja.
+{85740}{85797}Dva gospodina su dolje za g. McCabea.
+{85827}{85868}Je li on unutra s vama?
+{85953}{85978}Da.
+{86138}{86204}G. McCabe Êe doÊi za sekundu...
+{86206}{86249}pa priËekajte ovdje.
+{86256}{86314}Troöiö svoju dobit.
+{86369}{86408}- Gospodo. | - G. McCabe.
+{86410}{86466}- Puöite li cigare? | - Ne, hvala.
+{86468}{86529}- G. McCabe, g. Hollander i ja... | - Izvolite.
+{86545}{86653}Cijenimo to öto ste zauzeli Ëvrsti stav. | Zapravo, divimo se tome.
+{86677}{86748}- Ernie, ûeliö li ti? | - Ne, samo ti reci.
+{86750}{86826}Htjeli bismo krenuti s novim pristupom.
+{86869}{86930}SjeÊate li se naöe veËeraönje ponude?
+{87049}{87120}- Ne. | - Bilo je 5500 $.
+{87133}{87208}Zato se i ne sjeÊam. 5500 $.
+{87224}{87320}Ernie, mislim da moûemo nagovoriti tvrtku | da ponudi joö 750 $.
+{87324}{87365}To bi bilo 6250 $.
+{87376}{87445}Naravno, trebali bismo odmah vaö odgovor.
+{87452}{87489}Pa, g. Sears...
+{87541}{87597}odgovor je: "Ne."
+{88329}{88397}Moram ti ispriËati ostatak svoje priËe. Hajde.
+{88399}{88465}IspriËavam se, ako mogu posredovati.
+{88467}{88587}G. McCabe, mogu li vas zvati John? | Imam sina koji se zove John, kao i vi.
+{88606}{88705}Ovdje ste napravili prekrasan posao. | UËinili ste ga uspjeönim.
+{88707}{88784}Spremni smo vam ponuditi znatnu dobit.
+{88799}{88890}Koju vam nudi jedna od najpouzdanijih | tvrtki u Sjedinjenim drûavama.
+{88892}{88988}A vi kaûete: "Ne." Iskreno, ne razumijem.
+{89047}{89145}Ne moram vam napominjati | da Êe naöi ljudi biti priliËno zabrinuti...
+{89148}{89189}ako znate na öto mislim.
+{89219}{89308}Ono öto ja osjeÊam je da ste vi, gospodo, | doöli ovdje...
+{89320}{89395}i ûelite od Ëovjeka mog poloûaja | da proda svoj imetak.
+{89415}{89470}Mislim da tu leûi dobar razlog.
+{89478}{89608}Mislim da bi dobar razlog | bio 14000 $, 15000 $.
+{89626}{89739}Zaöto ne doete sutra na doruËak | pa Êemo popriËati o tome.
+{89783}{89863}Recimo oko 8:00? | Blanche, Birdie. Doite ovdje.
+{89938}{90038}Ovo su g. Sears i g. Hollander.
+{90040}{90075}G. Sears, kako ste?
+{90081}{90163}- Pobrinite se za ovu gospodu. | - Izgledate divno veËeras.
+{90203}{90271}éelite li popiti piÊe, ili da odemo gore?
+{90273}{90311}Ja Ëastim sa svime.
+{90313}{90387}- Biste li to voljeli? Gore? | - Nismo joö veËerali.
+{90661}{90690}Constance, otvori.
+{90822}{90848}Constance?
+{91039}{91126}Nikad nisam poznavao nekoga | tko je toliko iza zakljuËanih vrata.
+{91212}{91273}Kakav divan baröun. Pogledajte samo.
+{91319}{91352}Zar to nije krasno?
+{91354}{91474}éelite se igrati? Naravno da ûelite. | Pogledajte ovo. Pogledajte.
+{91481}{91535}Kako to mislite? UopÊe niste zabavni.
+{91537}{91601}Ne, nismo veËerali. Idemo jesti.
+{91603}{91671}Kad upadnete u kockarsku situaciju...
+{91682}{91746}morate znati kada onaj drugi blefira.
+{91748}{91820}Nisam li vam rekao | da Êe se ta dva kretena vratiti?
+{91831}{91948}Rekao sam vam. | Da mi bar ponekad vjerujete, Constance...
+{91956}{92032}sve bi bilo puno jednostavnije. | Shvatit Êete to.
+{92042}{92127}- Koliko visoko mislite da Êe iÊi? | - Ne znam.
+{92154}{92221}Znat Êu sutra ujutro na doruËku.
+{92444}{92482}Baö ste smijeöni.
+{92511}{92587}Ponekad ste tako slatki... A ponekad...
+{93687}{93746}Ernie, dogovorit Êemo se.
+{93748}{93830}Samo moramo nabaviti joö 1000 $, | ali uspjet Êemo.
+{93882}{93912}On pregovara.
+{93953}{93999}Dogovorit Êemo se za 7000 $.
+{94010}{94090}- Ili, 6250 $. | - Mislim da neÊemo. Nije toliko pametan.
+{94117}{94209}- Predao bih posao Jakeu. | - Hajde. NeÊemo joö odustati od njega.
+{94215}{94246}Sluöaj, sine.
+{94248}{94345}Ako ûeliö silom utuÊi malo pameti | u glavu toj budali, to je tvoja stvar.
+{94362}{94405}Ja se vraÊam, upravo sada.
+{94417}{94542}Nakon 17 godina, zasluûujem neöto bolje | od ovakvog beznadnog pokuöaja.
+{94561}{94599}NemoguÊ je.
+{94707}{94778}Da, izgleda da si u pravu. Pokuöali smo.
+{94850}{94902}Mislite li da je meso bilo u redu?
+{94918}{94964}Boûe, ako nije bilo pokvareno.
+{94966}{95038}Na ovakvom putovanju | samo mi joö proljev nedostaje.
+{95132}{95196}Koliko sam ti puta rekao da zaveûeö?
+{95393}{95476}- I, kako je? | - Grozno. Opet se onesvijestio.
+{95481}{95541}Ovaj put se nije osvijestio veÊ tri sata.
+{95574}{95649}Bart Coyle mu je sinoÊ razbio glavu.
+{95651}{95690}- Da? Kako je? | - Uûasno.
+{95722}{95796}Stalno pada u nesvijest. | Mislim da mu je pukla glava.
+{95964}{96085}Otvori jednu od onih staklenki | dûema od öljiva koje sam dobio iz Portlanda.
+{96094}{96190}Daj mu neko piÊe, moûe? | Nisam li ti rekao troje za doruËak?
+{96215}{96311}- Smalley je rekao da ostali ne dolaze. | - Ona dvojica su otiöla sinoÊ.
+{96337}{96396}Prekrasno si ih sredio.
+{96402}{96459}Znali su da nemaju posla | s nekim bezveznjakom.
+{96552}{96642}"SvemoguÊi Bog, | koji vidi grijehe na zemlji...
+{96644}{96714}"oötrica pravde razrezuje zmije od ljudi...
+{96716}{96832}"i ostavlja meso da trune prema raju, | i öalje duöu da gori u vatri pakla...
+{96839}{96902}"prihvati muku ovog sluge kao pokajanje...
+{96904}{96954}"i podari mu ulaz u raj...
+{96956}{97039}"i vjeËni ûivot uz podnoûje | SvemoguÊeg Prijestolja. Amen."
+{98792}{98874}- Ne ideö valjda tamo dolje? | - Ne trebaö se brinuti.
+{98876}{98965}- Nosiö li piötolj? | - Da. To nije vaûno.
+{100394}{100421}äto ûeliö?
+{100428}{100503}- Samo trenutak. Ne ûelim... | - Zaöto si onda doöao ovdje?
+{100505}{100594}»uo sam da ovdje imate najotmjeniju | javnu kuÊu na Ëitavom teritoriju.
+{100596}{100653}VeÊ dugo nisam imao dobru ûensku.
+{100741}{100802}Doi, pokazat Êu ti ono öto traûiö.
+{101587}{101636}äto se kuha? Doista sam gladan.
+{101781}{101853}- äto je to, k vragu? | - To je stroj koji usisava sag.
+{102005}{102046}Tko ûeli biti slijedeÊi?
+{102077}{102148}- Ja ne, imam mengu. | - Koja od nas ti se svia?
+{102157}{102227}Kvragu, nema neke razlike. Imat Êu vas sve.
+{102430}{102472}Prokletstvo.
+{102878}{102970}Blanche, danas je stigla neka poöta. | Ovo je za gu Miller.
+{102989}{103049}To je sigurno nova podsuknja | koju je naruËila.
+{103051}{103101}Nisu se öalili s ovim mjestom.
+{103103}{103202}- äto je to? Pismo za mene? | - To je za mene.
+{103256}{103379}- Odnijet Êu ovo gi Miller. | - G. McCabe, ona ima druötvo.
+{103508}{103549}Ostavit Êu ovdje.
+{104054}{104166}To me tako jako boli. Moûda sam premala?
+{104188}{104253}Ne, samo se moraö nauËiti opustiti, | to je sve.
+{104261}{104340}Mislim da Êe ovo biti dobro. | Ustani, skini gornji dio.
+{104363}{104449}Moraö prestati razmiöljati o tome, | misli na neöto drugo.
+{104454}{104523}Gledaj u zid. Broji ruûe na tapetama.
+{104568}{104630}äto radiö? Nema se öto sakriti.
+{104696}{104752}Stvar je u tome da to niöta ne znaËi.
+{104761}{104845}Moûda ti se i svidi. | Uspjela si s Bartom, zar ne?
+{104900}{104960}Da. Doista si mala. Ti si baö poput mene.
+{104978}{105020}Donijet Êu par ËavliÊa.
+{105054}{105140}- Ali s njim sam morala. To je bila duûnost. | - Okreni se.
+{105179}{105280}To ti nije bila duûnost, Ida. | UËinila si to da platiö za krevet i smjeötaj.
+{105292}{105311}I ovo takoer radiö | da platiö krevet i smjeötaj.
+{105336}{106836}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org

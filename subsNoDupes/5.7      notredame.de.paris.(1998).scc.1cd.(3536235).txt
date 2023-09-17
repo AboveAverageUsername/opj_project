@@ -1,0 +1,1628 @@
+{1}{1}25.000
+{189}{267}Mjuzikl prema|delu Viktora Igoa
+{276}{382}BogorodiËina|crkva u Parizu
+{405}{482}Libreto i stihovi:|Luk Plamondon
+{496}{575}Muzika:|RiËard KoÊante
+{600}{750}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{1628}{1687}Reditelj: éil Mao
+{1800}{1850}Ova priËa se deöava
+{1883}{1947}u lepom Parizu,|leta gospodnjeg
+{1965}{2031}hiljadu Ëetiri stotine|osamdeset druge,
+{2042}{2110}priËa o ljubavi|i poûudi.
+{2123}{2195}Mi, nepoznati|umetnici
+{2207}{2274}skulpturom|ili stihom
+{2286}{2350}pokuöaÊemo da|vam je opiöemo
+{2358}{2437}za vekove|koji dolaze.
+{2461}{2634}Doölo je vreme|katedrala,
+{2643}{2723}svet je uöao
+{2741}{2807}u novi milenijum.
+{2816}{2977}»ovek je poûeleo|da dohvati zvezde
+{2987}{3070}i ispiöe svoju priËu
+{3087}{3197}u staklu|ili u kamenu.
+{3238}{3293}Kamen po kamen,|dan za danom,
+{3318}{3383}vek za vekom|sa ljubavlju,
+{3401}{3468}gledao je|podizanje kula
+{3481}{3560}koje je gradio|sopstvenim rukama.
+{3568}{3635}Pesnici i trubaduri
+{3646}{3706}pevali su|ljubavne pesme
+{3724}{3786}koje su obeÊavale|ljudskom rodu
+{3793}{3863}bolje sutra.
+{3894}{4072}Doölo je vreme|katedrala,
+{4081}{4168}svet je uöao
+{4184}{4246}u novi milenijum.
+{4255}{4419}»ovek je poûeleo|da dohvati zvezde
+{4426}{4508}i ispiöe svoju priËu
+{4529}{4647}u staklu|ili u kamenu.
+{4683}{4858}Doölo je vreme|katedrala,
+{4871}{4954}svet je uöao
+{4973}{5036}u novi milenijum.
+{5045}{5201}»ovek je poûeleo|da dohvati zvezde
+{5215}{5298}i ispiöe svoju priËu
+{5315}{5460}u staklu|ili u kamenu.
+{5520}{5691}Proölo je|vreme katedrala,
+{5703}{5797}horde varvara su
+{5807}{5869}pred kapijom grada.
+{5878}{6037}Pustite da uu|pagani, vandali,
+{6046}{6130}kraj ovog sveta
+{6146}{6291}predvien je|za godinu 2000.
+{6314}{6501}Predvien je|za godinu 2000!
+{7078}{7136}Mi smo stranci
+{7150}{7173}bez isprava,
+{7182}{7241}muökarci i ûene
+{7256}{7279}bez boraviöta.
+{7286}{7353}O, Notrdame, od|tebe traûimo
+{7360}{7388}utoËiöte!
+{7396}{7429}UtoËiöte!
+{7441}{7490}Mi smo stranci
+{7510}{7537}bez isprava,
+{7545}{7597}muökarci i ûene
+{7617}{7642}bez boraviöta.
+{7654}{7713}O, Notrdame, od|tebe traûimo
+{7722}{7791}utoËiöte,|utoËiöte.
+{7802}{7864}Ima nas viöe|od hiljadu
+{7874}{7932}pred kapijom grada,
+{7943}{8000}uskoro Êe nas biti
+{8012}{8077}deset i viöe|stotina hiljada.
+{8086}{8152}BiÊe nas na milione
+{8160}{8218}koji Êe od tebe|traûiti
+{8231}{8273}utoËiöte!
+{8293}{8362}UtoËiöte!
+{8382}{8430}Mi smo stranci
+{8445}{8486}bez isprava,
+{8493}{8543}muökarci i ûene
+{8563}{8587}bez boraviöta.
+{8598}{8660}O, Notrdame, od|tebe traûimo
+{8668}{8738}utoËiöte,|utoËiöte.
+{8745}{8805}Mi smo lutalice
+{8815}{8876}pred kapijom grada,
+{8884}{8951}a grad je na ostrvu,
+{8960}{9018}na ostrvu Site.
+{9029}{9101}Svet Êe se promeniti
+{9108}{9167}i izmeöati,
+{9177}{9235}a mi Êemo se igrati
+{9244}{9312}na ovom ostrvu.
+{9329}{9374}Mi smo stranci
+{9396}{9422}bez isprava,
+{9431}{9489}muökarci i ûene
+{9505}{9534}bez boraviöta.
+{9543}{9588}Mi smo stranci
+{9613}{9642}bez isprava,
+{9650}{9710}muökarci i ûene
+{9722}{9751}bez boraviöta.
+{9877}{9903}Bez isprava...
+{10014}{10043}Bez boraviöta...
+{10195}{10243}Mi smo stranci
+{10304}{10332}bez isprava,
+{10341}{10392}muökarci i ûene
+{10449}{10474}bez boraviöta.
+{10485}{10542}Mi smo stranci
+{10595}{10623}bez isprava.
+{10630}{10694}Mi smo stranci
+{10707}{10731}bez isprava,
+{10739}{10794}muökarci i ûene
+{10810}{10838}bez boraviöta.
+{10846}{10906}Mi smo stranci
+{10919}{10947}bez isprava,
+{10954}{11010}muökarci i ûene
+{11028}{11053}bez boraviöta.
+{11062}{11119}O, Notrdame, od|tebe traûimo
+{11130}{11200}utoËiöte,|utoËiöte.
+{11210}{11261}Mi smo stranci
+{11282}{11312}bez isprava,
+{11318}{11378}muökarci i ûene
+{11389}{11417}bez boraviöta.
+{11425}{11481}O, Notrdame, od|tebe traûimo
+{11490}{11599}utoËiöte,|utoËiöte, utoËiöte.
+{11632}{11727}UtoËiöte!
+{12187}{12223}Gospodine Febuse|od äatopera,
+{12227}{12260}kapetanu|Kraljevskih strelaca,
+{12269}{12314}nareujem|vam da oterate
+{12322}{12363}sve ove odmetnike!
+{12380}{12409}Po svaku cenu|treba da zaustavimo
+{12416}{12454}ovu navalu stranaca
+{12462}{12490}koji dolaze|da ruöe mir
+{12501}{12560}graana Pariza.
+{12567}{12604}Po vaöim naredbama,|gospodine arhiepiskope,
+{12612}{12654}poÊi Êu u ime|boga, i do masakra,
+{12660}{12699}da oteram sa|vaöih oËiju
+{12708}{12770}sve te odrpance,|sve lutalice.
+{13039}{13098}Odakle si,|lepa strankinjo,
+{13153}{13212}Êerko neba|ili zemlje,
+{13260}{13316}lepa rajska ptico,
+{13365}{13480}öta radiö ovde?
+{13735}{13799}Ciganka,
+{13820}{13920}niko ne zna iz|koje zemlje dolazim.
+{13982}{14053}Ciganka,
+{14120}{14223}ja sam Êerka|velikih puteva.
+{14281}{14445}Ciganka, Ciganka,
+{14519}{14622}ko zna gde|Êu biti sutra?
+{14683}{14874}Ciganka, Ciganka,
+{14920}{15048}to je zapisano u|linijama moga dlana.
+{15182}{15262}Majka mi je|priËala o äpaniji,
+{15282}{15362}kao da je to|bila njena zemlja,
+{15376}{15454}i o razbojnicima|u planinama,
+{15472}{15546}planinama|Andaluzije,
+{15571}{15643}planinama|Andaluzije...
+{15671}{15741}Nemam viöe ni|oca ni majku,
+{15766}{15833}od Pariza sam|naËinila svoju zemlju,
+{15864}{15938}ali kad|zamislim more
+{15957}{16018}prenesem se|tamo daleko
+{16054}{16126}ka planinama|Andaluzije...
+{16193}{16253}Ciganka,
+{16276}{16386}niko ne zna iz|koje zemlje dolazim,
+{16430}{16541}Ciganka,
+{16553}{16660}ja sam Êerka|velikih puteva.
+{16703}{16875}Ciganka, Ciganka,
+{16930}{17040}ko zna koga Êu|voleti sutra?
+{17085}{17243}Ciganka, Ciganka,
+{17306}{17459}to je zapisano u|linijama moga dlana.
+{17603}{17678}Provela sam celo|svoje detinjstvo
+{17688}{17766}bosonoga po|brdima Provanse,
+{17777}{17843}za Cigane|put je dug,
+{17854}{17918}put je dug...
+{17983}{18056}NastaviÊu svoje lutanje
+{18070}{18142}i iza puteva|Francuske,
+{18157}{18227}pratiÊu ih do|kraja sveta,
+{18237}{18297}do kraja sveta!
+{18342}{18473}Reka Andaluzije
+{18493}{18569}teËe mojom krvlju,
+{18584}{18688}teËe mojim venama...
+{18698}{18838}Nebo Andaluzije,
+{18853}{18928}da li je vredno
+{18941}{19052}svih muka povratka?
+{19114}{19171}Ciganka,
+{19192}{19300}niko ne zna iz|koje zemlje dolazim,
+{19346}{19436}Ciganka,
+{19471}{19580}ja sam Êerka|velikih puteva.
+{19629}{19782}Ciganka, Ciganka,
+{19848}{19946}ko zna gde|Êu biti sutra.
+{20001}{20148}Ciganka, Ciganka,
+{20234}{20352}to je zapisano u|linijama mog dlana.
+{20412}{20621}To je zapisano u|linijama mog dlana.
+{21102}{21196}Esmeralda, ti znaö,
+{21209}{21296}nisi viöe dete,
+{21317}{21397}i ponekad se desi
+{21420}{21529}da te pogledam|drugaËije.
+{21538}{21635}Nisi imala|ni osam godina
+{21642}{21786}kada te je|majka napustila,
+{21795}{21885}odvela ju je smrt
+{21896}{22014}natrag u Andaluziju.
+{22070}{22171}Poverila te je meni
+{22181}{22275}i ljubomorno
+{22289}{22381}Ëuvao sam te
+{22390}{22487}sve do danas.
+{22518}{22609}Esmeralda, ti znaö,
+{22620}{22766}muökarci su zli,
+{22784}{22876}budi oprezna|kada juriö
+{22897}{22951}ulicama i poljima.
+{22960}{22993}Razumeö li me,
+{23006}{23226}ti si u godinama|kada se raa ljubav.
+{23246}{23409}Niöta nije kao|öto je bilo.
+{23855}{23906}Mojih Ëetrnaest|proleÊa su za tebe,
+{23915}{23963}dijamantska|ogrlica je za mene,
+{23973}{24024}reËi i tvoje|zakletve, ako laûeö
+{24032}{24073}neÊu im verovati.
+{24092}{24143}Tvoje devojaËko|srce je za mene,
+{24152}{24204}tvoje oËi golubice|su za mene,
+{24212}{24256}zvezde|svetlucaju na nebu
+{24267}{24324}slabije od|ovih dijamanata.
+{24332}{24386}Onaj koga|moje srce voli
+{24394}{24439}pravi je lepi vitez
+{24449}{24499}koji ne zna
+{24508}{24561}koliko mogu|da volim.
+{24569}{24621}Ako to nisam znao
+{24633}{24676}vidim to u|tvojim oËima,
+{24687}{24735}onaj koji|Êe te voleti
+{24747}{24800}biÊe sreÊan Ëovek.
+{24809}{24866}Ne traûi viöe|ljubav / ovde je.
+{24872}{24923}Ovde je zauvek|/ verujem joj.
+{24930}{24959}BiÊe lep dan,
+{24965}{24988}kao i dan
+{24994}{25054}naöeg venËanja.
+{25169}{25219}Svim zlatom|koje joö spava
+{25230}{25281}u postelji|pod zemljom
+{25291}{25344}pokriÊu tvoje telo
+{25354}{25401}koje Êeö|mi ponuditi.
+{25409}{25461}Sve reËi ljubavi,
+{25470}{25517}sve reËi poûude,
+{25526}{25581}bolje od|putujuÊih muziËara
+{25588}{25642}ti Êeö mi|izgovoriti.
+{25649}{25707}Ne traûi viöe|ljubav / ovde je.
+{25713}{25770}Ovde je zauvek|/ verujem joj.
+{25776}{25797}BiÊe lep dan,
+{25804}{25825}kao i dan
+{25832}{25872}naöeg venËanja.
+{26127}{26182}Ne traûi viöe|ljubav, ovde je.
+{26189}{26240}Ovde je zauvek,|verujem joj.
+{26248}{26275}BiÊe lep dan,
+{26282}{26305}kao i dan
+{26312}{26357}naöeg venËanja.
+{26367}{26397}BiÊe lep dan,
+{26405}{26425}kao i dan
+{26433}{26489}naöeg venËanja.
+{26498}{26529}Kao i dan
+{26538}{26608}naöeg venËanja.
+{27567}{27639}Praznik ludaka!
+{27649}{27730}Praznik ludaka!
+{27748}{27826}Praznik ludaka!
+{27841}{27922}Praznik ludaka!
+{28133}{28169}Dozvolite mi|da predsedavam
+{28178}{28216}ovim Praznikom|ludaka,
+{28226}{28262}onakvim kakav|se slavi kod nas
+{28268}{28301}koji umemo da|se zabavljamo.
+{28308}{28381}Praznik ludaka!
+{28394}{28479}Praznik ludaka!
+{28688}{28726}Izaberite|najruûnijeg
+{28733}{28771}meu prolaznicima,
+{28778}{28811}neka paradiraju
+{28817}{28856}posred trga.
+{28862}{28933}Od svih njih|onaj koji nam
+{28944}{28990}napravi|najlepöu grimasu
+{28997}{29032}osvojiÊe krunu...
+{29038}{29114}Pape ludaka!
+{29127}{29209}Pape ludaka!
+{29228}{29269}On Êe|osvojiti krunu,
+{29276}{29387}on Êe osvojiti|krunu pape ludaka!
+{29594}{29631}Praz...
+{29695}{29713}...nik
+{29788}{29813}lu...
+{29881}{29909}...daka!
+{29984}{30053}Praznik ludaka!
+{30070}{30149}Praznik ludaka!
+{30166}{30244}Praznik ludaka!
+{30259}{30339}Praznik ludaka!
+{30358}{30434}Praznik ludaka!
+{30452}{30525}Praznik ludaka!
+{30557}{30589}Ali ko je to tamo,
+{30599}{30639}ko se krije|tamo pozadi,
+{30646}{30716}zar nije to Ëudoviöte|koje Êe osvojiti krunu...
+{30725}{30800}Pape ludaka!
+{30814}{30898}Pape ludaka!
+{30915}{30956}On Êe|osvojiti krunu,
+{30965}{31064}on Êe osvojiti|krunu pape ludaka!
+{31109}{31193}To je zvonar|sa grbom,
+{31202}{31234}on je sigurno|najruûniji,
+{31240}{31274}to je Kvazimodo.
+{31283}{31319}Povrh svega|poûudno gleda
+{31329}{31368}lepu Esmeraldu,
+{31379}{31416}grbav, hrom i|bez jednog oka,
+{31425}{31451}on Êe osvojiti|krunu...
+{31458}{31530}Pape ludaka!
+{31546}{31626}Pape ludaka!
+{31645}{31687}On Êe|osvojiti krunu,
+{31698}{31727}on Êe|osvojiti krunu.
+{31734}{31803}|Kva-zi-mo-do!
+{31835}{31874}On Êe|osvojiti krunu,
+{31881}{31914}on Êe osvojiti|krunu...
+{31921}{31996}Pape ludaka!
+{32023}{32059}On Êe|osvojiti krunu,
+{32069}{32102}on Êe|osvojiti krunu.
+{32113}{32195}Kva-zi-mo-do!
+{32217}{32291}Papa ludaka!
+{32590}{32690}DevojËice, neÊete|se viöe rugati
+{32707}{32845}kada na ulici vidite|grbavca Kvazimoda.
+{32858}{32932}Krunisali su me za
+{32939}{32986}papu ludaka,
+{32999}{33123}danas je|Bogojavljanje
+{33143}{33252}i na jedan dan|imaÊu sva prava.
+{33269}{33325}HoÊeö li me voleti,
+{33338}{33398}Esmeralda,
+{33412}{33471}hoÊeö li me voleti?
+{33653}{33730}Tebi nije|stalo do toga,
+{33792}{33878}Esmeralda,
+{33949}{34023}tebi nije|stalo do toga
+{34080}{34193}öto su me krunisali
+{34222}{34308}za papu ludaka.
+{34425}{34520}DevojËice dok|pevaju rondo
+{34532}{34588}rugaju se Kvazimodu,
+{34595}{34651}sa njegovom grbom.
+{34675}{34732}Kako se oseÊate
+{34742}{34805}öto sam tako ruûan,
+{34819}{34944}mrzim ûenu i muökarca|koji su me stvorili
+{34967}{35076}i napustili me|i nisu me voleli.
+{35092}{35150}HoÊeö li me voleti,
+{35161}{35217}Esmeralda,
+{35233}{35294}hoÊeö li me voleti?
+{35471}{35546}Tebi nije|stalo do toga,
+{35614}{35688}Esmeralda,
+{35764}{35838}tebi nije|stalo do toga
+{35901}{36002}öto su me krunisali
+{36042}{36167}za papu ludaka.
+{36201}{36270}Papu ludaka!
+{36330}{36446}Papu ludaka!
+{36484}{36596}Papu ludaka!
+{37156}{37196}Pazite se, ova|devojka je strankinja,
+{37209}{37260}ona je Ciganka,|veötica,
+{37271}{37320}ona je kuja,|uliËna maËka,
+{37326}{37381}ûivotinja koja se|prikrada, bosonoga hoda.
+{37397}{37461}Smrtni je greh|gledati je!
+{37504}{37550}Treba da je|zatvorimo u kavez
+{37562}{37610}kako bismo|zaustavili uniötavanje
+{37620}{37741}srca i duöa vernika|BogorodiËine crkve.
+{37762}{37845}VeËeras Êemo je|pratiti sokacima
+{37856}{37898}i oteraÊemo je,
+{37909}{37970}zatvoriÊemo|je u kulu
+{37983}{38026}i uËiÊemo je
+{38043}{38094}religiji|Isusa Hrista
+{38106}{38181}i svete|majke Marije.
+{38209}{38315}Od mene moûeö da|traûiö bilo öta
+{38321}{38375}i uËiniÊu|to za tebe,
+{38384}{38442}sve öto poûeliö,|ti to znaö,
+{38456}{38574}sve öto poûeliö,|uËiniÊu za tebe,
+{38587}{38666}uËiniÊu za tebe!
+{38741}{38801}Ti, koji si|me prihvatio,
+{38815}{38868}usvojio i hranio,
+{38879}{38931}mene, nahoËe,
+{38946}{39060}dete odbaËeno od onih|koji su se stideli
+{39074}{39131}öto su|doneli na svet
+{39157}{39218}Ëudoviöte!
+{39237}{39305}Ti, koji si|gledao kako rastem,
+{39316}{39365}ti, koji si|gledao kako patim,
+{39376}{39432}ti, koji si|me zaötitio
+{39441}{39500}od Ëitavog sveta,
+{39506}{39556}uËinio si me sreÊnim
+{39567}{39636}kada si mi|namenio da
+{39657}{39722}budem zvonar!
+{39755}{39861}NauËio si me|da govorim,
+{39875}{39981}da Ëitam i piöem,
+{40000}{40107}ali ne mogu|da proËitam
+{40125}{40235}tvoje najdublje|misli.
+{40484}{40530}Pripadam tebi
+{40545}{40591}celim svojim biÊem,
+{40609}{40665}kao öto nijedan pas
+{40683}{40775}nije voleo|svog gospodara.
+{40827}{40930}Pripadam tebi|celim svojim biÊem,
+{40944}{41004}kao öto nijedan pas
+{41017}{41123}nije voleo|svog gospodara!
+{41540}{41626}Kapije Pariza
+{41654}{41745}zatvaraju se u noÊi,
+{41789}{41873}u noÊi sa svim|njenim kricima,
+{41901}{41983}smehom i poûudom,
+{41991}{42146}u noÊi u kojoj su svi|gresi zadovoljeni ñ
+{42174}{42246}u postelji Pariza,
+{42272}{42350}predstava poûude.
+{42380}{42469}Na mostu|Pont-o-äanû
+{42480}{42587}veËeras Êu|sresti jednog anela
+{42603}{42638}koji mi se osmehnuo,
+{42654}{42766}a zatim nestao.
+{42793}{42876}Ulicama Pariza
+{42907}{43002}pratio sam|je i izgubio,
+{43035}{43132}sledio sam je u noÊi
+{43156}{43242}kroz sav|smeh i ûelje,
+{43250}{43393}u noÊi u kojoj su svi|gresi zadovoljeni ñ
+{43427}{43489}u postelji Pariza,
+{43525}{43592}predstava poûude.
+{43651}{43735}Kapije Pariza
+{43767}{43866}zatvaraju se u noÊi,
+{43896}{43999}u noÊi sa svim|njenim zloËinima,
+{44017}{44196}smehom i poûudom.
+{45318}{45351}Ja sam kapetan,
+{45362}{45422}odgovoran|za bezbednost
+{45467}{45498}svih graana
+{45518}{45571}i svih graanki.
+{45658}{45728}Dozvolite da|vas otpratim
+{45743}{45810}izvan zidina ostrva,
+{45842}{45896}tamo gde|ûive Cigani,
+{45923}{45990}tamo gde|ûive Ciganke.
+{46004}{46069}Idite svojim putem,
+{46082}{46171}mislim da ste|se prevarili.
+{46212}{46387}Esmeralda, gospodine,|nije devojka za vojnike.
+{46429}{46490}U sumrak,
+{46506}{46600}sutra kada|proe dan,
+{46632}{46706}doÊi Êu da te vidim
+{46727}{46824}u "Dolini ljubavi".
+{46868}{46969}U "Dolini|ljubavi"...
+{47543}{47583}Ovde smo svi braÊa,
+{47608}{47671}i u radosti i|u bedi,
+{47688}{47787}ovde neÊete naÊi|ni raj ni pakao ñ
+{47799}{47867}ni raj ni pakao.
+{47910}{47952}Ovde smo kao crvi...
+{48019}{48136}Kao crvi koji trunu u|unutraönjosti zemlje.
+{48166}{48218}Krv i vino su|iste boje...
+{48229}{48255}U Dvoru Ëudesa!
+{48265}{48297}U Dvoru Ëudesa!
+{48309}{48369}Prijateljice noÊi|pleöu sa lopovima...
+{48380}{48406}U Dvoru Ëudesa!
+{48414}{48444}U Dvoru Ëudesa!
+{48462}{48526}Prosjaci i razbojnici|pleöu isti ples...
+{48536}{48556}U Dvoru Ëudesa!
+{48564}{48593}U Dvoru Ëudesa!
+{48608}{48669}Svi smo spremni|za veöala...
+{48679}{48706}U Dvoru Ëudesa!
+{48713}{48744}U Dvoru Ëudesa!
+{48754}{48782}U Dvoru Ëudesa!
+{48792}{48864}U Dvoru Ëudesa!
+{48890}{48944}Svi smo od|iste sorte,
+{48957}{49013}od onih koji se|ne zaustavljaju,
+{49033}{49138}ovde neÊete pronaÊi ni|religiju niti naciju,
+{49146}{49214}ni religiju|niti naciju.
+{49257}{49315}Naöe krpe su|naöe zastave...
+{49371}{49476}Boja moje koûe|odmah pored tvoje!
+{49517}{49573}Cigani i propalice|pevaju istu pesmu...
+{49581}{49605}U Dvoru Ëudesa!
+{49613}{49644}U Dvoru Ëudesa!
+{49660}{49720}Jer svi smo|izbegli zatvor...
+{49728}{49754}U Dvoru Ëudesa!
+{49762}{49794}U Dvoru Ëudesa!
+{49809}{49879}Lopovi i ubice|piju iz iste Ëaöe...
+{49885}{49906}U Dvoru Ëudesa!
+{49915}{49947}U Dvoru Ëudesa!
+{49961}{50022}Jer mi smo odmetnici|od zakona...
+{50033}{50057}U Dvoru Ëudesa!
+{50065}{50092}U Dvoru Ëudesa!
+{50101}{50130}U Dvoru Ëudesa!
+{50140}{50208}U Dvoru Ëudesa!
+{50277}{50308}PesniËe Grengoare,
+{50348}{50373}biÊeö obeöen,
+{50382}{50445}osuen si zbog upada
+{50450}{50484}na svetu zemlju
+{50498}{50572}Dvora Ëudesa.
+{50607}{50657}Upad u svetu zemlju!
+{50720}{50839}Upad u svetu zemlju,|ovde u Dvoru Ëudesa.
+{50914}{50939}Ukoliko te neka ûena
+{50984}{51016}ne uzme za muûa,
+{51024}{51066}Ëuvaj se,|upozoravam te.
+{51072}{51123}Pesnici Francuske
+{51134}{51206}dobri su samo|za veöanje.
+{51249}{51299}Pesnici Francuske...
+{51357}{51393}Pesnici Francuske
+{51399}{51472}dobri su samo|za veöanje.
+{51629}{51671}A ti lepotice,
+{51698}{51723}moja lepa Esmeralda,
+{51735}{51773}hoÊeö li ti|uzeti za muûa
+{51779}{51836}ovog bezvrednog|pesnika,
+{51845}{51901}ovog bezvrednog|pesnika?
+{51960}{52075}Ako je za|uzimanje, uzeÊu ga.
+{52112}{52216}Dajem ti ga za muûa, ali|ne baö i za ljubavnika!
+{52404}{52459}Krv i vino su|iste boje...
+{52470}{52499}U Dvoru Ëudesa!
+{52509}{52539}U Dvoru Ëudesa!
+{52554}{52613}Prijateljice noÊi|pleöu sa lopovima...
+{52622}{52649}U Dvoru Ëudesa!
+{52658}{52691}U Dvoru Ëudesa!
+{52705}{52759}Prosjaci i razbojnici|pleöu isti ples...
+{52771}{52798}U Dvoru Ëudesa!
+{52807}{52836}U Dvoru Ëudesa!
+{52853}{52911}Svi smo spremni|za veöala...
+{52923}{52945}U Dvoru Ëudesa!
+{52957}{52986}U Dvoru Ëudesa!
+{52996}{53024}U Dvoru Ëudesa!
+{53034}{53110}U Dvoru Ëudesa!
+{53194}{53252}Cigani i propalice|pevaju istu pesmu...
+{53261}{53289}U Dvoru Ëudesa!
+{53296}{53326}U Dvoru Ëudesa!
+{53341}{53400}Jer svi smo|izbegli zatvor...
+{53410}{53439}U Dvoru Ëudesa!
+{53447}{53475}U Dvoru Ëudesa!
+{53491}{53560}Lopovi i ubice|piju iz iste Ëaöe...
+{53567}{53589}U Dvoru Ëudesa!
+{53596}{53629}U Dvoru Ëudesa!
+{53640}{53703}Jer mi smo odmetnici|od zakona...
+{53712}{53737}U Dvoru Ëudesa!
+{53746}{53774}U Dvoru Ëudesa!
+{53783}{53813}U Dvoru Ëudesa!
+{53821}{53864}U Dvoru Ëudesa!
+{54052}{54087}U Dvoru Ëudesa!
+{54198}{54258}U Dvoru Ëudesa!
+{54350}{54426}U Dvoru Ëudesa!
+{54944}{55004}A sada, mogu|li da znam
+{55049}{55120}za koga sam imala|Ëast da se udam?
+{55168}{55217}Ja sam pesnik|Grengoar,
+{55226}{55274}ja sam princ|pariskih ulica.
+{55284}{55345}On je princ|pariskih ulica!
+{55396}{55450}Ja nisam ûenskaroö,
+{55462}{55500}ali ako ûeliö biÊeö
+{55509}{55611}moja nimfa, moja|muza, moja gospa...
+{55623}{55698}Ti, koji znaö|da Ëitaö i piöeö,
+{55735}{55797}ti, pesnik, da li|moûeö da mi kaûeö
+{55813}{55846}öta znaËi Febus?
+{55853}{55905}Tako mi Jupitera,|ko se usuuje
+{55922}{55960}da se tako zove?
+{55966}{56033}To je onaj za kim|moje srce kuca.
+{56072}{56125}Ako se seÊam|svog latinskog
+{56131}{56187}reË "febus"|znaËi "sunce".
+{56198}{56277}Febus znaËi sunce!
+{56361}{56454}On je lep kao sunce,
+{56466}{56568}da li je princ,|sin kralja?
+{56577}{56668}OseÊam kako se|duboko u meni
+{56679}{56745}budi ljubav
+{56753}{56788}jaËa od mene.
+{56798}{56900}On je lep kao sunce,
+{56912}{57011}on je princ,|sin kralja.
+{57045}{57202}Kralja... verujem.
+{57248}{57340}On je lep kao sunce,
+{57356}{57458}on je nevaljalac,|vojnik.
+{57470}{57557}Kada me drûi u naruËju
+{57568}{57671}ûelim da pobegnem,|ali ne mogu.
+{57691}{57790}On je lep kao sunce,
+{57800}{57921}on je nevaljalac,|vojnik.
+{57941}{58114}Vojnik... kraljev.
+{58134}{58230}On je lep kao sunce,
+{58244}{58344}moje Ëudo,|moj muökarac.
+{58354}{58447}UzeÊe me u|svoje naruËje
+{58455}{58566}i voleÊe me|Ëitavog ûivota.
+{58577}{58676}On je lep kao sunce,
+{58689}{58790}moje Ëudo,|moj muökarac.
+{58800}{58901}On je lep kao sunce,
+{58950}{59116}lep kao sunce.
+{59482}{59508}Rastrzan,
+{59518}{59556}ja sam podeljen|muökarac,
+{59563}{59595}rastrzan
+{59608}{59644}izmeu dve|ûene koje volim,
+{59652}{59688}izmeu dve ûene|koje vole mene,
+{59697}{59786}treba li da|preseËem srce napola?
+{59826}{59860}Rastrzan,
+{59869}{59907}ja sam dva|muökarca u jednom,
+{59914}{59945}rastrzan
+{59954}{59989}izmeu dve|ûene koje volim,
+{59999}{60033}izmeu dve ûene|koje vole mene,
+{60042}{60119}da li sam ja kriv|öto imam sreÊe?
+{60170}{60203}Jedna za dan,
+{60211}{60246}a druga za noÊ,
+{60255}{60286}jedna za ljubav,
+{60295}{60333}druga za ûivot,
+{60341}{60374}jedna za veËnost
+{60383}{60419}do kraja vremena ñ
+{60427}{60463}a druga za|neko vreme
+{60472}{60500}ili neöto|malo manje.
+{60512}{60545}Rastrzan,
+{60554}{60589}ja sam podeljen|muökarac,
+{60598}{60629}rastrzan
+{60640}{60675}izmeu dve|ûene koje volim,
+{60684}{60716}izmeu dve ûene|koje vole mene,
+{60725}{60803}nisam ja taj|koji Ëini zlo.
+{60856}{60890}Rastrzan,
+{60899}{60935}ja sam dva|muökarca u jednom,
+{60943}{60975}rastrzan
+{60983}{61020}izmeu dve|ûene koje volim,
+{61027}{61060}izmeu dve ûene|koje vole mene,
+{61068}{61155}da li je moja greöka|öto sam samo muökarac?
+{61199}{61232}Jedna za raj,
+{61240}{61276}druga za pakao,
+{61283}{61318}jedna za slatko,
+{61325}{61362}druga za gorko,
+{61369}{61429}jedna kojoj|Êu izgovoriti
+{61442}{61458}sve zakletve,
+{61465}{61526}i jedna kojoj Êu|ih sve opovrgnuti.
+{61537}{61573}Rastrzan,
+{61581}{61621}ja sam podeljen|muökarac,
+{61628}{61659}rastrzan
+{61668}{61705}izmeu dve|ûene koje volim,
+{61714}{61746}izmeu dve ûene|koje vole mene,
+{61754}{61832}treba li da|preseËem srce napola?
+{61870}{61888}Ne!
+{62227}{62260}Rastrzan,
+{62271}{62306}ja sam dva|muökarca u jednom,
+{62315}{62346}rastrzan
+{62355}{62390}izmeu dve|ûene koje volim,
+{62399}{62434}izmeu dve ûene|koje vole mene,
+{62442}{62518}da li sam ja kriv|öto imam sreÊe?
+{62569}{62606}Rastrzan!
+{62749}{62789}Rastrzan!
+{62908}{63008}Rastrzan!
+{63087}{63208}Rastrzan!
+{63254}{63287}Rastrzan,
+{63298}{63333}ja sam podeljen|muökarac,
+{63343}{63374}rastrzan
+{63383}{63419}izmeu dve|ûene koje volim,
+{63428}{63461}izmeu dve ûene|koje vole mene,
+{63471}{63548}treba li da|preseËem srce napola?
+{63597}{63662}Rastrzan!
+{63769}{63887}Rastrzan!
+{63943}{63996}Rastrzan!!!
+{64227}{64256}Ko je ova|devojka öto pleöe
+{64262}{64305}svoj sramotni|ples ispred crkve?
+{64326}{64357}Ta devojka|je moja ûena,
+{64369}{64397}dao mi ju je
+{64407}{64442}kralj Cigana.
+{64460}{64480}Da li si je dotakao,
+{64492}{64536}slugo Satane?
+{64552}{64584}Nisam se usudio...
+{64596}{64634}I ja ti zabranjujem!
+{64651}{64699}éeleo sam da|vam pokaûem
+{64712}{64759}jednu|izgraviranu reË,
+{64773}{64814}tamo na kamenu
+{64836}{64885}kod Galerije|kraljeva.
+{64904}{64956}Recite mi öta znaËi|ta reË "anarkia"?
+{64978}{65003}Ti si|opsednut Ëovek,
+{65013}{65057}ta grËka reË "anarkia"|znaËi "sudbina"!
+{65080}{65130}Nije li to Kvazimodo
+{65140}{65197}koga tamo odvode?
+{65208}{65250}Idiot,|uhapsili su ga,
+{65258}{65295}ko zna zaöto!
+{65538}{65598}Grbavac! Hrom!|Jednook! Silovatelj!
+{65625}{65684}Prokleti zvonar!
+{65711}{65781}Molite za njega,|jadni greönik,
+{65795}{65922}imaj milosti prema|njemu, Gospode.
+{66056}{66152}Milost za|jadnog Kvazimoda,
+{66164}{66246}koji veÊ na|svojim leima nosi
+{66259}{66341}sva zla ovoga sveta
+{66356}{66486}i traûi od vas|samo kap vode.
+{66621}{66718}Imajte milosti,|prolaznici, za boûjeg slugu,
+{66729}{66773}samo kap vode
+{66794}{66866}za Kvazimoda.
+{66992}{67046}Da pijem...
+{67151}{67258}Dajte mi da pijem!
+{67353}{67618}Da pijem...|Da pijem!
+{67883}{67989}Dajte mi da pijem.
+{68239}{68317}Lepotica,|lepotica...
+{68672}{68713}Lepotica,
+{68722}{68840}to je reË kaûu|izmiöljena za nju,
+{68864}{69003}kada pleöe i izlaûe|svoje telo danu,
+{69012}{69149}kao ptica kada öiri|svoja krila u letu,
+{69165}{69294}oseÊam kako se pakao|otvara pod mojim nogama.
+{69309}{69435}Spuötam pogled pod|njenu cigansku haljinu,
+{69457}{69560}Ëemu da se viöe|molim Bogorodici?
+{69589}{69762}Ko je taj koji Êe|baciti prvi kamen,
+{69785}{69910}onaj ko ne|zasluûuje da ûivi.
+{69926}{70059}O Luciferu, o, dozvoli|mi da bar jednom
+{70078}{70208}proem prstima kroz|Esmeraldinu kosu.
+{70463}{70501}Lepotica,
+{70514}{70620}da li je to avo|otelotvoren u njoj
+{70659}{70775}da odvrati moj|pogled sa veËnog boga,
+{70805}{70927}koji je uneo u|moje biÊe telesnu ûelju
+{70953}{71082}da me spreËi da|gledam u nebesa?
+{71098}{71228}Ona u sebi nosi|prvobitni greh,
+{71246}{71360}da li me Ëini zloËincem|to öto je ûelim?
+{71377}{71492}Ona, koju smatraju|prijateljicom noÊi,
+{71502}{71551}niËijom Êerkom,
+{71571}{71692}odjednom izgleda kao da|nosi krst ËoveËanstva.
+{71719}{71838}O Bogorodice, o,|dozvoli mi da bar jednom
+{71865}{71998}proem  kroz vrata|Esmeraldine baöte.
+{72255}{72292}Lepotica,
+{72305}{72408}sa tim krupnim tamnim|oËima kojima oËarava,
+{72450}{72565}da li je gospoica|joö devica?
+{72597}{72734}Kroz njene pokrete|vidim visove i Ëuda,
+{72743}{72868}pod njenom|suknjom boje duge.
+{72887}{73024}Moja obeÊana dozvolite mi|da joö jednom budem neveran
+{73035}{73154}pre nego öto vas|odvedem do oltara.
+{73171}{73351}Ko je taj koji moûe|da skrene pogled sa nje
+{73365}{73484}i rizikuje da se|pretvori u stub soli?
+{73512}{73631}O, Ljiljana, nisam Ëovek|kome se moûe verovati,
+{73658}{73787}ubraÊu cvet|Esmeraldine ljubavi.
+{74096}{74224}Spuötam pogled pod|njenu cigansku haljinu,
+{74249}{74364}Ëemu da se viöe|molim Bogorodici?
+{74376}{74552}Ko je taj koji Êe|baciti prvi kamen,
+{74577}{74698}onaj ko ne|zasluûuje da ûivi.
+{74717}{74850}O Luciferu, o, dozvoli|mi da bar jednom
+{74865}{75023}proem prstima kroz|Esmeraldinu kosu.
+{75093}{75262}Esmeralda...
+{75851}{76001}Moji prijatelji od kamena|koji Êe bdeti nad tobom,
+{76023}{76170}zaötitiÊe te|od svih ludaka.
+{76199}{76316}Kada ti bude|potrebno skloniöte
+{76374}{76496}samo ovamo doi|i traûi utoËiöte.
+{76506}{76585}BogorodiËina|crkva u Parizu,
+{76599}{76669}to je moja kuÊa,|moje gnezdo,
+{76683}{76760}to je moj grad,|to je moj ûivot,
+{76774}{76850}moj vazduh, moj|krov, moj leûaj.
+{76865}{76944}To je moja|pesma, moj plaË,
+{76956}{77032}moj razum,|moja ludost,
+{77048}{77115}moja strast,|moja zemlja,
+{77136}{77187}moj zatvor,|moja domovina.
+{77205}{77325}Tvoji kameni prijatelji|su i moji prijatelji,
+{77349}{77498}oni me zasmejavaju u|danima kada se dosaujem.
+{77529}{77628}A ti, ti si im sliËan|i to mi se dopada,
+{77703}{77811}iako se uplaöim od tebe|kad god te ugledam.
+{77838}{78002}U mojoj kuÊi|uvek je lepo,
+{78016}{78096}zima je|manje hladna,
+{78105}{78181}leto je manje toplo.
+{78192}{78274}Kad god|poûeliö ti doi,
+{78286}{78357}u bilo koje|doba godine,
+{78374}{78452}moja kuÊa|Êe, ako ûeliö,
+{78464}{78553}biti i tvoja kuÊa.
+{78915}{79045}Kada ti bude|potrebno skloniöte,
+{79083}{79204}samo ovamo doi|i traûi utoËiöte.
+{79215}{79295}U mojoj / tvojoj kuÊi
+{79304}{79381}uvek je lepo,
+{79395}{79474}zima je|manje hladna,
+{79483}{79557}leto je manje toplo.
+{79573}{79654}Kad god poûeliö ti doi|/ Kad poûelim doÊi Êu
+{79664}{79737}u bilo koje|doba godine,
+{79751}{79833}moja kuÊa Êe, ako ûeliö,|/ tvoja kuÊa Êe, ako ûelim,
+{79849}{79935}biti i tvoja kuÊa...
+{80017}{80125}biti i moja kuÊa...
+{80536}{80716}Ave Marija,
+{80746}{80874}oprosti mi
+{80955}{81161}ako pred tobom|ostanem uspravna.
+{81170}{81342}Ave Marija,
+{81348}{81554}mene koja ne|umem da kleËim,
+{81591}{81762}ave Marija,
+{81800}{81968}zaötiti me
+{81982}{82158}od bede, od|zla i budala
+{82218}{82385}koji vladaju svetom.
+{82546}{82712}Ave Marija
+{82722}{82946}stranci dolaze|sa svih strana.
+{82965}{83154}Ave Marija,
+{83179}{83330}sasluöaj me.
+{83353}{83528}Sruöi zidove|izmeu nas,
+{83599}{83770}svih nas koji|smo braÊa.
+{83919}{84083}Ave Marija,
+{84094}{84307}bdi nad mojim danima|i mojim noÊima,
+{84339}{84526}ave Marija,
+{84550}{84724}zaötiti me.
+{84732}{84911}Bdi nad mojom ljubavlju|i mojim ûivotom,
+{84986}{85198}Ave Marija...
+{85760}{85790}OseÊam da mi|ûivot izmiËe
+{85833}{85882}ka nepoznatoj|zemlji,
+{85934}{86000}oseÊam masu|kako se povlaËi
+{86044}{86091}kada prolazim|ulicom,
+{86101}{86147}ja sam|ogoljen Ëovek,
+{86169}{86226}ogoljen Ëovek.
+{86527}{86628}Ovaj okean strasti koji|pulsira mojim venama
+{86636}{86714}uzrok je moje ludosti,|skretanja sa puta,
+{86721}{86746}moje loöe sreÊe,
+{86754}{86855}neûno u njemu tonem|bez ruke da me spase,
+{86864}{86913}polako se u|njemu davim
+{86920}{86966}bez kajanja.
+{86975}{87020}UniötiÊeö me,
+{87032}{87073}uniötiÊeö me,
+{87088}{87189}a ja Êu te proklinjati|do kraja ûivota.
+{87200}{87242}UniötiÊeö me,
+{87251}{87303}uniötiÊeö me,
+{87312}{87352}mogao sam|da predvidim
+{87364}{87384}od prvog dana,
+{87392}{87427}od prve noÊi.
+{87435}{87473}UniötiÊeö me,
+{87484}{87526}uniötiÊeö me,
+{87542}{87590}uniötiÊeö me.
+{87654}{87703}Moj grehu,|moja opsesijo,
+{87712}{87761}luda ûeljo|koja me muËiö,
+{87768}{87816}od mene|praviö budalu,
+{87825}{87874}kidaö me i|proganjaö.
+{87881}{87930}Mala prodavaËice|iluzija,
+{87938}{87986}ûivim iöËekujuÊi|samo jedno,
+{87994}{88044}da vidim tvoju|suknju da poleti,
+{88052}{88101}dok ti pleöeö|i pevaö.
+{88107}{88150}UniötiÊeö me,
+{88161}{88205}uniötiÊeö me,
+{88221}{88323}a ja Êu te proklinjati|do kraja ûivota.
+{88332}{88379}UniötiÊeö me,
+{88386}{88428}uniötiÊeö me.
+{88446}{88486}mogao sam|da predvidim
+{88494}{88522}od prvog dana,
+{88527}{88557}od prve noÊi.
+{88564}{88605}UniötiÊeö me,
+{88614}{88663}uniötiÊeö me,
+{88673}{88738}uniötiÊeö me.
+{89018}{89062}Verovao sam da sam|u jeseni ûivota,
+{89072}{89119}a evo me kao da|sam mlado drvo.
+{89128}{89175}Verovao sam da|sam od Ëelika,
+{89184}{89230}daleko od|vatre tela ñ
+{89239}{89287}ja sam u|vatri, ja gorim
+{89296}{89342}zbog oËiju|jedne strankinje
+{89351}{89399}u kojoj ima viöe|tajanstvenosti
+{89407}{89456}nego u|svetlosti meseca.
+{89465}{89508}UniötiÊeö me,
+{89517}{89564}uniötiÊeö me,
+{89577}{89675}a ja Êu te proklinjati|do kraja ûivota.
+{89685}{89734}UniötiÊeö me,
+{89746}{89787}uniötiÊeö me,
+{89806}{89845}mogao sam|da predvidim
+{89852}{89875}od prvog dana,
+{89882}{89912}od prve noÊi.
+{89920}{89962}UniötiÊeö me,
+{89972}{90020}uniötiÊeö me,
+{90030}{90097}uniötiÊeö me...
+{90209}{90253}UniötiÊeö me.
+{90378}{90422}UniötiÊeö me,
+{90433}{90481}uniötiÊeö me,
+{90504}{90583}uniötiÊeö me...
+{90966}{91005}Ko je ovaj Ëovek,
+{91035}{91082}da li me to|moja senka prati
+{91090}{91169}ili je to|fantom u noÊi?
+{91228}{91274}Zaöto bi moja senka
+{91297}{91432}nosila kaput,|nosila öeöir?
+{91493}{91542}Ko ste vi?
+{91558}{91607}Otkrijte se.
+{91629}{91677}Priite bliûe.
+{91699}{91761}Predstavite se!
+{91774}{91898}Ja sam tvoja|savest, sasluöaj me,
+{91908}{92038}ako ne ûeliö da|zavröiö na veöalima.
+{92049}{92104}Kraljev vojniËe,
+{92119}{92171}udalji se|sa ovog mesta
+{92177}{92264}kuda su te poveli|tvoji koraci.
+{92310}{92371}Kraljev|vojnik jesam,
+{92380}{92431}ali recite mi,
+{92450}{92577}vi koji ste me|pratili dovde ñ
+{92589}{92717}zar vi niste|boûji Ëovek?
+{92759}{92850}Naravno!
+{93006}{93069}Gore uz|ulicu Sen Deni
+{93143}{93206}postoji jedno|blagosloveno mesto
+{93216}{93275}gde se mogu videti|sveÊe kako gore
+{93284}{93333}Ëim poËne|da pada mrak.
+{93409}{93473}Tamo usred ravnice,
+{93547}{93610}dovoljno je da|jednom odete,
+{93620}{93733}uvek Êete se vraÊati|u "Dolinu ljubavi".
+{93743}{93798}U "Dolini ljubavi"|ûene ljubavi
+{93810}{93869}pruûiÊe vam ljubav|za nekoliko novËiÊa,
+{93880}{93938}ne treba vam|zlato, ni nakit,
+{93950}{94011}ne trebaju vam|govori, ni neûne reËi,
+{94020}{94078}samo par novËiÊa da|biste vodili ljubav
+{94083}{94133}sa ûenama ljubavi|u "Dolini ljubavi".
+{94143}{94201}Andaluzijci,|Jevreji i Maori,
+{94211}{94274}sa raznih strana i|iz raznih luka dolaze,
+{94282}{94339}putnici i|trgovci u prolazu
+{94351}{94407}ovde se odmaraju,
+{94419}{94536}Katalonci i Flamanci ovde|spiskaju sve svoje novce.
+{94612}{94682}éene ljubavi|koje me sluöaju,
+{94752}{94829}to je razgovor|trubadura
+{94892}{95006}koji plaËu zbog tuûne|ljubavi u "Dolini ljubavi".
+{95014}{95075}Udarite daire|po komöiluku,
+{95086}{95147}neka poûure u|"Dolinu ljubavi",
+{95155}{95216}nema opasnosti|da se zaljubite
+{95225}{95284}u ono öto je pod|odeûdom "Doline ljubavi",
+{95294}{95349}pronaÊi Êete| pod somotom
+{95357}{95409}cvet za jednu noÊ,|sreÊu za jedan dan.
+{95485}{95547}Kada me telo|boli zbog ljubavi
+{95624}{95703}ja odem do|"Doline ljubavi",
+{95765}{95877}i ostanem tamo do zore|ñ u "Dolini ljubavi".
+{95885}{95951}Izvinite, gospoice,
+{96022}{96096}ja Ëekam lepu|Esmeraldu,
+{96164}{96221}ona veruje da je|proËitala svoju sudbinu
+{96228}{96279}u linijama|moga dlana.
+{96288}{96348}Na severnoj|kapiji u predgrau,
+{96357}{96418}na raskrsnici|sa Popinkorom,
+{96428}{96487}sve propalice,|svi prevaranti
+{96497}{96556}imaju sastanak u|"Dolini ljubavi".
+{96566}{96629}PlemiÊi ovde|gube Ëast,
+{96636}{96680}moûete ih videti|mrtve pijane.
+{96697}{96746}U "Dolini ljubavi"|ûene ljubavi
+{96757}{96818}pruûiÊe vam ljubav|za nekoliko novËiÊa,
+{96828}{96886}ne treba vam|zlato, ni nakit,
+{96897}{96958}ne trebaju vam|govori, ni neûne reËi,
+{96968}{97022}samo par novËiÊa da|biste vodili ljubav
+{97030}{97078}sa ûenama ljubavi|u "Dolini ljubavi".
+{97157}{97219}U "Dolini ljubavi".
+{97297}{97358}U "Dolini ljubavi".
+{98265}{98323}Slast,
+{98340}{98415}meni slast
+{98475}{98544}sa ovog joö|neuprljanog tela,
+{98553}{98632}za mene sva slast.
+{98699}{98762}Niko osim mene
+{98790}{98870}neÊe staviti|svoje ruke na tebe.
+{98924}{99098}Crni anele|mog ûivota,
+{99139}{99320}voleÊu te u|tajni noÊi,
+{99356}{99536}jednim jedinim pogledom|zapalila si moj ûivot.
+{99577}{99736}Naöe dve boje koûe
+{99793}{99946}kao baklja su,
+{100007}{100184}voleÊu te, voleti|rizikujuÊi sopstveni ûivot.
+{100226}{100315}Uzmi me, uzmi me
+{100322}{100419}ako je to|moja sudbina.
+{100441}{100553}Hajde, hajde|da vidimo
+{100559}{100632}da li je to|tvoja sudbina.
+{100664}{100727}Febuse!
+{100733}{100793}Esmeralda!
+{100887}{100944}Sudbino,
+{100954}{101007}gospodarice|naöih ûivota!
+{101016}{101078}Sudbino,
+{101087}{101141}kada nam|prepreËiö put...
+{101151}{101269}Sudbino, biÊeö|princ ili prosjak,
+{101280}{101336}sudbino,
+{101348}{101401}biÊeö kraljica|ili drolja.
+{101410}{101455}Sudbino,
+{101479}{101609}naöi ûivoti u|tvojim su rukama.
+{101760}{101826}Sudbino.
+{101990}{102068}Sudbino.
+{102354}{102520}Sudbino!
+{103455}{103518}PriËaj mi o Firenci
+{103554}{103616}i o renesansi,
+{103653}{103718}priËaj mi|o Bramanteu
+{103762}{103836}i o Danteovom|"Paklu".
+{103868}{103934}U Firenci priËaju
+{103954}{104032}da je Zemlja okrugla
+{104065}{104181}i da postoji joö|jedan kontinent
+{104191}{104266}na ovome svetu...
+{104347}{104557}Brodovi su veÊ|otplovili okeanom
+{104570}{104762}traûeÊi vrata na|putu za Indiju.
+{104772}{104964}Luter Êe ponovo|napisati "Novi zavet",
+{104977}{105179}a mi smo u zori|sveta koji se deli.
+{105241}{105294}Neko po imenu|Gutemberg
+{105328}{105391}izmenio je|lice sveta.
+{105433}{105502}U Nirnberökim|ötamparijama
+{105536}{105610}ötampaju se|svake sekunde
+{105639}{105702}pesme na papirima,
+{105744}{105813}govori na|pamfletima,
+{105848}{105918}nove ideje
+{105937}{106039}koje Êe sve|proËistiti.
+{106123}{106323}Male stvari su|uvek pored velikih
+{106346}{106528}i knjiûevnost Êe|ubiti arhitekturu.
+{106550}{106739}äkolske knjige Êe|ubiti katedrale,
+{106756}{106955}Biblija Êe ubiti crkvu,|a Ëovek Êe ubiti boga.
+{107058}{107149}Ovo Êe ubiti ono...
+{107253}{107452}Brodovi su veÊ|otplovili okeanom
+{107470}{107659}traûeÊi vrata na|putu za Indiju.
+{107668}{107857}Luter Êe ponovo|napisati "Novi zavet",
+{107874}{108071}a mi smo u zori|sveta koji se deli.
+{108179}{108265}Ovo Êe ubiti ono...
+{108386}{108589}Ovo Êe ubiti ono...
+{109003}{109063}Zvona viöe ne zvone,
+{109103}{109170}katedrala|je utihnula,
+{109209}{109284}Kvazimodo|je nesreÊan,
+{109315}{109415}Kvazimodo je|zaljubljen.
+{109474}{109535}Nije zvonio
+{109581}{109653}ima veÊ tri dana,
+{109688}{109759}Kvazimodo je tuûan,
+{109798}{109868}Kvazimodo je lud,
+{109909}{110040}jer umire|od ljubavi...
+{110404}{110549}Zvona kojima zvonim
+{110570}{110733}moja su ljubav,|moje su ljubavnice.
+{110761}{110910}éelim da viËu,
+{110927}{111089}da sviraju i pevaju,
+{111111}{111266}kao oluja ili|kao grmljavina,
+{111285}{111448}kao kiöa ili|kao vetar.
+{111467}{111610}éelim da zvone
+{111626}{111793}i radosna i tmurna.
+{112178}{112256}Ona zvone na roenju,|ona zvone na sahrani,
+{112265}{112346}ona zvone svakoga dana,|svake noÊi, svakoga sata.
+{112353}{112390}Ona zvone|kada se molimo,
+{112396}{112434}ona zvone|kada plaËemo,
+{112441}{112522}ona zvone za ljude|da rano ustanu.
+{112529}{112609}Zvone za praznik,|za Kvazimoda,
+{112617}{112699}za BoûiÊ i|Sve svete,
+{112709}{112787}za Bogojavljenje,|za Uskrs,
+{112795}{112877}za Dan svetog|Valentina i Sveti petak.
+{112885}{112962}Za proslave|i procesije,
+{112972}{113050}najlepöe je ono|koje zvoni u nedelju.
+{113060}{113096}Na Novu godinu, na|Poklonjenje kraljeva,
+{113105}{113139}na Pashu,|dan radosti,
+{113147}{113229}na Belu nedelju sa|njenim vatrenim jezicima.
+{113238}{113317}Za pristup i|za priËeöÊe,
+{113325}{113365}za Angelusa,
+{113367}{113403}dies irae dies illa.
+{113413}{113492}Za Spasovdan i|Veliku Gospojinu,
+{113500}{113583}za himne i|"aleluja".
+{113736}{113806}Ali one koje|su mi omiljene
+{113832}{113925}od svih ovih|gvozdenih dama ñ
+{113934}{114014}to su moje|tri Marije,
+{114037}{114120}moje drage|prijateljice.
+{114184}{114269}Tu je mala Marija,
+{114280}{114382}za decu koja|su tek umrla.
+{114391}{114473}Tu je velika Marija,
+{114485}{114575}za mornare koji|odlaze na more.
+{114582}{114673}Ali kada zvonim|ogromnom Marijom
+{114685}{114769}za zaljubljene|koji se venËavaju,
+{114780}{114875}to nije nikakva|milina u mom srcu,
+{114883}{115002}veÊ se oseÊam|kao da umirem.
+{115060}{115137}Videti ih tako radosne,|videti ih tako sreÊne,
+{115148}{115226}mene nijedna ûena nije|pogledala pravo u oËi.
+{115234}{115314}Videti ih spojene,|videti ih kako lete
+{115323}{115402}sred zvezda pod|nebeskim lukom.
+{115411}{115447}Sva zvona|kojima zvonim,
+{115455}{115490}Kyrie Eleison,
+{115498}{115537}Hosanna alleluia,
+{115543}{115579}dies irae dies illa,
+{115587}{115668}sva zvona nesreÊe,|sva zvona sreÊe,
+{115677}{115708}sva ova zvona
+{115716}{115778}nikada nisu|zvonila zbog mene...
+{116206}{116334}Zvona kojima zvonim
+{116352}{116530}moja su ljubav,|moje su ljubavnice.
+{116555}{116710}éelim da ona iz|sveg glasa viknu
+{116717}{116887}da je|Esmeralda ûiva.
+{116948}{117175}Da celom svetu kaûu kako|Kvazimodo voli Esmeraldu!
+{117478}{117537}Grengoare,|gde ti je ûena?
+{117557}{117633}Ne vidimo je viöe|da pleöe pred crkvom.
+{117697}{117747}Da budem iskren,|niöta ne znam,
+{117776}{117819}vi ste sveötenik,|a ja sam pesnik,
+{117835}{117891}mi nemamo|iste ûene ñ
+{117914}{118026}vaöa je religija,|moja je poezija.
+{118083}{118247}Gde je ona,|tvoja Esmeralda,
+{118275}{118488}ulice Pariza|tuûne su bez nje.
+{118503}{118685}Ona je sama u kuli,
+{118702}{118760}daleko od onih|koji se plaöe
+{118808}{118891}da Êe ih zaËarati.
+{118971}{118992}äta hoÊeö da|kaûeö, pesniËe ñ
+{119005}{119039}govoriö|oötrim jezikom.
+{119074}{119099}Ne pravi piruete,
+{119131}{119216}odgovori mi da|li si je video?
+{119256}{119440}Gde je ona,|moja Esmeralda,
+{119452}{119670}Dvor Ëudesa izgubio|je svoju kraljicu.
+{119682}{119870}Ona liËi|na lastavicu
+{119883}{120070}kojoj su oba|krila potkresana.
+{120158}{120210}NaÊi Êete je u|zatvoru "La Sante",
+{120236}{120292}ako je ne spasite|biÊe osuena
+{120320}{120378}na veöala.
+{120393}{120452}Ne govori mi|niöta viöe...
+{120507}{120686}Gde je ona,|naöa Esmeralda,
+{120697}{120915}ulice Pariza|tuûne su bez nje.
+{120926}{121115}Ona liËi|na lastavicu
+{121127}{121322}kojoj su oba|krila potkresana.
+{121687}{121766}Ptice koje|zatvaraju u kavez,
+{121792}{121865}mogu li joö da lete?
+{121913}{121992}Zlostavljana deca,
+{122027}{122098}mogu li joö da vole?
+{122143}{122223}Bila sam kao|lastavica,
+{122246}{122340}dolazila sa proleÊem,
+{122362}{122448}trËala uliËicama
+{122477}{122561}i pevala|ciganske pesme.
+{122603}{122677}Gde si ti, zvonaru,
+{122703}{122798}gde si ti,|moj Kvazimodo?
+{122818}{122907}Doi, spasi|me od konopca,
+{122933}{123023}doi i iöËupaj|ove öipke.
+{123117}{123203}Gde si ti,|moja Esmeralda,
+{123222}{123307}gde se krijeö|od mene?
+{123342}{123428}VeÊ je gotovo|tri dana proölo
+{123457}{123531}kako te ovde|nisam video.
+{123569}{123658}Da li si|otiöla na put
+{123685}{123773}sa svojim|lepim kapetanom,
+{123792}{123885}bez veridbe,|bez venËanja,
+{123910}{124004}kako to Ëine pagani?
+{124028}{124117}Da li si|moûda mrtva,
+{124134}{124234}bez molitve|i pokrova ñ
+{124250}{124336}ne dozvoli nikad|da ti sveötenik
+{124360}{124459}prie blizu.
+{124487}{124572}Seti se onoga|dana na vaöaru...
+{124596}{124690}Kada su me|vezali za toËak...
+{124711}{124798}...kada sam ti|dala da pijeö.
+{124826}{124918}...pao sam|na kolena.
+{124940}{125032}Postali smo|toga dana
+{125049}{125155}prijatelji zauvek,
+{125165}{125264}neöto se desilo|meu nama,
+{125276}{125382}neöto toliko snaûno.
+{125458}{125538}Ptice koje|zatvaraju u kavez,
+{125574}{125652}mogu li joö da lete?
+{125688}{125768}Zlostavljana deca,
+{125798}{125881}mogu li joö da vole?
+{126464}{126486}Osueni!
+{126497}{126525}Uhapöeni!
+{126536}{126564}Optuûeni!
+{126577}{126608}Zatvoreni!
+{126622}{126652}OdbaËeni!
+{126662}{126693}IzbaËeni!
+{126703}{126732}Oterani!
+{126743}{126773}Prognani!
+{126785}{126814}Boja
+{126826}{126857}moje koûe
+{126869}{126901}blizu
+{126912}{126943}tvoje koûe.
+{126954}{126982}Muzika
+{126994}{127026}koju sviraö,
+{127037}{127069}sa muzikom
+{127078}{127110}uz koju pleöem.
+{127121}{127147}Bol
+{127157}{127190}zbog progona
+{127199}{127227}na ulicama
+{127240}{127286}tvoga grada.
+{127347}{127473}Kako stvoriti svet
+{127508}{127597}u kojem neÊe|viöe biti
+{127621}{127654}odbaËenih?
+{127676}{127800}Kako stvoriti svet
+{127843}{127983}bez bede i|bez granica?
+{127995}{128019}Poniûeni!
+{128037}{128058}OdbaËeni!
+{128077}{128100}Uniûeni!
+{128116}{128140}Pobunjeni!
+{128157}{128181}MuËeni!
+{128204}{128227}Pritiskani!
+{128244}{128270}Uniötavani!
+{128282}{128312}Masakrirani!
+{128323}{128355}Moja zemlja
+{128366}{128397}koju nosim
+{128408}{128442}u svom srcu,
+{128452}{128482}u svom telu.
+{128492}{128523}Tvoja zemlja
+{128534}{128566}donosi mi
+{128577}{128607}nesreÊu
+{128618}{128650}i smrt.
+{128662}{128687}Moja toplina
+{128697}{128728}sa juga
+{128740}{128779}pod tvojim nebom
+{128789}{128833}uvek je siva.
+{128886}{129016}Kako stvoriti svet
+{129049}{129187}bez bede i|bez granica?
+{129216}{129332}Kako stvoriti svet
+{129382}{129474}u kojem neÊe|viöe biti
+{129493}{129537}odbaËenih?
+{129582}{129605}Osueni!
+{129622}{129648}Uhapöeni!
+{129662}{129686}Optuûeni!
+{129699}{129729}Zatvoreni!
+{129741}{129767}OdbaËeni!
+{129784}{129813}IzbaËeni!
+{129828}{129854}Oterani!
+{129866}{129899}Prognani!
+{129912}{129986}Osueni!
+{130076}{130219}Osueni!
+{130849}{130937}Esmeralda,|optuûeni ste
+{130955}{131049}da ste ranili|kapetana strelaca.
+{131058}{131143}Ako je ranjen,|znaËi joö je ûiv,
+{131152}{131252}o, dozvolite mi da|ga vidim samo na tren!
+{131270}{131358}Zaveli ste|ga i zaËarali
+{131375}{131471}i uboli|oötricom noûa.
+{131481}{131564}Nisam ja, kunem|se ûivotom!
+{131576}{131673}Ali bili ste sami|s njim u krevetu.
+{131705}{131791}Bio je tu i neki sveötenik|iz pakla koji me progoni,
+{131808}{131875}svugde se|pojavljuje u noÊi.
+{131913}{131986}Ova devojka|ima halucinacije
+{132001}{132089}koje su plod|njene maöte.
+{132116}{132191}On pomalo liËi na|vas, gospodine...
+{132215}{132305}Gledajte tu vatru|u njenim oËima!
+{132322}{132407}Ona je veötica,|ona je strankinja,
+{132416}{132509}ona je Ciganka,|ona je nevernica.
+{132545}{132622}Priznajete li zloËin|za koji ste optuûeni?
+{132636}{132749}Ja sam ûrtva, nemam|öta da priznam.
+{132811}{132873}Stavite je na muke,
+{132885}{132980}ispitajte je ñ
+{133015}{133183}ako izdrûi znaËi|da je veoma Ëvrsta.
+{133260}{133304}Stavite njeno malo|stopalo u spravu
+{133314}{133413}i steûite ñ steûite!
+{133431}{133508}Priznajeö li?
+{133621}{133704}Volim ga ñ|priznajem...
+{133750}{133907}Odveûite joj|noge i ruke.
+{133971}{134000}Ubice!
+{134007}{134037}Ubice!
+{134103}{134174}Ciganko, priznali|ste svoja dela magije,
+{134183}{134256}prostituciju i uznemiravanje|Febusa de äatopera.
+{134277}{134324}OdveöÊe vas u|koöulji, bosonogu,
+{134335}{134359}sa konopcem|oko vrata
+{134368}{134413}na Grevski trg|gde Êete visiti
+{134441}{134479}na gradskim|veöalima.
+{134523}{134566}Febuse,
+{134579}{134718}ako je nekom sreÊom joö ûiv,|recite mu da ga joö volim.
+{134726}{134774}Febuse,
+{134792}{134927}ako me Ëujeö doi i spasi|me, nateraj ih da kaûu istinu,
+{134937}{134982}Febuse,
+{135036}{135125}reci im da te|nisam ja ubila.
+{135170}{135206}Febuse,
+{135228}{135366}svoj noû sam|spustila na pod.
+{135381}{135420}Febuse,
+{135442}{135502}onaj Ëovek u crnom|koji nas je pratio,
+{135514}{135602}videla sam ga kako|se naginje nad tobom.
+{135609}{135647}Febuse,
+{135695}{135791}mojim noûem zadao|ti je udarac.
+{135831}{135882}Febuse,
+{135905}{136042}obeÊaj mi da Êeö saËuvati|uspomenu na Esmeraldu,
+{136051}{136104}Febuse,
+{136122}{136258}na onu koja je igrala na|ulici i dala ti svoj ûivot.
+{136271}{136318}Febuse,
+{136366}{136466}o, odvedi me|daleko odavde
+{136514}{136626}ka planinama|Andaluzije.
+{136645}{136774}Febuse...
+{137143}{137175}Bio sam sreÊan Ëovek
+{137194}{137232}pre nego öto|sam te upoznao.
+{137258}{137337}Potisnuo sam u|dubinu svog biÊa
+{137386}{137482}svu polnu snagu koju|sam uguöio u mladosti,
+{137516}{137616}imao sam samo dve ljubavnice|ñ religiju i nauku.
+{137637}{137871}O, biti sveötenik|a voleti jednu ûenu,
+{137891}{138139}voleti je svom|dubinom svoje duöe.
+{138168}{138264}Protiv vetra i|bure bio sam Ëvrst,
+{138296}{138390}ispravan i veran|poput tornja katedrale,
+{138428}{138525}kada si doöla kao crviÊ|da me proûdireö iznutra,
+{138558}{138663}i probudila u meni|vatru ugaslog vulkana.
+{138679}{138916}O, biti sveötenik|a voleti jednu ûenu,
+{138931}{139164}voleti je svom|dubinom svoje duöe.
+{139214}{139301}éiveo sam daleko od|ûena, biËevanog tela,
+{139340}{139435}kada se u srcu noÊi|pojavila kao munja.
+{139472}{139577}Odvratila me od molitve|i otvorio sam prozor
+{139602}{139707}da bih je ugledao kako se|pojavljuje u zori.
+{139723}{139963}O, biti sveötenik|a voleti jednu ûenu,
+{139976}{140222}voleti je ñ da, voleti je!|ñ svom dubinom svoje duöe.
+{140245}{140477}O, biti sveötenik a|voleti jednu ûenu...
+{140588}{140698}Miluj me jednom|rukom, muËi me drugom,
+{140730}{140809}uËini da okajem|svoje grehe!
+{140844}{140942}U pakao u koji Êeö|otiÊi i ja Êu otiÊi,
+{140974}{141076}i postaÊe moj raj.
+{141093}{141333}O, biti sveötenik|a voleti jednu ûenu,
+{141344}{141604}voleti je ñ da, voleti je!|ñ svom dubinom svoje duöe.
+{141617}{141865}O, biti sveötenik|a voleti jednu ûenu.
+{141928}{142075}Jednu ûenu...
+{142521}{142585}Kada te ugledam|na tvom konju,
+{142595}{142651}kakav prizor,|kakvo drûanje,
+{142664}{142793}pravi uzor pravednosti,|sila prirode.
+{142800}{142935}Ili si moûda obiËan|bludnik, pohotna ûivotinja
+{142948}{142992}koja naginje|avanturama,
+{143001}{143072}ima li srca pod|tim tvojim oklopom?
+{143080}{143146}Moje je Ëisto|kao plaventilo,
+{143153}{143212}dozvoli mi da|zaleËim tvoje rane,
+{143222}{143289}zaboravimo|ove nezgode,
+{143298}{143362}voleÊu te ako|mi se zakuneö,
+{143373}{143429}voleÊu te ako|mi se zakuneö
+{143443}{143546}da Êe obesiti|Ciganku.
+{143569}{143630}Svoje snove|devojËice
+{143640}{143702}sklopljene|malo-pomalo,
+{143712}{143770}odbacila sam ih,
+{143784}{143839}nemoj da se prevariö
+{143849}{143907}jer ja sam isto tako|bela kao jagnje
+{143917}{144010}koje se|valja u blatu.
+{144021}{144083}Tvoje reËi|ljubavi su uvrede,
+{144094}{144156}tvoje zakletve|su laûne,
+{144167}{144230}moje srce se|veÊ steglo,
+{144237}{144293}gurnuÊu te uza zid.
+{144300}{144367}Oslobodi me|mojih okova,
+{144374}{144434}uzmi me grubijanu,
+{144447}{144510}nauËi me umetnosti|sladostraöÊa,
+{144520}{144578}voleÊu te ako|mi se zakuneö,
+{144590}{144653}voleÊu te ako|mi se zakuneö
+{144664}{144763}da Êe obesiti|Ciganku.
+{145008}{145071}VoleÊu te ako|mi se zakuneö,
+{145081}{145142}voleÊu te ako|mi se zakuneö
+{145151}{145236}da Êe obesiti|Esmeraldu.
+{145247}{145378}Da Êe obesiti|Ciganku...
+{145898}{145999}Bio sam zaËaran,|moj um i moje telo,
+{146007}{146104}Ciganka je bacila|Ëini na mene.
+{146112}{146158}Izgubio sam|se u prostoru,
+{146167}{146212}nisam znao|gde je sever,
+{146221}{146313}u ovom lavirintu gotovo|da sam susreo smrt.
+{146326}{146427}Muökarac koji te je|prevario nije isti
+{146446}{146535}kao ovaj danas koji|ti kaûe "volim te",
+{146558}{146644}izleËen sam|u srcu i duöi
+{146655}{146753}i ako me ûeliö,|vratiÊu ti se.
+{146809}{146907}Bio sam zaËaran,|moj um i moje telo,
+{146916}{147015}Ciganka je ûelela|samo moje zlato.
+{147026}{147070}Izgubio sam|se u prostoru,
+{147078}{147122}nisam znao|gde je sever,
+{147131}{147226}ali danas sam|bezbedan u luci.
+{147239}{147335}Bio sam zaËaran,|moj um i moje telo,
+{147343}{147441}Ciganka je|osuena na smrt.
+{147450}{147499}Izgubio sam|se u prostoru,
+{147507}{147550}nisam znao|gde je sever,
+{147558}{147655}duboko u sebi ti si|ta koju i dalje volim.
+{147719}{147816}Ti si ta koju|i dalje volim!
+{147827}{148055}Ti si ta koju|i dalje volim!
+{148298}{148332}Ja sam sveötenik|i doöao sam
+{148340}{148373}da te pripremim|za smrt.
+{148431}{148514}Hladno mi je,|gladna sam,
+{148552}{148588}pustite me odavde,
+{148612}{148660}nemam niöta|ni protiv koga.
+{148692}{148781}Sluöaj zvona kako zvone,|pet je sati ujutro,
+{148809}{148847}uskoro Êe|otvoriti ova vrata,
+{148863}{148905}i kroz jedan|sat biÊeö mrtva.
+{148955}{149048}Kroz jedan|sat biÊu dobro!
+{149081}{149116}VideÊemo da|li Êeö plesati
+{149130}{149183}i pod veöalima.
+{149213}{149249}Ali, öta sam|vam uËinila
+{149271}{149307}da me toliko mrzite?
+{149354}{149383}Nije to mrûnja ñ
+{149403}{149433}to je ljubav.
+{149468}{149576}Volim te!
+{149756}{149797}Ali, öta sam|vam uËinila
+{149811}{149862}da me toliko|volite ñ
+{149880}{149918}mene, sirotu|Ciganku,
+{149925}{149970}vi, sveötenik|BogorodiËine crkve.
+{150117}{150198}Jednoga jutra|si zaplesala
+{150211}{150297}na trgu pod suncem,
+{150314}{150398}i nikada|niöta sliËno
+{150413}{150497}nisam spoznao.
+{150515}{150602}Silni drhtaj
+{150616}{150696}proûeo je|moje telo ñ
+{150703}{150788}o, joö se|toga seÊam.
+{150808}{150876}Od toga dana
+{150888}{151026}kad god se|pogledam u ogledalo,
+{151038}{151106}Ëini mi se da|vidim Lucifera
+{151119}{151224}umesto sebe.
+{151258}{151341}DoÊi Êe, Ëekam ga,
+{151353}{151443}moj Febus,|moje sunce,
+{151459}{151542}biÊe moj ljubavnik,
+{151556}{151646}moja ljubav,|moje Ëudo.
+{151659}{151746}Prii bliûe, ubico,
+{151761}{151839}umreÊeö od|mojih ruku!
+{151849}{151922}Ne, ne|plaöim te se ñ
+{151947}{152011}ja grizem kao pas,
+{152028}{152150}udalji se, ptico|zloslutnico.
+{152176}{152359}Traûim samo|trenutak sreÊe.
+{152409}{152480}I dajem ti izbor
+{152497}{152586}pre nego öto|svane zora:
+{152599}{152684}biraj ñ|veöala ili ja,
+{152701}{152788}smrt ili ljubav,
+{152804}{152892}grob ili moj krevet.
+{152906}{153051}Smrt ili ûivot ñ treba|samo da kaûeö "da".
+{153083}{153154}Ako te|izvedem odavde
+{153172}{153321}obeÊavam da|Êu te vratiti
+{153330}{153396}tvojoj|ciganskoj braÊi,
+{153407}{153502}tvojoj|avolskoj braÊi.
+{153559}{153598}Odlazi!
+{153659}{153695}Odlazi!
+{153764}{153804}Odlazi!
+{153861}{153914}Odlazi!
+{154551}{154585}Slobodni!
+{154617}{154654}Puöteni!
+{154685}{154723}Pobegli!
+{154752}{154790}Nestali!
+{154820}{154857}Ja sam ih
+{154886}{154926}oslobodio,
+{154956}{154999}oni su
+{155023}{155067}pobegli!
+{155091}{155155}Osloboeni!|/ Puöteni!
+{155164}{155224}Pobegli! / Nestali!
+{155232}{155291}U vatri! / Raspaljeni!
+{155299}{155361}Buntovni!|/ Pobunjeni!
+{155369}{155428}Osloboeni!|/ Puöteni!
+{155438}{155496}Pobegli! / Nestali!
+{155504}{155567}U vatri! / Raspaljeni!
+{155575}{155630}Buntovni!|/ Pobunjeni!
+{155640}{155757}Bili su zatvoreni,
+{155776}{155891}ali ja sam|otvorio kavez,
+{155914}{156021}pobegli su,
+{156050}{156160}preuzeli su vostvo.
+{156175}{156430}Traûe pravo utoËiöta,
+{156452}{156696}dajte im|pravo utoËiöta!
+{156731}{156768}Osloboeni!
+{156800}{156838}Puöteni!
+{156868}{156908}Pobegli!
+{156930}{156981}Nestali!
+{156997}{157247}Traûe pravo utoËiöta...
+{157277}{157330}Osloboeni!
+{157344}{157401}Osloboeni!
+{157413}{157517}Osloboeni!
+{158062}{158093}MeseËe,
+{158118}{158162}ti koji tamo|visoko sijaö
+{158188}{158298}nad krovovima|Pariza,
+{158313}{158447}vidi koliko|Ëovek moûe da pati
+{158458}{158490}zbog ljubavi.
+{158499}{158526}Lepa,
+{158536}{158592}usamljena zvezdo
+{158600}{158645}koja umireö
+{158659}{158715}sa dolaskom dana,
+{158726}{158778}sluöaj,
+{158789}{158870}penje se ka tebi|pesma sa zemlje.
+{158885}{158948}Sluöaj plaË
+{158957}{159018}Ëoveka koji pati
+{159026}{159077}kome
+{159087}{159142}milion zvezda
+{159152}{159221}niöta ne|znaËe naspram
+{159230}{159268}oËiju one
+{159279}{159329}koju voli
+{159338}{159434}smrtnom ljubavlju.
+{159455}{159518}MeseËe...
+{159964}{159996}MeseËe,
+{160014}{160069}koji tamo|visoko sjajiö se,
+{160085}{160193}pre nego|öto doe dan,
+{160203}{160257}sluöaj
+{160267}{160359}zavijanje srca|ljudske zveri ñ
+{160369}{160495}to je ûal|Kvazimodova
+{160504}{160620}koji plaËe u|ludom oËaju.
+{160632}{160677}Njegov glas
+{160687}{160745}preko brda i dolina
+{160756}{160896}leti da bi|doöao do tebe.
+{160912}{161001}MeseËe!
+{161140}{161207}Bdi nad ovim
+{161216}{161255}neobiËnim svetom
+{161264}{161296}koji meöa
+{161320}{161469}svoj glas sa|horom anela.
+{161524}{161552}MeseËe,
+{161576}{161624}ti koji tamo|visoko sijaö
+{161648}{161749}kako bi obasjao|moje pero,
+{161772}{161921}vidi koliko|Ëovek moûe da pati
+{161934}{162069}zbog ljubavi.
+{162105}{162200}Zbog ljubavi...
+{162583}{162617}Ostavljam ti|ovu zviûdaljku,
+{162623}{162665}kako bi mogla|da me pozoveö.
+{162685}{162717}Danju ostaÊeö ovde,
+{162729}{162784}ali moûeö da|se proöetaö noÊu
+{162802}{162883}po krovovima|katedrale, pod zvezdama.
+{162919}{162997}Ne Ëujeö me,|veÊ spavaö.
+{163021}{163071}Spoljni svet|je zao...
+{163131}{163206}Kako si lepa|dok spavaö!
+{163237}{163313}U svom snu,|Esmeralda,
+{163349}{163463}da li sanjaö|o svom suncu?
+{163892}{163978}Boûe, kako je|svet nepravedan,
+{163987}{164083}on je tako lep,|a ja tako ruûan,
+{164106}{164262}kada bih ti dao i Mesec,|ti me ne bi volela.
+{164318}{164490}A on, bez ijednog pomaka,|bez reËi, bez pogleda
+{164535}{164718}uneo je neûnost u| tvoje tamne oËi.
+{164742}{164820}Njemu Êeö dati|svoje telo,
+{164833}{164927}verovaÊeö njegovim|zakletvama,
+{164963}{165044}voliö ga zbog|njegove spoljaönosti
+{165055}{165152}a ne vidiö|öta je unutra.
+{165180}{165252}Boûe, kako je|svet nepravedan,
+{165264}{165365}on je plemiÊ,|a ja siromah,
+{165388}{165550}daÊe ti mesec, tebi,|koja niöta nisi traûila.
+{165601}{165674}Boûe, kako je|svet nepravedan,
+{165690}{165774}voli svog|lepog gospodina,
+{165808}{166006}saten tvoje tamne|koûe nije za lutalice.
+{166019}{166214}Moja ruûnoÊa je uvreda|za tvoju drsku lepotu,
+{166232}{166418}greöka prirode|koja me nije volela.
+{166477}{166554}Boûe, kako je|svet nepravedan,
+{166565}{166656}naöa sudbina|nije njegova,
+{166679}{166770}mi nemamo|sreÊe, ali oni,
+{166779}{166877}da li oni|imaju srca?
+{166889}{166968}Oni su|roeni u Ëipki
+{166982}{167080}da vode|ljubav i rat,
+{167096}{167176}ali mi bedni|zemaljski crvi,
+{167188}{167293}naö ûivot je lepöi.
+{167306}{167482}I na Ëijoj je strani|bog, na strani Ëudoviöta,
+{167513}{167697}ili na strani onih koji|mu se mole ujutro i uveËe?
+{167725}{167799}Taj Isus koga|oboûavamo,
+{167809}{167893}da li su mu|uvek bila draûa
+{167927}{168007}tri kralja sa|svojim zlatom ñ
+{168018}{168131}od nas sirotih|prosjaka?
+{168173}{168371}Boûe, kako je ûivot okrutan|za dva srca koja se traûe,
+{168389}{168508}ja tako ruûan|a ti tako lepa ñ
+{168535}{168737}kako bi i mogla|da me voliö...
+{169548}{169610}NoÊ je tako lepa,
+{169658}{169712}a ja tako sama,
+{169757}{169816}ne ûelim da umrem,
+{169862}{169990}joö ûelim da pevam,|pleöem i smejem se.
+{170078}{170124}Ne ûelim da umrem,
+{170180}{170212}da umrem,
+{170228}{170293}pre nego öto|sam volela.
+{170383}{170565}éiveti za onoga|koga voliö,
+{170598}{170769}voleti viöe od|same ljubavi,
+{170811}{170982}dati, a ne oËekivati|niöta zauzvrat.
+{171032}{171160}Slobodna da|izaberem svoj ûivot,
+{171202}{171380}bez izopötenja,|bez zabrana.
+{171460}{171600}Slobodna bez|boga i domovine,
+{171630}{171700}jedina krsna voda
+{171732}{171811}da mi bude kiönica.
+{171885}{172055}éiveti za onoga|koga voliö,
+{172108}{172272}voleti viöe od|same ljubavi,
+{172317}{172504}dati, a ne oËekivati|niöta zauzvrat.
+{172558}{172620}Dva sveta koja|nas razdvajaju
+{172662}{172727}da li Êe se ujediniti|jednoga dana,
+{172767}{172848}o, tako bih ûelela|u to da verujem,
+{172880}{172950}Ëak i po cenu|sopstvenog ûivota.
+{172965}{173028}Dala bih svoj ûivot
+{173043}{173122}da se izmeni|proölost.
+{173187}{173355}éiveti za onoga|koga voliö,
+{173397}{173571}voleti viöe od|same ljubavi,
+{173615}{173796}dati, a ne oËekivati|niöta zauzvrat.
+{173836}{174004}Voleti kao öto|noÊ voli dan,
+{174050}{174230}voleti dok ne|umreö od ljubavi.
+{174338}{174514}Dok ne umreö|od ljubavi...
+{174917}{174973}UtoËiöte!
+{175027}{175098}UtoËiöte!
+{175129}{175177}UtoËiöte!
+{175199}{175242}UtoËiöte!
+{175299}{175377}Kraljevi vojnici,|provalite ova vrata!
+{175402}{175476}Pod punom saveöÊu,|u ime pristojnosti...
+{175487}{175549}Ja vam dozvoljavam
+{175568}{175712}da pogazite|pravo utoËiöta!
+{175789}{175885}Dole beskuÊnici!
+{175897}{175989}Dole skitnice!
+{176000}{176050}Dole!
+{176072}{176124}Dole!
+{176147}{176245}Dole beskuÊnici!
+{176254}{176351}Dole skitnice!
+{176362}{176406}Dole!
+{176435}{176481}Dole!
+{176518}{176616}Mi smo stranci,|bez isprava,
+{176631}{176674}muökarci i ûene
+{176696}{176727}bez boraviöta.
+{176737}{176797}O, Notrdame, od|tebe traûimo
+{176804}{176866}utoËiöte,|utoËiöte!
+{176880}{176975}Mi smo stranci,|bez isprava,
+{176987}{177041}muökarci i ûene
+{177063}{177090}bez boraviöta.
+{177098}{177150}O, Notrdame, od|tebe traûimo
+{177160}{177221}utoËiöte,|utoËiöte.
+{177245}{177339}Mi smo stranci,|bez isprava,
+{177349}{177409}muökarci i ûene
+{177421}{177450}bez boraviöta.
+{177458}{177515}O, Notrdame, od|tebe traûimo
+{177523}{177581}utoËiöte,|utoËiöte.
+{177604}{177700}Mi smo stranci,|bez isprava,
+{177711}{177769}muökarci i ûene
+{177783}{177810}bez boraviöta.
+{177820}{177877}O, Notrdame, od|tebe traûimo
+{177886}{177943}utoËiöte,|utoËiöte.
+{177968}{178068}Mi smo stranci,|bez isprava,
+{178075}{178127}muökarci i ûene
+{178143}{178173}bez boraviöta.
+{178182}{178238}O, Notrdame, od|tebe traûimo
+{178247}{178307}utoËiöte,|utoËiöte!
+{178557}{178638}Esmeralda,|ja umirem,
+{178695}{178750}o, moja sestrice,
+{178778}{178832}u ime sve braÊe
+{178887}{178961}sasluöaj|moju molitvu.
+{178986}{179059}Ovde si odrasla,
+{179078}{179195}ovde je tvoja|domovina,
+{179221}{179304}vikni iz sveg glasa
+{179323}{179432}za mene,|Esmeralda....
+{179962}{180059}Mi smo stranci,|bez isprava,
+{180070}{180133}muökarci i ûene
+{180143}{180174}bez doma...
+{180219}{180275}Ima nas i|viöe od hiljadu
+{180325}{180379}pred kapijom grada,
+{180438}{180494}uskoro Êe nas biti
+{180546}{180604}deset hiljada i|viöe, stotinu hiljada.
+{180657}{180706}Svet Êe se promeniti
+{180764}{180820}i izmeöati.
+{180875}{180921}BiÊe nas na milione
+{180978}{181033}koji Êe od|vas traûiti...
+{181122}{181194}UtoËiöte! UtoËiöte!
+{181561}{181621}U ime kralja ovde|je uspostavljen red,
+{181627}{181671}po odluci|Pariskog dvora.
+{181693}{181726}Devojko Esmeralda,
+{181737}{181816}biÊeö obeöena|zbog veötiËarenja.
+{181842}{181872}äto se tiËe|vas odmetnika,
+{181880}{181948}vi Êete biti|izbaËeni,
+{181980}{182028}prognani,
+{182051}{182097}deportovani,
+{182122}{182167}izbaËeni,
+{182192}{182236}prognani,
+{182264}{182306}deportovani,
+{182331}{182373}izbaËeni,
+{182398}{182440}prognani,
+{182463}{182541}deportovani!
+{182674}{182717}IzbaËeni,
+{182730}{182766}prognani,
+{182789}{182824}deportovani...
+{183462}{183500}Frolo,
+{183524}{183596}moj gospodaru,|moj spasioËe,
+{183612}{183685}ti sveöteniËe|Gospoda,
+{183707}{183785}ipak imaö srce...
+{183833}{183870}Srce...
+{183890}{183956}Srce koje|moûe da voli...
+{183990}{184052}Srce koje moûe|da plaËe...
+{184068}{184144}Srce koje moûe|da krvari...
+{184160}{184235}Srce koje|moûe da ubije!
+{184270}{184309}Pogledaj je!
+{184333}{184398}Tvoja lepa|Esmeralda!
+{184471}{184511}Seti se Kvazimodo
+{184528}{184628}one koja je plesala|na svojoj pozornici.
+{184648}{184744}Ja sam onaj koji|ju je predao krvniku
+{184824}{184954}jer me nije ûelela.
+{185031}{185131}Ti si to|uradio ñ ti?!
+{185198}{185348}UmreÊe kao|Isus na krstu!
+{185379}{185403}Pogledaj tamo,
+{185413}{185476}na Grevskom trgu|Ëekaju veöala,
+{185482}{185507}tvoju Esmeraldu
+{185514}{185578}obesiÊe kad|svane dan.
+{185807}{185848}Frolo!!!
+{186584}{186652}Dajte je meni,
+{186665}{186740}vratite je meni,
+{186756}{186830}ostavite je meni,
+{186848}{186926}ona je moja!
+{186963}{187065}O, Esmeralda,
+{187090}{187232}ne idi, ostani|sa mnom...
+{187680}{187771}U vremenima|koja dolaze
+{187792}{187875}naÊi Êe pod zemljom
+{187885}{187974}naöa dva kostura|isprepletena,
+{187994}{188075}kako bi rekli|celom svemiru ñ
+{188090}{188180}koliko je|Kvazimodo voleo
+{188192}{188277}Esmeraldu Ciganku,
+{188293}{188386}on koga je bog|toliko nagrdio
+{188396}{188486}kako bi mu pomogao|da ponese svoj krst ñ
+{188496}{188600}kako bi mu pomogao|da ponese svoj krst.
+{188659}{188743}Proûdrite moje telo,|popijte moju krv,
+{188764}{188847}leöinari Monfokona,
+{188856}{188949}neka smrt za|sva vremena
+{188969}{189062}ujedini naöa|dva imena.
+{189071}{189154}Neka mi duöa poleti
+{189169}{189263}daleko od|zemaljske bede,
+{189275}{189365}neka mi se|ljubav spoji
+{189377}{189461}sa svetloöÊu|svemira ñ
+{189480}{189582}sa svetloöÊu|svemira.
+{189669}{189846}Pleöi, moja|Esmeralda,
+{189871}{190047}pevaj, moja|Esmeralda,
+{190072}{190237}joö jednom|pleöi za mene,
+{190253}{190390}ûelim te toliko|da umirem...
+{190422}{190604}Pleöi, moja|Esmeralda,
+{190628}{190808}pevaj, moja|Esmeralda,
+{190826}{190991}pusti me da|poem sa tobom,
+{191003}{191122}umreti za tebe|nije umiranje...
+{191178}{191350}Pleöi, moja|Esmeralda,
+{191373}{191547}pevaj, moja|Esmeralda,
+{191571}{191729}doi, uspavaj|se u mom naruËju,
+{191744}{191875}ûelim te toliko|da umirem...
+{191912}{192088}Pleöi, moja|Esmeralda,
+{192105}{192283}pevaj, moja|Esmeralda,
+{192305}{192465}negde iza daljina,
+{192506}{192628}umreti za tebe nije
+{192707}{192869}umiranje.
+{192952}{193113}Pleöi, moja|Esmeralda,
+{193145}{193313}pevaj, moja|Esmeralda,
+{193336}{193492}pusti me da|poem sa tobom,
+{193533}{193649}umreti za tebe nije
+{193762}{193871}umiranje!
+{198750}{198918}Doölo je vreme|katedrala,
+{198928}{199014}svet je uöao
+{199030}{199096}u novi milenijum.
+{199103}{199260}»ovek je poûeleo|da dohvati zvezde
+{199271}{199357}i ispiöe svoju priËu
+{199376}{199507}u staklu|ili u kamenu.
+{199562}{199702}Doölo je vreme|katedrala,
+{199718}{199801}svet je uöao
+{199820}{199882}u novi milenijum.
+{199891}{200049}»ovek je poûeleo|da dohvati zvezde
+{200063}{200149}i ispiöe svoju priËu
+{200161}{200290}u staklu|ili u kamenu.
+{200363}{200531}Proölo je|vreme katedrala,
+{200548}{200631}horde varvara su
+{200650}{200713}pred kapijom grada.
+{200723}{200877}Pustite da uu|pagani, vandali,
+{200890}{200978}kraj ovog sveta
+{200993}{201139}predvien je|za godinu 2000.
+{201159}{201324}Predvien je|za godinu 2000!!!
+{201338}{201392}Prevod:|Boki011
+{201404}{201460}Lektura:|Belle
+{201485}{202985}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/9v45f|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

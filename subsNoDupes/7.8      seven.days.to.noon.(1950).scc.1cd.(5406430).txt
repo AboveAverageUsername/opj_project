@@ -1,0 +1,992 @@
+{0}{300}{y:i}prevod i obrada|Gaca62
+{325}{475}-== [ www.OpenSubtitles.com ] ==-
+{3233}{3267}Dobro jutro, Davise.
+{3268}{3301}Dobro jutro, gospodine.
+{3335}{3456}Komesar vam öalje da hitno pogledate ovo|öto je poslao Premijer iz ulice Downing.
+{3780}{3882}Davise, donesite mi dosijea ljudi|zaposlenih u Vladinoj...
+{3882}{3983}IstraûivaËkoj Laboratoriji u|Wallingfordu, molim vas.
+{4019}{4118}Kako se zove momak koji je|tamo glavni?
+{4118}{4167}Ovaj... Dolby, gospodine.
+{4171}{4229}Profesor Dolby, roen 1894...
+{4231}{4282}U redu.
+{4282}{4397}Halo? Dajte mi profesora Dolbyja iz Vladine|IstraûivaËke Laboratorije u Wallingfordu.
+{4398}{4447}Da.
+{4470}{4550}äta mislite o ovome, Davise?
+{4654}{4706}Joö jedan za ludaËku koöulju,|pretpostavljam.
+{4707}{4803}Ipak, ovo je neöto sasvim novo.|Nema psovki, nema skarednosti,
+{4803}{4899}samo jedna uËtiva poruka|jednog gospodina drugom.
+{4900}{4930}Poslata sinoÊ, u nedelju.
+{4976}{5034}Halo? Da.
+{5042}{5092}Halo. Profesor Dolby?
+{5093}{5204}Ovde naËelnik Folland,|Posebni Poslovi Scotland Yarda.
+{5205}{5329}Mislim da je profesor Willingdon deo vaöeg tima.|Da li ste ga videli od jutros?
+{5329}{5378}Da, saËekaÊu.
+{5379}{5452}äta imamo tu o Willingdonu, Davise?
+{5526}{5687}Roen1893., drugi sin Georgea Arthura|Willingdona, hamptonskog biskupa.
+{5688}{5755}äkolovao se na Rugbyju i|Cambridgu.
+{5763}{5853}PoËasna diploma iz prirodnih nauka,|dobitnik nagrade 1921.
+{5853}{5943}NaËelnik odeljenja za fiziku,|Birmingham, 1927-32.
+{5948}{6066}Zamenik direktora IstraûivaËke Laboratorije|'Cavendish' na Cambridgu, do 1940.
+{6066}{6141}»lan britanskog tima u|New Mexicu, 1943.
+{6141}{6240}1945. godine postao stariji|istraûivaË u Wallingfordu.
+{6268}{6409}Halo, da? Nije tu? Da ne znate moûda,|gde bi mogao da bude?
+{6422}{6546}Moram da razgovaram sa vaöim öefom obezbeenja.|Moûete li me spojiti sa njim?
+{6547}{6589}äta MI5 kaûe za njega?
+{6590}{6632}Baö niöta, gospodine - prazan list.
+{6672}{6768}Halo, Farrer. Folland ovde.|Moramo slobodno da razgovaramo...
+{6768}{6864}pa Êu preÊi na drugu liniju.|Ne spuötaj.
+{6864}{6914}AX2.
+{6914}{6964}Farrer, Ëujeö li me?
+{6964}{7104}Dobro. Do nas je stiglo pisma profesora|Willingdona koje je napisao premijeru.
+{7116}{7243}MoguÊe da je najobiËnija podvala, ali moram da te|zamolim da, odmah obaviö inventar u magacinu.
+{7244}{7301}Da. Kad ste ga poslednji put|pregledali?
+{7302}{7398}Shvatam. Da, da, öto pre moûete.
+{7436}{7510}To je najjednostavniji naËin|da ovo proverimo.
+{7511}{7613}To me podseti na onog momka koji je|uporno pisao nadbiskupu.
+{7614}{7664}äta to beöe?
+{7665}{7755}Sebe je nazivao Solomonovim Orlom i öetao je|naokolo ogrnut u kozju koûu i u sandalama.
+{7762}{7792}SeÊate se?
+{7794}{7944}Kad smo ga, konaËno uhvatili, obojio se u plavo i|pokuöao da zapali katedralu Svetog Pavla.
+{7945}{8004}Da, da. Ovaj momak je ovo|jako dobro obavio.
+{8005}{8119}Jeste li primetili adresu?|Upotrebio je pravi vodeni ûig.
+{8120}{8144}Stvarno?
+{8176}{8232}Folland je.|Recite, Farrere...
+{8261}{8314}äta?
+{8315}{8374}SinoÊ? SaËekajte.
+{8375}{8435}Brzo, Davise, pozovite dva automobila|i Ëetiri Ëoveka.
+{8438}{8477}Sluöajte, Farrere, dolazim odmah.
+{8478}{8601}Dok ne stignemo niko ne sme ni da ue|ni da izae. Vidimo se za jedan sat.
+{8874}{8928}Molim vaöu propusnicu, gospodine.
+{8929}{8982}U redu. Hvala, gospodine.
+{9283}{9323}Da li ovako i sad izgleda?
+{9328}{9359}Da, da, sasvim isto.
+{9360}{9390}Da li je svuda imao slobodan pristup?
+{9393}{9533}Naravno da jeste. Zaöto ne bi imao? Niko niöta|nije sumnjao. On je naö viöi istraûivaË!
+{9534}{9595}Bio je na poslu do juËeraönje|pauze za ruËak.
+{9596}{9650}Da se posle pauze vratio,|vaöe obezbeenje bi to znalo?
+{9650}{9707}Da, da. Svi moraju da se prijave|pri ulasku i izlasku.
+{9708}{9763}Rogerse, proverite ovo kod|lokalnog obezbeenja.
+{9764}{9819}Pismo je poslato sinoÊ iz Paddingtona.|Ima li on kola?
+{9819}{9835}Nema.
+{9836}{9914}Rogerse, proveri i na|ûelezniËkoj stanici.
+{9922}{9953}Izvinite.
+{9954}{10054}Uite, Lane. Ovo je Willingdonov|pomoÊnik, Stephen Lane.
+{10055}{10169}Dobro. Ja sam Folland. Policajac sam.|Scotland Yard, Posebni Poslovi.
+{10192}{10260}Kada ste poslednji put|videli profesora?
+{10261}{10331}JuËe, na pauzi za ruËak. Od onda|radi kod kuÊe.
+{10332}{10426}Ne, nije ni kod kuÊe. Ne znamo gde je|i moramo brzo da ga naemo.
+{10427}{10457}Ne znate gde je?
+{10458}{10582}SinoÊ se nije vratio kuÊi. Da li dugo radite|sa profesorom Willingdonom?
+{10583}{10660}Pet godina.|-Da li ste ikada iöli kod njega?
+{10663}{10716}Da, priliËno Ëesto.|-PorodiËni prijatelj?
+{10716}{10776}Da. Zaöto?
+{10777}{10891}Samo odgovarajte na pitanja. Kada ste ga|poslednji put videli, ponaöao se normalno?
+{10891}{10940}Naravno.
+{10941}{10975}Nije bio zatrpan poslom?
+{10990}{11061}Pa... niöta viöe od bilo koga od nas.
+{11082}{11106}Shvatam.
+{11118}{11203}MoraÊemo da odemo u posetu njegovoj porodici.|Moûe li Lane da poe sa nama?
+{11204}{11241}Naravno. Kako da ne.
+{11241}{11314}Idemo, Lane. Hajdemo.
+{11335}{11397}Da li je u pitanju neöto gadno?
+{11403}{11451}Gadno? Moglo bi da bude.
+{12024}{12069}Steve!
+{12070}{12155}Zdravo, duöo. Ann, ovo je naËelnih Folland|iz Scotland Yarda.
+{12156}{12178}Dobro jutro.
+{12179}{12227}Drago mi je. Molim vas, uite.
+{12228}{12277}Cartere! Thompsone!
+{12297}{12364}Sedite, gospodine Folland.|-Hvala.
+{12365}{12399}Bojim se da tata nije ovde, Steve.
+{12402}{12473}Da, znamo, gospoice. Da li znate|gde bi mogao biti vaö otac?
+{12478}{12544}Bojim se da ne znam.|Uûasno je tajanstven.
+{12545}{12678}Ponekad pozove samo da pita öta je za ruËak.|Mada, moûe biti da je otiöao do Oxforda.
+{12678}{12721}A da se nikome ne javi?
+{12722}{12831}Da. Kad god mu pobegne voz,|ne javlja nam se, zbog mame.
+{12832}{12890}Zaöto?|-Ona je invalid.
+{12892}{12975}Pozovite Oxford, vidite|da li je tamo, Cartere.
+{12976}{13077}ZvuËite jako ozbiljno.|Da li se neöto desilo?
+{13078}{13120}äta je bilo, Ann?
+{13121}{13227}Steve i gospodin Folland su zabrinuti|za tatu.
+{13228}{13278}Zabrinuti? Zaöto?
+{13278}{13391}Vaö muû je izuzetno vaûan Ëovek.|Moramo da vodimo raËuna o njemu.
+{13391}{13464}äta je juËe obukao?|-Svoje tamno sivo odelo.
+{13465}{13538}I svoj stari kiöni mantil.|-Ima li öeöir?
+{13539}{13617}Sivi, filcani.|-Da li je neöto poneo sa sobom?
+{13618}{13751}Moûda. Ima svoju sivu taönu za svoje noÊne|stvari koje nosi Ëesto nosi u laboratoriju.
+{13776}{13833}»esto prespava u laboratoriji.
+{13834}{13889}Poöaljite svuda njegov opis.
+{13893}{13947}U redu, gospodine.
+{13977}{14076}Sigurno znate Ëime se on bavi,|da li priËa sa vama o svom poslu?
+{14076}{14142}Bojim se da bi to bila|jednosmerna diskusija.
+{14143}{14244}Shvatam. Hvala vam.|Izvinite na smetnji.
+{14245}{14369}Samo malo. Mislim da vi neöto znate o mom|muûu a neÊete da nam kaûete.
+{14370}{14429}Slobodno nam recite,|nemate Ëega da se plaöite.
+{14430}{14552}To mi je sasvim jasno. Ako vam se javi,|molim vas, odmah me obavestite.
+{14556}{14586}Ovde Êete me neÊi.
+{14587}{14635}Hvala vam.
+{14793}{14853}Steve! Steve, o Ëemu se|ovde radi?
+{14853}{14960}Izgleda da je nekakva bezbedonosna stvar.|Moûda je tvoj otac sluËajno odneo neke papire.
+{14960}{15010}Zar nemaju poverenja u njega?
+{15011}{15120}Toliko smo isprepadani da ne moûemo|nikome verovati. Niöta ne brini.
+{15126}{15198}Javi mi ako bilo öta|saznaö.
+{15602}{15633}Fina devojka.
+{15634}{15684}Slaûem se sa vama.
+{15685}{15715}MoraÊete da doete u|London.
+{15716}{15765}Zaöto?
+{15766}{15828}Zato öto mislim da je tamo.|Gde stanujete?
+{15829}{15861}U selu.
+{15862}{15922}Idemo da pokupite svoje stvari.
+{15923}{16024}Mene ostavite kod laboratorija pa odvezite|gospodina Lanea da uzme svoje stvari.
+{16039}{16162}Zar ne mislite da bi svima bilo laköe|kad biste mi rekli o Ëemu se radi?
+{16174}{16284}U redu. Willingdon je ukrao|bombu UR12 iz Wallingforda.
+{16285}{16336}äta?!
+{16337}{16424}Napisao je Premijeru, ukoliko...
+{16424}{16511}se Britanija zvaniËno ne obaveûe|da viöe neÊe proizvoditi takvo oruûje...
+{16512}{16609}on Êe aktivirati ovu koju je uzeo|i uniötiti 'sediöte Vlade'.
+{16610}{16675}Tako bi zbrisao pola Londona!
+{16676}{16740}Ako premijer ne izda saopötenje...
+{16740}{16849}vaö profesor Êe aktivirati bombu|taËno u podne sledeÊe nedelje.
+{16849}{16900}Danas je ponedeljak.
+{16901}{16951}Ne mogu da verujem.
+{16957}{17015}Koliko je velika UR12?
+{17016}{17070}VeliËine obiËne pisaÊe maöine.
+{17071}{17170}Mogao bi lako da je stavi u|obiËnu malu torbu.
+{17171}{17219}Da.
+{17582}{17649}Od '45. nismo kupovali|nova vozila.
+{17650}{17787}Da smo kupovali nova vozila ne bi nam sad trebao|Ëovek za odrûavanje voznog parka.
+{17796}{17846}SaËekajte, molim vas.
+{17847}{17885}Zdravo, Grante.
+{17886}{17945}Dobar dan.|-Imaö li ideju öta se deöava?
+{17946}{17985}Ne, samo sam dobio poruku|od premijera.
+{17986}{18035}Kao i mi.
+{18035}{18078}Kad Êe vojska nabaviti neöto novo?
+{18079}{18185}Nemamo para.|Danas su preËi veötaËki zubi.
+{18194}{18286}Premijeru, po mojim saznanjima,|a Leith to moûe da potvrdi...
+{18286}{18380}ako UR12 eksplodira na|Westminister Bridgeu...
+{18380}{18502}raöËistiÊe celo podruËje od|Rotherhitha do Notting Hill Gatea.
+{18503}{18555}To je taËno.
+{18562}{18648}Sad moûemo da iskljuËimo|laûnu uzbunu.
+{18648}{18734}Willingdon je nestao i, verovatno|ima i UR12.
+{18735}{18786}Pitanje ostaje, da li blefira?
+{18974}{19073}MladiÊu treba öiöanje.|Video sam svog starog vozaËa.
+{19081}{19205}Znate öta je sad smislio? Da vuËe|prokletu prikolicu oko sajma.
+{19213}{19309}UR12 je opremljena tajmerom.|Kad se tajmer pokrene...
+{19309}{19403}eksplozija moûe biti podeöena|u narednih 15 minuta.
+{19404}{19465}Da li je moguÊe da eksplodira|pre vremena?
+{19466}{19596}SluËajno, ne. Postoje dve komponente|koje su same potpuno beskorisne.
+{19597}{19727}Tajmer se moûe namestiti da okine odmah|Ëim dodirne udarnu kapislu.
+{19728}{19835}Ako niöta, Willingdon ne moûe samo|da postavi to Ëudo i da ode.
+{19835}{19936}Ne. Naite Willingdona i kod njega|Êete naÊi i UR12.
+{19937}{20037}Njegov opis smo poslali na sve strane. Za sat|vremena moûemo da poËnemo sa proËeöljavanjem.
+{20037}{20097}Shvatam. U redu, hvala, Follande.
+{20100}{20135}Dobro, gospodine.
+{20135}{20191}Pozovite generala Willoughbyja.|Oh, Lane?
+{20191}{20240}Da, gospodine?
+{20240}{20300}Godinama ste radili sa Willingdonom,|zar ne?
+{20300}{20364}Da, gospodine.
+{20365}{20434}Kakvo je njegovo politiËko|opredeljenje?
+{20456}{20506}PolitiËko opredeljenje?
+{20507}{20563}Pa, ja mislim da mu je|najvaûnije bilo...
+{20564}{20620}da se kloni politiËara, gospodine.
+{20620}{20694}Mudar Ëovek. Hvala, Lane.
+{20785}{20902}Ne smemo se kockati i ûiveti u nadi|da Êe komesar pronaÊi profesora.
+{20910}{21019}Zamolio sam naöe vojne savetnike da|dou ovamo i da naprave plan.
+{21020}{21106}Generale Willoughby, izvolite.|Sedite pored mene, molim vas.
+{21107}{21200}U redu.|-Gospodo, uzmite stolice.
+{21247}{21337}Davise, ima li öta novo?|Sedite, Lane.
+{21338}{21365}Samo Rogersov izveötaj.
+{21366}{21416}Dajte da Ëujemo.
+{21417}{21498}U noÊi kada se dogodio incident,|od prilike oko 7:30...
+{21498}{21580}profesor  G.T. Willingdon|koliko je poznato....
+{21581}{21680}Ne svedoËite na sudu.|Recite to na engleskom.
+{21681}{21776}SledeÊa poznata stvar je|da je oko 8 sati bio u...
+{21776}{21871}vikarijatu gde je igrao öah|sa lokalnim sveötenikom.
+{21872}{21912}Vikarom.
+{21913}{21981}Da, vikarom. Sigurno nije loö|öahista.
+{21982}{22061}Verujem da je dobar s obzirom|da je mozak za matematiku.
+{22062}{22132}Drûite se Ëinjenica, Davise.|Samo Ëinjenice.
+{22133}{22284}Posle, od prilike pola sata napustio je|vikarijat i krenuo ka laboratoriji.
+{22293}{22383}Proverom na kapiji utvreno je da je|uöao u 8:50 a izaöao u 9:05.
+{22384}{22490}Poslednji put je vien u  9:25|kad je hvatao voz za Paddington.
+{22490}{22595}To je spori voz koji na odrediöte|stiûe u 10:50. To je sve.
+{22646}{22703}Da li poznajete vikara, Lane?
+{22708}{22772}Upoznali smo se.|Zove se Burgess.
+{22772}{22896}On je poslednja osoba sa kojom je Willingdon|razgovarao. Moram da se vidim sa njim.
+{22908}{22972}Lane, morate da poete sa mnom,|imam jedan posao za vas.
+{22972}{23020}Gde idemo?
+{23021}{23067}Nazad u Wallingford.
+{23279}{23403}Pokuöavam da prokljuvim Willingdonov motiv.|Da li je moguÊe da ga je neko nagovorio?
+{23404}{23528}Pretraûite njegove papire i ako pronaete bilo|öta öto vam nije jasno, odmah mi javite.
+{23528}{23601}I, Lane, ne govorite nikom niöta.
+{23609}{23658}U redu.
+{23667}{23715}Idemo.
+{24501}{24562}Ima li koga kod kuÊe?
+{24689}{24766}Izvinite. Gde je vikar?
+{24766}{24814}Ja sam vikar.
+{24815}{24861}Izvinite, gospodine.
+{24862}{24998}Ne izvinjavajte se. Pretpostavljam da ste me|zamenili sa molerom. Bijem izgubljenu bitku.
+{24999}{25097}Zakrpim jedan deo ove kuÊe,|ona se raspada negde drugde.
+{25098}{25140}äta mogu da uËinim za vas?
+{25141}{25248}Ja sam naËelnik Folland. VeÊ ste razgovarali|sa jednim od mojih ljudi, narednikom Rogersom.
+{25248}{25312}Da. ZnaËi i vi ste iz policije?
+{25318}{25386}Da. Moram da vam postavim|par pitanja.
+{25387}{25499}Ovde je krö od jutros, ali, molim vas|naite negde mesto da sednete.
+{25500}{25547}Hvala vam.
+{25650}{25705}Pa, o Ëemu se radi?
+{25706}{25776}Koliko znam vi ste stari prijatelj|profesora Willingdona?
+{25779}{25804}Da, jesam.
+{25805}{25879}I on je sinoÊ svraÊao?|-Jeste.
+{25880}{25928}Koliko dugo se zadrûao?
+{25928}{25975}Oko jedan sat.
+{25975}{26036}Da li se ponaöao normalno?
+{26040}{26091}Da, valjda jeste.
+{26092}{26142}Kao da niste sigurni.
+{26143}{26245}Stvarno? Ma, ne. Koliko ja znam,|bio je sasvim normalan.
+{26245}{26289}Da li je imao neki poseban razlog|da vas poseti?
+{26290}{26401}Ne. Dva- tri puta nedeljno igramo öah.|I sinoÊ smo igrali.
+{26402}{26463}O Ëemu ste... razgovarali?
+{26470}{26572}Pa, ovaj... razgovarali smo|o privatnim stvarima.
+{26580}{26700}Vikare, od izuzetne vaûnosti je da mi|kaûete sve öto znate.
+{26701}{26836}John Willingdon ne da je samo jedan od mojih|najstarijih prijatelja veÊ je i moj parohijanin,
+{26836}{26902}nemam prava da izdam|njegovo poverenje.
+{26903}{26968}Ova stvar je od izuzetne hitnosti.
+{26969}{27054}Willingdon je nestao i, biÊu|sasvim otvoren,
+{27054}{27140}njegov nestanak ugroûava|nacionalnu bezbednost.
+{27141}{27189}Nacionalnu bezbednost?
+{27296}{27358}äta ûelite da znate?
+{27358}{27456}Pokuöavam da shvatim njegovo stanje svesti|i da otkrijem njegove namere...
+{27461}{27492}a imam jako malo vremena.
+{27497}{27583}Stanje njegove svesti? Moûda sam vas|obmanuo, gospodine...
+{27599}{27634}Folland.|-Gospodine Folland.
+{27653}{27750}Iskreno, sinoÊ kad smo se pozdravili,|oseÊao sam se pomalo nelagodno...
+{27761}{27827}a tako sam se Ëesto oseÊao|u poslednji par meseci.
+{27832}{27931}VeÊ duûe vreme znam da|John ima velikih problema.
+{27937}{27990}Da? Kakvih?
+{28008}{28057}Kako da vam objasnim?
+{28062}{28150}Prestao je da veruje u ono|öto radi...
+{28169}{28238}i sve ËeöÊe se pitao kuda nas|sve to vodi.
+{28239}{28288}Da?
+{28289}{28334}Mislim da je od mene oËekivao pomoÊ. 
+{28339}{28440}Voleo bih da sam mogao viöe da|mu pomognem. Bio je usamljen.
+{28440}{28531}Bio je izolovan samom prirodom|svog posla.
+{28532}{28620}Da li je mislio da se njegov posao|koristi na pogreöan naËin?
+{28621}{28772}Da. SinoÊ mi je postavljao neka pitanja|na koja je bilo jako teöko odgovoriti.
+{28773}{28821}Kao, na primer?
+{28822}{28874}Rekao je, 'äta bi ti radio...
+{28875}{28999}kada bi se rezultat tvog ûivotnog dela|koristio u zle svrhe?'
+{29000}{29035}I öta ste vi rekli?
+{29036}{29070}äta sam mogao da mu kaûem?
+{29075}{29134}Da smo vi i ja ubeeni u tako neöto,|gospodine Folland...
+{29140}{29222}zar ne bismo uradili sve öto je u naöoj moÊi|da se suprotstavimo zlu?
+{29223}{29318}Morali bismo da budemo apsolutno sigurni u to,|vikare, da smo na Willigdonovom mestu.
+{29319}{29371}To sam mu i ja rekao.
+{29371}{29478}Ali, u krajnju ruku, svaki Ëovek se ponaöa|u skladu sa svojom saveöÊu.
+{29479}{29584}Da li vam je sinoÊ palo na pamet|da je moûda nervno rastrojen?
+{29589}{29721}Ne, mislim da nije bio. Da jeste,|moûda mi snosimo krivicu.
+{29726}{29816}Na kraju krajeva, Follande, mi smo na|njegova pleÊa svalili veliki teret...
+{29820}{29865}i ostavili ga da se s‚m|nosi sa njim.
+{30151}{30201}Vidi, Steve!
+{30202}{30251}Da?
+{30251}{30318}Ovo je baö Ëudno. Evo...
+{30368}{30419}Pogledaj ovo.
+{30419}{30568}Sve te ökrabotine. To je tatin rukopis.|Vidi, evo ima ih joö.
+{30616}{30665}»ekaj malo.
+{30670}{30733}Ovo je tatin rukopis.
+{30761}{30824}Mogu li da pogledam, molim?
+{30845}{30894}Hvala.
+{30914}{31036}'Mrak, mrak, mrak u sred|sjajnog podneva'.
+{31073}{31138}Ovo je rukopis vaöeg oca?
+{31139}{31234}Da, ali ja niöta ne razumem.|On to ne bi uradio.
+{31267}{31351}Gospodine Folland,|mislite li da je bolestan?
+{31357}{31467}Da, mislim. Zato i moramo|brzo da ga pronaemo.
+{31471}{31533}Lane, ovo Êemo poneti sa sobom.
+{31617}{31704}Izgleda da je veÊ neko vreme|bio na granici sloma.
+{31710}{31756}Ne znam kako od nas niöta|nije primetio.
+{31772}{31803}Deöava se.
+{31817}{31885}Potiskivanje straha je kao da drûite|poklopac na Ëajniku dok voda vri.
+{31886}{31954}Negde mora da se oslobodi.
+{31984}{32010}äta je sad ovo?
+{32035}{32087}Verovatno, pretraûivanje.|-äta se taËno deöava?
+{32088}{32245}Odrede podruËje, sistematski ga pretraûe,|a onda, negde drugde krenu od poËetka.
+{32246}{32371}Dosadan je to posao. Ljudi ne uûivaju u njemu.|Niko ne uûiva u njemu.
+{32544}{32611}Dajte mi da vidim spisak gostiju.
+{33168}{33228}Izvinite, gospodine!
+{33229}{33289}Nek sam proklet!
+{33329}{33380}Samo malo, molim vas,|samo da vas pogledam.
+{33381}{33470}Sluöajte, sinoÊ sam miljama|bio daleko of Freemans Wharfa.
+{33470}{33559}Ne znam niöta ni o kakvim|cigaretama.
+{33560}{33667}Dobro, slobodno nastavi sa igrom,|moûda zaradiö koje paklo.
+{33872}{33927}Policija. Otvorite.
+{34196}{34288}Ovo je Pomorska Misija, Vojska Spasa,|crkva DobroËinstva. 
+{34293}{34374}ZnaËi, ostaje nam samo joö|Rutton House. Idemo.
+{34545}{34610}E pa, ovo je vaö plast, Lane.
+{34641}{34709}A traûimo, prokleto malu iglu.
+{34855}{34939}{y:i}UTORAK
+{35895}{35945}Novine! Novine!|{y:i}Potraga za nestalim nauËnikom
+{35946}{36020}'Zvezda', 'Novosti', 'Standard', novine!
+{36027}{36148}Novine! Zvezda', 'Novosti',|'Standard'! Novine!
+{36182}{36256}Zvezda', 'Novosti',|'Standard'! Novine!
+{36272}{36338}Zvezda', 'Novosti',|'Standard'! Novine!
+{36390}{36456}Ne, ja nikad nisam bio ni za bradu,|ni za brkove, Ëak ni kao mlai.
+{36456}{36523}»ista gornja usna pokazuje da|nemate öta da krijete.
+{36524}{36572}Da.
+{36573}{36644}Radite li neöto da vam izraste kosa,|gospodine? -Niöta.
+{36646}{36718}MoraÊemo neöto da preduzmemo|po tom pitanju. SaËekajte...
+{36719}{36789}Ne, hvala. U velikoj sam ûurbi.
+{36790}{36859}Od mog tonika kosa bi i|na slonu izrasla.
+{36860}{36909}Koliko sam duûan?
+{36910}{37018}äiling, gospodine. Ako neöto ne uradite biÊete|Êelavi kao bilijarska kugla.
+{37018}{37066}Hvala.|-Hvala vama!
+{37085}{37126}SledeÊi, molim.
+{37541}{37627}{y:i}PrenoÊiöte sa doruËkom, gospoa Peckett.|{y:i}»isto i domaÊinski
+{38313}{38419}Mac, mac, mac, mac.|Doi, devojËice.
+{38548}{38597}Da?
+{38598}{38642}Gospoa Peckett?|-Da.
+{38643}{38717}Video sam vaö oglas u izlogu.
+{38722}{38856}Da, soba je na prvom spratu okrenuta ka ulici.|Da, slobodna je. HoÊete da pogledate?
+{38857}{38905}Hvala.
+{38948}{39072}Dole, Wendy. Nemam niöta protiv da|gospoda izlaze napolje...
+{39077}{39132}ali, za dame, to ne dolazi u obzir.
+{39133}{39234}Mislim na moje maËke. Na koliko biste|iznajmili sobu, gospodine...
+{39235}{39288}Zovem se Richardson, i uzeo|bih je na nedelju dana.
+{39289}{39364}Samo jednu nedelju? -Da, dotle|Êu zavröiti sa poslom.
+{39368}{39442}Mogu li da vidim sobu?|-Naravno, pokazaÊu vam je.
+{39452}{39549}Nemojte misliti da sam ljubopitljiva.|Nisam, ali Ëime se bavite?
+{39550}{39610}Radim u Britanskom Muzeju. Istraûivanja.
+{39611}{39736}Da. Pomislila sam da ste moûda glumac a ja|ne dozvoljavam ovde nikakve teatralnosti.
+{39737}{39839}Sasvim razumljivo. -Sa njima uvek|problemi. Ovo je soba.
+{39844}{39894}Hvala vam.
+{39900}{40011}A ovo je Bunty. Nikad ne znate gde Êete je|pronaÊi. äic! Hajde, Bunty, silazi odatle.
+{40012}{40060}Pa?
+{40061}{40111}Sasvim  mi odgovara.
+{40112}{40212}Stvarno? Mogu da vam pripremim|i jedan mali doruËak.
+{40213}{40284}Hvala. -A za to Êe mi biti potrebna|vaöa abonentska knjiûica.
+{40289}{40314}Da, naravno.
+{40316}{40388}Nadam se da Êe vam biti udobno.|Ovo je perjani jorgan moje majke.
+{40389}{40514}Mislim da neÊu ovde doruËkovati.|Jako rano moram da izaem odavde.
+{40520}{40549}Kako god hoÊete. 
+{40553}{40658}U tom sluËaju soba je 22,6, unapred.|Shvatate da je to uobiËajeno, gospodine...
+{40666}{40716}Richards.
+{40717}{40800}Zar niste rekli...|-Richards.
+{40801}{40855}Hvala.
+{40878}{40937}Doi, Bunty.
+{40992}{41059}A ovo je Amber. Bezobraznica!
+{41081}{41229}Stalno se vrzma po krevetima. DoneÊu|vam drugi termofor za noÊas. -Hvala.
+{41234}{41304}Da li imate sve öto vam treba?|-Da, hvala vam.
+{41305}{41375}Idemo, Amber. Bunty!
+{41971}{42071}{y:i}Ako profesor John Willingdon ûeli da razgovara...
+{42075}{42170}{y:i}odmah Êe biti dogovoren razgovor na|{y:i}najviöem nivou.
+{42175}{42290}{y:i}Mora da ide na prvu stranu
+{42333}{42378}Ne shvatam.|-Ni ne treba.
+{42379}{42404}U Ëemu je stvar?
+{42410}{42536}Premijer je zamolio 'London Daily' da to objavi|u jutarnjem izdanju. Bez komentara, u redu?
+{43731}{43850}I izie drugi konj ri, i onome|öto sedaöe na njemu...
+{43897}{43981}onome öto sedaöe na njemu dade|se da uzme mir sa zemlje,
+{44022}{44095} i dade mu se maË veliki.
+{44131}{44197}Tako Êe sa hukom biti|baËen Vavilon, grad veliki,
+{44249}{44351}Vavilon, grad veliki,|i neÊe se viöe naÊi.
+{47050}{47164}Da, gospoo Peckett?|-Ja... joö ste budni, gospodine...
+{47165}{47244}Jesam.|-Ne moûete da zaspite?
+{47244}{47286}Niöta ne brinite, gospoo Peckett.
+{47297}{47393}Kad imam problema, mozak mi najbolje|funkcioniöe u sitne sate.
+{47394}{47494}Laku noÊ.|-Laku noÊ.
+{47844}{47947}{y:i}SREDA
+{49223}{49335}{y:i}Ubica stanodavke na slobodi
+{49808}{49920}Halo? Dajte mi policijsku stanicu|na Victoria Roadu, brzo!
+{50494}{50620}Da? Ovde je... Da, uvedite|gospoicu Willingdon.
+{50661}{50737}Ona nije budala. Zna da se neöto deöava,|da se deöava neöto veliko.
+{50738}{50792}äta Êete joj reÊi?
+{50797}{50861}Ne znam joö ni s‚m.
+{51069}{51117}Napred.
+{51118}{51151}Gospoica Willingdon, gospodine.
+{51152}{51202}Dobar dan, gospoice Willingdon.
+{51203}{51295}Znam da nije trebalo da dolazim ovamo,|ali smo majka i ja proËitale novine...
+{51298}{51378}i oËigledno je da neöto|krijete od nas.
+{51379}{51476}Mislim da imam pravo da znam.|Ipak je on moj otac.
+{51477}{51537}Dobro... izvolite, sedite.
+{51615}{51681}Morate shvatiti da razumemo|kako se oseÊate...
+{51685}{51759}i da smo pokuöali da vas poötedimo|bespotrebne sekiracije.
+{51774}{51900}Otkrili smo da je, mesecima unazad|vaö otac bio pod velikim pritiskom.
+{51900}{51965}Ali, kod kuÊe to niËim|nije pokazivao.
+{51966}{52065}Svejedno, verujte mi na reË da je bilo tako|i da je to bilo previöe za njega.
+{52103}{52177}Je l' vi to pokuöavate da mi kaûete|da je to uticalo na njegov um?
+{52184}{52232}Bojim se da je tako.
+{52237}{52357}Ali, o Ëemu se tu radi? Ministarski|razgovor na najviöem nivou...
+{52358}{52390}Ann, zar ti ovo nije dosta?
+{52391}{52472}Molim vas, gospodine Folland,|recite mi!
+{52509}{52605}U redu, gospoice Willingdon.|Mislim da je najbolje...
+{52605}{52701}da vam pokaûem pismo koje je|vaö otac napisao.
+{52725}{52799}Adresirano je na premijera.
+{53082}{53131}Tata!
+{53240}{53289}Taksi!
+{53398}{53466}Hotel Clifts, Bayswater, molim.
+{53637}{53765}Steve, joö uvek ne mogu da verujem. Tata je|tako neûan... ne bi ni mrava zgazio.
+{53772}{53889}Sve vreme oseÊam da sam ja kriv, Ann.|Svaki dan sam radio sa njim i nisam primetio.
+{53893}{53969}Kad bih mogla da razgovaram sa njim,|znam da bi me sasluöao.
+{53975}{54034}Draga!
+{54134}{54190}Ann, vidi!
+{54210}{54260}Steve, to je tata!
+{54274}{54323}Stanite, vozaËu! Stanite!
+{55115}{55164}Tata!
+{55196}{55245}Tata! Tata!
+{55271}{55335}Steve, to je bio on.|To je bio tata!
+{55335}{55383}Idemo! Brzo!
+{55777}{55826}Dovienja.
+{55838}{55868}Izvinite.
+{55869}{55971}Hvala vama! Da nije smak sveta|ili tako neöto?
+{56001}{56140}Ponavljam, svim jedinicama,|profesor J - John - Willingdon...
+{56148}{56292}U pravcu Charing Crossa.|Vreme, od prilike 11:40...
+{56299}{56386}Opis ostaje isti kao i ranije,|osim öto Willingdon...
+{56386}{56472}viöe nema brkove.|Sa sobom, verovatno nosi....
+{56568}{56610}Pogledajte ovo, naredniËe.
+{56612}{56681}Izjava gospoe Peckett.
+{56682}{56713}äta sa njom?
+{56714}{56797}Njen stanar, po imenu Richards|ponaöa se Ëudno.
+{56798}{56889}Pogledajte ovaj opis, visok 175,|sivi filcani öeöir,
+{56889}{56981}sivo odelo, srednje grae, braon oËi,|öezdesetih godina.
+{56982}{57102}Ne zvuËi baö kao ubica one stanodavke,|ali bi mogao da bude profesor.
+{57103}{57150}Moûda vredi proveriti. Dobro je.
+{57151}{57204}Pomislio sam da treba da vam|skrenem paûnju, naredniËe.
+{57208}{57284}Rekao sam, 'dobro', i öta sad hoÊeö?|Odlikovanje?
+{57300}{57389}Ne, naredniËe.|-PoslaÊu tamo auto.
+{58881}{58949}SeÊaö se kad smo ovo poslednji|put radili?
+{58949}{59017}1940. kad smo vraÊali momke|iz Dunkirka.
+{59018}{59060}Tako je. äta li je sad|u pitanju?
+{59060}{59125}Crk'o ako znam.
+{59406}{59484}Poûurite vas dvojica, za pola sata|kreÊemo dalje.
+{59485}{59614}Ostave ovde gomilu prokletih autobusa i onda|oËekuju da budu spremni za pokret!
+{59614}{59672}Trebalo je da se prijavimo|u prokletu mornaricu.
+{59673}{59723}Prokleto si u pravu.
+{59751}{59895}Sad mi je stigao telegram. 'TaËno od|1200 sati dvadesetog ...
+{59901}{60027}ni jedan kontinentalni let neÊe biti primljen.|Svi Êe biti preusmereni.
+{60028}{60168}Sve piste se stavljaju na raspolaganje|Vazduhoplovnoj transportnoj komandi'.
+{60169}{60217}äta se deöava?
+{60696}{60746}Trixie!
+{60789}{60844}Sve je u redu.|-Ona je jako umiljata.
+{60848}{60922}Ja oboûavam pse.|-To se odmah vidi.
+{60922}{61023}Sad mama mora da te podigne.|äaöavice jedna mala.
+{61024}{61073}Posle vas, gospodine.|-Ne, ne, molim vas.
+{61075}{61120}Mnogo vam hvala.
+{61157}{61227}Ali, pogledajte, gospodine Cooper,|na dnu je znak.
+{61228}{61314}Ako vam dam viöe od pet öilinga,|biÊu na gubitku.
+{61315}{61401}Dobro. Blagosloveni da ste,|prihvatiÊu.
+{61407}{61451}Pet öilinga, Bret.
+{61464}{61493}éurite?
+{61494}{61522}Ne, samo izvolite.
+{61523}{61560}Hvala.
+{61560}{61607}Izvolite, draga moja.
+{61652}{61700}Dobar dan, gospoice Goldie.|-Ako nemate niöta protiv.
+{61712}{61761}Samo malo.|-Sii dole, Trixie.
+{62020}{62090}Danas je, opet lep i topao dan,|zar ne?
+{62094}{62154}Da. Sve u svemu imamo|predivno leto.
+{62158}{62238}Mada, noÊu ume da zahladni,|sloûiÊete se. -Da.
+{62243}{62316}Uskoro Êemo opet nositi kapute.
+{62317}{62396}Veoma Ëudno, ali baö zato sam i doöao ovamo,|da kupim kaput. Stari sam negde zaboravio.
+{62400}{62459}Baö glupo od mene.|Ne znam gde sam ga ostavio.
+{62466}{62538}Zaboravili ste kaput! Baö ste neki|stari profesor!
+{62560}{62649}Molim? -Zar ne znate onu|staru öalu? Rasejani!
+{62674}{62767}Da, valjda ste u pravu.|-Da li je ovo ta, gospoice Goldie?
+{62770}{62809}Evo i priznanice.
+{62809}{62858}Hvala.
+{62859}{62907}Da li biste....
+{62968}{63022}Samo mi prebacite preko ramena...|-Naravno.
+{63026}{63076}Stvari su krenule na bolje u|pozoriötu, gospoice Goldie?
+{63077}{63215}Naravno. Opet spremaju 'Kvekerku', pa moram da|vidim da dobijem svoju staru ulogu.
+{63220}{63254}Drago mi je.|-Kako izgledam?
+{63258}{63278}Lepo.
+{63288}{63414}Dobro. Hvala vam öto ste je pridrûali.|Baö joj se dopadate. Je l' da, Trixie?
+{63418}{63499}Bezobrazna devojËice.|Daj gospodinu öapu.
+{63512}{63637}Pa, dovienja. Mnogo vam hvala.|Idemo, Trix, duöo.
+{63737}{63830}Glumila je u originalnoj predstavi.|Joö uvek se dobro nosi.
+{63844}{63872}äta mogu da uËinim za vas?
+{63876}{63934}Da nemate, moûda, moj broj kaputa?
+{63940}{64042}Mislim da moûemo to da sredimo.|Da vidimo, od prilike, koji je to broj.
+{64254}{64322}Ovo je zapadno saobraÊajno|podruËje.
+{64326}{64380}TrebaÊe nam po jedan teleprinter za|svaku zonu, tri za opticaj.
+{64381}{64441}U redu?|-Da, gospodine.
+{64441}{64499}Ovo je, upravo stiglo.|-Vratili su te nazad?
+{64500}{64595}Samo za ovaj posao, gospodine.|-Dobro doöao.
+{64602}{64702}{y:i}Halo Operacije, ovde ötab|{y:i}Petog Korpusa.
+{64703}{64822}{y:i}Prva i Druga Divizija su napustile|{y:i}oznaËena podruËja u 20:00.
+{64842}{64894}Ima li neöto novo?
+{64957}{64997}I sve ovo samo zbog tate!
+{65034}{65095}Hajde, odveöÊu te kuÊi da se|malo odmoriö.
+{65096}{65141}Da se odmorim?
+{65147}{65219}Pa, ovde im nismo ni od|kakve pomoÊi, zar ne?
+{65224}{65364}U pravu si, Steve. Znaö, poËinjem da shvatam|pritisak pod kojim je tata bio svo ovo vreme.
+{65385}{65439}Hajde, Ann.
+{66193}{66244}Ne mogu da vas prime.|-Ma, nije, valjda?
+{66245}{66321}Da ti kaûem, ja sam se ovim bavila|dok si ti joö piökio po pesku.
+{66330}{66426}I moûeö da kaûeö svojoj gospodi producentima,|ne bih igrala u njihovim...
+{66430}{66460}öugavim predstavama...|-Zdravo.
+{66465}{66498}makar crkla od gladi!|-Ne biste?
+{66506}{66557}Ne, ne bih!|-Dobro, dobro.
+{66570}{66629}Trixie! Trixie! Trix?
+{66634}{66683}A, tu si!
+{66686}{66730}Kako ste?
+{66731}{66854}Zar je moguÊe, opet vi?|Da me niste moûda pratili?
+{66854}{66901}Draga moja, mlada damo,|uveravam vas...
+{66902}{66959}Naravno da niste, samo sam se öalila.
+{66960}{67068}Da vam kaûem, ako poûurimo moûete me|Ëastiti piÊem pre nego öto zatvore.
+{67069}{67141}Hajde, idemo. Baö bi mi prijalo jedno,|kad vam kaûem.
+{67154}{67286}Upravo sam bila da im kaûem öta mogu|da urade sa svojom malom 'Kvekerkom'.
+{67306}{67372}Ja vam kaûem, ovog puta neÊe biti|nikakve objave rata.
+{67373}{67474}Neko Êe, jednostavno da pritisne dugmence,|i to je kraj. Zdravo, Goldie! Dugo te nije bilo.
+{67475}{67557}Zdravo, svima. Sedite, sedite, dragi.|Da vidimo, öta Êemo?
+{67557}{67639}Znam! Jednu lepu Ëaöu portoa.|-A vi, gospodine?
+{67640}{67705}»aöu portoa, brendi i sodu, molim.
+{67756}{67835}Drago mi je öto si svratila.|Alf je danas nepodnoöljiv.
+{67840}{67894}Dobro. Ne moraö da mi verujeö! Frede!
+{67972}{68027}Reci im öta si video danas po podne|kad si dolazio ovamo?
+{68032}{68153}äta, one sanitetske vozove na sporednom|koloseku Clapham Junctiona?
+{68160}{68310}Vidiö? VojniËki kamioni su se uzmuvali,|vlada je u neprekidnom zasedanju.
+{68314}{68358}Samo mi nemoj reÊi da se|niöta ne deöava.
+{68359}{68431}Pa öta? Mi tu ne moûemo|niöta da uradimo.
+{68432}{68552}Da uradimo? Ja Êu da ti kaûem öta moûemo.|Za promenu, moûemo prvi da pritisnemo dugme.
+{68553}{68655}Da napunimo pedeset prokletih bombardera|atomskim bombama.
+{68656}{68755}Imamo ih, u to nema sumnje. U proteklih pet|godina smo ih samo sakupljali.
+{68756}{68847}Napunimo proklete avione i raznesemo im|do avola najveÊe gradove. äta kaûete na to?
+{68848}{68889}Ne.
+{68890}{68930}äta?
+{68930}{69008}Ne razumete öta govorite.
+{69016}{69068}äta ja to ne razumem?
+{69069}{69170}Kako ne vidite da bi to öto vi predlaûete|dovelo do uniötenja ËoveËanstva.
+{69171}{69271}Tako su i ranije govorili. Kad vam kaûem,|ratove ne moûete spreËiti.
+{69274}{69330}Uvek Êe biti ratova.
+{69336}{69435}Bojim se da ne mogu dalje da|diskutujem o ovome.
+{69447}{69521}Nema potrebe da shvatate|ovo liËno.
+{69554}{69674}Evo. Nemojte da se sekirate zbog njega.|Nije on mislio niöta liËno.
+{69680}{69747}Kako moûe biti biti tako siguran,|tako uveren?
+{69752}{69810}O, on je samo najobiËnija budalËina.
+{69810}{69884}Trebalo bi da razmiölja o|tome öto govori.
+{69885}{69958}Nije bitno. Popijte to.|KupiÊu vam joö jedno.
+{69959}{70018}Ne, hvala. Bojim se da|moram da krenem.
+{70018}{70050}Fajront, gospodo.
+{70051}{70099}Joö nisam pronaöao hotel|za veËeras.
+{70100}{70148}Malo ste zakasnili, zar ne?
+{70149}{70202}Pretpostavljam da jesam.
+{70203}{70254}Dajte vaöe Ëaöe, molim vas.
+{70255}{70387}Dobro, Frede. Hajde, vreme je da krenemo.|Gde je moja taöna? Idemo, Trix.
+{70406}{70467}Laku noÊ.
+{70468}{70524}»ekaj samo da stignemo|do mene.
+{70525}{70576}U redu, draga.|-NeÊete onda govoriti, ' u redu'.
+{70577}{70681}Ako nemate gde da prenoÊite mogli|biste moûda kod mene.
+{70686}{70736}Nije neöto bog zna öta.|Ipak, nije ni loöe.
+{70748}{70784}Ne, stvarno, ne bih|da se nameÊem.
+{70788}{70924}Ne budite öaöavi. Znam da ste pravi gospodin|i da nemate gde drugde da odete...
+{70928}{70994}niöta vam drugo ne preostaje.|PlatiÊete kako znate.
+{70997}{71095}To je veoma lepo od vas, ali stvarno|ne bih ûeleo da vam budem na smetnji.
+{71096}{71163}Ma, nije to nikakav problem.|Doite, dragi moj.
+{71166}{71215}Izvinite.
+{71216}{71263}Kome to öaljete... nekoj prijateljici?
+{71264}{71300}NeÊete verovati, premijeru.
+{71301}{71423}Baö ste neki öaljivdûija.|Hajde da zaustavimo ovaj taksi.
+{71426}{71473}Taksi! Taksi!
+{71543}{71667}Upadaj, Trix. 38, Lennock|Road, Kennington. Idemo.
+{71806}{71947}To je bila sjajna turneja... sve rasprodato.|Izvolite, dragi moj. Zatvorite vrata.
+{71948}{71995}PokazaÊu vam put.
+{72007}{72133}Kakva je to turneja bila. U Liverpoolu|glavna glumica se razbolela.
+{72133}{72222}Morala sam da je zamenim.|Dragi moj, da li sam bila dobra?
+{72222}{72311}Svi su posle rekli da tu ulogu nikad|niko nije tako dobro odigrao.
+{72312}{72427}Mislila sam da se ona viöe nikad neÊe|vratiti, ali jeste - i to kako!
+{72433}{72567}Nije mogla ni da mi primiriöe, ali je gurala dalje.|Doi, Trix! Samo da pronaem kljuË.
+{72581}{72728}»ekajte da upalim svetlo, dragi! Ovde bi|se i maËka saplela preko neËeg.
+{72802}{72876}Sad je veÊ bolje.|Skinite kaput.
+{72928}{73013}Raskomotite se dok dam|Trixie veËeru,
+{73014}{73120}a onda Êemo popiti Ëaj. Idam ja da|stavim Ëajnik. Odmah se vraÊam.
+{73203}{73301}Trixie, gladnica moja!|NeÊe mama dugo.
+{73301}{73399}Samo da stavim Ëajnik|pa Êu ti dati klopicu.
+{73497}{73546}Klopica!
+{73590}{73643}Lepo. Doi ovamo.
+{73742}{73847}Doite, skinite kaput i ostavite negde|tu svoju smeönu, staru torbicu.
+{73848}{73970}U kojoj sobi Êu ja spavati? Mislim,|gde mogu da ostavim svoje stvari?
+{73976}{74095}Pa, to je, pored mog jedini krevet.|InaËe, veoma je udoban.
+{74096}{74128}Ako je to ono öto ûelite.
+{74129}{74207}Hvala vam. Da, to bi bilo sjajno.
+{75439}{75505}»udna ste vi sorta, znate?
+{75514}{75571}äta sad gledate?
+{75572}{75599}London.
+{75600}{75680}London, ili vas stvori, ili vas uniöti,|tako ljudi govore.
+{75753}{75807}Evo. PonoÊ.
+{75808}{75857}Joö jedan proe dan.
+{75858}{75974}Ne govorite tako. Ja uvek kaûem,|poËeo je novi dan.
+{75976}{76051}Idem da nam skuvam Ëaj.
+{76320}{76392}{y:i}»ETVRTAK
+{77379}{77571}Draga gospoice Goldie, morao sam ranije da|krenem. Sigurno se viöe neÊemo videti...
+{77583}{77716}pa ûelim da vam se zahvalim na|ljubaznosti i gostoprimstvu.
+{77742}{77792}Dve funte!
+{77793}{77842}Dobar stari momak!
+{78050}{78110}{y:i}U »EMU JE TAJNA?|{y:i}Vlada zasedala do 4 ujutru
+{78114}{78174}{y:i}DA LI JE RAT U PITANJU?|{y:i}Recite narodu
+{78399}{78524}Ovo pismo, iz juûnog Londona stiglo je jutros.|Kaûe, 'NeÊe biti nikakvih pregovora...
+{78525}{78639}Vlada Êe izdati saopötenje|koje sam traûio...
+{78639}{78708}ili Êe biti odgovorna za|teöke posledice'.
+{78709}{78776}Prosto mi je neverovatno da policija|ne moûe da pronae tog Ëoveka.
+{78777}{78802}Tako je! Tako je!
+{78806}{78927}Moûda bi najbolje bilo da javnost obavestimo|o svemu, od samog poËetka.
+{78928}{79056}Postavlja se pitanje panike - istina bi|mogla da paraliöe ceo grad.
+{79057}{79109}Ali, ono öto vi nudite je|sasvim isto.
+{79110}{79160}Ne baö. Potraga se nastavlja...
+{79161}{79278}i komesar se nada da Êe ga pronaÊi.|Ali, ne smemo niöta da rizikujemo.
+{79279}{79340}U ovim fasciklama Êete pronaÊi plan|koji smo usvojili.
+{79345}{79388}Pre nego öto prodiskutujemo o|ovim merama, premijeru, 
+{79392}{79440}mislim da bismo morali da|izdamo saopötenje...
+{79443}{79535}za ötampu, ili preko radija,|i to, öto pre, to bolje.
+{79539}{79607}Koliko ja znam, po gradu su veÊ poËele|da kolaju svakakve glasine.
+{80062}{80137}Prekidamo program zbog|vaûnog obaveötenja.
+{80152}{80254}Premijer Êe vam se obratiti u vezi stvari od|velike nacionalne vaûnosti, taËno u jedan.
+{80273}{80400}Zamolio je one koji imaju radio da otvore|svoja vrata onima koji ga nemaju..
+{80412}{80517}bez obzira da li su im to prijatelji, komöije,|ili samo prolaznici.
+{80522}{80571}Ponavljam da Êe se premijer...
+{80575}{80641}éelite da znate zaöto je Vlada u|stalnom zasedanju, zar ne?
+{80664}{80735}éelite da znate zaöto Êe se|premijer obratiti narodu?
+{80750}{80847}Ja Êu vam reÊi - biÊe rata jer su|krenule glasine o ratu.
+{80861}{80948}SinoÊ sam imao nekog posla u|Ministarstvu Odbrane.
+{80952}{81010}Pitao sam, 'Kako stoje stvari|sa onim ultimatumom?'
+{81015}{81060}I öta su ti rekli?|-Niöta.
+{81083}{81256}Moja kuÊa na selu se nalazio u sred zone gde|se oËekuje napad. Tamo su trupe u pokretu.
+{81257}{81306}Zaöto ih toliko poûuruju?
+{81306}{81361}U Woolworthu sam Ëuo...
+{81379}{81440}Jesi li Ëuo to? I Rusi su|pokrenuli svoje trupe.
+{81441}{81511}Ne!|-Da, sad sam Ëuo.
+{81516}{81642}Uopöte mi se ne svia kako ovo izgleda.|Ipak, proöli put smo ih dobro ispraöili.
+{81643}{81723}IspraöiÊeö ti njih i ovaj put!
+{81731}{81793}Zaöto je Bert organizovao|sastanak u garaûi?
+{81793}{81853}Moûda Êe opet da ötrajkuju?
+{81854}{81965}Mislim da je ovo neöto mnogo gore.|Rekla sam Bertu, 'Ovaj put ti nigde ne ideö'.
+{81966}{82076}{y:i}Prekidamo naö program|{y:i}zbog vaûnog saopötenja.
+{82077}{82108}Pobogu, evo ga opet.
+{82109}{82259}Mislim da Êe opet da odrûi jedan od onih|govora o ötednji. Uskoro Êemo saznati.
+{82267}{82324}Uskoro Êemo saznati o|Ëemu se radi.
+{82325}{82364}Tako je, baö me interesuje.
+{82365}{82408}Nadam se da nije ono öto vi mislite!|-Ma, dajte!
+{82719}{82873}Ovde London. Premijer Êe vam se obratiti|iz svog kabineta u ulici Downing 10.
+{82889}{82982}Pripala mi je nesreÊna duûnost|da vam se obratim i da vam kaûem...
+{82982}{83075}o smrtonosnoj opasnosti koja se nad|nama nadvija od proöle nedelje.
+{83076}{83131}éelim prethodno da vam napomenem...
+{83132}{83265}i da vas uverim da Vlada Ëini sve|kako bi se ova opasnost sanirala...
+{83266}{83398}i da uspeh cele operacije zavisi iskljuËivo|od vaöe mirnoÊe i apsolutne saradnje.
+{83413}{83500}{y:i}Mnogi od vas znaju da se u Vladinoj|{y:i}istraûivaËkoj stanici u Wallingfordu...
+{83504}{83560}{y:i}radi na razvoju novih oruûja.
+{83567}{83677}{y:i}Jedan od naöih vodeÊih nauËnika,|{y:i}profesor Willingdon...
+{83678}{83803}{y:i}koji je radio na njegovom razvoju|{y:i}uzeo je jedno od tih oruûja...
+{83809}{83886}{y:i}i postavio Vladi ultimatum.
+{83892}{84058}Ako se ova zemlja javno ne obaveûe da Êe|prestati sa proizvodnjom ovakvog oruûja...
+{84061}{84173}on Êe sprovesti u delo svoj|sumanuti plan.
+{84193}{84342}{y:i}Svi naöi napori da otkrijemo gde se nalazi|{y:i}ovaj nesreÊni i zabludeli Ëovek...
+{84343}{84410}{y:i}do sad, nisu dali rezultata.
+{84411}{84558}{y:i}Ipak, razvoj ovog oruûja nije stvar|{y:i}naöeg izbora, veÊ potrebe.
+{84565}{84657}{y:i}Ako nas profesor Willingdon sada sluöa,|{y:i}preklinjem da shvati...
+{84657}{84750}{y:i}ako popustimo pred njegovim pretnjama...
+{84750}{84872}{y:i}mogli bismo ovu zemlju izloûiti,|{y:i}kao jedinu u celom, slobodnom svetu...
+{84878}{84998}{y:i}mnogo veÊoj opasnosti od ove|{y:i}kojoj je ona sada izloûena.
+{85004}{85122}{y:i}Ako profesor misli da bi takvim gestom|{y:i}sa naöe strane, bio upuÊen apel...
+{85122}{85180}{y:i}svim ljudima dobre volje|{y:i}na celom svetu...
+{85188}{85275}{y:i}onda zaboravlja Ëinjenicu da bi se na|{y:i}takav apel mogli ogluöiti...
+{85275}{85362}{y:i}i da Êe se ogluöiti,|{y:i}milioni onih...
+{85363}{85472}{y:i}koje su izolovali njihovi vladari|{y:i}koji kontroliöu njihove medije...
+{85476}{85546}{y:i}i svaki njihov korak.
+{85561}{85644}Naöa novija istorija nas uËi|da ako se pokaûemo slabim...
+{85644}{85728}predstavljamo neodoljivi izazov|za svakog tiranina.
+{85735}{85843}{y:i}NeÊu vam govoriti o prirodi|{y:i}trenutne opasnosti.
+{85843}{85975}Upotrebom tog novog oruûja, profesor Willingdon|namerava da uniöti sediöte Vlade...
+{85982}{86045}{y:i}u nedelju, taËno u podne.
+{86052}{86161}{y:i}DoveöÊe u opasnost podruËje povröine,|{y:i}od prilike, 20 kvadratnih kilometara.
+{86168}{86265}{y:i}Zato smo odluËili da se celo|to podruËje evakuiöe i...
+{86265}{86361}da se tamo, od ovog trenutka pa do daljnjeg,|uvede opsadno stanje.
+{86369}{86420}{y:i}Za nekoliko minuta...
+{86421}{86523}{y:i}ËuÊete sve detalje i uputstva naöeg|{y:i}plana za evakuaciju.
+{86529}{86627}{y:i}Pred nama je ogroman zadatak|{y:i}koji zahteva i ogromne ûrtve...
+{86635}{86688}{y:i}ali kojim Êemo spasti naöe ûivote.
+{86707}{86817}{y:i}Ja Êu ostati u ulici Downing dok se|{y:i}evakuacije ne okonËa.
+{86822}{86928}I na kraju, ako u meuvremenu|opasnost bude otklonjena...
+{86936}{87032}biÊe oznaËen signal za kraj uzbune.
+{87039}{87140}Ne zaboravite, oËi celog sveta|su uprte u nas.
+{87160}{87323}{y:i}Ovde London. Ostanite sa nama.|{y:i}Pripremite papir i olovku...
+{87324}{87396}Boga mi, odoh ja odavde.|{y:i}-...da zabeleûite uputstva.
+{88322}{88371}Novine! Novine!
+{88372}{88428}»itajte o svemu!
+{88433}{88507}Evakuacija i zvaniËno.|Novine! Novine!
+{88533}{88596}Evakuacija i zvaniËno.|Novine!
+{88743}{88838}Rekla sam, 'Mogla bih da vam pomognem,|ako je samo do prenoÊiöta.'
+{88839}{88887}Da li je delovao bolesno?
+{88887}{89031}Pa, moûda. Delovao je pomalo umorno,|ali se nije Ëudno ponaöao.
+{89039}{89139}Mada, saËekajte malo.|Sad mi neöto pade na pamet.
+{89140}{89277}Rekao mi je da öalje pismo premijeru.|U tom trenutku, to mi je bilo smeöno.
+{89277}{89389}A ta torba... da li ste imali priliku|da zavirite u nju?
+{89390}{89431}Naravno da nisam.
+{89432}{89493}A da niste, sluËajno primetili|öta je unutra?
+{89494}{89563}Ponaöao se kao gospodin pa sam se i ja|tako ophodila prema njemu.
+{89568}{89600}Sigurna sam u to. 
+{89606}{89675}Ali, zar ne moûete niöta da nam kaûete öto|bi nam pomoglo da ga pronaemo?
+{89679}{89795}Da znam, rekla bih vam, ali ni on|meni nije niöta rekao.
+{89800}{89913}Skuvala sam mu Ëaj, malo ga razveselila|i sutradan je otiöao.
+{89916}{89957}Ostavio mi je ovu poruku.
+{90147}{90177}To je njegov rukopis.
+{90198}{90221}Joö neöto?
+{90230}{90331}Pa, ostavio mi je joö neöto malo...|za sobu, znaö, draga.
+{90345}{90375}U redu.
+{90430}{90529}Mislim da bi to, za sad bilo sve.|Znate öta treba da radite ako ga vidite.
+{90533}{90624}Nema öanse da ga vidim. Odlazim odavde.|Idem za Aldershot. Tamo imam prijatelje.
+{90637}{90690}Da, gospodine?|-Isprati, gospou, molim te.
+{90709}{90875}Pa, dovienja. Dovienja i tebi, duöo, iskreno|se nadam da Êe te ga pronaÊi. Idemo, Trix.
+{90887}{90930}Zbogom joö jednoj prilici da|ga pronaemo.
+{90935}{90983}Kako smo, uopöte mogli sve ovo|da spreËimo?
+{90986}{91060}Vidi, Ann, mislim da je krajnje vreme da se|vratiö na selo. Je l' tako, Follande?
+{91074}{91117}Nije, mislim da nije.
+{91117}{91158}Molim?
+{91159}{91238}Ostalo nam je joö samo 48 sati.
+{91249}{91325}Za to vreme veÊi deo te oblasti Êe biti ispraûnjen|i tad moûemo da se bacimo na posao.
+{91340}{91432}U toj situaciji, gospoica Willingdon|Êe nam biti od najveÊe moguÊe pomoÊi.
+{91451}{91520}Pod uslovom da ste spremni  da|preuzmete rizik. -Naravno.
+{91524}{91635}Dobro. I prekinite sa tom zbunjenoöÊu i|utuËenoöÊu... oboje.
+{91726}{91796}{y:i}Evakuacija poËinje sutra ujutru|{y:i}u 8 sati.
+{91828}{91910}{y:i}Do kraja dana, zvaniËnici i|{y:i}policija Êe...
+{91920}{91962}Ovo je uûasno, draga moja.|-Da.
+{91966}{92026}äta vi mislite o tome?|Jeste li uzeli evakuacionu karticu?
+{92031}{92138}Boga mi, neÊu se ja gurati u redu ni zaöta sliËno.|Iz ovih stopa odlazim za Aldershot.
+{92149}{92210}Aldershot? äta Êete tamo|da radite, duöo?
+{92219}{92254}Da zabavljam trupe.
+{92372}{92416}Hajde, Trix, skloni mi se sa puta.
+{93122}{93160}Ostavio je svoju torbu!
+{93370}{93408}Molim vas, ne dirajte to.
+{93420}{93456}Ne sme da eksplodira prerano.
+{93536}{93570}Mislite...
+{93575}{93619}Mogla bi, ako ne budemo bili oprezni.
+{93648}{93683}Mislila sam da se viöe|neÊete vraÊati.
+{93694}{93748}Morao sam da se vratim, ûao mi je.|Nisam imao gde drugde da odem.
+{93760}{93843}Pa, ja odlazim. Ne pada mi na pamet|da ostanem ovde.
+{93959}{94046}Bojim se da Êete morati da ostanete.|Ne smem niöta da rizikujem.
+{94051}{94138}Ali... -Niste ni u kakvoj opasnosti.|Verujte mi, molim vas.
+{94161}{94197}Ali, morate raditi öta vam kaûem.
+{94211}{94326}U suprotnom... ako napravite jedan korak ili na|bilo koji naËin pokuöate da me izdate...
+{94342}{94484}biÊu prinuen da detoniram bombu pa ni vi,|ni hiljade drugih u ovoj oblasti,
+{94506}{94555}neÊete imati priliku da pobegnete.
+{94749}{94826}{y:i}PETAK
+{95845}{95900}Odmah sad, u zone H, L i M.
+{95901}{96016}Halo? Zona H, ovde ötab. Molim vas,|recite kako napredujete. Gotovo.
+{96021}{96089}Da. To je nareenje.
+{96170}{96260}{y:i}Paûnja, molim!|{y:i}PodseÊamo sve putnike...
+{96260}{96351}{y:i}da je po pravilima evakuacije...
+{96359}{96446}{y:i}dozvoljeno sa sobom poneti samo|{y:i}onoliko prtljaga...
+{96446}{96516}{y:i}koliko im je dovoljno da zadovolje|{y:i}liËne potrebe.
+{96523}{96592}{y:i}Sve preko toga, kao öto su|{y:i}kuÊni ljubimci...
+{96607}{96711}{y:i}slike, nameötaj ili|{y:i}sportska oprema...
+{96722}{96761}{y:i}strogo je zabranjeno.|-Dosta je!
+{96773}{96842}SledeÊi voz kreÊe za pet minuta.|-Strpite se malo.
+{96858}{96927}SaËekajte svoj red, gospoo.|-Molim vas, pustite me.
+{96936}{96971}Moram da uhvatim ovaj voz.|-éao mi je.
+{96975}{97063}éao mi je.  OtiÊi Êete odavde, |ali morate da saËekate u redu.
+{97111}{97192}Lep hotel u blizini Brightona. 20funti|prenoÊiöte. Ima li zainteresovanih?
+{97202}{97307}Lepa soba, lep hotel u blizini Brightona.|Tri noÊi. éeli li neko?
+{97945}{98030}{y:i}Kazna za greh je smrt
+{98322}{98373}Hajde, Alfe. Poûuri.|-U redu.
+{98419}{98445}Hajde, poûuri.
+{98510}{98659}Hajde sinko. Idemo, bako, stepenicama.|Snaite se. éao mi je sine, bez kokoöaka.
+{98665}{98736}Kako to mislite, bez kokoöaka?|-U redu je, dragi. Ernie, reci mu.
+{98740}{98772}StaviÊe je ispod sediöta.
+{98779}{98825}Nareenje je nareenje. Nema maËaka,|pasa, zeËeva ni kokoöaka.
+{98829}{98870}Daj mi tu kokoöku, sine.|Tako je, dobar momak.
+{98949}{98989}Uskoro Êe svi otiÊi.
+{99201}{99276}HoÊete li Ëaöu mleka?|-Hvala.
+{99298}{99327}äta je sad?
+{99356}{99417}Rekla sam ti da to uradiö|pre polaska.
+{99422}{99555}Sad Êeö morati da se strpiö dok ne stignemo.|äta da ti radim, avole jedan?
+{99585}{99668}Samo malo. Ne moûete ovo da ponesete.|ProËitali ste uputstva?
+{99673}{99721}Ja nigde ne idem bez svog reketa za|tenis i svog ötapa za pecanje.
+{99723}{99772}éao mi je, takva su nareenja.|-Nikad niöta gluplje nisam Ëuo.
+{99777}{99854}äta misli, gde je poöao? Na Olimpijske Igre?|-I meni se tako Ëini.
+{99904}{99954}U redu.
+{99955}{100005}Skylark spreman za polazak!
+{100104}{100171}Molim vas, zaustavite taj autobus.|-Prekasno, gospoo. éao mi je.
+{100178}{100281}Moja Êerka je u tom autobusu, ja sam|iöla po njenu lutku. äta sad da radim?
+{100287}{100382}Niöta ne brinite. Uite u bilo koji od ovih|autobusa, svi oni idu na isto mesto.
+{100387}{100516}Ja sam dobio nareenje i mene ne interesuje öta je|kazna za greh, sa tom tablom ne moûete unutra.
+{100561}{100589}SledeÊa Ëetvorka, molim.
+{100595}{100634}Koliko dugo mislite da me|drûite ovde?
+{100647}{100723}Rekao sam vam,|dok ne Ëujem premijera.
+{100730}{100759}Premijera?
+{100763}{100851}»uli ste öta je rekao, zar ne? Baö njega briga|za staru budalu, kao öto ste vi!
+{100864}{100949}Vi ste skroz poludeli. Eto, öta ste.|Vi ste, aposlutno skroz ludi!
+{101040}{101083}Ima li koga?
+{101123}{101188}ProveriÊu öta je sa onom starijom|gospoom sa prvog sprata.
+{101193}{101299}Proveri onda i gospou Phillips.|Ni nju nisam video.
+{101311}{101368}Poûurite, gospoo.|Autobus Ëeka.
+{101434}{101502}Gore nema nikoga. Gospoa Phillips|je otiöla u Aldershot. 
+{101506}{101526}Hvala.
+{101598}{101664}Odavde su svi otiöli, Joe.|-U redu.
+{101772}{101847}Idemo, gospoo. Dajte nam vaöe stvari.|Dozvolite da vam pomognem.
+{103332}{103369}Svi su otiöli.
+{103596}{103640}Najnovija vest koja nam je|upravo stigla.
+{103652}{103759}Za protekla 72 sata proverili smo sve|centre londonske civilne odbrane...
+{103765}{103887}i uverili se da evakuacija prestonice|protiËe glatko i po planu.
+{103897}{104005}U meuvremenu, ja sam posmatrao|nepreglednu kolonu vozila...
+{104010}{104071}koja je zakrËila puteve|izvan naöeg grada...
+{104075}{104151}pretrpana ljudima koji pokuöavaju da|pronau sigurnost na selu.
+{104194}{104324}U upotrebi su sva moguÊa prevozna sredstva,|od vozova, preko kamiona i autobusa,
+{104328}{104423}sve do patetiËno pretrpanih konjskih zaprega|i pokvarenih bicikala.
+{104428}{104559}Zgrabivöi samo najneophodnije, narod je prinuen da|ustukne pred ultimatumom jednog ludaka.
+{104560}{104621}Ipak, ovaj egzodus iz|najveÊeg grada na svetu...
+{104632}{104725}odvija se hladnokrvno, odluËno i|bez ikakve panike.
+{105324}{105380}Gospoo, probudite se. Ne biste|smeli da budete ovde. 
+{105383}{105444}Evo, uzmite ovu karticu i|prijavite se evakuaciju.
+{105454}{105495}I vi, gospodine. Idemo.
+{105534}{105670}{y:i}SledeÊi voz, koji opsluûuje zonu H,|{y:i}sektore 6, 7, 8 i 9...
+{105686}{105755}{y:i}upravo ulazi na peron 10.
+{105778}{105869}{y:i}Molim sve koji su evakuisani iz|{y:i}ovih sektora da poûure.
+{105869}{105914}{y:i}Poûurite, molim vas.
+{105978}{106050}Ne moûete u voz sa tim tablama.|Skinite to.
+{107377}{107459}{y:i}SUBOTA
+{107464}{107504}Ima li vesti iz gradonaËelnikove|kancelarije?
+{107504}{107524}Da.
+{107533}{107572}Dobro, tvoj je red da malo dremneö.
+{107578}{107618}Je l' svanulo napolju?|-Jeste, predivan je dan.
+{108946}{108991}I dalje ste verujete, je l' da?
+{109004}{109056}A öta ako premijer ne uradi ono|öto traûite od njega?
+{109060}{109085}UradiÊe, videÊete.
+{109089}{109172}Recimo da ne uradi, stvarno Êete|da aktivirate to Ëudo?
+{109180}{109201}Da.
+{109212}{109330}Ali to je baö ono öto ne ûelite, ono protiv|Ëega ste. Koja korist onda od toga?
+{109335}{109443}Zar mislite da nisam razmislio o svemu ovome?|Imao sam dovoljno vremena da razmislim.
+{109463}{109551}Mesecima sam bio izolovan, s‚m...
+{109565}{109652}i sve vreme sam znao da razvijam silu veÊu|nego öto je Ëovek ikad i sanjao.
+{109652}{109716}Izolovan? Sve bih ja vas izolovala|u zooloöki vrt!
+{109731}{109802}Zaöto ste, uopöte i poËinjali|sa tom nauËniËkom glupoöÊu?
+{109822}{109888}Zaöto sam poËeo?|Zaöto?
+{109928}{110015}Kad sam bio mlad u nauci sam|video naËin...
+{110025}{110083}da sluûim Bogu i svojoj ljudskoj vrsti.|éeleo sam samo da sluûim.
+{110118}{110202}Sad vidim da se moje ûivotno delo|koristi samo za razaranje.
+{110222}{110271}Moj san je postao koömar.
+{110289}{110360}NeÊete pomoÊi ljudima tako öto Êete im|razneti domove i upropastiti ûivote...
+{110365}{110410}celu ovu prokletu zemlju,|koliko ja vidim
+{110424}{110475}Bolje da nestane jedan grad,|nego ceo svet.
+{110486}{110551}A zaöto ste izabrali London?|äta vam je jadni London uËinio?
+{110560}{110655}äirom sveta, ljudi kao meseËari idu ka|sopstvenom uniötenju.
+{110662}{110697}Kako ne vidite?
+{110707}{110742}Ako London bude uniöten...
+{110758}{110870}moûda to probudi ostatak sveta da ne zloupotrebljava|moÊ koja moûe doneti sreÊu ljudima.
+{110876}{110945}Ljudima ne treba mnogo da budu sreÊni.|Ne traûimo mi mnogo...
+{110954}{111052}nego vi i takvi kao vi koji se petljaju sa|prirodom i izmiöljaju razne stvari...
+{111060}{111094}vi ste ti koji donosite nesreÊu.
+{111108}{111246}Ne, vi ne shvatate. Naravno da ne shvatate.|Ne znam öta sam drugo oËekivao.
+{111286}{111388}Ali, neko Êe shvatiti. Moûda neko od|mojih klolega nauËnika...
+{111424}{111470}i tako skupi hrabrost|sledeÊi moj primer.
+{111606}{111709}Pa, gospodo, zona je sad raöËiöÊena.|Poloûaji su sledeÊi.
+{111739}{111811}Ëetiri divizije su sasvim|okruûile perimetar.
+{111840}{111902}Za par trenutaka biÊe dat|signal za poËetak.
+{111934}{112051}Svaki vod Êe se kretati prema centru|svojim, unapred odreenim stazama.
+{112090}{112174}Kako se perimetar bude smanjivao|tako Êe se jedinice udvostruËavati...
+{112179}{112236}i tako poveÊavati kvalitet|provere.
+{112253}{112373}Ovi krugovi koje vidite obeleûene u|perimetru su raportna mesta...
+{112395}{112489}i svako ima svoje öifrovano ime öto Êe nam|omoguÊiti laköe praÊenje cele operacije.
+{112504}{112570}Sve jedinice su opremljene kratko-talasnim|radio-prijemnicima.
+{112622}{112756}Svim jedinicama je reËeno, ako lociraju|Willingdona da ne preduzimaju niöta...
+{112761}{112860}veÊ da odmah jave ovamo kako biste vi,|specijalci preuzeli stvar.
+{112874}{112944}Zatim, ako vreme bude dozvolilo,|jedinice Êe biti povuËene iz perimetra...
+{112962}{113009}a onda sledi, smrt ili slava, momci.
+{113258}{113297}Joö trideset sekundi, Wilsone.
+{113456}{113516}To je znak za pokret, gospodine.|-Pokret, naredniËe.
+{114676}{114798}Stephen Lane, asistent profesora  Willingdona|dobrovoljno se prijavio da vodi grupu.
+{114814}{114932}On Êe neutralisati UR12 kad i ako|uspemo da je se doËepamo.
+{114945}{115049}Rekao mi je da je to jednostavan posao koji|se moûe brzo obaviti. Nadam se da je tako.
+{115074}{115137}Follandov plan öta sa|Willingdonom, veÊ znate.
+{115159}{115210}Budite spremni na pokret u|svakom trenutku.
+{115228}{115314}A sad, gospodo, pre nego öto krenemo,|znam da bi premijer ûeleo da vam se obrati.
+{115318}{115343}Hvala vam.
+{115396}{115436}Gospodo, biÊu kratak.
+{115451}{115548}Svi ste se dobrovoljno prijavili za duûnost|koju, uskoro morate da ispunite.
+{115568}{115643}Od vaöeg uspeha ne zavisi|samo opstanak ovog grada...
+{115648}{115723}nego, na neki naËin i buduÊnost|naöe zemlje.
+{116740}{116770}Ima li koga u zmijarniku?
+{116775}{116811}Samo stariji vodnik, gospodine.
+{116830}{116873}Dobro. Sad pretraûi kuÊicu sa|majmunima. -U redu.
+{117319}{117344}Presedanje!
+{117404}{117429}Jones?
+{117521}{117628}Hej! Rekao sam ti da traûiö a ne da öljemaö.|Na duûnosti si. Dolazi ovamo.
+{117743}{117786}Pobogu, kakav grozan smrad!
+{117846}{117873}Ko je pustio ovu vodu?
+{117905}{117959}Ma, daj. To je automatika.|Joö radi.
+{118587}{118687}Tako Êe sa hukom biti baËen Vavilon,|grad veliki, i neÊe se viöe naÊi.
+{118945}{118986}Vod, stoj!
+{119020}{119128}Vas dvojica, preuzmite onaj tamo zid.|Vas dvojica krenite od donje kuÊe.
+{119148}{119189}Browne, ti ideö u|kuÊu broj dva.
+{119214}{119290}Vas dvojica pregledajte onu tamo.|U redu, idemo.
+{120192}{120265}Vi pogledajte tamo.|Idemo, Same.
+{120962}{120996}Imaö vatre?|-Imam.
+{121012}{121101}Jesi li bio gore? -Jok ja.|Ovo je najobiËnije gubljenje vremena.
+{121110}{121142}Ma öta mi napriËa!
+{121221}{121262}Evo. Povuci dim.|-Daj.
+{121361}{121390}Jeb'o te!|-Idemo!
+{121567}{121590}Pa, neka sam...
+{121639}{121696}äta vi radite ovde?|-Gde je on? Gde je otiöao?
+{121704}{121749}äta radite ovde?|-Je l' otiöao?
+{121752}{121785}Pitao sam, öta radite ovde?
+{121800}{121890}äta radim ovde?|äta ja radim ovde?
+{123074}{123151}U redu, zapamtite, kad budete dobijali|sledovanje pripremite manjerke.
+{123160}{123236}Jedite brzo i bez gunanja. MoguÊe je|da vam je to poslednji obrok.
+{123650}{123735}{y:i}NEDELJA
+{123978}{124123}{y:i}Halo, ötab. Halo, ötab. Brigada 1-6-3 izveötava,|{y:i}Zona Battersea sigurna. Gotovo.
+{124290}{124452}{y:i}Halo, ötab. Halo, ötab. Brigada 79 izveötava,|{y:i}Kensington siguran.
+{124472}{124511}{y:i}Napredujemo kroz Belgraviju.
+{124897}{124965}äta je sa mojim automobilom za Aldershot?|Rekli ste mi da...
+{125479}{125591}{y:i}Halo, ötab. Halo, ötab.|{y:i}Izveötava Brigada 54.
+{125609}{125686}{y:i}Lambeth siguran.|{y:i}Napredujemo kroz Westminster.
+{126288}{126394}{y:i}Halo, ötab. Halo, ötab.|{y:i}Brigada 1-5-2 izveötava.
+{126413}{126499}{y:i}Clerkenwell siguran.|{y:i}Napredujemo kroz Westminster.
+{126639}{126688}äta je sa mojim automobilom za Aldershot?
+{126759}{126918}{y:i}Halo, ötab. Halo, ötab. Brigada 1-4-7 izveötava,|{y:i}Zona Pimlico sigurna.
+{126927}{127022}{y:i}Udruûili smo se brigadi 1-4-5.|{y:i}Zajedno pretraûujemo Westminster.
+{127061}{127100}Doavola sa ovim!
+{127203}{127254}{y:i}Halo, ötab. Halo, ötab.
+{127270}{127335}{y:i}Izveötava brigada 56.|{y:i}Soho je siguran.
+{127350}{127449}{y:i}Napredujemo kroz Westminster zajedno sa|{y:i}brigadom 55 sa naöe leve strane. Gotovo.
+{128154}{128205}Vod, stoj!
+{128280}{128304}Vod, stoj!
+{128336}{128426}Pola dvanaest je. Imamo vremena samo|joö da pobegnemo odavde.
+{128486}{128523}Sve je Ëisto, gospodine.|Nigde ni traga od njega.
+{128527}{128560}Dobro. Preostali su nam joö|crkva i kuÊa na uglu.
+{128569}{128640}Pretraûite kuÊu, ja Êu crkvu.|-Razumem.
+{129270}{129294}Spusti to!
+{129297}{129365}Nemamo viöe vremena, gospodine.|-Idemo napolje, Jacksone. Brzo!
+{129535}{129572}»uvaj vrata, Jacksone.
+{129589}{129618}Daj mi to ovamo.
+{129640}{129689}Halo, ötab. Halo, ötab.
+{129700}{129826}{y:i}Pronaen muökarac u, St Stephen,|{y:i}Westminsteru. Mislimo da je RD2.
+{129844}{129884}Lane, znate öta treba.|Brzo!
+{129889}{129952}äta je sa mojim automobilom|za Aldershot? äta je sa..
+{130677}{130713}Brzo, Lane, proverite|da li je to on.
+{131094}{131136}Je l' to tata?|-Jeste, on je.
+{131137}{131198}U tom sluËaju, ja svoje momke odmah|vadim odavde. Sad je sve na vama.
+{131203}{131252}U redu, samo nam oslobodite|ovaj sektor. -Vaö je!
+{131258}{131290}Znate öta treba da radite?|-Da.
+{131295}{131325}Dobro se oseÊate?|-Da, dobro sam.
+{131330}{131366}Dobra devojka. Krenite.
+{131451}{131499}Brzo. UskaËite.
+{132927}{132957}Tata?
+{133012}{133042}Tata?
+{133222}{133263}Ann! äta Êeö ti ovde?
+{133294}{133336}Doöla sam da te vodim kuÊi.
+{133378}{133417}Draga moja, meni viöe nema povratka.
+{133437}{133505}Tata, molim te. Hajde bar|da porazgovaramo.
+{133538}{133584}Draga moja, nema viöe vremena.
+{133652}{133695}äta rade viöe? Za minut|letimo svi u vazduh.
+{133704}{133733}Ali, tata, molim te.
+{133745}{133776}Ne, ne.
+{133863}{133895}Joö uvek moûeö da se predomisliö.
+{133910}{133965}Viöe ne. Prekasno je.
+{134082}{134113}Stephene!
+{134140}{134184}äta to radiö? äta radiö?
+{134203}{134301}Steve! Tata, molim te! Tata, ne!
+{134323}{134353}Ne, tata, ne!
+{134441}{134512}Ne! Prekasno je! Prekasno!
+{134615}{134664}Prekasno. Prekasno je!
+{134722}{134753}Prekasno!
+{136413}{136441}Aldershot!
+{136441}{136466}HoÊu da idem u Aldershot!
+{136506}{136537}äta Êe biti sa mnom?
+{136589}{136689}Aldershot! HoÊu u Aldershot!
+{136920}{136964}äta Êemo da radimo?
+{137312}{137365}Trixie, idemo kuÊi.
+{137466}{137505}Hajde, Trix.
+{138247}{138547}{y:i}zgaca62@yahoo.com
+{138572}{140072}–ú–æ–ª–∏–º–æ –≤–∞—Å –¥–∞ –æ—Ü–µ–Ω–∏—Ç–µ –æ–≤–∞—ò —Ç–∏—Ç–ª –Ω–∞ www.osdb.link/8cz32|–ü–æ–º–æ–∑–∏—Ç–µ –¥—Ä—É–≥–∏–º –∫–æ—Ä–∏—Å–Ω–∏—Ü–∏–º–∞ –¥–∞ –∏–∑–∞–±–µ—Ä—É –Ω–∞—ò–±–æ—ô–µ —Ç–∏—Ç–ª–æ–≤–µ

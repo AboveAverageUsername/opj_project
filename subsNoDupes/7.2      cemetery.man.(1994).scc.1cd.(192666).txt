@@ -1,0 +1,769 @@
+{1}{1}25.000
+{26}{176}–ü–æ–¥—Ä–∂–∏—Ç–µ –Ω–∞—Å –∏ –ø–æ—Å—Ç–∞–Ω–∏—Ç–µ VIP —á–ª–∞–Ω –¥–∞ –±–∏—Å—Ç–µ —É–∫–ª–æ–Ω–∏–ª–∏ —Å–≤–µ –æ–≥–ª–∞—Å–µ —Å–∞ www.OpenSubtitles.org
+{938}{1009}Halo?|-Ja sam, prekidam te?
+{1027}{1044}FranËesko?
+{1070}{1110}Ne brini, mora nekad i da se| izae ispod tuöa.
+{1132}{1167}SaËekaj malo, Franko.
+{1668}{1764}Kaûi, Franko.|-Niöta, samo sam hteo da Ëujem kako si.
+{1780}{1848}Znaö, sreujem stvari ...
+{1958}{1980}éivot ide dalje.
+{2142}{2223}{Y:b}SMRT-LjUBAV-SMRT|(GROBAR)
+{2780}{2797}Nogi!
+{3455}{3489}Nogi!|-Da?
+{3503}{3545}Satima te dozivam. Nogi!
+{3968}{4078}Doi i pomozi mi. Znaö gde je grob?|-Da.
+{4420}{4440}Grob 3.
+{4484}{4504}Evo nas.
+{4530}{4691}Znam da smo ovo veÊ radili pre, ali ovog| puta moj dragi KiËini, je gotovo zauvek.
+{4739}{4760}PoËivaj u miru.
+{4845}{4870}Oh, moja lea...
+{5104}{5157}äta da radimo sa mermerom?|Ne moûemo ih stalno popravljati.
+{5194}{5277}Ne znam zaöto im grobove samo|ne zaspu zemljom.
+{6496}{6541}Revolver!|Zaboravio sam jebeni revolver.
+{6578}{6596}{Y:b}Jesti...
+{6647}{6720}Daj mi lopatu. Nogi!|Daj mi jebenu lopatu!
+{6780}{6810}{Y:b}Jesti...
+{7028}{7055}Eto ga.
+{7151}{7178}Ti sredi ostalo, Nogi.
+{7205}{7261}Zovem se FranËesko DelaMorte.|(Morte=Smrt)
+{7286}{7334}Lepo ime, zar ne?|Fransis od Smrti.
+{7362}{7409}Sveti Fransis od Smrti.
+{7436}{7527}Mnogo puta sam hteo da promenim|ime u Andre Delamonti, lepöe bi zvuËalo...
+{7561}{7610}»uvar Groblja Bufalora.
+{7634}{7676}Ne znam kako je epidemija zapoËela.
+{7693}{7768}Samo znam da su se neki ljudi,|sedmog dana nakon smrti
+{7778}{7799}vraÊali u ûivot.
+{7819}{7862}Ja ih zovem|POVRATNICI.
+{7890}{7950}Iskrno ne razumem|zaöto toliko ûele da se vrate.
+{7974}{8060}Jedini naËin da ih se zauvek |otarasim je da im rascopam glavu.
+{8071}{8130}Dum-Dum metak je| najbolji za to.
+{8174}{8192}Doi na Ëaöu vina.|-Da.
+{8284}{8364}Da li je ovo poËetak invazje?|Da li se ovo deöava na svim grobljima?
+{8390}{8435}Ili je Bufalora samo izuzetak.
+{8457}{8473}Ko to zna.
+{8504}{8550}I na kraju koga je briga.
+{8564}{8590}Ja samo radim moj posao.
+{8801}{8880}Dobro jutro, inûinjeru.|Kako si danas?
+{8889}{8927}Dobro gospoao Karamondo.|A vi?
+{8939}{9013}Groblje je otvoreno, zar ne?|-Za vas uvek.
+{9049}{9179}Oh zdravo slatkiöu.|Izvoli.Kako si?
+{9202}{9261}SreÊan je.Voli kad|sija sunce.
+{9453}{9465}Ja nisam inûenjer.
+{9527}{9556}A ni ti nisi slatkiö.
+{9760}{9919}Jadni Nogi. Imao je mnoge |fiziËke mane. Ustvari-sve.
+{9993}{10082}Voleo je opalo liöÊe i nije|podnosio kad ga vetar raznosi.
+{10155}{10238}Pa ipak, Ëinimo sve|da ne mislimo o ûivotu.
+{12067}{12124}Najlepöa ûiva ûena|koju sam video.
+{12214}{12241}HoÊu li je ponovo videti ?
+{12948}{13011}Doöao sam da zalijem cveÊe|na grobu vaöeg jadnog oca.
+{13091}{13112}Muûa.
+{13233}{13265}Koliko dugo je mrtav?
+{13350}{13361}Dve nedelje.
+{13383}{13419}Oh, hvala nebesima.|-Molim?
+{13431}{13510}Mislim...veoma mi je ûao.|-Zar nemate poötovanja za bol?
+{13523}{13631}Znam kako je to...vremenom bol nestaje.|-Kod mene nije tako.
+{13772}{13925}Bio je Ëaroban...Ëaroban|ljubavnik...neverovatan...neumoran...
+{13990}{14020}...bio je fantastiËan!
+{14748}{14861}Sve sam zabrljao. Izgubio sam je.|HoÊu li je ponovo videti ?
+{15005}{15032}Opötina|Bufalora
+{15125}{15143}Hej, Franko!
+{15279}{15353}Franko, je jedina ûiva osoba|koja me zove.
+{15364}{15434}Ponekad svratim do njega|da se podsetim kako izgleda.
+{15463}{15506}Ne moûe se ûiveti samo|od uspomena.
+{15669}{15710}Za tebe je kao i obiËno.
+{15798}{15810}Imaö li olovku?
+{15850}{15887}-Ne.|SaËekaj malo...izvoli.
+{16050}{16107}Jesi li imao posete sinoÊ?|-Da, par njih.
+{16188}{16255}Sav taj dodatni posao|se viöe ne isplati.
+{16276}{16368}Reci GradonaËelniku.|-"Reci GradonaËelniku" i öta onda? ZatvoriÊe groblje.
+{16394}{16428}Zbogom poslu, zbogom kuÊo.
+{16447}{16567}Ma daj, ko bi ti verovao?|-Briga me ako mi ne verujeö, ne plaÊaö mi ti.
+{16595}{16637}Ja ti verujem...|verujem ti.
+{16662}{16710}U pravu si.|PlaÊao bi ti prekovremeno.
+{16731}{16792}Dobro, hajdemo onda kod GradonaËelnika.|-To nije tako jednostavno.
+{16813}{16863}Prvo moraö da popuniö M3 formular.
+{16886}{16967}Prijave...u M3 formularu|su formalne...
+{17017}{17048}Mogu ti ubrzati sluËaj.
+{17076}{17115}Jednostavnije je da me ubijeö.
+{17180}{17211}Jedan M3 formular.
+{17260}{17358}DoÊi Êemo veËeras da|Ëekamo zombije sa tobom.
+{17400}{17504}U odreenom trenutku noÊu,shvatam da|mi se viöe sviaju mrtvi nego ûivi.
+{19229}{19281}Izvinite za ono,bio sam| malo neotesan.
+{19308}{19341}Zovem se FranËesko DelaMorte.
+{19409}{19507}Znate, jedina stvar koju|sam nauËio je Ekologija.
+{19566}{19624}Ionako, svi ovde zavröimo, pre|ili kasnije, zar ne?
+{19653}{19713}Imam ovde malu kuÊu.|HoÊete li da je vidite?
+{19759}{19819}Imam i pomoÊnika,|zove se Nogi...
+{19835}{19852}On ne priËa puno.
+{19939}{19999}Ovo groblje je malo, ali ima|sjajnu kosturnicu.
+{20107}{20134}Kosturnicu?
+{20479}{20583}Nikada nisam videla neöto tako uzbudljivo.|-Ni ja...
+{21399}{21473}Ovo je kao u mojim snovima.|-Ovo je moj san.
+{21549}{21621}Nemogu da izrazim oseÊanja.|-Ni ja...
+{21750}{21829}Znate, imate sjajnu grobnicu.
+{21864}{21886}Hvala.
+{21946}{22013}DozvoliÊete mi da se vratim, zar ne?
+{22032}{22084}DozvoliÊete mi da vas poljubim?
+{22103}{22157}Ne...ne ovako...
+{22355}{22382}...nego ovako.
+{23021}{23143}Ne! Moram da ostanem|verna svom muûu.
+{23172}{23325}Ne mogu...ne mogu.|Nije moja krivica...to je ovo mesto...
+{23404}{23598}OseÊam Ëudnu hemiju. Nije hladnoÊa,|nije strah, ovo mesto ûeli da...ûeli me...
+{23670}{23776}Ne ûelim to...|Ne ûelim to!
+{23835}{23892}Ne!|Ne mogu...
+{23937}{23990}Ne mogu...|Ne...
+{27878}{27959}Ne boj se...|To su samo noÊni posmatraËi.
+{28046}{28122}Zaöto ovde?|Zaöto na grobu tvog jadnog muûa?
+{28149}{28240}Nikad niöta nisam krila od njega.|Verovali smo jedno drugom.
+{28292}{28328}éeleo bi da zna.
+{28391}{28436}Pa, u tom sluËaju...
+{28673}{28713}äta su ta svetla?|-NoÊni posmatraËi...
+{28757}{28822}äta je lepöe od posmatranja |dvoje ljubavnika...
+{28895}{28950}Samo bi htela|malo privatnosti...
+{29224}{29283}Izvini...|Ostale su samo zvezde.
+{31502}{31563}Nikad mi nije bilo ovako...|Ni sa kim...
+{31578}{31665}Samo sa tobom...|Niko me nije tako uzbudio.
+{31802}{31821}Nogi, revolver!
+{31889}{31956}Sve Êu objasniti...Sluöaj me...|Bila sam usamljena...
+{31993}{32009}To je laû.
+{32548}{32600}Nije to niöta, ljubavi.|BiÊeö dobro.
+{32685}{32770}Super! Stiûeö sad|kad mi viöe ne trebaö.
+{32782}{32818}Nemoj tu da stojiö.|Idi po doktora ViËejzija.
+{32870}{32912}KreÊi! |Dovedi doktora!
+{32934}{32982}Idi!|Polazi!
+{33014}{33093}Treba da se odmoriö.|Nije to niöta.
+{33296}{33418}Niöta nas neÊe razdvojiti...|-Niöta, moja ljubavi...
+{33517}{33624}Ni smrt?|-Ne ni smrt.
+{34517}{34602}DelaMorte!|Da li si tu? DelaMorte!
+{34950}{34979}Isuse!| Uplaöio si me na smrt!
+{34993}{35056}Traûite neöto inspektore Tranioti.|-Da, Dr. ViËejzi me je zvao.
+{35070}{35094}äta se desilo sinoÊ?
+{35113}{35200}Odkud znam. Mrtva je.|Znam da je mrtva, ali öta se desilo?
+{35253}{35266}Njen muû.
+{35297}{35395}Oh da, vratio se iz mrtvih, silovao je |i izujedao je do smrti. Je li tako?
+{35402}{35485}Ne nije je silovao.|-Oh uvek me zaËudite...
+{35501}{35584}Dr. ViËejzi, öpijunirate nas?|-Ne, doneo sam nalaz...
+{35599}{35666}Srce joj je stalo od straha,|nije je ujed ubio...
+{35677}{35753}Umrla je za vreme...|znate...onoga.
+{35784}{35832}Znate li öta to znaËi, momËe?
+{35846}{35923}Moram da traûim drugog krivca.|Vi viöe niste osumnjiËen.
+{35936}{35961}Zaöto ne?
+{35969}{36057}Pa, znate öta mislim...|ne terajte me da to kaûem.
+{36071}{36148}Recite..Ne smeta mi.|Ja sam impotentan.
+{36159}{36218}Ne koristite tu reË. Mlad Ëovek|kao vi, vaöih godina...
+{36231}{36287}Je li imala nekog?|-Nikog. Ni rodbine ni prijatelja.
+{36364}{36415}Zaöto uvek moram to da kaûem...
+{36427}{36449}Sranje.
+{36487}{36514}Ovo definitivno nije moj stil.
+{36549}{36561}Mogu li da je zadrûim ovde?
+{36587}{36647}Ako platite sahranu, moûete da |radite sa njom öta hoÊete.
+{36659}{36705}Da li je to sve?|-Da, sve osim ubistva...
+{36779}{36832}Vreme se menja...
+{37343}{37393}Ne mogu da oprostim sebi|öto sam te lagao...
+{37426}{37463}Ne znam niöta o|Ekologiji.
+{37508}{37554}Nisam ni srednju ökolu zavröio.
+{37658}{37704}ProËitao sam dve |knjige u ûivotu.
+{37757}{37847}Prvu nikad nisam zavröio...
+{37917}{37959}...a druga je|telefonski imenik.
+{38453}{38514}Ne ûelim da ona postane|POVRATNICA...
+{38528}{38575}Ne ûelim da je vidim ponovo.
+{39246}{39305}Ne...|-Da, ljubavi moja.
+{39371}{39458}Ne teraj me da to uradim.|-Ali, ti to tako dobro, dobro radiö...
+{39472}{39541}Ne sa tobom.|-Bolje sa mnom nego sa drugima...
+{40930}{41015}Pridrûi ovo...|Nastavi!
+{41049}{41104}Ako zavröiö brzo,|kupiÊu ti sladoled.
+{41379}{41623}Hej, dolazi impotentni grobar|sa njegovim malim nemim pomoÊnikom.
+{41872}{41948}Ne obraÊaj paûnju na njih. Nikad |nemoûeö biti toliko razliËit, Nogi.
+{41986}{42019}Moûda i moûeö.
+{42054}{42177}Inûinjeru...Inûinjeru.|Doi...sedi.
+{42209}{42337}Kakvo iznenaenje.|-Da, Ëarobno je videti te ponovo.
+{42370}{42428}»udesno je videti |vas gradonaËelniËe.
+{42451}{42545}Pa, kako stoje stvari na naöem groblju?|äta se deöava?
+{42552}{42615}Pa mirno je,|nema öta da se priËa.
+{42646}{42771}Imate sreÊe, inûinjeru. Ne moûete ni da| zamislite kako je u gradskoj skupötini.
+{42783}{42846}Sada je elektronsko glasanje,|totalni je haos.
+{42994}{43040}Tata, öta je ovo?
+{43055}{43101}To je moj pomoÊnik Nogi.
+{43246}{43310}Sladak je.|HoÊeö li mi ga kupiti, tata?
+{43358}{43436}To je sjajno.|On Ëak zna i da plaËe.
+{43449}{43555}Nogi, prestani. Bolje se pomeri, draga.|Da li bi rekli Êerki da se pomeri?
+{43568}{43633}Da, naravno.|-Ponekad se Nogi malo viöe uzbudi...
+{43644}{43674}Ah, sigurno je öarmantan.
+{43856}{43909}äta to radi?|Igra?
+{43920}{43980}Ne. Ne, sada Êe...
+{44074}{44108}äta to radiö, Valentina?
+{44141}{44227}IspovraÊao se po meni, Klaudio.|-Kakva zabava. HoÊeö da se provozaö?
+{44261}{44311}Znala sam da Êeö razumeti.
+{44327}{44360}PoleÊi!!!
+{44498}{44576}Uzgred, jednog od ovih dana treba|da porazgovaramo o groblju.
+{44595}{44708}Danaönja mladeû...|tako su emotivni.
+{44924}{44997}Hajde Nogi, zaboga. Ne radi to.|Samo ui u kola.
+{45009}{45076}Nije kraj sveta.|Nisi je ni poznavao.
+{45095}{45161}Ona je razumela da je to|demonstracija toga öto ti se svia.
+{45185}{45236}Sem toga, nije ti prvi put da |povraÊaö po ûeni, zar ne?
+{45324}{45360}Hajde, Nogi.|Ulazi!
+{45424}{45527}Prva ljubav se ne raËna.|Poslednja je vaûna.
+{45740}{45915}Jadni Nogi tek stigao. Danas nije bilo|nikog. »ak ni Admirala. Kao da su nestali.
+{45931}{46051}Viöe sreÊe sutra...|-Da, doite i ostanite malo...
+{46082}{46305}Hvala, tako ste ljubazni...|Ah, taj admiral. Uvek je bio dobar prema meni...
+{47118}{47219}Ma hajde, Nogi.|PreboleÊeö je. VideÊeö...
+{47292}{47363}Vreme prolazi...|Niöta se ne Ëini isto....
+{47471}{47518}Ili je samo joö gore...
+{47529}{47601}Ubih se pokuöavajuÊi da|te orasploûim.
+{47661}{47751}äta bi ti radio sa gradonaËelnikovom|Êerkom? Ionako je ona samo dete.
+{47756}{47772}Neee!
+{47852}{47955}A ne, nije istina. Ti nisi|viöe dete Nogi. Stariji si od mene.
+{48053}{48168}Jednog dana Êeö se skrasiti pored |nekog jadnog stvorenja kao öto si ti.
+{48272}{48387}Uostalom, ne brini. Svi oni pre| ili kasnije zavröe ovde, Nogi.
+{48413}{48442}»eöÊe pre, nego kasnije...
+{48500}{48540}Brûe!|Proi napred!
+{48615}{48675}Kad bi me tata sad video!|-Ubio bi me.
+{48721}{48805}Klaudio!| Proi napred!
+{48931}{48957}Brûe! Brûe!
+{49008}{49021}Brûeee!
+{49222}{49270}Drûi se!|-Strava je!
+{49708}{49800}»etvoro motociklista je stradalo.|Jedna od njih je i gradonaËelnikova Êerka.
+{49815}{49874}Glava joj je potpuno smrskana.|Takoe i vozaËu...
+{49891}{50012}Udarili su u autobus pun izviaËa|koji su se vraÊali sa izleta.
+{50027}{50133}To je ubistvo nevinih,|a bili su tako mladi.
+{50146}{50216}Mislili su da je ceo ûivot pred njima,|a ustvari se veÊ zavröio.
+{50246}{50274}Pa, imate pune ruke posla.
+{50280}{50302}I viöe nego öto mislite.
+{50306}{50397}Nogi trebaÊe mi |dosta metaka.
+{50495}{50571}{Y:i}"Nikad ne pucaj u jadnog izviaËa|dok je na izletu..."
+{50586}{50658}{Y:i}"...Nikad, nikad samo nemoj |tada u njega..."
+{50840}{50957}Klaudio, vodi me sa sobom.|Ne ostavljaj me...
+{50967}{51023}Klaudio, vodi me sa sobom.|Ljubavi moja.
+{51036}{51125}Ne, slatka moja.|Moj sin nije bio obeÊan tebi.
+{51138}{51202}Bio je obeÊan gradonaËelnikovoj Êerki.|-Ali mene je voleo!
+{51219}{51275}Laûljivice!|-Bio je moj.
+{51288}{51345}Mene je voleo.|Samo mene.
+{51406}{51461}Svi smo roeni da umremo...
+{51472}{51510}Roeni smrtnici...
+{51525}{51634}Da li se seÊate? |Joö juËe je bila ûiva...
+{51653}{51692}...sreÊna.| Da li se seÊate?
+{51718}{51821}Dragi Nogi, ti si povratio po njoj,|a ona je to tako dobro podnela.
+{51845}{51972}A sada je otiöla!|Baö sada uoËi izbora...
+{51997}{52047}Bolje da se prihvatimo|lopate.
+{52060}{52139}Slatkiöu moj, kako si mogla| to da mi uradiö?
+{52906}{52977}Je li istina da se mrtvi noÊu|vraÊaju u ûivot? Reci mi...
+{52992}{53072}Ko ti je to rekao?|-Je li istina ili nije? Je li istina?
+{53104}{53181}A öta ako jeste?|-Moram da vidim Klaudija ponovo.
+{53197}{53268}Moram da znam da li|je voleo mene ili nju.
+{53283}{53312}Ako Ëujem obavestiÊu te.
+{53331}{53350}Ne, Ëekaj!
+{53390}{53436}Odlazi! |Nemam vremena za ûive.
+{54392}{54406}Nogi?!
+{55514}{55529}Nogi!
+{55575}{55610}Nogi!|Bude se brûe nego öto smo mislili.
+{55653}{55671}Nogi!|Budi se!
+{56150}{56179}Nogi!|Pazi!
+{57726}{57777}Jadni Nogi.|Izvini.
+{57804}{57815}Nisam hteo.
+{58075}{58179}U redu! Vreme za spavanje je proölo.|Doi gore za pet minuta. Vaûi?
+{59945}{59983}O, ne! äta ona radi ovde?
+{60295}{60336}Hej, posete su zavröene!
+{60348}{60396}Niko me neÊe odvojiti od njega!
+{60501}{60539}Brûe, dolazi ovamo.|Brûe!
+{60548}{60609}Ne!|Klaudio!
+{61320}{61333}Neee!!!
+{61572}{61631}Stani, Klaudio!|Povedi me sa sobom!
+{61693}{61734}Prokletstvo!|GlupaËa!
+{61847}{61858}Idemo.
+{62005}{62039}»ekaj!|»ekaj!
+{62149}{62248}Klaudio, zaöto me ne povedeö sa sobom?|Reci mi koliko me voliö.
+{62313}{62338}Molim te.
+{62745}{62763}Klaudio...
+{62826}{62865}...voliö me, zar ne?
+{63385}{63396}Hej!
+{63500}{63562}Prokletstvo!|Ko bi ûeleo da se provoza sa "ledenim"?
+{64114}{64135}Nogi!
+{65089}{65159}Ne, molim vas, nemojte.|On me samo jede.
+{65181}{65195}Pomeri se!
+{65208}{65272}To su moja posla.|Moûe da me jede, koliko je hoÊu.
+{65287}{65339}Ovo je moj posao.|Za to me plaÊaju.
+{65682}{65766}éivi mrtvac i umiruÊi Ëovek|su isti.
+{65797}{65850}Boûe.|Ista su sorta.
+{65876}{65934}Ubijanje mrtvih je javna sluûba.
+{65962}{66064}Ali u nevolji ste kad ubijete|nekog ko je joö uvek ûiv.
+{66352}{66363}Spustimo je unutra.
+{66795}{66833}Ovako Êe zauvek biti zajedno.
+{67020}{67040}Sentimentalan sam.
+{67557}{67672}Strpljena, Nogi!|Ako je voliö, Ëekanje je najbolji deo.
+{67697}{67731}Treba da nauËiö da Ëekaö.
+{69636}{69726}Reci mi tvoje ime ponovo.|Nogi!
+{69870}{69893}Ja sam Valentina.
+{69935}{69973}Jesmo li se sreli ranije?
+{70034}{70131}Ah da, sad se seÊam.|Povratio si po meni.
+{70148}{70167}Kako je to slatko.
+{70366}{70389}Ja volim takve momke.
+{70426}{70476}Nikad ne bi odbio poljubac
+{70491}{70592}Iskoristi me. Nisam u|poziciji da odbijem.
+{70603}{70671}Ionako, mislim da ne bih odbila.
+{72432}{72456}Laûna uzbuna.
+{72492}{72525}To je samo maËka.
+{72736}{72781}Hvala öto mi pomaûeö|oko te stvari.
+{72823}{72866}Ako ja nisam mogao| da je sastavim...
+{72895}{72952}Ali sasaviti ovu|lobanju...
+{72970}{73012}...je jedna od najteûih| stvari na svetu.
+{73876}{73925}Znaö li da mi se stvarno| gadiö kad jedeö, Nogi?
+{74006}{74100}Da, u pravu si. Sve te stvari se|na kraju pomeöaju u stomaku.
+{74205}{74222}äta je to?
+{75161}{75188}Ovo nije maËka.
+{77730}{77764}Ne moûemo, ja sam ûiv...
+{77854}{77875}...a ti si mrtva.
+{77894}{77932}Ja nemam predrasuda,| ljubavi moja.
+{80009}{80038}Ubio sam je.
+{80075}{80089}Ne!
+{80223}{80252}Ubio sam je.
+{80417}{80444}Neee!!!
+{80470}{80508}Ubio sam je...
+{80521}{80584}Prvi put kad ju je muû ugrizao,|nije stvarno bila mrtva.
+{80614}{80675}Kad se probudila i kad|sam pucao u nju, bila je ûiva.
+{80706}{80724}Ubio sam je.
+{80760}{80806}Ubio sam jedinu ûenu|koju sam ikad voleo.
+{80832}{80863}Pucao sam u nju|zatvorenih oËiju.
+{80891}{80929}Nisam joj ciljao u glavu.
+{80956}{80974}Zato se i vratila.
+{81009}{81034}Boûe!|Koji sam idiot.
+{81067}{81095}Sad sam i ja zaraûen.
+{81131}{81176}Krv bi trebala da me| povrati kad umrem.
+{81224}{81246}Ko zna da li bi Nogi...
+{81292}{81379}Ne, jadni Nogi. Ne bi imao hrabrosti|da mi raznese lobanju lopatom.
+{81433}{81523}Haj, nisam mrtav, idiote.|Ne mogu da te ubijem.
+{81677}{81711}Dobro jutro, inûenjeru.
+{81749}{81805}Gospoo Karamondo,|ja nisam inûenjer.
+{81815}{81871}Jeste li ili niste|Ëuvar groblja?
+{81881}{81971}Naravno da jesam.|-Onda ste inûenjer.
+{81989}{82102}Uzgred, koja od ove dve slike bi|bolje izgledala na mom spomeniku?
+{82257}{82273}Obe.
+{82290}{82373}Cenim miöljenje zgodnog|mladog Ëoveka.
+{82387}{82439}Zbogom, inûenjeru.
+{82583}{82615}Dobro jutro, slatkiöu.
+{83052}{83078}To je telefonski imenik.
+{83095}{83121}Ti si lud.
+{83151}{83182}To mi je omiljena knjiga!
+{83264}{83371}Nogi, to öto dobijemo novi, ne znaËi da |treba da bacimo stari. To knjiga je klasika.
+{83527}{83543}Nogi!!!|Idiote!
+{84264}{84312}{Y:b}PRESTANI DA UBIJAä MRTVE.
+{84321}{84365}{Y:b}ONI SU MOJI.
+{84372}{84575}{Y:b}AKO NE∆Eä DA SE MRTVI VRA∆AJU U éIVOT,|ZAäTO NE UBIJAä éIVE? PUCAJ IM U GLAVU!
+{84595}{84630}{Y:b}SLUäAä LI ME?
+{85046}{85100}Halo?|-Gde si, traûio sam te po celom gradu?
+{85117}{85147}Franko, kako si?
+{85158}{85206}Dobro. Prekidam te?|-Ne, dosaujem se...
+{85220}{85261}{Y:i}»uo sam za skandal sa|autobusom...
+{85294}{85361}Nogi! Vrata!|-äta si rekao?
+{85447}{85456}{Y:i}äta to bi?
+{85478}{85524}Niöta, samo radim.
+{85555}{85617}Znaö, grozni mrtvaci.|Niöta sem groznih mrtvaka.
+{85629}{85668}{Y:i}Kako ti ne dosade sva ta sranja?
+{85725}{85748}Kako ti ûivotariö?
+{85764}{85801}äta imaö novo na umu?
+{85891}{85947}Stvari su takve kakve su, Franko.
+{86072}{86128}Trebao bi da vidiö kako|zaustavljam ova stvorenja.
+{86269}{86364}äta da ti kaûem.|Stvari ne mogu biti bolje.
+{86590}{86635}Franko, nemoj me zasmejavati...
+{86757}{86903}Znaö, jednog dana, Bufalora neÊe |biti niöta, samo ruûna uspomena.
+{86914}{86952}{Y:i}Da, a moûda i ne.
+{86965}{87058}{Y:i}Totalno sam nepokretan.|OseÊam se kao muva na lepljivom papiru.
+{87095}{87259}VideÊeö, Franko.|Mari Êeö dosaditi...
+{87320}{87377}Deca Êe odrasti mrzeÊi te.
+{87395}{87528}I onda Êeö biti slobodan...Slobodan da| vidiö kako izgleda ostatak sveta.
+{87545}{87612}{Y:i}äta ti misliö kako izgleda|ostatak sveta?
+{87663}{87686}Ostatak sveta?|-Aha!
+{87773}{87836}Ko zna da li ostatak|sveta uopöte postoji.
+{88173}{88237}Vidi ko je to!|Hej DelaMorte doi ovamo...
+{89279}{89314}Vreme je sustizalo moj posao...
+{89386}{89405}Posao?
+{89628}{89640}DelaMorte!
+{89755}{89763}DelaMorte!!!
+{89837}{89857}Nogi!
+{90057}{90083}FranËesko DelaMorte?|-Aha!
+{90109}{90170}Gde ste bili sinoÊ izmeu|11 i 12:30?
+{90208}{90236}U krevetu.
+{90262}{90282}Imate li svedoke?
+{90431}{90509}PriËao sam telefonom sa mojim prijateljem |Frankom, a onda sam zaspao.
+{90530}{90552}Zaöto?|äta se desilo?
+{90556}{90616}Neki jebeni manijak je pobio|sedmoro ljudi u gradu.
+{90771}{90792}Na posao.
+{90829}{90878}Idete u zatvor ako nemate alibi.
+{90909}{90920}Zaöto ja?
+{90954}{91023}Vaö auto je vien sinoÊ da|krstari po ulicama, eto zaöto!
+{91084}{91137}To je nemoguÊe.|Niko ga ne vozi sem mene.
+{91150}{91188}Ustvari, ja ne mislim| da ste to bili vi.
+{91207}{91241}Mislim da je to bio vaö pomoÊnik.
+{91288}{91330}Nogi ne zna da vozi ni roöule.
+{91348}{91374}Ne znam ni ja, pa öta?
+{91399}{91438}HoÊu da ga ispitam.|Odmah!
+{91713}{91764}Boûe, vreme je poËelo|da se kvari.
+{92050}{92064}Molim vas...
+{92099}{92167}Pustite da ja prvo razgovaram sa njim.|-Samo ga izvedite napolje. Dobro?
+{92322}{92410}Zar nikad ne Ëistite to mesto.|Isuse, zaudara.
+{92469}{92541}{Y:i}...Kad doe vreme smrti, mi nismo usamljeni,|ako se oseÊamo loöe...
+{92563}{92690}{Y:i}..da Ëekamo ponovo ljubav da poËne,|i osetimo otkucaje srca...
+{93016}{93031}Nogi.
+{93077}{93172}Nogi, imao sam uûasan san, sinoÊ.|Sanjao san da sam ubio sedam pravih ljudi.
+{93185}{93226}Zdravo!|Da li me se seÊaö?
+{93279}{93336}DelaMorte!|Imaö vaûne posetioce.
+{93348}{93457}{Y:i}...Kad doe vreme smrti, mi nismo usamljeni,|ako se oseÊamo loöe...
+{93481}{93578}Vi ne razumete, inûinjeru. Posle ovog| masakra glasaËi su ljuti na mene.
+{93617}{93657}Glasaju za vas veÊ 15 godina.
+{93682}{93771}Ako ne naemo tog manijaka,|neÊe biti öesnaeste.
+{93833}{93867}äta Êete da uradite povodom toga?
+{93889}{94002}Sad kad je grad u mojim rukama.|HoÊu svima da pokaûem da sam u ûalosti.
+{94012}{94065}NapraviÊu nekoliko fotografija tela...
+{94084}{94144}...i staviÊu ih na svoj izborni plakat.
+{94159}{94201}A dole Êe pisati, neöto kao:
+{94211}{94352}{Y:bi}"Ako vam je neko u porodici umro,|glasajte za onoga ko pati kao i vi"
+{94375}{94393}äta mislite?
+{94419}{94474}Pa, znate, ovaj...|Nije loöe.
+{94488}{94504}Ili:
+{94527}{94678}{Y:bi}"Glasajte za Ëoveka koji je| izgubio sve druge radosti"
+{94897}{94918}Spremi se da slikaö.
+{95062}{95104}äta da radim?|Da je slikam od vrata nadole?
+{95121}{95195}Inûenjeru, öta ovo znaËi?
+{95251}{95266}Tata!
+{95304}{95336}Tatice!
+{95348}{95410}Da li ste Ëuli ovo?|-Ne znam, sve zavisi...
+{95432}{95505}Tatice!|Tajo!
+{95531}{95549}Valentina.
+{95567}{95592}Tikvice!
+{95716}{95748}Odzvanja mu glavi..
+{95754}{95805}Tikvice, gde si?
+{95850}{95862}Gde si?
+{95936}{95967}Tata je ovde.
+{95999}{96098}Oh, gde si?|-Prestani da se dernjaö i ulazi ovamo!
+{96231}{96244}Dolazim.
+{96376}{96412}Evo me, malena.
+{96491}{96557}Isuse, al' smrdi ovde.|-Ja sam za to kriva, tata.
+{96617}{96658}O moj boûe, Valentina.
+{96672}{96713}äta radiö na TV?
+{96720}{96766}Raspadam se, tatice.
+{96791}{96891}Ti, odvratni monstrume, ti si taj |koji je prvredio moju devojËicu.
+{96903}{96924}Ne tata, on me voli.
+{96948}{97025}Pomeri se. Nareujem ti, |ja sam tvoj GradonaËelnik.
+{97040}{97088}S tvojim blagoslovom,|udala bi se za Nogija.
+{97135}{97174}Za ovu odvratnu stvar?
+{97191}{97247}Nisam ni ja neka prilika, tata.
+{97259}{97334}To se neÊe desiti, sve dok|je daha u mom telu.
+{97346}{97413}U redu. To Êemo da sredimo.|Odmah...
+{97789}{97869}Pomozi mi, Inûenjeru!|- Ja nisam Inûenjer.
+{98296}{98312}Izvini, Nogi.
+{98347}{98415}Ionako bi se uskoro| raspala, zar ne?
+{98628}{98657}Je li mrtav?
+{98794}{98889}Mrtav je.|Ko ga je ugrizao za vrat?
+{98903}{99017}Nismo ni ja ni Nogi. Proverite trag|zuba i videÊete da se ne slaûu.
+{99030}{99042}A ko jeste?
+{99058}{99135}Izgleda da Êe ovo biti |vaö prvi nereöeni sluËaj.
+{99182}{99196}Ostanite tako!
+{99364}{99378}Hajde, Nogi...
+{99416}{99491}Svet je pun takvih devojaka,|a imaju i telo.
+{99563}{99655}Uzgred, znaö li devojaËko |prezime moje majke?
+{99701}{99731}Nikad mi nebi poverovao,| kad bi ti rekao...
+{99781}{99814}Zvala se Delamore.|(Amore=Ljubav)
+{99851}{99878}Delamore.
+{99921}{99949}To znaËi ljubav.
+{100007}{100070}Nisi jedina osoba na svetu|koja je izgubila ljubav, Nogi.
+{100424}{100441}Hej!
+{100473}{100492}Silazite dole.
+{100541}{100563}äta to radite?|Silazite odatle!
+{100577}{100637}Zaboravi, inûenjeru.
+{100642}{100664}Idi kuÊi.
+{100682}{100761}Treba da dajete dobar primer drugima.|Vratite se odmah u sanduk!
+{100778}{100912}Ne moûeö me zaustaviti.|Meni dugujeö svoj posao,seÊaö se?
+{100922}{100962}Silazite ili pucam!
+{100978}{101062}Ne moûeö!|Ja sam gradonaËelnik!
+{101095}{101111}Bivöi...
+{101540}{101583}Gospodine DelaMorte!|-äta je?
+{101597}{101642}Ja sam »ivardi, novi gradonaËelnik.
+{101671}{101742}»emu bodljikava ûica, ulaze noÊu?|-Ne...
+{101786}{101860}...ali izlaze napolje, ponekad.|-HoÊete li siÊi dole?
+{101895}{101969}Prijavili ste epidemiju, |koja pogaa mrtve...
+{101987}{102078}Tvrdite da se vraÊaju u ûivot |posle sedam dana od sahrane.
+{102095}{102192}Tako kaûu...Evo ovde.|-M3 izveötaj.
+{102223}{102265}Zar ga niste popunili?|-Ne!
+{102292}{102396}OdliËno! |ZnaËi, vi Êete nam obezbediti poricanje.
+{102457}{102476}Samo potpiöite ovde.
+{102523}{102582}Franko mora da je poslao to.|Kakva divna pomisao.
+{102652}{102749}Niöta se nije desilo.|Nikad se niöta ne deöava.
+{102767}{102886}Ako se ötampa doËepa ovoga ili neËeg sliËno,|na samo da Êe ismejati Bufaloru
+{102901}{102942}nego Êete i vi izgubiti posao.
+{102987}{103134}Moja liËna sekretarica. Gospodin DelaMorte.|-Zadovoljstvo mi je, zaista gospodine DelaMorte.
+{103144}{103224}Hvala. Vi i ja Êemo se|zaista dobro slagati.
+{103242}{103261}Dovienja.
+{103499}{103561}Tvoje ime?|Nisam Ëuo tvoje ime?
+{103958}{103986}HoÊu li je ponovo videti?
+{104305}{104325}Zdravo!?!
+{104381}{104397}Boûe...
+{104430}{104462}Izvini...
+{104508}{104530}...nisam hteo da te uplaöim, samo...
+{104591}{104627}...sam oËekivao nekog drugog.
+{104659}{104670}Gospoice.
+{104697}{104711}Gospoice!
+{105071}{105169}Otkad sam doöla u Bufaloru,|Ëudne mi se stvari deöavaju.
+{105195}{105238}Kao da sam veÊ bila ovde.
+{105258}{105411}I taj grob...I vi gospodine DelaMorte|kao da vas oduvek znam...
+{105464}{105506}Kao da sam vas oduvek volela...
+{105618}{105642}I ti mene voliö!?!
+{105695}{105748}Zaöto?|Ko je joö tu?
+{105850}{105902}I ja tebe isto volim.|Volim te.
+{105921}{105934}Volim te.
+{105979}{105991}Volim te.
+{106081}{106128}»ula sam öta kaûu za vas u gradu.
+{106144}{106212}Da li je istina...da ti|ne moûeö...
+{106260}{106371}Nemoj da verujeö sve öto pri...|-Jer ja jedino mogu da volim impotentnog Ëoveka.
+{106459}{106517}Da. Istina je...|Istina...
+{106530}{106582}Ja volim muökarce...
+{106627}{106794}...koji me plaöe...ne mogu da|podnesem pomisao na to...
+{106830}{106957}...mislim...shvataö?|To je neka fobija...
+{106975}{107044}Ja ga nemam...|Ja nemam baö niöta...
+{107085}{107120}HoÊeö li se oûeniti sa mnom?|-Aha...
+{107864}{107880}éenim se!
+{107888}{107930}Da!!!
+{107970}{108039}Stvarno se ûenim.|Nemoj da me ötitiö od te stvari.
+{108066}{108078}Da!!!
+{108090}{108161}Ah da, öta je sad...|Hajde...
+{108202}{108290}Boûe dragi, öta to govorite?
+{108300}{108312}»uli ste me.
+{108345}{108480}Dragi moj mladiÊu, mora da ste jako| iscrpljeni. DaÊu vam neke pilule...
+{108524}{108598}Doktore ViËejzi, ozbiljan sam.
+{108600}{108664}Vidite, tako neöto mi nije |potrebno u mojoj ordinaciji.
+{108676}{108760}»ekaonica je puna ljudi sa dobrim, |poötenim bolestima.
+{108778}{108787}PlatiÊu vam.
+{108851}{108908}Da znam, ali...
+{108924}{109032}Ali kako, kad svi znaju da...|...da ga nemate.
+{109342}{109409}Ah da vidim...|Vi ga imate...
+{109450}{109530}Pa, kada bi ûeleli da |vas toga oslobodim.
+{109551}{109585}Odmah!
+{110139}{110178}äta Ëekate?|Obavite to.
+{110508}{110527}äta je sad?
+{110709}{110740}Rekao sam vam da| neÊu anesteziju.
+{110759}{110795}Nije anestezija.|-äta je onda?
+{110841}{110909}Posle ovoga izgledaÊe|kao da ga nikad niste imali.
+{110937}{110966}Traje mesec dana.
+{110995}{111035}Vidite, molim vas|ne traûite od mene da seËem...
+{111058}{111098}...danas jednostavno |ne mogu to da uradim.
+{111175}{111230}Ne mrdajte se.|Moram da vas ubodem spreda.
+{111250}{111265}äta mora?
+{111299}{111383}Ne mrdajte se...|Samo se smirite...Sada Êu...
+{112065}{112102}Taj jebeni kasapin...
+{112121}{112164}Navukao mi je neku infekciju...
+{112223}{112236}Nogi...
+{112273}{112336}Da li ovako izgleda granica| izmeu ûivota i smrti?
+{112343}{112355}Nje...
+{112397}{112465}U pravu si...|Samo se tako oseÊam...
+{112574}{112641}Reci da neznaö gde sam.|Oteraj je, Nogi.
+{112663}{112689}Ne ûelim da me vidi ovakvog.
+{112906}{112991}Moram da vidim DelaMortea.|Molim vas, moram da priËam sa njim.
+{113004}{113023}Je li unutra?
+{113101}{113137}{Y:i}Dao bi ûivot da budem mrtav.
+{113252}{113310}Nogi...|Ne boli me viöe.
+{113352}{113373}Mislim da mi je bolje.
+{113502}{113526}Kad se to desilo?
+{113673}{113702}Bila je divna osoba...
+{113729}{113759}...ali takvi najpre umiru.
+{114283}{114342}Gde si bio?|Mislila sam da Êu poludeti.
+{114366}{114394}Kad bi samo znao|öta mi se desilo!
+{114415}{114440}A tek meni.
+{114484}{114497}Moram da razgovaram sa tobom.
+{114625}{114697}OstaÊemo zauvek zajedno.|-Da ljubavi moja...Da!
+{114796}{114826}Ne znam kako ovo da ti kaûem...
+{114839}{114885}...ali GradonaËelnik me je silovao!
+{114895}{114904}Ne!
+{114922}{114961}»ekaj...Svidelo mi se.
+{114992}{115103}Ne silovanje naravno, ali posle toga| je uradio to opet, ali neûno...
+{115118}{115215}Pa sam mu oprostila...|I bilo je Ëarobno...
+{115238}{115320}Razumeö? |To znaËi da sam izleËena.
+{115331}{115364}Nemam viöe fobiju!
+{115414}{115441}Sad ne mogu da se udam za tebe.
+{115521}{115546}UdaÊu se za njega.
+{115593}{115623}To niöta ne znaËi...
+{115635}{115711}Mislim, niöta se ne menja meu |nama. Joö uvek te volim.
+{115748}{115763}On to zna.
+{115794}{115827}Samo te volim na drugi naËin.
+{115794}{115898}Ti si mi vaûan.
+{115920}{115989}On zna...Mislim|u vezi mene i tebe...
+{116016}{116094}Oh on je divan Ëovek, kaûe da Êe biti| sreÊan ako mi ostanemo prijatelji...
+{116113}{116157}Moûemo svi da se viamo...
+{116171}{116200}Niöta se nije promenilo.
+{116234}{116268}Sve je kao öto je i bilo.
+{116347}{116367}Sve...
+{116848}{116907}Traûiö smrt u Ëistoj noÊi.
+{116961}{116997}Kaûeö joj da je joö uvek voliö.
+{117041}{117066}Ti si njen rob...
+{117113}{117153}...a ona ostaje tvoja kraljica.|SMRT.
+{117245}{117277}SMRT za sve.
+{117591}{117623}Ne radim to zbog straha...
+{117670}{117702}Ne vraÊam se...
+{117725}{117776}Samo hoÊu da taj |strah osetim ponovo.
+{117818}{117837}Da budem uplaöen.
+{117875}{117905}Uvek da se plaöim.
+{118135}{118148}Zdravo.
+{118192}{118264}Da li je ona BUBA,| napolju, tvoja?
+{118362}{118419}Povezi nas.|Da li moûeö da nas odvezeö?
+{118463}{118491}Nije mnogo daleko.
+{118538}{118571}Hajde!
+{118619}{118641}Ja sam Marta...
+{118735}{118748}A ovo je Lora.
+{118950}{118969}Koliko je daleko?
+{119134}{119180}Ovde ûivimo.|Sa joö dve devojke.
+{119326}{119339}Hej, mala.
+{119410}{119439}HoÊeö gore na piÊe?
+{119494}{119551}Ma daj, ne bojiö se valjda |dve studentkinje?
+{119671}{119690}Poûeli neöto.
+{119726}{119759}Ja ispunjavam ûelje.
+{119825}{119849}éelim da se zaljubiö u mene.
+{120022}{120062}Ali ja sam veÊ zaljubljena u tebe.
+{120083}{120110}Zar to nisi primetio?
+{120290}{120311}Baö je hladno ovde.
+{120414}{120454}Ako ûeliö da se umijeö,|lavabo je tamo...
+{120869}{120891}Nisam mislila lice, blesane.
+{120964}{120986}Ne znam da li mogu...
+{121020}{121046}Uzimam neke lekove.
+{121351}{121400}Izgleda da ti lekovi pomaûu.
+{121785}{121799}Da li me voliö?
+{121869}{121945}Da. Ako ostaneö celu noÊ...
+{122019}{122037}I ja tebe volim.
+{122185}{122294}Ma hajde, dosta je...|Svröio si veÊ tri puta.
+{122307}{122354}Dva. TreÊi sam folirao.
+{122589}{122675}Tiöe. Ona spava.|Ceo dan je uËila. Sutra ujutru ima ispit.
+{122698}{122762}Samo sam...|Samo sam hteo da uzmem malo vina.
+{122780}{122849}Sedi.|Ja Êu ti doneti...
+{123256}{123316}Da li ti je Lora rekla| da moûeö meni da platiö?
+{123349}{123360}Da ti platim?
+{123369}{123411}äkolovanje je skupo, prijatelju.
+{123460}{123482}Treba da ti platim?
+{123503}{123542}Mi nemamo stipendije, znaö.
+{123583}{123617}To Êe te koötati 100 hiljada lira.
+{123701}{123732}Rekla mi je da me voli.
+{123770}{123804}Onda je 150 hiljada.
+{123836}{123857}Htela je da ostanem celu noÊ.
+{123888}{123903}200 hiljada.
+{123944}{123957}Moûe Ëek?
+{123993}{124018}To je novac, zar ne?
+{124072}{124104}Zdravo dragi...
+{124137}{124217}Hladno mi je...|Doi zagrej me...
+{124282}{124321}Treba mi toja toplina...
+{124373}{124395}Doi zagrej me...
+{124441}{124460}Dolazim ljubavi...
+{124601}{124639}Sad Êe ti zauvek biti toplo.
+{125315}{125349}Sad mi je stvarno dosta ljubavi.
+{125901}{125964}Kladim se da vas zanima| gde sam bio sinoÊ?
+{125975}{126050}Ah znam, znam.|Evo ga...
+{126066}{126109}Ne boj se neÊu|nikom reÊi za ovaj Ëek.
+{126121}{126152}Ali to nije razlog |zbog kojeg sam doöao.
+{126169}{126197}Obojica bi ispali ludi, zar ne?
+{126263}{126292}Ali ovo bi mogao da bude dokaz.|-Dokaz, protiv koga?
+{126324}{126356}VeÊ smo uhapsili ubicu.
+{126374}{126408}Posle podmetnutog poûara| u apartmanu
+{126423}{126452}doöao je kuÊi i |ubio je ûenu i Êerku
+{126464}{126490} i onda se sam predao.
+{126500}{126552}Sad je smeöten|u psihijatrijsku bolnicu.
+{126628}{126669}Neko krade moje zloËine.
+{126977}{126998}Gospodine...
+{127022}{127071}Izvinite, ali posete su zavröene.
+{127076}{127155}Doöao sam da vidim ubicu.|-Ne moûete kod njega, on je u komi.
+{127184}{127248}Popio je celu bocu bikarbonata.|-Ja Êu preuzeti njegovu negu.
+{127339}{127350}Franko?
+{127491}{127543}Pomislio sam to kad smo zadnji| put razgovarali telefonom.
+{128213}{128227}Lopov!
+{128294}{128311}Ti si lopov.
+{128368}{128403}Moûda si ubio ûenu i Êerku.
+{128415}{128426}U redu, to ti priznajem.
+{128459}{128496}Ali ja sam ubio tri devojke.
+{128516}{128557}Zaöto mi kradeö ubistva?
+{128588}{128622}Ti nisi jebeni prijatelj,| za kakvog sam te smatrao.
+{128671}{128708}Posebno öto si mislio| da mi dugujeö uslugu.
+{128715}{128828}Bacite to, odmah. Puöenje nije dozvoljeno.|-Zaveûi!
+{128934}{128964}On je u komi, nema pojma...
+{128980}{129016}Naravno...
+{129054}{129063}äta si rekao?
+{129303}{129339}Sve sedi...
+{129377}{129467}Sve öto ne sedi...
+{129477}{129495}...spava.
+{129513}{129559}äta radi sestra na podu?|-Moli se.
+{129589}{129617}To vam je prijatelj?
+{129643}{129711}Vidite, on nema rodbine.|Koma je duboka.
+{129723}{129791}Potpiöite mi i prekinuÊu dovod istog momenta.|-Odjebi.
+{130195}{130210}Evo ti...
+{130282}{130309}Ne ûelim da umreö.
+{130349}{130393}Dugujeö mi objaönjenje.
+{130425}{130459}Zaöto si krao moja ubistva?
+{130537}{130575}Ne misliö valjda, da se ne raËuna|sve to öto sam uradio.
+{130617}{130650}O moj boûe.|äta se desilo?
+{130666}{130686}Pobili su se meusobno.
+{130699}{130716}Zbog bolesnika, naravno.
+{130771}{130794}Zar mi ne verujete?|-Ne!
+{130805}{130846}äteta.|-Ne, ne!!!
+{130970}{130984}Izvini zbog ovog.
+{131113}{131190}Pa, zar nemaö niöta da |kaûeö svom jedinom prijatelju?
+{131340}{131353}Ko si ti?
+{131387}{131400}Ne poznajem te.
+{131442}{131463}Ne znam ko si ti.
+{131500}{131512}Odlazi.
+{131565}{131597}Odlazi!!!!!
+{132011}{132034}DelaMorte Ëekaj?
+{132041}{132145}Za ime boga, Ëekaj.|Gore je neki drugi ludak. Ubija ljude.
+{132156}{132182}Ubio je veÊ troje.
+{132197}{132281}Imaö revolver.|To je dobro. Moûeö da se obraniö.
+{132289}{132357}Posluöaj moj savet.|Skloni se odavde. Brzo!
+{132422}{132480}Tranioti !!!|To sam bio ja !!!
+{133790}{133812}Ti i ja smo isti...
+{133887}{133916}Ubijamo ûrtve bez razlike.
+{133970}{133995}Ponekad iz ljubavi...
+{134101}{134134}...ali nikad zbog mrûnje.
+{134303}{134343}Sad ne znam ko| je mrtav, a ko ûiv.
+{134394}{134415}Muka mi je od ubijanja.
+{134497}{134547}Zato napuötam igru, brate.
+{134606}{134650}DelaMorte|Delamore
+{134677}{134725}Putuju u Miru...
+{134743}{134772}Svojim jedinim putem.
+{134815}{134829}{Y:b}GDE IDEä?
+{134977}{134998}äto dalje odavde.
+{135041}{135072}Gde statue ne govore.
+{135146}{135180}{Y:b}GDE TI MISLIä DA MOéEä DA ODEä...
+{135191}{135306}{Y:b}...AKO NE RAZUMEä RAZLIKU IZME–U|éIVOTA I MENE ?
+{135642}{135677}Nogi, nemoj da nosiö to.
+{135820}{135864}Taj kovËeg ne ide sa nama.
+{136764}{136812}Da, zamalo sam promaöio ovog.|Ne brini nadoknadiÊu to.
+{136828}{136897}Smiri se.|Znam svaki kamen na ovom putu.
+{136971}{136982}Evo jednog.
+{137100}{137119}Pogledaj...
+{137191}{137230}Joö samo malo...
+{137290}{137316}Uspeli smo, Nogi.
+{137449}{137479}Ko bi ovo mogao da pretpostavi.
+{137499}{137575}Zajedno smo na putu iz Bufalora...
+{137585}{137610}... i Ëini mi se da nema kraja.
+{137703}{137720}Hajdemo Nogi...
+{137759}{137786}Posle ovog tunela...
+{137799}{137827}...je ostatak sveta.
+{138057}{138124}äta ti misliö kako izgleda| ostatak sveta, Nogi?
+{138143}{138169}Jesi li ga zamiöljao?
+{138299}{138355}U pravu si.|To se ne moûe zamisliti.
+{139646}{139682}Trebalo je da znam.
+{139764}{139810}Ostatak sveta uopöte ne postoji.
+{140087}{140100}Nogi!
+{140147}{140197}Nogi, ne brini zbog te rane...
+{140207}{140336}Hajde ustaj...äta misliö gde Êeö...|Hajde odveöÊu te do kola...
+{140350}{140419}Hajde, diûi se...|Nogi...
+{140429}{140504}äta je?|äta...Nogi...
+{140595}{140610}Nogi...
+{140658}{140702}Ne ostavljaj me sada, Nogi.
+{140720}{140733}Nogi!
+{140835}{140850}O boûe.
+{140882}{140974}{Y:i}Smrt, Smrt, Smrt |nam se pribliûava.
+{140997}{141032}{Y:i}Prljava smrt, iza oblaka...
+{141063}{141122}{Y:i}Smrt na krilima,|Iznenadna Smrt...
+{141133}{141179}{Y:i}»istog zla i ruûnih oËiju.
+{141206}{141252}{Y:i}Smrt se raa|dok ûivot pristiûe...
+{141275}{141326}{Y:i}Smrt i Ljubav |su dva deËija bubnja...
+{141346}{141382}{Y:i}»uvaj vremena|za sudnji dan...
+{141410}{141451}{Y:i}i uËestvuj u igri strasti...
+{141473}{141588}{Y:i}Bez poËetka i bez kraja.|Zauvek. Amin.
+{142230}{142256}Ti si moj njabolji prijatelj.
+{142357}{142391}Nikad to nisam shvatio...
+{143635}{143692}Da li moûeö da me odvedeö kuÊi?|Molim te.
+{143823}{143845}Nja!
+{143986}{144080}Prevod i Obrada|by|Waske
+{144105}{145605}–û–≥–ª–∞—à–∞–≤–∞—ò—Ç–µ —Å–≤–æ—ò –ø—Ä–æ–∏–∑–≤–æ–¥ –∏–ª–∏ –º–∞—Ä–∫—É –∫–æ–¥ –Ω–∞—Å; –∫–æ–Ω—Ç–∞–∫—Ç–∏—Ä–∞—ò—Ç–µ www.OpenSubtitles.org
