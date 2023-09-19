@@ -1,0 +1,740 @@
+25.000
+SATI OÈAJA
+Uloge:
+Toni, pogledaj ovo!|Fantastièno je!
+Tako je prekrasno!
+O èemu razmišljaš?
+Ni o èemu.
+Pomislila sam kako je tužno što|moramo da odemo.
+Ovde je tako spokojno.
+Kler!
+Bože moj!
+I ovi klokani ovde|takoðe. Znaš?
+Pogledaj ovo.
+Scenario:
+Bob? To nije smešno, znaš?|Pravo ti budi kada me budiš
+ovako rano. Gde si? Australija.|Poleæemo kroz par sati.
+Požuri kuæi. Uzela sam|rezervacije za 21.30 sati.
+U redu. Zar se nešto zbiva|veèeras? Džone...
+Vidimo se u avionu. U redu.|Kako je naš sin? Spava.
+Znaš, juèe je video borbeni|avion. Pitao je letiš li ti
+njime. Poljubi ga, kada se|probudi. Vidimo se za oko 15 sati
+Volim te.|I ja tebe volim.
+Siguran let. Kao i uvek.|Zdravo. Zdravo.
+Našao si komada u L.A. -u?|Godišnjica braka. Koja?
+Deseta. Zadivljujuæe, posebno|za jednog pilota.
+Kakvaje vremenska prognoza?|Do Havaja sve u redu.
+Malo olujno kasnije. Ništa|strašno. U redu.
+Stani u red. Ja æu se pobrinuti|za prtljag. U redu.
+Mi smo na letu za|Los Anðeles.
+Piši mi. Sreæan put kuæi.
+Nije tako strašno.|Vrlo brzo æe zarasti.
+Dušo? Imam ideju. Ostanimo još|par dana. Znaš da se moramo
+vratiti. Vratiæemo se, za naš|drugi medeni mesec.
+Obeæavaš? Da.
+Zdravo. Megi. Koliko imamo|putnika? Napola smo puni.
+Kim... Nemoj. Šta?|Pitati je za sinoæ.
+Megi. Ja se ne mešam u|privatne stvari drugih ljudi.
+Hvala ti.|Vidimo se.
+I, štaje bio sinoæ? Proverio|si gorivo? Ma daj, reci mi.
+Mislila sam da ne guraš nos u|tuðe stvari. Lagao sam.
+Proðite, molim...
+Gospodine, podignite ruke.
+Proðite ponovo i|ispraznite džepove.
+Pol.
+Gospodine, ispraznite torbu.
+To je poklon za moju ženu.
+Poznajete melodiju?
+Da. Hvala vam.
+Oprostite.|Sedi li neko ovde?
+Spremni za ukrcavanje putnika,|Džon? Da, pusti ih.
+Megi, neka te ne èudi ako za|vreme ruèka, uletimo u
+vazdušne struje.
+Obaveštenje putnicima na letu|762 za Los Anðeles.
+Zapoèinjemo sa ukrcavanjem.|Putnici kojima pri tome treba
+pomoæ te oni sa malom decom,|mogu zapoèeti sa ukrcavanjem.
+Obaveštenje putnicima leta 762.|Zapoèinje ukrcavanje prve i
+poslovne klase. Hvala vam.
+Obaveštenje putnicima na letu|762 za Los Anðeles.
+Ovo je poslednji poziv|za ukrcavanje.
+Da se pomerim? Ne. Ostanite na|mestu. Ja æu samo proæi.
+Uspeo sam.
+Èlan si olimpijske ekipe SAD-a?|Da. Sve do nezgode.
+Došli smo više na predstavljanje|Nije trebalo da budemo ovde.
+U redu.
+Ja sam Èed.|Natali.
+Mislio sam da æe ti veæ do sada|nedostajati dom.
+Šta je?
+Bilo je lepo malo pobeæi od|kuæe. Hvala ti.
+Šampanjca, g. I gðo. Manson?|Hvala vam.
+Razmišljala si o Fillipu?
+Ne dok nismo krenuli|odavde.
+Zdravo, Megi.|Džordž.
+Kakvo iznenaðenje. Da, nisam|mogao da se ne vratim.
+Pomislio sam da proverim kako|obavljate posao.
+Nedostajali smo ti. Ko je|pilot? Džon. Preskot?
+Biæe sreæan što te vidi.|Da. Znam put i sam.
+U redu. Vidimo se.|Kasnije.
+Zdravo, Džone. Džordž, koji ðavo|radiš ovde? Na odmoru sam.
+Devojke se vraæaju ranije zbog|venèanja. Ja idem na pecanje.
+Džordž Eler, ovo je Kim MekKi,|moj kopilot. Zdravo, Kim. Zdravo.
+Džordž me nauèio da upravljam|avionom. Prošle godine je otišao
+u penziju. Èula sam mnogo|prièa o vama za vreme letova.
+Ne veruj u njih. Imate posla.|Bolje izgledaš u tom sedištu
+nego ja nekad. Bilo mi je drago,|Kim. Kad ukljuèim autopilota,
+navrati do nas.|Hoæu.
+Zdravo. Zdravo. Vi ste Amerikanac?|Kao i veæina ovde.
+Ja sam prvi put u Australiji.|Ne razlikuje se mnogo od SAD-a.
+Bili ste na odmoru?
+Jeste li dobro? Ne znam.|Odednom me spopala vrtoglavica.
+Izvinite me...
+Mogu li vam pomoæi? Oseæam|bolove u grudima. Sišao bih sa
+aviona... Mogu da pozovem lekara.|Moždaje samo napad panike.
+Znam, ali ne možemo zadržati|avion. Moraæete da krenete
+sledeæim letom. Možda je tako|najbolje. Zašto ne sednete?
+Mogu li videti vašu|kartu, molim?
+46H.
+Odmah se vraæam.|Hoæete li biti dobro?
+Vršim proveru putnika Fillipa|Dikona. Let Okeanik 762 za LA.
+Da li je uneo kakav prtljag u|u avion? Hvala vam.
+Hoæe li mu biti dobro?|Sigurna sam da hoæe.
+To je vaš prtljag? Da. On je|svoju poneo sa sobom.
+Ovde kapetan Preskot. Megi.|Putnik na sedištu 46H oseæa
+bolove u grudima. Želi da napusti|avion. Uneo je kakav prtljag?
+Nije. Sav prtljag je kod njega.|U redu. Pusti ga. Dobro.
+Gospodine, možete iæi.
+Hvala.
+Biæe vam dobro?|Hoæe.
+Sidnej kontrola, Okeanik 762|zahteva navoðenje po stazi.
+Okeanik 762. Staza dva. Nakon|navoðenja zatražite poletanje.
+2 SATA KASNIJE
+Da Megi nije bila tamo, ne bi|uopšte imala svedoka.
+Koliko puta si prekidala sa tim|momkom? Znam, samo nisam znala
+da je u Sidneju. Mislila sam da|je odleteo u Evropu.
+Razjasnili bi sve i...
+I tada je on...|Bože. Mrzim pilote.
+Kapetane, ovde Megi. Jelo je|pripremljeno.
+Želite li da date objavu?|U redu.
+Dame i gospodo, govori vam|kapetan Preskot. Veèeras je
+pred nama dug put. Iz obzira|prema drugim putnicima, molim da
+prigušite rasvetu. Letimo na|visini od 39.000 stopa. Pred
+nama je miran let, ali oni koji|žele da odspavaju, neka se vežu.
+Prijatna vam noæ.|Vidimo se ujutro.
+SIDNEJ, AUSTRALIJA|8 SATI KASNIJE
+Okeanik Erlajnes. Ovde Brandt.|Spojite me sa šefom
+službe obezbeðenja leta.
+Slušam vas.|Slušajte me vrlo pažljivo.
+Ne radi se o lažnom|obaveštenju.
+Lièno sam postavio bombu u|kabinu aviona na letu 762.
+Hvala ti. Kad sam letela na|liniji Frankfurt-J.F. K, mislila
+sam da traje dugo. Ovo mi se|èini beskonaènim.
+Koliko si puta letela ovu turu?|Dvadesetak. A ti?
+Par puta više. Èim doðem kuæi,|bacam se u kadu sa vruæom vodom.
+Veæ smo prošli pola puta od|Havaja, nemamo još mnogo.
+Okeanik, let 762. Slušam vas.|Recite.
+Džone, ovde Džef Belmont sa|vazdušne luke LAX.
+Pre tri minuta primili smo|poziv od nekog ko tvrdi da je
+postavio bombu u tvoj avion.|Pustiæu ti snimak poziva.
+Tako æeš znati|sve što i ja.
+Lièno sam postavio bombu|unutar putnièke kabine leta 762.
+Svaki pokušaj pomeranja ili|deaktiviranja bombe dovešæe do
+katastrofe. Iza sedišta 50H|nalazi se omotnica naslovljena
+na Kler Manson, putnicu.|Unutra je pismo za nju.
+Ona æe potvrditi da nije reè|o šali, te da svi u avionu
+na letu 762 imaju još|samo jedan sat života.
+Moramo da proèitamo pismo. -Seti me|da se kasnije zbog toga
+izvinemo Kler Manson.
+"Najdraža Kler. Dok nas smrt|ne rastavi seæaš se toga?"
+"Seæaš li se i dana našeg|venèanja? Sve bih dao kada bih
+mogao da vratim taj dan. Nikad|nisam prestao da te volim."
+"Uvek æeš biti moja žena.|Razmisli šta si mi uèinila i
+koliko si me povredila. Ti i|tvoj muž imate 60 minuta da
+razmislite o tome. Filip."|To je sve. Nema zahteva?
+Samo ljubomorni bivši muž?|Znam ko može to da nam otkrije.
+Oprostite. Kler Manson? Da?|Kapetan želi da vas vidi.
+Gðo. Manson, ja sam kapetan|Preskot. Imamo problem koji je
+povezan sa vama. Poznajete li|Filipa Dikona?
+Ovo je bilo u džepu sedišta|u kabini pozadi.
+Moj Bože... Pre par minuta,|zapretio je bombom.
+Jedan Filip Dikon se ukrcao u|avion u Sidneju, ali ga je
+napustio pre poletanja.|Filip je bio u Sidneju? Ja...
+Važno nam je da znamo, treba li|da ga shvatimo ozbiljno. Vrlo.
+Nikad se nije pomirio sa|èinjenicom da smo se rastali.
+Ima li znanja o eksplozivima|ili kako da napravi bombu?
+On je inžinjer. Radi za Garner|hemikalije. Može da napravi sve.
+Ali, zašto bi stavio bombu u|avion? Stotine nedužnih žrtvi...
+Moj novi suprug radi za ovu|avio-firmu. Odeljenje marketinga.
+Oèito je da pretnju možemo|da shvatimo ozbiljno.
+Moramo da sletimo. Iskrcamo ljude|iz aviona. Nemamo gde da sletimo
+Na pola smo puta izmeðu Havaja|i Zapadne obale.
+Los Anðeles nam je jedini izbor.|Koliko nam vremena preostaje?
+Prema pismu, 60 minuta. Koliko|imamo do LA-a? Dva sata.
+Ovde Okeanik 762.|Objavljujemo stanje uzbune.
+GRADSKA POLICIJA|LOS ANÐELESA
+Doæi æu. Znam kada poèinje|utakmica. Ostavi karte...
+Sada kreæem. Zdravo.
+Ovde Gorlin. Nadam se da je|nešto važno. Kasnim na Lejkerse.
+G. Gorlin? Ovde Džef Belmont,|firma "Oceanic Air".
+Žalim zbog Lejkersa, ali imamo|pretnju bombom na letu 762.
+Neko je prijavio pretnju.|Uzima se vrlo ozbiljno.
+Potreban nam je najbolji|struènjak. To ste vi.
+U redu. Šta znamo do sada? Jesu|li locirali napravu? Još nisu.
+Negde je u putnièkoj kabini.|Ima vremenski mehanizam.
+Koliko imamo vremena? Rekao je|jedan sat. Pre oko 10 minuta.
+U redu. Možete li da me prespojite?|Poradiæu na tome.
+Veæ godinu dana me opseda. Tri|puta sam se selila.
+Poslednjih pet meseci je iznenada|prestao. Molila sam se daje
+konaèno odustao. Džone, ovde|Džef Belmont. Imam podatke.
+Putnik Filip Dikon bio je na|sedištu 46H.
+Megi, Dikon je imao sedište|46H. Proverila sam sve tamo.
+Zašto je poruku ostavio na|sedištu 50H? Primetila si da je
+menjao sedište? Ne. Putnici|su se ukrcavali. Tražili mesta.
+Ne bi mogao tamo da sedi.|Pregledaæu niz sedišta 50.
+Kim, ne želim da... Znam. Naðem|li nešto, neæu dirati.
+Nadajmo se da Filip Dikon|želi samo da nas zastraši.
+Oprostite. Moja žena je još u|pilotskoj kabini? Jeste.
+Znate li zbog èega? Uskoro æe|se vratiti, sigurna sam u to.
+...posebno pri sveèanosti|otvaranja i zatvaranja
+Olimpijskih igara. Mi preuzimamo|potpunu nadležnost.
+Ne samo pri obezbeðenju|olimpijskog sela, nego i
+hotela u centru grada. Upoznao|bih vas sa FBI agentom, našim
+gostom iz Amerike, Majk Tenerom|Hvala ti, Bile. Dozvolite da
+kažem kako sam ovde samo kao|savetnik. Imamo puno iskustva
+sa osiguranjem Olimpijskih|igara. Prvo LA "84-e,
+zatim Atlanta "96-e. Svaki grad|je imao sopstvene posebnosti.
+Sigurno æe tako biti i sa|Sidnejem, koji je više nalik
+Atlanti nego LA-u. Zbog svog|meðunarodnog prometa i služba
+obezbeðenja u Sidneju je veæ na|terenu. Izvinjavam se, Majk.
+Imamo pretnju bombom na letu|Okeanik 762 prema Los Anðelesu.
+Krivac je državljanin SAD-a,|verovatno još u Sidneju.
+Koordiniraæemo akciju odavde.|Tome, hitno idi u štab.
+Aerodromski agent obezbeðenja|koji je video krivca dolazi
+k nama. Vas trojica poðite prema|vazdušnoj luci. Radi se o
+avio-firmi SAD-a. Osumnjièeni je|takoðe Amerikanac.
+Stoga, polazim sa vama. U redu?|Onda požuri.
+Pokušali smo to da raspravimo.|Bilo je teško, ali najbolje je
+tako. Koliko dugo ste bili|zajedno? Gotovo dve godine.
+Pretvorilo se u ozbiljnu stvar.|Kakva je buduænost veze kada
+polazite u razlièite škole,|udaljene 600 kilometara?
+A ti? Buduæi da si gimnastièar|svetske klase, sigurno ti se
+devojke nabacuju. Ðavola. Treninzi|mi oduzmu svo vreme.
+Da, to zna da bude gnjavaža. Kada|imaš cilj, nije tako.
+Potrebno se mnogo žrtvovati, ali|od pete godine, samo treniram.
+Nikad nisi imao ozbiljnu vezu?|Nisam imao vremena za to.
+Ima to i pozitivnih strana.|Kojih?
+Nikad ne doživim|raspad veze.
+Džon, ovde Džef Belmont. Kim,|preuzmi vezu. Megi, odvedi
+gðu. Manson napolje. U redu.|Žao mi je. Užasno mi je žao.
+Spojiæu vas sa Deni Gorlinom|iz antiteroristièke jedinice
+LA-a, struènjakom za bombe.|Prièam li sa kapetanom?
+Da. Ovde kapetan Džon Preskot|i moj kopilot Kim MekKi.
+Locirali ste napravu? Jesmo.|Ispod sedišta 50H, u zadnjem
+delu aviona. Možete li mi je|opisati? Muzièka kutija.
+Suvenir. 16x10 centimetara,|14cm visoka. Speda je
+digitalni sat koji odbrojava od|50 minuta prema nazad.
+U redu. Prema prijavi, mogla bi|eksplodirati ako se pomakne.
+Znaèi da ima dva okidaèa, jedan|vremenski a drugi osetljiv na
+pokrete. Šta ako uðemo u vazdušne|struje? Imali bi loš dan.
+Poveæali smo brzinu, ali i tako|smo sat vremena u zaostatku.
+Eksplodiraæe pre nego što|stignemo u Los Anðeles.
+Znaèi da neko mora da pokuša|da je deaktivira. Deaktivira?
+Ili to, ili pusti da|eksplodira. Ja æu. Ne.
+Ti nam trebaš ovde. Snaæi æeš|se za upravljaèem, Kim.
+Poslaæu ti Džordža. G. Gorlin,|èujemo se za par minuta.
+Javiæu se iz kabine. -Možete li|kako evakuisati putnike iz
+dela pozadi? Naravno.|Uèiniæu to odmah.
+Šta æeš im reæi? Ne znam još.|Mislim da trenutno nije
+najbolje reæi im istinu.
+Kler...
+Radi se o Filipu.
+Šta sa crtaèem? Može li to|pomoæi? Ne znam. Možda.
+Nièim se nije isticao. Da li ga|je još iko video? Agent.
+Živi van grada. Krenula je|ovamo. Proverili ste da li je
+krenuo sledeæim letom?|U poslednjih 14 sati, nismo našli
+njegovo ime ni najednom letu.|Zovem centralu u SAD-u.
+On ima pasoš, znaèi da|æemo imati i njegovu fotografiju
+Džordž, kapetan želi da|te vidi.
+Kapetan traži da svi službenici|budu na vezi.
+Šta je, Džone? Džord, imamo|uzbunu. Moram nešto da rešim
+pozadi. Kim æe biti pilot.|Ti joj pomozi. U redu? Naravno.
+Šta se desilo? Prvo moram da|dam uputstva posadi.
+Svi su na vezi? Jesmo.|Imamo pretnju bombom.
+Locirali smo sumnjivu napravu|ispod sedišta 50H. Moram
+da evakuišem zadnji deo aviona.|Premestim sve putnike napred
+Postavim ih na sedišta ili na|pod. Obaviæu to preko
+razglasa. Pretnja nije trenutna|Imamo još vremena. Želim da
+putnici ništa ne posumnjaju.|Jasno?
+Znam da mogu da se|oslonim na vas.
+Govori vam kapetan Preskot.|Vašu pažnju, molim. Došlo je do
+problema sa ventilacijom u|zadnjem delu putnièke kabine
+Da ne bi panièili, uveravam|vas da je sa avionom sve u redu.
+Pravila zahtevaju evakuaciju|putnika dok se stvar ne reši.
+Osoblje æe zatražiti da se|putnici premeste u prednji deo
+kabine. To znaèi da æe neki od|vas morati da sednu na pod.
+Izvinajvam se zbog toga i nadam|se da æete uskoro moæi da se
+vratite na svoja mesta.|Hvala vam.
+Nastavite sa premeštanjem.|Krenite napred sa svim svojim
+prtljagom. Hvala vam.|Nastavite sa premeštanjem.
+G. Gorlin, imam pitanje. Ako ta|naprava eksplodira, hoæe li to
+avion izdržati? Ako je unutra|barutni eksploziv, avion æe to
+izdržati. A ako se radi o nekoj|drugoj vrsti eksploziva?
+C-4? Veæ velièina loptice za|golf, razoriæe ceo avion.
+Od sada svi ostaju u prednjem|delu. Jasno? Èuvaj se.
+Povuci zavese.
+Izvinjavamo se zbog ove|neugodnosti. Sednite u
+slobodna sedišta.
+Dame i gospodo, zauzmite sva|raspoloživa sedišta.
+Ako nema mesta, sednite|u prolaz izmeðu sedišta.
+Super. Još nikad nisam bila u|prvoj klasi. Sedišta su ogromna.
+Sreæna si što si našla sedište.|Ne mogu da verujem da smeštaju
+putnike u prolaz izmeðu|sedišta.
+Ti si bila iza. Osetila si da|nešto ne valja sa vazduhom?
+Nisam. Pilot je otišao tamo, ali|sve je izgledalo u redu.
+Nešto se drugo ovde zbiva.|Pilot ne rešava probleme sa
+ventilacijom. Šta misliš, o|èemu se radi? Ne znam.
+Možda se varam, ali sigurno|je nešto ozbiljno u pitanju.
+Sada me razumeš?
+Kim, èuješ me? Da. Staviæu|te na razglas. Izvolite.
+Ovde sam, kapetane.|Na položaju sam.
+Kapetane, nešto vam moram reæi.|Danas sve obavljamo daljinski.
+Retko deaktiviramo bombe ruèno|Sada mi je mnogo lakše.
+Ne želim da umanjujem opasnost,|zato morate taèno da izvršavate sve
+što vam kažem. U redu. Vaš mozak|i moje ruke. Ruke i oèi.
+Volite košarku, kapetane? Da.|Veèeras je trebalo da budem na
+utakmici. Dogovorimo se. Ja æu|vam pomoæi da deaktivirate bombu,
+vi æete mi nadoknaditi utakmicu.|Dogovoreno. Bolja mesta u
+gledalištu. Sedeæete pored|trenera. U redu.
+Jeste li ispred naprave? Da.|Morate mi je taèno opisati.
+Treba da vidim taèno ono što|i vi vidite.
+Bez zastajkivanja i uz dobar|vetar, trebaæe nam mnogo sreæe.
+Dejv, umnoži i podeli svima|na terminalima, kao i svim
+hotelima i motelima u podruèju...|To je naš osumnjièeni? Da.
+Halo?|En, ja sam Džef.
+Džon je objavio|uzbunu u avionu.
+Šta se desilo? Ne znamo sve|detalje, ali ništa mehanièki
+niti uzrokovano vremenskim|neprilikama. Otmica?
+Ne mogu ti reæi više. Samo sam|hteo da ti javim.
+Dolazim tamo.|En...
+Èula sam šta prièaju. Misle da|je bomba u avionu.
+Odakle bi znali? To su samo|naklapanja. Ne bi evakuisali
+zadnji deo aviona|da nije nešto ozbiljno.
+Lagao bih ti, kada bih rekao da|nisam uplašen. Mislim da se
+ovde radi o hrpi putnika koji|stvaraju paniku zbog promene
+sedišta. Biæe sve u redu.|Zaista veruješ u to?
+Jedino vidljivo je brojaè, nema|žica. Da pomerim napravu dalje
+od trupa aviona? Ako ima senzor|osetljiv na pokrete, bolje je
+da ništa ne reskirate. Prvo|ustanovimo ima li poklopac kakve
+okidaèe. Spremni? Da, kao nikad|ranije. Poèevši sa krajnje leve
+strane kutije, ugurajte unutra|oštricu noža. Vrlo polako.
+Ne dublje od centimetra.
+Jesam.|Dobro.
+Opustite se. Seæate se prve|utakmice doigravanja "97.?
+Juta protiv Bulsa. Seæate se|Maloneovog slobodnog bacanja?
+Da. Vi ste on. Samo smireno.|Vrlo lagano. Sada polako ugurajte
+oštricu unutra. Vrlo, vrlo|polako. Osetite li neku
+prepreku na oštrici,|odmah stanite.
+Ide... Još ide.
+U redu. Došao sam do kraja.|Oprezno. Na tom mestu su èesto
+smešteni okidaèi za|aktiviranje bombe. U redu.
+Sada pomeram oštricu prednjom|stranom. Polako i nežno.
+Baš poput Malonea. Samo tako.|Možeš ti to. Slobodno bacanje.
+I dalje pomeram oštricu. Bez|žurbe. Imaš dovoljno vremena.
+Lako je tebi da kažeš.
+Još samo malo.
+U redu. Došao sam do|sledeæeg ugla kutije.
+Ne. Koliko znamo, nije otišao|iz Sidneja. Tener. Èekaj.
+Upravo je zvao neki tip iz|hotela koji gaje prepoznao.
+U redu. Slušaj, moramo|da krenemo. Zdravo.
+Odmah æu vam posvetiti pažnju,|gospoðo.
+Vas dvoje ste u redu? Jesmo,|s obzirom na sve.
+Policija ga traži. Sigurna sam|da æe ga naæi.
+Kakva korist od toga? Neæe nam|reæi kako da deaktiviramo bobu.
+Sada možemo da poènemo sa|otvaranjem poklopca.
+Vrlo oprezno, centimetar po|centimetar. Osetiš li ikakav
+otpor, stani. Razumeo si? Da.|Polako otvaram poklopac.
+Kapetane, moguæ ulaz u jaèu|turbulenciju. Trebali bi da se
+udaljite od naprave. Samo što|nisam... Mali potres i sve
+može da eksplodira. Zar ne,|g. Gorlin? Nažalost.
+Još niste upali u snažne vazdušne|struje? Ovo je prvi udar.
+Dame i gospodo, izgleda da æemo|imati par minuta potresa aviona.
+Oni koji sede, neka vežu|pojaseve. Oni koji nemaju
+sedišta, neka sednu na pod i|naðu oslonac na obližnjem
+sedištu ili zidu. Osoblje æe se|pobrinuti za sigurnost putnika.
+Ovo je ludost. Polovina putnika|nema ni sedišta.
+Gospoðo, možete|da sednete ovde.
+Sednite. Hvala vam.
+Ušli smo u turbulenciju.
+Možemo li je zaobiæi.|Ne vidim izlaz.
+U redu. Otvorio sam poklopac.|Vidiš li unutrašnjost?
+Turbulencija je prilièno jaka.|Oèitavanje je 0.83.
+Moramo da se spustimo. Ovde|Okeanik 762. Spuštamo se sa
+kursa na 35.000 stopa. Bolje na|31.000. Gadno æe nas zahvatiti
+dok ne uðemo u mirnije|podruèje vazduha.
+Imaš li predlog kako daje|uèvrstim? Uzmi izolacionu traku
+i zalepi je za pod. Riskantno,|s obzirom da ste veæ zahvaæeni
+turbulencijom. Traka?|U redu. Našao sam je.
+Dame i gospodo, molim da ostanete|smireni. Niste nam rekli istinu
+Morate da budete mirni, u sluèaju|daljnjih uputstva.
+Sada ne smemo ni da prièamo.|Ne vièite, gospodine.
+Radi se o sigurnosnoj meri...|Možeš misliti. Imamo pola...
+Slušaj, nimalo nisi od pomoæi.|Bolje uæuti!
+Pusti ih neka|rade svoj posao!
+U redu. Na položaju sam.|Samo oprezno, da je ne pomeriš
+Veæ se pomerila i nije|eksplodirala. Ne znamo koja joj
+je granica podešena. Zavisi od|smera pomeranja.
+S obzirom da to ne znamo,|ne možemo da reskiramo...
+Bolje se izvucimo iz ove|turbulencije, u suprotnom neæemo
+imati vremena da je deaktiviramo.|Spuštam na 29.000 stopa.
+Džef... Dobro su, En. Slušala|sam radio na putu ovamo.
+Molila sam se da ne objave da je|došlo do nesreæe.
+Mogu da pozovem Kris, da prièuva|Džejka... Sve je u redu.
+Ostavila sam ga kod komšije.|Šta se dešava, Džef? Doði...
+Na pola puta prema ovamo, neko|je prijavio pretnju bombom.
+Bomba je u putnièkoj kabini.|Mogu li se vratiti? Ne.
+Struènjak za bombe im trenutno|daje uputstva za... Za šta?
+Pokušaæe da|deaktivira bombu.
+Keli, federalna policija. Vi|ste prepoznali Filipa Dikona?
+Jesam. Šta ima, momci? U kojoj|je sobi? U devetki. Kljuè.
+Šta je taj tip uèinio?
+Otišao je.
+Ove kutije služe za prenos|biohemijskog oružja.
+To je smrtonosno. Još gore.|Garner hemikalije. Nazovi ih.
+Sadrže nešto što se zove SX 19.|Dejv, ovde Keli.
+Nazovi mi Garner hemikalije.|U Americi.
+Izvuæi æemo se iz ovog, znaš?|Sve sam ja kriva. Da nije mene,
+ovi ljudi ne bi bili u opasnosti|Ti nisi ništa kriva. On je.
+Rado bih verovala da je tako,|ali, ne mogu.
+G. Gorlin, prekinuo sam vezu sa|pilotskom kabinom. Imam nove
+podatke. Moram prvo da razgovaram|sa vama. Slušam vas.
+Našli su sobu gde je taj tip|sagradio bombu.
+Moguæe je da naprava sadrži|biohemijsko oružje. Šta?
+Postoje li drugi naèini zaštite|ljudi na avionu? Ne.
+Avion je zatvorena okolina. Ako se|radi o biohemijskoj bombi,
+moramo daje deaktiviramo. Kažete|da je ekipa na mestu gde je
+bomba napravljena? Da. Neka|potraže šemu izrade. Bomba se
+ne radi iz glave. Mora da postoji|šema. To bi nam puno pomoglo.
+Ako je tamo, naæi æe je. Možda|je kod Dikona. U redu.
+Uèvrstio sam je koliko sam mogao|Džordž, obavio si dobar posao.
+Puno hvala, vama oboje. Hvala|ti. Drago mi je što si ovde.
+Putnici postaju nervozni.|Dugujem im objašnjenje.
+Okeanik 762, ovde Džef Belmont|Imamo obaveštenje od FBl-a.
+Garner hemikalije, gde Filip|Dikon radi, prijavili su kraðu
+boèica sa SX19. Verujemo da se|to nalazi u bombi.
+Ukraden im je SX19? Šta je to?|Nervni plin, vojne izrade.
+Kapljica manja od špica igle,|može da te ubije. Udahneš li ga,
+mrtav si. Padne li ti na kožu,|mrtav si. Seæaš se napada
+terorista na podzemnu u Tokiju?|Mnogo ljudi je nastradalo.
+Tamo su koristili sarin. SX19 je|10 puta smrtonosniji.
+Koliko brzo deluje? Udahneš li|ga, kroz jedan minut.
+Minut! Zato je stavio bombu|pored ventilacije. Šta ako je
+prekrijemo neèim plastiènim?|Zatvorimo je u nešto.
+SX19 je vrlo korozivan, progoreæe|plastiku. Ne smete
+da dozvolite da plin uðe u sastav|ventilacije. Moraæete da ga
+zatvorite. Tada bi došlo do|pada pritiska u kabini.
+Ostali bi bez vazduha. Šta ako|se spustimo na nižu visinu?
+Brzo bi ostali bez goriva.|Obavi proraèun za gorivo, Kim.
+Veæ jesmo. Spustite li se ispod|18.000 stopa, neæete doæi do LA-a
+Moram da se obratim putnicima.|Ne želim da poènu da panièe.
+To æe samo pogoršati|situaciju.
+Dame i gospodo, govori vam|kapetan Preskot.
+Nadali smo se da je lažna|pretnja, ali nažalost,
+u avionu je bomba.|Šta?
+Bože moj!|Znao sam!
+U direktnoj smo vezi sa|struènjacima koji æe nam
+pomoæi deaktivirati napravu.|Uvereni smo da æemo to biti u
+stanju da uèinimo. Mnogo bi nam|pomoglo, kada bi ostali prisebni
+Zahvaljujem vam na saradnji.|Molim vas, bez panike.
+Džon?|En? Gde si ti?
+U Okeanikovom kabinetu, u|vazdušnoj luci LAX.
+Oprosti, morala sam|da ti èujem glas.
+Rekli su ti šta se desilo?|Jesu. Jesi li dobro? Da.
+Pokušavam da stignem kuæi malo|van rasporeda.
+Da zadržim rezervacije za|veèeras? Nazovi taj restoran i
+reci im neka stave šampanjac na|led. Jesam li ikada propustio
+našu godišnjicu braka?
+Nisi...
+U redu. Vidimo se, dušo.|Èekam te.
+Volim te.|I ja tebe volim.
+Mogu li to da uèinim? Preko|telefona deaktiviram bombu?
+Ne znam. Siguran sam daje to|moguæe, ali... Još uvek može
+da eksplodira. Juèe, kad sam|išèašio gležanj, mislio sam da
+je to nešto najgore. Znam. Ja|samo razmišljam o svojima.
+Htela bih ponovo da ih vidim.|Ja takoðe.
+Kako ide?|Želite još jedno?
+Piæe. Još jedno piæe? Ne.|Tu sam, ako želite da naruèite.
+Okeanik 762, na liniji imamo|Filipa Dikona. Želi da razgovara
+sa Kler. Džone, uz tvoje|dopuštenje, prespojiæu ga...
+Kim, idi po nju.|Odmah.
+Oprostite. Kler, možemo li|da poprièamo u pilotskoj kabini?
+Treba nam vaša pomoæ.
+Filipp je nazvao i želi da prièa|sa vama. Imamo ga na satelitu...
+Ne, ne mogu. Poslušajte me.|Morate to da uèinite. Samo nam on
+može reæi kako da deaktiviramo|napravu. Šta god želi da èuje od vas
+recite mu. Kler,|nemamo izbora...
+Džef, ovde je. Mora ga držati|na vezi što je duže moguæe.
+Uhvatili smo signal, ovde|u Sidneju.
+Zove sa mobilnog. Zato koristimo|satelitski sistem za praæenje.
+Postoji šansa da kod sebe ima|šemu naprave.
+Moramo da ga uhvatimo. Možda nam je|to jedina šansa.
+Koliko dugo? Još je na vezi?|U redu. Èekajte.
+Tener, Dikon je na vezi sa|Okeanikom. U gradu je. Idemo.
+Ti preuzmi ovde.
+Spremna, Kler?|Idemo.
+Okeanik. Na vezi ste.
+Halo, Kler.
+Zdravo, Filipe.
+Ne znam šta se desilo.
+Zar ne možemo...
+Možemo li se nekako vratiti|na poèetak?
+Možemo da pokušamo, Filipe.|Videæemo.
+Ne. Sada je prekasno.|Nije kasno.
+Zašto me toliko mrziš?|Ne mrzim te.
+Ja te se bojim.
+Ne želim da te se bojim, Filipe.|U avionu su nedužni ljudi.
+Oni ne zaslužuju ovo.
+Ogranièili smo poziv na|podruèje oko plaže Klondike.
+Još uvek je na vezi.
+Sešæemo i porazgovarati o|svemu. Uèiniæu sve kako bih ti
+pomogla, Filipe.|Ne, sadaje prekasno.
+Nije. Još nije kasno. To kažeš|kako bi me nagovorila da im
+kažem kako da deaktiviraju bombu|Imamo moguæu lokaciju...
+Pab u ulici Frejzer 1411.|Osumnjièeni je još na vezi.
+Znam gde je to.
+Da, Fillipe. Želim da im kažeš|kako da je deaktiviraju.
+Ne zbog mene. Zbog nevine dece|i njihovih majki.
+Putnici u avionu nemaju ništa|sa našim problemom.
+Filipe?
+Nikad mi se neæeš vratiti.
+Ne znam šta æu uèiniti. Samo|znam da ovo nije pravi naèin.
+Šta nam se desilo, Kler?|Nikad nisam prestao da te volim.
+Tada æemo sesti... Porazgovarati|Samo nas dvoje. Uèinimo tako.
+Kler?
+Ko je to? To je on. Sa tobom je.|Sluša naš razgovor.
+Ne, Filipe. Èekaj...
+Nije te briga za mene. Brineš|samo za njega.
+Želiš samo da spasiš svog|dragocenog supruga.
+Ja æu preuzeti.
+Sada æete oboje umreti!
+Gðice, jeste li videli...?
+To je on!|Sklonite se s puta!
+Stani! Policija!
+Deni, èuješ li me? Jasno i|glasno. Ostaje nam plan B.
+Dakle, deaktiviraæemo bombu.|Nije to tako teško.
+Vodiæu te kroz ceo|postupak. To si veæ radio?
+Tako sam i postao struènjak za|bombe. Još imam sve prste.
+To je dobar znak. Vrlo dobar.|Veæ smo proverili poklopac.
+Nismo našli nikakve okidaèe.|Sada æemo ga polako podiæi.
+Pogledamo štaje unutra.
+U redu. Ponovo guram nož|u poklopac...
+Podižem poklopac.|Vrlo polako. Nežno.
+Veæ vidim ulaznice za svoja|sedišta na parketu.
+Šta je?
+To je muzièka kutija. Šta|vidiš unutra? Praznaje.
+Poði na zadnji ulaz.|Razumem.
+Pokušaj da skineš|unutrašnji pokrivaè.
+U redu.|Guram nož unutra...
+...ispod pokrivaèa.
+Podižem ga.
+Ispod je spojena žica. Hoæe li|aktivirati bombu? Ne znam.
+Ali, to je jedini naèin da|vidimo štaje unutra.
+Spustite oružje...|Poslušajte ga, momci!
+Filipe, niko ne mora ovde|da strada. Ni ja, ni ti.
+Niko. Imamo pun avion ljudi|koji nemaju veze sa tvojim
+problemima... Ne mogu da pomognem.|Možeš. Naravno da možeš.
+Da je prerežem? Ja bih. Kroz|4 minuta više neæe biti važno.
+Kreni prema meni. Neæemo ti|ništa uèiniti. Samo razgovarati.
+Samo æemo porazgovarati.
+Zakoraèi. Jedan korak napred.|Samo æemo prièati. Ne!
+Reci nam kako da|je deaktiviramo.
+Ovo mi se nimalo ne sviða.|Znaš?
+Reci kako daje|deaktiviramo!
+Prerezaæu žicu.
+Reci nam!|Ne mogu...
+Da sam mrtav, bi li bio svestan|toga? Ne. Mi bismo znali.
+VREME PREOSTALO|DO EKSPLOZIJE
+Vidim strujni krug.|Napajanje.
+Tu je sklop velik oko 2 cm sa|3 cm. Osam vijaka povezuju
+osam žica. Razlièite su boje.|Na vrhu je kompjuterski èip.
+Uhvatili ste ga? Jesmo. Mislimo|da je ovde ostavio neke stvari.
+Jeste li šta pronašli? Samo|njegov mobilni. Nièega nema.
+Da li je još štogod ostavio?|Smeæe. Pokažite mi.
+Postavio je lažne žice, radi|otežane deaktivacije bombe.
+Ovde je bakrena|štampana ploèica.
+Da. To je to. Ima li još toga?|Pokažite mi. U redu.
+Pogledaj ovo.
+Samo malo. U samoj sredini su|tri staklene boèice ispunjene
+nekakvom zelenkastom teènošæu.|To je to. Šta god radio,
+nipošto ih ne diraj. Trebaæe mi|lepljiva traka i papir.
+U redu.
+To je to.
+Žice su raznobojne? Jesu.|Crvena, zelena, plava, žuta...
+Ima li šta na vremenskom radaru?|Ništa. Kapetane, zahvata nas
+turbulencija. Možda bi trebalo da|se maknemo odatle. Nema vremena.
+Moramo da izaðemo iz ovoga.|Okeanik 762, sa poziciji
+Beti, spušta se sa 35.000 na|33.000 stopa zbog turbulencije.
+Pokušaj sa ovim.
+Na šta je spojena žuta žica?|Na vod koji ide prema glavnoj
+štampanoj ploèi.|Radi li se o direktnom spoju?
+Da.|Seci je.
+U redu. Jesam.|Sledeæa žica.
+Nastavimo sa crvenom. Direktan|spoj? Jeste. Preseci je.
+Crvena je odrezana.
+Imate li faks? Da, pozadi.|Odvedite me do njega.
+Ovde Kim. Kim? Trebalo bi|da damo nekakvu objavu. Èekaj.
+Trebalo bi dati objavu.|Najiskusniji si pilot koga je
+Okeanik imao, bio ti u penziji|ili ne. Hoæeš li?
+Naravno, Kim. Dame i gospodo,|vašu pažnju molim.
+Ne želimo da vas uplašimo, ali|možda æete morati da koristite
+maske sa kiseonikom. Doðe li do|toga, podelite ih sa onima
+koji nemaju sedišta. Možda æemo|izvršiti naglo spuštanje.
+Ne treba da panièite.|Kapetan vam je rekao da avion
+leti u savršenom stanju. Ako|obavimo spuštanje, biæe to iz
+sigurnosnih razloga. Ostanite|prisebni, budite obzirni prema
+drugim putnicima. Uskoro æemo|stiæi kuæi. Imate moju reè.
+U redu. Pokušajmo sa plavom.
+Samo malo. Plava je spojena na|mali vijak. To je to.
+Odvij vijak.
+Uradi to oprezno. Pazi da metalni|deo odvijaèa ne doðe u dodir sa
+golom žicom ili elementima.|U redu.
+Odvio sam ga. Šta sada? Sada|sledi zahtevniji deo.
+Inicijator bi trebalo da bude|izmeðu pozitivnog i negativnog
+voda. Trebalo bi da se radi o|inicijalnoj kapsuli.
+Traži dugaèki cilindar.|Vidim ga.
+Moraš da ga ukloniš bez da|dotakneš vodove.
+Treba da ga izvadiš iz ležišta,|kako bi mogao da odseèe žice ispod
+U redu. Vidim žicu.|Kreni, kapetane. Preseci žicu.
+Sada!
+Kapetane? Još si tu?
+Mislim da ti dugujem karte|za Lejkerse.
+Zar si sumnjao|da æe tako biti?
+Šta da radim sa time? Ništa.|Ostavi je tamo.
+Još može biti opasno. Samo ti|dovedi avion kuæi. Mi æemo dalje
+Dame i gospodo. Imamo dobre|vesti. Naprava je uspešno
+deaktivirana. Ne oèekujemo|daljnje probleme.
+Uskoro sleæemo na LAX. Hvala|na vašem strpljenju.
+Kapetane, još si tamo? Da.|Nažalost, imam loše vesti.
+Dobio sam šemu naprave. Postoji|prièuvni okidaè.
+Namešten je tako da se aktivira|ako se primarni okidaè ukloni.
+Želiš da kažeš da to još može da|eksplodira? Namešteno je
+tako da ne može da se deaktivira.|Sadrži senzor koji reaguje na
+promenu pritiska pri promeni|visine leta. Dakle, pokušamo li
+da sletimo, eksplodiraæe?|Ili ako promenite visinu.
+Možda se radi o 5 hiljada stopa,|možda nivo mora, negdje izmeðu.
+Ne možemo da znamo. Ako vas nije|sredio u letu, odluèio je da
+vas sredi pri sletanju.
+Mora da postoji neko rešenje.|Šta sa pokrivaèima? Šta ako
+namoèimo pokrivaèe i njima|omotamo kutiju?
+To bi trebalo da apsorbuje plin.|Ne. To bi bilo najgore.
+Šta dalje od vode, ona samo|ubrzava proces.
+Kapetane, moramo da pretpostavimo|da æe se naprava aktivirati.
+Što dalje od nje. Spustite|avion na zemlju. Izvucite ljude.
+Dakle, nema šanse|deaktivirati je? Ne.
+Šema je jasna. Naprava ne može|da izneveri.
+Kreæem prema pilotskoj kabini.|Shvataš li kojom æemo se
+brzinom kretati kada sletimo?|Slušaj, ostaæu na vezi.
+Sreæno, kapetane.
+Èuli ste? Spustimo se što|pre. Megi, svi su ovde?
+Svi su spremni. Rado bih rekao|da smo se izvukli, ali nismo.
+Oèito je da æe se aktivirati pri|sletanju. Neæe biti eksplozije
+Ispustiæe vrlo opasan plin.|Ne približavajte mu se.
+Ne dodirujte to. Pripremite se|za spuštanje u sluèaju nužde.
+Svi treba da napuste avion što|je pre moguæe.
+Izlazi su kroz dvoja vrata u|prednjem delu. Razumete li?
+Ne dozvolite nikome da odlazi u|zadnji deo aviona. Sreæno.
+Želim da budem na stazi kada izaðe|iz aviona. Pobrinuæu se za to
+Dame i gospodo, govori vam|kapetan Preskot. Prvo bih svima
+zahvalio na saradnji i vašoj|staloženosti. Bilo je to gadnih
+sat vremena i vi ste bili na|nivou. Nažalost, još se nismo
+izvukli. Izgleda da æe se naprava|aktivirati pri sletanju.
+Neæe biti eksplozije, nego æe|doæi do ispuštanja otrovnog
+plina. Plin je vidljiv. Nipošto|ne dolazite u dodir sa njime.
+Èim avion sleti, izaæi æete|kroz dvoja vrata u prednjem
+delu. Ima dovoljno vremena i|osoblje æe vam sve obasniti.
+Ne odlazite u zadnji deo kabine.|Ukoliko æete svi pratiti uputstva,
+kroz par minuta æemo sleteti.|Osoblje, poènite sa pripremama.
+Biæe sve u redu.
+Dobro si? Jesam. A ti?|Malo sam teskoban.
+Džone?|Da?
+Ništa... Drago mi je što æe se ovo|završiti. Spustimo avion
+i pobrinimo se za sigurnost|putnika. U redu? Džordž?
+Znao sam da neæeš moæi da|ostaneš u penziji.
+Penzija mi svakim trenom|izgleda sve lepša.
+Okeanik 762. Približavate se|stazi na 50 kilometara.
+Svi ostali letovi su uklonjeni.|Spustite se na 9 hiljada stopa.
+Okeanik 762, spušta se na|9 hilajda stopa. 9 hiljada.
+Idemo...
+Za sada je u redu.
+Okeanik 762, okrenite se udesno|u smeru 1-3-0. Razumeli.
+Visina 6 hiljada stopa i još se|spuštamo. Kapetane?
+Još smo meðu živima. Doèekaæe|vas ekipa za uklanjanje
+opasnih stvari. Prema mojim|proraèunima, kada se naprava
+aktivira, biæe žrtava.|Ne pokušavajte da im pomognete.
+Èim neko stupi u dodir sa SX19,|veæ je ionako prekasno.
+Razumeš li? Da. Koliko æe|se brzo širiti?
+Nakon aktiviranja, plin æe|poèeti da izlazi za 10 sekundi.
+Èim postane vidljiv, brzo æe se|proširiti. Moraæete
+da evakuišete putnike kroz vrata.|Razumeo. Sreæno.
+Sada smo na 5.000 stopa i|približavamo se.
+Pomoæi æu pri evakuaciji.|Vidimo se na zemlji.
+Hvala, Džordž.
+Oprostite... Samo malo.
+Dozvolite da proðem.
+Megi, sve je pod kontrolom?|Jeste. Ovo ti je prvo
+prisilno spuštanje? Jeste.|Važno je da niko ne okleva
+na vratima. Ako neko zadržava|prolaz, gurni ga s leða.
+Nego, servisni lif, koliko|mu treba da se spusti?
+Ne znam. Oko 5 sekundi.|U redu. Zašto?
+Stajni trap spušten, zakrilca 20|Stajni trap spušten, zakrilca 20
+Bože...
+Džordž...
+Da? Kapetane, naprava se|aktivirala. Mislim da je Džordž
+mrtav. Stavio je napravu u|lift. Mislim da je u spremištu
+U redu. Pripravni za prisilno|sletanje.
+Spustiæemo se brzo i nimalo|nežno. Iskljuèite ventilaciju.
+Iskljuèena.
+Osoblje na donjoj palubi æe vas|usmeravati prema dva izlaza u
+prednjem delu aviona.|Sve naoèare, kravate...
+Proteze. Sve morate da skinete.
+Šta? Ovde Megi. Plin se|približava redovima sedišta.
+Koliko se brzo širi? Ne znam.|Možda imamo još dva minuta.
+U redu. Veæ smo zapoèeli|sa sletanjem.
+Dobro se držite.|Uskoro smo na zemlji.
+Još 50 stopa. Odluèi.|Sleæemo.
+Kontra potisnici.
+Dame i gospodo, krenite prema|prednjim izlazima.
+Krenite prema napred.|Ostanite smireni.
+U redu. Dame i gospodo,|možete li požuriti?
+Hoæeš li uspeti sa išèašenim|zglobom? Izaæi æu iz aviona,
+makar morao hodati na rukama.|Osloni se na mene, ako želiš.
+Ne. Samo idi prema vratima i|iskoèi. Ja stižem odmah za tobom
+Kreni!
+Na drugu stranu.|Nastavite da se kreæete!
+Skok!
+Kreæite se napred.
+Nastavite da se kreæete.|Požurite! Nemamo vremena.
+Megi, izlazi iz aviona. Idi.
+Kapetane?|To je nareðenje.
+Hajde, moraju da nastave.|Idemo, ljudi.
+Idemo. Hajde! Kim, moramo te|ljude izvuæi odavde. Hajde!
+Gdine., morate da izaðete. Skoèite.|Idemo, ljudi.
+Morate izaæi. Idemo, kreæite se|napred! Megi, kreni!
+Svi izaðite iz aviona. Idemo!
+Izvucite ih iz aviona.
+Idemo!
+Krenite!|Hajde.
+Idemo.
+To je to.|Svi su izašli iz aviona.
+Džon!
+Eni!
+Hvala Bogu.|Sve je u redu.
+Dobro ste?|Vreme je da krenemo.
+Džordž? Džon, treba|te Deni Gorlin.
+Kapetane, èestitam. Gledam te|na televiziji. Dobro sam.
+Avion je prazan. Svi su izašli.|Sumnjam da bi uspeli bez tebe.
+Veruj mi. Nego, baš gledam|svoj kalendar. Sledeæe nedelje
+Hoksi dolaze u grad. U redu.|Osiguraæu ti dobra sedišta.
+Na parketu. Nego, nešto mora,|da ti priznam. Šta?
+Malo sam pomešao imena.|Malone je promašio to slobodno
+bacanje. Znam. Ali, tako ti je|dobro išlo, da nisam hteo da te
+prekidam. Vidimo se u|subotu uveèe.
+Dobro obavljeno.|Idemo.

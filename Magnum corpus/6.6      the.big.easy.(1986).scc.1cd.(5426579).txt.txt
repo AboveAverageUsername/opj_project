@@ -1,0 +1,749 @@
+OPUŠTENI GRAD
+Scenario:
+Režija:
+Stanite! Izvinite, poruènièe.
+Dva ujutro u Nju Orlinsu, Big|Iziju. Èekaju nas uzbuðenja.
+Remi!
+Kako si, ortak?|Nikad ne ideš kuši.
+Tek kad muzika prestane, cher.
+Ko je telo?|Pokušaj da ga prepoznaš.
+Zdravo, Fredi. Fredi Anðelo,|masni gad. Radi za Di Motija.
+Uvozi meksièku robu za svoje.
+Nema rupa od metaka,|èaura, nema previše krvi.
+Ukokali su ga|negde drugde i doneli.
+Uzeli su otiske s novèanika.
+Nema vozaèke. Valjda su je|uzeli kao dokaz da je ubijen.
+Standardni masnjaèki postupak.
+Samo ako ga zaliju|betonom i bace u jezero.
+Ali, Fredi je ovde, usred|grada. Šta nam to govori?
+S obzirom na okolinu?|Neko nešto želi da poruèi.
+Cenjenom predsedniku|Italijansko-amerièke zadruge.
+Viniju Di Motiju|zvanom Top. Tako je.
+Ujutro ga pokupite kod brice|i dovedite ga na ispitivanje.
+Zdravo, Remi.|Kavano, kako si? Dobro.
+Kakve to gluposti|radite? Šta vam je?!
+Andre se toga setio.|Otkad je on partner s mozgom?
+Šta su sad uradili? Zaplenili|su èamac. Ceo dan su to radili!
+Šta da radim s njima?|Ubij ih. Hoæu!
+Ne, zabavni su za maskenbal.
+Ko je to? Pomoænica|okružnog tužioca En Ozborn.
+Lep vrat. Naredili su|nam da saraðujemo s njom.
+U timu je koji istražuje|korupciju u policiji.
+Molim? Odakle joj ta ideja?|Došla je zbog Anðela.
+Idem po pravu kafu.|Daj joj sve što treba.
+U dobrim je rukama, cher.
+Pardon. Dakle?
+En? Remi MekSvejn.
+Vaša olovka. Poruènièe? Remi.
+Poruènièe, zanima me šta|znate o Anðelovom ubistvu.
+Nije se još ni ukoèio.|Ali je mrtav. Bio je.
+Ništa ne znate? Još ne. Video|sam puno masnjaèkih ubistava.
+Otkrijemo zašto su ubijeni.|Nekad i ko je ubica.
+Ali nikad nemamo|dovoljno za optužbu.
+Nije bio u brijaènici, morali|smo kod njega. Uvedi ga.
+Hvala što ste došli, g. Di Moti.|A. Ozborn, Okružno tužilaštvo.
+Advokat æe me izvuæi za|5 minuta. Dotad nemam šta reæi.
+Zašto? Niste uhapšeni. Mekabejk|se ponašala kao da jeste?
+Izvini se g. Di Motiju.|Izvinite na nesporazumu.
+Slobodno možete da idete kad|god želite. Izvinjavamo se.
+Hteli smo da izrazimo sauèešæe|zbog Fredija. Koga? Anðela.
+Našli smo ga u fontani kod vas.|Radio je za mene. Strašno.
+Niko više|ne poštuje spomenike.
+Nije li 20 g. Radio|za vas, sve do smrti?
+Mogu li da idem?
+Tvoj me otac ne bi doveo. Da|treba, posetio bi me kod kuæe!
+Znao je nešto o poštovanju.
+Sklanjajte se! Zašto ste|tako ponizni prema njemu?
+Šta to znaèi? Da ste se|ulizivali mafijaškom voði!
+Da? Istaknuæu neke stvari.
+Prvo, niko ih više ne zove|mafijaši. Masnjaci su.
+Kažem vam to da se ne|osramotite. Zapamtiæu.
+Još nešto? Volite|li zaèinjenu hranu?
+Idemo na veèeru. Znam cajunski|restoran... Polako, Romeo.
+Što ste saznali ulizujuæi|mu se 2 min? Puno toga.
+Zaisa? Èitate misli?|Èitam ljude.
+Mislim da znam zašto je Fredi|sinoæ otišao Bogu na ispovest.
+Znate i ko ga je ubio? Ne.
+Ali sigurno æemo njegovo telo|uskoro naæi u jezeru. I?
+Ništa. Rekao sam da nikad|nemamo dovoljno za optužbu.
+Samo me jedno spreèava da rešim|sluèaj. Šta? Za veèerom.
+Ne moramo da èekamo.
+Neprijatno mi je. -Zato je super|biti policajac. Pit, kako si?
+Doðite, ogladnimo|malo. Zdravo, Remi.
+Došli smo zbog posla. Uz|posao malo zadovoljstva. Što ne?
+Ne mogu. Èekajte malo.|U vašem kraju ljudi ne plešu?
+Jedva da razgovaraju. Ovo je|Big Izi, opušteni grad.
+Osetite muziku.
+Tako, ch01 È00re.
+Mamin je otac bio pravi Cajun.|Roðen i umro u moèvari Luiziane.
+Nisu li vaši bili policajci?|Tatini. On je bio prvi.
+Za njim trojica braæe,|sin i èetvorica neæaka.
+Roðak Teri je vatrogasac.|Crna ovca u porodici.
+Najmlaði ste poruènik u Nju|Orlinsu. Kad su mi svi roðaci.
+Pazite kome to govorite. Da.
+Vi optužujete policajce,|to vam je posao.
+Ne stidim se što korumpirane|policajce šaljem u zatvor.
+Recite vi meni nešto o svom|životu. Nije tako slikovit.
+Želite li znati zašto ne mogu|da rešim Anðelovo ubistvo?
+Zato sam ovde. Zbog vas.
+Molim vas. Da. Zbog vas.
+Evo zašto.
+Zašto bi tužitelja u posebnom|timu zanimalo ovo ubistvo?
+Masnjaèko ubojstvo.|Svejedno. Dakle?
+Možemo istraživati šta želimo.|Ima li veze s korupcijom?
+Ne komentarišem. Imate li|dokaze? Ni to ne komentarišem.
+Kako si? Kako vam|se sviðaju bamije?
+Remijeva pratetka Emelin|nauèila me je to da kuvam.
+Emelinino je varivo gušæe.
+Pazi, neæeš dobiti desert. Imamo|cajunski kus-kus i dobas.
+Ne, hvala. Moram rano ustati.|Donesi raèun, molim te.
+Molim? Želim raèun, Pol.
+Remi je poludeo. Zna da ovde|ne plaæa. Onda ga dajte meni.
+En je iz Okružnog|tužilaštva. Ma, stvarno?
+Tražiš raèun? Sve vreme je tu.
+Ne vidite ništa loše u tome?|Ne. To su beneficije.
+Ali restoran oèekuje zaštitu.
+I previd kršenja|sanitarnih standarda.
+Da poštujemo standarde, ni|jedan restoran ne bi radio.
+Branite organizovanu korupciju?|Ne. U Nju Orlinsu smo.
+Ljudi na svoj naèin|zahvaljuju. Zaista?
+Kako? Dobijate besplatne odore?|Naèelnik Pol deli koverte?
+Imate prisluškivaè?
+Ozbiljno. Koliko daleko to ide?|Zar je sve na prodaju?
+Koliko košta izbegavanje|hapšenja za ubistvo?
+To mislite o policajcima?
+Trebali bi da razmotrite svoje|mišljenje. Vi mi ne pomažete.
+Veoma ste brzo prekršili mnogo|zakona. Neka. Jednostavno je.
+Postoje pozitivci i negativci.|Vi ste pozitivci? Jesmo.
+Mi vas jedini štitimo od njih.
+Ostavite me tu na uglu.
+Nisam naivna. Sistem mi je|poznat. Ali se može menjati.
+Vi æete to uèiniti?|Ne okreæite stvar na šalu.
+Tu stanujete? Malo|niže. Moram u kupovinu.
+Prièekaæu vas i odvesti|kuæi. Radije æu prošetati.
+Praviæu vam društvo. Ne.|Hvala na informativnoj veèeri.
+Stanite! Torbica!
+Bežimo, brzo! Pomozite!
+Policija!
+Nemoj da uprskaš stvar!
+Lice na pod, smesta!|Ostanite malo dole.
+Policajac ste? Hvala Bogu što|naiðoste. Baš sam digla platu.
+Pozornik æe zapisati izjavu.
+Nisam luda! Neæu da|rizikujem. Ne želim policiju.
+Uskoro æe po vas|doæi policijski auto.
+Ako pipnete moj auto,|ako ostavite otiske na laku,
+ubiæe boga u vama!
+Razumete li prava koja sam|vam objasnio? Razumemo!
+Dobro što|ne odustajem lako, ha?
+Otišli smo kod Lavern Vilijams|ubola je muža prošle nedelje.
+Muž vam je umro, to je sad|ubistvo. Znaš šta je rekla?
+Taj gad! I ranije sam ga|nožem pa nikad nije umro!
+Ubistva, Meksvejn.|Dobar dan, poruènièe.
+Anðelo. Profesionalnost. Sukob|interesa. Baš mislim na vas.
+Jeste li nešto saznali?|Ništa. Ne istražujete to?
+Istražujem trovanje naslednice,|davljenje transvestita
+i sumnjivo gušenje. Fredi|mora da Èeka da doðe na red.
+To treba da je prioritet. Kad|mogu da vidim izveštaj?
+Nevilovi sviraju u Tipitini.|Mogu vam ga predati tamo.
+Zadržimo profesionalan odnos.
+Zašto? Sinoæ smo|se dobro zabavili.
+Nije vam se svidela muzika?|Muzika je bila prijatna.
+Nije vam se svideo rak?|Hrana je bila ukusna.
+Zaboravimo to sinoæ. Moguænost|sukoba interesa prevelika je.
+Zašto? Istražujete mene,|ch01 È00re? Naravno da ne.
+Onda æu doæi po vas u 20 h.|Nemojte, molim vas.
+Pošaljite mi izveštaj na|posao. Hvala, poruènièe.
+Eni! Šta vi tu radite?
+Šta to radite?|Imam veliku picu.
+Kobasice, više sira.
+Sklanjajte auto! Ne možete|manipulisati mnome. Izveštaj?
+Evo ga. Gde je? Ispod pice.
+Morate je pojesti da doðete|do njega. Uði u auto, curo!
+Dobar izveštaj. Fino! Znaèi|li to da možemo u Tipitinu?
+Ne. Imam nekoliko pitanja.
+Anðelo je ubijen hicem s višeg|položaja pištoljem MAC 10.
+Krijumèari droge? Možda. I|mlaði masnjaci imaju to oružje
+Našli ste njegov auto u Ulici|Èoupitalas. Èoupitulas.
+Niste našli dokaze o zloèinu?|Nismo. Ali jedno ne piše.
+Anðelov auto je parkiran preko|puta skladišta Karmina Tandina.
+On je mafijaški ubica,|radi za našeg prijatelja.
+Vinija Di Motija zvanog Top.|Sutra æu proveriti skladište.
+Zašto to ne piše? Znate da|ne smemo da zakljuèujemo.
+Da neko pita, koji|biste zakljuèak izvukli?
+Fredi je unosio heroin.|Tandinovo je skladište uz reku
+Heroin nekad stiže|rekom. Sami zakljuèite.
+Šta je? Upeèatljivo.
+Šta? Oèigledno ste puno|razmišljali o tome.
+Temeljni ste. Baš vam hvala.
+Mislili ste da ne znam posao?|Ne. Što sam vam antipatièan?
+Niste.|Zašto mi onda ne verujete?
+Mislite da sam loš, bešæutan,
+nepošten, pokvaren|i korumpiran policajac.
+To mislite o meni? Ne.|Verujem vam, zaista.
+Izvini,|nisam baš vešta u tome.
+Ne mogu. Prenapeta sam.|Ne mogu da se opustim.
+Užasno mi je neprijatno.|Ne treba da ti bude.
+Opusti se, mila.|Ovo je Big Izi.
+Ljudi ovde stvari rade na|svoj naèin. Primetila sam.
+Nemoj. Šta? To.
+Šta? To. Šta? Ovo? Ili ovo?
+Tvoj ili moj? Moj.
+Doðavola!
+Meksvejn. Nadam se|da imate dobar razlog.
+Polako. Odmah stižem.
+Doðavola! Šta je?
+Trostruko ubistvo|u Storivilu. Žao mi je.
+Stvarno mi je žao.|Nema problema.
+Nikad nemam previše sreæe sa|seksom. -Sreæa æe se promeniti.
+Oho! Vidiš?
+Koliko se zadržiš|zbog ubistva? Bar dva sata.
+Vrati se.
+Sigurno? Sigurno.
+Razgovaraæemo o|Anðelovom ubistvu. Može.
+Holivudski zavodnièe,|nazovi mamu.
+Nisi je zvao ceo dan. Kad|æeš je oženiti?
+Ne želi da se uda dok ne odem|u penziju. Naèekaæe se.
+Šta je ovo? Maskenbal?|Šta se dogaða?
+Kruže glasine da su ubice bile|u policijskom autu. Divota!
+Ne gledajte nas,|vi ste ih ubili!
+Da ga okrenem? Samo daj.
+Džamal Vašington.
+Džek! Sve pod kontrolom? Da.|Buna se pretvorila u zabavu.
+Obožavam ovaj grad!
+Seæaš li se gðice Osborn?|Drago mi je da vas opet vidim
+Ovo zanima Tužilaštvo zbog|navodne umešanosti policajaca.
+Verujete svim glasinama?|Imate li neke dokaze?
+Dvojica belaca su osumnjièeni.|Osumnjièeni, ne policajci.
+Imamo i jednu|nepotkrepljenu glasinu.
+Znaš nešto o žrtvama? Znam.
+Nemojte to da gledate.|Ostao je bez lica.
+Identifikovaæemo ga|pomoæu otisaka. Treæi je
+jedan od braæe Noblije. Dosta-|vljaè D. Mentiona. Ko je to?
+Vodi crnaèki posao s drogom|ovde. A Vini Top belaèki.
+Zašto mislite da ubice nisu|policajci? Ostali bi ovde.
+Našli bismo podmetnute dokaze|da su se opirali hapšenju.
+Svaki policajac zna|to da izvede. Verujem.
+Vi verojatno znate da kupite|porotnika. Iako sigurno niste.
+Remi! Vidi šta sam našao.
+Oko jednan kilogram,|rekao bih. Bravo, Dodž.
+Dodajmo svima, neka|i oni ostave otiske na tome.
+Šta je to? Heroin. Meksièki.
+Neko je upotrebio|saèmarice. Verovatno Tandino.
+Karmin Tandino, Vinijev|ubica. Ubija saèmaricama.
+Zato sosa od paradajza|ima svuda.
+Preuzmi, odvešæu|gðicu Ozborn kuæi. Hvala.
+Pazite gde stajete.
+Nisu li divan par?
+Idemo u moj stan. Bliže je.
+Èovek se nakon|nekog vremena navikne.
+Svima je prvi put zlo.|Nije sramota. Prestaæe.
+Reci ako misliš da povratiš|da stanem. Ne mislim.
+Misliš da ih je Tandino ubio?|I u WC-u govoriš o poslu?
+Da, mislim da ih je on ubio.|Znaèi, oni su ubili Anðela.
+Opet imaš pravo. Kako|to utièe na tvoju teoriju?
+Ubili su Anðela da Viniju kažu|da se skloni. Menšn poruèuje.
+Sad to više nisu obièna|masnjaèka ubistva. Nisu.
+Šta to treba da znaèi? Da li|Tandino jedini ima saèmaricu?
+Jedan od retkih|koji tako zaraðuje.
+Policija nema veze s tim?|Ne rade takve stvari. Niko.
+Ljudi uvek policiju optužuju|za sve. Kako onda objašnjavaš...
+Kako si?
+Tebe sve to nikad ne pogaða?|Mene? Meci se odbijaju o mene.
+Nikad se ne bojiš?
+Neprestano.
+Pazi na aligatora!
+Ko si ti? Bobi, Remijev|brat. Prepala si me!
+Odakle si se stvorio? Spavao|sam. Zaboga! Izvinjavam se.
+Izvini ako ti je neprijatno.
+Otišao sam po doruèak.
+Izvini, kasnim na|sastanak. Odvešæu te.
+Idem taksijem. Jesi li upoznala|moga brata? Jesam. Šta je?
+Šta je za doruèak?
+Ti!
+Prestravio si me! Ne možeš|bez kucanja na saslušanje.
+Gde su svedoci iz Storivila?
+Èujem da ste sinoæ nešto|videli kad su ubili onu trojicu.
+Da ste videli policijski|auto. Gledali smo TV.
+Ništa nismo videli.
+Andre, uzmi izjave.|Budite dobri prema Andreu.
+Niste ništa videli, kuæi|ste gledali TV? Je li tako?
+Vadi me, mrzim ovaj posao!|Znam. Ide ti unapreðenje.
+Pogledaj šta je onaj koji je|ostao bez lica imao u džepu.
+Anðelovu vozaèku. Znao|sam da su oni ubili Fredija.
+Kad je otišao? Sigurno?
+Tandino ima èvrst alibi. Celo|veèe je bio u Moski.
+Ima dvanaest svedoka.|Znaš ko je vlasnik Moske.
+Tandinov neæak. Tamo svi imaju|alibi. Razgovaraæu s Karminom.
+En Ozborn je zvala.|Da joj kažem da nisi tu?
+Nemoj, javiæu joj se. Mogu|reæi da te nema. Javiæu se.
+Još nemam izveštaj|veštaka. Ne zovem zato.
+Žao mi je|što sam jutros pobegla.
+I meni. Zbunjena sam.|Ne budi zbunjena.
+Ne dogaða mi se to što mi|se sinoæ dogodilo. Ni meni.
+Molim te. Stvarno!
+Predobro mi je poznat tvoj|ugled da bih ti poverovala.
+Izaði, molim te.
+En Ozborn. Vodim te na ruèak.
+Pogledaj me u oèi i reci|veruješ li mi. Ne mogu.
+Super. Rezervisa æu|u Antoanu u 13 h.
+Šta je htela? En?
+Svi je se boje ko ðavola,|a on je zove En.
+Mislim da joj je Anðelo fora|za njuškanje oko našeg Fonda...
+Fonda za udovice|i siroèad. Ne brini se.
+Remi je vrti oko maloga|prsta. Kad smo kod toga...
+U èemu je problem? Primio sam|poziv iz bara Šo u Burbonu
+Novi vlasnik ima problema,|želi da razgovara s tobom.
+Imam laringitis. Želi nekog s|visokim èinom.
+Ne gledajte mene. Moram|da razgovaram s Tandinom.
+Za udovice i siroèad. Obaviæeš|to za 5 min. Usput ti je.
+Dobro. Ali biæete mi dužni.
+Tražim|Džordža Džoela. Ja sam.
+Mama te treba. Hteli ste da|razgovarate? S natporuènikom.
+Samo malo. Vratite se.|Nisam hteo da vas uvredim.
+Svaki dan dolazi drugi pandur,|traži lovu. Ne mogu da radim.
+Pošaljite meni one koji|vas gnjave. Rado æu platiti.
+Jednom, jedanput meseèno.|Ne polovini policajaca u gradu.
+Bez brige, ja æu to rešiti.|Evo broja na kom sam uvek.
+Znao sam da treba|s vama razgovarati.
+Šta je to? Želim da zahvalim.
+Imate prisluškivaè?! Stani!
+Unutrašnja|kontrola, stanite!
+Šta to žvaèe? Pljuni to!
+Žvaèi koliko hoæeš. Sve|smo snimili na video-traku.
+Gðice Ozborn, poziv.
+Ne mogu ni sat|vremena da budem van posla?!
+Molim?
+Molim?
+Èekajte. Moram da razgovaram|s njim. Oslobodite ga.
+Isuse! Što se|desilo? Zamka. Uhvatili su me.
+Ono o èemu je govorio Dodž.|Ja sam trebao da odem tamo.
+Snaæi æu se.
+Brani te|Lamar Parmentel. Lamar?
+Znam da te je stoput ponizio|na sudu, ali zna šta radi.
+Platiæemo mu|iz Fonda. Tiše malo!
+Brinemo se za svoje|ljude. Ne zaboravi to.
+Bez brige. Daæu vam broj|koji uvek možete nazvati.
+Optužba za mito je|sigurna. Ne znam.
+Na granici je namamljivanja.|Sudija to može da odbaci.
+Možda æe hteti nagodbu.|Ne treba je sad nuditi.
+Osudimo ga, onda|nudimo nagodbu.
+En, traži visoku|jamèevinu. Neka se brine.
+Ustanite.
+Ko su optuženi? Sedite.|Koje sluèajeve imamo?
+Tibodo? Dvojica.|Nepovezani sluèajevi.
+Sedite. Vratiæemo se|na obojicu. Vi ste mi poznati.
+Žao mi je što vas vidim,|poruènièe. Iznuda, mito.
+Imate li branitelja? Ja sam.|Odbijamo pripremu i krivicu.
+Tražimo najraniji moguæi|datum preliminarnog saslušanja.
+Najraniji datum|koji imam je 22.
+Svaki dan suspenzije nanosi|štetu ugledu mog klijenta.
+I istragama koje vodi.
+Dobro. Možemo vas ubaciti|prekosutra sucu Garisonu.
+Ako se optužba slaže.|Spremni smo.
+S obzirom na težinu optužbi,|tražimo kauciju od 50.000 $ .
+Optuženi je|jedanaest godina policajac.
+Èvrsto je vezan sa zajednicom.|Odreðujem kauciju od 500 $ .
+Dobro. Endrju Tibodo.
+Ta žena želi da vas uništi.|Mogao bih da se nagodim.
+Kako? Priznali bi nezakonito|prihvatanje naknade.
+Je li to prekršaj? Krivièno|delo. Tri meseca zatvora.
+Lamar, jedno krivièno|delo i letim s posla.
+Znam da budem samo policajac.|Remi, imaju snimak.
+Jeste li videli porotu dok|gleda takav snimak? Veruju.
+Lamar, ne mogu u zatvor.
+Izvolite? Zvao sam u vezi|sa snažnim magnetom.
+Evo ga. Imate li kvarcni sat?
+Magnet je tako snažan da ih|uništava. -Nemam vremena za to.
+183 $ . Znam. Izvolite.
+Zdravo, brate.|Ne prepoznaješ brata?
+Isuse! Noæ veštica|je tek u februaru.
+Zašto si se prerušio?|Maleni tajni zadatak.
+Zar nisi suspendovan?
+Ko ti je to rekao? Mama.
+Rekla je da su ti|podmetnuli. Slušaj.
+Teško mi je to da objasnim.|Ne moraš. Želim biti iskren.
+U ovom sluèaju...
+Podmetnuli su mi, ali primam|naknade na razne naèine...
+Od prvog dana na poslu. Znam.
+Znaš? Ko ti je rekao?
+Misliš da sam glup?|Niko mi nije morao reæi.
+Znam da si dao mami|novac za moje školovanje.
+Tvoja plata je premala za to.
+Drago mi je što ti|napokon mogu zahvaliti.
+Nisam hteo da to znaš.
+Seæam se, kad sam imao|šest ili sedam godina...
+Tražio sam|slatkiše u tatinom džepu.
+Našao sam|78 novèanica od 10 $ .
+Znao si za tatu?|Za tatu i sve roðake.
+Mislio sam da|se to podrazumeva.
+Ja nisam shvatao. Nisam znao|dok nisam postao policajac.
+Ozbiljno? Imao si 8 g. Kad je|umro. Trebao sam pitati tebe.
+Još nije kasno. Želiš li da|pitaš još nešto? O seksu?
+O drogi?
+Bio si sa ženama?
+Neæeš mamu upoznati s|advokatom? Lamar Parmentel.
+Slavna kraljica klana Meksvejn|Drago mi je što smo se upoznali.
+Znam sve o vama, Lamar.|Oslobodili ste guvernera.
+Dobro æete braniti|mog Remija. Dobro, mama.
+Znate za njegova odlièja, i da|je deèaka spasao od utapanja?
+Mama, sve zna. Sedimo.|Hej, gde se skrivaš?
+Ko je to? Tužitelj.|Nije li zgodna?
+Zaseda Okružni sud,|Teritorijalna jedinica A.
+Sudac J. Garison. Zatim? Džoel|optuženom daje beli koverat.
+Jasno sam to video. Šta je|optuženi uèinio? Uzeo ga je.
+S balkona niste mogli èuti|njihov razgovor. Nisam.
+Rekli ste da je bilo|400 $ . Pokažite nam taj novac.
+Optuženi ga je ispustio|u baru punom ljudi.
+Uzeli su novac, nismo sve|mogli da pretražimo. Hvala.
+Je li optuženi obeæao da vas|policija neæe gnjaviti?
+Ako platim. Šta bi|bilo da mu niste platili?
+Ako ne platim,|policija me zatvori.
+Jeste li bili hapšeni?|Svedok je trenutno optužen.
+Ne moram isticati da su|uzorni ljudi retko kad svedoci.
+Nije li taèno da æete reæi sve|da izbegnete zatvor? Jeste.
+Prigovor!|Ovaj, ne. Prihvata se.
+Kažete da ste tamo otišli na|sastanak s doušnikom. Tako je.
+Ako ste bili na dužnosti, zašto|ste bežali od kontrole?
+Nije se predstavio.|Mislio sam da je pljaèkaš.
+Bili ste naoružani? Jesam.|A bežali ste od pljaèkaša?
+Pokušao sam da zovem pomoæ,|to je pravilan postupak.
+Pravilan je postupak bio|i progutati koverat? Koji?
+Danas je policajac Krink rekao|da je video da uzimate koverat
+Jeste li to èuli? Jesam.
+Kolegu nazivate lažovom?|Ne, ali ne znam koji koverat.
+Koju vam je dao g. Džoel.|Sa osam novèanica od 50 $ .
+Prigovor! Tužitelj|zakljuèuje. Prihvata se.
+Novèanice koje ste bacili.|Koverat koji ste pojeli.
+Prigovor! Prihvata se.
+Nemam više pitanja.|Svedok je slobodan.
+Sutra æemo pustiti snimak|koja podupire izjave svedoka.
+I pobija|sve što je optuženi rekao.
+Dokazuje i da je|poèinio krivokletstvo.
+Sud ponovo zaseda sutra u 10.
+Noæ je. Mekabejka je.
+Neko je razneo Tandinovo|skladište. S njim unutra.
+Šališ se! Još jedno telo.|Možda možeš identifikovati.
+Stižem. Ne bi smeo. Zamenik|inspektora razgovara s TV-om.
+Želi da bude TVzvezda?|Doði u mrtvaènicu.
+Ovo je zemlja slobodnih ljudi.|Doæi æu na mesto za 15 min.
+A. Ozborn. Tandino je malopre|ubijen u skladištu u Treæoj.
+Mislio sam da æe te zanimati.
+Doði!
+Ipak si došao? Nema|me. Gde su tela? Ovde.
+Mislim da je ubica|uzrokovao požar da spali tela.
+Eksplodiralo je bure|razreðivaèa i ugasilo vatru.
+Kako si identifikovala Tandina?|Po staklenom oku. Bravo.
+Divna špekula, zar ne? Doði|malo. Ovog ne prepoznajemo.
+Verovatno se skrivao|kad su ubili Tandina.
+Poznajem ga. Tandinov stariji|brat. -Nisam znala da ima brata
+Jadnik je malouman.|Držali su ga kod kuæe.
+Malo je radio,|èistio je skladište.
+Sad ubijaju i maloumnike.|Zašto onda ti nisi mrtav?
+Ovde prave|stvari za... Pazite!
+Za karnevalsku povorku.
+Neki su...
+Sve u redu? Na koga|vas to podseæa?
+Sastoji se od 10 do 12 komada.|Pokazaæu vam ovaj.
+Kžad sam bio deèak... Èekajte!
+Gðice Ozborn,|sigurno to želite da vidite?
+Ma, šta on tu radi?|Šta on tu radi?
+Još bolje, šta vi tu radite?
+Da, šta vi tu radite?
+Dobila sam anonimni poziv.
+Išèupali su mu srce. Zašto?|Vudu. Dedi Menšn.
+Diler? I vudu-sveštenik.|Crna magija, amajlije.
+To je njegov stil.|Neprijateljevo srce snaži.
+Želite reæi da je Dedi|Menšn ubio Karmina Tandina.
+To se uklapa u teoriju da je T.|Ubio njegove. Rat zbog droge.
+Niste|zadovoljni time? Ne previše.
+Vidimo se|sutra na sudu, Meksvejn.
+Žene. Nikad zadovoljne.
+Mir u sudnici. Sedite.
+Šta je njoj? Neko je|izbrisao kljuèni dokaz.
+Stavio je magnet pored|njega u skladištu. Stvarno?
+Videotraka nije upotrebljiva?
+Nju Orlins je divan|grad za sluèajnosti.
+Buduæi da je kljuèni dokaz|na sumnjiv naèin uništen,
+optužba povlaèi navode|protiv poruènika Meksvejna.
+Optuženi je slobodan,|kaucija je poništena.
+Sud je završio s radom.
+Lamar, doðite.
+Rekao sam vam|da æu ga osloboditi.
+Gðica Ozborn? Ja sam. Poðite|sa mnom, molim vas. Gde?
+Ne mogu vam reæi. Je li|to nekakva šala? Nije, dušo.
+Jesam li uhapšena?|Za šta sam optužena?
+Neoprezno ste prešli put.|Prešli preko privatnog mosta.
+A ovo æu nazvati|opiranjem hapšenju.
+Jeste li vi možda roðak|Remija Meksvejna? Nisam.
+Slušajte strica Sosa. Uðite u|auto, lepotice. I mislila sam.
+Ti Cajuni bogami|znaju da se zabavljaju!
+Malo æu biti ozbiljan. Znate|da se život policajca sastoji
+od slabe plate, napornog rada,|opasnosti i malo zahvalnosti.
+Ali, nekad u neèemu uspemo.|Pravda prevlada. Doði, Remi.
+Dignite èaše.|Dignite i nos ako morate.
+Nazdravljam policiji Nju|Orlinsa! I vatrogascima!
+Dobro, i vatrogascima. Jedite.|Ispekli smo deset piliæa!
+Zloèinima dodajem i otmicu.|Nije te valjda prisilno doveo?
+Strièe Sos, izvini se.|Oprostite na nesporazumu.
+Mogu da idem?|Svakako. Kad god želiš.
+Gde je telefon? Na tremu.|Pokazaæu ti. Sama æu ga naæi.
+Ta je mala strašno ljuta.
+Odakle ona?
+Stvarno je drska.
+Bili ste sjajni u sudnici. I|ja bih to voleo. -Izgubila sam!
+Zašto je ona došla?|Naporna ženska.
+Dobro izgleda u kratkom.|Kad možete doæi? U redu.
+Rekli ste neke ružne stvari o|mom sinu u sudnici. Jesam.
+On je dobar èovek.|Mogao bi da bude bolji.
+Pomoæiæete mu oko toga?
+Namuèitæete se.
+Je li vas izvukao iz|kade? Ne, trèala sam.
+Trèala?
+Z vala si me ujutro,|zvala si me kasno noæu.
+Sad me više ne zoveš.
+Cele smo noæi|razgovarali telefonom.
+Ali, sad me više ne zoveš.
+Nazivala si me dragim.|Dragi, dragi moj.
+Ali, sad me više ne zoveš.
+O, zašto? Reci mi zašto.
+Zašto me više ne zoveš?
+Plešimo, hajde. Neæu.
+Sjajno plešem. Hajde.|Ne diraj me.
+Hajde, plešite s njim.
+Plešite svi!
+Pogledaj me.
+Jesi li zadovoljan?|Još se ljutiš?
+Ne razumeš, zar ne? Policajac|si. Ti treba da si zakon.
+Umesto toga savijaš ga,|izvræeš i prodaješ.
+Videla sam kako primaš mito,|bežiš, uništavaš dokaze, lažeš.
+Ne zaboravi da sam i prošao|kroz crveno. Još je smešno.
+Prihvati da više|nisi negativac.
+Drago mi je što si se vratio.
+Zamolio bih uslugu. -Samo reci.|Izašao bih iz Fonda.
+Hriste! Kako to misliš?|Tako, iskljuèite me.
+Udovicama i siroèadi|biæe dobro i bez mene.
+Ni sluèajno.
+Remi, pogledaj. Šta je to?
+Penzija? Napokon? Od 31. 12.|Najviši èin u Ubistvima.
+Ne verujem. Nije ni tvoja|majka. Venèaæete se?
+Za Novu godinu. Biæe mi|èast ako mi budeš kum.
+Svakako, mili!|Spusti me! Zdravo, tata.
+Šta je tako smešno? Dodž,|Mekejb, Foster. Kod mene.
+Dobro nam došao, Remi!
+Foster ima zanimljivu|teoriju o Anðelovom ubistvu.
+Sinoæ smo izvukli|dva tela iz kanala.
+Meksièki ribari. Puni olova.
+Iz Verakruza. Poznati|krijumèari. Veza s Anðelom?
+Carinici su ih prisluškivali.|Ko ih je zadnji zvao?
+Fredi Anðelo. Bio je tamo|tri dana pre ubistva.
+Trgovao je uvek s 20 do 30kg.|To objašnjava rat bandi.
+Bilo je èudno da se ubijaju|zbog jednog kilograma heroina.
+Ali 20-30 kg, to je veæ|logièno. Gde je ostatak?
+Je li neko razgovarao|s Dedijem Menšnom?
+Šta æe nam on reæi?|Uðite, ispod sudopere je.
+Ima li koga?! Nije važno ono|što kaže, nego ono što èujete.
+On je prvoosumnjièeni,|a niste ni razgovarali s njim?
+To je rat bandi. Menšn|želi Vinijev posao.
+Zvuèi dobro, ali ne verujem.|Zašto? Meni je to u redu.
+En Ozborn. Šta ona zna o|tome? Ne znam, ali nešto zna.
+Više nego vi!|Niste ništa radili!
+Oni rade naš posao.|Gadovi ubijaju gadove.
+Neka se poubijaju.|Policajci smo, naoružani smo.
+Trebali bi biti pozitivci.|Ja æu razgovarati s Menšom.
+Još ne znaš šta En Ozborn|zna? Gubiš sposobnosti.
+Treba da ste branitelj.|Upoznali bi neobiènije ljude.
+Svideæe vam se Mentšn. Doktor|biljnih napitaka i ušmrkavanja.
+Nemate skrupula. Postoji li|iko koga ne biste branili?
+Svaki èovek ima pravo|na najbolju moguæu odbranu.
+Tu ste. Mislio sam|da ste se izgubili.
+Zašto me Dedi Menšn|traži? To je moja ideja.
+Zanimaæe vas šta ima da kaže|o nedavnim ubistvima.
+Znao sam da ih istražujete.
+Dedi nas oèekuje.
+Ovo je mlada žena o kojoj|sam vam govorio. Vidi, vidi.
+A. Ozborn, D. Menšn. Kako|ste? Oprostite zbog leve.
+Sva su vaša?|21 dete i 14 unuka.
+Ozbiljno sam shvatio deo|iz Biblije o množenju.
+Nisam ništa drugo|èitao. Idite, deco.
+Tata ima poslovni|sastanak. Vidimo se posle.
+Divni ste. Hvala.|Preðimo na posao.
+G. Parmentel kaže da radite|na ubistvu onih Italijana.
+C. Tandina i F. Angela. I J.|Vašingtona, braæe Noblije.
+Navodno su radili za vas.|O tome želim da razgovaram.
+Policija nameæe prièu|o ratu izmeðu bandi.
+Verujete li u to? -Šta mislite?|Moji nisu ubili F. Anðela.
+Ni Tandina. Nisu mu izvadili|srce. Ko jeste? Ne znam.
+Ali, ubijaju i moje ljude.|Zašto niste rekli policiji?
+Dedi je imao loša iskustva s|njima. Traži vas policajac.
+Policajac? Samo trenutak.
+Hvala, sine.
+Nisam znao da|zastupate tog ljigavca.
+Zastupam samo ljigavce.|Zašto si došao?
+Tražim debelog. Možda ne želi|da razgovarate. Bliski ste?
+Mnogo toga ne znaš o meni.
+Ostanite tu!
+Da èujem tu veliku tajnu.|Kakve dokaze imaš o Anðelu?
+Poèinješ da misliš da su|policajci umešani? Zašto?
+To je bio neoznaèen auto.|Samo oni tako voze. Šta znaš?!
+Svedok je video kako|dvojica u takvom autu
+ostavljaju Anðelovo|telo na Piaci d'Italija.
+Kako znaju da je policijski?|Videli su radio i svetlo.
+Zašto si to krila od policije?|Jer su oni osumnjièeni.
+Bande ne ratuju, zar ne?
+Šta æeš preduzeti? Ne znam.
+Policija mi je porodica.|Ti ljudi su ubice.
+Šta da radim? Da postanem|doušnik u vlastitoj stanici?
+Ne. Imam bolju ideju.
+Doði.
+Moj roðak Frank. Stric Ernest.|Strica Sosa poznaješ. Pit.
+Hvala na pomoæi, momci.
+Strièe Sos, proveri svakog|ko ulazi ili izlazi. U redu.
+Šta se dogaða? Pitaj nju.
+Vi ste dežurni na ulazu? Ne,|kralj sam maski. Za vas.
+Molim?!
+Ženska ima nalog za pretres.
+Neverovatno!
+Ko ne bude saraðivao,|požaliæe što se rodio!
+Je li auto ošteæen? Dva dana|na parkingu. Kakva je šteta?
+Da sam znao,|poslao bih pozivnice.
+Je li to auto 17? Jeste.|Koji je vaš okrug? Sedam.
+Moram sve pretražiti. Izvadite|oružje. Vuèe Remija za nos.
+Za kitu. Više malo, Sos.|Ne diraj me, perverznjaèe!
+Sve.
+Andre se boji mraka.
+Ðavola, mraka.|Napolju je prava džungla.
+Ako to ne deluje,|popišam se na njih.
+Evo ga. To su kante.
+Nije ga niko|uzimao tri meseca.
+Nisi loša. Hvala.|Zaplenite ga, uzmite otiske.
+Moji su po celoj haubi.
+Hoæete da poèistite|i moju kuæu?
+Jesti ili raditi? Raditi.|Kod mene, kod tebe? Kod tebe.
+Tako mogu otiæi kad želim.
+Jesi li nešto otkrio?|Èudno izgledaš.
+Ne. To je od prženih|kamenica u jedan ujutro.
+Mogli bi da završimo.
+Koga zoveš? Taksi.
+Ostani tu. Spavaæu|na kauèu. Hvala, ali ne bih.
+Èekaj malo.
+Ionako æeš se vratiti|odmah ujutru.
+Neæu ništa|pokušavati, obeæavam.
+Hajde. Spavaj u krevetu.|Ne, hvala. Radije idem kuæi.
+Zar æeš se ceo|život ljutiti na mene?
+Možda.
+Trebaš li ti nešto? Ne.|Zaspaæu èim legnem.
+Ako ne mogu da imam tebe,|daj mi bar aligatora.
+Ni makac! Šta je sad?!
+Nedelja plašenja Bobija?|Dobiæu srèani udar!
+En spava u sobi,|budi tih. A ti si na kauèu?
+Pa šta? Gde æu ja spavati?
+Studenti vole|da spavaju na podu.
+Ne vole.
+Dobro jutro. 'Jutro.
+Remi, je li kafa|gotova? Zdravo, En.
+Nemamo više kafe. Kupi je.|Kiša lije. Uzmi moj baloner.
+Nemam novca. Evo ti.
+Odvezi se taksijem|najdalje što možeš.
+Pojedi obilan doruèak.
+Onda idi u bioskop i nazovi.
+Moramo da nastavimo|s poslom. Svakako.
+Šta je to?|Skloni se od prozora.
+Jesi li|nešto video? Zovi 911.
+Reci da su pucali na|ovoj adresi. Biæu na ulici.
+Policajac sam.
+Bobi!
+Ne!
+Zaboga! Bobi!
+Èvrsto stisni! Gde su?!
+Zovite bolnicu Èeriti.|Recite im da stižemo!
+Skloni se!
+Džek, pokušali su|da mi ubiju sina!
+Kako je?|Moramo da razgovaramo.
+Šta je, cher? Posao.
+Doði.
+Sinoæ sam pregledao naše|zapise. Neki su promenjeni.
+Podaci o vozilima, patrolama,|hapšenjima. Razlièiti odseci.
+Šta ti to govori? Samo neko s|visokim èinom ima pristup.
+Ja ili ti.
+Jesi li ti? Ko je ta osoba?
+Imaš li prisluškivaè?|Nemam. Sami smo.
+Samo porodica.
+Imaš prijatelja u carini, zar|ne? Imam. Šta se dogodilo?
+Saznao si za heroin? Hteo si|da opljaèkaš, preuzmeš posao.
+Bila je to dobra ideja. Rešili|smo se ološa za malo novca.
+Napali su mi brata! Mislili su|da sam ja. Imao je moj baloner.
+Misliš da ja imam veze|s tim? Ti si mi poput sina!
+Ne znam šta se dogodilo.|Neko se uspanièio. Ko?
+Otpoèetka si umešan, zar ne?
+F. Anðelo i Meksikanci. Da.|I Tandino i oni iz Storivila.
+I Dedi Menšn. Ološ!
+Gde je heroin? Da ti|kažem, ne bi mi verovao.
+Vredi više od 5 mil. Dolara.
+To je ogromna zarada.|Imaš pravo na svoj deo.
+Uzmi ga|i prestani da istražuješ.
+Nauèio si me mnogo toga tokom|rada. O dobru i zlu.
+Dobro je|prodavati heroin? I ubijati.
+Hteo sam karijeru da završim|sa stilom. Radio sam 30 godina.
+Tvomu tati nije bilo do toga.|Hteo je da trèi za ženama.
+I ulovio je najbolju. Želim|s njom da proverim veènost.
+Dirneš li je opet, ubiæu te!|Ne razgovaraj tako sa mnom.
+Sve æe biti u redu!
+Džek...
+Kelom ima|alibi za sva ubistva.
+Onda neko ubija za njega.
+Ne nagaðaæ|ko bi to mogao da bude?
+Ništa više ne znam, Eni.
+Bolnica Èeriti.|Intenzivnu negu, molim.
+Gðu Meksvejn, molim.
+Još ne verujem. Ni ja.
+Priznao mi je u lice.|Uvek nam je bio tako dobar.
+Brini se za Bobija.|Nazvaæu te. Zdravo, mama.
+Nešto moraš da znaš.
+Ja sam organizovao|da magnet stave u skladište.
+Kraj videotrake.
+Èovek mi je dugovao|uslugu. Unapredio si ga.
+I to si znala?
+Pre unapreðenja nosio sam|novac za Keloma. Sitne iznose.
+Èovek misli|da je sistem takav.
+Nije važno hoæeš li|uzeti koju stotku.
+Misliš da|zaslužuješ bolji život.
+Pošten život za to što|obavljaš prljav posao.
+Kažeš si da svejedno|možeš biti dobar policajac.
+Znam. Ali ne možeš.
+Èekaj. Možda bi to trebalo|razmotriti s druge strane.
+Kako su meksièki|krijumèari završili u kanalu?
+Doplutali su iz jezera|Pontèartren, valjda.
+Kako su onamo dospeli?|Verovatno ribarskim èamcem.
+Gde je taj èamac?
+Policijski dok
+Kako æemo ga naæi? Dodž|i De Soto zaplenili su èamac
+kad je ubijen Anðelo.|Oni su ubice? Ta dva klovna?
+Natporuènièe.
+Plaèete po našoj buduænosti.|Nemamo buduænost. Možda vi.
+Mi moramo stiæi na avion.|Moramo se rešiti ovoga.
+Spustite to i odlazite.
+Baciæemo to. Više vas ne|moramo slušati!
+Neæu ponavljati.|Isuse!
+Ostani tu.
+Džek!
+Remi, kako si?
+Baci pištolj na palubu.
+Popni se ovamo.
+Sve je bilo savršeno.|Morao si da nas ometeš.
+Postao si naš|neprijatelj. Nisam.
+Šta vam je?|Nismo li svi porodica?
+Ne možemo da se dogovorimo?|To je naš stari Remi!
+Dakle?|Šta kažete? Priznajte.
+Moram priznati,|dobro ste sve to izveli.
+Genijalno, zaista.
+Kakvo to mišljenje|imaš o nama? Vrlo loše!
+Vidiš li ih? Ništa ne vidim.
+Jednom moraju|da izrone po vazduh.
+Gadura je ovde! Doði.
+Šta je to? Na drugom èamcu!
+Doðavola!
+Sad su gotovi! Na Tahiti æemo!
+Andre!
+Remi?
+Jesi li dobro?
+Isuse, eksplodiraæe! Beži!

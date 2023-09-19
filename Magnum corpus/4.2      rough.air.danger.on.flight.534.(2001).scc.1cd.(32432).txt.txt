@@ -1,0 +1,717 @@
+U glavnoj ulozi:
+0PASN0ST NA LETU 534
+Uloge:
+Airjet 1-10. Toèkovi vamjoš|nisu izvuèeni do kraja.
+Zaokružite. -Kapetane, signalna|svetla nisu u redu.
+Levi toèak nije izvuèen.|Ne možemo da sletimo.
+Nemamo izbora. Nemamo goriva za|obilaženje niti za skretanje.
+Jeste li za kafu? -Ne hvala.|-Arch Davis. 0perativa Airjeta.
+Arch. Kako ste? -Nisam vas dugo|video. Dobro ste? -Jesam.
+Na odmoru? -Slièno. Kružim|Evropom na par nedelja.
+Ponovo letite?|-Ne.
+Èekam na let 206. -Koliko znam,|taj avion,jejoš u Rimu.
+Let 543 kasni 2 sata. Moraju da|zamene kompjuterski èip.
+1 32 vrlo ljuta i gladna putnika|žele da se ukrcaju u taj avion.
+Žalim, Arch. -lmajoš. Airjetje|otpustio ljude iz prodaje.
+Ovde u Londonu. Svi se boje da|im sledi otkaz.
+0prosti, nisam hteo da tako|zvuèi. -U redu je, Arch.
+Moram proveriti spisak putnika|radi carine. Vidimo se. -Može.
+Vidimo se kasnije.
+Dušo? Kerry?
+Pomozi mi s ovim. -Mogu li vam|to smestiti? -Da, hvala vam.
+Izvinite?
+Scenario:http://livada.averi.hr
+Redatelj:http://livada.averi.hr
+Pazite kuda hodate.|Zdravo. -Zdravo.
+Vašu kartu, molim?
+Vaše mesto je tamo.
+Nisu li to Airjetovi najnoviji|mladenci. -Zdravo, Tracey.
+Susan, Tracey.|-Zdravo.
+Ovo je Margo. To joj je prvi|meðunarodni noèni let.
+Èestitam. -Hvala. Videti Boston|izgleda mi užasno zanimljivim.
+Sve ide kako treba? -Pokušavamo|da zadovoljimo sve, što nije lako.
+Nakon poletanja, možete da sednete|napred. Nemamo mnogo putnika.
+U redu je. Bièe nam i ovde|dobro. -Da, naravno.
+Javite mi, ako vam nešto zatreba.|-Naravno da hoèemo.
+Vašu kartu, molim?
+Zdravo. Mogu li videti vaše|karte? -Naravno.
+Pravo napred pa levo.
+Izvinite.
+Vi ste Ty Connor. Igraèete|fudbal u SAD-u ove godine?
+Ne znam. Steve? -Radimo na tome.|-Želite li da promenite mesta?
+Ekonomska klasa nije tako loša.|Ima puno kikirikija.
+Radije ne, bez obzira koliko to|privlaèno zvuèi. Tako sam i mislio.
+Ty. Najbolji si.
+Stari, strašan si. Zaista.|-Još te se seèaju.
+lako te nije bilo 3 godine.|-Možda. Ameri ne vole fudbal.
+Kad završim, fudbal èe im biti|važniji od bejzbola.
+Naèi èu ti strašne sponzore.|Stvarno. -Veèe od bejzbola?
+Puno veèe.
+Stjuardeso?
+Ovo su vaša mesta prve|klase? -Da, gospodine.
+´´Gulfstream´´ moje kompanije ima|veèa mesta.
+Ovo su najbolja mesta. Veèina|ljudije prilièno zadovoljna.
+Sve u redu, g.Matthews? -Ne baš.|Kasnimo 2 sata. Ko ste vi?
+Katy Phillips. Šefica osoblja na|ovom letu. Kako vam mogu pomoèi?
+Nisam navikao da slušam šale od|stjuardesa. -Strašno mije žao.
+Sigurno nije tako mislila. Kako|vas možemo bolje uslužiti?
+Katy, rado bih pièe.|Viski sa vodom.
+Treba da poletimo, ali èu|pokušati da vas uslužim.
+Uzgred, sad se nazivamo letaèko|osoblje. 0slovljavajte nas tako.
+Sigurno èe i usluga biti brža.|Uživajte u letu.
+Ovome stoèiè nije u uspravnom|i zakljuèanom položaju.
+Budi ljubazna. Ovi ljudi su|umorni i ljuti zbog èekanja.
+I ne pokušavaj s trikom ´´Prolila|sam vino´´ s ovim tipom, može?
+Mislila sam da po njemu prospem|špagete sa sosom.
+Poslednji poziv za ukrcavanje|za let 534 za Boston.
+Možeš li ovo da daš našem|novom prijatelju?
+Pazi na glavu.
+Zdravo. -Detektiv Muldoon. Ja sam|Katy Phillips.
+Za vasje odvojeno par odeljaka|pozadi, tako da imate prostora.
+Mislila sam da èete hteti da budete|odvojeni od ostalih putnika.
+Da, hvala vam.|-Poðite za mnom.
+Samo malo! -G.Matthews, molim|vas da se vratite na mesto.
+Taj èovjekje ubica. Neèu da|putujem s njim. -Sedite.
+Ubio je ženu i partnera. Neèu|da letim s njim.
+Kako je, ubico? -Udaljite se,|gdine. -Morate...Prestanite!
+Hej! Smirite se!
+Makni se. Sedi.
+Blyth, opusti se. Ovo èe biti|dug let,jasno?
+Pozadije na podu uèvršèen|prsten. Mogu da te privežem za to.
+Dobro? Hajde,idemo. -G.Matthews,|možete da izaðete iz aviona.
+Ako želite, sutra imamo|drugi let.
+Videli ste šta mije uradio?|Jeste li?
+Danas si odmah kriminalac ako se|voziš u prvoj klasi.
+Doðavola.
+Èoveèe.
+Dame i gospodo. Imam podatke|sa kontrolnog tornja.
+Boston želi da nas zadrži|ovdejoš neko vreme.
+Iznad Atlantikaje oluja koja|uzrokuje kašnjenje letova u SAD.
+Baš lepo.
+Katy... -Kapetan Ferguson. To|više nije naš problem.
+Naša smena prestaje.|Uživaj u letu. -Hvala.
+Prema pravilima ova posada ne|sme da leti van svoje smene.
+Ukratko, moramo da nabavimo|novu posadu.
+Ovo nije Boston. Nemamo|spremnu posadu.
+Ne mogu za tako kratko vreme|da samo nazovem drugu ekipu.
+Našao sam kapetana. Treba mijoš|samo prvi oficir. Èekajte.
+Mislim da imam rešenje.|Potrebno mije odobrenje.
+Želite li da ovaj avion veèeras|bude u Bostonu, probudite gazde.
+Radi se o Mike Hoganu.|Da, baš tom Hoganu.
+Neèe da se zatvori.
+Izvinite.|-Mogu li vam pomoèi?
+Da. Imate lijoš ovih divnih|kikirikija? -Mislim da imam.
+Moraèete da sednete. -Sve za vas.|-Pripazite se.
+Još èe vam reèi kako studira|za lekara.
+Sedite.|-Hvala.
+Želite da budem prvi oficir?|-lmamo odobrenje.
+Ja sam suspendovan. -Sada imaš|nove naredbe. Znam za istragu.
+Sreèom, niko nije bio ozbiljno|povreðen. Ovo tije prilika.
+Jesi li spreman da se vratiš na|posao, Mike?
+Misliš da èu to postièi ovim|poslom? -I to je poèetak.
+Malo po malo. Samo tebe imamo.|-Žalosno. Ko je kapetan?
+Jack Brooks. -Nikad èuo. -lma|veza do vrha kompanije.
+I zna dobro pozirati.|-0nda, šta kažeš?
+Vraèaš se kao putnik ili kao|pilot? Hajde,da ti naðemo uniformu.
+Stižem, Jack.
+VRATATERETN0G PR0ST0RA
+Kapetane Hogan, kako ste danas?|-Dobro, hvala.
+Prijatan let.|-Hvala puno.
+Mike Hogan.
+Sedite.|-Hvala.
+Kasnimo satima, Hogane. Želim|da nadoknadim barem sat vremena.
+To je prilièno vremena. -Ne ako|su piloti dobri.
+Ne bih preporuèio forsiranje.|-Da se razumemo, Hogane.
+Èitao sam o tvom prinudnom|sletanju prošlog proleèa.
+Znam da si suspendovan.|Ja pilotiram bez greške.
+Ova kompanija ima najmanje|kašnjenja u istoriji letova.
+Uèini kako ti kažem i sve|èe biti u redu.
+Jasno?|-Jeste.
+Dobro.
+Završi s pripremama. Zovi me kad|dobiješ odobrenje za polazak.
+Razumeo.|Šta meni ovo treba?
+´Veèe.|-Zdravo, kapetane.
+Ima li kafe? -Naravno. Kakvu|pijete? -Sa šeèerom i šlagom.
+Ima li koga zanimljivog u prvoj|klasi? -Fudbaler s agentom.
+Neki bogataš èiji ´´Gilfstream´´|je na popravku. -Kako se zove?
+Cal Matthews. -Poseduje avion|´´Gulfstream´´? -Njegova kompanija.
+A pozadi? -Uglavnom turisti.|Detektiv s internet ubicom.
+Znate, tip kojije ubio ženu?|Smestila sam ih podalje.
+Zatimjedan naš mehanièar sa tek|venèanom ženom.
+U sluèaju da nešto poðe po zlu.|-Na mojim letovimaje sve u redu
+Hvala vam.
+Šta znate o mom ko-pilotu,|Mike Hoganu?
+Rekao sam nešto loše? -Ne.|-0n ne pripada nama.
+Takvi tipovi nam samo kvare|prosek.
+Kapetane, putnici su poprilièno|ljuti. Možda da ih pozdravite?
+Da, naravno.
+Hvala ti.
+Popravi malo kosu.|Tako. Savršeno.
+Letela sam s njim od Londona|do New Yorka. Kompanijin èovjek.
+Ne vjeruj mu. Jesi li dobro?|-Jesam. -Nabacivao ti se?
+To èesto èini. -Nije.
+Znam da se brinem sama|o sebi.
+G. Matthews? Kapetan Jack|Brooks.
+Dovešèu vas u Boston na|vreme. -Zaista?
+Da, vozi vas Airjetov pilot|meseca. -To mi se veè sviða.
+Hvala vam.|Treba li vam nešto?
+Nema problema. Samo trenutak.
+Može lijedna od vas da usluži|g. Matthewsa?
+Pomogla bih mu...|Izbaciti ga iz aviona.
+Uživajte u letu. Tekstje dobar.|Gospodo? Kapetan Jack Brooks.
+Ty Connor. -Drago mije.|-Kako ste?
+Izvinjenje zbog kašnjenja.|Nadoknadièemo to vreme.
+Zvuèi dobro. -Baš.|-Gðice? -Tracey Nicholes.
+U redu. Tracey.
+Pobrinite se da ta gospoda|dobiju sve što žele.
+Naravno, kapetane. -U redu.|Uživajte u letu.
+Airjet 534, krenite prema pisti|1-0 desno, èekajte poletanje.
+Kapetane, radim za|Airjet. Hteo bih...
+Kapetan Brooks. -lmamo|odobrenje. 0dlièno.
+Sve spremno.
+Štaje to bilo? -0dlazite|nedovršenog posla, momci?
+0prostite, 534.
+Trebalo bi to da se proveri.|-Znaci upozorenja? -Ne.
+Imamo sat vremena da nadoknadimo|Hogane. Verujem u instrumente.
+Kompjuterski smo povezani.|Krenimo dok nas ne zaustave.
+EPR.|-0dmah.
+100.|-Razumeo.
+V-jedan. Rotira.
+Poveèavam brzinu.|-Uvuci stajni trap.
+Ovaj deo najviše mrzim.|-Poletanje i uspinjanje?
+Da. 0bièno se u ovom trenutku|dogaðaju problemi.
+Menije veè krenulo loše.|-Kako to misliš?
+Mike Hogan je prvi oficir.
+Izgleda da èe ovo biti|krivudav let.
+Super. Imamo sastanak sa|Reebokom. Prekosutra.
+Zadivièeš ih!
+Baš ne voliš da letiš?|-Ne.
+Ti? -Uzmem par sedativa i sve|mije lepo na 30.000 stopa.
+Toranj javlja da èe let biti|malo naporan za putnike.
+Da ih obavestimo?|-Ja èu.
+Dobr veèe, ovde kapetan|Jack Brooks.
+Zadovoljstvo mije da vas|pozdravim na letu 534 za Boston.
+Izvinjavamo se zbog kašnjenja.|Let èe biti malo naporan.
+0stanite na mestima i vežite|se. Èim proðemo turbulencije...
+Letaèko osoblje èe poslužiti|hranu i pièe. Hvala vam.
+Štaje to bilo?|-Ništa. Ne brini.
+Gubimo pritisak.|-Gde?
+Prestalo je. Pokrenuèu|ispitivanje pritiska.
+Ništa. -Dobro.
+Kad se popnemo na 33.000 stopa,|možda nadoknadimo taj sat.
+Misliš daje to dobra ideja?
+Ja sam kapetan.
+Ti si prvi oficir. -Da.
+Da.
+Bojite se letenja? -Da. Znam za|puno lepših stvari od toga.
+Ne bih se brinuo. Desi li se|šta, svi èemo stradati. -Znam.
+Ali, ti nemaš šta da izgubiš.|Mene èekajoš èitav život.
+Baš.
+Koliko si dugo pilot, Hogane?|-1 6 godina.
+Najdraži avion?|-Lockheed Tristar.
+Zastarelo. Šta misliš o ovim|kompjuterski navoðenim avionima?
+U redu su. Sve dokje|kompjuter u redu.
+To se uvežba na treninzima.|-Samo kako da se upravlja.
+Ne uèe te šta ako se nešto|pokvari ili poðe po zlu.
+Kod starih aviona si|barem imao nekakve šanse.
+Moraš da prihvatiš tehnologiju.|Inaèe te neèe biti.
+Valjda si u pravu.
+Momcima bi dobro došla kafa.|Hoèeš li da imje odneseš?
+Radije bih da mi èiste zubne|kanale.
+Ne možeš da se skrivaš 6 sati.|Avion nije baš tako veliki.
+Airjet 534,ja sam prvi oficir|Mike Hogan. -Dugo te nisam èuo.
+Kreèemo smerom 3-0-0. Kakvaje|prognoza? -0luja sa Grenlanda.
+Zahvatièe vas pre nego što|dosegnete kopno.
+Noè bez meseèine, tamnije nego|krèmarevo srce.
+Shanwick se iskljuèuje. -Drži|avion na kursu. -U redu.
+Ja èu malo da se odmorim.
+Ne želim da zaspiš.|-Hvala ti.
+Nisam znao da si na ovom letu.|-Nisam nija za tebe.
+Kako si? Dugo se nismo videli.|-Gotovo godinu. -Da.
+Ja sam dobro. Kako si ti? -Bio|sam i bolje i gore.
+Šta znaš o našem kapetanu,|naduvenku?
+Pripazi se. -Znam. To sam veè|sam shvatio.
+Uvek sijedan korak ispred,|zar ne? Moram da se vratim.
+Katy?
+Jesi li preživela? -Jedva.|-Štaje stvarno bilo s njim?
+Znam daje sleteo bez toèkova i|umalo uništio avion, ali...
+Službeno je optužen jerje|spustio avion.
+Trebalo je da sleti na drugi|aerodrom. -A neslužbeno?
+Žrtvovan jejerje kompanija htela|da uštedi na rezervi goriva.
+Nije imao dovoljno goriva do|drugog aerodroma.
+Terali su ga da nadoknadi|vreme i nestalo mu je goriva.
+Nije imao izbora. 0krivljen je|premda niko nije stradao.
+Margo je navodno èula da èe ga|kompanija poslati u penziju.
+Sigurna si daje|izmeðu vas gotovo?
+Doði.
+Shanwick zove Airjet 534.|-Airjet 534, slabo vas èujem.
+Kako me èujete?
+Izgleda da èemo upasti u oluju.|-Zadržite kurs.
+Pogorša li se, popnite se na|38.000 stopa i podesite kurs.
+Tamo bi let trebalo da bude blaži.
+Kad nas zahvati, bièemo u|vazdušnom prostoru bez radara.
+Vi i 1 2 drugih aviona.|-Dakle, mi smo sreèni 1 3-ti.
+U redu.
+Posluživanje hrane i pièa èe|kasniti zbog lošeg vremena.
+Koji od vasje zatvorenik?
+Super. Šta si uèinio? -Vrati se|na svoje mesto, momèe.
+Super!
+Lepo. Ta muzika. 0d nje klinci|polude. -Stariš, Muldoone.
+Još 3 godine i gotov sam.|-Šta èeš onda?
+Prvo èemo... Ja i žena èemo...
+Znaš što? Ovo èe biti dug let.|Bolje da se ne sprijateljujemo.
+Znaš što? Pozadije zatvorenik.|-Hajde, Kery. Sedni. -Neèu.
+Dušo... -Šta ako otme avion?|Usmeri ga prema Alžiru?
+Kery, ionako smo nervozni.|Molim te sedni. Hajde.
+Èoveèe. Zašto mi niko ne|veruje? -Baš se pitam.
+Slušaj, trebalo bi da odem...
+U redu.
+Samo požuri. U redu?
+Nigde ne mogu pobeèi.|-Znam.
+Požuri.
+Vreme isteklo.|-Daj pusti me na miru!
+Gotovo.|-Da, da... Evo, izlazim.
+Stižem.
+Sreèan?
+Sve pod kontrolom? -Vrlo|duhovito. -Samo proveravam.
+Stvarno želiš da uništiš svoju|karijeru? -Kakvu karijeru?
+Takvi kao ti nikad ne nauèe.|Ne bori se protiv sistema.
+Priklanjaš se sistemu.|-Šta imaš od toga? -Ja?
+Pre 50-te bièu u upravi|sindikata vazduhoplovstva.
+Èestitam. -Hvala. -Ali, pre|toga nas èeka velika oluja.
+Shanwick predlaže uspinjanje na|38.000 stopa.
+Promenimo li kurs za 10 stepeni,|zaobièi èemo oluju.
+I izgubiti na vremenu. -Bièe|puno ugodniji let.
+Nadoknadièemo to vreme.|Pokaži mi kartu.
+Poðemo lijužno, proèi èemo uz|sam rub oluje.
+Da, ali onaje premajugu.
+Dok stignemo tamo, može da|se proširi 100-ak kilometara.
+Ne ako stignemo na vreme.|-Vreme nam leti. Proveri.
+Moj Bože! Sarah!
+Bože!
+UP0Z0RENJE|PRITISAK U KABINI
+Glavu dole!
+Daj mi ruku!
+Srušièemo se!
+Pomoè! Pomoè!
+Pomoè! Èuje li ko?
+Pomoè! Pomoè!
+Hvala ti, kome god treba da se|zahvalim na ovome. Èovjeèe.
+UP0Z0RENJE|STABILIZAT0R
+Mike? Bože, šta se desilo?|-Udarili smo u nešto.
+Nije samo loše vreme.|Kontrole ne slušaju.
+Što pre moramo da naðemo mesto za|sletanje.-Usred Atlantika smo.
+Znam, Katy. -Ne ljuti se na|mene,ja... -Ne ljutim se, Katy.
+0prosti. Šta da radim? -Poði do|kabine proveriti ošteèenja.
+Može. Šta taèno? -Krila prvo.|Strukturalna ošteèenja. Sve.
+Šta èemo s Brooksom? -Posle|èemo brinuti za njega. -Dobro.
+Mike? -Da?|-Da li èemo se izvuèi?
+Ne znamjoš, dušo.
+Dame i gospodo, govori vam|kapetan na dužnosti Mike Hogan.
+Imamo problema sa avionom,|ostanite na mestima.
+Slušajte uputstva letaèkog|osoblja. Možete skinuti maske.
+Vazduh u kabinije sada normalan.
+Dušo? Idem do pilota da vidim šta|se desilo. 0stani ovde.
+Roger, bojim se. -Sadaje|avion stabilan. To je dobro.
+Vraèam se što pre. Možda im|mogu nekako pomoèi. -Pazi se.
+Glavu dole!|Sve èe biti u redu.
+Vidiš nešto? -Ne. -Mislio sam da|nekako pomognem. -Znaš Hogana?
+Ne. -0n upravlja avionom.|Poprièaj s njim. -U redu.
+Katy? Sad... -Pustite mi ruku.|-Ne, ne... Želim da znam...
+Vratite se na mesto.-Mi želimo|da znamo. -I uèvrstite pojas.
+Znate li ko samja? -Znam.|A sada mi pustite ruku.
+Imam posla. Inaèe èu morati|da vas vežem. Sedite! Na mesto!
+Šta gledate?
+Podatke... Samo to tražim...|neke informacije.
+Dobro ste.
+Moram da proverim putnike.|-Smirite se. Gadno ste poseèeni.
+Moram da proverim ima li|povreðenih. -Pomoèi èu.
+Mogu ja sama.-Pohaðam medicinsku|školu. 0tac mije lekar.
+Znam dovoljno prvu pomoè da bi|mogao da budeš koristan. -U redu.
+Dobro. -Hvala.
+Hogan? Ja sam Roger Lee.Airjetov|mehanièar. Mogu li nekako da pomognem?
+Znaš li da upravljaš avionom?|-Ne. Ja sam tehnièar. -Divno.
+0nda odvuci kapetana Brooksa na|neko udobnije mjesto. Može?
+U redu. -Kad si gotov,|vrati se ovde.
+Dobro je? -Da. Poprilièno se|udario u glavu.Imaèe oteklinu.
+Tracey, imaš li pribor za prvu|pomoè? -lmam. -Savršeno.
+Tracey! Kapetan Brooksje u|nesvesti. Mike upravlja.
+Trenutno je sve u redu, ali èemo|morati što pre da sletimo.
+Sleteti? Gde? -Mike èe naèi|mjesto. Samo smiri putnike.
+To je sve? -Možeš ti to.|Uvežbane smo za to.
+Katy,još nisam bila u ovakvoj|situaciji... -Tracey... -Ja...
+Poslušaj me. Snaèi èeš se.|Mike èe nas izvuèi.
+U redu. Pripazi na njega.|Ja idem po led.
+Ja èu ih prièuvati. Veruj mi.|Ionako nemaš gde da odeš.
+Nije li to kapetan? -Ko-pilot|ima sve pod kontrolom.
+Misliš daje dobro? -0seèam mu|puls. Diše. Povreda glave.
+Viðao sam to za vreme|utakmica. -Šta se ovde dešava?
+To i mi pokušavamo da saznamo.|-Tamo je pribor za prvu pomoè.
+Dobro je. Kako je kapetan udario|glavu? -Shanwick, ovde 534.
+0bjavljujemo sluèaj|hitnosti.
+Ponavljam. Shanwick, Airjet 534,|imamo hitan sluèaj.
+Javite se, doðavola. -Èujem vas.|Šta se dogodilo?
+0zbiljno smo ošteèeni. Ne znamo|pravi uzrok. Pad pritiska.
+Kontrole ne slušaju. Motor 2|ne radi. 0državamo 10.000 stopa.
+Tražim smernice prema|najbližem aerodromu.
+Moramo hitno da sletimo. -Kojije|vaš trenutni položaj?
+Nisam siguran. Mislim daje|2-7-0 stepeni.
+Airjet 534, podesite kurs prema|aerodromu Keflavik na Islandu.
+0krenite desno 0-1-0, uèi èete|u rub oluje. Možete li?
+Da. Ali, trošimo isuviše|goriva. Ipak, nemamo izbora.
+Bolje i to, nego pad u okean.|-0bavestièu Keflavik.
+Sreèno, Mickey.|Shanwick se odjavljuje.
+Keflavik tornju, ovde Shanwick|kontrola leta. Hitan sluèaj.
+Airjet 534 kreèe prema vama.|-Razumem, Shanwick.
+Airjet 534, prinudno sletanje.|Toliko o mirnoj noèi.
+U redu. Airjet 534, gde ste?
+Mike? -Šta ima? -Krila su dobro,|nema ošteèenja u kabinama.
+Putnici? -0grebotine. Muènine i|bolovi, ništa opasno po život.
+Dobro. Pazi na njih. Kako si ti?|-Dobro. Šta èemo sada?
+0dvešèu nas do kopna.
+VRATA SKLADIŠN0G|PR0ST0RA
+VRATA PREDNJEG|SKLADIŠN0G PR0ST0RA
+Keflavik tornju, ovde Airjet|534, na prinudnom sletanju.
+Airjet 534, ovdje Keflavik|toranj. -Drago mije da vas èujem.
+Vidi li neko Airjet na monitoru?|-Ne.
+Airjet 534, ne vidimo vas na|monitorima.
+Naš položaj je 3-8-4 kilometara|južno od vas.
+Izvinite na smetnji. -Nema|problema.
+Shanwick nasje sve obavestio.|Ima li promena?
+Motor 2 ne radi. -Koliko ste|blizu oluji? -Poprilièno.
+Stavièete me na popriliène|muke veèeras, Airjet 534?
+Tako izgleda. -Dobro. Javièu|smernice i uputstva sletanja.
+Nemojte se sada izgubiti.|-0beèavam. Hvala.
+Idemo.
+Samo malo.|-To je loše? -Nije.
+Šta...šta se dešava? -Još ne|znamo. Imamo dekompresiju.
+Kontrole ne slušaju. -Avion|se raspada. Vratimo se u London!
+0dmah! -Ne. Predaleko smo.|Idemo prema Islandu. -Nikako.
+Neèeš uspeti. Sve èeš pobiti!|-Ništa ne diraj!
+Imaš gadno nagnjeèenje.|Prepusti pilotiranje meni.
+Slušaj me. Imamo malo izgleda|da se provuèemo kroz oluju.
+Udarièe nas svake sekunde.|Prepusti to meni.
+Ne vjerujem u tvoje sposobnosti.|-Kao daje to sad bitno.
+Želiš da pomogneš? 0nda sedi i|miruj. -Mike?
+Daj mi nešto èime èemo ga|vezati. -Alija...
+Nemamo vremena da se prepiramo.|Uèini to. Pomozi mi.
+Samo polako, kapetane. -Pazite|ga. Vrlo je domišljat.
+U redu. G. Connor,|uhvatite mu ruke.
+Dobro.
+Hajde. 0kreni se.
+0kreni se.
+Treba mi neki orijentir. Nešto...|U redu, ako tako želiš.
+Meni odgovara. Samo neka|ne bude novih iznenaðenja.
+Vezali su kapetana. -Mislim da|su otvorena vrata skladišta.
+Moram da odem dole|i provjerim.
+Ovde kapetan na dužnosti Mike|Hogan. Stanjeje stabilno.
+Imamo problema sa prostorom za|prtljagu.
+Kreèemo prema Keflaviku na|Islandu udaljenom sat i po.
+To je najbliži aerodrom.Ko ima|pilotsku dozvolu neka sejavi.
+Hvala vam.
+Sigurno je to u redu? -Znam|pilota koji upravlja avionom.
+Vjeruješ mu? -Garantujem|životom. -Ne znam za vaš život.
+Moj mije vrlo dragocen. -Ako|spusti mene, spustièe i vas.
+Rado bih nešto popio. -Sada|nije vreme za to, g.Matthews.
+Gospodine? Reklaje da sad nije|pravo vreme. -Ne diraj me!
+Želim pièe.|-G. Matthews?
+Gdeje moj viski? Skupo sam|platio kartu. Hoèu svoj viski.
+Ne. Sadaje dosta.|-Zahtevam svoj viski.
+Znate šta? Sednete li, doneèu|vam vaš viski. Molim vas.
+0prostite.
+Krenite.
+Katy ovde.
+Baš sad?
+0dmah dolazim.
+Štaje? -Mikeje tražio|pilota.
+Ako ništa drugo, imam pilotsku|dozvolu. Kljuèje kod vas.
+Šta on radi ovdje? To se vas|ne tièe, g. Matthews.
+Taj ubica ne bi smeo da se|kreèe ovuda slobodan!
+G. Èlanu elitnog kluba, sada|im trebajošjedan pilot.
+Ja sam taj.Ne pomognem li, možda|ne uspemo da doðemo do kopna.
+Srušimo li se u okean, moja èe|sloboda biti najmanje važna.
+Stoga, uživajte u|ostatku leta.
+AUT0PIL0T ISKLJUÈEN|UP0Z0RENJE STABILIZAT0R
+Mike? Ovaj putnik tvrdi da zna|da pilotira. -U redu.
+Moram da se vratim u kabinu.|-U redu, lutko.
+Blyth? -Da. -Dakle, ti si|zatvorenik, zar ne? -lzgleda.
+Šta znaš o letenju? -Leteo sam|na dvomotorcima.
+Ovaj avion je ista stvar,|ima samo veèe motore.
+Šta želite od mene? -lmamo|problem s vratima skladišta.
+Moram da odem da proverim. 0stani|ovde i pripazi na avion.
+Slušaj...nisam baš siguran...|-Nemamo vremena za raspravu.
+Nemaš izbora.|Sedi.
+Autopilotje ukljuèen. Ništa ne|diraj. Drži ruke ovde.
+Kad se ovo poremeti, zovi me.|-U redu.
+Dobro, Blythe.
+Samo ga drži poravnatog.
+To je ovde.|-Dobro.
+Treba nam dva šrafcigera sa|zvezdastom glavom.
+Jedan za tebe,|jedan za mene.
+Sreðeno.|-Super.
+Doðavola.
+Idemo.|-Uspeo sam.
+Dakle...
+Kako ide? -Kao da vozim tenk.|-Ovo je lakše voziti.
+Naravno, kadje sve u redu.
+Šta se desilo? -Udar munje.|Avion je van kontrole.
+Kompjuter preuzima. Veè sam èuo|za takav sluèaj.
+Avion za New York naglo je|skrenuo s kursa.
+Pilot nije mogao da ga vrati.|Kompjuter se pokvario.
+0dabrao je novi kurs. -A ruène|komande? -Kompjuter ih blokira.
+Let upravljan kompjuterski, šta|sad kapetane? -ldemo u oluju.
+Šta èemo sada?
+Zar ne možemo da letimo bez|kompjutera? -To niko ne zna.
+Trebalo bi da možemo. -0nda nemamo|šta da izgubimo, zar ne?
+Šta si smislio? -Razumem se u|kompjutere. -Malo ili puno?
+Puno. Barem do sada.
+Ovde tije tastatura.
+UN0S 0DBIJEN, GREŠKA PRI|PREM0ŠÆAVANJU GPS SISTEMA
+Krenuo je prema Bostonu. -Pravo|u oluju. -Prebaci na Keflavik.
+Ovdeje plan letenja.
+UN0S 0DBIJEN
+Ne dozvoljava unos podataka za|novi kurs. -Pokušaj ponovo.
+Jesam. Šta mi znaèi ako se svi|srušimo u okean?
+Ionako me smatraju bezobzirnim|ubicom. -Ovde smo svi isti.
+Bitno je samo ispravno|delovati. Sjeèaš se toga, zar ne?
+Pomozi mi, Blyth. Trebaš mi.|-0siguraèu kabinu.
+Hajde, Blyth.
+UN0S 0DBIJEN
+Hajde!
+Uneo sam koordinate Keflavika.|Kompjuter treba da ih prihvati.
+Kako ide? -Još ništa. Pokušao|sam sve što znam. -Probaj opet.
+Sumnjam da èu uspeti. -Možda|hoèeš. Pokušaj ponovo!
+U redu! -0kreèe se!|-Uspeo sam! -Bravo!
+Sad smo sigurni? -U boljem smo|položaju nego malopre.
+Ali, kompjuterje iskljuèen, baš|kao i autopilot.
+Mogao si mi to i preèutati u ime|starih vremena. -U redu.
+Stièi èemo na vreme. Plaže na|Islandu su tople i sunèane.
+I manja laž bi mi pomogla.|-Roger? -Molim.
+Moraš da poðeš dole, da pokušaš|da zatvoriš vrata.
+Ta nas rupa usporava i trošimo|previše goriva.
+Blyth? Poði s njim. -Može. Mada|je to glupo, reci mi nešto.
+Kakve su nam šanse da stignemo do|Keflavika? -Zašto? U žurbi si?
+Nisam. -Baš i nisu dobre,|ukoliko ne zatvorimo tu rupu.
+U redu? -Dobro.|Uradimo to.
+Šta sad?
+Zatvorièemo rupu!|-Èime?
+Ovim sandukom!
+Šta èeš s tim? -Mislio sam da|otmem avion. Savršen plan,zar ne?
+Moram dajavim Hoganu! -Hoèe li ti|nešto znaèiti ako sam nedužan?
+Ne tièe me se.|-Nisam nedužan.
+Ne pogube li me, ostatak|života èu provesti u zatvoru!
+Zašto si to uèinio?
+Ne znaš koliko daleko si spreman|da ideš, sve dok te ne nateraju.
+Kad izgubiš dostojanstvo,|više ništa nije važno.
+Žena i partner su mi sve uzeli.|Decu, posao, èitav život.
+Poludeo sam. -Zašto nam pomažeš?|-Ne znam, Rogere.
+Izgleda da više ništa|nije važno.
+Trebaèe nam pomoè.
+Katy. 0slobodi me. -Ne mogu.|-Prema èijim naredbama?
+Kapetana na dužnosti Hogana.|-Ali,ja sam kapetan.
+Pravilnikje tu vrlo jasan.
+Kadje kapetan onesposobljen,|dužnost preuzima prvi oficir.
+Ali,ja sam dobro. Pogledaj me.|Pusti me.
+0staèeš bez posla. Sigurno!|0boje èete izgubiti posao!
+Ako Mike ne spusti avion, više|nitko od nas neèe leteti.
+Izvinite. Treba nam pomoè u|prostoru za prtljag.
+Vrata su se otvorila i sada|treba zatvoriti tu rupu.
+Stvarno? I mi bi to trebalo|da uradimo? Daj saberite se.
+Raèunajte na mene. -Ne morate to|da radite. -Baš naprotiv.
+Ty, ne mogu ti to dopustiti.|-Gubimo vreme. Idem. -Ty?
+Doleje vrlo hladno. Imate li|jaknu? -lmam. -Ty?
+Vodite me.
+Ty?
+Ne moraš to da radiš? -Šališ se?|Bez tebe sam mrtav!
+Šta misliš? -Mogli bi užetom da|povežemo sanduke i zatvorimo rupu.
+Hajde! Pomozi mi da rasèistim ovo!|-0svetli mi!
+Policajac se raspituje za|Blytha. -Tamo je dole.
+Tracey? Jesi li dobro?
+Jesam.
+Kapetan je vezan, imamo rupu|velièine automobila.
+Usred smo oluje... Pilot se|srušio na svom zadnjem letu.
+Bože...0prosti, Katy. -U redu|je. -Hogan je sigurno dobar...
+Slušaj, prekinuli smo davno.|-Šta se desilo?
+Jesi li ikad èula daje veza|pilota i stjuardese uspela?
+Mislim da ne.
+Mislila sam da èe s nama biti|drugaèije.
+Pomišljala o zasnivanju|porodice.
+Nakon nesreèe, promenio se.|Poèeo se povlaèiti u sebe.
+Jednog je dana samo...
+0tišao.
+Do veèeras se nismo videli niti|èuli. -Žao mije da to èujem.
+Ipak, dokje bilo dobro,|bilo je stvarno dobro.
+Ne želimo li svi tako?
+Kojaje razlika izmeðu avionskog|motora i letaèkog osoblja?
+Znam taj vic. -Po svršetku leta,|motor prestane da zanoveta.
+Dobro si?
+Ovo èe nas zadržati.
+U redu?|-Dobro.
+Airjet 534, trebalo bi da budete 224|kmjužno. Koja vamje brzina?
+Keflavik, 534 pri brzini 250|èvorova.
+Pri veèoj brzini došlo bi do|strukturalnih ošteèenja.
+Airjet 534, sletanje približno|za 30 minuta. Kako je s gorivom?
+Trošimo ga više od oèekivanog|zbog rupe u trupu.
+Bièe gusto. -0èitavanja|visinomera su 1-0-1-7. -Jasno.
+Airjet 534, možete li se|normalno spustiti? -Ne.
+Moraèemo da priðemo sporije.|Nemamo dovoljnu kompresiju.
+Šta sa okretima? -lsto. Polako.|Da lije pista dovoljno duga?
+3.2 km. Bièe vam dovoljno.|-3.2 kilometra.
+Vidljivost dobra.Razvedrava se.|-3.2 kmje dovoljno. Hajde.
+Možeš ti to da izdržiš.
+Da li èemo uspeti? -Pomoèi èe|ako zatvorimo tu rupu.
+Ako ne? -Rešavajmo jedno|po jedno, Katy.
+Hajde, Johnson!|Guraj!
+Ponovo!
+Zapelo je! Ne ide dalje!
+Zapelo je za komad metala.|Ne mogu do njega.
+Preblizu je vratima! Doðavola!|-Gubimo vreme! -Znam!
+Moraèu to da uklonim!
+Ne budi glup, prijatelju. Tijoš|imaš ženu. -Mogu to da rešim.
+Nije vreme za prepirke, Roger.|Ovo mije možda zadnja odluka.
+Stani! Daj mi tvoju svetiljku!
+Pazite da me sanduk ne|poklopi.
+Johnson, drži ga!
+Ne mogu da ga dohvatim.
+Prereži uže!
+Neèu!
+Prereži uže, Rogere!
+Pomeri ga!
+U redu je!|Jesmo!
+Gurnite ga napred.
+Roger! Uspeli smo!
+Ne!
+Blyth!
+Zatvorili smo rupu, alije|Blyth ispao iz aviona.
+Pomoglo je. Sada kontrole bolje|reaguju. -Štaje s Blythom?
+Rizikovao je i platio životom.|Ipak, timeje pružio šansu nama.
+Ali, šta ako nam ni to ne|pomogne? -0nda èu ja biti kriv.
+U redu. Vratite se na mesta.|Zvaèu, zatreba li mi pomoè.
+Momci! Hvala.
+Hajde. U redu, Hogane. Hteo si|jošjednu priliku.
+Èovekje poginuo da bi ti|je pružio.
+Da vidimo šta èeš napraviti sa|svojom pruženom prilikom.
+Dame i gospodo,uskoro sleèemo.|Sletanje èe biti teško.
+0stanite na mesta i stegnite|pojaseve.
+0soblje èe vam objasniti šta treba|èiniti pri prinudnom sletanju.
+Zahvaljujem vam. Pažljivo nas|slušajte.
+Uèvrstite sve predmete, posebno|olovke i naoèare.
+Žene neka skinu cipele s|visokim potpeticama.
+Stavite ih u pregradu na|sedištu ispred vas.
+Keflavik Airjetu 534. Imam vas|na monitoru.
+Dobrodošli u vazdušni prostor|Islanda. -Dobro vas našli.
+534, kako vamje ime? -Mike.|-Zadovoljstvo mije, Mike.
+Ja sam Sara. Sad kad smo stari|prijatelji, spustimo avion.
+Koja vamje brzina spuštanja?|-200 stopa u minutu.
+U redu, Mike. Koji vamje smer?|-0-1-0. Dodeljen.
+Dobro. Skreèite ulevo na|smer 2-3-0. -Razumeo.
+Levo 2-3-0. -lmate vremena.|Bez žurbe.
+Spustite se na 5.000 stopa.
+Ne sad.
+Mike? -Katy, moraš mi pomoèi|pri sletanju. -Ne znamja to.
+Možeš. Ne mogu sam. Uz ove|prilike, treba mijoš tvoja pomoè.
+A Roger? 0n bi mogao... -Roger|je sa svojom ženom.
+Tamo i treba da bude. Katy, samo|tebi verujem. -Sad mi kažeš.
+Sedi. -Mike...|-Sedi, Katy.
+Mike, daèu vam puno prostora|za prilaz. Pista 0-2.
+Maksimalno je osvetljena.|Moraèeš pažljivo da me slušaš.
+Sara, upoznaj Katy. 0državaèe|vezu dokja pilotiram.
+Sada smo na 5.000. -Katy,|spustite se na 3.000.
+3.000. Razumeo.|-Spuštamo se.
+Sara, na 3.000 smo. 0dlièno.|Sada krenite desno na 0-4-0.
+0-4-0. Ovde.
+U redu, Sara. Kreèemo|smerom 0-4-0.
+Doðavola!
+Ne mogu da skrenem tamo!
+Sara, ne možemo da skrenemo.|Avion se isuviše trese.
+U redu je, Katy. Smislièemo|nešto drugo, zar ne?
+Traži drugu pistu.|Istok/zapad.
+Sara, treba nam pista koja gleda|u smeru istok/zapad.
+Pista 2-9, ali èe vas zahvatiti|unakrsni vetar.
+Nemamo izbora. -Ali, ako|promašite...
+Promašimo li pistu, neèemo imati|drugu priliku.
+Ne mogu tako naglo da okrenem|avion. -U redu.
+Spustite se na 1 .000 stopa i|zadržite smer.
+Smanjite brzinu na 1-8-0|èvorova. -Potvrðeno.
+U redu.
+Reci im da se pripreme za|prinudno sletanje.
+Mislio sam da èe ti|koristiti društvo.
+534, 2.4 km ste od spoljnog|ruba. Zadržite visinu 1000 stopa.
+Ne spuštamo se dovoljno brzo.|-Sara, presporo se spuštamo.
+Na 1 .700 smo stopa. -Morate.|Inaèe èete preleteti pistu.
+Ne možemo! -Moraš, Mike.|-Ne mogu. -Naravno da možeš.
+Doveo si nas dovde.
+Previsoko su...|Isuviše ste visoko.
+Sara, na 1 .000 smo stopa.|-Dobro. Završno prilaženje.
+0dobreno je prinudno sletanje|na pistu 2-9.
+Morate poravnati avion|sa pistom.
+Katy, sada èe biti zahtevno.|Mogu da zaokrenem.
+Ali, u isto vreme treba izvuèi|toèkove. Jesi li shvatila?
+Mike, ne znam kako to da uradim.
+Posmatraj ovaj mali avion|na instrumentu. Èula si me? -Da.
+Vidiš ovu polugu? Podignije za|5 stepeni. Ne brini.
+Èuèeš zakrilca. Poluga za|toèkoveje ova u sredini.
+Jesi shvatila? Jesi li, Katy?|-Da! Jesam!
+Uradi to kad ti kažem.
+Katy, gde ste? -Ovde. Vrlo smo|zaposleni. -Razumela.
+Ponavljam. Smer 2-9-0.|Brzina 0-8-0 èvorova.
+Uskoro èete videti svetla na|pisti. -Stižemo.
+Spremna za izvlaèenje toèkova!|-Spremna! -ldemo.
+Pusti me! Ne možeš to da radiš!|Ja sam kapetan! Kapetan!
+Ti više ne pilotiraš. Molim te,|priveži pojas.
+Približavate se spoljnjem rubu|piste. Vetar 360 sa 25 èvorova.
+Sletanje odobreno. -Nisam|mislila da èu to tako rado èuti.
+Još nismo sleteli. Toèkovi!|-Mike?
+Unakrsni vetar!|Drži se, Katy.
+Mike? Gledaj.
+Idemo.
+Sadje sve u tvojim|rukama, Mike.
+Držaèemo nos aviona prema|desno, da ne promašimo pistu.
+Prilazimo prebrzo, ali imamo|dovoljno piste za zaustavljanje.
+Siguran si? -Sad nije vreme|za pitanja, dušo.
+Uradimo to! -Daj mi visine|spuštanja! -900!
+700...|600.
+400. -U redu.|-300. -Dobro.
+Hajde.
+200! 1 50!|100 stopa!
+Katy, uhvati polugu.|0beju rukama.
+Sada polako. Gurni.|Polako, gurni!
+Hajde.
+To!
+Samo tako, Katy! -U redu.|-Nastavi tako. -Jesam!
+Moj Bože. Izgubili su|kontrolu. Moj Bože!
+Idemo.
+Moj Bože.|-Mike?
+To!
+Bravo, dušo!
+Probudite me kad stignemo|do izlaza.
+Hvala što ste leteli|Airjet Atlantikom.
+Ne diraj me!
+Stvarno znaš da uðeš u|velikom stilu, Mike.
+Baš.
+Ovde Steve. Neèeš verovati šta|se... Šta? Zvao je?
+Možeš svima reèi da smo|sleteli.
+Mislim da su svi to shvatili.|-0nda ih izvedimo iz aviona.
+Katy...
+Bila si dobra.
+Ti takoðe.
+Možemo li sada da izaðemo?|-Mislim da možemo.
+Ideš?|-Uskoro.
+Pazite gde stajete. Autobus èe|vas odvesti do terminala.
+Katy?
+Hvala ti.
+Hvala vam.
+Puno ti hvala. -Bilo mije|zadovoljstvo pomoèi.
+Alijoš draže sleteti.|-Èuvaj se. -Ti takoðe.
+I...sretno.
+Shvatio sam da èemo neko vreme|ostati ovde.
+Jesi li za kafu na Islandu?|-Mislim da to baš nije...
+Bili smo dobra ekipa. 0sim toga,|koliko si puta bila na Islandu?
+Neka ti bude.|Idi sada.
+Nego,ja sam Sam.|-Tracey. -Znam.
+Hvala ti, Rogere. -Trebalo bi|da zahvalim Blythu. -Znam.
+Èuvajte se, oboje.
+Ko bi rekao daje u stanju to|da uradi?
+Izgleda da nikad ne možemo znati|ko je kakva osoba, zar ne?
+Pa...hvala.|-Zbogom, detektive.
+Izvinite.|Pazite kuda hodate.

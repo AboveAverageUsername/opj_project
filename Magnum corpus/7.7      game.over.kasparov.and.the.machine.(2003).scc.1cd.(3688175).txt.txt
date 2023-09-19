@@ -1,0 +1,1776 @@
+Izmeðu 1770. i 1825. automat
+barona von Kempelena zvani
+"Turèin" imao je turneju
+po dvorovima Evrope.
+Napoleon je lièno igrao s
+"Turèinom" 1809. i izgubio.
+Loše je to podnio. Nije
+bio naviknut da gubi.
+Napoleon nikad nije otkrio kako
+ga je šahovska mašina pobijedila.
+Misterija se nastavlja.
+Gari je igrao dva meèa protiv
+Deep Bluea 1996. i 1997.
+1996. je pobijedio.
+1997. je izgubio.
+I to u kratkom meèu
+od samo šest partija
+protiv Deep Bluea.
+Bilo je mnogo kontroverzi
+oko toga meèa.
+Prije svega zato što su Gari
+i cijela šahovska javnost
+smatrali da je kompjuter igrao
+na nekompjuterski naèin.
+Gari se žalio da se èinilo kao da
+ima isuviše ljudskih komponenti
+u šahovskim sposobnostima
+kompjutera.
+Na kraju meèa bilo je više
+nego kontroverzno kad je
+Gari izgubio zadnju partiju
+na naèin koji je bio
+porazno daleko od njegovih
+šampionskih sposobnosti.
+IBM mu nije pružio
+priliku za revanš.
+To je izazvalo dosta protesta.
+Jer kad je Gari pobijedio 1996.
+on je odmah pristao
+na revanš meè.
+Tako on više ne može
+povratiti svoju poziciju
+najboljeg ljudskog igraèa
+protiv kompjutera na svijetu.
+To ga izluðuje pošto
+voli pobjeðivati.
+Kao igraè je veoma borben.
+Saznanje da je pobijeðen
+od strane kompjutera
+bez prava na revanš
+bilo je strašno za njegovo
+šahovsko samopouzdanje.
+Zašto IBM nije
+želio revanš?
+Kad se zna da su nakon pobjede
+Deep Bluea nad Kasparovom
+Dionice IBM-a porasle
+za oko15 procenata.
+KRAJ IGRE:
+
+Izgleda drukèije.
+Tu je bio veliki stol
+s kompjuterima i opremom.
+Bilo je prilièno drukèije.
+Teško se sjetiti. Bilo je
+to prije šest godina.
+Možda je mentalni blok.
+Ne želiš da se sjetiš.
+Ne želiš da se sjetiš, pa
+ne možeš da se sjetiš.
+Bilo je to bolno.
+Mogu rekonstruisati poprište.
+Poprište zloèina.
+Tamo je bio sto sa kompjuterom.
+Moj trener je koristio laptop.
+Imali smo i šahovsku
+garnituru.
+Opreme je bilo mnogo, a
+mi smo bili u sredini sobe.
+Nisu to bili sretni dani.
+Prvog dana je bilo
+mnogo napetosti.
+Osjeæali smo se kao gomila
+amatera koja izaziva
+strašno èudovište bez lica.
+Baron von Kempelen
+predstavlja
+èudo vijeka, automat
+koji igra šah i koji æe
+pobijediti svakog izazivaèa.
+Smrtonosni udarac ljudskosti.
+Nakon šest partija
+u devet dana
+Deep Blue, IBM-ov kompjuter,
+pobijedio je Garija Kasparova,
+kojega smatraju najboljim
+šahistom svih vremena.
+Deep Blue je pobijedio Kasparova.
+Veliki ruski šampion nije
+bio zahvalan gubitnik.
+Moskva, oktobar 2002.
+Danas postoje stotine
+velemajstora.
+Ali neki su toliko superiorni
+u odnosu na ostale
+da bi trebalo uvesti titulu
+supevelemajstora.
+Mnogi misle da bi Kasparov
+trebao biti i iznad toga.
+Da zaslužuje posebnu
+kategoriju.
+To bi trebala biti
+kategorija Kasparov.
+Naprosto Kasparov.
+Gari je bez sumnje
+najbolji igraè u istoriji.
+Godinama smo to raspravljali.
+Ali on je tada imao 30.
+Ali sada u njegovim èetrdesetim
+njegova igra je toliko napredovala
+da je on nesporno najveæi
+igraè u istoriji šahovske igre.
+On je na vrhu svjetskog
+šaha 15 godina.
+Ili 16 ili 17, ne znam.
+I uvijek je bio suštinski
+ispred svih drugih.
+On je  "Kasparov".
+Gdje se nalazimo?
+Ovo je centralni šahovski
+klub Sovjetskog Saveza.
+Legenda je da je Hrušèov
+dao ovu zgradu šahistima.
+Od pedesetih godina
+prošlog vijeka ta zgrada,
+a to je stara palata iz
+devetnaestog vijeka,
+postala je centar
+sovjetskog šaha.
+Upravljanje sovjetskim šahom
+bilo je smješteno ovdje.
+Ovdje su radili glavni
+šahovski funkcioneri
+i tu su se donosile
+najvažnije odluke.
+Ja nisam mogao izdržati.
+Za mene je bilo
+praktièno nemoguæe
+igrati u okviru strogih
+normi sovjetskog režima.
+Zapoèeo sam sa
+nekoliko kolega
+stvarati Deep Blue
+od samog poèetka.
+Došao sam u IBM 1989.
+Narednih godina napravili
+smo seriju kompjutera.
+To je na kraju kulminiralo
+kao Deep Blue sistem.
+Koncentrisao sam se posebno na dio
+koji se odnosi na sposobnost procjene.
+Na dio Deep Bluea koji
+omoguæava razlikovanje
+šta je u poziciji dobro
+a šta je u poziciji loše.
+Vrijednost pozicije se
+iskazuje numerièki.
+Istraživaèki centar IBM-a
+Yorktown, Njujork.
+Veæ smo otpoèetka znali
+da brži kompjuteri
+unapreðuju performanse
+šahovskih programa.
+Kako smo postajali brži
+poèeli smo razmišljati
+da bi to moglo biti dovoljno
+da se pobijedi prvak svijeta.
+Ovo je matrica iz
+projekta 1985-86.
+Silikonska posuda koja
+raèuna šahovske poteze.
+Oko 36000 tranzistora.
+Raèuna 2 milliona
+poteza u sekundi.
+Ne više od toga.
+Ko je tvorac toga?
+Ja sam to smislio.
+Pitali su me da li
+sam zainteresovan
+da pomognem u obuci programa
+za igru protiv Garija Kasparova.
+Bila je to velika prilika koju
+nisam mogao propustiti.
+Tako sam ušao u
+svijet kompjutera.
+Kompjuteri su se pojavili
+na sceni kasnih èetrdesetih.
+Nauènici su razmišljali šta
+bi to kompjuteri mogli
+a što ranije nije
+bilo moguæe.
+Jedna od prvih stvari koja
+im je pala na pamet
+bila je veliki izazov:
+kako napraviti kompjuter
+koji æe igrati šah na
+nivou prvaka svijeta.
+Prvobitno su mislili da
+æe to biti nešto lako.
+Na kraju krajeva oni raèunaju
+mnogo brže od ljudskog mozga.
+Ali stvari su bile
+mnogo složenije.
+Èovjek prouèava poziciju
+u njenoj cjelokupnosti
+sa svjesnom pažnjom.
+Dobar šahista ima
+izuzetan kapacitet
+da se sjeæa èitavih
+šahovskih pozicija
+i da pronalazi moguænosti,
+a kompjuter to ne može.
+Kompjuter igra na
+osnovu proraèuna.
+Razmišlja, "na potezu sam,
+koji potezi su moguæi? "
+"Ako povuèem ovo, on æe povuæi ono,
+ja æu onda ovo", i tako se to nastavlja.
+Sve pozicije se procjenjuju.
+Teškoæa kod šaha je:
+brojevi se uveæavaju
+astronomskom brzinom.
+Samo pomnožite. Na mojih osam
+poteza ti imaš po osam odgovora.
+Onda je imam osam odgovora
+na svaki od tvojih osam odgovora.
+Pa ti ponovo imaš po osam odgovora
+na svaki moj odgovor na tvoj odgovor.
+Broj moguænosti postaje
+veæi od èitavog svemira.
+U stvari, broj atoma
+u èitavom svemiru
+je mnogo manji od
+od moguæeg broja
+šahovskih partija
+od èetrdeset poteza.
+Rješavanje problema šaha
+oduvijek je bilo
+rješavanje problema
+eksponencijalnog rasta.
+Kako naprosto izaæi na kraj
+s brojkama koje su u pitanju.
+I kako su samo lijepo
+ime dali toj tehnici:
+sirova snaga.
+To je klasièan sukob
+èovjeka i mašine.
+Kasparov pobjeðuje
+Neutron 9000.
+Hvala.
+Bilo je zabavno, te mašine
+su od žica, šerafa i matica.
+Prirodno su glupe.
+IBM je napravio nešto
+sasvim drugaèije.
+Program ugraðen direktno
+u sam kompjuter.
+Èip koji ne radi ništa drugo
+osim što igra šah.
+A to radi izuzetno dobro.
+Taj èip je napravljen u
+stotinama primjeraka.
+Ugraðeno ih je 200
+komada u kompjuter.
+Rade u paralelnoj vezi.
+Deep Blue proraèuna 200
+milliona pozicija u sekundi.
+Evo momka od 17, 18.
+Igra u sovjetskom svijetu.
+Kasparov je poèeo da
+razbija svoje protivnike.
+Èvrste velemajstore, profesionalce.
+Oni obièno nisu gubili
+u tridesetak poteza.
+A pogotovo ne od
+balavca od 17, 18.
+On bi žrtvovao tri figure
+i poèistio èitavu tablu.
+Bilo je to za njih
+strašno iskustvo.
+Vrlo traumatièno.
+Uskoro je sve oèarao i
+stekao mase sljedbenika.
+Zato što je igrao šah na
+senzacionalan naèin.
+Karpov je bio idealan
+podanik režima.
+Radio je ono što su
+od njega tražili.
+Pa zašto bi im onda
+bio potreban neko drugi
+kad veæ imaju Karpova?
+Pogotovo što taj
+drugi nije bio Rus.
+Bio je napola Jevrejin,
+a napola Armenac.
+Ali mnogo važnije od
+nacionalnog pitanja je
+bilo to što Kasparov nije bio
+liènost koju možete kontrolisati.
+Moskva, 1984.
+Karpov : Kasparov
+Rusi dugo dominiraju
+šahovskim svijetom.
+Aktuelna bitka za titulu svjetskog
+prvaka je izmeðu dvojice od njih.
+Izmeðu sadašnjeg šampiona Karpova
+i mladog izazivaèa Garija Kasparova
+Gari, èemu sva ta frka.
+Kako to mislite?
+U tom filmu.
+To je bio nezaboravan
+dan za mene.
+Više mi je svega dosta.
+Èitav šahovski establišment
+je na strani Karpova?
+Da, da.
+Željeli su njegovu pobjedu?
+Oni imaju tijesne veze
+duže od deset godina.
+Rekli ste mi da je borba
+izvan šahovske table
+veæa od one na tabli.
+Da, oni se koriste
+svim naèinima varanja.
+Ispod stola.
+Tako da niko ne može
+vidjeti ništa od toga.
+Nemojte reæi da Vas je
+Karpov udario ispod stola!
+Mislim da sam mnogo
+snažniji od njega.
+Prekinuto je kod 5:3.
+On je vodio 5:0.
+Vi ste uzvratili i on
+je poèeo gubiti.
+Onda je meè prekinut.
+Da, on je gubio.
+Kasparov se razbjesnio i rekao:
+"Kakva sjajna predstava."
+"Mogao sam pobijediti, ali
+oni žele dobiti na vremenu."
+Mislim da sam postupio
+u najboljem interesu.
+Igraèi su bili samo
+dio ove situacije.
+Moskva, 1985.
+Novi meè
+Stvari su se promijenile nabolje.
+Gorbaèov je došao na vlast
+i politièka situacija je polako
+poèela da se mijenja.
+U septembru 1985.
+zapoèeli smo novi meè.
+Osvojio sam titulu.
+Bilo je to upravo tu?
+Ne, rekao bih da je bilo
+približno pola metra dalje.
+Taèno mjesto na kojem sam sjedio
+devetog novembra 1985. godine.
+Došao je moj trenutak.
+Bilo je vrijeme promjena.
+Zemlja se mijenjala.
+Moja pobjeda je bila
+veoma simbolièna.
+Imao sam mnogo navijaèa
+u publici, ali su bili tihi.
+Možda su se plašili da
+ne ugroze moju sreæu.
+Povukao sam svoj zadnji
+potez i èekao da se preda.
+On je to i uèinio!
+To je bilo
+osnovno, prirodno. On je
+odustao, igra je završila.
+Ja sam pobijedio.
+Ima samo jedna moja fotografija
+gdje sam sa podignutim rukama.
+Samo jedna.
+Sad bih volio da sam bio uzeo više
+vremena da hodam naokolo i slavim.
+Ali bila je samo ta jedna slika
+i ja sam se onda izgubio odatle.
+Odlazeæi vidio sam svoju majku.
+Skoro se onesvijestila u publici.
+Bilo ih je mnogo
+koji nisu vjerovali šta
+se u stvari dogodilo.
+Mislim da je pomalo opasno
+vraæati se u prošlost.
+Prenositi energiju iz tog
+perioda u sadašnjicu.
+Ona pripada tom trenutku.
+To je dio mog života
+i dio moje slave.
+Bilo je velièanstveno. Ponosim
+se time. Ali to je istorija.
+Èovjek ima sve moguæe
+vrste slabosti.
+Ne trèi, ne skaèe i ne pliva
+dobro kao druge životinje.
+Krhki smo. Ali u jednoj
+oblasti smo superiorni.
+I to veæ milionima godina.
+Inteligencija.
+Ništa to nije promijenilo.
+A sad po prvi put od
+nastanka naše vrste
+nešto se pojavilo i govori:
+"Hej, ja sam pametniji."
+To je mašina.
+Uvijek sam mislio da bi
+taj meè mogao biti
+jedan od dogaðaja od najveæeg
+simboliènog znaèaja
+u dvadesetom vijeku.
+Pogledamo li istoriju kompjutera
+igrati šah i pobijediti prvaka
+bilo je nešto što se nije
+trebalo nikad dogoditi.
+Prva verzija Deep Bluea igrala
+je protiv Kasparova 1996.
+Kasparov je pobijedio 4:2.
+1996. je bila atmosfera
+druželjubivosti.
+Vrlo prijateljska atmosfera.
+Kao, "Želite li nešto?
+Mogu li pomoæi? Imate sve?"
+Sve što smo tražili
+i dobili smo.
+IBM nije bio direktno
+ukljuèen.
+Oni se pojavljuju kad se ispostavilo
+da postoji strahovit interes.
+Željeli su revanš.
+Rekao sam: "Naravno, igrajmo."
+Ovaj poster je bio
+svuda po Njujorku
+za vrijeme meèa 1997.
+Prikazuje Kasparova uz rijeèi:
+"Kako pokvariti kompjuter?"
+Smatram tu reèenicu vrlo
+prikladnom onoj situaciji.
+Kasparov je igrao protiv
+kompjutera nekoliko puta.
+Prvi put je to bilo protiv
+Deep Thoughta 1989.
+A onda 1996. i 1997.
+protiv Deep Bluea.
+1996. je pobijedio.
+Poèeli smo pregovore.
+To je bilo tamo
+u njihovoj centrali
+na Menhetnu.
+Osjetio sam loše vibracije
+kad sam došao ovamo.
+Bio sam upravo poèeo
+saradnju s Garijem.
+Bio sam nov s njim.
+Poèeo sam 1996.
+Ovo nam je bio prvi
+veliki ugovor.
+Lako je to sad prièati,
+ali imao sam osjeæaj
+da su pravila promijenjena.
+To više nije bila
+ona ista igra.
+Ali Gari je bio siguran
+da se radi o nauci i istraživanjima.
+O dobrim stvarima u životu
+Rekao je da æe oni
+igrati pošteno.
+Uskoro smo spoznali istinu.
+Meni je to bila èista zabava.
+Jedna važna vježba.
+Osjeæao sam se odgovornim
+za taj eksperiment.
+Da ne pomažem samo
+šahu i kompjuterima
+nego i ljudskoj vrsti
+u cjelini
+Igra èovjeka protiv mašine
+bila je sjajna ideja.
+Odmah sam krenuo
+da ga onemoguæim.
+Ovo je razgovor u hodniku,
+ali sjeæam te se s vrata.
+Da, koristili smo
+onaj poboèni ulaz.
+Da, taj ulaz smo
+koristili za dolazak.
+Taj ulaz je vodio
+ka publici.
+Publika je bila dolje.
+Sjeæam ih se stalno.
+Publika je bila sjajna.
+Zanimanje je bilo izuzetno.
+Bio je to meè stoljeæa!
+Ulozi su vrlo visoki!
+Na jednoj strani je prvak
+svijeta Gari Kasparov, 34.
+Njegov protivnik je najbolji
+igraè šaha meðu kompjuterima,
+mašina po imenu
+Deep Blue.
+Èitav svijet æe moæi
+pratiti prenos meèa
+pošto možemo emitovati
+signal napolje.
+Svaki sat smo imali
+sažetke i snimke s meèa.
+Ali to je IBM mogao
+koristiti i u druge svrhe.
+Tu je bilo strahovito
+mnogo tehnologije.
+Kompjuteri su bili
+zakljuèani unutra.
+Èuvao ih je IBM, zar ne?
+Da, bili su zbilja zabrinuti.
+Bili su veoma zabrinuti
+da im ne uðemo u sobu.
+Za minutu æe nas
+lift odvesti gore.
+Svi èekaju da vide sobu.
+Trideset peti sprat.
+Ovdje je bio TV studio.
+IBM je bio promoter,
+finansijer, organizator.
+Protivnik, kontrolor medija,
+držali su kljuèeve.
+Unajmili su èitavo
+osiguranje.
+Èak su kršili pravila.
+Nisu nas puštali iz soba,
+sve su bili zakljuèali.
+Jednom sam bio zakljuèan
+u garderobi
+pošto su bili promijenili
+lozinku za otkljuèavanje.
+Ovdje niste mogli
+ništa vidjeti.
+Postojao je scenario
+da se sve prikrije.
+Tu je bilo mjesto IBM-a.
+Kompjuter je bio ovdje.
+Kompjuter je bio ovdje?
+Da, a ja sam bio ovdje.
+Ovdje se odigrao meè.
+Da, to je bilo tu.
+Tamo je bila šahovska tabla.
+Da, šahovska tabla.
+Pozadi je bio privatni prostor.
+Da, jedna mala soba.
+Ovo mjesto me ljuti.
+Ljuti te?
+To ne valja.
+Da, bilo je to
+prije partije.
+Sjedio sam ovdje.
+Sjedio si ovdje.
+Petoro ljudi! To je
+kompletna podrška.
+Kompjuter je bio u tajanstvenoj
+sobi, pod kljuèem.
+Niko nije imao pristup.
+Èuvali su ga stražari.
+Šta se tamo dogaðalo?
+Èitava armija velemajstora koji
+su pili kafu, pušili, razgovarali.
+Bila je još jedna soba tu.
+Da, ali nisam imao pristupa.
+Bila je zakljuèana, kao i sada.
+Mašina je zakljuèana.
+Nije zakljuèana!
+Sada nije!
+Ali bila je onda.
+Glavni terminal je
+bio tamo.
+Bilo je èuvano.
+Mogao je uæi samo
+personal IBM-a.
+Bilo je kao u tajnoj
+sobi u Pentagonu.
+Ne znam da li su
+kompjuteri u Pentagonu
+tako dobro èuvani.
+Predstavljam èlanove tima
+zaslužne za ovu briljantnu
+IBM-ovu mašinu, Deep Blue.
+Ustanite, molim Vas,
+doktore Hsiung Hsu.
+Znali smo da možemo
+pobijediti velemajstora.
+Pored toga smo pripremili neka
+iznenaðenja dok smo ga èekali.
+Dosta vremena smo posvetili
+poveæanju brzine kompjutera
+i unapreðenju njegovog
+šahovskog znanja.
+Ovo je naš šahovski
+savjetnik Joel Benjamin.
+Deep Blue je potpuno
+drugaèiji.
+Nekoliko puta Gari
+nas je nazvao
+da bi dobio kopiju ove
+verzije programa.
+Da smo mu poslali bio bi
+kasnije još više uzrujan
+pošto se kompjuter mijenjao.
+Unajmili su èitav niz
+velemajstora.
+Kasparov je morao
+pomisliti:
+"Kakvu konstelaciju
+uèitelja imaju tamo!"
+"Ilescas, Joel Benjamin,
+Fedorovich, De Firmian."
+"To su ozbiljni ljudi.
+Ja ne igram samo
+protiv kompjutera. "
+G. Kasparov, šta je za Vas
+najveæi izazov u ovom meèu?
+Šta je odluèujuæe
+za ishod meèa?
+Problem je što nemam informacije
+o svojem protivniku.
+Zašto ne prouèavate
+njegove partije?
+Pitate pogrešnu osobu.
+U šahu uvijek nešto znate
+o svom protivniku.
+On nije znao ništa
+o tom kompjuteru.
+Nije bilo nikakvog
+opisa ili analize.
+Rekli su: "Nema partija,
+pošto æe se po ugovoru
+meèevi igrati samo javno."
+"Kad god je Deep Blue
+igrao pred velemajstorom,
+to je bilo privatno.
+Žao nam je."
+Ovog puta borba
+èovjeka i mašine
+je privukla još više pažnje.
+Ali niko nije siguran da
+ima sigurnog dobitnika.
+Kasparov kaže da je
+u najboljoj formi,
+ali i kompjuter nikad
+nije bio jaèi.
+"Kako pokvariti kompjuter?"
+Prva partijaMislim da je prije meèa David Levy
+predvidio pobjedu Kasparova 6:0.
+To ne bi bilo apsurdno.
+Ali je bilo zastrašujuæe.
+Da se to desilo bili
+bismo u nevolji.
+Sve je izgledalo zadovoljavajuæe
+u prvoj partiji meèa.
+Gari je odigrao vrlo
+dobru partiju.
+Stvorio je poziciju neugodnu za
+kompjuter, forsirao komplikacije.
+Ovim potezom se bijeli
+oslobodio vezivanja.
+Povukao je kralja s G1 na H1.
+Iznuðen potez.
+Poèeo se malo tresti.
+Tipièno ponašanje šahista,
+kad poènu da brzo
+cupkaju nogom.
+Odmah se vidi da su
+u velikoj nevolji.
+To bi bilo jako
+loše u pokeru.
+U prvoj partiji Deep Blue
+je igrao vrlo èudno.
+Odigrao je više poteza
+koji su me iznenadili.
+Bilo je zbilja loše.
+Naprosto je pomeo
+mašinu sa table.
+Bilo je vrlo lako. Mnogo lakše
+nego što je mogao i zamisliti.
+Jedan naprama nula.
+Gari je opet pobijedio.
+Fantastièna, divna stvar.
+Kvalitet igre je bio grozan.
+Tipièna igra kompjutera.
+Vrlo loš kvalitet, grozno.
+Igrao je kako se i oèekuje
+da kompjuter igra.
+Pored Garija Kasparova
+ekipa Deep Bluea je
+takoðe na pozornici.
+Izgubili smo, a pogledaj nas.
+Èitav tim je bio sretan.
+Zbog toga što smo
+bili samopouzdani.
+Znali smo da Deep Blue
+ima dovoljno sposobnosti.
+Znali smo ako nastavi igrati
+u okviru naše strategije
+naredni ishodi
+æe biti drukèiji.
+Napravili smo male
+prilagodbe
+da popravimo neke
+greške iz prve partije.
+Imamo malo posla noæas.
+Nisam obraæao pažnju,
+pošto sam mislio
+da æu lako pobijediti.
+Pogledajte prvu partiju.
+To je mašina.
+Glupa je.
+Prva partija je bila
+laka, a isto tako
+smo i mi bili impresionirani.
+Kako je moglo
+biti tako lako?
+Nešto tu nije bilo u redu.
+Usavršavaju ga godinama,
+mnogo je brži, a ipak
+je bilo tako lako.
+Ali u drugoj partiji
+Gari je bio slomljen.
+U prvoj partiji kompjuter
+nije vodio raèuna o
+sigurnosti svog kralja.
+U narednim partijama to je
+bilo potpuno promijenjeno.
+Prvu i drugu partiju
+igrala su
+dva razlièita kompjutera.
+Druga partija je bila
+tipièna za ovaj meè.
+Postalo je jasno da
+tu nema partnerstva.
+Bila je to borba
+na život i smrt.
+Druga partijaKasparov zna da kompjuter
+nema slabosti svojstvene ljudima.
+Poput nedostatka
+koncentracije.
+Ali Kasparov može
+uživati u prednostima
+koje imaju ljudi.
+Moguæe je stvoriti
+takve pozicije gdje
+sposobnost raèunanja
+nije u stanju
+da naðe najbolji potez.
+Gari je koristio svoju uobièajenu
+antikompjutersku strategiju.
+Bokirao bi poziciju.
+Kad je pozicija blokirana
+kompjuter ne zna šta da radi.
+Tada kompjuter igra
+bez plana.
+Ali on nije znao
+da sam ja proveo mjesece forsirajuæi
+kompjuter da igra te zatvorene pozicije.
+Zato ih je sad igrao bolje.
+Proveli smo mnogo vremena
+rješavajuæi taj problem.
+Gari se našao u vrlo
+teškoj poziciji.
+Vjerovatno u izgubljenoj.
+Mnogi posmatraèi su mislili
+da se Gari može odatle izvuæi.
+To nije tip pozicije koji
+kompjuter igra dobro.
+Sa malim prednostima,
+bez jasnih linija napada.
+U tom trenutku kompjuter
+je otpoèeo duboku analizu.
+Potrošio je 15 minuta.
+To je bilo
+uznemiravajuæe i èudno.
+Jer je neuobièajeno.
+Povukao je potez i dospio
+u dobitnu poziciju.
+Gari je pomislio:
+"Imam jednu priliku."
+Žrtvovaæu pješaka da
+bih postigao protivigru.
+Ta žrtva je bila igra
+na sve ili ništa.
+Ako kompjuter bude
+igrao kao kompjuter
+i bude išao za uzimanjem pješaka
+i ostvarivanjem materijalne dobiti
+Kasparov æe postiæi protivnapad,
+a kompjuter to neæe primijetiti.
+Kompjuter obièno
+upada u takve zamke.
+Uzima ponuðeni materijal.
+Tako ih ponekad prevare.
+Kompjuter nije uzeo pješaka!
+Umjesto toga je odigrao
+potez u stilu Karpova.
+Umjesto da osvoji dva pješaka
+povukao je strateški potez.
+To osigurava pobjedu
+gledajuæi na duge staze.
+Kompjuteri to ne rade.
+Šta se desilo?
+To je bilo poput eksplozije
+u Garijevoj glavi:
+"To se ne može desiti!"
+"Kompjuter nije dovoljno
+sofisticiran za takav potez."
+"Nešto se èudno desilo, èinilo
+se kao da se neko umiješao. "
+To ga je jako potreslo.
+Možda je nazvao
+Karpova u Moskvu.
+Šta da se radi?
+Kako ga pobijediti?
+Kompjuter je uspio
+sprijeèiti protivigru.
+Kompjuter je rasturio
+Garijevu poziciju.
+Kad je zid probijen
+sve se srušilo.
+Frustrirani Gari je
+odmahivao glavom.
+S gaðenjem je predao
+partiju.
+U drugoj partiji protiv IBM-ovog
+kompjutera Deep Bluea
+Kasparov se predao u poziciji
+koju je smatrao izgubljenom
+umjesto da se bori za remi.
+Stanje u meèu je sada 1:1.
+Ovo nije bila kompjuterska igra.
+Ovo je bio pravi šah.
+To je bila najbolja igra koju je
+ikada pružio neki kompjuter.
+Svi misle tako.
+Ovo pokazuje da je moguæe
+postiæi da kompjuter
+igra pravi šah.
+U stilu velemajstora.
+Ne samo s tom snagom.
+Nego i u stilu velemajstora.
+Bili smo sretni. Naš
+naporan rad se isplatio.
+Znao sam da je to moguæe,
+ali sad je to i dokazano.
+Višemjeseèni posao
+se pokazao u partiji.
+Programeri su imali
+najviše posla.
+Zaslužni su za oko
+90% slagalice.
+Dali su 90% rješenja problema.
+Ali mojih 10% nas
+je dovelo na vrh.
+Osjeæam se sjajno.
+1994. igrao sam s Garijem Kasparovom
+neriješeno na velemajstorskom turniru.
+To je bila jedina partija
+koju nije dobio kao bijeli.
+To mi je donijelo izuzetno
+zadovoljstvo.
+Uokvirio sam zapis
+te partije na zidu.
+Šta ste radili sinoæ?
+Izišli smo van na
+nekoliko koktela.
+On se pitao:
+"Zar je to isti kompjuter?"
+Igrao je kao pacer
+u prvoj partiji.
+Igrao je kao najbolji
+svjetski velemajstor
+u drugoj partiji.
+To nije imalo smisla.
+Nešto se dogaðalo.
+On je onda intenzivno
+analizirao tu partiju.
+Našao je nekoliko poteza
+koji su bili vrlo neobièni.
+Generalno je bilo sumnjivo
+što Deep Blue nije
+igrao kao kompjuter.
+Igrao je kao èovjek.
+Nije stvar u tome da je on igrao
+na višem nivou od oèekivanog.
+Stvar je u naèinu igre.
+Jgrao je poput èovjeka.
+Svi smo mi znali da
+to nije moguæe.
+Da se nešto dogodilo
+u drugoj partiji.
+I kad smo pogledali
+na našim raznim kompjuterima,
+na raznim verzijama Fritza
+ispostavilo se da je
+nemoguæe da pronaðu
+poteze koje je
+povukao Deep Blue.
+Zanimljivo da je Gari
+u završnici partije
+propustio šansu
+da remizira.
+U stvari mogao je remizirati
+igrajuæi na vjeèni šah.
+Jedan od zadnjih poteza
+Deep Bluea bio je velika greška.
+Imao je dvije moguænosti
+da odigra potez kraljem
+i izabrao je pogrešnu.
+Deep Blue je ostavio svog
+kralja pomalo bespomoænog.
+Gari nije mogao pobijediti, ali je
+mogao remizirati vjeènim šahom.
+Nakon partije Fred Friedela
+je neko nazvao iz Njemaèke.
+Rekao je da je Gari
+propusti da remizira.
+Mogao je remizirati.
+Fred je rekao: "Ne."
+Samo pogledajte partiju.
+Na ulici sam rekao Gariju:
+"Bio je remi," i objasnio kako.
+Gari je stao na sred ulice.
+Ljudi su se zabijali u njega.
+Bio je užasnut.
+Rekao je: "Ne znam kako
+kompjuter može vuæi
+onako divne poteze
+koje je odigrao,
+a onda mu promakne
+jednostavan vjeèni šah. "
+Sljedeæa logièna stvar
+je bila da se upitamo
+kako je on to uèinio?
+Objasnite mi to.
+Gari je želio da zna šta
+je bilo s kompjuterom.
+Ko ga je programirao i želio
+je vidjeti zapise logfajlova.
+Gari je tražio da
+vidi ispise.
+Želio je vidjeti logfajlove
+da bi mogao razumjeti
+kako je kompjuter mogao
+odigrati te poteze.
+Odbili su to pokazati.
+Onda su rekli da æe pokazati,
+pa su promijenili mišljenje.
+To je psihološka igra!
+Na neki naèin jeste.
+Nakon druge partije
+Gari je izgledao
+opsjednut idejom
+da se dogodilo nešto
+pogrešno.
+Što je više bio ljut zbog onoga
+što se dogodilo u drugoj partiji
+to je manje bio koncentrisan
+u slijedeæim partijama.
+Treæa partijaMoram da kažem
+da poraz u drugoj partiji
+nije bio samo to.
+Znaèio je gubitak cijelog meèa.
+Više se nisam mogao oporaviti.
+Osjeæao sam se prevarenim.
+U partiji se desilo nešto
+što nije spadalo u moj
+meè protiv Deep Bluea.
+Nešto èega nije
+bilo u pravilima.
+Nije bio u stanju da nastavi meè
+kako bi to uèinio protiv èovjeka:
+"Povukao je zanimljiv potez.
+Moram da pronaðem odgovor."
+Smjesta se poèeo pitati:
+"Otkud mu to?" "Otkud?"
+Propustio je da odgovori
+sa samopouzdanjem.
+Kompjuter ga je zbunio.
+Morao sam se koncentrisati
+na partiju, ali istovremeno
+misli su mi se bavile
+drugom partijom.
+Kad pogledate potez
+koji je stroj povukao
+pomislite, kako to,
+pa to je samo stroj.
+Nije materijalizovao nijednu
+od prednosti koje je stvorio.
+Od toga mu je frustracija
+bivala sve veæa i veæa.
+Na kraju je dosegla plafon.
+I pored prednosti
+prvog poteza
+Kasparov je samo
+remizirao.
+Meè je i dalje
+neriješen, 1,5:1,5.
+Gari, šta Vi mislite?
+Deep Blue je postao dublji?
+Juèer je bio dublji.
+Juèe je to bilo nešto
+potpuno razlièito.
+Ta partija bi trebala biti
+pošteno proanalizirana
+od strane struènjaka
+za kompjutere.
+Pošto se desilo nešto
+veoma zapanjujuæe.
+Ako sam Vas dobro shvatio,
+iako možda griješim,
+Vi smatrate da je bilo ljudske
+intervencije u drugoj partiji?
+Sjeæam se gola koji je
+Maradona postigao 86.
+On je rekao da je to
+bila božja ruka.
+Znao sam šta je
+Gari time mislio.
+Otvoreno nas je optužio
+da se služimo prevarom.
+Nije bilo teško èitati
+izmeðu redova.
+Meni je to bilo sramotno.
+To je trebao biti
+prijateljski meè.
+Nije trebalo da bude
+takvih optužaba.
+Pogotovo kad
+nema dokaza.
+Definitivno je bilo
+pogrešno da Gari
+ove pozicije zadaje Fritzu ili
+bilo kom drugom kompjuteru
+i govori: "Ovako se
+kompjuter ponaša."
+"Ovako bi morao misliti i
+postupati i Deep Blue. "
+Mislim da je uvidio iz
+partija s Deep Blueom
+da on nije kao bilo
+koji drugi kompjuter.
+Deep Blue igra na sasvim razlièitom
+nivou od svih ostalih kompjutera.
+Ljudi zaduženi za odnose
+s javnošæu IBM-a rekli su:
+"To je prijateljski meè,
+nemoj tako govoriti. "
+Rekao sam, "u redu".
+Ali se ljudima iz tima
+sviðao moj pristup.
+On treba uzeti u obzir
+èinjenicu da Deep Blue
+može uèiniti stvari koje on
+nije smatrao za moguæe.
+Ja ne mislim da se tu radi
+samo o pukoj primjedbi.
+Znam bolje od bilo koga
+drugog razliku izmeðu
+Deep Bluea i drugih
+kompjutera.
+Ima samo jedno objašnjenje:
+neko je stajao iza kompjutera.
+Zamislimo èovjeka iza
+slabog kompjutera.
+Moænog u proraèunu, a vrlo
+glupog u shvatanju pozicije.
+Ne treba prièati prièe.
+O èemu se radi kad stroj odbije
+da uzima pješake? Prosta stvar.
+To je odigrao èovjek.
+Ne mora biti Karpov.
+Ne kažem da je
+tamo bio Karpov.
+Dovoljan je jak igraè, èak ne
+mora biti ni velemajstor.
+Neko ko ima pristup
+analizama kompjutera..
+On pogleda listu moguænosti
+koje je kompjuter analizirao.
+On zapazi iz analize da æe
+kompjuter uzeti pješake.
+Ali kralj je ugrožen.
+Èovjek æe to vidjeti, èak
+iako nije neki jak igraè.
+Onda æe poništiti
+tu varijantu.
+Dovoljno je pritisnuti dugme
+da se poništi ta moguænost.
+Bingo! Potez je izbrisan.
+A drugi potez ide
+na vrh moguænosti.
+Taj je najbolji. Zato što èovjek
+može vidjeti prednost za bijelog.
+Oèito je da su èovjek
+i kompjuter zajedno
+jaèi od bilo koga
+od njih samoga.
+Ta je kombinacija
+nepobjediva.
+Teoretski je moguæe
+da je IBM koristio jednog
+ili više velemajstora
+da u kritiènim trenucima
+izvrše uticaj na stroj.
+To se može izvesti.
+Gari je otvoreno rekao
+da su varali.
+Postajao je sve više
+i više uzrujan.
+Ja sam pokrivao ekipu Kasparova
+i izvijestio sam šta je on govorio.
+Ja sam reporter, a ne èovjek
+IBM-a za odnose sa javnošæu.
+Nisam to prihvatio radi
+svoje reputacije reportera.
+IBM me je uvjeravao: "Možeš
+da pišeš kako god zaželiš. "
+Dobro.
+Nakon druge partije
+kad su poèela
+pitanja i pritužbe na ponašanje
+IBM-ovog tima, ja sam o tome pisao.
+To im se nije dopalo.
+Insistirali su da se izbace komentari
+Freda Friedela o Deep Blueu.
+Kao i Garijeve optužbe
+na raèun Deep Bluea.
+Ostajem pri svom mišljenju.
+Prva i treæa partija su bile
+tipiène kompjuterske igre.
+Druga partija je bila
+sasvim razlièita.
+Dakle, gotovi smo ovdje.
+Hvala Gariju Kasparovu.
+Nakon treæe partije je
+neprestano prigovarao.
+"Gdje su ispisi?"
+"Želim vidjeti logfajlove druge partije."
+IBM je to odbio i odbacivao
+je potpuno njegove pritužbe.
+Gari je rekao:
+"Ovo je eksperiment"
+"Ma dajte mi te logfajlove. "
+Neprimjereno je tražiti od protivnika
+da ti pokaže o èemu je razmišljao.
+To je isto kao kad bi
+Kasparov rekao Karpovu:
+"Napiši mi esej o svim varijantama
+o kojima si razmišljao u toku partije. "
+To je otišlo predaleko.
+Imali smo još jednu krizu,
+mislim prije èetvrte partije.
+Kad sam insistirao da
+vidim zapise logfajlova.
+Pojavili su se u mojoj sobi.
+Govorili su da ne mogu
+tako vršiti pritisak na IBM
+"Nemoj insistirati na ovom,
+ili onom, jer æe meè propasti. "
+Blebetanje.
+Irelevantno.
+Pošto nisu mogli
+ništa postiæi.
+Ali èinjenica da su došli
+da mi kažu te stvari
+mislim da je bila dio igre.
+Stalno vršiti pritisak.
+Stalno podsticati frustraciju.
+Svakog dana je bilo
+nešto novo.
+Igrali su se njegovim
+umom, pritiskali ga.
+Ne znam ko je odluèio
+da se tako postupa.
+Velike kompanije nisu
+poznate po tim stvarima.
+Najvjerovatnije je otpoèelo
+napola sluèajno.
+Kad su vidjeli da djeluje,
+to je napalilo èitav tim.
+Taj efekat koji je
+time bio postizan.
+Na primjer, u jednoj partiji
+kompjuter se bio pokvario.
+Došli su i poèeli
+da ga popravljaju.
+Pogledao sam svoju majku
+i svog trenera i nasmijao se.
+Nešto sam rekao, a sudija
+je ubrzo došao i rekao:
+"Ne možete razgovarati
+sa svojim ljudima."
+A ja, "zašto ne?
+Oni s njim stalno govore."
+Upravo su nešto ukucavali
+upravo ispred mene.
+Ljudskom igraèu nije bilo
+dozvoljeno da me pogleda
+i upita: "Šta ima, Frede?"
+Pošto bih mu mogao
+pomoæi na neki naèin.
+Ali oko kompjutera
+su stalno bili ljudi.
+A niko nije znao šta
+sve oni tu rade.
+Došao je do te taèke da je
+odustao prije èetvrte partije.
+Meè je bio gotov. Morali su
+ga ubijediti da se vrati za sto.
+Niko nije o tome ništa
+rekao u javnosti.
+Mislim da to nije ni zabilježeno.
+Ali on je bio potpuno zgaðen.
+Èetvrta partijaÈetvrta partija je možda
+bila velika prilika
+da se doðe u završnicu gdje
+Kasparov ne može pobijediti.
+Rezultat je izjednaèen u meèu
+izmeðu èovjeka i kompjutera.
+Juèerašnja partija izmeðu
+svjetskog prvaka Kasparova
+i IBM-ovog kompjutera,
+Deep Bluea
+završila je remijem
+nakon pet sati.
+Kasparov je priznao da je
+bio preumoran da nastavi.
+Šahisti su oduvijek bili
+skloni da povjeruju
+da protivnici koriste
+neku moæ protiv njih.
+Danas je slièna stvar,
+radi se o kompjuteru.
+Nekada se radilo
+o magnetizmu
+ili o telepatskim moæima.
+To ih je uvijek brinulo.
+Na primjer, u meèu
+Spaskog i Fišera
+jedan igraè je insistirao
+da se stolice razmontiraju
+da bi se utvdilo da u njima
+možda nema nekakav ureðaj
+namijenjen ometanju igraèa.
+Bio je veliki broj
+ruskih igraèa
+koji su s njim radili
+u drugom meèu.
+I nekako, a nisam siguran
+je li to s tim povezano,
+on je postao malo
+više paranoièan.
+Iduæeg dana sam se liftom
+odvezao na 35. sprat.
+Tu me je jedan iz obezbjeðenja,
+mislim da je bio iz tajne službe,
+doèekao, šèepao za
+ruku, i ubacio u lift.
+Rekao je, "dolje žele da
+razgovaraju s Vama."
+Rekao je preko voki-tokija,
+"Šefe, imamo ga."
+"Imamo ga."
+Odveo me dolje.
+Ubacio me je u tu sobu,
+praznu sobu, koja je
+u mom umu bila Gulag.
+Uzeo je moju novinarsku
+iskaznicu.
+Postavio je stražara pred
+vrata da ne mogu otiæi.
+Konaèno se neko pojavio i
+objasnio da se moj èlanak,
+originalni èlanak, pojavio
+na internetu neovlašteno.
+Desilo se to da su bile
+dvije verzije prièe.
+Urednik je pritisnuo
+pogrešno dugme
+i originalni èlanak, sa svim
+pritužbama, je bio objavljen.
+Optužili su me da sam
+neovlašteno upao na sajt
+i tako objavio taj
+èlanak na internetu.
+rekao sam, "Ja i ne
+znam šta znaèi HTML.
+Kako sam mogao
+upasti na sajt?"
+A oni, "Jako ste
+nam sumnjivi."
+Bili su paranoièniji od
+tima Garija Kasparova.
+Da, postoji hotel Moskva.
+Ali prije svega, vi znate
+da bubice za prisluškivanje
+nisu nikakav ruski izum.
+Tehnologija na Zapadu, a posebno
+u SAD, je vjerovatno superiorna.
+Ako stvar nastavimo
+dalje ispitivati,
+biæe reèeno: "Svi
+su oni paranoièni,
+sakriveni ljudi djeluju
+na igru Deep Bluea."
+"Teleskopi i kamere
+snimaju sve poteze."
+"Sobe su ozvuèene."
+Nešto od toga je možda
+istina, ja to ne znam.
+Nemam dokaza i ne želim
+da ulazim u detalje.
+Ali to pokazuje šta su
+ljudi osjeæali tokom meèa.
+Šta radiš?
+Gledao sam zgradu
+na drugoj strani ulice.
+Ugledao sam nešto
+okruglo i sjajno.
+Izgledalo je kao objektiv
+fotoaparata.
+Pogledao sam kroz drugi
+prozor, a Gari je pitao:
+"Šta radiš?", a ja:
+"Ništa, samo gledam."
+Nisam znao šta se to dogaða.
+Zovnuo sam njegovog advokata.
+Izašli smo napolje i
+pogledali dvogledom.
+Advokat je rekao: "Bože, to
+nije kamera, to je teleskop."
+Kad si pod takvim pritiskom
+gledaš naokolo i
+misliš kako bezazleni predmeti
+mogu biti smrtonosno oružje.
+U šahu postoji duga tradicija
+psihološkog ratovanja.
+Spoznaja da nešto
+ometa protivnika
+obièno vodi do toga da
+se koristi ta èinjenica
+da se poveæa njegov
+osjeæaj nelagode.
+Na primjer, ako znate da
+protivnik ne podnosi nikotin
+ili pušenje, staviæete
+cigarete na stol.
+Ili ako mu smeta neko
+od ljudi iz publike
+staviæete tu osobu u prvi
+red da bulji u njega.
+Tako podstièete paranoju
+kod svog protivnika.
+U odreðenom stadiju tog
+meèa mi smo stekli utisak
+da oni tako rade s Garijem.
+Konaèno smo došli
+do sporazuma.
+IBM je rekao da æe ispise
+svih logfalova svih partija
+predati sudiji na kraju meèa.
+Nisu to uradili.
+Prekršili su sporazum.
+Peta partijaDeep Blue i Gari Kasparov.
+Svjetski šahovski prvak
+i superkompjuter iz IBM-a
+remizirali su u juèerašnjoj
+petoj partiji meèa.
+Kažu da je Kasparov
+igrao kao kompjuter,
+a Deep Blue kao èovjek.
+U meèu imaju svaki po
+jednu pobjedu i tri remija.
+Deep Blue u zadnjoj partiji
+ima prednost poèetnog poteza.
+Pobjednik dobija 700, 000,
+a poraženi 400,000.
+"Zaboravite tu razliku." Rekao je
+intermajstor Maurice Ashley.
+"U pitanju je buduænost
+ljudske vrste."
+A sada o vremenu.
+Do tad su veæ mnogi
+znali šta se dogaða.
+Za sve te tenzije
+iza pozornice.
+Kad je Gari izašao na
+binu poslije pete partije
+bio je iscrpljen i oèito
+depresivan.
+Doèekali su ga ovacijama.
+Pomislio sam da æe zaplakati.
+Bio je to jedan od najuzbudljivijih
+trenutaka koje sam vidio u životu.
+Osjetio se ohrabrenim toplotom
+koja je dolazila iz publike.
+Onda je došao tim
+programera iz IBM-a.
+Izašli su arogantni i bili
+doèekani bukanjem.
+Gari, bližimo se kraju meèa
+i sutra je dan odluke.
+Hoæete li igrati oprezno ili æete
+pokušati pobijediti s crnima?
+Pokušaæu vuæi svoje
+najbolje poteze.
+Pokušaæu igrati bolje nego
+u ostalim partijama.
+Ali ne bolje nego
+u drugoj partiji!
+Gari je igrao protiv
+nekoliko kompjutera.
+Prvi put protiv
+Deep Thoughta 1989.
+Zatim protiv Deep Bluea
+1996. i  1997.
+1996. je pobijedio.
+1997. je izgubio.
+U jednom kratkom meèu
+od samo šest partija
+protiv Deep Bluea.
+Ali bilo je mnogo kontroverzi
+vezanih za taj meè.
+Zbog toga što su Gari i
+sva šahovska javnost
+smatrali da je kompjuter
+igrao na sumnjiv naèin.
+Gari se žalio da izgleda da
+ima ljudskih komponenti
+u šahovskim sposobnostima
+kompjutera.
+Na kraju meèa bilo je
+krajnje kontroverzno
+kad je Gari izgubio
+zadnju partiju užasno
+ispod nivoa njegovih
+šampionskih sposobnosti.
+Šesta partijaNakon druge partije
+sve te misli i sumnje
+su mi se motale po glavi
+i moram da priznam
+da su doprinijele
+krajnjem rezultatu.
+Ono što se desilo u šestoj
+partiji više nije bio meè.
+Nisam više želio da igram
+i da ponovo sreæem te ljude.
+Više mi nije bilo stalo.
+Mislio sam da ako budem
+igrao na remi i remiziram,
+završiæemo 3:3, rukovaæemo
+se, smijaæemo se, i nisam...
+Nisam to želio. Htio sam
+se otarasiti svega toga.
+Osjeæali smo da
+smo ga slomili.
+I stvarno jesmo.
+Prije partije smo
+razgovarali.
+Rekao sam:
+"On je slomljen. Ne mislim
+da on danas može igrati."
+Nisam mogao igrati
+znajuæi da sam samo
+laka meta za odstrijel.
+Snimao sam do trenutka kad
+je naèinio odluèujuæu grešku.
+Bilo je mnogo spekulacija
+da li je to bilo planirano,
+ili mu je promaklo.
+Mislim da se može taèno
+vidjeti šta se desilo.
+Na snimku se vidi vrijeme
+utrošeno na svaki potez.
+Možeš znati taèan trenutak
+kad je uvidio da je izgubljen.
+Oborio je glavu i moglo
+se vidjeti da je odustao.
+Partija je izgubljena.
+Izgubio je na veoma
+ljudski naèin.
+U zadnjoj partiji slomio se
+psihološki pod pritiskom.
+Igrao je jadno uz
+oèajne pripreme.
+Poput nekog ko udara
+pogrešnom stranom palice.
+Bilo je strašno,
+žalostan poraz.
+Udarac ljudskosti.
+Poslije šest partija
+u devet dana
+Deep Blue, IBM-ov kompjuter,
+pobijedio je Garija Kasparova,
+kojeg smatraju najboljim
+šahistom svih vremena.
+Deep Blue je pobijedio Kasparova.
+Ruski šampion nije
+bio dobar gubitnik.
+Deep Blue nije pobijedio,
+Gari Kasparov je izgubio.
+Zadnja partija bila je
+ponuðena na tanjiru.
+Deep Blue je dobio
+zadnju partiju
+prije nego je i proraèunao
+svoj prvi potez.
+Još je analizirao svoju
+knjigu otvaranja.
+A sve je veæ bilo gotovo.
+Nešto strašno se desilo
+Gariju Kasparovu.
+Jedan od najhrabrijih
+igraèa na planeti,
+jedan od najèvršæih igraèa,
+slomio se poput djeteta
+u zadnjoj partiji meèa.
+Nešto strašno se desilo.
+Sjeæam se da sam sjedio
+u tom malom separeu
+po završetku šeste partije.
+Sjedio sam
+loše raspoložen, naravno.
+Moja majka je došla i rekla:
+"Gari, nije bitno šta misliš, moraš
+otiæi gore i suoèiti se sa štampom. "
+"Idi i uèini to."
+"Budi èovjek." U redu,
+ja sam profesionalac.
+Svjetski prvak je izgubio meè.
+Ali mislim da je potrebno
+dati nekoliko objašnjenja
+za taj rezultat.
+Bilo je mnogo spornih stvari.
+Mislim da sam napravio jednu
+veliku grešku prije meèa.
+Ne treba potcjenjivati potencijale
+koje ima kompjuterski šah.
+Postojala je namjera da
+se pobijedi Gari Kasparov.
+Kad jedna velika kompanija
+sa neogranièenim sredstvima
+nešto želi, ona ima mnoga
+naèina da to i postigne.
+IBM-ovi ljudi za odnose s javnošæu
+tražili su od nas da se ne smijemo.
+Radovali smo se pobjedi,
+ali nismo skakali od radosti.
+Da bismo došli do naših sjedala morali
+smo da proðemo pored Garijeve majke.
+Garijeva majka
+nam je ironièno pljeskala
+upravo ispred lica.
+Skoro me je lupila po nosu.
+"Èestitam, postigli ste šta ste
+namjeravali, možete biti ponosni. "
+Ali sve što smo mi uradili bilo je
+programiranje šahovskog kompjutera.
+Trebali smo se više veseliti,
+ali nismo to željeli.
+Bilo je ružno, ali to
+æemo prepustiti prošlosti.
+Bio sam šokiran jer nikad
+ranije nisam izgubio meè.
+Uvijek bih se oporavio.
+Èak i u tim nesretno udešenim
+okolnostima u Njujorku 1997.
+Vjerujem da bih pod
+drukèijim okolnostima
+mogao pobijediti.
+To su stvari koje èovjek sebi govori
+da bi se vratio i nastavio igrati.
+Ne možeš razmišljati:
+"Ta stvar je bolja od mene."
+I onda se vratiti u ring.
+Moraš se oporaviti i na neki
+naèin prevaziæi te stvari
+da bi saèuvao svoj
+ego i samopouzdanje.
+"Uspjeæu iduæi put."
+Kasparov je rekao da
+je igrao hendikepiran.
+Igrao je emotivnu igru protiv
+jednog predmeta bez osjeæaja.
+Oèekivao se još
+jedan obraèun.
+Do tada je nagrada od
+700,000 pripada Deep Blueu
+kao predložak za revanš.
+Stajao sam ovdje,
+pored lifta
+i za vrijeme kratkog
+spuštanja sreo
+vrlo poznatog holivudskog
+glumca.
+Prepoznao sam ga i nasmiješio
+mu se, a on me je pogledao.
+I on je prepoznao mene.
+Upitao me je, pomalo tužno,
+"Šta si to napravio?"
+"Izgubio sam meè.
+Dogaða se."
+Ali srediæu glupi
+stroj u revanšu.
+Rekao je: "Ne, neæeš."
+A ja: "Šta?"
+"Sigurno æu pobijediti."
+"Ne, oni ti više neæe
+dati priliku da igraš."
+Uzmimo u obzir da su IBM-ove
+akcije porasle za oko 15%.
+onog dana kad je Deep
+Blue pobijedio Kasparova.
+IBM je izuzetno profitirao.
+Kažu da je IBM zaradio
+stotine miliona dolara.
+Izvještavanje i PR na internetu
+su bili toliko gigantskih proporcija
+da je mreža faktièki stala,
+nije mogla sve preuzeti.
+Bio je to ogroman uspjeh.
+Mnogo je uveæao vrijednost IBM-a.
+IBM je do tada, prije
+meèa protiv Kasparova,
+bio više firma koja proizvodi
+opremu za urede.
+Dok su Microsoft i Intel
+bili lideri u tehnologiji.
+To se odjednom promijenilo.
+Ljudi su poèeli govoriti:
+"IBM ima dobre stvari,
+super stvari. "
+Na kraju su demontirali
+kompjuter.
+Podigli su logor
+i otišli sa milijardama koje su
+dodali vrijednosti kompanije,
+hvališuæi se kako su pobijedili
+najveæeg šahistu u istoriji.
+Deep Blue je spakovan i
+poslan u Poughkeepsie.
+Ostavili su nas s ovim
+dubokim razmišljanjem:
+"Zašto bi igrao ako kasnije ne
+može uèestvovati u slavlju?"
+Šta se desilo?
+Zapeèatili su kompjuter.
+Nema više istraživanja.
+To je to.
+To je kao da odete na Mjesec i to
+ne iskoristite, vratite se bez ièega.
+I kažete: "Samo smo
+željeli prošetati tamo."
+"I neæemo se više vraæati.
+Nema istraživanja, gotovo je."
+Pet godina kasnijeGari je poput slona, ne
+može zaboraviti da je
+1997. izgubio od Deep Bluea.
+Nakon 3,5 godine od
+katastrofe u Njujorku
+doživio je drugu katastrofu
+u meèu protiv Kramnika.
+Bila je to odbrana
+titule svjetskog prvaka.
+Želim povratiti titulu.
+Nadam se da æu dobiti
+meè protiv kompjutera.
+Želim nastaviti igrati
+dugo koliko mognem.
+Želim igrati bolje nego
+1997. protiv Deep Bluea.
+35-ta šahovska olimpijada
+
+Povratak je takoðe
+vrlo moæna stvar.
+Biti u stanju da se
+vratiš sa èetrdeset
+a mnogo si stariji
+od svih protivnika.
+Vratiti se i igrati doslovno
+savremeni šah najbolje,
+to je sjajno postignuæe.
+Najbolji rezultat u ekipnom
+takmièenju Rusija, Kasparov.
+Nije se radilo o osvajanju
+titule, pošto ih imam mnogo.
+Mislim da sam doslovno
+osvojio sve što postoji.
+Bila je to prilika
+da se vratim.
+Možda mogu povratiti
+svoju poziciju u šahu.
+Zbog toga što dok
+igram, igram dobro,
+a onda se i osjeæam dobro.
+Ima mnogo moguænosti
+za povratak.
+Ne može se izbjeæi usporedba
+moje borbe protiv IBM-a 1997.
+s mojom borbom protiv Karpova i
+sovjetskog komunistièkog sistema.
+Ali 1984. i 1985. prije
+meèa protiv Karpova
+nisam imao nikakvih iluzija o
+tome da æu sresti neprijatelja.
+Nisam imao iluzija o tome da
+su odluèni u tome da me slome.
+Po svaku cijenu.
+Ljudska tragedija koja se
+dogodila u Njujorku 1997.
+bila je nešto što
+nisam oèekivao.
+To je bio strašan udarac.
+Mislim da taj meè
+treba biti uvršten
+u kontekst opšteg
+korporativnog morala.
+Prije sloma Enrona
+taj tip ponašanja
+je bio podržavan od
+strane javnog mnjenja.
+Nije se dovodilo u pitanje
+povjerenje u ponašanje korporacija
+pošto je tu bio rezultat.
+Sad shvatamo, kao
+pripadnici društva,
+da i korporacije trebaju biti
+odgovorne pred javnošæu
+jednako kao i vlada.
+Ovo je soba gdje je Deep Blue
+bio posljednjih pet godina.
+U stvari, tu nije bio
+èitav Deep Blue.
+Podijeljen je na dva
+razlièita kompjutera.
+Jedan je u Smithsonianovom
+muzeju u Washingtonu D.C.
+Drugi je ovdje i sad
+æemo ga vidjeti.
+Tu smo, ulazimo.
+Trenutak istine.
+Upravo tamo je Deep Blue.
+To je Deep Blue.
+Njegov brat živi ovdje
+iza sljedeæih vrata.
+Trebam kljuè da ga otvorim.
+Mislim da je zakljuèan.
+Mislim da ga ne mogu otvoriti.
+Februara 2003. Gari
+Kasparov je igrao protiv
+Deep Juniora, svjetskog prvaka
+šahovskih kompjutera iz 2002.
+Rezultat je bi neriješen.
+Garija Kasparova i dalje smatraju
+najboljim šahistom svih vremena.
+SINIŠA M.
+Partije meèa dostupne na

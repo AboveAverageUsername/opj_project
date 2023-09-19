@@ -1,0 +1,2205 @@
+Adaptacija srpskog prevoda
+Bio sam na Agendi 2000
+i jedan od ljudi koji su bili tamo bio
+je Craig Mundie,
+koji je na nekom visokom
+položaju u Microsoftu,
+valjda podpredsednik za klijentske
+proizvode ili tako nešto.
+Naleteo sam na njega u liftu.
+I gledam ja njegovu znaèku pa kažem,
+"Oh, vidim da radite za Microsoft."
+A on me pogleda i kaže,
+"Oh da, a šta vi radite?"
+Zvuèalo je nekako podcenjivaèki.
+Ono znate, gospodin u smokingu
+gleda u zapuštenog hakera.
+Zagledam se ja tako
+na kratko u njega pa mu kažem,
+"Ja sam tvoj najgori košmar!"
+Wonderview Productions
+Predstavlja
+Film
+J.T.S. Moore-a
+REVOLUCIONARNI OS
+U kratkoj, ali burnoj istoriji,
+kompjuterskom industrijom dominirao je
+operativni sistem Windows.
+To bi uskoro moglo da se promeni,
+jer se Windows suoèava
+sa jakom konkurencijom Linuxa.
+Silikonska Dolina je dugo bila mesto
+za razvoj novih tehnologija,
+otvaranja novih kompanija
+i sticanja velikog bogatstva.
+Danas je Dolina mesto revolucije
+koja se bori protiv politièke
+nepravde idejom za:
+SOPSTVENU SLOBODU.
+Danju i noæu, savez
+hakera i programera piše delove
+kompjuterskog koda, po celom
+svetu, kako bi napravili alat
+za oslobaðanje kompjuterskih korisnika
+koristeæi pritom slobodne informacije
+i tehnologije za razmenu podataka,
+kako bi dostigli svoj cilj.
+Ova revolucija je poèela 80-tih
+godina prošlog veka sa
+Pokretom za slobodan softver
+i GNU projektom,
+a danas se vezuje za
+Linux i Open Source pokret.
+Šta je to Linux?
+Imamo jedan sektor koji
+danas shvatamo ozbiljno.
+To je sektor povezan sa Linuxom.
+Mislim da je ovo
+prava prilika da objasnim.
+"Šta je to Linux?"
+Odgovoriæu vam na to pitanje.
+Mnogi od vas to verovatno veæ znaju.
+Linux koristi 12 miliona korisnika.
+To je kompjuterski operativni sistem
+koji su razvile stotine
+programera saraðujuæi preko Interneta.
+Linux je izazov za Microsoft Windows NT.
+Vrlo je popularan zbog svoje brzine,
+i to je ono što je
+najèudnije oko svega ovoga.
+Da bih objasnio šta je Linux,
+prvo moram
+da objasnim šta je to operativni sistem.
+Operativni sistem realno
+ne može da se vidi.
+Jer...
+niko od vas u stvari
+ne koristi operativni sistem,
+ljudi koriste... programe...
+na svojim raèunarima.
+A jedini cilj operativnog sistema
+u "životu"
+je da pomaže tim
+programima pri izvršavanju.
+On nikada ne radi ništa samovoljno.
+Samo èeka da programi
+zatraže odreðene resurse ili
+odreðene datoteke na disku
+ili daje moguænost programima da se
+povezuju sa spoljašnim svetom.
+Tu uskaèe operativni sistem,
+pokušavajuæi ljudima da olakša
+pisanje programa.
+I, šta je to Open Source?
+Open Source je naèin
+na koji ljudi saraðuju
+na softveru bez razmišljanja o
+problemima oko intelektualne svojine,
+da ne moraju da pregovaraju o ugovoru,
+svaki put kada kupuju deo softvera,
+sa armijom advokata umešanih u sve to.
+U globalu, mi samo želimo
+softver koji radi,
+i ljude
+koji æe samovoljno raditi
+razne dodatke za njega, itd.
+Na neki naèin mi žrtvujemo
+prava intelektualne svojine,
+i dozvoljavamo èitavom svetu
+da koristi taj softver.
+Za razvoj Linux-a
+Zaslužan je i Richard Stallman i
+Fondacija za slobodan softver (FSF).
+Ljud misle da je Richard Stallman...
+veliki filozof, zar ne.
+Ja mislim da je on inženjer
+Richard Stallman je osnivaè i otac
+ideje o slobodnom softveru.
+Kroz svoja nastojanja da napravi
+GNU operativni sistem,
+napravio je legalnu, filozofsku
+i tehnièku fondaciju
+koja se bori za slobodan softver.
+Bez njegovih doprinosa,
+teško da bi se Linux i Open Source
+razvili do današnjih razmera.
+Pridružio sam se MIT Laboratoriji
+za veštaèku inteligenciju 1971.,
+Pridružio sam se...
+uspešnoj hakerskoj zajednici,
+ljudima koji vole programiranje,
+vole da istražuju šta sve može
+da se uradi pomoæu raèunara.
+Oni su sami napravili
+èitav operativni sistem,
+kompletno napisan u toj laboratoriji.
+Tako sam postao deo njih, i
+nastavio da radim na tom operativnom
+sistemu, dodajuæi nove moguænosti.
+To je bio moj posao i obožavao sam ga,
+svi smo ga obožavali. Zato ga i radimo.
+Naš operativni sistem smo nazvali
+"the Incompatible Time Sharing System"
+("Nekompatibilni sistem deljenja vremena")
+što je primer
+razigranog duha
+koji je odlika svakog hakera.
+Hakeri su ljudi koji vole
+da rešavaju probleme.
+Prvo je krenulo pogrešnim tokom
+kada je spoljašni svet poèeo
+da nas gnjavi sa lozinkama.
+Mi nismo imali lozinke
+na našim raèunarima.
+Razlog tome bio je taj da su hakeri,
+koji su izmisli taj OS,
+smatrali da je lozinka naèin da
+administrator kontroliše sve korisnike.
+Oni nisu želeli da naprave alat,
+kojim bi administrator
+mogao da ih kontroliše,
+pa ga nisu ni napravili.
+Izostavili su ga.
+Naša filozofija je bila
+da ko god sedi za raèunarom
+može da radi šta god želi.
+Neko ko je radio juèe, ne može da
+kontroliše šta æeš ti da radiš danas.
+Kada su stavili lozinku
+na jedan MIT raèunar
+meni i grupi hakera se to nije svidelo.
+Odluèio sam da pokušam
+da "razbijem" lozinku.
+I našao sam naèin da je dekodiram,
+gledajuæi u bazu podataka
+sa raznim lozinkama
+video sam šta ljudi najèešæe
+upisuju pri prijavljivanju.
+Poslao sam pismo sa porukom
+"Zdravo! Vidim da ste izabrali
+lozinku mumble (mumlanje),
+ili tako nešto. Šta mislite
+da uradite ono što sam ja uradio,
+samo pritisnite Enter umesto lozinke.
+Kraæe je i mnogo se lakše unosi".
+Naravno, s tom porukom sam hteo
+implicitno da im kažem da im je
+zaštita u stvari bila smešna.
+Pokazao sam im kako sam otkrio lozinku.
+Na kraju mi se pridružilo pet korisnika,
+od svih koji su koristili taj raèunar
+i koristili su samo
+Enter kao svoju lozinku.
+Kada je nastala ideja za nešto
+što danas nazivamo Open Source svet?
+Kako je to sve poèelo?
+Ko je to zapoèeo?
+Poèelo je samim poèetkom
+modernog raèunarstva. U to vreme
+softver se razmenjivao
+samo izmeðu ljudi.
+Mislim da je to trajalo do
+kasnih 70-tih ili ranih 80-tih.
+Tada su ljudi poèeli
+da ogranièavaju svoj softver
+govoreæi "Ne, ne možeš više nikad
+da vidiš izvorni kod mog softvera.
+Ne možeš da menjaš moj softver,
+èak iako je neophodno
+da ga nadogradiš i prilagodiš
+svojoj sopstvenoj aplikaciji"
+Za takvo stanje je u stvari
+kriv Microsoft.
+Oni su pravi zaèetnici takovog
+modela vlasnièkog softvera.
+Sredinom 1970-tih, grupa hakera
+ljubitelja raèunara u Silikonskoj dolini
+osnivaju "Raèunarski klub Homebrew".
+31. januara 1976.
+u klub je stiglo pismo,
+od Billa Gatesa, koji je
+nešto ranije osnovao Microsoft.
+Bilo je to otvoreno pismo
+èitavoj raèunarskoj zajednici
+gde je on, argumentujuæi taèku po taèku,
+razradio novi koncept vlasnièkog softvera.
+Do tada, praksa korisnika raèunara
+bila je da slobodno razmenjuju softver
+bez obraæanja pažnje
+na vlasništvo softvera.
+U pismu poznatijem kao Otvoreno
+pismo hobistima, Gates piše:
+"Za mene je najkritiènija
+stvar na hobi-tržištu
+nedostatak dobrih kurseva o
+softveru, knjiga i samog softvera.
+Bez dobrog softvera i vlasnika
+koji se razume u programiranje,
+hobi raèunarstvo je beznaèajno.
+Hoæe li kvalitetan softver biti
+napisan za hobi tržište?"
+Gates dalje piše: "Povratne
+informacije koje smo dobili
+od stotine ljudi koji kažu da
+koriste BASIC su pozitivne.
+Ipak, dve stvari iznenaðuju.
+Prvo, veæina tih "korisnika" nikada
+nije kupila BASIC, i
+drugo, kada bi ukupnu svotu novca
+koji smo zaradili od Altair BASIC-a,
+rasporedili, ispalo bi da smo
+radili za manje od 2 dolara po satu.
+Zašto je to tako?
+Kao predstavnici hobista
+morate da shvatite
+da veæina hobista krade
+softver koji koristi.
+Hardver mora da se plati,
+a softver je ono što se deli.
+Koga interesuje da li su ljudi koji su
+napisali softver uopšte plaæeni za to?
+Da li je to pošteno?
+Jednu stvar ipak ne radite
+kraðom softvera,
+ne javljate se MITS-u ukoliko
+imate neki problem sa softverom.
+MITS ne zaraðuje prodajuæi softver.
+Jedina stvar koju radite je to
+da speèavate pisanje dobrog softvera.
+Ko može sebi da dozvoli
+da profesionalno radi za džabe?
+Ko od vas hobista može da potroši
+tri godine na programiranje,
+pronalaženje grešaka, dokumentovanje svog
+proizvoda i da ga besplatno distribuira?
+Èinjenica je,
+da niko pre nas nije uložio
+mnogo novca u hobi-softver.
+Šta je sa onima koji
+preprodaju Altair BASIC?
+Zar oni ne zaraðuju na hobi softveru?
+Zaraðuju, ali oni koju budu prijavljeni,
+mogu na kraju sve da izgube.
+Oni su doveli hobiste na loš glas,
+i treba da budu izbaèeni iz
+klubova u kojima se pojave.
+Poštovaæu pisma od svih vas
+koji plaæate svoj softver,
+ili imate neke predloge
+ili komentare."
+Potpisano sa Bill Gates,
+generalni direktor, Micro-Soft.
+Krajem 70-tih i poèetkom 80-tih,
+Richard Stallman je
+radio istraživanja na veštaèkoj
+inteligenciji i kodirao
+u MIT laboratoriji
+za veštaèku inteligenciju.
+Richard je imao nekoliko
+neprijatnih iskustava
+tokom tog perioda,
+koja su mu zgadila
+celu ideju oko
+komercijalnog softvera.
+Na primer?
+Neka kompanija je imala problema sa svojim
+softverom, nije mogla da nastavi sa radom.
+On je tražio da mu daju programski kod
+kako bi mogao da ga popravi, ali nisu dali
+iako bi od toga imali korist,
+jer bi nastavili sa radom.
+To me je bacilo u moralnu dilemu.
+U ranim 80-tim, da bi ste radili
+na nekom modernom raèunaru,
+Morali ste da kupite legalan
+operativni sistem.
+Ljudi koji su ga razvili nisu
+hteli da ga dele drugima.
+Umesto toga, hteli su
+da kontrolišu korisnike,
+da dominiraju nad njima,
+postavljaju zabrane.
+Govorili su, ako želiš
+da dobiješ sistem,
+moraš da obeæaš da ga
+neæeš davati nikom drugom.
+Meni je to u stvari bilo kao
+da sam obeæao da æu biti loš èovek,
+da æu da izdam ostatak sveta,
+da izbacim sebe iz društva i
+iz kooperativne zajednice.
+Veæ sam iskusio šta se dogaða
+kad su drugi to radili nama,
+kada su odbili da dele sa nama,
+zato što su potpisali ugovor.
+To je povredilo sve u laboratoriji,
+spreèilo nas je da
+radimo korisne stvari.
+Zato ja to nisam hteo da uradim.
+Mislio sam "To je pogrešno!
+Neæu tako da živim"
+Zbog takvih iskustava je on
+razvio potpunu odbojnost
+prema ideji o pravu na
+intelektualnu svojinu i softver.
+To je glavni razlog zbog koga je
+osnovao Fondaciju za slobodan softver.
+Pokušao sam da naðen još neku
+alternativu i shvatio:
+Ja sam razvojni programer
+operativnog sistema.
+Kada bih mogao da razvijem
+još jedan operativni sistem.
+I tada bih, kao autor, podsticao
+sve da ga dele sa drugima.
+Govorio bih svima "Doði i uzmi ga,
+koristi ga, organizuj novu zajednicu"
+Ne samo da bih ja mogao
+da koristim raèunar
+bez potrebe da izdam druge ljude,
+nego bih ga dao i drugima.
+Svi bi smo našli izlaz
+iz te moralne dileme.
+Tada je ta ideja postala
+moj životni cilj.
+Pokrenuo sam projekat u januaru 1984.
+To je bilo nakon što sam
+dao otkaz na MIT-u
+kako bih mogao da zapoènem
+razvoj GNU operativnog sistema.
+Sada æu da objasnim zašto je ime GNU hak.
+To je u stvari rekurzivni akronim.
+To u stvari znaèi "GNU Nije Unix".
+Vidite da slovo "G" u "GNU"
+u stvari predstavlja to "GNU".
+A šta to ime zapravo znaèi?
+Razvijao sam sistem koji je bio
+slièan Unix operativnom sistemu,
+ali to nije bio Unix operativni sistem.
+Bio je to drugaèiji sistem.
+Morali smo da ga kompletno
+napišemo od poèetka,
+jer je Unix bio vlasnièki i zaštiæen.
+Bilo nam je zabranjeno da delimo Unix.
+Nismo mogli da ga koristimo.
+Bio je beskorisan za zajednicu.
+Zato smo morali da napišemo
+zamenu za njega.
+Tokom 80-tih,
+dok je Richard Stallman
+radio na GNU projektu,
+informatièari sa Univerziteta
+Berkeley iz Kalifornije
+razvijali su svoj vlastiti
+slobodni operativni sistem.
+Poznatiji kao Berkeley Unix, ili BSD,
+bio je zasnovan na Unix kernel-u
+koji je bio pod licencom AT&T.
+Ipak, zbog vlasnièkih problema sa AT&T
+i zbog rasparèanosti izvornog koda,
+hakeri i ostali korisnici
+sporo su ga prihvatali.
+Unix se sastoji od velikog
+broja odvojenih programa
+koji meðusobno komuniciraju.
+Samo smo trebali da zamenimo
+te programe jedan po jedan.
+Tako sam ja poèeo da pišem
+zamenu za jedan program,
+pa još jedan, i još jedan,
+i onda su ljudi poèeli
+da mi se pridružuju,
+jer sam objavio oglas u kojem sam
+pozivao ljude da mi se prikljuèe
+da mi pomognu u pisanju tih programa.
+I tako negde 1991., praktièno smo
+zamenili sve te programe.
+Recite nam neke od programa koje ste...
+Pa... trebali su nam...
+da bi imali kompletan sistem,
+potrebno je imati kernel,
+a to je program koji
+rasporeðuje resurse
+svim drugim programima,
+potreban je kompajler,
+koji prevodi programski kod
+iz èitljivog izvornog koda koji
+razumeju programeri, u brojeve,
+misteriozne brojeve koje
+raèunar praktièno ume da izvršava.
+Potrebni su i drugi programi koji
+dolaze uz kompajler i pomažu mu u poslu.
+Potreban je i debugger.
+Potreban je ureðivaè teksta,
+pa neki program za
+formatiranje teksta.
+Potrebni su programi za poštu...
+potrebno je mnogo stvari.
+Postoje stotine programa u
+operatvnom sistemu nalik Unixu.
+Video sam Stallmanov oglas.
+U stvari, sreo sam ga u februaru 1987.
+Došao je da održi petodnevni
+kurs o Emacsu u našoj kompaniji.
+Preko dana je objašnjavao
+novi naèin razmišljanja o Emacsu,
+naèine na koje možemo da ga proširimo,
+unapredimo i koristimo Emacsov izvorni kod
+na jednostavniji ili teži naèin.
+Ali uveèe, užurbano je radio
+na svom kompajleru,
+koji tada još uvek nije
+bio predstavljen javnosti,
+pa je Richard pazio
+kome pokazuje izvorni kod.
+Ali ja sam bio nestrpljiv,
+i kada ga je u junu objavio,
+odmah sam ga preuzeo.
+Igrao sam se s njim.
+Promenio sam neke sitnice.
+I kada sam mu nazad poslao izvorni kod,
+bio je veoma iznenaðen,
+kako sam u tako kratkom vremenu
+shvatio njegovu tehnologiju.
+Šta god bi radili na Stanford-u
+ili na univerzitetu,
+radili bi smo, obièno uvek
+na raèunarima Digital Equipment
+ili Sun, uglavnom Sun.
+Kad god bi smo dobili Sun raèunar,
+prva stvar koju bi uradili je
+da smo provodili doslovno dane
+preuzimajuæi GNU slobodan softver
+sa Interneta,
+sklapali bi ga i instalirali
+na Sun raèunare.
+Krucijalna stvar kod GNU-a
+je to što je on slobodan.
+Naziv "Slobodan (free) softver" se
+ne odnosi na cenu nego na slobodu.
+Misli se na slobodu govora,
+ne na besplatno pivo.
+Sloboda o kojoj govorim
+je sloboda da pravite izmene
+ako želite,
+ili da zamolite nekoga
+da to uradi za vas
+ako koristite softver u poslu,
+da delite kopije sa drugima,
+poboljšavate ga i objavljujete
+tako da i drugi imaju koristi
+od tih poboljšanja.
+To su slobode koje razlikuju
+Slobodan softver od neslobodnog.
+To su slobode koje omoguæavaju
+ljudima da osnivaju zajednice.
+Ako nemate sve te slobode,
+podeljeni ste i neko
+drugi upravlja vama.
+Moje prvo iskustvo
+u vezi slobodnog softvera
+dogodilo se krajem 1989.,
+poèetkom 1990.
+Radio sam kao apsolvent na
+Stanford Univerzitetu
+na alatima za raèunarski podržan dizajn.
+Jedan od alata koji mi je trebao
+bio je takozvani parser generator.
+A Fondacija za slobodan softver
+predvoðena Richardom Stallmanom
+napravila je odlièan alat nazvan "bison".
+Trebao mi je alat koji bi radio sa C++-om.
+Bison je radio sa C-om.
+Izmenio sam bison i napravio nešto
+što sam nazvao "bison++".
+Odlièan je oseæaj kada možeš
+da uzmeš deo dostupnog softvera
+i napraviš ono što ti treba,
+menjajuæi ga za kratko vreme.
+Vratio sam ga nazad na Internet
+i iznenadio se koliko ga je ljudi
+preuzeo i poèeo da koristiti.
+Seæam se kada sam išao
+na razgovore za posao.
+Ponekad sam tražio nešto da radim,
+pa sam išao na razgovore za posao.
+I razgovaram ja tako sa jednim èovekom,
+i pitam ga koji alat koriste,
+a on kaže: "Koristimo bison++!"
+a ja kažem, "Hej, ja sam autor bisona++!"
+Slobodan softver generalno
+ima autorska prava.
+Ima vlasnika.
+Ima i licencu.
+Nije u javnom vlasništvu (public domain).
+Kada bi bio u javnom vlasništvu,
+neko drugi bi mogao da napravi
+male izmene na njemu
+i da ga stavi u
+vlasnièki softver,
+što znaèi da bi korisnici
+koristili naš softver,
+ali nebi imali slobodu
+da saraðuju i da ga menjaju.
+Kao prevencija tome, mi
+koristimo tehniku nazvanu "Copyleft".
+Ideja Copylefta je
+suprotnost Copyrightu.
+Ono što mi u stvari radimo je da kažemo,
+ovaj softver je zaštiæen
+a mi, autori dozvoljavamo vam
+da delite kopije,
+dozvoljavamo vam da ga menjate,
+dozvoljavamo vam da ga nadograðujete.
+Ali kada ga delite dalje,
+mora da bude pod istim ovim uslovima,
+ni manje ni više.
+Dakle, ko god ga dobije od vas
+takoðe dobija i slobodu da saraðuje
+sa drugima, ako to želi.
+I tada, na taj naèin,
+svuda gde ide softver,
+ide i sloboda.
+I to postaje neotuðivo pravo svakoga
+da saraðuje sa drugima
+i osnuje zajednicu.
+Šta je onda u stvari ta licenca?...
+Pa, Copyleft je osnovna ideja,
+ako želite da koristite program,
+morate da imate primerak licence.
+Primerak licence koji koristimo
+za veæinu GNU softverskih paketa
+je GNU Opšta Javna Licenca (GPL),
+svojevrsni pravni dokument
+kojim su rešene sve pravne pojedinosti.
+Dosta ljudi koristi istu tu licencu,
+na primer,
+Linus Torvalds je koristi za Linux.
+Licenca koju ja koristim je
+GNU Opšta Javna Licenca.
+Istu onu koju je napisao
+Richard Stallman.
+I mislim da je ona
+stvarno dosta doprinela.
+Ona je jedna od nekoliko
+softverskih licenci koje su napisane
+sa stanovišta zajednice
+a ne sa stanovišta zaštite kompanije
+kao što je bio sluèaj
+sa MIT-om i BSD licencom
+koja je zastupala državne ciljeve.
+Zato je OJL jedinstvena.
+To nije samo licenca.
+To je èitava filozofija koja,
+po mom mišljenju,
+motiviše ideju otvorenog koda.
+Ne krijem da sam mnogo toga uradio
+zahvaljujuæi Stallmanu.
+Krucijalni korak u razvoju GNU/Linuxa
+i pokreta za slobodan softver
+je osnivanje poslovanja
+zasnovanog na softveru i filozofiji.
+Zaèetnici te poslovne faze
+bili su Electronics Research Lab
+na Stanford Univerzitetu.
+Poznatija kao ERL, laboratorija
+je bila prvo mesto za posao
+inspirisan GNU-om i Linuxom.
+Upravo na ovom mestu je bio ERL.
+Ulaz je bio tamo, pored
+zgrade McCullough za elektrotehniku.
+Kad bi ušli, došli bi ovde,
+išli bi hodnikom, baš ovde ispod.
+Moja kancelarija je bila baš tu negde,
+a sa desne strane hodnika
+bila je kancelarija Michaela Tiemanna.
+Michael Tiemann osnovao je
+kompaniju Cygnus Software
+koja se bavila podrškom oko
+GNU slobodnog softvera
+i išlo mu je veoma dobro.
+Proveo sam mnogo vremena razmišljajuæi,
+na koji naèin da zaraðujemo novac
+i u originalnom GNU manifestu
+koji je zapravo zadnje poglavlje
+GNU Emacs priruènika,
+Stallman je predložio dosta
+naèina za zaraðivanje novca.
+Od samog osnivanja
+Pokreta za slobodan softver
+imao sam ideju kako
+ukljuèiti biznis u sve to.
+Jedna od prednosti
+slobodnog softvera je da postoji
+slobodno tržište za
+bilo kakve servise i podršku.
+Dakle, ako koristite
+softver za posao
+i želite dobru podršku,
+možete da birate od koga æete je dobiti,
+imate moguænost da birate kompaniju
+koja se bavi pružanjem podrške.
+A oni su primorani
+da vam pruže dobru podršku
+ili æete se u protivnom
+obratiti nekom drugom.
+Kod vlasnièkog softvera,
+podrška je monopol.
+Postoji samo jedna kompanija
+koja ima izvorni kod softvera
+i samo oni mogu da vam pruže podršku
+tako da ste prepušteni
+na milost i nemilost monopolu.
+Takav je sluèaj sa Microsoftom.
+I nije èudno da im je podrška tako loša.
+Korist od slobodnog softvera je
+ogromna, ali cena davanja podrške
+èini menadžere nervoznim.
+Glavna ideja koju sam imao je
+da napravimo model
+kojim bi pružali podršku
+dva do èetiri puta brže
+sa moguænošæu da
+i inženjer kompanije
+može da je pruža.
+I to smo mogli da uèinimo
+za polovinnu do èetvrtine cene.
+To bi bio test da li bi
+ljudi stvarno kupovali.
+I krajem te godine,
+imali smo sve razraðeno oko toga
+kome je trebao tehnièki tim,
+koji su uslovi prodaje,
+koja je osnovna cena, i
+osnovali smo trgovaèko preduzeæe
+u novembru 1989.
+Jedna od najtežih stvari prilikom
+osnivanja naše kompanije
+bila je pronalaženje adekvatnog imena.
+Objasnio sam to jednom mom prijatelju
+"imamo nekih problema"
+On mi je odgovorio e-porukom
+koja je sadržala gomilu reèi
+koje su sadržale reè "GNU" u sebi.
+"Cygnus" je bila jedna od njih
+i bila je najprihvatljivija.
+Mogu reæi da je Cygnus bila
+prva kompanija koja se
+specijalizovala za Slobodan softver.
+Cygnus je davao
+podršku za slobodan softver,
+popunjavajuæi vrlo bitnu prazninu
+jer smo imali odlièan softver,
+koji ste mogli da dobijete besplatno, ali
+niste mogli da dobijete podršku,
+oni su zaraðivali naplaæujuæi podršku.
+GNU projekat je zapoèeo
+izradom korisnih alata,
+osnovnih razvojnih alata kao što su
+C kompajler, debugger, ureðivaè teksta,
+i ostali potrebni delovi.
+A namera im je bila razvoj kernela
+koji bi upravljao svim tim alatima
+i bio centar operativnog sistema.
+Negde 1990. oni su uspešno
+razvili taj alat,
+i bio je u širokoj primeni
+u mnogim varijantama Unixa.
+Ali slobodan kernel još nije postojao.
+Kernel je bio jedna od poslednjih
+stvari koju smo zapoèeli
+a zapoèeli smo ga ne tako davno.
+I onda se pojavio Linus Torvalds.
+"Lin-us" ili "Line-us"? Šta je ispravno,
+kako volite da vas ljudi zovu?
+Kada govorim švedski onda je "Lee-nus";
+kada govorim finski onda je "Leen-ous";
+a kada govorim engleski onda je "Line-us".
+U stvari, uopšte nije važno
+kako ljudi izgovaraju moje ime.
+Ali "Linux" je uvek "Linux".
+On je razvio kernel,
+i njegov je proradio pre našeg,
+i radio je vrlo dobro.
+Njegov kernel je nazvan "Linux".
+Glavni cilj je u stvari bio moj lièni cilj
+da na svom raèunaru
+imam slièno okruženje
+koje sam naveliko koristio
+na univerzitetskom raèunaru.
+Nisam mogao da naðem ništa
+što bi moglo da zadovolji moje potrebe.
+Bavio sam se raèunarima èitav svoj život.
+Tada sam odluèio da napravim svoj kernel.
+Inspiraciju sam dobio od SunOS-a
+koji sam tada koristio na univerzitetu.
+Na kom univerzitetu?
+Helsinškom univerzitetu u Finskoj.
+Period od 1991 do od prilike 1993 bio je
+pravi poèetak razvoja Linuxa.
+Bilo je to kada je
+još uvek imao probni kvalitet;
+bio relativno nestabilan.
+I pored toga, bio je stabilniji
+od mnogih koje danas nazivamo
+"produktivnim" operativnim sistemima.
+Linus je koristio tradicionalni
+"probaj i saznaj" metod pisanja programa
+koji završava posao,
+i uspeo je da proradi.
+Brzo, pa èak i brže nego što sam
+mislio da je to moguæe.
+Termin za to je "monolitan",
+što u stvari znaèi da je OS
+jedan nedeljivi entitet.
+Dok je u mikrokernelu,
+kernel operativnog sistema
+je u stvari skup servisa
+koji rade razlièite stvari
+po usklaðenom protokolu
+i na taj naèin komuniciraju meðusobno.
+Zašto se GNU projekat mnogo produžio,
+zašto je na kraju došao
+u delovima a ne u celini?
+GNU Hurd smo zapoèeli ne mnogo pre
+nego što je Linus zapoèeo svoj Linux.
+I odluèili smo da napravimo
+veoma napredan dizajn
+u smislu dobijenih moguænosti
+ali je ispalo da je bilo
+veoma teško da se debaguje.
+Odluèili smo da podelimo kernel
+koji je sve do tada bio jedan program,
+da ga podelimo na manje programe
+koji bi asinhrono komunicirali,
+pomoæu poruka.
+Problem je bio u tome
+što takav naèin programiranja
+stvara puno grešaka,
+koje je vrlo teško otkriti
+jer zavise od toga...
+da li je ovaj program poslao ovu poruku
+pre ili pošto je onaj program poslao onu poruku...
+Rezultat je bio:
+trebale su nam godine da sve to proradi.
+Kakva je veza Linuxa sa GNU projektom?
+Veza sa GNUom se zasniva na više nivoa.
+Jedan je filozofski stav koji kaže
+"uèiniti svoj izvorni kod slobodnim
+je dobra ideja".
+Kada je Linus razvijao kernel
+nije ga razvijao za GNU projekat.
+Radio je to nezavisno.
+I objavio ga je nezavisno
+i mi nismo uopšte znali za to.
+Ali neki ljudi koji su znali za to
+odluèili su da vide
+šta sve mogu da pronaðu
+kako bi spojili sa kernelom
+i napravili èitav sistem.
+I tako su "njuškali" okolo.
+i sve što im je trebalo
+veæ je bilo dostupno.
+Pomislili su: "Imamo sreæe!".
+A stvar nije bila tako jednostavna.
+Oni su pronašli sve delove GNU sistema
+kojima je nedostajao samo kernel,
+i kada su to sve spojili,
+u stvari su Linuxom
+popunili rupu u GNU sistemu.
+Ali oni to nisu znali.
+Bilo je tu mnogo programa
+razvijenih od strane
+Fondacije za slobodan softver,
+i od drugih kojima se svideo Linux.
+I tu je bila simbioza izmeðu
+Linuxa i programa.
+Ti programi se na Linuxu
+izvršavaju istovremeno
+i koriste prednost Linuxa kao platformu,
+dok Linux koristi prednosti programa
+samim tim što može da ih koristi.
+O kojim programima je reè?
+Glavni program je GNU C kompajler.
+Bez C kompajlera nebi bilo moguæe
+uèiniti Linux ili veæinu
+otvorenog napretka moguæim.
+Linux koristi OJL,
+i ja se slažem sa celom tom
+filozofijom koja stoji iza OJL.
+OJL nije nešto naroèito prijatan dokument
+ali je to tako zato što nijedan pravni akt
+ne može da bude posebno prijatan.
+Koristio sam Linux
+od negde kraja 92. ili poèetka 93.
+nekih godinu dana.
+Pre nego što sam shvatio da
+u stvari imam sve što mi je potrebno
+da potpuno zamenim Sun radnu stanicu.
+Tražio sam naèin kako da imam
+Unix radnu stanicu kod kuæe
+u vreme kada smo radili na Sun Spark
+stanicama na Stanfordu.
+Te mašine su koštale oko 7.000 dolara.
+Oèajnièki sam želeo da imam
+Unix mašinu kod kuæe!
+Kao apsolventi smo mislili
+"Eh, kad bih mogao da radim kod kuæe,
+bio bih mnogo produktivniji,
+pre bih diplomirao zato što bih
+pre napisao diplomski rad"
+Da li je to taèno? Ocenite sami.
+Znate mnogo ljudi koji troši svoje vreme
+kako bi bili što produktivniji
+mogu da završe svoj rad za jedan dan.
+Ponekad je potrebno više vremena.
+I tako sam odluèio da
+želim Unix raèunar kod kuæe.
+Saznao sam da mogu da koristim
+PC u kombinaciji sa Linuxom.
+Za oko 2.000 dolara,
+sastavio sam sistem
+koji je bio 1,5 do 2 puta brži
+od Sun Sparc stanica
+koje su koštale 7.000 dolara.
+To je jednostavno bilo zapanjujuæe.
+Imao sam skoro duplo brži raèunar,
+za treæinu ili èetvrtinu cene.
+Sinula mi je odlièna ideja.
+Znao sam da ovde postoji
+mnogo moguænosti.
+Bila je to prilika da se stvarno uradi
+nešto bolje nego što je Sun uradio,
+a sve uz pomoæ
+otvorenog koda i Linuxa.
+Linux je bio originalni radni naziv.
+"Linus" je zbog mog imena,
+a "X" je jednostavno
+morao da bude dodat.
+To je zbog Unixa.
+To mora da bude tako.
+I... šta se to u stvari dogodilo...
+Mislio sam da je previše egoistièno
+da ga za javnost nazovem po sebi.
+Ali to je bilo
+pre nego što sam postao egoista.
+Pomislili su da su stavili mnogo
+komponenti oko Linux-a
+pa su ga zato nazvali
+"Linux Sistem"
+i nekako se taj termin odomaæio.
+A rezultati su ti
+da sada 10 miliona ljudi koristi
+tu varijantu GNU sistema...
+GNU/Linux operativni sistem.
+A veæina njih to uopšte i nezna.
+Neki propagiraju da se naziva GNU/Linux.
+Šta vi mislite o tome?
+Odobravate li to ili ne...
+Opravdano je ako napravite
+GNU distribuciju Linuxa.
+Recimo nešto kao Red Hat Linux,
+ili SuSE Linux, ili Debian Linux.
+Zato što ako napravite svoju
+distribuciju Linuxa
+morate nekako da je nazovete.
+Ali Linux uopšteno nazivati "GNU Linux"
+mislim da je neumesno.
+Uèestvovao sam na Fall '93.
+Zato što sam poslao kopiju prvog CD-ROM-a
+komercijalne Linux distribucije,
+koja se zvala Yggdrasi,
+proizvoðaèa Adama Richtera.
+A dobio sam kopiju...
+jer samostalno pišem slobodan softver
+dugo vremena, još od ranih 80-tih.
+Bio sam u stvari jedan
+od prvih GNU prilagaèa.
+I bio sam zaèuðen,
+bio sam potpuno zaèuðen.
+Zato što sam bio softverski
+inženjer skoro 15 godina.
+Radio sam u skladu sa svim
+pravilima za koje sam znao
+kao npr. kontrolisanje složenosti,
+održavanje male projektne grupe,
+pažljivo sam upravljao ciljevima.
+Linux je trebao da propadne,
+ali nije.
+Umesto topa, bio je nešto prelepo,
+i pokušavao sam da shvatim
+kako su to uspeli.
+Linuxu je za širenje po svetu
+raèunarskih programera
+bila potrebna aplikacija koja bi ga
+uèinila neophodnom tehnologijom
+No i to je rešeno
+sa razvojem programa koji
+omoguæava složene web prezentacije
+Taj program je Apache web server.
+"Najjaèa" aplikacija Linuxa
+nesumljivo je bio Apache web server.
+Ako prouèite istoriju Linuxa,
+razvojna kriva Linuxa i
+razvojna kriva Interneta
+slede jedna drugu.
+Apache web server projekat
+zapoèet je 1993.
+Tada su bili i poèetci
+ISP popularizacije
+kada je Internet prvo postao
+globalna potreba
+i kada se pojavila ideja
+o Internet poslovanju
+a i masovna komunikacija
+je postala moguæa.
+Mislim da je to bila prva aplikacija
+koja je ljude navela na razmišljanje
+"Ako instaliram Linux
+imaæu koristi od njega."
+Bilo je stvarno zanimljivih
+aplikacija na Linuxu.
+Dve ili tri godine pre toga,
+kada je sve poèelo,
+nije bilo prave aplikacije,
+u poslovnom smislu,
+za one koji koriste Linux umesto NT-a,
+sve dok se nije pojavo Apache i
+dodatci koji su ubaèani u Apache
+unapredili Apache.
+I ako želite dobro da poslujete,
+izgradite serversku "farmu".
+Mnogo je isplativije.
+Isplativije je
+zasnovati je na Linuxu i Apacheu
+nego na IIS-u i NT-u
+pa èak i ako treba
+da potrošite više novca
+na obuku zaposlenih kako da se služi time
+ili da naðete školovane ljude.
+No, stvarno dobra stvar je u tome
+što to znanje nije mnogo skupo
+jer postoji mnogo studenata
+koji dugo koriste Linux
+i vrlo dobro baratuju njim.
+Ako pogledate trendovske krive web servera
+Apache je najzastupljeniji na tržištu,
+i sa oko 66%
+ruši sve pred sobom.
+A to je posledica njegove pouzdanosti,
+fleksibilnosti i proširivosti.
+On radi sve ono što je
+webmasterima potrebno.
+Kombinacija Apachea i Linuxa
+pronašla je svoj put do prodavnica.
+U osnovi, Apache je postao aplikacija koja
+motiviše dobavljaèe Internet usluga
+i kompanije koje se bave e-poslovanjem
+da izaberu Linux umesto Microsoft Widowsa.
+Verovatno se najbolje "vrti" na
+Linuxu i na FreeBSDu,
+a razlog tome su zajednice
+tih operativnih sistema,
+koje uèestvuju u razvoju Apachea.
+Ove operativne sisteme
+dobavljaèi Internet usluga
+sve èešæe prihvataju,
+a opredeljuju se i za Apache
+jer im dozvoljava da rade
+mnoge stvari koje im komercijalni
+web serveri ne dozvoljavaju,
+kao što je moguænost hostovanja
+više web strana na jednoj mašini,
+što je, ako ste ISP
+i imate 40.000 korisnika
+i svi žele svoju liènu web stranu,
+veoma bitno za vas.
+Jedan od kljuènih faktora
+širenja Linuxa
+bio je nastanak kompanija koje
+su se specijalizovale za distribuciju
+i podršku za sam Operativni sistem.
+Najpoznatija od tih kompanija
+je Red Hat Sofrware.
+Red Hat je zapoèeo Marc Ewing
+dok je radio u IBM-u.
+Želeo je bolju distribuciju Linuxa,
+pa je poèeo da radi na tome.
+Shvatio je da je više vremena proveo na
+održavanju njegove Linux distribucije
+nego što je radio na svom novom projektu.
+Tako je zapoèeo razvoj svoje distribucije.
+Sreo se sa Bob Youngom,
+koji je tada vodio kompaniju
+ACC Bookstore
+koja se bavila Internet prodajom
+PC-a sa Unix-om.
+Bob je želeo i nešto što bi bio
+njegov lièni proizvod,
+a ne samo da preprodaje tuðe proizvode.
+Bio je istinski dobar trgovac.
+Mark je znao da mu je potrebna
+pomoæ u marketinškom nastupu
+jer je on bio dobar s tehnièke strane,
+i tako su poèeli da saraðuju.
+Poèeo sam da radim sa
+Rad Hat-om u maju 1995.
+zajedno sa Ericom Troanom, ja i on
+smo doveli još dva èoveka.
+Dolazili smo na posao u stan
+u kome je živeo Mark Ewing.
+Radili smo na razvoju
+jednog dela Red Hat-a.
+U tom stanu smo bili
+do novembra 1995. kada...
+je neka cev u WC-u pukla
+i polavila stan komšinice
+koja je živela ispod nas
+i ona se malo uplašila...
+i komšije su saznale da u
+stanu u stvari imamo firmu
+a ne da živimo u stanu.
+Odluèili su da nas izbace napolje.
+Trebalo nam je nedelju dana da naðemo
+našu prvu kancelariju, što smo i uradili
+pa smo se preselili na brzinu.
+Ponovo smo poèeli 1995.
+traženjem vodeæih firmi,
+govorili smo da se radi nešto novo.
+Da postoji velika poslovna moguænost
+za izradu novog Sun-a otvorenog koda.
+Ljudi od kojih smo tražili da pomoæ
+gledali su na to i govorili
+"Hej, vi prodajete sistem
+a softver je besplatan. To je strašno.
+Nismo sigurni da u to želimo da
+uložimo svoj novac.
+Znate, èuli smo za druge kompanije
+kojima se to nije isplatilo. Bojimo se."
+Došao sam u Ameriku tek pre 3 godine,
+zato što sam dosta vremena,
+6 do 7 godina, bio na
+Helsinškom Univerzitetu.
+Odluèio sam da je vreme da vidim
+pravi svet, ne samo studentski život.
+Na ovom podruèju uraðeno je
+dosta interesantnih stvari.
+Tako sam odluèio...
+da se preselim na drugu starnu sveta,
+i pokušam da uspem.
+I ispalo je prilièno dobro.
+Je l' mislite da ostanete ovde
+ili je to samo privremeno?
+U poèetku smo mislili
+da je samo privremeno,
+ali izgleda da se s vremenom
+to promenilo u stalno.
+Naša najmlaða kæerka je
+i amerièki i finski državljanin,
+jer je roðena ovde
+a starija govori i švedski i engleski,
+tako da...
+Sledeæi veliki dogaðaj,
+u koji sam i ja umešan bio je
+kada sam napisao brošuru
+"Katedrala i Sajmište".
+koja je bila moje mišljenje,
+moja antropološka analiza
+svega onoga što je pomoglo da
+svet otvorenog koda funkcioniše.
+Tada ga još nismo tako zvali. I dalje smo
+koristili termin "Slobodan softver".
+Dakle to je bilo moje tumaèenje onoga što je
+pomoglo da svet Slobodnog softvera funkcioniše
+i kako smo bili u moguænosti da
+proizvodimo kvalitetan softver
+konstantno kršeæi sva pravila
+softverskog inženjeringa.
+U toj brošuri, izneo sam razliku
+izmeðu dva razlièina naèina razvoja
+dva suprotstavljena naèina razvoja.
+Jednog, koji je konvencionalno
+zatvoren na;in razvoja,
+koji ja nazivam stil "Katedrale".
+U njemu postoji uska specifikacija ciljeva.
+Mala projektna grupa je
+strogo hijerarhijski organizovana.
+Tu su duži razmaci izmeðu
+izdavanja proizvoda.
+Sa druge strane, postoji nešto
+što se dogaða u Linux svetu
+gde vlada decentralizacija u stilu
+“jedan na jedan“, poput sajmišta,
+sa kratkim razmacima izmeðu
+izdavanja proizvoda
+i konstantnim traženjem povratne informacije
+od ljudi koji su formalno van projekta.
+Vrlo intenzivna povratna veza.
+Iznenaðujuæe je to da
+što se duže posmatra,
+daljinska razmena je u prednosti
+nad konvencionalnim
+zatvorenim naèinom razvoja.
+Ta prednost otvorenog naèina razvoja
+u stvari je pobedila,
+i dala dobre rezultate.
+Razlog zbog koga je Netscape toliko važan
+je taj što je on bio prva veæa kompanija
+koja je doprinela otvorenom kodu.
+Imali smo kompaniju Cygnus koja je
+pružala usluge podrške,
+ali u stvari nisu imali puno posla.
+Netscape je u otvorenom kodu video
+naèin za borbu sa Microsoftom,
+kome bi ugrozili Internet Explorer,
+no nisu želeli da iko drugi koristi izvorni kod,
+nisu dozvolili da kompanije saraðuju.
+Radeæi u marketingu, razmišljao sam,
+zašto ljudi kupuju naš softver
+i šta ih navodi da odaberu naš
+softver umesto konkurentskog.
+Ipak, nastao je problem,
+jer smo vremenom uvideli
+da se naš softver
+takmièi sa softverom drugih proizvoðaèa,
+posebno onim kompanije Microsoft.
+I kako je vreme prolazilo,
+cena našeg softvera je padala
+zato što su drugi davali svoj softver
+a nisu ga naplaæivali
+ili su ga naplatili po maloj ceni.
+Pravi problem bio je u tome,
+da su se oni u stvari bojali
+da Microsoft ne napravi monopol
+na tržištu pretraživaèa
+koji bi im koristio da
+u stvari pokvari
+HTTP i HTML standarde
+od kojih zavisi web.
+A kada bi te standarde zabranili
+u stvari bi sklonili Netscape sa tržišta,
+što je u stvari bio naèin
+zaraðivanja velike love.
+Brinuo sam se, da æe s vremenom,
+Netscapeovo poslovanje biti ugroženo,
+jer nismo imali dovoljno ljudi da uradimo
+ono što smo kao kompanija trebali da uradimo
+da se naš softver održi na tržištu.
+Netscape je predstavljen javnosti
+poèetkom 1998.
+Tada uopšte nisam znao
+da je nastao kao direktan rezultat
+toga što su pravi ljudi proèitali moju
+brošuru "Katedrala i sajmište".
+"Katedrala i sajmište",
+brošura koju je napisao Eric Raymond,
+imala je važan uticaj na Netscapeovu
+odluku da objavi izvorni kod.
+To me je veoma iznenadilo.
+Nisam uopšte razmišljao
+da bih mogao da promenim svet,
+èak ni sluèajno.
+No po mišljenju mnogih,
+nije samo on uticao na tu odluku.
+Neke stvari bile su
+planiranje i uèinjene još pre...
+Kao što sam rekao,
+Netscape je razmatrao objavljivanje
+izvornog koda i pre nego što je
+iko èuo za Ericovu brošuru.
+Na Linux kongresu poèetkom 1997. sam
+prvi put javno predstavio brošuru.
+Jedan od ljudi koji je bio na predstavljanju bio je
+Tim O'Reilly iz kompanije O'Reilly and Associates.
+Mislio je da je knjiga vrlo zanimljiva
+pa me je pitao da mu je dam na
+PERL konferenciji koja je održana
+pred kraj 1997. godine
+Šta se stvarno dogodilo saznao sam kasnije,
+iako nisam imao pojma
+da je tako nešto u toku,
+neki ljudi iz Netscapea su èuli
+za brošuru PERL konferenciji
+i primenili ideje pomenute u njoj
+u svom daljem poslovanju.
+Svrha moje brošure bila je
+dobar izbor poslovanja,
+da sa poslovne strane Netscape razmotri
+zašto treba da objavi izvorni kod.
+Ova brošura se zvala "Netscapeov
+Izvorni kod kao Netscapeov proizvod".
+Malo je èudno to što je
+naslov sugersao,
+po mom mišljenju je bilo neophodno
+shvatiti da izvorni kod nije samo nešto
+što se koristi za stvaranje proizvoda
+veæ nešto što je proizvod
+sa svim pripadajuæim pravima.
+Ono što kupci mogu da koriste,
+mogu da koriste i drugi ljudi.
+Tada sam razmislio kako treba
+da izgleda poslovni model
+ako objavimo izvorni kod naših proizvoda.
+Kako æemo da ih licenciramo?
+Kako æemo da prodajemo proizvode
+u tom okruženju?
+Tada sam obratio pažnju na
+konkurenciju, posebno na Microsoft.
+Šta su sve spremni da uèine ako bi
+mi objavili izvorni kod?
+Postoji li neki naèin da iskoriste
+naš izvorni kod protiv nas?
+Koristio sam Ericovu brošuru kao primer
+kako funkcioniše raspodeljeni razvoj,
+kako softver može da se razvija
+a da to ne rade samo zaposleni,
+nego da se saraðuje sa
+programerima preko Interneta.
+Zato sam stavio referencu
+Ericove brošure u moju.
+Kada je moja brošura poèela da kruži
+ljudi koji su je èitali
+našli bi referencu Ericove knjige
+i dobro je prouèili.
+Ko je sve uèestvovao u
+takvoj odluci Netscapea?
+Odgovoran za tu odluku
+bio je Jim Barksdale.
+I to je kasnije ispalo veoma važno.
+Naša velika pobeda, veliki pogodak
+koji je oèi velikih investitora
+usmerio ka nama,
+ne zbog mnogo dobronamernih programera,
+veæ zbog jednog stratega sa vrha
+koji je uvideo potencijalnu snagu ove metode i
+u stvari preneo tu viziju na
+one koji su bili ispod njega.
+Kada sam završio brošuru, prvi
+primerak sam Marku Andressenu,
+koji je suosnivaè Netscapea,
+i u to vreme je bio
+u glavnom menadžerskom timu Netscapea.
+Mark je tada dao primerke nekolicini
+ljudi iz menadžmenta Netscapea,
+ukljuèujuæi i Jima Barksdalea.
+Nisam siguran kada su Jim
+i ostali glavni menadžeri
+doneli konaènu odluku.
+Mislim da je bilo poèetkom januara.
+Netscape je odluèio da
+izvorni kod objavi 22. januara,
+u isto vreme kada je odluèeno da
+izdaju besplatnu verziju Communicatora.
+Kada je Netscape odluèio
+da objavi izvorni kod,
+slièni ljudi su se probudili,
+primetili i rekli
+"Možda stvarno ima nešto u toj ideji
+da se objavi izvorni kod
+i da se razvija sa ljudima van kompanije."
+Tako je Netscapeova odluka skrenula pažnju
+javnosti na ideju o Slobodnom softveru,
+koji je postao poznat kao Open Source,
+i bitno skrenula pažnju na
+Linux operativni sistem,
+koji je u tom trenutku bio najistaknutiji
+primer softvera otvorenog koda.
+Ovo je naša prva kancelarija,
+Mountain View, California.
+Ovde smo prešli poèetkom 1995.
+Površine je 4000 kvadratnih stopa.
+Bilo nam je neverovatno da imamo
+kompaniju u svojoj kancelariji.
+Evo zašto je ovo mesto tako važno.
+Ovo je mesto na kome je
+smišljen termin "Open Source".
+Ako doðete u šefovu kancelariju
+i kažete "Slobodan softver",
+reakcija na koju æete naiæi ako imate sreæe
+bila bi otprilike ovakva:
+"Hmm, hmm, Slobodan softver, mora da
+je jeftin, lošeg kvaliteta, nekoristan."
+Ako nemate sreæe i ako je šef èuo za
+Fondaciju za slobodan softver
+i napade na njih,
+bez obzira kakvi su
+vaši stavovi u vezi toga,
+reæi æe vam: "To je gubitnièko tržište,
+rukovodstvo ne vidi ništa u tome."
+Tako je Eric Raymond
+znao da postoji problem.
+Zvali smo to Slobodan softver
+ali su mnogi termin "slobodan" (free)
+pogrešno protumaèili kao "besplatan",
+mislili su da ne mogu da ga
+prodavaju i tako zaraðuju od njega,
+što je upravo pogrešan koncept.
+Želeli smo da se zadršimo na ideji da je
+softver otvoren i izvorni kod dostupan.
+Veoma važne èinjenice.
+Imali smo sastanak u kancelariji VA
+na Mountain Viewu, Eric,
+ja, Christine Peterson sa
+Foresight Instituta i još neki ljudi.
+Christine Peterson je bila prisutna
+preko telefonske veze...
+Isto kao i Jon "Mad dog" Hall.
+Prisustvovao je i Todd Anderson,
+koji je kasnije neko vreme radio za SuSE.
+Takoð ei Sam Ockman
+koji danas vodi Penguin Computing.
+U to vreme on je bio zaposlen u VA.
+Smislili smo tako koncept
+Otvorenog koda,
+pozvali smo Linusa
+i pitali ga da li se slaže sa time.
+Bio je zainteresovan, svideo mu se.
+U stvari smo izmislili nešto što je
+zamenilo "Slobodan softver".
+To je bio poèetak Otvorenog koda.
+Kako ste izabrali naziv "Open Source"?
+Znate, mislim da je Christine Peterson
+bila ta koja je u stvari smislila taj naziv.
+Poštovali smo ideju da je izvorni kod
+objavljen i da je otvoren.
+Bilo je mnogo predloga.
+Pošto su prethodna tri sagovornika
+govorila o pokretu Izvornog koda,
+smatram da treba pomenuti i
+Pokretu za slobodan softver.
+Pokret za izvorni kod je fokusiran
+na praktiène prednosti
+koje se dobijaju organizovanjem
+udruženja korisnika
+koji mogu da saraðuju na razmeni
+i poboljšanju softvera.
+Potpuno se slažem sa time.
+Razlog zbog koga imam drugaèiji stav
+i što sam u Pokretu za Slobodan softver
+pre nego u Open Source pokretu,
+je taj što verujem da postoji nešto
+mnogo važnije od samog uèešæa.
+Ta sloboda koja nam omoguæava saradnju
+sa drugima, da imamo udruženja...
+je bitno za kvalitet našeg života.
+Važno je da imamo zdravo okruženje
+u kome možemo da živimo.
+A to je po mom mišljenju mnogo važnije
+nego imati moæan i pouzdan softver.
+Ali mislim da se neki ljudi u
+Pokretu za slobodan softver...
+boje komercijalizacije.
+A znate da je disident osuðen na neuspeh.
+Ja mislim da je
+komercijalizacija veoma bitna.
+Želimo da softver bude poštovan,
+i radim sa Richardom Stallmanom
+koji je zaèetnik Slobodnog softvera,
+zdravog razuma, i stvarno ne oseæam
+da meðu nama ima filozofskih razmirica,
+mene kao autor Open Sorce definicije
+i njega kao pokretaèa organizovanog
+pokreta Slobodnog softvera,
+osim jednog. Richard misli da svaki
+softver treba da bude slobodan,
+a ja mislim da treba da postoje
+i slobodan i ne-slobodan softver.
+To je jedina razlika u našim mišljenjima.
+Još pre toga smo zakljuèili da je potrebna
+definicija, neka vrsta nacrta licence
+za definisanje termina "Open Source".
+Tako je nastao dokument koji smo nazvali
+"Open Source definicija".
+To su izvodi iz Debian Free Software priruènika
+koji je originalno napisao Bruce Parens.
+Ja sam napisao originalni koncept toga,
+diskutujuæi mesec dana sa
+Debian programerima.
+Debian je Linux distribucija
+a taj koncept služi kao
+smernica za njihov projekat.
+Eric i ja smo odluèili da preimenujemo
+ono što smo napisali za Debian
+u Open Source definiciju
+i mogu da kažem da je Open Sorce softver
+koji sa sobom nosi devet pravila
+sadržanih u u Open Sorce definiciji.
+Prvo pravilo je slobodna distribucija.
+Slobodno ovde ne znaèi besplatno
+veæ oznaèava liberalnost.
+Slobodno možete da raspodeljujete
+svoj softver nekome drugom
+i nepostojanje cene je sporedni efekat.
+Možete to da naplatite ili ne.
+Drugo pravilo je da se distribuira
+i izvorni kod
+tako da svako ko želi može da ga promeni.
+Ako je program za PC
+može da se preradi za Mac.
+Treæe pravilo je moguænost postojanja
+Izvedenog projekta, što znaèi
+da ako neko unapredi vaš program
+onda on može da distribuira
+rezultat unapreðenja.
+Èetvrto pravilo je Integritet
+autorovog izvornog koda.
+To zanèi da autor može da
+održava svoj izvorni kod
+a ako ga vi menjate
+onda morate taj program
+da nazovete drugaèije,
+ili jasno oznaèiti vaše izmene
+tako da se one ne odnose na originalnog autora.
+Sledeæe pravilo je da nema
+diskriminacije pojedinaca ili grupa.
+Primer koji èesto koristim za opis ovoga je:
+ne smete da zabranite ni klinici za abortus
+ni aktivistima protiv abortusa da koriste softver.
+Nema diskriminacije ni na jednom podruèju
+što znaèi da softver može da se koristiti
+kako u komercijalne,
+tako i u edukativne svrhe.
+Licenca mora da bude prenosiva.
+Drugim reèima
+moram da imam moguænost da
+licencu dam nekome drugom,
+tako da licenca i dalje važi
+i ako taj neko da softver treæoj osobi.
+Licenca ne sme da ogranièava proizvod.
+Drugim reèima
+ako distribuiram svoj softver na Red Hat sistemu
+licenca ne može da zabrani
+da taj isti proizvod distribuiram
+na SuSE ili Debian sistem.
+Licenca ne sme da se meša u drugi softver
+tako da ako distribuiram moj program na CD
+sa nekim drugim programom
+licenca ne može da zahteva da taj
+drugi program mora da bude slobodan
+inaèe moj program ne može
+da se distribuira zajedno sa njim.
+Uz ta pravila
+u Open Source definiciji
+nalazi se i popis licenci koje smo prihvatili.
+To su one koje smo zapoèeli
+kada je Opšta javna licenca
+bila primer za mnogo toga,
+što je sluèaj i sa Open Source definicijom
+u BSD licenci
+zato što je softver za BSD sistem
+bio preteèa Linuxa.
+Sledeæe što se dogodilo
+bilo je da su prodavci baza
+podataka izgubili korak,
+što se dogodilo oko tri meseca pre
+nego što sam oèekivao,
+negde krajem jula i poèetkom avgusta
+jer aplikacije Oraclea, Sybasea i ostalih
+kljuènih proizvoðaæi baza podataka nisu
+bile kompatibilne.
+Zašto je to tako važno?
+Zato što smo taèno znali
+kako æe da se razvija prièa o Open Sourceu
+posebno kako æe da se razvija Linux,
+a nismo dobili nikakva obeæanja
+od nezavisnih proizvoðaèa softvera
+da æe te aplikacije da prilagode
+našim platformama.
+Bio sam vrlo zabrinut,
+smatrao sam da smo u ranjivom periodu
+od kad smo najavili kampanju izvornog koda
+i kada su proizvoðaèi baza podataka
+izgubili korak.
+To je bio trenutak kada je
+kulminiralo neprijateljsko delovanje
+Microsofta i drugih softverskih
+kompanija zatvorenog koda,
+trenutak kada...
+je ozbiljan marketinški korak
+mogao da nas sahrani.
+Ali jednom kada su proizvoðaèi
+baza podataka krenuli
+to je otvorilo put za druge ISV-je
+i pokrenulo efekat snežne lavine.
+Otprilike svakih 6 meseci
+odlazio bih kod investitora
+predstavljao im nove brojeve
+koji pokazuju da sve više ljudi koristi Linux
+i da se prikljuèuju novi ljudi,
+novi korisnici,
+pokazao bih našu listu korisnika,
+a naša lista korisnika je
+postajala sve impresivnija.
+Poèeli su da se pojavljuju
+kompanije kao što je Cisco,
+dot-com kompanije
+su se pojavljivale na našoj listi korisnika
+a potencijalni investitori su
+nastavili samo da gledaju
+i da govore
+"Ne možemo da se upuštamo u to"
+Napokon, na naslovnoj strani Fortune-a
+je osvanuo Linus
+Nešto se dogaðalo sa Open Sourceom
+Od tada investitori više nisu mogli
+da ga ignorišu,
+pozlilo im je od slušanja o Linuxu na sve strane
+I ja sam im dojadio
+pokazujuæi im ga skoro svake nedelje.
+I tada su odluèili da je vreme za investiciju,
+jer se nešto dešava.
+Najavio sam Open Source svetu na Internetu
+Zapoèeo sam dosta... administrativnog posla
+oko pokretanja Open Source inicijative
+i èini mi se da sam, posle 6 meseci,
+sve vreme èitao reèi "Open Source"
+po novinama
+i bio sam potpuno zapanjen.
+Godinu dana kasnije
+Microsoft je govorio o izdavanju
+nekog izvornog koda
+i neko od novinara je pitao Steve Ballmera
+da li æe taj kod biti Open Source
+a Steve Ballmer je rekao,
+"Open Source je mnogo više
+od samog izdavanja izvornog koda"
+Shvatio sam da je on proèitao
+i shvatio moj dokument
+i da sada govori novinarima o njemu.
+E sad, ako ste samo tip na netu
+kojem to uopšte nije posao
+i napišete èlanak
+koji se proširi svetom
+i godinu dana kasnije
+podpredsednik Microsofta prièa o tome
+mislili bi da ste na opijatima, zar ne ?
+Ali to se stvarno dogodilo!
+Lokalne grupe korisnika (LUG)
+su više od pukog
+povezivanja društva u mreže,
+upoznajuæi ljude sa problemima
+i delujuæi kao neka vrsta udružene podrške
+za ljude koji, na primer, nisu u moguænosti
+da plaæaju komercijalnu podršku.
+Ono što koju rade na tom planu
+na primjer, je što rade sledeæe.
+Mislim da jednom meseèno
+imaju install okupljanja, što znaèi da
+ljudi koji imaju problema sa instalacijom
+Linuxa na svoje mašine
+ili imaju neke probleme, mislim
+možda su instalirali Linux
+ali žele da postave mrežu na specifièan naèin,
+mogu da donesu svoje raèunare
+na to okupljanje korisnika.
+Tamo ima mnogo ljudi koji su
+spremni da pomognu,
+koji su se ranije možda veæ sreli
+sa takvim problemom.
+Znate, ne ide sve glatko.
+Prvo sam pokušao sam. Imao sam problema.
+I tako sam došao na ovaj Install Fest gde
+okupljaju svi gurui.
+Nadam se da æu imati više sreæe kod instalacije.
+Umesto slanja e-pošte, ili
+pisanja po diskusionim grupama na Internetu
+i ponekad èekanja i po nekoliko dana na odgovore,
+lakše je doæi ovde i pronaæi druge ljude
+koji bi mogli da znaju nešto o vašem problemu
+i koji mogu da vam pomognu.
+I u roku od nekoliko sati
+imate instaliranu mašinu.
+Prvo sam hteo da ga instaliram
+na moj laptop
+pa sam pretraživao po netu
+i pronašao sam gde mogu da pitam za pomoæ.
+I sada sam ovde
+jer pokušavam da stavim Linux
+na ovu malu mašinu.
+To je Toshiba Libreto.
+To nije baš najlakše da se uradi
+jer je ovo èudna stvarèica, dakle...
+Ima li ovde stolica?
+Mislim da su zbog pravosuða
+ljudi postali svesni èinjenice da
+u najmanju ruku treba da potraže
+alternativu Microsoftu.
+I možda Microsoft ipak nije amerièki san.
+Takvu vrstu promenjene percepcije
+možete vrlo lako da uoèite,
+ljudi uzimaju Microsoft zdravo za gotovo
+i možda još uvek kupuju Microsoft
+ali su barem
+više svesni problema.
+Microsoft zapravo koristi Linux kao odbranu.
+Iskoristili su Linux kao osnovu potvrde
+da ne drže monopol
+jer bi Linux ustvari
+mogao da ih skine sa trona u svakom trenutku.
+To je bio vrlo ingeniozan argument,
+potpuno zavaravajuæi
+zato jer nije
+odgovarao na optužbu
+da su pre bili ukljuèeni u
+manipulaciju i šta ja znam šta sve još.
+Bilo je to lukavo od njih.
+Ali sudija to nije prihvatio.
+Mi u Linux zajednici se više brinemo oko toga
+da Microsoft postane problem,
+u decembru '98. se pojavio èlanak
+na Slashdotu
+gde je neki lik Matt istakao da...
+je gospodin u Australiji uspeo da dobije
+povraæaj novca
+za nekorišæenu kopiju Windowsa
+koju je dobio sa raèunarom.
+I on je proglasio 19. januar,
+da li je bio januar?
+Ne, bio je februar. Izvinite,
+19. februar...
+proglasio je 19. februar za
+Windows Refund Day.
+I sve je ohrabrio da odu
+kod proizvoðaèa raèunara,
+i vrate svoje nekorišæene kopije Windowsa...
+kao što je bilo navedeno u licenci.
+Važno je prisetiti se da
+u samoj licenci piše da
+možete dobiti povraæaj novca
+ako ne koristite softver
+i da je proizvoðaè po zakonu
+u obavezi da to uèini...
+ili je obavezan po ugovoru.
+Saznali smo da ako pozovete te proizvoðaèe,
+oni uglavnom kažu...
+"Mali, prestani da nas uznemiravaš!"
+i spuste vam slušalicu.
+Mi nismo ustvari hteli da otkrijemo
+svoju lokaciju,
+ili gde æemo da se sastanemo, sve do...
+do zadnjeg trenutka.
+Uradili smo to, da se ljudi sastanu
+na mestima koje smo mogli da kontrolišemo,
+u razlièitim gradovima.
+Ja sam bio šerif San Josea,
+i mislim da si ti, Nick, bio...
+Ja sam bio..., Rick Moen i ja
+smo bili u San Franciscu.
+Tako je.
+Tamo smo imali karte i delili smo ih
+svakome ko je dolazio.
+Pa, ustvari smo se sastali kod lokala Denny's.
+To je malo van granica Foster Citya.
+Foster City gradskih granica,
+što je znaèilo i van ovlašæenja
+policije Foster Citya,
+a to je znaèilo da bi svaki incident
+koji bi se dogodio na mestu okupljanja
+spadao pod ovlašæenje San Matea.
+I ako bi nam rekli da se raziðemo, mi bi im rekli:
+"Pa dobro onda, idemo u Foster City. Ajd zdravo!"
+To je Dukes of Hazzard metoda
+izbegavanja pandura, pa...
+Ustvari, marširali smo s druge strane ove zgrade.
+Marširali smo uokolo i do parkirališta
+koje se nalazi tamo gore,
+i tamo je Microsoft organizovao prijem za nas
+sa piæima i velikim znakom na kojem je pisalo...
+"Microsoft želi dobrodošlicu
+Open Source zajednici."
+Kamere lokalnih vesti su snimile
+Erica Raymonda sa predstavnikom Microsofta.
+Microsoftova je prièa bila uglavnom ta da...
+...to nije sporno pitanje za Microsoft
+nego za OEM.
+I zato bi svi morali da se vrate do naših
+proizvoðaèa i ponovo pokušaju
+da dobiju povraæaj novca od njih.
+Odgovorili smo im govoreæi, znate,
+da smo veæ pokušali i da to nije moguæe,
+sada Microsoft treba nešto da preduzme.
+A oni su samo ponavljali jednu
+te istu reèenicu, ponovo i ponovo...
+"Morate da idete do OEM proizvoðaèa
+i tražite povraæaj novca od njih."
+Imali smo oko 150 ljudi, od kojih je
+verovatno polovina imala transparente i sl.
+Zapravo, završili smo upravo ovde
+u ovom dvorištu.
+Prvo smo se okupili napolju,
+razlièiti ljudi su slali grupe, ljudi iz
+FreeBSDa su poslali nekoliko momaka.
+Eric Raymond i Chris su pokušali da odu gore.
+Odblokirali su nam lift.
+Gde su bile kancelarije?
+Kancelarije su bile na devetom spratu.
+Dobili smo veliku medijsku pažnju.
+I smatramo da je zbog toga
+Toshiba omoguæila kupovinu laptopa
+bez operativnog sistema na njemu.
+Dakle, to je mala pobeda, ali...
+Èak i sada, kompanije poput IBM-a i...
+i mnogi drugi proizvoðaèi raèunara
+vam dozvoljavaju
+da kupite raèunare koji nemaju
+instaliran Windows.
+Kada sam kao klinac išao u školu
+uèitelji su pokušavali da nas nauèe da delimo.
+Govorili su da ako ponesete 505 sa crtom,
+i ne možete da ih pojedete sami,
+morate da ih podelite sa ostalom decom.
+Ali sada administracija govori da bi uèitelji
+trebali uèiti decu da kažu "da" licenciranju.
+Ako doneseš neki softver u školu,
+"Oh! Ne, nemoj da ga deliš...
+deljenje znaèi da si pirat,
+deljenje znaèi da æeš da završiš u zatvoru."
+To nije naèin na koji društvo treba
+da funkcioniše. Potrebna je dobra volja,
+spremnost da se pomogne drugim ljudima
+barem onda kada to nije preteško,
+zato jer je to osnova društva,
+to je osnovni izvor,
+zbog koga imamo društvo umesto džungle.
+Šta sa time što ljudi govore da ako
+imate raširenu pirateriju i
+eliminišete motiv profita i...
+...i kreativan rad, softver neæe...
+Kao prvo,
+ljudi ostvaruju profit razvijajuæi
+slobodan softver,
+ali sloboda za stvaranje zajednice je važnija.
+Ljudi obièno misle,
+što se tièe Slobodnog Softvera...
+Pa, buduæi da se od vas oèekuje da delite
+i da to radite zbog dobre volje,
+ne lièi li to na komunizam?
+Šta vi mislite ?
+Potpuna besmislica,
+vrlo me ljuti kad ljudi to rade!
+1989, komunizam bi ustvari bio kompliment.
+Reè koju su ljudi tada upotrebljavali
+je bila "lud".
+Ja želim da upotrebljavaju kapitalizam.
+Komunizam je ideologija
+koja ljude prisiljava da dele.
+Ako ne delite, strpaju vas u zatvor ili ubiju.
+1990. nas je posetio direktor instituta
+na moskovskom univerzitetu.
+Ja sam ga, ustvari, video u Helsinkiju
+pre 2 nedelje.
+ali, uglavnom, on je došao,
+a i Richard Stallman mu je predložio
+da poseti Cygnus,
+jer je želeo da shvati kako model
+Slobodnog Softvera
+može da se upotrebi za stimulisanje
+preduzetnièkih inovacija u Rusiji.
+Bili smo nekako tajnoviti
+oko našeg poslovnog plana,
+zato jer nismo bili baš sigurni
+da æe da funkcioniše.
+Nismo želeli da ispadnemo glupi ako propadne.
+Ali ja sam bio vrlo, vrlo otvoren sa njim.
+Èim sam mu više prièao,
+tim je više ovako klimao glavom,
+i napokon sam ga pitao "Šta nije u redu?"
+A on je odgovorio "Ovo previše zvuèi
+kao komunizam da bi uspelo u Rusiji."
+Ideš na Gulag i završiš u masovnoj
+grobnici sa metkom u potiljku.
+Open Source nije komunizam
+zato jer ne prisiljava ljude.
+Carl Marks nije izmislio pomaganje komšijama.
+Nije komunistièki imati zajednièko vlasništvo,
+zajednièka vlasništva su postojala mnogo
+pre komunizma kao filozofija vlade.
+Postoje mnoga zajednièka dobra
+u našem životu.
+Na primer, vozimo se autoputevima,
+to je nešto što se održava zbog opšteg dobra.
+Etiketiranje našeg poslovnog modela
+ustvari znaèi da je promašena suština.
+Bilo da je komunistièka, ili kapitalistièka,
+etiketa nije važna. Pravo pitanje je
+koliku vrednost možete da postignete,
+koliko je posao promenljiv,
+kakve probleme, kakve inovacije
+možete da podržite?
+I onda, kako god to želite da etiketirate,
+to ostaje na vama.
+Revolucija postaje ono primarno.
+Mnogi ljudi to opisuju kao
+"Linuxova oproštajna žurka"
+Linus Torvalds se samo nasmejao na to,
+rekao je, "Šta, zar je Linux gej?"
+Ali su neki govorili
+“Da, kao na prvu loptu.“
+To je bilo kad su se...
+bogovi Linuxa i hakeri sastali.
+10. avgusta 1999. u 15 sati,
+Linus Torvalds je objavio
+ciljnu adresu u LinuxWorld.
+Gomila od 6000 ljudi je poèela
+da se okuplja od 12 u podne.
+Dame i gospodo, Larry Augustin...
+Èlan konferencije LinuxWorlda i
+predsednik i CEO Linux Systemsa
+Oni moraju da aplaudiraju, plaæam ih za to.
+Hvala svima što ste došli,
+izgleda da za sada sve ide po planu.
+Samo trenutak, pokušaæu da izbegnem svetla.
+Mislim da još uvek ima mnogo ljudi,
+iako je ovo drugo izlaganje,
+mislim da još uvek ima mnogo ljudi,
+koji baš ne shvataju...
+...šta je to tako uzbudljivo oko Linuxa.
+Do nas je veliko izlaganje,
+sa velikim izložbama i svime,
+ali ovi ljudi tu najviše doprinose,
+a ne te kompanije.
+Sledeæu osobu znam da svi znate,
+zato ne treba ništa da kažem kao uvod.
+Dame i gospodo, predstavljam vam
+Linusa Torvaldsa!
+Linus
+Hvala.
+Smirite se.
+Smiiiirite see!!!
+Recite "uuuuu".
+Da.
+Ne želim da održim jedan od mojih
+uobièajenih govora
+jer mislim da su dosadni.
+Verovatno i veæina vas smatra da su dosadni
+jer ste ih èuli veæ 10ak puta.
+Nakon tehnièkih novosti, pokušaæemo...
+...da odgovaramo na pitanja 5000 ljudi,
+ili koliko vas veæ ima.
+Što možda neæe da uspe,
+zato jer je neko od tih 5000 ljudi
+jako glasan.
+Ali jedno æu da uradim,
+ono što uvek radim u svojim govorima
+je zahvala.
+Želim da potvrdim èinjenicu da...
+...oèito nisam bio sam u izradi Linuxa.
+RHAT IPO: 11. avgusta 1999.
+Red Hat Software je postala prva
+Linux kompanija koja izlazi u javnost.
+Red Hat porastao za 228%
+to je IPO koji su svi èekali.
+Oni, svakako, spadaju u Linux
+operativni softver.
+R-H-A-T, znam.
+Sve što sam danas dobio,
+su komentari o tome kolika
+je cena deonica.
+Bila je na 41, na 42, na 47,
+na 53, na 51...
+Svaki raèunar, koliko vidim ovde
+je usmeren na e-trade raèune ili
+brokerske raèune, oni znaju cenu Red Hata.
+Ne mogu da verujem!
+Upravo sam èuo 53.
+O èoveèe.
+Èekaj, nisam kupio.
+Nisi kupio?
+Ne, ne, nisam kupio.
+Trebao sam da kupim, ali
+Ne, ne, to je odlièno...
+ako je... ako je...
+Vi ne znate?
+Pa, znate...
+To što je Red Hat uspešan znaèi da
+legitimira Linux, tako da nam je
+lakše da izaðemo na tržište.
+Rob Malda (CmdrTaco) ...
+...na Red Hat IPOu
+Nekako je sve bilo pomalo podeljeno.
+Postoji dosta ljudi
+koji su poprilièno "hardcore",
+i oni su na neki naèin uvreðeni
+znate, jer puno rade, a ustvari
+ne dobijaju...
+...možda njihov deo kolaèa.
+Nekima to smeta.
+I znate ono
+što vidite na mnogim dopisnim društvima
+ili proèitate na Slashdotu...
+"Ovaj tip je stvarno ljut jer
+nije dobio šansu da...
+dobije deonice Red Hata...
+...nije dobio šansu da dobije posao
+u nekoj firmi.
+Ali šokantana istina je ta da,
+veæinu tih "hardcore" tipova nije
+toliko briga.
+Oni su drugaèiji.
+Oni pišu taj kod zato jer im je potreban.
+Pozivamo Richarda Stallmana
+koji je osnivaè fondacije za Slobodni softver
+i Tim Neya, koji je generalni direktor.
+Tako. heheheheheheheheh
+Ah, tu je.
+Riharde, video sam da si snimao
+na Linuxovoj konferenciji u Parizu
+ali nisam imao audio snimke.
+Bi li dodao audio na njihov...
+video strim sledeæi put?
+Uh... ja nemam kontrolu nad time.
+Na žalost, to može da se uradi samo sa
+ne-slobodnim softverom.
+Uruèiæu ti nagradu, i prije
+nego što kažeš
+Tim i ti æete da pridržite ovaj simbol donacije
+Fondaciji za Slobodan softver.
+Pa, dogodile su se vrlo ironiène stvari,
+ali ništa ne može da se meri sa ovim.
+Davanje Linus Torvalds nagrade
+Fondaciji za Slobodan softver
+je kao davanje Han Solo nagrade
+pobunjenicima. (smijeh)
+Vidite, neki od vas ne shvataju
+koliko daleko ide ta analogija.
+Ali ustvari, dozvolite mi da vam
+kažem kako smo dospeli ovde.
+Vidite, dogodilo se to da,
+ako ste želeli da koristite raèunar
+pre 15 godina,
+to ste jedino mogli pomoæu
+vlasnièkog softvera,
+softvera koji deli i pokorava korisnike.
+A veæina ljudi...
+mnogim ljudima se to nije sviðalo,
+ali nisu imali alternativu.
+Ali neki od nas su odluèili
+da naprave alternativu.
+I rekli smo da æemo da razvijemo
+slobodan operativni sistem,
+slobodan softverski operativni sistem
+koji æe korisnicima da da slobodu
+dok koriste raèunare.
+Puno ljudi je reklo,
+"Pa, to je dobra ideja,
+ali je preteško, nikad neæete da uspete,
+i zato ne želim da uèestvujem,
+ne verujem da æete da uspete."
+Ali, na svu sreæu, nisu svi tako govorili.
+Znali smo da æemo vremenom
+da završimo kernel.
+Ali kako to veæ ide,
+neko drugi je uradio bolji
+kernel pre nas.
+Ranije smo imali opštu strategiju
+privlaèenja pažnje na važnost slobode
+koju imaju ili nemaju kada
+koriste raèunar.
+Šta možemo da uradimo u vezi toga?
+Koliko se meni èini,
+jedini moguæ naèin da ta strategija
+ponovo proradi
+je da, proširimo glas da je operativni
+sitem koji koristite ustvari GNU sistem.
+Donekle modifikovan, naravno.
+I kad ljudi to budu znali,
+videæe razloge zbog kojih
+smo razvili ovaj sistem.
+Razmisliæe o tim problemima.
+I neki od njih æe shvatiti da se slažu.
+Zato i tražim ljude da kažu ostalima
+da je ovo GNU sistem.
+To je kombinacija GNUa i Linuxa,
+zato možemo da ga zovemo GNU/Linux.
+Dakle, Larry, kada si pre 8, 9 godina
+bio na Stanfordu tokom studija
+jesi li ikad pomislio da æeš
+da se naðeš u ovoj poziciji?
+Ne.
+Šalu na stranu.
+Ne, nisam imao pojma, stvarno.
+Šta si mislio, šta æeš da budeš
+kada završiš doktoriraš?
+To je dobro pitanje,
+stvarno nisam imao neku ideju, mislim...
+...evo nas ovde, na ovom velikom spratu.
+Ima ljudi koji luduju zbog Linuxa.
+Sinoæ se 6200 ljudi zbilo u prostoriju
+da vide Linusa.
+Evo nas ovde sa,
+svim tim velikim prodavcima.
+Jednostavno... nemate pojma
+da æe tako nešto da se desi.
+Mislim, to je samo taj mali operativni
+sistem kojim smo zadovoljni,
+za koji je malo ljudi marilo, znate.
+Mislio sam da æu da pokrenem
+mali savetodavni biznis.
+I odjednom sam ovde,
+sa ovom velikom predstavom.
+To je jednostavno neverovatno.
+Mislim, pre godinu dana, mogli ste
+da kažete da æe ovo da bude spektakl.
+I svi prisutni govore,
+"Znate da je prošle godine
+bilo spektakularno,
+hoæe li tako da bude i ove godine?"
+Onda ih podsetite,
+"Prošla godina je bila pre samo 6 meseci."
+A oni kažu "Oh, vreme je za Linux".
+Prema IPOu
+stigli smo u San Diego u sredu uveèe.
+U èetvrtak ujutro smo se sastali smo se
+sa investitorima u Sad Diegu.
+Odleteli smo u San Francisco,
+proveli sredu popodne upoznajuæi se sa
+investitorskim firmama u San Franciscu.
+VA Linux je izabran, njegove deonice
+æe poèeti da se prodaju 9. decembra 1999.
+a, na IPOu u èetvrtak ujutro
+æe naše deonice biti javno prodavane.
+Dobro je što smo završili sa San Franciscom
+jer smo sledeæeg jutra mogli da odemo dalje
+da bi prisustvovali javnoj aukciji.
+A pošto je San Francisco dosta
+blizu kompaniji i našim porodicama,
+mogli smo da ih pozovemo da nam
+se pridruže u prvoj prodaji.
+I tako sam pozvao svoju suprugu a,
+pozvali smo i Linusa i Tove,
+i mnoge druge prijatelje i kolege koji su
+radili u kompaniji da nam se pridruže.
+Kad god pozovemo Linusa i Tove,
+oni imaju dvoje male dece,
+a ja imam kæer Andreu.
+Mi uvek povedemo i decu sa sobom
+pa smo otišli do trgovaèkog sprata
+sa svim tim prodavcima i još
+s tom trogodišnjom decom
+koja trèe naokolo jureæi jedno drugo
+po spratu.
+Linus i ja smo ušli i popeli
+se do trgovaèkog sprata
+i svi su bili vrlo uzbuðeni.
+I stalno smo ih zapitkivali
+"Kako ide? Je li sve u redu?"
+a oni bi odgovorili,
+"Oh, znate, vrlo smo uzbuðeni,
+mislimo da sve ide kako treba.
+Neæemo, neæemo da kažemo,
+neæemo da ureknemo."
+Ušli smo unutra i tu je bio veliki
+TV na kojem se prikazivao CNBC.
+Na naše iznenaðenje tema dana je bio Linux.
+Sad imamo IPO koji æe da krene danas.
+Kad kažem da krene, onda æe i da krene.
+Procene koje èujem su zaprepašæujuæe.
+Ali prati VA Linux Systems.
+Krenuæe danas u 12:40.
+Simbol je L-N-U-X.
+Dobavljaè velikog niza kompjuterskih
+servera i radnih stanica,
+posebno dizajniranih za Linux
+operativni sistem.
+Originalni raspon ovog IPOa je bio
+od 11 do 13 dolara, od 21 do 23 i od 28 do 30.
+Procenjeno na 30, a predviðanja koja sam
+naèuo ne želim da ponavljam
+jer još nisu potvrðena.
+Ali ako su istinita, poludeæeš kad
+deonice poènu da rastu u 12:40.
+Okrenuo sam se ka Linusu i rekao
+"Jesi li ikad pomislio,
+da æeš ušetati ovde jednog dana, a
+Linux æe biti glavna tema na CNBC?".
+a Linus reèe na svoj šaljiv naèin
+"O, apsolutno!".
+Tako smo ušli unutra i oni su nam pokazali
+kako pristižu narudžbine za kupovinu i prodaju.
+i to je neverovatno.
+Gledali smo u brojeve kao što je
+320 dolara, 340 dolara po deonici.
+A ja sam u totalnom šoku.
+A znaš da je to 10 puta veæa cena
+od ponuðene. Bilo je neverovatno.
+I seæam se da me je Linus kao
+tapšao po leðima govoreæi,
+“Opusti se..." i bilo je
+vrlo uzbudljivo to videti.
+Bili smo, to je bilo zaèuðujuæe,
+bili smo zaprepašæeni.
+Bili smo sreæni što smo mogli
+da se vratimo u kancelarije,
+pošto smo bili u San Franciscu mogli
+smo da se vratimo u VAove kancelarije
+da, da bismo videli sve u kancelariji za IPO.
+Kad smo se vratili, imali smo uh,
+svi su bili veoma uzbuðeni.
+IPO je neverovatno dobro prošao.
+Napravili smo žurku.
+Interesantno, dok smo slavili
+bilo je dosta ljudi koji su još uvek
+pokušavali da rade.
+Seæam se upozorenja "Tiše malo!",
+"Telefoniramo!", "Mi radimo!",
+dok smo, dok smo išli u kancelarije.
+Napravio sam sajamsku prezentaciju
+za zaposlene u kancelariji,
+tako da dobiju ideju o tome
+šta smo govorili investitorima,
+i da razumiju toèno što smo napravili za njih.
+Ali opet je vest dana VA Linux, koji je
+porastao 766% od 235 dolara do 265.
+Sue, najbolja osoba za rad na IPOu ikad.
+Evo, Sycamore Networks je procenjen na
+38 dolara, i porastao je na 270 dolara.
+E to nije ništa. I usput...
+Šta misliš o potencijalnom bogatstvu
+od bilion dolara koje se stvara
+od tvoje ideje, a ne možeš
+da ga podigneš odmah?
+Pa, da nisam napravio Linux
+pristupaènim, mislim
+ne bih, ionako, dobio ništa
+novca ni na taj naèin.
+Mislim, to je situacija u
+kojoj ne možeš da izgubiš.
+Uh, sama èinjenica da postoji mnogo
+komercijalnih kompanija
+znaèi da ima mnogo Linux ljudi koji su
+navikli da rade na Linuxu, onako sa strane.
+A sada su i plaæeni jer rade to što vole da rade.
+A to mi pomaže u tom smislu da sam
+ionako i hteo da rade na Linuxu.
+Ceo GNU projekat je ustvari jedan veliki hak.
+To je jedan veliki èin subverzivne,
+razigrane osvešæenosti,
+da bi se društvo promenilo na bolje, jer sam
+zainteresovan jedino da ga promenim na bolje,
+ali na pametan naèin.
+Zdravo, mi smo GNU/Stallmans, a ovo je
+"Pesma o Slobodnom softveru"
+Pridružite nam se i delite softver;
+Biæete slobodni, hakeri, biæete slobodni.
+Biæete slobodni, hakeri, biæete slobodni.
+Mnogi možda imaju gomile novca,
+To je istina hakeri, to je istina.
+Ali ne mogu da pomognu svojim komšijama;
+To nije dobro, hakeri, to nije dobro.
+Kad budemo imali dosta slobodnog softvera
+Na raspolaganju, hakeri, na raspolaganju,
+Odbaciæemo te prljave licence
+Pridružite nam se i delite softver;
+Biæete slobodni, hakeri, biæete slobodni.
+Pridružite nam se i delite softver;
+Biæete slobodni, hakeri, biæete slobodni.
+O, biæete slobodni
+Ja æu vam pokazati.
+Da æete biti slobodni.
+Ja æu vam pokazati.
+Da æete biti slobodni.
+Da æete biti slobodni.
+Adaptacija srpskog prevoda
+(korišæeni hrvatski i engleski prevodi)
+Udruženje korisnika GNU/Linuxa Kragujevac
+http://uklk.urosevic.net
