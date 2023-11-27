@@ -6,6 +6,10 @@ import os
 import sys
 import numpy as np
 
+CLS = 101
+SEP = 102
+PAD = 0
+
 tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
 
 model = TFBertModel.from_pretrained("bert-base-multilingual-cased")
@@ -25,23 +29,21 @@ def separatorID(input_ids):
     for block in range(1, blocks + 1):
         tmpArr = []
 
-        if(block < blocks):
-            
-            
-            tmpArr = [101] + input_ids[slide:(slide+510)] + [102]
+        if block < blocks:
+
+            tmpArr = [CLS] + input_ids[slide:(slide+510)] + [SEP]
+            # print(tokenizer.decode(tmpArr))
+
             slide += 510
             returnArr.append(tmpArr)
 
-        
         else:
-            tmpArr = [101] + input_ids[slide:-1] + [input_ids[-1]] + ([0] * (510 - lastBlockLen)) + [102]
+            tmpArr = [CLS] + input_ids[slide:] + ([PAD] * (510 - lastBlockLen)) + [SEP]
+            # print(tokenizer.decode(tmpArr))
             returnArr.append(tmpArr)
-    
-    
+
     return returnArr
-           
-        
-        
+
         
 
 def separatorMask(attention_masks):
@@ -72,26 +74,21 @@ def separatorMask(attention_masks):
 
     return returnMasks
 
-    
-    
+
 def getCLS(idBlocks,attentionBlocks,movie):
     
     listOfTensors = []
     
     for block in range (0, len(idBlocks)):
         #print(block)
-        
-    
-
 
         dict1 = {
-            'input_ids' : tf.convert_to_tensor([idBlocks[block]]),
-            'attention_mask' :  tf.convert_to_tensor([attentionBlocks[block]]),
-            'output_hidden_states' : True
+            'input_ids': tf.convert_to_tensor([idBlocks[block]]),
+            'attention_mask':  tf.convert_to_tensor([attentionBlocks[block]]),
+            'output_hidden_states': True
         }
-  
-        
-        outputs = model(**dict1)
+        with tf.device('/gpu:0'):
+            outputs = model(**dict1)
 
         #print(len(outputs))
         #print(len(outputs[0]))
@@ -100,7 +97,7 @@ def getCLS(idBlocks,attentionBlocks,movie):
         
         last_hidden_states = outputs.hidden_states[-1]
 
-        listOfTensors.append(last_hidden_states[:,0,:])
+        listOfTensors.append(last_hidden_states[:, 0, :])
         
     #print(listOfTensors)
     
@@ -110,7 +107,7 @@ def getCLS(idBlocks,attentionBlocks,movie):
     #print(clsTensor)
     #print(type(clsTensor))
     
-    np.savetxt( "C:\\Users\\tmp\\Desktop\\CLSembeddings\\" + movie, clsTensor.numpy())
+    np.savetxt("..\\CLSembeddings\\" + movie, clsTensor.numpy())
 
 
 
@@ -124,7 +121,7 @@ def getCLS(idBlocks,attentionBlocks,movie):
 
 
 
-path = "C:\\Users\\tmp\\Desktop\\stemStr"
+path = "..\\stemStr"
 inFolder = os.listdir(path)
 
 
@@ -145,17 +142,16 @@ for movie in inFolder:
 
     text = tmpFile1.readline()
     tmpFile1.close()
-    
-    
+
     encoded_input = tokenizer(text, add_special_tokens=False)
-    
+    # print(encoded_input)
     idBlocks = separatorID(encoded_input['input_ids'])
     attentionBlocks = separatorMask(encoded_input['attention_mask'])
 
     
     
     cutLastTXT = movie[0:-4]
-    getCLS(idBlocks,attentionBlocks, cutLastTXT)
+    getCLS(idBlocks, attentionBlocks, cutLastTXT)
 
 
 
