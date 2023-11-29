@@ -1,6 +1,6 @@
-from transformers import BertTokenizer, TFBertModel
 import tensorflow as tf
-import torch
+from transformers import BertTokenizer, TFBertModel
+# import torch
 import math
 import os
 import sys
@@ -9,6 +9,11 @@ import numpy as np
 CLS = 101
 SEP = 102
 PAD = 0
+
+print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
+
+
+input()
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-multilingual-cased')
 
@@ -67,8 +72,7 @@ def separatorMask(attention_masks):
     
     slide = 0
     
-    for i in range(1,blocks + buffer):
-
+    for i in range(1, blocks + buffer):
         returnMasks.append(arr[slide:(slide+512)])
         slide += 512
 
@@ -107,7 +111,7 @@ def getCLS(idBlocks,attentionBlocks,movie):
     #print(clsTensor)
     #print(type(clsTensor))
     
-    np.savetxt("..\\CLSembeddings\\" + movie, clsTensor.numpy())
+    np.savetxt(os.path.join("..", "CLSembeddings", movie), clsTensor.numpy())
 
 
 
@@ -121,7 +125,7 @@ def getCLS(idBlocks,attentionBlocks,movie):
 
 
 
-path = "..\\stemStr"
+path = os.path.join("..", "stemStr")
 inFolder = os.listdir(path)
 
 
@@ -138,7 +142,7 @@ for movie in inFolder:
     count+=1
     print(count)
     
-    tmpFile1 = open(path + "\\" + movie, encoding='latin')
+    tmpFile1 = open(os.path.join(path, movie), encoding='latin')
 
     text = tmpFile1.readline()
     tmpFile1.close()
