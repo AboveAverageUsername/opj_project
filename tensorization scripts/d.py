@@ -23,12 +23,7 @@ inFolder = os.listdir(path)
 
 
 
-#tmpFile1 = open(path)
-#line = tmpFile1.readline()
-#tmpFile1.close()
-
-#arr = list(line)
-#=======================================================================================================================
+#==============================================================================
 checkpoint = 0
 current_max = 0
 
@@ -41,12 +36,10 @@ for index, movie in tqdm(enumerate(inFolder), total = number_of_subs, desc = 'Lo
         continue
     
     json_input = open(os.path.join(path, movie), encoding='latin')
-    # L = eval(json_input[1:-2])
     L = json.load(json_input)
     array = np.array(L)
 
     cls_counts[index] = array.shape[0];
-    # print(f"{index} CLS count = {array.shape[0]}\t\t{movie}")
 
     json_input.close()
 
