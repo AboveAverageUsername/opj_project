@@ -14,6 +14,7 @@ def debug_wait_key():
     print("Press ANY key to continue...\n")
     input()
 
+# Parameters
 number_of_chars_in_raiting = 3
 size_of_tensor = 768
 number_of_cls = 40
@@ -24,17 +25,25 @@ epoch = 10
 
 dataset_size = 1000
 
+# Some initial setup
+print(f"Is cuda available {torch.cuda.is_available()}")
+
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+print(f"Device is : {device}")
+
 print("Generating the model")
 
 model = torch.nn.Sequential(
-    torch.nn.Linear(input_size,
-        input_size),
+    #torch.nn.Linear(input_size,
+    #    input_size),
 
     torch.nn.Linear(input_size, 1)
 )
 # Print the model
 print("The model is")
 print(model)
+
+model.to(device)
 
 #debug_wait_key()
 
@@ -43,6 +52,7 @@ loss_fn = torch.nn.MSELoss(reduction='sum')
 learning_rate = 1e-6
 
 criterion = torch.nn.CrossEntropyLoss()
+criterion.to(device)
 optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
 
 # Load the dataset
@@ -80,37 +90,41 @@ for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
     array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
     
     # Ucitaj x
-    dataset_x.append(torch.from_numpy(array))
+    tensor = torch.from_numpy(array)
+    dataset_x.append(tensor)
 
 
     # Ucitaj y
     tmp = float(movie[0:number_of_chars_in_raiting])
+    tensor = torch.tensor([tmp], dtype = torch.float32)
 
-    dataset_y.append(torch.tensor([tmp],
-        dtype = torch.float32))
+    dataset_y.append(tensor)
 
 
 print('Done loading')
 
-debug_wait_key()
+# debug_wait_key()
 
 print('Commencing training montage')
 
 for epoch in tqdm(range(epoch), desc = 'Epochs'):
     for index in range(dataset_size): 
-        y_pred = model(dataset_x[index])
+        x = dataset_x[index]
+        x.to(device)
+        y_pred = model(x)
 
-        print(f"y_pred type {type(y_pred)}")
-        print(f"y_pred shape {y_pred.shape}")
-        print(f"y shape {dataset_y[index].shape}")
+        y = dataset_y[index]
+        y.to(device)
 
-        loss = criterion(y_pred, dataset_y[index])
+        loss = criterion(y_pred, y)
 
         optimizer.zero_grad()
 
         loss.backward()
 
         optimizer.step()
+
+        print(f"Loss{loss.item()}")
 
 print('Done!')
 
