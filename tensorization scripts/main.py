@@ -17,14 +17,16 @@ def debug_wait_key():
 # Parameters
 number_of_chars_in_raiting = 3
 size_of_tensor = 768
-number_of_cls = 40
+number_of_cls = 10
 
 input_size = number_of_cls * size_of_tensor
 
 epoch = 10000
 
-dataset_size = 10000
-testset_size = 1000
+dataset_size = 100
+testset_size = 10
+
+learning_rate = 1e-4
 
 # Some initial setup
 print(f"Is cuda available {torch.cuda.is_available()}")
@@ -35,10 +37,12 @@ print(f"Is cuda available {torch.cuda.is_available()}")
 print("Generating the model")
 
 model = torch.nn.Sequential(
-    #torch.nn.Linear(input_size,
-    #    input_size),
-
-    torch.nn.Linear(input_size, 1).cuda()
+    torch.nn.Linear(input_size, 32),
+    torch.nn.ReLU(),
+    torch.nn.Linear(32, 16),
+    torch.nn.ReLU(),
+    torch.nn.Linear(16, 1),
+    torch.nn.Sigmoid()
 )
 # Print the model
 print("The model is")
@@ -50,10 +54,10 @@ model = model.cuda()
 
 loss_fn = torch.nn.MSELoss(reduction='sum').cuda()
 
-learning_rate = 1e-6
 
 criterion = torch.nn.CrossEntropyLoss().cuda()
-optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
+#optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
+optimizer = torch.optim.Adam(model.parameters(), lr = 0.01)
 
 # Load the dataset
 # Pogledati torch.utils.data.DataLoader
@@ -95,34 +99,15 @@ for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
 
 
     # Ucitaj y
-    tmp = float(movie[0:number_of_chars_in_raiting])
+    tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
     tensor = torch.tensor([tmp], dtype = torch.float32)
 
     dataset_y.append(tensor)
 
+dataset_x = np.array(dataset_x)
+dataset_y = np.array(dataset_y)
 
 print('Done loading')
-
-# debug_wait_key()
-
-print('Commencing training montage')
-
-for epoch in tqdm(range(epoch), desc = 'Epochs'):
-    for index in range(dataset_size): 
-        x = dataset_x[index].cuda()
-        y_pred = model(x)
-
-        y = dataset_y[index].cuda()
-
-        loss = criterion(y_pred, y)
-
-        optimizer.zero_grad()
-
-        loss.backward()
-
-        optimizer.step()
-
-print('Done training!')
 
 testset_x = []  # ulazni tenzori i att mask
 testset_y = []  # rejting od 0.0 do 1.0
@@ -136,7 +121,7 @@ for index in tqdm(range(testset_size), desc = 'Loading testset'):
 
     array = np.zeros((input_size), dtype = np.float32)
 
-    cls_count = L.shape[0];
+    cls_count = L.shape[0]
     # print(f"cls_count {cls_count}")
 
     # trim the end
@@ -157,17 +142,40 @@ for index in tqdm(range(testset_size), desc = 'Loading testset'):
 
 
     # Ucitaj y
-    tmp = float(movie[0:number_of_chars_in_raiting])
+    tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
     tensor = torch.tensor([tmp], dtype = torch.float32)
     
     testset_y.append(tensor)
 
-print("Testing!")
 
-for index in range(testset_size): 
-        x = testset_x[index].cuda()
-        y_pred = model(x)
 
-        y = testset_y[index].cuda()
-        print(f"{y.item()}\t\t{y_pred.item()}")
+
+print('Commencing training montage')
+
+for epoch in tqdm(range(epoch), desc = 'Epochs'):
+    #for index in range(dataset_size): 
+    #x = dataset_x[index].cuda()
+    y_pred = model(dataset_x)
+
+    # y = dataset_y[index].cuda()
+
+    loss = criterion(y_pred, dataset_y)
+
+    optimizer.zero_grad()
+
+    loss.backward()
+
+    optimizer.step()
+
+    if epoch % 1 == 0:
+        print(f"Epoch {epoch}")
+        for index in range(testset_size): 
+            x = testset_x[index].cuda()
+            y_pred = model(x)
+
+            y = testset_y[index].cuda()
+            print(f"{y.item()}\t\t{y_pred.item()}")
+
+print('Done training!')
+
 
