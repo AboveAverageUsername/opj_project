@@ -28,8 +28,8 @@ dataset_size = 1000
 # Some initial setup
 print(f"Is cuda available {torch.cuda.is_available()}")
 
-device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-print(f"Device is : {device}")
+#device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+#print(f"Device is : {device}")
 
 print("Generating the model")
 
@@ -37,22 +37,21 @@ model = torch.nn.Sequential(
     #torch.nn.Linear(input_size,
     #    input_size),
 
-    torch.nn.Linear(input_size, 1)
+    torch.nn.Linear(input_size, 1).cuda()
 )
 # Print the model
 print("The model is")
 print(model)
 
-model.to(device)
+model = model.cuda()
 
 #debug_wait_key()
 
-loss_fn = torch.nn.MSELoss(reduction='sum')
+loss_fn = torch.nn.MSELoss(reduction='sum').cuda()
 
 learning_rate = 1e-6
 
-criterion = torch.nn.CrossEntropyLoss()
-criterion.to(device)
+criterion = torch.nn.CrossEntropyLoss().cuda()
 optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
 
 # Load the dataset
@@ -109,12 +108,10 @@ print('Commencing training montage')
 
 for epoch in tqdm(range(epoch), desc = 'Epochs'):
     for index in range(dataset_size): 
-        x = dataset_x[index]
-        x.to(device)
+        x = dataset_x[index].cuda()
         y_pred = model(x)
 
-        y = dataset_y[index]
-        y.to(device)
+        y = dataset_y[index].cuda()
 
         loss = criterion(y_pred, y)
 
@@ -123,8 +120,6 @@ for epoch in tqdm(range(epoch), desc = 'Epochs'):
         loss.backward()
 
         optimizer.step()
-
-        print(f"Loss{loss.item()}")
 
 print('Done!')
 
