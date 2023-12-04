@@ -108,7 +108,7 @@ for epoch in tqdm(range(epoch), desc = 'Epochs'):
 
         optimizer.zero_grad()
 
-        loss.backwards()
+        loss.backward()
 
         optimizer.step()
 
