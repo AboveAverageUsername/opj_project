@@ -86,8 +86,8 @@ for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
     # Ucitaj y
     tmp = float(movie[0:number_of_chars_in_raiting])
 
-    dataset_y.append(torch.tensor(tmp,
-        dtype = torch.long))
+    dataset_y.append(torch.tensor([tmp],
+        dtype = torch.float32))
 
 
 print('Done loading')
