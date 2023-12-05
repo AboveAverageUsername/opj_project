@@ -67,9 +67,10 @@ model = model.cuda()
 loss_fn = torch.nn.MSELoss(reduction='sum').cuda()
 
 
-criterion = torch.nn.CrossEntropyLoss().cuda()
-#optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
-optimizer = torch.optim.Adam(model.parameters(), lr = 0.01)
+criterion = torch.nn.BCELoss().cuda()
+#criterion = torch.nn.CrossEntropyLoss().cuda()
+optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
+#optimizer = torch.optim.Adam(model.parameters(), lr = 0.01)
 
 # Load the dataset
 # Pogledati torch.utils.data.DataLoader
@@ -153,7 +154,7 @@ for index in tqdm(range(testset_size), desc = 'Loading testset'):
 
     # Ucitaj y
     tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
-    dataset_y[index, 0] = tmp
+    testset_y[index, 0] = tmp
 
 testset_x = torch.tensor(testset_x).cuda()
 testset_y = torch.tensor(testset_y).cuda()
@@ -164,7 +165,7 @@ print('Commencing training montage')
 for epoch in tqdm(range(epoch), desc = 'Epochs'):
     #for index in range(dataset_size): 
     #x = dataset_x[index].cuda()
-    y_pred = model(dataset_x)
+    y_pred = model.forward(dataset_x)
 
     # y = dataset_y[index].cuda()
 
@@ -172,18 +173,17 @@ for epoch in tqdm(range(epoch), desc = 'Epochs'):
 
     optimizer.zero_grad()
 
-    loss.backward()
-
-    optimizer.step()
+    
 
     if epoch % 1 == 0:
         print(f"Epoch {epoch}")
-        for index in range(testset_size): 
-            x = testset_x[index].cuda()
-            y_pred = model(x)
+        y_pred = model.forward(testset_x)
 
-            y = testset_y[index].cuda()
-            print(f"{y.item()}\t\t{y_pred.item()}")
+        print(f"{testset_y}\n{y_pred}")
+
+    loss.backward()
+
+    optimizer.step()
 
 print('Done training!')
 
