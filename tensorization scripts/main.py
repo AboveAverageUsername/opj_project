@@ -36,14 +36,26 @@ print(f"Is cuda available {torch.cuda.is_available()}")
 
 print("Generating the model")
 
-model = torch.nn.Sequential(
-    torch.nn.Linear(input_size, 32),
-    torch.nn.ReLU(),
-    torch.nn.Linear(32, 16),
-    torch.nn.ReLU(),
-    torch.nn.Linear(16, 1),
-    torch.nn.Sigmoid()
-)
+class SubModel(torch.nn.Module):
+
+    def __init__(self):
+        super(SubModel, self).__init__()
+
+        self.linear1 = torch.nn.Linear(input_size, 32)
+        self.activation = torch.nn.ReLU()
+        self.linear2 = torch.nn.Linear(32, 1)
+        self.sigmoid = torch.nn.Sigmoid()
+
+    def forward(self, x):
+        x = self.linear1(x)
+        x = self.activation(x)
+        x = self.linear2(x)
+        x = self.sigmoid(x)
+        return x
+
+
+model = SubModel()
+
 # Print the model
 print("The model is")
 print(model)
@@ -66,8 +78,8 @@ path = os.path.join("..", "CLSembeddingsAll")
 inFolder = os.listdir(path)
 number_of_subs = len(inFolder)
 
-dataset_x = []  # ulazni tenzori i att mask
-dataset_y = []  # rejting od 0.0 do 1.0
+dataset_x = np.zeros((dataset_size, input_size), dtype = np.float32)  # ulazni tenzori i att mask
+dataset_y = np.zeros((dataset_size, 1), dtype = np.float32)  # rejting od 0.0 do 1.0
 
 for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
     movie = inFolder[index]
@@ -94,23 +106,22 @@ for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
     array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
     
     # Ucitaj x
-    tensor = torch.from_numpy(array)
-    dataset_x.append(tensor)
+    dataset_x[index] = array
 
 
     # Ucitaj y
     tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
-    tensor = torch.tensor([tmp], dtype = torch.float32)
+    # tensor = torch.tensor([tmp], dtype = torch.float32)
 
-    dataset_y.append(tensor)
+    dataset_y[index, 0] = tmp
 
-dataset_x = np.array(dataset_x)
-dataset_y = np.array(dataset_y)
+dataset_x = torch.tensor(dataset_x).cuda()
+dataset_y = torch.tensor(dataset_y).cuda()
 
 print('Done loading')
 
-testset_x = []  # ulazni tenzori i att mask
-testset_y = []  # rejting od 0.0 do 1.0
+testset_x = np.zeros((testset_size, input_size), dtype = np.float32)  # ulazni tenzori i att mask
+testset_y = np.zeros((testset_size, 1), dtype = np.float32)  # rejting od 0.0 do 1.0
 
 for index in tqdm(range(testset_size), desc = 'Loading testset'):
     movie = inFolder[dataset_size + index]
@@ -137,17 +148,15 @@ for index in tqdm(range(testset_size), desc = 'Loading testset'):
     array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
     
     # Ucitaj x
-    tensor = torch.from_numpy(array)
-    testset_x.append(tensor)
+    testset_x[index] = array
 
 
     # Ucitaj y
     tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
-    tensor = torch.tensor([tmp], dtype = torch.float32)
-    
-    testset_y.append(tensor)
+    dataset_y[index, 0] = tmp
 
-
+testset_x = torch.tensor(testset_x).cuda()
+testset_y = torch.tensor(testset_y).cuda()
 
 
 print('Commencing training montage')
