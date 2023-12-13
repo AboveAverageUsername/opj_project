@@ -7,6 +7,7 @@ import numpy as np
 import codecs, json
 import matplotlib.pyplot as plt
 from tqdm import tqdm
+from sklearn import metrics
 
 
 def debug_wait_key():
@@ -14,19 +15,67 @@ def debug_wait_key():
     print("Press ANY key to continue...\n")
     input()
 
+def load(batch_size, number_of_batches, offset, path, inFolder):
+
+    dataset_x = []
+    dataset_y = []
+    
+    for batch in tqdm(range(number_of_batches), desc = 'Loading batches'):
+
+        batch_x = np.zeros((batch_size, input_size), dtype = np.float32)  # ulazni tenzori i att mask
+        batch_y = np.zeros((batch_size, 1), dtype = np.float32)  # rejting od 0.0 do 1.0
+
+        for index in range(batch_size):
+
+            movie = inFolder[offset + batch * batch_size + index]
+            json_input = open(os.path.join(path, movie), encoding='latin')
+
+            json_load = json.load(json_input)
+            L = np.array(json_load, dtype = np.float32)
+
+            array = np.zeros((input_size), dtype = np.float32)
+
+            cls_count = L.shape[0]
+
+            # trim the end
+            if cls_count > number_of_cls:
+                cls_count = number_of_cls
+
+            array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
+            
+            # Ucitaj x
+            batch_x[index] = array
+
+            # Ucitaj y
+            tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
+            batch_y[index, 0] = tmp
+
+        batch_x = torch.tensor(batch_x)
+        batch_y = torch.tensor(batch_y)
+
+        dataset_x.append(batch_x)
+        dataset_y.append(batch_y)
+
+    return (dataset_x, dataset_y)
+
 # Parameters
 number_of_chars_in_raiting = 3
 size_of_tensor = 768
-number_of_cls = 10
+number_of_cls = 30
 
 input_size = number_of_cls * size_of_tensor
 
-epoch = 10000
+epoch = 1000
 
-dataset_size = 100
-testset_size = 10
+dataset_batch_size = 240
+dataset_number_of_batches = 100
+dataset_size = dataset_number_of_batches * dataset_batch_size
 
-learning_rate = 1e-4
+testset_batch_size = 100
+testset_number_of_batches = 10
+testset_size = testset_number_of_batches * testset_batch_size
+
+learning_rate = 1e-6
 
 # Some initial setup
 print(f"Is cuda available {torch.cuda.is_available()}")
@@ -41,15 +90,23 @@ class SubModel(torch.nn.Module):
     def __init__(self):
         super(SubModel, self).__init__()
 
-        self.linear1 = torch.nn.Linear(input_size, 32)
-        self.activation = torch.nn.ReLU()
-        self.linear2 = torch.nn.Linear(32, 1)
+        self.linear1 = torch.nn.Linear(input_size, 64)
+        self.activation1 = torch.nn.ReLU()
+        self.linear2 = torch.nn.Linear(64, 32)
+        self.activation2 = torch.nn.ReLU()
+        self.linear3 = torch.nn.Linear(32, 16)
+        self.activation3 = torch.nn.ReLU()
+        self.linear4 = torch.nn.Linear(16, 1)
         self.sigmoid = torch.nn.Sigmoid()
 
     def forward(self, x):
         x = self.linear1(x)
-        x = self.activation(x)
+        x = self.activation1(x)
         x = self.linear2(x)
+        x = self.activation2(x)
+        x = self.linear3(x)
+        x = self.activation3(x)
+        x = self.linear4(x)
         x = self.sigmoid(x)
         return x
 
@@ -75,116 +132,78 @@ optimizer = torch.optim.SGD(model.parameters(), lr = 0.01)
 # Load the dataset
 # Pogledati torch.utils.data.DataLoader
 
+print('Loading dataset!')
 path = os.path.join("..", "CLSembeddingsAll")
 inFolder = os.listdir(path)
 number_of_subs = len(inFolder)
 
-dataset_x = np.zeros((dataset_size, input_size), dtype = np.float32)  # ulazni tenzori i att mask
-dataset_y = np.zeros((dataset_size, 1), dtype = np.float32)  # rejting od 0.0 do 1.0
+(dataset_x, dataset_y) = load(dataset_batch_size, dataset_number_of_batches,
+        0,
+        path,
+        inFolder)
 
-for index in tqdm(range(dataset_size), desc = 'Loading dataset'):
-    movie = inFolder[index]
-    json_input = open(os.path.join(path, movie), encoding='latin')
-
-    json_load = json.load(json_input)
-    L = np.array(json_load, dtype = np.float32)
-
-    array = np.zeros((input_size), dtype = np.float32)
-
-    cls_count = L.shape[0];
-    # print(f"cls_count {cls_count}")
-
-    # trim the end
-    if cls_count > number_of_cls:
-        cls_count = number_of_cls
-
-    # print(f"cls_count {cls_count}")
-
-    # print(f"type of array {array.shape}")
-    # print(f"type of L {L.shape}")
-    # print(f"cls * sot {cls_count * size_of_tensor}")
-
-    array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
-    
-    # Ucitaj x
-    dataset_x[index] = array
-
-
-    # Ucitaj y
-    tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
-    # tensor = torch.tensor([tmp], dtype = torch.float32)
-
-    dataset_y[index, 0] = tmp
-
-dataset_x = torch.tensor(dataset_x).cuda()
-dataset_y = torch.tensor(dataset_y).cuda()
+print('Loading testset!')
+(testset_x, testset_y) = load(testset_batch_size, testset_number_of_batches,
+        dataset_size,
+        path,
+        inFolder)
 
 print('Done loading')
-
-testset_x = np.zeros((testset_size, input_size), dtype = np.float32)  # ulazni tenzori i att mask
-testset_y = np.zeros((testset_size, 1), dtype = np.float32)  # rejting od 0.0 do 1.0
-
-for index in tqdm(range(testset_size), desc = 'Loading testset'):
-    movie = inFolder[dataset_size + index]
-    json_input = open(os.path.join(path, movie), encoding='latin')
-
-    json_load = json.load(json_input)
-    L = np.array(json_load, dtype = np.float32)
-
-    array = np.zeros((input_size), dtype = np.float32)
-
-    cls_count = L.shape[0]
-    # print(f"cls_count {cls_count}")
-
-    # trim the end
-    if cls_count > number_of_cls:
-        cls_count = number_of_cls
-
-    # print(f"cls_count {cls_count}")
-
-    # print(f"type of array {array.shape}")
-    # print(f"type of L {L.shape}")
-    # print(f"cls * sot {cls_count * size_of_tensor}")
-
-    array[0:(cls_count * size_of_tensor)] = L.flatten()[0:(cls_count * size_of_tensor)]
-    
-    # Ucitaj x
-    testset_x[index] = array
-
-
-    # Ucitaj y
-    tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
-    testset_y[index, 0] = tmp
-
-testset_x = torch.tensor(testset_x).cuda()
-testset_y = torch.tensor(testset_y).cuda()
-
 
 print('Commencing training montage')
 
 for epoch in tqdm(range(epoch), desc = 'Epochs'):
-    #for index in range(dataset_size): 
-    #x = dataset_x[index].cuda()
-    y_pred = model.forward(dataset_x)
+    for batch in range(dataset_number_of_batches):
 
-    # y = dataset_y[index].cuda()
+        y_pred = model(dataset_x[batch].cuda())
 
-    loss = criterion(y_pred, dataset_y)
+        loss = criterion(y_pred, dataset_y[batch].cuda())
 
-    optimizer.zero_grad()
+        optimizer.zero_grad()
 
-    
+        loss.backward()
 
-    if epoch % 1 == 0:
-        print(f"Epoch {epoch}")
-        y_pred = model.forward(testset_x)
+        optimizer.step()
 
-        print(f"{testset_y}\n{y_pred}")
+    if epoch % 10 == 0:
+        model.eval()
+        outputs = []
 
-    loss.backward()
+        for batch in range(testset_number_of_batches):
+            y_pred = model(testset_x[batch].cuda())
+            mean = metrics.mean_absolute_error(
+                    testset_y[batch].cpu().numpy(), 
+                    y_pred.detach().cpu().numpy()
+                    )
+            outputs.append(mean)
 
-    optimizer.step()
+        loss = sum(outputs) / len(outputs)
+        tqdm.write(f"Epoch {epoch} loss = {loss}")
+        model.train()
 
 print('Done training!')
 
+torch.save(model.state_dict(), os.path.join(".", "model"))
 
+# Loading is done like so
+# model = SubModel()
+# model.load_state_dict(torch.load(os.path.join(".", "model"))
+# model.eval()
+
+print('Model saved!')
+print('Printing evaluation!')
+model.eval()
+
+outputs = []
+for batch in range(testset_number_of_batches):
+    y_pred = model(testset_x[batch].cuda())
+    mean = metrics.mean_absolute_error(
+            testset_y[batch].cpu().numpy(), 
+            y_pred.detach().cpu().numpy()
+            )
+
+    outputs.append(mean)
+
+final = sum(outputs) / len(outputs)
+
+print(f"Final accuracy = {final * 10.0}")
