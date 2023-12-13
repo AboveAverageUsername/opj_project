@@ -48,7 +48,10 @@ def load(batch_size, number_of_batches, offset, path, inFolder):
 
             # Ucitaj y
             tmp = float(movie[0:number_of_chars_in_raiting]) / 10.0
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7cca136623 (cv)
             batch_y[index, 0] = tmp
 
         batch_x = torch.tensor(batch_x)
@@ -66,9 +69,13 @@ number_of_cls = 30
 
 input_size = number_of_cls * size_of_tensor
 
-epoch = 10000
+epoch = 1000
 
+<<<<<<< HEAD
 dataset_batch_size = 200
+=======
+dataset_batch_size = 240
+>>>>>>> 7cca136623 (cv)
 dataset_number_of_batches = 100
 dataset_size = dataset_number_of_batches * dataset_batch_size
 
@@ -145,7 +152,11 @@ number_of_subs = len(inFolder)
 
 print('Loading testset!')
 (testset_x, testset_y) = load(testset_batch_size, testset_number_of_batches,
+<<<<<<< HEAD
         testset_size,
+=======
+        dataset_size,
+>>>>>>> 7cca136623 (cv)
         path,
         inFolder)
 
@@ -166,12 +177,30 @@ for epoch in tqdm(range(epoch), desc = 'Epochs'):
 
         optimizer.step()
 
+<<<<<<< HEAD
     #if epoch % 10 == 0:
     #    model.eval()
     #    for batch in range(testset_number_of_batches):
     #        y_pred = model.forward(testset_x[batch].cuda())
     #        loss = criterion(y_pred, testset_y[batch].cuda())
     #    tqdm.write(f"Epoch {epoch} loss = {loss}")
+=======
+    if epoch % 10 == 0:
+        model.eval()
+        outputs = []
+
+        for batch in range(testset_number_of_batches):
+            y_pred = model(testset_x[batch].cuda())
+            mean = metrics.mean_absolute_error(
+                    testset_y[batch].cpu().numpy(), 
+                    y_pred.detach().cpu().numpy()
+                    )
+            outputs.append(mean)
+
+        loss = sum(outputs) / len(outputs)
+        tqdm.write(f"Epoch {epoch} loss = {loss}")
+        model.train()
+>>>>>>> 7cca136623 (cv)
 
 print('Done training!')
 
@@ -189,16 +218,22 @@ model.eval()
 outputs = []
 for batch in range(testset_number_of_batches):
     y_pred = model(testset_x[batch].cuda())
+<<<<<<< HEAD
     # loss = criterion(y_pred, testset_y[batch].cuda())
     # diff = abs( - y_pred)
     # outputs.append(sum(diff) / len(diff))
+=======
+>>>>>>> 7cca136623 (cv)
     mean = metrics.mean_absolute_error(
             testset_y[batch].cpu().numpy(), 
             y_pred.detach().cpu().numpy()
             )
 
     outputs.append(mean)
+<<<<<<< HEAD
     # tqdm.write(f"{epoch} loss = {loss}")
+=======
+>>>>>>> 7cca136623 (cv)
 
 final = sum(outputs) / len(outputs)
 
