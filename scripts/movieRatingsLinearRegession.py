@@ -8,6 +8,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 import statistics
+import random
 
 
 
@@ -34,6 +35,23 @@ rawImdbVotes = data['imdbVotes']
 imdbVotes = []
 rawBoxOffice = data['BoxOffice']
 boxOffice = []
+ratings = data['Ratings']
+rawRotten = []
+for entry in ratings:
+    #ratingSize = len(entry)
+    appendVal = 0.0
+    for source in entry:
+        if(source['Source'] == 'Rotten Tomatoes'):
+            appendVal = (float(source['Value'][0:-1]))/10
+        else:
+            appendVal = 5.0
+    rawRotten.append(appendVal)
+print(rawRotten[0])
+#print(type(rawRotten[0][0]))
+
+
+rotten = []
+
 
 rawDependent = data['imdbRating']
 dependent = []
@@ -89,6 +107,8 @@ def getAllNonStandard():
             dependent.append(-1.0)
         else:
             dependent.append(float(rawDependent[i]))
+        
+        #rotten.append(rawRotten[i])
             
             
 def valuefyData():
@@ -741,7 +761,7 @@ print("avg imdb rating: ", avg)
 med = statistics.median(dependent)
 print("med imdb rating: ", med)
 
-Xtrain,Xtest,ytrain,ytest = train_test_split(independent, dependent, test_size=0.3, shuffle=True)
+Xtrain,Xtest,ytrain,ytest,rawRot,yRot = train_test_split(independent, dependent, rawRotten, test_size=0.3, shuffle=True)
 
 
 
@@ -760,6 +780,31 @@ print(coefs)
 
 
 predictY = lr.predict(Xtest)
+print("ytest")
+print(ytest)
+print("predictY")
+print(predictY)
+
+total = 0
+mseTotal = 0
+count = 0
+randTotal = 0
+rotTotal = 0
+for i in range(0,len(ytest)):
+    die = random.uniform(0.0,10.0)
+    count += 1
+    total += abs(ytest[i] - predictY[i]) 
+    mseTotal += (ytest[i] - predictY[i])**2
+    randTotal += abs(die - ytest[i])
+    rotTotal += abs(yRot[i] - ytest[i])
+    
+
+print("total ", total)
+print("count ", count)
+print("linear regression mean absolute error: ",  total/count)
+print("mean squared error: ",  mseTotal/count)
+print("dice roller mean absolute error: ", randTotal/count)
+print("rotten mean absolute error: ", rotTotal/count)
 
 print("model: ", r2_score(ytest,predictY))
 print("avg: ", r2_score(ytest,[avg]*len(ytest)))
