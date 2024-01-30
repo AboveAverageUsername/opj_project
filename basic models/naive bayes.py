@@ -11,6 +11,7 @@ from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import f1_score
+from sklearn.preprocessing import Normalizer
 
 path = "C:/Users/tmp/Desktop/normalCLS"
 inFolder = os.listdir(path)
@@ -31,13 +32,17 @@ for movie in inFolder:
     for num in arr:
         floatArr.append(float(num))
     avg = sum(floatArr)/len(floatArr)
-    independent.append(floatArr)
+    independent.append([avg])
     rating = int(movie[0])
     dependent.append(rating)
     
 print("#")
 print(len(dependent)) 
 print(len(independent)) 
+
+
+transformer = Normalizer().fit(independent)
+transformer.transform(independent)
 Xtrain,Xtest,ytrain,ytest = train_test_split(independent, dependent, test_size=0.3, shuffle=True)
 
 

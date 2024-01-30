@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import f1_score
+from sklearn.preprocessing import Normalizer
 
 
 path = "C:/Users/tmp/Desktop/normalCLS"
@@ -36,6 +37,8 @@ for movie in inFolder:
 
 #frame = pd.DataFrame(cls)
 
+transformer = Normalizer().fit(independent)
+transformer.transform(independent)
 
 Xtrain,Xtest,ytrain,ytest = train_test_split(independent, dependent, test_size=0.3, shuffle=True)
 
